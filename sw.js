@@ -1,10 +1,11 @@
 const CACHE_NAME = 'frontion-v1';
+const BASE = '/frontion-news/';
 const ASSETS = [
-  '/',
-  '/index.html',
-  '/manifest.json',
-  '/icon-192.png',
-  '/icon-512.png'
+  BASE,
+  BASE + 'index.html',
+  BASE + 'manifest.json',
+  BASE + 'icon-192.png',
+  BASE + 'icon-512.png'
 ];
 
 self.addEventListener('install', e => {
@@ -16,7 +17,6 @@ self.addEventListener('activate', e => {
 });
 
 self.addEventListener('fetch', e => {
-  // Network-first for JSON data, cache-first for static assets
   if (e.request.url.endsWith('.json')) {
     e.respondWith(fetch(e.request).then(r => {
       const clone = r.clone();
