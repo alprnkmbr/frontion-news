@@ -8,7 +8,7 @@
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#ffffff">
     <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="apple-mobile-web-app-title" content="Frontion">
     <link rel="apple-touch-icon" href="icon-192.png">
     <link rel="alternate" type="application/rss+xml" title="Frontion News" href="feed.xml">
@@ -73,7 +73,7 @@ html.dark-mode {
 }
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
 html { font-size: 17px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; scroll-behavior: smooth; }
-body { font-family: var(--font-body); color: var(--color-text); background: var(--color-bg); line-height: 1.7; max-width: 100vw; overflow-x: hidden; }
+body { font-family: var(--font-body); color: var(--color-text); background: var(--color-bg); line-height: 1.7; max-width: 100vw; overflow-x: hidden; padding-top: env(safe-area-inset-top); }
 
 /* HEADER */
 .site-header { padding: 0; text-align: center; border-bottom: 3px solid var(--color-section-rule); }
