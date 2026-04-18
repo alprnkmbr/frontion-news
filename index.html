@@ -3,50 +3,438 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Geopol Brief</title>
-    <meta name="description" content="Morning and evening geopolitical analysis — concise, sourced, essential.">
-    <link rel="stylesheet" href="/style.css">
-    <link rel="alternate" type="application/rss+xml" title="The Geopol Brief" href="/feed.xml">
-    <!-- Fonts -->
+    <title>Frontion News</title>
+    <meta name="description" content="Latest headlines and strategic analysis of the events reshaping the world.">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600&family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <style>
+:root {
+    --color-bg: #ffffff;
+    --color-text: #1a1a1a;
+    --color-text-body: #333333;
+    --color-text-secondary: #666666;
+    --color-text-tertiary: #999999;
+    --color-accent: #c41e3a;
+    --color-border: #ddd;
+    --color-border-light: #eee;
+    --color-pullquote: #c41e3a;
+    --color-why-it-matters-bg: #faf8f5;
+    --color-section-rule: #1a1a1a;
+    --color-tab-active-bg: #1a1a1a;
+    --color-tab-active-text: #ffffff;
+    --color-tab-inactive-bg: #f5f5f5;
+    --color-tab-inactive-text: #666;
+    --color-search-bg: #f7f7f7;
+    --color-search-border: #ddd;
+    --color-search-focus: #1a1a1a;
+    --color-card-hover: #fafafa;
+    --font-display: 'Playfair Display', 'Noto Serif', Georgia, serif;
+    --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    --font-serif: 'Noto Serif', Georgia, serif;
+    --max-width: 680px;
+}
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+html { font-size: 17px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; scroll-behavior: smooth; }
+body { font-family: var(--font-body); color: var(--color-text); background: var(--color-bg); line-height: 1.7; }
+
+/* HEADER */
+.site-header { padding: 0; text-align: center; border-bottom: 3px solid var(--color-section-rule); }
+.header-inner { max-width: var(--max-width); margin: 0 auto; padding: 2rem 1.5rem 0.75rem; }
+.logo { font-family: var(--font-display); font-size: 2.6rem; font-weight: 700; color: var(--color-text); text-decoration: none; letter-spacing: -0.03em; line-height: 1.1; }
+.tagline { font-size: 0.78rem; color: var(--color-text-tertiary); letter-spacing: 0.18em; text-transform: uppercase; margin-top: 0.35rem; }
+
+/* TABS */
+.tab-bar { max-width: var(--max-width); margin: 0 auto; padding: 1.25rem 1.5rem 0; display: flex; gap: 0; }
+.tab-btn { flex: 1; text-align: center; font-family: var(--font-body); font-size: 0.78rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; padding: 0.65rem 1rem; border: 2px solid var(--color-section-rule); background: var(--color-tab-inactive-bg); color: var(--color-tab-inactive-text); cursor: pointer; transition: all 0.2s; }
+.tab-btn:first-child { border-radius: 3px 0 0 3px; }
+.tab-btn:last-child { border-radius: 0 3px 3px 0; border-left: none; }
+.tab-btn.active { background: var(--color-tab-active-bg); color: var(--color-tab-active-text); }
+.tab-btn:hover:not(.active) { background: var(--color-border-light); }
+.tab-divider { max-width: var(--max-width); margin: 0 auto; padding: 0 1.5rem; }
+.tab-divider hr { border: none; border-top: 1px solid var(--color-border-light); margin: 0; }
+
+/* MAIN */
+.site-main { max-width: var(--max-width); margin: 0 auto; padding: 2rem 1.5rem 4rem; }
+.tab-content { display: none; }
+.tab-content.active { display: block; }
+
+/* ============ HEADLINES TAB ============ */
+.search-bar { margin-bottom: 1.5rem; }
+.search-input { width: 100%; font-family: var(--font-body); font-size: 0.9rem; padding: 0.65rem 1rem; border: 1px solid var(--color-search-border); border-radius: 3px; background: var(--color-search-bg); color: var(--color-text); outline: none; transition: border-color 0.2s; }
+.search-input:focus { border-color: var(--color-search-focus); background: var(--color-bg); }
+.search-input::placeholder { color: var(--color-text-tertiary); }
+.headlines-meta { font-size: 0.75rem; color: var(--color-text-tertiary); margin-bottom: 1.25rem; letter-spacing: 0.03em; }
+.headlines-meta time { font-weight: 500; color: var(--color-text-secondary); }
+
+/* STORY CARD */
+.story-card { padding: 1rem 0; border-top: 1px solid var(--color-border-light); }
+.story-card:first-child { border-top: 1px solid var(--color-border); }
+.story-card:hover { background: var(--color-card-hover); margin: 0 -0.5rem; padding-left: 0.5rem; padding-right: 0.5rem; border-radius: 2px; }
+.story-time { font-size: 0.72rem; color: var(--color-text-tertiary); margin-bottom: 0.15rem; }
+.story-flag { display: flex; align-items: center; gap: 0.4rem; margin-bottom: 0.3rem; }
+.story-emoji { font-size: 1rem; }
+.story-category { font-size: 0.68rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-text-tertiary); }
+.story-headline { font-family: var(--font-display); font-size: 1.15rem; line-height: 1.3; font-weight: 700; margin-bottom: 0.3rem; }
+.story-summary { font-family: var(--font-serif); font-size: 0.88rem; color: var(--color-text-secondary); line-height: 1.6; margin-bottom: 0.2rem; }
+.story-source { font-size: 0.72rem; color: var(--color-text-tertiary); }
+.story-source a { color: var(--color-text-tertiary); text-decoration: none; border-bottom: 1px solid var(--color-border); }
+.story-source a:hover { color: var(--color-accent); border-bottom-color: var(--color-accent); }
+.no-results { font-family: var(--font-serif); font-size: 0.95rem; color: var(--color-text-tertiary); text-align: center; padding: 3rem 1rem; font-style: italic; }
+
+/* LOAD MORE */
+.load-more-wrap { text-align: center; padding: 1.5rem 0; border-top: 1px solid var(--color-border-light); margin-top: 0.5rem; }
+.load-more-btn { font-family: var(--font-body); font-size: 0.8rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; padding: 0.65rem 2rem; border: 2px solid var(--color-section-rule); background: transparent; color: var(--color-text); cursor: pointer; transition: all 0.2s; border-radius: 2px; }
+.load-more-btn:hover { background: var(--color-tab-active-bg); color: var(--color-tab-active-text); }
+.stories-count { font-size: 0.72rem; color: var(--color-text-tertiary); margin-top: 0.5rem; }
+
+/* ============ ANALYSIS TAB ============ */
+/* DATE TIMELINE */
+.date-timeline { display: flex; align-items: center; gap: 0.25rem; overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; margin-bottom: 0.5rem; }
+.date-timeline::-webkit-scrollbar { display: none; }
+.timeline-arrow { font-family: var(--font-body); font-size: 1rem; color: var(--color-text-tertiary); background: none; border: 1px solid var(--color-border); border-radius: 4px; padding: 0.25rem 0.5rem; cursor: pointer; flex-shrink: 0; transition: all 0.15s; line-height: 1; }
+.timeline-arrow:hover { border-color: var(--color-text); color: var(--color-text); }
+.timeline-arrow:disabled { opacity: 0.3; cursor: default; }
+.timeline-dates { display: flex; gap: 0.15rem; margin: 0 0.35rem; flex: 1; justify-content: center; }
+.timeline-date { font-family: var(--font-body); font-size: 0.7rem; font-weight: 500; letter-spacing: 0.04em; color: var(--color-text-tertiary); text-decoration: none; padding: 0.4rem 0.6rem; border-bottom: 2px solid transparent; transition: all 0.15s; white-space: nowrap; }
+.timeline-date:hover { color: var(--color-text-secondary); }
+.timeline-date.active { color: var(--color-text); border-bottom-color: var(--color-text); font-weight: 600; }
+.timeline-divider { width: 1px; height: 14px; background: var(--color-border); flex-shrink: 0; margin: 0 0.1rem; }
+
+/* BRIEF HEADER */
+.brief-headline { font-family: var(--font-display); font-size: 2.4rem; line-height: 1.15; font-weight: 700; margin-bottom: 0.75rem; letter-spacing: -0.02em; }
+.brief-subhead { font-family: var(--font-serif); font-size: 1.15rem; line-height: 1.55; color: var(--color-text-secondary); font-style: italic; margin-bottom: 1.5rem; }
+.brief-meta { font-size: 0.78rem; color: var(--color-text-tertiary); margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid var(--color-border-light); }
+.brief-meta time { font-weight: 500; color: var(--color-text-secondary); }
+
+/* ANALYSIS SECTION */
+.analysis-section { margin-bottom: 2.5rem; }
+.analysis-section + .analysis-section { padding-top: 2.5rem; border-top: 1px solid var(--color-border); }
+.section-heading { font-family: var(--font-display); font-size: 1.5rem; line-height: 1.25; font-weight: 700; margin-bottom: 1rem; letter-spacing: -0.01em; }
+.section-body { font-family: var(--font-serif); font-size: 1rem; line-height: 1.8; color: var(--color-text-body); margin-bottom: 1rem; }
+.section-body p { margin-bottom: 1rem; }
+.section-body p:last-child { margin-bottom: 0; }
+
+/* WHY IT MATTERS */
+.why-it-matters { background: var(--color-why-it-matters-bg); border-left: 3px solid var(--color-accent); padding: 1rem 1.25rem; margin: 1rem 0 0; font-family: var(--font-serif); font-size: 0.95rem; line-height: 1.7; color: var(--color-text-body); }
+.why-it-matters strong { font-family: var(--font-body); font-weight: 600; color: var(--color-accent); letter-spacing: 0.06em; text-transform: uppercase; font-size: 0.72rem; }
+
+/* BOTTOM LINE */
+.bottom-line { margin-top: 3rem; padding-top: 2rem; border-top: 3px solid var(--color-section-rule); }
+.bottom-line-kicker { font-family: var(--font-body); font-size: 0.72rem; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--color-accent); margin-bottom: 0.75rem; }
+.bottom-line-body { font-family: var(--font-serif); font-size: 1.05rem; line-height: 1.8; color: var(--color-text); }
+
+/* DIVIDER */
+.section-divider { border: none; border-top: 1px solid var(--color-border-light); margin: 0; }
+
+/* FOOTER */
+.site-footer { border-top: 3px solid var(--color-section-rule); padding: 2rem 1.5rem; text-align: center; }
+.footer-inner { max-width: var(--max-width); margin: 0 auto; }
+.site-footer p { font-size: 0.78rem; color: var(--color-text-tertiary); line-height: 1.6; }
+.site-footer a { color: var(--color-text-secondary); text-decoration: none; border-bottom: 1px solid var(--color-border); }
+.site-footer a:hover { color: var(--color-accent); border-bottom-color: var(--color-accent); }
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+    html { font-size: 15px; }
+    .brief-headline { font-size: 2rem; }
+    .section-heading { font-size: 1.3rem; }
+    .timeline-date { padding: 0.35rem 0.5rem; font-size: 0.65rem; }
+}
+@media (max-width: 480px) {
+    html { font-size: 14px; }
+    .site-main { padding: 1.5rem 1rem 3rem; }
+    .brief-headline { font-size: 1.7rem; }
+    .logo { font-size: 2rem; }
+    .date-timeline { margin-bottom: 0.25rem; }
+    .timeline-date { padding: 0.3rem 0.4rem; font-size: 0.62rem; }
+    .timeline-arrow { padding: 0.2rem 0.35rem; font-size: 0.9rem; }
+}
+    </style>
 </head>
 <body>
+
     <header class="site-header">
         <div class="header-inner">
-            <div class="masthead">
-                <a href="/" class="logo">The Geopol Brief</a>
-                <div class="tagline">Geopolitical analysis, twice daily</div>
-            </div>
-            <nav class="header-nav">
-                <a href="/archive.html">Archive</a>
-                <a href="/feed.xml">RSS</a>
-            </nav>
+            <a href="/" class="logo">Frontion News</a>
+            <div class="tagline">Latest Headlines and Strategic Analysis of the Events Reshaping the World</div>
         </div>
-        <div class="header-rule"></div>
     </header>
 
+    <!-- TAB BAR -->
+    <div class="tab-bar">
+        <button class="tab-btn active" onclick="switchTab('headlines')">Headlines</button>
+        <button class="tab-btn" onclick="switchTab('analysis')">Analysis</button>
+    </div>
+    <div class="tab-divider"><hr></div>
+
     <main class="site-main">
-        <div id="latest-brief" class="latest-brief">
-            <!-- Latest brief loaded here -->
+
+        <!-- ============ HEADLINES TAB ============ -->
+        <div id="tab-headlines" class="tab-content active">
+            <div class="search-bar">
+                <input type="text" class="search-input" id="searchInput" placeholder="Search headlines..." oninput="filterHeadlines()">
+            </div>
+            <div class="headlines-meta">
+                <time id="headlinesDate">April 18, 2026</time> · Frontion News
+            </div>
+            <div id="headlinesFeed"></div>
         </div>
 
-        <section class="recent-list">
-            <h2 class="section-title">Recent Briefs</h2>
-            <div id="recent-briefs" class="briefs-grid">
-                <!-- Recent briefs loaded here -->
+        <!-- ============ ANALYSIS TAB ============ -->
+        <div id="tab-analysis" class="tab-content">
+
+            <div class="date-timeline">
+                <button class="timeline-arrow" id="prevBtn" onclick="shiftTimeline(-1)">←</button>
+                <div class="timeline-dates" id="timelineDates"></div>
+                <button class="timeline-arrow" id="nextBtn" onclick="shiftTimeline(1)">→</button>
             </div>
-        </section>
+
+            <h1 class="brief-headline">The Multipolar World Isn't Coming — It's Here</h1>
+            <div class="brief-subhead">Iran reshapes American power, alliance reliability, and economic leverage. China studies the playbook for Taiwan. Europe prepares for defense without US guarantees. Russia exploits the distraction.</div>
+            <div class="brief-meta">
+                <time datetime="2026-04-16">April 16, 2026</time> · Frontion News Strategic Analysis
+            </div>
+
+            <div class="analysis-section">
+                <h2 class="section-heading">Israel-Hezbollah Ceasefire: A Tactical Pause, Not Resolution</h2>
+                <div class="section-body">
+                    <p>A 10-day truce between Israel and Hezbollah began, potentially clearing one obstacle to US-Iran negotiations. But this is a tactical pause, not resolution. Both sides exchanged fire until the last moment. Hezbollah hasn't disarmed; Israel hasn't withdrawn.</p>
+                    <p>The ceasefire exists because it serves multiple parties' interests simultaneously — Washington needs a de-escalation track to pursue Iran talks, Beirut needs respite from economic strangulation, and Israel needs to consolidate forces after months of two-front fighting. But the underlying structure of the conflict — Iran's proxy network, Israel's security doctrine, Lebanon's political paralysis — remains entirely intact.</p>
+                    <p>Hezbollah's willingness to pause suggests they've absorbed significant attrition but retain operational capacity. Israel's willingness to agree signals that the northern front is sustainable at current intensity but not escalatable without cost. Neither condition constitutes progress toward resolution.</p>
+                </div>
+                <div class="why-it-matters">
+                    <strong>Why it matters</strong> &mdash; The ceasefire is leverage for US diplomacy, not an end to the conflict. If Iran talks stall, this truce evaporates within days.
+                </div>
+            </div>
+
+            <hr class="section-divider">
+
+            <div class="analysis-section">
+                <h2 class="section-heading">Russia's Ukraine Blitz Exploits Western Distraction</h2>
+                <div class="section-body">
+                    <p>While the world watches Iran, Russia launched a 700-drone assault on Kyiv, killing 13 including a child. Putin is calculating that Western attention and ammunition are divided — and he's probably right.</p>
+                    <p>The timing is not coincidental. Russia has consistently escalated during periods when Western diplomatic bandwidth is consumed by other crises. The current Iran war has created a multi-front dilemma for the Pentagon: air defense interceptors, artillery shells, and intelligence assets are finite, and what flows to the Middle East does not flow to Ukraine.</p>
+                    <p>Ukraine's new drone assault units — combining aerial drones, ground drones, and infantry into integrated combat formations — represent a genuine tactical innovation. But innovation cannot compensate for ammunition shortfalls. Zelenskyy's pursuit of new arms deals with allies is a race against depletion, not a strategy for victory.</p>
+                </div>
+                <div class="why-it-matters">
+                    <strong>Why it matters</strong> &mdash; Ukraine is bearing the cost of American overextension. The "global peace push" is teetering — ceasefires wobble from Lebanon to Iran while Russia escalates.
+                </div>
+            </div>
+
+            <hr class="section-divider">
+
+            <div class="analysis-section">
+                <h2 class="section-heading">Trump-Xi Summit: Uncertainty, Not Strategy</h2>
+                <div class="section-body">
+                    <p>Beijing is working subtly to shape the regional environment ahead of the Trump-Xi summit — and take advantage of Washington's focus on the Iran war. The Straits Times reports that Trump risks a showdown with Xi over the Hormuz blockade before the meeting even begins.</p>
+                    <p>China has three interconnected objectives: secure energy supplies disrupted by the Hormuz crisis, study Iran's asymmetric warfare playbook for potential Taiwan scenarios, and extract concessions from a Washington desperate for Chinese cooperation on Iran. The summit is less a negotiation than a transaction — both sides know exactly what the other wants.</p>
+                    <p>Experts warn the meeting is shaped by uncertainty rather than strategy. Trump's delegation lacks a coherent interagency position on China, while Xi's team has been preparing for months. The imbalance in preparation is itself a signal.</p>
+                </div>
+                <div class="why-it-matters">
+                    <strong>Why it matters</strong> &mdash; China is studying Iran's playbook for Taiwan. Europe is preparing for defense without US guarantees. The multipolar world isn't arriving — it's operational.
+                </div>
+            </div>
+
+            <hr class="section-divider">
+
+            <div class="analysis-section">
+                <h2 class="section-heading">G7 Braces for Economic Fallout as Energy Markets Reshape</h2>
+                <div class="section-body">
+                    <p>Group of Seven finance ministers agreed to stay ready to act to mitigate economic and inflation risks caused by the Middle East war's energy price and supply shocks. French Finance Minister Lescure made the announcement on Thursday — diplomatic language for "we're worried and we're not sure what to do yet."</p>
+                    <p>The US is now close to becoming a net crude exporter for the first time since World War Two, as shipments surge to replace Middle East supplies. This isn't just a market adjustment — it's a structural shift. American energy independence, long a geopolitical aspiration, is being accelerated by a war that has disrupted the world's most critical shipping lane.</p>
+                    <p>Meanwhile, the economic ripples are global: India's growth forecast has been cut, South Korea is prioritizing energy security over alliance commitments, and oil markets face systemic stress that brief ceasefires cannot resolve.</p>
+                </div>
+                <div class="why-it-matters">
+                    <strong>Why it matters</strong> &mdash; The war is rewiring global energy flows in real time. The US becoming a net exporter isn't a policy choice — it's a forced adaptation that will outlast the conflict itself.
+                </div>
+            </div>
+
+            <hr class="section-divider">
+
+            <div class="analysis-section">
+                <h2 class="section-heading">Greenland: Trump's Campaign Targets a New Front</h2>
+                <div class="section-body">
+                    <p>A small group of Trump allies is pushing for a Greenland acquisition campaign, targeting sporting events and dangling investments. Greenland's leaders are incensed by the tactics and the colonial overtones.</p>
+                    <p>This is not a serious diplomatic initiative — it's a trial balloon. But trial balloons reveal strategic priorities. The administration's transactional approach to territorial expansion mirrors its approach to alliances: extract value, minimize commitment, treat partners as counterparties rather than stakeholders.</p>
+                    <p>The timing matters. With the world's attention fixed on Iran, the Arctic is becoming a quiet frontier of great power competition. Russia's icebreaker fleet is expanding. China's Polar Silk Road is advancing. And Greenland sits atop rare earth minerals that the US needs for defense production.</p>
+                </div>
+                <div class="why-it-matters">
+                    <strong>Why it matters</strong> &mdash; Arctic competition is intensifying. The administration's transactional approach to territorial expansion is creating friction with allies and exposing strategic priorities that extend far beyond the Middle East.
+                </div>
+            </div>
+
+            <!-- BOTTOM LINE -->
+            <div class="bottom-line">
+                <div class="bottom-line-kicker">Bottom Line</div>
+                <div class="bottom-line-body">
+                    <p>The Iran war is reshaping global assumptions — about American power, alliance reliability, asymmetric warfare, and economic leverage. China is studying Iran's playbook for Taiwan. Europe is preparing for defense without US guarantees. Russia is exploiting Western distraction. The multipolar world isn't coming — it's here.</p>
+                </div>
+            </div>
+
+        </div>
+
     </main>
 
     <footer class="site-footer">
         <div class="footer-inner">
-            <p>&copy; 2026 The Geopol Brief. All rights reserved.</p>
-            <p class="footer-sub">Powered by <a href="https://github.com">GitHub Pages</a>. Content generated with <a href="https://openclaw.ai">OpenClaw</a>.</p>
+            <p>&copy; 2026 Frontion News. All rights reserved.</p>
+            <p style="margin-top:0.3rem">Powered by <a href="https://github.com">GitHub Pages</a> &middot; Content generated with <a href="https://openclaw.ai">OpenClaw</a></p>
         </div>
     </footer>
 
-    <script src="/app.js"></script>
+<script>
+// ============ TAB SWITCHING ============
+function switchTab(tab) {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+    document.getElementById('tab-' + tab).classList.add('active');
+    event.target.classList.add('active');
+    if (tab === 'headlines') loadHeadlines();
+}
+
+// ============ HEADLINES ============
+const sampleHeadlines = [
+    { time: "5:30 PM", emoji: "🇺🇸🇮🇷", category: "US-Iran War", headline: "US-Iran War Near End as Blockade Holds", summary: "Trump announced the war is \"very close to over\" as the US military maintains a full blockade on Iranian ports. Pakistani mediators arrived in Tehran to revive peace talks.", source: "AP News", url: "https://apnews.com" },
+    { time: "5:15 PM", emoji: "🇪🇺🚫", category: "Diplomacy", headline: "European Allies Refuse Hormuz Blockade", summary: "European governments declined to join the US blockade of the Strait of Hormuz, creating tensions with Washington while their economies face potential energy supply disruptions.", source: "Reuters", url: "https://reuters.com" },
+    { time: "4:45 PM", emoji: "🇺🇦", category: "Ukraine-Russia War", headline: "Russia Launches Massive Aerial Attack on Ukraine, Killing 16", summary: "Russia hammered civilian areas with hundreds of drones and dozens of missiles overnight, killing at least 16 people across multiple cities including Kyiv and Odesa.", source: "AP News", url: "https://apnews.com" },
+    { time: "4:20 PM", emoji: "🇺🇦🤖", category: "Military Tech", headline: "Ukraine Unveils Drone Assault Units Combining Aerial, Ground Drones and Infantry", summary: "Ukraine has rolled out a new model of warfare — drone assault units that combine aerial and ground drones with infantry into a single integrated system.", source: "Yahoo News", url: "https://yahoo.com" },
+    { time: "3:55 PM", emoji: "🇱🇧🇮🇱", category: "Middle East", headline: "Israel Agrees to Ceasefire with Hezbollah as Lebanon Deal Reached", summary: "Israel and Lebanon have agreed to a 10-day ceasefire in Israel's fight against Iran-backed Hezbollah. President Trump announced the deal.", source: "CBS News", url: "https://cbsnews.com" },
+    { time: "3:30 PM", emoji: "🇺🇸🇨🇳", category: "US-China", headline: "Trump Risks Showdown with Xi Over Hormuz Blockade Before Beijing Summit", summary: "The war in the Middle East is testing a fragile detente between the US and China. Trump's actions in the Strait of Hormuz may provoke conflict with Xi Jinping ahead of their summit.", source: "Straits Times", url: "https://straitstimes.com" },
+    { time: "2:45 PM", emoji: "🇵🇰🇮🇷", category: "Diplomacy", headline: "Pakistan Army Chief Arrives in Tehran to Revive US-Iran Talks", summary: "A high-level military delegation led by Pakistan's army chief arrived in Tehran as Islamabad steps up efforts to revive talks between the United States and Iran.", source: "Firstpost", url: "https://firstpost.com" },
+    { time: "2:10 PM", emoji: "💰", category: "Economy", headline: "G7 Finance Leaders Ready to Act on Iran War Economic Fallout", summary: "Group of Seven finance ministers and central bank governors agreed to stay ready to act to mitigate economic and inflation risks caused by the Middle East war.", source: "Reuters", url: "https://reuters.com" },
+    { time: "1:30 PM", emoji: "🇹🇷", category: "Defense Industry", headline: "Turkey's Roketsan Eyes Top 10 Defense Exporter Rank Amid Middle East Conflict", summary: "Turkey has rapidly expanded its defense industry to become a leading global missile exporter. Roketsan is targeting a top 10 ranking as demand for Turkish weapons surges.", source: "Yahoo News", url: "https://yahoo.com" },
+    { time: "12:45 PM", emoji: "🇷🇺🇺🇦", category: "Ukraine-Russia War", headline: "Russian Forces Advance in Eastern Donetsk Sector", summary: "Russian troops made incremental gains in the eastern Donetsk sector, capturing two villages after weeks of assault. Ukrainian defenders are falling back to secondary positions.", source: "BBC", url: "https://bbc.com" },
+    { time: "12:10 PM", emoji: "🇮🇱🇵🇸", category: "Middle East", headline: "Netanyahu Faces Coalition Revolt Over Ceasefire Terms", summary: "Hardline ministers in Netanyahu's coalition threatened to collapse the government over the Hezbollah ceasefire agreement, demanding harsher terms and continued military operations.", source: "Haaretz", url: "https://haaretz.com" },
+    { time: "11:30 AM", emoji: "🇨🇳🇹🇼", category: "Asia-Pacific", headline: "China Stages Naval Exercises Near Taiwan as Trump-Xi Summit Nears", summary: "The PLA Navy conducted live-fire exercises in the Taiwan Strait, seen as a signal to Washington ahead of the Trump-Xi summit. Taiwan's defense ministry elevated readiness levels.", source: "Nikkei Asia", url: "https://asia.nikkei.com" },
+    { time: "10:45 AM", emoji: "🇮🇷⛽", category: "Energy", headline: "Iran Claims Oil Exports Defying Blockade via Caspian Route", summary: "Iranian state media claimed the country is exporting crude through Caspian Sea ports to Central Asian buyers, circumventing the US naval blockade of its Persian Gulf terminals.", source: "Al Jazeera", url: "https://aljazeera.com" },
+    { time: "10:00 AM", emoji: "🇮🇳", category: "Economy", headline: "India Cuts Growth Forecast as Energy Costs Surge", summary: "India's central bank revised its GDP growth forecast downward for the second time this quarter, citing escalating energy import costs and disrupted shipping routes from the Middle East conflict.", source: "Financial Times", url: "https://ft.com" },
+    { time: "9:15 AM", emoji: "🇺🇸🏛️", category: "US Politics", headline: "Senate Holds Hearing on War Powers and Iran Authorization", summary: "The Senate Foreign Relations Committee held a contentious hearing on revising the 2001 AUMF to address the Iran conflict, with testimony split along party lines over presidential war authority.", source: "Washington Post", url: "https://washingtonpost.com" },
+    { time: "8:30 AM", emoji: "🇰🇷🇯🇵", category: "Asia-Pacific", headline: "South Korea and Japan Hold Emergency Energy Security Talks", summary: "Seoul and Tokyo convened emergency talks on shared energy security concerns as the Hormuz crisis threatens LNG and crude shipments critical to both economies.", source: "Nikkei Asia", url: "https://asia.nikkei.com" },
+    { time: "7:45 AM", emoji: "🇩🇪🇪🇺", category: "Europe", headline: "Germany Pushes EU to Accelerate Defense Spending Commitments", summary: "Chancellor Merz urged EU members to meet the 3% GDP defense spending target within two years, arguing that American reliability as a security guarantor can no longer be assumed.", source: "Reuters", url: "https://reuters.com" },
+];
+
+const PAGE_SIZE = 15;
+let allHeadlines = [];
+let visibleCount = PAGE_SIZE;
+let isFiltered = false;
+
+function renderHeadlines(data) {
+    const feed = document.getElementById('headlinesFeed');
+    if (!data || data.length === 0) {
+        feed.innerHTML = '<div class="no-results">No headlines found.</div>';
+        return;
+    }
+    const items = isFiltered ? data : data.slice(0, visibleCount);
+    const html = items.map(h => `
+        <div class="story-card">
+            <div class="story-time">${h.time}</div>
+            <div class="story-flag">
+                <span class="story-emoji">${h.emoji}</span>
+                <span class="story-category">${h.category}</span>
+            </div>
+            <div class="story-headline">${h.headline}</div>
+            <div class="story-summary">${h.summary}</div>
+            <div class="story-source">Source: <a href="${h.url}" target="_blank" rel="noopener">${h.source}</a></div>
+        </div>
+    `).join('');
+
+    const loadMoreHtml = (!isFiltered && visibleCount < data.length) ? `
+        <div class="load-more-wrap">
+            <button class="load-more-btn" onclick="loadMore()">Load More</button>
+            <div class="stories-count">Showing ${visibleCount} of ${data.length} headlines</div>
+        </div>
+    ` : '';
+
+    feed.innerHTML = html + loadMoreHtml;
+}
+
+function loadMore() {
+    visibleCount += PAGE_SIZE;
+    renderHeadlines(allHeadlines);
+}
+
+function loadHeadlines() {
+    allHeadlines = sampleHeadlines;
+    visibleCount = PAGE_SIZE;
+    isFiltered = false;
+    renderHeadlines(allHeadlines);
+}
+
+function filterHeadlines() {
+    const query = document.getElementById('searchInput').value.toLowerCase().trim();
+    if (!query) {
+        isFiltered = false;
+        visibleCount = PAGE_SIZE;
+        renderHeadlines(allHeadlines);
+        return;
+    }
+    isFiltered = true;
+    const filtered = allHeadlines.filter(h =>
+        h.headline.toLowerCase().includes(query) ||
+        h.summary.toLowerCase().includes(query) ||
+        h.category.toLowerCase().includes(query) ||
+        h.source.toLowerCase().includes(query)
+    );
+    renderHeadlines(filtered);
+}
+
+// ============ ANALYSIS DATE TIMELINE ============
+const analysisBriefs = [
+    { date: '2026-04-17', title: 'The Hormuz Calculus: Who Blinks First', slug: '2026-04-17' },
+    { date: '2026-04-16', title: 'The Multipolar World Isn\'t Coming — It\'s Here', slug: '2026-04-16' },
+    { date: '2026-04-15', title: 'Orbán Falls, Europe Shifts', slug: '2026-04-15' },
+    { date: '2026-04-14', title: 'The Blockade Economy', slug: '2026-04-14' },
+    { date: '2026-04-13', title: 'Peace Talks Collapse, Escalation Follows', slug: '2026-04-13' },
+    { date: '2026-04-12', title: 'Hungary Votes, the World Watches', slug: '2026-04-12' },
+    { date: '2026-04-11', title: 'Ceasefire Holds — For Now', slug: '2026-04-11' },
+    { date: '2026-04-10', title: 'The Gulf War Enters Week Four', slug: '2026-04-10' },
+    { date: '2026-04-09', title: 'Alliance Fractures Deepen', slug: '2026-04-09' },
+    { date: '2026-04-08', title: 'Record Casualties, Record Indifference', slug: '2026-04-08' },
+];
+
+const DATES_VISIBLE = 7;
+let currentIndex = 0;
+let viewOffset = 0;
+
+function formatDateShort(iso) {
+    const d = new Date(iso + 'T00:00:00');
+    return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+}
+
+function renderTimeline() {
+    const container = document.getElementById('timelineDates');
+    const start = viewOffset;
+    const end = Math.min(start + DATES_VISIBLE, analysisBriefs.length);
+    let html = '';
+    for (let i = start; i < end; i++) {
+        const b = analysisBriefs[i];
+        const active = i === currentIndex ? ' active' : '';
+        html += `<a href="#" class="timeline-date${active}" onclick="selectDate(${i}); return false;" title="${b.title}">${formatDateShort(b.date)}</a>`;
+        if (i < end - 1) html += '<div class="timeline-divider"></div>';
+    }
+    container.innerHTML = html;
+    document.getElementById('prevBtn').disabled = viewOffset <= 0;
+    document.getElementById('nextBtn').disabled = end >= analysisBriefs.length;
+}
+
+function shiftTimeline(dir) {
+    const newOffset = viewOffset + dir;
+    if (newOffset < 0 || newOffset + DATES_VISIBLE > analysisBriefs.length) return;
+    viewOffset = newOffset;
+    renderTimeline();
+}
+
+function selectDate(index) {
+    currentIndex = index;
+    renderTimeline();
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+// Init
+renderTimeline();
+loadHeadlines();
+</script>
+
 </body>
 </html>
