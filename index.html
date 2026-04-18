@@ -36,6 +36,7 @@
     --color-search-border: #ddd;
     --color-search-focus: #1a1a1a;
     --color-card-hover: #fafafa;
+}
 html.dark-mode {
     --color-bg: #0d0d0d;
     --color-text: #e8e8e8;
@@ -70,7 +71,14 @@ body { font-family: var(--font-body); color: var(--color-text); background: var(
 .site-header { padding: 0; text-align: center; border-bottom: 3px solid var(--color-section-rule); }
 .header-inner { max-width: var(--max-width); margin: 0 auto; padding: 2rem 1.5rem 0.75rem; }
 .logo { font-family: var(--font-display); font-size: 2.6rem; font-weight: 700; color: var(--color-text); text-decoration: none; letter-spacing: -0.03em; line-height: 1.1; }
-.tagline { font-size: 0.78rem; color: var(--color-text-tertiary); letter-spacing: 0.18em; text-transform: uppercase; margin-top: 0.35rem; }
+.tagline { font-size: 0.78rem; color: var(--color-text-tertiary); letter-spacing: 0.18em; text-transform: uppercase; margin-top: 0.35rem; line-height: 1.5; }
+.tagline-line { display: block; }
+.tagline-mobile1, .tagline-mobile2 { display: none; }
+@media (max-width: 768px) {
+    .tagline-desktop { display: none; }
+    .tagline-mobile1 { display: block; }
+    .tagline-mobile2 { display: block; }
+}
 
 /* TABS */
 .tab-bar { max-width: var(--max-width); margin: 0 auto; padding: 1.25rem 1.5rem 0; display: flex; gap: 0; }
@@ -193,7 +201,13 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
     <header class="site-header">
         <div class="header-inner">
             <a href="/" class="logo">Frontion News</a>
-            <div class="tagline">Latest Headlines and Strategic Analysis of the Events Reshaping the World</div>
+            <div class="tagline">
+                <span class="tagline-line tagline-desktop">LATEST HEADLINES AND STRATEGIC ANALYSIS</span>
+                <span class="tagline-line tagline-desktop">OF THE EVENTS RESHAPING THE WORLD</span>
+                <span class="tagline-line tagline-mobile1">LATEST HEADLINES</span>
+                <span class="tagline-line tagline-mobile2">AND STRATEGIC ANALYSIS</span>
+                <span class="tagline-line tagline-mobile2">OF THE EVENTS RESHAPING THE WORLD</span>
+            </div>
         </div>
     </header>
 
@@ -212,7 +226,7 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
                 <input type="text" class="search-input" id="searchInput" placeholder="Search headlines..." oninput="filterHeadlines()">
             </div>
             <div class="headlines-meta" id="headlinesMeta">
-                <span id="headlinesDate">Loading...</span> · Frontion News
+                <span id="headlinesDate"></span><span id="headlinesSep"></span><span id="headlinesLabel"></span>
             </div>
             <div id="headlinesFeed"></div>
         </div>
@@ -252,26 +266,6 @@ function switchTab(tab) {
 }
 
 // ============ HEADLINES ============
-const sampleHeadlines = [
-    { time: "5:30 PM", emoji: "🇺🇸🇮🇷", category: "US-Iran War", headline: "US-Iran War Near End as Blockade Holds", summary: "Trump announced the war is \"very close to over\" as the US military maintains a full blockade on Iranian ports. Pakistani mediators arrived in Tehran to revive peace talks.", source: "AP News", url: "https://apnews.com" },
-    { time: "5:15 PM", emoji: "🇪🇺🚫", category: "Diplomacy", headline: "European Allies Refuse Hormuz Blockade", summary: "European governments declined to join the US blockade of the Strait of Hormuz, creating tensions with Washington while their economies face potential energy supply disruptions.", source: "Reuters", url: "https://reuters.com" },
-    { time: "4:45 PM", emoji: "🇺🇦", category: "Ukraine-Russia War", headline: "Russia Launches Massive Aerial Attack on Ukraine, Killing 16", summary: "Russia hammered civilian areas with hundreds of drones and dozens of missiles overnight, killing at least 16 people across multiple cities including Kyiv and Odesa.", source: "AP News", url: "https://apnews.com" },
-    { time: "4:20 PM", emoji: "🇺🇦🤖", category: "Military Tech", headline: "Ukraine Unveils Drone Assault Units Combining Aerial, Ground Drones and Infantry", summary: "Ukraine has rolled out a new model of warfare — drone assault units that combine aerial and ground drones with infantry into a single integrated system.", source: "Yahoo News", url: "https://yahoo.com" },
-    { time: "3:55 PM", emoji: "🇱🇧🇮🇱", category: "Middle East", headline: "Israel Agrees to Ceasefire with Hezbollah as Lebanon Deal Reached", summary: "Israel and Lebanon have agreed to a 10-day ceasefire in Israel's fight against Iran-backed Hezbollah. President Trump announced the deal.", source: "CBS News", url: "https://cbsnews.com" },
-    { time: "3:30 PM", emoji: "🇺🇸🇨🇳", category: "US-China", headline: "Trump Risks Showdown with Xi Over Hormuz Blockade Before Beijing Summit", summary: "The war in the Middle East is testing a fragile detente between the US and China. Trump's actions in the Strait of Hormuz may provoke conflict with Xi Jinping ahead of their summit.", source: "Straits Times", url: "https://straitstimes.com" },
-    { time: "2:45 PM", emoji: "🇵🇰🇮🇷", category: "Diplomacy", headline: "Pakistan Army Chief Arrives in Tehran to Revive US-Iran Talks", summary: "A high-level military delegation led by Pakistan's army chief arrived in Tehran as Islamabad steps up efforts to revive talks between the United States and Iran.", source: "Firstpost", url: "https://firstpost.com" },
-    { time: "2:10 PM", emoji: "💰", category: "Economy", headline: "G7 Finance Leaders Ready to Act on Iran War Economic Fallout", summary: "Group of Seven finance ministers and central bank governors agreed to stay ready to act to mitigate economic and inflation risks caused by the Middle East war.", source: "Reuters", url: "https://reuters.com" },
-    { time: "1:30 PM", emoji: "🇹🇷", category: "Defense Industry", headline: "Turkey's Roketsan Eyes Top 10 Defense Exporter Rank Amid Middle East Conflict", summary: "Turkey has rapidly expanded its defense industry to become a leading global missile exporter. Roketsan is targeting a top 10 ranking as demand for Turkish weapons surges.", source: "Yahoo News", url: "https://yahoo.com" },
-    { time: "12:45 PM", emoji: "🇷🇺🇺🇦", category: "Ukraine-Russia War", headline: "Russian Forces Advance in Eastern Donetsk Sector", summary: "Russian troops made incremental gains in the eastern Donetsk sector, capturing two villages after weeks of assault. Ukrainian defenders are falling back to secondary positions.", source: "BBC", url: "https://bbc.com" },
-    { time: "12:10 PM", emoji: "🇮🇱🇵🇸", category: "Middle East", headline: "Netanyahu Faces Coalition Revolt Over Ceasefire Terms", summary: "Hardline ministers in Netanyahu's coalition threatened to collapse the government over the Hezbollah ceasefire agreement, demanding harsher terms and continued military operations.", source: "Haaretz", url: "https://haaretz.com" },
-    { time: "11:30 AM", emoji: "🇨🇳🇹🇼", category: "Asia-Pacific", headline: "China Stages Naval Exercises Near Taiwan as Trump-Xi Summit Nears", summary: "The PLA Navy conducted live-fire exercises in the Taiwan Strait, seen as a signal to Washington ahead of the Trump-Xi summit. Taiwan's defense ministry elevated readiness levels.", source: "Nikkei Asia", url: "https://asia.nikkei.com" },
-    { time: "10:45 AM", emoji: "🇮🇷⛽", category: "Energy", headline: "Iran Claims Oil Exports Defying Blockade via Caspian Route", summary: "Iranian state media claimed the country is exporting crude through Caspian Sea ports to Central Asian buyers, circumventing the US naval blockade of its Persian Gulf terminals.", source: "Al Jazeera", url: "https://aljazeera.com" },
-    { time: "10:00 AM", emoji: "🇮🇳", category: "Economy", headline: "India Cuts Growth Forecast as Energy Costs Surge", summary: "India's central bank revised its GDP growth forecast downward for the second time this quarter, citing escalating energy import costs and disrupted shipping routes from the Middle East conflict.", source: "Financial Times", url: "https://ft.com" },
-    { time: "9:15 AM", emoji: "🇺🇸🏛️", category: "US Politics", headline: "Senate Holds Hearing on War Powers and Iran Authorization", summary: "The Senate Foreign Relations Committee held a contentious hearing on revising the 2001 AUMF to address the Iran conflict, with testimony split along party lines over presidential war authority.", source: "Washington Post", url: "https://washingtonpost.com" },
-    { time: "8:30 AM", emoji: "🇰🇷🇯🇵", category: "Asia-Pacific", headline: "South Korea and Japan Hold Emergency Energy Security Talks", summary: "Seoul and Tokyo convened emergency talks on shared energy security concerns as the Hormuz crisis threatens LNG and crude shipments critical to both economies.", source: "Nikkei Asia", url: "https://asia.nikkei.com" },
-    { time: "7:45 AM", emoji: "🇩🇪🇪🇺", category: "Europe", headline: "Germany Pushes EU to Accelerate Defense Spending Commitments", summary: "Chancellor Merz urged EU members to meet the 3% GDP defense spending target within two years, arguing that American reliability as a security guarantor can no longer be assumed.", source: "Reuters", url: "https://reuters.com" },
-];
-
 const PAGE_SIZE = 15;
 let allHeadlines = [];
 let visibleCount = PAGE_SIZE;
@@ -280,7 +274,7 @@ let isFiltered = false;
 function renderHeadlines(data) {
     const feed = document.getElementById('headlinesFeed');
     if (!data || data.length === 0) {
-        feed.innerHTML = '<div class="no-results">No headlines found.</div>';
+        feed.innerHTML = '<div class="no-results">Loading headlines…</div>';
         return;
     }
     const items = isFiltered ? data : data.slice(0, visibleCount);
@@ -328,7 +322,9 @@ function loadHeadlines() {
             if (isNaN(d.getTime())) throw 'bad date';
             const localStr = d.toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'});
             const localTime = d.toLocaleTimeString('en-US', {hour: 'numeric', minute: '2-digit'});
-            document.getElementById('headlinesDate').textContent = localStr + ' · Updated ' + localTime;
+            document.getElementById('headlinesDate').textContent = localStr;
+            document.getElementById('headlinesSep').textContent = ' · Updated ';
+            document.getElementById('headlinesLabel').textContent = localTime;
           } catch(e) {
             document.getElementById('headlinesDate').textContent = new Date().toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'});
           }
@@ -338,11 +334,10 @@ function loadHeadlines() {
       })
       .catch(err => {
         console.error('Failed to load headlines:', err);
-        allHeadlines = sampleHeadlines;
-        visibleCount = PAGE_SIZE;
-        isFiltered = false;
-        renderHeadlines(allHeadlines);
-        document.getElementById('headlinesDate').textContent = new Date().toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'});
+        document.getElementById('headlinesDate').textContent = '';
+        document.getElementById('headlinesSep').textContent = '';
+        document.getElementById('headlinesLabel').textContent = '';
+        document.getElementById('headlinesFeed').innerHTML = '<div class="no-results">Unable to load headlines. Please try again later.</div>';
       });
 }
 
