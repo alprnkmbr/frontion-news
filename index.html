@@ -5,6 +5,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Frontion News</title>
     <meta name="description" content="Latest headlines and strategic analysis of the events reshaping the world.">
+    <link rel="manifest" href="/manifest.json">
+    <meta name="theme-color" content="#c41e3a">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="Frontion">
+    <link rel="apple-touch-icon" href="/icon-192.png">
+    <link rel="alternate" type="application/rss+xml" title="Frontion News" href="/feed.xml">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
@@ -29,6 +36,27 @@
     --color-search-border: #ddd;
     --color-search-focus: #1a1a1a;
     --color-card-hover: #fafafa;
+html.dark-mode {
+    --color-bg: #0d0d0d;
+    --color-text: #e8e8e8;
+    --color-text-body: #cccccc;
+    --color-text-secondary: #999999;
+    --color-text-tertiary: #666666;
+    --color-accent: #e8445a;
+    --color-border: #333333;
+    --color-border-light: #222222;
+    --color-pullquote: #e8445a;
+    --color-why-it-matters-bg: #1a1814;
+    --color-section-rule: #e8e8e8;
+    --color-tab-active-bg: #e8e8e8;
+    --color-tab-active-text: #0d0d0d;
+    --color-tab-inactive-bg: #1a1a1a;
+    --color-tab-inactive-text: #999;
+    --color-search-bg: #1a1a1a;
+    --color-search-border: #333;
+    --color-search-focus: #e8e8e8;
+    --color-card-hover: #1a1a1a;
+}
     --font-display: 'Playfair Display', 'Noto Serif', Georgia, serif;
     --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
     --font-serif: 'Noto Serif', Georgia, serif;
@@ -134,6 +162,11 @@ body { font-family: var(--font-body); color: var(--color-text); background: var(
 .site-footer a { color: var(--color-text-secondary); text-decoration: none; border-bottom: 1px solid var(--color-border); }
 .site-footer a:hover { color: var(--color-accent); border-bottom-color: var(--color-accent); }
 
+/* DARK TOGGLE */
+.dark-toggle { position: fixed; top: 1rem; right: 1rem; width: 2.2rem; height: 2.2rem; background: var(--color-bg); border: 1px solid var(--color-border); border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; z-index: 1000; font-size: 1.1rem; transition: all 0.2s; box-shadow: 0 1px 3px rgba(0,0,0,0.1); }
+.dark-toggle:hover { border-color: var(--color-text-secondary); }
+html.dark-mode .dark-toggle { background: var(--color-bg); }
+
 /* RESPONSIVE */
 @media (max-width: 768px) {
     html { font-size: 15px; }
@@ -154,6 +187,9 @@ body { font-family: var(--font-body); color: var(--color-text); background: var(
 </head>
 <body>
 
+    <div class="dark-toggle" id="darkToggle" onclick="toggleDark()" title="Toggle dark mode">
+        <span id="darkIcon">☽</span>
+    </div>
     <header class="site-header">
         <div class="header-inner">
             <a href="/" class="logo">Frontion News</a>
@@ -431,6 +467,29 @@ function loadAnalysisIndex() {
       .catch(err => {
         document.getElementById('analysisContent').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load analysis index.</p>';
       });
+}
+
+// ============ DARK MODE ============
+function toggleDark() {
+    document.documentElement.classList.toggle('dark-mode');
+    const isDark = document.documentElement.classList.contains('dark-mode');
+    localStorage.setItem('darkMode', isDark ? '1' : '0');
+    document.getElementById('darkIcon').textContent = isDark ? '☀' : '☽';
+}
+
+// Init dark mode from preference
+(function() {
+    const pref = localStorage.getItem('darkMode');
+    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    if (pref === '1' || (pref === null && prefersDark)) {
+        document.documentElement.classList.add('dark-mode');
+        document.getElementById('darkIcon').textContent = '☀';
+    }
+})();
+
+// Register service worker
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js').catch(() => {});
 }
 
 // Init
