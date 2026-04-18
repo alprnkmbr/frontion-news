@@ -1,0 +1,410 @@
+/* ============================================
+   THE GEOPOL BRIEF — NYT-style minimal design
+   ============================================ */
+
+:root {
+    --color-bg: #ffffff;
+    --color-text: #121212;
+    --color-text-secondary: #666666;
+    --color-text-tertiary: #999999;
+    --color-accent: #1a1a1a;
+    --color-border: #e0e0e0;
+    --color-border-light: #f0f0f0;
+    --color-highlight: #f8f4f0;
+    --color-tag-morning: #d4a054;
+    --color-tag-evening: #5c6b8a;
+    --color-link: #1a1a1a;
+    --color-link-hover: #c41e3a;
+
+    --font-display: 'Playfair Display', 'Noto Serif', Georgia, serif;
+    --font-body: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    --font-serif: 'Noto Serif', Georgia, serif;
+
+    --max-width: 720px;
+    --max-width-wide: 1080px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 17px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+    font-family: var(--font-body);
+    color: var(--color-text);
+    background: var(--color-bg);
+    line-height: 1.7;
+}
+
+/* ---- HEADER ---- */
+
+.site-header {
+    padding: 2rem 1.5rem 0;
+    text-align: center;
+}
+
+.header-inner {
+    max-width: var(--max-width);
+    margin: 0 auto;
+}
+
+.masthead {
+    padding: 1.5rem 0 0.25rem;
+}
+
+.logo {
+    font-family: var(--font-display);
+    font-size: 2.4rem;
+    font-weight: 700;
+    color: var(--color-text);
+    text-decoration: none;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
+}
+
+.logo:hover {
+    color: var(--color-link-hover);
+}
+
+.tagline {
+    font-size: 0.82rem;
+    color: var(--color-text-tertiary);
+    letter-spacing: 0.15em;
+    text-transform: uppercase;
+    margin-top: 0.4rem;
+}
+
+.header-nav {
+    padding: 0.8rem 0 0;
+    display: flex;
+    gap: 1.5rem;
+    justify-content: center;
+}
+
+.header-nav a {
+    font-size: 0.78rem;
+    color: var(--color-text-secondary);
+    text-decoration: none;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.header-nav a:hover {
+    color: var(--color-text);
+}
+
+.header-rule {
+    max-width: var(--max-width);
+    margin: 1rem auto 0;
+    height: 2px;
+    background: var(--color-text);
+}
+
+/* ---- MAIN CONTENT ---- */
+
+.site-main {
+    max-width: var(--max-width);
+    margin: 0 auto;
+    padding: 2rem 1.5rem 4rem;
+}
+
+/* ---- LATEST BRIEF ---- */
+
+.latest-brief {
+    margin-bottom: 3rem;
+}
+
+.brief-tag {
+    display: inline-block;
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    padding: 0.25rem 0.75rem;
+    border: 1px solid;
+    border-radius: 2px;
+    margin-bottom: 0.75rem;
+}
+
+.brief-tag.morning {
+    color: var(--color-tag-morning);
+    border-color: var(--color-tag-morning);
+}
+
+.brief-tag.evening {
+    color: var(--color-tag-evening);
+    border-color: var(--color-tag-evening);
+}
+
+.brief-date {
+    font-size: 0.82rem;
+    color: var(--color-text-tertiary);
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    margin-bottom: 0.75rem;
+}
+
+.brief-headline {
+    font-family: var(--font-display);
+    font-size: 2rem;
+    line-height: 1.25;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+    letter-spacing: -0.01em;
+}
+
+.brief-headline a {
+    color: var(--color-text);
+    text-decoration: none;
+}
+
+.brief-headline a:hover {
+    color: var(--color-link-hover);
+}
+
+.brief-standfirst {
+    font-family: var(--font-serif);
+    font-size: 1.05rem;
+    color: var(--color-text-secondary);
+    line-height: 1.6;
+    margin-bottom: 1.5rem;
+    font-style: italic;
+}
+
+/* ---- STORY CARD ---- */
+
+.story {
+    padding: 1.25rem 0;
+    border-top: 1px solid var(--color-border-light);
+}
+
+.story:first-child {
+    border-top: 1px solid var(--color-border);
+}
+
+.story-flag {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.4rem;
+}
+
+.story-emoji {
+    font-size: 1.1rem;
+}
+
+.story-category {
+    font-size: 0.7rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--color-text-tertiary);
+}
+
+.story-headline {
+    font-family: var(--font-display);
+    font-size: 1.3rem;
+    line-height: 1.3;
+    font-weight: 700;
+    margin-bottom: 0.4rem;
+}
+
+.story-headline a {
+    color: var(--color-text);
+    text-decoration: none;
+}
+
+.story-headline a:hover {
+    color: var(--color-link-hover);
+}
+
+.story-body {
+    font-family: var(--font-serif);
+    font-size: 0.95rem;
+    color: var(--color-text-secondary);
+    line-height: 1.65;
+}
+
+.story-source {
+    font-size: 0.75rem;
+    color: var(--color-text-tertiary);
+    margin-top: 0.35rem;
+    font-family: var(--font-body);
+}
+
+.story-source a {
+    color: var(--color-text-tertiary);
+    text-decoration: none;
+    border-bottom: 1px solid var(--color-border);
+}
+
+.story-source a:hover {
+    color: var(--color-link-hover);
+    border-bottom-color: var(--color-link-hover);
+}
+
+/* ---- SECTION TITLE ---- */
+
+.section-title {
+    font-family: var(--font-display);
+    font-size: 1rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid var(--color-text);
+    margin-bottom: 1.5rem;
+}
+
+/* ---- BRIEFS GRID (recent list) ---- */
+
+.briefs-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+}
+
+.brief-card {
+    padding: 1rem 0;
+    border-bottom: 1px solid var(--color-border-light);
+    display: flex;
+    flex-direction: column;
+    gap: 0.25rem;
+}
+
+.brief-card:last-child {
+    border-bottom: none;
+}
+
+.brief-card-date {
+    font-size: 0.72rem;
+    color: var(--color-text-tertiary);
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.brief-card-title {
+    font-family: var(--font-display);
+    font-size: 1.15rem;
+    line-height: 1.3;
+    font-weight: 700;
+}
+
+.brief-card-title a {
+    color: var(--color-text);
+    text-decoration: none;
+}
+
+.brief-card-title a:hover {
+    color: var(--color-link-hover);
+}
+
+.brief-card-excerpt {
+    font-size: 0.85rem;
+    color: var(--color-text-secondary);
+    line-height: 1.5;
+    font-family: var(--font-serif);
+}
+
+/* ---- ARTICLE PAGE ---- */
+
+.article-header {
+    padding: 2rem 0 1.5rem;
+}
+
+.article-header .brief-tag {
+    margin-bottom: 0.5rem;
+}
+
+.article-header .brief-date {
+    margin-bottom: 0.25rem;
+}
+
+.article-body {
+    padding: 0 0 3rem;
+}
+
+.article-body .story {
+    padding: 1.5rem 0;
+    border-top: 1px solid var(--color-border);
+}
+
+.article-body .story:first-child {
+    border-top: none;
+}
+
+/* ---- FOOTER ---- */
+
+.site-footer {
+    border-top: 1px solid var(--color-border);
+    padding: 2rem 1.5rem;
+    text-align: center;
+}
+
+.footer-inner {
+    max-width: var(--max-width);
+    margin: 0 auto;
+}
+
+.site-footer p {
+    font-size: 0.78rem;
+    color: var(--color-text-tertiary);
+    line-height: 1.6;
+}
+
+.site-footer a {
+    color: var(--color-text-secondary);
+    text-decoration: none;
+    border-bottom: 1px solid var(--color-border);
+}
+
+.site-footer a:hover {
+    color: var(--color-link-hover);
+}
+
+.footer-sub {
+    margin-top: 0.3rem;
+}
+
+/* ---- RESPONSIVE ---- */
+
+@media (max-width: 768px) {
+    html {
+        font-size: 15px;
+    }
+
+    .brief-headline {
+        font-size: 1.6rem;
+    }
+
+    .story-headline {
+        font-size: 1.15rem;
+    }
+
+    .logo {
+        font-size: 1.9rem;
+    }
+}
+
+@media (max-width: 480px) {
+    html {
+        font-size: 14px;
+    }
+
+    .site-main {
+        padding: 1.5rem 1rem 3rem;
+    }
+
+    .brief-headline {
+        font-size: 1.4rem;
+    }
+}
