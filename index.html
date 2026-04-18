@@ -287,18 +287,26 @@ function renderHeadlines(data) {
         return;
     }
     const items = isFiltered ? data : data.slice(0, visibleCount);
-    const html = items.map(h => `
+    const html = items.map(h => {
+        let timeStr = h.time || '';
+        if (!timeStr && h.timestamp) {
+            try {
+                const d = new Date(h.timestamp);
+                timeStr = d.toLocaleTimeString('en-US', {hour: 'numeric', minute: '2-digit'});
+            } catch(e) { timeStr = ''; }
+        }
+        return `
         <div class="story-card">
-            <div class="story-time">${h.time}</div>
+            ${timeStr ? '<div class="story-time">' + timeStr + '</div>' : ''}
             <div class="story-flag">
-                <span class="story-emoji">${h.emoji}</span>
-                <span class="story-category">${h.category}</span>
+                <span class="story-emoji">${h.emoji || ''}</span>
+                <span class="story-category">${h.category || ''}</span>
             </div>
-            <div class="story-headline">${h.headline}</div>
-            <div class="story-summary">${h.summary}</div>
-            <div class="story-source">Source: <a href="${h.url}" target="_blank" rel="noopener">${h.source}</a></div>
-        </div>
-    `).join('');
+            <div class="story-headline">${h.headline || ''}</div>
+            <div class="story-summary">${h.summary || ''}</div>
+            <div class="story-source">${h.source ? 'Source: <a href="' + (h.url || '#') + '" target="_blank" rel="noopener">' + h.source + '</a>' : ''}</div>
+        </div>`;
+    }).join('');
 
     const loadMoreHtml = (!isFiltered && visibleCount < data.length) ? `
         <div class="load-more-wrap">
