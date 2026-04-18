@@ -355,10 +355,27 @@ function loadMore() {
 }
 
 function loadHeadlines() {
-    allHeadlines = sampleHeadlines;
-    visibleCount = PAGE_SIZE;
-    isFiltered = false;
-    renderHeadlines(allHeadlines);
+    // Production: fetch headlines.json
+    fetch('headlines.json')
+      .then(r => r.json())
+      .then(data => {
+        allHeadlines = data.headlines || [];
+        visibleCount = PAGE_SIZE;
+        isFiltered = false;
+        renderHeadlines(allHeadlines);
+        // Update date in meta
+        if (data.lastUpdated) {
+          const d = new Date(data.lastUpdated);
+          document.getElementById('headlinesDate').textContent = d.toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'});
+        }
+      })
+      .catch(err => {
+        console.error('Failed to load headlines:', err);
+        allHeadlines = sampleHeadlines;
+        visibleCount = PAGE_SIZE;
+        isFiltered = false;
+        renderHeadlines(allHeadlines);
+      });
 }
 
 function filterHeadlines() {
