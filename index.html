@@ -175,8 +175,8 @@ body { font-family: var(--font-body); color: var(--color-text); background: var(
             <div class="search-bar">
                 <input type="text" class="search-input" id="searchInput" placeholder="Search headlines..." oninput="filterHeadlines()">
             </div>
-            <div class="headlines-meta">
-                <time id="headlinesDate">April 18, 2026</time> · Frontion News
+            <div class="headlines-meta" id="headlinesMeta">
+                <span id="headlinesDate">Loading...</span> · Frontion News
             </div>
             <div id="headlinesFeed"></div>
         </div>
@@ -363,10 +363,19 @@ function loadHeadlines() {
         visibleCount = PAGE_SIZE;
         isFiltered = false;
         renderHeadlines(allHeadlines);
-        // Update date in meta
+        // Update date display with visitor's local time
         if (data.lastUpdated) {
-          const d = new Date(data.lastUpdated);
-          document.getElementById('headlinesDate').textContent = d.toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'});
+          try {
+            const d = new Date(data.lastUpdated);
+            if (isNaN(d.getTime())) throw 'bad date';
+            const localStr = d.toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'});
+            const localTime = d.toLocaleTimeString('en-US', {hour: 'numeric', minute: '2-digit'});
+            document.getElementById('headlinesDate').textContent = localStr + ' · Updated ' + localTime;
+          } catch(e) {
+            document.getElementById('headlinesDate').textContent = new Date().toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'});
+          }
+        } else {
+          document.getElementById('headlinesDate').textContent = new Date().toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'});
         }
       })
       .catch(err => {
@@ -375,6 +384,7 @@ function loadHeadlines() {
         visibleCount = PAGE_SIZE;
         isFiltered = false;
         renderHeadlines(allHeadlines);
+        document.getElementById('headlinesDate').textContent = new Date().toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'});
       });
 }
 

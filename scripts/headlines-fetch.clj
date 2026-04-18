@@ -1,6 +1,7 @@
 #!/usr/bin/env bb
 ;; headlines-fetch.clj — Fetches geopol headlines via SearXNG, writes to headlines.json
 ;; Called every 30 min by OpenClaw cron job
+;; v2: Smart social media filter, similarity dedup, clean timestamps
 
 (require '[babashka.http-client :as http]
          '[cheshire.core :as json]
@@ -13,6 +14,7 @@
 (def ist (java.time.ZoneId/of "Europe/Istanbul"))
 (def dtf-id (java.time.format.DateTimeFormatter/ofPattern "yyyyMMdd-HHmmss"))
 (def dtf-time (java.time.format.DateTimeFormatter/ofPattern "h:mm a"))
+(def dtf-iso (java.time.format.DateTimeFormatter/ofPattern "yyyy-MM-dd'T'HH:mm:ssXXX"))
 
 (def queries
   ["geopolitics war diplomacy"
@@ -23,6 +25,8 @@
    "NATO Europe defense"
    "energy oil gas crisis"
    "Turkey defense industry"])
+
+;; ============ SEARCH ============
 
 (defn searxng-search [query]
   (try
@@ -37,6 +41,8 @@
     (catch Exception e
       (println (str "Search error for '" query "': " (.getMessage e)))
       nil)))
+
+;; ============ SOURCE EXTRACTION ============
 
 (defn extract-source [url]
   (let [known {"reuters" "Reuters" "apnews" "AP News" "bbc" "BBC"
@@ -55,12 +61,46 @@
                "jpost" "Jerusalem Post" "timesofisrael" "Times of Israel"
                "geopoliticalmonitor" "Geopolitical Monitor"
                "thediplomat" "The Diplomat" "middleeasteye" "Middle East Eye"
-               "dailysabah" "Daily Sabah" "aa.com.tr" "Anadolu Agency"}
+               "dailysabah" "Daily Sabah" "aa.com.tr" "Anadolu Agency"
+               "telegraph.co.uk" "The Telegraph" "ndtv.com" "NDTV"
+               "sky.com" "Sky News" "independent.co.uk" "The Independent"
+               "time.com" "TIME" "newsweek" "Newsweek"
+               "almasdronline" "Al Masdar" "trtworld" "TRT World"
+               "middleeastmonitor" "Middle East Monitor"
+               "iranintl" "Iran International" "iranwire" "Iran Wire"
+               "israelhayom" "Israel Hayom" "ynetnews" "Ynet News"}
         matched (some (fn [[k v]] (when (str/includes? url k) v)) known)]
     (or matched
         (when-let [domain (second (re-find #"https?://(?:www\.)?([^/]+)" url))]
           (str/replace domain #"^www\." ""))
         "Unknown")))
+
+;; ============ SMART SOCIAL MEDIA FILTER ============
+;; Block generic social media, but allow official government/influential accounts
+
+(def blocked-domains
+  #{"google.com" "bing.com" "youtube.com" "facebook.com" "reddit.com"
+    "tiktok.com" "instagram.com" "linkedin.com" "pinterest.com"
+    "tumblr.com" "quora.com" "medium.com" "substack.com"})
+
+(def allowed-official-accounts
+  ;; Patterns for official government/influential accounts on social platforms
+  [(re-pattern #"(?i)truthsocial\.com/.*/(?:trump|potus|whitehouse)")
+   (re-pattern #"(?i)twitter\.com/(?:potus|whitehouse|statedept|deptofdefense|nato|trump)")
+   (re-pattern #"(?i)x\.com/(?:potus|whitehouse|statedept|deptofdefense|nato|trump)")
+   (re-pattern #"(?i)truthsocial\.com/.*/(?:trump)")
+   (re-pattern #"(?i)threads\.net/(?:potus|whitehouse|trump)")])
+
+(defn url-allowed? [url]
+  (and (seq url)
+       (let [domain (or (second (re-find #"https?://(?:www\.)?([^/]+)" url)) "")]
+         (or
+          ;; Allow if it matches an official account pattern
+          (some (fn [pattern] (re-find pattern url)) allowed-official-accounts)
+          ;; Otherwise block if domain is in blocked list
+          (not (contains? blocked-domains domain))))))
+
+;; ============ EMOJI & CATEGORY ============
 
 (defn guess-emoji [title]
   (cond
@@ -99,23 +139,70 @@
     (re-find #"(?i)south korea|japan|seoul|tokyo|korean" title) "Asia-Pacific"
     :else "Geopolitics"))
 
-(defn url-allowed? [url]
-  (and (seq url)
-       (not (str/includes? url "google.com"))
-       (not (str/includes? url "bing.com"))
-       (not (str/includes? url "youtube.com"))
-       (not (str/includes? url "facebook.com"))
-       (not (str/includes? url "twitter.com"))
-       (not (str/includes? url "reddit.com"))
-       (not (str/includes? url "tiktok.com"))
-       (not (str/includes? url "instagram.com"))))
+;; ============ SIMILARITY DEDUP ============
+;; Remove stories that are too similar to each other
+;; Uses word overlap on headlines — if 60%+ words overlap, it's a duplicate
+
+(defn normalize-words [text]
+  (-> text
+      str/lower-case
+      (str/replace #"[^\w\s]" "")
+      (str/split #"\s+")
+      set))
+
+(defn word-overlap [a b]
+  (let [wa (normalize-words a)
+        wb (normalize-words b)
+        intersection (count (clojure.set/intersection wa wb))
+        union (count (clojure.set/union wa wb))]
+    (if (zero? union) 0.0 (/ (double intersection) union))))
+
+(def SIMILARITY_THRESHOLD 0.6)
+
+;; Source authority ranking — higher = preferred when duplicates found
+(def source-rank
+  (zipmap ["Reuters" "AP News" "BBC" "Financial Times" "New York Times"
+           "Washington Post" "The Economist" "Al Jazeera" "The Guardian"
+           "DW News" "France 24" "Le Monde" "Bloomberg" "Wall Street Journal"
+           "CBS News" "CNN" "The Telegraph" "Straits Times" "Nikkei Asia"
+           "The Hill" "Politico" "Axios" "Atlantic Council" "Foreign Policy"
+           "Foreign Affairs" "SCMP" "The Diplomat" "Haaretz"]
+          (range 100 0 -3)))
+
+(defn source-score [source]
+  (get source-rank source 0))
+
+(defn dedup-similar [headlines]
+  (reduce
+   (fn [kept h]
+     (if (some (fn [existing]
+                 (> (word-overlap (:headline h) (:headline existing))
+                    SIMILARITY_THRESHOLD))
+               kept)
+       ;; Similar story already exists — keep whichever has higher source score
+       (let [existing-idx (first (keep-indexed
+                                   (fn [i e]
+                                     (when (> (word-overlap (:headline h) (:headline e))
+                                              SIMILARITY_THRESHOLD) i))
+                                   kept))]
+         (if existing-idx
+           (let [existing-item (nth kept existing-idx)]
+             (if (> (source-score (:source h)) (source-score (:source existing-item)))
+               (assoc kept existing-idx h) ;; replace with better source
+               kept)) ;; keep existing
+           kept))
+       (conj kept h)))
+   []
+   headlines))
+
+;; ============ CONVERT ============
 
 (defn result->headline [result]
   (let [url (:url result)
         title (str/trim (or (:title result) ""))
         snippet (or (:content result) "")]
     {:id (str "hl-" (.format (java.time.ZonedDateTime/now ist) dtf-id) "-" (Math/abs (hash url)))
-     :timestamp (.toString (java.time.ZonedDateTime/now ist))
+     :timestamp (.format (java.time.ZonedDateTime/now ist) dtf-iso)
      :time (.format (java.time.ZonedDateTime/now ist) dtf-time)
      :emoji (guess-emoji title)
      :category (guess-category title)
@@ -124,6 +211,8 @@
      :source (extract-source url)
      :url url}))
 
+;; ============ MAIN ============
+
 (defn load-existing []
   (if (.exists (io/file HEADLINES_FILE))
     (try
@@ -131,7 +220,7 @@
       (catch Exception _ {:lastUpdated "" :headlines []}))
     {:lastUpdated "" :headlines []}))
 
-(defn dedup [existing new-stories]
+(defn dedup-urls [existing new-stories]
   (let [existing-urls (set (map :url existing))]
     (remove #(contains? existing-urls (:url %)) new-stories)))
 
@@ -148,17 +237,20 @@
           (swap! all-results conj r)))
       (Thread/sleep 1500))
 
-    (let [new-headlines (->> @all-results
-                             (map result->headline)
-                             (filter #(and (url-allowed? (:url %))
-                                          (seq (:headline %))))
-                             (dedup existing-headlines))]
+    (let [raw-new (->> @all-results
+                       (map result->headline)
+                       (filter #(and (url-allowed? (:url %))
+                                    (seq (:headline %))))
+                       (dedup-urls existing-headlines))
+          deduped-new (dedup-similar (concat raw-new existing-headlines))
+          ;; Take only new items from deduped result
+          new-headlines (filter (fn [h] (some #(= (:url %) (:url h)) raw-new)) deduped-new)]
 
-      (println (str "  Found " (count @all-results) " results, " (count new-headlines) " new stories"))
+      (println (str "  Raw: " (count raw-new) ", After similarity dedup: " (count new-headlines)))
 
       (let [merged (->> (concat new-headlines existing-headlines)
                         (take MAX_HEADLINES))
-            updated {:lastUpdated (.toString (java.time.ZonedDateTime/now ist))
+            updated {:lastUpdated (.format (java.time.ZonedDateTime/now ist) dtf-iso)
                      :headlines (vec merged)}]
 
         (spit HEADLINES_FILE (json/encode updated {:pretty true}))
