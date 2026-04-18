@@ -16,8 +16,12 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
     <script>
-/* Dark mode: apply immediately to prevent flash */
-(function(){try{var d=localStorage.getItem('darkMode');if(d==='1'||(d===null&&matchMedia('(prefers-color-scheme:dark)').matches))document.documentElement.classList.add('dark-mode')}catch(e){}})()
+(function(){
+  var dark=false;
+  try{dark=localStorage.getItem('darkMode')==='1'}catch(e){try{dark=document.cookie.indexOf('darkMode=1')!==-1}catch(e2){}}
+  if(!dark&&typeof matchMedia==='function'){try{dark=matchMedia('(prefers-color-scheme:dark)').matches}catch(e){}}
+  if(dark)document.documentElement.classList.add('dark-mode');
+})()
 </script>
     <style>
 :root {
@@ -473,14 +477,19 @@ function loadAnalysisIndex() {
 function toggleDark() {
     document.documentElement.classList.toggle('dark-mode');
     const isDark = document.documentElement.classList.contains('dark-mode');
-    localStorage.setItem('darkMode', isDark ? '1' : '0');
+    try { localStorage.setItem('darkMode', isDark ? '1' : '0'); } catch(e) {}
+    try { document.cookie = 'darkMode=' + (isDark ? '1' : '0') + ';path=/frontion-news/;max-age=31536000;SameSite=Lax'; } catch(e) {}
     document.getElementById('darkIcon').textContent = isDark ? '☀' : '☽';
 }
 
 // Init dark mode from preference
 (function() {
-    const pref = localStorage.getItem('darkMode');
-    const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    var pref = null;
+    try { pref = localStorage.getItem('darkMode'); } catch(e) {
+        try { pref = document.cookie.indexOf('darkMode=1') !== -1 ? '1' : null; } catch(e2) {}
+    }
+    var prefersDark = false;
+    try { prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches; } catch(e) {}
     if (pref === '1' || (pref === null && prefersDark)) {
         document.documentElement.classList.add('dark-mode');
         document.getElementById('darkIcon').textContent = '☀';
