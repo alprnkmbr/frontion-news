@@ -324,8 +324,8 @@ function loadMore() {
 }
 
 function loadHeadlines() {
-    // Production: fetch headlines.json
-    fetch('headlines.json')
+    // Production: fetch headlines.json (cache-bust to avoid stale SW data)
+    fetch('headlines.json?v=' + Date.now())
       .then(r => r.json())
       .then(data => {
         allHeadlines = data.headlines || [];
@@ -420,7 +420,7 @@ function loadBrief(dateSlug) {
     const container = document.getElementById('analysisContent');
     container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading analysis…</p>';
     
-    fetch(`briefs/${dateSlug}.json`)
+    fetch(`briefs/${dateSlug}.json?v=` + Date.now())
       .then(r => r.json())
       .then(brief => {
         const dateObj = new Date(brief.date + 'T00:00:00');
@@ -464,7 +464,7 @@ function loadBrief(dateSlug) {
 }
 
 function loadAnalysisIndex() {
-    fetch('briefs/index.json')
+    fetch('briefs/index.json?v=' + Date.now())
       .then(r => r.json())
       .then(data => {
         analysisBriefs = data; // newest first
