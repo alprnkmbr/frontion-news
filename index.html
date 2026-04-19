@@ -293,7 +293,7 @@ function renderHeadlines(data) {
         if (!timeStr && h.timestamp) {
             try {
                 const d = new Date(h.timestamp);
-                timeStr = d.toLocaleTimeString('en-US', {hour: 'numeric', minute: '2-digit'});
+                timeStr = 'Updated ' + d.toLocaleTimeString('en-US', {hour: 'numeric', minute: '2-digit'});
             } catch(e) { timeStr = ''; }
         }
         return `
