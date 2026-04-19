@@ -236,7 +236,7 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
                 <input type="text" class="search-input" id="searchInput" placeholder="Search headlines..." oninput="filterHeadlines()">
             </div>
             <div class="headlines-meta" id="headlinesMeta">
-                <span id="headlinesDate"></span><span id="headlinesSep"></span><span id="headlinesLabel"></span><span class="meta-divider">·</span><span id="localTime"></span><span class="meta-divider">·</span><span id="localWeather"></span>
+                <span id="headlinesDate"></span><span class="meta-divider">·</span><span id="localTime"></span><span class="meta-divider">·</span><span id="localWeather"></span>
             </div>
             <div id="headlinesFeed"></div>
         </div>
@@ -338,11 +338,7 @@ function loadHeadlines() {
           try {
             const d = new Date(data.lastUpdated);
             if (isNaN(d.getTime())) throw 'bad date';
-            const localStr = d.toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'});
-            const localTime = d.toLocaleTimeString('en-US', {hour: 'numeric', minute: '2-digit'});
-            document.getElementById('headlinesDate').textContent = localStr;
-            document.getElementById('headlinesSep').textContent = ' · Updated ';
-            document.getElementById('headlinesLabel').textContent = localTime;
+            document.getElementById('headlinesDate').textContent = d.toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'});
           } catch(e) {
             document.getElementById('headlinesDate').textContent = new Date().toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'});
           }
@@ -353,8 +349,6 @@ function loadHeadlines() {
       .catch(err => {
         console.error('Failed to load headlines:', err);
         document.getElementById('headlinesDate').textContent = '';
-        document.getElementById('headlinesSep').textContent = '';
-        document.getElementById('headlinesLabel').textContent = '';
         document.getElementById('headlinesFeed').innerHTML = '<div class="no-results">Unable to load headlines. Please try again later.</div>';
       });
 }
