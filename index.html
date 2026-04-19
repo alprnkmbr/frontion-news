@@ -404,12 +404,23 @@ function fetchWeather() {
   } catch(e) {}
 
   if (!navigator.geolocation) {
-    document.getElementById('localWeather').textContent = '';
+    fetchWeatherByIP();
     return;
   }
   navigator.geolocation.getCurrentPosition(function(pos) {
     fetchWeatherByCoords(pos.coords.latitude, pos.coords.longitude);
-  }, function() { document.getElementById('localWeather').textContent = ''; }, { timeout: 5000 });
+  }, function() { fetchWeatherByIP(); }, { timeout: 5000 });
+}
+
+function fetchWeatherByIP() {
+  fetch('https://ipapi.co/json/')
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      if (data.latitude && data.longitude) {
+        fetchWeatherByCoords(data.latitude, data.longitude);
+      }
+    })
+    .catch(function() { document.getElementById('localWeather').textContent = ''; });
 }
 
 updateLocalTime();
