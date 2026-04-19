@@ -131,8 +131,7 @@ body { font-family: var(--font-body); color: var(--color-text); background: var(
 .load-more-btn { font-family: var(--font-body); font-size: 0.8rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; padding: 0.65rem 2rem; border: 2px solid var(--color-section-rule); background: transparent; color: var(--color-text); cursor: pointer; transition: all 0.2s; border-radius: 2px; }
 .load-more-btn:hover { background: var(--color-tab-active-bg); color: var(--color-tab-active-text); }
 .stories-count { font-size: 0.72rem; color: var(--color-text-tertiary); margin-top: 0.5rem; }
-.local-info { font-size: 0.82rem; color: var(--color-text-secondary); margin-bottom: 1rem; letter-spacing: 0.02em; display: flex; align-items: center; gap: 0.4rem; }
-.local-divider { color: var(--color-text-tertiary); margin: 0 0.15rem; }
+.meta-divider { margin: 0 0.4em; color: var(--color-text-tertiary); }
 
 /* ============ ANALYSIS TAB ============ */
 /* DATE TIMELINE */
@@ -237,10 +236,7 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
                 <input type="text" class="search-input" id="searchInput" placeholder="Search headlines..." oninput="filterHeadlines()">
             </div>
             <div class="headlines-meta" id="headlinesMeta">
-                <span id="headlinesDate"></span><span id="headlinesSep"></span><span id="headlinesLabel"></span>
-            </div>
-            <div class="local-info" id="localInfo">
-                <span id="localTime"></span><span class="local-divider">·</span><span id="localWeather"></span>
+                <span id="headlinesDate"></span><span id="headlinesSep"></span><span id="headlinesLabel"></span><span class="meta-divider">·</span><span id="localTime"></span><span class="meta-divider">·</span><span id="localWeather"></span>
             </div>
             <div id="headlinesFeed"></div>
         </div>
