@@ -370,25 +370,49 @@ function updateLocalTime() {
   document.getElementById('localTime').textContent = now.toLocaleTimeString(undefined, opts);
 }
 
+var weatherIcons = {0:'☀️',1:'🌤️',2:'⛅',3:'☁️',45:'🌫️',48:'🌫️',51:'🌦️',53:'🌦️',55:'🌧️',61:'🌧️',63:'🌧️',65:'🌧️',71:'🌨️',73:'🌨️',75:'❄️',80:'🌦️',81:'🌧️',82:'🌧️',85:'🌨️',86:'❄️',95:'⛈️',96:'⛈️',99:'⛈️'};
+
+function renderWeather(data) {
+  var w = data.current_weather;
+  var temp = Math.round(w.temperature);
+  var icon = weatherIcons[w.weathercode] || '🌡️';
+  document.getElementById('localWeather').textContent = icon + ' ' + temp + '°C';
+}
+
+function fetchWeatherByCoords(lat, lon) {
+  fetch('https://api.open-meteo.com/v1/forecast?latitude=' + lat + '&longitude=' + lon + '&current_weather=true')
+    .then(function(r) { return r.json(); })
+    .then(function(data) {
+      renderWeather(data);
+      // Cache coords for next load
+      try { localStorage.setItem('fn_coords', JSON.stringify({lat:lat, lon:lon})); } catch(e) {}
+    })
+    .catch(function() { document.getElementById('localWeather').textContent = ''; });
+}
+
 function fetchWeather() {
+  // Try cached coords first (avoids re-prompting for location)
+  try {
+    var cached = localStorage.getItem('fn_coords');
+    if (cached) {
+      var c = JSON.parse(cached);
+      fetchWeatherByCoords(c.lat, c.lon);
+      // Also try to refresh coords in background
+      if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(function(pos) {
+          fetchWeatherByCoords(pos.coords.latitude, pos.coords.longitude);
+        }, function() {}, { timeout: 8000 });
+      }
+      return;
+    }
+  } catch(e) {}
+
   if (!navigator.geolocation) {
     document.getElementById('localWeather').textContent = '';
     return;
   }
   navigator.geolocation.getCurrentPosition(function(pos) {
-    var lat = pos.coords.latitude;
-    var lon = pos.coords.longitude;
-    fetch('https://api.open-meteo.com/v1/forecast?latitude=' + lat + '&longitude=' + lon + '&current_weather=true')
-      .then(function(r) { return r.json(); })
-      .then(function(data) {
-        var w = data.current_weather;
-        var temp = Math.round(w.temperature);
-        var code = w.weathercode;
-        var icons = {0:'☀️',1:'🌤️',2:'⛅',3:'☁️',45:'🌫️',48:'🌫️',51:'🌦️',53:'🌦️',55:'🌧️',61:'🌧️',63:'🌧️',65:'🌧️',71:'🌨️',73:'🌨️',75:'❄️',80:'🌦️',81:'🌧️',82:'🌧️',85:'🌨️',86:'❄️',95:'⛈️',96:'⛈️',99:'⛈️'};
-        var icon = icons[code] || '🌡️';
-        document.getElementById('localWeather').textContent = icon + ' ' + temp + '°C';
-      })
-      .catch(function() { document.getElementById('localWeather').textContent = ''; });
+    fetchWeatherByCoords(pos.coords.latitude, pos.coords.longitude);
   }, function() { document.getElementById('localWeather').textContent = ''; }, { timeout: 5000 });
 }
 
