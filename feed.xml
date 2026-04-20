@@ -1,185 +1,211 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FrontionNews - Geopolitical Headlines</title>
-    <link>https://alprnkmbr.github.io/frontion-news/</link>
-    <description>Breaking geopolitical news from Tier 1 sources worldwide</description>
-    <language>en</language>
-    <lastBuildDate>Mon, 20 Apr 2026 13:51:50 +0300</lastBuildDate>
+    <title>Frontion News - Tier 1 Geopolitical Headlines</title>
+    <link>https://frontion.news</link>
+    <description>Breaking geopolitical news curated from Tier 1 sources worldwide</description>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Apr 2026 09:30:00 +0300</lastBuildDate>
+    <atom:link href="https://frontion.news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Major 7.5-Magnitude Earthquake Strikes Off Japan, Tsunami Warning Issued</title>
-      <link>https://www.reuters.com/business/environment/strong-74-magnitude-quake-hits-off-japan-tsunami-warning-issued-2026-04-20/</link>
-      <description>A powerful 7.5-magnitude earthquake struck off the northeastern coast of Japan, prompting a tsunami warning with waves of up to 3 meters expected. Bullet train operations were halted and residents were urged to evacuate coastal areas.</description>
-      <pubDate>Mon, 20 Apr 2026 12:20:00 +0300</pubDate>
-      <category>Asia-Pacific</category>
-    </item>
-    <item>
-      <title>Italy Discusses Expanding EU Naval Mission to Protect Strait of Hormuz</title>
-      <link>https://english.aawsat.com/world/5264417-italy-discussing-expanding-eu-aspides-mission-include-strait-hormuz-defense-minister</link>
-      <description>Italy's defense minister said discussions are underway to expand the EU's Aspides naval mission to include the Strait of Hormuz, warning that Iran's missile and nuclear ambitions pose a global threat. The minister stressed that Asian countries should assume greater responsibility given the strait's vital importance to their economies.</description>
-      <pubDate>Mon, 20 Apr 2026 12:20:00 +0300</pubDate>
-      <category>Europe</category>
-    </item>
-    <item>
-      <title>Bulgaria's Pro-Russian Former President Wins Election by Landslide</title>
-      <link>https://www.reuters.com/world/europe/bulgarias-kremlin-friendly-ex-president-set-landslide-election-win-2026-04-20/</link>
-      <description>Pro-Russian former President Rumen Radev has won Bulgaria's election by a landslide, official results showed, potentially pushing the EU and NATO member state closer to Moscow. Radev may secure a parliamentary majority, ending years of weak coalition governments.</description>
-      <pubDate>Mon, 20 Apr 2026 12:20:00 +0300</pubDate>
-      <category>Europe</category>
-    </item>
-    <item>
-      <title>China Warns Joint US-Philippines-Japan Drills Risk Regional Trust</title>
-      <link>https://www.thejakartapost.com/world/2026/04/20/china-warns-joint-us-philippines-and-japan-drills-risk-regional-trust-.html</link>
-      <description>China warned that joint military drills involving the US, Philippines and Japan risk undermining regional trust, as more than 17,000 troops launched the Balikatan exercises. Beijing said the Asia-Pacific region needs peace and tranquility, not the introduction of external forces.</description>
-      <pubDate>Mon, 20 Apr 2026 12:20:00 +0300</pubDate>
-      <category>Asia-Pacific</category>
-    </item>
-    <item>
-      <title>Iran Studied Ukraine War to Sharpen Drone and AI Capabilities Before US Operation</title>
-      <link>https://english.nv.ua/nation/iran-studied-ukraine-war-lessons-on-ai-and-drones-before-u-s-operation-ft-reports-50601481.html</link>
-      <description>Iranian military commanders closely studied the war in Ukraine before launching operations against the US, focusing on drones, 3D printing and AI-powered systems. The FT reports Tehran applied lessons from Kyiv's asymmetric warfare to prepare for conflict with Washington.</description>
-      <pubDate>Mon, 20 Apr 2026 12:20:00 +0300</pubDate>
-      <category>US-Iran War</category>
-    </item>
-    <item>
-      <title>Iran to Send Negotiation Team to Islamabad Tuesday Despite Blockade Tensions</title>
-      <link>https://asia.nikkei.com/spotlight/iran-tensions/iran-war/iran-to-send-negotiation-team-to-islamabad-say-pakistani-officials</link>
-      <description>An Iranian delegation will arrive in Islamabad on Tuesday for a second round of peace talks, Pakistani official sources told Nikkei Asia, despite Tehran's earlier statements that it would not send negotiators while the US navy maintains its blockade. The mediator says the focus is on ceasefire extension as 'complex issues' require more time.</description>
-      <pubDate>Mon, 20 Apr 2026 11:10:00 +0300</pubDate>
-      <category>US-Iran War</category>
-    </item>
-    <item>
-      <title>Asian Financial Regulators Sound Alert Over Anthropic's Mythos AI Security Risks</title>
-      <link>https://www.scmp.com/news/asia/australasia/article/3350701/asian-financial-bodies-sound-alert-anthropics-mythos-ai-hacker</link>
-      <description>Regulators across Asia are stepping up scrutiny of cybersecurity risks in financial systems as concerns spread over Anthropic's latest AI model Mythos. Singapore's financial regulator is urging banks to plug holes, while South Korea convened an emergency meeting after Anthropic found the model capable of discovering security holes that had gone undetected for years.</description>
-      <pubDate>Mon, 20 Apr 2026 11:10:00 +0300</pubDate>
-      <category>Cyber</category>
-    </item>
-    <item>
-      <title>Germany Begins Privatization of Seized Gazprom Unit SEFE</title>
-      <link>https://oilprice.com/Latest-Energy-News/World-News/Germany-Moves-to-Privatize-Ex-Gazprom-Unit-SEFE.html</link>
-      <description>The German government will begin the official privatization of SEFE, the state entity formed from Gazprom's seized German unit. Berlin plans to raise 1.5-2 billion euros to expand the company's energy infrastructure, with SEFE having already secured long-term LNG supply deals with Norway's Equinor and UAE's ADNOC to reduce dependence on Russian gas.</description>
-      <pubDate>Mon, 20 Apr 2026 11:10:00 +0300</pubDate>
-      <category>Energy</category>
-    </item>
-    <item>
-      <title>Asia's EV Revolution Accelerates as Iran War Oil Shock Hits Pump Prices</title>
-      <link>https://www.scmp.com/week-asia/economics/article/3350481/asias-ev-revolution-shifts-overdrive-iran-war-oil-shock</link>
-      <description>With Brent crude hovering around $100 per barrel amid the Iran war and Strait of Hormuz disruption, Asian nations heavily dependent on oil imports are accelerating their shift to electric vehicles. Nepal now ranks second globally for EV sales share at over 70% of new vehicle sales, as the combination of abundant hydropower and high fossil fuel taxes makes petrol cars a luxury few see the point in buying.</description>
-      <pubDate>Mon, 20 Apr 2026 11:10:00 +0300</pubDate>
-      <category>Asia-Pacific</category>
-    </item>
-    <item>
-      <title>Iran Agrees to Attend Second Round of US Talks Despite Hormuz Hostilities</title>
-      <link>https://www.aa.com.tr/en/world/iran-to-attend-2nd-round-of-talks-with-us-despite-strait-of-hormuz-hostilities-pakistani-sources/3911849</link>
-      <description>An Iranian delegation is expected to arrive in Islamabad on Tuesday for the second round of talks with the US, according to Pakistani sources, despite ongoing Strait of Hormuz hostilities. The talks come as the fragile ceasefire faces strain from the US seizure of an Iranian cargo vessel and mutual accusations of violations.</description>
-      <pubDate>Mon, 20 Apr 2026 11:10:00 +0300</pubDate>
-      <category>US-Iran War</category>
-    </item>
-    <item>
-      <title>Ukrainian Drone Attack on Russia's Tuapse Port Kills One</title>
-      <link>https://www.reuters.com/world/europe/ukrainian-drone-attack-russias-tuapse-port-kills-one-2026-04-20/</link>
-      <description>A major Ukrainian drone attack on Russia's Black Sea port of Tuapse sparked a fire and killed at least one person, Russian officials said, just hours after a blaze was doused in the wake of a similar attack on April 16. The strike is part of Kyiv's campaign targeting Russian energy export infrastructure.</description>
-      <pubDate>Mon, 20 Apr 2026 10:00:00 +0300</pubDate>
-      <category>Ukraine-Russia War</category>
-    </item>
-    <item>
-      <title>National Australia Bank Flags $503 Million Impairment Hit From Mideast Volatility</title>
-      <link>https://www.reuters.com/business/finance/national-australia-bank-flags-503-million-impairment-hit-mideast-volatility-2026-04-20/</link>
-      <description>Australia's largest business lender said it expects credit impairment charges to double to A$706 million ($503 million) in the first half, as the Iran war roils the global economy and financial markets. The announcement reflects growing concerns about the conflict's impact on banking sector stability.</description>
-      <pubDate>Mon, 20 Apr 2026 10:00:00 +0300</pubDate>
-      <category>Economy</category>
-    </item>
-    <item>
-      <title>Bank Indonesia to Hold Rates at 4.75% Through 2026 as Iran War Fuels Inflation Risks</title>
-      <link>https://www.reuters.com/world/asia-pacific/bank-indonesia-hold-rates-475-through-2026-iran-war-fuels-inflation-risks-2026-04-20/</link>
-      <description>Bank Indonesia is set to keep its key policy rate unchanged at 4.75%, according to a Reuters poll of 31 economists, with many paring bets for cuts this year as an Iran war-fuelled energy shock pushes up inflation and pressures the rupiah. Emerging markets face tightening monetary conditions amid the crisis.</description>
-      <pubDate>Mon, 20 Apr 2026 10:00:00 +0300</pubDate>
-      <category>Economy</category>
-    </item>
-    <item>
-      <title>European Shares Set to Open Lower as Hopes for US-Iran Peace Fade</title>
-      <link>https://www.reuters.com/business/european-shares-set-open-lower-hopes-us-iran-peace-fade-2026-04-20/</link>
-      <description>Futures tracking Europe's main stock indexes fell more than 1% as hopes for peace in the Middle East ebbed with tensions reigniting after Washington seized an Iranian cargo ship that tried to run its blockade and Tehran vowed to retaliate. European markets face uncertainty as the ceasefire appears increasingly fragile.</description>
-      <pubDate>Mon, 20 Apr 2026 10:00:00 +0300</pubDate>
-      <category>Economy</category>
-    </item>
-    <item>
-      <title>UAE Bourses Ease on Renewed US-Iran Tensions</title>
-      <link>https://www.reuters.com/world/middle-east/uae-bourses-ease-renewed-us-iran-tensions-2026-04-20/</link>
-      <description>UAE markets retreated in early trade as fears deepened that the ceasefire between Washington and Tehran could unravel after the US seized an Iranian cargo vessel, while traffic through the Strait of Hormuz remained largely suspended. Gulf equities remain volatile amid the ongoing crisis.</description>
-      <pubDate>Mon, 20 Apr 2026 10:00:00 +0300</pubDate>
-      <category>Economy</category>
-    </item>
-    <item>
-      <title>Pope Leo Condemns 'Tyrants' Spending Billions on Wars During Africa Visit</title>
+      <title>⚠️ Pope Leo Condemns 'Tyrants' Spending Billions on Wars During Africa Visit</title>
       <link>https://www.bbc.co.uk/news/articles/cvg0z3n5e5jo</link>
       <description>Pope Leo XIV criticized 'tyrants' who spend billions on wars during his visit to conflict-hit Cameroon, saying 'the world is being ravaged by a handful of tyrants.' The pontiff also criticized foreigners who exploit Africa's wealth for profit, days after a public spat with President Trump over the Iran war.</description>
-      <pubDate>Mon, 20 Apr 2026 09:30:00 +0300</pubDate>
       <category>Diplomacy</category>
+      <source url="https://www.bbc.co.uk">BBC</source>
+      <pubDate>Sun, 20 Apr 2026 09:30:00 +0300</pubDate>
     </item>
     <item>
-      <title>Iran Executes Two Men Convicted of Links to Israel's Mossad Spy Agency</title>
+      <title>🇮🇷 Iran Executes Two Men Convicted of Links to Israel's Mossad Spy Agency</title>
       <link>https://www.timeslive.co.za/news/world/2026-04-20-iran-executes-two-men-for-spy-network-ties-to-israel/</link>
       <description>Iran executed two men convicted of cooperating with Israel's Mossad intelligence service and planning attacks inside the country. The two, identified as Mohammad Masoum Shahi and Hamed Validi, were accused of belonging to a spy network and had received training abroad including in Iraq's Kurdistan region.</description>
-      <pubDate>Mon, 20 Apr 2026 09:30:00 +0300</pubDate>
       <category>Middle East</category>
+      <source url="https://www.reuters.com">Reuters</source>
+      <pubDate>Sun, 20 Apr 2026 09:30:00 +0300</pubDate>
     </item>
     <item>
-      <title>Four Candidates Vie to Lead Embattled UN Amid Global Crises and Budget Woes</title>
+      <title>🇺🇳 Four Candidates Vie to Lead Embattled UN Amid Global Crises and Budget Woes</title>
       <link>https://english.aawsat.com/world/5264399-%E2%80%98save-humanity%E2%80%99-four-figures-battling-it-out-lead-embattled-un</link>
       <description>Four candidates are competing to succeed Antonio Guterres as UN Secretary-General, facing unprecedented global instability, wars and a crushing budget crisis. Chile's Michelle Bachelet, Argentina's Rafael Grossi, Costa Rica's Rebeca Grynspan, and Senegal's Macky Sall will face grillings by 193 member states.</description>
-      <pubDate>Mon, 20 Apr 2026 09:30:00 +0300</pubDate>
       <category>Diplomacy</category>
+      <source url="https://english.aawsat.com">AFP</source>
+      <pubDate>Sun, 20 Apr 2026 09:30:00 +0300</pubDate>
     </item>
     <item>
-      <title>US and Philippines Kick Off Major Combat Drills Despite Iran War Focus</title>
+      <title>🇺🇸🇵🇭 US and Philippines Kick Off Major Combat Drills Despite Iran War Focus</title>
       <link>https://thehill.com/homenews/ap/ap-international/ap-us-and-allied-forces-kick-off-combat-drills-with-philippines-despite-washingtons-focus-on-iran/</link>
       <description>The United States and the Philippines kicked off one of their largest combat exercises Monday, demonstrating continued US military commitment to the Indo-Pacific region despite Washington's focus on the Iran war. The annual Balikatan exercises come amid rising tensions with China in the South China Sea.</description>
-      <pubDate>Mon, 20 Apr 2026 09:30:00 +0300</pubDate>
       <category>Asia-Pacific</category>
+      <source url="https://apnews.com">AP News</source>
+      <pubDate>Sun, 20 Apr 2026 09:30:00 +0300</pubDate>
     </item>
     <item>
-      <title>Pope Leo Criticizes Foreigners Exploiting Africa's Wealth During Cameroon Visit</title>
+      <title>🌍 Pope Leo Criticizes Foreigners Exploiting Africa's Wealth During Cameroon Visit</title>
       <link>https://www.yahoo.com/news/articles/blunt-speaking-pope-tells-cameroon-112847324.html</link>
       <description>Pope Leo XIV criticized foreigners who 'in the name of profit, continue to lay their hands on the African continent to exploit and plunder it' during his visit to Bamenda, Cameroon. The pontiff addressed 20,000 worshippers in a city at the center of a brutal separatist rebellion that has killed at least 6,000 people.</description>
-      <pubDate>Mon, 20 Apr 2026 09:30:00 +0300</pubDate>
       <category>Africa</category>
+      <source url="https://www.bbc.co.uk">BBC</source>
+      <pubDate>Sun, 20 Apr 2026 09:30:00 +0300</pubDate>
     </item>
     <item>
-      <title>North Korea Tests Ballistic Missiles With Cluster Munition Warheads</title>
+      <title>🇰🇵 North Korea Tests Ballistic Missiles With Cluster Munition Warheads</title>
       <link>https://apnews.com/article/north-korea-kim-cluster-bombs-missiles-6e84f9d5a62f2067af2df8735fbc279d</link>
       <description>North Korea test-launched five Hwasong-11 Ra ballistic missiles armed with cluster bomb and fragmentation mine warheads, with Kim Jong Un and his daughter observing. The tests highlight Pyongyang's push to develop weapons capable of penetrating US and South Korean defenses, potentially inspired by cluster munitions use in the Iran war.</description>
-      <pubDate>Mon, 20 Apr 2026 08:30:00 +0300</pubDate>
       <category>Asia-Pacific</category>
+      <source url="https://apnews.com">AP News</source>
+      <pubDate>Sun, 20 Apr 2026 08:30:00 +0300</pubDate>
     </item>
     <item>
-      <title>Iran Rejects Second Round of US Peace Talks Citing 'Excessive Demands'</title>
+      <title>🛑 Iran Rejects Second Round of US Peace Talks Citing 'Excessive Demands'</title>
       <link>https://www.cnbc.com/2026/04/19/iran-says-talks-continue-while-it-retains-control-of-strait-of-hormuz-.html</link>
       <description>Iran's state news agency IRNA denied participation in new peace talks with the US, citing Washington's 'excessive demands, unrealistic expectations' and the continued naval blockade. The diplomatic setback came as JD Vance and Jared Kushner were reportedly preparing to travel to Islamabad for negotiations.</description>
-      <pubDate>Mon, 20 Apr 2026 08:30:00 +0300</pubDate>
       <category>US-Iran War</category>
+      <source url="https://www.cnbc.com">CNBC</source>
+      <pubDate>Sun, 20 Apr 2026 08:30:00 +0300</pubDate>
     </item>
     <item>
-      <title>Oil Prices Surge 6% as US-Iran Standoff Blocks Strait of Hormuz</title>
+      <title>🛢️ Oil Prices Surge 6% as US-Iran Standoff Blocks Strait of Hormuz</title>
       <link>https://apnews.com/article/oil-prices-crude-iran-war-4de9058b58ed944a4113dfb2cf6369c8</link>
       <description>Oil prices jumped more than 6% in early trading after Iran reversed its decision to reopen the Strait of Hormuz. US crude rose to $87.90 per barrel and Brent climbed to $95.64, wiping out much of Friday's 9% decline as renewed doubts emerged about when the vital waterway will fully reopen.</description>
-      <pubDate>Mon, 20 Apr 2026 08:30:00 +0300</pubDate>
       <category>Energy</category>
+      <source url="https://apnews.com">AP News</source>
+      <pubDate>Sun, 20 Apr 2026 08:30:00 +0300</pubDate>
     </item>
     <item>
-      <title>Trump Says US Seized Iranian Cargo Ship After Blockade Breach Attempt</title>
+      <title>🚢 Trump Says US Seized Iranian Cargo Ship After Blockade Breach Attempt</title>
       <link>https://www.nbcnews.com/world/iran/iran-distance-peace-deal-hormuz-closure-halts-shipping-rcna340846</link>
       <description>President Trump said US forces seized the Iranian-flagged cargo vessel Touska after it ignored warnings and attempted to breach a US naval blockade. Iran's military called the seizure 'armed piracy' and vowed retaliation, as the fragile ceasefire set to expire Wednesday faces growing strain from mutual accusations of violations.</description>
-      <pubDate>Mon, 20 Apr 2026 08:30:00 +0300</pubDate>
       <category>US-Iran War</category>
+      <source url="https://www.nbcnews.com">NBC News</source>
+      <pubDate>Sun, 20 Apr 2026 08:30:00 +0300</pubDate>
     </item>
     <item>
-      <title>Ukraine Deploys Robots to Replace Human Soldiers in Combat Assault Missions</title>
+      <title>🤖 Ukraine Deploys Robots to Replace Human Soldiers in Combat Assault Missions</title>
       <link>https://www.cnn.com/2026/04/20/europe/robots-ukraine-battlefield-drones-intl-cmd</link>
       <description>Ukraine's military is increasingly using robots to replace human soldiers in combat, including assault missions. The unmanned ground vehicles and drones allow Kyiv to preserve manpower while maintaining pressure on Russian forces, marking a significant evolution in modern warfare tactics.</description>
-      <pubDate>Mon, 20 Apr 2026 08:00:00 +0300</pubDate>
       <category>Ukraine-Russia War</category>
+      <source url="https://www.cnn.com">CNN</source>
+      <pubDate>Sun, 20 Apr 2026 08:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>💰 Ukraine PM Says IMF Agreed Raising Tax on Self-Employed Is 'Not Constructive'</title>
+      <link>https://www.reuters.com/business/ukraines-pm-says-imf-agreed-raising-tax-self-employed-is-not-constructive-2026-04-19/</link>
+      <description>Ukrainian Prime Minister Yulia Svyrydenko said the IMF agreed during Washington talks that introducing VAT tax on self-employed individuals was 'not constructive' given Ukraine's wartime economic pressures. The issue has been contentious as Kyiv seeks to balance IMF reform demands with domestic political sensitivity.</description>
+      <category>Ukraine-Russia War</category>
+      <source url="https://www.reuters.com">Reuters</source>
+      <pubDate>Sun, 20 Apr 2026 08:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>🥇 Gold Falls as Dollar Strengthens on Renewed US-Iran Tensions</title>
+      <link>https://www.reuters.com/world/india/gold-falls-stronger-dollar-amid-renewed-us-iran-tensions-2026-04-20/</link>
+      <description>Gold prices fell as the dollar firmed amid renewed US-Iran tensions, with the Strait of Hormuz closure pushing oil prices higher and reviving inflation fears. The precious metal's decline reflects investor flight to the dollar as Middle East uncertainty persists.</description>
+      <category>Economy</category>
+      <source url="https://www.reuters.com">Reuters</source>
+      <pubDate>Sun, 20 Apr 2026 08:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>🇪🇺 Global Leftists Rally in Barcelona to Counter Far-Right Resurgence</title>
+      <link>https://www.reuters.com/world/americas/global-leftists-rally-spain-hoping-spark-resurgence-against-far-right-2026-04-19/</link>
+      <description>Thousands of leftists gathered in Barcelona over the weekend to brainstorm ways to halt the rise of authoritarianism, discussing reforms from UN Security Council restructuring to billionaire taxation. The summit aims to build momentum against the far-right's electoral gains across Europe and the Americas.</description>
+      <category>Europe</category>
+      <source url="https://www.reuters.com">Reuters</source>
+      <pubDate>Sun, 20 Apr 2026 08:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>🛢️ Analysis Questions Whether Strait of Hormuz Will Open Anytime Soon</title>
+      <link>https://www.reuters.com/markets/commodities/is-it-time-abandon-hope-strait-hormuz-will-open-soon-2026-04-20/</link>
+      <description>A consistent theme in global oil markets since the US-Israel attack on Iran has been that the Hormuz closure will be short-lived. However, with Iran reversing course on reopening and hardliners gaining influence in Tehran, analysts are questioning whether optimism about a rapid resolution is warranted.</description>
+      <category>Energy</category>
+      <source url="https://www.reuters.com">Reuters</source>
+      <pubDate>Sun, 20 Apr 2026 08:00:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>🇧🇬 Pro-Russian Former President Radev Claims Victory in Bulgaria's Parliamentary Elections</title>
+      <link>https://www.ft.com/content/0a4fc2b2-cebf-4202-9ac5-56a965fb262e</link>
+      <description>Russia-friendly former president Rumen Radev is on course to win Bulgaria's parliamentary elections with a potential outright majority, a result that could stabilize the country but shift the EU and NATO member's foreign policy orientation toward Moscow amid the ongoing geopolitical realignment.</description>
+      <category>Europe</category>
+      <source url="https://www.ft.com">Financial Times</source>
+      <pubDate>Sun, 20 Apr 2026 07:01:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>🇧🇬 Bulgaria's Pro-Russian Radev Set for Landslide Win in Eighth Election in Five Years</title>
+      <link>https://www.bbc.com/news/articles/cm2kgm1zpgro</link>
+      <description>Exit polls put Rumen Radev's Progressive Bulgaria coalition at 37%, more than double the score of the closest runner-up. The former president, who has opposed EU sanctions on Russia, may need to form a coalition but could fundamentally alter Bulgaria's stance within NATO and the European Union.</description>
+      <category>Europe</category>
+      <source url="https://www.bbc.com">BBC</source>
+      <pubDate>Sun, 20 Apr 2026 07:01:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>🇧🇬 New York Times Reports Bulgarian Voters Back Radev's Pro-Russian Coalition</title>
+      <link>https://www.nytimes.com/2026/04/19/world/europe/bulgaria-elections-results.html</link>
+      <description>With citizens yearning for prosperity enjoyed by other Europeans, Bulgaria held its eighth election in five years, with pro-Russian former President Rumen Radev's coalition poised to win. The outcome could end political deadlock but raise concerns about Bulgaria's commitment to Western alliances.</description>
+      <category>Europe</category>
+      <source url="https://www.nytimes.com">New York Times</source>
+      <pubDate>Sun, 20 Apr 2026 07:01:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>🇺🇦 Zelensky Condemns US Sanctions Waiver Giving Russia Billions for War Effort</title>
+      <link>https://www.lemonde.fr/en/energies/article/2026/04/19/zelensky-says-oil-sanctions-relief-provides-billions-for-russian-military_6752579_98.html</link>
+      <description>Ukrainian President Volodymyr Zelensky condemned the easing of sanctions on Russian oil after the United States extended a waiver allowing Moscow to sell crude already loaded on vessels. Zelensky warned that Russia's shadow fleet of 110 tankers would bring billions to fund the war against Ukraine.</description>
+      <category>Ukraine-Russia War</category>
+      <source url="https://www.lemonde.fr">Le Monde</source>
+      <pubDate>Sun, 20 Apr 2026 07:01:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>🌍 The Guardian Live Coverage: US Officials Head to Pakistan as Hormuz Crisis Deepens</title>
+      <link>https://www.theguardian.com/world/live/2026/apr/19/middle-east-crisis-live-iran-us-strait-of-hormuz-trump-lebanon-israel</link>
+      <description>The Guardian's live coverage tracks the deepening Middle East crisis as US officials prepare to travel to Pakistan for negotiations amid the Iran-US standoff. The Strait of Hormuz remains a critical flashpoint with global energy supplies at stake.</description>
+      <category>US-Iran War</category>
+      <source url="https://www.theguardian.com">The Guardian</source>
+      <pubDate>Sun, 20 Apr 2026 07:01:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>🚢 World Weighs Fate of Mideast Ceasefire After US Seizes Iranian Cargo Ship</title>
+      <link>https://www.reuters.com/world/asia-pacific/world-weighs-fate-mideast-ceasefire-after-us-seizes-iranian-cargo-ship-2026-04-20/</link>
+      <description>The US military said it fired on an Iranian-flagged cargo ship as the vessel sailed toward Iran's Bandar Abbas port, while Iran's military said the ship had been traveling from China. The seizure throws the fragile ceasefire into question as negotiators head to Pakistan for talks.</description>
+      <category>US-Iran War</category>
+      <source url="https://www.reuters.com">Reuters</source>
+      <pubDate>Sun, 20 Apr 2026 06:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>🛢️ Oil Price Plunge on US-Iran Peace Hopes Gives Indian Markets Some Breather</title>
+      <link>https://www.reuters.com/world/india/oil-price-plunge-us-iran-peace-hopes-give-rupee-bonds-some-breather-2026-04-20/</link>
+      <description>The Indian rupee and government bonds will be comforted by a drop in oil prices even as shipping through the Strait of Hormuz remains at a standstill, days before a ceasefire between the United States and Iran is set to expire.</description>
+      <category>Economy</category>
+      <source url="https://www.reuters.com">Reuters</source>
+      <pubDate>Sun, 20 Apr 2026 06:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>📈 Wall Street Set to Wade Deeper Into Earnings Season as Stocks Hit Record Highs</title>
+      <link>https://www.reuters.com/business/wall-st-week-ahead-surging-record-high-us-stocks-wade-deeper-into-earnings-2026-04-20/</link>
+      <description>Investors will look to a heavy week of US corporate results to further fuel a stunning rebound in the stock market, which has shaken off war-related concerns to reach record peaks despite ongoing Middle East tensions.</description>
+      <category>Economy</category>
+      <source url="https://www.reuters.com">Reuters</source>
+      <pubDate>Sun, 20 Apr 2026 06:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>🏦 US Officials Attend IMF Meetings in 'Parallel Reality' as World Grapples With Oil Crisis</title>
+      <link>https://www.reuters.com/commentary/breakingviews/us-attends-imf-meetings-parallel-reality-2026-04-19/</link>
+      <description>The IMF's spring meetings buzzed with talk of a 13 million barrel per day oil shortfall reshaping economies, rates and defense alliances, yet US officials treated it as a sideshow. The disconnect highlights how counting on US leadership to resolve crises is no longer the guarantee it had long been.</description>
+      <category>Economy</category>
+      <source url="https://www.reuters.com">Reuters</source>
+      <pubDate>Sun, 20 Apr 2026 06:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>⚠️ Trump Issues Iran Ultimatum as Bulgaria Votes and Robots Race Ahead</title>
+      <link>https://www.reuters.com/podcasts/trumps-iran-ultimatum-bulgaria-votes-robots-race-ahead-2026-04-19/</link>
+      <description>US President Donald Trump accused Iran of a 'total violation' of the ceasefire, threatened to wipe out Iran's bridges and power plants, and said his envoys will arrive in Pakistan on Monday for more talks. Meanwhile, Bulgaria's pro-Russian former president appears set for election victory.</description>
+      <category>US-Iran War</category>
+      <source url="https://www.reuters.com">Reuters</source>
+      <pubDate>Sun, 20 Apr 2026 06:30:00 +0300</pubDate>
+    </item>
+    <item>
+      <title>🇺🇸 Man Kills 8 Children in Louisiana Mass Shooting, Deadliest US Attack in Two Years</title>
+      <link>https://www.scmp.com/news/world/united-states-canada/article/3350653/8-children-killed-after-shootings-louisiana-police-say</link>
+      <description>A gunman killed eight children aged 1 to 14 in domestic-related shootings at two homes in Louisiana before being shot dead by police. It was the deadliest mass shooting in the United States in more than two years, reigniting debates over gun violence.</description>
+      <category>US Politics</category>
+      <source url="https://www.scmp.com">SCMP</source>
+      <pubDate>Sun, 20 Apr 2026 06:15:00 +0300</pubDate>
     </item>
   </channel>
 </rss>
