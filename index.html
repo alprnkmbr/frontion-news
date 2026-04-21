@@ -94,7 +94,8 @@ html.dark-mode .status-bar-bg { background: #0d0d0d; }
 .tab-bar { max-width: var(--max-width); margin: 0 auto; padding: 1.25rem 1.5rem 0; display: flex; gap: 0; }
 .tab-btn { flex: 1; text-align: center; font-family: var(--font-body); font-size: 0.78rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; padding: 0.65rem 1rem; border: 2px solid var(--color-section-rule); background: var(--color-tab-inactive-bg); color: var(--color-tab-inactive-text); cursor: pointer; transition: all 0.2s; }
 .tab-btn:first-child { border-radius: 3px 0 0 3px; }
-.tab-btn:last-child { border-radius: 0 3px 3px 0; border-left: none; }
+.tab-btn:last-child { border-radius: 0 3px 3px 0; }
+.tab-btn:not(:first-child) { border-left: none; }
 .tab-btn.active { background: var(--color-tab-active-bg); color: var(--color-tab-active-text); }
 .tab-btn:hover:not(.active) { background: var(--color-border-light); }
 .tab-divider { max-width: var(--max-width); margin: 0 auto; padding: 0 1.5rem; }
@@ -228,6 +229,7 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
     <div class="tab-bar">
         <button class="tab-btn active" onclick="switchTab('headlines')">Headlines</button>
         <button class="tab-btn" onclick="switchTab('analysis')">Big Picture</button>
+        <button class="tab-btn" onclick="switchTab('turkey')">Türkiye Brief</button>
     </div>
     <div class="tab-divider"><hr></div>
 
@@ -242,6 +244,21 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
                 <span id="headlinesDate"></span><span class="meta-divider">·</span><span id="localTime"></span><span class="meta-divider">·</span><span id="localWeather"></span>
             </div>
             <div id="headlinesFeed"></div>
+        </div>
+
+        <!-- ============ TURKEY TAB ============ -->
+        <div id="tab-turkey" class="tab-content">
+
+            <div class="date-timeline">
+                <button class="timeline-arrow" id="turkeyPrevBtn" onclick="shiftTurkeyTimeline(-1)">←</button>
+                <div class="timeline-dates" id="turkeyTimelineDates"></div>
+                <button class="timeline-arrow" id="turkeyNextBtn" onclick="shiftTurkeyTimeline(1)">→</button>
+            </div>
+
+            <div id="turkeyContent">
+                <p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading Türkiye Brief…</p>
+            </div>
+
         </div>
 
         <!-- ============ ANALYSIS TAB ============ -->
@@ -547,6 +564,113 @@ function loadAnalysisIndex() {
       });
 }
 
+// ============ TURKEY BRIEF ============
+let turkeyBriefs = [];
+let turkeyCurrentIndex = 0;
+let turkeyViewOffset = 0;
+
+function renderTurkeyTimeline() {
+    const container = document.getElementById('turkeyTimelineDates');
+    const start = turkeyViewOffset;
+    const end = Math.min(start + DATES_VISIBLE, turkeyBriefs.length);
+    let html = '';
+    for (let i = start; i < end; i++) {
+        const b = turkeyBriefs[i];
+        const active = i === turkeyCurrentIndex ? ' active' : '';
+        html += `<a href="#" class="timeline-date${active}" onclick="selectTurkeyDate(${i}); return false;" title="${b.title}">${formatDateShort(b.date)}</a>`;
+        if (i < end - 1) html += '<div class="timeline-divider"></div>';
+    }
+    container.innerHTML = html;
+    document.getElementById('turkeyPrevBtn').disabled = turkeyViewOffset <= 0;
+    document.getElementById('turkeyNextBtn').disabled = end >= turkeyBriefs.length;
+}
+
+function shiftTurkeyTimeline(dir) {
+    const newOffset = turkeyViewOffset + dir;
+    if (newOffset < 0 || newOffset + DATES_VISIBLE > turkeyBriefs.length) return;
+    turkeyViewOffset = newOffset;
+    renderTurkeyTimeline();
+}
+
+function selectTurkeyDate(index) {
+    turkeyCurrentIndex = index;
+    renderTurkeyTimeline();
+    loadTurkeyBrief(turkeyBriefs[index].date);
+}
+
+function loadTurkeyBrief(dateSlug) {
+    const container = document.getElementById('turkeyContent');
+    container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading Türkiye Brief…</p>';
+    
+    fetch(`turkey/${dateSlug}.json?v=` + Date.now())
+      .then(r => r.json())
+      .then(brief => {
+        const dateObj = new Date(brief.date + 'T00:00:00');
+        const dateStr = dateObj.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+        
+        let html = `
+          <h1 class="brief-headline">${brief.title}</h1>
+          <div class="brief-subhead">${brief.subhead}</div>
+          <div class="brief-meta">
+              <time datetime="${brief.date}">${dateStr}</time> · Frontion News Türkiye Strategic Analysis
+          </div>`;
+        
+        brief.sections.forEach((sec, i) => {
+          if (i > 0) html += '<hr class="section-divider">';
+          html += `
+          <div class="analysis-section">
+              <h2 class="section-heading">${sec.heading}</h2>
+              <div class="section-body">${sec.body}</div>
+              <div class="why-it-matters">
+                  <strong>Why it matters</strong> — ${sec.whyItMatters}
+              </div>
+          </div>`;
+        });
+        
+        if (brief.bottomLine) {
+          html += `
+          <div class="bottom-line">
+              <div class="bottom-line-kicker">Bottom Line</div>
+              <div class="bottom-line-body">
+                  <p>${brief.bottomLine}</p>
+              </div>
+          </div>`;
+        }
+
+        if (brief.sources) {
+          html += `
+          <div style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid var(--color-border-light);">
+              <div style="font-family:var(--font-body);font-size:0.72rem;font-weight:700;letter-spacing:0.18em;text-transform:uppercase;color:var(--color-text-tertiary);margin-bottom:0.5rem;">Sources</div>
+              <div style="font-family:var(--font-serif);font-size:0.85rem;line-height:1.6;color:var(--color-text-tertiary);">${brief.sources}</div>
+          </div>`;
+        }
+        
+        container.innerHTML = html;
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      })
+      .catch(err => {
+        container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load Türkiye Brief for this date.</p>';
+      });
+}
+
+function loadTurkeyIndex() {
+    fetch('turkey/index.json?v=' + Date.now())
+      .then(r => r.json())
+      .then(data => {
+        turkeyBriefs = data;
+        if (turkeyBriefs.length > 0) {
+          turkeyCurrentIndex = 0;
+          renderTurkeyTimeline();
+          loadTurkeyBrief(turkeyBriefs[0].date);
+        } else {
+          document.getElementById('turkeyContent').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">No Türkiye Brief available yet.</p>';
+        }
+      })
+      .catch(err => {
+        document.getElementById('turkeyContent').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load Türkiye Brief index.</p>';
+      });
+}
+
 // ============ DARK MODE ============
 function toggleDark() {
     document.documentElement.classList.toggle('dark-mode');
@@ -577,6 +701,7 @@ if ('serviceWorker' in navigator) {
 
 // Init
 loadAnalysisIndex();
+loadTurkeyIndex();
 loadHeadlines();
 </script>
 
