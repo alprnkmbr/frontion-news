@@ -1,211 +1,262 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-<channel>
-<title>Frontion News Headlines</title>
-<link>https://frontion.com</link>
-<description>Breaking geopolitical news from Tier 1 sources</description>
-<language>en-us</language>
-<lastBuildDate>Wed, 22 Apr 2026 10:05:20 +0300</lastBuildDate>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frontion News Headlines</title>
+    <link>https://frontion.news</link>
+    <description>Global geopolitical news headlines curated by Frontion</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Apr 2026 10:08:28 +0300</lastBuildDate>
+    <atom:link href="https://frontion.news/feed.xml" rel="self" type="application/rss+xml"/>
 
-<item>
-<title>🇨🇳 Chinese Navy Passes by Japanese Islands After Pacific Training</title>
-<link>https://www.reuters.com/world/china/chinese-navy-passes-by-japanese-islands-again-after-pacific-training-2026-04-22/</link>
-<description>A Chinese naval group including a destroyer passed through a waterway between Okinawa islands as it returned home after far-seas training, following a Japanese transit through the Taiwan Strait.</description>
-<category>Asia-Pacific</category>
-<source url="https://www.reuters.com/world/china/chinese-navy-passes-by-japanese-islands-again-after-pacific-training-2026-04-22/">Reuters</source>
-<pubDate>2026-04-22T10:03:00+03:00</pubDate>
-</item>
-<item>
-<title>⛪ Pope Visits Notorious Prison in Equatorial Guinea</title>
-<link>https://apnews.com/article/africa-pope-prison-human-rights-538f891c41446fbaa97eb36b9b1c2284</link>
-<description>Pope Leo XIV visited one of Equatorial Guinea's notorious prisons, drawing attention to human rights issues following recent US migrant deportations to the country.</description>
-<category>Diplomacy</category>
-<source url="https://apnews.com/article/africa-pope-prison-human-rights-538f891c41446fbaa97eb36b9b1c2284">AP News</source>
-<pubDate>2026-04-22T10:03:00+03:00</pubDate>
-</item>
-<item>
-<title>🇺🇸 Kevin Warsh Makes Case for Smaller Fed Balance Sheet</title>
-<link>https://www.reuters.com/business/finance/fed-chair-pick-warsh-makes-case-smaller-fed-holdings-hearing-2026-04-21/</link>
-<description>Federal Reserve chair nominee Kevin Warsh told a Senate panel he would work to reduce the Fed's bond holdings, a long-term project that would reshape the central bank's approach to monetary policy.</description>
-<category>Economy</category>
-<source url="https://www.reuters.com/business/finance/fed-chair-pick-warsh-makes-case-smaller-fed-holdings-hearing-2026-04-21/">Reuters</source>
-<pubDate>2026-04-22T10:03:00+03:00</pubDate>
-</item>
-<item>
-<title>🚢💥 Iran Fires on Container Ship in Strait of Hormuz After Ceasefire Extension</title>
-<link>https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-22-2026-267230f7f32b436822484479313840f7</link>
-<description>Iran paramilitary Revolutionary Guard opened fire on a container ship in the Strait of Hormuz, damaging the vessel. The attack comes despite Trump extending the ceasefire, raising tensions as peace talks remain uncertain.</description>
-<category>US-Iran War</category>
-<source url="https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-22-2026-267230f7f32b436822484479313840f7">AP News</source>
-<pubDate>2026-04-22T09:03:00+03:00</pubDate>
-</item>
-<item>
-<title>🇷🇺⚔️ Russia Has Taken 1,700 Square Kilometers of Ukraine This Year, Top General Says</title>
-<link>https://www.reuters.com/world/europe/russia-has-taken-1700-square-km-ukraine-this-year-top-general-says-2026-04-21/</link>
-<description>Russian forces have captured 1,700 sq km of Ukrainian territory in 2026 and are advancing on the Donbas fortress belt. The gains come as Ukraine struggles to secure EU loan funding amid the Druzhba pipeline dispute.</description>
-<category>Ukraine-Russia War</category>
-<source url="https://www.reuters.com/world/europe/russia-has-taken-1700-square-km-ukraine-this-year-top-general-says-2026-04-21/">Reuters</source>
-<pubDate>2026-04-22T09:03:00+03:00</pubDate>
-</item>
-<item>
-<title>☢️🇺🇳 NATO Criticises Russian and Chinese Nuclear Policies, Urges US Cooperation</title>
-<link>https://www.reuters.com/business/aerospace-defense/nato-criticises-russian-chinese-nuclear-stances-urges-cooperation-with-us-2026-04-21/</link>
-<description>NATO criticized Russian and Chinese nuclear arms policies and called on both countries to work with the United States to establish greater stability and transparency at an upcoming international conference.</description>
-<category>Diplomacy</category>
-<source url="https://www.reuters.com/business/aerospace-defense/nato-criticises-russian-chinese-nuclear-stances-urges-cooperation-with-us-2026-04-21/">Reuters</source>
-<pubDate>2026-04-22T09:03:00+03:00</pubDate>
-</item>
-<item>
-<title>🇹🇼🇺🇸 US Indo-Pacific Commander Warns Taiwan on Defense Budget Delay</title>
-<link>https://www.reuters.com/world/china/us-commander-warns-taiwan-not-starve-chicken-defense-2026-04-21/</link>
-<description>The head of US Indo-Pacific Command stressed Taiwan must pass its stalled defense budget, saying the US "cant want Taiwans defense more than they want it themselves" amid rising Chinese military activity.</description>
-<category>US-China</category>
-<source url="https://www.reuters.com/world/china/us-commander-warns-taiwan-not-starve-chicken-defense-2026-04-21/">Reuters</source>
-<pubDate>2026-04-22T09:03:00+03:00</pubDate>
-</item>
-<item>
-<title>🇳🇱🇪🇺 Dutch Intelligence: Europe Must Focus on Own Security as Global Threats Mount</title>
-<link>https://www.reuters.com/business/media-telecom/europe-should-focus-own-security-global-threats-mount-dutch-intelligence-agency-2026-04-21/</link>
-<description>The Dutch MIVD warned Europe must take greater responsibility for its own security, citing pressure on Western alliances and Chinas support for Russias war in Ukraine. The call comes amid US-Iran tensions straining transatlantic ties.</description>
-<category>Europe</category>
-<source url="https://www.reuters.com/business/media-telecom/europe-should-focus-own-security-global-threats-mount-dutch-intelligence-agency-2026-04-21/">Reuters</source>
-<pubDate>2026-04-22T09:03:00+03:00</pubDate>
-</item>
-<item>
-<title>🇨🇳 China may expand role in Saudi ties after Iran war concludes</title>
-<link>https://www.scmp.com/news/china/diplomacy/article/3350919/shifting-saudi-ties-what-role-could-china-take-after-iran-war-over</link>
-<description>SCMP analysis examines how Riyadh may shift toward self-reliance and diversifying partnerships as the Iran conflict reshapes regional dynamics.</description>
-<category>Middle East</category>
-<source url="https://www.scmp.com/news/china/diplomacy/article/3350919/shifting-saudi-ties-what-role-could-china-take-after-iran-war-over">SCMP</source>
-<pubDate>2026-04-22T08:10:00+03:00</pubDate>
-</item>
-<item>
-<title>🇵🇰 Pakistan blames US blockade, not Iranian divisions, for stalled peace talks</title>
-<link>https://asia.nikkei.com/spotlight/iran-tensions/iran-war/pakistanis-blame-us-blockade-not-iran-divisions-for-stalled-talks</link>
-<description>Nikkei Asia reports Pakistani officials attribute the deadlock in ceasefire negotiations to the US naval blockade of Iranian ports in the Strait of Hormuz.</description>
-<category>Diplomacy</category>
-<source url="https://asia.nikkei.com/spotlight/iran-tensions/iran-war/pakistanis-blame-us-blockade-not-iran-divisions-for-stalled-talks">Nikkei Asia</source>
-<pubDate>2026-04-22T08:10:00+03:00</pubDate>
-</item>
-<item>
-<title>🇺🇦 Ukrainian drones strike Samara Oblast in overnight attacks</title>
-<link>https://kyivindependent.com/ukrainian-drones-reportedly-target-russias-samara-oblast-in-overnight-attacks/</link>
-<description>Reports and social media footage show damage to residential buildings in Russia's Samara region as Ukrainian drones continue targeting Russian territory.</description>
-<category>Ukraine-Russia War</category>
-<source url="https://kyivindependent.com/ukrainian-drones-reportedly-target-russias-samara-oblast-in-overnight-attacks/">Kyiv Independent</source>
-<pubDate>2026-04-22T08:10:00+03:00</pubDate>
-</item>
-<item>
-<title>🛢️ IEA chief warns Iran war creating worst energy crisis in history</title>
-<link>https://gulfbusiness.com/en/2026/energy/iran-war-biggest-energy-crisis-iea-chief/</link>
-<description>International Energy Agency head says combined disruptions from Strait of Hormuz closure and Ukraine war fallout are squeezing global oil and gas supplies.</description>
-<category>Energy</category>
-<source url="https://gulfbusiness.com/en/2026/energy/iran-war-biggest-energy-crisis-iea-chief/">Gulf Business</source>
-<pubDate>2026-04-22T08:10:00+03:00</pubDate>
-</item>
-<item>
-<title>🇮🇶 US halts dollar shipments to Iraq to pressure Iran-backed militias</title>
-<link>https://www.timesofisrael.com/liveblog_entry/us-blocks-iraqs-dollar-shipments-in-bid-to-squeeze-iran-backed-militias-wsj/</link>
-<description>Trump administration freezes US dollar deliveries to Iraq and suspends security cooperation programs in effort to curb Iranian influence, according to Wall Street Journal.</description>
-<category>Middle East</category>
-<source url="https://www.timesofisrael.com/liveblog_entry/us-blocks-iraqs-dollar-shipments-in-bid-to-squeeze-iran-backed-militias-wsj/">Times of Israel</source>
-<pubDate>2026-04-22T08:10:00+03:00</pubDate>
-</item>
-<item>
-<title>🇪🇺 Europe Seeks Role in Iran War but Remains on Sidelines</title>
-<link>https://www.nytimes.com/2026/04/21/world/middleeast/iran-war-europe-macron-france.html</link>
-<description>A British-French plan to secure the Strait of Hormuz would give Europe a role in the conflict, but Tehran and Washington continue to call the shots, leaving European powers struggling for influence.</description>
-<category>Europe</category>
-<source url="https://www.nytimes.com/2026/04/21/world/middleeast/iran-war-europe-macron-france.html">New York Times</source>
-<pubDate>2026-04-22T08:03:00+03:00</pubDate>
-</item>
-<item>
-<title>🇪🇺 Mideast Crises Divide Europe Over Fuel Costs and Israel Policy</title>
-<link>https://apnews.com/article/european-union-middle-east-ukraine-energy-israel-07e072b251cf9eb48bff0526d1186b93</link>
-<description>European diplomats meeting in Luxembourg are grappling with rising fuel costs from the Iran conflict and policy divisions over Israel, as the war in Ukraine and Middle East tensions strain EU unity.</description>
-<category>Europe</category>
-<source url="https://apnews.com/article/european-union-middle-east-ukraine-energy-israel-07e072b251cf9eb48bff0526d1186b93">AP News</source>
-<pubDate>2026-04-22T08:03:00+03:00</pubDate>
-</item>
-<item>
-<title>🇨🇾 Cyprus President Urges EU to Create Defense Playbook for Member States Under Attack</title>
-<link>https://apnews.com/article/cyprus-eu-defense-nato-middle-east-india-2c8f1d530eea810d582f870a50ee799c</link>
-<description>Cyprus President Nikos Christodoulides says EU leaders must prepare a playbook for responding when member states call for help during attacks, as the bloc faces growing security challenges from multiple fronts.</description>
-<category>Europe</category>
-<source url="https://apnews.com/article/cyprus-eu-defense-nato-middle-east-india-2c8f1d530eea810d582f870a50ee799c">AP News</source>
-<pubDate>2026-04-22T08:03:00+03:00</pubDate>
-</item>
-<item>
-<title>🇨🇺 Trump Cuba Threats Revive Exile Hopes and Fears Over Property Claims</title>
-<link>https://apnews.com/article/cuba-castro-seized-property-claims-venezuela-08ef579c0de027f77bbda6cfc936d32b</link>
-<description>President Donald Trump's threat of military intervention in Cuba is raising hopes among Cuban Americans for regime change, while reigniting complex debates over property claims seized after the Castro revolution.</description>
-<category>US Politics</category>
-<source url="https://apnews.com/article/cuba-castro-seized-property-claims-venezuela-08ef579c0de027f77bbda6cfc936d32b">AP News</source>
-<pubDate>2026-04-22T08:03:00+03:00</pubDate>
-</item>
-<item>
-<title>🇺🇸🇮🇷 Uncertainty Hangs Over US-Iran Talks as Ceasefire Deadline Looms</title>
-<link>https://www.npr.org/2026/04/21/nx-s1-5793867/uncertainty-hangs-over-u-s-iran-talks-as-ceasefire-deadline-looms</link>
-<description>President Trump says he does not want to extend the ceasefire with Iran as the clock ticks down on the deadline, with diplomatic efforts to end the seven-week war facing significant obstacles.</description>
-<category>US-Iran War</category>
-<source url="https://www.npr.org/2026/04/21/nx-s1-5793867/uncertainty-hangs-over-u-s-iran-talks-as-ceasefire-deadline-looms">NPR</source>
-<pubDate>2026-04-22T08:03:00+03:00</pubDate>
-</item>
-<item>
-<title>🇲🇾 World's largest condom maker Karex to raise prices up to 30% due to Iran war</title>
-<link>https://www.bbc.com/news/articles/cy71zj1381po</link>
-<description>Malaysia-based Karex, which produces over 5 billion condoms annually for brands like Durex and Trojan, announced price hikes of up to 30% as the Iran conflict disrupts supplies of oil-derived materials including ammonia and silicone lubricants.</description>
-<category>Economy</category>
-<source url="https://www.bbc.com/news/articles/cy71zj1381po">BBC</source>
-<pubDate>2026-04-22T07:10:00+03:00</pubDate>
-</item>
-<item>
-<title>🇺🇸 Voting rights groups sue Trump administration over state voter roll demands</title>
-<link>https://www.reuters.com/legal/government/voting-rights-groups-sue-over-us-demand-state-voter-rolls-2026-04-21/</link>
-<description>Voting rights activists filed a lawsuit accusing the Trump administration of laying groundwork for voter purges that could illegally remove eligible voters ahead of contested US midterm elections in November.</description>
-<category>US Politics</category>
-<source url="https://www.reuters.com/legal/government/voting-rights-groups-sue-over-us-demand-state-voter-rolls-2026-04-21/">Reuters</source>
-<pubDate>2026-04-22T07:10:00+03:00</pubDate>
-</item>
-<item>
-<title>🇺🇸 Florida launches criminal probe into OpenAI over deadly university shooting</title>
-<link>https://www.reuters.com/world/us/florida-launches-criminal-probe-into-openai-chatgpt-over-deadly-shooting-2026-04-21/</link>
-<description>Florida's attorney general announced a criminal investigation into OpenAI and ChatGPT regarding a deadly shooting at Florida State University that killed two people last year.</description>
-<category>US Politics</category>
-<source url="https://www.reuters.com/world/us/florida-launches-criminal-probe-into-openai-chatgpt-over-deadly-shooting-2026-04-21/">Reuters</source>
-<pubDate>2026-04-22T07:10:00+03:00</pubDate>
-</item>
-<item>
-<title>🇺🇸 Virginia voters approve Democratic-backed congressional map</title>
-<link>https://www.reuters.com/world/us/virginia-voters-approve-new-democratic-backed-congressional-map-nbc-news-2026-04-22/</link>
-<description>Virginia voters approved a new congressional map that could help Democrats flip up to four Republican seats in the US House, further dimming Trump's party chances of retaining their narrow majority in November.</description>
-<category>US Politics</category>
-<source url="https://www.reuters.com/world/us/virginia-voters-approve-new-democratic-backed-congressional-map-nbc-news-2026-04-22/">Reuters</source>
-<pubDate>2026-04-22T07:10:00+03:00</pubDate>
-</item>
-<item>
-<title>🇬🇧 New testimony raises pressure on UK PM Starmer over US envoy appointment</title>
-<link>https://www.reuters.com/world/europe/ex-official-describes-pressure-uk-pms-office-deepening-mandelson-row-2026-04-21/</link>
-<description>A former top foreign ministry official said he faced "constant pressure" from Prime Minister Keir Starmer's office to speed up the appointment of his pick as ambassador to the US, deepening a controversy threatening the British leader.</description>
-<category>Europe</category>
-<source url="https://www.reuters.com/world/europe/ex-official-describes-pressure-uk-pms-office-deepening-mandelson-row-2026-04-21/">Reuters</source>
-<pubDate>2026-04-22T07:10:00+03:00</pubDate>
-</item>
-<item>
-<title>🇩🇰 Denmark Chooses European SAMP/T Over US Patriot for Air Defense</title>
-<link>https://www.aa.com.tr/en/europe/denmark-chooses-europes-patriot-rival-for-its-air-defense-system/3914070</link>
-<description>Denmark selected the Franco-Italian SAMP/T NG air defense system over the American Patriot, marking the first major European defection from US defense systems amid Transatlantic tensions.</description>
-<category>Defense Industry</category>
-<source url="https://www.aa.com.tr/en/europe/denmark-chooses-europes-patriot-rival-for-its-air-defense-system/3914070">Anadolu Agency</source>
-<pubDate>2026-04-22T06:10:00+03:00</pubDate>
-</item>
-<item>
-<title>🇮🇷 Trump Says Iran Keeping Hormuz Closed to Save Face</title>
-<link>https://thehill.com/policy/defense/5842470-trump-says-iran-keeping-strait-of-hormuz-closed-to-save-face/</link>
-<description>President Trump accused Iran of keeping the Strait of Hormuz closed to save face, hours after announcing an indefinite ceasefire extension while maintaining the naval blockade.</description>
-<category>US-Iran War</category>
-<source url="https://thehill.com/policy/defense/5842470-trump-says-iran-keeping-strait-of-hormuz-closed-to-save-face/">The Hill</source>
-<pubDate>2026-04-22T06:10:00+03:00</pubDate>
-</item>
-</channel>
+    <item>
+      <title>🛢️ Iran sustains covert oil exports through Hormuz despite US blockade</title>
+      <link>https://oilprice.com/Latest-Energy-News/World-News/Irans-Covert-Oil-Trade-Persists-Despite-US-Blockade.html</link>
+      <description>Iran continues crude exports using dark tanker operations, signal spoofing and ship-to-ship transfers to evade the US naval blockade of the Strait of Hormuz.</description>
+      <category>Energy</category>
+      <source url="https://oilprice.com/Latest-Energy-News/World-News/Irans-Covert-Oil-Trade-Persists-Despite-US-Blockade.html">Oil Price</source>
+      <pubDate>2026-04-22T10:10:00+03:00</pubDate>
+      <guid isPermaLink="true">https://oilprice.com/Latest-Energy-News/World-News/Irans-Covert-Oil-Trade-Persists-Despite-US-Blockade.html</guid>
+    </item>
+
+    <item>
+      <title>🇮🇷 IRGC says at peak readiness to respond to any renewed aggression</title>
+      <link>https://www.timesofisrael.com/liveblog_entry/irans-irgc-says-it-remains-at-peak-readiness-to-respond-to-any-threat-or-renewed-aggression/</link>
+      <description>Iranian Revolutionary Guard Corps vows to deliver crushing blows to remaining enemy assets in the region as ceasefire talks continue.</description>
+      <category>US-Iran War</category>
+      <source url="https://www.timesofisrael.com/liveblog_entry/irans-irgc-says-it-remains-at-peak-readiness-to-respond-to-any-threat-or-renewed-aggression/">Times of Israel</source>
+      <pubDate>2026-04-22T10:10:00+03:00</pubDate>
+      <guid isPermaLink="true">https://www.timesofisrael.com/liveblog_entry/irans-irgc-says-it-remains-at-peak-readiness-to-respond-to-any-threat-or-renewed-aggression/</guid>
+    </item>
+
+    <item>
+      <title>🇮🇹🇷🇺 Italy summons Russian ambassador after TV host insults Meloni</title>
+      <link>https://www.france24.com/en/europe/20260422-italy-summons-russian-ambassador-after-tv-host-s-insults-toward-meloni</link>
+      <description>Rome protests after a Russian state TV presenter launched a stream of insults at Prime Minister Giorgia Meloni on air, escalating diplomatic tensions.</description>
+      <category>Europe</category>
+      <source url="https://www.france24.com/en/europe/20260422-italy-summons-russian-ambassador-after-tv-host-s-insults-toward-meloni">France 24</source>
+      <pubDate>2026-04-22T10:10:00+03:00</pubDate>
+      <guid isPermaLink="true">https://www.france24.com/en/europe/20260422-italy-summons-russian-ambassador-after-tv-host-s-insults-toward-meloni</guid>
+    </item>
+
+    <item>
+      <title>🇵🇰🇮🇷 Iran accuses Pakistan of double game in US talks mediation</title>
+      <link>https://www.timesnownews.com/world/middle-east/iran-pakistan-double-game-asim-munir-us-talks-row-article-154134280</link>
+      <description>Iranian state media targets Pakistan Army Chief Asim Munir, alleging Islamabad is playing both sides in the US-Iran ceasefire negotiations.</description>
+      <category>Diplomacy</category>
+      <source url="https://www.timesnownews.com/world/middle-east/iran-pakistan-double-game-asim-munir-us-talks-row-article-154134280">Times Now</source>
+      <pubDate>2026-04-22T10:10:00+03:00</pubDate>
+      <guid isPermaLink="true">https://www.timesnownews.com/world/middle-east/iran-pakistan-double-game-asim-munir-us-talks-row-article-154134280</guid>
+    </item>
+
+    <item>
+      <title>🇬🇧💰 UK inflation jumps to 3.3% as Iran war drives fuel price spike</title>
+      <link>https://www.standard.co.uk/news/uk/inflation-latest-iran-war-rachel-reeves-b1279552.html</link>
+      <description>British inflation rose sharply as the Iran war and Hormuz closure cause significant increases in fuel prices and cost of living pressures.</description>
+      <category>Economy</category>
+      <source url="https://www.standard.co.uk/news/uk/inflation-latest-iran-war-rachel-reeves-b1279552.html">Evening Standard</source>
+      <pubDate>2026-04-22T10:10:00+03:00</pubDate>
+      <guid isPermaLink="true">https://www.standard.co.uk/news/uk/inflation-latest-iran-war-rachel-reeves-b1279552.html</guid>
+    </item>
+
+    <item>
+      <title>🇨🇳 Chinese Navy Passes by Japanese Islands After Pacific Training</title>
+      <link>https://www.reuters.com/world/china/chinese-navy-passes-by-japanese-islands-again-after-pacific-training-2026-04-22/</link>
+      <description>A Chinese naval group including a destroyer passed through a waterway between Okinawa islands as it returned home after far-seas training, following a Japanese transit through the Taiwan Strait.</description>
+      <category>Asia-Pacific</category>
+      <source url="https://www.reuters.com/world/china/chinese-navy-passes-by-japanese-islands-again-after-pacific-training-2026-04-22/">Reuters</source>
+      <pubDate>2026-04-22T10:03:00+03:00</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/world/china/chinese-navy-passes-by-japanese-islands-again-after-pacific-training-2026-04-22/</guid>
+    </item>
+
+    <item>
+      <title>⛪ Pope Visits Notorious Prison in Equatorial Guinea</title>
+      <link>https://apnews.com/article/africa-pope-prison-human-rights-538f891c41446fbaa97eb36b9b1c2284</link>
+      <description>Pope Leo XIV visited one of Equatorial Guinea's notorious prisons, drawing attention to human rights issues following recent US migrant deportations to the country.</description>
+      <category>Diplomacy</category>
+      <source url="https://apnews.com/article/africa-pope-prison-human-rights-538f891c41446fbaa97eb36b9b1c2284">AP News</source>
+      <pubDate>2026-04-22T10:03:00+03:00</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/africa-pope-prison-human-rights-538f891c41446fbaa97eb36b9b1c2284</guid>
+    </item>
+
+    <item>
+      <title>🇺🇸 Kevin Warsh Makes Case for Smaller Fed Balance Sheet</title>
+      <link>https://www.reuters.com/business/finance/fed-chair-pick-warsh-makes-case-smaller-fed-holdings-hearing-2026-04-21/</link>
+      <description>Federal Reserve chair nominee Kevin Warsh told a Senate panel he would work to reduce the Fed's bond holdings, a long-term project that would reshape the central bank's approach to monetary policy.</description>
+      <category>Economy</category>
+      <source url="https://www.reuters.com/business/finance/fed-chair-pick-warsh-makes-case-smaller-fed-holdings-hearing-2026-04-21/">Reuters</source>
+      <pubDate>2026-04-22T10:03:00+03:00</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/business/finance/fed-chair-pick-warsh-makes-case-smaller-fed-holdings-hearing-2026-04-21/</guid>
+    </item>
+
+    <item>
+      <title>🚢💥 Iran Fires on Container Ship in Strait of Hormuz After Ceasefire Extension</title>
+      <link>https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-22-2026-267230f7f32b436822484479313840f7</link>
+      <description>Iran paramilitary Revolutionary Guard opened fire on a container ship in the Strait of Hormuz, damaging the vessel. The attack comes despite Trump extending the ceasefire, raising tensions as peace talks remain uncertain.</description>
+      <category>US-Iran War</category>
+      <source url="https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-22-2026-267230f7f32b436822484479313840f7">AP News</source>
+      <pubDate>2026-04-22T09:03:00+03:00</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-22-2026-267230f7f32b436822484479313840f7</guid>
+    </item>
+
+    <item>
+      <title>🇷🇺⚔️ Russia Has Taken 1,700 Square Kilometers of Ukraine This Year, Top General Says</title>
+      <link>https://www.reuters.com/world/europe/russia-has-taken-1700-square-km-ukraine-this-year-top-general-says-2026-04-21/</link>
+      <description>Russian forces have captured 1,700 sq km of Ukrainian territory in 2026 and are advancing on the Donbas fortress belt. The gains come as Ukraine struggles to secure EU loan funding amid the Druzhba pipeline dispute.</description>
+      <category>Ukraine-Russia War</category>
+      <source url="https://www.reuters.com/world/europe/russia-has-taken-1700-square-km-ukraine-this-year-top-general-says-2026-04-21/">Reuters</source>
+      <pubDate>2026-04-22T09:03:00+03:00</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/world/europe/russia-has-taken-1700-square-km-ukraine-this-year-top-general-says-2026-04-21/</guid>
+    </item>
+
+    <item>
+      <title>☢️🇺🇳 NATO Criticises Russian and Chinese Nuclear Policies, Urges US Cooperation</title>
+      <link>https://www.reuters.com/business/aerospace-defense/nato-criticises-russian-chinese-nuclear-stances-urges-cooperation-with-us-2026-04-21/</link>
+      <description>NATO criticized Russian and Chinese nuclear arms policies and called on both countries to work with the United States to establish greater stability and transparency at an upcoming international conference.</description>
+      <category>Diplomacy</category>
+      <source url="https://www.reuters.com/business/aerospace-defense/nato-criticises-russian-chinese-nuclear-stances-urges-cooperation-with-us-2026-04-21/">Reuters</source>
+      <pubDate>2026-04-22T09:03:00+03:00</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/business/aerospace-defense/nato-criticises-russian-chinese-nuclear-stances-urges-cooperation-with-us-2026-04-21/</guid>
+    </item>
+
+    <item>
+      <title>🇹🇼🇺🇸 US Indo-Pacific Commander Warns Taiwan on Defense Budget Delay</title>
+      <link>https://www.reuters.com/world/china/us-commander-warns-taiwan-not-starve-chicken-defense-2026-04-21/</link>
+      <description>The head of US Indo-Pacific Command stressed Taiwan must pass its stalled defense budget, saying the US "cant want Taiwans defense more than they want it themselves" amid rising Chinese military activity.</description>
+      <category>US-China</category>
+      <source url="https://www.reuters.com/world/china/us-commander-warns-taiwan-not-starve-chicken-defense-2026-04-21/">Reuters</source>
+      <pubDate>2026-04-22T09:03:00+03:00</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/world/china/us-commander-warns-taiwan-not-starve-chicken-defense-2026-04-21/</guid>
+    </item>
+
+    <item>
+      <title>🇳🇱🇪🇺 Dutch Intelligence: Europe Must Focus on Own Security as Global Threats Mount</title>
+      <link>https://www.reuters.com/business/media-telecom/europe-should-focus-own-security-global-threats-mount-dutch-intelligence-agency-2026-04-21/</link>
+      <description>The Dutch MIVD warned Europe must take greater responsibility for its own security, citing pressure on Western alliances and Chinas support for Russias war in Ukraine. The call comes amid US-Iran tensions straining transatlantic ties.</description>
+      <category>Europe</category>
+      <source url="https://www.reuters.com/business/media-telecom/europe-should-focus-own-security-global-threats-mount-dutch-intelligence-agency-2026-04-21/">Reuters</source>
+      <pubDate>2026-04-22T09:03:00+03:00</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/business/media-telecom/europe-should-focus-own-security-global-threats-mount-dutch-intelligence-agency-2026-04-21/</guid>
+    </item>
+
+    <item>
+      <title>🇨🇳 China may expand role in Saudi ties after Iran war concludes</title>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3350919/shifting-saudi-ties-what-role-could-china-take-after-iran-war-over</link>
+      <description>SCMP analysis examines how Riyadh may shift toward self-reliance and diversifying partnerships as the Iran conflict reshapes regional dynamics.</description>
+      <category>Middle East</category>
+      <source url="https://www.scmp.com/news/china/diplomacy/article/3350919/shifting-saudi-ties-what-role-could-china-take-after-iran-war-over">SCMP</source>
+      <pubDate>2026-04-22T08:10:00+03:00</pubDate>
+      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3350919/shifting-saudi-ties-what-role-could-china-take-after-iran-war-over</guid>
+    </item>
+
+    <item>
+      <title>🇵🇰 Pakistan blames US blockade, not Iranian divisions, for stalled peace talks</title>
+      <link>https://asia.nikkei.com/spotlight/iran-tensions/iran-war/pakistanis-blame-us-blockade-not-iran-divisions-for-stalled-talks</link>
+      <description>Nikkei Asia reports Pakistani officials attribute the deadlock in ceasefire negotiations to the US naval blockade of Iranian ports in the Strait of Hormuz.</description>
+      <category>Diplomacy</category>
+      <source url="https://asia.nikkei.com/spotlight/iran-tensions/iran-war/pakistanis-blame-us-blockade-not-iran-divisions-for-stalled-talks">Nikkei Asia</source>
+      <pubDate>2026-04-22T08:10:00+03:00</pubDate>
+      <guid isPermaLink="true">https://asia.nikkei.com/spotlight/iran-tensions/iran-war/pakistanis-blame-us-blockade-not-iran-divisions-for-stalled-talks</guid>
+    </item>
+
+    <item>
+      <title>🇺🇦 Ukrainian drones strike Samara Oblast in overnight attacks</title>
+      <link>https://kyivindependent.com/ukrainian-drones-reportedly-target-russias-samara-oblast-in-overnight-attacks/</link>
+      <description>Reports and social media footage show damage to residential buildings in Russia's Samara region as Ukrainian drones continue targeting Russian territory.</description>
+      <category>Ukraine-Russia War</category>
+      <source url="https://kyivindependent.com/ukrainian-drones-reportedly-target-russias-samara-oblast-in-overnight-attacks/">Kyiv Independent</source>
+      <pubDate>2026-04-22T08:10:00+03:00</pubDate>
+      <guid isPermaLink="true">https://kyivindependent.com/ukrainian-drones-reportedly-target-russias-samara-oblast-in-overnight-attacks/</guid>
+    </item>
+
+    <item>
+      <title>🛢️ IEA chief warns Iran war creating worst energy crisis in history</title>
+      <link>https://gulfbusiness.com/en/2026/energy/iran-war-biggest-energy-crisis-iea-chief/</link>
+      <description>International Energy Agency head says combined disruptions from Strait of Hormuz closure and Ukraine war fallout are squeezing global oil and gas supplies.</description>
+      <category>Energy</category>
+      <source url="https://gulfbusiness.com/en/2026/energy/iran-war-biggest-energy-crisis-iea-chief/">Gulf Business</source>
+      <pubDate>2026-04-22T08:10:00+03:00</pubDate>
+      <guid isPermaLink="true">https://gulfbusiness.com/en/2026/energy/iran-war-biggest-energy-crisis-iea-chief/</guid>
+    </item>
+
+    <item>
+      <title>🇮🇶 US halts dollar shipments to Iraq to pressure Iran-backed militias</title>
+      <link>https://www.timesofisrael.com/liveblog_entry/us-blocks-iraqs-dollar-shipments-in-bid-to-squeeze-iran-backed-militias-wsj/</link>
+      <description>Trump administration freezes US dollar deliveries to Iraq and suspends security cooperation programs in effort to curb Iranian influence, according to Wall Street Journal.</description>
+      <category>Middle East</category>
+      <source url="https://www.timesofisrael.com/liveblog_entry/us-blocks-iraqs-dollar-shipments-in-bid-to-squeeze-iran-backed-militias-wsj/">Times of Israel</source>
+      <pubDate>2026-04-22T08:10:00+03:00</pubDate>
+      <guid isPermaLink="true">https://www.timesofisrael.com/liveblog_entry/us-blocks-iraqs-dollar-shipments-in-bid-to-squeeze-iran-backed-militias-wsj/</guid>
+    </item>
+
+    <item>
+      <title>🇪🇺 Europe Seeks Role in Iran War but Remains on Sidelines</title>
+      <link>https://www.nytimes.com/2026/04/21/world/middleeast/iran-war-europe-macron-france.html</link>
+      <description>A British-French plan to secure the Strait of Hormuz would give Europe a role in the conflict, but Tehran and Washington continue to call the shots, leaving European powers struggling for influence.</description>
+      <category>Europe</category>
+      <source url="https://www.nytimes.com/2026/04/21/world/middleeast/iran-war-europe-macron-france.html">New York Times</source>
+      <pubDate>2026-04-22T08:03:00+03:00</pubDate>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/04/21/world/middleeast/iran-war-europe-macron-france.html</guid>
+    </item>
+
+    <item>
+      <title>🇪🇺 Mideast Crises Divide Europe Over Fuel Costs and Israel Policy</title>
+      <link>https://apnews.com/article/european-union-middle-east-ukraine-energy-israel-07e072b251cf9eb48bff0526d1186b93</link>
+      <description>European diplomats meeting in Luxembourg are grappling with rising fuel costs from the Iran conflict and policy divisions over Israel, as the war in Ukraine and Middle East tensions strain EU unity.</description>
+      <category>Europe</category>
+      <source url="https://apnews.com/article/european-union-middle-east-ukraine-energy-israel-07e072b251cf9eb48bff0526d1186b93">AP News</source>
+      <pubDate>2026-04-22T08:03:00+03:00</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/european-union-middle-east-ukraine-energy-israel-07e072b251cf9eb48bff0526d1186b93</guid>
+    </item>
+
+    <item>
+      <title>🇨🇾 Cyprus President Urges EU to Create Defense Playbook for Member States Under Attack</title>
+      <link>https://apnews.com/article/cyprus-eu-defense-nato-middle-east-india-2c8f1d530eea810d582f870a50ee799c</link>
+      <description>Cyprus President Nikos Christodoulides says EU leaders must prepare a playbook for responding when member states call for help during attacks, as the bloc faces growing security challenges from multiple fronts.</description>
+      <category>Europe</category>
+      <source url="https://apnews.com/article/cyprus-eu-defense-nato-middle-east-india-2c8f1d530eea810d582f870a50ee799c">AP News</source>
+      <pubDate>2026-04-22T08:03:00+03:00</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/cyprus-eu-defense-nato-middle-east-india-2c8f1d530eea810d582f870a50ee799c</guid>
+    </item>
+
+    <item>
+      <title>🇨🇺 Trump Cuba Threats Revive Exile Hopes and Fears Over Property Claims</title>
+      <link>https://apnews.com/article/cuba-castro-seized-property-claims-venezuela-08ef579c0de027f77bbda6cfc936d32b</link>
+      <description>President Donald Trump's threat of military intervention in Cuba is raising hopes among Cuban Americans for regime change, while reigniting complex debates over property claims seized after the Castro revolution.</description>
+      <category>US Politics</category>
+      <source url="https://apnews.com/article/cuba-castro-seized-property-claims-venezuela-08ef579c0de027f77bbda6cfc936d32b">AP News</source>
+      <pubDate>2026-04-22T08:03:00+03:00</pubDate>
+      <guid isPermaLink="true">https://apnews.com/article/cuba-castro-seized-property-claims-venezuela-08ef579c0de027f77bbda6cfc936d32b</guid>
+    </item>
+
+    <item>
+      <title>🇺🇸🇮🇷 Uncertainty Hangs Over US-Iran Talks as Ceasefire Deadline Looms</title>
+      <link>https://www.npr.org/2026/04/21/nx-s1-5793867/uncertainty-hangs-over-u-s-iran-talks-as-ceasefire-deadline-looms</link>
+      <description>President Trump says he does not want to extend the ceasefire with Iran as the clock ticks down on the deadline, with diplomatic efforts to end the seven-week war facing significant obstacles.</description>
+      <category>US-Iran War</category>
+      <source url="https://www.npr.org/2026/04/21/nx-s1-5793867/uncertainty-hangs-over-u-s-iran-talks-as-ceasefire-deadline-looms">NPR</source>
+      <pubDate>2026-04-22T08:03:00+03:00</pubDate>
+      <guid isPermaLink="true">https://www.npr.org/2026/04/21/nx-s1-5793867/uncertainty-hangs-over-u-s-iran-talks-as-ceasefire-deadline-looms</guid>
+    </item>
+
+    <item>
+      <title>🇲🇾 World's largest condom maker Karex to raise prices up to 30% due to Iran war</title>
+      <link>https://www.bbc.com/news/articles/cy71zj1381po</link>
+      <description>Malaysia-based Karex, which produces over 5 billion condoms annually for brands like Durex and Trojan, announced price hikes of up to 30% as the Iran conflict disrupts supplies of oil-derived materials including ammonia and silicone lubricants.</description>
+      <category>Economy</category>
+      <source url="https://www.bbc.com/news/articles/cy71zj1381po">BBC</source>
+      <pubDate>2026-04-22T07:10:00+03:00</pubDate>
+      <guid isPermaLink="true">https://www.bbc.com/news/articles/cy71zj1381po</guid>
+    </item>
+
+    <item>
+      <title>🇺🇸 Voting rights groups sue Trump administration over state voter roll demands</title>
+      <link>https://www.reuters.com/legal/government/voting-rights-groups-sue-over-us-demand-state-voter-rolls-2026-04-21/</link>
+      <description>Voting rights activists filed a lawsuit accusing the Trump administration of laying groundwork for voter purges that could illegally remove eligible voters ahead of contested US midterm elections in November.</description>
+      <category>US Politics</category>
+      <source url="https://www.reuters.com/legal/government/voting-rights-groups-sue-over-us-demand-state-voter-rolls-2026-04-21/">Reuters</source>
+      <pubDate>2026-04-22T07:10:00+03:00</pubDate>
+      <guid isPermaLink="true">https://www.reuters.com/legal/government/voting-rights-groups-sue-over-us-demand-state-voter-rolls-2026-04-21/</guid>
+    </item>
+
+  </channel>
 </rss>
