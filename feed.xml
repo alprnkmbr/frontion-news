@@ -1,236 +1,186 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Frontion News Headlines</title>
-<link>https://frontion.news</link>
-<description>Geopolitical news headlines curated from Tier 1 and Tier 2 sources</description>
+<link>https://frontion.com</link>
+<description>Breaking geopolitical news from Tier 1 sources</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 23 Apr 2026 12:06:33 +0300</lastBuildDate>
-
+<lastBuildDate>Thu, 23 Apr 2026 13:04:45 +0300</lastBuildDate>
+<atom:link href="https://frontion.com/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>EU Approves €90 Billion Loan for Ukraine, Unblocking Critical Pipeline</title>
+<link>https://www.bbc.com/news/world</link>
+<description>European Union approved a massive loan package for Ukraine after Hungary dropped its opposition following Viktor Orban election defeat. The deal also restarts the Druzhba oil pipeline, ending months of stalemate over stalled supplies to Hungary.</description>
+<source url="https://www.bbc.com/news/world">BBC</source>
+<pubDate>2026-04-23T13:00:00+03:00</pubDate>
+</item>
+<item>
+<title>US Navy Secretary John Phelan Resigns Effective Immediately</title>
+<link>https://www.bbc.com/news/world</link>
+<description>Pentagon announced Navy Secretary John Phelan is leaving his post effective immediately amid reported tensions over US shipbuilding. Phelan, whose role was largely administrative, departs as the Navy faces pressure from Iran war operations.</description>
+<source url="https://www.bbc.com/news/world">BBC</source>
+<pubDate>2026-04-23T13:00:00+03:00</pubDate>
+</item>
+<item>
+<title>Philippines Ex-President Duterte to Face ICC Crimes Against Humanity Trial</title>
+<link>https://www.bbc.com/news/world</link>
+<description>ICC confirmed ex-president Rodrigo Duterte will stand trial for crimes against humanity over extrajudicial killings during his war on drugs, where thousands died. The court confirmed charges relating to the long and bloody crackdown.</description>
+<source url="https://www.bbc.com/news/world">BBC</source>
+<pubDate>2026-04-23T13:00:00+03:00</pubDate>
+</item>
+<item>
+<title>Two Trains Collide Head-On Near Copenhagen, Five Critically Injured</title>
+<link>https://www.bbc.com/news/world</link>
+<description>A major train accident north of Copenhagen left at least 17 people injured, with five in critical condition after two local services collided at a level crossing early Thursday morning.</description>
+<source url="https://www.bbc.com/news/world">BBC</source>
+<pubDate>2026-04-23T13:00:00+03:00</pubDate>
+</item>
+<item>
+<title>Japan Lifts Post-WWII Ban on Lethal Weapons Exports</title>
+<link>https://www.washingtonpost.com/world/</link>
+<description>Japan announced a historic shift from its pacifist stance, allowing Japanese companies to sell lethal arms to 17 countries amid heightened regional security concerns and the ongoing Iran conflict affecting global stability.</description>
+<source url="https://www.washingtonpost.com/world/">Washington Post</source>
+<pubDate>2026-04-23T13:00:00+03:00</pubDate>
+</item>
 <item>
 <title>Prince Harry Visits Kyiv in Surprise Trip to Support Ukraine</title>
 <link>https://kyivindependent.com</link>
 <description>The Duke of Sussex arrived in Kyiv to remind people what Ukraine is up against, marking a significant diplomatic gesture as European leaders gather in Cyprus to discuss a 90 billion euro loan package for Ukraine.</description>
-<category>Europe</category>
+<source url="https://kyivindependent.com">Kyiv Independent</source>
 <pubDate>2026-04-23T12:05:00+03:00</pubDate>
-<source>Kyiv Independent</source>
 </item>
-
 <item>
 <title>Spain to Send 100 Armored Vehicles and Ammunition to Ukraine</title>
 <link>https://kyivindependent.com</link>
 <description>Spanish Defense Minister Margarita Robles announced during a visit to Kyiv that Spain will send 100 armored vehicles and ammunition to Ukraine, reaffirming commitment to democratic values and a just peace.</description>
-<category>Europe</category>
+<source url="https://kyivindependent.com">Kyiv Independent</source>
 <pubDate>2026-04-23T12:05:00+03:00</pubDate>
-<source>Kyiv Independent</source>
 </item>
-
 <item>
 <title>Iran Fires on Three More Ships in Strait of Hormuz After Ceasefire Extension</title>
 <link>https://www.scmp.com/news/world/middle-east</link>
 <description>Iranian forces opened fire on three vessels transiting the Strait of Hormuz after Trump extended the ceasefire deadline. The MSC Francesca and Epaminondas were reportedly being escorted to Iran, further disrupting critical energy shipping routes.</description>
-<category>US-Iran War</category>
+<source url="https://www.scmp.com/news/world/middle-east">SCMP</source>
 <pubDate>2026-04-23T12:05:00+03:00</pubDate>
-<source>SCMP</source>
 </item>
-
 <item>
 <title>Navy Secretary John Phelan Out Immediately After Pentagon Clashes</title>
 <link>https://www.defensenews.com</link>
 <description>The Pentagon announced Navy Secretary John Phelan is out immediately, providing no reason for the sudden departure. The move comes amid reports of internal clashes over naval operations in the Middle East.</description>
-<category>US Politics</category>
+<source url="https://www.defensenews.com">DefenseNews</source>
 <pubDate>2026-04-23T12:05:00+03:00</pubDate>
-<source>DefenseNews</source>
 </item>
-
 <item>
 <title>UK and France Lead 30-Nation Military Push to Reopen Strait of Hormuz</title>
 <link>https://oilprice.com</link>
 <description>The United Kingdom and France are spearheading a 30-nation coalition military effort to secure and reopen the Strait of Hormuz for commercial shipping, as Iran continues to disrupt the critical energy transit corridor.</description>
-<category>Energy</category>
+<source url="https://oilprice.com">OilPrice</source>
 <pubDate>2026-04-23T12:05:00+03:00</pubDate>
-<source>OilPrice</source>
 </item>
-
 <item>
 <title>US Treasury considers currency swap lines for Gulf and Asian allies amid Iran war fallout</title>
 <link>https://www.aljazeera.com/economy/2026/4/22/us-treasury-secretary-bessent-says-gulf-asian-allies-request-swap-lines</link>
 <description>Treasury Secretary Scott Bessent told senators that allies in the Gulf and Asia have requested dollar swap lines to stabilize markets amid economic uncertainty from the US-Iran conflict. Democrats questioned whether Trump family financial ties to UAE influenced the decision.</description>
-<category>Economy</category>
+<source url="https://www.aljazeera.com/economy/2026/4/22/us-treasury-secretary-bessent-says-gulf-asian-allies-request-swap-lines">Al Jazeera</source>
 <pubDate>2026-04-23T12:03:00+03:00</pubDate>
-<source>Al Jazeera</source>
 </item>
-
 <item>
 <title>Prediction market Kalshi penalizes three US candidates for betting on their own races</title>
 <link>https://www.aljazeera.com/news/2026/4/22/prediction-market-kalshi-docks-three-us-candidates-for-betting-on-own-races</link>
 <description>The platform fined and suspended three unnamed political candidates for "insider trading" by wagering on their own election outcomes. The enforcement action comes amid growing calls for regulation of prediction markets.</description>
-<category>US Politics</category>
+<source url="https://www.aljazeera.com/news/2026/4/22/prediction-market-kalshi-docks-three-us-candidates-for-betting-on-own-races">Al Jazeera</source>
 <pubDate>2026-04-23T12:03:00+03:00</pubDate>
-<source>Al Jazeera</source>
 </item>
-
 <item>
 <title>Iran Fires on Three Ships in Strait of Hormuz as Diplomacy Stalls</title>
 <link>https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-22-2026-267230f7f32b436822484479313840f7</link>
 <description>Iran attacked three vessels in the strategic waterway, seizing two of them. The escalation comes as US blockade continues and diplomatic efforts to end the conflict face mounting challenges.</description>
-<category>US-Iran War</category>
+<source url="https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-22-2026-267230f7f32b436822484479313840f7">AP News</source>
 <pubDate>2026-04-23T11:03:00+03:00</pubDate>
-<source>AP News</source>
 </item>
-
 <item>
 <title>Rep. David Scott, Georgia Democrat, Dies at Age 80</title>
 <link>https://apnews.com/article/david-scott-georgia-congressman-death-80-2026</link>
 <description>The 13-term congressman from Georgia died while seeking re-election. Scott served on the House Financial Services Committee and was known for bipartisan efforts.</description>
-<category>US Politics</category>
+<source url="https://apnews.com/article/david-scott-georgia-congressman-death-80-2026">AP News</source>
 <pubDate>2026-04-23T11:03:00+03:00</pubDate>
-<source>AP News</source>
 </item>
-
 <item>
 <title>Slovakia Resumes Russian Oil Flow Through Ukraine Pipeline</title>
 <link>https://apnews.com/article/slovakia-russia-oil-pipeline-ukraine-8ddc0f83e41d4be65b141c833f885eff</link>
 <description>Russian oil deliveries to Slovakia have resumed through the Druzhba pipeline after Ukraine unblocked the route, resolving a months-long standoff over transit fees.</description>
-<category>Europe</category>
+<source url="https://apnews.com/article/slovakia-russia-oil-pipeline-ukraine-8ddc0f83e41d4be65b141c833f885eff">AP News</source>
 <pubDate>2026-04-23T11:03:00+03:00</pubDate>
-<source>AP News</source>
 </item>
-
 <item>
 <title>Pope Leo Criticises Equatorial Guinea Prisons at End of Africa Tour</title>
 <link>https://www.bbc.com/news/world-africa</link>
 <description>During his visit, Pope Leo delivered a frank critique of prison conditions in Equatorial Guinea, calling for reforms as he concluded his Africa tour.</description>
-<category>Africa</category>
+<source url="https://www.bbc.com/news/world-africa">BBC</source>
 <pubDate>2026-04-23T11:03:00+03:00</pubDate>
-<source>BBC</source>
 </item>
-
 <item>
 <title>India and South Korea Agree to Double Trade to  Billion by 2030</title>
 <link>https://apnews.com/article/india-south-korea-trade-shipbuilding-defense-ai-8453d27375d5013d095c9b5febcfbdfc</link>
 <description>The two nations signed agreements to expand cooperation in shipbuilding, defense, and AI technology, strengthening economic ties amid regional tensions.</description>
-<category>Asia-Pacific</category>
+<source url="https://apnews.com/article/india-south-korea-trade-shipbuilding-defense-ai-8453d27375d5013d095c9b5febcfbdfc">AP News</source>
 <pubDate>2026-04-23T11:03:00+03:00</pubDate>
-<source>AP News</source>
 </item>
-
 <item>
 <title>Lebanon seeks ceasefire extension as Israel destroys homes in occupied border areas</title>
 <link>https://www.scmp.com/news/world/middle-east/article/3351107/lebanon-confront-israel-over-demolition-homes-occupied-areas-ceasefire</link>
 <description>Lebanon is asking for a one-month extension of the ceasefire with Israel during Washington talks, while Israel continues demolishing homes in southern Lebanese territory it has occupied since the truce.</description>
-<category>Middle East</category>
+<source url="https://www.scmp.com/news/world/middle-east/article/3351107/lebanon-confront-israel-over-demolition-homes-occupied-areas-ceasefire">SCMP</source>
 <pubDate>2026-04-23T10:06:00+03:00</pubDate>
-<source>SCMP</source>
 </item>
-
 <item>
 <title>Tencent releases first flagship AI model led by former OpenAI researcher</title>
 <link>https://www.scmp.com/tech/big-tech/article/3351101/tencent-unveils-first-flagship-ai-model-former-openai-researcher-helm</link>
 <description>Chinese tech giant Tencent unveiled its HY3 AI model, described as its most powerful yet, developed under former OpenAI researcher Yao Shunyu. The model is open-source with 295 billion parameters.</description>
-<category>Technology</category>
+<source url="https://www.scmp.com/tech/big-tech/article/3351101/tencent-unveils-first-flagship-ai-model-former-openai-researcher-helm">SCMP</source>
 <pubDate>2026-04-23T10:06:00+03:00</pubDate>
-<source>SCMP</source>
 </item>
-
 <item>
 <title>G7 drops climate change from Paris agenda to avoid US confrontation</title>
 <link>https://www.france24.com/en/europe/20260423-g7-climate-change-omits-paris-meeting-us-france</link>
 <description>France confirmed climate change has been removed from the G7 environment ministers meeting agenda in Paris to prevent conflict with the United States, focusing instead on less contentious issues.</description>
-<category>Europe</category>
+<source url="https://www.france24.com/en/europe/20260423-g7-climate-change-omits-paris-meeting-us-france">France 24</source>
 <pubDate>2026-04-23T10:06:00+03:00</pubDate>
-<source>France 24</source>
 </item>
-
 <item>
 <title>EU unblocks €90bn Ukraine loan after Hungary pipeline repaired</title>
 <link>https://www.france24.com/en/europe/20260423-zelensky-to-join-european-leaders-in-cyprus-as-eu-unblocks-90bn-ukraine-loan</link>
 <description>Ukraines Zelensky joins EU leaders in Cyprus as the bloc approves a massive loan package, ending a deadlock after Hungary lifted its veto following Kyivs repair of a Russia-damaged pipeline.</description>
-<category>Europe</category>
+<source url="https://www.france24.com/en/europe/20260423-zelensky-to-join-european-leaders-in-cyprus-as-eu-unblocks-90bn-ukraine-loan">France 24</source>
 <pubDate>2026-04-23T10:06:00+03:00</pubDate>
-<source>France 24</source>
 </item>
-
 <item>
 <title>Peru ministers resign after president postpones F-16 fighter jet deal</title>
 <link>https://www.aljazeera.com/news/2026/4/22/top-ministers-quit-after-perus-president-postpones-f-16-fighter-jet-deal</link>
 <description>Top Peruvian cabinet members resigned following President Boluarte decision to postpone a US-backed F-16 fighter jet purchase. The Trump administration warned the move reflects bad faith negotiations.</description>
-<category>Latin America</category>
+<source url="https://www.aljazeera.com/news/2026/4/22/top-ministers-quit-after-perus-president-postpones-f-16-fighter-jet-deal">Al Jazeera</source>
 <pubDate>2026-04-23T10:06:00+03:00</pubDate>
-<source>Al Jazeera</source>
 </item>
-
 <item>
 <title>Taiwan Minister Visits Disputed South China Sea Island as Tensions Rise</title>
 <link>https://www.bbc.com/news/articles/c87wzpey8jlo</link>
 <description>Taiwan Ocean Affairs Minister Kuan Bi-ling made a rare visit to Itu Aba (Taiping Island) to observe coast guard drills, as US-Philippines military exercises draw Chinese anger. China dispatched a warship and sailed an aircraft carrier through the Taiwan Strait.</description>
-<category>Asia-Pacific</category>
+<source url="https://www.bbc.com/news/articles/c87wzpey8jlo">BBC</source>
 <pubDate>2026-04-23T10:03:00+03:00</pubDate>
-<source>BBC</source>
 </item>
-
 <item>
 <title>Japan Ends Post-WWII Ban on Lethal Weapons Exports</title>
 <link>https://www.washingtonpost.com/world/2026/04/21/japan-lethal-weapons-exports/</link>
 <description>Prime Minister Sanae Takaichi announced Japan will begin selling lethal weapons to 17 countries, a major shift from the nation's pacifist stance amid heightened regional security concerns.</description>
-<category>Asia-Pacific</category>
+<source url="https://www.washingtonpost.com/world/2026/04/21/japan-lethal-weapons-exports/">Washington Post</source>
 <pubDate>2026-04-23T10:03:00+03:00</pubDate>
-<source>Washington Post</source>
 </item>
-
 <item>
 <title>China Builds New Military Island in Disputed South China Sea Waters</title>
 <link>https://www.nytimes.com/interactive/2026/04/22/world/asia/south-china-sea-island.html</link>
 <description>Satellite imagery shows China rapidly constructing a crescent-shaped island on Antelope Reef in the Paracels. The base, nearly twice the size of New York's Central Park, will likely host airstrips, radar, and missile facilities.</description>
-<category>Asia-Pacific</category>
+<source url="https://www.nytimes.com/interactive/2026/04/22/world/asia/south-china-sea-island.html">New York Times</source>
 <pubDate>2026-04-23T10:03:00+03:00</pubDate>
-<source>New York Times</source>
 </item>
-
-<item>
-<title>Warner Bros Discovery and Paramount Merger Vote Looms Amid Regulatory Scrutiny</title>
-<link>https://www.aljazeera.com/economy/2026/4/22/warner-bros-and-paramount-merger-could-reshape-us-media-landscape</link>
-<description>Shareholders are set to vote on a merger combining Warner Bros Discovery with Paramount Skydance, placing CNN and CBS News under one roof. The deal faces antitrust investigations and concerns over foreign investments from Saudi Arabia, Qatar, and UAE.</description>
-<category>Economy</category>
-<pubDate>2026-04-23T10:03:00+03:00</pubDate>
-<source>Al Jazeera</source>
-</item>
-
-<item>
-<title>Iran Attacks Ships in Strait of Hormuz as US Reinforces Middle East</title>
-<link>https://www.cbsnews.com/news/iran-attacks-ships-strait-of-hormuz-us-forces-middle-east/</link>
-<description>Iran has fired on commercial vessels in the strategic Strait of Hormuz after Trump extended a ceasefire, prompting the US to send thousands more troops to the region. The escalation threatens one of the worlds most critical oil shipping lanes.</description>
-<category>US-Iran War</category>
-<pubDate>2026-04-23T09:03:00+03:00</pubDate>
-<source>CBS News</source>
-</item>
-
-<item>
-<title>US Intercepts Three Iranian Oil Tankers in Asian Waters</title>
-<link>https://www.reuters.com/world/us-intercepts-iranian-oil-tankers-asian-waters-2026-04-22/</link>
-<description>American forces have seized three Iranian oil tankers in the Indian Ocean, expanding the US-Iran conflict into the Indo-Pacific region. The interceptions target Irans covert oil exports to China.</description>
-<category>US-Iran War</category>
-<pubDate>2026-04-23T09:03:00+03:00</pubDate>
-<source>Reuters</source>
-</item>
-
-<item>
-<title>Israeli Strike Kills Journalist in Lebanon Amid War Crimes Accusations</title>
-<link>https://www.theguardian.com/world/2026/apr/22/israeli-strike-kills-journalist-lebanon-war-crimes</link>
-<description>An Israeli airstrike killed a Lebanese journalist after ongoing attacks blocked rescuers from reaching the area. Lebanons prime minister accused Israel of war crimes over the targeted killing.</description>
-<category>Middle East</category>
-<pubDate>2026-04-23T09:03:00+03:00</pubDate>
-<source>The Guardian</source>
-</item>
-
-<item>
-<title>Navy Secretary John Phelan Fired During Iran Crisis</title>
-<link>https://www.bbc.com/news/articles/navy-secretary-phelan-fired</link>
-<description>Defense Secretary Pete Hegseth has fired Navy Secretary John Phelan amid ongoing naval operations against Iran. The dismissal comes as the US maintains a naval blockade in the Strait of Hormuz.</description>
-<category>US Politics</category>
-<pubDate>2026-04-23T09:03:00+03:00</pubDate>
-<source>BBC</source>
-</item>
-
 </channel>
 </rss>
