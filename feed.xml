@@ -1,17 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frontion News Headlines</title>
     <link>https://frontion.com</link>
-    <description>Breaking geopolitical news from Tier 1 sources</description>
+    <description>Curated global news headlines from regional and specialist sources</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Apr 2026 10:04:45 +0300</lastBuildDate>
+    <lastBuildDate>2026-04-24T10:08:42+03:00</lastBuildDate>
+    <atom:link href="https://frontion.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Pentagon floats suspending Spain from NATO over Iran rift</title>
+      <link>https://www.al-monitor.com/originals/2026/04/exclusive-pentagon-email-floats-suspending-spain-nato-other-steps-over-iran-rift</link>
+      <description>An internal Pentagon email outlines options to punish NATO allies that failed to support US operations in the Iran war, including potentially suspending Spain from the alliance and reviewing US position on Britain's Falkland Islands claim.</description>
+      <category>Diplomacy</category>
+      <source url="https://www.al-monitor.com/originals/2026/04/exclusive-pentagon-email-floats-suspending-spain-nato-other-steps-over-iran-rift">Al-Monitor</source>
+      <pubDate>2026-04-24T10:05:00+03:00</pubDate>
+    </item>
+    <item>
+      <title>Iran air defenses activated over Tehran amid suspected hostile activity</title>
+      <link>https://www.dailysabah.com/world/mid-east/iran-air-defenses-activated-amid-reported-aerial-activity-over-tehran</link>
+      <description>Iranian state media reported air defense systems were activated in parts of Tehran following reports of suspected hostile aerial activity, the first such incident since the Iran-US ceasefire began.</description>
+      <category>Middle East</category>
+      <source url="https://www.dailysabah.com/world/mid-east/iran-air-defenses-activated-amid-reported-aerial-activity-over-tehran">Daily Sabah</source>
+      <pubDate>2026-04-24T10:05:00+03:00</pubDate>
+    </item>
+    <item>
+      <title>Trump rules out using nuclear weapons against Iran</title>
+      <link>https://www.al-monitor.com/originals/2026/04/trump-rules-out-striking-iran-nuclear-weapon</link>
+      <description>President Trump stated he would not use nuclear weapons against Iran, saying 'Why would I use a nuclear weapon when we've decimated them without it?' after previous threats about destroying Iranian civilization.</description>
+      <category>US-Iran War</category>
+      <source url="https://www.al-monitor.com/originals/2026/04/trump-rules-out-striking-iran-nuclear-weapon">Al-Monitor</source>
+      <pubDate>2026-04-24T10:05:00+03:00</pubDate>
+    </item>
+    <item>
+      <title>US Navy reviews Ford-class carrier costs amid budget pressures</title>
+      <link>https://www.defensenews.com/news/your-navy/2026/04/23/us-navy-is-reviewing-cost-of-future-ford-class-carriers-to-ensure-they-make-sense/</link>
+      <description>The Navy is analyzing costs and design of future Ford-class aircraft carriers USS William J. Clinton and USS George W. Bush to ensure they 'make sense' amid scrutiny of the $13 billion per ship program.</description>
+      <category>Defense Industry</category>
+      <source url="https://www.defensenews.com/news/your-navy/2026/04/23/us-navy-is-reviewing-cost-of-future-ford-class-carriers-to-ensure-they-make-sense/">Defense News</source>
+      <pubDate>2026-04-24T10:05:00+03:00</pubDate>
+    </item>
+    <item>
+      <title>China's DeepSeek releases new AI model with 'drastically reduced' costs</title>
+      <link>https://www.france24.com/en/technology/20260424-us-china-ai-race-intensifies-as-deepseek-releases-new-reduced-cost-model</link>
+      <description>DeepSeek released a new AI model capable of processing extra-long texts at significantly lower costs, intensifying the US-China AI competition following last year's shockwaves from its reasoning model.</description>
+      <category>Technology</category>
+      <source url="https://www.france24.com/en/technology/20260424-us-china-ai-race-intensifies-as-deepseek-releases-new-reduced-cost-model">France 24</source>
+      <pubDate>2026-04-24T10:05:00+03:00</pubDate>
+    </item>
     <item>
       <title>Trump Says King Charles Visit Could Help Repair US-UK Relations</title>
       <link>https://www.bbc.com/news/articles/cx2wdegnzzjo</link>
       <description>President Trump told BBC that King Charles upcoming visit to the US could help mend strained relations between the two countries.</description>
       <category>Diplomacy</category>
-      <dc:creator>BBC</dc:creator>
+      <source url="https://www.bbc.com/news/articles/cx2wdegnzzjo">BBC</source>
       <pubDate>2026-04-24T10:03:00+03:00</pubDate>
     </item>
     <item>
@@ -19,7 +60,7 @@
       <link>https://www.bbc.com/news/articles/c20832yg5p2o</link>
       <description>A US soldier allegedly used classified information to make profitable trades on Polymarket about Venezuelan President Maduro, according to the Justice Department.</description>
       <category>US Politics</category>
-      <dc:creator>BBC</dc:creator>
+      <source url="https://www.bbc.com/news/articles/c20832yg5p2o">BBC</source>
       <pubDate>2026-04-24T10:03:00+03:00</pubDate>
     </item>
     <item>
@@ -27,7 +68,7 @@
       <link>https://www.bbc.com/news/articles/cpqxgxx9nrqo</link>
       <description>A memo from the White House says Chinese companies are wrongfully distilling US AI models, calling it a significant threat to American technological advantage.</description>
       <category>US-China</category>
-      <dc:creator>BBC</dc:creator>
+      <source url="https://www.bbc.com/news/articles/cpqxgxx9nrqo">BBC</source>
       <pubDate>2026-04-24T10:03:00+03:00</pubDate>
     </item>
     <item>
@@ -35,7 +76,7 @@
       <link>https://www.nytimes.com/2026/04/24/world/asia/india-elections-modi-bengal.html</link>
       <description>PM Modis BJP has been making gains in West Bengal, but critics decry an audit that removed nine million voters, many of them Muslim.</description>
       <category>South Asia</category>
-      <dc:creator>New York Times</dc:creator>
+      <source url="https://www.nytimes.com/2026/04/24/world/asia/india-elections-modi-bengal.html">New York Times</source>
       <pubDate>2026-04-24T10:03:00+03:00</pubDate>
     </item>
     <item>
@@ -43,7 +84,7 @@
       <link>https://www.nytimes.com/2026/04/24/world/europe/europe-defense-nato-trump-eu.html</link>
       <description>EU nations are reassessing their collective defense obligations as President Trump continues to threaten leaving the NATO alliance.</description>
       <category>Europe</category>
-      <dc:creator>New York Times</dc:creator>
+      <source url="https://www.nytimes.com/2026/04/24/world/europe/europe-defense-nato-trump-eu.html">New York Times</source>
       <pubDate>2026-04-24T10:03:00+03:00</pubDate>
     </item>
     <item>
@@ -51,7 +92,7 @@
       <link>https://apnews.com/article/germany-iran-crown-prince-reza-pahlavi-liquid-0c2412ac58bb8e1b538c5e4f12abe381</link>
       <description>Iran's exiled Crown Prince Reza Pahlavi was splattered with red liquid after a news briefing in Berlin where he criticized the US-Iran ceasefire. The attack occurred as he left Germany's federal news conference building.</description>
       <category>Iran</category>
-      <dc:creator>AP News</dc:creator>
+      <source url="https://apnews.com/article/germany-iran-crown-prince-reza-pahlavi-liquid-0c2412ac58bb8e1b538c5e4f12abe381">AP News</source>
       <pubDate>2026-04-24T09:03:00+03:00</pubDate>
     </item>
     <item>
@@ -59,7 +100,7 @@
       <link>https://apnews.com/article/lebanon-israel-hezbollah-us-talks-ceasefire-washington-e7f26e207fc7543fe1f25a5318ff9ce3</link>
       <description>President Trump announced Israel and Lebanon agreed to extend the Israel-Hezbollah ceasefire by three weeks after talks at the White House. The meeting between Israeli and Lebanese ambassadors was the second in a week, representing the first direct diplomatic talks in decades.</description>
       <category>Middle East</category>
-      <dc:creator>AP News</dc:creator>
+      <source url="https://apnews.com/article/lebanon-israel-hezbollah-us-talks-ceasefire-washington-e7f26e207fc7543fe1f25a5318ff9ce3">AP News</source>
       <pubDate>2026-04-24T09:03:00+03:00</pubDate>
     </item>
     <item>
@@ -67,7 +108,7 @@
       <link>https://apnews.com/article/canadian-citizenship-americans-new-law-5b8f7da8ce6cfea759b85a3577150407</link>
       <description>A recent change to Canada's citizenship requirements has led to a surge in applications from Americans. The new law, which took effect December 15, allows those with Canadian parents or grandparents to claim citizenship more easily.</description>
       <category>North America</category>
-      <dc:creator>AP News</dc:creator>
+      <source url="https://apnews.com/article/canadian-citizenship-americans-new-law-5b8f7da8ce6cfea759b85a3577150407">AP News</source>
       <pubDate>2026-04-24T09:03:00+03:00</pubDate>
     </item>
     <item>
@@ -75,7 +116,7 @@
       <link>https://kyivindependent.com/russian-overnight-strikes-on-odesa-residential-buildings-kill-2-injure-14/</link>
       <description>A Russian overnight drone attack on multiple residential buildings in Odesa killed two civilians and wounded 15 others, the latest in a series of strikes on southern Ukrainian cities.</description>
       <category>Ukraine-Russia War</category>
-      <dc:creator>Kyiv Independent</dc:creator>
+      <source url="https://kyivindependent.com/russian-overnight-strikes-on-odesa-residential-buildings-kill-2-injure-14/">Kyiv Independent</source>
       <pubDate>2026-04-24T08:10:00+03:00</pubDate>
     </item>
     <item>
@@ -83,7 +124,7 @@
       <link>https://kyivindependent.com/human-rights-activists-count-7-torture-chambers-holding-ukraines-zaporizhzhia-nuclear-plant-staff/</link>
       <description>Ukrainian human rights organization Truth Hounds has identified at least seven torture chambers used to detain staff of the occupied Zaporizhzhia nuclear power plant, revealing systematic abuse of Ukrainian personnel.</description>
       <category>Ukraine-Russia War</category>
-      <dc:creator>Kyiv Independent</dc:creator>
+      <source url="https://kyivindependent.com/human-rights-activists-count-7-torture-chambers-holding-ukraines-zaporizhzhia-nuclear-plant-staff/">Kyiv Independent</source>
       <pubDate>2026-04-24T08:10:00+03:00</pubDate>
     </item>
     <item>
@@ -91,7 +132,7 @@
       <link>https://www.scmp.com/news/china/diplomacy/article/3351257/america-offers-us4-million-bounty-arrest-chinese-money-launderer</link>
       <description>The US State Department announced a $4 million reward for information leading to the arrest of Daren Li, a Chinese national who fled after admitting to laundering funds from cryptocurrency scams targeting victims across Southeast Asia.</description>
       <category>US-China</category>
-      <dc:creator>SCMP</dc:creator>
+      <source url="https://www.scmp.com/news/china/diplomacy/article/3351257/america-offers-us4-million-bounty-arrest-chinese-money-launderer">SCMP</source>
       <pubDate>2026-04-24T08:10:00+03:00</pubDate>
     </item>
     <item>
@@ -99,7 +140,7 @@
       <link>https://www.twz.com/sea/rush-to-arm-carrier-strike-groups-with-hellfire-missiles-for-anti-drone-defense-disclosed-by-navy</link>
       <description>The US Navy is accelerating deployment of Hellfire missiles to carrier strike groups as the threat of one-way attack drones in the Middle East intensifies following Iranian attacks on shipping.</description>
       <category>Defense Industry</category>
-      <dc:creator>The War Zone</dc:creator>
+      <source url="https://www.twz.com/sea/rush-to-arm-carrier-strike-groups-with-hellfire-missiles-for-anti-drone-defense-disclosed-by-navy">The War Zone</source>
       <pubDate>2026-04-24T08:10:00+03:00</pubDate>
     </item>
     <item>
@@ -107,7 +148,7 @@
       <link>https://oilprice.com/Latest-Energy-News/World-News/Iran-War-Created-Biggest-Ever-Energy-Security-Threat-IEA-Says.html</link>
       <description>The International Energy Agency declared the US-Iran conflict has created the single largest threat to global energy security in history, with Strait of Hormuz disruptions sending shockwaves through oil markets worldwide.</description>
       <category>Energy</category>
-      <dc:creator>Oil Price</dc:creator>
+      <source url="https://oilprice.com/Latest-Energy-News/World-News/Iran-War-Created-Biggest-Ever-Energy-Security-Threat-IEA-Says.html">Oil Price</source>
       <pubDate>2026-04-24T08:10:00+03:00</pubDate>
     </item>
     <item>
@@ -115,7 +156,7 @@
       <link>https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-23-2026-368b922ae2f4c874df8a133491eeffe8</link>
       <description>President Trump has ordered the Navy to destroy small Iranian boats deploying mines in the strategic waterway, tripling minesweeping operations as tensions escalate despite an ongoing ceasefire.</description>
       <category>US-Iran War</category>
-      <dc:creator>AP News</dc:creator>
+      <source url="https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-23-2026-368b922ae2f4c874df8a133491eeffe8">AP News</source>
       <pubDate>2026-04-24T08:05:00+03:00</pubDate>
     </item>
     <item>
@@ -123,7 +164,7 @@
       <link>https://www.npr.org/2026/04/23/nx-s1-5797917/ukraine-becomes-an-international-arms-dealer</link>
       <description>Ukraine has developed defense technology to counter Iranian drones similar to those Russia uses, and is now exporting these systems to countries facing similar threats.</description>
       <category>Ukraine-Russia War</category>
-      <dc:creator>NPR</dc:creator>
+      <source url="https://www.npr.org/2026/04/23/nx-s1-5797917/ukraine-becomes-an-international-arms-dealer">NPR</source>
       <pubDate>2026-04-24T08:05:00+03:00</pubDate>
     </item>
     <item>
@@ -131,7 +172,7 @@
       <link>https://www.aljazeera.com/news/2026/4/23/iran-dismisses-trumps-claim-of-leadership-rift-says-nation-is-one-soul</link>
       <description>Iranian officials reject Trump claims of internal division, emphasizing the "iron unity of the nation and government" amid ongoing conflict with the US.</description>
       <category>US-Iran War</category>
-      <dc:creator>Al Jazeera</dc:creator>
+      <source url="https://www.aljazeera.com/news/2026/4/23/iran-dismisses-trumps-claim-of-leadership-rift-says-nation-is-one-soul">Al Jazeera</source>
       <pubDate>2026-04-24T07:03:00+03:00</pubDate>
     </item>
     <item>
@@ -139,7 +180,7 @@
       <link>https://www.bbc.com/news/articles/c20832yg5p2o</link>
       <description>Gannon Ken Van Dyke allegedly made trades on Polymarket based on classified information about Venezuela operations, faces up to 60 years in prison.</description>
       <category>US Politics</category>
-      <dc:creator>BBC</dc:creator>
+      <source url="https://www.bbc.com/news/articles/c20832yg5p2o">BBC</source>
       <pubDate>2026-04-24T07:03:00+03:00</pubDate>
     </item>
     <item>
@@ -147,7 +188,7 @@
       <link>https://www.bbc.com/news/articles/crm1y89vek8o</link>
       <description>Major tech layoffs continue as Meta announces 10% workforce reduction and Microsoft offers voluntary retirement to 7% of workers, both citing AI investments.</description>
       <category>Technology</category>
-      <dc:creator>BBC</dc:creator>
+      <source url="https://www.bbc.com/news/articles/crm1y89vek8o">BBC</source>
       <pubDate>2026-04-24T07:03:00+03:00</pubDate>
     </item>
     <item>
@@ -155,7 +196,7 @@
       <link>https://www.bbc.com/news/articles/cgld775knzyo</link>
       <description>Opposition parties accused security forces, but the official report does not attribute responsibility for the deaths during election unrest.</description>
       <category>Africa</category>
-      <dc:creator>BBC</dc:creator>
+      <source url="https://www.bbc.com/news/articles/cgld775knzyo">BBC</source>
       <pubDate>2026-04-24T07:03:00+03:00</pubDate>
     </item>
     <item>
@@ -163,48 +204,8 @@
       <link>https://www.bbc.com/news/articles/cpqxgxx9nrqo</link>
       <description>A memo from Michael Kratsios alleges that firms, mainly in China, are wrongfully distilling US AI models, escalating tech tensions.</description>
       <category>US-China</category>
-      <dc:creator>BBC</dc:creator>
+      <source url="https://www.bbc.com/news/articles/cpqxgxx9nrqo">BBC</source>
       <pubDate>2026-04-24T07:03:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>Trump ally to lead bipartisan delegation to China ahead of May summit</title>
-      <link>https://www.scmp.com/news/china/diplomacy/article/3351219/trump-ally-visit-china-us-turns-pressure-may-summit</link>
-      <description>Republican senator will head to China on May 1 with stops in Shanghai and Beijing as the Trump administration increases pressure on Beijing amid the Iran crisis.</description>
-      <category>US-China</category>
-      <dc:creator>SCMP</dc:creator>
-      <pubDate>2026-04-24T06:00:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>Finland says China-Russia ties mean EU trade deal is off the table</title>
-      <link>https://www.scmp.com/news/china/diplomacy/article/3351183/chinas-russia-ties-mean-eu-trade-deal-table-finland-says</link>
-      <description>Finnish foreign minister says Helsinkis tough stance means a de facto veto on any EU-China trade agreement due to Beijings continued support for Moscow.</description>
-      <category>Europe</category>
-      <dc:creator>SCMP</dc:creator>
-      <pubDate>2026-04-24T06:00:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>12 Russian FSB officers killed in drone strike on command post in occupied Donetsk</title>
-      <link>https://kyivindependent.com/ukraine-strikes-russian-fsb-command-post-in-occupied-donetsk-killing-12-officers-military-says/</link>
-      <description>Ukrainian forces used FP-2 drones with 60-100kg payloads to strike an FSB command post, killing 12 officers in a significant intelligence blow to Russian security services.</description>
-      <category>Ukraine-Russia War</category>
-      <dc:creator>Kyiv Independent</dc:creator>
-      <pubDate>2026-04-24T06:00:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>Ukraine first to scale remotely operated interceptor drones, defense minister says</title>
-      <link>https://kyivindependent.com/ukraine-first-to-scale-remotely-operated-interceptor-drones/</link>
-      <description>Ukraine becomes the first country to scale the use of remotely operated interceptor drones capable of long-distance strikes, marking a significant advancement in drone warfare.</description>
-      <category>Defense Industry</category>
-      <dc:creator>Kyiv Independent</dc:creator>
-      <pubDate>2026-04-24T06:00:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>Ukrainian unmanned vessel launches interceptor to knock out Shahed drone</title>
-      <link>https://www.defensenews.com/industry/techwatch/2026/04/23/in-first-ukrainian-unmanned-vessel-launches-interceptor-to-knock-out-shahed-drone/</link>
-      <description>Ukraine has deployed a powerful new defense against Russian Shahed drones - an unmanned naval vessel that can launch interceptors, potentially blunting Russias ability to force concessions.</description>
-      <category>Defense Industry</category>
-      <dc:creator>Defense News</dc:creator>
-      <pubDate>2026-04-24T06:00:00+03:00</pubDate>
     </item>
   </channel>
 </rss>
