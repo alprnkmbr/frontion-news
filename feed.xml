@@ -1,19 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Frontion Geopolitical News</title>
-<link>https://frontion.app</link>
-<description>Breaking geopolitical headlines from global news sources</description>
+<title>Frontion News - Geopolitical Headlines</title>
+<link>https://frontion.org</link>
+<description>Breaking geopolitical news from Tier 1 sources worldwide</description>
 <language>en-us</language>
-<lastBuildDate>Fri, 24 Apr 2026 20:10:03 +0300</lastBuildDate>
+<pubDate>Fri, 24 Apr 2026 21:04:28 +0300</pubDate>
+<atom:link href="https://frontion.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+<item>
+<title>🏴‍☠️🚢 Pirates hijack oil tanker off Somalia coast as piracy returns to Indian Ocean</title>
+<link>https://www.bbc.com/news/articles/c78l26yn981o</link>
+<description>An oil tanker was hijacked off the coast of Somalia, marking a resurgence of piracy in a region once notorious for attacks. Piracy had declined after international naval patrols but has made a comeback in recent years.</description>
+<category>Africa</category>
+<source url="https://www.bbc.com/news/articles/c78l26yn981o">BBC</source>
+<pubDate>2026-04-24T21:03:00+03:00</pubDate>
+</item>
+
+<item>
+<title>🇽🇰⚖️ Three Kosovo Serbs sentenced to life imprisonment for 2023 monastery siege</title>
+<link>https://www.bbc.com/news/articles/crr1gwnx4e8o</link>
+<description>Kosovo court sentenced two men to life imprisonment and another to 30 years for the deadly gun battle and monastery siege in 2023, one of the worst incidents since Kosovo declared independence.</description>
+<category>Europe</category>
+<source url="https://www.bbc.com/news/articles/crr1gwnx4e8o">BBC</source>
+<pubDate>2026-04-24T21:03:00+03:00</pubDate>
+</item>
+
+<item>
+<title>🇹🇼🇨🇳 Taiwan president accuses China of forcing cancellation of Eswatini diplomatic trip</title>
+<link>https://www.theguardian.com/world/2026/apr/24/taiwan-president-blames-china-for-forced-cancellation-of-eswatini-trip</link>
+<description>Taiwan President accused Beijing of pressuring Eswatini to cancel a planned diplomatic visit, highlighting continued Chinese efforts to isolate Taiwan internationally.</description>
+<category>Asia-Pacific</category>
+<source url="https://www.theguardian.com/world/2026/apr/24/taiwan-president-blames-china-for-forced-cancellation-of-eswatini-trip">The Guardian</source>
+<pubDate>2026-04-24T21:03:00+03:00</pubDate>
+</item>
+
+<item>
+<title>🇵🇭⚖️ Philippines ex-president Rodrigo Duterte to face trial for crimes against humanity</title>
+<link>https://www.theguardian.com/world/2026/apr/24/philippines-ex-president-rodrigo-duterte-to-face-trial-for-crimes-against-humanity</link>
+<description>Former Philippine President Duterte will face trial for crimes against humanity related to his deadly war on drugs campaign, which killed thousands during his tenure.</description>
+<category>Asia-Pacific</category>
+<source url="https://www.theguardian.com/world/2026/apr/24/philippines-ex-president-rodrigo-duterte-to-face-trial-for-crimes-against-humanity">The Guardian</source>
+<pubDate>2026-04-24T21:03:00+03:00</pubDate>
+</item>
 
 <item>
 <title>🇮🇱 Netanyahu Diagnosed With Prostate Cancer, Kept Public in Dark</title>
 <link>https://www.haaretz.com/science-and-health/2026-04-24/ty-article/netanyahu-diagnosed-with-prostate-cancer-without-informing-israeli-public/0000019d-bf3e-dbb2-a19d-bf7eed9f0000</link>
 <description>Israeli Prime Minister Benjamin Netanyahu was diagnosed with prostate cancer without informing the Israeli public, Haaretz reports. The diagnosis comes as Israel continues to navigate the Iran war and hostage negotiations.</description>
 <category>Middle East</category>
-<dc:source>Haaretz</dc:source>
-<pubDate>Fri, 24 Apr 2026 20:10:00 +0300</pubDate>
+<source url="https://www.haaretz.com/science-and-health/2026-04-24/ty-article/netanyahu-diagnosed-with-prostate-cancer-without-informing-israeli-public/0000019d-bf3e-dbb2-a19d-bf7eed9f0000">Haaretz</source>
+<pubDate>2026-04-24T20:10:00+03:00</pubDate>
 </item>
 
 <item>
@@ -21,8 +58,8 @@
 <link>https://www.haaretz.com/israel-news/israel-security/2026-04-24/ty-article-live/trump-says-wont-be-rushed-to-end-iran-war-tehran-must-stop-funding-hezbollah/0000019d-bd3a-ded5-abdd-bd3ada0e0000</link>
 <description>An 11-year-old Israeli girl has died from wounds sustained in an Iranian cluster missile strike last month, highlighting the ongoing civilian toll of the Iran-Israel conflict.</description>
 <category>US-Iran War</category>
-<dc:source>Haaretz</dc:source>
-<pubDate>Fri, 24 Apr 2026 20:10:00 +0300</pubDate>
+<source url="https://www.haaretz.com/israel-news/israel-security/2026-04-24/ty-article-live/trump-says-wont-be-rushed-to-end-iran-war-tehran-must-stop-funding-hezbollah/0000019d-bd3a-ded5-abdd-bd3ada0e0000">Haaretz</source>
+<pubDate>2026-04-24T20:10:00+03:00</pubDate>
 </item>
 
 <item>
@@ -30,8 +67,8 @@
 <link>https://www.twz.com/navy-rushing-to-arm-carrier-strike-groups-with-hellfire-missiles</link>
 <description>The U.S. Navy is accelerating deployment of Hellfire missiles to carrier strike groups as counter-drone capabilities amid growing threats from one-way attack drones in the Middle East theater.</description>
 <category>Defense Industry</category>
-<dc:source>The War Zone</dc:source>
-<pubDate>Fri, 24 Apr 2026 20:10:00 +0300</pubDate>
+<source url="https://www.twz.com/navy-rushing-to-arm-carrier-strike-groups-with-hellfire-missiles">The War Zone</source>
+<pubDate>2026-04-24T20:10:00+03:00</pubDate>
 </item>
 
 <item>
@@ -39,8 +76,8 @@
 <link>https://www.twz.com/trump-puts-out-kill-order-on-irans-small-boats</link>
 <description>President Trump has issued a kill order for Iranian small boats and announced plans to triple demining operations in the Strait of Hormuz, though the status of current demining activities remains unclear.</description>
 <category>US-Iran War</category>
-<dc:source>The War Zone</dc:source>
-<pubDate>Fri, 24 Apr 2026 20:10:00 +0300</pubDate>
+<source url="https://www.twz.com/trump-puts-out-kill-order-on-irans-small-boats">The War Zone</source>
+<pubDate>2026-04-24T20:10:00+03:00</pubDate>
 </item>
 
 <item>
@@ -48,8 +85,8 @@
 <link>https://www.bbc.com/news/articles/mandelson-olaf-investigation-2026-04-24</link>
 <description>The EUs anti-fraud office OLAF has launched a formal investigation into UK ambassador to the US Peter Mandelson.</description>
 <category>Europe</category>
-<dc:source>BBC</dc:source>
-<pubDate>Fri, 24 Apr 2026 20:03:00 +0300</pubDate>
+<source url="https://www.bbc.com/news/articles/mandelson-olaf-investigation-2026-04-24">BBC</source>
+<pubDate>2026-04-24T20:03:00+03:00</pubDate>
 </item>
 
 <item>
@@ -57,8 +94,8 @@
 <link>https://www.bbc.com/news/articles/powell-doj-probe-dropped-2026-04-24</link>
 <description>The DOJ dropped its investigation into Federal Reserve Chairman Jerome Powell after Trump accused him of cost overruns in Fed building renovations.</description>
 <category>US Politics</category>
-<dc:source>BBC</dc:source>
-<pubDate>Fri, 24 Apr 2026 20:03:00 +0300</pubDate>
+<source url="https://www.bbc.com/news/articles/powell-doj-probe-dropped-2026-04-24">BBC</source>
+<pubDate>2026-04-24T20:03:00+03:00</pubDate>
 </item>
 
 <item>
@@ -66,8 +103,8 @@
 <link>https://www.nytimes.com/2026/04/24/world/middleeast/iran-pakistan-araghchi.html</link>
 <description>Iranian Foreign Minister Abbas Araghchi will travel to Pakistan, Oman and Russia to explore whether peace talks with the US can be reopened.</description>
 <category>US-Iran War</category>
-<dc:source>New York Times</dc:source>
-<pubDate>Fri, 24 Apr 2026 20:03:00 +0300</pubDate>
+<source url="https://www.nytimes.com/2026/04/24/world/middleeast/iran-pakistan-araghchi.html">New York Times</source>
+<pubDate>2026-04-24T20:03:00+03:00</pubDate>
 </item>
 
 <item>
@@ -75,8 +112,8 @@
 <link>https://www.theguardian.com/world/2026/apr/24/eu-leaders-mutual-assistance-pact-nato-trump</link>
 <description>European Union nations are examining a little-known mutual defense obligation as questions arise about US commitment to NATO under Trump.</description>
 <category>Europe</category>
-<dc:source>The Guardian</dc:source>
-<pubDate>Fri, 24 Apr 2026 20:03:00 +0300</pubDate>
+<source url="https://www.theguardian.com/world/2026/apr/24/eu-leaders-mutual-assistance-pact-nato-trump">The Guardian</source>
+<pubDate>2026-04-24T20:03:00+03:00</pubDate>
 </item>
 
 <item>
@@ -84,8 +121,8 @@
 <link>https://www.nytimes.com/2026/04/24/world/middleeast/kushner-witkoff-iran-pakistan.html</link>
 <description>President Trump is sending Jared Kushner and Steve Witkoff to Pakistan for potential peace talks with Iran, with VP Vance on standby.</description>
 <category>US-Iran War</category>
-<dc:source>New York Times</dc:source>
-<pubDate>Fri, 24 Apr 2026 20:03:00 +0300</pubDate>
+<source url="https://www.nytimes.com/2026/04/24/world/middleeast/kushner-witkoff-iran-pakistan.html">New York Times</source>
+<pubDate>2026-04-24T20:03:00+03:00</pubDate>
 </item>
 
 <item>
@@ -93,8 +130,8 @@
 <link>https://www.reuters.com/world/us-considers-suspending-spain-nato-iran-war-2026-04-24/</link>
 <description>NATO stated there is no provision in its treaty to expel members after a leaked Pentagon email suggested the US was considering suspending Spain from the alliance over lack of support for the Iran war.</description>
 <category>Diplomacy</category>
-<dc:source>BBC</dc:source>
-<pubDate>Fri, 24 Apr 2026 20:03:00 +0300</pubDate>
+<source url="https://www.reuters.com/world/us-considers-suspending-spain-nato-iran-war-2026-04-24/">BBC</source>
+<pubDate>2026-04-24T20:03:00+03:00</pubDate>
 </item>
 
 <item>
@@ -102,8 +139,8 @@
 <link>https://www.bbc.com/news/articles/cvglxgq1p2jo</link>
 <description>Downing Street stated that Falklands sovereignty rests with the UK after a reported Pentagon document raised the prospect of changing the UKs position in retaliation for not joining the Iran war.</description>
 <category>Diplomacy</category>
-<dc:source>BBC</dc:source>
-<pubDate>Fri, 24 Apr 2026 20:03:00 +0300</pubDate>
+<source url="https://www.bbc.com/news/articles/cvglxgq1p2jo">BBC</source>
+<pubDate>2026-04-24T20:03:00+03:00</pubDate>
 </item>
 
 <item>
@@ -111,8 +148,8 @@
 <link>https://www.bbc.com/news/articles/c20832yg5p2o</link>
 <description>A US special forces soldier involved in the operation that captured Venezuelas Nicolas Maduro has been charged with insider trading after allegedly using classified information to bet on the outcome before it was public.</description>
 <category>US Politics</category>
-<dc:source>BBC</dc:source>
-<pubDate>Fri, 24 Apr 2026 20:03:00 +0300</pubDate>
+<source url="https://www.bbc.com/news/articles/c20832yg5p2o">BBC</source>
+<pubDate>2026-04-24T20:03:00+03:00</pubDate>
 </item>
 
 <item>
@@ -120,8 +157,8 @@
 <link>https://www.aljazeera.com/news/2026/4/24/netanyahu-says-he-received-treatment-for-prostate-cancer</link>
 <description>Israeli Prime Minister Benjamin Netanyahu revealed he underwent radiation therapy for early-stage prostate cancer after a malignant tumor was detected during follow-up care.</description>
 <category>Middle East</category>
-<dc:source>Al Jazeera</dc:source>
-<pubDate>Fri, 24 Apr 2026 20:03:00 +0300</pubDate>
+<source url="https://www.aljazeera.com/news/2026/4/24/netanyahu-says-he-received-treatment-for-prostate-cancer">Al Jazeera</source>
+<pubDate>2026-04-24T20:03:00+03:00</pubDate>
 </item>
 
 <item>
@@ -129,8 +166,8 @@
 <link>https://www.washingtonpost.com/national-security/2026/04/23/aircraft-carrier-bush-iran/</link>
 <description>The USS George H.W. Bush has joined two other carriers in the region as President Trump demands progress in peace negotiations with Tehran.</description>
 <category>US-Iran War</category>
-<dc:source>Washington Post</dc:source>
-<pubDate>Fri, 24 Apr 2026 19:16:00 +0300</pubDate>
+<source url="https://www.washingtonpost.com/national-security/2026/04/23/aircraft-carrier-bush-iran/">Washington Post</source>
+<pubDate>2026-04-24T19:16:00+03:00</pubDate>
 </item>
 
 <item>
@@ -138,8 +175,8 @@
 <link>https://www.bbc.com/news/articles/c4gx1n0dl9no</link>
 <description>The Israeli prime minister said he kept the diagnosis secret due to the ongoing conflict with Iran. He is now in excellent physical condition after radiation therapy.</description>
 <category>Middle East</category>
-<dc:source>BBC</dc:source>
-<pubDate>Fri, 24 Apr 2026 19:16:00 +0300</pubDate>
+<source url="https://www.bbc.com/news/articles/c4gx1n0dl9no">BBC</source>
+<pubDate>2026-04-24T19:16:00+03:00</pubDate>
 </item>
 
 <item>
@@ -147,8 +184,8 @@
 <link>https://www.aljazeera.com/news/2026/4/24/syrian-authorities-arrest-main-suspect-of-2013-tadamon-massacre</link>
 <description>Ex-intelligence officer Amjad Youssef was arrested for the mass killing of blindfolded civilians during the Syrian civil war. He was identified in a leaked video.</description>
 <category>Middle East</category>
-<dc:source>Al Jazeera</dc:source>
-<pubDate>Fri, 24 Apr 2026 19:16:00 +0300</pubDate>
+<source url="https://www.aljazeera.com/news/2026/4/24/syrian-authorities-arrest-main-suspect-of-2013-tadamon-massacre">Al Jazeera</source>
+<pubDate>2026-04-24T19:16:00+03:00</pubDate>
 </item>
 
 <item>
@@ -156,8 +193,8 @@
 <link>https://www.nytimes.com/2026/04/24/world/europe/bulgaria-russia-rumen-radev.html</link>
 <description>Rumen Radev won elections this week with a record of pro-Russia statements. Now Bulgarians and EU partners wait to see which way he will turn.</description>
 <category>Europe</category>
-<dc:source>New York Times</dc:source>
-<pubDate>Fri, 24 Apr 2026 19:16:00 +0300</pubDate>
+<source url="https://www.nytimes.com/2026/04/24/world/europe/bulgaria-russia-rumen-radev.html">New York Times</source>
+<pubDate>2026-04-24T19:16:00+03:00</pubDate>
 </item>
 
 <item>
@@ -165,8 +202,8 @@
 <link>https://www.defensenews.com/news/your-military/2026/04/24/threes-company-trio-of-us-carriers-operating-in-middle-east-for-first-time-in-decades/</link>
 <description>The USS Carl Vinson, USS Truman, and a third carrier are now in CENTCOM area, marking the largest US naval presence in the region since the Iraq War.</description>
 <category>Military</category>
-<dc:source>Defense News</dc:source>
-<pubDate>Fri, 24 Apr 2026 18:05:00 +0300</pubDate>
+<source url="https://www.defensenews.com/news/your-military/2026/04/24/threes-company-trio-of-us-carriers-operating-in-middle-east-for-first-time-in-decades/">Defense News</source>
+<pubDate>2026-04-24T18:05:00+03:00</pubDate>
 </item>
 
 <item>
@@ -174,8 +211,8 @@
 <link>https://www.defensenews.com/global/europe/2026/04/24/arianegroup-studying-ballistic-missile-production-in-germany-les-echos/</link>
 <description>European defense contractor explores deep-strike missile capabilities in Germany as European nations seek conventional ballistic missiles amid expanding conflicts.</description>
 <category>Defense Industry</category>
-<dc:source>Defense News</dc:source>
-<pubDate>Fri, 24 Apr 2026 18:05:00 +0300</pubDate>
+<source url="https://www.defensenews.com/global/europe/2026/04/24/arianegroup-studying-ballistic-missile-production-in-germany-les-echos/">Defense News</source>
+<pubDate>2026-04-24T18:05:00+03:00</pubDate>
 </item>
 
 <item>
@@ -183,8 +220,8 @@
 <link>https://www.defensenews.com/global/europe/2026/04/24/nato-eyes-swedish-canadian-jet-for-awacs-role-in-shift-away-from-boeing/</link>
 <description>NATO considers Saab GlobalEye as replacement for aging Boeing E-3 Sentry fleet, signaling shift away from US manufacturer for key surveillance capability.</description>
 <category>Defense Industry</category>
-<dc:source>Defense News</dc:source>
-<pubDate>Fri, 24 Apr 2026 18:05:00 +0300</pubDate>
+<source url="https://www.defensenews.com/global/europe/2026/04/24/nato-eyes-swedish-canadian-jet-for-awacs-role-in-shift-away-from-boeing/">Defense News</source>
+<pubDate>2026-04-24T18:05:00+03:00</pubDate>
 </item>
 
 <item>
@@ -192,44 +229,8 @@
 <link>https://kyivindependent.com/russias-central-bank-slashes-key-rate-to-14-5/</link>
 <description>Russian Central Bank slashes rate for eighth consecutive time from record highs as wartime spending pressures begin to ease.</description>
 <category>Economy</category>
-<dc:source>Kyiv Independent</dc:source>
-<pubDate>Fri, 24 Apr 2026 18:05:00 +0300</pubDate>
-</item>
-
-<item>
-<title>🇦🇺 Australia awards counter-drone contracts with lasers and interceptors</title>
-<link>https://www.defensenews.com/global/asia-pacific/2026/04/24/australia-awards-contracts-for-counter-drone-tech-based-on-lasers-interceptors/</link>
-<description>Australian Army pushes forward counter-UAS capabilities under Land 156 program, integrating laser-based and interceptor solutions.</description>
-<category>Defense Industry</category>
-<dc:source>Defense News</dc:source>
-<pubDate>Fri, 24 Apr 2026 18:05:00 +0300</pubDate>
-</item>
-
-<item>
-<title>🇮🇳 India Denounces Trump for Sharing "Hellhole" Remark</title>
-<link>https://www.aljazeera.com/news/2026/4/24/india-denounces-hellhole-remark-shared-by</link>
-<description>India summoned the US diplomatic envoy after President Trump shared radio host Michael Savage's comments calling India a 'hellhole'. India called the remarks 'uninformed' and summoned the US charge d'affaires.</description>
-<category>Diplomacy</category>
-<dc:source>Al Jazeera</dc:source>
-<pubDate>Fri, 24 Apr 2026 18:03:00 +0300</pubDate>
-</item>
-
-<item>
-<title>🇵🇸 Gaza Set for First Local Elections in Two Decades</title>
-<link>https://www.nytimes.com/2026/04/24/world/middleeast/gaza-elections-deir-al-balah.html</link>
-<description>Gaza is preparing to hold its first local elections in nearly 20 years. Hamas is not participating in the municipal elections in Deir al-Balah scheduled for this weekend.</description>
-<category>Middle East</category>
-<dc:source>New York Times</dc:source>
-<pubDate>Fri, 24 Apr 2026 18:03:00 +0300</pubDate>
-</item>
-
-<item>
-<title>🌍 Global Hunger Report Warns of Rising Malnutrition</title>
-<link>https://www.aljazeera.com/news/2026/4/24/global-hunger-report-warns-of-rising-malnutrition-and-famine-risks</link>
-<description>A new global hunger report warns that conflict remains the leading driver of hunger, affecting nearly 150 million people facing acute food shortages worldwide.</description>
-<category>Geopolitics</category>
-<dc:source>Al Jazeera</dc:source>
-<pubDate>Fri, 24 Apr 2026 18:03:00 +0300</pubDate>
+<source url="https://kyivindependent.com/russias-central-bank-slashes-key-rate-to-14-5/">Kyiv Independent</source>
+<pubDate>2026-04-24T18:05:00+03:00</pubDate>
 </item>
 
 </channel>
