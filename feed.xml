@@ -1,19 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Frontion News Headlines</title>
 <link>https://frontion.news</link>
-<description>Geopolitical news headlines curated by Frontion</description>
+<description>Geopolitical news headlines from Tier 1 sources</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 25 Apr 2026 10:07:20 +0300</lastBuildDate>
+<lastBuildDate>Sat, 25 Apr 2026 11:05:05 +0300</lastBuildDate>
+<atom:link href="https://frontion.news/feed.xml" rel="self" type="application/rss+xml"/>
+
+<item>
+<title>🇺🇸🇮🇷 US envoys to visit Islamabad for Iran talks as Tehran rules out direct negotiations</title>
+<link>https://www.reuters.com/world/us-negotiators-go-islamabad-iran-says-no-direct-talks-2026-04-25/</link>
+<description>Trump sends Witkoff and Kushner to Pakistan for indirect Iran negotiations. Tehran rejects direct talks but signals openness to a proposal addressing US demands, as markets rally on peace prospects.</description>
+<category>US-Iran War</category>
+<source url="https://www.reuters.com/world/us-negotiators-go-islamabad-iran-says-no-direct-talks-2026-04-25/">Reuters</source>
+<pubDate>Sat, 25 Apr 2026 11:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.reuters.com/world/us-negotiators-go-islamabad-iran-says-no-direct-talks-2026-04-25/</guid>
+</item>
+
+<item>
+<title>🇺🇸🇨🇳 US State Department warns global allies about DeepSeek AI theft allegations</title>
+<link>https://www.reuters.com/technology/us-state-dept-orders-global-warning-about-alleged-ai-thefts-deepseek-2026-04-24/</link>
+<description>Washington issues worldwide alert to allies about alleged AI technology theft by Chinese firms including DeepSeek, escalating tech tensions between Washington and Beijing.</description>
+<category>US-China</category>
+<source url="https://www.reuters.com/technology/us-state-dept-orders-global-warning-about-alleged-ai-thefts-deepseek-2026-04-24/">Reuters</source>
+<pubDate>Sat, 25 Apr 2026 11:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.reuters.com/technology/us-state-dept-orders-global-warning-about-alleged-ai-thefts-deepseek-2026-04-24/</guid>
+</item>
+
+<item>
+<title>🇬🇧🇦🇷 Britain affirms Falklands sovereignty after reported US review of status</title>
+<link>https://www.reuters.com/world/uk/falklands-sovereignty-rests-with-uk-britain-tells-us-2026-04-24/</link>
+<description>UK government states Falkland Islands sovereignty rests with Britain following reports Washington was reviewing the territory status amid shifting geopolitical priorities.</description>
+<category>Diplomacy</category>
+<source url="https://www.reuters.com/world/uk/falklands-sovereignty-rests-with-uk-britain-tells-us-2026-04-24/">Reuters</source>
+<pubDate>Sat, 25 Apr 2026 11:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.reuters.com/world/uk/falklands-sovereignty-rests-with-uk-britain-tells-us-2026-04-24/</guid>
+</item>
+
+<item>
+<title>🇪🇺🇺🇸 NATO says no mechanism to expel members amid US-Spain tensions</title>
+<link>https://www.bbc.com/news/world-europe-2026-04-24-nato-spain-us</link>
+<description>Alliance clarifies it has no provision for expelling members after reports the US could seek to suspend Spain over defense spending and trade disputes.</description>
+<category>Europe</category>
+<source url="https://www.bbc.com/news/world-europe-2026-04-24-nato-spain-us">BBC</source>
+<pubDate>Sat, 25 Apr 2026 11:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.bbc.com/news/world-europe-2026-04-24-nato-spain-us</guid>
+</item>
+
+<item>
+<title>🛡️🚀 US Space Force awards $3.2 billion Golden Dome missile defense contracts</title>
+<link>https://www.reuters.com/business/aerospace-defense/us-space-force-taps-12-firms-32-billion-golden-dome-missile-defense-2026-04-24/</link>
+<description>Twelve firms selected for major missile defense program as US accelerates space-based defense capabilities amid growing strategic competition.</description>
+<category>Defense Industry</category>
+<source url="https://www.reuters.com/business/aerospace-defense/us-space-force-taps-12-firms-32-billion-golden-dome-missile-defense-2026-04-24/">Reuters</source>
+<pubDate>Sat, 25 Apr 2026 11:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.reuters.com/business/aerospace-defense/us-space-force-taps-12-firms-32-billion-golden-dome-missile-defense-2026-04-24/</guid>
+</item>
 
 <item>
 <title>🇪🇺🇩🇪 Germany's Merz rules out immediate EU membership for Ukraine, proposes interim Council participation</title>
 <link>https://kyivindependent.com/germanys-merz-proposes-speeding-up-ukraines-eu-accession/</link>
 <description>German Chancellor Friedrich Merz said there is little appetite for fast-tracking Kyiv to full EU membership, but suggested allowing Ukraine to attend European Council sessions without voting rights as an interim step.</description>
 <category>Europe</category>
-<source>Kyiv Independent</source>
-<pubDate>2026-04-25T10:05:00+03:00</pubDate>
+<source url="https://kyivindependent.com/germanys-merz-proposes-speeding-up-ukraines-eu-accession/">Kyiv Independent</source>
+<pubDate>Sat, 25 Apr 2026 10:05:00 +0300</pubDate>
+<guid isPermaLink="true">https://kyivindependent.com/germanys-merz-proposes-speeding-up-ukraines-eu-accession/</guid>
 </item>
 
 <item>
@@ -21,8 +73,9 @@
 <link>https://kyivindependent.com/us-eu-deepen-critical-minerals-cooperation/</link>
 <description>The United States and European Union signed a memorandum of understanding on April 24 to strengthen cooperation on critical minerals, part of a broader effort to secure and diversify supply chains for semiconductors, EVs, and advanced weapons.</description>
 <category>Economy</category>
-<source>Kyiv Independent</source>
-<pubDate>2026-04-25T10:05:00+03:00</pubDate>
+<source url="https://kyivindependent.com/us-eu-deepen-critical-minerals-cooperation/">Kyiv Independent</source>
+<pubDate>Sat, 25 Apr 2026 10:05:00 +0300</pubDate>
+<guid isPermaLink="true">https://kyivindependent.com/us-eu-deepen-critical-minerals-cooperation/</guid>
 </item>
 
 <item>
@@ -30,8 +83,9 @@
 <link>https://www.scmp.com/news/world/united-states-canada/article/3351389/us-sanctions-china-based-oil-refinery-and-40-shippers-over-iran-oil</link>
 <description>The US imposed sanctions on Hengli Petrochemical's Dalian facility, one of China's largest independent refineries with 400,000 barrels per day capacity, along with 40 shipping entities for processing and transporting Iranian crude.</description>
 <category>US-China</category>
-<source>SCMP</source>
-<pubDate>2026-04-25T10:05:00+03:00</pubDate>
+<source url="https://www.scmp.com/news/world/united-states-canada/article/3351389/us-sanctions-china-based-oil-refinery-and-40-shippers-over-iran-oil">SCMP</source>
+<pubDate>Sat, 25 Apr 2026 10:05:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.scmp.com/news/world/united-states-canada/article/3351389/us-sanctions-china-based-oil-refinery-and-40-shippers-over-iran-oil</guid>
 </item>
 
 <item>
@@ -39,8 +93,9 @@
 <link>https://www.scmp.com/news/world/united-states-canada/article/3351388/trump-justice-department-adds-firing-squads-federal-executions</link>
 <description>The US Department of Justice added electrocution, gas chamber, and firing squads as execution methods, after President Trump called for expanding the use of the death penalty.</description>
 <category>US Politics</category>
-<source>SCMP</source>
-<pubDate>2026-04-25T10:05:00+03:00</pubDate>
+<source url="https://www.scmp.com/news/world/united-states-canada/article/3351388/trump-justice-department-adds-firing-squads-federal-executions">SCMP</source>
+<pubDate>Sat, 25 Apr 2026 10:05:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.scmp.com/news/world/united-states-canada/article/3351388/trump-justice-department-adds-firing-squads-federal-executions</guid>
 </item>
 
 <item>
@@ -48,8 +103,9 @@
 <link>https://www.scmp.com/news/world/united-states-canada/article/3351378/us-drops-criminal-probe-fed-chair-powell-likely-clearing-way-nominee-warsh</link>
 <description>Federal prosecutors produced "essentially zero evidence" to suspect Powell of a crime, ending an investigation that had clouded the Federal Reserve leadership as Trump's nominee David Warsh awaits confirmation.</description>
 <category>US Politics</category>
-<source>SCMP</source>
-<pubDate>2026-04-25T10:05:00+03:00</pubDate>
+<source url="https://www.scmp.com/news/world/united-states-canada/article/3351378/us-drops-criminal-probe-fed-chair-powell-likely-clearing-way-nominee-warsh">SCMP</source>
+<pubDate>Sat, 25 Apr 2026 10:05:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.scmp.com/news/world/united-states-canada/article/3351378/us-drops-criminal-probe-fed-chair-powell-likely-clearing-way-nominee-warsh</guid>
 </item>
 
 <item>
@@ -57,8 +113,9 @@
 <link>https://www.npr.org/2026/04/23/nx-s1-5797307/europe-airlines-jet-fuel-costs</link>
 <description>Soaring jet fuel costs from the Iran conflict are forcing European airlines to cancel tens of thousands of flights, with energy authorities warning of possible shortages if supplies are not replenished soon.</description>
 <category>Europe</category>
-<source>NPR</source>
-<pubDate>2026-04-25T10:03:00+03:00</pubDate>
+<source url="https://www.npr.org/2026/04/23/nx-s1-5797307/europe-airlines-jet-fuel-costs">NPR</source>
+<pubDate>Sat, 25 Apr 2026 10:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.npr.org/2026/04/23/nx-s1-5797307/europe-airlines-jet-fuel-costs</guid>
 </item>
 
 <item>
@@ -66,8 +123,9 @@
 <link>https://www.bbc.com/news/articles/c78l26yn981o</link>
 <description>Pirates have hijacked an oil tanker off Somalia, marking a resurgence of piracy in the Indian Ocean after years of decline.</description>
 <category>Africa</category>
-<source>BBC</source>
-<pubDate>2026-04-25T10:03:00+03:00</pubDate>
+<source url="https://www.bbc.com/news/articles/c78l26yn981o">BBC</source>
+<pubDate>Sat, 25 Apr 2026 10:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.bbc.com/news/articles/c78l26yn981o</guid>
 </item>
 
 <item>
@@ -75,8 +133,9 @@
 <link>https://www.npr.org/2026/04/24/nx-s1-5797439/cubas-ambassador-says-us-is-to-blame-for-islands-crisis</link>
 <description>As the US threatens military action, Cuba ambassador blames Washington for the country crisis and says prepared for confrontation if diplomacy collapses.</description>
 <category>Latin America</category>
-<source>NPR</source>
-<pubDate>2026-04-25T10:03:00+03:00</pubDate>
+<source url="https://www.npr.org/2026/04/24/nx-s1-5797439/cubas-ambassador-says-us-is-to-blame-for-islands-crisis">NPR</source>
+<pubDate>Sat, 25 Apr 2026 10:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.npr.org/2026/04/24/nx-s1-5797439/cubas-ambassador-says-us-is-to-blame-for-islands-crisis</guid>
 </item>
 
 <item>
@@ -84,8 +143,9 @@
 <link>https://www.bbc.com/news/articles/c77m242z2j8o</link>
 <description>The EU anti-fraud office OLAF confirms it has sufficient information to launch an investigation into Peter Mandelson, the UK ambassador to the US.</description>
 <category>Europe</category>
-<source>BBC</source>
-<pubDate>2026-04-25T10:03:00+03:00</pubDate>
+<source url="https://www.bbc.com/news/articles/c77m242z2j8o">BBC</source>
+<pubDate>Sat, 25 Apr 2026 10:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.bbc.com/news/articles/c77m242z2j8o</guid>
 </item>
 
 <item>
@@ -93,8 +153,9 @@
 <link>https://www.bbc.com/news/articles/cg73l2d079ko</link>
 <description>The Department of Justice memo says the move will strengthen the death penalty and deter crime, expanding execution methods available for federal cases.</description>
 <category>US Politics</category>
-<source>BBC</source>
-<pubDate>2026-04-25T10:03:00+03:00</pubDate>
+<source url="https://www.bbc.com/news/articles/cg73l2d079ko">BBC</source>
+<pubDate>Sat, 25 Apr 2026 10:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.bbc.com/news/articles/cg73l2d079ko</guid>
 </item>
 
 <item>
@@ -102,8 +163,9 @@
 <link>https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-24-2026-313e19ff213738620abe31c96eb38368</link>
 <description>Trump dispatched his special envoy and son-in-law to Islamabad to meet with Iranian Foreign Minister Abbas Araghchi through Pakistani intermediaries, as Tehran rules out direct negotiations. The diplomatic push comes with three US aircraft carriers now positioned in the region.</description>
 <category>US-Iran War</category>
-<source>AP News</source>
-<pubDate>2026-04-25T09:05:00+03:00</pubDate>
+<source url="https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-24-2026-313e19ff213738620abe31c96eb38368">AP News</source>
+<pubDate>Sat, 25 Apr 2026 09:05:00 +0300</pubDate>
+<guid isPermaLink="true">https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-24-2026-313e19ff213738620abe31c96eb38368</guid>
 </item>
 
 <item>
@@ -111,8 +173,9 @@
 <link>https://www.bbc.com/news/articles/cz78x703lrvo</link>
 <description>A NATO official stated the alliance treaty has no mechanism for suspension or expulsion following a Reuters report about an internal Pentagon email suggesting retaliating against allies for insufficient support in the Iran war. Spain refused use of its air bases for attacks on Iran.</description>
 <category>Europe</category>
-<source>BBC</source>
-<pubDate>2026-04-25T09:05:00+03:00</pubDate>
+<source url="https://www.bbc.com/news/articles/cz78x703lrvo">BBC</source>
+<pubDate>Sat, 25 Apr 2026 09:05:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.bbc.com/news/articles/cz78x703lrvo</guid>
 </item>
 
 <item>
@@ -120,8 +183,9 @@
 <link>https://kyivindependent.com/russian-attack-april-25/</link>
 <description>Russia struck multiple Ukrainian cities overnight with missiles and drones, injuring at least 14 people. The large-scale attack continues the pattern of systematic strikes on Ukrainian civilian infrastructure.</description>
 <category>Ukraine-Russia War</category>
-<source>Kyiv Independent</source>
-<pubDate>2026-04-25T08:04:00+03:00</pubDate>
+<source url="https://kyivindependent.com/russian-attack-april-25/">Kyiv Independent</source>
+<pubDate>Sat, 25 Apr 2026 08:04:00 +0300</pubDate>
+<guid isPermaLink="true">https://kyivindependent.com/russian-attack-april-25/</guid>
 </item>
 
 <item>
@@ -129,8 +193,9 @@
 <link>https://kyivindependent.com/spain-safe-from-nato-suspension/</link>
 <description>A NATO official confirmed that the US cannot unilaterally expel alliance members for refusing to back the US-Israeli war against Iran. The statement comes amid Pentagon discussions about punishing non-cooperative NATO allies.</description>
 <category>Diplomacy</category>
-<source>Kyiv Independent</source>
-<pubDate>2026-04-25T08:04:00+03:00</pubDate>
+<source url="https://kyivindependent.com/spain-safe-from-nato-suspension/">Kyiv Independent</source>
+<pubDate>Sat, 25 Apr 2026 08:04:00 +0300</pubDate>
+<guid isPermaLink="true">https://kyivindependent.com/spain-safe-from-nato-suspension/</guid>
 </item>
 
 <item>
@@ -138,8 +203,9 @@
 <link>https://kyivindependent.com/polands-tusk-questions-us-loyalty-to-nato/</link>
 <description>Polish Prime Minister Donald Tusk has publicly questioned whether the United States remains committed to NATO, reflecting growing European anxiety about US reliability as a security partner.</description>
 <category>Europe</category>
-<source>Kyiv Independent</source>
-<pubDate>2026-04-25T08:04:00+03:00</pubDate>
+<source url="https://kyivindependent.com/polands-tusk-questions-us-loyalty-to-nato/">Kyiv Independent</source>
+<pubDate>Sat, 25 Apr 2026 08:04:00 +0300</pubDate>
+<guid isPermaLink="true">https://kyivindependent.com/polands-tusk-questions-us-loyalty-to-nato/</guid>
 </item>
 
 <item>
@@ -147,8 +213,9 @@
 <link>https://www.twz.com/air/ukraines-drone-hunting-an-28-turboprop-is-now-launching-interceptor-drones</link>
 <description>Ukraine has upgraded its An-28 Cash counter-drone platform to launch interceptor drones alongside its Minigun armament, marking a significant evolution in Ukrainian air defense capabilities.</description>
 <category>Defense Industry</category>
-<source>The War Zone</source>
-<pubDate>2026-04-25T08:04:00+03:00</pubDate>
+<source url="https://www.twz.com/air/ukraines-drone-hunting-an-28-turboprop-is-now-launching-interceptor-drones">The War Zone</source>
+<pubDate>Sat, 25 Apr 2026 08:04:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.twz.com/air/ukraines-drone-hunting-an-28-turboprop-is-now-launching-interceptor-drones</guid>
 </item>
 
 <item>
@@ -156,8 +223,9 @@
 <link>https://www.defensenews.com/global/europe/2026/04/24/italy-forgoes-14-billion-deficit-spending-on-defense-amid-wobbling-economy/</link>
 <description>Italy has abandoned plans for 14 billion euros in deficit spending on defense, citing competing priorities including energy costs. The decision raises questions about European defense spending commitments.</description>
 <category>Europe</category>
-<source>Defense News</source>
-<pubDate>2026-04-25T08:04:00+03:00</pubDate>
+<source url="https://www.defensenews.com/global/europe/2026/04/24/italy-forgoes-14-billion-deficit-spending-on-defense-amid-wobbling-economy/">Defense News</source>
+<pubDate>Sat, 25 Apr 2026 08:04:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.defensenews.com/global/europe/2026/04/24/italy-forgoes-14-billion-deficit-spending-on-defense-amid-wobbling-economy/</guid>
 </item>
 
 <item>
@@ -165,8 +233,9 @@
 <link>https://apnews.com/article/treasury-bessent-sanctions-china-iran-oil-12a02b5ba394cbcab355d645bfe9cdf7</link>
 <description>The Trump administration imposed sanctions on a major China-based oil refinery (Hengli Petrochemical) and roughly 40 shipping companies involved in transporting Iranian oil. The move implements secondary sanctions threats and comes weeks before Trump meets Xi Jinping in China.</description>
 <category>US-Iran War</category>
-<source>AP News</source>
-<pubDate>2026-04-25T08:05:00+03:00</pubDate>
+<source url="https://apnews.com/article/treasury-bessent-sanctions-china-iran-oil-12a02b5ba394cbcab355d645bfe9cdf7">AP News</source>
+<pubDate>Sat, 25 Apr 2026 08:05:00 +0300</pubDate>
+<guid isPermaLink="true">https://apnews.com/article/treasury-bessent-sanctions-china-iran-oil-12a02b5ba394cbcab355d645bfe9cdf7</guid>
 </item>
 
 <item>
@@ -174,8 +243,9 @@
 <link>https://www.aljazeera.com/news/2026/4/24/petro-becomes-first-president-to-visit-venezuela-since-maduro-abduction</link>
 <description>Colombian President Gustavo Petro met interim Venezuelan President Delcy Rodriguez in Caracas, becoming the first foreign leader to visit since the US military abducted Nicolas Maduro in January. Border security and US-Colombia tensions dominated discussions.</description>
 <category>Latin America</category>
-<source>Al Jazeera</source>
-<pubDate>2026-04-25T08:05:00+03:00</pubDate>
+<source url="https://www.aljazeera.com/news/2026/4/24/petro-becomes-first-president-to-visit-venezuela-since-maduro-abduction">Al Jazeera</source>
+<pubDate>Sat, 25 Apr 2026 08:05:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.aljazeera.com/news/2026/4/24/petro-becomes-first-president-to-visit-venezuela-since-maduro-abduction</guid>
 </item>
 
 <item>
@@ -183,53 +253,9 @@
 <link>https://www.aljazeera.com/news/2026/4/24/kosovo-court-jails-three-serb-separatists-over-2023-banjska-attack</link>
 <description>A court in Pristina sentenced two ethnic Serbs to life in prison and a third to 30 years on terrorism charges for the 2023 armed attack in Banjska that killed one police officer and three gunmen. The attack was the worst since Kosovo declared independence in 2008.</description>
 <category>Europe</category>
-<source>Al Jazeera</source>
-<pubDate>2026-04-25T08:05:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🇱🇧🇮🇱🇺🇳 UN Warns Israeli Attacks on Lebanon May Violate International Law</title>
-<link>https://www.aljazeera.com/news/2026/4/24/israeli-attacks-on-lebanon-may-violate-international-law-un-warns</link>
-<description>A UN human rights report found that Israeli strikes on residential buildings in Lebanon and Hezbollah rocket fire into Israel may constitute serious violations of international humanitarian law. Over 2,400 people have been killed in Lebanon since the escalation began.</description>
-<category>Middle East</category>
-<source>Al Jazeera</source>
-<pubDate>2026-04-25T08:05:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🇺🇸 Trump Admin Moves Again to End Legal Status of CBP One Migrants</title>
-<link>https://www.aljazeera.com/news/2026/4/24/trump-to-again-end-legal-status-of-people-who-entered-us-with-cbp-one-app</link>
-<description>The Trump administration announced plans to again terminate the temporary legal status of hundreds of thousands who entered the US via the CBP One app, despite a previous court ruling blocking the move. About 900,000 people were granted humanitarian parole under the Biden-era program.</description>
-<category>US Politics</category>
-<source>Al Jazeera</source>
-<pubDate>2026-04-25T08:05:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🇮🇱 Netanyahu treated for prostate cancer, Israeli PM reveals</title>
-<link>https://www.theguardian.com/world/2026/apr/24/benjamin-netanyahu-successfully-treated-for-prostate-cancer-israel</link>
-<description>Benjamin Netanyahu announced he was successfully treated for prostate cancer, revealing a previously undisclosed diagnosis. The news comes amid ongoing tensions with Iran and domestic political challenges.</description>
-<category>Middle East</category>
-<source>The Guardian</source>
-<pubDate>2026-04-25T07:05:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🇺🇸 US Justice Department drops criminal probe into Federal Reserve Chair Powell</title>
-<link>https://apnews.com/article/federal-reserve-investigation-powell-justice-department-28d04cc0d99cda25cea69931f65e25d3</link>
-<description>The Justice Department has dropped its criminal investigation into Fed Chair Jerome Powell over renovation costs. The move likely clears the way for Kevin Warsh to potentially succeed Powell.</description>
-<category>US Politics</category>
-<source>AP News</source>
-<pubDate>2026-04-25T07:05:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🇸🇾 Suspected leader of notorious Tadamon massacre arrested in Syria</title>
-<link>https://www.bbc.com/news/articles/cvglxgq1p2jo</link>
-<description>Amjad Youssef, wanted over the mass killing of blindfolded civilians in April 2013 during the Syrian civil war, has been arrested. The Tadamon massacre was one of the conflict most notorious atrocities.</description>
-<category>Middle East</category>
-<source>BBC</source>
-<pubDate>2026-04-25T07:05:00+03:00</pubDate>
+<source url="https://www.aljazeera.com/news/2026/4/24/kosovo-court-jails-three-serb-separatists-over-2023-banjska-attack">Al Jazeera</source>
+<pubDate>Sat, 25 Apr 2026 08:05:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.aljazeera.com/news/2026/4/24/kosovo-court-jails-three-serb-separatists-over-2023-banjska-attack</guid>
 </item>
 
 </channel>
