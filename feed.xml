@@ -1,236 +1,211 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Frontion News Headlines</title>
 <link>https://frontion.com</link>
-<description>Global news headlines from Tier 1 and Tier 2 sources</description>
-<language>en-us</language>
-<lastBuildDate>Sat, 25 Apr 2026 12:08:13 GMT</lastBuildDate>
-
+<description>Geopolitical news headlines from Tier 1 sources</description>
+<language>en</language>
+<lastBuildDate>Sat, 25 Apr 2026 13:04:54 +0300</lastBuildDate>
+<atom:link href="https://frontion.com/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>🇮🇱 Netanyahu Treated for Early-Stage Prostate Cancer</title>
+<link>https://www.bbc.com/news/articles/ckgw72lrvn3o</link>
+<description>Israeli Prime Minister Benjamin Netanyahu underwent surgery to remove a malignant tumor and says he is in "excellent physical condition." The 76-year-old leader continues to face domestic political pressures while managing Israels role in the regional conflict.</description>
+<dc:creator>BBC</dc:creator>
+<pubDate>2026-04-25T13:03:00+03:00</pubDate>
+<category>Middle East</category>
+</item>
+<item>
+<title>🇸🇾 Key Tadamon Massacre Suspect Arrested in Syria</title>
+<link>https://www.bbc.com/news/articles/cvglxgq1p2jo</link>
+<description>Amjad Youssef, wanted for the mass killing of blindfolded civilians during the Syrian civil war in April 2013, has been arrested. The notorious Tadamon massacre video showed victims being executed in the Damascus district.</description>
+<dc:creator>BBC</dc:creator>
+<pubDate>2026-04-25T13:03:00+03:00</pubDate>
+<category>Middle East</category>
+</item>
+<item>
+<title>🚢 Thousands of Seafarers Stranded by Hormuz Blockade</title>
+<link>https://www.npr.org/2026/04/24/nx-s1-5797793/thousands-of-seafarers-stranded-by-ongoing-us-blockade-on-strait-of-hormuz</link>
+<description>As the U.S. blockade on Iranian ports continues, thousands of seafarers remain stranded on ships unable to dock. The standoff is causing economic shockwaves globally, disrupting maritime trade routes.</description>
+<dc:creator>NPR</dc:creator>
+<pubDate>2026-04-25T13:03:00+03:00</pubDate>
+<category>Energy</category>
+</item>
+<item>
+<title>🇪🇺🇬🇧 Mandelson Under EU Anti-Fraud Investigation</title>
+<link>https://www.bbc.com/news/articles/c77m242z2j8o</link>
+<description>The EUs anti-fraud office has opened a formal investigation into UK ambassador to the U.S. Peter Mandelson. The office confirmed it has "sufficient information" to proceed but did not specify if it involves fraud.</description>
+<dc:creator>BBC</dc:creator>
+<pubDate>2026-04-25T13:03:00+03:00</pubDate>
+<category>Europe</category>
+</item>
+<item>
+<title>✈️ European Airlines Slash Flights as Iran War Cuts Jet Fuel</title>
+<link>https://www.npr.org/2026/04/23/nx-s1-5797307/europe-airlines-jet-fuel-costs</link>
+<description>Soaring jet fuel costs due to the Iran conflict are forcing European airlines to cancel tens of thousands of flights. Energy authorities warn of possible fuel shortages if supplies are not replenished soon.</description>
+<dc:creator>NPR</dc:creator>
+<pubDate>2026-04-25T13:03:00+03:00</pubDate>
+<category>Economy</category>
+</item>
 <item>
 <title>🇩🇪⚔️ Germany Unveils First-Ever Military Strategy, Names Russia Top Threat</title>
 <link>https://www.dw.com/en/germany-unveils-first-ever-military-strategy-for-bundeswehr/a-72012345</link>
 <description>The Bundeswehr strategy marks Germany's first comprehensive military doctrine since WWII, explicitly identifying Russia as the primary security threat amid shifting European defense posture.</description>
-<category>Europe</category>
-<source url="https://www.dw.com/en/germany-unveils-first-ever-military-strategy-for-bundeswehr/a-72012345">DW</source>
+<dc:creator>DW</dc:creator>
 <pubDate>2026-04-25T12:05:00+03:00</pubDate>
+<category>Europe</category>
 </item>
-
 <item>
 <title>🇮🇷🇵🇰 Iran War: No Direct Talks Expected in Islamabad</title>
 <link>https://www.dw.com/en/iran-war-no-direct-talks-in-islamabad-expected/a-72012346</link>
 <description>US negotiators arrived in Islamabad but Iran says no direct talks are planned, as diplomatic channels remain constrained amid the ongoing ceasefire.</description>
-<category>US-Iran War</category>
-<source url="https://www.dw.com/en/iran-war-no-direct-talks-in-islamabad-expected/a-72012346">DW</source>
+<dc:creator>DW</dc:creator>
 <pubDate>2026-04-25T12:05:00+03:00</pubDate>
+<category>US-Iran War</category>
 </item>
-
 <item>
 <title>🛢️⚔️ How Iran Is Wielding the Strait of Hormuz as Leverage</title>
 <link>https://www.dw.com/en/how-iran-is-wielding-the-strait-of-hormuz-as-leverage/a-72012347</link>
 <description>Analysis of Iran's strategic use of the critical waterway for oil shipments as negotiating leverage in the ongoing conflict with the US and its allies.</description>
-<category>Energy</category>
-<source url="https://www.dw.com/en/how-iran-is-wielding-the-strait-of-hormuz-as-leverage/a-72012347">DW</source>
+<dc:creator>DW</dc:creator>
 <pubDate>2026-04-25T12:05:00+03:00</pubDate>
+<category>Energy</category>
 </item>
-
 <item>
 <title>🇮🇱🇮🇷 Israel Waiting for Green Light to Renew War Against Iran</title>
 <link>https://www.timesofisrael.com/katz-says-israel-waiting-for-green-light-to-renew-war-against-iran/</link>
 <description>Defense Minister Katz says Israel is prepared to resume operations against Iran if the fragile ceasefire collapses, pending US approval.</description>
-<category>Middle East</category>
-<source url="https://www.timesofisrael.com/katz-says-israel-waiting-for-green-light-to-renew-war-against-iran/">Times of Israel</source>
+<dc:creator>Times of Israel</dc:creator>
 <pubDate>2026-04-25T12:05:00+03:00</pubDate>
+<category>Middle East</category>
 </item>
-
 <item>
 <title>🇺🇦🇩🇪 Battle-Tested Ukrainians Begin Training German Troops for Future War</title>
 <link>https://www.kyivpost.com/intelligence/battle-tested-ukrainians-begin-training-german-troops/</link>
 <description>Ukrainian soldiers with frontline experience are now training German Bundeswehr troops, sharing combat lessons learned from the Russia-Ukraine war.</description>
-<category>Defense Industry</category>
-<source url="https://www.kyivpost.com/intelligence/battle-tested-ukrainians-begin-training-german-troops/">Kyiv Post</source>
+<dc:creator>Kyiv Post</dc:creator>
 <pubDate>2026-04-25T12:05:00+03:00</pubDate>
+<category>Defense Industry</category>
 </item>
-
 <item>
 <title>🇵🇭 Duterte to Face Trial for Crimes Against Humanity</title>
 <link>https://www.theguardian.com/world/2026/apr/23/philippines-ex-president-rodrigo-duterte-trial-charges-crimes-against-humanity</link>
 <description>Philippines former President Rodrigo Duterte will stand trial at the International Criminal Court for crimes against humanity related to his deadly war on drugs, marking a major accountability moment for the controversial leader.</description>
-<category>Asia-Pacific</category>
-<source url="https://www.theguardian.com/world/2026/apr/23/philippines-ex-president-rodrigo-duterte-trial-charges-crimes-against-humanity">The Guardian</source>
+<dc:creator>The Guardian</dc:creator>
 <pubDate>2026-04-25T12:03:00+03:00</pubDate>
+<category>Asia-Pacific</category>
 </item>
-
 <item>
 <title>🇪🇺🇺🇦 EU Approves €106 Billion Ukraine Loan After Hungary Lifts Veto</title>
 <link>https://www.npr.org/2026/04/24/nx-s1-5798455/eu-approves-a-106-billion-loan-package-to-help-ukraine-after-hungary-lifts-its-veto</link>
 <description>The European Union approved a massive loan package to help Ukraine after Hungary dropped its opposition, signaling continued Western financial support amid ongoing conflict with Russia.</description>
-<category>Europe</category>
-<source url="https://www.npr.org/2026/04/24/nx-s1-5798455/eu-approves-a-106-billion-loan-package-to-help-ukraine-after-hungary-lifts-its-veto">NPR</source>
+<dc:creator>NPR</dc:creator>
 <pubDate>2026-04-25T12:03:00+03:00</pubDate>
+<category>Europe</category>
 </item>
-
 <item>
 <title>🇹🇷 Turkey Bans Social Media for Children Under 15</title>
 <link>https://www.nytimes.com/2026/04/24/world/europe/turkey-ban-children-social-media.html</link>
 <description>Turkey passed legislation prohibiting children under 15 from using social media platforms, one of the strictest digital regulations globally amid growing concerns about online safety.</description>
-<category>Europe</category>
-<source url="https://www.nytimes.com/2026/04/24/world/europe/turkey-ban-children-social-media.html">New York Times</source>
+<dc:creator>New York Times</dc:creator>
 <pubDate>2026-04-25T12:03:00+03:00</pubDate>
+<category>Europe</category>
 </item>
-
 <item>
 <title>🇦🇫🇨🇩 Trump Officials Consider Sending Afghan Allies to Congo</title>
 <link>https://www.theguardian.com/us-news/2026/apr/21/afghan-refugees-us-congo</link>
 <description>The Trump administration is considering relocating approximately 1,100 Afghans who aided US forces to the Republic of Congo, raising concerns about the treatment of US allies after withdrawal.</description>
-<category>US Politics</category>
-<source url="https://www.theguardian.com/us-news/2026/apr/21/afghan-refugees-us-congo">The Guardian</source>
+<dc:creator>The Guardian</dc:creator>
 <pubDate>2026-04-25T12:03:00+03:00</pubDate>
+<category>US Politics</category>
 </item>
-
 <item>
 <title>🏴‍☠️🛢️ Pirates Hijack Oil Tanker Off Somalia Coast</title>
 <link>https://www.bbc.com/news/articles/c78l26yn981o</link>
 <description>Pirates hijacked an oil tanker off the coast of Somalia, raising concerns about maritime security in the region and potential disruptions to shipping routes.</description>
-<category>Middle East</category>
-<source url="https://www.bbc.com/news/articles/c78l26yn981o">BBC</source>
+<dc:creator>BBC</dc:creator>
 <pubDate>2026-04-25T12:03:00+03:00</pubDate>
+<category>Middle East</category>
 </item>
-
 <item>
 <title>🇺🇸🇮🇷 US envoys to visit Islamabad for Iran talks as Tehran rules out direct negotiations</title>
 <link>https://www.reuters.com/world/us-negotiators-go-islamabad-iran-says-no-direct-talks-2026-04-25/</link>
 <description>Trump sends Witkoff and Kushner to Pakistan for indirect Iran negotiations. Tehran rejects direct talks but signals openness to a proposal addressing US demands, as markets rally on peace prospects.</description>
-<category>US-Iran War</category>
-<source url="https://www.reuters.com/world/us-negotiators-go-islamabad-iran-says-no-direct-talks-2026-04-25/">Reuters</source>
+<dc:creator>Reuters</dc:creator>
 <pubDate>2026-04-25T11:03:00+03:00</pubDate>
+<category>US-Iran War</category>
 </item>
-
 <item>
 <title>🇺🇸🇨🇳 US State Department warns global allies about DeepSeek AI theft allegations</title>
 <link>https://www.reuters.com/technology/us-state-dept-orders-global-warning-about-alleged-ai-thefts-deepseek-2026-04-24/</link>
 <description>Washington issues worldwide alert to allies about alleged AI technology theft by Chinese firms including DeepSeek, escalating tech tensions between Washington and Beijing.</description>
-<category>US-China</category>
-<source url="https://www.reuters.com/technology/us-state-dept-orders-global-warning-about-alleged-ai-thefts-deepseek-2026-04-24/">Reuters</source>
+<dc:creator>Reuters</dc:creator>
 <pubDate>2026-04-25T11:03:00+03:00</pubDate>
+<category>US-China</category>
 </item>
-
 <item>
 <title>🇬🇧🇦🇷 Britain affirms Falklands sovereignty after reported US review of status</title>
 <link>https://www.reuters.com/world/uk/falklands-sovereignty-rests-with-uk-britain-tells-us-2026-04-24/</link>
 <description>UK government states Falkland Islands sovereignty rests with Britain following reports Washington was reviewing the territory status amid shifting geopolitical priorities.</description>
-<category>Diplomacy</category>
-<source url="https://www.reuters.com/world/uk/falklands-sovereignty-rests-with-uk-britain-tells-us-2026-04-24/">Reuters</source>
+<dc:creator>Reuters</dc:creator>
 <pubDate>2026-04-25T11:03:00+03:00</pubDate>
+<category>Diplomacy</category>
 </item>
-
 <item>
 <title>🇪🇺🇺🇸 NATO says no mechanism to expel members amid US-Spain tensions</title>
 <link>https://www.bbc.com/news/world-europe-2026-04-24-nato-spain-us</link>
 <description>Alliance clarifies it has no provision for expelling members after reports the US could seek to suspend Spain over defense spending and trade disputes.</description>
-<category>Europe</category>
-<source url="https://www.bbc.com/news/world-europe-2026-04-24-nato-spain-us">BBC</source>
+<dc:creator>BBC</dc:creator>
 <pubDate>2026-04-25T11:03:00+03:00</pubDate>
+<category>Europe</category>
 </item>
-
 <item>
 <title>🛡️🚀 US Space Force awards $3.2 billion Golden Dome missile defense contracts</title>
 <link>https://www.reuters.com/business/aerospace-defense/us-space-force-taps-12-firms-32-billion-golden-dome-missile-defense-2026-04-24/</link>
 <description>Twelve firms selected for major missile defense program as US accelerates space-based defense capabilities amid growing strategic competition.</description>
-<category>Defense Industry</category>
-<source url="https://www.reuters.com/business/aerospace-defense/us-space-force-taps-12-firms-32-billion-golden-dome-missile-defense-2026-04-24/">Reuters</source>
+<dc:creator>Reuters</dc:creator>
 <pubDate>2026-04-25T11:03:00+03:00</pubDate>
+<category>Defense Industry</category>
 </item>
-
 <item>
 <title>🇪🇺🇩🇪 Germany's Merz rules out immediate EU membership for Ukraine, proposes interim Council participation</title>
 <link>https://kyivindependent.com/germanys-merz-proposes-speeding-up-ukraines-eu-accession/</link>
 <description>German Chancellor Friedrich Merz said there is little appetite for fast-tracking Kyiv to full EU membership, but suggested allowing Ukraine to attend European Council sessions without voting rights as an interim step.</description>
-<category>Europe</category>
-<source url="https://kyivindependent.com/germanys-merz-proposes-speeding-up-ukraines-eu-accession/">Kyiv Independent</source>
+<dc:creator>Kyiv Independent</dc:creator>
 <pubDate>2026-04-25T10:05:00+03:00</pubDate>
+<category>Europe</category>
 </item>
-
 <item>
 <title>🇺🇸🇪🇺⛏️ US and EU sign critical minerals cooperation pact to reduce China dependence</title>
 <link>https://kyivindependent.com/us-eu-deepen-critical-minerals-cooperation/</link>
 <description>The United States and European Union signed a memorandum of understanding on April 24 to strengthen cooperation on critical minerals, part of a broader effort to secure and diversify supply chains for semiconductors, EVs, and advanced weapons.</description>
-<category>Economy</category>
-<source url="https://kyivindependent.com/us-eu-deepen-critical-minerals-cooperation/">Kyiv Independent</source>
+<dc:creator>Kyiv Independent</dc:creator>
 <pubDate>2026-04-25T10:05:00+03:00</pubDate>
+<category>Economy</category>
 </item>
-
 <item>
 <title>🇨🇳🇮🇷🛢️ US sanctions China-based oil refinery and 40 shippers over Iran oil trade</title>
 <link>https://www.scmp.com/news/world/united-states-canada/article/3351389/us-sanctions-china-based-oil-refinery-and-40-shippers-over-iran-oil</link>
 <description>The US imposed sanctions on Hengli Petrochemical's Dalian facility, one of China's largest independent refineries with 400,000 barrels per day capacity, along with 40 shipping entities for processing and transporting Iranian crude.</description>
-<category>US-China</category>
-<source url="https://www.scmp.com/news/world/united-states-canada/article/3351389/us-sanctions-china-based-oil-refinery-and-40-shippers-over-iran-oil">SCMP</source>
+<dc:creator>SCMP</dc:creator>
 <pubDate>2026-04-25T10:05:00+03:00</pubDate>
+<category>US-China</category>
 </item>
-
 <item>
 <title>🇺🇸⚖️ Trump Justice Department adds firing squads for federal executions</title>
 <link>https://www.scmp.com/news/world/united-states-canada/article/3351388/trump-justice-department-adds-firing-squads-federal-executions</link>
 <description>The US Department of Justice added electrocution, gas chamber, and firing squads as execution methods, after President Trump called for expanding the use of the death penalty.</description>
-<category>US Politics</category>
-<source url="https://www.scmp.com/news/world/united-states-canada/article/3351388/trump-justice-department-adds-firing-squads-federal-executions">SCMP</source>
+<dc:creator>SCMP</dc:creator>
 <pubDate>2026-04-25T10:05:00+03:00</pubDate>
+<category>US Politics</category>
 </item>
-
 <item>
 <title>🇺🇸💰 US drops criminal probe of Fed Chair Powell, clearing path for Warsh nomination</title>
 <link>https://www.scmp.com/news/world/united-states-canada/article/3351378/us-drops-criminal-probe-fed-chair-powell-likely-clearing-way-nominee-warsh</link>
 <description>Federal prosecutors produced "essentially zero evidence" to suspect Powell of a crime, ending an investigation that had clouded the Federal Reserve leadership as Trump's nominee David Warsh awaits confirmation.</description>
-<category>US Politics</category>
-<source url="https://www.scmp.com/news/world/united-states-canada/article/3351378/us-drops-criminal-probe-fed-chair-powell-likely-clearing-way-nominee-warsh">SCMP</source>
+<dc:creator>SCMP</dc:creator>
 <pubDate>2026-04-25T10:05:00+03:00</pubDate>
-</item>
-
-<item>
-<title>✈️🇪🇺 European airlines slash thousands of flights as Iran war cuts jet fuel supplies</title>
-<link>https://www.npr.org/2026/04/23/nx-s1-5797307/europe-airlines-jet-fuel-costs</link>
-<description>Soaring jet fuel costs from the Iran conflict are forcing European airlines to cancel tens of thousands of flights, with energy authorities warning of possible shortages if supplies are not replenished soon.</description>
-<category>Europe</category>
-<source url="https://www.npr.org/2026/04/23/nx-s1-5797307/europe-airlines-jet-fuel-costs">NPR</source>
-<pubDate>2026-04-25T10:03:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🚢🏴‍☠️ Pirates hijack oil tanker off the coast of Somalia</title>
-<link>https://www.bbc.com/news/articles/c78l26yn981o</link>
-<description>Pirates have hijacked an oil tanker off Somalia, marking a resurgence of piracy in the Indian Ocean after years of decline.</description>
-<category>Africa</category>
-<source url="https://www.bbc.com/news/articles/c78l26yn981o">BBC</source>
-<pubDate>2026-04-25T10:03:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🇨🇺🇺🇸 Cuban ambassador says US to blame for island crisis amid confrontation fears</title>
-<link>https://www.npr.org/2026/04/24/nx-s1-5797439/cubas-ambassador-says-us-is-to-blame-for-islands-crisis</link>
-<description>As the US threatens military action, Cuba ambassador blames Washington for the country crisis and says prepared for confrontation if diplomacy collapses.</description>
-<category>Latin America</category>
-<source url="https://www.npr.org/2026/04/24/nx-s1-5797439/cubas-ambassador-says-us-is-to-blame-for-islands-crisis">NPR</source>
-<pubDate>2026-04-25T10:03:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🇪🇺🔍 Mandelson under formal investigation by EU anti-fraud office</title>
-<link>https://www.bbc.com/news/articles/c77m242z2j8o</link>
-<description>The EU anti-fraud office OLAF confirms it has sufficient information to launch an investigation into Peter Mandelson, the UK ambassador to the US.</description>
-<category>Europe</category>
-<source url="https://www.bbc.com/news/articles/c77m242z2j8o">BBC</source>
-<pubDate>2026-04-25T10:03:00+03:00</pubDate>
-</item>
-
-<item>
-<title>⚖️🇺🇸 US to allow firing squads, gas, and electrocution for federal executions</title>
-<link>https://www.bbc.com/news/articles/cg73l2d079ko</link>
-<description>The Department of Justice memo says the move will strengthen the death penalty and deter crime, expanding execution methods available for federal cases.</description>
 <category>US Politics</category>
-<source url="https://www.bbc.com/news/articles/cg73l2d079ko">BBC</source>
-<pubDate>2026-04-25T10:03:00+03:00</pubDate>
 </item>
-
 </channel>
 </rss>
