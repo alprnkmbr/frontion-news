@@ -143,6 +143,18 @@ html.dark-mode .subtab-dropdown-menu { box-shadow: 0 4px 12px rgba(0,0,0,0.4); }
 .story-source { font-size: 0.78rem; color: var(--color-text-tertiary); }
 .story-source a { color: var(--color-text-tertiary); text-decoration: none; border-bottom: 1px solid var(--color-border); }
 .story-source a:hover { color: var(--color-accent); border-bottom-color: var(--color-accent); }
+.story-perspectives { font-size: 0.75rem; color: var(--color-text-tertiary); margin-top: 0.3rem; }
+.story-perspectives a { color: var(--color-text-tertiary); text-decoration: none; border-bottom: 1px solid var(--color-border); }
+.story-perspectives a:hover { color: var(--color-accent); border-bottom-color: var(--color-accent); }
+.perspectives-label { font-weight: 600; letter-spacing: 0.03em; }
+.story-card--clustered { padding-bottom: 0.5rem; }
+.story-perspectives-detail { margin-top: 0.4rem; }
+.story-perspectives-detail summary { font-family: var(--font-body); font-size: 0.72rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; color: var(--color-text-tertiary); cursor: pointer; padding: 0.2rem 0; transition: color 0.2s; }
+.story-perspectives-detail summary:hover { color: var(--color-accent); }
+.perspective-item { padding: 0.5rem 0 0.3rem 0; border-top: 1px solid var(--color-border-light); }
+.perspective-source { font-family: var(--font-body); font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-text-secondary); }
+.perspective-angle { font-family: var(--font-display); font-size: 0.92rem; font-weight: 700; color: var(--color-text); line-height: 1.3; margin: 0.15rem 0; }
+.perspective-summary { font-family: var(--font-serif); font-size: 0.82rem; color: var(--color-text-secondary); line-height: 1.5; }
 .no-results { font-family: var(--font-serif); font-size: 0.95rem; color: var(--color-text-tertiary); text-align: center; padding: 3rem 1rem; font-style: italic; }
 
 /* LOAD MORE */
@@ -382,8 +394,34 @@ function renderHeadlines(data) {
                 timeStr = 'Updated ' + d.toLocaleTimeString('en-US', {hour: 'numeric', minute: '2-digit'});
             } catch(e) { timeStr = ''; }
         }
+        // Build source line: primary source + "Also covered by" for perspectives
+        let sourceHtml = '';
+        const hasPerspectives = h.perspectives && h.perspectives.length > 0;
+        if (h.source) {
+            sourceHtml = 'Source: <a href="' + (h.url || '#') + '" target="_blank" rel="noopener">' + h.source + '</a>';
+        }
+        let perspectivesHtml = '';
+        if (hasPerspectives) {
+            perspectivesHtml = '<div class="story-perspectives">';
+            perspectivesHtml += '<span class="perspectives-label">Also covered by:</span> ';
+            h.perspectives.forEach((p, i) => {
+                if (i > 0) perspectivesHtml += ' · ';
+                perspectivesHtml += '<a href="' + (p.url || '#') + '" target="_blank" rel="noopener">' + p.source + '</a>';
+            });
+            perspectivesHtml += '</div>';
+            // Add expandable perspectives section
+            perspectivesHtml += '<details class="story-perspectives-detail"><summary class="perspectives-toggle">See different angles</summary>';
+            h.perspectives.forEach(p => {
+                perspectivesHtml += '<div class="perspective-item">';
+                perspectivesHtml += '<div class="perspective-source">' + p.source + '</div>';
+                perspectivesHtml += '<div class="perspective-angle">' + p.angle + '</div>';
+                if (p.summary) perspectivesHtml += '<div class="perspective-summary">' + p.summary + '</div>';
+                perspectivesHtml += '</div>';
+            });
+            perspectivesHtml += '</details>';
+        }
         return `
-        <div class="story-card">
+        <div class="story-card${hasPerspectives ? ' story-card--clustered' : ''}">
             ${timeStr ? '<div class="story-time">' + timeStr + '</div>' : ''}
             <div class="story-flag">
                 <span class="story-emoji">${h.emoji || ''}</span>
@@ -391,7 +429,8 @@ function renderHeadlines(data) {
             </div>
             <div class="story-headline">${h.headline || ''}</div>
             <div class="story-summary">${h.summary || ''}</div>
-            <div class="story-source">${h.source ? 'Source: <a href="' + (h.url || '#') + '" target="_blank" rel="noopener">' + h.source + '</a>' : ''}</div>
+            <div class="story-source">${sourceHtml}</div>
+            ${perspectivesHtml}
         </div>`;
     }).join('');
 
