@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-04-27T05:05:47+03:00",
+  "lastUpdated": "2026-04-27T06:04:58+03:00",
   "headlines": [
+    {
+      "headline": "North Korea Opens Memorial Museum for Troops Killed Fighting for Russia",
+      "summary": "Kim Jong Un attended the opening ceremony in Pyongyang alongside Russian Defense Minister Beloushov and Duma Speaker Volodin, marking one year since North Korean troops helped repel Ukraines Kursk incursion.",
+      "emoji": "🇰🇵🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/north-korea-russia-ukraine-memorial-museum-7c010fe1ded78fc45167c4fbab17ec92",
+      "timestamp": "2026-04-27T06:03:00+03:00"
+    },
+    {
+      "headline": "Trump Cancels US Peace Delegation Trip to Pakistan After Iranian FM Departs",
+      "summary": "President Trump canceled Steve Witkoff and Jared Kushners planned trip to Islamabad for Iran peace talks, suggesting negotiations continue by phone instead.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "Diplomacy",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/04/25/nx-s1-5799372/iran-middle-east-updates",
+      "timestamp": "2026-04-27T06:03:00+03:00"
+    },
+    {
+      "headline": "Oil Prices Surge 44% Since Iran War Began as Hormuz Transit Remains Blocked",
+      "summary": "West Texas Intermediate reached $96.50/barrel and Brent crude $107.75, up 44-48% since the Iran war began, as ceasefire talks stall and tankers remain stranded in the Persian Gulf.",
+      "emoji": "🛢️💰",
+      "category": "Energy",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-hezbollah-lebanon-israel-ceasefire/",
+      "timestamp": "2026-04-27T06:03:00+03:00"
+    },
     {
       "headline": "King Charles State Visit to US to Proceed Despite Washington Shooting",
       "summary": "Buckingham Palace confirmed King Charles and Queen Camilla's four-day state visit to the United States will proceed as planned starting Monday, following discussions with US officials after a shooting at the White House Correspondents Dinner attended by President Trump.",
@@ -8,7 +35,23 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/uk/buckingham-palace-says-king-charles-trip-us-go-ahead-2026-04-26/",
-      "timestamp": "2026-04-27T05:03:00+03:00"
+      "timestamp": "2026-04-27T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/uk/uk-says-cooperating-closely-with-us-security-ahead-king-charles-visit-2026-04-26/",
+          "angle": "King Charles State Visit to US to Proceed Despite Washington Shooting",
+          "summary": "Buckingham Palace confirmed King Charles state visit to the United States will go ahead as planned despite the shooting at the White House Correspondents Dinner. The visit is scheduled for Monday."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/uk/buckingham-palace-says-king-charles-trip-us-go-ahead-2026-04-26/",
+        "https://www.reuters.com/world/uk/uk-says-cooperating-closely-with-us-security-ahead-king-charles-visit-2026-04-26/"
+      ]
     },
     {
       "headline": "Asia May Emerge as Unexpected Beneficiary from Iran War Fallout",
@@ -17,15 +60,6 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/commentary/reuters-open-interest/could-asia-be-unlikely-winner-fallout-iran-war-raychaudhuri-2026-04-26/",
-      "timestamp": "2026-04-27T05:03:00+03:00"
-    },
-    {
-      "headline": "Global Leaders Condemn White House Correspondents Dinner Shooting",
-      "summary": "World leaders including UK Prime Minister Keir Starmer, French President Emmanuel Macron, Israeli Prime Minister Benjamin Netanyahu, and Indian Prime Minister Narendra Modi condemned the shooting at the White House Correspondents Dinner and expressed relief that President Trump and the First Lady were safe.",
-      "emoji": "🏛️",
-      "category": "US Politics",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/live/c1je28p42ret",
       "timestamp": "2026-04-27T05:03:00+03:00"
     },
     {
@@ -72,6 +106,31 @@
       "timestamp": "2026-04-27T04:06:00+03:00"
     },
     {
+      "headline": "Security Under Review After Gunman Breaches White House Correspondents Dinner",
+      "summary": "Law enforcement officials are reassessing security protocols after an armed suspect was able to get close to an event attended by President Trump and senior officials, raising questions about protection arrangements.",
+      "emoji": "🇺🇸🏛️",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/government/white-house-dinner-shooting-prompts-scrutiny-of-trump-security-arrangements-2026-04-26/",
+      "timestamp": "2026-04-27T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/live/c1je28p42ret",
+          "angle": "Global Leaders Condemn White House Correspondents Dinner Shooting",
+          "summary": "World leaders including UK Prime Minister Keir Starmer, French President Emmanuel Macron, Israeli Prime Minister Benjamin Netanyahu, and Indian Prime Minister Narendra Modi condemned the shooting at the White House Correspondents Dinner and expressed relief that President Trump and the First Lady were safe."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/legal/government/white-house-dinner-shooting-prompts-scrutiny-of-trump-security-arrangements-2026-04-26/",
+        "https://www.bbc.com/news/live/c1je28p42ret"
+      ]
+    },
+    {
       "headline": "Global Military Spending Hits Record $2.9 Trillion Despite US Cuts",
       "summary": "World military expenditure rose 2.9% in 2025 to a record high, with the US accounting for less as Trump halted Ukraine aid while other nations ramped up defense budgets amid rising global tensions.",
       "emoji": "💰⚔️",
@@ -94,39 +153,6 @@
       "urls": [
         "https://www.reuters.com/business/aerospace-defense/global-military-spending-rises-29-despite-us-decline-over-ukraine-freeze-2026-04-26/",
         "https://www.france24.com/en/economy/20260426-global-military-spending-record-2-9-trillion-2025-growing-insecurity"
-      ]
-    },
-    {
-      "headline": "Security Under Review After Gunman Breaches White House Correspondents Dinner",
-      "summary": "Law enforcement officials are reassessing security protocols after an armed suspect was able to get close to an event attended by President Trump and senior officials, raising questions about protection arrangements.",
-      "emoji": "🇺🇸🏛️",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/government/white-house-dinner-shooting-prompts-scrutiny-of-trump-security-arrangements-2026-04-26/",
-      "timestamp": "2026-04-27T04:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/media-telecom/how-shooting-white-house-correspondents-dinner-unfolded-2026-04-26/",
-          "angle": "Timeline: How the White House Correspondents Dinner Shooting Unfolded",
-          "summary": "A detailed reconstruction of the security incident at the Washington Hilton, from the first shots fired to the evacuation of the president and the arrest of the armed suspect."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/us/trump-was-likely-target-shooting-white-house-correspondents-dinner-us-official-2026-04-26/",
-          "angle": "Trump Was Likely Target of White House Correspondents Dinner Shooting",
-          "summary": "A gunman opened fire at the White House Correspondents Association dinner, with officials saying Trump and his officials were likely targets. A Secret Service agent was wounded and the suspect was taken into custody."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/legal/government/white-house-dinner-shooting-prompts-scrutiny-of-trump-security-arrangements-2026-04-26/",
-        "https://www.reuters.com/business/media-telecom/how-shooting-white-house-correspondents-dinner-unfolded-2026-04-26/",
-        "https://www.reuters.com/world/us/trump-was-likely-target-shooting-white-house-correspondents-dinner-us-official-2026-04-26/"
       ]
     },
     {
@@ -332,31 +358,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/us/trump-was-likely-target-shooting-white-house-correspondents-dinner-us-official-2026-04-26/",
       "timestamp": "2026-04-27T01:05:00+03:00"
-    },
-    {
-      "headline": "King Charles State Visit to US to Proceed Despite Washington Shooting",
-      "summary": "Buckingham Palace confirmed King Charles state visit to the United States will go ahead as planned despite the shooting at the White House Correspondents Dinner. The visit is scheduled for Monday.",
-      "emoji": "🇬🇧🇺🇸",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/uk/uk-says-cooperating-closely-with-us-security-ahead-king-charles-visit-2026-04-26/",
-      "timestamp": "2026-04-27T01:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/britain-royals-state-visit-king-charles-iii-14e9bb0bd9b4ddfef85af836f68ae401",
-          "angle": "King Charles III to Visit US Amid Iran War Tensions",
-          "summary": "King Charles III and Queen Camilla begin a four-day state visit to the US on Monday, seeking to strengthen US-UK ties despite tensions over Britain refusing to support the Iran war. The visit follows Queen Elizabeth IIs 1991 precedent of addressing Congress."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/uk/uk-says-cooperating-closely-with-us-security-ahead-king-charles-visit-2026-04-26/",
-        "https://apnews.com/article/britain-royals-state-visit-king-charles-iii-14e9bb0bd9b4ddfef85af836f68ae401"
-      ]
     },
     {
       "headline": "Bennett and Lapid reunite to challenge Netanyahu in upcoming Israeli election",
@@ -3569,15 +3570,6 @@
       "category": "Asia-Pacific",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/24/japan-builds-up-its-southern-shield-as-faith-in-us-security-cover-falters",
-      "timestamp": "2026-04-24T16:03:00+03:00"
-    },
-    {
-      "headline": "UK Convicts Pro-Palestine Activists in Landmark Free Speech Case",
-      "summary": "A UK court has convicted two pro-Palestine protest organizers, Ben Jamal and Chris Nineham, in a ruling that rights groups warn will spawn a broader chilling effect on civil liberties.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/uk-rights-groups-slam-conviction-of-pro-palestine-protest-organisers",
       "timestamp": "2026-04-24T16:03:00+03:00"
     }
   ]
