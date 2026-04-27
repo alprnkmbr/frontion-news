@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-04-27T14:05:52+03:00",
+  "lastUpdated": "2026-04-27T15:05:53+03:00",
   "headlines": [
+    {
+      "headline": "Merz Suggests Ukraine May Accept Territorial Loss for EU Path",
+      "summary": "German Chancellor Friedrich Merz said Ukraine may need to accept that some territory remains outside Kyiv's control in a future peace deal with Russia, linking such concessions to EU membership prospects.",
+      "emoji": "🇩🇪🇺🇦🇪🇺",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/merz-suggests-ukraine-may-have-accept-territorial-loss-help-pave-way-eu-2026-04-27/",
+      "timestamp": "2026-04-27T15:03:00+03:00"
+    },
+    {
+      "headline": "Iran Submits Proposal to Reopen Strait of Hormuz Without Nuclear Deal",
+      "summary": "Iran handed the US a proposal through Pakistani mediators to reopen the Strait of Hormuz and end the war, postponing nuclear negotiations for later. The move comes as US-Iran talks remain stalled.",
+      "emoji": "🇮🇷🚢🛢️",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/iran-gave-us-proposal-reopening-strait-hormuz-ending-war-axios-reports-2026-04-27/",
+      "timestamp": "2026-04-27T15:03:00+03:00"
+    },
+    {
+      "headline": "Moody's Revises China Outlook to Stable Citing Economic Resilience",
+      "summary": "Credit ratings agency Moody's upgraded China's outlook from negative to stable, pointing to resilient economic growth and effective debt management despite ongoing trade and geopolitical challenges.",
+      "emoji": "🇨🇳💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/moodys-flags-resilience-china-economy-moves-outlook-stable-2026-04-27/",
+      "timestamp": "2026-04-27T15:03:00+03:00"
+    },
+    {
+      "headline": "Netanyahu's Rivals Bennett and Lapid Join Forces for Israeli Election",
+      "summary": "Two of Prime Minister Benjamin Netanyahu's main political opponents, former PMs Naftali Bennett and Yair Lapid, announced they are merging parties to challenge his coalition in elections expected later this year.",
+      "emoji": "🇮🇱🗳️",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/netanyahus-biggest-rivals-join-forces-israels-next-election-2026-04-26/",
+      "timestamp": "2026-04-27T15:03:00+03:00"
+    },
+    {
+      "headline": "Starmer and Trump Discuss Urgent Need to Restore Hormuz Shipping",
+      "summary": "British PM Keir Starmer and US President Donald Trump discussed the urgent need to restore shipping through the Strait of Hormuz in a call, as the closure continues to disrupt global oil supplies.",
+      "emoji": "🇬🇧🇺🇸🚢",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/uks-starmer-trump-discuss-urgent-need-restore-shipping-strait-hormuz-2026-04-26/",
+      "timestamp": "2026-04-27T15:03:00+03:00"
+    },
     {
       "headline": "Israel Sent Iron Dome System and Troops to UAE During Iran War",
       "summary": "Israel deployed an Iron Dome air defence system along with troops to operate it in the UAE during the recent conflict with Iran, marking unprecedented security cooperation between Israel and Gulf states.",
@@ -8,7 +53,23 @@
       "category": "Middle East",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/report-israel-equipped-uae-iron-dome-system-troops-during-war-iran",
-      "timestamp": "2026-04-27T14:05:00+03:00"
+      "timestamp": "2026-04-27T14:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Israel National News",
+          "url": "https://www.israelnationalnews.com/news/426097",
+          "angle": "Israel sent Iron Dome and troops to UAE during Iran war",
+          "summary": "Axios reports Israel deployed an Iron Dome battery and personnel to the UAE amid the Iran conflict, deepening defense ties between the countries."
+        }
+      ],
+      "sources": [
+        "Middle East Eye",
+        "Israel National News"
+      ],
+      "urls": [
+        "https://www.middleeasteye.net/news/report-israel-equipped-uae-iron-dome-system-troops-during-war-iran",
+        "https://www.israelnationalnews.com/news/426097"
+      ]
     },
     {
       "headline": "Hezbollah Chief Rejects Direct Lebanon-Israel Talks, Outlines 5-Point Solution",
@@ -35,15 +96,6 @@
       "category": "Asia-Pacific",
       "source": "Anadolu Agency",
       "url": "https://www.aa.com.tr/en/asia-pacific/taiwan-receives-final-batch-of-m1a2t-abrams-tanks-from-us/3919246",
-      "timestamp": "2026-04-27T14:05:00+03:00"
-    },
-    {
-      "headline": "Europe Pays €27 Billion More for Energy Due to Iran War",
-      "summary": "European Commission President Ursula von der Leyen stated Europe is facing its second major energy crisis, paying an additional €27 billion due to disruptions from the Iran war.",
-      "emoji": "🇪🇺",
-      "category": "Energy",
-      "source": "AzerNews",
-      "url": "https://news.az/news/europe-pays-27b-more-for-energy-amid-iran-war",
       "timestamp": "2026-04-27T14:05:00+03:00"
     },
     {
@@ -128,7 +180,23 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/markets/commodities/iran-war-hands-opecs-swing-producer-crown-america-2026-04-27/",
-      "timestamp": "2026-04-27T13:00:00+03:00"
+      "timestamp": "2026-04-27T13:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "AzerNews",
+          "url": "https://news.az/news/europe-pays-27b-more-for-energy-amid-iran-war",
+          "angle": "Europe Pays €27 Billion More for Energy Due to Iran War",
+          "summary": "European Commission President Ursula von der Leyen stated Europe is facing its second major energy crisis, paying an additional €27 billion due to disruptions from the Iran war."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AzerNews"
+      ],
+      "urls": [
+        "https://www.reuters.com/markets/commodities/iran-war-hands-opecs-swing-producer-crown-america-2026-04-27/",
+        "https://news.az/news/europe-pays-27b-more-for-energy-amid-iran-war"
+      ]
     },
     {
       "headline": "Gulf Stock Markets Edge Higher Despite Stalled Iran Diplomacy",
@@ -1215,31 +1283,6 @@
       "urls": [
         "https://www.bloomberg.com/news/articles/2026-04-26/israel-president-holds-off-deciding-whether-to-pardon-netanyahu",
         "https://www.bloomberg.com/news/articles/2026-04-26/israel-president-holds-off-deciding-whether-to-pardon-netanyahu"
-      ]
-    },
-    {
-      "headline": "Israel sent Iron Dome and troops to UAE during Iran war",
-      "summary": "Axios reports Israel deployed an Iron Dome battery and personnel to the UAE amid the Iran conflict, deepening defense ties between the countries.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Israel National News",
-      "url": "https://www.israelnationalnews.com/news/426097",
-      "timestamp": "2026-04-26T16:07:00+03:00",
-      "perspectives": [
-        {
-          "source": "Times of Israel",
-          "url": "https://www.timesofisrael.com/katz-says-israel-waiting-for-green-light-to-renew-war-against-iran/",
-          "angle": "Israel Waiting for Green Light to Renew War Against Iran",
-          "summary": "Defense Minister Katz says Israel is prepared to resume operations against Iran if the fragile ceasefire collapses, pending US approval."
-        }
-      ],
-      "sources": [
-        "Israel National News",
-        "Times of Israel"
-      ],
-      "urls": [
-        "https://www.israelnationalnews.com/news/426097",
-        "https://www.timesofisrael.com/katz-says-israel-waiting-for-green-light-to-renew-war-against-iran/"
       ]
     },
     {
@@ -3554,40 +3597,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/trump-administration-pitching-us-companies-rebuild-gulf-infrastructure-hit-iran",
       "timestamp": "2026-04-25T00:04:00+03:00"
-    },
-    {
-      "headline": "US lawmakers introduce bill to counter Russias religious repression in Ukraine",
-      "summary": "A bipartisan group in Congress introduced the Countering Russias War on Faith Act, requiring State and Defense departments to report on Moscows persecution of religious groups in Ukraine and authorizing sanctions against those responsible.",
-      "emoji": "⛪",
-      "category": "Diplomacy",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/us-lawmakers-introduce-bill-to-counter-russias-religious-repression-in-ukraine/",
-      "timestamp": "2026-04-25T00:04:00+03:00"
-    },
-    {
-      "headline": "US Soldier Charged for Using Classified Intel to Bet on Maduro Raid",
-      "summary": "A US soldier was charged with using classified intelligence to place a $400,000 Polymarket bet on the Venezuela raid, raising serious security concerns about insider trading on military operations.",
-      "emoji": "🇺🇸",
-      "category": "US Politics",
-      "source": "AP News",
-      "url": "https://apnews.com/article/solider-justice-department-polymarmet-74047663d9ae104127948896fdfb59d9",
-      "timestamp": "2026-04-25T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c20832yg5p2o",
-          "angle": "US Soldier Charged for Betting $400K on Maduro Raid Using Classified Intel",
-          "summary": "A US special forces soldier involved in the operation that captured Venezuelas Nicolas Maduro has been charged with insider trading after allegedly using classified information to bet on the outcome before it was public."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "BBC"
-      ],
-      "urls": [
-        "https://apnews.com/article/solider-justice-department-polymarmet-74047663d9ae104127948896fdfb59d9",
-        "https://www.bbc.com/news/articles/c20832yg5p2o"
-      ]
     }
   ]
 }
