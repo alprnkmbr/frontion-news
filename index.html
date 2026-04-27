@@ -283,6 +283,10 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
                     <div class="subtab-dropdown-option active" data-region="global" onclick="switchSubTab('global')">Global</div>
                     <div class="subtab-dropdown-option" data-region="turkey" onclick="switchSubTab('turkey')">Türkiye</div>
                     <div class="subtab-dropdown-option" data-region="energy" onclick="switchSubTab('energy')">Energy</div>
+                    <div class="subtab-dropdown-option" data-region="usa" onclick="switchSubTab('usa')">USA</div>
+                    <div class="subtab-dropdown-option" data-region="eu" onclick="switchSubTab('eu')">EU</div>
+                    <div class="subtab-dropdown-option" data-region="russia" onclick="switchSubTab('russia')">Russia</div>
+                    <div class="subtab-dropdown-option" data-region="china" onclick="switchSubTab('china')">China</div>
                 </div>
             </div>
 
@@ -307,6 +311,54 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
                 </div>
                 <div id="energyContent">
                     <p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading Energy Brief…</p>
+                </div>
+            </div>
+
+            <!-- USA sub-content -->
+            <div id="subtab-usa" class="subtab-content">
+                <div class="date-timeline">
+                    <button class="timeline-arrow" id="usaPrevBtn" onclick="shiftUsaTimeline(-1)">←</button>
+                    <div class="timeline-dates" id="usaTimelineDates"></div>
+                    <button class="timeline-arrow" id="usaNextBtn" onclick="shiftUsaTimeline(1)">→</button>
+                </div>
+                <div id="usaContent">
+                    <p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading USA Brief…</p>
+                </div>
+            </div>
+
+            <!-- EU sub-content -->
+            <div id="subtab-eu" class="subtab-content">
+                <div class="date-timeline">
+                    <button class="timeline-arrow" id="euPrevBtn" onclick="shiftEuTimeline(-1)">←</button>
+                    <div class="timeline-dates" id="euTimelineDates"></div>
+                    <button class="timeline-arrow" id="euNextBtn" onclick="shiftEuTimeline(1)">→</button>
+                </div>
+                <div id="euContent">
+                    <p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading EU Brief…</p>
+                </div>
+            </div>
+
+            <!-- RUSSIA sub-content -->
+            <div id="subtab-russia" class="subtab-content">
+                <div class="date-timeline">
+                    <button class="timeline-arrow" id="russiaPrevBtn" onclick="shiftRussiaTimeline(-1)">←</button>
+                    <div class="timeline-dates" id="russiaTimelineDates"></div>
+                    <button class="timeline-arrow" id="russiaNextBtn" onclick="shiftRussiaTimeline(1)">→</button>
+                </div>
+                <div id="russiaContent">
+                    <p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading Russia Brief…</p>
+                </div>
+            </div>
+
+            <!-- CHINA sub-content -->
+            <div id="subtab-china" class="subtab-content">
+                <div class="date-timeline">
+                    <button class="timeline-arrow" id="chinaPrevBtn" onclick="shiftChinaTimeline(-1)">←</button>
+                    <div class="timeline-dates" id="chinaTimelineDates"></div>
+                    <button class="timeline-arrow" id="chinaNextBtn" onclick="shiftChinaTimeline(1)">→</button>
+                </div>
+                <div id="chinaContent">
+                    <p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading China Brief…</p>
                 </div>
             </div>
 
@@ -361,7 +413,7 @@ function switchSubTab(sub) {
     document.querySelectorAll('.subtab-content').forEach(c => c.classList.remove('active'));
     document.getElementById('subtab-' + sub).classList.add('active');
     // Update dropdown toggle text
-    var labels = { 'global': 'Global', 'turkey': 'Türkiye', 'energy': 'Energy' };
+    var labels = { 'global': 'Global', 'turkey': 'Türkiye', 'energy': 'Energy', 'usa': 'USA', 'eu': 'EU', 'russia': 'Russia', 'china': 'China' };
     document.getElementById('regionToggle').textContent = labels[sub] || sub;
     // Mark active option
     document.querySelector('.subtab-dropdown-option[data-region="' + sub + '"]').classList.add('active');
@@ -371,6 +423,10 @@ function switchSubTab(sub) {
     if (sub === 'global') loadAnalysisIndex();
     if (sub === 'turkey') loadTurkeyIndex();
     if (sub === 'energy') loadEnergyIndex();
+    if (sub === 'usa') loadUsaIndex();
+    if (sub === 'eu') loadEuIndex();
+    if (sub === 'russia') loadRussiaIndex();
+    if (sub === 'china') loadChinaIndex();
 }
 
 // ============ HEADLINES ============
@@ -882,6 +938,126 @@ function loadEnergyIndex() {
         document.getElementById('energyContent').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load Energy Brief index.</p>';
       });
 }
+
+// ============ GENERIC BRIEF LOADER ============
+function makeBriefLoader(dir, label, contentId, timelineDatesId, prevBtnId, nextBtnId) {
+    let briefs = [];
+    let currentIndex = 0;
+    let viewOffset = 0;
+
+    function renderTimeline() {
+        const container = document.getElementById(timelineDatesId);
+        const start = viewOffset;
+        const end = Math.min(start + DATES_VISIBLE, briefs.length);
+        let html = '';
+        for (let i = start; i < end; i++) {
+            const b = briefs[i];
+            const active = i === currentIndex ? ' active' : '';
+            html += `<a href="#" class="timeline-date${active}" onclick="selectDate_${dir}(${i}); return false;" title="${b.title}">${formatDateShort(b.date)}</a>`;
+            if (i < end - 1) html += '<div class="timeline-divider"></div>';
+        }
+        container.innerHTML = html;
+        document.getElementById(prevBtnId).disabled = viewOffset <= 0;
+        document.getElementById(nextBtnId).disabled = end >= briefs.length;
+    }
+
+    function shiftTimeline(dir) {
+        const newOffset = viewOffset + dir;
+        if (newOffset < 0 || newOffset + DATES_VISIBLE > briefs.length) return;
+        viewOffset = newOffset;
+        renderTimeline();
+    }
+
+    function selectDate(index) {
+        currentIndex = index;
+        renderTimeline();
+        loadBrief(briefs[index].date);
+    }
+
+    function loadBrief(dateSlug) {
+        const container = document.getElementById(contentId);
+        container.innerHTML = `<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading ${label} Brief…</p>`;
+        
+        fetch(`${dir}/${dateSlug}.json?v=` + Date.now())
+          .then(r => r.json())
+          .then(brief => {
+            const dateObj = new Date(brief.date + 'T00:00:00');
+            const dateStr = dateObj.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+            
+            let html = `
+              <h1 class="brief-headline">${brief.title}</h1>
+              <div class="brief-subhead">${brief.subhead}</div>
+              <div class="brief-meta">
+                  <time datetime="${brief.date}">${dateStr}</time> · Frontion News ${label} Strategic Analysis
+              </div>`;
+            
+            brief.sections.forEach((sec, i) => {
+              if (i > 0) html += '<hr class="section-divider">';
+              html += `
+              <div class="analysis-section">
+                  <h2 class="section-heading">${sec.heading}</h2>
+                  <div class="section-body">${sec.body}</div>
+                  <div class="why-it-matters">
+                      <strong>Why it matters</strong> — ${sec.whyItMatters}
+                  </div>
+              </div>`;
+            });
+            
+            if (brief.bottomLine) {
+              html += `
+              <div class="bottom-line">
+                  <div class="bottom-line-kicker">Bottom Line</div>
+                  <div class="bottom-line-body">
+                      <p>${brief.bottomLine}</p>
+                  </div>
+              </div>`;
+            }
+
+            if (brief.sources) {
+              html += `
+              <div style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid var(--color-border-light);">
+                  <div style="font-family:var(--font-body);font-size:0.72rem;font-weight:700;letter-spacing:0.18em;text-transform:uppercase;color:var(--color-text-tertiary);margin-bottom:0.5rem;">Sources</div>
+                  <div style="font-family:var(--font-serif);font-size:0.85rem;line-height:1.6;color:var(--color-text-tertiary);">${brief.sources}</div>
+              </div>`;
+            }
+            
+            container.innerHTML = html;
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+          })
+          .catch(err => {
+            container.innerHTML = `<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load ${label} Brief for this date.</p>`;
+          });
+    }
+
+    function loadIndex() {
+        fetch(`${dir}/index.json?v=` + Date.now())
+          .then(r => r.json())
+          .then(data => {
+            briefs = data;
+            if (briefs.length > 0) {
+              currentIndex = 0;
+              renderTimeline();
+              loadBrief(briefs[0].date);
+            } else {
+              document.getElementById(contentId).innerHTML = `<p style="text-align:center;color:var(--color-muted);padding:3rem 0">No ${label} Brief available yet.</p>`;
+            }
+          })
+          .catch(err => {
+            document.getElementById(contentId).innerHTML = `<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load ${label} Brief index.</p>`;
+          });
+    }
+
+    // Expose functions to global scope for onclick handlers
+    window[`shiftTimeline_${dir}`] = shiftTimeline;
+    window[`selectDate_${dir}`] = selectDate;
+    window[`load${dir.charAt(0).toUpperCase() + dir.slice(1)}Index`] = loadIndex;
+}
+
+// Instantiate all brief loaders
+const usaBrief = makeBriefLoader('usa', 'USA', 'usaContent', 'usaTimelineDates', 'usaPrevBtn', 'usaNextBtn');
+const euBrief = makeBriefLoader('eu', 'EU', 'euContent', 'euTimelineDates', 'euPrevBtn', 'euNextBtn');
+const russiaBrief = makeBriefLoader('russia', 'Russia', 'russiaContent', 'russiaTimelineDates', 'russiaPrevBtn', 'russiaNextBtn');
+const chinaBrief = makeBriefLoader('china', 'China', 'chinaContent', 'chinaTimelineDates', 'chinaPrevBtn', 'chinaNextBtn');
 
 // ============ DARK MODE ============
 function toggleDark() {
