@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-04-27T12:04:50+03:00",
+  "lastUpdated": "2026-04-27T12:06:58+03:00",
   "headlines": [
+    {
+      "headline": "China blocks Meta acquisition of AI startup Manus",
+      "summary": "Beijing has prohibited Meta Platforms USD 2 billion acquisition of Chinese-founded agentic AI startup Manus after a national security review by the National Development and Reform Commission, blocking the deal on tech transfer grounds.",
+      "emoji": "🇨🇳",
+      "category": "US-China",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/beijing-blocks-meta-s-2bn-acquisition-of-manus-after-security-review",
+      "timestamp": "2026-04-27T12:05:00+03:00"
+    },
+    {
+      "headline": "US sanctions hit Chinese refiners linked to Iranian oil trade",
+      "summary": "US sanctions against Hengli Petrochemical over alleged Iranian crude purchases triggered a sharp 10% stock drop. China largest independent refiner denied the allegations, saying it has never engaged in any trade with Iran.",
+      "emoji": "🇺🇸",
+      "category": "Energy",
+      "source": "Oil Price",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Sanctions-Escalation-Hits-Chinese-Refiners-Tied-to-Iranian-Crude-Trade.html",
+      "timestamp": "2026-04-27T12:05:00+03:00"
+    },
+    {
+      "headline": "China delivers record LNG carrier challenging South Korean shipbuilding dominance",
+      "summary": "China Merchants Heavy Industry delivered the 180,000-cubic-meter Celsius Georgetown, marking the fifth Chinese yard capable of building advanced LNG carriers as Beijing intensifies competition with Seoul in high-value shipbuilding.",
+      "emoji": "🇨🇳",
+      "category": "Asia-Pacific",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3351546/china-delivers-record-lng-carrier-shipbuilding-rivalry-south-korea-intensifies",
+      "timestamp": "2026-04-27T12:05:00+03:00"
+    },
+    {
+      "headline": "Iran FM blames US for failed talks after arriving in Russia",
+      "summary": "Foreign Minister Abbas Araghchi blamed Washington excessive demands for the collapse of Islamabad negotiations, arriving in Saint Petersburg to meet Putin. Iran passed written red lines to Americans via Pakistan including nuclear and Hormuz issues.",
+      "emoji": "🇮🇷",
+      "category": "Diplomacy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/live-news/20260427-iran-fm-blames-us-for-failure-of-talks-after-landing-in-russia",
+      "timestamp": "2026-04-27T12:05:00+03:00"
+    },
+    {
+      "headline": "Iran war deadline triggers Trump-Congress showdown",
+      "summary": "The 60-day limit under the War Powers Resolution for military operations without congressional approval expires May 1, forcing Trump to seek authorization or find alternative ways to legitimize the Iran operation as diplomatic efforts continue.",
+      "emoji": "🏛️",
+      "category": "US Politics",
+      "source": "DW",
+      "url": "https://www.dw.com/en/iran-war-deadline-heats-up-trump-congress-showdown/a-76939852",
+      "timestamp": "2026-04-27T12:05:00+03:00"
+    },
     {
       "headline": "DeepSeek releases new AI model to muted market response",
       "summary": "Chinese startup DeepSeek previewed its next-generation AI model, but market reaction was subdued compared to last year's breakthrough. The fast-moving AI industry continues to evolve rapidly.",
@@ -17,7 +62,23 @@
       "category": "Africa",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/africa/gunfire-persists-mali-town-un-urges-international-response-after-attacks-2026-04-26/",
-      "timestamp": "2026-04-27T12:03:00+03:00"
+      "timestamp": "2026-04-27T12:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/africa/mali-defence-minister-killed-al-qaedalinked-attack-near-bamako-rfi-reports-2026-04-26/",
+          "angle": "Mali Defence Minister killed in al-Qaeda-linked attack near Bamako",
+          "summary": "Mali Defence Minister Sadio Camara was killed in an attack by al Qaeda-linked group JNIM on his residence at the Kati military base outside Bamako, as coordinated assaults across Mali plunge the country into unprecedented security crisis."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/africa/gunfire-persists-mali-town-un-urges-international-response-after-attacks-2026-04-26/",
+        "https://www.reuters.com/world/africa/mali-defence-minister-killed-al-qaedalinked-attack-near-bamako-rfi-reports-2026-04-26/"
+      ]
     },
     {
       "headline": "At least 42 killed in Chad water resource clashes",
@@ -35,7 +96,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-warning-seven-lebanese-towns-north-litani-2026-04-26/",
-      "timestamp": "2026-04-27T12:03:00+03:00"
+      "timestamp": "2026-04-27T12:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-warning-seven-lebanese-towns-north-litani-2026-04-26/",
+          "angle": "Israel Issues Evacuation Warning for Seven Lebanese Towns Beyond Buffer Zone",
+          "summary": "The Israeli military warned residents to leave seven towns north of the Litani River after a soldier was killed. Strikes killed 14 people in Lebanon as the ceasefire remains fragile."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-warning-seven-lebanese-towns-north-litani-2026-04-26/",
+        "https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-warning-seven-lebanese-towns-north-litani-2026-04-26/"
+      ]
     },
     {
       "headline": "Global Military Spending Surges Despite US Ukraine Aid Freeze",
@@ -485,31 +562,6 @@
       "timestamp": "2026-04-27T04:03:00+03:00"
     },
     {
-      "headline": "Israel Issues Evacuation Warning for Seven Lebanese Towns Beyond Buffer Zone",
-      "summary": "The Israeli military warned residents to leave seven towns north of the Litani River after a soldier was killed. Strikes killed 14 people in Lebanon as the ceasefire remains fragile.",
-      "emoji": "🇱🇧🇮🇱",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-warning-seven-lebanese-towns-north-litani-2026-04-26/",
-      "timestamp": "2026-04-27T03:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "Firstpost",
-          "url": "https://www.firstpost.com/world/israel-orders-evacuation-of-seven-lebanon-villages-warns-of-forceful-action-over-hezbollah-ceasefire-violations-14004568.html",
-          "angle": "Israel Orders Evacuation of Seven Lebanese Towns as Ceasefire Strains",
-          "summary": "Israel's military ordered evacuations from seven towns north of the Litani River and warned of 'forceful action' against Hezbollah over ceasefire violations. The move comes as both sides trade blame for truce breaches, with 14 killed in Lebanon's deadliest day since the ceasefire began."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Firstpost"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-warning-seven-lebanese-towns-north-litani-2026-04-26/",
-        "https://www.firstpost.com/world/israel-orders-evacuation-of-seven-lebanon-villages-warns-of-forceful-action-over-hezbollah-ceasefire-violations-14004568.html"
-      ]
-    },
-    {
       "headline": "Iranian Foreign Minister Returns to Pakistan, Seeks to Revive Ceasefire Talks",
       "summary": "Iran's Abbas Araghchi made a brief return to Islamabad as Pakistani leaders scrambled to reignite negotiations. The diplomatic push comes amid continued hostilities and a stalled Strait of Hormuz blockade.",
       "emoji": "🇮🇷🇵🇰",
@@ -956,39 +1008,6 @@
       "source": "Defense News",
       "url": "https://www.defensenews.com/news/your-military/2026/04/21/us-southern-command-stands-up-autonomous-unit/",
       "timestamp": "2026-04-26T20:10:00+03:00"
-    },
-    {
-      "headline": "Mali Defence Minister killed in al-Qaeda-linked attack near Bamako",
-      "summary": "Mali Defence Minister Sadio Camara was killed in an attack by al Qaeda-linked group JNIM on his residence at the Kati military base outside Bamako, as coordinated assaults across Mali plunge the country into unprecedented security crisis.",
-      "emoji": "🇲🇱",
-      "category": "Africa",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/africa/mali-defence-minister-killed-al-qaedalinked-attack-near-bamako-rfi-reports-2026-04-26/",
-      "timestamp": "2026-04-26T20:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c5yvy7v66ndo",
-          "angle": "Mali Defence Minister Killed in Coordinated Rebel Attacks",
-          "summary": "Sadio Camara died in a suicide truck bombing on his residence near Bamako as jihadist militants and separatist groups launched coordinated attacks across Mali. The assault marks the largest coordinated jihadist attack on Mali in years."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/africa/loud-blasts-gunfire-heard-near-malis-main-military-camp-reuters-witness-says-2026-04-25/",
-          "angle": "Al Qaeda affiliate launches coordinated attacks across Mali",
-          "summary": "An al Qaeda affiliate and Tuareg rebels claimed coordinated attacks on army bases across Mali in one of the boldest insurgent operations against the military-led government."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "BBC",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/africa/mali-defence-minister-killed-al-qaedalinked-attack-near-bamako-rfi-reports-2026-04-26/",
-        "https://www.bbc.com/news/articles/c5yvy7v66ndo",
-        "https://www.reuters.com/world/africa/loud-blasts-gunfire-heard-near-malis-main-military-camp-reuters-witness-says-2026-04-25/"
-      ]
     },
     {
       "headline": "Australia foreign minister to visit Japan, China, South Korea for energy security talks",
@@ -3586,40 +3605,6 @@
         "https://www.defensenews.com/news/your-military/2026/04/24/threes-company-trio-of-us-carriers-operating-in-middle-east-for-first-time-in-decades/",
         "https://www.defensenews.com/news/your-military/2026/04/24/threes-company-trio-of-us-carriers-operating-in-middle-east-for-first-time-in-decades/"
       ]
-    },
-    {
-      "headline": "18 wolves found dead from suspected poisoning in Italian national park",
-      "summary": "Italian authorities are investigating the deaths of 18 wolves in a national park, with poisoning suspected. Ten carcasses were found last week and another eight in recent days.",
-      "emoji": "🐺",
-      "category": "Europe",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/italy-wolves-poisoning-2026-04-24",
-      "timestamp": "2026-04-24T22:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c0mjederzwdo",
-          "angle": "18 Wolves Found Poisoned in Italian National Park",
-          "summary": "Italian authorities are investigating after the carcasses of 18 wolves were found poisoned in a national park. Ten were found last week and eight more in recent days."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/italy-wolves-poisoning-2026-04-24",
-        "https://www.bbc.com/news/articles/c0mjederzwdo"
-      ]
-    },
-    {
-      "headline": "Iran war shows strategic value of AI for Chinese military, PLA Daily says",
-      "summary": "Chinese state media highlighted the Iran conflict as demonstrating artificial intelligence's growing importance in modern warfare, emphasizing lessons for the People's Liberation Army.",
-      "emoji": "🇨🇳🤖",
-      "category": "Defense Industry",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3351303/iran-war-shows-strategic-value-ai-chinas-military-pla-daily-says",
-      "timestamp": "2026-04-24T22:00:00+03:00"
     }
   ]
 }
