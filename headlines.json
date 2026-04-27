@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-04-27T10:07:25+03:00",
+  "lastUpdated": "2026-04-27T11:05:16+03:00",
   "headlines": [
+    {
+      "headline": "Global Military Spending Surges Despite US Ukraine Aid Freeze",
+      "summary": "Global military expenditure rose 2.9% in 2025, driven by defense spending increases in Europe and Asia, even as US military aid to Ukraine was frozen. The trend reflects growing security concerns worldwide.",
+      "emoji": "⚔️",
+      "category": "Defense Industry",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/global-military-spending-rises-29-despite-us-decline-over-ukraine-freeze-2026-04-26/",
+      "timestamp": "2026-04-27T11:03:00+03:00"
+    },
+    {
+      "headline": "Iran Offers to End Hormuz Chokehold, Seeks End to US Blockade",
+      "summary": "Iran has offered to end its stranglehold on the Strait of Hormuz through Middle Eastern intermediaries, but the proposal does not address its ballistic missile program. The US has maintained a naval blockade of Iranian ports.",
+      "emoji": "🇮🇷",
+      "category": "US-Iran War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/us-iran-war-hormuz-april-27-2026-374d81d1aac6d8f19c21e1d1e10ab103",
+      "timestamp": "2026-04-27T11:03:00+03:00"
+    },
+    {
+      "headline": "Russian Drone Strike Wounds 10 Including Children in Odesa",
+      "summary": "An overnight Russian drone attack on Ukraine's southern port city of Odesa wounded 10 people including two children and damaged residential buildings. The strike comes amid continued fighting.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/russian-drone-attack-odesa-wounds-10-officials-say-2026-04-27/",
+      "timestamp": "2026-04-27T11:03:00+03:00"
+    },
+    {
+      "headline": "Iranian Foreign Minister Heads to Moscow as Trump Says Call Us",
+      "summary": "Iran's top diplomat Abbas Araghchi arrived in Russia seeking support from Putin as President Trump said Iran could simply call if it wants to negotiate an end to the two-month war.",
+      "emoji": "🇷🇺",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/iranian-foreign-minister-heads-russia-trump-says-call-us-negotiate-2026-04-27/",
+      "timestamp": "2026-04-27T11:03:00+03:00"
+    },
+    {
+      "headline": "Netanyahu Rivals Unite to Challenge Israeli PM in Upcoming Election",
+      "summary": "Two of Netanyahu's most formidable rivals announced they are joining forces to try to oust his coalition government in elections expected later this year.",
+      "emoji": "🇮🇱",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/netanyahus-biggest-rivals-join-forces-israels-next-election-2026-04-26/",
+      "timestamp": "2026-04-27T11:03:00+03:00"
+    },
     {
       "headline": "Iran FM Araghchi Arrives in Russia for Putin Meeting as US Peace Talks Stall",
       "summary": "Iranian Foreign Minister Abbas Araghchi landed in St. Petersburg for talks with President Putin, seeking Russian support as diplomatic efforts with the US remain frozen. The visit comes after Trump cancelled a peace delegation trip to Pakistan.",
@@ -8,7 +53,23 @@
       "category": "Diplomacy",
       "source": "DW",
       "url": "https://www.dw.com/en/irans-araghchi-visits-russia-as-talks-with-us-on-hold/a-76947020",
-      "timestamp": "2026-04-27T10:05:00+03:00"
+      "timestamp": "2026-04-27T10:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Strait Times",
+          "url": "https://www.straitstimes.com/world/middle-east/iran-minister-leaves-pakistan-heads-to-russia-for-more-talks",
+          "angle": "Iran FM Araghchi heads to Moscow as US-Iran peace talks stall",
+          "summary": "Iranian Foreign Minister Abbas Araghchi is expected to meet President Vladimir Putin in St. Petersburg on April 27 after diplomatic efforts in Pakistan and Oman failed to advance peace negotiations with the US."
+        }
+      ],
+      "sources": [
+        "DW",
+        "Strait Times"
+      ],
+      "urls": [
+        "https://www.dw.com/en/irans-araghchi-visits-russia-as-talks-with-us-on-hold/a-76947020",
+        "https://www.straitstimes.com/world/middle-east/iran-minister-leaves-pakistan-heads-to-russia-for-more-talks"
+      ]
     },
     {
       "headline": "China Slams EU Industrial Policy as Discriminatory, Mulls Countermeasures",
@@ -17,15 +78,6 @@
       "category": "Economy",
       "source": "TRT World",
       "url": "https://www.trtworld.com/article/01c86ada79dc",
-      "timestamp": "2026-04-27T10:05:00+03:00"
-    },
-    {
-      "headline": "Israel Strikes Southern Lebanon, Cuts Off Road to Kafra",
-      "summary": "The Israeli military attacked the entrance to the southern Lebanese town of Kafra, cutting off the main road. The strike comes amid ongoing tensions with Hezbollah as Iran war negotiations continue.",
-      "emoji": "🇮🇱🇱🇧",
-      "category": "Middle East",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/middle-east/israel-launches-fresh-strikes-on-lebanon-cuts-off-road-to-southern-town-of-kafra/3918938",
       "timestamp": "2026-04-27T10:05:00+03:00"
     },
     {
@@ -47,22 +99,29 @@
       "timestamp": "2026-04-27T10:05:00+03:00"
     },
     {
-      "headline": "Mali Defence Minister Killed in Coordinated Rebel Attacks",
-      "summary": "Sadio Camara died in a suicide truck bombing on his residence near Bamako as jihadist militants and separatist groups launched coordinated attacks across Mali. The assault marks the largest coordinated jihadist attack on Mali in years.",
-      "emoji": "🇲🇱",
-      "category": "Africa",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5yvy7v66ndo",
-      "timestamp": "2026-04-27T10:05:00+03:00"
-    },
-    {
       "headline": "Seven Dead in Major Russian Attack on Ukraine",
       "summary": "At least seven people were killed in Russian strikes across Ukraine, including five in Dnipro where an apartment building was hit. The attack involved over 600 drones and missiles, one of the largest in days.",
       "emoji": "🇺🇦",
       "category": "Ukraine-Russia War",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o",
-      "timestamp": "2026-04-27T10:05:00+03:00"
+      "timestamp": "2026-04-27T10:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o",
+          "angle": "Seven Dead as Russian Strike Hits Residential Building in Dnipro",
+          "summary": "A major Russian attack on Ukraine killed at least seven people, with the city of Dnipro hardest hit after a strike on a residential building. Four deaths were reported from the Dnipro attack alone."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/c0rxk4q0pj0o",
+        "https://www.bbc.com/news/articles/c0rxk4q0pj0o"
+      ]
     },
     {
       "headline": "Five Pro-Palestine Activists Face Trial for Elbit Factory Raid in Germany",
@@ -74,15 +133,6 @@
       "timestamp": "2026-04-27T10:05:00+03:00"
     },
     {
-      "headline": "Car Bomb Explodes Outside Northern Ireland Police Station",
-      "summary": "A car bomb attack on a police station in Dunmurry, near Belfast, has been condemned as an attempt to undermine the 1998 Good Friday Agreement. Dissident Republican groups are suspected.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://apnews.com/article/northern-ireland-security-alert-bomb-5518cc576e8ce9cdd2fc8264ff7a5375",
-      "timestamp": "2026-04-27T10:05:00+03:00"
-    },
-    {
       "headline": "Israelis Question Netanyahu Leadership as Iran War Goals Unfulfilled",
       "summary": "With Iran's government still standing and Hezbollah and Hamas not defeated, many Israelis express dissatisfaction with Netanyahu's wartime leadership ahead of elections scheduled for later this year.",
       "emoji": "🇮🇱",
@@ -90,31 +140,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/netanyahu-trump-elections-ben-gvir-israel-iran-9e80db532e7f117c9fd57c706e3ffa56",
       "timestamp": "2026-04-27T10:05:00+03:00"
-    },
-    {
-      "headline": "Israel and Hezbollah trade strikes in Lebanon as Iran truce talks stall",
-      "summary": "Ceasefires in Lebanon and the Iran-US conflict remain shaky as military attacks flare and direct negotiations between Washington and Tehran to end their war have stalled, with Iranian negotiators returning to Pakistan.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html",
-      "timestamp": "2026-04-27T09:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Arabiya",
-          "url": "https://english.alarabiya.net/News/middle-east/2026/04/26/israel-hezbollah-trade-accusations-over-lebanon-truce-violations",
-          "angle": "Hezbollah and Israel Trade Accusations Over Lebanon Ceasefire Violations",
-          "summary": "Israel and Hezbollah exchanged blame over violations of the fragile ceasefire in Lebanon, with each side accusing the other of provocations as the truce remains on shaky ground amid the broader regional conflict."
-        }
-      ],
-      "sources": [
-        "New York Times",
-        "Al Arabiya"
-      ],
-      "urls": [
-        "https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html",
-        "https://english.alarabiya.net/News/middle-east/2026/04/26/israel-hezbollah-trade-accusations-over-lebanon-truce-violations"
-      ]
     },
     {
       "headline": "Can King Charles help heal the US-British rupture?",
@@ -221,15 +246,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/turkeys-erdogan-offers-support-trump-call-after-white-house-dinner-shooting-2026-04-27/",
       "timestamp": "2026-04-27T07:05:00+03:00"
-    },
-    {
-      "headline": "Iran FM Araghchi heads to Moscow as US-Iran peace talks stall",
-      "summary": "Iranian Foreign Minister Abbas Araghchi is expected to meet President Vladimir Putin in St. Petersburg on April 27 after diplomatic efforts in Pakistan and Oman failed to advance peace negotiations with the US.",
-      "emoji": "🇮🇷🇷🇺",
-      "category": "Diplomacy",
-      "source": "Strait Times",
-      "url": "https://www.straitstimes.com/world/middle-east/iran-minister-leaves-pakistan-heads-to-russia-for-more-talks",
-      "timestamp": "2026-04-27T06:05:00+03:00"
     },
     {
       "headline": "Nearly 214,000 Russian soldiers killed in Ukraine identified by media investigation",
@@ -902,27 +918,27 @@
       "timestamp": "2026-04-26T20:03:00+03:00",
       "perspectives": [
         {
-          "source": "The Hindu",
-          "url": "https://www.thehindu.com/news/international/mali-defence-minister-killed-fresh-fighting-between-army-and-rebels/article70908588.ece",
-          "angle": "Mali Defense Minister Killed as Rebels and Jihadists Seize Military Bases",
-          "summary": "Mali's Defense Minister Sadio Camara was killed in a coordinated attack by Tuareg rebels and al-Qaeda-linked JNIM fighters on the Kati military base near Bamako. Russia's Africa Corps withdrew from a northern town as the junta faces its biggest security crisis."
-        },
-        {
           "source": "BBC",
           "url": "https://www.bbc.com/news/articles/c5yvy7v66ndo",
-          "angle": "Mali Defense Minister Killed in Coordinated Rebel Attacks",
-          "summary": "Mali Defense Minister Sadio Camara was killed in a suicide truck bombing on his residence near Bamako. The attack was part of coordinated assaults by jihadist militants and separatists across the country."
+          "angle": "Mali Defence Minister Killed in Coordinated Rebel Attacks",
+          "summary": "Sadio Camara died in a suicide truck bombing on his residence near Bamako as jihadist militants and separatist groups launched coordinated attacks across Mali. The assault marks the largest coordinated jihadist attack on Mali in years."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/africa/loud-blasts-gunfire-heard-near-malis-main-military-camp-reuters-witness-says-2026-04-25/",
+          "angle": "Al Qaeda affiliate launches coordinated attacks across Mali",
+          "summary": "An al Qaeda affiliate and Tuareg rebels claimed coordinated attacks on army bases across Mali in one of the boldest insurgent operations against the military-led government."
         }
       ],
       "sources": [
         "Reuters",
-        "The Hindu",
-        "BBC"
+        "BBC",
+        "Reuters"
       ],
       "urls": [
         "https://www.reuters.com/world/africa/mali-defence-minister-killed-al-qaedalinked-attack-near-bamako-rfi-reports-2026-04-26/",
-        "https://www.thehindu.com/news/international/mali-defence-minister-killed-fresh-fighting-between-army-and-rebels/article70908588.ece",
-        "https://www.bbc.com/news/articles/c5yvy7v66ndo"
+        "https://www.bbc.com/news/articles/c5yvy7v66ndo",
+        "https://www.reuters.com/world/africa/loud-blasts-gunfire-heard-near-malis-main-military-camp-reuters-witness-says-2026-04-25/"
       ]
     },
     {
@@ -1098,7 +1114,7 @@
           "source": "AP News",
           "url": "https://apnews.com/article/northern-ireland-security-alert-bomb-5518cc576e8ce9cdd2fc8264ff7a5375",
           "angle": "Car Bomb Explodes Outside Northern Ireland Police Station",
-          "summary": "A car bomb exploded outside a police station in Dunmurry near Belfast after attackers placed an improvised device in a delivery drivers vehicle. Police condemned the attack as an attempt to undermine the Good Friday Agreement."
+          "summary": "A car bomb attack on a police station in Dunmurry, near Belfast, has been condemned as an attempt to undermine the 1998 Good Friday Agreement. Dissident Republican groups are suspected."
         }
       ],
       "sources": [
@@ -1898,31 +1914,6 @@
       ]
     },
     {
-      "headline": "Al Qaeda affiliate launches coordinated attacks across Mali",
-      "summary": "An al Qaeda affiliate and Tuareg rebels claimed coordinated attacks on army bases across Mali in one of the boldest insurgent operations against the military-led government.",
-      "emoji": "🇲🇱",
-      "category": "Africa",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/africa/loud-blasts-gunfire-heard-near-malis-main-military-camp-reuters-witness-says-2026-04-25/",
-      "timestamp": "2026-04-26T03:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo",
-          "angle": "Major Coordinated Attack Hits Multiple Cities Across Mali",
-          "summary": "Jihadist group JNIM and separatist Azawad Liberation Front launched simultaneous attacks on Bamako, Kati, Gao, Kidal, and other cities in what analysts call the largest coordinated jihadist attack in Mali in years. Gunmen attacked the airport area and a military helicopter was reportedly shot down near Gao."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/africa/loud-blasts-gunfire-heard-near-malis-main-military-camp-reuters-witness-says-2026-04-25/",
-        "https://www.bbc.com/news/articles/clyx7nnrkqdo"
-      ]
-    },
-    {
       "headline": "Russian forces pound Ukraine with massive drone and missile barrage",
       "summary": "Russian forces attacked southeastern Ukraine including Dnipro with waves of drones and missiles, killing at least 10 people and injuring dozens in one of the largest attacks of the war.",
       "emoji": "🇺🇦",
@@ -2160,19 +2151,27 @@
       "timestamp": "2026-04-25T19:13:00+03:00",
       "perspectives": [
         {
-          "source": "Al Arabiya",
-          "url": "https://english.alarabiya.net/News/middle-east/2026/04/25/israeli-strikes-kill-four-in-south-lebanon-health-ministry",
-          "angle": "Israeli strikes kill six in southern Lebanon despite ceasefire agreement",
-          "summary": "Israeli airstrikes killed six people in southern Lebanon, according to the Lebanese health ministry. The strikes come amid accusations of Hezbollah ceasefire violations and rising tensions along the Israel-Lebanon border."
+          "source": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/middle-east/israel-launches-fresh-strikes-on-lebanon-cuts-off-road-to-southern-town-of-kafra/3918938",
+          "angle": "Israel Strikes Southern Lebanon, Cuts Off Road to Kafra",
+          "summary": "The Israeli military attacked the entrance to the southern Lebanese town of Kafra, cutting off the main road. The strike comes amid ongoing tensions with Hezbollah as Iran war negotiations continue."
+        },
+        {
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html",
+          "angle": "Israel and Hezbollah trade strikes in Lebanon as Iran truce talks stall",
+          "summary": "Ceasefires in Lebanon and the Iran-US conflict remain shaky as military attacks flare and direct negotiations between Washington and Tehran to end their war have stalled, with Iranian negotiators returning to Pakistan."
         }
       ],
       "sources": [
         "Reuters",
-        "Al Arabiya"
+        "Anadolu Agency",
+        "New York Times"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/four-killed-israeli-strikes-southern-lebanon-state-media-say-2026-04-25/",
-        "https://english.alarabiya.net/News/middle-east/2026/04/25/israeli-strikes-kill-four-in-south-lebanon-health-ministry"
+        "https://www.aa.com.tr/en/middle-east/israel-launches-fresh-strikes-on-lebanon-cuts-off-road-to-southern-town-of-kafra/3918938",
+        "https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html"
       ]
     },
     {
@@ -2452,39 +2451,6 @@
         "https://www.defensenews.com/unmanned/2026/04/24/ukraine-to-field-25000-ground-robots-in-push-to-replace-soldiers-for-frontline-logistics/",
         "https://www.defensenews.com/unmanned/2026/04/24/ukraine-to-field-25000-ground-robots-in-push-to-replace-soldiers-for-frontline-logistics/",
         "https://www.defensenews.com/unmanned/2026/04/24/ukraine-to-field-25000-ground-robots-in-push-to-replace-soldiers-for-frontline-logistics/"
-      ]
-    },
-    {
-      "headline": "Seven Dead as Russian Strike Hits Residential Building in Dnipro",
-      "summary": "A major Russian attack on Ukraine killed at least seven people, with the city of Dnipro hardest hit after a strike on a residential building. Four deaths were reported from the Dnipro attack alone.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o",
-      "timestamp": "2026-04-25T14:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/8-killed-60-injured-russia-launches-mass-strike-on-dnipro/",
-          "angle": "Eight killed in Russian mass strike on Dnipro and multiple cities",
-          "summary": "Russia launched one of its largest aerial attacks on Ukraine, killing at least 8 and injuring 60 across Dnipro and other cities. The assault involved missiles and drones targeting multiple locations overnight."
-        },
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/ukraine-strikes-russian-fsb-command-post-in-occupied-donetsk-killing-12-officers-military-says/",
-          "angle": "12 Russian FSB officers killed in drone strike on command post in occupied Donetsk",
-          "summary": "Ukrainian forces used FP-2 drones with 60-100kg payloads to strike an FSB command post, killing 12 officers in a significant intelligence blow to Russian security services."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "Kyiv Independent",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/c0rxk4q0pj0o",
-        "https://kyivindependent.com/8-killed-60-injured-russia-launches-mass-strike-on-dnipro/",
-        "https://kyivindependent.com/ukraine-strikes-russian-fsb-command-post-in-occupied-donetsk-killing-12-officers-military-says/"
       ]
     },
     {
@@ -3639,33 +3605,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/news/china/military/article/3351303/iran-war-shows-strategic-value-ai-chinas-military-pla-daily-says",
       "timestamp": "2026-04-24T22:00:00+03:00"
-    },
-    {
-      "headline": "Taiwan president accuses China of forcing cancellation of Eswatini diplomatic trip",
-      "summary": "Taiwan President accused Beijing of pressuring Eswatini to cancel a planned diplomatic visit, highlighting continued Chinese efforts to isolate Taiwan internationally.",
-      "emoji": "🇹🇼🇨🇳",
-      "category": "Asia-Pacific",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/24/taiwan-president-blames-china-for-forced-cancellation-of-eswatini-trip",
-      "timestamp": "2026-04-24T21:03:00+03:00"
-    },
-    {
-      "headline": "Trump cannot expel NATO members over Iran stance, alliance official says",
-      "summary": "A NATO official clarified that the US president lacks authority to unilaterally suspend alliance members, amid reports that the Pentagon considered punishing Spain and others for not backing the Iran war.",
-      "emoji": "🇺🇸🇪🇺",
-      "category": "US-Iran War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/spain-safe-from-nato-suspension/",
-      "timestamp": "2026-04-24T20:30:00+03:00"
-    },
-    {
-      "headline": "Israeli Child Dies of Wounds From Iranian Cluster Missile Attack",
-      "summary": "An 11-year-old Israeli girl has died from wounds sustained in an Iranian cluster missile strike last month, highlighting the ongoing civilian toll of the Iran-Israel conflict.",
-      "emoji": "🇮🇱",
-      "category": "US-Iran War",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-04-24/ty-article-live/trump-says-wont-be-rushed-to-end-iran-war-tehran-must-stop-funding-hezbollah/0000019d-bd3a-ded5-abdd-bd3ada0e0000",
-      "timestamp": "2026-04-24T20:10:00+03:00"
     }
   ]
 }
