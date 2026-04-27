@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-04-27T12:06:58+03:00",
+  "lastUpdated": "2026-04-27T13:04:15+03:00",
   "headlines": [
+    {
+      "headline": "US Emerges as World's Swing Oil Producer as Iran War Reshapes Energy Markets",
+      "summary": "The Iran war has handed OPEC's swing producer crown to the United States, which has stepped in to shield the global economy from oil supply disruptions by boosting exports and selectively easing sanctions. The conflict is cementing America's transformation into the world's dominant energy superpower.",
+      "emoji": "🇺🇸",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/commodities/iran-war-hands-opecs-swing-producer-crown-america-2026-04-27/",
+      "timestamp": "2026-04-27T13:00:00+03:00"
+    },
+    {
+      "headline": "North Korea and Russia Deepen Military Ties, Open Memorial for Korean War Dead",
+      "summary": "North Korea and Russia pledged deeper military cooperation as they opened a memorial for North Korean troops killed fighting in Ukraine. The two countries are building what they call a \"powerful bulwark\" against Western influence as the Ukraine war continues.",
+      "emoji": "🇰🇵🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/27/world/asia/north-korea-memorial-russia-ukraine.html",
+      "timestamp": "2026-04-27T13:00:00+03:00"
+    },
+    {
+      "headline": "White House Correspondents' Dinner Shooting Suspect Appears in Federal Court",
+      "summary": "The suspect who opened fire at the White House Correspondents' Dinner, where President Trump and top officials were present, appeared in federal court. Authorities believe Trump and officials were likely targets of the attack.",
+      "emoji": "🇺🇸",
+      "category": "US Politics",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/news/us-news/live-blog/live-updates-correspondents-dinner-shooting-suspect-trump-writing-rcna342249",
+      "timestamp": "2026-04-27T13:00:00+03:00"
+    },
+    {
+      "headline": "Gulf Stock Markets Edge Higher Despite Stalled Iran Diplomacy",
+      "summary": "Most Gulf equity markets eked out small gains despite fading hopes for a diplomatic breakthrough in the US-Iran conflict. Hardening positions on both sides underscore the difficulty of reaching a negotiated settlement.",
+      "emoji": "🇦🇪",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/most-gulf-equities-nudge-higher-despite-stalled-diplomacy-iran-2026-04-26/",
+      "timestamp": "2026-04-27T13:00:00+03:00"
+    },
     {
       "headline": "China blocks Meta acquisition of AI startup Manus",
       "summary": "Beijing has prohibited Meta Platforms USD 2 billion acquisition of Chinese-founded agentic AI startup Manus after a national security review by the National Development and Reform Commission, blocking the deal on tech transfer grounds.",
@@ -35,16 +71,23 @@
       "category": "Diplomacy",
       "source": "France 24",
       "url": "https://www.france24.com/en/live-news/20260427-iran-fm-blames-us-for-failure-of-talks-after-landing-in-russia",
-      "timestamp": "2026-04-27T12:05:00+03:00"
-    },
-    {
-      "headline": "Iran war deadline triggers Trump-Congress showdown",
-      "summary": "The 60-day limit under the War Powers Resolution for military operations without congressional approval expires May 1, forcing Trump to seek authorization or find alternative ways to legitimize the Iran operation as diplomatic efforts continue.",
-      "emoji": "🏛️",
-      "category": "US Politics",
-      "source": "DW",
-      "url": "https://www.dw.com/en/iran-war-deadline-heats-up-trump-congress-showdown/a-76939852",
-      "timestamp": "2026-04-27T12:05:00+03:00"
+      "timestamp": "2026-04-27T12:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/irans-araghchi-visits-russia-as-talks-with-us-on-hold/a-76947020",
+          "angle": "Iran FM Araghchi Arrives in Russia for Putin Meeting as US Peace Talks Stall",
+          "summary": "Iranian Foreign Minister Abbas Araghchi landed in St. Petersburg for talks with President Putin, seeking Russian support as diplomatic efforts with the US remain frozen. The visit comes after Trump cancelled a peace delegation trip to Pakistan."
+        }
+      ],
+      "sources": [
+        "France 24",
+        "DW"
+      ],
+      "urls": [
+        "https://www.france24.com/en/live-news/20260427-iran-fm-blames-us-for-failure-of-talks-after-landing-in-russia",
+        "https://www.dw.com/en/irans-araghchi-visits-russia-as-talks-with-us-on-hold/a-76947020"
+      ]
     },
     {
       "headline": "DeepSeek releases new AI model to muted market response",
@@ -229,31 +272,6 @@
         "https://www.reuters.com/world/middle-east/netanyahus-biggest-rivals-join-forces-israels-next-election-2026-04-26/",
         "https://www.timesofisrael.com/highlighting-their-differences-old-new-partners-bennett-and-lapid-try-again-to-oust-netanyahu/",
         "https://www.reuters.com/world/middle-east/netanyahus-biggest-rivals-join-forces-israels-next-election-2026-04-26/"
-      ]
-    },
-    {
-      "headline": "Iran FM Araghchi Arrives in Russia for Putin Meeting as US Peace Talks Stall",
-      "summary": "Iranian Foreign Minister Abbas Araghchi landed in St. Petersburg for talks with President Putin, seeking Russian support as diplomatic efforts with the US remain frozen. The visit comes after Trump cancelled a peace delegation trip to Pakistan.",
-      "emoji": "🇮🇷🇷🇺",
-      "category": "Diplomacy",
-      "source": "DW",
-      "url": "https://www.dw.com/en/irans-araghchi-visits-russia-as-talks-with-us-on-hold/a-76947020",
-      "timestamp": "2026-04-27T10:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Strait Times",
-          "url": "https://www.straitstimes.com/world/middle-east/iran-minister-leaves-pakistan-heads-to-russia-for-more-talks",
-          "angle": "Iran FM Araghchi heads to Moscow as US-Iran peace talks stall",
-          "summary": "Iranian Foreign Minister Abbas Araghchi is expected to meet President Vladimir Putin in St. Petersburg on April 27 after diplomatic efforts in Pakistan and Oman failed to advance peace negotiations with the US."
-        }
-      ],
-      "sources": [
-        "DW",
-        "Strait Times"
-      ],
-      "urls": [
-        "https://www.dw.com/en/irans-araghchi-visits-russia-as-talks-with-us-on-hold/a-76947020",
-        "https://www.straitstimes.com/world/middle-east/iran-minister-leaves-pakistan-heads-to-russia-for-more-talks"
       ]
     },
     {
@@ -1761,6 +1779,31 @@
       ]
     },
     {
+      "headline": "Republicans Recalibrate Midterm Strategy Amid Trump Approval Slump and Iran War",
+      "summary": "With gas prices up, Trump's approval ratings down, and the Iran war dragging on, Republicans are retooling their midterm election blueprint to focus on Trump's policies while distancing themselves from the president personally.",
+      "emoji": "🇺🇸🏛️",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/government/republicans-retool-midterm-strategy-trumps-policies-less-trump-2026-04-25/",
+      "timestamp": "2026-04-26T08:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/iran-war-deadline-heats-up-trump-congress-showdown/a-76939852",
+          "angle": "Iran war deadline triggers Trump-Congress showdown",
+          "summary": "The 60-day limit under the War Powers Resolution for military operations without congressional approval expires May 1, forcing Trump to seek authorization or find alternative ways to legitimize the Iran operation as diplomatic efforts continue."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "DW"
+      ],
+      "urls": [
+        "https://www.reuters.com/legal/government/republicans-retool-midterm-strategy-trumps-policies-less-trump-2026-04-25/",
+        "https://www.dw.com/en/iran-war-deadline-heats-up-trump-congress-showdown/a-76939852"
+      ]
+    },
+    {
       "headline": "Trump Cancels Kushner and Witkoff Iran Mission After Tehran Offer Falls Short",
       "summary": "President Trump cancelled his envoys' trip to Pakistan for Iran talks, saying Tehran 'offered a lot but not enough.' Iran had said no direct talks were planned and its foreign minister left Islamabad for Oman before heading to Russia.",
       "emoji": "🇺🇸🇵🇰",
@@ -1834,31 +1877,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/news/china/military/article/3351452/could-russian-missiles-help-india-counter-its-arch-rivals-chinese-weapons",
       "timestamp": "2026-04-26T08:05:00+03:00"
-    },
-    {
-      "headline": "Republicans Recalibrate Midterm Strategy Amid Trump Approval Slump and Iran War",
-      "summary": "With gas prices up, Trump's approval ratings down, and the Iran war dragging on, Republicans are retooling their midterm election blueprint to focus on Trump's policies while distancing themselves from the president personally.",
-      "emoji": "🇺🇸🏛️",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/government/republicans-retool-midterm-strategy-trumps-policies-less-trump-2026-04-25/",
-      "timestamp": "2026-04-26T08:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/legal/government/republicans-retool-midterm-strategy-trumps-policies-less-trump-2026-04-25/",
-          "angle": "Republicans Retool Midterm Strategy Amid Iran War and Gas Prices",
-          "summary": "With US gas prices up and President Trump's approval ratings down as the Iran war drags on, Republicans are recalibrating their blueprint for November's midterm elections, focusing on Trump's policies while distancing from Trump himself."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/legal/government/republicans-retool-midterm-strategy-trumps-policies-less-trump-2026-04-25/",
-        "https://www.reuters.com/legal/government/republicans-retool-midterm-strategy-trumps-policies-less-trump-2026-04-25/"
-      ]
     },
     {
       "headline": "Trump Fires Homeland Security Secretary Kristi Noem",
@@ -3537,73 +3555,6 @@
       "urls": [
         "https://apnews.com/article/solider-justice-department-polymarmet-74047663d9ae104127948896fdfb59d9",
         "https://www.bbc.com/news/articles/c20832yg5p2o"
-      ]
-    },
-    {
-      "headline": "Russian Oil Exports Slump as Ukraine Hammers Ports and Refineries",
-      "summary": "Russian oil exports are projected to fall to their lowest levels since 2023 as Ukrainian drone strikes continue targeting ports and refineries, despite a US sanctions waiver.",
-      "emoji": "🛢️",
-      "category": "Ukraine-Russia War",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/24/russian-oil-exports-slump-as-ukraine-hammers-ports-and-refineries",
-      "timestamp": "2026-04-25T00:03:00+03:00"
-    },
-    {
-      "headline": "Zelensky makes second Saudi Arabia visit in less than a month for security-energy talks",
-      "summary": "Ukrainian President Volodymyr Zelensky is advancing agreements with Saudi Arabia in security, energy, and infrastructure during his second visit to the kingdom in under a month.",
-      "emoji": "🇺🇦🇸🇦",
-      "category": "Diplomacy",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/zelensky-visits-saudi-arabia-to-discuss-security-energy-cooperation/",
-      "timestamp": "2026-04-24T22:05:00+03:00"
-    },
-    {
-      "headline": "Three US aircraft carriers operate in Middle East for first time since 2003",
-      "summary": "The US military has three aircraft carrier strike groups in the Middle East simultaneously for the first time since 2003, amid fragile truce negotiations with Iran. The USS George H.W. Bush joins existing carriers as tensions remain high.",
-      "emoji": "🇺🇸",
-      "category": "Military",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/us-three-carriers-middle-east",
-      "timestamp": "2026-04-24T22:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Defense News",
-          "url": "https://www.defensenews.com/news/your-military/2026/04/24/threes-company-trio-of-us-carriers-operating-in-middle-east-for-first-time-in-decades/",
-          "angle": "Three US Aircraft Carriers Now Operating in Middle East",
-          "summary": "For the first time since 2003, three US carrier strike groups are operating in Central Command's area of responsibility as the US military buildup around Iran continues."
-        },
-        {
-          "source": "Defense News",
-          "url": "https://www.defensenews.com/news/your-military/2026/04/24/threes-company-trio-of-us-carriers-operating-in-middle-east-for-first-time-in-decades/",
-          "angle": "Three US carriers operate in Middle East for first time since 2003",
-          "summary": "Three US aircraft carriers are now operating in Central Command area of responsibility simultaneously, reflecting the massive naval buildup amid the Iran conflict."
-        },
-        {
-          "source": "Defense News",
-          "url": "https://www.defensenews.com/news/your-military/2026/04/24/threes-company-trio-of-us-carriers-operating-in-middle-east-for-first-time-in-decades/",
-          "angle": "Three US carriers operate in Middle East for first time since 2003",
-          "summary": "Three US aircraft carriers are operating in Central Commands area of responsibility simultaneously for the first time since 2003, reflecting the massive naval presence deployed for the Iran conflict."
-        },
-        {
-          "source": "Defense News",
-          "url": "https://www.defensenews.com/news/your-military/2026/04/24/threes-company-trio-of-us-carriers-operating-in-middle-east-for-first-time-in-decades/",
-          "angle": "Three US aircraft carriers operate in Middle East for first time since 2003",
-          "summary": "The USS Carl Vinson, USS Truman, and a third carrier are now in CENTCOM area, marking the largest US naval presence in the region since the Iraq War."
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "Defense News",
-        "Defense News",
-        "Defense News",
-        "Defense News"
-      ],
-      "urls": [
-        "https://www.aljazeera.com/news/2026/4/24/us-three-carriers-middle-east",
-        "https://www.defensenews.com/news/your-military/2026/04/24/threes-company-trio-of-us-carriers-operating-in-middle-east-for-first-time-in-decades/",
-        "https://www.defensenews.com/news/your-military/2026/04/24/threes-company-trio-of-us-carriers-operating-in-middle-east-for-first-time-in-decades/",
-        "https://www.defensenews.com/news/your-military/2026/04/24/threes-company-trio-of-us-carriers-operating-in-middle-east-for-first-time-in-decades/",
-        "https://www.defensenews.com/news/your-military/2026/04/24/threes-company-trio-of-us-carriers-operating-in-middle-east-for-first-time-in-decades/"
       ]
     }
   ]
