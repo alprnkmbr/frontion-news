@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-04-27T18:05:06+03:00",
+  "lastUpdated": "2026-04-27T19:13:43+03:00",
   "headlines": [
+    {
+      "headline": "OpenAI Ends Microsoft Exclusivity, Opens Path to Amazon and Google Cloud Deals",
+      "summary": "Microsoft loses exclusive access to OpenAI technology, allowing the ChatGPT creator to sell products across rival cloud platforms in a major shift for the AI industry.",
+      "emoji": "🤖",
+      "category": "Technology",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/litigation/microsoft-end-exclusive-license-openais-technology-2026-04-27/",
+      "timestamp": "2026-04-27T19:12:00+03:00"
+    },
+    {
+      "headline": "Trump Tells Iran to \"Call Us\" as Putin Hosts Tehran Top Diplomat in Russia",
+      "summary": "President Donald Trump publicly urges Iran to negotiate as Iranian Foreign Minister Abbas Araghchi meets with Vladimir Putin in St. Petersburg following canceled US envoy talks.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "Diplomacy",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/iran/trump-iran-war-call-us-peace-talks-araghchi-putin-hormuz-rcna342251",
+      "timestamp": "2026-04-27T19:12:00+03:00"
+    },
+    {
+      "headline": "Hezbollah Vows to Keep Weapons as Lebanon Says Israeli Strikes Killed 14",
+      "summary": "Lebanese militant group Hezbollah declares it will not disarm despite ceasefire, a day after authorities report Israeli strikes killed 14 people in the deadliest day since the truce.",
+      "emoji": "🇱🇧⚔️",
+      "category": "Middle East",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/27/world/middleeast/hezbollah-weapons-lebanon-israel.html",
+      "timestamp": "2026-04-27T19:12:00+03:00"
+    },
+    {
+      "headline": "Israeli Strikes Hit East Lebanon, Expanding Conflict Zone Despite Ceasefire",
+      "summary": "The Israeli military begins strikes in eastern Lebanon, expanding the scope of its bombing campaign during a ceasefire that has failed to halt hostilities with Hezbollah.",
+      "emoji": "🇮🇱🇱🇧",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israeli-strikes-hit-east-lebanon-expanding-scope-despite-ceasefire-2026-04-27/",
+      "timestamp": "2026-04-27T19:12:00+03:00"
+    },
     {
       "headline": "Putin pledges support for Iran, offers mediation in talks with Araghchi",
       "summary": "Russian President Vladimir Putin told Iranian Foreign Minister Abbas Araghchi in St. Petersburg that Russia would support Iran through its \"difficult period\" and hoped for peace soon. The meeting comes as US-Iran talks stall.",
@@ -20,31 +56,29 @@
       "timestamp": "2026-04-27T18:05:00+03:00"
     },
     {
-      "headline": "Israel expands strikes to eastern Lebanon despite ceasefire",
-      "summary": "The Israeli military began carrying out strikes in eastern Lebanon on Monday, expanding the scope of its bombing campaign beyond the south. Hezbollah weapons caches including drones were captured.",
-      "emoji": "🇮🇱🇱🇧",
-      "category": "Middle East",
-      "source": "Al-Monitor",
-      "url": "https://www.al-monitor.com/originals/2026/04/israeli-strikes-hit-east-lebanon-expanding-scope-despite-ceasefire",
-      "timestamp": "2026-04-27T18:05:00+03:00"
-    },
-    {
-      "headline": "China blocks Meta acquisition of Singapore AI startup Manus",
-      "summary": "China blocked Meta Platforms from acquiring AI start-up Manus, a Singapore-based company, citing national security concerns. The .5 billion deal would have been one of the largest AI acquisitions.",
-      "emoji": "🇨🇳🤖",
-      "category": "US-China",
-      "source": "Straits Times",
-      "url": "https://www.straitstimes.com/asia/east-asia/china-blocks-metas-2-billion-acquisition-of-ai-startup-manus",
-      "timestamp": "2026-04-27T18:05:00+03:00"
-    },
-    {
       "headline": "Ukraine and Norway to jointly produce mid-strike drones",
       "summary": "Ukraine and Norway will launch joint production of mid-range strike drones following a defense declaration signed in Oslo. The project expands Ukraine's drone manufacturing capabilities amid the ongoing war.",
       "emoji": "🇺🇦🇳🇴",
       "category": "Defense Industry",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/ukraine-norway-to-launch-joint-production-of-mid-strike-drones/",
-      "timestamp": "2026-04-27T18:05:00+03:00"
+      "timestamp": "2026-04-27T18:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Defense Post",
+          "url": "https://thedefensepost.com/2026/04/21/ukraine-anubis-seth-x-drone/",
+          "angle": "Ukraine unveils new AI-powered strike drones Anubis and Seth-X for deep missions",
+          "summary": "Ukrainian firm Airlogix revealed two new drones: Anubis for deep-strike missions with stealth characteristics, and Seth-X designed for swarm attacks, expanding Ukraine's AI strike capabilities in contested environments."
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "The Defense Post"
+      ],
+      "urls": [
+        "https://kyivindependent.com/ukraine-norway-to-launch-joint-production-of-mid-strike-drones/",
+        "https://thedefensepost.com/2026/04/21/ukraine-anubis-seth-x-drone/"
+      ]
     },
     {
       "headline": "Iran Oil Tankers Forced Back by US Blockade as Hormuz Traffic Dwindles",
@@ -53,7 +87,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/shipping-traffic-through-hormuz-remains-muted-with-no-us-iran-deal-sight-data-2026-04-27/",
-      "timestamp": "2026-04-27T18:05:00+03:00"
+      "timestamp": "2026-04-27T18:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/us-iran-war-hormuz-april-27-2026-374d81d1aac6d8f19c21e1d1e10ab103",
+          "angle": "Iran Offers to End Hormuz Chokehold, Seeks End to US Blockade",
+          "summary": "Iran has offered to end its stranglehold on the Strait of Hormuz through Middle Eastern intermediaries, but the proposal does not address its ballistic missile program. The US has maintained a naval blockade of Iranian ports."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/shipping-traffic-through-hormuz-remains-muted-with-no-us-iran-deal-sight-data-2026-04-27/",
+        "https://apnews.com/article/us-iran-war-hormuz-april-27-2026-374d81d1aac6d8f19c21e1d1e10ab103"
+      ]
     },
     {
       "headline": "German Chancellor Merz Says Iran Humiliating US in Stalled Peace Talks",
@@ -71,25 +121,31 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/two-months-into-iran-war-economic-strain-mounts-across-emerging-markets-2026-04-27/",
-      "timestamp": "2026-04-27T18:05:00+03:00"
-    },
-    {
-      "headline": "Trump Urges Iran to Call US Directly as Putin Hosts Iranian FM in St. Petersburg",
-      "summary": "President Donald Trump publicly urged Iran to call the United States directly to restart negotiations, while Iranian Foreign Minister Abbas Araghchi met with Russian President Vladimir Putin in St. Petersburg amid stalled diplomatic efforts.",
-      "emoji": "🇺🇸🇮🇷🇷🇺",
-      "category": "Diplomacy",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/iran/trump-iran-war-call-us-peace-talks-araghchi-putin-hormuz-rcna342251",
-      "timestamp": "2026-04-27T18:05:00+03:00"
-    },
-    {
-      "headline": "Russian Drone Attack Wounds 14 in Odesa, Ukrainian Strikes Kill 2 in Kherson",
-      "summary": "A Russian drone strike injured 14 civilians in Odesa while Ukrainian drone attacks killed two people in Russian-occupied Kherson, as President Zelensky reported Russia has fired approximately 1,900 attack drones in recent operations.",
-      "emoji": "🇺🇦🇷🇺⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "Los Angeles Times",
-      "url": "https://www.latimes.com/world-nation/story/2026-04-27/russian-drone-attack-wounds-14-while-ukrainian-drones-kill-2-in-russia-held-area",
-      "timestamp": "2026-04-27T18:05:00+03:00"
+      "timestamp": "2026-04-27T18:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/india/gold-falls-firm-dollar-oil-driven-inflation-fears-us-iran-talks-stall-2026-04-27/",
+          "angle": "Gold Prices Fall as Markets Eye Central Bank Meetings Amid Iran War Uncertainty",
+          "summary": "Gold eased on Monday as lack of diplomatic progress to end the Iran war kept oil prices and inflation concerns high, with focus turning to key central bank meetings this week."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/egypt-economic-outlook-trimmed-slightly-due-iran-war-2026-04-26/",
+          "angle": "Egypt economic growth forecasts cut due to Iran war impact",
+          "summary": "Analysts have reduced forecasts for Egyptian economic growth in a Reuters poll as the Iran conflict drives up energy prices and pressures inflation, with regional economic impacts expected to last months."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/two-months-into-iran-war-economic-strain-mounts-across-emerging-markets-2026-04-27/",
+        "https://www.reuters.com/world/india/gold-falls-firm-dollar-oil-driven-inflation-fears-us-iran-talks-stall-2026-04-27/",
+        "https://www.reuters.com/world/middle-east/egypt-economic-outlook-trimmed-slightly-due-iran-war-2026-04-26/"
+      ]
     },
     {
       "headline": "Iran Suspends Steel Exports Through May Amid War-Related Strikes",
@@ -123,39 +179,6 @@
       "urls": [
         "https://www.reuters.com/world/asia-pacific/iranian-foreign-minister-heads-russia-trump-says-call-us-negotiate-2026-04-27/",
         "https://www.france24.com/en/live-news/20260427-iran-fm-blames-us-for-failure-of-talks-after-landing-in-russia"
-      ]
-    },
-    {
-      "headline": "Gold Prices Fall as Markets Eye Central Bank Meetings Amid Iran War Uncertainty",
-      "summary": "Gold eased on Monday as lack of diplomatic progress to end the Iran war kept oil prices and inflation concerns high, with focus turning to key central bank meetings this week.",
-      "emoji": "💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/india/gold-falls-firm-dollar-oil-driven-inflation-fears-us-iran-talks-stall-2026-04-27/",
-      "timestamp": "2026-04-27T17:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-04-27/",
-          "angle": "Global Markets Eye Oil Prices and Chip Stocks Amid Geopolitical Tensions",
-          "summary": "Investors are weighing resurgent oil prices from the Iran conflict against AI-driven chip demand. Asian chip stocks rose as markets looked past Middle East tensions."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/retail-consumer/pg-warns-1-billion-profit-hit-fiscal-2027-higher-oil-prices-2026-04-24/",
-          "angle": "P&G warns of $1 billion profit hit from Iran war oil prices",
-          "summary": "Procter & Gamble warns higher oil prices driven by the Iran conflict will cost the company approximately $1 billion in reduced profit for fiscal 2027."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/india/gold-falls-firm-dollar-oil-driven-inflation-fears-us-iran-talks-stall-2026-04-27/",
-        "https://www.reuters.com/commentary/reuters-open-interest/global-markets-view-usa-2026-04-27/",
-        "https://www.reuters.com/business/retail-consumer/pg-warns-1-billion-profit-hit-fiscal-2027-higher-oil-prices-2026-04-24/"
       ]
     },
     {
@@ -490,7 +513,23 @@
       "category": "US-China",
       "source": "Nikkei Asia",
       "url": "https://asia.nikkei.com/business/technology/beijing-blocks-meta-s-2bn-acquisition-of-manus-after-security-review",
-      "timestamp": "2026-04-27T12:05:00+03:00"
+      "timestamp": "2026-04-27T12:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/asia/east-asia/china-blocks-metas-2-billion-acquisition-of-ai-startup-manus",
+          "angle": "China blocks Meta acquisition of Singapore AI startup Manus",
+          "summary": "China blocked Meta Platforms from acquiring AI start-up Manus, a Singapore-based company, citing national security concerns. The .5 billion deal would have been one of the largest AI acquisitions."
+        }
+      ],
+      "sources": [
+        "Nikkei Asia",
+        "Straits Times"
+      ],
+      "urls": [
+        "https://asia.nikkei.com/business/technology/beijing-blocks-meta-s-2bn-acquisition-of-manus-after-security-review",
+        "https://www.straitstimes.com/asia/east-asia/china-blocks-metas-2-billion-acquisition-of-ai-startup-manus"
+      ]
     },
     {
       "headline": "US sanctions hit Chinese refiners linked to Iranian oil trade",
@@ -509,6 +548,39 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/economy/china-economy/article/3351546/china-delivers-record-lng-carrier-shipbuilding-rivalry-south-korea-intensifies",
       "timestamp": "2026-04-27T12:05:00+03:00"
+    },
+    {
+      "headline": "Israel warns Lebanon buffer zone evacuations after strikes kill 14",
+      "summary": "Israeli strikes killed 14 people in Lebanon, and the military warned residents to leave towns beyond the Litani River buffer zone, accusing Hezbollah of ceasefire violations.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-warning-seven-lebanese-towns-north-litani-2026-04-26/",
+      "timestamp": "2026-04-27T12:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al-Monitor",
+          "url": "https://www.al-monitor.com/originals/2026/04/israeli-strikes-hit-east-lebanon-expanding-scope-despite-ceasefire",
+          "angle": "Israel expands strikes to eastern Lebanon despite ceasefire",
+          "summary": "The Israeli military began carrying out strikes in eastern Lebanon on Monday, expanding the scope of its bombing campaign beyond the south. Hezbollah weapons caches including drones were captured."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/four-killed-israeli-strikes-southern-lebanon-state-media-say-2026-04-25/",
+          "angle": "Four Killed in Israeli Strikes on Southern Lebanon Despite Ceasefire",
+          "summary": "Israeli strikes killed four people in southern Lebanon, state media reported, while the Israeli military said Hezbollah had fired rockets at Israel. The attacks come despite an extended ceasefire between Israel and Lebanon."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Al-Monitor",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-warning-seven-lebanese-towns-north-litani-2026-04-26/",
+        "https://www.al-monitor.com/originals/2026/04/israeli-strikes-hit-east-lebanon-expanding-scope-despite-ceasefire",
+        "https://www.reuters.com/world/middle-east/four-killed-israeli-strikes-southern-lebanon-state-media-say-2026-04-25/"
+      ]
     },
     {
       "headline": "Mali defense minister killed in insurgent assault",
@@ -554,28 +626,28 @@
       "timestamp": "2026-04-27T12:03:00+03:00"
     },
     {
-      "headline": "Israel warns Lebanon buffer zone evacuations after strikes kill 14",
-      "summary": "Israeli strikes killed 14 people in Lebanon, and the military warned residents to leave towns beyond the Litani River buffer zone, accusing Hezbollah of ceasefire violations.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
+      "headline": "Iranian Foreign Minister Heads to Moscow as Trump Says Call Us",
+      "summary": "Iran's top diplomat Abbas Araghchi arrived in Russia seeking support from Putin as President Trump said Iran could simply call if it wants to negotiate an end to the two-month war.",
+      "emoji": "🇷🇺",
+      "category": "Diplomacy",
       "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-warning-seven-lebanese-towns-north-litani-2026-04-26/",
-      "timestamp": "2026-04-27T12:03:00+03:00",
+      "url": "https://www.reuters.com/world/asia-pacific/iranian-foreign-minister-heads-russia-trump-says-call-us-negotiate-2026-04-27/",
+      "timestamp": "2026-04-27T11:03:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-warning-seven-lebanese-towns-north-litani-2026-04-26/",
-          "angle": "Israel Issues Evacuation Warning for Seven Lebanese Towns Beyond Buffer Zone",
-          "summary": "The Israeli military warned residents to leave seven towns north of the Litani River after a soldier was killed. Strikes killed 14 people in Lebanon as the ceasefire remains fragile."
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/world/iran/trump-iran-war-call-us-peace-talks-araghchi-putin-hormuz-rcna342251",
+          "angle": "Trump Urges Iran to Call US Directly as Putin Hosts Iranian FM in St. Petersburg",
+          "summary": "President Donald Trump publicly urged Iran to call the United States directly to restart negotiations, while Iranian Foreign Minister Abbas Araghchi met with Russian President Vladimir Putin in St. Petersburg amid stalled diplomatic efforts."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "NBC News"
       ],
       "urls": [
-        "https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-warning-seven-lebanese-towns-north-litani-2026-04-26/",
-        "https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-warning-seven-lebanese-towns-north-litani-2026-04-26/"
+        "https://www.reuters.com/world/asia-pacific/iranian-foreign-minister-heads-russia-trump-says-call-us-negotiate-2026-04-27/",
+        "https://www.nbcnews.com/world/iran/trump-iran-war-call-us-peace-talks-araghchi-putin-hormuz-rcna342251"
       ]
     },
     {
@@ -588,19 +660,35 @@
       "timestamp": "2026-04-27T11:03:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/russia-ukraine-war-odesa-drones-9394353262c6d13352d328fbd34258ba",
-          "angle": "Russian Drone Attack Wounds 14 Including Children in Odesa",
-          "summary": "A Russian drone attack before dawn on Ukraine's southern city of Odesa wounded 14 people, including two children, while Ukrainian drones killed two in a Russia-held area."
+          "source": "Los Angeles Times",
+          "url": "https://www.latimes.com/world-nation/story/2026-04-27/russian-drone-attack-wounds-14-while-ukrainian-drones-kill-2-in-russia-held-area",
+          "angle": "Russian Drone Attack Wounds 14 in Odesa, Ukrainian Strikes Kill 2 in Kherson",
+          "summary": "A Russian drone strike injured 14 civilians in Odesa while Ukrainian drone attacks killed two people in Russian-occupied Kherson, as President Zelensky reported Russia has fired approximately 1,900 attack drones in recent operations."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/ukrainian-drone-hits-apartment-building-russian-city-yekaterinburg-local-2026-04-25/",
+          "angle": "Ukrainian Drone Strikes Apartment Building in Yekaterinburg",
+          "summary": "A Ukrainian drone hit a multi-story apartment building in Russia's fourth-largest city of Yekaterinburg, marking the first attack on the city since the conflict began. Regional authorities reported damage to residential infrastructure."
+        },
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russian-attack-april-25/",
+          "angle": "Russia Launches Major Missile and Drone Attack on Multiple Ukrainian Cities, Injuring 14",
+          "summary": "Russia struck multiple Ukrainian cities overnight with missiles and drones, injuring at least 14 people. The large-scale attack continues the pattern of systematic strikes on Ukrainian civilian infrastructure."
         }
       ],
       "sources": [
         "Reuters",
-        "AP News"
+        "Los Angeles Times",
+        "Reuters",
+        "Kyiv Independent"
       ],
       "urls": [
         "https://www.reuters.com/world/europe/russian-drone-attack-odesa-wounds-10-officials-say-2026-04-27/",
-        "https://apnews.com/article/russia-ukraine-war-odesa-drones-9394353262c6d13352d328fbd34258ba"
+        "https://www.latimes.com/world-nation/story/2026-04-27/russian-drone-attack-wounds-14-while-ukrainian-drones-kill-2-in-russia-held-area",
+        "https://www.reuters.com/world/ukrainian-drone-hits-apartment-building-russian-city-yekaterinburg-local-2026-04-25/",
+        "https://kyivindependent.com/russian-attack-april-25/"
       ]
     },
     {
@@ -626,64 +714,6 @@
       "urls": [
         "https://www.reuters.com/business/aerospace-defense/global-military-spending-rises-29-despite-us-decline-over-ukraine-freeze-2026-04-26/",
         "https://www.defensenews.com/global/europe/2026/04/27/global-military-spending-surges-and-reaches-record-high/"
-      ]
-    },
-    {
-      "headline": "Iranian Foreign Minister Heads to Moscow as Trump Says Call Us",
-      "summary": "Iran's top diplomat Abbas Araghchi arrived in Russia seeking support from Putin as President Trump said Iran could simply call if it wants to negotiate an end to the two-month war.",
-      "emoji": "🇷🇺",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/iranian-foreign-minister-heads-russia-trump-says-call-us-negotiate-2026-04-27/",
-      "timestamp": "2026-04-27T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/04/27/world/europe/iran-foreign-minister-russia.html",
-          "angle": "Iranian Foreign Minister Heads to Russia for Putin Meeting as US Talks Stall",
-          "summary": "Abbas Araghchi will meet Vladimir Putin for \"necessary coordination\" on the Middle East war, as negotiations with the US remain deadlocked over the Strait of Hormuz blockade and sanctions."
-        },
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/live/iran-war-israel-trump-04-27-2026",
-          "angle": "Iranian FM Meets Putin in Russia as Diplomatic Efforts Continue",
-          "summary": "Iranian Foreign Minister Abbas Araghchi traveled to Russia for talks with President Vladimir Putin, coordinating with Moscow after the war with Israel and the US. The visit follows stops in Pakistan and Oman aimed at restarting stalled ceasefire negotiations."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "New York Times",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/iranian-foreign-minister-heads-russia-trump-says-call-us-negotiate-2026-04-27/",
-        "https://www.nytimes.com/2026/04/27/world/europe/iran-foreign-minister-russia.html",
-        "https://apnews.com/live/iran-war-israel-trump-04-27-2026"
-      ]
-    },
-    {
-      "headline": "Iran Offers to End Hormuz Chokehold, Seeks End to US Blockade",
-      "summary": "Iran has offered to end its stranglehold on the Strait of Hormuz through Middle Eastern intermediaries, but the proposal does not address its ballistic missile program. The US has maintained a naval blockade of Iranian ports.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/us-iran-war-hormuz-april-27-2026-374d81d1aac6d8f19c21e1d1e10ab103",
-      "timestamp": "2026-04-27T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo",
-          "angle": "Trump Vows No Hormuz Blockade Lift Until Iran Deal Reached",
-          "summary": "President Trump stated the US will not lift its naval blockade of Iranian ports until a deal is reached with Tehran. US Central Command reports 27 vessels have been turned away since the blockade began, while Iran maintains its own blockade of the Strait of Hormuz."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "BBC"
-      ],
-      "urls": [
-        "https://apnews.com/article/us-iran-war-hormuz-april-27-2026-374d81d1aac6d8f19c21e1d1e10ab103",
-        "https://www.bbc.com/news/articles/cdxd88r2wjzo"
       ]
     },
     {
@@ -1394,55 +1424,6 @@
       "timestamp": "2026-04-26T20:03:00+03:00"
     },
     {
-      "headline": "Egypt economic growth forecasts cut due to Iran war impact",
-      "summary": "Analysts have reduced forecasts for Egyptian economic growth in a Reuters poll as the Iran conflict drives up energy prices and pressures inflation, with regional economic impacts expected to last months.",
-      "emoji": "🇪🇬",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/egypt-economic-outlook-trimmed-slightly-due-iran-war-2026-04-26/",
-      "timestamp": "2026-04-26T20:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/egypt-economic-outlook-trimmed-slightly-due-iran-war-2026-04-26/",
-          "angle": "Egypt Economic Outlook Trimmed as Iran War Drives Up Energy Prices",
-          "summary": "Analysts reduced their forecasts for Egyptian economic growth as the Iran war drives up energy prices and puts pressure on inflation, according to a Reuters poll."
-        },
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cy71zj1381po",
-          "angle": "World's Largest Condom Maker Karex to Raise Prices Up to 30% Due to Iran War",
-          "summary": "Malaysia-based Karex, which produces over 5 billion condoms annually for brands like Durex and Trojan, announced price increases of up to 30% due to Iran war disruptions to oil-derived raw materials including ammonia and silicone lubricants."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/germany-halves-2026-growth-forecast-raises-inflation-outlook-amid-iran-war-2026-04-22/",
-          "angle": "Germany halves 2026 growth forecast as Iran war raises inflation",
-          "summary": "The German government has cut its 2026 growth forecast in half and raised inflation expectations, citing economic disruption from the Iran conflict and elevated energy costs."
-        },
-        {
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/iran-war-condom-prices",
-          "angle": "Condom prices could surge 30% due to Iran war disruption",
-          "summary": "The world's largest condom producer warns that shortages of raw materials and chemicals caused by the Iran conflict could force price increases of up to 30 percent globally."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "BBC",
-        "Reuters",
-        "The Guardian"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/egypt-economic-outlook-trimmed-slightly-due-iran-war-2026-04-26/",
-        "https://www.reuters.com/world/middle-east/egypt-economic-outlook-trimmed-slightly-due-iran-war-2026-04-26/",
-        "https://www.bbc.com/news/articles/cy71zj1381po",
-        "https://www.reuters.com/world/europe/germany-halves-2026-growth-forecast-raises-inflation-outlook-amid-iran-war-2026-04-22/",
-        "https://www.theguardian.com/world/iran-war-condom-prices"
-      ]
-    },
-    {
       "headline": "France trains Ukrainian pilots on Mirage 2000-5F fighters under EU mission",
       "summary": "French Air Force pilots are training Ukrainian crews on Mirage 2000-5F aircraft within the EUMAM framework. The training includes combat operations and maintenance, marking a concrete contribution to European security.",
       "emoji": "🇫🇷🇺🇦",
@@ -1749,15 +1730,6 @@
       ]
     },
     {
-      "headline": "Ukrainian Drone Strikes Apartment Building in Yekaterinburg",
-      "summary": "A Ukrainian drone hit a multi-story apartment building in Russia's fourth-largest city of Yekaterinburg, marking the first attack on the city since the conflict began. Regional authorities reported damage to residential infrastructure.",
-      "emoji": "🇺🇦🇷🇺💥",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/ukrainian-drone-hits-apartment-building-russian-city-yekaterinburg-local-2026-04-25/",
-      "timestamp": "2026-04-26T13:03:00+03:00"
-    },
-    {
       "headline": "Finland Joins Nordic Boycott Over Russian Athlete Decision",
       "summary": "Finland announced it will not host international championships while World Aquatics allows Russian and Belarusian athletes to compete, joining Norway and Poland in protest against the governing body's policy.",
       "emoji": "🇫🇮🏊‍♂️",
@@ -1839,15 +1811,6 @@
         "https://www.reuters.com/business/energy/macron-reaffirms-efforts-reopen-strait-hormuz-totalenergies-warns-energy-2026-04-25/",
         "https://finance.yahoo.com/sectors/energy/articles/why-strait-hormuz-disruption-more-082327446.html"
       ]
-    },
-    {
-      "headline": "Ukraine unveils new AI-powered strike drones Anubis and Seth-X for deep missions",
-      "summary": "Ukrainian firm Airlogix revealed two new drones: Anubis for deep-strike missions with stealth characteristics, and Seth-X designed for swarm attacks, expanding Ukraine's AI strike capabilities in contested environments.",
-      "emoji": "🇺🇦⚔️",
-      "category": "Defense Industry",
-      "source": "The Defense Post",
-      "url": "https://thedefensepost.com/2026/04/21/ukraine-anubis-seth-x-drone/",
-      "timestamp": "2026-04-26T12:05:00+03:00"
     },
     {
       "headline": "Chinese analysts study how Iran detected and damaged US F-35 stealth jet",
@@ -2433,39 +2396,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/news/china/military/article/3351345/will-future-world-order-be-determined-who-controls-low-earth-orbit",
       "timestamp": "2026-04-25T20:15:00+03:00"
-    },
-    {
-      "headline": "Four Killed in Israeli Strikes on Southern Lebanon Despite Ceasefire",
-      "summary": "Israeli strikes killed four people in southern Lebanon, state media reported, while the Israeli military said Hezbollah had fired rockets at Israel. The attacks come despite an extended ceasefire between Israel and Lebanon.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/four-killed-israeli-strikes-southern-lebanon-state-media-say-2026-04-25/",
-      "timestamp": "2026-04-25T19:13:00+03:00",
-      "perspectives": [
-        {
-          "source": "Anadolu Agency",
-          "url": "https://www.aa.com.tr/en/middle-east/israel-launches-fresh-strikes-on-lebanon-cuts-off-road-to-southern-town-of-kafra/3918938",
-          "angle": "Israel Strikes Southern Lebanon, Cuts Off Road to Kafra",
-          "summary": "The Israeli military attacked the entrance to the southern Lebanese town of Kafra, cutting off the main road. The strike comes amid ongoing tensions with Hezbollah as Iran war negotiations continue."
-        },
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html",
-          "angle": "Israel and Hezbollah trade strikes in Lebanon as Iran truce talks stall",
-          "summary": "Ceasefires in Lebanon and the Iran-US conflict remain shaky as military attacks flare and direct negotiations between Washington and Tehran to end their war have stalled, with Iranian negotiators returning to Pakistan."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Anadolu Agency",
-        "New York Times"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/four-killed-israeli-strikes-southern-lebanon-state-media-say-2026-04-25/",
-        "https://www.aa.com.tr/en/middle-east/israel-launches-fresh-strikes-on-lebanon-cuts-off-road-to-southern-town-of-kafra/3918938",
-        "https://www.nytimes.com/2026/04/26/world/middleeast/iranian-negotiators-set-to-return-to-pakistan-to-try-to-revive-truce-talks.html"
-      ]
     },
     {
       "headline": "Ukraine and Russia Swap 193 Prisoners Each in UAE-Facilitated Exchange",
@@ -3364,15 +3294,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/24/trump-to-again-end-legal-status-of-people-who-entered-us-with-cbp-one-app",
       "timestamp": "2026-04-25T08:05:00+03:00"
-    },
-    {
-      "headline": "Russia Launches Major Missile and Drone Attack on Multiple Ukrainian Cities, Injuring 14",
-      "summary": "Russia struck multiple Ukrainian cities overnight with missiles and drones, injuring at least 14 people. The large-scale attack continues the pattern of systematic strikes on Ukrainian civilian infrastructure.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russian-attack-april-25/",
-      "timestamp": "2026-04-25T08:04:00+03:00"
     },
     {
       "headline": "Poland's Tusk Questions US Loyalty to NATO Alliance",
