@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-04-28T00:08:15+03:00",
+  "lastUpdated": "2026-04-28T01:05:37+03:00",
   "headlines": [
+    {
+      "headline": "King Charles arrives in US for state visit amid Iran war tensions",
+      "summary": "Britain's King Charles and Queen Camilla began a four-day state visit to the US, meeting President Trump at the White House. The trip comes as the UK and US differ over the Iran war approach.",
+      "emoji": "🇬🇧",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/uk/king-charles-jets-us-trip-overshadowed-by-iran-quarrel-shooting-2026-04-27/",
+      "timestamp": "2026-04-28T01:03:00+03:00"
+    },
+    {
+      "headline": "Pope Leo meets first female Archbishop of Canterbury in historic Vatican encounter",
+      "summary": "Pope Leo and Archbishop Sarah Mullally met for the first time at the Vatican, exchanging gifts and praying together in a symbolic step toward unity between the Catholic Church and Church of England.",
+      "emoji": "⛪",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/pope-first-female-archbishop-canterbury-meet-pray-together-2026-04-27/",
+      "timestamp": "2026-04-28T01:03:00+03:00"
+    },
+    {
+      "headline": "Suspect charged with attempted assassination of Trump after correspondents dinner shooting",
+      "summary": "Cole Tomas Allen, 31, was charged with attempted assassination after allegedly trying to storm the White House Correspondents' Association dinner with weapons. He made his first federal court appearance.",
+      "emoji": "🇺🇸",
+      "category": "US Politics",
+      "source": "AP News",
+      "url": "https://apnews.com/article/trump-correspondents-dinner-shooting-suspect-d4111facf965aaaa10334eb5c12901db",
+      "timestamp": "2026-04-28T01:03:00+03:00"
+    },
     {
       "headline": "IDF Chief Condemns Unethical Soldier Conduct as Discipline Erodes",
       "summary": "Lt. Gen. Eyal Zamir warned that discipline has eroded in recent wars, citing incidents including soldiers smashing a Jesus statue in Lebanon and wearing unapproved patches.",
@@ -17,7 +44,23 @@
       "category": "US-China",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/27/china-blocks-us-tech-giant-meta-from-acquiring-ai-startup-manus",
-      "timestamp": "2026-04-28T00:06:00+03:00"
+      "timestamp": "2026-04-28T00:06:00+03:00",
+      "perspectives": [
+        {
+          "source": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/beijing-blocks-meta-s-2bn-acquisition-of-manus-after-security-review",
+          "angle": "China blocks Meta acquisition of AI startup Manus",
+          "summary": "Beijing has prohibited Meta Platforms USD 2 billion acquisition of Chinese-founded agentic AI startup Manus after a national security review by the National Development and Reform Commission, blocking the deal on tech transfer grounds."
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "Nikkei Asia"
+      ],
+      "urls": [
+        "https://www.aljazeera.com/news/2026/4/27/china-blocks-us-tech-giant-meta-from-acquiring-ai-startup-manus",
+        "https://asia.nikkei.com/business/technology/beijing-blocks-meta-s-2bn-acquisition-of-manus-after-security-review"
+      ]
     },
     {
       "headline": "Hezbollah and Israel Exchange Threats and Strikes on Lebanon Border",
@@ -26,7 +69,23 @@
       "category": "Middle East",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/27/hezbollah-and-israel-swap-threats-and-strikes-across-lebanons-border",
-      "timestamp": "2026-04-28T00:06:00+03:00"
+      "timestamp": "2026-04-28T00:06:00+03:00",
+      "perspectives": [
+        {
+          "source": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/middle-east/hezbollah-chief-rejects-lebanon-israel-direct-talks-outlines-5-points-for-solution/3919234",
+          "angle": "Hezbollah Chief Rejects Direct Lebanon-Israel Talks, Outlines 5-Point Solution",
+          "summary": "Hezbollah Secretary-General Naim Qassem categorically rejected direct negotiations between Lebanon and Israel, proposing a five-point framework for resolving border tensions instead."
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "Anadolu Agency"
+      ],
+      "urls": [
+        "https://www.aljazeera.com/news/2026/4/27/hezbollah-and-israel-swap-threats-and-strikes-across-lebanons-border",
+        "https://www.aa.com.tr/en/middle-east/hezbollah-chief-rejects-lebanon-israel-direct-talks-outlines-5-points-for-solution/3919234"
+      ]
     },
     {
       "headline": "Taiwan Completes Major US Tank Deal With Final Abrams Shipment",
@@ -35,16 +94,23 @@
       "category": "Asia-Pacific",
       "source": "SCMP",
       "url": "https://www.scmp.com/news/china/politics/article/3351596/taiwan-completes-us-tank-deal-final-abrams-shipment-reaches-port",
-      "timestamp": "2026-04-28T00:06:00+03:00"
-    },
-    {
-      "headline": "Global Military Spending Hits Record Nearly $2.9 Trillion",
-      "summary": "Military spending across the globe reached a record high of nearly $2.9 trillion in 2025, marking the 11th consecutive year of growth driven by European NATO members and Asia.",
-      "emoji": "⚔️",
-      "category": "Defense Industry",
-      "source": "The Hill",
-      "url": "https://thehill.com/policy/defense/5851641/european-nato-defense-increase/",
-      "timestamp": "2026-04-28T00:06:00+03:00"
+      "timestamp": "2026-04-28T00:06:00+03:00",
+      "perspectives": [
+        {
+          "source": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/asia-pacific/taiwan-receives-final-batch-of-m1a2t-abrams-tanks-from-us/3919246",
+          "angle": "Taiwan Receives Final Batch of M1A2T Abrams Tanks From US",
+          "summary": "Taiwan has received the last of its 108 M1A2T Abrams tanks from the United States, completing a .28 billion procurement deal that strengthens the island’s armored capabilities."
+        }
+      ],
+      "sources": [
+        "SCMP",
+        "Anadolu Agency"
+      ],
+      "urls": [
+        "https://www.scmp.com/news/china/politics/article/3351596/taiwan-completes-us-tank-deal-final-abrams-shipment-reaches-port",
+        "https://www.aa.com.tr/en/asia-pacific/taiwan-receives-final-batch-of-m1a2t-abrams-tanks-from-us/3919246"
+      ]
     },
     {
       "headline": "Iran ceasefire negotiations stall as both sides dig in on demands",
@@ -724,30 +790,12 @@
       ]
     },
     {
-      "headline": "Hezbollah Chief Rejects Direct Lebanon-Israel Talks, Outlines 5-Point Solution",
-      "summary": "Hezbollah Secretary-General Naim Qassem categorically rejected direct negotiations between Lebanon and Israel, proposing a five-point framework for resolving border tensions instead.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/middle-east/hezbollah-chief-rejects-lebanon-israel-direct-talks-outlines-5-points-for-solution/3919234",
-      "timestamp": "2026-04-27T14:05:00+03:00"
-    },
-    {
       "headline": "German Defense Spending Drives European Military Budgets to Decades-High Levels",
       "summary": "Military spending in Europe increased at its fastest pace in nearly 75 years in 2025, largely driven by German rearmament efforts amid the ongoing security crisis.",
       "emoji": "🇩🇪",
       "category": "Europe",
       "source": "Stars and Stripes",
       "url": "https://www.stripes.com/theaters/europe/2026-04-27/sipri-defense-spending-report-21499277.html",
-      "timestamp": "2026-04-27T14:05:00+03:00"
-    },
-    {
-      "headline": "Taiwan Receives Final Batch of M1A2T Abrams Tanks From US",
-      "summary": "Taiwan has received the last of its 108 M1A2T Abrams tanks from the United States, completing a .28 billion procurement deal that strengthens the island’s armored capabilities.",
-      "emoji": "🇹🇼",
-      "category": "Asia-Pacific",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/asia-pacific/taiwan-receives-final-batch-of-m1a2t-abrams-tanks-from-us/3919246",
       "timestamp": "2026-04-27T14:05:00+03:00"
     },
     {
@@ -783,31 +831,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/most-gulf-equities-nudge-higher-despite-stalled-diplomacy-iran-2026-04-26/",
       "timestamp": "2026-04-27T13:00:00+03:00"
-    },
-    {
-      "headline": "China blocks Meta acquisition of AI startup Manus",
-      "summary": "Beijing has prohibited Meta Platforms USD 2 billion acquisition of Chinese-founded agentic AI startup Manus after a national security review by the National Development and Reform Commission, blocking the deal on tech transfer grounds.",
-      "emoji": "🇨🇳",
-      "category": "US-China",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/technology/beijing-blocks-meta-s-2bn-acquisition-of-manus-after-security-review",
-      "timestamp": "2026-04-27T12:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Straits Times",
-          "url": "https://www.straitstimes.com/asia/east-asia/china-blocks-metas-2-billion-acquisition-of-ai-startup-manus",
-          "angle": "China blocks Meta acquisition of Singapore AI startup Manus",
-          "summary": "China blocked Meta Platforms from acquiring AI start-up Manus, a Singapore-based company, citing national security concerns. The .5 billion deal would have been one of the largest AI acquisitions."
-        }
-      ],
-      "sources": [
-        "Nikkei Asia",
-        "Straits Times"
-      ],
-      "urls": [
-        "https://asia.nikkei.com/business/technology/beijing-blocks-meta-s-2bn-acquisition-of-manus-after-security-review",
-        "https://www.straitstimes.com/asia/east-asia/china-blocks-metas-2-billion-acquisition-of-ai-startup-manus"
-      ]
     },
     {
       "headline": "US sanctions hit Chinese refiners linked to Iranian oil trade",
@@ -869,6 +892,31 @@
       "source": "AP News",
       "url": "https://apnews.com/article/chad-water-clashes-42-killed-efe6bb5ce6512ae0a8c40e534bf68e67",
       "timestamp": "2026-04-27T12:03:00+03:00"
+    },
+    {
+      "headline": "Global Military Spending Surges Despite US Ukraine Aid Freeze",
+      "summary": "Global military expenditure rose 2.9% in 2025, driven by defense spending increases in Europe and Asia, even as US military aid to Ukraine was frozen. The trend reflects growing security concerns worldwide.",
+      "emoji": "⚔️",
+      "category": "Defense Industry",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/global-military-spending-rises-29-despite-us-decline-over-ukraine-freeze-2026-04-26/",
+      "timestamp": "2026-04-27T11:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Hill",
+          "url": "https://thehill.com/policy/defense/5851641/european-nato-defense-increase/",
+          "angle": "Global Military Spending Hits Record Nearly $2.9 Trillion",
+          "summary": "Military spending across the globe reached a record high of nearly $2.9 trillion in 2025, marking the 11th consecutive year of growth driven by European NATO members and Asia."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "The Hill"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/aerospace-defense/global-military-spending-rises-29-despite-us-decline-over-ukraine-freeze-2026-04-26/",
+        "https://thehill.com/policy/defense/5851641/european-nato-defense-increase/"
+      ]
     },
     {
       "headline": "Iranian Foreign Minister Heads to Moscow as Trump Says Call Us",
@@ -934,31 +982,6 @@
         "https://www.latimes.com/world-nation/story/2026-04-27/russian-drone-attack-wounds-14-while-ukrainian-drones-kill-2-in-russia-held-area",
         "https://www.reuters.com/world/ukrainian-drone-hits-apartment-building-russian-city-yekaterinburg-local-2026-04-25/",
         "https://kyivindependent.com/russian-attack-april-25/"
-      ]
-    },
-    {
-      "headline": "Global Military Spending Surges Despite US Ukraine Aid Freeze",
-      "summary": "Global military expenditure rose 2.9% in 2025, driven by defense spending increases in Europe and Asia, even as US military aid to Ukraine was frozen. The trend reflects growing security concerns worldwide.",
-      "emoji": "⚔️",
-      "category": "Defense Industry",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/global-military-spending-rises-29-despite-us-decline-over-ukraine-freeze-2026-04-26/",
-      "timestamp": "2026-04-27T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Defense News",
-          "url": "https://www.defensenews.com/global/europe/2026/04/27/global-military-spending-surges-and-reaches-record-high/",
-          "angle": "Global Military Spending Hits Record $2.9 Trillion as Europe Surges",
-          "summary": "Global military spending reached a new record of almost $2.9 trillion in 2025, the 11th consecutive year of growth. European expenditure surged 14% to $864 billion - the highest level ever recorded for the continent, with Germany crossing 2% of GDP for the first time since 1990."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Defense News"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/aerospace-defense/global-military-spending-rises-29-despite-us-decline-over-ukraine-freeze-2026-04-26/",
-        "https://www.defensenews.com/global/europe/2026/04/27/global-military-spending-surges-and-reaches-record-high/"
       ]
     },
     {
@@ -3356,39 +3379,6 @@
       "source": "NPR",
       "url": "https://www.npr.org/2026/04/23/nx-s1-5797307/europe-airlines-jet-fuel-costs",
       "timestamp": "2026-04-25T10:03:00+03:00"
-    },
-    {
-      "headline": "Pirates hijack oil tanker off the coast of Somalia",
-      "summary": "Pirates have hijacked an oil tanker off Somalia, marking a resurgence of piracy in the Indian Ocean after years of decline.",
-      "emoji": "🚢🏴‍☠️",
-      "category": "Africa",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c78l26yn981o",
-      "timestamp": "2026-04-25T10:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c78l26yn981o",
-          "angle": "Pirates hijack oil tanker off the coast of Somalia",
-          "summary": "Piracy has made a comeback in the Indian Ocean with a new hijacking incident, reviving concerns about maritime security in the region."
-        },
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c78l26yn981o",
-          "angle": "Pirates hijack oil tanker off Somalia coast as piracy returns to Indian Ocean",
-          "summary": "An oil tanker was hijacked off the coast of Somalia, marking a resurgence of piracy in a region once notorious for attacks. Piracy had declined after international naval patrols but has made a comeback in recent years."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/c78l26yn981o",
-        "https://www.bbc.com/news/articles/c78l26yn981o",
-        "https://www.bbc.com/news/articles/c78l26yn981o"
-      ]
     }
   ]
 }
