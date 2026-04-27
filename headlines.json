@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-04-27T15:05:53+03:00",
+  "lastUpdated": "2026-04-27T16:05:40+03:00",
   "headlines": [
+    {
+      "headline": "Germany Suspects Russia Behind Signal Phishing Attacks on Politicians",
+      "summary": "German government suspects Russia is behind phishing attacks on Signal accounts targeting high-ranking politicians, including two ministers, military personnel and journalists. Around 300 accounts in the political sphere were compromised through fake security chatbot messages.",
+      "emoji": "🇩🇪🇷🇺",
+      "category": "Europe",
+      "source": "AP News",
+      "url": "https://apnews.com/article/germany-netherlands-signal-phishing-russia-espionage-2ab1bac973919bf1e49997b7892bd276",
+      "timestamp": "2026-04-27T16:03:00+03:00"
+    },
+    {
+      "headline": "Russian Drone Strike Wounds 14 in Odesa, Ukraine Strikes Kill 2 in Kherson",
+      "summary": "A Russian drone attack before dawn wounded 14 people including two children in Odesa, while Ukrainian drone strikes killed two people in Russia-occupied Kherson. Zelenskyy says Russia has fired 1,900 attack drones at Ukraine over the past week.",
+      "emoji": "🇺🇦⚔️",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-odesa-drones-9394353262c6d13352d328fbd34258ba",
+      "timestamp": "2026-04-27T16:03:00+03:00"
+    },
+    {
+      "headline": "Global Military Spending Hits Record $2.9 Trillion as Europe Surges",
+      "summary": "Global military spending reached a new record of almost $2.9 trillion in 2025, the 11th consecutive year of growth. European expenditure surged 14% to $864 billion - the highest level ever recorded for the continent, with Germany crossing 2% of GDP for the first time since 1990.",
+      "emoji": "💰⚔️",
+      "category": "Defense Industry",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/global/europe/2026/04/27/global-military-spending-surges-and-reaches-record-high/",
+      "timestamp": "2026-04-27T16:03:00+03:00"
+    },
+    {
+      "headline": "China Expands Economic Toolkit During Trade Truce With US",
+      "summary": "China has used its trade truce with the United States to broaden its legal leverage, supply chain and critical technology controls, and expand its toolkit of retaliatory economic measures ahead of a summit between the nations next month.",
+      "emoji": "🇨🇳🇺🇸",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/how-china-has-expanded-its-economic-toolkit-during-its-trade-truce-with-us-2026-04-26/",
+      "timestamp": "2026-04-27T16:03:00+03:00"
+    },
+    {
+      "headline": "Fertiliser Price Surge Threatens Global Grain Harvests",
+      "summary": "Farmers worldwide face a second surge in fertiliser prices in four years due to the Iran war. With grain prices too low to cushion the blow from the deeper supply crunch, many are rethinking planting plans, putting global food production at risk.",
+      "emoji": "🌾💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/iran-war-fertiliser-squeeze-could-spell-trouble-next-years-grain-harvests-2026-04-27/",
+      "timestamp": "2026-04-27T16:03:00+03:00"
+    },
     {
       "headline": "Merz Suggests Ukraine May Accept Territorial Loss for EU Path",
       "summary": "German Chancellor Friedrich Merz said Ukraine may need to accept that some territory remains outside Kyiv's control in a future peace deal with Russia, linking such concessions to EU membership prospects.",
@@ -17,7 +62,31 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/iran-gave-us-proposal-reopening-strait-hormuz-ending-war-axios-reports-2026-04-27/",
-      "timestamp": "2026-04-27T15:03:00+03:00"
+      "timestamp": "2026-04-27T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Financial Express",
+          "url": "https://www.financialexpress.com/world-news/iran-us-israel-war-live-updates-trump-strait-of-hormuz-blockade-negotiations-oil-price-today/4219087/",
+          "angle": "Iran Offers Deal to Reopen Strait of Hormuz While Deferring Nuclear Talks",
+          "summary": "Iran has proposed a new deal to the US through Pakistani mediators that would reopen the Strait of Hormuz in exchange for postponing nuclear negotiations to a later phase. The diplomatic outreach comes as Iranian FM Araghchi meets with Putin in St. Petersburg amid stalled US-Iran peace talks."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.thestar.com.my/news/world/2026/04/27/iran-gave-us-a-proposal-for-reopening-the-strait-of-hormuz-and-ending-the-war-axios-reports",
+          "angle": "Iran Submits Proposal to Reopen Strait of Hormuz",
+          "summary": "Iran has submitted a new proposal through Pakistani mediators to reopen the Strait of Hormuz and end the war, postponing nuclear negotiations for a later stage, Axios reported citing US officials."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Financial Express",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/iran-gave-us-proposal-reopening-strait-hormuz-ending-war-axios-reports-2026-04-27/",
+        "https://www.financialexpress.com/world-news/iran-us-israel-war-live-updates-trump-strait-of-hormuz-blockade-negotiations-oil-price-today/4219087/",
+        "https://www.thestar.com.my/news/world/2026/04/27/iran-gave-us-a-proposal-for-reopening-the-strait-of-hormuz-and-ending-the-war-axios-reports"
+      ]
     },
     {
       "headline": "Moody's Revises China Outlook to Stable Citing Economic Resilience",
@@ -35,7 +104,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/netanyahus-biggest-rivals-join-forces-israels-next-election-2026-04-26/",
-      "timestamp": "2026-04-27T15:03:00+03:00"
+      "timestamp": "2026-04-27T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/netanyahus-biggest-rivals-join-forces-israels-next-election-2026-04-26/",
+          "angle": "Netanyahu Rivals Unite to Challenge Israeli PM in Upcoming Election",
+          "summary": "Two of Netanyahu's most formidable rivals announced they are joining forces to try to oust his coalition government in elections expected later this year."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/netanyahus-biggest-rivals-join-forces-israels-next-election-2026-04-26/",
+        "https://www.reuters.com/world/middle-east/netanyahus-biggest-rivals-join-forces-israels-next-election-2026-04-26/"
+      ]
     },
     {
       "headline": "Starmer and Trump Discuss Urgent Need to Restore Hormuz Shipping",
@@ -436,39 +521,6 @@
       ]
     },
     {
-      "headline": "Netanyahu Rivals Unite to Challenge Israeli PM in Upcoming Election",
-      "summary": "Two of Netanyahu's most formidable rivals announced they are joining forces to try to oust his coalition government in elections expected later this year.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/netanyahus-biggest-rivals-join-forces-israels-next-election-2026-04-26/",
-      "timestamp": "2026-04-27T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Times of Israel",
-          "url": "https://www.timesofisrael.com/highlighting-their-differences-old-new-partners-bennett-and-lapid-try-again-to-oust-netanyahu/",
-          "angle": "Bennett and Lapid reunite to challenge Netanyahu in upcoming Israeli election",
-          "summary": "Former Israeli PMs Naftali Bennett and Yair Lapid announced they are joining forces to oust Benjamin Netanyahus coalition government, highlighting their differences while presenting a united opposition front."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/netanyahus-biggest-rivals-join-forces-israels-next-election-2026-04-26/",
-          "angle": "Netanyahu's Main Political Rivals Unite to Challenge His Coalition",
-          "summary": "Two of Israeli Prime Minister Benjamin Netanyahu's most formidable political rivals announced they are joining forces ahead of elections expected later this year, in a significant challenge to his long-standing coalition government."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Times of Israel",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/netanyahus-biggest-rivals-join-forces-israels-next-election-2026-04-26/",
-        "https://www.timesofisrael.com/highlighting-their-differences-old-new-partners-bennett-and-lapid-try-again-to-oust-netanyahu/",
-        "https://www.reuters.com/world/middle-east/netanyahus-biggest-rivals-join-forces-israels-next-election-2026-04-26/"
-      ]
-    },
-    {
       "headline": "China Slams EU Industrial Policy as Discriminatory, Mulls Countermeasures",
       "summary": "Beijing has sharply criticized the EU proposed industrial law, calling it a serious barrier and institutional discrimination against Chinese firms. China is considering retaliatory measures in response.",
       "emoji": "🇨🇳🇪🇺",
@@ -546,24 +598,6 @@
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/04/27/world/europe/can-king-charles-help-heal-the-us-british-rupture.html",
       "timestamp": "2026-04-27T09:03:00+03:00"
-    },
-    {
-      "headline": "Iran Offers Deal to Reopen Strait of Hormuz While Deferring Nuclear Talks",
-      "summary": "Iran has proposed a new deal to the US through Pakistani mediators that would reopen the Strait of Hormuz in exchange for postponing nuclear negotiations to a later phase. The diplomatic outreach comes as Iranian FM Araghchi meets with Putin in St. Petersburg amid stalled US-Iran peace talks.",
-      "emoji": "🇮🇷",
-      "category": "Middle East",
-      "source": "Financial Express",
-      "url": "https://www.financialexpress.com/world-news/iran-us-israel-war-live-updates-trump-strait-of-hormuz-blockade-negotiations-oil-price-today/4219087/",
-      "timestamp": "2026-04-27T08:06:00+03:00"
-    },
-    {
-      "headline": "Iran Submits Proposal to Reopen Strait of Hormuz",
-      "summary": "Iran has submitted a new proposal through Pakistani mediators to reopen the Strait of Hormuz and end the war, postponing nuclear negotiations for a later stage, Axios reported citing US officials.",
-      "emoji": "🇮🇷⛽",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.thestar.com.my/news/world/2026/04/27/iran-gave-us-a-proposal-for-reopening-the-strait-of-hormuz-and-ending-the-war-axios-reports",
-      "timestamp": "2026-04-27T08:03:00+03:00"
     },
     {
       "headline": "20,000 Seafarers Stranded in Persian Gulf as Hormuz Remains Blocked",
@@ -3579,24 +3613,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/24/trump-administration-to-prioritize-seeking-death-penalty-use-firing-squads",
       "timestamp": "2026-04-25T01:03:00+03:00"
-    },
-    {
-      "headline": "Pirates hijack oil tanker off Somalia with 17 crew amid Hormuz disruption",
-      "summary": "Pirates seized the oil tanker Honour 25 with 17 crew near the Somali coast. The hijacking highlights renewed piracy concerns as the Iran conflict disrupts Gulf shipping routes. The vessel was carrying 18,500 barrels of oil.",
-      "emoji": "🚢",
-      "category": "Energy",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c78l26yn981o",
-      "timestamp": "2026-04-25T01:03:00+03:00"
-    },
-    {
-      "headline": "Trump administration pitches US companies for Gulf reconstruction contracts",
-      "summary": "The US is lobbying Gulf states to use American firms to rebuild infrastructure damaged by Iranian strikes, pressing Kuwait, Bahrain and the UAE. An Arab official called the push \"tone-deaf\" given the ongoing conflict.",
-      "emoji": "🏗️",
-      "category": "US-Iran War",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/trump-administration-pitching-us-companies-rebuild-gulf-infrastructure-hit-iran",
-      "timestamp": "2026-04-25T00:04:00+03:00"
     }
   ]
 }
