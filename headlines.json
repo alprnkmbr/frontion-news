@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-04-27T04:07:00+03:00",
+  "lastUpdated": "2026-04-27T05:05:47+03:00",
   "headlines": [
+    {
+      "headline": "King Charles State Visit to US to Proceed Despite Washington Shooting",
+      "summary": "Buckingham Palace confirmed King Charles and Queen Camilla's four-day state visit to the United States will proceed as planned starting Monday, following discussions with US officials after a shooting at the White House Correspondents Dinner attended by President Trump.",
+      "emoji": "🇬🇧",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/uk/buckingham-palace-says-king-charles-trip-us-go-ahead-2026-04-26/",
+      "timestamp": "2026-04-27T05:03:00+03:00"
+    },
+    {
+      "headline": "Asia May Emerge as Unexpected Beneficiary from Iran War Fallout",
+      "summary": "While Asia has been highly vulnerable to the Iran war due to its dependence on Middle East energy, analysts suggest the region could emerge as a long-term winner from trends accelerated by the conflict, including supply chain diversification and energy transition.",
+      "emoji": "🌏",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/could-asia-be-unlikely-winner-fallout-iran-war-raychaudhuri-2026-04-26/",
+      "timestamp": "2026-04-27T05:03:00+03:00"
+    },
+    {
+      "headline": "Global Leaders Condemn White House Correspondents Dinner Shooting",
+      "summary": "World leaders including UK Prime Minister Keir Starmer, French President Emmanuel Macron, Israeli Prime Minister Benjamin Netanyahu, and Indian Prime Minister Narendra Modi condemned the shooting at the White House Correspondents Dinner and expressed relief that President Trump and the First Lady were safe.",
+      "emoji": "🏛️",
+      "category": "US Politics",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/live/c1je28p42ret",
+      "timestamp": "2026-04-27T05:03:00+03:00"
+    },
     {
       "headline": "North Korea Opens Memorial Honoring Troops Killed Fighting for Russia",
       "summary": "Pyongyang unveiled a memorial for North Korean soldiers killed fighting alongside Russian forces in Ukraine, with Kim Jong-un emphasizing the need to strengthen ties with Moscow into a \"powerful bulwark.\" This marks the first official acknowledgment and commemoration of North Korean combat deaths in the Ukraine war.",
@@ -17,16 +44,23 @@
       "category": "Middle East",
       "source": "Al Arabiya",
       "url": "https://english.alarabiya.net/News/middle-east/2026/04/26/israel-hezbollah-trade-accusations-over-lebanon-truce-violations",
-      "timestamp": "2026-04-27T04:06:00+03:00"
-    },
-    {
-      "headline": "Global LNG Markets Face Sustained Price Elevation as Hormuz Closure Continues",
-      "summary": "Global liquefied natural gas markets are bracing for prolonged price elevation throughout 2026 as the Strait of Hormuz closure continues to throttle supply, with analysts warning short-term shocks risk becoming structural and permanently altering demand patterns.",
-      "emoji": "🛢️💰⚠️",
-      "category": "Energy",
-      "source": "Yahoo Finance",
-      "url": "https://finance.yahoo.com/sectors/energy/articles/why-strait-hormuz-disruption-more-082327446.html",
-      "timestamp": "2026-04-27T04:06:00+03:00"
+      "timestamp": "2026-04-27T04:06:00+03:00",
+      "perspectives": [
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/middle-east/20260426-middle-east-war-live-iran-s-fm-to-return-to-pakistan-for-talks-as-us-envoys-cancel-visit",
+          "angle": "Israel and Hezbollah Accuse Each Other of Violating Lebanon Ceasefire",
+          "summary": "Tensions flare along the Israel-Lebanon border as both sides accuse each other of ceasefire violations. The fragility of the Lebanon ceasefire arrangement highlights continued instability in the northern front."
+        }
+      ],
+      "sources": [
+        "Al Arabiya",
+        "France24"
+      ],
+      "urls": [
+        "https://english.alarabiya.net/News/middle-east/2026/04/26/israel-hezbollah-trade-accusations-over-lebanon-truce-violations",
+        "https://www.france24.com/en/middle-east/20260426-middle-east-war-live-iran-s-fm-to-return-to-pakistan-for-talks-as-us-envoys-cancel-visit"
+      ]
     },
     {
       "headline": "China Uses Trade Truce With US to Expand Economic Leverage Before Summit",
@@ -38,22 +72,29 @@
       "timestamp": "2026-04-27T04:06:00+03:00"
     },
     {
-      "headline": "Iran Foreign Minister Heads to Russia After Pakistan Talks Amid Stalled US Negotiations",
-      "summary": "Iranian Foreign Minister Abbas Araghchi left Pakistan for Russia after meeting Pakistani officials to discuss ending the war with the US, as Tehran continues diplomatic efforts despite Trump canceling his envoys planned trip to Islamabad.",
-      "emoji": "🇮🇷🇷🇺🇵🇰",
-      "category": "Diplomacy",
-      "source": "Straits Times",
-      "url": "https://www.straitstimes.com/world/middle-east/iran-minister-leaves-pakistan-heads-to-russia-for-more-talks",
-      "timestamp": "2026-04-27T04:06:00+03:00"
-    },
-    {
       "headline": "Global Military Spending Hits Record $2.9 Trillion Despite US Cuts",
       "summary": "World military expenditure rose 2.9% in 2025 to a record high, with the US accounting for less as Trump halted Ukraine aid while other nations ramped up defense budgets amid rising global tensions.",
       "emoji": "💰⚔️",
       "category": "Defense Industry",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/global-military-spending-rises-29-despite-us-decline-over-ukraine-freeze-2026-04-26/",
-      "timestamp": "2026-04-27T04:03:00+03:00"
+      "timestamp": "2026-04-27T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/economy/20260426-global-military-spending-record-2-9-trillion-2025-growing-insecurity",
+          "angle": "Global Military Spending Hits Record $2.9 Trillion in 2025",
+          "summary": "World military expenditure reached nearly $2.9 trillion in 2025, marking the 11th consecutive year of growth as rising global insecurity drives rearmament. Asia-Oceania saw the largest annual increase since 2009 at 8.5%."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "France24"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/aerospace-defense/global-military-spending-rises-29-despite-us-decline-over-ukraine-freeze-2026-04-26/",
+        "https://www.france24.com/en/economy/20260426-global-military-spending-record-2-9-trillion-2025-growing-insecurity"
+      ]
     },
     {
       "headline": "Security Under Review After Gunman Breaches White House Correspondents Dinner",
@@ -62,7 +103,31 @@
       "category": "US Politics",
       "source": "Reuters",
       "url": "https://www.reuters.com/legal/government/white-house-dinner-shooting-prompts-scrutiny-of-trump-security-arrangements-2026-04-26/",
-      "timestamp": "2026-04-27T04:03:00+03:00"
+      "timestamp": "2026-04-27T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/media-telecom/how-shooting-white-house-correspondents-dinner-unfolded-2026-04-26/",
+          "angle": "Timeline: How the White House Correspondents Dinner Shooting Unfolded",
+          "summary": "A detailed reconstruction of the security incident at the Washington Hilton, from the first shots fired to the evacuation of the president and the arrest of the armed suspect."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/us/trump-was-likely-target-shooting-white-house-correspondents-dinner-us-official-2026-04-26/",
+          "angle": "Trump Was Likely Target of White House Correspondents Dinner Shooting",
+          "summary": "A gunman opened fire at the White House Correspondents Association dinner, with officials saying Trump and his officials were likely targets. A Secret Service agent was wounded and the suspect was taken into custody."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/legal/government/white-house-dinner-shooting-prompts-scrutiny-of-trump-security-arrangements-2026-04-26/",
+        "https://www.reuters.com/business/media-telecom/how-shooting-white-house-correspondents-dinner-unfolded-2026-04-26/",
+        "https://www.reuters.com/world/us/trump-was-likely-target-shooting-white-house-correspondents-dinner-us-official-2026-04-26/"
+      ]
     },
     {
       "headline": "US-Iran Conflict Stuck in No War No Peace Limbo as Both Sides Wait",
@@ -71,7 +136,23 @@
       "category": "US-Iran War",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html",
-      "timestamp": "2026-04-27T04:03:00+03:00"
+      "timestamp": "2026-04-27T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html",
+          "angle": "Iran and US Stuck in Awkward \"No War, No Peace\" Limbo",
+          "summary": "As diplomatic efforts stall with Trump canceling envoy visits to Pakistan, both Washington and Tehran are betting they can outlast the other in a precarious stalemate without a formal deal."
+        }
+      ],
+      "sources": [
+        "New York Times",
+        "New York Times"
+      ],
+      "urls": [
+        "https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html",
+        "https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html"
+      ]
     },
     {
       "headline": "Pope Leo and the Shift From Just War to Peace Activism",
@@ -80,15 +161,6 @@
       "category": "Diplomacy",
       "source": "Wall Street Journal",
       "url": "https://www.wsj.com/world/what-happened-to-just-war-why-modern-popes-have-become-peace-activists-a8cd7ecb",
-      "timestamp": "2026-04-27T04:03:00+03:00"
-    },
-    {
-      "headline": "Timeline: How the White House Correspondents Dinner Shooting Unfolded",
-      "summary": "A detailed reconstruction of the security incident at the Washington Hilton, from the first shots fired to the evacuation of the president and the arrest of the armed suspect.",
-      "emoji": "🇺🇸🔫",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/media-telecom/how-shooting-white-house-correspondents-dinner-unfolded-2026-04-26/",
       "timestamp": "2026-04-27T04:03:00+03:00"
     },
     {
@@ -185,15 +257,6 @@
       "timestamp": "2026-04-27T03:00:00+03:00"
     },
     {
-      "headline": "Global Military Spending Hits Record $2.9 Trillion in 2025",
-      "summary": "World military expenditure reached nearly $2.9 trillion in 2025, marking the 11th consecutive year of growth as rising global insecurity drives rearmament. Asia-Oceania saw the largest annual increase since 2009 at 8.5%.",
-      "emoji": "💰⚔️",
-      "category": "Defense Industry",
-      "source": "France24",
-      "url": "https://www.france24.com/en/economy/20260426-global-military-spending-record-2-9-trillion-2025-growing-insecurity",
-      "timestamp": "2026-04-27T02:05:00+03:00"
-    },
-    {
       "headline": "Hong Kong Plans T+1 Settlement Shift to Sharpen Financial Hub Edge",
       "summary": "After more than 30 years of T+2 settlement, Hong Kong plans to move to T+1 settlement. The shift aims to strengthen Hong Kong competitive position as a global financial hub amid intensifying regional competition.",
       "emoji": "🇭🇰💼",
@@ -201,31 +264,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/business/article/3351417/can-faster-settlement-sharpen-hong-kongs-edge-global-financial-hub",
       "timestamp": "2026-04-27T02:05:00+03:00"
-    },
-    {
-      "headline": "Israel and Hezbollah Accuse Each Other of Violating Lebanon Ceasefire",
-      "summary": "Tensions flare along the Israel-Lebanon border as both sides accuse each other of ceasefire violations. The fragility of the Lebanon ceasefire arrangement highlights continued instability in the northern front.",
-      "emoji": "🇮🇱🇱🇧",
-      "category": "Middle East",
-      "source": "France24",
-      "url": "https://www.france24.com/en/middle-east/20260426-middle-east-war-live-iran-s-fm-to-return-to-pakistan-for-talks-as-us-envoys-cancel-visit",
-      "timestamp": "2026-04-27T02:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/04/23/nx-s1-5796719/iran-middle-east-updates",
-          "angle": "Trump Announces 3-Week Extension of Israel-Lebanon Ceasefire",
-          "summary": "President Trump said Israel and Lebanon agreed to extend their ceasefire by three weeks after White House talks. The truce pauses fighting between Israel and Hezbollah, though both sides exchanged fire shortly after the announcement."
-        }
-      ],
-      "sources": [
-        "France24",
-        "NPR"
-      ],
-      "urls": [
-        "https://www.france24.com/en/middle-east/20260426-middle-east-war-live-iran-s-fm-to-return-to-pakistan-for-talks-as-us-envoys-cancel-visit",
-        "https://www.npr.org/2026/04/23/nx-s1-5796719/iran-middle-east-updates"
-      ]
     },
     {
       "headline": "US Sanctions Major Chinese Refinery Over Iranian Oil Purchases",
@@ -285,31 +323,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/chinas-hengli-petrochemical-denies-trade-with-iran-response-us-sanctions-2026-04-26/",
       "timestamp": "2026-04-27T02:05:00+03:00"
-    },
-    {
-      "headline": "Trump Was Likely Target of White House Correspondents Dinner Shooting",
-      "summary": "A gunman opened fire at the White House Correspondents Association dinner, with officials saying Trump and his officials were likely targets. A Secret Service agent was wounded and the suspect was taken into custody.",
-      "emoji": "🇺🇸⚠️",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us/trump-was-likely-target-shooting-white-house-correspondents-dinner-us-official-2026-04-26/",
-      "timestamp": "2026-04-27T01:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/us/trump-was-likely-target-shooting-white-house-correspondents-dinner-us-official-2026-04-26/",
-          "angle": "Trump Likely Target of White House Correspondents Dinner Shooting",
-          "summary": "Acting Attorney General Todd Blanche said President Trump and cabinet officials were likely the targets of a gunman who fired on security personnel at the annual White House Correspondents Association dinner. The suspect was taken into custody."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/us/trump-was-likely-target-shooting-white-house-correspondents-dinner-us-official-2026-04-26/",
-        "https://www.reuters.com/world/us/trump-was-likely-target-shooting-white-house-correspondents-dinner-us-official-2026-04-26/"
-      ]
     },
     {
       "headline": "Suspect in Press Dinner Shooting Wrote Anti-Christian Manifesto",
@@ -783,15 +796,6 @@
       ]
     },
     {
-      "headline": "Iran and US Stuck in Awkward \"No War, No Peace\" Limbo",
-      "summary": "As diplomatic efforts stall with Trump canceling envoy visits to Pakistan, both Washington and Tehran are betting they can outlast the other in a precarious stalemate without a formal deal.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html",
-      "timestamp": "2026-04-26T19:15:00+03:00"
-    },
-    {
       "headline": "France trains Ukrainian pilots on Mirage 2000-5F fighters under EU mission",
       "summary": "French Air Force pilots are training Ukrainian crews on Mirage 2000-5F aircraft within the EUMAM framework. The training includes combat operations and maintenance, marking a concrete contribution to European security.",
       "emoji": "🇫🇷🇺🇦",
@@ -1190,6 +1194,31 @@
       ]
     },
     {
+      "headline": "TotalEnergies Warns of Global Energy Shortages as Hormuz Crisis Continues",
+      "summary": "The head of TotalEnergies warned of global energy shortages if the Iran war continues for months, as French President Macron reaffirmed efforts to reopen the Strait of Hormuz. LNG markets are bracing for sustained price elevation throughout 2026.",
+      "emoji": "🛢️⚠️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/macron-reaffirms-efforts-reopen-strait-hormuz-totalenergies-warns-energy-2026-04-25/",
+      "timestamp": "2026-04-26T12:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Yahoo Finance",
+          "url": "https://finance.yahoo.com/sectors/energy/articles/why-strait-hormuz-disruption-more-082327446.html",
+          "angle": "Global LNG Markets Face Sustained Price Elevation as Hormuz Closure Continues",
+          "summary": "Global liquefied natural gas markets are bracing for prolonged price elevation throughout 2026 as the Strait of Hormuz closure continues to throttle supply, with analysts warning short-term shocks risk becoming structural and permanently altering demand patterns."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Yahoo Finance"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/macron-reaffirms-efforts-reopen-strait-hormuz-totalenergies-warns-energy-2026-04-25/",
+        "https://finance.yahoo.com/sectors/energy/articles/why-strait-hormuz-disruption-more-082327446.html"
+      ]
+    },
+    {
       "headline": "Ukraine unveils new AI-powered strike drones Anubis and Seth-X for deep missions",
       "summary": "Ukrainian firm Airlogix revealed two new drones: Anubis for deep-strike missions with stealth characteristics, and Seth-X designed for swarm attacks, expanding Ukraine's AI strike capabilities in contested environments.",
       "emoji": "🇺🇦⚔️",
@@ -1233,63 +1262,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/russian-defence-minister-visits-north-korea-2026-04-26/",
       "timestamp": "2026-04-26T12:05:00+03:00"
-    },
-    {
-      "headline": "TotalEnergies Warns of Global Energy Shortages as Hormuz Crisis Continues",
-      "summary": "The head of TotalEnergies warned of global energy shortages if the Iran war continues for months, as French President Macron reaffirmed efforts to reopen the Strait of Hormuz. LNG markets are bracing for sustained price elevation throughout 2026.",
-      "emoji": "🛢️⚠️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/macron-reaffirms-efforts-reopen-strait-hormuz-totalenergies-warns-energy-2026-04-25/",
-      "timestamp": "2026-04-26T12:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/macron-reaffirms-efforts-reopen-strait-hormuz-totalenergies-warns-energy-2026-04-25/",
-          "angle": "Macron Pushes to Reopen Hormuz as TotalEnergies Warns of Global Energy Shortages",
-          "summary": "French President Macron reiterated efforts to reopen the Strait of Hormuz after TotalEnergies CEO warned of global energy shortages if the Iran war continues for months. The waterway remains nearly blocked, disrupting oil and LNG shipments worldwide."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/macron-reaffirms-efforts-reopen-strait-hormuz-totalenergies-warns-energy-2026-04-25/",
-          "angle": "Macron reaffirms efforts to reopen Strait of Hormuz as TotalEnergies warns of shortages",
-          "summary": "The French president said he is focused on reopening the Strait of Hormuz after TotalEnergies CEO warned of global energy shortages if the Iran war continues for months."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/macron-reaffirms-efforts-reopen-strait-hormuz-totalenergies-warns-energy-2026-04-25/",
-          "angle": "Macron Reaffirms Efforts to Reopen Strait of Hormuz as TotalEnergies Warns of Energy Shortages",
-          "summary": "French President Emmanuel Macron reiterated his focus on efforts to reopen the Strait of Hormuz, a day after TotalEnergies CEO warned of global energy shortages if the Iran war continues for months."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/macron-reaffirms-efforts-reopen-strait-hormuz-totalenergies-warns-energy-2026-04-25/",
-          "angle": "Macron Pushes to Reopen Strait of Hormuz as TotalEnergies Warns of Shortages",
-          "summary": "French President Emmanuel Macron reaffirmed efforts to reopen the Strait of Hormuz amid the Iran conflict. TotalEnergies CEO warned of global energy shortages if the war continues for months."
-        },
-        {
-          "source": "TRT World",
-          "url": "https://www.trtworld.com/article/b96b26bc3a55",
-          "angle": "Sweden warns of fuel rationing as Hormuz standoff disrupts global energy flows",
-          "summary": "Rising oil and gas prices linked to the Strait of Hormuz standoff are pushing Sweden to prepare for tougher economic measures as inflation risks grow. The government is warning citizens that fuel rationing may be necessary."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters",
-        "Reuters",
-        "Reuters",
-        "TRT World"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/macron-reaffirms-efforts-reopen-strait-hormuz-totalenergies-warns-energy-2026-04-25/",
-        "https://www.reuters.com/business/energy/macron-reaffirms-efforts-reopen-strait-hormuz-totalenergies-warns-energy-2026-04-25/",
-        "https://www.reuters.com/business/energy/macron-reaffirms-efforts-reopen-strait-hormuz-totalenergies-warns-energy-2026-04-25/",
-        "https://www.reuters.com/business/energy/macron-reaffirms-efforts-reopen-strait-hormuz-totalenergies-warns-energy-2026-04-25/",
-        "https://www.reuters.com/business/energy/macron-reaffirms-efforts-reopen-strait-hormuz-totalenergies-warns-energy-2026-04-25/",
-        "https://www.trtworld.com/article/b96b26bc3a55"
-      ]
     },
     {
       "headline": "France and Greece Strengthen Defense Alliance Amid NATO Uncertainty",
@@ -1900,19 +1872,19 @@
       "timestamp": "2026-04-25T20:15:00+03:00",
       "perspectives": [
         {
-          "source": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/islamabad-residents-bear-cost-of-pakistan-s-us-iran-mediation",
-          "angle": "Islamabad Residents Bear Cost of Pakistan US-Iran Mediation",
-          "summary": "As Pakistan hosts US-Iran talks, local residents face disruptions from a semi-lockdown in the capital. The mediation effort comes with significant costs to daily life and commerce in Islamabad."
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/world/middle-east/iran-minister-leaves-pakistan-heads-to-russia-for-more-talks",
+          "angle": "Iran Foreign Minister Heads to Russia After Pakistan Talks Amid Stalled US Negotiations",
+          "summary": "Iranian Foreign Minister Abbas Araghchi left Pakistan for Russia after meeting Pakistani officials to discuss ending the war with the US, as Tehran continues diplomatic efforts despite Trump canceling his envoys planned trip to Islamabad."
         }
       ],
       "sources": [
         "Nikkei Asia",
-        "Nikkei Asia"
+        "Straits Times"
       ],
       "urls": [
         "https://asia.nikkei.com/politics/islamabad-residents-bear-cost-of-pakistan-s-us-iran-mediation",
-        "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/islamabad-residents-bear-cost-of-pakistan-s-us-iran-mediation"
+        "https://www.straitstimes.com/world/middle-east/iran-minister-leaves-pakistan-heads-to-russia-for-more-talks"
       ]
     },
     {
@@ -3607,113 +3579,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/24/uk-rights-groups-slam-conviction-of-pro-palestine-protest-organisers",
       "timestamp": "2026-04-24T16:03:00+03:00"
-    },
-    {
-      "headline": "Russia Kills Two in Odesa Drone Strike, Hits Foreign Merchant Ship",
-      "summary": "Russian drones killed an elderly married couple and struck a foreign merchant vessel in Odesa overnight, continuing attacks on Ukrainian port infrastructure amid the ongoing war.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/russian-drones-kill-two-in-ukraines-odesa-hit-foreign-merchant-ship",
-      "timestamp": "2026-04-24T16:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russian-overnight-strikes-on-odesa-residential-buildings-kill-2-injure-14/",
-          "angle": "Russian drone strike kills married couple, injures 15 in Odesa residential buildings",
-          "summary": "A Russian overnight drone attack on multiple residential buildings in Odesa killed two civilians and wounded 15 others, the latest in a series of strikes on southern Ukrainian cities."
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://www.aljazeera.com/news/2026/4/24/russian-drones-kill-two-in-ukraines-odesa-hit-foreign-merchant-ship",
-        "https://kyivindependent.com/russian-overnight-strikes-on-odesa-residential-buildings-kill-2-injure-14/"
-      ]
-    },
-    {
-      "headline": "China DeepSeek Unveils New AI Model Challenging US Rivals",
-      "summary": "Chinese startup DeepSeek has released its latest AI model, DeepSeek-V4-Pro, which the company claims beats all rival open models in mathematics and coding benchmarks, marking another advance in the AI competition between Beijing and Washington.",
-      "emoji": "🇨🇳",
-      "category": "Technology",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/24/chinas-deepseek-unveils-latest-model-a-year-after-upending-global-tech",
-      "timestamp": "2026-04-24T16:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/tech/big-tech/article/3351239/deepseek-releases-next-gen-ai-model-world-leading-efficiency",
-          "angle": "DeepSeek Unveils New AI Model as Huawei Pledges Full Chip Support",
-          "summary": "Chinese AI company DeepSeek released its cost-efficient V4 model that competes with top closed-source models from OpenAI and Google, while Huawei vowed full support with new chips, intensifying the US-China AI race."
-        },
-        {
-          "source": "France 24",
-          "url": "https://www.france24.com/en/technology/20260424-us-china-ai-race-intensifies-as-deepseek-releases-new-reduced-cost-model",
-          "angle": "China's DeepSeek releases new AI model with 'drastically reduced' costs",
-          "summary": "DeepSeek released a new AI model capable of processing extra-long texts at significantly lower costs, intensifying the US-China AI competition following last year's shockwaves from its reasoning model."
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "SCMP",
-        "France 24"
-      ],
-      "urls": [
-        "https://www.aljazeera.com/economy/2026/4/24/chinas-deepseek-unveils-latest-model-a-year-after-upending-global-tech",
-        "https://www.scmp.com/tech/big-tech/article/3351239/deepseek-releases-next-gen-ai-model-world-leading-efficiency",
-        "https://www.france24.com/en/technology/20260424-us-china-ai-race-intensifies-as-deepseek-releases-new-reduced-cost-model"
-      ]
-    },
-    {
-      "headline": "Trump Orders Shoot-to-Kill for Iranian Boats Blocking Hormuz",
-      "summary": "President Trump has authorized the US military to fire on Iranian small boats obstructing the Strait of Hormuz, escalating tensions in the critical shipping chokepoint. The order comes as Iran continues its blockade operations amid the ongoing conflict.",
-      "emoji": "🇺🇸",
-      "category": "US-Iran War",
-      "source": "AP News",
-      "url": "https://apnews.com/world-news/trump-shoot-kill-iranian-boats-hormuz",
-      "timestamp": "2026-04-24T15:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/Spotlight/Iran-tensions/iran-war/Trump-orders-US-military-to-shoot-and-kill-Iranian-boats-laying-mines-in-Hormuz",
-          "angle": "Trump orders US military to shoot Iranian boats laying mines in Hormuz Strait",
-          "summary": "President Trump has ordered the US Navy to shoot and kill any Iranian boats deploying mines in the Strait of Hormuz, escalating the standoff as Iran continues to disrupt traffic through the critical waterway. The order came after Iran laid mines for a second time this week."
-        },
-        {
-          "source": "The War Zone",
-          "url": "https://www.twz.com/trump-puts-out-kill-order-on-irans-small-boats",
-          "angle": "Trump Orders Kill Order on Iranian Small Boats, Tripling Demining Efforts",
-          "summary": "President Trump has issued a kill order for Iranian small boats and announced plans to triple demining operations in the Strait of Hormuz, though the status of current demining activities remains unclear."
-        },
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-23-2026-368b922ae2f4c874df8a133491eeffe8",
-          "angle": "Trump orders US military to \"shoot and kill\" Iranian boats laying mines in Strait of Hormuz",
-          "summary": "President Trump has ordered the Navy to destroy small Iranian boats deploying mines in the strategic waterway, tripling minesweeping operations as tensions escalate despite an ongoing ceasefire."
-        },
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/trump-iran-strait-hormuz-shoot-boats",
-          "angle": "Trump Orders Military to Shoot Iranian Boats Blocking Strait of Hormuz",
-          "summary": "President Trump has authorized US forces to fire on Iranian small boats obstructing the strategic waterway, escalating tensions as the naval blockade continues."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "Nikkei Asia",
-        "The War Zone",
-        "AP News",
-        "AP News"
-      ],
-      "urls": [
-        "https://apnews.com/world-news/trump-shoot-kill-iranian-boats-hormuz",
-        "https://asia.nikkei.com/Spotlight/Iran-tensions/iran-war/Trump-orders-US-military-to-shoot-and-kill-Iranian-boats-laying-mines-in-Hormuz",
-        "https://www.twz.com/trump-puts-out-kill-order-on-irans-small-boats",
-        "https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-23-2026-368b922ae2f4c874df8a133491eeffe8",
-        "https://apnews.com/article/trump-iran-strait-hormuz-shoot-boats"
-      ]
     }
   ]
 }
