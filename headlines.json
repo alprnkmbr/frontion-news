@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-04-27T03:07:35+03:00",
+  "lastUpdated": "2026-04-27T04:05:40+03:00",
   "headlines": [
+    {
+      "headline": "Global Military Spending Hits Record $2.9 Trillion Despite US Cuts",
+      "summary": "World military expenditure rose 2.9% in 2025 to a record high, with the US accounting for less as Trump halted Ukraine aid while other nations ramped up defense budgets amid rising global tensions.",
+      "emoji": "💰⚔️",
+      "category": "Defense Industry",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/global-military-spending-rises-29-despite-us-decline-over-ukraine-freeze-2026-04-26/",
+      "timestamp": "2026-04-27T04:03:00+03:00"
+    },
+    {
+      "headline": "Security Under Review After Gunman Breaches White House Correspondents Dinner",
+      "summary": "Law enforcement officials are reassessing security protocols after an armed suspect was able to get close to an event attended by President Trump and senior officials, raising questions about protection arrangements.",
+      "emoji": "🇺🇸🏛️",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/government/white-house-dinner-shooting-prompts-scrutiny-of-trump-security-arrangements-2026-04-26/",
+      "timestamp": "2026-04-27T04:03:00+03:00"
+    },
+    {
+      "headline": "US-Iran Conflict Stuck in No War No Peace Limbo as Both Sides Wait",
+      "summary": "With peace talks stalled and neither side willing to escalate further, the US-Iran standoff has settled into an uneasy stalemate where each is betting it can outlast the other.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "US-Iran War",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html",
+      "timestamp": "2026-04-27T04:03:00+03:00"
+    },
+    {
+      "headline": "Pope Leo and the Shift From Just War to Peace Activism",
+      "summary": "The popes criticism of the Iran war reflects a broader transformation in Catholic teaching on warfare, driven by the devastating power of modern weaponry and the collapse of traditional just war theory.",
+      "emoji": "⛪🌍",
+      "category": "Diplomacy",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/world/what-happened-to-just-war-why-modern-popes-have-become-peace-activists-a8cd7ecb",
+      "timestamp": "2026-04-27T04:03:00+03:00"
+    },
+    {
+      "headline": "Timeline: How the White House Correspondents Dinner Shooting Unfolded",
+      "summary": "A detailed reconstruction of the security incident at the Washington Hilton, from the first shots fired to the evacuation of the president and the arrest of the armed suspect.",
+      "emoji": "🇺🇸🔫",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/how-shooting-white-house-correspondents-dinner-unfolded-2026-04-26/",
+      "timestamp": "2026-04-27T04:03:00+03:00"
+    },
     {
       "headline": "Trump Cancels Pakistan Peace Mission, Says Iran Can Call Instead",
       "summary": "President Trump called off a planned U.S. envoy trip to Pakistan for Iran peace talks, saying Tehran can telephone if it wants to negotiate. Iranian Foreign Minister Araghchi headed to Moscow as diplomatic efforts stall.",
@@ -8,7 +53,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/us-iran-peace-hopes-fade-trump-scraps-talks-2026-04-26/",
-      "timestamp": "2026-04-27T03:00:00+03:00"
+      "timestamp": "2026-04-27T03:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/trump-tells-fox-news-iran-can-call-us-if-it-wants-negotiate-2026-04-26/",
+          "angle": "Trump Tells Iran to Call If It Wants to Negotiate as Peace Talks Stall",
+          "summary": "President Trump said Iran can reach out to the US if it wants to negotiate an end to the war, adding that US negotiators will no longer travel for talks. Both Tehran and Washington have shown little willingness to soften their terms."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/us-iran-peace-hopes-fade-trump-scraps-talks-2026-04-26/",
+        "https://www.reuters.com/world/middle-east/trump-tells-fox-news-iran-can-call-us-if-it-wants-negotiate-2026-04-26/"
+      ]
     },
     {
       "headline": "Iranian Foreign Minister Returns to Pakistan, Seeks to Revive Ceasefire Talks",
@@ -17,7 +78,23 @@
       "category": "US-Iran War",
       "source": "AP News",
       "url": "https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-26-2026-9f7bcaf20c42b56d3dba4b504936f7ee",
-      "timestamp": "2026-04-27T03:00:00+03:00"
+      "timestamp": "2026-04-27T03:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/04/24/world/middleeast/iran-pakistan-araghchi.html",
+          "angle": "Irans Foreign Minister to Visit Pakistan as US Talks Remain Stalled",
+          "summary": "Iranian Foreign Minister Abbas Araghchi will travel to Pakistan, Oman and Russia to explore whether peace talks with the US can be reopened."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "New York Times"
+      ],
+      "urls": [
+        "https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-26-2026-9f7bcaf20c42b56d3dba4b504936f7ee",
+        "https://www.nytimes.com/2026/04/24/world/middleeast/iran-pakistan-araghchi.html"
+      ]
     },
     {
       "headline": "NATO Says No Provision to Expel Members After Pentagon Email on Spain",
@@ -35,7 +112,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-warning-seven-lebanese-towns-north-litani-2026-04-26/",
-      "timestamp": "2026-04-27T03:00:00+03:00"
+      "timestamp": "2026-04-27T03:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-warning-seven-lebanese-towns-north-litani-2026-04-26/",
+          "angle": "Israel Orders Evacuations of Seven Lebanese Towns After Soldier Killed",
+          "summary": "Israel issued evacuation warnings for seven towns in southern Lebanon beyond the Litani River buffer zone after a soldier was killed near the border. The move escalates tensions despite a fragile ceasefire with Hezbollah."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-warning-seven-lebanese-towns-north-litani-2026-04-26/",
+        "https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-warning-seven-lebanese-towns-north-litani-2026-04-26/"
+      ]
     },
     {
       "headline": "Oil Prices Climb Nearly 2% as US-Iran Peace Talks Stall",
@@ -147,39 +240,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/chinas-hengli-petrochemical-denies-trade-with-iran-response-us-sanctions-2026-04-26/",
       "timestamp": "2026-04-27T02:05:00+03:00"
-    },
-    {
-      "headline": "Trump Tells Iran to Call If It Wants to Negotiate as Peace Talks Stall",
-      "summary": "President Trump said Iran can reach out to the US if it wants to negotiate an end to the war, adding that US negotiators will no longer travel for talks. Both Tehran and Washington have shown little willingness to soften their terms.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/trump-tells-fox-news-iran-can-call-us-if-it-wants-negotiate-2026-04-26/",
-      "timestamp": "2026-04-27T01:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "CNN",
-          "url": "https://edition.cnn.com/2026/04/26/world/live-news/iran-war-trump-israel",
-          "angle": "Iran FM Expected to Meet Putin in Russia as US Peace Talks Stall",
-          "summary": "Iranian Foreign Minister Abbas Araghchi is expected to meet with Russian President Vladimir Putin as US-Iran peace talks remain on uncertain ground. Trump said negotiations will continue over phone rather than in-person."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/us-iran-peace-hopes-fade-trump-scraps-talks-2026-04-26/",
-          "angle": "US-Iran Peace Hopes Fade as Trump Scraps Pakistan Talks",
-          "summary": "Iranian Foreign Minister Abbas Araghchi returned to Pakistan for diplomatic efforts, but President Trump canceled envoy talks citing no progress. Both sides show little willingness to soften terms, leaving ceasefire prospects dim."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "CNN",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/trump-tells-fox-news-iran-can-call-us-if-it-wants-negotiate-2026-04-26/",
-        "https://edition.cnn.com/2026/04/26/world/live-news/iran-war-trump-israel",
-        "https://www.reuters.com/world/asia-pacific/us-iran-peace-hopes-fade-trump-scraps-talks-2026-04-26/"
-      ]
     },
     {
       "headline": "Trump Was Likely Target of White House Correspondents Dinner Shooting",
@@ -401,15 +461,6 @@
         "https://www.reuters.com/world/europe/ukraine-marks-40th-anniversary-chornobyl-disaster-under-cloud-war-2026-04-25/",
         "https://www.reuters.com/world/europe/ukraine-marks-40th-anniversary-chornobyl-disaster-under-cloud-war-2026-04-25/"
       ]
-    },
-    {
-      "headline": "Israel Orders Evacuations of Seven Lebanese Towns After Soldier Killed",
-      "summary": "Israel issued evacuation warnings for seven towns in southern Lebanon beyond the Litani River buffer zone after a soldier was killed near the border. The move escalates tensions despite a fragile ceasefire with Hezbollah.",
-      "emoji": "🇱🇧🇮🇱",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-warning-seven-lebanese-towns-north-litani-2026-04-26/",
-      "timestamp": "2026-04-26T23:03:00+03:00"
     },
     {
       "headline": "China Yuan Settlements Hit Record High Amid Iran Conflict",
@@ -3355,31 +3406,6 @@
       "timestamp": "2026-04-24T20:10:00+03:00"
     },
     {
-      "headline": "Irans Foreign Minister to Visit Pakistan as US Talks Remain Stalled",
-      "summary": "Iranian Foreign Minister Abbas Araghchi will travel to Pakistan, Oman and Russia to explore whether peace talks with the US can be reopened.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/24/world/middleeast/iran-pakistan-araghchi.html",
-      "timestamp": "2026-04-24T20:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/Spotlight/Iran-tensions/iran-war/Pakistan-officials-blame-US-blockade-not-Iran-divisions-for-stalled-talks",
-          "angle": "Pakistan blames US blockade, not Iranian divisions, for stalled ceasefire talks",
-          "summary": "Pakistani officials say the US naval blockade of Iranian ports is preventing Tehran from attending talks in Islamabad, contradicting Trump who cited Irans \"fractured\" government. The diplomatic stalemate continues as both sides set preconditions for negotiations."
-        }
-      ],
-      "sources": [
-        "New York Times",
-        "Nikkei Asia"
-      ],
-      "urls": [
-        "https://www.nytimes.com/2026/04/24/world/middleeast/iran-pakistan-araghchi.html",
-        "https://asia.nikkei.com/Spotlight/Iran-tensions/iran-war/Pakistan-officials-blame-US-blockade-not-Iran-divisions-for-stalled-talks"
-      ]
-    },
-    {
       "headline": "Kushner and Witkoff Said to Be Headed to Pakistan for Iran Negotiations",
       "summary": "President Trump is sending Jared Kushner and Steve Witkoff to Pakistan for potential peace talks with Iran, with VP Vance on standby.",
       "emoji": "🇺🇸",
@@ -3643,15 +3669,6 @@
         "https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-23-2026-368b922ae2f4c874df8a133491eeffe8",
         "https://apnews.com/article/trump-iran-strait-hormuz-shoot-boats"
       ]
-    },
-    {
-      "headline": "Iran's Exiled Crown Prince Reza Pahlavi Attacked in Berlin",
-      "summary": "Iran's exiled crown prince Reza Pahlavi was splattered with red liquid during an appearance in Berlin, in what appears to be a protest action. The incident highlights tensions within the Iranian diaspora amid the ongoing Iran-US conflict.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "AP News",
-      "url": "https://apnews.com/world-news/reza-pahlavi-attacked-berlin",
-      "timestamp": "2026-04-24T15:03:00+03:00"
     }
   ]
 }
