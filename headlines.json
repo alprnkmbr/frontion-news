@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-04-28T07:04:09+03:00",
+  "lastUpdated": "2026-04-28T08:04:52+03:00",
   "headlines": [
+    {
+      "headline": "Oil prices climb 1% as Iran war stalemate persists",
+      "summary": "Brent crude rose toward $110 per barrel as diplomatic efforts to end the US-Iran war appeared stalled, with the Strait of Hormuz remaining effectively closed to shipping.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-prices-rise-no-end-iran-war-stand-off-seems-sight-2026-04-28/",
+      "timestamp": "2026-04-28T08:10:00+03:00"
+    },
+    {
+      "headline": "China denounces Japan and EU over South China Sea at UN",
+      "summary": "Beijing accused Tokyo of provocative behavior in the Taiwan Strait and military expansion plans after Japan and the EU raised concerns about South China Sea tensions at a UN Security Council meeting.",
+      "emoji": "🇨🇳",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/un-china-denounces-japan-eu-over-south-china-sea-remarks-2026-04-28/",
+      "timestamp": "2026-04-28T08:10:00+03:00"
+    },
+    {
+      "headline": "Ukraine summons Israeli ambassador over Russian grain shipments",
+      "summary": "Kyiv warned Israel about allowing grain shipments from Russian-occupied Ukrainian territories, with Foreign Minister Sybiha saying Israel must prevent \"stolen\" Ukrainian grain from entering its ports.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/ukraine-take-measures-against-israel-if-grain-ship-docks-source-says-2026-04-27/",
+      "timestamp": "2026-04-28T08:10:00+03:00"
+    },
+    {
+      "headline": "Iran proposes reopening Strait of Hormuz while delaying nuclear talks",
+      "summary": "Tehran offered to restore maritime traffic through the vital waterway and lift the US blockade, but suggested postponing the contentious nuclear issue negotiations to a later stage.",
+      "emoji": "🇮🇷",
+      "category": "US-Iran War",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/27/world/middleeast/iran-trump-talks-strait-of-hormuz-nuclear.html",
+      "timestamp": "2026-04-28T08:10:00+03:00"
+    },
+    {
+      "headline": "Asian markets slide as Iran war talks stall and oil prices rise",
+      "summary": "Stocks retreated across Asia and oil prices climbed as diplomatic efforts to end the Iran war appeared stalled. Japan's Nikkei fell 1.1% after the Bank of Japan held rates steady amid inflation concerns.",
+      "emoji": "📉",
+      "category": "Economy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/stock-markets-trump-oil-iran-war-1901470c64a6055c80656fad64f863e5",
+      "timestamp": "2026-04-28T08:10:00+03:00"
+    },
     {
       "headline": "Moody's Upgrades China Outlook to Stable, Cites Economic Resilience",
       "summary": "Credit ratings agency Moody's revised China's outlook from negative to stable, pointing to resilient economic and fiscal strength despite ongoing trade pressures and geopolitical challenges.",
@@ -8,7 +53,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/moodys-flags-resilience-china-economy-moves-outlook-stable-2026-04-27/",
-      "timestamp": "2026-04-28T07:10:00+03:00"
+      "timestamp": "2026-04-28T07:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/moodys-flags-resilience-china-economy-moves-outlook-stable-2026-04-27/",
+          "angle": "Moody's Revises China Outlook to Stable Citing Economic Resilience",
+          "summary": "Credit ratings agency Moody's upgraded China's outlook from negative to stable, pointing to resilient economic growth and effective debt management despite ongoing trade and geopolitical challenges."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/moodys-flags-resilience-china-economy-moves-outlook-stable-2026-04-27/",
+        "https://www.reuters.com/world/asia-pacific/moodys-flags-resilience-china-economy-moves-outlook-stable-2026-04-27/"
+      ]
     },
     {
       "headline": "US Pressures Taiwan Parliament to Pass Comprehensive Defense Budget",
@@ -26,7 +87,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/philippines-us-stage-counter-landing-drills-with-allies-near-south-china-sea-2026-04-27/",
-      "timestamp": "2026-04-28T07:10:00+03:00"
+      "timestamp": "2026-04-28T07:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/un-china-denounces-japan-eu-over-south-china-sea-remarks-2026-04-28/",
+          "angle": "China Denounces Japan and EU at UN Over South China Sea",
+          "summary": "Beijing lashed out at Tokyo and Brussels during a UN Security Council maritime security meeting, accusing Japan of provocative behavior in the Taiwan Strait and military expansion plans."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/philippines-us-stage-counter-landing-drills-with-allies-near-south-china-sea-2026-04-27/",
+        "https://www.reuters.com/world/china/un-china-denounces-japan-eu-over-south-china-sea-remarks-2026-04-28/"
+      ]
     },
     {
       "headline": "China's Clean Tech Exporters See Record Sales as Iran War Disrupts Oil Flows",
@@ -35,7 +112,23 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/chinas-clean-tech-exporters-cash-iran-war-hits-oil-gas-flows-2026-04-27/",
-      "timestamp": "2026-04-28T07:10:00+03:00"
+      "timestamp": "2026-04-28T07:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/markets/commodities/iran-war-hands-opecs-swing-producer-crown-america-2026-04-27/",
+          "angle": "US Emerges as World's Swing Oil Producer as Iran War Reshapes Energy Markets",
+          "summary": "The Iran war has handed OPEC's swing producer crown to the United States, which has stepped in to shield the global economy from oil supply disruptions by boosting exports and selectively easing sanctions. The conflict is cementing America's transformation into the world's dominant energy superpower."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/chinas-clean-tech-exporters-cash-iran-war-hits-oil-gas-flows-2026-04-27/",
+        "https://www.reuters.com/markets/commodities/iran-war-hands-opecs-swing-producer-crown-america-2026-04-27/"
+      ]
     },
     {
       "headline": "Iran War Hands OPEC's Swing Producer Crown to America",
@@ -191,31 +284,6 @@
       "urls": [
         "https://www.reuters.com/world/bruised-by-trump-nato-alliance-considers-end-annual-summits-2026-04-27/",
         "https://www.scmp.com/news/world/united-states-canada/article/3351615/bruised-trump-nato-alliance-considers-end-annual-summits"
-      ]
-    },
-    {
-      "headline": "China Denounces Japan and EU at UN Over South China Sea",
-      "summary": "Beijing lashed out at Tokyo and Brussels during a UN Security Council maritime security meeting, accusing Japan of provocative behavior in the Taiwan Strait and military expansion plans.",
-      "emoji": "🇨🇳🇯🇵🇪🇺",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/un-china-denounces-japan-eu-over-south-china-sea-remarks-2026-04-28/",
-      "timestamp": "2026-04-28T05:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/australias-wong-visit-japan-china-south-korea-discuss-energy-security-2026-04-26/",
-          "angle": "Australia foreign minister to visit Japan, China, South Korea for energy security talks",
-          "summary": "Australian Foreign Minister Penny Wong announced visits to Japan, China and South Korea this week for discussions on energy security amid disruptions caused by the Middle East conflict and Strait of Hormuz tensions."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/un-china-denounces-japan-eu-over-south-china-sea-remarks-2026-04-28/",
-        "https://www.reuters.com/world/china/australias-wong-visit-japan-china-south-korea-discuss-energy-security-2026-04-26/"
       ]
     },
     {
@@ -1128,15 +1196,6 @@
       ]
     },
     {
-      "headline": "Moody's Revises China Outlook to Stable Citing Economic Resilience",
-      "summary": "Credit ratings agency Moody's upgraded China's outlook from negative to stable, pointing to resilient economic growth and effective debt management despite ongoing trade and geopolitical challenges.",
-      "emoji": "🇨🇳💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/moodys-flags-resilience-china-economy-moves-outlook-stable-2026-04-27/",
-      "timestamp": "2026-04-27T15:03:00+03:00"
-    },
-    {
       "headline": "Netanyahu's Rivals Bennett and Lapid Join Forces for Israeli Election",
       "summary": "Two of Prime Minister Benjamin Netanyahu's main political opponents, former PMs Naftali Bennett and Yair Lapid, announced they are merging parties to challenge his coalition in elections expected later this year.",
       "emoji": "🇮🇱🗳️",
@@ -1203,31 +1262,6 @@
       "source": "Stars and Stripes",
       "url": "https://www.stripes.com/theaters/europe/2026-04-27/sipri-defense-spending-report-21499277.html",
       "timestamp": "2026-04-27T14:05:00+03:00"
-    },
-    {
-      "headline": "US Emerges as World's Swing Oil Producer as Iran War Reshapes Energy Markets",
-      "summary": "The Iran war has handed OPEC's swing producer crown to the United States, which has stepped in to shield the global economy from oil supply disruptions by boosting exports and selectively easing sanctions. The conflict is cementing America's transformation into the world's dominant energy superpower.",
-      "emoji": "🇺🇸",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/markets/commodities/iran-war-hands-opecs-swing-producer-crown-america-2026-04-27/",
-      "timestamp": "2026-04-27T13:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "AzerNews",
-          "url": "https://news.az/news/europe-pays-27b-more-for-energy-amid-iran-war",
-          "angle": "Europe Pays €27 Billion More for Energy Due to Iran War",
-          "summary": "European Commission President Ursula von der Leyen stated Europe is facing its second major energy crisis, paying an additional €27 billion due to disruptions from the Iran war."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AzerNews"
-      ],
-      "urls": [
-        "https://www.reuters.com/markets/commodities/iran-war-hands-opecs-swing-producer-crown-america-2026-04-27/",
-        "https://news.az/news/europe-pays-27b-more-for-energy-amid-iran-war"
-      ]
     },
     {
       "headline": "Gulf Stock Markets Edge Higher Despite Stalled Iran Diplomacy",
@@ -3115,24 +3149,6 @@
       "source": "Haaretz",
       "url": "https://www.haaretz.com/world-news/europe/2026-04-25/ty-article/.premium/u-k-greens-polanski-slams-starmer-for-weaponizing-antisemitism-after-rebuke/0000019d-c136-ded5-abdd-f53e1ede0000",
       "timestamp": "2026-04-25T16:07:00+03:00"
-    },
-    {
-      "headline": "Europe Prepares for Prolonged Ukraine War With No Clear End Strategy",
-      "summary": "With US attention focused on Iran, neither Russia nor Ukraine has a path to victory or negotiation. European leaders are bracing for a protracted conflict as American diplomatic resources shift elsewhere.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/25/world/europe/ukraine-russia-europe-european-union.html",
-      "timestamp": "2026-04-25T16:04:00+03:00"
-    },
-    {
-      "headline": "Everest flood warning system abandoned, thousands at risk",
-      "summary": "A multi-million dollar flood warning system at Imja glacial lake near Everest has not been maintained since 2016, leaving local communities vulnerable to outburst floods.",
-      "emoji": "🏔️",
-      "category": "Climate",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/czjwr93vrrzo",
-      "timestamp": "2026-04-25T15:03:00+03:00"
     }
   ]
 }
