@@ -283,6 +283,7 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
                     <div class="subtab-dropdown-option active" data-region="global" onclick="switchSubTab('global')">Global</div>
                     <div class="subtab-dropdown-option" data-region="turkey" onclick="switchSubTab('turkey')">Türkiye</div>
                     <div class="subtab-dropdown-option" data-region="energy" onclick="switchSubTab('energy')">Energy</div>
+                    <div class="subtab-dropdown-option" data-region="tech" onclick="switchSubTab('tech')">Tech</div>
                 </div>
             </div>
 
@@ -307,6 +308,18 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
                 </div>
                 <div id="energyContent">
                     <p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading Energy Brief…</p>
+                </div>
+            </div>
+
+            <!-- TECH sub-content -->
+            <div id="subtab-tech" class="subtab-content">
+                <div class="date-timeline">
+                    <button class="timeline-arrow" id="techPrevBtn" onclick="shiftTechTimeline(-1)">←</button>
+                    <div class="timeline-dates" id="techTimelineDates"></div>
+                    <button class="timeline-arrow" id="techNextBtn" onclick="shiftTechTimeline(1)">→</button>
+                </div>
+                <div id="techContent">
+                    <p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading Tech Brief…</p>
                 </div>
             </div>
 
@@ -361,7 +374,7 @@ function switchSubTab(sub) {
     document.querySelectorAll('.subtab-content').forEach(c => c.classList.remove('active'));
     document.getElementById('subtab-' + sub).classList.add('active');
     // Update dropdown toggle text
-    var labels = { 'global': 'Global', 'turkey': 'Türkiye', 'energy': 'Energy' };
+    var labels = { 'global': 'Global', 'turkey': 'Türkiye', 'energy': 'Energy', 'tech': 'Tech' };
     document.getElementById('regionToggle').textContent = labels[sub] || sub;
     // Mark active option
     document.querySelector('.subtab-dropdown-option[data-region="' + sub + '"]').classList.add('active');
@@ -371,6 +384,7 @@ function switchSubTab(sub) {
     if (sub === 'global') loadAnalysisIndex();
     if (sub === 'turkey') loadTurkeyIndex();
     if (sub === 'energy') loadEnergyIndex();
+    if (sub === 'tech') loadTechIndex();
 
 }
 
@@ -881,6 +895,95 @@ function loadEnergyIndex() {
       })
       .catch(err => {
         document.getElementById('energyContent').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load Energy Brief index.</p>';
+      });
+}
+
+
+// ============ TECH BRIEF ============
+var techBriefs = [];
+var techCurrentIndex = 0;
+var techViewOffset = 0;
+
+function renderTechTimeline() {
+    const container = document.getElementById('techTimelineDates');
+    const start = techViewOffset;
+    const end = Math.min(start + DATES_VISIBLE, techBriefs.length);
+    let html = '';
+    for (let i = start; i < end; i++) {
+        const b = techBriefs[i];
+        const active = i === techCurrentIndex ? ' active' : '';
+        html += '<a href="#" class="timeline-date' + active + '" onclick="selectTechDate(' + i + '); return false;" title="' + (b.title || '') + '">' + formatDateShort(b.date) + '</a>';
+        if (i < end - 1) html += '<div class="timeline-divider"></div>';
+    }
+    container.innerHTML = html;
+    document.getElementById('techPrevBtn').disabled = techViewOffset <= 0;
+    document.getElementById('techNextBtn').disabled = end >= techBriefs.length;
+}
+
+function shiftTechTimeline(dir) {
+    const newOffset = techViewOffset + dir;
+    if (newOffset < 0 || newOffset + DATES_VISIBLE > techBriefs.length) return;
+    techViewOffset = newOffset;
+    renderTechTimeline();
+}
+
+function selectTechDate(index) {
+    techCurrentIndex = index;
+    renderTechTimeline();
+    loadTechBrief(techBriefs[index].date);
+}
+
+function loadTechBrief(dateSlug) {
+    const container = document.getElementById('techContent');
+    container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading Tech Brief…</p>';
+    
+    fetch('tech/' + dateSlug + '.json?v=' + Date.now())
+      .then(r => r.json())
+      .then(brief => {
+        const dateObj = new Date(brief.date + 'T00:00:00');
+        const dateStr = dateObj.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+        
+        let html = '<h1 class="brief-headline">' + brief.title + '</h1>' +
+          '<div class="brief-subhead">' + brief.subhead + '</div>' +
+          '<div class="brief-meta"><time datetime="' + brief.date + '">' + dateStr + '</time> · Frontion News Technology & Power Analysis</div>';
+        
+        brief.sections.forEach((sec, i) => {
+          if (i > 0) html += '<hr class="section-divider">';
+          html += '<div class="analysis-section"><h2 class="section-heading">' + sec.heading + '</h2>' +
+            '<div class="section-body">' + sec.body + '</div>' +
+            '<div class="why-it-matters"><strong>Why it matters</strong> — ' + sec.whyItMatters + '</div></div>';
+        });
+        
+        if (brief.bottomLine) {
+          html += '<div class="bottom-line"><div class="bottom-line-kicker">Bottom Line</div><div class="bottom-line-body"><p>' + brief.bottomLine + '</p></div></div>';
+        }
+        if (brief.sources) {
+          html += '<div style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid var(--color-border-light);"><div style="font-family:var(--font-body);font-size:0.72rem;font-weight:700;letter-spacing:0.18em;text-transform:uppercase;color:var(--color-text-tertiary);margin-bottom:0.5rem;">Sources</div><div style="font-family:var(--font-serif);font-size:0.85rem;line-height:1.6;color:var(--color-text-tertiary);">' + brief.sources + '</div></div>';
+        }
+        
+        container.innerHTML = html;
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      })
+      .catch(err => {
+        container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load Tech Brief for this date.</p>';
+      });
+}
+
+function loadTechIndex() {
+    fetch('tech/index.json?v=' + Date.now())
+      .then(r => r.json())
+      .then(data => {
+        techBriefs = data;
+        if (techBriefs.length > 0) {
+          techCurrentIndex = 0;
+          renderTechTimeline();
+          loadTechBrief(techBriefs[0].date);
+        } else {
+          document.getElementById('techContent').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">No Tech Brief available yet.</p>';
+        }
+      })
+      .catch(err => {
+        document.getElementById('techContent').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load Tech Brief index.</p>';
       });
 }
 
