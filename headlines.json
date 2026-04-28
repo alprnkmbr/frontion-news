@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-04-28T17:10:34+03:00",
+  "lastUpdated": "2026-04-28T18:05:30+03:00",
   "headlines": [
+    {
+      "headline": "World Bank Forecasts 24% Surge in Energy Prices",
+      "summary": "Energy prices are projected to surge 24% in 2026 to their highest level since Russia's 2022 invasion of Ukraine, driven by Middle East war disruptions. Commodity prices expected to hit four-year highs.",
+      "emoji": "💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/world-bank-forecasts-24-surge-energy-prices-2026-due-middle-east-war-2026-04-28/",
+      "timestamp": "2026-04-28T18:03:00+03:00"
+    },
+    {
+      "headline": "Iran's Revolutionary Guards Seize Wartime Power",
+      "summary": "Two months into war with the US and Israel, Iran's IRGC has displaced the Supreme Leader as the dominant power center, hardening Tehran's stance in ceasefire negotiations.",
+      "emoji": "🇮🇷",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/irans-guards-seize-wartime-power-blunting-supreme-leaders-role-2026-04-28/",
+      "timestamp": "2026-04-28T18:03:00+03:00"
+    },
+    {
+      "headline": "Euro Zone Inflation Expectations Surge on Iran War",
+      "summary": "Euro zone consumers have sharply raised inflation expectations due to the Iran war fallout, while economic growth is faltering—creating a policy dilemma for the European Central Bank.",
+      "emoji": "🇪🇺",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/euro-zone-consumers-sharply-lift-inflation-bets-ecb-survey-shows-2026-04-28/",
+      "timestamp": "2026-04-28T18:03:00+03:00"
+    },
     {
       "headline": "Belarus Frees Polish Journalist in Prisoner Swap",
       "summary": "Belarus released prominent journalist Andrzej Poczobut after five years in prison as part of a 10-person prisoner exchange with Poland, marking a rare diplomatic breakthrough amid ongoing tensions.",
@@ -8,24 +35,6 @@
       "category": "Europe",
       "source": "AP News",
       "url": "https://apnews.com/article/belarus-journalist-prisoner-freed-03b077dcb7af3d9af106d4235a51a176",
-      "timestamp": "2026-04-28T17:03:00+03:00"
-    },
-    {
-      "headline": "Powell Presides Over Likely Final Fed Meeting as Chair",
-      "summary": "Jerome Powell is expected to hold interest rates steady in what may be his last Federal Reserve meeting as chair, with debate intensifying over his eight-year tenure as the Trump administration prepares to nominate a successor.",
-      "emoji": "💵",
-      "category": "Economy",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/28/business/federal-reserve-chair-rates-warsh-powell.html",
-      "timestamp": "2026-04-28T17:03:00+03:00"
-    },
-    {
-      "headline": "UAE Announces Exit from OPEC and OPEC+",
-      "summary": "The United Arab Emirates confirmed it will leave OPEC and OPEC+ effective May 1, 2026, citing strategic priorities and the need for production flexibility as the Iran conflict disrupts Gulf energy exports.",
-      "emoji": "🇦🇪",
-      "category": "Energy",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/cj4pxwlr52yo",
       "timestamp": "2026-04-28T17:03:00+03:00"
     },
     {
@@ -80,7 +89,23 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/view-uae-leave-opec-opec-oil-producer-groups-2026-04-28/",
-      "timestamp": "2026-04-28T16:03:00+03:00"
+      "timestamp": "2026-04-28T16:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/cj4pxwlr52yo",
+          "angle": "UAE Announces Exit from OPEC and OPEC+",
+          "summary": "The United Arab Emirates confirmed it will leave OPEC and OPEC+ effective May 1, 2026, citing strategic priorities and the need for production flexibility as the Iran conflict disrupts Gulf energy exports."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/view-uae-leave-opec-opec-oil-producer-groups-2026-04-28/",
+        "https://www.bbc.co.uk/news/articles/cj4pxwlr52yo"
+      ]
     },
     {
       "headline": "Ukraine Strikes Russian Tuapse Oil Refinery Again",
@@ -993,35 +1018,19 @@
       "timestamp": "2026-04-28T02:05:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/stock-markets-trump-oil-iran-war-1901470c64a6055c80656fad64f863e5",
-          "angle": "Asian markets slide as Iran war talks stall and oil prices rise",
-          "summary": "Stocks retreated across Asia and oil prices climbed as diplomatic efforts to end the Iran war appeared stalled. Japan's Nikkei fell 1.1% after the Bank of Japan held rates steady amid inflation concerns."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/two-months-into-iran-war-economic-strain-mounts-across-emerging-markets-2026-04-27/",
-          "angle": "Iran war economic strain spreads across emerging markets",
-          "summary": "Two months into the Iran war, emerging and developing economies are feeling the economic toll through rising inflation, fiscal strains, and trade disruptions. The conflict has extended its reach beyond the Middle East, affecting markets across Asia, Africa, and Latin America."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/iran-war-fertiliser-squeeze-could-spell-trouble-next-years-grain-harvests-2026-04-27/",
-          "angle": "Iran war drives fertiliser prices up, threatening global grain harvests",
-          "summary": "Farmers worldwide face a second surge in fertiliser prices in four years due to the Iran war, with grain prices too low to cushion the blow from the supply crunch, putting global food production at risk."
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/04/28/business/federal-reserve-chair-rates-warsh-powell.html",
+          "angle": "Powell Presides Over Likely Final Fed Meeting as Chair",
+          "summary": "Jerome Powell is expected to hold interest rates steady in what may be his last Federal Reserve meeting as chair, with debate intensifying over his eight-year tenure as the Trump administration prepares to nominate a successor."
         }
       ],
       "sources": [
         "Reuters",
-        "AP News",
-        "Reuters",
-        "Reuters"
+        "New York Times"
       ],
       "urls": [
         "https://www.reuters.com/world/asia-pacific/dollar-advances-us-iran-talks-suffer-setback-2026-04-27/",
-        "https://apnews.com/article/stock-markets-trump-oil-iran-war-1901470c64a6055c80656fad64f863e5",
-        "https://www.reuters.com/world/asia-pacific/two-months-into-iran-war-economic-strain-mounts-across-emerging-markets-2026-04-27/",
-        "https://www.reuters.com/world/china/iran-war-fertiliser-squeeze-could-spell-trouble-next-years-grain-harvests-2026-04-27/"
+        "https://www.nytimes.com/2026/04/28/business/federal-reserve-chair-rates-warsh-powell.html"
       ]
     },
     {
@@ -3082,15 +3091,6 @@
       "source": "NPR",
       "url": "https://www.knpr.org/2026-04-25/former-mit-president-says-the-us-is-losing-the-innovation-race-to-china",
       "timestamp": "2026-04-26T06:10:00+03:00"
-    },
-    {
-      "headline": "Lebanese Civilians Question Fragile Ceasefire as Violence Simmers in South",
-      "summary": "Residents in southern Lebanon express skepticism about the extended ceasefire between Israel and Hezbollah, as continuing attacks and tensions threaten to reignite the conflict.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/25/world/middleeast/lebanon-israel-cease-fire.html",
-      "timestamp": "2026-04-26T06:03:00+03:00"
     }
   ]
 }
