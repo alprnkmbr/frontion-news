@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-04-28T23:04:34+03:00",
+  "lastUpdated": "2026-04-29T00:04:29+03:00",
   "headlines": [
+    {
+      "headline": "King Charles addresses US Congress, calls for unity in \"dangerous era\"",
+      "summary": "King Charles III became only the second British monarch to address the US Congress, emphasizing the \"truly unique\" UK-US relationship and declaring America \"lies at the heart of NATO\" amid global tensions. He received 12 standing ovations during the historic speech marking America's 250th anniversary.",
+      "emoji": "🇬🇧🇺🇸",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/uk/king-charles-promote-british-american-unity-rare-speech-congress-2026-04-28/",
+      "timestamp": "2026-04-29T00:03:00+03:00"
+    },
+    {
+      "headline": "Iranian Revolutionary Guards seize wartime power, diminishing Supreme Leader's authority",
+      "summary": "Two months into the war with the US and Israel, Iran no longer has a single undisputed clerical arbiter at the pinnacle of power—a significant break from the Islamic Republic's structure that could be hardening Tehran's stance in talks with Washington.",
+      "emoji": "🇮🇷⚔️",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/irans-guards-seize-wartime-power-blunting-supreme-leaders-role-2026-04-28/",
+      "timestamp": "2026-04-29T00:03:00+03:00"
+    },
+    {
+      "headline": "Putin accuses Ukraine of intensifying attacks on Russian civilian infrastructure",
+      "summary": "President Vladimir Putin said Ukraine has stepped up attacks on civilian targets in Russia, citing a Ukrainian drone strike that caused a major fire at the Tuapse oil refinery on the Black Sea coast.",
+      "emoji": "🇷🇺🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/putin-says-ukraine-has-intensified-attacks-civilian-targets-russia-2026-04-28/",
+      "timestamp": "2026-04-29T00:03:00+03:00"
+    },
+    {
+      "headline": "US imposes sanctions on 35 entities for aiding Iran's sanctions evasion network",
+      "summary": "The US government escalated pressure on Tehran by sanctioning 35 individuals and entities involved in Iran's shadow banking sector, and threatened sanctions against Chinese \"teapot\" refineries paying tolls for Hormuz shipments.",
+      "emoji": "🇺🇸💰",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/us-imposes-sanctions-35-individuals-entities-aiding-irans-sanctions-evasions-2026-04-28/",
+      "timestamp": "2026-04-29T00:03:00+03:00"
+    },
+    {
+      "headline": "US and Iran clash at UN after Tehran appointed to nuclear non-proliferation role",
+      "summary": "The United States and Iran clashed at the United Nations over Tehran's nuclear program after Iran was selected as one of the vice presidents at a month-long conference reviewing the Nuclear Non-Proliferation Treaty.",
+      "emoji": "🇺🇳⚛️",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-iran-clash-un-after-tehran-gets-nuclear-non-proliferation-role-2026-04-27/",
+      "timestamp": "2026-04-29T00:03:00+03:00"
+    },
     {
       "headline": "US Gasoline Prices Near Four-Year High as Iran War Disrupts Supply",
       "summary": "Average US pump prices have reached their highest level in nearly four years following the US-Israel attack on Iran, reflecting the ongoing energy crisis. The American Automobile Association data shows sustained pressure on fuel costs.",
@@ -8,7 +53,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/us-pump-prices-near-4-year-high-iran-war-disruption-refinery-outages-2026-04-28/",
-      "timestamp": "2026-04-28T23:03:00+03:00"
+      "timestamp": "2026-04-28T23:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/european-aluminium-billet-premium-doubles-after-iran-war-disrupts-supply-2026-04-28/",
+          "angle": "European Aluminium Premium Doubles as Iran War Disrupts Supply",
+          "summary": "The premium for aluminium billet in Europe has doubled since the Iran war began, with two months of disrupted Middle East supply squeezing construction and transport industries."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/us-pump-prices-near-4-year-high-iran-war-disruption-refinery-outages-2026-04-28/",
+        "https://www.reuters.com/business/energy/european-aluminium-billet-premium-doubles-after-iran-war-disrupts-supply-2026-04-28/"
+      ]
     },
     {
       "headline": "BP Profit Doubles to $3.2 Billion on Iran War Oil Trading",
@@ -17,15 +78,6 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/bp-profit-beats-expectations-32-billion-2026-04-28/",
-      "timestamp": "2026-04-28T23:03:00+03:00"
-    },
-    {
-      "headline": "European Aluminium Premium Doubles as Iran War Disrupts Supply",
-      "summary": "The premium for aluminium billet in Europe has doubled since the Iran war began, with two months of disrupted Middle East supply squeezing construction and transport industries.",
-      "emoji": "🏭",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/european-aluminium-billet-premium-doubles-after-iran-war-disrupts-supply-2026-04-28/",
       "timestamp": "2026-04-28T23:03:00+03:00"
     },
     {
@@ -2865,90 +2917,6 @@
       "source": "The Hill",
       "url": "https://thehill.com/homenews/ap/ap-international/ap-syrias-first-public-trial-of-assad-era-officials-opens-in-damascus/",
       "timestamp": "2026-04-26T14:10:00+03:00"
-    },
-    {
-      "headline": "Mexico: US agents killed in crash not authorized for local operations",
-      "summary": "Two US federal agents, reportedly CIA, died in a car crash after a Mexican-led operation to destroy a drug lab. Mexican authorities say they were not permitted to operate in the country.",
-      "emoji": "🇲🇽",
-      "category": "Diplomacy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/mexico-cia-agents-crash-authorized-us-d3c3cb0e82103e45751baa9df8f5cd90",
-      "timestamp": "2026-04-26T14:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/4/25/presence-of-reported-us-cia-agents-killed-in-crash-not-authorised-mexico",
-          "angle": "Mexico Says US Agents Killed in Crash Weren't Authorized to Operate There",
-          "summary": "The Mexican government stated that two US federal agents - widely reported to be CIA officers - killed in a car crash during an anti-narcotics raid were not authorized to operate on Mexican territory. One had entered as a visitor, the other on a diplomatic passport."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://apnews.com/article/mexico-cia-agents-crash-authorized-us-d3c3cb0e82103e45751baa9df8f5cd90",
-        "https://www.aljazeera.com/news/2026/4/25/presence-of-reported-us-cia-agents-killed-in-crash-not-authorised-mexico"
-      ]
-    },
-    {
-      "headline": "Palestinians hold local elections in West Bank and Gaza",
-      "summary": "Local elections conducted in the occupied West Bank and one Gazan city, though Hamas and other groups did not participate.",
-      "emoji": "🇵🇸",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo",
-      "timestamp": "2026-04-26T14:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo",
-          "angle": "Palestinians vote in local elections across West Bank and Gaza",
-          "summary": "Local elections held in the occupied West Bank and one Gazan city, though Hamas and other groups are not participating in what marks a rare electoral moment."
-        },
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/04/24/world/middleeast/gaza-local-election.html",
-          "angle": "Gaza to hold first local election in two decades",
-          "summary": "Residents of Deir al-Balah are set to vote in municipal elections, the first in Gaza in 20 years. Hamas is not participating in the elections scheduled for this weekend."
-        },
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/04/24/world/middleeast/gaza-elections-deir-al-balah.html",
-          "angle": "Gaza Set for First Local Elections in Two Decades",
-          "summary": "Gaza is preparing to hold its first local elections in nearly 20 years. Hamas is not participating in the municipal elections in Deir al-Balah scheduled for this weekend."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC",
-        "New York Times",
-        "New York Times"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/cn4vej3x0wxo",
-        "https://www.bbc.com/news/articles/cn4vej3x0wxo",
-        "https://www.nytimes.com/2026/04/24/world/middleeast/gaza-local-election.html",
-        "https://www.nytimes.com/2026/04/24/world/middleeast/gaza-elections-deir-al-balah.html"
-      ]
-    },
-    {
-      "headline": "Afghanistan urges Afghans stuck in Qatar to return home",
-      "summary": "Taliban government calls on Afghans who helped US forces and are now stranded in Qatar to return to Afghanistan.",
-      "emoji": "🇦🇫",
-      "category": "Diplomacy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/afghanistan-refugees-resettlement-trump-congo-5b8935d0aa96f89556d75a34d6510648",
-      "timestamp": "2026-04-26T14:03:00+03:00"
-    },
-    {
-      "headline": "Venezuela prisoner release scheme nearing end, rights groups warn",
-      "summary": "More than 500 political prisoners remain jailed as amnesty program winds down amid criticism from human rights organizations.",
-      "emoji": "🇻🇪",
-      "category": "Latin America",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0kr62z7z6lo",
-      "timestamp": "2026-04-26T14:03:00+03:00"
     }
   ]
 }
