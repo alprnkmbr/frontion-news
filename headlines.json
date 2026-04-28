@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-04-28T12:11:26+03:00",
+  "lastUpdated": "2026-04-28T13:04:46+03:00",
   "headlines": [
+    {
+      "headline": "King Charles to address US Congress in rare speech amid Iran war tensions",
+      "summary": "Britain's King Charles will press the importance of unity with the United States in an address to Congress during a state visit, aiming to repair deep divisions between the two countries over the war in Iran.",
+      "emoji": "🇬🇧",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/uk/king-charles-promote-british-american-unity-rare-speech-congress-2026-04-28/",
+      "timestamp": "2026-04-28T13:15:00+03:00"
+    },
+    {
+      "headline": "Reuters investigation reveals Ukrainian teens accused of betraying country",
+      "summary": "More than 1,100 Ukrainians have been accused of betraying their country since Russia's invasion, with one in five being minors. The investigation examines how children can be seen as both perpetrators and victims.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/investigations/ukrainian-teens-are-committing-acts-betrayal-how-should-they-be-judged-2026-04-28/",
+      "timestamp": "2026-04-28T13:15:00+03:00"
+    },
+    {
+      "headline": "El Nino weather pattern threatens global energy markets",
+      "summary": "Major meteorological services forecast a strong El Nino pattern from next month, expected to impact global temperatures and rainfall trends while spurring shifts in coal and natural gas consumption across key regions.",
+      "emoji": "🌡️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/global-energy-markets-set-further-test-el-nino-looms-2026-04-28/",
+      "timestamp": "2026-04-28T13:15:00+03:00"
+    },
+    {
+      "headline": "Media freedom under sustained attack across EU, report finds",
+      "summary": "Journalists face rising threats while media ownership is concentrated in fewer hands, a leading civil liberties group warns. Public trust in media has dropped significantly across European Union member states.",
+      "emoji": "📰",
+      "category": "Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/media/2026/apr/28/media-freedom-under-sustained-attack-across-eu-as-public-trust-drops-report-finds",
+      "timestamp": "2026-04-28T13:15:00+03:00"
+    },
+    {
+      "headline": "Republicans brace for brutal midterms as Trump popularity slips",
+      "summary": "President Trump's approval ratings are down, gas prices are up, and congressional Republicans are heading to the exits in record numbers while Democratic enthusiasm rises ahead of November midterm elections.",
+      "emoji": "🇺🇸",
+      "category": "US Politics",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/28/us/politics/republicans-midterms-trump-popularity-decline.html",
+      "timestamp": "2026-04-28T13:15:00+03:00"
+    },
     {
       "headline": "Israel Establishes Buffer Zone in Southern Lebanon, Displacing Civilians",
       "summary": "Israeli forces have created a \"Yellow Line\" buffer zone south of the Litani River in southern Lebanon, forcing residents to flee and raising concerns of long-term displacement amid ongoing conflict with Hezbollah.",
@@ -17,7 +62,23 @@
       "category": "Technology",
       "source": "TRT World",
       "url": "https://www.trtworld.com/article/54768d9b8111",
-      "timestamp": "2026-04-28T12:08:00+03:00"
+      "timestamp": "2026-04-28T12:08:00+03:00",
+      "perspectives": [
+        {
+          "source": "MSN",
+          "url": "https://www.msn.com/en-us/technology/artificial-intelligence/google-workers-petition-ceo-to-refuse-classified-ai-work-with-pentagon/ar-AA21QEnu?ocid=BingNewsVerp",
+          "angle": "Google employees petition CEO to refuse classified AI work with Pentagon",
+          "summary": "Hundreds of Google AI researchers have signed a letter urging CEO Sundar Pichai to refuse classified military AI work, reigniting debates about tech company involvement in defense projects."
+        }
+      ],
+      "sources": [
+        "TRT World",
+        "MSN"
+      ],
+      "urls": [
+        "https://www.trtworld.com/article/54768d9b8111",
+        "https://www.msn.com/en-us/technology/artificial-intelligence/google-workers-petition-ceo-to-refuse-classified-ai-work-with-pentagon/ar-AA21QEnu?ocid=BingNewsVerp"
+      ]
     },
     {
       "headline": "Russia to Host International Security Forum with 180+ Foreign Delegations",
@@ -35,7 +96,23 @@
       "category": "Energy",
       "source": "Al Arabiya",
       "url": "https://english.alarabiya.net/business/energy/2026/04/28/-lng-tanker-crosses-strait-of-hormuz-for-first-time-since-iran-war-shiptracking-data-",
-      "timestamp": "2026-04-28T12:08:00+03:00"
+      "timestamp": "2026-04-28T12:08:00+03:00",
+      "perspectives": [
+        {
+          "source": "Oil Price",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/First-LNG-Tanker-Breaks-Hormuz-Blockade.html",
+          "angle": "First LNG Tanker Breaks Through Hormuz Blockade",
+          "summary": "An LNG vessel successfully transited the Strait of Hormuz for the first time since February, signaling a tentative reopening of the critical waterway. The tanker Mubaraz loaded in the UAE and is now nearing India, though Qatar's LNG capacity remains severely damaged by Iranian missile attacks."
+        }
+      ],
+      "sources": [
+        "Al Arabiya",
+        "Oil Price"
+      ],
+      "urls": [
+        "https://english.alarabiya.net/business/energy/2026/04/28/-lng-tanker-crosses-strait-of-hormuz-for-first-time-since-iran-war-shiptracking-data-",
+        "https://oilprice.com/Latest-Energy-News/World-News/First-LNG-Tanker-Breaks-Hormuz-Blockade.html"
+      ]
     },
     {
       "headline": "China Blocks Meta's $2B Acquisition of AI Startup Manus",
@@ -171,15 +248,6 @@
         "https://www.reuters.com/world/asia-pacific/boj-governor-uedas-comments-news-conference-2026-04-28/",
         "https://asia.nikkei.com/economy/bank-of-japan/boj-stands-pat-in-split-vote-boosts-inflation-forecast-to-2.8"
       ]
-    },
-    {
-      "headline": "First LNG Tanker Breaks Through Hormuz Blockade",
-      "summary": "An LNG vessel successfully transited the Strait of Hormuz for the first time since February, signaling a tentative reopening of the critical waterway. The tanker Mubaraz loaded in the UAE and is now nearing India, though Qatar's LNG capacity remains severely damaged by Iranian missile attacks.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Oil Price",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/First-LNG-Tanker-Breaks-Hormuz-Blockade.html",
-      "timestamp": "2026-04-28T10:05:00+03:00"
     },
     {
       "headline": "North Korea Executions Doubled During COVID Pandemic",
@@ -1071,15 +1139,6 @@
       "category": "Europe",
       "source": "Anadolu Agency",
       "url": "https://www.aa.com.tr/en/europe/poland-s-sikorski-urges-eu-funded-rapid-reaction-force-for-neighborhood-crisis/3919691",
-      "timestamp": "2026-04-27T20:05:00+03:00"
-    },
-    {
-      "headline": "Google employees petition CEO to refuse classified AI work with Pentagon",
-      "summary": "Hundreds of Google AI researchers have signed a letter urging CEO Sundar Pichai to refuse classified military AI work, reigniting debates about tech company involvement in defense projects.",
-      "emoji": "🤖🏛️",
-      "category": "Technology",
-      "source": "MSN",
-      "url": "https://www.msn.com/en-us/technology/artificial-intelligence/google-workers-petition-ceo-to-refuse-classified-ai-work-with-pentagon/ar-AA21QEnu?ocid=BingNewsVerp",
       "timestamp": "2026-04-27T20:05:00+03:00"
     },
     {
@@ -3058,40 +3117,6 @@
         "https://asia.nikkei.com/business/commodities/chinese-tungsten-export-restrictions-throw-hobby-world-off-the-mark",
         "https://www.npr.org/2026/04/28/nx-s1-5798584/chinas-supply-chains-hit-by-iran-war"
       ]
-    },
-    {
-      "headline": "Islamabad bears the cost of Pakistan mediates US-Iran negotiations",
-      "summary": "Pakistani capital experiences semi-lockdown conditions as the country attempts to broker peace between Washington and Tehran. Next round of talks remains uncertain as daily life disrupted.",
-      "emoji": "🇵🇰",
-      "category": "Diplomacy",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/islamabad-residents-bear-cost-of-pakistan-s-us-iran-mediation",
-      "timestamp": "2026-04-25T20:15:00+03:00",
-      "perspectives": [
-        {
-          "source": "Straits Times",
-          "url": "https://www.straitstimes.com/world/middle-east/iran-minister-leaves-pakistan-heads-to-russia-for-more-talks",
-          "angle": "Iran Foreign Minister Heads to Russia After Pakistan Talks Amid Stalled US Negotiations",
-          "summary": "Iranian Foreign Minister Abbas Araghchi left Pakistan for Russia after meeting Pakistani officials to discuss ending the war with the US, as Tehran continues diplomatic efforts despite Trump canceling his envoys planned trip to Islamabad."
-        }
-      ],
-      "sources": [
-        "Nikkei Asia",
-        "Straits Times"
-      ],
-      "urls": [
-        "https://asia.nikkei.com/politics/islamabad-residents-bear-cost-of-pakistan-s-us-iran-mediation",
-        "https://www.straitstimes.com/world/middle-east/iran-minister-leaves-pakistan-heads-to-russia-for-more-talks"
-      ]
-    },
-    {
-      "headline": "Low Earth orbit control could determine future world order, Chinese analysis warns",
-      "summary": "A Chinese strategic analysis highlights Starlink capabilities in conflict zones and warns of a new form of power that could allow or cut connectivity in real time, reshaping geopolitical leverage.",
-      "emoji": "🛰️🌍",
-      "category": "Geopolitics",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3351345/will-future-world-order-be-determined-who-controls-low-earth-orbit",
-      "timestamp": "2026-04-25T20:15:00+03:00"
     }
   ]
 }
