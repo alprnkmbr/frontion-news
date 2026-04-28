@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-04-28T12:06:20+03:00",
+  "lastUpdated": "2026-04-28T12:11:26+03:00",
   "headlines": [
+    {
+      "headline": "Israel Establishes Buffer Zone in Southern Lebanon, Displacing Civilians",
+      "summary": "Israeli forces have created a \"Yellow Line\" buffer zone south of the Litani River in southern Lebanon, forcing residents to flee and raising concerns of long-term displacement amid ongoing conflict with Hezbollah.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/middle-east/disguised-occupation-in-lebanon-israel-strips-life-along-yellow-line-in-south/3920155",
+      "timestamp": "2026-04-28T12:08:00+03:00"
+    },
+    {
+      "headline": "Hundreds of Google Employees Protest Pentagon AI Collaboration",
+      "summary": "Google staff signed an open letter urging CEO Sundar Pichai not to allow AI tools for classified Pentagon work, warning of potential misuse in lethal autonomous weapons and surveillance.",
+      "emoji": "💻",
+      "category": "Technology",
+      "source": "TRT World",
+      "url": "https://www.trtworld.com/article/54768d9b8111",
+      "timestamp": "2026-04-28T12:08:00+03:00"
+    },
+    {
+      "headline": "Russia to Host International Security Forum with 180+ Foreign Delegations",
+      "summary": "Moscow will host its first International Security Forum in late May, bringing together security council secretaries, intelligence chiefs, and defense industry representatives from over 180 countries to showcase Russian military technology.",
+      "emoji": "🇷🇺",
+      "category": "Defense Industry",
+      "source": "TASS",
+      "url": "https://tass.com/defense/2123291",
+      "timestamp": "2026-04-28T12:08:00+03:00"
+    },
+    {
+      "headline": "First LNG Tanker Crosses Strait of Hormuz Since Iran War Began",
+      "summary": "A liquefied natural gas tanker managed by UAE state energy company ADNOC has crossed the Strait of Hormuz for the first time since the conflict started, according to ship-tracking data, signaling a potential easing of the blockade.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Al Arabiya",
+      "url": "https://english.alarabiya.net/business/energy/2026/04/28/-lng-tanker-crosses-strait-of-hormuz-for-first-time-since-iran-war-shiptracking-data-",
+      "timestamp": "2026-04-28T12:08:00+03:00"
+    },
     {
       "headline": "China Blocks Meta's $2B Acquisition of AI Startup Manus",
       "summary": "China's National Development and Reform Commission blocked Meta's acquisition of AI startup Manus, citing national security concerns. The move signals Beijing's tighter control over advanced technology transfers amid U.S.-China AI rivalry.",
@@ -8,7 +44,23 @@
       "category": "US-China",
       "source": "AP News",
       "url": "https://apnews.com/article/china-meta-manus-ai-acquisition-5f8012791f86f719a24a3ebac06d9b0a",
-      "timestamp": "2026-04-28T12:03:00+03:00"
+      "timestamp": "2026-04-28T12:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/27/china-blocks-us-tech-giant-meta-from-acquiring-ai-startup-manus",
+          "angle": "China Blocks Meta From Acquiring AI Startup Manus",
+          "summary": "Beijing tightened scrutiny of AI industry amid intensifying geopolitical rivalry with the US over technology, moving to block Meta from acquiring the AI startup."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://apnews.com/article/china-meta-manus-ai-acquisition-5f8012791f86f719a24a3ebac06d9b0a",
+        "https://www.aljazeera.com/news/2026/4/27/china-blocks-us-tech-giant-meta-from-acquiring-ai-startup-manus"
+      ]
     },
     {
       "headline": "Australia to Tax Meta, Google, TikTok to Fund Journalism",
@@ -26,24 +78,6 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/uk/uk-pm-starmer-faces-vote-possible-parliamentary-probe-over-mandelson-times-2026-04-27/",
-      "timestamp": "2026-04-28T12:03:00+03:00"
-    },
-    {
-      "headline": "King Charles Addresses Congress as US-UK Relations Strain Over Iran War",
-      "summary": "King Charles III addressed the U.S. Congress during a state visit marking 250 years since American independence, at a time of tension between the two nations over Britain's refusal to join the U.S.-Israel war against Iran.",
-      "emoji": "🇬🇧",
-      "category": "Diplomacy",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/04/28/nx-s1-5800874/trump-king-charles-relationship-congress-state-dinner",
-      "timestamp": "2026-04-28T12:03:00+03:00"
-    },
-    {
-      "headline": "China's Supply Chains Strain Under Iran War Pressure",
-      "summary": "While China has been somewhat insulated from the immediate energy shock of the U.S.-Iran conflict, Beijing's supply chains are feeling the strain as global trade disruptions ripple through manufacturing networks.",
-      "emoji": "🇨🇳",
-      "category": "Economy",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/04/28/nx-s1-5798584/chinas-supply-chains-hit-by-iran-war",
       "timestamp": "2026-04-28T12:03:00+03:00"
     },
     {
@@ -783,19 +817,19 @@
       "timestamp": "2026-04-28T01:03:00+03:00",
       "perspectives": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3351622/king-charles-arrives-us-trip-overshadowed-iran-quarrel-and-shooting",
-          "angle": "King Charles arrives in US for state visit overshadowed by Iran tensions and shooting",
-          "summary": "The British monarch's most consequential state visit marks 250 years since US independence, but is being conducted under the shadow of the Iran conflict and the White House Correspondents dinner shooting."
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/04/28/nx-s1-5800874/trump-king-charles-relationship-congress-state-dinner",
+          "angle": "King Charles Addresses Congress as US-UK Relations Strain Over Iran War",
+          "summary": "King Charles III addressed the U.S. Congress during a state visit marking 250 years since American independence, at a time of tension between the two nations over Britain's refusal to join the U.S.-Israel war against Iran."
         }
       ],
       "sources": [
         "Reuters",
-        "SCMP"
+        "NPR"
       ],
       "urls": [
         "https://www.reuters.com/world/uk/king-charles-jets-us-trip-overshadowed-by-iran-quarrel-shooting-2026-04-27/",
-        "https://www.scmp.com/news/world/united-states-canada/article/3351622/king-charles-arrives-us-trip-overshadowed-iran-quarrel-and-shooting"
+        "https://www.npr.org/2026/04/28/nx-s1-5800874/trump-king-charles-relationship-congress-state-dinner"
       ]
     },
     {
@@ -815,31 +849,6 @@
       "source": "Times of Israel",
       "url": "https://www.timesofisrael.com/idf-chief-slams-unethical-incidents-by-soldiers-says-discipline-eroded-in-recent-wars/",
       "timestamp": "2026-04-28T00:06:00+03:00"
-    },
-    {
-      "headline": "China Blocks Meta From Acquiring AI Startup Manus",
-      "summary": "Beijing tightened scrutiny of AI industry amid intensifying geopolitical rivalry with the US over technology, moving to block Meta from acquiring the AI startup.",
-      "emoji": "🇨🇳",
-      "category": "US-China",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/27/china-blocks-us-tech-giant-meta-from-acquiring-ai-startup-manus",
-      "timestamp": "2026-04-28T00:06:00+03:00",
-      "perspectives": [
-        {
-          "source": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/business/technology/beijing-blocks-meta-s-2bn-acquisition-of-manus-after-security-review",
-          "angle": "China blocks Meta acquisition of AI startup Manus",
-          "summary": "Beijing has prohibited Meta Platforms USD 2 billion acquisition of Chinese-founded agentic AI startup Manus after a national security review by the National Development and Reform Commission, blocking the deal on tech transfer grounds."
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "Nikkei Asia"
-      ],
-      "urls": [
-        "https://www.aljazeera.com/news/2026/4/27/china-blocks-us-tech-giant-meta-from-acquiring-ai-startup-manus",
-        "https://asia.nikkei.com/business/technology/beijing-blocks-meta-s-2bn-acquisition-of-manus-after-security-review"
-      ]
     },
     {
       "headline": "Taiwan Completes Major US Tank Deal With Final Abrams Shipment",
@@ -3026,6 +3035,31 @@
       "timestamp": "2026-04-25T21:03:00+03:00"
     },
     {
+      "headline": "China tungsten export restrictions hit global hobby and defense supply chains",
+      "summary": "Beijing limits exports of tungsten, a critical material for both hobby manufacturing and defense industries. The restrictions come amid broader trade tensions and supply chain realignments.",
+      "emoji": "🇨🇳⛓️",
+      "category": "Economy",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/commodities/chinese-tungsten-export-restrictions-throw-hobby-world-off-the-mark",
+      "timestamp": "2026-04-25T20:15:00+03:00",
+      "perspectives": [
+        {
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/04/28/nx-s1-5798584/chinas-supply-chains-hit-by-iran-war",
+          "angle": "China's Supply Chains Strain Under Iran War Pressure",
+          "summary": "While China has been somewhat insulated from the immediate energy shock of the U.S.-Iran conflict, Beijing's supply chains are feeling the strain as global trade disruptions ripple through manufacturing networks."
+        }
+      ],
+      "sources": [
+        "Nikkei Asia",
+        "NPR"
+      ],
+      "urls": [
+        "https://asia.nikkei.com/business/commodities/chinese-tungsten-export-restrictions-throw-hobby-world-off-the-mark",
+        "https://www.npr.org/2026/04/28/nx-s1-5798584/chinas-supply-chains-hit-by-iran-war"
+      ]
+    },
+    {
       "headline": "Islamabad bears the cost of Pakistan mediates US-Iran negotiations",
       "summary": "Pakistani capital experiences semi-lockdown conditions as the country attempts to broker peace between Washington and Tehran. Next round of talks remains uncertain as daily life disrupted.",
       "emoji": "🇵🇰",
@@ -3051,15 +3085,6 @@
       ]
     },
     {
-      "headline": "China tungsten export restrictions hit global hobby and defense supply chains",
-      "summary": "Beijing limits exports of tungsten, a critical material for both hobby manufacturing and defense industries. The restrictions come amid broader trade tensions and supply chain realignments.",
-      "emoji": "🇨🇳⛓️",
-      "category": "Economy",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/commodities/chinese-tungsten-export-restrictions-throw-hobby-world-off-the-mark",
-      "timestamp": "2026-04-25T20:15:00+03:00"
-    },
-    {
       "headline": "Low Earth orbit control could determine future world order, Chinese analysis warns",
       "summary": "A Chinese strategic analysis highlights Starlink capabilities in conflict zones and warns of a new form of power that could allow or cut connectivity in real time, reshaping geopolitical leverage.",
       "emoji": "🛰️🌍",
@@ -3067,40 +3092,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/news/china/military/article/3351345/will-future-world-order-be-determined-who-controls-low-earth-orbit",
       "timestamp": "2026-04-25T20:15:00+03:00"
-    },
-    {
-      "headline": "Ukraine and Russia Swap 193 Prisoners Each in UAE-Facilitated Exchange",
-      "summary": "Russia and Ukraine exchanged 193 prisoners of war each in a swap facilitated by the United States and UAE. The returned prisoners included soldiers, border guards, and police, some with injuries.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/ukraine-russia-swap-193-prisoners-war-each-us-uae-facilitated-exchange-2026-04-24/",
-      "timestamp": "2026-04-25T19:13:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/russia-ukraine-war-dnipro-odesa-drones-c8358dcd62b30de60708dc080c8ae562",
-          "angle": "Russia-Ukraine Exchange Deadly Attacks as Zelenskyy Calls for More Talks",
-          "summary": "Russian drone and missile strikes killed at least 3 and wounded 21 in Dnipro overnight. Both sides reported casualties in intensified fighting as Zelenskyy pushed for continued diplomatic engagement."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/ukraine-russia-swap-193-prisoners-war-each-us-uae-facilitated-exchange-2026-04-24/",
-        "https://apnews.com/article/russia-ukraine-war-dnipro-odesa-drones-c8358dcd62b30de60708dc080c8ae562"
-      ]
-    },
-    {
-      "headline": "HH-60W Jolly Green II helicopters to take on doomsday evacuation role in Washington",
-      "summary": "The US Air Force will modify its new combat rescue helicopters for VIP airlift and continuity of government operations, replacing aging UH-1N Twin Hueys.",
-      "emoji": "🇺🇸",
-      "category": "Defense Industry",
-      "source": "The War Zone",
-      "url": "https://www.twz.com/air/hh-60w-jolly-green-ii-vip-airlift-continuity-government",
-      "timestamp": "2026-04-25T18:10:00+03:00"
     }
   ]
 }
