@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-04-28T16:08:26+03:00",
+  "lastUpdated": "2026-04-28T17:10:34+03:00",
   "headlines": [
+    {
+      "headline": "Belarus Frees Polish Journalist in Prisoner Swap",
+      "summary": "Belarus released prominent journalist Andrzej Poczobut after five years in prison as part of a 10-person prisoner exchange with Poland, marking a rare diplomatic breakthrough amid ongoing tensions.",
+      "emoji": "🇧🇾",
+      "category": "Europe",
+      "source": "AP News",
+      "url": "https://apnews.com/article/belarus-journalist-prisoner-freed-03b077dcb7af3d9af106d4235a51a176",
+      "timestamp": "2026-04-28T17:03:00+03:00"
+    },
+    {
+      "headline": "Powell Presides Over Likely Final Fed Meeting as Chair",
+      "summary": "Jerome Powell is expected to hold interest rates steady in what may be his last Federal Reserve meeting as chair, with debate intensifying over his eight-year tenure as the Trump administration prepares to nominate a successor.",
+      "emoji": "💵",
+      "category": "Economy",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/28/business/federal-reserve-chair-rates-warsh-powell.html",
+      "timestamp": "2026-04-28T17:03:00+03:00"
+    },
+    {
+      "headline": "UAE Announces Exit from OPEC and OPEC+",
+      "summary": "The United Arab Emirates confirmed it will leave OPEC and OPEC+ effective May 1, 2026, citing strategic priorities and the need for production flexibility as the Iran conflict disrupts Gulf energy exports.",
+      "emoji": "🇦🇪",
+      "category": "Energy",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cj4pxwlr52yo",
+      "timestamp": "2026-04-28T17:03:00+03:00"
+    },
     {
       "headline": "Iranian Oil Tankers Cluster Near Chabahar as U.S. Blockade Tightens",
       "summary": "At least six Iranian tankers laden with oil are loitering near Chabahar port, caught between the Strait of Hormuz and the U.S. naval blockade line. The cluster suggests Iran continues loading oil but the U.S. interception is working to delay exports.",
@@ -71,7 +98,23 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/europes-jet-fuel-imports-middle-east-stop-raising-supply-crunch-fears-2026-04-28/",
-      "timestamp": "2026-04-28T16:03:00+03:00"
+      "timestamp": "2026-04-28T16:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Business Times",
+          "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/vietnam-gas-major-looks-us-iran-war-reorders-lpg-flows",
+          "angle": "Vietnam gas giant shifts LPG imports from Middle East to US amid Iran war",
+          "summary": "PetroVietnam Gas will import 66,000 tonnes of cooking fuel from US in May versus 44,000 from Middle East, as Iran war disrupts Hormuz Strait and forces Asian buyers to find new suppliers."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Business Times"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/europes-jet-fuel-imports-middle-east-stop-raising-supply-crunch-fears-2026-04-28/",
+        "https://www.businesstimes.com.sg/companies-markets/energy-commodities/vietnam-gas-major-looks-us-iran-war-reorders-lpg-flows"
+      ]
     },
     {
       "headline": "Philippines Confident US Commitment to Indo-Pacific Amid Iran War",
@@ -80,15 +123,6 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/philippines-not-concerned-iran-war-will-distract-us-region-top-defence-official-2026-04-28/",
-      "timestamp": "2026-04-28T16:03:00+03:00"
-    },
-    {
-      "headline": "King Charles Addresses US Congress in Rare Speech",
-      "summary": "King Charles III delivered a rare address to a joint meeting of Congress, emphasizing UK-US unity and shared democratic values amid strains over the Iran conflict and trade. Only the second British monarch to address Congress.",
-      "emoji": "🇬🇧",
-      "category": "Diplomacy",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/king-charles-trump-address-congress-white-house/",
       "timestamp": "2026-04-28T16:03:00+03:00"
     },
     {
@@ -214,19 +248,19 @@
       "timestamp": "2026-04-28T13:15:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/uk/king-charles-jets-us-trip-overshadowed-by-iran-quarrel-shooting-2026-04-27/",
-          "angle": "King Charles arrives in US for state visit amid Iran war tensions",
-          "summary": "Britain's King Charles and Queen Camilla began a four-day state visit to the US, meeting President Trump at the White House. The trip comes as the UK and US differ over the Iran war approach."
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/king-charles-trump-address-congress-white-house/",
+          "angle": "King Charles Addresses US Congress in Rare Speech",
+          "summary": "King Charles III delivered a rare address to a joint meeting of Congress, emphasizing UK-US unity and shared democratic values amid strains over the Iran conflict and trade. Only the second British monarch to address Congress."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "CBS News"
       ],
       "urls": [
         "https://www.reuters.com/world/uk/king-charles-promote-british-american-unity-rare-speech-congress-2026-04-28/",
-        "https://www.reuters.com/world/uk/king-charles-jets-us-trip-overshadowed-by-iran-quarrel-shooting-2026-04-27/"
+        "https://www.cbsnews.com/live-updates/king-charles-trump-address-congress-white-house/"
       ]
     },
     {
@@ -902,15 +936,6 @@
       "category": "Ukraine-Russia War",
       "source": "Kyiv Post",
       "url": "https://www.kyivpost.com/post/74881",
-      "timestamp": "2026-04-28T04:08:00+03:00"
-    },
-    {
-      "headline": "Vietnam gas giant shifts LPG imports from Middle East to US amid Iran war",
-      "summary": "PetroVietnam Gas will import 66,000 tonnes of cooking fuel from US in May versus 44,000 from Middle East, as Iran war disrupts Hormuz Strait and forces Asian buyers to find new suppliers.",
-      "emoji": "🇻🇳⛽",
-      "category": "Energy",
-      "source": "Business Times",
-      "url": "https://www.businesstimes.com.sg/companies-markets/energy-commodities/vietnam-gas-major-looks-us-iran-war-reorders-lpg-flows",
       "timestamp": "2026-04-28T04:08:00+03:00"
     },
     {
@@ -3066,118 +3091,6 @@
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/04/25/world/middleeast/lebanon-israel-cease-fire.html",
       "timestamp": "2026-04-26T06:03:00+03:00"
-    },
-    {
-      "headline": "Germany Readies Naval Units for Possible Hormuz Deployment",
-      "summary": "Germany is sending naval units to the Mediterranean in preparation for possible deployment in an international mission to reopen the Strait of Hormuz, which remains blocked by Iran.",
-      "emoji": "🇩🇪",
-      "category": "Europe",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-25/germany-readies-naval-units-for-possible-hormuz-mission-rp-says",
-      "timestamp": "2026-04-26T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Arabiya",
-          "url": "https://english.alarabiya.net/News/world/2026/04/25/germany-deploys-minesweeper-to-mediterranean-for-possible-hormuz-mission-defense-minister",
-          "angle": "Germany deploys minesweeper to Mediterranean for possible Strait of Hormuz mission",
-          "summary": "Germany's defense minister announced the deployment of a minesweeper to the Mediterranean Sea in preparation for a potential mission to the Strait of Hormuz, as European nations consider naval operations to secure the vital oil transit route."
-        },
-        {
-          "source": "Haaretz",
-          "url": "https://www.haaretz.com/israel-news/israel-security/2026-04-25/ty-article-live/report-israel-has-killed-15-people-in-lebanon-since-cease-fire-began-last-week/0000019d-c256-d2d7-af9f-daf6feec0000?liveBlogItemId=1394019704#1394019704",
-          "angle": "Germany Deploying Warships to Mediterranean for Possible Hormuz Mission",
-          "summary": "German navy vessels are being sent to the Mediterranean as Berlin considers a potential role in protecting shipping through the Strait of Hormuz amid Iran attacks on commercial vessels."
-        }
-      ],
-      "sources": [
-        "Bloomberg",
-        "Al Arabiya",
-        "Haaretz"
-      ],
-      "urls": [
-        "https://www.bloomberg.com/news/articles/2026-04-25/germany-readies-naval-units-for-possible-hormuz-mission-rp-says",
-        "https://english.alarabiya.net/News/world/2026/04/25/germany-deploys-minesweeper-to-mediterranean-for-possible-hormuz-mission-defense-minister",
-        "https://www.haaretz.com/israel-news/israel-security/2026-04-25/ty-article-live/report-israel-has-killed-15-people-in-lebanon-since-cease-fire-began-last-week/0000019d-c256-d2d7-af9f-daf6feec0000?liveBlogItemId=1394019704#1394019704"
-      ]
-    },
-    {
-      "headline": "Zelenskyy Signs Military-Industrial Agreement With Azerbaijan as Russian Attacks Kill 10",
-      "summary": "Ukraine's president signed a military-industrial cooperation agreement in Baku as Russia continued missile and drone strikes on Ukrainian cities. The death toll from recent attacks rose to at least 10.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/26/ukraine-war-briefing-zelenskyy-signs-agreement-with-azerbaijan-as-death-tolls-from-russian-attacks-rises-to-10",
-      "timestamp": "2026-04-26T06:03:00+03:00"
-    },
-    {
-      "headline": "Washingtons Resentment Toward Paper Tiger NATO Growing",
-      "summary": "The Trump administration has accused NATO allies of failing to show solidarity during the Iran war, with frustration particularly strong toward Spain, France, and the United Kingdom over their perceived lack of support.",
-      "emoji": "🇺🇸🇪🇺🏛️",
-      "category": "Europe",
-      "source": "Le Monde",
-      "url": "https://www.lemonde.fr/en/international/article/2026/04/25/washington-s-resentment-toward-paper-tiger-nato-is-growing_6752821_4.html",
-      "timestamp": "2026-04-26T02:06:00+03:00"
-    },
-    {
-      "headline": "Japans Accelerated Remilitarization Raises Regional Concerns",
-      "summary": "Japans quickened remilitarization under the Takaichi administration, including eased restrictions on exporting lethal weapons, is posing grave threats to neighbors and requires international vigilance, analysts warn.",
-      "emoji": "🇯🇵⚔️",
-      "category": "Asia-Pacific",
-      "source": "China Daily",
-      "url": "http://en.ce.cn/main/latest/202604/t20260425_2927940.shtml",
-      "timestamp": "2026-04-26T02:06:00+03:00"
-    },
-    {
-      "headline": "Ukraine Exports Drone Warfare Expertise to Allies",
-      "summary": "Ukraines hard-won drone warfare knowledge is being shared with allies, as three Ukrainian drone operators reveal how the country has become a global leader in unmanned aerial warfare technology.",
-      "emoji": "🇺🇦🛸",
-      "category": "Military",
-      "source": "Malay Mail",
-      "url": "https://www.malaymail.com/news/world/2026/04/26/the-housewives-did-wellukraine-takes-drone-know-how-abroad/217624",
-      "timestamp": "2026-04-26T02:06:00+03:00"
-    },
-    {
-      "headline": "Colombia explosives attack kills at least 13",
-      "summary": "An explosives attack in western Colombia killed at least 13 people and wounded 17 others, in one of the deadliest incidents amid escalating violence by FARC dissident groups.",
-      "emoji": "🇨🇴",
-      "category": "Latin America",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/americas/colombia-explosives-attack-kills-13-police-source-says-2026-04-25/",
-      "timestamp": "2026-04-26T02:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Firstpost",
-          "url": "https://www.firstpost.com/world/highway-bomb-attack-kills-10-in-colombia-ahead-of-presidential-elections-14004392.html",
-          "angle": "Colombia Highway Bomb Attack Kills 10 Ahead of Presidential Election",
-          "summary": "A highway bombing in the Cauca department killed 10 people and injured at least 12, with authorities blaming FARC dissidents. The attack comes amid a wave of violence before next month's presidential election."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Firstpost"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/americas/colombia-explosives-attack-kills-13-police-source-says-2026-04-25/",
-        "https://www.firstpost.com/world/highway-bomb-attack-kills-10-in-colombia-ahead-of-presidential-elections-14004392.html"
-      ]
-    },
-    {
-      "headline": "Russia parliament speaker visits Pyongyang for war memorial ceremony",
-      "summary": "Russian State Duma Chairman Vyacheslav Volodin arrived in North Korea to attend the opening of a memorial for North Korean troops who died fighting in Ukraine, highlighting deepening military ties between Moscow and Pyongyang.",
-      "emoji": "🇰🇵",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/russias-parliamentary-speaker-visits-pyongyang-kcna-says-2026-04-25/",
-      "timestamp": "2026-04-26T02:03:00+03:00"
-    },
-    {
-      "headline": "China and Mozambique to map critical minerals in conflict zone",
-      "summary": "China and Mozambique agreed to survey rare earth elements, graphite, and lithium deposits in insurgency-hit Cabo Delgado province, as Beijing seeks to secure critical mineral supplies for the green energy transition.",
-      "emoji": "🇲🇿",
-      "category": "Africa",
-      "source": "South China Morning Post",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3351346/china-and-mozambique-map-critical-minerals-insurgency-hit-cabo-delgado",
-      "timestamp": "2026-04-26T02:03:00+03:00"
     }
   ]
 }
