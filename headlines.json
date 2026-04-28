@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-04-28T02:05:44+03:00",
+  "lastUpdated": "2026-04-28T03:05:12+03:00",
   "headlines": [
+    {
+      "headline": "Taiwan on alert as Chinese warships approach Penghu Islands",
+      "summary": "Taiwan detected a Chinese destroyer and frigate operating near the Penghu islands, home to major Taiwanese military bases, prompting Taipei to deploy naval and air forces to monitor the vessels.",
+      "emoji": "🇹🇼",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/taiwan-spots-chinese-warships-near-penghu-islands-2026-04-28/",
+      "timestamp": "2026-04-28T03:05:00+03:00"
+    },
+    {
+      "headline": "German Chancellor links Ukraine peace to territorial concessions",
+      "summary": "Friedrich Merz suggested Ukraine may need to cede territory to Russia as part of a peace deal, framing such concessions as a potential pathway to EU membership for Kyiv.",
+      "emoji": "🇩🇪",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/merz-suggests-ukraine-may-have-accept-territorial-loss-help-pave-way-eu-2026-04-27/",
+      "timestamp": "2026-04-28T03:05:00+03:00"
+    },
+    {
+      "headline": "North Korea opens memorial for troops killed in Ukraine war",
+      "summary": "Kim Jong Un inaugurated a memorial museum honoring North Korean soldiers killed fighting alongside Russian forces in Ukraine, pledging continued support for Moscow's war effort during a ceremony attended by Russia's defense minister.",
+      "emoji": "🇰🇵",
+      "category": "Ukraine-Russia War",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/27/world/asia/north-korea-memorial-russia-ukraine.html",
+      "timestamp": "2026-04-28T03:05:00+03:00"
+    },
+    {
+      "headline": "Pope Leo meets first female Archbishop of Canterbury in historic encounter",
+      "summary": "Pope Leo XIV prayed with Archbishop of Canterbury Sarah Mullally at the Vatican, vowing to overcome differences in a historic meeting with the first female leader of the Church of England and the global Anglican Communion.",
+      "emoji": "⛪",
+      "category": "Diplomacy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/pope-archbishop-canterbury-mullally-vatican-2026-04-27/",
+      "timestamp": "2026-04-28T03:05:00+03:00"
+    },
     {
       "headline": "Putin Pledges Support for Iran in St. Petersburg Talks with Foreign Minister Araghchi",
       "summary": "Russian President Vladimir Putin met with Iranian Foreign Minister Abbas Araghchi in St. Petersburg, offering support to navigate the \"difficult period\" while expressing hope for peace. Moscow has resisted being drawn into the Middle East conflict while continuing its invasion of Ukraine.",
@@ -8,16 +44,23 @@
       "category": "Diplomacy",
       "source": "Tempo",
       "url": "https://en.tempo.co/read/2100683/putin-pledges-support-for-iran-in-talks-with-fm-araghchi",
-      "timestamp": "2026-04-28T02:05:00+03:00"
-    },
-    {
-      "headline": "Israel Expands Strikes to Eastern Lebanon, Breaching Ceasefire Terms",
-      "summary": "The Israeli military began carrying out strikes in eastern Lebanon on Monday, expanding beyond southern Lebanon despite the extended ceasefire. Hezbollah chief Naim Qassem called direct negotiations with Israel a \"grave sin\" as Lebanon seeks an armistice agreement.",
-      "emoji": "🇱🇧🇮🇱",
-      "category": "Middle East",
-      "source": "TRT World",
-      "url": "https://www.trtworld.com/article/275a81a5df0b",
-      "timestamp": "2026-04-28T02:05:00+03:00"
+      "timestamp": "2026-04-28T02:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/middle-east/20260427-middle-east-war-live-putin-iran-foreign-minister-us-iran-talks",
+          "angle": "Putin Hosts Iranian FM Araghchi, Pledges Support as US-Iran Talks Stall",
+          "summary": "Russian President Vladimir Putin hosted Iranian Foreign Minister Abbas Araghchi in Moscow, promising support as Iran faces pressure over the Strait of Hormuz blockade. The meeting comes amid failed US-Iran negotiations over ending the conflict."
+        }
+      ],
+      "sources": [
+        "Tempo",
+        "France24"
+      ],
+      "urls": [
+        "https://en.tempo.co/read/2100683/putin-pledges-support-for-iran-in-talks-with-fm-araghchi",
+        "https://www.france24.com/en/middle-east/20260427-middle-east-war-live-putin-iran-foreign-minister-us-iran-talks"
+      ]
     },
     {
       "headline": "Lebanese President Aoun Rejects \"Wars Serving Foreign Interests\" in Rebuke to Hezbollah",
@@ -26,15 +69,6 @@
       "category": "Middle East",
       "source": "Ya Libnan",
       "url": "https://yalibnan.com/2026/04/28/president-aoun-traitors-are-those-who-drag-lebanon-into-war-to-serve-foreign-interests/",
-      "timestamp": "2026-04-28T02:05:00+03:00"
-    },
-    {
-      "headline": "German Chancellor Merz Blasts Iran for \"Humiliating\" US with Failed Negotiations",
-      "summary": "German Chancellor Friedrich Merz criticized Iran for letting US officials travel to Islamabad only to leave without progress, saying \"an entire nation is being humiliated by the Iranian leadership.\" His unusually blunt rebuke highlights growing Western frustration with Tehran's negotiating tactics.",
-      "emoji": "🇩🇪🇺🇸",
-      "category": "Diplomacy",
-      "source": "Irish Times",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/04/27/trump-discusses-new-iranian-proposal-with-security-aides-as-conflict-remains-in-stalemate/",
       "timestamp": "2026-04-28T02:05:00+03:00"
     },
     {
@@ -176,31 +210,6 @@
       ]
     },
     {
-      "headline": "Hezbollah and Israel Exchange Threats and Strikes on Lebanon Border",
-      "summary": "Israel threatened to \"burn\" all of Lebanon after Hezbollah reiterated its defiance and rejection of peace talks, escalating tensions along the border.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/27/hezbollah-and-israel-swap-threats-and-strikes-across-lebanons-border",
-      "timestamp": "2026-04-28T00:06:00+03:00",
-      "perspectives": [
-        {
-          "source": "Anadolu Agency",
-          "url": "https://www.aa.com.tr/en/middle-east/hezbollah-chief-rejects-lebanon-israel-direct-talks-outlines-5-points-for-solution/3919234",
-          "angle": "Hezbollah Chief Rejects Direct Lebanon-Israel Talks, Outlines 5-Point Solution",
-          "summary": "Hezbollah Secretary-General Naim Qassem categorically rejected direct negotiations between Lebanon and Israel, proposing a five-point framework for resolving border tensions instead."
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "Anadolu Agency"
-      ],
-      "urls": [
-        "https://www.aljazeera.com/news/2026/4/27/hezbollah-and-israel-swap-threats-and-strikes-across-lebanons-border",
-        "https://www.aa.com.tr/en/middle-east/hezbollah-chief-rejects-lebanon-israel-direct-talks-outlines-5-points-for-solution/3919234"
-      ]
-    },
-    {
       "headline": "Taiwan Completes Major US Tank Deal With Final Abrams Shipment",
       "summary": "The acquisition marks the biggest upgrade to Taiwan armored forces in decades as it bolsters northern defense capabilities against Chinese threats.",
       "emoji": "🇹🇼",
@@ -307,31 +316,6 @@
       "urls": [
         "https://www.reuters.com/commentary/reuters-open-interest/could-asia-be-unlikely-winner-fallout-iran-war-raychaudhuri-2026-04-26/",
         "https://www.reuters.com/commentary/reuters-open-interest/could-asia-be-unlikely-winner-fallout-iran-war-raychaudhuri-2026-04-26/"
-      ]
-    },
-    {
-      "headline": "Putin Hosts Iranian FM Araghchi, Pledges Support as US-Iran Talks Stall",
-      "summary": "Russian President Vladimir Putin hosted Iranian Foreign Minister Abbas Araghchi in Moscow, promising support as Iran faces pressure over the Strait of Hormuz blockade. The meeting comes amid failed US-Iran negotiations over ending the conflict.",
-      "emoji": "🇷🇺🇮🇷",
-      "category": "Diplomacy",
-      "source": "France24",
-      "url": "https://www.france24.com/en/middle-east/20260427-middle-east-war-live-putin-iran-foreign-minister-us-iran-talks",
-      "timestamp": "2026-04-27T22:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al-Monitor",
-          "url": "https://www.al-monitor.com/originals/2026/04/putin-pledges-support-iran-talks-araqchi-russia-says-he-wants-peace-soon",
-          "angle": "Putin pledges support for Iran, offers mediation in talks with Araghchi",
-          "summary": "Russian President Vladimir Putin told Iranian Foreign Minister Abbas Araghchi in St. Petersburg that Russia would support Iran through its \"difficult period\" and hoped for peace soon. The meeting comes as US-Iran talks stall."
-        }
-      ],
-      "sources": [
-        "France24",
-        "Al-Monitor"
-      ],
-      "urls": [
-        "https://www.france24.com/en/middle-east/20260427-middle-east-war-live-putin-iran-foreign-minister-us-iran-talks",
-        "https://www.al-monitor.com/originals/2026/04/putin-pledges-support-iran-talks-araqchi-russia-says-he-wants-peace-soon"
       ]
     },
     {
@@ -578,15 +562,6 @@
       "timestamp": "2026-04-27T20:03:00+03:00"
     },
     {
-      "headline": "OpenAI Ends Microsoft Exclusivity, Opens Path to Amazon and Google Cloud Deals",
-      "summary": "Microsoft loses exclusive access to OpenAI technology, allowing the ChatGPT creator to sell products across rival cloud platforms in a major shift for the AI industry.",
-      "emoji": "🤖",
-      "category": "Technology",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/litigation/microsoft-end-exclusive-license-openais-technology-2026-04-27/",
-      "timestamp": "2026-04-27T19:12:00+03:00"
-    },
-    {
       "headline": "Israeli Strikes Hit East Lebanon, Expanding Conflict Zone Despite Ceasefire",
       "summary": "The Israeli military begins strikes in eastern Lebanon, expanding the scope of its bombing campaign during a ceasefire that has failed to halt hostilities with Hezbollah.",
       "emoji": "🇮🇱🇱🇧",
@@ -596,19 +571,61 @@
       "timestamp": "2026-04-27T19:12:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-warning-seven-lebanese-towns-north-litani-2026-04-26/",
-          "angle": "Israel warns Lebanon buffer zone evacuations after strikes kill 14",
-          "summary": "Israeli strikes killed 14 people in Lebanon, and the military warned residents to leave towns beyond the Litani River buffer zone, accusing Hezbollah of ceasefire violations."
+          "source": "TRT World",
+          "url": "https://www.trtworld.com/article/275a81a5df0b",
+          "angle": "Israel Expands Strikes to Eastern Lebanon, Breaching Ceasefire Terms",
+          "summary": "The Israeli military began carrying out strikes in eastern Lebanon on Monday, expanding beyond southern Lebanon despite the extended ceasefire. Hezbollah chief Naim Qassem called direct negotiations with Israel a \"grave sin\" as Lebanon seeks an armistice agreement."
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/4/27/hezbollah-and-israel-swap-threats-and-strikes-across-lebanons-border",
+          "angle": "Hezbollah and Israel Exchange Threats and Strikes on Lebanon Border",
+          "summary": "Israel threatened to \"burn\" all of Lebanon after Hezbollah reiterated its defiance and rejection of peace talks, escalating tensions along the border."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "TRT World",
+        "Al Jazeera"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/israeli-strikes-hit-east-lebanon-expanding-scope-despite-ceasefire-2026-04-27/",
-        "https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-warning-seven-lebanese-towns-north-litani-2026-04-26/"
+        "https://www.trtworld.com/article/275a81a5df0b",
+        "https://www.aljazeera.com/news/2026/4/27/hezbollah-and-israel-swap-threats-and-strikes-across-lebanons-border"
+      ]
+    },
+    {
+      "headline": "OpenAI Ends Microsoft Exclusivity, Opens Path to Amazon and Google Cloud Deals",
+      "summary": "Microsoft loses exclusive access to OpenAI technology, allowing the ChatGPT creator to sell products across rival cloud platforms in a major shift for the AI industry.",
+      "emoji": "🤖",
+      "category": "Technology",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/litigation/microsoft-end-exclusive-license-openais-technology-2026-04-27/",
+      "timestamp": "2026-04-27T19:12:00+03:00"
+    },
+    {
+      "headline": "German Chancellor Merz Says Iran Humiliating US in Stalled Peace Talks",
+      "summary": "Chancellor Friedrich Merz criticized the lack of progress in US-Iran negotiations, saying Tehran is making American officials travel to Pakistan and leave without results while the Iranian leadership continues to dictate terms.",
+      "emoji": "🇩🇪🇺🇸🇮🇷",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/germanys-merz-says-iran-is-humiliating-us-talks-stall-2026-04-27/",
+      "timestamp": "2026-04-27T18:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Irish Times",
+          "url": "https://www.irishtimes.com/world/middle-east/2026/04/27/trump-discusses-new-iranian-proposal-with-security-aides-as-conflict-remains-in-stalemate/",
+          "angle": "German Chancellor Merz Blasts Iran for \"Humiliating\" US with Failed Negotiations",
+          "summary": "German Chancellor Friedrich Merz criticized Iran for letting US officials travel to Islamabad only to leave without progress, saying \"an entire nation is being humiliated by the Iranian leadership.\" His unusually blunt rebuke highlights growing Western frustration with Tehran's negotiating tactics."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Irish Times"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/germanys-merz-says-iran-is-humiliating-us-talks-stall-2026-04-27/",
+        "https://www.irishtimes.com/world/middle-east/2026/04/27/trump-discusses-new-iranian-proposal-with-security-aides-as-conflict-remains-in-stalemate/"
       ]
     },
     {
@@ -660,15 +677,6 @@
         "https://kyivindependent.com/ukraine-norway-to-launch-joint-production-of-mid-strike-drones/",
         "https://thedefensepost.com/2026/04/21/ukraine-anubis-seth-x-drone/"
       ]
-    },
-    {
-      "headline": "German Chancellor Merz Says Iran Humiliating US in Stalled Peace Talks",
-      "summary": "Chancellor Friedrich Merz criticized the lack of progress in US-Iran negotiations, saying Tehran is making American officials travel to Pakistan and leave without results while the Iranian leadership continues to dictate terms.",
-      "emoji": "🇩🇪🇺🇸🇮🇷",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/germanys-merz-says-iran-is-humiliating-us-talks-stall-2026-04-27/",
-      "timestamp": "2026-04-27T18:05:00+03:00"
     },
     {
       "headline": "Iran Suspends Steel Exports Through May Amid War-Related Strikes",
@@ -3363,39 +3371,6 @@
         "https://www.bbc.com/news/articles/cde51y0zgjyo",
         "https://www.bbc.com/news/articles/cde51y0zgjyo",
         "https://www.bbc.com/news/articles/falklands-us-review-uk-response"
-      ]
-    },
-    {
-      "headline": "NATO says no mechanism to expel members amid US-Spain tensions",
-      "summary": "Alliance clarifies it has no provision for expelling members after reports the US could seek to suspend Spain over defense spending and trade disputes.",
-      "emoji": "🇪🇺🇺🇸",
-      "category": "Europe",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/world-europe-2026-04-24-nato-spain-us",
-      "timestamp": "2026-04-25T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cz78x703lrvo",
-          "angle": "NATO says no provision to expel members after US reportedly considered suspending Spain",
-          "summary": "A NATO official stated the alliance treaty has no mechanism for suspension or expulsion following a Reuters report about an internal Pentagon email suggesting retaliating against allies for insufficient support in the Iran war. Spain refused use of its air bases for attacks on Iran."
-        },
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/nato-spain-suspension-2026-04-25",
-          "angle": "NATO says no provision to expel members after report US could seek to suspend Spain",
-          "summary": "An internal Pentagon email reportedly outlined options to punish allies over perceived lack of support for the Iran war, raising concerns about NATO alliance stability."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/world-europe-2026-04-24-nato-spain-us",
-        "https://www.bbc.com/news/articles/cz78x703lrvo",
-        "https://www.bbc.com/news/articles/nato-spain-suspension-2026-04-25"
       ]
     }
   ]
