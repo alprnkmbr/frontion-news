@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-04-28T08:04:52+03:00",
+  "lastUpdated": "2026-04-28T08:07:38+03:00",
   "headlines": [
+    {
+      "headline": "Bank of Japan holds rates steady in split vote as Iran war fuels inflation concerns",
+      "summary": "The BOJ kept its benchmark rate at 0.75% but three of nine board members proposed a hike, signaling growing concern over inflationary pressures from Middle East conflict disrupting energy markets.",
+      "emoji": "🇯🇵",
+      "category": "Asia-Pacific",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-stands-pat-in-split-vote-boosts-inflation-forecast-to-2.8",
+      "timestamp": "2026-04-28T08:05:00+03:00"
+    },
+    {
+      "headline": "King Charles arrives in US for state visit overshadowed by Iran tensions and shooting",
+      "summary": "The British monarch's most consequential state visit marks 250 years since US independence, but is being conducted under the shadow of the Iran conflict and the White House Correspondents dinner shooting.",
+      "emoji": "🇬🇧",
+      "category": "Diplomacy",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3351622/king-charles-arrives-us-trip-overshadowed-iran-quarrel-and-shooting",
+      "timestamp": "2026-04-28T08:05:00+03:00"
+    },
+    {
+      "headline": "Israeli strikes expand to eastern Lebanon as ceasefire continues to fray",
+      "summary": "The Israeli military expanded its bombing campaign to eastern Lebanon, striking over 20 Hezbollah targets. At least 14 people were killed including two children, as both sides accused each other of violating the US-mediated ceasefire.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3351621/hezbollah-disarmament-must-happen-senior-lebanese-minister-tells-us-think-tank",
+      "timestamp": "2026-04-28T08:05:00+03:00"
+    },
+    {
+      "headline": "Zelenskiy rejects EU associate membership offer, demands full accession by 2027",
+      "summary": "Ukraine's president rejected a German-French proposal for associate membership at a Cyprus summit, insisting on full EU membership by 2027. German Chancellor Merz suggested Ukraine may need to accept territorial losses to advance EU prospects.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Euractiv",
+      "url": "https://www.euractiv.com/news/interview-sejourne-eyes-grand-policy-bargain-to-break-single-market-impasse/",
+      "timestamp": "2026-04-28T08:05:00+03:00"
+    },
     {
       "headline": "Oil prices climb 1% as Iran war stalemate persists",
       "summary": "Brent crude rose toward $110 per barrel as diplomatic efforts to end the US-Iran war appeared stalled, with the Strait of Hormuz remaining effectively closed to shipping.",
@@ -8,7 +44,31 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/oil-prices-rise-no-end-iran-war-stand-off-seems-sight-2026-04-28/",
-      "timestamp": "2026-04-28T08:10:00+03:00"
+      "timestamp": "2026-04-28T08:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/chinas-clean-tech-exporters-cash-iran-war-hits-oil-gas-flows-2026-04-27/",
+          "angle": "China's Clean Tech Exporters See Record Sales as Iran War Disrupts Oil Flows",
+          "summary": "Chinese exporters of batteries, solar systems, and electric vehicles posted record sales as the closure of the Strait of Hormuz cut off Middle Eastern oil and gas supplies, driving demand for alternative energy."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/oil-jumps-more-than-2-us-iran-peace-talks-stall-2026-04-26/",
+          "angle": "Oil Prices Climb Nearly 2% as US-Iran Peace Talks Stall",
+          "summary": "Crude oil extended gains as diplomatic efforts between Washington and Tehran faltered while shipments through the Strait of Hormuz remained limited, tightening global supplies."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/oil-prices-rise-no-end-iran-war-stand-off-seems-sight-2026-04-28/",
+        "https://www.reuters.com/business/energy/chinas-clean-tech-exporters-cash-iran-war-hits-oil-gas-flows-2026-04-27/",
+        "https://www.reuters.com/business/energy/oil-jumps-more-than-2-us-iran-peace-talks-stall-2026-04-26/"
+      ]
     },
     {
       "headline": "China denounces Japan and EU over South China Sea at UN",
@@ -17,7 +77,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/un-china-denounces-japan-eu-over-south-china-sea-remarks-2026-04-28/",
-      "timestamp": "2026-04-28T08:10:00+03:00"
+      "timestamp": "2026-04-28T08:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/philippines-us-stage-counter-landing-drills-with-allies-near-south-china-sea-2026-04-27/",
+          "angle": "Philippines and US Conduct Counter-Landing Drills Near South China Sea",
+          "summary": "Philippine and U.S. forces carried out counter-landing exercises using live fire to repel mock assaults, the latest show of military cooperation in the contested South China Sea region."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/un-china-denounces-japan-eu-over-south-china-sea-remarks-2026-04-28/",
+        "https://www.reuters.com/world/china/philippines-us-stage-counter-landing-drills-with-allies-near-south-china-sea-2026-04-27/"
+      ]
     },
     {
       "headline": "Ukraine summons Israeli ambassador over Russian grain shipments",
@@ -35,15 +111,6 @@
       "category": "US-Iran War",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/04/27/world/middleeast/iran-trump-talks-strait-of-hormuz-nuclear.html",
-      "timestamp": "2026-04-28T08:10:00+03:00"
-    },
-    {
-      "headline": "Asian markets slide as Iran war talks stall and oil prices rise",
-      "summary": "Stocks retreated across Asia and oil prices climbed as diplomatic efforts to end the Iran war appeared stalled. Japan's Nikkei fell 1.1% after the Bank of Japan held rates steady amid inflation concerns.",
-      "emoji": "📉",
-      "category": "Economy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/stock-markets-trump-oil-iran-war-1901470c64a6055c80656fad64f863e5",
       "timestamp": "2026-04-28T08:10:00+03:00"
     },
     {
@@ -79,56 +146,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/us-presses-taiwan-parliament-pass-comprehensive-defence-budget-2026-04-27/",
       "timestamp": "2026-04-28T07:10:00+03:00"
-    },
-    {
-      "headline": "Philippines and US Conduct Counter-Landing Drills Near South China Sea",
-      "summary": "Philippine and U.S. forces carried out counter-landing exercises using live fire to repel mock assaults, the latest show of military cooperation in the contested South China Sea region.",
-      "emoji": "🇵🇭",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/philippines-us-stage-counter-landing-drills-with-allies-near-south-china-sea-2026-04-27/",
-      "timestamp": "2026-04-28T07:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/un-china-denounces-japan-eu-over-south-china-sea-remarks-2026-04-28/",
-          "angle": "China Denounces Japan and EU at UN Over South China Sea",
-          "summary": "Beijing lashed out at Tokyo and Brussels during a UN Security Council maritime security meeting, accusing Japan of provocative behavior in the Taiwan Strait and military expansion plans."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/philippines-us-stage-counter-landing-drills-with-allies-near-south-china-sea-2026-04-27/",
-        "https://www.reuters.com/world/china/un-china-denounces-japan-eu-over-south-china-sea-remarks-2026-04-28/"
-      ]
-    },
-    {
-      "headline": "China's Clean Tech Exporters See Record Sales as Iran War Disrupts Oil Flows",
-      "summary": "Chinese exporters of batteries, solar systems, and electric vehicles posted record sales as the closure of the Strait of Hormuz cut off Middle Eastern oil and gas supplies, driving demand for alternative energy.",
-      "emoji": "🔋",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/chinas-clean-tech-exporters-cash-iran-war-hits-oil-gas-flows-2026-04-27/",
-      "timestamp": "2026-04-28T07:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/markets/commodities/iran-war-hands-opecs-swing-producer-crown-america-2026-04-27/",
-          "angle": "US Emerges as World's Swing Oil Producer as Iran War Reshapes Energy Markets",
-          "summary": "The Iran war has handed OPEC's swing producer crown to the United States, which has stepped in to shield the global economy from oil supply disruptions by boosting exports and selectively easing sanctions. The conflict is cementing America's transformation into the world's dominant energy superpower."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/chinas-clean-tech-exporters-cash-iran-war-hits-oil-gas-flows-2026-04-27/",
-        "https://www.reuters.com/markets/commodities/iran-war-hands-opecs-swing-producer-crown-america-2026-04-27/"
-      ]
     },
     {
       "headline": "Iran War Hands OPEC's Swing Producer Crown to America",
@@ -393,6 +410,47 @@
       "timestamp": "2026-04-28T03:05:00+03:00"
     },
     {
+      "headline": "Dollar eases as US-Iran talks stall ahead of Powell's final Fed meeting",
+      "summary": "The US dollar weakened against the euro as diplomatic impasse in US-Iran negotiations weighed on markets. Investors are also watching for Jerome Powell's expected final Federal Reserve meeting this week.",
+      "emoji": "💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/dollar-advances-us-iran-talks-suffer-setback-2026-04-27/",
+      "timestamp": "2026-04-28T02:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/stock-markets-trump-oil-iran-war-1901470c64a6055c80656fad64f863e5",
+          "angle": "Asian markets slide as Iran war talks stall and oil prices rise",
+          "summary": "Stocks retreated across Asia and oil prices climbed as diplomatic efforts to end the Iran war appeared stalled. Japan's Nikkei fell 1.1% after the Bank of Japan held rates steady amid inflation concerns."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/two-months-into-iran-war-economic-strain-mounts-across-emerging-markets-2026-04-27/",
+          "angle": "Iran war economic strain spreads across emerging markets",
+          "summary": "Two months into the Iran war, emerging and developing economies are feeling the economic toll through rising inflation, fiscal strains, and trade disruptions. The conflict has extended its reach beyond the Middle East, affecting markets across Asia, Africa, and Latin America."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/iran-war-fertiliser-squeeze-could-spell-trouble-next-years-grain-harvests-2026-04-27/",
+          "angle": "Iran war drives fertiliser prices up, threatening global grain harvests",
+          "summary": "Farmers worldwide face a second surge in fertiliser prices in four years due to the Iran war, with grain prices too low to cushion the blow from the supply crunch, putting global food production at risk."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/dollar-advances-us-iran-talks-suffer-setback-2026-04-27/",
+        "https://apnews.com/article/stock-markets-trump-oil-iran-war-1901470c64a6055c80656fad64f863e5",
+        "https://www.reuters.com/world/asia-pacific/two-months-into-iran-war-economic-strain-mounts-across-emerging-markets-2026-04-27/",
+        "https://www.reuters.com/world/china/iran-war-fertiliser-squeeze-could-spell-trouble-next-years-grain-harvests-2026-04-27/"
+      ]
+    },
+    {
       "headline": "Bahrain strips 69 people of citizenship over Iran support",
       "summary": "Bahrain revoked citizenship of 69 people for what it called sympathy with Iran's hostile acts and collaboration with foreign entities. Rights groups condemned the move as a 'blatant abuse of power'.",
       "emoji": "🇧🇭",
@@ -476,15 +534,6 @@
       "category": "US Politics",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/27/us-supreme-court-reinstates-republican-favoured-texas-electoral-map",
-      "timestamp": "2026-04-28T02:05:00+03:00"
-    },
-    {
-      "headline": "Dollar eases as US-Iran talks stall ahead of Powell's final Fed meeting",
-      "summary": "The US dollar weakened against the euro as diplomatic impasse in US-Iran negotiations weighed on markets. Investors are also watching for Jerome Powell's expected final Federal Reserve meeting this week.",
-      "emoji": "💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/dollar-advances-us-iran-talks-suffer-setback-2026-04-27/",
       "timestamp": "2026-04-28T02:05:00+03:00"
     },
     {
@@ -606,31 +655,6 @@
       ]
     },
     {
-      "headline": "Iran war economic strain spreads across emerging markets",
-      "summary": "Two months into the Iran war, emerging and developing economies are feeling the economic toll through rising inflation, fiscal strains, and trade disruptions. The conflict has extended its reach beyond the Middle East, affecting markets across Asia, Africa, and Latin America.",
-      "emoji": "💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/two-months-into-iran-war-economic-strain-mounts-across-emerging-markets-2026-04-27/",
-      "timestamp": "2026-04-28T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/two-months-into-iran-war-economic-strain-mounts-across-emerging-markets-2026-04-27/",
-          "angle": "Iran War Creates Economic Strain Across Emerging Markets After Two Months",
-          "summary": "Two months since the outbreak of the Iran war, economic stress is spreading beyond the Middle East as emerging and developing markets face rising inflation, growing fiscal pressures, and widespread trade disruptions."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/two-months-into-iran-war-economic-strain-mounts-across-emerging-markets-2026-04-27/",
-        "https://www.reuters.com/world/asia-pacific/two-months-into-iran-war-economic-strain-mounts-across-emerging-markets-2026-04-27/"
-      ]
-    },
-    {
       "headline": "Iran war may accelerate international talks to exit fossil fuels",
       "summary": "The Iran conflict has disrupted oil and gas supplies and sent prices spiking, potentially invigorating discussions at IMO and Santa Marta meetings on accelerating the energy transition. Countries worldwide are reconsidering their approach to energy security.",
       "emoji": "🛢️",
@@ -741,31 +765,6 @@
       "urls": [
         "https://www.reuters.com/world/europe/zaporizhzhia-nuclear-power-plant-worker-killed-ukraine-drone-attack-management-2026-04-27/",
         "https://www.aljazeera.com/news/2026/4/27/russia-attacks-odesa-claims-ukraine-hit-zaporizhzhia-nuclear-plant"
-      ]
-    },
-    {
-      "headline": "Iran war drives fertiliser prices up, threatening global grain harvests",
-      "summary": "Farmers worldwide face a second surge in fertiliser prices in four years due to the Iran war, with grain prices too low to cushion the blow from the supply crunch, putting global food production at risk.",
-      "emoji": "🌾",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/iran-war-fertiliser-squeeze-could-spell-trouble-next-years-grain-harvests-2026-04-27/",
-      "timestamp": "2026-04-27T21:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/iran-war-fertiliser-squeeze-could-spell-trouble-next-years-grain-harvests-2026-04-27/",
-          "angle": "Fertiliser Price Surge Threatens Global Grain Harvests",
-          "summary": "Farmers worldwide face a second surge in fertiliser prices in four years due to the Iran war. With grain prices too low to cushion the blow from the deeper supply crunch, many are rethinking planting plans, putting global food production at risk."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/iran-war-fertiliser-squeeze-could-spell-trouble-next-years-grain-harvests-2026-04-27/",
-        "https://www.reuters.com/world/china/iran-war-fertiliser-squeeze-could-spell-trouble-next-years-grain-harvests-2026-04-27/"
       ]
     },
     {
@@ -1581,31 +1580,6 @@
       "urls": [
         "https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-26-2026-9f7bcaf20c42b56d3dba4b504936f7ee",
         "https://www.cnn.com/2026/04/27/world/live-news/iran-war-trump-israel"
-      ]
-    },
-    {
-      "headline": "Oil Prices Climb Nearly 2% as US-Iran Peace Talks Stall",
-      "summary": "Crude oil extended gains as diplomatic efforts between Washington and Tehran faltered while shipments through the Strait of Hormuz remained limited, tightening global supplies.",
-      "emoji": "🛢️💰",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-jumps-more-than-2-us-iran-peace-talks-stall-2026-04-26/",
-      "timestamp": "2026-04-27T03:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-hezbollah-lebanon-israel-ceasefire/",
-          "angle": "Oil Prices Surge 44% Since Iran War Began as Hormuz Transit Remains Blocked",
-          "summary": "West Texas Intermediate reached $96.50/barrel and Brent crude $107.75, up 44-48% since the Iran war began, as ceasefire talks stall and tankers remain stranded in the Persian Gulf."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "CBS News"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/oil-jumps-more-than-2-us-iran-peace-talks-stall-2026-04-26/",
-        "https://www.cbsnews.com/live-updates/us-iran-war-trump-strait-of-hormuz-hezbollah-lebanon-israel-ceasefire/"
       ]
     },
     {
