@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-04-29T04:05:13+03:00",
+  "lastUpdated": "2026-04-29T04:08:26+03:00",
   "headlines": [
     {
-      "headline": "King Charles attends White House state dinner with Trump",
-      "summary": "King Charles III and Queen Camilla attended a state dinner at the White House hosted by President Trump, following Charles' historic address to Congress. The visit emphasizes US-UK ties amid global tensions.",
-      "emoji": "🇬🇧🇺🇸",
-      "category": "Diplomacy",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/king-charles-trump-address-congress-white-house/",
-      "timestamp": "2026-04-29T04:03:00+03:00"
+      "headline": "NATO weaknesses exposed by Iran war, analysis finds",
+      "summary": "A Politico EU analysis identifies five key ways the Iran conflict reveals NATO is unprepared to fight Russia, from munitions depletion to alliance coordination gaps.",
+      "emoji": "🇪🇺⚔️",
+      "category": "Defense",
+      "source": "Politico EU",
+      "url": "https://www.politico.eu/article/5-ways-iran-war-nato-weakness-russia-conflict/",
+      "timestamp": "2026-04-29T04:05:00+03:00"
+    },
+    {
+      "headline": "Hormuz shipping traffic remains muted as US-Iran talks stall",
+      "summary": "Only 7 ships crossed the Strait in 24 hours, a fraction of the 140 daily passages before the war. Data shows Iran has moved oil through the US blockade while negotiations remain deadlocked.",
+      "emoji": "🛢️🚢",
+      "category": "Energy",
+      "source": "Al-Monitor",
+      "url": "https://www.al-monitor.com/originals/2026/04/shipping-traffic-through-hormuz-remains-muted-no-us-iran-deal-sight-data-shows",
+      "timestamp": "2026-04-29T04:05:00+03:00"
+    },
+    {
+      "headline": "Ukraine drones strike Russian Tuapse oil refinery again",
+      "summary": "Ukrainian forces hit the Tuapse oil refinery for the third time in two weeks. Previous strikes destroyed 24 storage tanks. The facility supplies Russian occupation forces in Ukraine.",
+      "emoji": "🇺🇦💥",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/ukraine-war-latest-russias-tuapse-oil-refinery-disaster-deepens-after-ukraines-drones-strike-yet-again/",
+      "timestamp": "2026-04-29T04:05:00+03:00"
+    },
+    {
+      "headline": "Zelenskyy threatens sanctions on Israel over stolen Ukrainian grain",
+      "summary": "Ukraine prepares sanctions against Israeli individuals and businesses purchasing grain stolen from Russian-occupied territories. Two vessels carrying looted wheat were headed to Haifa.",
+      "emoji": "🇺🇦🇮🇱",
+      "category": "Ukraine-Russia War",
+      "source": "Politico EU",
+      "url": "https://www.politico.eu/article/volodymyr-zelenskyy-threaten-israel-sanctions-grain/",
+      "timestamp": "2026-04-29T04:05:00+03:00"
+    },
+    {
+      "headline": "Hezbollah drones target Israeli soldiers in Lebanon despite ceasefire",
+      "summary": "Hezbollah continues daily drone attacks on Israeli troops in southern Lebanon, killing one soldier and wounding six. Israel issued new displacement orders for 16 villages as fighting persists.",
+      "emoji": "🇱🇧🇮🇱",
+      "category": "Middle East",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/28/hezbollah-drone-strikes-target-israeli-soldiers-in-southern-lebanon",
+      "timestamp": "2026-04-29T04:05:00+03:00"
     },
     {
       "headline": "Canada launches sovereign wealth fund with lower deficit",
@@ -2442,21 +2478,37 @@
       "timestamp": "2026-04-27T08:03:00+03:00"
     },
     {
-      "headline": "Iran War Taking Toll on Chinese Manufacturing Economy",
-      "summary": "The Middle East conflict is putting pressure on Chinese factory orders, costs and jobs as the Strait of Hormuz disruption hits exports. Costs have risen around 20% for some traders, adding strain to an economy already dealing with US tariffs and slower growth.",
-      "emoji": "🇨🇳💰",
-      "category": "Economy",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cn0ep28drllo",
-      "timestamp": "2026-04-27T07:05:00+03:00"
-    },
-    {
       "headline": "Erdogan Offers Support to Trump After White House Correspondents Dinner Shooting",
       "summary": "Turkish President Tayyip Erdogan called President Donald Trump to offer support following a shooting incident at the White House Correspondents Association dinner. A gunman opened fire near the event attended by Trump and senior officials.",
       "emoji": "🇹🇷🇺🇸",
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/turkeys-erdogan-offers-support-trump-call-after-white-house-dinner-shooting-2026-04-27/",
+      "timestamp": "2026-04-27T07:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/king-charles-trump-address-congress-white-house/",
+          "angle": "King Charles attends White House state dinner with Trump",
+          "summary": "King Charles III and Queen Camilla attended a state dinner at the White House hosted by President Trump, following Charles' historic address to Congress. The visit emphasizes US-UK ties amid global tensions."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "CBS News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/turkeys-erdogan-offers-support-trump-call-after-white-house-dinner-shooting-2026-04-27/",
+        "https://www.cbsnews.com/live-updates/king-charles-trump-address-congress-white-house/"
+      ]
+    },
+    {
+      "headline": "Iran War Taking Toll on Chinese Manufacturing Economy",
+      "summary": "The Middle East conflict is putting pressure on Chinese factory orders, costs and jobs as the Strait of Hormuz disruption hits exports. Costs have risen around 20% for some traders, adding strain to an economy already dealing with US tariffs and slower growth.",
+      "emoji": "🇨🇳💰",
+      "category": "Economy",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cn0ep28drllo",
       "timestamp": "2026-04-27T07:05:00+03:00"
     },
     {
@@ -2880,48 +2932,6 @@
         "https://www.bbc.com/news/articles/c5yv1nvd4gjo",
         "https://www.jpost.com/middle-east/iran-news/2026-04-26/live-updates-894125",
         "https://www.bbc.com/news/articles/c5yv1nvd4gjo"
-      ]
-    },
-    {
-      "headline": "Mexico says US agents killed in crash were not authorized",
-      "summary": "Mexico's government stated that two US federal agents who died in a car crash were not permitted to participate in local operations. The agents reportedly worked for the CIA.",
-      "emoji": "🇲🇽🇺🇸",
-      "category": "Latin America",
-      "source": "AP News",
-      "url": "https://apnews.com/article/mexico-cia-agents-crash-authorized-us-d3c3cb0e82103e45751baa9df8f5cd90",
-      "timestamp": "2026-04-26T21:03:00+03:00"
-    },
-    {
-      "headline": "Zelensky signs cooperation deals with Azerbaijan during first wartime visit",
-      "summary": "Ukrainian president continues diplomatic push in the Caucasus region following similar deals with Gulf states.",
-      "emoji": "🇦🇿",
-      "category": "Diplomacy",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/zelensky-arrives-in-azerbaijan/",
-      "timestamp": "2026-04-26T20:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/",
-          "angle": "Zelensky signs cooperation deals with Azerbaijan during first wartime visit",
-          "summary": "President Zelensky met with Azerbaijani President Aliyev in Baku, marking his first wartime visit to Azerbaijan and signing bilateral cooperation agreements."
-        },
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/zelensky-arrives-in-azerbaijan/",
-          "angle": "Zelensky Signs Cooperation Deals During First Wartime Visit to Azerbaijan",
-          "summary": "President Volodymyr Zelensky arrived in Azerbaijan for talks with Azerbaijani President Ilham Aliyev, signing cooperation agreements in his first wartime visit to the Caucasus nation."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "Kyiv Independent",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://kyivindependent.com/zelensky-arrives-in-azerbaijan/",
-        "https://kyivindependent.com/",
-        "https://kyivindependent.com/zelensky-arrives-in-azerbaijan/"
       ]
     }
   ]
