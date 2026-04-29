@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-04-30T02:05:18+03:00",
+  "lastUpdated": "2026-04-30T02:07:45+03:00",
   "headlines": [
+    {
+      "headline": "China Southern Airlines orders Airbus jets worth $21 billion as Boeing deal remains rumor",
+      "summary": "The state-owned airline joins peers in placing large orders with the European manufacturer, while any potential Boeing deal hinges on broader US-China trade dynamics amid tensions over Iran and technology.",
+      "emoji": "🇨🇳✈️",
+      "category": "Asia-Pacific",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/china-economy/article/3351900/china-southern-airlines-orders-airbus-jets-worth-us21b-boeing-deal-remains-rumour",
+      "timestamp": "2026-04-30T02:05:00+03:00"
+    },
+    {
+      "headline": "US raising pressure on China before Xi-Trump talks with chips, oil and Iran moves",
+      "summary": "Washington targets semiconductor access and small Chinese oil refineries, though analysts expect Beijing to resist, as both sides prepare for a potential leadership summit.",
+      "emoji": "🇺🇸🇨🇳",
+      "category": "US-China",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/global-economy/article/3351891/chips-oil-and-iran-why-us-raising-pressure-china-xi-trump-talks",
+      "timestamp": "2026-04-30T02:05:00+03:00"
+    },
+    {
+      "headline": "Israeli military intercepts Gaza-bound aid vessel off Greek coast",
+      "summary": "Activists say Israeli-identified speedboats approached the vessel, aiming lasers and semi-automatic weapons, and ordered passengers on deck as humanitarian aid attempts to reach Gaza.",
+      "emoji": "🚢🇮🇱",
+      "category": "Middle East",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/israeli-military-intercepts-gaza-bound-aid-vessel-greek-coast",
+      "timestamp": "2026-04-30T02:05:00+03:00"
+    },
+    {
+      "headline": "Trump threatens to pull US troops from Germany amid Merz row over Iran",
+      "summary": "US president, angered by German chancellor Friedrich Merz claim that the US had been humiliated by Iran, may redeploy forces in a sign of strained transatlantic relations.",
+      "emoji": "🇺🇸🇩🇪",
+      "category": "Europe",
+      "source": "Telegraph",
+      "url": "https://www.telegraph.co.uk/us/news/2026/04/29/trump-germany-troops-friedrich-merz/",
+      "timestamp": "2026-04-30T02:05:00+03:00"
+    },
+    {
+      "headline": "US pledges financial support for G7 initiative to repair Chornobyl confinement structure",
+      "summary": "The United States commits to continued leadership on nuclear safety and non-proliferation, supporting the G7 effort to maintain the containment shelter over the damaged reactor.",
+      "emoji": "☢️🇺🇦",
+      "category": "Europe",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/us-pledges-financial-support-for-g7-initiative-to-repair-chornobyl-confinement-structure/",
+      "timestamp": "2026-04-30T02:05:00+03:00"
+    },
     {
       "headline": "UAE Abandons OPEC After Six Decades",
       "summary": "The United Arab Emirates has officially left OPEC in a dramatic break from the Saudi-dominated oil cartel. The move reshapes Gulf power dynamics and global energy politics as the UAE seeks independence from Riyadh's influence.",
@@ -35,7 +80,23 @@
       "category": "US Politics",
       "source": "AP News",
       "url": "https://apnews.com/article/voting-rights-redistricting-court-states-race-maps-b90a986d0db5dc49241ab939ff29a179",
-      "timestamp": "2026-04-30T02:03:00+03:00"
+      "timestamp": "2026-04-30T02:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/supreme-court-voting-rights-congressional-redistricting-louisiana-aa5d7dbde7c13654f341d152c2ad5229",
+          "angle": "Supreme Court Strikes Down Louisiana Majority-Black District",
+          "summary": "The Supreme Court ruled 6-3 to invalidate Louisiana's second majority-Black congressional district, narrowing the scope of the Voting Rights Act. The decision could impact voting rights litigation nationwide ahead of the 2026 midterms."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "AP News"
+      ],
+      "urls": [
+        "https://apnews.com/article/voting-rights-redistricting-court-states-race-maps-b90a986d0db5dc49241ab939ff29a179",
+        "https://apnews.com/article/supreme-court-voting-rights-congressional-redistricting-louisiana-aa5d7dbde7c13654f341d152c2ad5229"
+      ]
     },
     {
       "headline": "NYC Mayor Urges King Charles to Return Koh-i-Noor Diamond",
@@ -679,39 +740,6 @@
       "source": "Defense News",
       "url": "https://www.defensenews.com/global/asia-pacific/2026/04/29/us-marines-help-gun-down-beach-invaders-in-simulated-philippines-defense/",
       "timestamp": "2026-04-29T18:10:00+03:00"
-    },
-    {
-      "headline": "Supreme Court Strikes Down Louisiana Majority-Black District",
-      "summary": "The Supreme Court ruled 6-3 to invalidate Louisiana's second majority-Black congressional district, narrowing the scope of the Voting Rights Act. The decision could impact voting rights litigation nationwide ahead of the 2026 midterms.",
-      "emoji": "🏛️",
-      "category": "US Politics",
-      "source": "AP News",
-      "url": "https://apnews.com/article/supreme-court-voting-rights-congressional-redistricting-louisiana-aa5d7dbde7c13654f341d152c2ad5229",
-      "timestamp": "2026-04-29T18:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Hill",
-          "url": "https://thehill.com/regulation/court-battles/5854770-supreme-court-voting-rights-act/",
-          "angle": "Supreme Court strikes down Louisianas congressional map in Voting Rights Act ruling",
-          "summary": "The Supreme Court ruled 6-3 along ideological lines to strike down Louisianas congressional map, a decision with significant implications for voting rights and the 2026 midterms."
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/4/27/us-supreme-court-reinstates-republican-favoured-texas-electoral-map",
-          "angle": "US Supreme Court reinstates Texas electoral map favoring Republicans",
-          "summary": "The conservative-majority Supreme Court reinstated a redrawn Texas electoral map that could flip up to five Democratic-held House seats to Republicans. The ruling overturned a lower court decision that had found the map racially discriminatory."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "The Hill",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://apnews.com/article/supreme-court-voting-rights-congressional-redistricting-louisiana-aa5d7dbde7c13654f341d152c2ad5229",
-        "https://thehill.com/regulation/court-battles/5854770-supreme-court-voting-rights-act/",
-        "https://www.aljazeera.com/news/2026/4/27/us-supreme-court-reinstates-republican-favoured-texas-electoral-map"
-      ]
     },
     {
       "headline": "EU Loosens State Aid Rules as Iran War Drives Up Energy Costs",
@@ -2881,58 +2909,6 @@
         "https://apnews.com/article/iran-us-israel-war-what-to-know-beb5625f8537ceaf22c061cf073210aa",
         "https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html"
       ]
-    },
-    {
-      "headline": "Asia Could Emerge as Unexpected Winner from Iran War Fallout",
-      "summary": "Despite being heavily reliant on Middle East energy, Asia may benefit long-term from accelerated cybersecurity investment, fossil fuel diversification, and supply chain restructuring prompted by the conflict.",
-      "emoji": "🌏",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/could-asia-be-unlikely-winner-fallout-iran-war-raychaudhuri-2026-04-26/",
-      "timestamp": "2026-04-27T23:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/commentary/reuters-open-interest/could-asia-be-unlikely-winner-fallout-iran-war-raychaudhuri-2026-04-26/",
-          "angle": "Asia May Emerge as Unexpected Beneficiary from Iran War Fallout",
-          "summary": "While Asia has been highly vulnerable to the Iran war due to its dependence on Middle East energy, analysts suggest the region could emerge as a long-term winner from trends accelerated by the conflict, including supply chain diversification and energy transition."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/commentary/reuters-open-interest/could-asia-be-unlikely-winner-fallout-iran-war-raychaudhuri-2026-04-26/",
-        "https://www.reuters.com/commentary/reuters-open-interest/could-asia-be-unlikely-winner-fallout-iran-war-raychaudhuri-2026-04-26/"
-      ]
-    },
-    {
-      "headline": "North Korea and Russia Deepen Alliance at Memorial for Fallen Soldiers in Ukraine",
-      "summary": "At a ceremony honoring North Korean soldiers killed fighting in Ukraine, Moscow offered to renew a military pact with Pyongyang, strengthening the anti-West coalition as the war drags on.",
-      "emoji": "🇰🇵🇷🇺",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/politics/article/3351533/north-korea-russia-boost-anti-west-powerful-bulwark-ukraine-war-drags",
-      "timestamp": "2026-04-27T22:05:00+03:00"
-    },
-    {
-      "headline": "Ukraine Disrupts Russian-Linked Network Planning Assassinations and Sabotage Across EU",
-      "summary": "Prosecutors announced an international operation disrupted a network preparing killings, arson, and infrastructure attacks across multiple European countries, linked to Russian intelligence.",
-      "emoji": "🕵️⚔️",
-      "category": "Europe",
-      "source": "Kyiv Post",
-      "url": "https://www.kyivpost.com/post/74876",
-      "timestamp": "2026-04-27T22:05:00+03:00"
-    },
-    {
-      "headline": "US Army Developing Heavier Hybrid-Powered Infantry Squad Vehicle",
-      "summary": "The Army is testing a new hybrid-powered ISV-H vehicle designed to carry more armor and equipment while maintaining mobility for infantry squads in rugged terrain.",
-      "emoji": "🚙🔋",
-      "category": "Defense Industry",
-      "source": "Military Times",
-      "url": "https://www.militarytimes.com/industry/techwatch/2026/04/27/us-army-eyes-a-heavier-hybrid-powered-infantry-squad-vehicle/",
-      "timestamp": "2026-04-27T22:05:00+03:00"
     }
   ]
 }
