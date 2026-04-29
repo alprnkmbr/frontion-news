@@ -1,6 +1,67 @@
 {
-  "lastUpdated": "2026-04-30T00:07:19+03:00",
+  "lastUpdated": "2026-04-30T00:10:42+03:00",
   "headlines": [
+    {
+      "headline": "Oil Surges Past $120 as Trump Rejects Iranian Peace Overture",
+      "summary": "Benchmark Brent crude surpassed $120 per barrel, reaching war-time highs after President Trump rejected an Iranian proposal to end the conflict that would have deferred nuclear talks.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Al-Monitor",
+      "url": "https://www.al-monitor.com/originals/2026/04/oil-surges-past-120-war-time-high-trump-rejects-iran-overture",
+      "timestamp": "2026-04-30T00:07:00+03:00"
+    },
+    {
+      "headline": "Trump Rejects Iran Ceasefire Proposal, Vows Continued Pressure",
+      "summary": "President Trump rejected an Iranian proposal to end the war, dismissing offers to lift the US naval blockade and indicating further strikes are planned.",
+      "emoji": "🇺🇸",
+      "category": "US-Iran War",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/further-strikes-planned-trump-rejects-iranian-proposal-lift-us-blockade-strait-hormuz",
+      "timestamp": "2026-04-30T00:07:00+03:00"
+    },
+    {
+      "headline": "China May Benefit from UAE OPEC Withdrawal Amid Iran War",
+      "summary": "Beijing may gain access to increased oil supply through the UAE leaving OPEC, though Strait of Hormuz disruption remains a serious constraint for Chinese energy security.",
+      "emoji": "🇨🇳",
+      "category": "Asia-Pacific",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/global-economy/article/3351849/why-china-may-benefit-uaes-opec-withdrawal-amid-iran-war-oil-crisis",
+      "timestamp": "2026-04-30T00:07:00+03:00"
+    },
+    {
+      "headline": "Iranian Officials Leave Canada Before FIFA Congress Over Airport \"Insult\"",
+      "summary": "Top Iranian football officials departed Canada before the FIFA Congress after alleging inappropriate treatment by Canadian airport authorities.",
+      "emoji": "🇮🇷",
+      "category": "Diplomacy",
+      "source": "Al-Monitor",
+      "url": "https://www.al-monitor.com/originals/2026/04/iran-officials-leave-canada-fifa-congress-over-airport-insult-iranian-media",
+      "timestamp": "2026-04-30T00:07:00+03:00"
+    },
+    {
+      "headline": "Sudan Sexual Violence Crisis Worsening, UN Warns",
+      "summary": "The UN reports that sexual violence being used as a weapon of war in Sudan has triggered a massive mental health crisis, including cases of rape and shootings of health workers.",
+      "emoji": "🇸🇩",
+      "category": "Africa",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/africa/article/3351888/sudans-sexual-violence-weapon-war-triggers-huge-mental-health-crisis-un",
+      "timestamp": "2026-04-30T00:07:00+03:00",
+      "perspectives": [
+        {
+          "source": "France 24",
+          "url": "https://www.france24.com/en/live-news/20260429-sexual-violence-in-sudan-triggers-mental-health-crisis-un",
+          "angle": "Sexual violence in Sudan creates mental health crisis, UN warns",
+          "summary": "The WHO reports a mental health emergency in Sudan as sexual violence affects tens of thousands of women and girls amid the ongoing civil war. Access to healthcare is severely limited, with survivors facing stigma and lack of trained medical staff."
+        }
+      ],
+      "sources": [
+        "SCMP",
+        "France 24"
+      ],
+      "urls": [
+        "https://www.scmp.com/news/world/africa/article/3351888/sudans-sexual-violence-weapon-war-triggers-huge-mental-health-crisis-un",
+        "https://www.france24.com/en/live-news/20260429-sexual-violence-in-sudan-triggers-mental-health-crisis-un"
+      ]
+    },
     {
       "headline": "IAEA Chief Says Iran Highly Enriched Uranium Still at Isfahan",
       "summary": "UN nuclear agency head Rafael Grossi confirmed that most of Iran highly enriched uranium remains at the Isfahan complex, amid heightened concerns about nuclear proliferation during the US-Israel conflict with Iran.",
@@ -8,16 +69,23 @@
       "category": "US-Iran War",
       "source": "AP News",
       "url": "https://apnews.com/article/iran-nuclear-uranium-grossi-iaea-isfahan-trump-be1e70b842638e69efeb07417bf78d41",
-      "timestamp": "2026-04-30T00:00:00+03:00"
-    },
-    {
-      "headline": "China Blocks Meta Deal With AI Startup, Escalating Tech Decoupling",
-      "summary": "Beijing insistence that Meta unwind its deal with Chinese AI start-up Manus marks an escalation in the geopolitical fight between China and Silicon Valley over technology and data access.",
-      "emoji": "🇨🇳",
-      "category": "US-China",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/29/business/china-silicon-valley-manus.html",
-      "timestamp": "2026-04-30T00:00:00+03:00"
+      "timestamp": "2026-04-30T00:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/iran-nuclear-uranium-grossi-iaea-isfahan-trump-be1e70b842638e69efeb07417bf78d41",
+          "angle": "IAEA Chief Confirms Iran Highly Enriched Uranium at Isfahan Site",
+          "summary": "UN nuclear agency head Rafael Grossi stated that Iran highly enriched uranium is still believed to be at the Isfahan site, amid ongoing concerns about Irans nuclear program during the US-Israel conflict with Iran."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "AP News"
+      ],
+      "urls": [
+        "https://apnews.com/article/iran-nuclear-uranium-grossi-iaea-isfahan-trump-be1e70b842638e69efeb07417bf78d41",
+        "https://apnews.com/article/iran-nuclear-uranium-grossi-iaea-isfahan-trump-be1e70b842638e69efeb07417bf78d41"
+      ]
     },
     {
       "headline": "Israel Intercepts Gaza Aid Ships Far From Shores",
@@ -26,7 +94,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/israel-begins-intercepting-gaza-aid-ships-far-shores-army-radio-says-2026-04-29/",
-      "timestamp": "2026-04-30T00:00:00+03:00"
+      "timestamp": "2026-04-30T00:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "Daily Sabah",
+          "url": "https://www.dailysabah.com/world/mid-east/france-urges-israel-to-lift-gaza-aid-restrictions-amid-dire-conditions",
+          "angle": "France Demands Israel Remove All Gaza Aid Barriers",
+          "summary": "France called on Israel to remove all restrictions on humanitarian aid to Gaza, citing dire conditions as the UN warns of worsening humanitarian crisis."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Daily Sabah"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/israel-begins-intercepting-gaza-aid-ships-far-shores-army-radio-says-2026-04-29/",
+        "https://www.dailysabah.com/world/mid-east/france-urges-israel-to-lift-gaza-aid-restrictions-amid-dire-conditions"
+      ]
     },
     {
       "headline": "US Charges Sinaloa Governor Over Cartel Ties",
@@ -44,7 +128,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/fed-likely-hold-rates-steady-what-may-be-last-meeting-powell-era-2026-04-29/",
-      "timestamp": "2026-04-30T00:00:00+03:00"
+      "timestamp": "2026-04-30T00:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/boj-keeps-rates-steady-3-board-members-dissent-call-hike-2026-04-28/",
+          "angle": "Bank of Japan holds rates steady but three board members dissent, call for hike",
+          "summary": "The BOJ kept interest rates unchanged but three of nine board members proposed hiking borrowing costs, signaling concern over inflationary pressures from the Middle East conflict affecting Japan's economy."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/fed-likely-hold-rates-steady-what-may-be-last-meeting-powell-era-2026-04-29/",
+        "https://www.reuters.com/world/asia-pacific/boj-keeps-rates-steady-3-board-members-dissent-call-hike-2026-04-28/"
+      ]
     },
     {
       "headline": "Europes defense hinges on Ukraine as US commitment wavers",
@@ -763,15 +863,6 @@
       "timestamp": "2026-04-29T14:05:00+03:00"
     },
     {
-      "headline": "IAEA Chief Confirms Iran Highly Enriched Uranium at Isfahan Site",
-      "summary": "UN nuclear agency head Rafael Grossi stated that Iran highly enriched uranium is still believed to be at the Isfahan site, amid ongoing concerns about Irans nuclear program during the US-Israel conflict with Iran.",
-      "emoji": "🇮🇷⚛️",
-      "category": "Middle East",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-nuclear-uranium-grossi-iaea-isfahan-trump-be1e70b842638e69efeb07417bf78d41",
-      "timestamp": "2026-04-29T14:03:00+03:00"
-    },
-    {
       "headline": "US Mandates Enhanced Security Checks for Immigration Applicants",
       "summary": "The Trump administration has mandated enhanced security checks for immigration applicants, according to internal guidance sent to USCIS employees, tightening vetting procedures amid the Iran conflict.",
       "emoji": "🇺🇸🏛️",
@@ -1102,31 +1193,6 @@
       "timestamp": "2026-04-29T08:07:00+03:00"
     },
     {
-      "headline": "Sexual violence in Sudan creates mental health crisis, UN warns",
-      "summary": "The WHO reports a mental health emergency in Sudan as sexual violence affects tens of thousands of women and girls amid the ongoing civil war. Access to healthcare is severely limited, with survivors facing stigma and lack of trained medical staff.",
-      "emoji": "🇸🇩💔",
-      "category": "Africa",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/live-news/20260429-sexual-violence-in-sudan-triggers-mental-health-crisis-un",
-      "timestamp": "2026-04-29T08:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "France 24",
-          "url": "https://www.france24.com/en/live-news/20260429-sexual-violence-in-sudan-triggers-mental-health-crisis-un",
-          "angle": "Sexual Violence in Sudan Triggers Mental Health Crisis, UN Warns",
-          "summary": "The United Nations reports widespread sexual violence in Sudan is causing a severe mental health crisis, as conflict between the military and RSF paramilitary continues."
-        }
-      ],
-      "sources": [
-        "France 24",
-        "France 24"
-      ],
-      "urls": [
-        "https://www.france24.com/en/live-news/20260429-sexual-violence-in-sudan-triggers-mental-health-crisis-un",
-        "https://www.france24.com/en/live-news/20260429-sexual-violence-in-sudan-triggers-mental-health-crisis-un"
-      ]
-    },
-    {
       "headline": "Jury deliberates in trial of alleged ISIS militant charged in Kabul airport bombing",
       "summary": "Federal jurors in Virginia are weighing charges against Mohammad Sharifullah, accused of helping plan the 2021 Abbey Gate suicide bombing that killed 13 US service members and 160 Afghans during the chaotic withdrawal from Afghanistan.",
       "emoji": "⚖️🇺🇸",
@@ -1389,15 +1455,6 @@
         "https://www.reuters.com/world/us/trump-approval-sinks-record-low-war-with-iran-drives-cost-of-living-concerns-2026-04-28/",
         "https://www.channelnewsasia.com/watch/maga-rift-deepens-trump-faces-media-base-backlash-over-iran-war-6089761"
       ]
-    },
-    {
-      "headline": "Bank of Japan holds rates steady but three board members dissent, call for hike",
-      "summary": "The BOJ kept interest rates unchanged but three of nine board members proposed hiking borrowing costs, signaling concern over inflationary pressures from the Middle East conflict affecting Japan's economy.",
-      "emoji": "🇯🇵",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/boj-keeps-rates-steady-3-board-members-dissent-call-hike-2026-04-28/",
-      "timestamp": "2026-04-29T03:05:00+03:00"
     },
     {
       "headline": "Russian shadow fleet undeterred by UK threats, nearly 100 ships cross British waters",
@@ -1824,15 +1881,6 @@
       "timestamp": "2026-04-28T20:07:00+03:00"
     },
     {
-      "headline": "France Demands Israel Remove All Gaza Aid Barriers",
-      "summary": "France called on Israel to remove all restrictions on humanitarian aid to Gaza, citing dire conditions as the UN warns of worsening humanitarian crisis.",
-      "emoji": "🇫🇷",
-      "category": "Middle East",
-      "source": "Daily Sabah",
-      "url": "https://www.dailysabah.com/world/mid-east/france-urges-israel-to-lift-gaza-aid-restrictions-amid-dire-conditions",
-      "timestamp": "2026-04-28T20:07:00+03:00"
-    },
-    {
       "headline": "Hong Kong Exports Surge 35.8% on AI Electronics Demand",
       "summary": "Hong Kong exports rose at the sharpest rate in over five years, up nearly 36% year-on-year in March, driven by strong demand for AI-related electronics.",
       "emoji": "🇭🇰",
@@ -2147,19 +2195,19 @@
       "timestamp": "2026-04-28T12:03:00+03:00",
       "perspectives": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/4/27/china-blocks-us-tech-giant-meta-from-acquiring-ai-startup-manus",
-          "angle": "China Blocks Meta From Acquiring AI Startup Manus",
-          "summary": "Beijing tightened scrutiny of AI industry amid intensifying geopolitical rivalry with the US over technology, moving to block Meta from acquiring the AI startup."
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/04/29/business/china-silicon-valley-manus.html",
+          "angle": "China Blocks Meta Deal With AI Startup, Escalating Tech Decoupling",
+          "summary": "Beijing insistence that Meta unwind its deal with Chinese AI start-up Manus marks an escalation in the geopolitical fight between China and Silicon Valley over technology and data access."
         }
       ],
       "sources": [
         "AP News",
-        "Al Jazeera"
+        "New York Times"
       ],
       "urls": [
         "https://apnews.com/article/china-meta-manus-ai-acquisition-5f8012791f86f719a24a3ebac06d9b0a",
-        "https://www.aljazeera.com/news/2026/4/27/china-blocks-us-tech-giant-meta-from-acquiring-ai-startup-manus"
+        "https://www.nytimes.com/2026/04/29/business/china-silicon-valley-manus.html"
       ]
     },
     {
@@ -2840,107 +2888,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/us-iran-war-hormuz-israel-pakistan-ceasefire-april-22-2026-267230f7f32b436822484479313840f7",
       "timestamp": "2026-04-27T22:05:00+03:00"
-    },
-    {
-      "headline": "Worker killed at Zaporizhzhia nuclear plant in Ukrainian drone attack",
-      "summary": "An employee of the Russian-controlled Zaporizhzhia nuclear power plant was killed in a Ukrainian drone attack, according to the Russian-installed management of the station.",
-      "emoji": "☢️",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/zaporizhzhia-nuclear-power-plant-worker-killed-ukraine-drone-attack-management-2026-04-27/",
-      "timestamp": "2026-04-27T21:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/4/27/russia-attacks-odesa-claims-ukraine-hit-zaporizhzhia-nuclear-plant",
-          "angle": "Russia attacks Odesa with drones, claims Ukraine hit Zaporizhzhia nuclear plant",
-          "summary": "Russian drone attacks on Odesa injured 11 people including children, while a Ukrainian drone strike killed a worker at the Russian-controlled Zaporizhzhia nuclear plant, escalating tensions around Europes largest nuclear facility."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/zaporizhzhia-nuclear-power-plant-worker-killed-ukraine-drone-attack-management-2026-04-27/",
-        "https://www.aljazeera.com/news/2026/4/27/russia-attacks-odesa-claims-ukraine-hit-zaporizhzhia-nuclear-plant"
-      ]
-    },
-    {
-      "headline": "North Korea's Kim pledges continued support for Russia's policies",
-      "summary": "Kim Jong Un said North Korea would continue supporting Russia's policies and discussed bolstering military ties with Moscow, signaling cooperation will endure beyond the Ukraine war.",
-      "emoji": "🇰🇵",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/north-koreas-kim-says-will-continue-support-russias-policies-kcna-says-2026-04-26/",
-      "timestamp": "2026-04-27T21:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/north-korea-russia-ukraine-memorial-museum-7c010fe1ded78fc45167c4fbab17ec92",
-          "angle": "North Korea Opens Memorial Museum for Soldiers Killed in Russia-Ukraine War",
-          "summary": "Pyongyang unveiled a memorial honoring North Korean troops killed fighting for Russia in Kursk. Kim Jong Un pledged continued support for Moscow's \"sacred war\" against Ukraine."
-        },
-        {
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/world/north-korea/kim-jong-un-vows-continue-support-russia-north-korea-opens-memorial-mu-rcna342244",
-          "angle": "Kim Jong Un Vows Continued Support for Russia at Memorial Ceremony",
-          "summary": "At the opening of a memorial for North Korean soldiers killed in Kursk, Kim Jong Un reaffirmed support for Russia's invasion of Ukraine and vowed to help Moscow achieve victory."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News",
-        "NBC News"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/aerospace-defense/north-koreas-kim-says-will-continue-support-russias-policies-kcna-says-2026-04-26/",
-        "https://apnews.com/article/north-korea-russia-ukraine-memorial-museum-7c010fe1ded78fc45167c4fbab17ec92",
-        "https://www.nbcnews.com/world/north-korea/kim-jong-un-vows-continue-support-russia-north-korea-opens-memorial-mu-rcna342244"
-      ]
-    },
-    {
-      "headline": "Congo creates US-UAE backed paramilitary guard to secure critical minerals",
-      "summary": "Congo announced a $100 million paramilitary mining guard backed by US and UAE funding to secure its vast mining operations, as Washington seeks access to critical minerals like coltan amid eastern conflict.",
-      "emoji": "🇨🇩",
-      "category": "Africa",
-      "source": "AP News",
-      "url": "https://apnews.com/article/congo-mining-guard-paramilitary-us-uae-minerals",
-      "timestamp": "2026-04-27T21:05:00+03:00"
-    },
-    {
-      "headline": "Poland's Sikorski proposes EU-funded rapid reaction force for regional crises",
-      "summary": "Poland's foreign minister calls for a European rapid reaction force funded by the EU to handle neighborhood security operations, arguing Europe must become a more credible ally amid growing geopolitical risks.",
-      "emoji": "🇵🇱🇪🇺",
-      "category": "Europe",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/europe/poland-s-sikorski-urges-eu-funded-rapid-reaction-force-for-neighborhood-crisis/3919691",
-      "timestamp": "2026-04-27T20:05:00+03:00"
-    },
-    {
-      "headline": "Pakistan Mortar Attacks Kill Four in Afghanistan, Taliban Says",
-      "summary": "Mortar and rocket attacks launched by Pakistan against Afghanistan killed at least four people and injured 70 more, according to the Taliban government. The strikes mark another escalation in cross-border tensions between the neighbors.",
-      "emoji": "🇵🇰",
-      "category": "South Asia",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/pakistan-mortar-attacks-kill-afghanistan-taliban-2026-04-27/",
-      "timestamp": "2026-04-27T20:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al-Monitor",
-          "url": "https://www.al-monitor.com/originals/2026/04/four-killed-70-injured-mortar-rocket-attacks-pakistan-afghan-taliban-says",
-          "angle": "Pakistan-Afghanistan border clashes kill 4, wound 70",
-          "summary": "Mortar and rocket attacks by Pakistan against Afghanistan killed four people and injured 70 on Monday, the Taliban government said. Cross-border violence has escalated amid regional tensions."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al-Monitor"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/pakistan-mortar-attacks-kill-afghanistan-taliban-2026-04-27/",
-        "https://www.al-monitor.com/originals/2026/04/four-killed-70-injured-mortar-rocket-attacks-pakistan-afghan-taliban-says"
-      ]
     }
   ]
 }
