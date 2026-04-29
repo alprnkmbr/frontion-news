@@ -1,14 +1,41 @@
 {
-  "lastUpdated": "2026-04-29T02:05:36+03:00",
+  "lastUpdated": "2026-04-29T03:05:10+03:00",
   "headlines": [
     {
-      "headline": "UAE exits OPEC to appease Trump, delivers blow to Saudi energy dominance",
-      "summary": "The UAE left Opec during the Hormuz blockade, positioning itself as a long-term disruptor to Saudi-led energy policy while currying favor with the Trump administration.",
-      "emoji": "🇦🇪🛢️",
+      "headline": "Trump approval rating sinks to record low as Iran war drives cost-of-living concerns",
+      "summary": "President Trump's approval rating has fallen to the lowest level of his second term, with Americans citing rising gasoline prices and economic strain from the Iran war as key factors in their dissatisfaction.",
+      "emoji": "🇺🇸",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/trump-approval-sinks-record-low-war-with-iran-drives-cost-of-living-concerns-2026-04-28/",
+      "timestamp": "2026-04-29T03:05:00+03:00"
+    },
+    {
+      "headline": "UAE exits OPEC and OPEC+ in major blow to oil producer alliance",
+      "summary": "The United Arab Emirates announced it is quitting both OPEC and OPEC+ effective May 1, dealing a heavy blow to the oil exporting groups at a time when the Iran war has caused an historic energy shock.",
+      "emoji": "🇦🇪",
       "category": "Energy",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/empowered-uaes-exit-opec-appeases-trump-and-delivers-blow-saudi-arabia",
-      "timestamp": "2026-04-29T02:05:00+03:00"
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/uae-exit-weakens-opec-power-over-oil-market-group-stay-together-sources-say-2026-04-28/",
+      "timestamp": "2026-04-29T03:05:00+03:00"
+    },
+    {
+      "headline": "Bank of Japan holds rates steady but three board members dissent, call for hike",
+      "summary": "The BOJ kept interest rates unchanged but three of nine board members proposed hiking borrowing costs, signaling concern over inflationary pressures from the Middle East conflict affecting Japan's economy.",
+      "emoji": "🇯🇵",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/boj-keeps-rates-steady-3-board-members-dissent-call-hike-2026-04-28/",
+      "timestamp": "2026-04-29T03:05:00+03:00"
+    },
+    {
+      "headline": "Russian shadow fleet undeterred by UK threats, nearly 100 ships cross British waters",
+      "summary": "A Reuters analysis shows that Prime Minister Keir Starmer's decision to let the British military board Russian shadow fleet ships has had no clear impact, with nearly 100 vessels still passing through UK waters.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/uk/russian-shadow-fleet-undeterred-by-starmers-threat-nearly-100-ships-cross-uk-2026-04-28/",
+      "timestamp": "2026-04-29T03:05:00+03:00"
     },
     {
       "headline": "Hezbollah drone kills Israeli Defense Ministry contractor in southern Lebanon",
@@ -80,7 +107,31 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/israels-purchase-stolen-ukrainian-grain-is-not-legitimate-zelenskiy-says-2026-04-28/",
-      "timestamp": "2026-04-29T02:03:00+03:00"
+      "timestamp": "2026-04-29T02:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/zelensky-slams-israel-for-buying-stolen-ukrainian-grain-says-kyiv-prepares-sanctions/",
+          "angle": "Zelensky condemns Israel for buying grain stolen by Russia from Ukraine",
+          "summary": "President Zelensky publicly accused Israel of purchasing grain stolen by Moscow from occupied Ukrainian territories, announcing Kyiv is preparing sanctions. The move strains Israel-Ukraine relations amid both countries facing separate conflicts."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/ukraine-take-measures-against-israel-if-grain-ship-docks-source-says-2026-04-27/",
+          "angle": "Ukraine summons Israeli ambassador over Russian grain shipments",
+          "summary": "Kyiv warned Israel about allowing grain shipments from Russian-occupied Ukrainian territories, with Foreign Minister Sybiha saying Israel must prevent \"stolen\" Ukrainian grain from entering its ports."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Kyiv Independent",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/israels-purchase-stolen-ukrainian-grain-is-not-legitimate-zelenskiy-says-2026-04-28/",
+        "https://kyivindependent.com/zelensky-slams-israel-for-buying-stolen-ukrainian-grain-says-kyiv-prepares-sanctions/",
+        "https://www.reuters.com/business/aerospace-defense/ukraine-take-measures-against-israel-if-grain-ship-docks-source-says-2026-04-27/"
+      ]
     },
     {
       "headline": "Drone Diplomacy Wins Ukraine Allies, But Now It Must Deliver",
@@ -513,19 +564,19 @@
       "timestamp": "2026-04-28T20:10:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/view-uae-leave-opec-opec-oil-producer-groups-2026-04-28/",
-          "angle": "UAE Announces Exit from OPEC and OPEC+",
-          "summary": "The United Arab Emirates will leave the oil cartel OPEC and its OPEC+ alliance effective May 1, dealing a major blow to Saudi-led oil coordination during the Iran war energy crisis. The move ends nearly 60 years of UAE membership."
+          "source": "Middle East Eye",
+          "url": "https://www.middleeasteye.net/news/empowered-uaes-exit-opec-appeases-trump-and-delivers-blow-saudi-arabia",
+          "angle": "UAE exits OPEC to appease Trump, delivers blow to Saudi energy dominance",
+          "summary": "The UAE left Opec during the Hormuz blockade, positioning itself as a long-term disruptor to Saudi-led energy policy while currying favor with the Trump administration."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "Middle East Eye"
       ],
       "urls": [
         "https://www.reuters.com/business/energy/view-uae-leave-opec-opec-oil-producer-groups-2026-04-28/",
-        "https://www.reuters.com/business/energy/view-uae-leave-opec-opec-oil-producer-groups-2026-04-28/"
+        "https://www.middleeasteye.net/news/empowered-uaes-exit-opec-appeases-trump-and-delivers-blow-saudi-arabia"
       ]
     },
     {
@@ -866,15 +917,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/germanys-merz-says-iran-is-humiliating-us-talks-stall-2026-04-27/",
       "timestamp": "2026-04-28T15:05:00+03:00"
-    },
-    {
-      "headline": "Zelensky condemns Israel for buying grain stolen by Russia from Ukraine",
-      "summary": "President Zelensky publicly accused Israel of purchasing grain stolen by Moscow from occupied Ukrainian territories, announcing Kyiv is preparing sanctions. The move strains Israel-Ukraine relations amid both countries facing separate conflicts.",
-      "emoji": "🇺🇦🇮🇱",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/zelensky-slams-israel-for-buying-stolen-ukrainian-grain-says-kyiv-prepares-sanctions/",
-      "timestamp": "2026-04-28T14:15:00+03:00"
     },
     {
       "headline": "Gulf leaders hold emergency summit in Jeddah on Iran conflict",
@@ -1310,15 +1352,6 @@
         "https://www.reuters.com/business/energy/chinas-clean-tech-exporters-cash-iran-war-hits-oil-gas-flows-2026-04-27/",
         "https://www.reuters.com/business/energy/oil-jumps-more-than-2-us-iran-peace-talks-stall-2026-04-26/"
       ]
-    },
-    {
-      "headline": "Ukraine summons Israeli ambassador over Russian grain shipments",
-      "summary": "Kyiv warned Israel about allowing grain shipments from Russian-occupied Ukrainian territories, with Foreign Minister Sybiha saying Israel must prevent \"stolen\" Ukrainian grain from entering its ports.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/ukraine-take-measures-against-israel-if-grain-ship-docks-source-says-2026-04-27/",
-      "timestamp": "2026-04-28T08:10:00+03:00"
     },
     {
       "headline": "Zelenskiy rejects EU associate membership offer, demands full accession by 2027",
@@ -2899,101 +2932,6 @@
       "source": "Charter97",
       "url": "https://charter97.org/en/news/2026/4/26/681901/",
       "timestamp": "2026-04-26T18:10:00+03:00"
-    },
-    {
-      "headline": "Israeli President Delays Decision on Netanyahu Pardon, Pushes for Plea Deal",
-      "summary": "President Isaac Herzog said he will delay deciding on Prime Minister Netanyahus pardon request for corruption cases, urging that mediation efforts be exhausted first. The decision comes amid the ongoing Iran-Israel conflict.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-26/israel-president-holds-off-deciding-whether-to-pardon-netanyahu",
-      "timestamp": "2026-04-26T17:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-04-26/israel-president-holds-off-deciding-whether-to-pardon-netanyahu",
-          "angle": "Israel President Herzog seeks plea deal over pardon for Netanyahu",
-          "summary": "Israeli President Isaac Herzog has decided to shelve Prime Minister Benjamin Netanyahu's pardon request, instead pushing for mediation that could lead to a plea deal in his corruption trial. Netanyahu faces charges in three cases."
-        }
-      ],
-      "sources": [
-        "Bloomberg",
-        "Bloomberg"
-      ],
-      "urls": [
-        "https://www.bloomberg.com/news/articles/2026-04-26/israel-president-holds-off-deciding-whether-to-pardon-netanyahu",
-        "https://www.bloomberg.com/news/articles/2026-04-26/israel-president-holds-off-deciding-whether-to-pardon-netanyahu"
-      ]
-    },
-    {
-      "headline": "Russia warns months needed to rebalance oil market after Hormuz blockade",
-      "summary": "Russian Deputy PM Alexander Novak warned of deep energy crisis as the Hormuz blockade prevents large volumes of oil from reaching global markets.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/eurasia/months-needed-to-rebalance-global-oil-market-after-hormuz-blockade-senior-russian-official-says/3918542",
-      "timestamp": "2026-04-26T16:07:00+03:00"
-    },
-    {
-      "headline": "China positioned to benefit from energy-driven renewables race",
-      "summary": "The US-Iran war may have inadvertently triggered a global energy transition favoring Beijing's green technology leadership, analysts say.",
-      "emoji": "🇨🇳",
-      "category": "Energy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3351455/china-poised-reap-rewards-energy-shock-heats-race-renewables",
-      "timestamp": "2026-04-26T16:07:00+03:00"
-    },
-    {
-      "headline": "Car bomb explodes outside Belfast police station in suspected dissident attack",
-      "summary": "A car bomb exploded outside a police station in Dunmurry, south Belfast, after a delivery vehicle was hijacked. Northern Ireland police called it a \"miracle\" no one was injured and suspect dissident republicans, possibly the New IRA.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/uk/car-explodes-outside-police-station-northern-ireland-belfast-telegraph-reports-2026-04-26/",
-      "timestamp": "2026-04-26T16:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/northern-ireland-security-alert-bomb-5518cc576e8ce9cdd2fc8264ff7a5375",
-          "angle": "Car Bomb Explodes Outside Northern Ireland Police Station",
-          "summary": "A car bomb attack on a police station in Dunmurry, near Belfast, has been condemned as an attempt to undermine the 1998 Good Friday Agreement. Dissident Republican groups are suspected."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/uk/car-explodes-outside-police-station-northern-ireland-belfast-telegraph-reports-2026-04-26/",
-        "https://apnews.com/article/northern-ireland-security-alert-bomb-5518cc576e8ce9cdd2fc8264ff7a5375"
-      ]
-    },
-    {
-      "headline": "Australia announces M armored vehicle deal amid weapons buildup",
-      "summary": "Australia will spend more than $800 million on armored vehicles, adding to its recent weapons purchases as the Middle East conflict drives concerns about regional security and supply chain vulnerabilities.",
-      "emoji": "🇦🇺",
-      "category": "Asia-Pacific",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-26/australia-adds-to-weapons-buildup-with-new-armored-vehicle-deal",
-      "timestamp": "2026-04-26T16:03:00+03:00"
-    },
-    {
-      "headline": "Iran FM Araqchi discusses Hormuz security and war end efforts with Oman",
-      "summary": "Iran's Foreign Minister Abbas Araqchi held talks in Oman on Sunday to discuss security in the Strait of Hormuz and broader Gulf waters, as well as diplomatic efforts to end the Iran-U.S. conflict. The meeting comes as US-Iran peace talks remain stalled.",
-      "emoji": "🇴🇲",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/irans-araqchi-discusses-efforts-end-war-hormuz-security-with-oman-2026-04-26/",
-      "timestamp": "2026-04-26T16:03:00+03:00"
-    },
-    {
-      "headline": "King Charles state visit under security review after Washington shooting",
-      "summary": "Buckingham Palace is holding discussions with US authorities about whether the shooting at the White House Correspondents' Dinner will affect security planning for King Charles's state visit to the US this week. The King expressed relief that Trump was unharmed.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/uk/uk-says-cooperating-closely-with-us-security-ahead-king-charles-visit-2026-04-26/",
-      "timestamp": "2026-04-26T16:03:00+03:00"
     }
   ]
 }
