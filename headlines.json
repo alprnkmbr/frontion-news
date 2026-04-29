@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-04-29T13:05:25+03:00",
+  "lastUpdated": "2026-04-29T14:04:30+03:00",
   "headlines": [
+    {
+      "headline": "IAEA Chief Confirms Iran Highly Enriched Uranium at Isfahan Site",
+      "summary": "UN nuclear agency head Rafael Grossi stated that Iran highly enriched uranium is still believed to be at the Isfahan site, amid ongoing concerns about Irans nuclear program during the US-Israel conflict with Iran.",
+      "emoji": "🇮🇷⚛️",
+      "category": "Middle East",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-nuclear-uranium-grossi-iaea-isfahan-trump-be1e70b842638e69efeb07417bf78d41",
+      "timestamp": "2026-04-29T14:03:00+03:00"
+    },
+    {
+      "headline": "US Mandates Enhanced Security Checks for Immigration Applicants",
+      "summary": "The Trump administration has mandated enhanced security checks for immigration applicants, according to internal guidance sent to USCIS employees, tightening vetting procedures amid the Iran conflict.",
+      "emoji": "🇺🇸🏛️",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/government/us-mandates-what-it-calls-enhanced-security-checks-immigration-applicants-2026-04-29/",
+      "timestamp": "2026-04-29T14:03:00+03:00"
+    },
+    {
+      "headline": "Standard Chartered and IFC Launch 300M Africa Supply Chain Finance",
+      "summary": "The World Bank IFC and Standard Chartered announced a new 300 million risk-sharing facility aimed at boosting supply chain finance across Africa amid global economic uncertainty.",
+      "emoji": "🌍💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/standard-chartered-ifc-launch-300-million-africa-supply-chain-finance-facility-2026-04-29/",
+      "timestamp": "2026-04-29T14:03:00+03:00"
+    },
+    {
+      "headline": "US Sets Conditions for UN Dues Including China Curbs",
+      "summary": "The United States has set specific conditions for releasing billions it owes the UN including cost-cutting measures and moves to counter China influence at the world body.",
+      "emoji": "🇺🇸🇨🇳🏛️",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/us-conditions-paying-un-dues-include-china-curbs-report-2026-04-28/",
+      "timestamp": "2026-04-29T14:03:00+03:00"
+    },
     {
       "headline": "UAE Announces Exit from OPEC and OPEC+",
       "summary": "The United Arab Emirates has quit OPEC and OPEC+, dealing a major blow to the oil cartel and Saudi Arabia amid the ongoing Iran conflict and energy market volatility. The move could reshape global oil supply dynamics.",
@@ -8,7 +44,31 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/view-uae-leave-opec-opec-oil-producer-groups-2026-04-28/",
-      "timestamp": "2026-04-29T13:03:00+03:00"
+      "timestamp": "2026-04-29T13:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/barclays-sees-faster-oil-supply-growth-uae-after-its-exit-opec-2026-04-29/",
+          "angle": "Barclays Forecasts Faster UAE Oil Supply Growth Post-OPEC Exit",
+          "summary": "Barclays analysts project that the UAE will accelerate oil production following its exit from OPEC, potentially adding more supply to global markets during the ongoing energy crisis."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/what-is-opec-how-does-it-affect-oil-prices-2026-04-28/",
+          "angle": "UAE to Exit OPEC as Iran War Strains Gulf Oil Alliance",
+          "summary": "The United Arab Emirates announced it will leave OPEC on May 1, dealing a major blow to the 65-year-old cartel as the Iran-US war disrupts Gulf energy flows and opens the door to a potential price war among producers."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/view-uae-leave-opec-opec-oil-producer-groups-2026-04-28/",
+        "https://www.reuters.com/business/energy/barclays-sees-faster-oil-supply-growth-uae-after-its-exit-opec-2026-04-29/",
+        "https://www.reuters.com/business/energy/what-is-opec-how-does-it-affect-oil-prices-2026-04-28/"
+      ]
     },
     {
       "headline": "Brent Crude Hits One-Month High on Prolonged Hormuz Disruption Fears",
@@ -17,15 +77,6 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/oil-rises-reports-us-will-extend-iran-blockade-prolonging-mideast-supply-2026-04-29/",
-      "timestamp": "2026-04-29T13:03:00+03:00"
-    },
-    {
-      "headline": "Barclays Forecasts Faster UAE Oil Supply Growth Post-OPEC Exit",
-      "summary": "Barclays analysts project that the UAE will accelerate oil production following its exit from OPEC, potentially adding more supply to global markets during the ongoing energy crisis.",
-      "emoji": "💰",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/barclays-sees-faster-oil-supply-growth-uae-after-its-exit-opec-2026-04-29/",
       "timestamp": "2026-04-29T13:03:00+03:00"
     },
     {
@@ -142,47 +193,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/meta-instagram-facebook-european-union-digital-e8fdaa4173a363f2b968e59ee441fb84",
       "timestamp": "2026-04-29T12:03:00+03:00"
-    },
-    {
-      "headline": "UAE to Exit OPEC as Iran War Strains Gulf Oil Alliance",
-      "summary": "The United Arab Emirates announced it will leave OPEC on May 1, dealing a major blow to the 65-year-old cartel as the Iran-US war disrupts Gulf energy flows and opens the door to a potential price war among producers.",
-      "emoji": "🇦🇪🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/what-is-opec-how-does-it-affect-oil-prices-2026-04-28/",
-      "timestamp": "2026-04-29T11:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/view-uae-leave-opec-opec-oil-producer-groups-2026-04-28/",
-          "angle": "UAE announces exit from OPEC and OPEC+ amid Iran war energy crisis",
-          "summary": "The United Arab Emirates will leave OPEC on May 1, dealing a major blow to the oil cartel as the Iran-US conflict strains Gulf relations and reshapes global energy dynamics. The exit weakens OPEC+ influence and raises prospects of a price war."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/uae-exit-weakens-opec-power-over-oil-market-group-stay-together-sources-say-2026-04-28/",
-          "angle": "UAE exits OPEC and OPEC+ in major blow to oil producer alliance",
-          "summary": "The United Arab Emirates announced it is quitting both OPEC and OPEC+ effective May 1, dealing a heavy blow to the oil exporting groups at a time when the Iran war has caused an historic energy shock."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/oil-prices-rise-no-end-iran-war-stand-off-seems-sight-2026-04-28/",
-          "angle": "Oil prices climb 1% as Iran war stalemate persists",
-          "summary": "Brent crude rose toward $110 per barrel as diplomatic efforts to end the US-Iran war appeared stalled, with the Strait of Hormuz remaining effectively closed to shipping."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/what-is-opec-how-does-it-affect-oil-prices-2026-04-28/",
-        "https://www.reuters.com/business/energy/view-uae-leave-opec-opec-oil-producer-groups-2026-04-28/",
-        "https://www.reuters.com/business/energy/uae-exit-weakens-opec-power-over-oil-market-group-stay-together-sources-say-2026-04-28/",
-        "https://www.reuters.com/business/energy/oil-prices-rise-no-end-iran-war-stand-off-seems-sight-2026-04-28/"
-      ]
     },
     {
       "headline": "King Charles Raises Iran Nuclear Concern at White House State Dinner",
@@ -2810,33 +2820,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/netanyahu-trump-elections-ben-gvir-israel-iran-9e80db532e7f117c9fd57c706e3ffa56",
       "timestamp": "2026-04-27T10:05:00+03:00"
-    },
-    {
-      "headline": "Can King Charles help heal the US-British rupture?",
-      "summary": "Not since Queen Elizabeth II traveled to Washington after the Suez Crisis has a British monarch's visit come at such a fraught time in Anglo-American relations, with the King seeking to restore strained ties.",
-      "emoji": "🇬🇧",
-      "category": "Diplomacy",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/27/world/europe/can-king-charles-help-heal-the-us-british-rupture.html",
-      "timestamp": "2026-04-27T09:03:00+03:00"
-    },
-    {
-      "headline": "20,000 Seafarers Stranded in Persian Gulf as Hormuz Remains Blocked",
-      "summary": "Approximately 20,000 seafarers on hundreds of vessels remain stranded in the Persian Gulf, unable to cross the effectively closed Strait of Hormuz. The UN reports at least 10 seafarers have been killed since the conflict began.",
-      "emoji": "🚢⚠️",
-      "category": "Economy",
-      "source": "AP News",
-      "url": "https://www.newsday.com/news/nation/stranded-ships-iran-war-hormuz-y27259",
-      "timestamp": "2026-04-27T08:03:00+03:00"
-    },
-    {
-      "headline": "Four Candidates Vie to Succeed UN Secretary-General Guterres",
-      "summary": "Michelle Bachelet (Chile), Rafael Grossi (Argentina), Rebeca Grynspan (Costa Rica), and Macky Sall (Senegal) presented their visions to lead the UN, focusing on restoring global peace and reforming the institution.",
-      "emoji": "🇺🇳🏛️",
-      "category": "Diplomacy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/united-nations-secretary-general-candidates-6423dd5a83cdd4b9956a43ed5f0ba7f2",
-      "timestamp": "2026-04-27T08:03:00+03:00"
     }
   ]
 }
