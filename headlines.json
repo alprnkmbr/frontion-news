@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-04-29T16:14:00+03:00",
+  "lastUpdated": "2026-04-29T17:04:29+03:00",
   "headlines": [
     {
-      "headline": "Putin Scales Back Victory Day Parade Over Ukraine Attack Fears",
-      "summary": "Russia will omit military hardware from Victory Day parade for the first time in nearly two decades, citing concerns they could be targeted by Ukrainian forces. The move reflects ongoing security concerns as the war continues.",
+      "headline": "Iranian rial crashes to record low as economic strain deepens after war",
+      "summary": "Iran currency dropped to a record low of 1,810,000 rials to the US dollar as demand for foreign exchange that built up during six weeks of fighting flows into the open market under the ceasefire.",
+      "emoji": "🇮🇷",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/irans-currency-drops-record-low-level-18-million-rials-dollar-isna-reports-2026-04-29/",
+      "timestamp": "2026-04-29T17:05:00+03:00"
+    },
+    {
+      "headline": "UAE exit from OPEC risks bitter price war and loss of cartel influence",
+      "summary": "UAE decision to leave OPEC on May 1 will sharply diminish the 65-year-old producer group influence over oil markets, opening door to all-out price war once Iran war ends.",
+      "emoji": "🇦🇪",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/uae-exit-strips-opec-clout-risks-bitter-price-war-2026-04-28/",
+      "timestamp": "2026-04-29T17:05:00+03:00"
+    },
+    {
+      "headline": "Russia scales back Victory Day parade without military equipment for first time in decades",
+      "summary": "Russia annual commemoration of Soviet WWII victory will not feature military vehicles or cadets, citing threat from Ukraine as drones continue striking deep inside Russian territory.",
       "emoji": "🇷🇺",
       "category": "Ukraine-Russia War",
-      "source": "Telegraph",
-      "url": "https://www.telegraph.co.uk/world-news/2026/04/29/putin-scales-back-military-parade-over-ukraine-attack-fears/",
-      "timestamp": "2026-04-29T16:15:00+03:00"
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c794wp4yy93o",
+      "timestamp": "2026-04-29T17:05:00+03:00"
+    },
+    {
+      "headline": "Two stabbed in London Jewish neighborhood, PM condemns antisemitic attack",
+      "summary": "Two people were stabbed in Golders Green, a London neighborhood with large Jewish population, in what UK Prime Minister Starmer called an antisemitic attack amid rising tensions over Middle East war.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "AP News",
+      "url": "https://apnews.com/article/uk-london-stabbing-jewish-community-golders-green-3fba4e0c5d8467e3e497a9a05dfe976c",
+      "timestamp": "2026-04-29T17:05:00+03:00"
+    },
+    {
+      "headline": "US stocks fall as oil prices surge past $4 per gallon nationally",
+      "summary": "Wall Street retreated as oil prices continued climbing amid Iran war uncertainty, with national average gas price reaching $4.229 per gallon, the highest since the conflict began.",
+      "emoji": "💰",
+      "category": "Economy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/stock-markets-opec-trump-oil-iran-rates-16286a529f0fbb34ed213005ffda74b2",
+      "timestamp": "2026-04-29T17:05:00+03:00"
     },
     {
       "headline": "German Inflation Jumps as Middle East War Drives Energy Costs Higher",
@@ -17,15 +53,6 @@
       "category": "Europe",
       "source": "France 24",
       "url": "https://www.france24.com/en/live-news/20260429-german-inflation-jumps-in-april-as-energy-costs-surge",
-      "timestamp": "2026-04-29T16:15:00+03:00"
-    },
-    {
-      "headline": "Israeli Opposition Takes Cues from Hungary to Challenge Netanyahu",
-      "summary": "Two Israeli opposition figures have joined forces, taking inspiration from Hungary where long-time leader Viktor Orban was ousted. The move signals a new unified front against Netanyahu's leadership.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "DW",
-      "url": "https://www.dw.com/en/hungary-inspires-israeli-opposition-bid-to-defeat-netanyahu/a-76973091",
       "timestamp": "2026-04-29T16:15:00+03:00"
     },
     {
@@ -106,6 +133,31 @@
       "timestamp": "2026-04-29T16:05:00+03:00"
     },
     {
+      "headline": "Russia to Hold Victory Day Parade Without Military Equipment",
+      "summary": "Russias Defence Ministry said the May 9 parade on Red Square will proceed without military equipment displays, citing the operational situation in Ukraine amid concerns over drone threats.",
+      "emoji": "🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/russia-mark-war-anniversary-with-parade-no-equipment-2026-04-29/",
+      "timestamp": "2026-04-29T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/04/29/putin-scales-back-military-parade-over-ukraine-attack-fears/",
+          "angle": "Putin Scales Back Victory Day Parade Over Ukraine Attack Fears",
+          "summary": "Russia will omit military hardware from Victory Day parade for the first time in nearly two decades, citing concerns they could be targeted by Ukrainian forces. The move reflects ongoing security concerns as the war continues."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Telegraph"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/aerospace-defense/russia-mark-war-anniversary-with-parade-no-equipment-2026-04-29/",
+        "https://www.telegraph.co.uk/world-news/2026/04/29/putin-scales-back-military-parade-over-ukraine-attack-fears/"
+      ]
+    },
+    {
       "headline": "UAE Reviews Multilateral Ties After OPEC Exit, Rules Out Further Withdrawals",
       "summary": "The UAE is reassessing its role in multilateral organizations after leaving OPEC but will not make additional withdrawals, a senior official said, as the Gulf state recalibrates its global position.",
       "emoji": "🇦🇪",
@@ -171,31 +223,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/zelenskiy-says-ukraine-will-continue-extending-range-strikes-russia-2026-04-29/",
       "timestamp": "2026-04-29T15:03:00+03:00"
-    },
-    {
-      "headline": "Russia to Hold Victory Day Parade Without Military Equipment",
-      "summary": "Russias Defence Ministry said the May 9 parade on Red Square will proceed without military equipment displays, citing the operational situation in Ukraine amid concerns over drone threats.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/russia-mark-war-anniversary-with-parade-no-equipment-2026-04-29/",
-      "timestamp": "2026-04-29T15:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/russia-mark-war-anniversary-with-parade-no-equipment-2026-04-29/",
-          "angle": "Russia Cancels Military Equipment Display at Victory Day Parade Due to Ukraine War Losses",
-          "summary": "Russia will hold its annual Victory Day parade on Red Square without displaying military equipment, a stark acknowledgment of the drain on resources from the ongoing war in Ukraine that has depleted tanks and armored vehicles."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/aerospace-defense/russia-mark-war-anniversary-with-parade-no-equipment-2026-04-29/",
-        "https://www.reuters.com/business/aerospace-defense/russia-mark-war-anniversary-with-parade-no-equipment-2026-04-29/"
-      ]
     },
     {
       "headline": "Fed Chair Nominee Warsh Set to Clear Key Confirmation Hurdle",
@@ -1881,6 +1908,31 @@
       "timestamp": "2026-04-28T10:03:00+03:00"
     },
     {
+      "headline": "Netanyahu Rivals Announce Alliance to Challenge Israeli Government",
+      "summary": "Two of Benjamin Netanyahu's top rivals announced they would join forces in upcoming elections to challenge his coalition, focusing on domestic issues including military conscription for ultra-Orthodox Israelis.",
+      "emoji": "🇮🇱",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/netanyahus-rivals-are-joining-forces-would-they-shift-israels-security-policy-2026-04-27/",
+      "timestamp": "2026-04-28T09:15:00+03:00",
+      "perspectives": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/hungary-inspires-israeli-opposition-bid-to-defeat-netanyahu/a-76973091",
+          "angle": "Israeli Opposition Takes Cues from Hungary to Challenge Netanyahu",
+          "summary": "Two Israeli opposition figures have joined forces, taking inspiration from Hungary where long-time leader Viktor Orban was ousted. The move signals a new unified front against Netanyahu's leadership."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "DW"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/netanyahus-rivals-are-joining-forces-would-they-shift-israels-security-policy-2026-04-27/",
+        "https://www.dw.com/en/hungary-inspires-israeli-opposition-bid-to-defeat-netanyahu/a-76973091"
+      ]
+    },
+    {
       "headline": "Lithuania Charges 13 People in GRU-Linked Assassination Attempts",
       "summary": "Lithuanian authorities charged 13 individuals from multiple countries with two attempted murders in Vilnius tied to Russia's GRU military intelligence agency, marking a significant escalation in Russian intelligence operations targeting opponents abroad.",
       "emoji": "🇱🇹",
@@ -1962,31 +2014,6 @@
       "urls": [
         "https://apnews.com/article/japan-takaichi-security-strategy-military-205195780b1577a8304b0df076d57018",
         "https://asia.nikkei.com/politics/defense/japan-vows-to-deepen-defense-ties-with-australia-at-nikkei-forum-in-perth"
-      ]
-    },
-    {
-      "headline": "Netanyahu Rivals Announce Alliance to Challenge Israeli Government",
-      "summary": "Two of Benjamin Netanyahu's top rivals announced they would join forces in upcoming elections to challenge his coalition, focusing on domestic issues including military conscription for ultra-Orthodox Israelis.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/netanyahus-rivals-are-joining-forces-would-they-shift-israels-security-policy-2026-04-27/",
-      "timestamp": "2026-04-28T09:15:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/netanyahus-biggest-rivals-join-forces-israels-next-election-2026-04-26/",
-          "angle": "Netanyahu's Rivals Bennett and Lapid Join Forces for Israeli Election",
-          "summary": "Two of Prime Minister Benjamin Netanyahu's main political opponents, former PMs Naftali Bennett and Yair Lapid, announced they are merging parties to challenge his coalition in elections expected later this year."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/netanyahus-rivals-are-joining-forces-would-they-shift-israels-security-policy-2026-04-27/",
-        "https://www.reuters.com/world/middle-east/netanyahus-biggest-rivals-join-forces-israels-next-election-2026-04-26/"
       ]
     },
     {
@@ -2874,49 +2901,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/economy/china-economy/article/3351546/china-delivers-record-lng-carrier-shipbuilding-rivalry-south-korea-intensifies",
       "timestamp": "2026-04-27T12:05:00+03:00"
-    },
-    {
-      "headline": "Mali defense minister killed in insurgent assault",
-      "summary": "Mali's Defense Minister Sadio Camara was killed in coordinated attacks by insurgents including al Qaeda's West Africa affiliate, marking a major blow to the government.",
-      "emoji": "🇲🇱",
-      "category": "Africa",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/africa/gunfire-persists-mali-town-un-urges-international-response-after-attacks-2026-04-26/",
-      "timestamp": "2026-04-27T12:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Middle East Eye",
-          "url": "https://www.middleeasteye.net/news/malis-defence-minister-killed-armed-groups-launch-countrywide-offensive",
-          "angle": "Mali Defence Minister Killed in Car Bomb Attack",
-          "summary": "Mali Defence Minister Sadio Camara and family members were killed in a car bomb attack as Tuareg separatists and al-Qaeda affiliate launch a string of coordinated attacks across the country."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Middle East Eye"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/africa/gunfire-persists-mali-town-un-urges-international-response-after-attacks-2026-04-26/",
-        "https://www.middleeasteye.net/news/malis-defence-minister-killed-armed-groups-launch-countrywide-offensive"
-      ]
-    },
-    {
-      "headline": "DeepSeek releases new AI model to muted market response",
-      "summary": "Chinese startup DeepSeek previewed its next-generation AI model, but market reaction was subdued compared to last year's breakthrough. The fast-moving AI industry continues to evolve rapidly.",
-      "emoji": "🤖",
-      "category": "Technology",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/deepseeks-new-ai-model-does-not-wow-markets-fast-changing-industry-2026-04-27/",
-      "timestamp": "2026-04-27T12:03:00+03:00"
-    },
-    {
-      "headline": "At least 42 killed in Chad water resource clashes",
-      "summary": "A clash between two families over a water point in eastern Chad escalated into reprisal attacks, killing at least 42 people amid growing resource scarcity in the Sahel region.",
-      "emoji": "🇹🇩",
-      "category": "Africa",
-      "source": "AP News",
-      "url": "https://apnews.com/article/chad-water-clashes-42-killed-efe6bb5ce6512ae0a8c40e534bf68e67",
-      "timestamp": "2026-04-27T12:03:00+03:00"
     }
   ]
 }
