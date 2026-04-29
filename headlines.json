@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-04-29T03:05:10+03:00",
+  "lastUpdated": "2026-04-29T04:05:13+03:00",
   "headlines": [
+    {
+      "headline": "King Charles attends White House state dinner with Trump",
+      "summary": "King Charles III and Queen Camilla attended a state dinner at the White House hosted by President Trump, following Charles' historic address to Congress. The visit emphasizes US-UK ties amid global tensions.",
+      "emoji": "🇬🇧🇺🇸",
+      "category": "Diplomacy",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/king-charles-trump-address-congress-white-house/",
+      "timestamp": "2026-04-29T04:03:00+03:00"
+    },
+    {
+      "headline": "Canada launches sovereign wealth fund with lower deficit",
+      "summary": "Prime Minister Mark Carney announced Canada's first sovereign wealth fund with an initial Cbn contribution. The deficit is now 14% lower than projected, aided by higher oil prices. The fund will invest in energy, infrastructure, mining, and technology.",
+      "emoji": "🇨🇦💰",
+      "category": "Economy",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cz0278zyznjo",
+      "timestamp": "2026-04-29T04:03:00+03:00"
+    },
+    {
+      "headline": "Jury deliberates in trial of IS militant over Kabul airport bombing",
+      "summary": "A Virginia jury began deliberations in the trial of Mohammad Sharifullah, an alleged Islamic State militant charged with helping plan the 2021 Abbey Gate suicide bombing that killed 13 US service members and 160 Afghans during the US withdrawal from Afghanistan.",
+      "emoji": "⚖️🇦🇫",
+      "category": "Military",
+      "source": "AP News",
+      "url": "https://apnews.com/article/abbey-gate-afghanistan-suicide-bombing-trial-17bcf6a00aa886cc8bd39e33b3b24fc0",
+      "timestamp": "2026-04-29T04:03:00+03:00"
+    },
     {
       "headline": "Trump approval rating sinks to record low as Iran war drives cost-of-living concerns",
       "summary": "President Trump's approval rating has fallen to the lowest level of his second term, with Americans citing rising gasoline prices and economic strain from the Iran war as key factors in their dissatisfaction.",
@@ -17,7 +44,23 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/uae-exit-weakens-opec-power-over-oil-market-group-stay-together-sources-say-2026-04-28/",
-      "timestamp": "2026-04-29T03:05:00+03:00"
+      "timestamp": "2026-04-29T03:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/view-uae-leave-opec-opec-oil-producer-groups-2026-04-28/",
+          "angle": "UAE Announces Departure from OPEC, Dealing Major Blow to Oil Cartel",
+          "summary": "The United Arab Emirates announced it will leave OPEC effective May 1, stripping the organization of its third-largest producer. The move comes amid tensions over production policies during the Iran conflict and could reshape global oil markets."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/uae-exit-weakens-opec-power-over-oil-market-group-stay-together-sources-say-2026-04-28/",
+        "https://www.reuters.com/business/energy/view-uae-leave-opec-opec-oil-producer-groups-2026-04-28/"
+      ]
     },
     {
       "headline": "Bank of Japan holds rates steady but three board members dissent, call for hike",
@@ -553,31 +596,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/us/us-justice-department-indicts-former-fbi-director-comey-second-time-cnn-reports-2026-04-28/",
       "timestamp": "2026-04-28T21:03:00+03:00"
-    },
-    {
-      "headline": "UAE Announces Departure from OPEC, Dealing Major Blow to Oil Cartel",
-      "summary": "The United Arab Emirates announced it will leave OPEC effective May 1, stripping the organization of its third-largest producer. The move comes amid tensions over production policies during the Iran conflict and could reshape global oil markets.",
-      "emoji": "🇦🇪🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/view-uae-leave-opec-opec-oil-producer-groups-2026-04-28/",
-      "timestamp": "2026-04-28T20:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "Middle East Eye",
-          "url": "https://www.middleeasteye.net/news/empowered-uaes-exit-opec-appeases-trump-and-delivers-blow-saudi-arabia",
-          "angle": "UAE exits OPEC to appease Trump, delivers blow to Saudi energy dominance",
-          "summary": "The UAE left Opec during the Hormuz blockade, positioning itself as a long-term disruptor to Saudi-led energy policy while currying favor with the Trump administration."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Middle East Eye"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/view-uae-leave-opec-opec-oil-producer-groups-2026-04-28/",
-        "https://www.middleeasteye.net/news/empowered-uaes-exit-opec-appeases-trump-and-delivers-blow-saudi-arabia"
-      ]
     },
     {
       "headline": "Google Signs Classified AI Deal With Pentagon for Military Applications",
@@ -2905,33 +2923,6 @@
         "https://kyivindependent.com/",
         "https://kyivindependent.com/zelensky-arrives-in-azerbaijan/"
       ]
-    },
-    {
-      "headline": "US Southern Command creates new autonomous warfare unit",
-      "summary": "New command to integrate autonomous, semi-autonomous and unmanned platforms across Latin American operations.",
-      "emoji": "🇺🇸",
-      "category": "Defense Industry",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/news/your-military/2026/04/21/us-southern-command-stands-up-autonomous-unit/",
-      "timestamp": "2026-04-26T20:10:00+03:00"
-    },
-    {
-      "headline": "Malian troops and Russian mercenaries withdraw from Kidal after rebel offensive",
-      "summary": "Malian troops and Russian Africa Corps mercenaries have withdrawn from the northern city of Kidal following coordinated attacks by Tuareg separatists and al-Qaeda-linked JNIM militants, marking a significant shift in the Sahel conflict.",
-      "emoji": "🇲🇱",
-      "category": "Africa",
-      "source": "AP News",
-      "url": "https://apnews.com/article/mali-attack-tuareg-separatists-jnim-a945998cb00044e8c52db0362baaed10",
-      "timestamp": "2026-04-26T20:03:00+03:00"
-    },
-    {
-      "headline": "France trains Ukrainian pilots on Mirage 2000-5F fighters under EU mission",
-      "summary": "French Air Force pilots are training Ukrainian crews on Mirage 2000-5F aircraft within the EUMAM framework. The training includes combat operations and maintenance, marking a concrete contribution to European security.",
-      "emoji": "🇫🇷🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Charter97",
-      "url": "https://charter97.org/en/news/2026/4/26/681901/",
-      "timestamp": "2026-04-26T18:10:00+03:00"
     }
   ]
 }
