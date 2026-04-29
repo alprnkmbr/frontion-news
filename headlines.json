@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-04-29T20:06:44+03:00",
+  "lastUpdated": "2026-04-29T21:06:35+03:00",
   "headlines": [
     {
-      "headline": "Pakistan Oil Import Costs Surge 167% Since Iran War Began",
-      "summary": "Pakistan's oil import bill has jumped to $800M per week since the Iran conflict started, forcing emergency conservation measures and straining the economy.",
-      "emoji": "🇵🇰",
-      "category": "Economy",
-      "source": "Oil Price",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-PM-Oil-Import-Costs-Up-167-Since-Iran-War-Began.html",
-      "timestamp": "2026-04-29T20:05:00+03:00"
+      "headline": "Trump-Xi Summit to Put Taiwan Independence at Center of Agenda",
+      "summary": "President Trump and Chinese President Xi Jinping will meet in Beijing next month for a summit where China is likely to make the issue of Taiwan independence a major part of the agenda. The meeting comes amid heightened tensions over the self-governing island.",
+      "emoji": "🇨🇳🇹🇼",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/what-is-taiwan-independence-is-taiwan-already-independent-2026-04-29/",
+      "timestamp": "2026-04-29T21:03:00+03:00"
+    },
+    {
+      "headline": "King Charles State Visit Aims to Repair Strained US-UK Ties",
+      "summary": "King Charles' courting of President Trump during his state visit underscores how London is playing a long game to repair frayed relations between the two allies. The visit comes amid deep divisions over the Iran war.",
+      "emoji": "🇬🇧🇺🇸",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/uk/kings-visit-us-shows-uk-playing-long-game-fixing-strained-ties-2026-04-29/",
+      "timestamp": "2026-04-29T21:03:00+03:00"
+    },
+    {
+      "headline": "Hegseth Faces Congress as Pentagon Reveals $25B Iran War Cost",
+      "summary": "Defense Secretary Pete Hegseth is facing questioning from lawmakers in his first public appearance on Capitol Hill since the Iran war began. A senior Pentagon official disclosed the war has cost $25 billion so far, with most spending on munitions.",
+      "emoji": "💰⚔️",
+      "category": "US-Iran War",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/29/us/politics/hegseth-iran-war-cost.html",
+      "timestamp": "2026-04-29T21:03:00+03:00"
+    },
+    {
+      "headline": "Democrats Confront Hegseth Over Iran War Strategy",
+      "summary": "Skeptical Democrats confronted Defense Secretary Pete Hegseth about the Iran war for the first time since the conflict began, questioning the administration's strategy and costs.",
+      "emoji": "🏛️⚔️",
+      "category": "US-Iran War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/hegseth-caine-iran-war-congress-military-budget-3bc48c4833414f9d786e19b6f93bf8b5",
+      "timestamp": "2026-04-29T21:03:00+03:00"
+    },
+    {
+      "headline": "UAE OPEC Exit Exposes Deepening Saudi Rift",
+      "summary": "The UAE's decision to quit OPEC has brought years of tensions with Saudi Arabia into the open, marking a strategic break with Saudi-led oil governance. The move signals a rebalancing of Gulf power dynamics.",
+      "emoji": "🛢️🇦🇪",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/uae-oil-break-exposes-deepening-saudi-rift-gulf-power-shifts-2026-04-29/",
+      "timestamp": "2026-04-29T21:03:00+03:00"
     },
     {
       "headline": "Iranian Parliament Speaker Says US Blockade Aims to Make Iran Collapse",
@@ -38,22 +74,29 @@
       "timestamp": "2026-04-29T20:05:00+03:00"
     },
     {
-      "headline": "MAGA Rift Deepens as Trump Faces Media Backlash Over Iran War",
-      "summary": "Prominent MAGA voices including Tucker Carlson and Megyn Kelly are breaking with Trump over his handling of the Iran war, signaling a growing divide within his base.",
-      "emoji": "🇺🇸",
-      "category": "US Politics",
-      "source": "Channel News Asia",
-      "url": "https://www.channelnewsasia.com/watch/maga-rift-deepens-trump-faces-media-base-backlash-over-iran-war-6089761",
-      "timestamp": "2026-04-29T20:05:00+03:00"
-    },
-    {
       "headline": "Trump says King Charles does not want Iran to have nuclear weapon",
       "summary": "President Trump introduced the Middle East conflict into a White House state dinner for King Charles, saying the British monarch shares US concerns about Iran obtaining nuclear weapons.",
       "emoji": "🇬🇧",
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/trump-says-king-charles-does-not-want-iran-have-nuclear-weapon-2026-04-29/",
-      "timestamp": "2026-04-29T20:03:00+03:00"
+      "timestamp": "2026-04-29T20:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/trump-says-king-charles-does-not-want-iran-have-nuclear-weapon-2026-04-29/",
+          "angle": "King Charles Raises Iran Nuclear Concern at White House State Dinner",
+          "summary": "President Trump said Britain's King Charles does not want Iran to obtain nuclear weapons, bringing Middle East tensions into a state visit aimed at reaffirming US-UK ties amid deep divisions over the Iran war."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/trump-says-king-charles-does-not-want-iran-have-nuclear-weapon-2026-04-29/",
+        "https://www.reuters.com/world/europe/trump-says-king-charles-does-not-want-iran-have-nuclear-weapon-2026-04-29/"
+      ]
     },
     {
       "headline": "Trump urges Iran to sign deal as US considers extending port blockade",
@@ -62,7 +105,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/trump-urges-iran-sign-deal-after-report-suggests-us-may-extend-blockade-2026-04-29/",
-      "timestamp": "2026-04-29T20:03:00+03:00"
+      "timestamp": "2026-04-29T20:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/oil-rises-reports-us-will-extend-iran-blockade-prolonging-mideast-supply-2026-04-29/",
+          "angle": "Oil prices surge as US moves to extend Iran port blockade",
+          "summary": "Oil prices extended their rally on reports the US will extend its blockade of Iranian ports, likely prolonging supply disruptions from the Middle East. The move signals no immediate end to the conflict that has constrained global oil flows."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/trump-urges-iran-sign-deal-after-report-suggests-us-may-extend-blockade-2026-04-29/",
+        "https://www.reuters.com/business/energy/oil-rises-reports-us-will-extend-iran-blockade-prolonging-mideast-supply-2026-04-29/"
+      ]
     },
     {
       "headline": "Putin accuses Ukraine of intensifying attacks on civilian targets",
@@ -71,7 +130,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/putin-says-ukraine-has-intensified-attacks-civilian-targets-russia-2026-04-28/",
-      "timestamp": "2026-04-29T20:03:00+03:00"
+      "timestamp": "2026-04-29T20:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/putin-says-ukraine-has-intensified-attacks-civilian-targets-russia-2026-04-28/",
+          "angle": "Putin Accuses Ukraine of Intensifying Attacks on Russian Civilians",
+          "summary": "President Vladimir Putin said Ukraine has stepped up attacks on civilian infrastructure in Russia, citing a recent drone strike on an oil refinery in the southern city of Tuapse."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/putin-says-ukraine-has-intensified-attacks-civilian-targets-russia-2026-04-28/",
+        "https://www.reuters.com/world/putin-says-ukraine-has-intensified-attacks-civilian-targets-russia-2026-04-28/"
+      ]
     },
     {
       "headline": "Israel quietly expands military control zone in Gaza",
@@ -89,7 +164,23 @@
       "category": "US Politics",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/fed-chief-nominee-warsh-set-clear-key-confirmation-hurdle-wednesday-2026-04-29/",
-      "timestamp": "2026-04-29T20:03:00+03:00"
+      "timestamp": "2026-04-29T20:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/fed-chief-nominee-warsh-set-clear-key-confirmation-hurdle-wednesday-2026-04-29/",
+          "angle": "Fed Chair Nominee Warsh Set to Clear Key Confirmation Hurdle",
+          "summary": "Kevin Warsh, President Trumps pick to lead the Federal Reserve, is poised to clear a procedural vote on Wednesday, setting the stage for him to succeed Jerome Powell as the White House exerts unprecedented control over the central bank."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/fed-chief-nominee-warsh-set-clear-key-confirmation-hurdle-wednesday-2026-04-29/",
+        "https://www.reuters.com/business/fed-chief-nominee-warsh-set-clear-key-confirmation-hurdle-wednesday-2026-04-29/"
+      ]
     },
     {
       "headline": "US Ambassador to Ukraine Steps Down as Peace Talks Stall",
@@ -481,15 +572,6 @@
       "timestamp": "2026-04-29T15:03:00+03:00"
     },
     {
-      "headline": "Fed Chair Nominee Warsh Set to Clear Key Confirmation Hurdle",
-      "summary": "Kevin Warsh, President Trumps pick to lead the Federal Reserve, is poised to clear a procedural vote on Wednesday, setting the stage for him to succeed Jerome Powell as the White House exerts unprecedented control over the central bank.",
-      "emoji": "🇺🇸",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/fed-chief-nominee-warsh-set-clear-key-confirmation-hurdle-wednesday-2026-04-29/",
-      "timestamp": "2026-04-29T15:03:00+03:00"
-    },
-    {
       "headline": "Lebanese Soldier Killed in Israeli Airstrike in Southern Lebanon",
       "summary": "A Lebanese soldier and his brother were killed in an Israeli airstrike on a motorcycle in Bint Jbeil, southern Lebanon. The incident marks another escalation in cross-border violence amid the ongoing Iran-Israel conflict.",
       "emoji": "🇱🇧",
@@ -682,31 +764,6 @@
       "timestamp": "2026-04-29T12:03:00+03:00"
     },
     {
-      "headline": "King Charles Raises Iran Nuclear Concern at White House State Dinner",
-      "summary": "President Trump said Britain's King Charles does not want Iran to obtain nuclear weapons, bringing Middle East tensions into a state visit aimed at reaffirming US-UK ties amid deep divisions over the Iran war.",
-      "emoji": "🇬🇧🇺🇸",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/trump-says-king-charles-does-not-want-iran-have-nuclear-weapon-2026-04-29/",
-      "timestamp": "2026-04-29T11:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/turkeys-erdogan-offers-support-trump-call-after-white-house-dinner-shooting-2026-04-27/",
-          "angle": "Erdogan Offers Support to Trump After White House Correspondents Dinner Shooting",
-          "summary": "Turkish President Tayyip Erdogan called President Donald Trump to offer support following a shooting incident at the White House Correspondents Association dinner. A gunman opened fire near the event attended by Trump and senior officials."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/trump-says-king-charles-does-not-want-iran-have-nuclear-weapon-2026-04-29/",
-        "https://www.reuters.com/world/turkeys-erdogan-offers-support-trump-call-after-white-house-dinner-shooting-2026-04-27/"
-      ]
-    },
-    {
       "headline": "Belarus Frees Polish Journalist in Prisoner Swap With Poland",
       "summary": "Belarus released Andrzej Poczobut, a prominent Polish-Belarusian journalist and activist, as part of a prisoner exchange at the border with Poland, Polish Prime Minister Donald Tusk announced.",
       "emoji": "🇧🇾🇵🇱",
@@ -729,31 +786,6 @@
       "urls": [
         "https://www.reuters.com/business/media-telecom/belarus-releases-polish-belarusian-journalist-part-prisoner-exchange-2026-04-28/",
         "https://apnews.com/article/belarus-journalist-prisoner-freed-03b077dcb7af3d9af106d4235a51a176"
-      ]
-    },
-    {
-      "headline": "Putin Accuses Ukraine of Intensifying Attacks on Russian Civilians",
-      "summary": "President Vladimir Putin said Ukraine has stepped up attacks on civilian infrastructure in Russia, citing a recent drone strike on an oil refinery in the southern city of Tuapse.",
-      "emoji": "🇷🇺🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/putin-says-ukraine-has-intensified-attacks-civilian-targets-russia-2026-04-28/",
-      "timestamp": "2026-04-29T11:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/putin-says-ukraine-has-intensified-attacks-civilian-targets-russia-2026-04-28/",
-          "angle": "Putin accuses Ukraine of intensifying attacks on Russian civilian infrastructure",
-          "summary": "President Vladimir Putin said Ukraine has stepped up attacks on civilian targets in Russia, citing a Ukrainian drone strike that caused a major fire at the Tuapse oil refinery on the Black Sea coast."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/putin-says-ukraine-has-intensified-attacks-civilian-targets-russia-2026-04-28/",
-        "https://www.reuters.com/world/putin-says-ukraine-has-intensified-attacks-civilian-targets-russia-2026-04-28/"
       ]
     },
     {
@@ -811,6 +843,31 @@
       "timestamp": "2026-04-29T10:08:00+03:00"
     },
     {
+      "headline": "World Bank Warns Energy Prices Could Surge 24% in 2026 Due to Iran War",
+      "summary": "The World Bank forecasts energy prices will reach their highest level since Russia's 2022 invasion of Ukraine, driven by Middle East war disruptions even in the most optimistic scenario where conflict subsides by May.",
+      "emoji": "⚡",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/world-bank-forecasts-24-surge-energy-prices-2026-due-middle-east-war-2026-04-28/",
+      "timestamp": "2026-04-29T10:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Oil Price",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-PM-Oil-Import-Costs-Up-167-Since-Iran-War-Began.html",
+          "angle": "Pakistan Oil Import Costs Surge 167% Since Iran War Began",
+          "summary": "Pakistan's oil import bill has jumped to $800M per week since the Iran conflict started, forcing emergency conservation measures and straining the economy."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Oil Price"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/world-bank-forecasts-24-surge-energy-prices-2026-due-middle-east-war-2026-04-28/",
+        "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-PM-Oil-Import-Costs-Up-167-Since-Iran-War-Began.html"
+      ]
+    },
+    {
       "headline": "Five Million Children in Darfur Face Extreme Hunger and Violence as Sudan War Enters Fourth Year",
       "summary": "UNICEF issued an emergency warning over the humanitarian crisis in Sudan's Darfur region, where civil war has created devastating conditions for children facing extreme deprivation, hunger, and violence.",
       "emoji": "🇸🇩",
@@ -833,47 +890,6 @@
       "urls": [
         "https://www.reuters.com/world/africa/children-breaking-point-darfur-they-face-extreme-hunger-violence-un-says-2026-04-28/",
         "https://www.radiotamazuj.org/en/news/article/un-sounds-alarm-on-worsening-crisis-for-children-in-darfur"
-      ]
-    },
-    {
-      "headline": "World Bank Warns Energy Prices Could Surge 24% in 2026 Due to Iran War",
-      "summary": "The World Bank forecasts energy prices will reach their highest level since Russia's 2022 invasion of Ukraine, driven by Middle East war disruptions even in the most optimistic scenario where conflict subsides by May.",
-      "emoji": "⚡",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/world-bank-forecasts-24-surge-energy-prices-2026-due-middle-east-war-2026-04-28/",
-      "timestamp": "2026-04-29T10:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cz0278zyznjo",
-          "angle": "Canada deficit falls 14% as oil prices surge amid Iran conflict",
-          "summary": "Prime Minister Mark Carney unveiled a lower-than-expected deficit thanks to surging oil prices and economic resilience. The government announced a new sovereign wealth fund amid tariff threats and geopolitical uncertainty."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/us-pump-prices-near-4-year-high-iran-war-disruption-refinery-outages-2026-04-28/",
-          "angle": "US Gasoline Prices Near Four-Year High as Iran War Disrupts Supply",
-          "summary": "Average US pump prices have reached their highest level in nearly four years following the US-Israel attack on Iran, reflecting the ongoing energy crisis. The American Automobile Association data shows sustained pressure on fuel costs."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/world-bank-forecasts-24-surge-energy-prices-2026-due-middle-east-war-2026-04-28/",
-          "angle": "World Bank Forecasts 24% Surge in Energy Prices",
-          "summary": "Energy prices are projected to surge 24% in 2026 to their highest level since Russia's 2022 invasion of Ukraine, driven by Middle East war disruptions. Commodity prices expected to hit four-year highs."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "BBC",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/world-bank-forecasts-24-surge-energy-prices-2026-due-middle-east-war-2026-04-28/",
-        "https://www.bbc.com/news/articles/cz0278zyznjo",
-        "https://www.reuters.com/business/us-pump-prices-near-4-year-high-iran-war-disruption-refinery-outages-2026-04-28/",
-        "https://www.reuters.com/business/energy/world-bank-forecasts-24-surge-energy-prices-2026-due-middle-east-war-2026-04-28/"
       ]
     },
     {
@@ -986,15 +1002,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/abbey-gate-afghanistan-suicide-bombing-trial-17bcf6a00aa886cc8bd39e33b3b24fc0",
       "timestamp": "2026-04-29T08:05:00+03:00"
-    },
-    {
-      "headline": "Oil prices surge as US moves to extend Iran port blockade",
-      "summary": "Oil prices extended their rally on reports the US will extend its blockade of Iranian ports, likely prolonging supply disruptions from the Middle East. The move signals no immediate end to the conflict that has constrained global oil flows.",
-      "emoji": "🛢️",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-rises-reports-us-will-extend-iran-blockade-prolonging-mideast-supply-2026-04-29/",
-      "timestamp": "2026-04-29T07:03:00+03:00"
     },
     {
       "headline": "Trump says Iran in collapse, wants US to reopen Hormuz Strait",
@@ -1233,7 +1240,23 @@
       "category": "US Politics",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/us/trump-approval-sinks-record-low-war-with-iran-drives-cost-of-living-concerns-2026-04-28/",
-      "timestamp": "2026-04-29T03:05:00+03:00"
+      "timestamp": "2026-04-29T03:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Channel News Asia",
+          "url": "https://www.channelnewsasia.com/watch/maga-rift-deepens-trump-faces-media-base-backlash-over-iran-war-6089761",
+          "angle": "MAGA Rift Deepens as Trump Faces Media Backlash Over Iran War",
+          "summary": "Prominent MAGA voices including Tucker Carlson and Megyn Kelly are breaking with Trump over his handling of the Iran war, signaling a growing divide within his base."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Channel News Asia"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/us/trump-approval-sinks-record-low-war-with-iran-drives-cost-of-living-concerns-2026-04-28/",
+        "https://www.channelnewsasia.com/watch/maga-rift-deepens-trump-faces-media-base-backlash-over-iran-war-6089761"
+      ]
     },
     {
       "headline": "Bank of Japan holds rates steady but three board members dissent, call for hike",
@@ -2950,58 +2973,6 @@
       "source": "Anadolu Agency",
       "url": "https://www.aa.com.tr/en/europe/germany-s-merz-says-us-has-no-exit-strategy-in-iran-war-calls-tehran-skilled-negotiator/3919424",
       "timestamp": "2026-04-27T16:07:00+03:00"
-    },
-    {
-      "headline": "Ukraine to Help Poland Build Modern Drone Fleet Against Aerial Threats",
-      "summary": "Polish Prime Minister Donald Tusk announced Ukraine will assist Poland in building a \"modern drone armada,\" citing Kyivs proven expertise in defending against aerial attacks.",
-      "emoji": "🇵🇱🇺🇦🚁",
-      "category": "Defense Industry",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/ukraine-to-help-build-polands-drone-fleet-tusk-says/",
-      "timestamp": "2026-04-27T16:07:00+03:00"
-    },
-    {
-      "headline": "Palestinians Use Gaza Rubble to Restore Streets as US Rebuilding Plan Stalls",
-      "summary": "Palestinians are crushing concrete and reusing war rubble to repave streets destroyed during Israels two-year assault on Gaza, as US-backed reconstruction efforts remain stalled.",
-      "emoji": "🇵🇸🏗️",
-      "category": "Middle East",
-      "source": "Al-Monitor",
-      "url": "https://www.al-monitor.com/originals/2026/04/palestinians-use-gaza-rubble-restore-streets-us-rebuilding-plan-stalls",
-      "timestamp": "2026-04-27T16:07:00+03:00"
-    },
-    {
-      "headline": "Germany Suspects Russia Behind Signal Phishing Attacks on Politicians",
-      "summary": "German government suspects Russia is behind phishing attacks on Signal accounts targeting high-ranking politicians, including two ministers, military personnel and journalists. Around 300 accounts in the political sphere were compromised through fake security chatbot messages.",
-      "emoji": "🇩🇪🇷🇺",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://apnews.com/article/germany-netherlands-signal-phishing-russia-espionage-2ab1bac973919bf1e49997b7892bd276",
-      "timestamp": "2026-04-27T16:03:00+03:00"
-    },
-    {
-      "headline": "China Expands Economic Toolkit During Trade Truce With US",
-      "summary": "China has used its trade truce with the United States to broaden its legal leverage, supply chain and critical technology controls, and expand its toolkit of retaliatory economic measures ahead of a summit between the nations next month.",
-      "emoji": "🇨🇳🇺🇸",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/how-china-has-expanded-its-economic-toolkit-during-its-trade-truce-with-us-2026-04-26/",
-      "timestamp": "2026-04-27T16:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "MSN/Reuters",
-          "url": "https://www.msn.com/en-us/news/world/how-china-has-expanded-its-economic-toolkit-during-its-trade-truce-with-the-us/ar-AA21LWQb",
-          "angle": "China Uses Trade Truce With US to Expand Economic Leverage Before Summit",
-          "summary": "Beijing has used the trade truce with Washington to broaden its legal leverage, supply chain controls, and critical technology restrictions, expanding its toolkit of retaliatory economic measures ahead of a potential summit between the nations next month."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "MSN/Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/how-china-has-expanded-its-economic-toolkit-during-its-trade-truce-with-us-2026-04-26/",
-        "https://www.msn.com/en-us/news/world/how-china-has-expanded-its-economic-toolkit-during-its-trade-truce-with-the-us/ar-AA21LWQb"
-      ]
     }
   ]
 }
