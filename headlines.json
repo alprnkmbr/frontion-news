@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-04-29T10:07:44+03:00",
+  "lastUpdated": "2026-04-29T10:11:41+03:00",
   "headlines": [
+    {
+      "headline": "Russia as Economic Lifeline for Iran amid Hormuz Blockade",
+      "summary": "Iranian FM Araghchi visited St Petersburg to discuss sanctions and Hormuz with Putin, as Tehran explores railway and Caspian trade networks to bypass Gulf disruptions. Experts say Moscow could offer a lifeline but logistical issues and costs offer little long-term incentive.",
+      "emoji": "🇮🇷🇷🇺",
+      "category": "Middle East",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/29/can-russia-serve-as-an-economic-lifeline-for-iran-amid-the-hormuz-blockade",
+      "timestamp": "2026-04-29T10:08:00+03:00"
+    },
+    {
+      "headline": "Europe Named Fastest-Warming Continent in UN Climate Report",
+      "summary": "World Meteorological Organization reports Europe experienced above-average temperatures in 2025, with record marine heatwaves and wildfires burning over 1 million hectares. Nearly 70% of European rivers recorded below-average annual flows.",
+      "emoji": "🌍🌡️",
+      "category": "Climate",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/29/europe-named-fastest-warming-continent-in-latest-climate-change-report",
+      "timestamp": "2026-04-29T10:08:00+03:00"
+    },
+    {
+      "headline": "China Suspends New Autonomous Driving Permits After Baidu Incident",
+      "summary": "Beijing halted issuance of new robotaxi licenses after about 200 driverless vehicles suddenly stopped in Wuhan in March. The move clouds the outlook for Chinas autonomous vehicle sector.",
+      "emoji": "🇨🇳🚗",
+      "category": "Technology",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/china-suspends-new-autonomous-driving-permits-after-baidu-incident",
+      "timestamp": "2026-04-29T10:08:00+03:00"
+    },
+    {
+      "headline": "Mexico Opens Investigation into Unauthorized CIA Agents in Country",
+      "summary": "Mexicos attorney general announced a full probe into two US CIA agents who died in a car crash while operating in the country without authorization. The incident raises questions about US intelligence activities in Mexico.",
+      "emoji": "🇲🇽🇺🇸",
+      "category": "Geopolitics",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/americas/mexican-prosecutors-to-probe-unauthorized-presence-of-cia-agents-in-country/3921093",
+      "timestamp": "2026-04-29T10:08:00+03:00"
+    },
+    {
+      "headline": "Australian State Launches First Gas Tender in a Decade",
+      "summary": "New South Wales opened its first natural gas exploration tender in ten years amid supply crunch from Middle East war. Entry fees were slashed from A$50,000 to A$1,000 to encourage participation. Queensland also pushed for fast-track approval of first new oil project in 50 years.",
+      "emoji": "🇦🇺🛢️",
+      "category": "Energy",
+      "source": "Oil Price",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Australian-State-Launches-First-Gas-Tender-in-Years.html",
+      "timestamp": "2026-04-29T10:08:00+03:00"
+    },
     {
       "headline": "Russia Cancels Military Equipment Display at Victory Day Parade Due to Ukraine War Losses",
       "summary": "Russia will hold its annual Victory Day parade on Red Square without displaying military equipment, a stark acknowledgment of the drain on resources from the ongoing war in Ukraine that has depleted tanks and armored vehicles.",
@@ -17,7 +62,39 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/world-bank-forecasts-24-surge-energy-prices-2026-due-middle-east-war-2026-04-28/",
-      "timestamp": "2026-04-29T10:03:00+03:00"
+      "timestamp": "2026-04-29T10:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cz0278zyznjo",
+          "angle": "Canada deficit falls 14% as oil prices surge amid Iran conflict",
+          "summary": "Prime Minister Mark Carney unveiled a lower-than-expected deficit thanks to surging oil prices and economic resilience. The government announced a new sovereign wealth fund amid tariff threats and geopolitical uncertainty."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/us-pump-prices-near-4-year-high-iran-war-disruption-refinery-outages-2026-04-28/",
+          "angle": "US Gasoline Prices Near Four-Year High as Iran War Disrupts Supply",
+          "summary": "Average US pump prices have reached their highest level in nearly four years following the US-Israel attack on Iran, reflecting the ongoing energy crisis. The American Automobile Association data shows sustained pressure on fuel costs."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/world-bank-forecasts-24-surge-energy-prices-2026-due-middle-east-war-2026-04-28/",
+          "angle": "World Bank Forecasts 24% Surge in Energy Prices",
+          "summary": "Energy prices are projected to surge 24% in 2026 to their highest level since Russia's 2022 invasion of Ukraine, driven by Middle East war disruptions. Commodity prices expected to hit four-year highs."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/world-bank-forecasts-24-surge-energy-prices-2026-due-middle-east-war-2026-04-28/",
+        "https://www.bbc.com/news/articles/cz0278zyznjo",
+        "https://www.reuters.com/business/us-pump-prices-near-4-year-high-iran-war-disruption-refinery-outages-2026-04-28/",
+        "https://www.reuters.com/business/energy/world-bank-forecasts-24-surge-energy-prices-2026-due-middle-east-war-2026-04-28/"
+      ]
     },
     {
       "headline": "Taiwan Coast Guard Chief Visits Disputed South China Sea Islet Despite Vietnam Protests",
@@ -26,7 +103,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/taiwan-minister-says-she-visited-second-islet-disputed-south-china-sea-2026-04-29/",
-      "timestamp": "2026-04-29T10:03:00+03:00"
+      "timestamp": "2026-04-29T10:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/un-china-denounces-japan-eu-over-south-china-sea-remarks-2026-04-28/",
+          "angle": "China Denounces Japan and EU Over South China Sea at UN",
+          "summary": "China accused Japan of provocative behavior in the Taiwan Strait and planning military expansion after Tokyo and the EU raised concerns about the South China Sea at a UN Security Council meeting."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/taiwan-minister-says-she-visited-second-islet-disputed-south-china-sea-2026-04-29/",
+        "https://www.reuters.com/world/china/un-china-denounces-japan-eu-over-south-china-sea-remarks-2026-04-28/"
+      ]
     },
     {
       "headline": "Philippines Defense Chief Says Iran War Won't Distract US from Indo-Pacific",
@@ -35,7 +128,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/philippines-not-concerned-iran-war-will-distract-us-region-top-defence-official-2026-04-28/",
-      "timestamp": "2026-04-29T10:03:00+03:00"
+      "timestamp": "2026-04-29T10:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/philippines-not-concerned-iran-war-will-distract-us-region-top-defence-official-2026-04-28/",
+          "angle": "Philippines Confident US Commitment to Indo-Pacific Amid Iran War",
+          "summary": "The Philippine defense secretary said Manila is not worried about reduced US deterrence in the Indo-Pacific due to the Middle East conflict, though he warned China could try to exploit any perceived opening."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/aerospace-defense/philippines-not-concerned-iran-war-will-distract-us-region-top-defence-official-2026-04-28/",
+        "https://www.reuters.com/business/aerospace-defense/philippines-not-concerned-iran-war-will-distract-us-region-top-defence-official-2026-04-28/"
+      ]
     },
     {
       "headline": "Five Million Children in Darfur Face Extreme Hunger and Violence as Sudan War Enters Fourth Year",
@@ -45,31 +154,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/africa/children-breaking-point-darfur-they-face-extreme-hunger-violence-un-says-2026-04-28/",
       "timestamp": "2026-04-29T10:03:00+03:00"
-    },
-    {
-      "headline": "Canada deficit falls 14% as oil prices surge amid Iran conflict",
-      "summary": "Prime Minister Mark Carney unveiled a lower-than-expected deficit thanks to surging oil prices and economic resilience. The government announced a new sovereign wealth fund amid tariff threats and geopolitical uncertainty.",
-      "emoji": "🇨🇦",
-      "category": "Economy",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cz0278zyznjo",
-      "timestamp": "2026-04-29T09:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cz0278zyznjo",
-          "angle": "Canada reports lower deficit as oil price surge boosts revenues",
-          "summary": "Canadian Prime Minister Mark Carney unveiled a spring budget showing a deficit 14% lower than projected, aided by rising oil prices. The government announced a new sovereign wealth fund for infrastructure and domestic investments."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/cz0278zyznjo",
-        "https://www.bbc.com/news/articles/cz0278zyznjo"
-      ]
     },
     {
       "headline": "Purdue Pharma sentenced to $5.5B, OxyContin maker to dissolve",
@@ -775,31 +859,6 @@
       ]
     },
     {
-      "headline": "US Gasoline Prices Near Four-Year High as Iran War Disrupts Supply",
-      "summary": "Average US pump prices have reached their highest level in nearly four years following the US-Israel attack on Iran, reflecting the ongoing energy crisis. The American Automobile Association data shows sustained pressure on fuel costs.",
-      "emoji": "⛽",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/us-pump-prices-near-4-year-high-iran-war-disruption-refinery-outages-2026-04-28/",
-      "timestamp": "2026-04-28T23:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/european-aluminium-billet-premium-doubles-after-iran-war-disrupts-supply-2026-04-28/",
-          "angle": "European Aluminium Premium Doubles as Iran War Disrupts Supply",
-          "summary": "The premium for aluminium billet in Europe has doubled since the Iran war began, with two months of disrupted Middle East supply squeezing construction and transport industries."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/us-pump-prices-near-4-year-high-iran-war-disruption-refinery-outages-2026-04-28/",
-        "https://www.reuters.com/business/energy/european-aluminium-billet-premium-doubles-after-iran-war-disrupts-supply-2026-04-28/"
-      ]
-    },
-    {
       "headline": "BP Profit Doubles to $3.2 Billion on Iran War Oil Trading",
       "summary": "British oil major BP reported first-quarter profit of $3.2 billion, beating expectations by 20% and marking its highest profit since 2023. The Iran war boosted oil trading results significantly.",
       "emoji": "🛢️",
@@ -978,31 +1037,6 @@
       "timestamp": "2026-04-28T20:07:00+03:00"
     },
     {
-      "headline": "China Denounces Japan and EU Over South China Sea at UN",
-      "summary": "China accused Japan of provocative behavior in the Taiwan Strait and planning military expansion after Tokyo and the EU raised concerns about the South China Sea at a UN Security Council meeting.",
-      "emoji": "🇨🇳🇯🇵",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/un-china-denounces-japan-eu-over-south-china-sea-remarks-2026-04-28/",
-      "timestamp": "2026-04-28T19:15:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/un-china-denounces-japan-eu-over-south-china-sea-remarks-2026-04-28/",
-          "angle": "China denounces Japan and EU over South China Sea at UN",
-          "summary": "Beijing accused Tokyo of provocative behavior in the Taiwan Strait and military expansion plans after Japan and the EU raised concerns about South China Sea tensions at a UN Security Council meeting."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/un-china-denounces-japan-eu-over-south-china-sea-remarks-2026-04-28/",
-        "https://www.reuters.com/world/china/un-china-denounces-japan-eu-over-south-china-sea-remarks-2026-04-28/"
-      ]
-    },
-    {
       "headline": "European Shares Subdued as US-Iran Talks Stall",
       "summary": "European stocks were muted as investors weighed a diplomatic impasse in US-Iran negotiations while bracing for central bank meetings and corporate earnings.",
       "emoji": "📉🇪🇺",
@@ -1062,31 +1096,6 @@
       "source": "Janes",
       "url": "https://www.janes.com/defence-intelligence-insights/defence-news/defence/usaf-funds-final-development-of-beehive-industries-frenzy-8-engine",
       "timestamp": "2026-04-28T18:06:00+03:00"
-    },
-    {
-      "headline": "World Bank Forecasts 24% Surge in Energy Prices",
-      "summary": "Energy prices are projected to surge 24% in 2026 to their highest level since Russia's 2022 invasion of Ukraine, driven by Middle East war disruptions. Commodity prices expected to hit four-year highs.",
-      "emoji": "💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/world-bank-forecasts-24-surge-energy-prices-2026-due-middle-east-war-2026-04-28/",
-      "timestamp": "2026-04-28T18:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Daily Sabah",
-          "url": "https://www.dailysabah.com/business/economy/world-bank-sees-24-surge-in-energy-prices-in-2026-on-iran-war",
-          "angle": "World Bank Forecasts 24% Energy Price Surge in 2026 Due to Iran War",
-          "summary": "Energy prices are projected to jump 24% in 2026, reaching the highest level since Russia's invasion of Ukraine. Brent crude is forecast to average $86/barrel, with potential to reach $115 if hostilities persist and export recovery is slow."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Daily Sabah"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/world-bank-forecasts-24-surge-energy-prices-2026-due-middle-east-war-2026-04-28/",
-        "https://www.dailysabah.com/business/economy/world-bank-sees-24-surge-in-energy-prices-in-2026-on-iran-war"
-      ]
     },
     {
       "headline": "Euro Zone Inflation Expectations Surge on Iran War",
@@ -1166,15 +1175,6 @@
         "https://www.reuters.com/business/energy/europes-jet-fuel-imports-middle-east-stop-raising-supply-crunch-fears-2026-04-28/",
         "https://www.businesstimes.com.sg/companies-markets/energy-commodities/vietnam-gas-major-looks-us-iran-war-reorders-lpg-flows"
       ]
-    },
-    {
-      "headline": "Philippines Confident US Commitment to Indo-Pacific Amid Iran War",
-      "summary": "The Philippine defense secretary said Manila is not worried about reduced US deterrence in the Indo-Pacific due to the Middle East conflict, though he warned China could try to exploit any perceived opening.",
-      "emoji": "🇵🇭",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/philippines-not-concerned-iran-war-will-distract-us-region-top-defence-official-2026-04-28/",
-      "timestamp": "2026-04-28T16:03:00+03:00"
     },
     {
       "headline": "German Chancellor Merz Says Iran Is 'Humiliating' the US",
@@ -2824,83 +2824,6 @@
         "https://www.reuters.com/world/asia-pacific/us-iran-peace-hopes-fade-trump-scraps-talks-2026-04-26/",
         "https://www.reuters.com/world/middle-east/trump-tells-fox-news-iran-can-call-us-if-it-wants-negotiate-2026-04-26/"
       ]
-    },
-    {
-      "headline": "NATO Says No Provision to Expel Members After Pentagon Email on Spain",
-      "summary": "NATO responded to reports of a Pentagon email suggesting options to suspend Spain from the alliance over perceived lack of support for Iran operations, stating there is no mechanism to expel members.",
-      "emoji": "🇪🇺🇪🇸",
-      "category": "NATO",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cz78x703lrvo",
-      "timestamp": "2026-04-27T03:00:00+03:00"
-    },
-    {
-      "headline": "Hong Kong Plans T+1 Settlement Shift to Sharpen Financial Hub Edge",
-      "summary": "After more than 30 years of T+2 settlement, Hong Kong plans to move to T+1 settlement. The shift aims to strengthen Hong Kong competitive position as a global financial hub amid intensifying regional competition.",
-      "emoji": "🇭🇰💼",
-      "category": "Economy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/business/article/3351417/can-faster-settlement-sharpen-hong-kongs-edge-global-financial-hub",
-      "timestamp": "2026-04-27T02:05:00+03:00"
-    },
-    {
-      "headline": "US Sanctions Major Chinese Refinery Over Iranian Oil Purchases",
-      "summary": "The Trump administration sanctioned Hengli Petrochemical's Dalian facility, one of China's largest independent refineries, along with 40 shipping companies for transporting Iranian oil. The move is part of a \"maximum pressure\" campaign to cut off Iran's key revenue source ahead of Trump's planned meeting with Xi Jinping.",
-      "emoji": "🇨🇳🇮🇷🛢️",
-      "category": "US-China",
-      "source": "AP News",
-      "url": "https://apnews.com/article/treasury-bessent-sanctions-china-iran-oil-12a02b5ba394cbcab355d645bfe9cdf7",
-      "timestamp": "2026-04-27T02:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/treasury-bessent-sanctions-china-iran-oil-12a02b5ba394cbcab355d645bfe9cdf7",
-          "angle": "US sanctions China-based oil refinery in sweeping crackdown on Iranian oil trade",
-          "summary": "Treasury targets China teapot refinery and 40 shipping entities for purchasing Iranian oil, expanding enforcement against Tehrans shadow trade network amid the ongoing conflict."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "AP News"
-      ],
-      "urls": [
-        "https://apnews.com/article/treasury-bessent-sanctions-china-iran-oil-12a02b5ba394cbcab355d645bfe9cdf7",
-        "https://apnews.com/article/treasury-bessent-sanctions-china-iran-oil-12a02b5ba394cbcab355d645bfe9cdf7"
-      ]
-    },
-    {
-      "headline": "Pentagon Email Floats Suspending Spain From NATO Over Iran Stance",
-      "summary": "An internal Pentagon email outlines options to punish NATO allies who failed to support US operations against Iran, including suspending Spain and reviewing the US position on Britain's Falkland Islands claim. NATO officials say Trump cannot unilaterally expel members.",
-      "emoji": "🇪🇸🇺🇸🇪🇺",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/pentagon-email-floats-suspending-spain-nato-other-steps-over-iran-rift-source-2026-04-24/",
-      "timestamp": "2026-04-27T02:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cz78x703lrvo",
-          "angle": "NATO pushes back at reported US threat to suspend Spain over Iran war support",
-          "summary": "An internal Pentagon email reportedly outlined options to punish allies perceived as lacking support for the Iran war, including suspending Spain from NATO. European allies strongly rejected the notion."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/pentagon-email-floats-suspending-spain-nato-other-steps-over-iran-rift-source-2026-04-24/",
-        "https://www.bbc.com/news/articles/cz78x703lrvo"
-      ]
-    },
-    {
-      "headline": "China's Hengli Petrochemical Denies Trading With Iran After US Sanctions",
-      "summary": "Hengli Petrochemical, one of China's largest independent refiners, denied allegations from the US Treasury that it purchased Iranian oil after Washington imposed sanctions on its Dalian subsidiary. The company insists it has never traded with Iran.",
-      "emoji": "🇨🇳🇺🇸💰",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/chinas-hengli-petrochemical-denies-trade-with-iran-response-us-sanctions-2026-04-26/",
-      "timestamp": "2026-04-27T02:05:00+03:00"
     }
   ]
 }
