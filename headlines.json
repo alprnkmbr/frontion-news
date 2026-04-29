@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-04-29T16:11:07+03:00",
+  "lastUpdated": "2026-04-29T16:14:00+03:00",
   "headlines": [
+    {
+      "headline": "Putin Scales Back Victory Day Parade Over Ukraine Attack Fears",
+      "summary": "Russia will omit military hardware from Victory Day parade for the first time in nearly two decades, citing concerns they could be targeted by Ukrainian forces. The move reflects ongoing security concerns as the war continues.",
+      "emoji": "🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "Telegraph",
+      "url": "https://www.telegraph.co.uk/world-news/2026/04/29/putin-scales-back-military-parade-over-ukraine-attack-fears/",
+      "timestamp": "2026-04-29T16:15:00+03:00"
+    },
+    {
+      "headline": "German Inflation Jumps as Middle East War Drives Energy Costs Higher",
+      "summary": "German inflation reached its highest level in over two years in April as the Iran-Israel war triggered a surge in energy costs. The data highlights the economic spillover effects of the Middle East conflict on European economies.",
+      "emoji": "🇩🇪",
+      "category": "Europe",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/live-news/20260429-german-inflation-jumps-in-april-as-energy-costs-surge",
+      "timestamp": "2026-04-29T16:15:00+03:00"
+    },
+    {
+      "headline": "Israeli Opposition Takes Cues from Hungary to Challenge Netanyahu",
+      "summary": "Two Israeli opposition figures have joined forces, taking inspiration from Hungary where long-time leader Viktor Orban was ousted. The move signals a new unified front against Netanyahu's leadership.",
+      "emoji": "🇮🇱",
+      "category": "Middle East",
+      "source": "DW",
+      "url": "https://www.dw.com/en/hungary-inspires-israeli-opposition-bid-to-defeat-netanyahu/a-76973091",
+      "timestamp": "2026-04-29T16:15:00+03:00"
+    },
+    {
+      "headline": "Ukraine Strikes Russian Shadow Fleet Oil Tanker Near Tuapse",
+      "summary": "Ukrainian forces hit the sanctioned oil tanker MARQUISE with two kamikaze drones near the Russian port of Tuapse. The attack targets Russia's shadow fleet used to circumvent sanctions.",
+      "emoji": "⚔️",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/ukraine-hit-russias-sanctioned-oil-tanker-near-tuapse-general-staff-says/",
+      "timestamp": "2026-04-29T16:15:00+03:00"
+    },
+    {
+      "headline": "Israel President Invites Netanyahu Trial Parties to Discuss Pardon",
+      "summary": "Israel's president has invited lawyers for Prime Minister Netanyahu and prosecutors to discuss a potential pardon request, a significant development in the long-running corruption case against the Israeli leader.",
+      "emoji": "🏛️",
+      "category": "Middle East",
+      "source": "Al Arabiya",
+      "url": "https://english.alarabiya.net/News/middle-east/2026/04/29/israel-president-invites-netanyahu-graft-trial-parties-to-discuss-pardon-request",
+      "timestamp": "2026-04-29T16:15:00+03:00"
+    },
     {
       "headline": "Fed Expected to Hold Rates at Powell's Likely Final Meeting",
       "summary": "The Federal Reserve is widely expected to keep interest rates unchanged at what may be Jerome Powell's last policy meeting as chair, with inflation at 3.3% and economic uncertainty from the Iran war clouding the outlook for rate cuts.",
@@ -8,7 +53,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/fed-likely-hold-rates-steady-what-may-be-last-meeting-powell-era-2026-04-29/",
-      "timestamp": "2026-04-29T16:05:00+03:00"
+      "timestamp": "2026-04-29T16:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/commentary/reuters-open-interest/powells-greatest-legacy-becoming-fed-defender-in-chief-2026-04-28/",
+          "angle": "Powell Prepares for Final Fed Meeting as Chair",
+          "summary": "Jerome Powell is set to chair what is likely his final Federal Reserve policy meeting, with debate swirling about his legacy after eight years leading the central bank. His tenure has been marked by standing up to political pressure while navigating economic crises."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/fed-likely-hold-rates-steady-what-may-be-last-meeting-powell-era-2026-04-29/",
+        "https://www.reuters.com/commentary/reuters-open-interest/powells-greatest-legacy-becoming-fed-defender-in-chief-2026-04-28/"
+      ]
     },
     {
       "headline": "UBS Beats Profit Estimates on Iran War Market Volatility",
@@ -17,16 +78,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/legal/transactional/ubs-tops-profit-expectations-market-volatility-2026-04-29/",
-      "timestamp": "2026-04-29T16:05:00+03:00"
-    },
-    {
-      "headline": "AstraZeneca Beats Q1 Profit Estimates, Maintains Outlook",
-      "summary": "AstraZeneca beat first-quarter profit expectations and maintained its 2026 forecasts, supported by strong demand for its cancer and rare-disease drugs amid global uncertainty.",
-      "emoji": "💊📊",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/astrazeneca-beats-profit-expectations-keeps-annual-outlook-unchanged-2026-04-29/",
-      "timestamp": "2026-04-29T16:05:00+03:00"
+      "timestamp": "2026-04-29T16:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/astrazeneca-beats-profit-expectations-keeps-annual-outlook-unchanged-2026-04-29/",
+          "angle": "AstraZeneca Beats Q1 Profit Estimates, Maintains Outlook",
+          "summary": "AstraZeneca beat first-quarter profit expectations and maintained its 2026 forecasts, supported by strong demand for its cancer and rare-disease drugs amid global uncertainty."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/legal/transactional/ubs-tops-profit-expectations-market-volatility-2026-04-29/",
+        "https://www.reuters.com/business/healthcare-pharmaceuticals/astrazeneca-beats-profit-expectations-keeps-annual-outlook-unchanged-2026-04-29/"
+      ]
     },
     {
       "headline": "Santander Reports Record Q1 Profit on Strong Spain, Mexico Results",
@@ -854,15 +922,6 @@
         "https://www.reuters.com/world/us/us-justice-department-indicts-former-fbi-director-comey-second-time-cnn-reports-2026-04-28/",
         "https://www.scmp.com/news/world/united-states-canada/article/3351760/ex-fbi-director-james-comey-indicted-again-time-over-anti-trump-post"
       ]
-    },
-    {
-      "headline": "Powell Prepares for Final Fed Meeting as Chair",
-      "summary": "Jerome Powell is set to chair what is likely his final Federal Reserve policy meeting, with debate swirling about his legacy after eight years leading the central bank. His tenure has been marked by standing up to political pressure while navigating economic crises.",
-      "emoji": "🏛️",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/powells-greatest-legacy-becoming-fed-defender-in-chief-2026-04-28/",
-      "timestamp": "2026-04-29T06:05:00+03:00"
     },
     {
       "headline": "SK Group Chairman Urges South Korea-Japan Economic Integration",
@@ -2858,40 +2917,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/chad-water-clashes-42-killed-efe6bb5ce6512ae0a8c40e534bf68e67",
       "timestamp": "2026-04-27T12:03:00+03:00"
-    },
-    {
-      "headline": "Iranian Foreign Minister Heads to Moscow as Trump Says Call Us",
-      "summary": "Iran's top diplomat Abbas Araghchi arrived in Russia seeking support from Putin as President Trump said Iran could simply call if it wants to negotiate an end to the two-month war.",
-      "emoji": "🇷🇺",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/iranian-foreign-minister-heads-russia-trump-says-call-us-negotiate-2026-04-27/",
-      "timestamp": "2026-04-27T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/world/iran/trump-iran-war-call-us-peace-talks-araghchi-putin-hormuz-rcna342251",
-          "angle": "Trump Urges Iran to Call US Directly as Putin Hosts Iranian FM in St. Petersburg",
-          "summary": "President Donald Trump publicly urged Iran to call the United States directly to restart negotiations, while Iranian Foreign Minister Abbas Araghchi met with Russian President Vladimir Putin in St. Petersburg amid stalled diplomatic efforts."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "NBC News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/iranian-foreign-minister-heads-russia-trump-says-call-us-negotiate-2026-04-27/",
-        "https://www.nbcnews.com/world/iran/trump-iran-war-call-us-peace-talks-araghchi-putin-hormuz-rcna342251"
-      ]
-    },
-    {
-      "headline": "China Slams EU Industrial Policy as Discriminatory, Mulls Countermeasures",
-      "summary": "Beijing has sharply criticized the EU proposed industrial law, calling it a serious barrier and institutional discrimination against Chinese firms. China is considering retaliatory measures in response.",
-      "emoji": "🇨🇳🇪🇺",
-      "category": "Economy",
-      "source": "TRT World",
-      "url": "https://www.trtworld.com/article/01c86ada79dc",
-      "timestamp": "2026-04-27T10:05:00+03:00"
     }
   ]
 }
