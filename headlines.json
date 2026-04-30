@@ -1,6 +1,40 @@
 {
-  "lastUpdated": "2026-04-30T14:08:00+03:00",
+  "lastUpdated": "2026-04-30T15:06:20+03:00",
   "headlines": [
+    {
+      "headline": "Kim Jong Un Praises North Korean Soldier Suicides in Ukraine War",
+      "summary": "At a ceremony unveiling a bronze sculpture of North Korean and Russian soldiers, Kim Jong Un explicitly praised troops who chose death over capture in Ukraine, the most direct acknowledgment yet of Pyongyang battlefield doctrine.",
+      "emoji": "🇰🇵",
+      "category": "Ukraine-Russia War",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/04/30/asia/north-korea-soldier-suicides-intl-hnk",
+      "timestamp": "2026-04-30T15:03:00+03:00"
+    },
+    {
+      "headline": "US Seeks International Coalition to Reopen Strait of Hormuz",
+      "summary": "The State Department is pressing for an international coalition to reopen the Strait of Hormuz, according to a cable seen by Reuters, as oil prices surge on fears of prolonged supply disruption.",
+      "emoji": "🇺🇸",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/us-seeks-international-help-reopen-strait-hormuz-crude-prices-surge-2026-04-30/",
+      "timestamp": "2026-04-30T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/us-seeks-new-coalition-get-ships-moving-again-hormuz-internal-cable-says-2026-04-30/",
+          "angle": "US seeks international coalition to reopen Strait of Hormuz",
+          "summary": "Secretary of State Marco Rubio approved the creation of the Maritime Freedom Construct (MFC), a joint State Department-Pentagon initiative to restore freedom of navigation. The move follows months of disrupted shipping as Iran blockaded the strait in response to US-Israeli attacks."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/us-seeks-international-help-reopen-strait-hormuz-crude-prices-surge-2026-04-30/",
+        "https://www.reuters.com/world/us-seeks-new-coalition-get-ships-moving-again-hormuz-internal-cable-says-2026-04-30/"
+      ]
+    },
     {
       "headline": "Russian Shadow Airlines Use Algeria as Base for Secretive Military Missions",
       "summary": "Algeria has become a key hub for Russian military logistics as shadow airlines conduct covert missions, raising concerns about Moscow's expanding influence in North Africa.",
@@ -184,16 +218,31 @@
       "category": "Energy",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cx21m88rd14o",
-      "timestamp": "2026-04-30T12:03:00+03:00"
-    },
-    {
-      "headline": "Trump Considers Reducing US Troops in Germany After Merz Criticism",
-      "summary": "President Trump announced he is \"studying\" whether to reduce the more than 36,000 US troops stationed in Germany. The move follows German Chancellor Merz criticism that the US had been \"humiliated\" by Iranian negotiators in the ongoing conflict.",
-      "emoji": "🇩🇪",
-      "category": "Europe",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/clyplg23l30o",
-      "timestamp": "2026-04-30T12:03:00+03:00"
+      "timestamp": "2026-04-30T12:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/04/30/energy/oil-prices-iran-war-wartime-high-blockade-hnk",
+          "angle": "Oil Surges Past $126, Highest in Four Years on Hormuz Fears",
+          "summary": "Brent crude briefly touched $126 per barrel, the highest price in four years, as traders worry about prolonged closure of the Strait of Hormuz following Trump decision to extend Iran port blockade."
+        },
+        {
+          "source": "Al-Monitor",
+          "url": "https://www.al-monitor.com/originals/2026/04/oil-surges-past-120-war-time-high-trump-rejects-iran-overture",
+          "angle": "Oil Surges Past $120 as Trump Rejects Iranian Peace Overture",
+          "summary": "Benchmark Brent crude surpassed $120 per barrel, reaching war-time highs after President Trump rejected an Iranian proposal to end the conflict that would have deferred nuclear talks."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "CNN",
+        "Al-Monitor"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cx21m88rd14o",
+        "https://www.cnn.com/2026/04/30/energy/oil-prices-iran-war-wartime-high-blockade-hnk",
+        "https://www.al-monitor.com/originals/2026/04/oil-surges-past-120-war-time-high-trump-rejects-iran-overture"
+      ]
     },
     {
       "headline": "US Indicts 10 Mexican Officials Including Sinaloa Governor for Drug Trafficking",
@@ -494,15 +543,6 @@
       "timestamp": "2026-04-30T08:06:00+03:00"
     },
     {
-      "headline": "US seeks international coalition to reopen Strait of Hormuz",
-      "summary": "Secretary of State Marco Rubio approved the creation of the Maritime Freedom Construct (MFC), a joint State Department-Pentagon initiative to restore freedom of navigation. The move follows months of disrupted shipping as Iran blockaded the strait in response to US-Israeli attacks.",
-      "emoji": "🚢",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us-seeks-new-coalition-get-ships-moving-again-hormuz-internal-cable-says-2026-04-30/",
-      "timestamp": "2026-04-30T08:03:00+03:00"
-    },
-    {
       "headline": "German Chancellor Merz says relations with Trump remain good despite Iran spat",
       "summary": "Chancellor Friedrich Merz downplayed tensions with Washington over Germany not sending naval vessels to Hormuz, while warning of economic fallout from the Iran conflict. Trump had criticized Germany and NATO allies for not supporting the maritime operation.",
       "emoji": "🇩🇪",
@@ -613,19 +653,19 @@
       "timestamp": "2026-04-30T06:10:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/russia-victory-day-parade-3c0e2619140194148dd94c730775ee3f",
-          "angle": "Russia Cancels Military Equipment from Victory Day Parade",
-          "summary": "Russia will hold its May 9 Victory Day parade without tanks or military equipment for the first time in nearly two decades, citing the \"current operational situation\" as Ukraine continues drone attacks deep inside Russian territory."
+          "source": "MSN",
+          "url": "https://www.msn.com/en-us/news/world/russia-scales-back-victory-day-plans-as-ukraines-military-reach-expands/ar-AA224VDM",
+          "angle": "Russia Scales Back Victory Day Parade Amid Ukrainian Drone Threats",
+          "summary": "Moscow is reducing the footprint of its foremost annual military parade as Ukraine drone attacks inside Russia expand. The scaled-back May 9 celebration reflects the growing security challenges."
         }
       ],
       "sources": [
         "Reuters",
-        "AP News"
+        "MSN"
       ],
       "urls": [
         "https://www.reuters.com/world/europe/russia-says-its-scaling-down-ww2-victory-parade-due-ukrainian-threat-2026-04-29/",
-        "https://apnews.com/article/russia-victory-day-parade-3c0e2619140194148dd94c730775ee3f"
+        "https://www.msn.com/en-us/news/world/russia-scales-back-victory-day-plans-as-ukraines-military-reach-expands/ar-AA224VDM"
       ]
     },
     {
@@ -681,21 +721,45 @@
       ]
     },
     {
-      "headline": "Powell to Remain on Fed Board, Citing Unprecedented Trump Administration Attacks",
-      "summary": "Fed Chair Jerome Powell announced he will stay on as a Federal Reserve governor after his chairmanship ends next month, defending the central bank independence amid what he called unprecedented legal battering by the Trump administration.",
-      "emoji": "🏛️",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/feds-powell-says-he-will-stay-governor-after-chair-term-ends-2026-04-29/",
-      "timestamp": "2026-04-30T06:05:00+03:00"
-    },
-    {
       "headline": "Trump Reviews Potential US Troop Reduction in Germany",
       "summary": "President Trump said his administration is studying a reduction of US forces in Germany, citing Berlin failure to send naval assets to help open the Strait of Hormuz during the Iran crisis.",
       "emoji": "🇩🇪",
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/trump-says-us-reviewing-possible-reduction-its-troops-germany-2026-04-29/",
+      "timestamp": "2026-04-30T06:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/04/30/g-s1-119480/trump-weighing-reducing-american-troops-in-germany-after-iran-feud",
+          "angle": "Trump Threatens US Troop Cuts in Germany Over Iran War Criticism",
+          "summary": "President Trump threatened to reduce US military presence in Germany after Chancellor Merz criticized US handling of the Iran war. Germany hosts over 35,000 US troops and is key to NATO operations."
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/clyplg23l30o",
+          "angle": "Trump Considers Reducing US Troops in Germany After Merz Criticism",
+          "summary": "President Trump announced he is \"studying\" whether to reduce the more than 36,000 US troops stationed in Germany. The move follows German Chancellor Merz criticism that the US had been \"humiliated\" by Iranian negotiators in the ongoing conflict."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "NPR",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/trump-says-us-reviewing-possible-reduction-its-troops-germany-2026-04-29/",
+        "https://www.npr.org/2026/04/30/g-s1-119480/trump-weighing-reducing-american-troops-in-germany-after-iran-feud",
+        "https://www.bbc.com/news/articles/clyplg23l30o"
+      ]
+    },
+    {
+      "headline": "Powell to Remain on Fed Board, Citing Unprecedented Trump Administration Attacks",
+      "summary": "Fed Chair Jerome Powell announced he will stay on as a Federal Reserve governor after his chairmanship ends next month, defending the central bank independence amid what he called unprecedented legal battering by the Trump administration.",
+      "emoji": "🏛️",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/feds-powell-says-he-will-stay-governor-after-chair-term-ends-2026-04-29/",
       "timestamp": "2026-04-30T06:05:00+03:00"
     },
     {
@@ -932,15 +996,6 @@
         "https://www.reuters.com/business/view-fed-holds-rates-steady-board-vote-is-most-divided-since-1992-2026-04-29/",
         "https://www.reuters.com/business/fed-likely-hold-rates-steady-what-may-be-last-meeting-powell-era-2026-04-29/"
       ]
-    },
-    {
-      "headline": "Oil Surges Past $120 as Trump Rejects Iranian Peace Overture",
-      "summary": "Benchmark Brent crude surpassed $120 per barrel, reaching war-time highs after President Trump rejected an Iranian proposal to end the conflict that would have deferred nuclear talks.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Al-Monitor",
-      "url": "https://www.al-monitor.com/originals/2026/04/oil-surges-past-120-war-time-high-trump-rejects-iran-overture",
-      "timestamp": "2026-04-30T00:07:00+03:00"
     },
     {
       "headline": "Trump Rejects Iran Ceasefire Proposal, Vows Continued Pressure",
@@ -2752,83 +2807,6 @@
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/04/28/us/politics/republicans-midterms-trump-popularity-decline.html",
       "timestamp": "2026-04-28T13:15:00+03:00"
-    },
-    {
-      "headline": "Israel Establishes Buffer Zone in Southern Lebanon, Displacing Civilians",
-      "summary": "Israeli forces have created a \"Yellow Line\" buffer zone south of the Litani River in southern Lebanon, forcing residents to flee and raising concerns of long-term displacement amid ongoing conflict with Hezbollah.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/middle-east/disguised-occupation-in-lebanon-israel-strips-life-along-yellow-line-in-south/3920155",
-      "timestamp": "2026-04-28T12:08:00+03:00"
-    },
-    {
-      "headline": "Hundreds of Google Employees Protest Pentagon AI Collaboration",
-      "summary": "Google staff signed an open letter urging CEO Sundar Pichai not to allow AI tools for classified Pentagon work, warning of potential misuse in lethal autonomous weapons and surveillance.",
-      "emoji": "💻",
-      "category": "Technology",
-      "source": "TRT World",
-      "url": "https://www.trtworld.com/article/54768d9b8111",
-      "timestamp": "2026-04-28T12:08:00+03:00",
-      "perspectives": [
-        {
-          "source": "MSN",
-          "url": "https://www.msn.com/en-us/technology/artificial-intelligence/google-workers-petition-ceo-to-refuse-classified-ai-work-with-pentagon/ar-AA21QEnu?ocid=BingNewsVerp",
-          "angle": "Google employees petition CEO to refuse classified AI work with Pentagon",
-          "summary": "Hundreds of Google AI researchers have signed a letter urging CEO Sundar Pichai to refuse classified military AI work, reigniting debates about tech company involvement in defense projects."
-        }
-      ],
-      "sources": [
-        "TRT World",
-        "MSN"
-      ],
-      "urls": [
-        "https://www.trtworld.com/article/54768d9b8111",
-        "https://www.msn.com/en-us/technology/artificial-intelligence/google-workers-petition-ceo-to-refuse-classified-ai-work-with-pentagon/ar-AA21QEnu?ocid=BingNewsVerp"
-      ]
-    },
-    {
-      "headline": "Russia to Host International Security Forum with 180+ Foreign Delegations",
-      "summary": "Moscow will host its first International Security Forum in late May, bringing together security council secretaries, intelligence chiefs, and defense industry representatives from over 180 countries to showcase Russian military technology.",
-      "emoji": "🇷🇺",
-      "category": "Defense Industry",
-      "source": "TASS",
-      "url": "https://tass.com/defense/2123291",
-      "timestamp": "2026-04-28T12:08:00+03:00"
-    },
-    {
-      "headline": "China Blocks Meta's $2B Acquisition of AI Startup Manus",
-      "summary": "China's National Development and Reform Commission blocked Meta's acquisition of AI startup Manus, citing national security concerns. The move signals Beijing's tighter control over advanced technology transfers amid U.S.-China AI rivalry.",
-      "emoji": "🇨🇳",
-      "category": "US-China",
-      "source": "AP News",
-      "url": "https://apnews.com/article/china-meta-manus-ai-acquisition-5f8012791f86f719a24a3ebac06d9b0a",
-      "timestamp": "2026-04-28T12:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/04/29/business/china-silicon-valley-manus.html",
-          "angle": "China Blocks Meta Deal With AI Startup, Escalating Tech Decoupling",
-          "summary": "Beijing insistence that Meta unwind its deal with Chinese AI start-up Manus marks an escalation in the geopolitical fight between China and Silicon Valley over technology and data access."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "New York Times"
-      ],
-      "urls": [
-        "https://apnews.com/article/china-meta-manus-ai-acquisition-5f8012791f86f719a24a3ebac06d9b0a",
-        "https://www.nytimes.com/2026/04/29/business/china-silicon-valley-manus.html"
-      ]
-    },
-    {
-      "headline": "Australia to Tax Meta, Google, TikTok to Fund Journalism",
-      "summary": "Australia proposed legislation to tax digital giants Meta, Google and TikTok unless they negotiate deals to pay local media outlets for news content. The News Bargaining Incentive would charge platforms that refuse to strike voluntary deals.",
-      "emoji": "🇦🇺",
-      "category": "Technology",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/media-telecom/australia-charge-big-tech-companies-2-levy-unless-they-strike-local-news-deals-2026-04-28/",
-      "timestamp": "2026-04-28T12:03:00+03:00"
     }
   ]
 }
