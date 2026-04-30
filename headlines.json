@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-04-30T02:07:45+03:00",
+  "lastUpdated": "2026-04-30T03:03:56+03:00",
   "headlines": [
+    {
+      "headline": "Trump threatens to reduce US troops in Germany amid Iran war feud",
+      "summary": "President Trump said he is considering reducing the US military presence in Germany after Chancellor Merz criticized the lack of US strategy in the Iran war and said America was being humiliated by Iranian leadership.",
+      "emoji": "🇺🇸🇩🇪",
+      "category": "US-Iran War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/trump-germany-iran-troops-290ddb105f5f05e20e6c6ae7094659f3",
+      "timestamp": "2026-04-30T03:03:00+03:00"
+    },
+    {
+      "headline": "USS Gerald R. Ford carrier ending record 300-day deployment",
+      "summary": "The world's largest aircraft carrier is heading home after a record-setting deployment that included the Iran war and the capture of Venezuelan leader Maduro, marking the longest carrier deployment since Vietnam.",
+      "emoji": "🚢⏱️",
+      "category": "Military",
+      "source": "AP News",
+      "url": "https://apnews.com/article/uss-ford-iran-war-record-deployment-61a40739b7792c24ac1476c110b0c9cc",
+      "timestamp": "2026-04-30T03:03:00+03:00"
+    },
+    {
+      "headline": "Brazil Senate rejects Lula Supreme Court nominee for first time in 132 years",
+      "summary": "Brazil's Senate rejected President Lula's Supreme Court nominee Jorge Messias in a 42-34 vote, the first rejection since 1894, dealing a political blow to the incumbent ahead of October elections.",
+      "emoji": "🇧🇷🏛️",
+      "category": "Latin America",
+      "source": "AP News",
+      "url": "https://apnews.com/article/brazil-supreme-court-justice-messias-lula-286e34ad39c13519dd2631d30268991d",
+      "timestamp": "2026-04-30T03:03:00+03:00"
+    },
     {
       "headline": "China Southern Airlines orders Airbus jets worth $21 billion as Boeing deal remains rumor",
       "summary": "The state-owned airline joins peers in placing large orders with the European manufacturer, while any potential Boeing deal hinges on broader US-China trade dynamics amid tensions over Iran and technology.",
@@ -8,33 +35,6 @@
       "category": "Asia-Pacific",
       "source": "SCMP",
       "url": "https://www.scmp.com/economy/china-economy/article/3351900/china-southern-airlines-orders-airbus-jets-worth-us21b-boeing-deal-remains-rumour",
-      "timestamp": "2026-04-30T02:05:00+03:00"
-    },
-    {
-      "headline": "US raising pressure on China before Xi-Trump talks with chips, oil and Iran moves",
-      "summary": "Washington targets semiconductor access and small Chinese oil refineries, though analysts expect Beijing to resist, as both sides prepare for a potential leadership summit.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "US-China",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/economy/global-economy/article/3351891/chips-oil-and-iran-why-us-raising-pressure-china-xi-trump-talks",
-      "timestamp": "2026-04-30T02:05:00+03:00"
-    },
-    {
-      "headline": "Israeli military intercepts Gaza-bound aid vessel off Greek coast",
-      "summary": "Activists say Israeli-identified speedboats approached the vessel, aiming lasers and semi-automatic weapons, and ordered passengers on deck as humanitarian aid attempts to reach Gaza.",
-      "emoji": "🚢🇮🇱",
-      "category": "Middle East",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-military-intercepts-gaza-bound-aid-vessel-greek-coast",
-      "timestamp": "2026-04-30T02:05:00+03:00"
-    },
-    {
-      "headline": "Trump threatens to pull US troops from Germany amid Merz row over Iran",
-      "summary": "US president, angered by German chancellor Friedrich Merz claim that the US had been humiliated by Iran, may redeploy forces in a sign of strained transatlantic relations.",
-      "emoji": "🇺🇸🇩🇪",
-      "category": "Europe",
-      "source": "Telegraph",
-      "url": "https://www.telegraph.co.uk/us/news/2026/04/29/trump-germany-troops-friedrich-merz/",
       "timestamp": "2026-04-30T02:05:00+03:00"
     },
     {
@@ -108,6 +108,31 @@
       "timestamp": "2026-04-30T02:03:00+03:00"
     },
     {
+      "headline": "US Sanctions China's Hengli in Major Escalation of Iran Oil Crackdown",
+      "summary": "The US Treasury imposed sanctions on China's Hengli Petrochemical for purchasing billions of dollars in Iranian oil, marking a significant escalation in efforts to cut Tehran's oil revenue.",
+      "emoji": "🇺🇸🇨🇳",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/us-sanctions-chinas-hengli-mark-escalation-iran-oil-crackdown-2026-04-29/",
+      "timestamp": "2026-04-30T01:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/global-economy/article/3351891/chips-oil-and-iran-why-us-raising-pressure-china-xi-trump-talks",
+          "angle": "US raising pressure on China before Xi-Trump talks with chips, oil and Iran moves",
+          "summary": "Washington targets semiconductor access and small Chinese oil refineries, though analysts expect Beijing to resist, as both sides prepare for a potential leadership summit."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "SCMP"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/us-sanctions-chinas-hengli-mark-escalation-iran-oil-crackdown-2026-04-29/",
+        "https://www.scmp.com/economy/global-economy/article/3351891/chips-oil-and-iran-why-us-raising-pressure-china-xi-trump-talks"
+      ]
+    },
+    {
       "headline": "US-Iran War Cost Reaches $25 Billion as Hormuz Shipping Dwindles to Trickle",
       "summary": "A senior Pentagon official disclosed the first cost estimate for the US war in Iran at $25 billion, while shipping data shows only six vessels crossed the Strait of Hormuz in 24 hours—a fraction of normal traffic—as negotiations remain deadlocked.",
       "emoji": "💰🇮🇷",
@@ -165,15 +190,6 @@
         "https://www.reuters.com/world/zelenskiy-says-ukraine-will-continue-extending-range-strikes-russia-2026-04-29/",
         "https://www.reuters.com/world/zelenskiy-says-ukraine-will-continue-extending-range-strikes-russia-2026-04-29/"
       ]
-    },
-    {
-      "headline": "US Sanctions China's Hengli in Major Escalation of Iran Oil Crackdown",
-      "summary": "The US Treasury imposed sanctions on China's Hengli Petrochemical for purchasing billions of dollars in Iranian oil, marking a significant escalation in efforts to cut Tehran's oil revenue.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/us-sanctions-chinas-hengli-mark-escalation-iran-oil-crackdown-2026-04-29/",
-      "timestamp": "2026-04-30T01:03:00+03:00"
     },
     {
       "headline": "Federal Reserve Holds Rates in Powell's Likely Last Meeting as Chair",
@@ -262,6 +278,31 @@
       ]
     },
     {
+      "headline": "Israel Intercepts Gaza Aid Ships Far From Shores",
+      "summary": "Israel has begun intercepting and taking control of humanitarian aid ships bound for Gaza far from Israeli shores, according to army radio, as a Gaza-bound flotilla approaches the region.",
+      "emoji": "🚢",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israel-begins-intercepting-gaza-aid-ships-far-shores-army-radio-says-2026-04-29/",
+      "timestamp": "2026-04-30T00:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "Middle East Eye",
+          "url": "https://www.middleeasteye.net/news/israeli-military-intercepts-gaza-bound-aid-vessel-greek-coast",
+          "angle": "Israeli military intercepts Gaza-bound aid vessel off Greek coast",
+          "summary": "Activists say Israeli-identified speedboats approached the vessel, aiming lasers and semi-automatic weapons, and ordered passengers on deck as humanitarian aid attempts to reach Gaza."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Middle East Eye"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/israel-begins-intercepting-gaza-aid-ships-far-shores-army-radio-says-2026-04-29/",
+        "https://www.middleeasteye.net/news/israeli-military-intercepts-gaza-bound-aid-vessel-greek-coast"
+      ]
+    },
+    {
       "headline": "IAEA Chief Says Iran Highly Enriched Uranium Still at Isfahan",
       "summary": "UN nuclear agency head Rafael Grossi confirmed that most of Iran highly enriched uranium remains at the Isfahan complex, amid heightened concerns about nuclear proliferation during the US-Israel conflict with Iran.",
       "emoji": "⚛️",
@@ -284,31 +325,6 @@
       "urls": [
         "https://apnews.com/article/iran-nuclear-uranium-grossi-iaea-isfahan-trump-be1e70b842638e69efeb07417bf78d41",
         "https://apnews.com/article/iran-nuclear-uranium-grossi-iaea-isfahan-trump-be1e70b842638e69efeb07417bf78d41"
-      ]
-    },
-    {
-      "headline": "Israel Intercepts Gaza Aid Ships Far From Shores",
-      "summary": "Israel has begun intercepting and taking control of humanitarian aid ships bound for Gaza far from Israeli shores, according to army radio, as a Gaza-bound flotilla approaches the region.",
-      "emoji": "🚢",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israel-begins-intercepting-gaza-aid-ships-far-shores-army-radio-says-2026-04-29/",
-      "timestamp": "2026-04-30T00:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "Daily Sabah",
-          "url": "https://www.dailysabah.com/world/mid-east/france-urges-israel-to-lift-gaza-aid-restrictions-amid-dire-conditions",
-          "angle": "France Demands Israel Remove All Gaza Aid Barriers",
-          "summary": "France called on Israel to remove all restrictions on humanitarian aid to Gaza, citing dire conditions as the UN warns of worsening humanitarian crisis."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Daily Sabah"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/israel-begins-intercepting-gaza-aid-ships-far-shores-army-radio-says-2026-04-29/",
-        "https://www.dailysabah.com/world/mid-east/france-urges-israel-to-lift-gaza-aid-restrictions-amid-dire-conditions"
       ]
     },
     {
@@ -440,7 +456,23 @@
       "category": "Europe",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/04/29/world/europe/trump-merz-iran.html",
-      "timestamp": "2026-04-29T22:00:00+03:00"
+      "timestamp": "2026-04-29T22:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "Telegraph",
+          "url": "https://www.telegraph.co.uk/us/news/2026/04/29/trump-germany-troops-friedrich-merz/",
+          "angle": "Trump threatens to pull US troops from Germany amid Merz row over Iran",
+          "summary": "US president, angered by German chancellor Friedrich Merz claim that the US had been humiliated by Iran, may redeploy forces in a sign of strained transatlantic relations."
+        }
+      ],
+      "sources": [
+        "New York Times",
+        "Telegraph"
+      ],
+      "urls": [
+        "https://www.nytimes.com/2026/04/29/world/europe/trump-merz-iran.html",
+        "https://www.telegraph.co.uk/us/news/2026/04/29/trump-germany-troops-friedrich-merz/"
+      ]
     },
     {
       "headline": "CNN Maps Strait of Hormuz Shipping Disruption",
@@ -2859,56 +2891,6 @@
       "source": "Times of Israel",
       "url": "https://www.timesofisrael.com/idf-chief-slams-unethical-incidents-by-soldiers-says-discipline-eroded-in-recent-wars/",
       "timestamp": "2026-04-28T00:06:00+03:00"
-    },
-    {
-      "headline": "Taiwan Completes Major US Tank Deal With Final Abrams Shipment",
-      "summary": "The acquisition marks the biggest upgrade to Taiwan armored forces in decades as it bolsters northern defense capabilities against Chinese threats.",
-      "emoji": "🇹🇼",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/politics/article/3351596/taiwan-completes-us-tank-deal-final-abrams-shipment-reaches-port",
-      "timestamp": "2026-04-28T00:06:00+03:00",
-      "perspectives": [
-        {
-          "source": "Anadolu Agency",
-          "url": "https://www.aa.com.tr/en/asia-pacific/taiwan-receives-final-batch-of-m1a2t-abrams-tanks-from-us/3919246",
-          "angle": "Taiwan Receives Final Batch of M1A2T Abrams Tanks From US",
-          "summary": "Taiwan has received the last of its 108 M1A2T Abrams tanks from the United States, completing a .28 billion procurement deal that strengthens the island’s armored capabilities."
-        }
-      ],
-      "sources": [
-        "SCMP",
-        "Anadolu Agency"
-      ],
-      "urls": [
-        "https://www.scmp.com/news/china/politics/article/3351596/taiwan-completes-us-tank-deal-final-abrams-shipment-reaches-port",
-        "https://www.aa.com.tr/en/asia-pacific/taiwan-receives-final-batch-of-m1a2t-abrams-tanks-from-us/3919246"
-      ]
-    },
-    {
-      "headline": "Iran ceasefire negotiations stall as both sides dig in on demands",
-      "summary": "Diplomatic efforts to end the Iran war have stalled over the weekend, with both Iran and the US maintaining hardline positions. The stalemate comes two months into the conflict that has disrupted global oil supplies and heightened regional tensions.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-israel-war-what-to-know-beb5625f8537ceaf22c061cf073210aa",
-      "timestamp": "2026-04-28T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html",
-          "angle": "US-Iran Conflict Stuck in No War No Peace Limbo as Both Sides Wait",
-          "summary": "With peace talks stalled and neither side willing to escalate further, the US-Iran standoff has settled into an uneasy stalemate where each is betting it can outlast the other."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "New York Times"
-      ],
-      "urls": [
-        "https://apnews.com/article/iran-us-israel-war-what-to-know-beb5625f8537ceaf22c061cf073210aa",
-        "https://www.nytimes.com/2026/04/26/world/middleeast/iran-united-states-israel-war-truce.html"
-      ]
     }
   ]
 }
