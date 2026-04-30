@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-01T00:05:58+03:00",
+  "lastUpdated": "2026-05-01T01:06:40+03:00",
   "headlines": [
+    {
+      "headline": "Myanmar Junta Moves Aung San Suu Kyi to House Arrest",
+      "summary": "Myanmar military announced that ousted leader Aung San Suu Kyi has been moved from prison to house arrest as part of a broader prisoner pardon tied to a Buddhist religious holiday.",
+      "emoji": "🇲🇲",
+      "category": "Asia-Pacific",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/world-asia-64638154",
+      "timestamp": "2026-05-01T01:03:00+03:00"
+    },
+    {
+      "headline": "US Indicts Mexican Governor and Officials for Sinaloa Cartel Ties",
+      "summary": "The US charged Sinaloa Governor Rubén Rocha Moya and nine other current and former Mexican officials with aiding drug trafficking. Mexican President Sheinbaum demanded clear evidence before any extradition.",
+      "emoji": "🇲🇽",
+      "category": "Latin America",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/americas/mexico-president-says-us-extradition-requests-against-sinaloa-governor-others-2026-04-30/",
+      "timestamp": "2026-05-01T01:03:00+03:00"
+    },
+    {
+      "headline": "Israeli Airstrikes Kill Nine in Southern Lebanon Despite Ceasefire",
+      "summary": "At least nine people including two children were killed in Israeli strikes on southern Lebanon, according to Lebanese health ministry, in violation of the ceasefire agreement.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/world-middle-east-64637891",
+      "timestamp": "2026-05-01T01:03:00+03:00"
+    },
+    {
+      "headline": "US Press Freedom Falls to Historic Low in RSF Index",
+      "summary": "Reporters Without Borders warned of a press freedom crisis in the US amid media consolidation and Trump policies, as the United States dropped to its lowest-ever ranking in the World Press Freedom Index.",
+      "emoji": "🇺🇸",
+      "category": "US Politics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/30/us-falls-to-historic-low-in-press-freedom-tracker-rsf",
+      "timestamp": "2026-05-01T01:03:00+03:00"
+    },
+    {
+      "headline": "Belgium Plans to Nationalise Nuclear Power Plants",
+      "summary": "Prime Minister Bart De Wever announced Belgium will nationalise its nuclear power plants to reduce dependence on fossil fuel imports and gain more control over energy supply.",
+      "emoji": "🇧🇪",
+      "category": "Europe",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/world-europe-64637823",
+      "timestamp": "2026-05-01T01:03:00+03:00"
+    },
     {
       "headline": "Ukraine's Ground Robots Revolutionizing Modern Warfare",
       "summary": "Ukrainian forces are deploying robotic ground systems that are reshaping battlefield tactics, showcasing how land-based autonomous systems can adapt to changing combat conditions in real time.",
@@ -17,7 +62,23 @@
       "category": "Asia-Pacific",
       "source": "Straits Times",
       "url": "https://www.straitstimes.com/asia/east-asia/china-deploys-warship-for-combat-drills-in-western-pacific",
-      "timestamp": "2026-05-01T00:04:00+03:00"
+      "timestamp": "2026-05-01T00:04:00+03:00",
+      "perspectives": [
+        {
+          "source": "China Daily",
+          "url": "http://en.ce.cn/main/latest/202604/t20260429_2937950.shtml",
+          "angle": "China Condemns Japan Over Neo-Militarism Amid Regional Tensions",
+          "summary": "Chinese Foreign Ministry spokesperson calls for countries to resist Japan's reckless moves toward neo-militarism as Tokyo expands defense capabilities."
+        }
+      ],
+      "sources": [
+        "Straits Times",
+        "China Daily"
+      ],
+      "urls": [
+        "https://www.straitstimes.com/asia/east-asia/china-deploys-warship-for-combat-drills-in-western-pacific",
+        "http://en.ce.cn/main/latest/202604/t20260429_2937950.shtml"
+      ]
     },
     {
       "headline": "China's Arctic Ambitions Bolster Russia's Geopolitical Leverage",
@@ -53,7 +114,31 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/ukraine-seek-clarity-us-russian-ceasefire-proposal-2026-04-30/",
-      "timestamp": "2026-05-01T00:03:00+03:00"
+      "timestamp": "2026-05-01T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/russia-ukraine-war-ceasefire-parade-f6401f0bd72a2866486408fcfd5dc586",
+          "angle": "Zelenskyy Seeks Details of Putin's May 9 Ceasefire Proposal",
+          "summary": "Ukraine's president is clarifying Russia's proposed Victory Day ceasefire as Russian drone attacks kill one in Dnipro and wound dozens in Odesa, while Ukraine strikes refineries deep inside Russia."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/ukraine-seek-clarity-us-russian-ceasefire-proposal-2026-04-30/",
+          "angle": "Ukraine to Seek Clarity From US on Russian Ceasefire Proposal",
+          "summary": "President Zelenskiy said Ukraine will seek clarification from the Trump team on details of a Russian proposal for a brief ceasefire next week."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/ukraine-seek-clarity-us-russian-ceasefire-proposal-2026-04-30/",
+        "https://apnews.com/article/russia-ukraine-war-ceasefire-parade-f6401f0bd72a2866486408fcfd5dc586",
+        "https://www.reuters.com/world/ukraine-seek-clarity-us-russian-ceasefire-proposal-2026-04-30/"
+      ]
     },
     {
       "headline": "Trump Open to Pulling US Troops from Italy and Spain",
@@ -80,7 +165,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/ukraines-army-chief-orders-time-limit-frontline-troops-2026-04-30/",
-      "timestamp": "2026-05-01T00:03:00+03:00"
+      "timestamp": "2026-05-01T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/ukraines-army-chief-orders-time-limit-frontline-troops-2026-04-30/",
+          "angle": "Ukraine Army Chief Orders Two-Month Limit for Frontline Troops",
+          "summary": "Ukraine's top general ordered a mandatory two-month time limit for soldiers serving in forward positions, following a public outcry over photos of emaciated troops and reports of soldiers resorting to rain water."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/ukraines-army-chief-orders-time-limit-frontline-troops-2026-04-30/",
+        "https://www.reuters.com/world/ukraines-army-chief-orders-time-limit-frontline-troops-2026-04-30/"
+      ]
     },
     {
       "headline": "Oil Retreats After Hitting Four-Year High on Iran War Fears",
@@ -89,7 +190,31 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/oil-retreats-after-hitting-four-year-high-concern-us-iran-war-escalation-2026-04-30/",
-      "timestamp": "2026-05-01T00:03:00+03:00"
+      "timestamp": "2026-05-01T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/oil-retreats-after-hitting-four-year-high-concern-us-iran-war-escalation-2026-04-30/",
+          "angle": "Oil Prices Hit Four-Year High Near $126 Before Retreating",
+          "summary": "Global oil prices surged to over $126 per barrel on concerns about the US-Iran conflict disrupting Middle East supply before retreating, as markets weigh the risk of protracted disruption."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/oil-prices-extend-gains-us-iran-war-deadlock-keeps-supply-off-market-2026-04-30/",
+          "angle": "Brent crude hits 4-year high as US-Iran war deadlock keeps supply off market",
+          "summary": "Oil prices surged to a four-year high on concerns that the ongoing US-Iran conflict could escalate further, leading to prolonged supply disruptions from the Middle East."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/oil-retreats-after-hitting-four-year-high-concern-us-iran-war-escalation-2026-04-30/",
+        "https://www.reuters.com/business/energy/oil-retreats-after-hitting-four-year-high-concern-us-iran-war-escalation-2026-04-30/",
+        "https://www.reuters.com/business/energy/oil-prices-extend-gains-us-iran-war-deadlock-keeps-supply-off-market-2026-04-30/"
+      ]
     },
     {
       "headline": "FIFA Chief Confirms Iran Will Play World Cup Matches in US Despite War",
@@ -184,15 +309,6 @@
       "source": "BBC",
       "url": "https://www.bbc.co.uk/sounds/play/m002vmlc",
       "timestamp": "2026-04-30T22:15:00+03:00"
-    },
-    {
-      "headline": "Zelenskyy Seeks Details of Putin's May 9 Ceasefire Proposal",
-      "summary": "Ukraine's president is clarifying Russia's proposed Victory Day ceasefire as Russian drone attacks kill one in Dnipro and wound dozens in Odesa, while Ukraine strikes refineries deep inside Russia.",
-      "emoji": "🇺🇦🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/russia-ukraine-war-ceasefire-parade-f6401f0bd72a2866486408fcfd5dc586",
-      "timestamp": "2026-04-30T22:10:00+03:00"
     },
     {
       "headline": "US CENTCOM requests Dark Eagle hypersonic missile deployment for possible use against Iran",
@@ -376,31 +492,6 @@
       ]
     },
     {
-      "headline": "Ukraine Army Chief Orders Two-Month Limit for Frontline Troops",
-      "summary": "Ukraine's top general ordered a mandatory two-month time limit for soldiers serving in forward positions, following a public outcry over photos of emaciated troops and reports of soldiers resorting to rain water.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/ukraines-army-chief-orders-time-limit-frontline-troops-2026-04-30/",
-      "timestamp": "2026-04-30T20:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Defense News",
-          "url": "https://www.defensenews.com/global/europe/2026/04/30/ukraines-army-chief-shakes-up-troop-rotations-after-outcry/",
-          "angle": "Ukraine Army Chief Overhauls Troop Rotations After Outcry",
-          "summary": "Ukraines top general orders changes to frontline troop rotations after families complained of soldiers deployed without relief. Some troops had resorted to drinking rain water."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Defense News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/ukraines-army-chief-orders-time-limit-frontline-troops-2026-04-30/",
-        "https://www.defensenews.com/global/europe/2026/04/30/ukraines-army-chief-shakes-up-troop-rotations-after-outcry/"
-      ]
-    },
-    {
       "headline": "Major Media Organizations Call on Israel to Lift Gaza Reporting Ban",
       "summary": "Leaders from AP, BBC, CNN, Reuters, NYT, and more than two dozen news organizations urged Israel to end restrictions on foreign journalists entering Gaza, saying ground access is essential for independent reporting after over six months of ceasefire.",
       "emoji": "📰",
@@ -563,30 +654,12 @@
       ]
     },
     {
-      "headline": "Oil Prices Hit Four-Year High Near $126 Before Retreating",
-      "summary": "Global oil prices surged to over $126 per barrel on concerns about the US-Iran conflict disrupting Middle East supply before retreating, as markets weigh the risk of protracted disruption.",
-      "emoji": "💰🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-retreats-after-hitting-four-year-high-concern-us-iran-war-escalation-2026-04-30/",
-      "timestamp": "2026-04-30T18:03:00+03:00"
-    },
-    {
       "headline": "China Conducts Combat Patrols Near Scarborough Shoal",
       "summary": "China held combat readiness patrols near Scarborough Shoal in the disputed South China Sea as the Philippines and US staged joint drills in the region.",
       "emoji": "🇨🇳🇵🇭",
       "category": "South China Sea",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/china-conducts-combat-readiness-patrols-scarborough-shoal-2026-04-30/",
-      "timestamp": "2026-04-30T18:03:00+03:00"
-    },
-    {
-      "headline": "Ukraine to Seek Clarity From US on Russian Ceasefire Proposal",
-      "summary": "President Zelenskiy said Ukraine will seek clarification from the Trump team on details of a Russian proposal for a brief ceasefire next week.",
-      "emoji": "🇺🇦🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/ukraine-seek-clarity-us-russian-ceasefire-proposal-2026-04-30/",
       "timestamp": "2026-04-30T18:03:00+03:00"
     },
     {
@@ -908,47 +981,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/mexican-drugs-sinaloa-cartel-3313a6ca22d651df07ea8481dde71771",
       "timestamp": "2026-04-30T12:03:00+03:00"
-    },
-    {
-      "headline": "Brent crude hits 4-year high as US-Iran war deadlock keeps supply off market",
-      "summary": "Oil prices surged to a four-year high on concerns that the ongoing US-Iran conflict could escalate further, leading to prolonged supply disruptions from the Middle East.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-prices-extend-gains-us-iran-war-deadlock-keeps-supply-off-market-2026-04-30/",
-      "timestamp": "2026-04-30T11:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/oil-trump-iran-stocks-markets-42120b305ce6298712931e79b66a20de",
-          "angle": "Oil Prices Whipsaw as Iran War Keeps Hormuz Blocked, Markets Near Records",
-          "summary": "Brent crude briefly topped $126 before retreating as traders weighed prolonged supply disruption. US stocks hovered near records despite energy uncertainty."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/markets/commodities/trader-or-driller-iran-war-exposes-big-oils-transatlantic-divide-2026-04-30/",
-          "angle": "Iran War Exposes Big Oil Transatlantic Divide",
-          "summary": "European oil majors posted strong first-quarter profits from trading gains as the Iran war disrupted supply chains, highlighting how shifting barrels can trump pumping them. The conflict has created different opportunities for European traders vs American drillers."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/oil-prices-rise-no-end-iran-war-stand-off-seems-sight-2026-04-28/",
-          "angle": "Oil Prices Rise as Hormuz Standoff Continues",
-          "summary": "Oil prices jumped over 3% as stalled efforts to end the Iran war kept the Strait of Hormuz largely closed, though UAE's OPEC exit trimmed gains."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/oil-prices-extend-gains-us-iran-war-deadlock-keeps-supply-off-market-2026-04-30/",
-        "https://apnews.com/article/oil-trump-iran-stocks-markets-42120b305ce6298712931e79b66a20de",
-        "https://www.reuters.com/markets/commodities/trader-or-driller-iran-war-exposes-big-oils-transatlantic-divide-2026-04-30/",
-        "https://www.reuters.com/business/energy/oil-prices-rise-no-end-iran-war-stand-off-seems-sight-2026-04-28/"
-      ]
     },
     {
       "headline": "Taiwan tops Beijing agenda for Trump-Xi summit",
@@ -2447,15 +2479,6 @@
       "timestamp": "2026-04-29T06:07:00+03:00"
     },
     {
-      "headline": "China Condemns Japan Over Neo-Militarism Amid Regional Tensions",
-      "summary": "Chinese Foreign Ministry spokesperson calls for countries to resist Japan's reckless moves toward neo-militarism as Tokyo expands defense capabilities.",
-      "emoji": "🇨🇳🇯🇵⚔️",
-      "category": "Asia-Pacific",
-      "source": "China Daily",
-      "url": "http://en.ce.cn/main/latest/202604/t20260429_2937950.shtml",
-      "timestamp": "2026-04-29T06:07:00+03:00"
-    },
-    {
       "headline": "King Charles Addresses Congress in Rare Speech",
       "summary": "King Charles III became only the second British monarch to address the U.S. Congress, urging American lawmakers to maintain global leadership and reject isolationism. The speech came amid heightened geopolitical tensions between the United States and Iran.",
       "emoji": "🇬🇧",
@@ -2918,42 +2941,6 @@
       "source": "Eurasianet",
       "url": "https://eurasianet.org/armenia-and-azerbaijan-embrace-peace-through-strength-approach",
       "timestamp": "2026-04-28T22:06:00+03:00"
-    },
-    {
-      "headline": "US Intelligence Studies How Iran Would React to Trump Declaring Victory",
-      "summary": "US spy agencies are examining scenarios where President Trump declares a unilateral victory in the two-month-old Iran war, which has killed thousands and become a political liability for the White House.",
-      "emoji": "🇺🇸",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us/us-spy-agencies-examine-how-iran-would-react-trump-declaring-victory-2026-04-28/",
-      "timestamp": "2026-04-28T22:03:00+03:00"
-    },
-    {
-      "headline": "Purdue Pharma Criminal Sentence Could Mark Final Step Before Dissolution",
-      "summary": "OxyContin maker Purdue Pharma faces a $225 million criminal sentence, potentially the last legal step before the company dissolves over its role in the opioid crisis that killed hundreds of thousands.",
-      "emoji": "⚖️",
-      "category": "US Politics",
-      "source": "AP News",
-      "url": "https://apnews.com/article/oxycontin-purdue-pharma-criminal-sentence-settlement-b8aa94eaab3d9d8efed520f272f6d810",
-      "timestamp": "2026-04-28T22:03:00+03:00"
-    },
-    {
-      "headline": "US Soldier Charged with Using Classified Intel to Win K on Polymarket",
-      "summary": "A US special forces soldier pleaded not guilty to charges of using classified information about the mission to capture Venezuela's Maduro to win over ,000 on prediction market Polymarket. The case raises concerns about insider trading on prediction platforms.",
-      "emoji": "⚖️",
-      "category": "US Politics",
-      "source": "AP News",
-      "url": "https://apnews.com/article/polymarket-maduro-raid-soldier-intel-6347d3a6484e34f9b936f654be57739d",
-      "timestamp": "2026-04-28T21:03:00+03:00"
-    },
-    {
-      "headline": "Google Signs Classified AI Deal With Pentagon for Military Applications",
-      "summary": "Alphabet's Google joined a growing list of technology firms signing deals with the U.S. Department of Defense to use AI models for classified work. The move marks a significant expansion of tech-military collaboration amid the Iran conflict.",
-      "emoji": "🇺🇸🤖",
-      "category": "Technology",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/technology/google-signs-classified-ai-deal-with-pentagon-information-reports-2026-04-28/",
-      "timestamp": "2026-04-28T20:10:00+03:00"
     }
   ]
 }
