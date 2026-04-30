@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-04-30T14:05:00+03:00",
+  "lastUpdated": "2026-04-30T14:08:00+03:00",
   "headlines": [
+    {
+      "headline": "Russian Shadow Airlines Use Algeria as Base for Secretive Military Missions",
+      "summary": "Algeria has become a key hub for Russian military logistics as shadow airlines conduct covert missions, raising concerns about Moscow's expanding influence in North Africa.",
+      "emoji": "🇷🇺",
+      "category": "Defense Industry",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/global/europe/2026/04/30/investigation-russian-shadow-airlines-use-algeria-as-base-for-secretive-missions/",
+      "timestamp": "2026-04-30T14:07:00+03:00"
+    },
+    {
+      "headline": "Countries Pay Iran Transit Fees to Pass Through Strait of Hormuz Despite US Sanctions",
+      "summary": "China, India, Japan and other nations continue paying Iran transit fees to ship oil through the Strait of Hormuz, circumventing US sanctions and providing Tehran with revenue.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/asia-pacific/countries-paying-iran-fees-to-transi-hormuz-still-buying-oil-despite-us-sanctions-lawmaker/3922876",
+      "timestamp": "2026-04-30T14:07:00+03:00"
+    },
+    {
+      "headline": "US Eyes First Combat Deployment of Hypersonic Missile Against Iran",
+      "summary": "The US military is considering deploying hypersonic missiles against Iranian targets, which would mark the first combat use of the weapons system that has not been declared fully operational.",
+      "emoji": "⚔️",
+      "category": "Military",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/us-israel-iran-war/us-eyes-deployment-of-hypersonic-missile-for-1st-time-against-iran-report/3922888",
+      "timestamp": "2026-04-30T14:07:00+03:00"
+    },
+    {
+      "headline": "Eurozone Economic Growth Drops to Near Zero as Energy Costs Surge",
+      "summary": "The eurozone economy barely grew in the first quarter of 2026 as soaring energy costs from the Middle East war took their toll on European industry and consumer spending.",
+      "emoji": "🇪🇺",
+      "category": "Economy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/live-news/20260430-eurozone-economy-barely-grows-in-first-months-of-2026",
+      "timestamp": "2026-04-30T14:07:00+03:00"
+    },
+    {
+      "headline": "Russia Dismisses Price War Fears After UAE Exits OPEC+",
+      "summary": "Moscow reaffirmed its commitment to OPEC+ and rejected concerns about a price war following the UAE's surprise departure from the oil production alliance.",
+      "emoji": "💰",
+      "category": "Energy",
+      "source": "Oil Price",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Dismisses-Price-War-Fears-Following-UAE-Departure-From-OPEC.html",
+      "timestamp": "2026-04-30T14:07:00+03:00"
+    },
     {
       "headline": "Supreme Court Hollows Out Voting Rights Act After 61 Years",
       "summary": "The U.S. Supreme Court knocked out a major pillar of the Voting Rights Act, eliminating protections against racial discrimination in voting and redistricting that had stood for six decades. Civil rights advocates warn the decision could return minority communities to the Jim Crow era.",
@@ -8,25 +53,23 @@
       "category": "US Politics",
       "source": "AP News",
       "url": "https://apnews.com/article/supreme-court-voting-rights-act-louisiana-alabama-4e3225083caccda5ec73a98533a79add",
-      "timestamp": "2026-04-30T14:03:00+03:00"
-    },
-    {
-      "headline": "Iran Supreme Leader Vows to Protect Nuclear and Missile Capabilities",
-      "summary": "Ayatollah Mojtaba Khamenei declared Iran will defend its nuclear and missile programs as national assets, drawing a hard line in ceasefire negotiations with the US. His statement comes as Brent crude surged past $126 per barrel amid the continued Strait of Hormuz closure.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-gulf-khamenei-5cbf26dc89ce5e868e414320178f4c1b",
-      "timestamp": "2026-04-30T14:03:00+03:00"
-    },
-    {
-      "headline": "Brent Crude Surges Past $126 as Iran War Blocks Hormuz Strait",
-      "summary": "Oil prices hit a four-year high with Brent crude briefly exceeding $126 per barrel as stalled US-Iran negotiations kept the Strait of Hormuz closed. Prices have nearly doubled from $70 before the war began in late February.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/oil-trump-iran-stocks-markets-42120b305ce6298712931e79b66a20de",
-      "timestamp": "2026-04-30T14:03:00+03:00"
+      "timestamp": "2026-04-30T14:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/supreme-court-voting-rights-congressional-redistricting-louisiana-aa5d7dbde7c13654f341d152c2ad5229",
+          "angle": "Supreme Court Weakens Voting Rights Act in Louisiana Redistricting Case",
+          "summary": "The Supreme Court struck down a majority-Black congressional district in Louisiana in a 6-3 ruling, finding it relied too heavily on race. The decision could affect nearly 70 congressional districts protected under Section 2 and reshape the 2028 electoral map."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "AP News"
+      ],
+      "urls": [
+        "https://apnews.com/article/supreme-court-voting-rights-act-louisiana-alabama-4e3225083caccda5ec73a98533a79add",
+        "https://apnews.com/article/supreme-court-voting-rights-congressional-redistricting-louisiana-aa5d7dbde7c13654f341d152c2ad5229"
+      ]
     },
     {
       "headline": "US-Iran War Has Cost $25 Billion So Far, Pentagon Official Says",
@@ -35,7 +78,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/us-war-iran-has-cost-25-billion-so-far-says-pentagon-official-2026-04-29/",
-      "timestamp": "2026-04-30T14:03:00+03:00"
+      "timestamp": "2026-04-30T14:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/us-war-iran-has-cost-25-billion-so-far-says-pentagon-official-2026-04-29/",
+          "angle": "US War in Iran Has Cost $25 Billion So Far, Pentagon Official Says",
+          "summary": "A senior Pentagon official provided the first official estimate of the military price tag for the Iran conflict, an amount equal to NASA's entire annual budget."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/us-war-iran-has-cost-25-billion-so-far-says-pentagon-official-2026-04-29/",
+        "https://www.reuters.com/world/middle-east/us-war-iran-has-cost-25-billion-so-far-says-pentagon-official-2026-04-29/"
+      ]
     },
     {
       "headline": "Over 1 Million in Lebanon Face Acute Food Insecurity Crisis",
@@ -128,31 +187,6 @@
       "timestamp": "2026-04-30T12:03:00+03:00"
     },
     {
-      "headline": "Supreme Court Weakens Voting Rights Act in Louisiana Redistricting Case",
-      "summary": "The Supreme Court struck down a majority-Black congressional district in Louisiana in a 6-3 ruling, finding it relied too heavily on race. The decision could affect nearly 70 congressional districts protected under Section 2 and reshape the 2028 electoral map.",
-      "emoji": "🏛️",
-      "category": "US Politics",
-      "source": "AP News",
-      "url": "https://apnews.com/article/supreme-court-voting-rights-congressional-redistricting-louisiana-aa5d7dbde7c13654f341d152c2ad5229",
-      "timestamp": "2026-04-30T12:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/supreme-court-voting-rights-congressional-redistricting-louisiana-aa5d7dbde7c13654f341d152c2ad5229",
-          "angle": "Supreme Court Weakens Voting Rights Act, Aids GOP Redistricting",
-          "summary": "The Supreme Court has weakened the landmark Civil Rights-era law that increased minority representation in Congress, with significant implications for the upcoming elections."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "AP News"
-      ],
-      "urls": [
-        "https://apnews.com/article/supreme-court-voting-rights-congressional-redistricting-louisiana-aa5d7dbde7c13654f341d152c2ad5229",
-        "https://apnews.com/article/supreme-court-voting-rights-congressional-redistricting-louisiana-aa5d7dbde7c13654f341d152c2ad5229"
-      ]
-    },
-    {
       "headline": "Trump Considers Reducing US Troops in Germany After Merz Criticism",
       "summary": "President Trump announced he is \"studying\" whether to reduce the more than 36,000 US troops stationed in Germany. The move follows German Chancellor Merz criticism that the US had been \"humiliated\" by Iranian negotiators in the ongoing conflict.",
       "emoji": "🇩🇪",
@@ -169,6 +203,39 @@
       "source": "AP News",
       "url": "https://apnews.com/article/mexican-drugs-sinaloa-cartel-3313a6ca22d651df07ea8481dde71771",
       "timestamp": "2026-04-30T12:03:00+03:00"
+    },
+    {
+      "headline": "Brent crude hits 4-year high as US-Iran war deadlock keeps supply off market",
+      "summary": "Oil prices surged to a four-year high on concerns that the ongoing US-Iran conflict could escalate further, leading to prolonged supply disruptions from the Middle East.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-prices-extend-gains-us-iran-war-deadlock-keeps-supply-off-market-2026-04-30/",
+      "timestamp": "2026-04-30T11:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/oil-trump-iran-stocks-markets-42120b305ce6298712931e79b66a20de",
+          "angle": "Brent Crude Surges Past $126 as Iran War Blocks Hormuz Strait",
+          "summary": "Oil prices hit a four-year high with Brent crude briefly exceeding $126 per barrel as stalled US-Iran negotiations kept the Strait of Hormuz closed. Prices have nearly doubled from $70 before the war began in late February."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/idemitsu-maru-vlcc-tanker-attempts-cross-strait-hormuz-shipping-data-shows-2026-04-28/",
+          "angle": "First Japan-linked tanker crosses Hormuz since Iran war began",
+          "summary": "A Panama-flagged tanker carrying 2 million barrels of Saudi oil crossed the Strait of Hormuz, becoming the first Japan-linked crude tanker to do so since the conflict began, a sign of tentative normalization."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/oil-prices-extend-gains-us-iran-war-deadlock-keeps-supply-off-market-2026-04-30/",
+        "https://apnews.com/article/oil-trump-iran-stocks-markets-42120b305ce6298712931e79b66a20de",
+        "https://www.reuters.com/world/asia-pacific/idemitsu-maru-vlcc-tanker-attempts-cross-strait-hormuz-shipping-data-shows-2026-04-28/"
+      ]
     },
     {
       "headline": "ECB to hold rates steady but keep hikes on table amid Iran war inflation",
@@ -193,47 +260,6 @@
       "urls": [
         "https://www.reuters.com/business/ecb-hold-rates-steady-keep-hikes-firmly-table-2026-04-29/",
         "https://apnews.com/article/eurozone-inflation-ecb-economy-fbc8e8f116f82cbb4c901d73726dfe60"
-      ]
-    },
-    {
-      "headline": "Brent crude hits 4-year high as US-Iran war deadlock keeps supply off market",
-      "summary": "Oil prices surged to a four-year high on concerns that the ongoing US-Iran conflict could escalate further, leading to prolonged supply disruptions from the Middle East.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-prices-extend-gains-us-iran-war-deadlock-keeps-supply-off-market-2026-04-30/",
-      "timestamp": "2026-04-30T11:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/oil-trump-iran-stocks-markets-42120b305ce6298712931e79b66a20de",
-          "angle": "Brent crude surges past  on stalled Iran talks",
-          "summary": "Oil prices jumped more than 6% as negotiations between Washington and Tehran showed no signs of progress. The Strait of Hormuz remains closed, with analysts warning prices could climb further if the conflict escalates."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/oil-prices-extend-gains-us-iran-war-deadlock-keeps-supply-off-market-2026-04-30/",
-          "angle": "Oil Prices Surge as US-Iran Deadlock Keeps Gulf Supply Offline",
-          "summary": "Brent crude extended gains to near $120/barrel as the US-Iran standoff continues to block crucial Middle East oil shipments through the Strait of Hormuz, with no resolution in sight."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/oil-rises-reports-us-will-extend-iran-blockade-prolonging-mideast-supply-2026-04-29/",
-          "angle": "Brent Crude Hits One-Month High on Prolonged Hormuz Disruption Fears",
-          "summary": "Oil prices rose nearly 3% as Brent hit a one-month high following reports the US will extend its blockade of Iranian ports, likely prolonging supply disruptions from the Middle East."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/oil-prices-extend-gains-us-iran-war-deadlock-keeps-supply-off-market-2026-04-30/",
-        "https://apnews.com/article/oil-trump-iran-stocks-markets-42120b305ce6298712931e79b66a20de",
-        "https://www.reuters.com/business/energy/oil-prices-extend-gains-us-iran-war-deadlock-keeps-supply-off-market-2026-04-30/",
-        "https://www.reuters.com/business/energy/oil-rises-reports-us-will-extend-iran-blockade-prolonging-mideast-supply-2026-04-29/"
       ]
     },
     {
@@ -532,31 +558,6 @@
       "urls": [
         "https://apnews.com/article/climate-change-fossil-fuels-colombia-takeaways-fa4bc18a9ca20abcb61b26ba3aa9717a",
         "https://www.france24.com/en/live-news/20260428-nations-to-kick-off-world-first-fossil-fuel-exit-talks"
-      ]
-    },
-    {
-      "headline": "US War in Iran Has Cost $25 Billion So Far, Pentagon Official Says",
-      "summary": "A senior Pentagon official provided the first official estimate of the military price tag for the Iran conflict, an amount equal to NASA's entire annual budget.",
-      "emoji": "💰",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-war-iran-has-cost-25-billion-so-far-says-pentagon-official-2026-04-29/",
-      "timestamp": "2026-04-30T07:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/us/article/3351905/iran-war-price-tag-hits-us25-billion-hegseth-defends-record-pentagon-budget",
-          "angle": "Iran War Cost Hits $25 Billion as Hegseth Defends Record Pentagon Budget",
-          "summary": "The US military campaign against Iran has cost $25 billion so far, the Pentagon disclosed to Congress as Defense Secretary Hegseth defended the record defense budget amid Democratic criticism."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/us-war-iran-has-cost-25-billion-so-far-says-pentagon-official-2026-04-29/",
-        "https://www.scmp.com/news/us/article/3351905/iran-war-price-tag-hits-us25-billion-hegseth-defends-record-pentagon-budget"
       ]
     },
     {
@@ -1827,21 +1828,37 @@
       ]
     },
     {
-      "headline": "Purdue Pharma sentenced to $5.5B, OxyContin maker to dissolve",
-      "summary": "OxyContin maker Purdue Pharma received a $5.5 billion sentence after pleading guilty to deceiving regulators and paying kickbacks to doctors. The sentencing paves the way for the companys dissolution and opioid settlements.",
-      "emoji": "⚖️",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/purdue-pharma-be-sentenced-paving-way-opioid-settlement-2026-04-28/",
-      "timestamp": "2026-04-29T09:03:00+03:00"
-    },
-    {
       "headline": "Iran IRGC tightens grip as war strains economy and blunts Supreme Leader role",
       "summary": "Wartime pressure has concentrated power in Iran into a narrower, harder-line inner circle as the IRGC seizes control, blunting the Supreme Leaders role. Two months into the US-Israel war, the Revolutionary Guards dominance grows amid economic collapse.",
       "emoji": "🇮🇷",
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/irans-guards-seize-wartime-power-blunting-supreme-leaders-role-2026-04-28/",
+      "timestamp": "2026-04-29T09:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/iran-us-gulf-khamenei-5cbf26dc89ce5e868e414320178f4c1b",
+          "angle": "Iran Supreme Leader Vows to Protect Nuclear and Missile Capabilities",
+          "summary": "Ayatollah Mojtaba Khamenei declared Iran will defend its nuclear and missile programs as national assets, drawing a hard line in ceasefire negotiations with the US. His statement comes as Brent crude surged past $126 per barrel amid the continued Strait of Hormuz closure."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/irans-guards-seize-wartime-power-blunting-supreme-leaders-role-2026-04-28/",
+        "https://apnews.com/article/iran-us-gulf-khamenei-5cbf26dc89ce5e868e414320178f4c1b"
+      ]
+    },
+    {
+      "headline": "Purdue Pharma sentenced to $5.5B, OxyContin maker to dissolve",
+      "summary": "OxyContin maker Purdue Pharma received a $5.5 billion sentence after pleading guilty to deceiving regulators and paying kickbacks to doctors. The sentencing paves the way for the companys dissolution and opioid settlements.",
+      "emoji": "⚖️",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/purdue-pharma-be-sentenced-paving-way-opioid-settlement-2026-04-28/",
       "timestamp": "2026-04-29T09:03:00+03:00"
     },
     {
@@ -1918,31 +1935,6 @@
       "urls": [
         "https://www.reuters.com/business/finance/us-imposes-sanctions-35-individuals-entities-aiding-irans-sanctions-evasions-2026-04-28/",
         "https://www.reuters.com/business/finance/us-imposes-sanctions-35-individuals-entities-aiding-irans-sanctions-evasions-2026-04-28/"
-      ]
-    },
-    {
-      "headline": "First Japan-linked tanker crosses Hormuz since Iran war began",
-      "summary": "A Panama-flagged tanker carrying 2 million barrels of Saudi oil crossed the Strait of Hormuz, becoming the first Japan-linked crude tanker to do so since the conflict began, a sign of tentative normalization.",
-      "emoji": "🚢",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/idemitsu-maru-vlcc-tanker-attempts-cross-strait-hormuz-shipping-data-shows-2026-04-28/",
-      "timestamp": "2026-04-29T07:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/idemitsu-maru-vlcc-tanker-attempts-cross-strait-hormuz-shipping-data-shows-2026-04-28/",
-          "angle": "First Japanese Oil Tanker Crosses Hormuz Since Iran War Began",
-          "summary": "The Idemitsu Maru, carrying 2 million barrels of Saudi crude, became the first Japan-linked tanker to successfully navigate the blockaded Strait of Hormuz since the conflict started."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/idemitsu-maru-vlcc-tanker-attempts-cross-strait-hormuz-shipping-data-shows-2026-04-28/",
-        "https://www.reuters.com/world/asia-pacific/idemitsu-maru-vlcc-tanker-attempts-cross-strait-hormuz-shipping-data-shows-2026-04-28/"
       ]
     },
     {
