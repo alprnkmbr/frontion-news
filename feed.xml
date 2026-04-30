@@ -1,237 +1,210 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
-<title>Frontion News Headlines</title>
-<link>https://frontion.app</link>
-<description>Global geopolitical news aggregator</description>
-<language>en-us</language>
-<lastBuildDate>Thu, 30 Apr 2026 10:05:23 +0300</lastBuildDate>
-<atom:link href="https://frontion.app/feed.xml" rel="self" type="application/rss+xml"/>
-
+<title>Frontion Geopolitical News</title>
+<link>https://frontion.news</link>
+<description>Tier 1 geopolitical news headlines curated for global events coverage</description>
+<language>en</language>
+<lastBuildDate>Wed, 30 Apr 2026 11:05:00 +0300</lastBuildDate>
+<item>
+<title>🛢️ Brent crude hits 4-year high as US-Iran war deadlock keeps supply off market</title>
+<link>https://www.reuters.com/business/energy/oil-prices-extend-gains-us-iran-war-deadlock-keeps-supply-off-market-2026-04-30/</link>
+<description>Oil prices surged to a four-year high on concerns that the ongoing US-Iran conflict could escalate further, leading to prolonged supply disruptions from the Middle East.</description>
+<category>Energy</category>
+<dc:source>Reuters</dc:source>
+<pubDate>Wed, 30 Apr 2026 11:05:00 +0300</pubDate>
+</item>
+<item>
+<title>🇨🇳🇹🇼 Taiwan tops Beijing agenda for Trump-Xi summit</title>
+<link>https://www.reuters.com/world/china/taiwan-tops-beijings-agenda-trump-xi-summit-2026-04-29/</link>
+<description>The upcoming Trump-Xi meeting in mid-May will have profound implications for Taiwans 23 million people, with the islands status expected to dominate discussions.</description>
+<category>US-China</category>
+<dc:source>Reuters</dc:source>
+<pubDate>Wed, 30 Apr 2026 11:05:00 +0300</pubDate>
+</item>
+<item>
+<title>🇪🇺💰 ECB to hold rates steady but keep hikes on table amid Iran war inflation</title>
+<link>https://www.reuters.com/business/ecb-hold-rates-steady-keep-hikes-firmly-table-2026-04-29/</link>
+<description>The European Central Bank will keep interest rates unchanged but signal that a rate hike may be needed soon to combat energy-driven price surges from the Middle East conflict.</description>
+<category>Economy</category>
+<dc:source>Reuters</dc:source>
+<pubDate>Wed, 30 Apr 2026 11:05:00 +0300</pubDate>
+</item>
+<item>
+<title>🇺🇸💵 Fed holds rates steady in most divided vote since 1992</title>
+<link>https://www.reuters.com/business/view-fed-holds-rates-steady-board-vote-is-most-divided-since-1992-2026-04-29/</link>
+<description>The Federal Reserve kept its policy rate unchanged in what is likely Jay Powells last meeting as chair, with the board showing its deepest divisions in over three decades over inflation concerns.</description>
+<category>Economy</category>
+<dc:source>Reuters</dc:source>
+<pubDate>Wed, 30 Apr 2026 11:05:00 +0300</pubDate>
+</item>
+<item>
+<title>⚔️🇮🇷 Iran war and Strait of Hormuz stuck in limbo as Trump mulls Iranian offer</title>
+<link>https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-iranian-offer-ceasefire-oil-gas-prices/</link>
+<description>Oil prices continue rising as the Trump administration considers an Iranian proposal to reopen the Strait of Hormuz while delaying nuclear talks.</description>
+<category>US-Iran War</category>
+<dc:source>CBS News</dc:source>
+<pubDate>Wed, 30 Apr 2026 11:05:00 +0300</pubDate>
+</item>
 <item>
 <title>🇨🇳✈️ Chinese military experts analyze how Iran detected and damaged US F-35 stealth jet</title>
 <link>https://www.scmp.com/news/china/military/article/3347383/iran-detected-and-damaged-us-f-35-stealth-jet-combat-chinese-experts-map-out-how</link>
 <description>SCMP reports Chinese military analysts have mapped out how Iranian air defenses were able to detect and damage an F-35 stealth fighter during combat operations, potentially revealing vulnerabilities in the advanced aircraft.</description>
 <category>Defense Industry</category>
-<source url="https://www.scmp.com/news/china/military/article/3347383/iran-detected-and-damaged-us-f-35-stealth-jet-combat-chinese-experts-map-out-how">SCMP</source>
-<pubDate>2026-04-30T10:05:00+03:00</pubDate>
+<dc:source>SCMP</dc:source>
+<pubDate>Wed, 30 Apr 2026 10:05:00 +0300</pubDate>
 </item>
-
 <item>
 <title>🇧🇾🇷🇺 Belarus bars Russian conscripts from leaving country as Ukraine war continues</title>
 <link>https://kyivindependent.com/belarus-prohibited-conscripts-from-russia-and-occupied-ukraine-from-leaving-abroad/</link>
 <description>Minsk has prohibited conscripted Russian soldiers and those from occupied Ukrainian territories from leaving the country, potentially preventing escape from military service.</description>
 <category>Ukraine-Russia War</category>
-<source url="https://kyivindependent.com/belarus-prohibited-conscripts-from-russia-and-occupied-ukraine-from-leaving-abroad/">Kyiv Independent</source>
-<pubDate>2026-04-30T10:05:00+03:00</pubDate>
+<dc:source>Kyiv Independent</dc:source>
+<pubDate>Wed, 30 Apr 2026 10:05:00 +0300</pubDate>
 </item>
-
-<item>
-<title>🛢️💰 Iran war caused $50 billion in oil losses over 50 days</title>
-<link>https://www.dailysabah.com/business/energy/how-50-days-of-iran-war-resulted-in-loss-of-50b-worth-of-oil</link>
-<description>Daily Sabah analysis quantifies the massive economic impact of the conflict on global oil markets, with tens of billions in losses from disrupted shipments and price volatility.</description>
-<category>Energy</category>
-<source url="https://www.dailysabah.com/business/energy/how-50-days-of-iran-war-resulted-in-loss-of-50b-worth-of-oil">Daily Sabah</source>
-<pubDate>2026-04-30T10:05:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🇮🇷🚢 Trump says Iran keeping Strait of Hormuz closed to save face</title>
-<link>https://thehill.com/policy/defense/5842470-trump-says-iran-keeping-strait-of-hormuz-closed-to-save-face/</link>
-<description>The Hill reports President Trump claims Iran is maintaining its blockade of the strategic waterway for domestic political reasons, while US military operations continue to secure commercial shipping.</description>
-<category>US-Iran War</category>
-<source url="https://thehill.com/policy/defense/5842470-trump-says-iran-keeping-strait-of-hormuz-closed-to-save-face/">The Hill</source>
-<pubDate>2026-04-30T10:05:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🇮🇷🇨🇦 Iranian delegation leaves Canada before FIFA Congress over airport inspection dispute</title>
-<link>https://www.france24.com/en/live-news/20260429-iran-officials-leave-canada-before-fifa-congress-over-airport-insult-iranian-media</link>
-<description>Iranian officials departed Canada ahead of FIFA Congress proceedings after objecting to enhanced airport security screenings, Iranian media reports.</description>
-<category>Diplomacy</category>
-<source url="https://www.france24.com/en/live-news/20260429-iran-officials-leave-canada-before-fifa-congress-over-airport-insult-iranian-media">France 24</source>
-<pubDate>2026-04-30T10:05:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🇷🇺 Russia Cancels Military Equipment from Victory Day Parade</title>
-<link>https://apnews.com/article/russia-victory-day-parade-3c0e2619140194148dd94c730775ee3f</link>
-<description>Russia will hold its May 9 Victory Day parade without tanks or military equipment for the first time in nearly two decades, citing the "current operational situation" as Ukraine continues drone attacks deep inside Russian territory.</description>
-<category>Ukraine-Russia War</category>
-<source url="https://apnews.com/article/russia-victory-day-parade-3c0e2619140194148dd94c730775ee3f">AP News</source>
-<pubDate>2026-04-30T10:05:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🇱🇧 Hezbollah Deploys Fiber-Optic Drones Against Israel</title>
-<link>https://apnews.com/article/hezbollah-israel-drones-fiber-optic-war-00cd07852f49ade04ed0a6fde505d987</link>
-<description>Hezbollah has begun using fiber-optic controlled drones that evade electronic jamming, a technology widely used in the Ukraine war. The thin cable connecting operators directly to drones makes them impossible to electronically jam.</description>
-<category>Middle East</category>
-<source url="https://apnews.com/article/hezbollah-israel-drones-fiber-optic-war-00cd07852f49ade04ed0a6fde505d987">AP News</source>
-<pubDate>2026-04-30T10:05:00+03:00</pubDate>
-</item>
-
 <item>
 <title>🛢️ Iran War Exposes Big Oil Transatlantic Divide</title>
 <link>https://www.reuters.com/markets/commodities/trader-or-driller-iran-war-exposes-big-oils-transatlantic-divide-2026-04-30/</link>
 <description>European oil majors posted strong first-quarter profits from trading gains as the Iran war disrupted supply chains, highlighting how shifting barrels can trump pumping them. The conflict has created different opportunities for European traders vs American drillers.</description>
 <category>Energy</category>
-<source url="https://www.reuters.com/markets/commodities/trader-or-driller-iran-war-exposes-big-oils-transatlantic-divide-2026-04-30/">Reuters</source>
-<pubDate>2026-04-30T10:05:00+03:00</pubDate>
+<dc:source>Reuters</dc:source>
+<pubDate>Wed, 30 Apr 2026 10:05:00 +0300</pubDate>
 </item>
-
+<item>
+<title>🇱🇧 Hezbollah Deploys Fiber-Optic Drones Against Israel</title>
+<link>https://apnews.com/article/hezbollah-israel-drones-fiber-optic-war-00cd07852f49ade04ed0a6fde505d987</link>
+<description>Hezbollah has begun using fiber-optic controlled drones that evade electronic jamming, a technology widely used in the Ukraine war. The thin cable connecting operators directly to drones makes them impossible to electronically jam.</description>
+<category>Middle East</category>
+<dc:source>AP News</dc:source>
+<pubDate>Wed, 30 Apr 2026 10:05:00 +0300</pubDate>
+</item>
 <item>
 <title>🇨🇳 China Ramps Up Trade Leverage Before Trump-Xi Summit</title>
 <link>https://www.reuters.com/world/china/white-house-quiet-china-ramps-up-trade-leverage-before-trump-xi-summit-2026-04-30/</link>
 <description>Beijing announced new trade rules that could punish foreign companies for reducing reliance on Chinese supply chains, alarming US businesses weeks before the Trump-Xi summit. Analysts say this could undercut American efforts to reduce supply chain dependence on China.</description>
 <category>US-China</category>
-<source url="https://www.reuters.com/world/china/white-house-quiet-china-ramps-up-trade-leverage-before-trump-xi-summit-2026-04-30/">Reuters</source>
-<pubDate>2026-04-30T10:05:00+03:00</pubDate>
+<dc:source>Reuters</dc:source>
+<pubDate>Wed, 30 Apr 2026 10:05:00 +0300</pubDate>
 </item>
-
 <item>
 <title>🇲🇱🇷🇺⚔️ Mali Setbacks Challenge Russian Influence in Africa</title>
 <link>https://www.reuters.com/world/africa/mali-turmoil-threatens-russian-push-influence-mineral-wealth-africa-2026-04-29/</link>
 <description>Reversals suffered by Mali's Moscow-backed military government have dented Russia's image as a security guarantor in Africa and threaten its strategic and mineral interests on the continent.</description>
 <category>Africa</category>
-<source url="https://www.reuters.com/world/africa/mali-turmoil-threatens-russian-push-influence-mineral-wealth-africa-2026-04-29/">Reuters</source>
-<pubDate>2026-04-30T09:03:00+03:00</pubDate>
+<dc:source>Reuters</dc:source>
+<pubDate>Wed, 30 Apr 2026 09:03:00 +0300</pubDate>
 </item>
-
 <item>
 <title>🇨🇳💻🤖 DeepSeek Bets on Huawei as China Seeks to Replace Nvidia</title>
 <link>https://www.reuters.com/technology/artificial-intelligence/deepseek-bets-huawei-china-pushes-end-reliance-nvidia-2026-04-29/</link>
 <description>Chinese AI startup DeepSeek has aligned with Huawei as Beijing pushes to end reliance on Western technology, signaling a major shift in China's AI semiconductor strategy.</description>
 <category>Technology</category>
-<source url="https://www.reuters.com/technology/artificial-intelligence/deepseek-bets-huawei-china-pushes-end-reliance-nvidia-2026-04-29/">Reuters</source>
-<pubDate>2026-04-30T09:03:00+03:00</pubDate>
+<dc:source>Reuters</dc:source>
+<pubDate>Wed, 30 Apr 2026 09:03:00 +0300</pubDate>
 </item>
-
 <item>
 <title>🇦🇪🛢️🏛️ UAE Reviews Multilateral Ties After OPEC Exit</title>
 <link>https://www.reuters.com/world/middle-east/uae-reviewing-multilateral-ties-after-opec-exit-rules-out-more-departures-2026-04-29/</link>
 <description>The United Arab Emirates is reassessing its role across multilateral organizations following its withdrawal from OPEC, but is not considering further departures, a UAE official said.</description>
 <category>Energy</category>
-<source url="https://www.reuters.com/world/middle-east/uae-reviewing-multilateral-ties-after-opec-exit-rules-out-more-departures-2026-04-29/">Reuters</source>
-<pubDate>2026-04-30T09:03:00+03:00</pubDate>
+<dc:source>Reuters</dc:source>
+<pubDate>Wed, 30 Apr 2026 09:03:00 +0300</pubDate>
 </item>
-
 <item>
 <title>🇲🇽🇺🇸⚖️ US Indicts 10 Mexican Officials for Drug Trafficking</title>
 <link>https://apnews.com/article/mexican-drugs-sinaloa-cartel-3313a6ca22d651df07ea8481dde71771</link>
 <description>The governor of Sinaloa and nine other current and former Mexican officials were charged in a US indictment with drug trafficking and weapons offenses, accused of aiding massive narcotics imports.</description>
 <category>US Politics</category>
-<source url="https://apnews.com/article/mexican-drugs-sinaloa-cartel-3313a6ca22d651df07ea8481dde71771">AP News</source>
-<pubDate>2026-04-30T09:03:00+03:00</pubDate>
+<dc:source>AP News</dc:source>
+<pubDate>Wed, 30 Apr 2026 09:03:00 +0300</pubDate>
 </item>
-
 <item>
 <title>🇺🇸🇷🇺🇺🇦 Trump and Putin Discuss Cease-Fire in Ukraine</title>
 <link>https://www.nytimes.com/2026/04/29/world/europe/ukraine-russia-ceasefire-trump-putin.html</link>
 <description>President Trump and Russian President Vladimir Putin spoke about a potential temporary cease-fire in Ukraine, with Putin offering help on Iran but Trump pushing focus on Ukraine peace efforts.</description>
 <category>Diplomacy</category>
-<source url="https://www.nytimes.com/2026/04/29/world/europe/ukraine-russia-ceasefire-trump-putin.html">New York Times</source>
-<pubDate>2026-04-30T09:03:00+03:00</pubDate>
+<dc:source>New York Times</dc:source>
+<pubDate>Wed, 30 Apr 2026 09:03:00 +0300</pubDate>
 </item>
-
 <item>
 <title>🇰🇷🇺🇸⚓ South Korea to Lead Joint Maritime Drill With US for First Time</title>
 <link>https://www.aa.com.tr/en/asia-pacific/south-korea-to-lead-joint-maritime-drill-with-us-for-1st-time/3922362</link>
 <description>South Korea will lead multinational naval forces for the first time in a US-led maritime exercise starting in June, marking a significant step in defense cooperation amid regional tensions.</description>
 <category>Asia-Pacific</category>
-<source url="https://www.aa.com.tr/en/asia-pacific/south-korea-to-lead-joint-maritime-drill-with-us-for-1st-time/3922362">Anadolu Agency</source>
-<pubDate>2026-04-30T08:06:00+03:00</pubDate>
+<dc:source>Anadolu Agency</dc:source>
+<pubDate>Wed, 30 Apr 2026 08:06:00 +0300</pubDate>
 </item>
-
 <item>
 <title>🇯🇵🇮🇳🚢 Japan Shares Guarded Mogami Warship Design With India in Defense Boost</title>
 <link>https://www.scmp.com/week-asia/economics/article/3351945/why-japan-sharing-its-guarded-mogami-warship-design-india</link>
 <description>Tokyo has offered Delhi the plans to its $500-million Mogami-class warship so that it can be built in India using local industry, marking a major defense technology transfer between the two nations.</description>
 <category>Asia-Pacific</category>
-<source url="https://www.scmp.com/week-asia/economics/article/3351945/why-japan-sharing-its-guarded-mogami-warship-design-india">SCMP</source>
-<pubDate>2026-04-30T08:06:00+03:00</pubDate>
+<dc:source>SCMP</dc:source>
+<pubDate>Wed, 30 Apr 2026 08:06:00 +0300</pubDate>
 </item>
-
 <item>
 <title>📰📉🌍 World Press Freedom Declines as Authoritarianism Rises Globally</title>
 <link>https://www.dw.com/en/world-press-freedom-declines-as-authoritarianism-rises/a-76948348</link>
 <description>Three in four countries now have press freedom rated "problematic" or worse, with the 2026 World Press Freedom Index painting a bleak picture as authoritarian governance expands worldwide.</description>
 <category>Geopolitics</category>
-<source url="https://www.dw.com/en/world-press-freedom-declines-as-authoritarianism-rises/a-76948348">Deutsche Welle</source>
-<pubDate>2026-04-30T08:06:00+03:00</pubDate>
+<dc:source>Deutsche Welle</dc:source>
+<pubDate>Wed, 30 Apr 2026 08:06:00 +0300</pubDate>
 </item>
-
 <item>
 <title>🚢 US seeks international coalition to reopen Strait of Hormuz</title>
 <link>https://www.reuters.com/world/us-seeks-new-coalition-get-ships-moving-again-hormuz-internal-cable-says-2026-04-30/</link>
 <description>Secretary of State Marco Rubio approved the creation of the Maritime Freedom Construct (MFC), a joint State Department-Pentagon initiative to restore freedom of navigation. The move follows months of disrupted shipping as Iran blockaded the strait in response to US-Israeli attacks.</description>
 <category>Middle East</category>
-<source url="https://www.reuters.com/world/us-seeks-new-coalition-get-ships-moving-again-hormuz-internal-cable-says-2026-04-30/">Reuters</source>
-<pubDate>2026-04-30T08:03:00+03:00</pubDate>
+<dc:source>Reuters</dc:source>
+<pubDate>Wed, 30 Apr 2026 08:03:00 +0300</pubDate>
 </item>
-
 <item>
 <title>🇩🇪 German Chancellor Merz says relations with Trump remain good despite Iran spat</title>
 <link>https://www.reuters.com/world/germanys-merz-says-relations-with-trump-are-good-despite-spat-over-iran-2026-04-29/</link>
 <description>Chancellor Friedrich Merz downplayed tensions with Washington over Germany not sending naval vessels to Hormuz, while warning of economic fallout from the Iran conflict. Trump had criticized Germany and NATO allies for not supporting the maritime operation.</description>
 <category>Europe</category>
-<source url="https://www.reuters.com/world/germanys-merz-says-relations-with-trump-are-good-despite-spat-over-iran-2026-04-29/">Reuters</source>
-<pubDate>2026-04-30T08:03:00+03:00</pubDate>
+<dc:source>Reuters</dc:source>
+<pubDate>Wed, 30 Apr 2026 08:03:00 +0300</pubDate>
 </item>
-
 <item>
 <title>🇬🇧 Bank of England expected to hold rates as Iran war clouds economic outlook</title>
 <link>https://www.reuters.com/world/europe/bank-england-set-hold-rates-iran-war-clouds-outlook-2026-04-29/</link>
 <description>The UK central bank is set to keep interest rates unchanged, awaiting clearer signals on the economic impact of the Iran conflict. Markets are watching for any hints of future rate moves amid oil-driven inflation pressures.</description>
 <category>Economy</category>
-<source url="https://www.reuters.com/world/europe/bank-england-set-hold-rates-iran-war-clouds-outlook-2026-04-29/">Reuters</source>
-<pubDate>2026-04-30T08:03:00+03:00</pubDate>
+<dc:source>Reuters</dc:source>
+<pubDate>Wed, 30 Apr 2026 08:03:00 +0300</pubDate>
 </item>
-
 <item>
 <title>🛢️ Brent crude surges past  on stalled Iran talks</title>
 <link>https://apnews.com/article/oil-trump-iran-stocks-markets-42120b305ce6298712931e79b66a20de</link>
 <description>Oil prices jumped more than 6% as negotiations between Washington and Tehran showed no signs of progress. The Strait of Hormuz remains closed, with analysts warning prices could climb further if the conflict escalates.</description>
 <category>Energy</category>
-<source url="https://apnews.com/article/oil-trump-iran-stocks-markets-42120b305ce6298712931e79b66a20de">AP News</source>
-<pubDate>2026-04-30T08:03:00+03:00</pubDate>
+<dc:source>AP News</dc:source>
+<pubDate>Wed, 30 Apr 2026 08:03:00 +0300</pubDate>
 </item>
-
 <item>
 <title>🌍 Countries conclude first fossil fuel phase-out conference in Colombia</title>
 <link>https://apnews.com/article/climate-change-fossil-fuels-colombia-takeaways-fa4bc18a9ca20abcb61b26ba3aa9717a</link>
 <description>Delegates from 56 nations wrapped up the Santa Marta conference on transitioning away from fossil fuels. No binding commitments emerged, but participants highlighted financing gaps for developing nations and announced the next meeting will be in Tuvalu.</description>
 <category>Climate</category>
-<source url="https://apnews.com/article/climate-change-fossil-fuels-colombia-takeaways-fa4bc18a9ca20abcb61b26ba3aa9717a">AP News</source>
-<pubDate>2026-04-30T08:03:00+03:00</pubDate>
+<dc:source>AP News</dc:source>
+<pubDate>Wed, 30 Apr 2026 08:03:00 +0300</pubDate>
 </item>
-
 <item>
 <title>💰 US War in Iran Has Cost $25 Billion So Far, Pentagon Official Says</title>
 <link>https://www.reuters.com/world/middle-east/us-war-iran-has-cost-25-billion-so-far-says-pentagon-official-2026-04-29/</link>
 <description>A senior Pentagon official provided the first official estimate of the military price tag for the Iran conflict, an amount equal to NASA's entire annual budget.</description>
 <category>US-Iran War</category>
-<source url="https://www.reuters.com/world/middle-east/us-war-iran-has-cost-25-billion-so-far-says-pentagon-official-2026-04-29/">Reuters</source>
-<pubDate>2026-04-30T07:05:00+03:00</pubDate>
+<dc:source>Reuters</dc:source>
+<pubDate>Wed, 30 Apr 2026 07:05:00 +0300</pubDate>
 </item>
-
 <item>
 <title>⚖️ UN Reports Iran Executed 21 and Arrested 4,000 Since War Began</title>
 <link>https://www.reuters.com/world/middle-east/un-says-iran-has-executed-21-arrested-over-4000-since-war-started-2026-04-29/</link>
 <description>Iran has executed at least 21 people and arrested over 4,000 on national security charges since the US-Israel conflict began, according to UN human rights chief Volker Turk.</description>
 <category>US-Iran War</category>
-<source url="https://www.reuters.com/world/middle-east/un-says-iran-has-executed-21-arrested-over-4000-since-war-started-2026-04-29/">Reuters</source>
-<pubDate>2026-04-30T07:05:00+03:00</pubDate>
+<dc:source>Reuters</dc:source>
+<pubDate>Wed, 30 Apr 2026 07:05:00 +0300</pubDate>
 </item>
-
-<item>
-<title>⚔️ US Military Commander to Brief Trump on New Options Against Iran</title>
-<link>https://www.reuters.com/world/middle-east/us-military-commanders-brief-trump-new-options-against-iran-axios-reports-2026-04-30/</link>
-<description>President Trump will receive a briefing from CENTCOM leader Brad Cooper on new plans for potential military action against Iran as negotiations remain stalled.</description>
-<category>US-Iran War</category>
-<source url="https://www.reuters.com/world/middle-east/us-military-commanders-brief-trump-new-options-against-iran-axios-reports-2026-04-30/">Reuters</source>
-<pubDate>2026-04-30T07:05:00+03:00</pubDate>
-</item>
-
 </channel>
 </rss>
