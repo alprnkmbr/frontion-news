@@ -1,6 +1,49 @@
 {
-  "lastUpdated": "2026-04-30T16:04:19+03:00",
+  "lastUpdated": "2026-04-30T16:07:40+03:00",
   "headlines": [
+    {
+      "headline": "Australia Seals Jet Fuel Cooperation Deal with China Amid Hormuz Crisis",
+      "summary": "Australian Foreign Minister Penny Wong announced China has agreed to cooperate on jet fuel exports, potentially loosening restrictions imposed during supply disruptions from the Iran war. The deal came during Wong's diplomatic tour of Northeast Asia.",
+      "emoji": "🇦🇺🇨🇳",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/australian-foreign-minister-says-china-has-agreed-cooperate-jet-fuel-exports-2026-04-29/",
+      "timestamp": "2026-04-30T16:05:00+03:00"
+    },
+    {
+      "headline": "Hezbollah Deploys Fiber-Optic Drones Adopted from Ukraine War",
+      "summary": "Hezbollah has introduced small drones controlled by fiber-optic cables that evade electronic detection, a technology first pioneered in Ukraine. The devices represent a new threat to Israeli defenses in the ongoing conflict.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "AP News",
+      "url": "https://apnews.com/article/hezbollah-israel-drones-fiber-optic-war-00cd07852f49ade04ed0a6fde505d987",
+      "timestamp": "2026-04-30T16:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/hezbollah-israel-drones-fiber-optic-war-00cd07852f49ade04ed0a6fde505d987",
+          "angle": "Hezbollah Deploys Fiber-Optic Drones Against Israel",
+          "summary": "Hezbollah has begun using fiber-optic controlled drones that evade electronic jamming, a technology widely used in the Ukraine war. The thin cable connecting operators directly to drones makes them impossible to electronically jam."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "AP News"
+      ],
+      "urls": [
+        "https://apnews.com/article/hezbollah-israel-drones-fiber-optic-war-00cd07852f49ade04ed0a6fde505d987",
+        "https://apnews.com/article/hezbollah-israel-drones-fiber-optic-war-00cd07852f49ade04ed0a6fde505d987"
+      ]
+    },
+    {
+      "headline": "Germany Overtakes UK as Europe's Largest Defense Spender",
+      "summary": "Germany has become Europe's top defense investor with 153 major projects underway, surpassing the UK. The Bundeswehr aims to become the \"strongest conventional armed force in Europe\" amid growing security concerns.",
+      "emoji": "🇩🇪",
+      "category": "Europe",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/my-europe/2026/04/30/from-statements-to-actions-heres-which-european-countries-are-spending-the-most-on-defence",
+      "timestamp": "2026-04-30T16:05:00+03:00"
+    },
     {
       "headline": "China replaces agriculture minister in second top-level shake-up in two years",
       "summary": "Zhang Zhu appointed as agriculture minister following Communist Party leadership changes, marking the second major personnel shift at the ministry in two years amid ongoing agricultural policy reforms.",
@@ -17,7 +60,23 @@
       "category": "US-China",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/white-house-quiet-china-ramps-up-trade-leverage-before-trump-xi-summit-2026-04-30/",
-      "timestamp": "2026-04-30T16:00:00+03:00"
+      "timestamp": "2026-04-30T16:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/white-house-quiet-china-ramps-up-trade-leverage-before-trump-xi-summit-2026-04-30/",
+          "angle": "China Ramps Up Trade Leverage Before Trump-Xi Summit",
+          "summary": "Beijing announced new trade rules that could punish foreign companies for reducing reliance on Chinese supply chains, alarming US businesses weeks before the Trump-Xi summit. Analysts say this could undercut American efforts to reduce supply chain dependence on China."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/white-house-quiet-china-ramps-up-trade-leverage-before-trump-xi-summit-2026-04-30/",
+        "https://www.reuters.com/world/china/white-house-quiet-china-ramps-up-trade-leverage-before-trump-xi-summit-2026-04-30/"
+      ]
     },
     {
       "headline": "Kim Jong Un Praises North Korean Soldier Suicides in Ukraine War",
@@ -439,24 +498,6 @@
       ]
     },
     {
-      "headline": "Hezbollah Deploys Fiber-Optic Drones Against Israel",
-      "summary": "Hezbollah has begun using fiber-optic controlled drones that evade electronic jamming, a technology widely used in the Ukraine war. The thin cable connecting operators directly to drones makes them impossible to electronically jam.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "AP News",
-      "url": "https://apnews.com/article/hezbollah-israel-drones-fiber-optic-war-00cd07852f49ade04ed0a6fde505d987",
-      "timestamp": "2026-04-30T10:05:00+03:00"
-    },
-    {
-      "headline": "China Ramps Up Trade Leverage Before Trump-Xi Summit",
-      "summary": "Beijing announced new trade rules that could punish foreign companies for reducing reliance on Chinese supply chains, alarming US businesses weeks before the Trump-Xi summit. Analysts say this could undercut American efforts to reduce supply chain dependence on China.",
-      "emoji": "🇨🇳",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/white-house-quiet-china-ramps-up-trade-leverage-before-trump-xi-summit-2026-04-30/",
-      "timestamp": "2026-04-30T10:05:00+03:00"
-    },
-    {
       "headline": "Mali Setbacks Challenge Russian Influence in Africa",
       "summary": "Reversals suffered by Mali's Moscow-backed military government have dented Russia's image as a security guarantor in Africa and threaten its strategic and mineral interests on the continent.",
       "emoji": "🇲🇱🇷🇺⚔️",
@@ -673,8 +714,8 @@
         {
           "source": "MSN",
           "url": "https://www.msn.com/en-us/news/world/russia-scales-back-victory-day-plans-as-ukraines-military-reach-expands/ar-AA224VDM",
-          "angle": "Russia Scales Back Victory Day Parade Amid Ukrainian Drone Threats",
-          "summary": "Moscow is reducing the footprint of its foremost annual military parade as Ukraine drone attacks inside Russia expand. The scaled-back May 9 celebration reflects the growing security challenges."
+          "angle": "Russia Scales Back Victory Day Parade as Ukrainian Drone Threats Grow",
+          "summary": "Moscow will hold its annual Victory Day parade without tanks or military equipment for the first time in nearly two decades, citing security concerns as Ukrainian drone strikes increasingly reach deep into Russian territory."
         }
       ],
       "sources": [
@@ -748,27 +789,19 @@
       "timestamp": "2026-04-30T06:05:00+03:00",
       "perspectives": [
         {
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/04/30/g-s1-119480/trump-weighing-reducing-american-troops-in-germany-after-iran-feud",
-          "angle": "Trump Threatens US Troop Cuts in Germany Over Iran War Criticism",
-          "summary": "President Trump threatened to reduce US military presence in Germany after Chancellor Merz criticized US handling of the Iran war. Germany hosts over 35,000 US troops and is key to NATO operations."
-        },
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/clyplg23l30o",
-          "angle": "Trump Considers Reducing US Troops in Germany After Merz Criticism",
-          "summary": "President Trump announced he is \"studying\" whether to reduce the more than 36,000 US troops stationed in Germany. The move follows German Chancellor Merz criticism that the US had been \"humiliated\" by Iranian negotiators in the ongoing conflict."
+          "source": "SF Gate",
+          "url": "https://www.sfgate.com/news/world/article/new-bluster-from-trump-germany-faces-new-22234030.php",
+          "angle": "Trump Threatens US Troop Reduction in Germany",
+          "summary": "President Donald Trump has threatened to reduce the US military presence in Germany, a key NATO ally and Europe's largest economy. German Chancellor Friedrich Merz stressed the importance of transatlantic partnership while avoiding direct confrontation."
         }
       ],
       "sources": [
         "Reuters",
-        "NPR",
-        "BBC"
+        "SF Gate"
       ],
       "urls": [
         "https://www.reuters.com/world/europe/trump-says-us-reviewing-possible-reduction-its-troops-germany-2026-04-29/",
-        "https://www.npr.org/2026/04/30/g-s1-119480/trump-weighing-reducing-american-troops-in-germany-after-iran-feud",
-        "https://www.bbc.com/news/articles/clyplg23l30o"
+        "https://www.sfgate.com/news/world/article/new-bluster-from-trump-germany-faces-new-22234030.php"
       ]
     },
     {
@@ -2806,24 +2839,6 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/global-energy-markets-set-further-test-el-nino-looms-2026-04-28/",
-      "timestamp": "2026-04-28T13:15:00+03:00"
-    },
-    {
-      "headline": "Media freedom under sustained attack across EU, report finds",
-      "summary": "Journalists face rising threats while media ownership is concentrated in fewer hands, a leading civil liberties group warns. Public trust in media has dropped significantly across European Union member states.",
-      "emoji": "📰",
-      "category": "Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/apr/28/media-freedom-under-sustained-attack-across-eu-as-public-trust-drops-report-finds",
-      "timestamp": "2026-04-28T13:15:00+03:00"
-    },
-    {
-      "headline": "Republicans brace for brutal midterms as Trump popularity slips",
-      "summary": "President Trump's approval ratings are down, gas prices are up, and congressional Republicans are heading to the exits in record numbers while Democratic enthusiasm rises ahead of November midterm elections.",
-      "emoji": "🇺🇸",
-      "category": "US Politics",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/28/us/politics/republicans-midterms-trump-popularity-decline.html",
       "timestamp": "2026-04-28T13:15:00+03:00"
     }
   ]
