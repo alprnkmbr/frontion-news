@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-04-30T20:10:40+03:00",
+  "lastUpdated": "2026-04-30T21:08:23+03:00",
   "headlines": [
+    {
+      "headline": "US imposes sanctions on former Congo President Joseph Kabila",
+      "summary": "The US Treasury Department sanctioned former DRC President Joseph Kabila, citing corruption and human rights abuses during his 18-year rule.",
+      "emoji": "🇨🇩",
+      "category": "Africa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us-imposes-sanctions-former-congo-president-joseph-kabila-2026-04-30/",
+      "timestamp": "2026-04-30T21:03:00+03:00"
+    },
+    {
+      "headline": "Trump threatens troop cuts in Germany after Merz criticism on Iran",
+      "summary": "President Trump said the US is reviewing reducing its military presence in Germany, following German Chancellor Merz comments that America was being humiliated in Iran negotiations.",
+      "emoji": "🇺🇸🇩🇪",
+      "category": "Europe",
+      "source": "AP News",
+      "url": "https://apnews.com/article/eu-nato-trump-germany-troops-merz-5ec29eb64e4b786d8f69d3521875b6df",
+      "timestamp": "2026-04-30T21:03:00+03:00"
+    },
+    {
+      "headline": "First US-Venezuela commercial flight lands in Caracas after 7 years",
+      "summary": "American Airlines flight AA3599 arrived in Caracas, marking the first direct commercial flight between the US and Venezuela since Homeland Security suspended service in 2019.",
+      "emoji": "🇺🇸🇻🇪",
+      "category": "Latin America",
+      "source": "AP News",
+      "url": "https://apnews.com/article/venezuela-us-commercial-flight-caracas-5d9a5e8dde5d3384c8f96a6f5096755d",
+      "timestamp": "2026-04-30T21:03:00+03:00"
+    },
     {
       "headline": "Myanmar Junta Moves Aung San Suu Kyi to House Arrest",
       "summary": "Myanmar military government transfers deposed leader Aung San Suu Kyi from prison to house arrest in a surprise announcement. First public image of the Nobel laureate in years.",
@@ -29,22 +56,29 @@
       "timestamp": "2026-04-30T20:08:00+03:00"
     },
     {
-      "headline": "Ukraine Army Chief Overhauls Troop Rotations After Outcry",
-      "summary": "Ukraines top general orders changes to frontline troop rotations after families complained of soldiers deployed without relief. Some troops had resorted to drinking rain water.",
+      "headline": "Ukraine Army Chief Orders Two-Month Limit for Frontline Troops",
+      "summary": "Ukraine's top general ordered a mandatory two-month time limit for soldiers serving in forward positions, following a public outcry over photos of emaciated troops and reports of soldiers resorting to rain water.",
       "emoji": "🇺🇦",
       "category": "Ukraine-Russia War",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/global/europe/2026/04/30/ukraines-army-chief-shakes-up-troop-rotations-after-outcry/",
-      "timestamp": "2026-04-30T20:08:00+03:00"
-    },
-    {
-      "headline": "Iran War Cost Likely Double Pentagon Estimates Senator Warns",
-      "summary": "Senator Angus King says the real cost of the Iran war is likely double the Pentagon official estimates. He calls for 50 billion more accurate accounting as conflict drags on.",
-      "emoji": "💰",
-      "category": "US Politics",
-      "source": "The Hill",
-      "url": "https://thehill.com/homenews/senate/5857505-senator-angus-king-iran-war-bill/",
-      "timestamp": "2026-04-30T20:08:00+03:00"
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/ukraines-army-chief-orders-time-limit-frontline-troops-2026-04-30/",
+      "timestamp": "2026-04-30T20:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Defense News",
+          "url": "https://www.defensenews.com/global/europe/2026/04/30/ukraines-army-chief-shakes-up-troop-rotations-after-outcry/",
+          "angle": "Ukraine Army Chief Overhauls Troop Rotations After Outcry",
+          "summary": "Ukraines top general orders changes to frontline troop rotations after families complained of soldiers deployed without relief. Some troops had resorted to drinking rain water."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Defense News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/ukraines-army-chief-orders-time-limit-frontline-troops-2026-04-30/",
+        "https://www.defensenews.com/global/europe/2026/04/30/ukraines-army-chief-shakes-up-troop-rotations-after-outcry/"
+      ]
     },
     {
       "headline": "Major Media Organizations Call on Israel to Lift Gaza Reporting Ban",
@@ -136,31 +170,6 @@
       "urls": [
         "https://www.reuters.com/world/germanys-merz-stresses-commitment-transatlantic-partnership-2026-04-30/",
         "https://www.reuters.com/world/germanys-merz-says-relations-with-trump-are-good-despite-spat-over-iran-2026-04-29/"
-      ]
-    },
-    {
-      "headline": "Ukraine Army Chief Orders Two-Month Limit for Frontline Troops",
-      "summary": "Ukraine's top general ordered a mandatory two-month time limit for soldiers serving in forward positions, following a public outcry over photos of emaciated troops and reports of soldiers resorting to rain water.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/ukraines-army-chief-orders-time-limit-frontline-troops-2026-04-30/",
-      "timestamp": "2026-04-30T20:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/syrskyi-orders-soldiers-mandatory-rotation-from-front-line-positions-after-2-months/",
-          "angle": "Ukraine Commander Orders Mandatory 2-Month Rotation for Frontline Troops",
-          "summary": "General Syrskyi ordered mandatory rotation for soldiers after 2 months on the front lines, addressing reports of troops spending over 100 days in position without relief due to manpower shortages and deadly drone-saturated battlefields."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/ukraines-army-chief-orders-time-limit-frontline-troops-2026-04-30/",
-        "https://kyivindependent.com/syrskyi-orders-soldiers-mandatory-rotation-from-front-line-positions-after-2-months/"
       ]
     },
     {
@@ -2335,19 +2344,19 @@
       "timestamp": "2026-04-29T03:05:00+03:00",
       "perspectives": [
         {
-          "source": "Channel News Asia",
-          "url": "https://www.channelnewsasia.com/watch/maga-rift-deepens-trump-faces-media-base-backlash-over-iran-war-6089761",
-          "angle": "MAGA Rift Deepens as Trump Faces Media Backlash Over Iran War",
-          "summary": "Prominent MAGA voices including Tucker Carlson and Megyn Kelly are breaking with Trump over his handling of the Iran war, signaling a growing divide within his base."
+          "source": "The Hill",
+          "url": "https://thehill.com/homenews/senate/5857505-senator-angus-king-iran-war-bill/",
+          "angle": "Iran War Cost Likely Double Pentagon Estimates Senator Warns",
+          "summary": "Senator Angus King says the real cost of the Iran war is likely double the Pentagon official estimates. He calls for 50 billion more accurate accounting as conflict drags on."
         }
       ],
       "sources": [
         "Reuters",
-        "Channel News Asia"
+        "The Hill"
       ],
       "urls": [
         "https://www.reuters.com/world/us/trump-approval-sinks-record-low-war-with-iran-drives-cost-of-living-concerns-2026-04-28/",
-        "https://www.channelnewsasia.com/watch/maga-rift-deepens-trump-faces-media-base-backlash-over-iran-war-6089761"
+        "https://thehill.com/homenews/senate/5857505-senator-angus-king-iran-war-bill/"
       ]
     },
     {
@@ -2842,33 +2851,6 @@
       "source": "Janes",
       "url": "https://www.janes.com/defence-intelligence-insights/defence-news/defence/usaf-funds-final-development-of-beehive-industries-frenzy-8-engine",
       "timestamp": "2026-04-28T18:06:00+03:00"
-    },
-    {
-      "headline": "Euro Zone Inflation Expectations Surge on Iran War",
-      "summary": "Euro zone consumers have sharply raised inflation expectations due to the Iran war fallout, while economic growth is faltering—creating a policy dilemma for the European Central Bank.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/euro-zone-consumers-sharply-lift-inflation-bets-ecb-survey-shows-2026-04-28/",
-      "timestamp": "2026-04-28T18:03:00+03:00"
-    },
-    {
-      "headline": "Iranian Oil Tankers Cluster Near Chabahar as U.S. Blockade Tightens",
-      "summary": "At least six Iranian tankers laden with oil are loitering near Chabahar port, caught between the Strait of Hormuz and the U.S. naval blockade line. The cluster suggests Iran continues loading oil but the U.S. interception is working to delay exports.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Oil Price",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Iranian-Tankers-Pile-Up-Outside-Hormuz-as-US-Blockade-Tightens.html",
-      "timestamp": "2026-04-28T16:10:00+03:00"
-    },
-    {
-      "headline": "Ex-Mossad Chief Pardo Condemns West Bank Violence as \"Existential Threat\" to Israel",
-      "summary": "Former Mossad director Tamir Pardo said he was \"ashamed to be Jewish\" over settler violence in the West Bank, comparing it to Holocaust-era tactics. He warned the crackdown risks civil strife and poses an existential threat to Israel.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/middle-east/ex-mossad-chief-ashamed-to-be-jewish-likens-occupier-violence-in-west-bank-to-holocaust/3920519",
-      "timestamp": "2026-04-28T16:10:00+03:00"
     }
   ]
 }
