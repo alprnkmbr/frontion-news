@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-04-30T13:04:48+03:00",
+  "lastUpdated": "2026-04-30T14:05:00+03:00",
   "headlines": [
     {
-      "headline": "Eurozone Inflation Hits 3% as Iran War Oil Shock Spreads",
-      "summary": "Surging oil prices from the Iran conflict pushed eurozone inflation to 3% in April, while economic growth continued to underperform expectations.",
-      "emoji": "🇪🇺",
-      "category": "Economy",
+      "headline": "Supreme Court Hollows Out Voting Rights Act After 61 Years",
+      "summary": "The U.S. Supreme Court knocked out a major pillar of the Voting Rights Act, eliminating protections against racial discrimination in voting and redistricting that had stood for six decades. Civil rights advocates warn the decision could return minority communities to the Jim Crow era.",
+      "emoji": "🏛️",
+      "category": "US Politics",
       "source": "AP News",
-      "url": "https://apnews.com/article/eurozone-inflation-ecb-economy-fbc8e8f116f82cbb4c901d73726dfe60",
-      "timestamp": "2026-04-30T13:03:00+03:00"
+      "url": "https://apnews.com/article/supreme-court-voting-rights-act-louisiana-alabama-4e3225083caccda5ec73a98533a79add",
+      "timestamp": "2026-04-30T14:03:00+03:00"
+    },
+    {
+      "headline": "Iran Supreme Leader Vows to Protect Nuclear and Missile Capabilities",
+      "summary": "Ayatollah Mojtaba Khamenei declared Iran will defend its nuclear and missile programs as national assets, drawing a hard line in ceasefire negotiations with the US. His statement comes as Brent crude surged past $126 per barrel amid the continued Strait of Hormuz closure.",
+      "emoji": "🇮🇷",
+      "category": "US-Iran War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-gulf-khamenei-5cbf26dc89ce5e868e414320178f4c1b",
+      "timestamp": "2026-04-30T14:03:00+03:00"
+    },
+    {
+      "headline": "Brent Crude Surges Past $126 as Iran War Blocks Hormuz Strait",
+      "summary": "Oil prices hit a four-year high with Brent crude briefly exceeding $126 per barrel as stalled US-Iran negotiations kept the Strait of Hormuz closed. Prices have nearly doubled from $70 before the war began in late February.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/oil-trump-iran-stocks-markets-42120b305ce6298712931e79b66a20de",
+      "timestamp": "2026-04-30T14:03:00+03:00"
+    },
+    {
+      "headline": "US-Iran War Has Cost $25 Billion So Far, Pentagon Official Says",
+      "summary": "A Pentagon official provided the first official cost estimate for the US military campaign against Iran, revealing the conflict has already consumed $25 billion as the war enters its third month.",
+      "emoji": "💰",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-war-iran-has-cost-25-billion-so-far-says-pentagon-official-2026-04-29/",
+      "timestamp": "2026-04-30T14:03:00+03:00"
+    },
+    {
+      "headline": "Over 1 Million in Lebanon Face Acute Food Insecurity Crisis",
+      "summary": "A global hunger monitor warned that more than 1 million people in Lebanon will face acute food insecurity in coming months due to renewed conflict and mass displacement, compounding the humanitarian crisis in the region.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/more-than-1-million-lebanon-expected-face-acute-food-insecurity-hunger-monitor-2026-04-29/",
+      "timestamp": "2026-04-30T14:03:00+03:00"
     },
     {
       "headline": "UK Declares Antisemitism Emergency After Double Stabbing Attack",
@@ -135,6 +171,31 @@
       "timestamp": "2026-04-30T12:03:00+03:00"
     },
     {
+      "headline": "ECB to hold rates steady but keep hikes on table amid Iran war inflation",
+      "summary": "The European Central Bank will keep interest rates unchanged but signal that a rate hike may be needed soon to combat energy-driven price surges from the Middle East conflict.",
+      "emoji": "🇪🇺💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/ecb-hold-rates-steady-keep-hikes-firmly-table-2026-04-29/",
+      "timestamp": "2026-04-30T11:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/eurozone-inflation-ecb-economy-fbc8e8f116f82cbb4c901d73726dfe60",
+          "angle": "Eurozone Inflation Hits 3% as Iran War Oil Shock Spreads",
+          "summary": "Surging oil prices from the Iran conflict pushed eurozone inflation to 3% in April, while economic growth continued to underperform expectations."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/ecb-hold-rates-steady-keep-hikes-firmly-table-2026-04-29/",
+        "https://apnews.com/article/eurozone-inflation-ecb-economy-fbc8e8f116f82cbb4c901d73726dfe60"
+      ]
+    },
+    {
       "headline": "Brent crude hits 4-year high as US-Iran war deadlock keeps supply off market",
       "summary": "Oil prices surged to a four-year high on concerns that the ongoing US-Iran conflict could escalate further, leading to prolonged supply disruptions from the Middle East.",
       "emoji": "🛢️",
@@ -198,39 +259,6 @@
       "urls": [
         "https://www.reuters.com/world/china/taiwan-tops-beijings-agenda-trump-xi-summit-2026-04-29/",
         "https://www.reuters.com/world/china/what-is-taiwan-independence-is-taiwan-already-independent-2026-04-29/"
-      ]
-    },
-    {
-      "headline": "ECB to hold rates steady but keep hikes on table amid Iran war inflation",
-      "summary": "The European Central Bank will keep interest rates unchanged but signal that a rate hike may be needed soon to combat energy-driven price surges from the Middle East conflict.",
-      "emoji": "🇪🇺💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/ecb-hold-rates-steady-keep-hikes-firmly-table-2026-04-29/",
-      "timestamp": "2026-04-30T11:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/bank-england-set-hold-rates-iran-war-clouds-outlook-2026-04-29/",
-          "angle": "Bank of England expected to hold rates as Iran war clouds economic outlook",
-          "summary": "The UK central bank is set to keep interest rates unchanged, awaiting clearer signals on the economic impact of the Iran conflict. Markets are watching for any hints of future rate moves amid oil-driven inflation pressures."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/dollar-steady-investors-brace-fed-decision-face-war-2026-04-29/",
-          "angle": "Dollar Strengthens as Investors Await Fed Decision Amid Iran War",
-          "summary": "The dollar edged higher as markets awaited a key Federal Reserve rate decision in what may be Chair Jerome Powells final meeting, against the backdrop of an Iran conflict with no imminent resolution in sight."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/ecb-hold-rates-steady-keep-hikes-firmly-table-2026-04-29/",
-        "https://www.reuters.com/world/europe/bank-england-set-hold-rates-iran-war-clouds-outlook-2026-04-29/",
-        "https://www.reuters.com/business/dollar-steady-investors-brace-fed-decision-face-war-2026-04-29/"
       ]
     },
     {
@@ -2809,74 +2837,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/media-telecom/australia-charge-big-tech-companies-2-levy-unless-they-strike-local-news-deals-2026-04-28/",
       "timestamp": "2026-04-28T12:03:00+03:00"
-    },
-    {
-      "headline": "UK PM Starmer Faces Parliamentary Probe Over Mandelson Appointment",
-      "summary": "Britain's parliament will vote on an inquiry into Prime Minister Keir Starmer over whether he misled the House of Commons about the appointment of Peter Mandelson as U.K. ambassador to the U.S., amid questions about Mandelson's past ties.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/uk/uk-pm-starmer-faces-vote-possible-parliamentary-probe-over-mandelson-times-2026-04-27/",
-      "timestamp": "2026-04-28T12:03:00+03:00"
-    },
-    {
-      "headline": "Moodys Upgrades China Outlook to Stable on Economic Resilience",
-      "summary": "Moodys revised Chinas outlook from negative to stable, citing resilient economic and fiscal strength despite domestic pressures and ongoing trade and geopolitical challenges.",
-      "emoji": "🇨🇳",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/moodys-flags-resilience-china-economy-moves-outlook-stable-2026-04-27/",
-      "timestamp": "2026-04-28T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/moodys-flags-resilience-china-economy-moves-outlook-stable-2026-04-27/",
-          "angle": "Moody's Upgrades China Outlook to Stable, Cites Economic Resilience",
-          "summary": "Credit ratings agency Moody's revised China's outlook from negative to stable, pointing to resilient economic and fiscal strength despite ongoing trade pressures and geopolitical challenges."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/moodys-flags-resilience-china-economy-moves-outlook-stable-2026-04-27/",
-        "https://www.reuters.com/world/asia-pacific/moodys-flags-resilience-china-economy-moves-outlook-stable-2026-04-27/"
-      ]
-    },
-    {
-      "headline": "Iran War Fertilizer Squeeze Threatens Global Grain Harvests",
-      "summary": "Farmers worldwide face a second fertilizer price surge in four years due to the Iran war. With grain prices too low to cushion the blow, many are reconsidering planting plans, risking global food production.",
-      "emoji": "🌾",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/iran-war-fertiliser-squeeze-could-spell-trouble-next-years-grain-harvests-2026-04-27/",
-      "timestamp": "2026-04-28T11:03:00+03:00"
-    },
-    {
-      "headline": "Bank of Japan Holds Rates as Three Board Members Push for Hike",
-      "summary": "The BOJ kept interest rates steady but three of nine board members proposed raising borrowing costs, reflecting concerns over inflationary pressures from the Middle East conflict.",
-      "emoji": "🇯🇵",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/boj-governor-uedas-comments-news-conference-2026-04-28/",
-      "timestamp": "2026-04-28T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-stands-pat-in-split-vote-boosts-inflation-forecast-to-2.8",
-          "angle": "Bank of Japan holds rates steady in split vote as Iran war fuels inflation concerns",
-          "summary": "The BOJ kept its benchmark rate at 0.75% but three of nine board members proposed a hike, signaling growing concern over inflationary pressures from Middle East conflict disrupting energy markets."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Nikkei Asia"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/boj-governor-uedas-comments-news-conference-2026-04-28/",
-        "https://asia.nikkei.com/economy/bank-of-japan/boj-stands-pat-in-split-vote-boosts-inflation-forecast-to-2.8"
-      ]
     }
   ]
 }
