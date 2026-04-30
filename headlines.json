@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-04-30T11:04:47+03:00",
+  "lastUpdated": "2026-04-30T12:05:43+03:00",
   "headlines": [
+    {
+      "headline": "Oil Surges to Highest Since 2022 as US Military Prepares New Iran Strike Plans",
+      "summary": "Brent crude jumped nearly 7% to over $126 per barrel after reports that US Central Command has prepared plans for \"short and powerful\" strikes on Iran. The Strait of Hormuz remains effectively closed, disrupting about a fifth of global energy supplies.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx21m88rd14o",
+      "timestamp": "2026-04-30T12:03:00+03:00"
+    },
+    {
+      "headline": "Supreme Court Weakens Voting Rights Act in Louisiana Redistricting Case",
+      "summary": "The Supreme Court struck down a majority-Black congressional district in Louisiana in a 6-3 ruling, finding it relied too heavily on race. The decision could affect nearly 70 congressional districts protected under Section 2 and reshape the 2028 electoral map.",
+      "emoji": "🏛️",
+      "category": "US Politics",
+      "source": "AP News",
+      "url": "https://apnews.com/article/supreme-court-voting-rights-congressional-redistricting-louisiana-aa5d7dbde7c13654f341d152c2ad5229",
+      "timestamp": "2026-04-30T12:03:00+03:00"
+    },
+    {
+      "headline": "Trump Considers Reducing US Troops in Germany After Merz Criticism",
+      "summary": "President Trump announced he is \"studying\" whether to reduce the more than 36,000 US troops stationed in Germany. The move follows German Chancellor Merz criticism that the US had been \"humiliated\" by Iranian negotiators in the ongoing conflict.",
+      "emoji": "🇩🇪",
+      "category": "Europe",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/clyplg23l30o",
+      "timestamp": "2026-04-30T12:03:00+03:00"
+    },
+    {
+      "headline": "Ukraine Strikes Oil Facility 1,500km Inside Russia in Deep Drone Attack",
+      "summary": "Ukrainian drones hit an oil pumping station near Perm, over 1,500 kilometers from Ukraine. President Zelenskyy said Ukraine is expanding long-range strikes to limit Russias ability to wage war by denying it oil revenue.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-perm-oil-facility-fire-drones-3b1ca5805ccfb4f97494643369a610b0",
+      "timestamp": "2026-04-30T12:03:00+03:00"
+    },
+    {
+      "headline": "US Indicts 10 Mexican Officials Including Sinaloa Governor for Drug Trafficking",
+      "summary": "Federal prosecutors in New York charged Sinaloa Governor Ruben Rocha Moya and nine other Mexican officials with aiding the Sinaloa Cartel. The indictment alleges they protected cartel leaders, provided law enforcement intel, and received millions in drug money.",
+      "emoji": "🇲🇽",
+      "category": "Latin America",
+      "source": "AP News",
+      "url": "https://apnews.com/article/mexican-drugs-sinaloa-cartel-3313a6ca22d651df07ea8481dde71771",
+      "timestamp": "2026-04-30T12:03:00+03:00"
+    },
     {
       "headline": "Brent crude hits 4-year high as US-Iran war deadlock keeps supply off market",
       "summary": "Oil prices surged to a four-year high on concerns that the ongoing US-Iran conflict could escalate further, leading to prolonged supply disruptions from the Middle East.",
@@ -8,7 +53,39 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/oil-prices-extend-gains-us-iran-war-deadlock-keeps-supply-off-market-2026-04-30/",
-      "timestamp": "2026-04-30T11:05:00+03:00"
+      "timestamp": "2026-04-30T11:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/oil-trump-iran-stocks-markets-42120b305ce6298712931e79b66a20de",
+          "angle": "Brent crude surges past  on stalled Iran talks",
+          "summary": "Oil prices jumped more than 6% as negotiations between Washington and Tehran showed no signs of progress. The Strait of Hormuz remains closed, with analysts warning prices could climb further if the conflict escalates."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/oil-prices-extend-gains-us-iran-war-deadlock-keeps-supply-off-market-2026-04-30/",
+          "angle": "Oil Prices Surge as US-Iran Deadlock Keeps Gulf Supply Offline",
+          "summary": "Brent crude extended gains to near $120/barrel as the US-Iran standoff continues to block crucial Middle East oil shipments through the Strait of Hormuz, with no resolution in sight."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/oil-rises-reports-us-will-extend-iran-blockade-prolonging-mideast-supply-2026-04-29/",
+          "angle": "Brent Crude Hits One-Month High on Prolonged Hormuz Disruption Fears",
+          "summary": "Oil prices rose nearly 3% as Brent hit a one-month high following reports the US will extend its blockade of Iranian ports, likely prolonging supply disruptions from the Middle East."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/oil-prices-extend-gains-us-iran-war-deadlock-keeps-supply-off-market-2026-04-30/",
+        "https://apnews.com/article/oil-trump-iran-stocks-markets-42120b305ce6298712931e79b66a20de",
+        "https://www.reuters.com/business/energy/oil-prices-extend-gains-us-iran-war-deadlock-keeps-supply-off-market-2026-04-30/",
+        "https://www.reuters.com/business/energy/oil-rises-reports-us-will-extend-iran-blockade-prolonging-mideast-supply-2026-04-29/"
+      ]
     },
     {
       "headline": "Taiwan tops Beijing agenda for Trump-Xi summit",
@@ -17,7 +94,23 @@
       "category": "US-China",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/taiwan-tops-beijings-agenda-trump-xi-summit-2026-04-29/",
-      "timestamp": "2026-04-30T11:05:00+03:00"
+      "timestamp": "2026-04-30T11:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/what-is-taiwan-independence-is-taiwan-already-independent-2026-04-29/",
+          "angle": "Trump-Xi Summit to Put Taiwan Independence at Center of Agenda",
+          "summary": "President Trump and Chinese President Xi Jinping will meet in Beijing next month for a summit where China is likely to make the issue of Taiwan independence a major part of the agenda. The meeting comes amid heightened tensions over the self-governing island."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/taiwan-tops-beijings-agenda-trump-xi-summit-2026-04-29/",
+        "https://www.reuters.com/world/china/what-is-taiwan-independence-is-taiwan-already-independent-2026-04-29/"
+      ]
     },
     {
       "headline": "ECB to hold rates steady but keep hikes on table amid Iran war inflation",
@@ -26,7 +119,31 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/ecb-hold-rates-steady-keep-hikes-firmly-table-2026-04-29/",
-      "timestamp": "2026-04-30T11:05:00+03:00"
+      "timestamp": "2026-04-30T11:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/bank-england-set-hold-rates-iran-war-clouds-outlook-2026-04-29/",
+          "angle": "Bank of England expected to hold rates as Iran war clouds economic outlook",
+          "summary": "The UK central bank is set to keep interest rates unchanged, awaiting clearer signals on the economic impact of the Iran conflict. Markets are watching for any hints of future rate moves amid oil-driven inflation pressures."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/dollar-steady-investors-brace-fed-decision-face-war-2026-04-29/",
+          "angle": "Dollar Strengthens as Investors Await Fed Decision Amid Iran War",
+          "summary": "The dollar edged higher as markets awaited a key Federal Reserve rate decision in what may be Chair Jerome Powells final meeting, against the backdrop of an Iran conflict with no imminent resolution in sight."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/ecb-hold-rates-steady-keep-hikes-firmly-table-2026-04-29/",
+        "https://www.reuters.com/world/europe/bank-england-set-hold-rates-iran-war-clouds-outlook-2026-04-29/",
+        "https://www.reuters.com/business/dollar-steady-investors-brace-fed-decision-face-war-2026-04-29/"
+      ]
     },
     {
       "headline": "Fed holds rates steady in most divided vote since 1992",
@@ -35,16 +152,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/view-fed-holds-rates-steady-board-vote-is-most-divided-since-1992-2026-04-29/",
-      "timestamp": "2026-04-30T11:05:00+03:00"
-    },
-    {
-      "headline": "Iran war and Strait of Hormuz stuck in limbo as Trump mulls Iranian offer",
-      "summary": "Oil prices continue rising as the Trump administration considers an Iranian proposal to reopen the Strait of Hormuz while delaying nuclear talks.",
-      "emoji": "⚔️🇮🇷",
-      "category": "US-Iran War",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-iranian-offer-ceasefire-oil-gas-prices/",
-      "timestamp": "2026-04-30T11:05:00+03:00"
+      "timestamp": "2026-04-30T11:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/fed-likely-hold-rates-steady-what-may-be-last-meeting-powell-era-2026-04-29/",
+          "angle": "Fed Holds Rates Steady in Most Divided Decision Since 1992",
+          "summary": "The Federal Reserve held interest rates unchanged but saw three dissents from officials who no longer support a bias toward rate cuts, amid rising inflation concerns during Powell likely last meeting as chair."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/view-fed-holds-rates-steady-board-vote-is-most-divided-since-1992-2026-04-29/",
+        "https://www.reuters.com/business/fed-likely-hold-rates-steady-what-may-be-last-meeting-powell-era-2026-04-29/"
+      ]
     },
     {
       "headline": "Chinese military experts analyze how Iran detected and damaged US F-35 stealth jet",
@@ -270,48 +394,6 @@
       ]
     },
     {
-      "headline": "Bank of England expected to hold rates as Iran war clouds economic outlook",
-      "summary": "The UK central bank is set to keep interest rates unchanged, awaiting clearer signals on the economic impact of the Iran conflict. Markets are watching for any hints of future rate moves amid oil-driven inflation pressures.",
-      "emoji": "🇬🇧",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/bank-england-set-hold-rates-iran-war-clouds-outlook-2026-04-29/",
-      "timestamp": "2026-04-30T08:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/world-bank-forecasts-24-surge-energy-prices-2026-due-middle-east-war-2026-04-28/",
-          "angle": "World Bank Warns Energy Prices Could Surge 24% in 2026 Due to Iran War",
-          "summary": "The World Bank forecasts energy prices will reach their highest level since Russia's 2022 invasion of Ukraine, driven by Middle East war disruptions even in the most optimistic scenario where conflict subsides by May."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/us-bond-markets-diverge-middle-east-conflict-tests-fed-outlook-2026-04-28/",
-          "angle": "US bond markets split as Iran war tests Federal Reserve outlook",
-          "summary": "The Middle East conflict has splintered the US fixed-income market, with corporate credit investors behaving as if the Iran war is over while Treasury holders remain focused on inflation risks that could limit Fed easing."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/bank-england-set-hold-rates-iran-war-clouds-outlook-2026-04-29/",
-        "https://www.reuters.com/business/energy/world-bank-forecasts-24-surge-energy-prices-2026-due-middle-east-war-2026-04-28/",
-        "https://www.reuters.com/world/middle-east/us-bond-markets-diverge-middle-east-conflict-tests-fed-outlook-2026-04-28/"
-      ]
-    },
-    {
-      "headline": "Brent crude surges past  on stalled Iran talks",
-      "summary": "Oil prices jumped more than 6% as negotiations between Washington and Tehran showed no signs of progress. The Strait of Hormuz remains closed, with analysts warning prices could climb further if the conflict escalates.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/oil-trump-iran-stocks-markets-42120b305ce6298712931e79b66a20de",
-      "timestamp": "2026-04-30T08:03:00+03:00"
-    },
-    {
       "headline": "Countries conclude first fossil fuel phase-out conference in Colombia",
       "summary": "Delegates from 56 nations wrapped up the Santa Marta conference on transitioning away from fossil fuels. No binding commitments emerged, but participants highlighted financing gaps for developing nations and announced the next meeting will be in Tuvalu.",
       "emoji": "🌍",
@@ -482,15 +564,6 @@
       ]
     },
     {
-      "headline": "Oil Prices Surge as US-Iran Deadlock Keeps Gulf Supply Offline",
-      "summary": "Brent crude extended gains to near $120/barrel as the US-Iran standoff continues to block crucial Middle East oil shipments through the Strait of Hormuz, with no resolution in sight.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-prices-extend-gains-us-iran-war-deadlock-keeps-supply-off-market-2026-04-30/",
-      "timestamp": "2026-04-30T06:05:00+03:00"
-    },
-    {
       "headline": "Powell to Remain on Fed Board, Citing Unprecedented Trump Administration Attacks",
       "summary": "Fed Chair Jerome Powell announced he will stay on as a Federal Reserve governor after his chairmanship ends next month, defending the central bank independence amid what he called unprecedented legal battering by the Trump administration.",
       "emoji": "🏛️",
@@ -629,15 +702,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/powells-tenure-fed-chief-bookended-by-trump-draws-close-2026-04-29/",
       "timestamp": "2026-04-30T04:00:00+03:00"
-    },
-    {
-      "headline": "Trump threatens to reduce US troops in Germany amid Iran war feud",
-      "summary": "President Trump said he is considering reducing the US military presence in Germany after Chancellor Merz criticized the lack of US strategy in the Iran war and said America was being humiliated by Iranian leadership.",
-      "emoji": "🇺🇸🇩🇪",
-      "category": "US-Iran War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/trump-germany-iran-troops-290ddb105f5f05e20e6c6ae7094659f3",
-      "timestamp": "2026-04-30T03:03:00+03:00"
     },
     {
       "headline": "USS Gerald R. Ford carrier ending record 300-day deployment",
@@ -898,31 +962,6 @@
       "timestamp": "2026-04-30T00:00:00+03:00"
     },
     {
-      "headline": "Fed Holds Rates Steady in Most Divided Decision Since 1992",
-      "summary": "The Federal Reserve held interest rates unchanged but saw three dissents from officials who no longer support a bias toward rate cuts, amid rising inflation concerns during Powell likely last meeting as chair.",
-      "emoji": "💵",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/fed-likely-hold-rates-steady-what-may-be-last-meeting-powell-era-2026-04-29/",
-      "timestamp": "2026-04-30T00:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/boj-keeps-rates-steady-3-board-members-dissent-call-hike-2026-04-28/",
-          "angle": "Bank of Japan holds rates steady but three board members dissent, call for hike",
-          "summary": "The BOJ kept interest rates unchanged but three of nine board members proposed hiking borrowing costs, signaling concern over inflationary pressures from the Middle East conflict affecting Japan's economy."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/fed-likely-hold-rates-steady-what-may-be-last-meeting-powell-era-2026-04-29/",
-        "https://www.reuters.com/world/asia-pacific/boj-keeps-rates-steady-3-board-members-dissent-call-hike-2026-04-28/"
-      ]
-    },
-    {
       "headline": "Europes defense hinges on Ukraine as US commitment wavers",
       "summary": "With doubts growing about Americas commitment to transatlantic allies, Europe must strengthen its common defenses within NATO and the EU. The Economist argues Europe needs Ukraine to fight Russia.",
       "emoji": "🇪🇺",
@@ -1027,31 +1066,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/private-air-defence-takes-off-ukraine-2026-04-29/",
       "timestamp": "2026-04-29T22:00:00+03:00"
-    },
-    {
-      "headline": "Trump-Xi Summit to Put Taiwan Independence at Center of Agenda",
-      "summary": "President Trump and Chinese President Xi Jinping will meet in Beijing next month for a summit where China is likely to make the issue of Taiwan independence a major part of the agenda. The meeting comes amid heightened tensions over the self-governing island.",
-      "emoji": "🇨🇳🇹🇼",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/what-is-taiwan-independence-is-taiwan-already-independent-2026-04-29/",
-      "timestamp": "2026-04-29T21:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/taiwan-tops-beijings-agenda-trump-xi-summit-2026-04-29/",
-          "angle": "Taiwan Tops Agenda for Trump-Xi Summit in Beijing",
-          "summary": "The upcoming Trump-Xi summit will focus heavily on Taiwan, with Beijing likely to make the issue central to the agenda. For Taiwan's 23 million people, this may be the most consequential diplomatic meeting of 2026—one they are not invited to attend."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/what-is-taiwan-independence-is-taiwan-already-independent-2026-04-29/",
-        "https://www.reuters.com/world/china/taiwan-tops-beijings-agenda-trump-xi-summit-2026-04-29/"
-      ]
     },
     {
       "headline": "King Charles State Visit Aims to Repair Strained US-UK Ties",
@@ -1506,24 +1520,6 @@
       ]
     },
     {
-      "headline": "Brent Crude Hits One-Month High on Prolonged Hormuz Disruption Fears",
-      "summary": "Oil prices rose nearly 3% as Brent hit a one-month high following reports the US will extend its blockade of Iranian ports, likely prolonging supply disruptions from the Middle East.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-rises-reports-us-will-extend-iran-blockade-prolonging-mideast-supply-2026-04-29/",
-      "timestamp": "2026-04-29T13:03:00+03:00"
-    },
-    {
-      "headline": "Dollar Strengthens as Investors Await Fed Decision Amid Iran War",
-      "summary": "The dollar edged higher as markets awaited a key Federal Reserve rate decision in what may be Chair Jerome Powells final meeting, against the backdrop of an Iran conflict with no imminent resolution in sight.",
-      "emoji": "💵",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/dollar-steady-investors-brace-fed-decision-face-war-2026-04-29/",
-      "timestamp": "2026-04-29T13:03:00+03:00"
-    },
-    {
       "headline": "IRGC seizes wartime power as Irans Supreme Leader role diminishes",
       "summary": "Two months into war with the US and Israel, Irans Revolutionary Guards have consolidated decision-making power, with Mojtaba Khamenei reduced to legitimizing generals decisions rather than issuing directives. The shift may harden Tehrans stance in any renewed talks with Washington.",
       "emoji": "🇮🇷",
@@ -1786,19 +1782,27 @@
       "timestamp": "2026-04-29T07:03:00+03:00",
       "perspectives": [
         {
-          "source": "The Hill",
-          "url": "https://thehill.com/policy/defense/5842470-trump-says-iran-keeping-strait-of-hormuz-closed-to-save-face/",
-          "angle": "Trump says Iran keeping Strait of Hormuz closed to save face",
-          "summary": "The Hill reports President Trump claims Iran is maintaining its blockade of the strategic waterway for domestic political reasons, while US military operations continue to secure commercial shipping."
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-iranian-offer-ceasefire-oil-gas-prices/",
+          "angle": "Iran war and Strait of Hormuz stuck in limbo as Trump mulls Iranian offer",
+          "summary": "Oil prices continue rising as the Trump administration considers an Iranian proposal to reopen the Strait of Hormuz while delaying nuclear talks."
+        },
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/trump-germany-iran-troops-290ddb105f5f05e20e6c6ae7094659f3",
+          "angle": "Trump threatens to reduce US troops in Germany amid Iran war feud",
+          "summary": "President Trump said he is considering reducing the US military presence in Germany after Chancellor Merz criticized the lack of US strategy in the Iran war and said America was being humiliated by Iranian leadership."
         }
       ],
       "sources": [
         "Reuters",
-        "The Hill"
+        "CBS News",
+        "AP News"
       ],
       "urls": [
         "https://www.reuters.com/world/trump-says-iran-wants-us-open-hormuz-strait-soon-possible-2026-04-28/",
-        "https://thehill.com/policy/defense/5842470-trump-says-iran-keeping-strait-of-hormuz-closed-to-save-face/"
+        "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-iranian-offer-ceasefire-oil-gas-prices/",
+        "https://apnews.com/article/trump-germany-iran-troops-290ddb105f5f05e20e6c6ae7094659f3"
       ]
     },
     {
