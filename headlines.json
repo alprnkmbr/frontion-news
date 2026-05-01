@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-01T06:07:53+03:00",
+  "lastUpdated": "2026-05-01T07:05:20+03:00",
   "headlines": [
     {
-      "headline": "Russian Leningrad region declared front-line after Ukrainian strikes on oil terminals",
-      "summary": "Ukraine has intensified attacks on oil infrastructure in Leningrad Oblast, targeting ports of Ust-Luga and Primorsk, prompting the regional governor to declare it a front-line region.",
+      "headline": "Myanmar Junta Moves Aung San Suu Kyi to House Arrest",
+      "summary": "Myanmar's military government shortened ousted leader Aung San Suu Kyi's prison sentence, moving her from prison to house arrest in a rare concession amid international pressure.",
+      "emoji": "🇲🇲",
+      "category": "South Asia",
+      "source": "AP News",
+      "url": "https://apnews.com/article/myanmar-aung-san-suu-kyi-amnesty-a9fe9907edb714d2cd0dd1ea81d76be3",
+      "timestamp": "2026-05-01T07:00:00+03:00"
+    },
+    {
+      "headline": "Japan Warns of More Yen Intervention After First Action in Two Years",
+      "summary": "Japan intervened to prop up the yen for the first time in nearly two years, and its top currency diplomat warned that speculation remains rife, signaling Tokyo stands ready to step in again.",
+      "emoji": "🇯🇵",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/japan-warns-speculative-yen-moves-signals-chance-more-intervention-2026-05-01/",
+      "timestamp": "2026-05-01T07:00:00+03:00"
+    },
+    {
+      "headline": "Russia Questions US Role as Global Mediator Amid Iran Conflict",
+      "summary": "Senior Russian security official Dmitry Medvedev said the United States is unlikely to serve as an effective mediator in international conflicts given its actions, casting doubt on Washington's diplomatic role.",
       "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russias-leningrad-oblast-now-a-frontline-region-local-governor-says-following-recent-ukrainian-attacks/",
-      "timestamp": "2026-05-01T06:10:00+03:00"
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/russias-medvedev-questions-us-suitability-play-role-conflict-mediator-2026-04-30/",
+      "timestamp": "2026-05-01T07:00:00+03:00"
+    },
+    {
+      "headline": "OPEC+ to Continue After UAE Exit, Russia Says No Price War Expected",
+      "summary": "Russia's Deputy Prime Minister Alexander Novak said OPEC+ will continue working together despite the UAE's departure, dismissing concerns about a potential price war.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/russia-says-opec-will-continue-after-uae-exit-no-price-war-expected-2026-04-30/",
+      "timestamp": "2026-05-01T07:00:00+03:00"
+    },
+    {
+      "headline": "Iran Will Play at World Cup in US, FIFA Chief Confirms",
+      "summary": "FIFA President Gianni Infantino confirmed Iran will participate in the 2026 World Cup matches hosted in the United States, despite ongoing tensions between Tehran and Washington.",
+      "emoji": "⚽",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sports/soccer/two-iran-delegation-permitted-be-fifa-congress-chose-not-attend-source-2026-04-30/",
+      "timestamp": "2026-05-01T07:00:00+03:00"
     },
     {
       "headline": "Top US general confirms Russia is aiding Iran in war against United States",
@@ -44,7 +80,23 @@
       "category": "Defense Industry",
       "source": "Defense News",
       "url": "https://www.defensenews.com/global/europe/2026/04/30/investigation-russian-shadow-airlines-use-algeria-as-base-for-secretive-missions/",
-      "timestamp": "2026-05-01T06:10:00+03:00"
+      "timestamp": "2026-05-01T06:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Defense News",
+          "url": "https://www.defensenews.com/global/europe/2026/04/30/investigation-russian-shadow-airlines-use-algeria-as-base-for-secretive-missions/",
+          "angle": "Russian Shadow Airlines Use Algeria as Base for Secretive Military Missions",
+          "summary": "Algeria has become a key hub for Russian military logistics as shadow airlines conduct covert missions, raising concerns about Moscow's expanding influence in North Africa."
+        }
+      ],
+      "sources": [
+        "Defense News",
+        "Defense News"
+      ],
+      "urls": [
+        "https://www.defensenews.com/global/europe/2026/04/30/investigation-russian-shadow-airlines-use-algeria-as-base-for-secretive-missions/",
+        "https://www.defensenews.com/global/europe/2026/04/30/investigation-russian-shadow-airlines-use-algeria-as-base-for-secretive-missions/"
+      ]
     },
     {
       "headline": "Iran Economic Collapse May Come Too Late for Trump",
@@ -62,7 +114,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/us/pivotal-us-iran-war-deadline-approaches-with-no-end-sight-conflict-2026-04-30/",
-      "timestamp": "2026-05-01T06:03:00+03:00"
+      "timestamp": "2026-05-01T06:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/us-military-commanders-brief-trump-new-options-against-iran-axios-reports-2026-04-30/",
+          "angle": "US military commanders to brief Trump on new Iran options as war deadline passes",
+          "summary": "Top US military leaders including the head of Central Command will brief President Trump on potential military action against Iran as a pivotal war deadline approaches with no clear end to the conflict in sight."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/us/pivotal-us-iran-war-deadline-approaches-with-no-end-sight-conflict-2026-04-30/",
+        "https://www.reuters.com/world/middle-east/us-military-commanders-brief-trump-new-options-against-iran-axios-reports-2026-04-30/"
+      ]
     },
     {
       "headline": "ECB Rate Hike Bets Tempered by Iran War Economic Impact",
@@ -292,39 +360,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/convicted-former-harvard-scientist-rebuilds-brain-computer-lab-china-2026-04-30/",
       "timestamp": "2026-05-01T04:03:00+03:00"
-    },
-    {
-      "headline": "US military commanders to brief Trump on new Iran options as war deadline passes",
-      "summary": "Top US military leaders including the head of Central Command will brief President Trump on potential military action against Iran as a pivotal war deadline approaches with no clear end to the conflict in sight.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-military-commanders-brief-trump-new-options-against-iran-axios-reports-2026-04-30/",
-      "timestamp": "2026-05-01T03:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/us/pivotal-us-iran-war-deadline-approaches-with-no-end-sight-conflict-2026-04-30/",
-          "angle": "US-Iran War Deadline Arrives With No End in Sight",
-          "summary": "President Trump faces a Friday deadline to end the Iran war or seek congressional extension, but the conflict remains in a standoff over shipping routes as the Strait of Hormuz stays closed and oil prices surge."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/us-military-commanders-brief-trump-new-options-against-iran-2026-04-30/",
-          "angle": "US Military Commanders to Brief Trump on New Iran Options",
-          "summary": "Top US military leaders including CENTCOM head Admiral Brad Cooper will brief President Trump on potential military action against Iran as the standoff over the Strait of Hormuz continues."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/us-military-commanders-brief-trump-new-options-against-iran-axios-reports-2026-04-30/",
-        "https://www.reuters.com/world/us/pivotal-us-iran-war-deadline-approaches-with-no-end-sight-conflict-2026-04-30/",
-        "https://www.reuters.com/world/middle-east/us-military-commanders-brief-trump-new-options-against-iran-2026-04-30/"
-      ]
     },
     {
       "headline": "China, US economic chiefs hold candid call ahead of Trump-Xi summit",
@@ -997,15 +1032,6 @@
       "timestamp": "2026-04-30T15:03:00+03:00"
     },
     {
-      "headline": "Russian Shadow Airlines Use Algeria as Base for Secretive Military Missions",
-      "summary": "Algeria has become a key hub for Russian military logistics as shadow airlines conduct covert missions, raising concerns about Moscow's expanding influence in North Africa.",
-      "emoji": "🇷🇺",
-      "category": "Defense Industry",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/global/europe/2026/04/30/investigation-russian-shadow-airlines-use-algeria-as-base-for-secretive-missions/",
-      "timestamp": "2026-04-30T14:07:00+03:00"
-    },
-    {
       "headline": "Countries Pay Iran Transit Fees to Pass Through Strait of Hormuz Despite US Sanctions",
       "summary": "China, India, Japan and other nations continue paying Iran transit fees to ship oil through the Strait of Hormuz, circumventing US sanctions and providing Tehran with revenue.",
       "emoji": "🛢️",
@@ -1632,26 +1658,18 @@
       "perspectives": [
         {
           "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russias-hard-hit-tuapse-oil-refinery-struck-by-ukrainian-drones-for-4th-time-as-fires-ravage-site/",
-          "angle": "Ukraine strikes Russian Tuapse oil refinery for fourth time in two weeks",
-          "summary": "Ukrainian drones attacked the Tuapse refinery on the Black Sea coast for the fourth time, extending fires that have destroyed 24 storage tanks. The facility processes 12 million tons of oil annually."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/drone-attack-causes-fire-russias-tuapse-refinery-authorities-say-2026-04-28/",
-          "angle": "Ukrainian Drone Strike Sparks Fire at Russian Tuapse Refinery",
-          "summary": "A Ukrainian drone attack caused a major fire at a Russian oil refinery in Tuapse, with Putin citing the incident as evidence of intensified Ukrainian attacks on civilian infrastructure."
+          "url": "https://kyivindependent.com/russias-leningrad-oblast-now-a-frontline-region-local-governor-says-following-recent-ukrainian-attacks/",
+          "angle": "Russian Leningrad region declared front-line after Ukrainian strikes on oil terminals",
+          "summary": "Ukraine has intensified attacks on oil infrastructure in Leningrad Oblast, targeting ports of Ust-Luga and Primorsk, prompting the regional governor to declare it a front-line region."
         }
       ],
       "sources": [
         "Reuters",
-        "Kyiv Independent",
-        "Reuters"
+        "Kyiv Independent"
       ],
       "urls": [
         "https://www.reuters.com/world/zelenskiy-says-ukraine-will-continue-extending-range-strikes-russia-2026-04-29/",
-        "https://kyivindependent.com/russias-hard-hit-tuapse-oil-refinery-struck-by-ukrainian-drones-for-4th-time-as-fires-ravage-site/",
-        "https://www.reuters.com/world/europe/drone-attack-causes-fire-russias-tuapse-refinery-authorities-say-2026-04-28/"
+        "https://kyivindependent.com/russias-leningrad-oblast-now-a-frontline-region-local-governor-says-following-recent-ukrainian-attacks/"
       ]
     },
     {
@@ -2955,108 +2973,6 @@
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/us-ukraine-ambassador-to-resign-amid-tensions-trump-ft-reports/",
       "timestamp": "2026-04-29T00:05:00+03:00"
-    },
-    {
-      "headline": "China Testing Truck-Mounted Nuclear Reactor for AI Data Centers",
-      "summary": "Chinese scientists are developing a prototype mobile nuclear power bank that could generate up to 10MW of energy, potentially ending battery anxiety for power-hungry AI data centers.",
-      "emoji": "⚛️",
-      "category": "Technology",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3351721/china-testing-truck-mounted-nuclear-reactor-could-power-ai-data-centre",
-      "timestamp": "2026-04-29T00:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/science/article/3351721/china-testing-truck-mounted-nuclear-reactor-could-power-ai-data-centre",
-          "angle": "China Tests Truck-Mounted Nuclear Reactor for AI Data Centers",
-          "summary": "Chinese scientists are testing a prototype 10-megawatt vehicle-mounted nuclear reactor that could power medium-sized AI data centers. The \"nuclear power bank\" offers decades-long operation without recharging and could serve remote regions, ships, and space systems."
-        }
-      ],
-      "sources": [
-        "SCMP",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.scmp.com/news/china/science/article/3351721/china-testing-truck-mounted-nuclear-reactor-could-power-ai-data-centre",
-        "https://www.scmp.com/news/china/science/article/3351721/china-testing-truck-mounted-nuclear-reactor-could-power-ai-data-centre"
-      ]
-    },
-    {
-      "headline": "Iranian Revolutionary Guards seize wartime power, diminishing Supreme Leader's authority",
-      "summary": "Two months into the war with the US and Israel, Iran no longer has a single undisputed clerical arbiter at the pinnacle of power—a significant break from the Islamic Republic's structure that could be hardening Tehran's stance in talks with Washington.",
-      "emoji": "🇮🇷⚔️",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/irans-guards-seize-wartime-power-blunting-supreme-leaders-role-2026-04-28/",
-      "timestamp": "2026-04-29T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/irans-guards-seize-wartime-power-blunting-supreme-leaders-role-2026-04-28/",
-          "angle": "Iran's Revolutionary Guards Seize Wartime Power, Blunting Supreme Leader's Role",
-          "summary": "Two months into the war with the US and Israel, Iran no longer has a single undisputed clerical arbiter at the pinnacle of power, a break with the past that may be hardening Tehran's stance in negotiations with Washington."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/irans-guards-seize-wartime-power-blunting-supreme-leaders-role-2026-04-28/",
-        "https://www.reuters.com/world/asia-pacific/irans-guards-seize-wartime-power-blunting-supreme-leaders-role-2026-04-28/"
-      ]
-    },
-    {
-      "headline": "US and Iran clash at UN after Tehran appointed to nuclear non-proliferation role",
-      "summary": "The United States and Iran clashed at the United Nations over Tehran's nuclear program after Iran was selected as one of the vice presidents at a month-long conference reviewing the Nuclear Non-Proliferation Treaty.",
-      "emoji": "🇺🇳⚛️",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-iran-clash-un-after-tehran-gets-nuclear-non-proliferation-role-2026-04-27/",
-      "timestamp": "2026-04-29T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/us-iran-clash-un-after-tehran-gets-nuclear-non-proliferation-role-2026-04-27/",
-          "angle": "US and Iran Clash at UN as Tehran Gets Nuclear Non-Proliferation Role",
-          "summary": "The United States and Iran exchanged sharp accusations at the opening of a month-long UN conference reviewing the Nuclear Non-Proliferation Treaty, with tensions heightened by Iran's election as a vice president of the proceedings."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/us-iran-clash-un-after-tehran-gets-nuclear-non-proliferation-role-2026-04-27/",
-        "https://www.reuters.com/world/middle-east/us-iran-clash-un-after-tehran-gets-nuclear-non-proliferation-role-2026-04-27/"
-      ]
-    },
-    {
-      "headline": "Over 1,100 Ukrainians Accused of Betrayal, One in Five Are Minors",
-      "summary": "A Reuters investigation reveals that since Russia's full-scale invasion, more than 1,100 Ukrainians have been accused of betrayal through arson, terrorism or sabotage, with 20% being minors. The case of one teenager illustrates how children can be both perpetrator and victim.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/investigations/ukrainian-teens-are-committing-acts-betrayal-how-should-they-be-judged-2026-04-28/",
-      "timestamp": "2026-04-28T23:03:00+03:00"
-    },
-    {
-      "headline": "Groups Petition US Trade Agency to Combat Forced Labor Imports",
-      "summary": "Pro-tariff and human rights groups asked the Trump administration to impose new import bans, duties and quotas targeting forced labor practices in China and other countries, pressing trading partners to adopt US-style enforcement.",
-      "emoji": "🇨🇳",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us/some-groups-ask-us-trade-agency-new-duties-import-bans-fight-forced-labor-2026-04-28/",
-      "timestamp": "2026-04-28T23:03:00+03:00"
-    },
-    {
-      "headline": "Ukraine reveals details of Russia's new S-71K cruise missile",
-      "summary": "Ukrainian military intelligence disclosed specifications of Russia's new air-launched S-71K \"Kovyor\" cruise missile, including its design and foreign components. The revelation comes as Kyiv continues to expose Moscow's weapons supply chains.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/ukraine-reveals-design-foreign-components-of-russias-new-s-71k-missile/",
-      "timestamp": "2026-04-28T22:06:00+03:00"
     }
   ]
 }
