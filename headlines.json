@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-01T20:05:27+03:00",
+  "lastUpdated": "2026-05-01T21:06:14+03:00",
   "headlines": [
+    {
+      "headline": "Trump to Raise EU Auto Tariffs to 25%",
+      "summary": "President Trump announced he will increase tariffs on cars and trucks from the European Union to 25% next week, accusing the bloc of not complying with its trade deal with Washington.",
+      "emoji": "🇺🇸🇪🇺",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/autos-transportation/trump-says-he-will-raise-tariffs-eu-autos-25-2026-05-01/",
+      "timestamp": "2026-05-01T21:03:00+03:00"
+    },
+    {
+      "headline": "Ukraine Announces Army Reform as Peace Talks Stall",
+      "summary": "Ukraine unveiled plans to reform its army this summer to address infantry shortages and discharge long-serving soldiers, four years into the war with Russia as diplomatic efforts have stalled.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/ukraine-rolls-out-army-reform-zelenskiy-says-2026-05-01/",
+      "timestamp": "2026-05-01T21:03:00+03:00"
+    },
+    {
+      "headline": "Iranian Crypto Exchange Used by IRGC to Move Millions",
+      "summary": "A Reuters investigation reveals that one of Iran's most powerful families founded Nobitex, the country's largest crypto exchange, which has become a central node for moving funds beyond US sanctions—even during the current war.",
+      "emoji": "🇮🇷💰",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/investigations/one-irans-most-powerful-families-founded-its-largest-crypto-exchange-its-used-by-2026-05-01/",
+      "timestamp": "2026-05-01T21:03:00+03:00"
+    },
+    {
+      "headline": "Transatlantic Frost Deepens as Trump Attacks European Leaders",
+      "summary": "The past weeks have not been reassuring for those who thought Europe could navigate its tricky relationship with Trump, with the president threatening troop withdrawals and tariff hikes while criticizing European inaction on Iran.",
+      "emoji": "🇺🇸🇪🇺❄️",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/trumps-attacks-europes-leaders-worsen-transatlantic-frost-2026-05-01/",
+      "timestamp": "2026-05-01T21:03:00+03:00"
+    },
+    {
+      "headline": "Investors Running Out of Time to Brace for Oil Shock",
+      "summary": "With markets focused on AI and hoping for a short-lived Iran war, investors have yet to prepare for a potential doubling of physical oil prices. The window to do so may soon be closing.",
+      "emoji": "🛢️⚠️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/investors-are-running-out-time-brace-true-oil-shock-2026-05-01/",
+      "timestamp": "2026-05-01T21:03:00+03:00"
+    },
     {
       "headline": "US Sanctions Iranian Shadow Banking Networks Moving Oil Proceeds from China",
       "summary": "The US Treasury targeted three Iranian foreign currency exchange houses and front companies that facilitated transferring oil proceeds from China to Iran, aiming to cut off Tehrans access to hard currency.",
@@ -53,7 +98,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/uae-says-iran-cannot-be-trusted-over-hormuz-peace-efforts-an-impasse-2026-05-01/",
-      "timestamp": "2026-05-01T20:03:00+03:00"
+      "timestamp": "2026-05-01T20:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/05/01/world/middleeast/iran-new-proposal-peace-talks.html",
+          "angle": "Iran Sends New Peace Proposal to US via Pakistan",
+          "summary": "Iran has submitted a revised proposal for negotiations with the United States through Pakistani mediators, as efforts continue to end the war and reopen the Strait of Hormuz."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "New York Times"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/uae-says-iran-cannot-be-trusted-over-hormuz-peace-efforts-an-impasse-2026-05-01/",
+        "https://www.nytimes.com/2026/05/01/world/middleeast/iran-new-proposal-peace-talks.html"
+      ]
     },
     {
       "headline": "US Navy taps AI firm to counter Iranian mines in Strait of Hormuz",
@@ -62,15 +123,6 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/us-navy-turns-ai-firm-domino-options-counter-iranian-mines-2026-05-01/",
-      "timestamp": "2026-05-01T20:03:00+03:00"
-    },
-    {
-      "headline": "Pentagon seals AI deals with seven tech companies for classified systems",
-      "summary": "The Defense Department announced partnerships with seven major AI companies including NVIDIA, OpenAI, Microsoft, and Google to deploy artificial intelligence on classified military networks.",
-      "emoji": "🤖",
-      "category": "Defense Industry",
-      "source": "AP News",
-      "url": "https://apnews.com/article/pentagon-artificial-intelligence-military-classified-systems-war-060cecf836c4cebcf012a3ceb5333f2c",
       "timestamp": "2026-05-01T20:03:00+03:00"
     },
     {
@@ -221,31 +273,6 @@
       "timestamp": "2026-05-01T18:05:00+03:00"
     },
     {
-      "headline": "Iran Sends New Peace Proposal to US via Pakistan",
-      "summary": "Iran has submitted a revised proposal for negotiations with the United States through Pakistani mediators, as efforts continue to end the war and reopen the Strait of Hormuz.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/01/world/middleeast/iran-new-proposal-peace-talks.html",
-      "timestamp": "2026-05-01T18:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Arabiya",
-          "url": "https://english.alarabiya.net/News/middle-east/2026/05/01/iran-delivered-new-proposal-for-us-talks-via-pakistan-",
-          "angle": "Iran Delivers New Peace Proposal to US via Pakistan",
-          "summary": "Iran has submitted a new proposal for talks with the United States through Pakistani mediators, state media reported, signaling a potential diplomatic opening amid the ongoing ceasefire and Hormuz standoff."
-        }
-      ],
-      "sources": [
-        "New York Times",
-        "Al Arabiya"
-      ],
-      "urls": [
-        "https://www.nytimes.com/2026/05/01/world/middleeast/iran-new-proposal-peace-talks.html",
-        "https://english.alarabiya.net/News/middle-east/2026/05/01/iran-delivered-new-proposal-for-us-talks-via-pakistan-"
-      ]
-    },
-    {
       "headline": "Trump Says \"Probably\" on Pulling US Troops from Italy and Spain",
       "summary": "President Trump said he would probably consider withdrawing US troops from Italy and Spain, a day after announcing a review of military personnel reductions in Germany.",
       "emoji": "🇺🇸",
@@ -286,7 +313,23 @@
       "category": "Defense Industry",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/retail-consumer/pentagon-reaches-agreements-with-leading-ai-companies-2026-05-01/",
-      "timestamp": "2026-05-01T17:00:00+03:00"
+      "timestamp": "2026-05-01T17:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/pentagon-artificial-intelligence-military-classified-systems-war-060cecf836c4cebcf012a3ceb5333f2c",
+          "angle": "Pentagon seals AI deals with seven tech companies for classified systems",
+          "summary": "The Defense Department announced partnerships with seven major AI companies including NVIDIA, OpenAI, Microsoft, and Google to deploy artificial intelligence on classified military networks."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/retail-consumer/pentagon-reaches-agreements-with-leading-ai-companies-2026-05-01/",
+        "https://apnews.com/article/pentagon-artificial-intelligence-military-classified-systems-war-060cecf836c4cebcf012a3ceb5333f2c"
+      ]
     },
     {
       "headline": "Reuters investigation reveals Iranian elite family founded crypto exchange used by IRGC",
@@ -2810,125 +2853,6 @@
         "https://www.reuters.com/legal/transactional/ubs-tops-profit-expectations-market-volatility-2026-04-29/",
         "https://www.reuters.com/business/healthcare-pharmaceuticals/astrazeneca-beats-profit-expectations-keeps-annual-outlook-unchanged-2026-04-29/"
       ]
-    },
-    {
-      "headline": "Santander Reports Record Q1 Profit on Strong Spain, Mexico Results",
-      "summary": "Spanish bank Santander reported a record first-quarter net profit, with solid performance in Spain and Mexico offsetting weaker results elsewhere, and reaffirmed its 2026 goals.",
-      "emoji": "🇪🇸💶",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/finance/santanders-q1-net-profit-up-60-vs-same-period-2025-boosted-by-one-off-2026-04-29/",
-      "timestamp": "2026-04-29T16:05:00+03:00"
-    },
-    {
-      "headline": "Zelenskiy Vows to Keep Extending Range of Ukrainian Strikes Into Russia",
-      "summary": "Ukraines president said Kyiv would continue increasing the range of its strikes on Russian territory, posting footage of an attack on a target more than 1,500 km inside Russia.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/zelenskiy-says-ukraine-will-continue-extending-range-strikes-russia-2026-04-29/",
-      "timestamp": "2026-04-29T15:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/ukraine-strikes-cost-russia-7-billion-in-oil-revenue-in-2026-zelensky-says/",
-          "angle": "Ukrainian Strikes Cost Russia  Billion in Oil Revenue in 2026",
-          "summary": "President Zelensky announced that Ukrainian strikes on Russian oil infrastructure have caused at least  billion in losses since the start of 2026, marking a significant economic impact on Russia's war funding capacity."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/zelenskiy-says-ukraine-will-continue-extending-range-strikes-russia-2026-04-29/",
-        "https://kyivindependent.com/ukraine-strikes-cost-russia-7-billion-in-oil-revenue-in-2026-zelensky-says/"
-      ]
-    },
-    {
-      "headline": "European Aluminium Premium Doubles as Iran War Disrupts Middle East Supply",
-      "summary": "The premium for aluminium billet in Europe has doubled since the Iran war began due to supply shortages from the Middle East, squeezing manufacturers in construction and transport sectors.",
-      "emoji": "🏭",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/european-aluminium-billet-premium-doubles-after-iran-war-disrupts-supply-2026-04-28/",
-      "timestamp": "2026-04-29T15:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-04-29/singapore-is-pulling-in-dubai-gold-as-middle-east-war-drags-on",
-          "angle": "Singapore Pulling In Dubai Gold as Middle East War Drags On",
-          "summary": "Gold imports into Singapore from Dubai hit a record last month as wealthy investors seek alternative safe-haven storage hubs amid the prolonged Middle East conflict."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/bp-profit-beats-expectations-32-billion-2026-04-28/",
-          "angle": "BP Profit Doubles to $3.2 Billion on Iran War Oil Trading",
-          "summary": "British oil major BP reported first-quarter profit of $3.2 billion, beating expectations by 20% and marking its highest profit since 2023. The Iran war boosted oil trading results significantly."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Bloomberg",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/european-aluminium-billet-premium-doubles-after-iran-war-disrupts-supply-2026-04-28/",
-        "https://www.bloomberg.com/news/articles/2026-04-29/singapore-is-pulling-in-dubai-gold-as-middle-east-war-drags-on",
-        "https://www.reuters.com/business/energy/bp-profit-beats-expectations-32-billion-2026-04-28/"
-      ]
-    },
-    {
-      "headline": "Japan's Growing Muslim Communities Face Resistance to New Mosques",
-      "summary": "Muslim leaders in Japan report growing opposition to new mosques, fueled by negative overseas coverage of Islam and online misinformation. The tensions reveal challenges as Japan's Muslim population expands.",
-      "emoji": "🇯🇵",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/people/article/3351746/resistance-new-mosques-exposes-tensions-over-japans-growing-muslim-communities",
-      "timestamp": "2026-04-29T14:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/people/article/3351746/resistance-new-mosques-exposes-tensions-over-japans-growing-muslim-communities",
-          "angle": "Japan Faces Tensions Over Growing Muslim Communities and Mosque Construction",
-          "summary": "Resistance to new mosques in Japan is exposing social tensions as the Muslim population grows, highlighting challenges of integration in a traditionally homogeneous society."
-        }
-      ],
-      "sources": [
-        "SCMP",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.scmp.com/week-asia/people/article/3351746/resistance-new-mosques-exposes-tensions-over-japans-growing-muslim-communities",
-        "https://www.scmp.com/week-asia/people/article/3351746/resistance-new-mosques-exposes-tensions-over-japans-growing-muslim-communities"
-      ]
-    },
-    {
-      "headline": "Indonesia Passes Historic Law Protecting Domestic Workers",
-      "summary": "Rights groups are hailing Indonesia's new domestic worker protection law as a \"new chapter,\" though activists warn that real change will take time due to entrenched beliefs. The law addresses long-standing labor rights issues.",
-      "emoji": "🇮🇩",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/people/article/3351861/rights-groups-hail-indonesias-new-chapter-domestic-workers-warn-long-road-ahead",
-      "timestamp": "2026-04-29T14:05:00+03:00"
-    },
-    {
-      "headline": "US Mandates Enhanced Security Checks for Immigration Applicants",
-      "summary": "The Trump administration has mandated enhanced security checks for immigration applicants, according to internal guidance sent to USCIS employees, tightening vetting procedures amid the Iran conflict.",
-      "emoji": "🇺🇸🏛️",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/government/us-mandates-what-it-calls-enhanced-security-checks-immigration-applicants-2026-04-29/",
-      "timestamp": "2026-04-29T14:03:00+03:00"
-    },
-    {
-      "headline": "Standard Chartered and IFC Launch 300M Africa Supply Chain Finance",
-      "summary": "The World Bank IFC and Standard Chartered announced a new 300 million risk-sharing facility aimed at boosting supply chain finance across Africa amid global economic uncertainty.",
-      "emoji": "🌍💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/finance/standard-chartered-ifc-launch-300-million-africa-supply-chain-finance-facility-2026-04-29/",
-      "timestamp": "2026-04-29T14:03:00+03:00"
     }
   ]
 }
