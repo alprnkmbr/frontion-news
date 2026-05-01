@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-01T18:06:00+03:00",
+  "lastUpdated": "2026-05-01T19:09:18+03:00",
   "headlines": [
     {
-      "headline": "Ukraine strikes Russian airfield 1,700 km away, damages two fighter jets",
-      "summary": "Ukrainian forces hit a Su-57 and Su-34 at Shagol airfield in Chelyabinsk, marking one of the deepest strikes into Russian territory in the war.",
-      "emoji": "🇺🇦",
+      "headline": "Japan Eases Weapons Export Rules, Opening Path for Ukraine Arms Supplies",
+      "summary": "Japan relaxed its weapons-export rules, creating a pathway for potential military equipment supplies to Ukraine. Kyiv's ambassador to Japan said the move opens doors for talks that could help Ukraine resist Russia's invasion.",
+      "emoji": "🇯🇵🇺🇦",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/ukraine-sees-path-japanese-arms-after-tokyo-eases-export-rules-2026-04-30/",
+      "timestamp": "2026-05-01T19:10:00+03:00"
+    },
+    {
+      "headline": "Ukrainian Drones Strike Russian Tuapse Port, Creating Environmental Disaster",
+      "summary": "Ukrainian drones struck Russia's Black Sea port of Tuapse for the fourth time in 16 days, causing toxic black smoke clouds and oil leaking into the sea. Authorities are struggling to cope with the mounting environmental crisis.",
+      "emoji": "🇺🇦🇷🇺⚔️",
       "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/ukraine-strikes-russian-airfield-damaging-2-fighter-jets/",
-      "timestamp": "2026-05-01T18:06:00+03:00"
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/russian-city-faces-toxic-aftermath-refinery-attack-2026-04-30/",
+      "timestamp": "2026-05-01T19:10:00+03:00"
+    },
+    {
+      "headline": "Lebanon's Internal Divisions Complicate Saudi Mediation With Israel",
+      "summary": "A rift among top Lebanese officials has hindered Saudi efforts to help Lebanon forge a united position on negotiations with Israel. The internal splits come as ceasefire talks between Israel and Hezbollah remain fragile.",
+      "emoji": "🇱🇧🇸🇦🇮🇱",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/lebanons-internal-splits-over-talks-with-israel-trip-up-saudi-mediation-efforts-2026-04-30/",
+      "timestamp": "2026-05-01T19:10:00+03:00"
+    },
+    {
+      "headline": "Commodity Trader Mercuria Sues Baltic Exchange Over Hormuz Shipping Data",
+      "summary": "Commodity trader Mercuria is suing the Baltic Exchange over losses from oil tanker pricing data that failed to account for the effective closure of the Strait of Hormuz. The lawsuit highlights the financial fallout from the Iran crisis.",
+      "emoji": "⚖️🛢️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/trader-mercuria-sues-baltic-exchange-over-hormuz-freight-losses-court-filing-2026-05-01/",
+      "timestamp": "2026-05-01T19:10:00+03:00"
+    },
+    {
+      "headline": "California Gasoline Hits $6 Per Gallon Amid Iran Crisis",
+      "summary": "Motorists in California are paying $6 per gallon for gasoline, the highest in two years, as the Strait of Hormuz standoff drives global oil prices higher. The price surge is becoming a political flashpoint ahead of elections.",
+      "emoji": "⛽💰🇺🇸",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/californians-now-paying-6-bucks-gallon-kicks-route-66-2026-05-01/",
+      "timestamp": "2026-05-01T19:10:00+03:00"
     },
     {
       "headline": "Pakistan commissions first Chinese attack submarine in historic milestone for navy",
@@ -35,7 +71,23 @@
       "category": "Energy",
       "source": "Al-Monitor",
       "url": "https://www.al-monitor.com/originals/2026/05/gulf-countries-plans-bypass-hormuz-still-far-experts-warn",
-      "timestamp": "2026-05-01T18:06:00+03:00"
+      "timestamp": "2026-05-01T18:06:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Conversation",
+          "url": "https://theconversation.com/what-alternatives-do-gulf-states-have-to-the-strait-of-hormuz-281805",
+          "angle": "Gulf states test Hormuz bypass infrastructure as strait remains blocked",
+          "summary": "With the Strait of Hormuz largely shut for two months due to the Iran war, alternative pipelines and routes are being stress-tested to their limits, revealing both capabilities and vulnerabilities in Gulf energy export infrastructure."
+        }
+      ],
+      "sources": [
+        "Al-Monitor",
+        "The Conversation"
+      ],
+      "urls": [
+        "https://www.al-monitor.com/originals/2026/05/gulf-countries-plans-bypass-hormuz-still-far-experts-warn",
+        "https://theconversation.com/what-alternatives-do-gulf-states-have-to-the-strait-of-hormuz-281805"
+      ]
     },
     {
       "headline": "US Army tests new drones and 3D printers at Balikatan drill in Philippines",
@@ -56,22 +108,29 @@
       "timestamp": "2026-05-01T18:05:00+03:00"
     },
     {
-      "headline": "Ukraine Strikes Russian Tuapse Oil Terminal for Fourth Time",
-      "summary": "Ukrainian forces struck an oil terminal in the Russian Black Sea city of Tuapse, the fourth attack on the facility in two weeks, amid growing environmental concerns from oil spills.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/russia-ukraine-war-tuapse-strike-2efb9ac87f60bd4ef7f2646240922192",
-      "timestamp": "2026-05-01T18:05:00+03:00"
-    },
-    {
       "headline": "Iran Sends New Peace Proposal to US via Pakistan",
       "summary": "Iran has submitted a revised proposal for negotiations with the United States through Pakistani mediators, as efforts continue to end the war and reopen the Strait of Hormuz.",
       "emoji": "🇮🇷",
       "category": "US-Iran War",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/05/01/world/middleeast/iran-new-proposal-peace-talks.html",
-      "timestamp": "2026-05-01T18:05:00+03:00"
+      "timestamp": "2026-05-01T18:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Arabiya",
+          "url": "https://english.alarabiya.net/News/middle-east/2026/05/01/iran-delivered-new-proposal-for-us-talks-via-pakistan-",
+          "angle": "Iran Delivers New Peace Proposal to US via Pakistan",
+          "summary": "Iran has submitted a new proposal for talks with the United States through Pakistani mediators, state media reported, signaling a potential diplomatic opening amid the ongoing ceasefire and Hormuz standoff."
+        }
+      ],
+      "sources": [
+        "New York Times",
+        "Al Arabiya"
+      ],
+      "urls": [
+        "https://www.nytimes.com/2026/05/01/world/middleeast/iran-new-proposal-peace-talks.html",
+        "https://english.alarabiya.net/News/middle-east/2026/05/01/iran-delivered-new-proposal-for-us-talks-via-pakistan-"
+      ]
     },
     {
       "headline": "Trump Says \"Probably\" on Pulling US Troops from Italy and Spain",
@@ -80,7 +139,23 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/trump-says-probably-when-asked-if-he-might-pull-us-troops-out-italy-spain-2026-04-30/",
-      "timestamp": "2026-05-01T18:05:00+03:00"
+      "timestamp": "2026-05-01T18:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/trump-says-probably-when-asked-if-he-might-pull-us-troops-out-italy-spain-2026-04-30/",
+          "angle": "Trump Considers Troop Withdrawals from Italy and Spain",
+          "summary": "President Trump said \"probably\" when asked about pulling U.S. troops from Italy and Spain, one day after announcing potential reductions in Germany. European allies face uncertainty over America's NATO commitment."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/trump-says-probably-when-asked-if-he-might-pull-us-troops-out-italy-spain-2026-04-30/",
+        "https://www.reuters.com/world/europe/trump-says-probably-when-asked-if-he-might-pull-us-troops-out-italy-spain-2026-04-30/"
+      ]
     },
     {
       "headline": "Iran War Live: Tehran Offers New US Proposal as Costs Mount",
@@ -142,15 +217,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/commentary/mixed-messages-military-mismatch-erode-us-europes-atlantic-pact-2026-05-01/",
       "timestamp": "2026-05-01T17:00:00+03:00"
-    },
-    {
-      "headline": "Iran Delivers New Peace Proposal to US via Pakistan",
-      "summary": "Iran has submitted a new proposal for talks with the United States through Pakistani mediators, state media reported, signaling a potential diplomatic opening amid the ongoing ceasefire and Hormuz standoff.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/middle-east/2026/05/01/iran-delivered-new-proposal-for-us-talks-via-pakistan-",
-      "timestamp": "2026-05-01T16:10:00+03:00"
     },
     {
       "headline": "The West's Moral Legitimacy Exhausted by Gaza and Lebanon",
@@ -614,31 +680,6 @@
       "urls": [
         "https://www.reuters.com/world/asia-pacific/yen-trims-gains-against-dollar-after-japans-intervention-markets-2026-05-01/",
         "https://www.reuters.com/world/asia-pacific/japan-warns-speculative-yen-moves-signals-chance-more-intervention-2026-05-01/"
-      ]
-    },
-    {
-      "headline": "Trump Considers Troop Withdrawals from Italy and Spain",
-      "summary": "President Trump said \"probably\" when asked about pulling U.S. troops from Italy and Spain, one day after announcing potential reductions in Germany. European allies face uncertainty over America's NATO commitment.",
-      "emoji": "🇺🇸🇪🇺",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/trump-says-probably-when-asked-if-he-might-pull-us-troops-out-italy-spain-2026-04-30/",
-      "timestamp": "2026-05-01T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/trump-says-probably-when-asked-if-he-might-pull-us-troops-out-italy-spain-2026-04-30/",
-          "angle": "Trump Open to Pulling US Troops from Italy and Spain",
-          "summary": "President Trump said \"probably\" when asked about withdrawing troops from Italy and Spain, one day after announcing a review of US force levels in Germany, escalating tensions with NATO allies over the Iran conflict."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/trump-says-probably-when-asked-if-he-might-pull-us-troops-out-italy-spain-2026-04-30/",
-        "https://www.reuters.com/world/europe/trump-says-probably-when-asked-if-he-might-pull-us-troops-out-italy-spain-2026-04-30/"
       ]
     },
     {
@@ -1544,15 +1585,6 @@
       "timestamp": "2026-04-30T18:15:00+03:00"
     },
     {
-      "headline": "Gulf states test Hormuz bypass infrastructure as strait remains blocked",
-      "summary": "With the Strait of Hormuz largely shut for two months due to the Iran war, alternative pipelines and routes are being stress-tested to their limits, revealing both capabilities and vulnerabilities in Gulf energy export infrastructure.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "The Conversation",
-      "url": "https://theconversation.com/what-alternatives-do-gulf-states-have-to-the-strait-of-hormuz-281805",
-      "timestamp": "2026-04-30T18:15:00+03:00"
-    },
-    {
       "headline": "China Conducts Combat Patrols Near Scarborough Shoal",
       "summary": "China held combat readiness patrols near Scarborough Shoal in the disputed South China Sea as the Philippines and US staged joint drills in the region.",
       "emoji": "🇨🇳🇵🇭",
@@ -2190,18 +2222,26 @@
       "perspectives": [
         {
           "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russias-leningrad-oblast-now-a-frontline-region-local-governor-says-following-recent-ukrainian-attacks/",
-          "angle": "Russian Leningrad region declared front-line after Ukrainian strikes on oil terminals",
-          "summary": "Ukraine has intensified attacks on oil infrastructure in Leningrad Oblast, targeting ports of Ust-Luga and Primorsk, prompting the regional governor to declare it a front-line region."
+          "url": "https://kyivindependent.com/ukraine-strikes-russian-airfield-damaging-2-fighter-jets/",
+          "angle": "Ukraine strikes Russian airfield 1,700 km away, damages two fighter jets",
+          "summary": "Ukrainian forces hit a Su-57 and Su-34 at Shagol airfield in Chelyabinsk, marking one of the deepest strikes into Russian territory in the war."
+        },
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/russia-ukraine-war-tuapse-strike-2efb9ac87f60bd4ef7f2646240922192",
+          "angle": "Ukraine Strikes Russian Tuapse Oil Terminal for Fourth Time",
+          "summary": "Ukrainian forces struck an oil terminal in the Russian Black Sea city of Tuapse, the fourth attack on the facility in two weeks, amid growing environmental concerns from oil spills."
         }
       ],
       "sources": [
         "Reuters",
-        "Kyiv Independent"
+        "Kyiv Independent",
+        "AP News"
       ],
       "urls": [
         "https://www.reuters.com/world/zelenskiy-says-ukraine-will-continue-extending-range-strikes-russia-2026-04-29/",
-        "https://kyivindependent.com/russias-leningrad-oblast-now-a-frontline-region-local-governor-says-following-recent-ukrainian-attacks/"
+        "https://kyivindependent.com/ukraine-strikes-russian-airfield-damaging-2-fighter-jets/",
+        "https://apnews.com/article/russia-ukraine-war-tuapse-strike-2efb9ac87f60bd4ef7f2646240922192"
       ]
     },
     {
@@ -2869,51 +2909,6 @@
       "source": "Stars and Stripes",
       "url": "https://www.stripes.com/theaters/asia_pacific/2026-04-29/china-research-vessel-japan-nansei-21522947.html",
       "timestamp": "2026-04-29T12:14:00+03:00"
-    },
-    {
-      "headline": "KAI and Bell partner on South Koreas next-generation utility helicopter",
-      "summary": "Korea Aerospace Industries and Bell Textron signed a memorandum of understanding to develop South Koreas next-generation high-speed medium utility helicopter. The partnership advances Seouls military modernization amid regional tensions.",
-      "emoji": "🇰🇷⚔️",
-      "category": "Defense Industry",
-      "source": "Aviation Week",
-      "url": "https://aviationweek.com/defense/aircraft-propulsion/kai-bell-partner-south-koreas-next-generation-utility-helicopter",
-      "timestamp": "2026-04-29T12:14:00+03:00"
-    },
-    {
-      "headline": "EU charges Meta for failing to keep children under 13 off Facebook and Instagram",
-      "summary": "The European Commission issued preliminary findings that Meta breached EU digital rules by inadequately preventing children under 13 from accessing Facebook and Instagram, potentially exposing them to age-inappropriate content.",
-      "emoji": "🇪🇺📱",
-      "category": "Europe",
-      "source": "Channel News Asia",
-      "url": "https://www.channelnewsasia.com/business/facebook-and-instagram-must-do-more-block-under-13s-eu-warns-in-meta-charges-6088461",
-      "timestamp": "2026-04-29T12:14:00+03:00"
-    },
-    {
-      "headline": "South Korea Sentences Ex-President Yoon to 7 Years",
-      "summary": "Ousted President Yoon Suk Yeol receives a 7-year sentence for resisting arrest and bypassing Cabinet procedures before his martial law declaration, adding to his existing life sentence for rebellion.",
-      "emoji": "🇰🇷",
-      "category": "Asia-Pacific",
-      "source": "AP News",
-      "url": "https://apnews.com/article/south-korea-yoon-appeals-court-martial-law-d621b69fc88c699ce327654e9c7cfc36",
-      "timestamp": "2026-04-29T12:03:00+03:00"
-    },
-    {
-      "headline": "UK Feels Economic Strain From Iran War",
-      "summary": "British consumer confidence slumps to two-year low as the Iran war drives price increases, with PM Starmer refusing US requests to use UK bases for strikes on Iranian infrastructure.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/29/how-the-iran-war-is-hitting-the-uk",
-      "timestamp": "2026-04-29T12:03:00+03:00"
-    },
-    {
-      "headline": "EU Accuses Meta of Failing to Block Underage Users",
-      "summary": "The European Union charged Meta with violating digital rules by not preventing children under 13 from accessing Facebook and Instagram, threatening fines up to 6% of global revenue.",
-      "emoji": "🇪🇺",
-      "category": "Technology",
-      "source": "AP News",
-      "url": "https://apnews.com/article/meta-instagram-facebook-european-union-digital-e8fdaa4173a363f2b968e59ee441fb84",
-      "timestamp": "2026-04-29T12:03:00+03:00"
     }
   ]
 }
