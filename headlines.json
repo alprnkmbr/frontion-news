@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-02T00:08:29+03:00",
+  "lastUpdated": "2026-05-02T01:08:03+03:00",
   "headlines": [
+    {
+      "headline": "US to Withdraw 5,000 Troops From Germany",
+      "summary": "The Pentagon announced the withdrawal of 5,000 US troops from Germany amid a widening rift between President Trump and German Chancellor Merz over the Iran war.",
+      "emoji": "🇺🇸🇩🇪",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us-withdrawing-5000-troops-germany-us-officials-say-2026-05-01/",
+      "timestamp": "2026-05-02T01:03:00+03:00"
+    },
+    {
+      "headline": "Barclays Raises 2026 Brent Forecast to $100",
+      "summary": "Barclays raised its 2026 Brent crude forecast from $85 to $100 per barrel, citing prolonged Strait of Hormuz disruption from the ongoing Iran conflict.",
+      "emoji": "🛢️💰",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/barclays-lifts-2026-brent-forecast-100-prolonged-hormuz-disruption-2026-05-01/",
+      "timestamp": "2026-05-02T01:03:00+03:00"
+    },
+    {
+      "headline": "California Gasoline Hits $6 Per Gallon",
+      "summary": "Motorists in California are paying $6 per gallon for gasoline, the highest price in two years, as the Iran war and Hormuz blockade drive fuel costs higher.",
+      "emoji": "⛽🇺🇸",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/californians-now-paying-6-bucks-gallon-kicks-route-66-2026-05-01/",
+      "timestamp": "2026-05-02T01:03:00+03:00"
+    },
+    {
+      "headline": "Trump Tells Congress Iran War \"Terminated\"",
+      "summary": "President Trump sent letters to Congress asserting that hostilities with Iran have \"terminated,\" attempting to avoid the 60-day War Powers deadline that would require congressional authorization.",
+      "emoji": "🏛️🇺🇸",
+      "category": "US Politics",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/01/us/politics/trump-congress-authorization-iran-war.html",
+      "timestamp": "2026-05-02T01:03:00+03:00"
+    },
+    {
+      "headline": "Iranian Elite Family Founded Major Crypto Exchange Used by IRGC",
+      "summary": "Reuters investigation reveals the Kharrazi family, one of Iran's most powerful families, founded Nobitex crypto exchange which has become central to moving funds beyond US sanctions during the Iran war.",
+      "emoji": "💰🇮🇷",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/investigations/one-irans-most-powerful-families-founded-its-largest-crypto-exchange-its-used-by-2026-05-01/",
+      "timestamp": "2026-05-02T01:03:00+03:00"
+    },
     {
       "headline": "Japan-Australia Seal $14.4B Frigate Deal in Historic Defense Pact",
       "summary": "Japan and Australia signed contracts for a $14.4 billion warship deal, marking Japan's largest defense export. The Mogami-class frigates will be built for the Australian Navy, deepening defense ties between US allies in the Indo-Pacific.",
@@ -17,16 +62,23 @@
       "category": "Europe",
       "source": "Defense News",
       "url": "https://www.defensenews.com/global/europe/2026/04/22/germany-unveils-strategy-for-becoming-europes-strongest-military-by-2039/",
-      "timestamp": "2026-05-02T00:07:00+03:00"
-    },
-    {
-      "headline": "UAE Exits OPEC, Leaving Oil Cartel Weakened Amid Iran War",
-      "summary": "The United Arab Emirates officially left OPEC and OPEC+ on May 1, 2026, marking a major shift in global oil markets. The exit weakens the cartel's ability to control prices during the ongoing Iran conflict and Strait of Hormuz crisis.",
-      "emoji": "🇦🇪🛢️",
-      "category": "Energy",
-      "source": "Khaleej Times",
-      "url": "https://www.khaleejtimes.com/uae/uae-announces-decision-to-withdraw-from-opec-opec-from-may-1",
-      "timestamp": "2026-05-02T00:07:00+03:00"
+      "timestamp": "2026-05-02T00:07:00+03:00",
+      "perspectives": [
+        {
+          "source": "Politico EU",
+          "url": "https://www.politico.eu/article/germany-military-strategy-bundeswehr-boris-pistorius/",
+          "angle": "Germany unveils strategy to build Europes strongest military by 2039",
+          "summary": "Germany announced its first stand-alone military strategy, intending to become the strongest conventional army in Europe. Defense spending has hit a 36-year high as Berlin boosts infantry and space programs."
+        }
+      ],
+      "sources": [
+        "Defense News",
+        "Politico EU"
+      ],
+      "urls": [
+        "https://www.defensenews.com/global/europe/2026/04/22/germany-unveils-strategy-for-becoming-europes-strongest-military-by-2039/",
+        "https://www.politico.eu/article/germany-military-strategy-bundeswehr-boris-pistorius/"
+      ]
     },
     {
       "headline": "Pentagon Seeks $54 Billion Pivot to AI-Powered Warfare",
@@ -38,22 +90,29 @@
       "timestamp": "2026-05-02T00:07:00+03:00"
     },
     {
-      "headline": "Iran Offers New Peace Proposal as US-Iran Talks Remain Stalled",
-      "summary": "Iran submitted a new proposal aimed at ending the conflict with the US, but Trump expressed dissatisfaction with the terms. The offer comes as diplomatic efforts continue through intermediaries including Pakistan.",
-      "emoji": "🇮🇷🇺🇸",
-      "category": "US-Iran War",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/live-news/20260501-iran-offers-new-proposal-amid-stalled-us-peace-talks",
-      "timestamp": "2026-05-02T00:07:00+03:00"
-    },
-    {
       "headline": "Japan Intervenes to Support Yen After Oil-Driven Selloff",
       "summary": "Japan spent an estimated $35 billion supporting its currency as the yen hit near two-year lows against the dollar, with authorities warning they are ready to intervene again. The selloff was worsened by oil price spikes linked to the Iran war.",
       "emoji": "🇯🇵💰",
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/japan-may-have-spent-35-billion-yen-buying-intervention-boj-data-shows-2026-05-01/",
-      "timestamp": "2026-05-02T00:03:00+03:00"
+      "timestamp": "2026-05-02T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/history-japans-intervention-currency-markets-2026-05-01/",
+          "angle": "Japan Intervenes to Prop Up Yen Against Dollar",
+          "summary": "Japan intervened in currency markets to support the embattled yen from near two-year lows against the dollar, marking a significant move amid global economic uncertainty."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/japan-may-have-spent-35-billion-yen-buying-intervention-boj-data-shows-2026-05-01/",
+        "https://www.reuters.com/world/asia-pacific/history-japans-intervention-currency-markets-2026-05-01/"
+      ]
     },
     {
       "headline": "Fed Officials Say Oil Shock Ends Rate-Cut Bias, Hike Possible",
@@ -80,7 +139,23 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/trumps-attacks-europes-leaders-worsen-transatlantic-frost-2026-05-01/",
-      "timestamp": "2026-05-02T00:03:00+03:00"
+      "timestamp": "2026-05-02T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/trumps-attacks-europes-leaders-worsen-transatlantic-frost-2026-05-01/",
+          "angle": "Transatlantic Frost Deepens as Trump Attacks European Leaders",
+          "summary": "The past weeks have not been reassuring for those who thought Europe could navigate its tricky relationship with Trump, with the president threatening troop withdrawals and tariff hikes while criticizing European inaction on Iran."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/trumps-attacks-europes-leaders-worsen-transatlantic-frost-2026-05-01/",
+        "https://www.reuters.com/world/europe/trumps-attacks-europes-leaders-worsen-transatlantic-frost-2026-05-01/"
+      ]
     },
     {
       "headline": "Huawei Expects 60% Jump in AI Chip Revenue as China Demand Surges",
@@ -89,7 +164,23 @@
       "category": "Technology",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/huawei-expects-ai-chip-revenue-jump-least-60-this-year-ft-reports-2026-05-01/",
-      "timestamp": "2026-05-02T00:03:00+03:00"
+      "timestamp": "2026-05-02T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/huawei-expects-ai-chip-revenue-jump-least-60-this-year-ft-reports-2026-05-01/",
+          "angle": "Huawei Expects AI Chip Revenue to Jump at Least 60% This Year",
+          "summary": "Huawei projects revenue from its AI chips to surge at least 60% in 2026, driven by strong demand from Chinese companies for domestic alternatives amid U.S. export restrictions."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/huawei-expects-ai-chip-revenue-jump-least-60-this-year-ft-reports-2026-05-01/",
+        "https://www.reuters.com/world/china/huawei-expects-ai-chip-revenue-jump-least-60-this-year-ft-reports-2026-05-01/"
+      ]
     },
     {
       "headline": "US Navy turns to AI firm to counter Iranian mines in Strait of Hormuz",
@@ -381,31 +472,6 @@
       ]
     },
     {
-      "headline": "Transatlantic Frost Deepens as Trump Attacks European Leaders",
-      "summary": "The past weeks have not been reassuring for those who thought Europe could navigate its tricky relationship with Trump, with the president threatening troop withdrawals and tariff hikes while criticizing European inaction on Iran.",
-      "emoji": "🇺🇸🇪🇺❄️",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/trumps-attacks-europes-leaders-worsen-transatlantic-frost-2026-05-01/",
-      "timestamp": "2026-05-01T21:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/trumps-attacks-europes-leaders-worsen-transatlantic-frost-2026-05-01/",
-          "angle": "Trump Attacks European Leaders Over Iran Response",
-          "summary": "US President Donald Trump continued his criticism of German Chancellor Friedrich Merz, saying he was \"doing a terrible job\" and should spend less time interfering with Washington efforts on Iran. The attacks highlight worsening transatlantic relations."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/trumps-attacks-europes-leaders-worsen-transatlantic-frost-2026-05-01/",
-        "https://www.reuters.com/world/trumps-attacks-europes-leaders-worsen-transatlantic-frost-2026-05-01/"
-      ]
-    },
-    {
       "headline": "Investors Running Out of Time to Brace for Oil Shock",
       "summary": "With markets focused on AI and hoping for a short-lived Iran war, investors have yet to prepare for a potential doubling of physical oil prices. The window to do so may soon be closing.",
       "emoji": "🛢️⚠️",
@@ -469,19 +535,27 @@
       "timestamp": "2026-05-01T20:03:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/iran-us-war-ceasefire-negotiations-strait-b48635e586e2907caae65b58bd03f5b7",
-          "angle": "Trump \"Not Satisfied\" With Iran's Latest Peace Proposal",
-          "summary": "President Trump said he was not satisfied with Iran's latest proposal for talks to end the war, without specifying what was unacceptable. Iran's foreign minister said Tehran remains ready for diplomacy."
+          "source": "France 24",
+          "url": "https://www.france24.com/en/live-news/20260501-iran-offers-new-proposal-amid-stalled-us-peace-talks",
+          "angle": "Iran Offers New Peace Proposal as US-Iran Talks Remain Stalled",
+          "summary": "Iran submitted a new proposal aimed at ending the conflict with the US, but Trump expressed dissatisfaction with the terms. The offer comes as diplomatic efforts continue through intermediaries including Pakistan."
+        },
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-lebanon-ceasefire/",
+          "angle": "Iran War Live: Tehran Offers New US Proposal as Costs Mount",
+          "summary": "Iran has offered a new proposal for talks with the US to end the war, as the Strait of Hormuz standoff continues to push oil prices higher and disrupt global energy markets."
         }
       ],
       "sources": [
         "Reuters",
-        "AP News"
+        "France 24",
+        "CBS News"
       ],
       "urls": [
         "https://www.reuters.com/world/asia-pacific/uae-says-iran-cannot-be-trusted-over-hormuz-peace-efforts-an-impasse-2026-05-01/",
-        "https://apnews.com/article/iran-us-war-ceasefire-negotiations-strait-b48635e586e2907caae65b58bd03f5b7"
+        "https://www.france24.com/en/live-news/20260501-iran-offers-new-proposal-amid-stalled-us-peace-talks",
+        "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-lebanon-ceasefire/"
       ]
     },
     {
@@ -621,15 +695,6 @@
         "https://www.reuters.com/world/europe/trump-says-probably-when-asked-if-he-might-pull-us-troops-out-italy-spain-2026-04-30/",
         "https://www.reuters.com/world/europe/trump-says-probably-when-asked-if-he-might-pull-us-troops-out-italy-spain-2026-04-30/"
       ]
-    },
-    {
-      "headline": "Iran War Live: Tehran Offers New US Proposal as Costs Mount",
-      "summary": "Iran has offered a new proposal for talks with the US to end the war, as the Strait of Hormuz standoff continues to push oil prices higher and disrupt global energy markets.",
-      "emoji": "⛽",
-      "category": "US-Iran War",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-lebanon-ceasefire/",
-      "timestamp": "2026-05-01T18:05:00+03:00"
     },
     {
       "headline": "Pentagon secures deals with seven AI companies for classified military networks",
@@ -933,15 +998,6 @@
       "timestamp": "2026-05-01T13:03:00+03:00"
     },
     {
-      "headline": "Huawei Expects AI Chip Revenue to Jump at Least 60% This Year",
-      "summary": "Huawei projects revenue from its AI chips to surge at least 60% in 2026, driven by strong demand from Chinese companies for domestic alternatives amid U.S. export restrictions.",
-      "emoji": "🇨🇳",
-      "category": "Technology",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/huawei-expects-ai-chip-revenue-jump-least-60-this-year-ft-reports-2026-05-01/",
-      "timestamp": "2026-05-01T13:03:00+03:00"
-    },
-    {
       "headline": "Oil Hits Four-Year High Above  on Iran War Escalation Fears",
       "summary": "Global oil prices eased after hitting a four-year high of more than  per barrel on concerns the US-Iran conflict could lead to prolonged Middle East supply disruption with deeper global economic damage.",
       "emoji": "🛢️",
@@ -951,19 +1007,19 @@
       "timestamp": "2026-05-01T12:05:00+03:00",
       "perspectives": [
         {
-          "source": "Anadolu Agency",
-          "url": "https://www.aa.com.tr/en/energy/oil/oil-up-on-middle-east-supply-fears-as-us-israel-iran-tensions-persist/56734",
-          "angle": "Oil prices rise on Middle East supply fears as Iran tensions persist",
-          "summary": "Crude oil prices extended gains as US media reports of potential new military strike options against Iran intensified concerns over Strait of Hormuz disruptions amid fragile ceasefire efforts."
+          "source": "Khaleej Times",
+          "url": "https://www.khaleejtimes.com/uae/uae-announces-decision-to-withdraw-from-opec-opec-from-may-1",
+          "angle": "UAE Exits OPEC, Leaving Oil Cartel Weakened Amid Iran War",
+          "summary": "The United Arab Emirates officially left OPEC and OPEC+ on May 1, 2026, marking a major shift in global oil markets. The exit weakens the cartel's ability to control prices during the ongoing Iran conflict and Strait of Hormuz crisis."
         }
       ],
       "sources": [
         "Reuters",
-        "Anadolu Agency"
+        "Khaleej Times"
       ],
       "urls": [
         "https://www.reuters.com/business/energy/oil-retreats-after-hitting-four-year-high-concern-us-iran-war-escalation-2026-04-30/",
-        "https://www.aa.com.tr/en/energy/oil/oil-up-on-middle-east-supply-fears-as-us-israel-iran-tensions-persist/56734"
+        "https://www.khaleejtimes.com/uae/uae-announces-decision-to-withdraw-from-opec-opec-from-may-1"
       ]
     },
     {
@@ -1411,15 +1467,6 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/traders-temper-euro-zone-rate-hike-bets-ecb-grapples-with-iran-war-impact-2026-04-30/",
-      "timestamp": "2026-05-01T06:03:00+03:00"
-    },
-    {
-      "headline": "Japan Intervenes to Prop Up Yen Against Dollar",
-      "summary": "Japan intervened in currency markets to support the embattled yen from near two-year lows against the dollar, marking a significant move amid global economic uncertainty.",
-      "emoji": "🇯🇵",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/history-japans-intervention-currency-markets-2026-05-01/",
       "timestamp": "2026-05-01T06:03:00+03:00"
     },
     {
@@ -2726,31 +2773,6 @@
       "timestamp": "2026-04-29T23:05:00+03:00"
     },
     {
-      "headline": "Germany unveils strategy to build Europes strongest military by 2039",
-      "summary": "Germany announced its first stand-alone military strategy, intending to become the strongest conventional army in Europe. Defense spending has hit a 36-year high as Berlin boosts infantry and space programs.",
-      "emoji": "🇩🇪",
-      "category": "Europe",
-      "source": "Politico EU",
-      "url": "https://www.politico.eu/article/germany-military-strategy-bundeswehr-boris-pistorius/",
-      "timestamp": "2026-04-29T23:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Economist",
-          "url": "https://www.economist.com/europe/2026/04/27/the-war-room-newsletter-germanys-plan-to-build-europes-strongest-army",
-          "angle": "Germany plans to build Europe's strongest army, says defence editor",
-          "summary": "The Economist examines Germany's ambitious plan to build Europe's strongest military, analyzing whether the country can achieve its goals and what obstacles stand in the way."
-        }
-      ],
-      "sources": [
-        "Politico EU",
-        "The Economist"
-      ],
-      "urls": [
-        "https://www.politico.eu/article/germany-military-strategy-bundeswehr-boris-pistorius/",
-        "https://www.economist.com/europe/2026/04/27/the-war-room-newsletter-germanys-plan-to-build-europes-strongest-army"
-      ]
-    },
-    {
       "headline": "Magyar's Russian energy phase-out plan for Hungary lacks urgency, analysts warn",
       "summary": "Opposition leader Peter Magyar's proposal to end Hungary's reliance on Russian fossil fuels falls short, risking continued dependence on Moscow under Viktor Orban's government.",
       "emoji": "🇭🇺",
@@ -2870,65 +2892,6 @@
       "urls": [
         "https://www.reuters.com/world/asia-pacific/trump-urges-iran-sign-deal-after-report-suggests-us-may-extend-blockade-2026-04-29/",
         "https://www.reuters.com/business/energy/oil-rises-reports-us-will-extend-iran-blockade-prolonging-mideast-supply-2026-04-29/"
-      ]
-    },
-    {
-      "headline": "Putin accuses Ukraine of intensifying attacks on civilian targets",
-      "summary": "President Putin claimed Ukraine has stepped up attacks on civilian infrastructure in Russia, citing a drone strike on an oil refinery in the southern city of Tuapse.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/putin-says-ukraine-has-intensified-attacks-civilian-targets-russia-2026-04-28/",
-      "timestamp": "2026-04-29T20:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/putin-says-ukraine-has-intensified-attacks-civilian-targets-russia-2026-04-28/",
-          "angle": "Putin Accuses Ukraine of Intensifying Attacks on Russian Civilians",
-          "summary": "President Vladimir Putin said Ukraine has stepped up attacks on civilian infrastructure in Russia, citing a recent drone strike on an oil refinery in the southern city of Tuapse."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/putin-says-ukraine-has-intensified-attacks-civilian-targets-russia-2026-04-28/",
-        "https://www.reuters.com/world/putin-says-ukraine-has-intensified-attacks-civilian-targets-russia-2026-04-28/"
-      ]
-    },
-    {
-      "headline": "Israel quietly expands military control zone in Gaza",
-      "summary": "New maps issued by Israel have expanded restricted areas in Gaza, putting thousands of displaced Palestinians inside boundaries the military says it can continue to change.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/israeli-maps-outline-expanded-zone-military-control-gaza-2026-04-29/",
-      "timestamp": "2026-04-29T20:03:00+03:00"
-    },
-    {
-      "headline": "Fed chief nominee Warsh clears key Senate hurdle",
-      "summary": "Kevin Warsh, Trumps pick to lead the Federal Reserve, cleared a key procedural hurdle in the Senate, paving the way to succeed Jerome Powell next month.",
-      "emoji": "🏛️",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/fed-chief-nominee-warsh-set-clear-key-confirmation-hurdle-wednesday-2026-04-29/",
-      "timestamp": "2026-04-29T20:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/fed-chief-nominee-warsh-set-clear-key-confirmation-hurdle-wednesday-2026-04-29/",
-          "angle": "Fed Chair Nominee Warsh Set to Clear Key Confirmation Hurdle",
-          "summary": "Kevin Warsh, President Trumps pick to lead the Federal Reserve, is poised to clear a procedural vote on Wednesday, setting the stage for him to succeed Jerome Powell as the White House exerts unprecedented control over the central bank."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/fed-chief-nominee-warsh-set-clear-key-confirmation-hurdle-wednesday-2026-04-29/",
-        "https://www.reuters.com/business/fed-chief-nominee-warsh-set-clear-key-confirmation-hurdle-wednesday-2026-04-29/"
       ]
     }
   ]
