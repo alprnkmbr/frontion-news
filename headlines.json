@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-02T22:10:14+03:00",
+  "lastUpdated": "2026-05-02T23:05:09+03:00",
   "headlines": [
+    {
+      "headline": "Iran Offers Strait of Hormuz Deal as Trump Rejects Peace Proposal",
+      "summary": "Iran presented a proposal to mediate the Strait of Hormuz dispute through Pakistan, but US President Trump expressed dissatisfaction with the offer. Fighting could resume after four weeks of suspended bombing.",
+      "emoji": "🇮🇷",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/iran-offers-strait-deal-trump-dissatisfied-prefers-non-military-path-2026-05-02/",
+      "timestamp": "2026-05-02T23:05:00+03:00"
+    },
+    {
+      "headline": "Russian Forces Close In on Ukrainian Stronghold Kostiantynivka",
+      "summary": "Russian troops are advancing toward Kostiantynivka in eastern Donetsk, attempting to establish a foothold near one of Ukraine's most heavily defended positions, according to Kyiv's top military commander.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/fighting-reaches-outskirts-ukraines-stronghold-kostiantynivka-2026-05-02/",
+      "timestamp": "2026-05-02T23:05:00+03:00"
+    },
+    {
+      "headline": "Two Civilians Killed in Russian Drone Attack on Bus in Kherson",
+      "summary": "A Russian drone struck a minibus in the southern Ukrainian city of Kherson early Saturday, killing two people and wounding seven others. The attack targeted civilian infrastructure.",
+      "emoji": "💥",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/two-killed-russian-attack-bus-kherson-2026-05-02/",
+      "timestamp": "2026-05-02T23:05:00+03:00"
+    },
+    {
+      "headline": "Iraq Says Oil Output Can Recover Within Week After Hormuz Crisis Ends",
+      "summary": "Iraq's deputy oil minister announced the country can restore oil production and exports to normal levels within seven days once the Strait of Hormuz shipping crisis is resolved.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/iraq-says-oil-output-exports-can-recover-within-week-once-hormuz-crisis-ends-2026-05-02/",
+      "timestamp": "2026-05-02T23:05:00+03:00"
+    },
+    {
+      "headline": "Iran War Standoff Could Leave Trump Worse Off Than Before Conflict",
+      "summary": "Analysis suggests the US-Iran conflict has failed to deliver a decisive military or diplomatic victory, potentially leaving Trump in a weaker position than before the war began.",
+      "emoji": "⚔️",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/iran-standoff-could-leave-trump-worse-off-than-before-he-went-war-2026-05-02/",
+      "timestamp": "2026-05-02T23:05:00+03:00"
+    },
     {
       "headline": "Al-Qaeda affiliate seizes Mali military base, sets up checkpoints near capital",
       "summary": "Jama'at Nusrat al-Islam wal-Muslimin (JNIM) captured a military base in central Mali and established checkpoints on roads to Bamako, as Tuareg separatists also advance toward the capital.",
@@ -8,15 +53,6 @@
       "category": "Africa",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/spotlight/20260502-mali-in-crisis-jihadist-fighters-and-tuareg-separatists-threaten-bamako",
-      "timestamp": "2026-05-02T22:06:00+03:00"
-    },
-    {
-      "headline": "Japan renews Indo-Pacific strategy with focus on supply chain resilience",
-      "summary": "Japan's Economic Security Minister Sanae Takaichi highlighted energy, critical materials, and AI/data infrastructure priorities as the country adapts its Indo-Pacific strategy amid global disruptions.",
-      "emoji": "🇯🇵",
-      "category": "Asia-Pacific",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/Japan-renews-Indo-Pacific-strategy-focusing-on-supply-chain-resilience",
       "timestamp": "2026-05-02T22:06:00+03:00"
     },
     {
@@ -35,15 +71,6 @@
       "category": "Ukraine-Russia War",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/peru-launches-investigation-after-citizens-allegedly-trafficked-to-fight-russias-war-in-ukraine/",
-      "timestamp": "2026-05-02T22:06:00+03:00"
-    },
-    {
-      "headline": "Pentagon signs AI deals with seven firms, freezes out Anthropic",
-      "summary": "The US Defense Department announced partnerships with seven leading AI companies while notably excluding Anthropic, as military ramps up artificial intelligence capabilities for Iran conflict.",
-      "emoji": "🤖",
-      "category": "Defense Industry",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/pentagon/2026/05/02/pentagon-freezes-out-anthropic-as-it-signs-deals-with-ai-rivals/",
       "timestamp": "2026-05-02T22:06:00+03:00"
     },
     {
@@ -719,6 +746,31 @@
       ]
     },
     {
+      "headline": "Japan PM Takaichi in Hanoi to Unveil New Indo-Pacific Strategy",
+      "summary": "Japanese Prime Minister Sanae Takaichi arrived in Vietnam to deliver a major policy speech marking 10 years of the Free and Open Indo-Pacific initiative. She will call for collaboration on AI, energy security, and undersea cables while strengthening supply chains away from China.",
+      "emoji": "🇯🇵🇻🇳",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/japans-pm-takaichi-hanoi-meet-vietnamese-leaders-2026-05-02/",
+      "timestamp": "2026-05-02T05:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/politics/Japan-renews-Indo-Pacific-strategy-focusing-on-supply-chain-resilience",
+          "angle": "Japan renews Indo-Pacific strategy with focus on supply chain resilience",
+          "summary": "Japan's Economic Security Minister Sanae Takaichi highlighted energy, critical materials, and AI/data infrastructure priorities as the country adapts its Indo-Pacific strategy amid global disruptions."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Nikkei Asia"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/japans-pm-takaichi-hanoi-meet-vietnamese-leaders-2026-05-02/",
+        "https://asia.nikkei.com/politics/Japan-renews-Indo-Pacific-strategy-focusing-on-supply-chain-resilience"
+      ]
+    },
+    {
       "headline": "Trump Weighs Taxpayer-Funded Bailout for Bankrupt Spirit Airlines",
       "summary": "President Trump said his administration is still considering a government takeover of Spirit Airlines, which has filed for bankruptcy for the second time in two years. The president suggested the government could resell the airline for a profit once oil prices driven up by the Iran war decrease.",
       "emoji": "✈️",
@@ -741,31 +793,6 @@
       "urls": [
         "https://apnews.com/article/spirit-airlines-trump-bailout-bankruptcy-d42060b6a7bdac6ffc1d1e083af58f59",
         "https://www.france24.com/en/live-news/20260502-spirit-airlines-begins-wind-down-cancels-all-flights-1"
-      ]
-    },
-    {
-      "headline": "Japan PM Takaichi in Hanoi to Unveil New Indo-Pacific Strategy",
-      "summary": "Japanese Prime Minister Sanae Takaichi arrived in Vietnam to deliver a major policy speech marking 10 years of the Free and Open Indo-Pacific initiative. She will call for collaboration on AI, energy security, and undersea cables while strengthening supply chains away from China.",
-      "emoji": "🇯🇵🇻🇳",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/japans-pm-takaichi-hanoi-meet-vietnamese-leaders-2026-05-02/",
-      "timestamp": "2026-05-02T05:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "Channel News Asia",
-          "url": "https://www.channelnewsasia.com/asia/japan-sanae-takaichi-lam-hanoi-talks-6095596",
-          "angle": "Japan PM Takaichi to visit Vietnam, push free Indo-Pacific vision",
-          "summary": "Japanese Prime Minister Sanae Takaichi will meet Vietnamese leaders in Hanoi to deepen cooperation on energy security and supply chains while promoting a \"free and open\" Indo-Pacific amid tensions with China."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Channel News Asia"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/japans-pm-takaichi-hanoi-meet-vietnamese-leaders-2026-05-02/",
-        "https://www.channelnewsasia.com/asia/japan-sanae-takaichi-lam-hanoi-talks-6095596"
       ]
     },
     {
@@ -1507,27 +1534,19 @@
       "timestamp": "2026-05-01T17:00:00+03:00",
       "perspectives": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/us/economy-trade-business/article/3352199/us-pentagon-signs-ai-deals-google-nvidia-and-spacex-focus-lawful-use",
-          "angle": "Pentagon Signs AI Deals with Google, Nvidia, SpaceX for Military Use",
-          "summary": "The US Defense Department has signed agreements with seven AI companies including Google, Nvidia, Microsoft, Amazon, and SpaceX to use advanced artificial intelligence tools in classified defense settings, raising concerns among some tech workers about autonomous weapons."
-        },
-        {
-          "source": "LA Times",
-          "url": "https://www.latimes.com/business/story/2026-05-01/google-nvidia-other-tech-titans-sign-ai-deal-with-pentagon",
-          "angle": "Google, Nvidia and tech giants sign AI deals with Pentagon",
-          "summary": "Eight major tech companies including Google, Nvidia, SpaceX, Microsoft, Amazon and OpenAI have signed agreements with the Pentagon to deploy AI on classified military networks. The DoD aims to make the US military an \"AI-first fighting force.\""
+          "source": "Defense News",
+          "url": "https://www.defensenews.com/pentagon/2026/05/02/pentagon-freezes-out-anthropic-as-it-signs-deals-with-ai-rivals/",
+          "angle": "Pentagon signs AI deals with seven firms, freezes out Anthropic",
+          "summary": "The US Defense Department announced partnerships with seven leading AI companies while notably excluding Anthropic, as military ramps up artificial intelligence capabilities for Iran conflict."
         }
       ],
       "sources": [
         "Reuters",
-        "SCMP",
-        "LA Times"
+        "Defense News"
       ],
       "urls": [
         "https://www.reuters.com/business/retail-consumer/pentagon-reaches-agreements-with-leading-ai-companies-2026-05-01/",
-        "https://www.scmp.com/news/us/economy-trade-business/article/3352199/us-pentagon-signs-ai-deals-google-nvidia-and-spacex-focus-lawful-use",
-        "https://www.latimes.com/business/story/2026-05-01/google-nvidia-other-tech-titans-sign-ai-deal-with-pentagon"
+        "https://www.defensenews.com/pentagon/2026/05/02/pentagon-freezes-out-anthropic-as-it-signs-deals-with-ai-rivals/"
       ]
     },
     {
@@ -2834,33 +2853,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/mexican-drugs-sinaloa-cartel-3313a6ca22d651df07ea8481dde71771",
       "timestamp": "2026-04-30T09:03:00+03:00"
-    },
-    {
-      "headline": "Trump and Putin Discuss Cease-Fire in Ukraine",
-      "summary": "President Trump and Russian President Vladimir Putin spoke about a potential temporary cease-fire in Ukraine, with Putin offering help on Iran but Trump pushing focus on Ukraine peace efforts.",
-      "emoji": "🇺🇸🇷🇺🇺🇦",
-      "category": "Diplomacy",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/29/world/europe/ukraine-russia-ceasefire-trump-putin.html",
-      "timestamp": "2026-04-30T09:03:00+03:00"
-    },
-    {
-      "headline": "South Korea to Lead Joint Maritime Drill With US for First Time",
-      "summary": "South Korea will lead multinational naval forces for the first time in a US-led maritime exercise starting in June, marking a significant step in defense cooperation amid regional tensions.",
-      "emoji": "🇰🇷🇺🇸⚓",
-      "category": "Asia-Pacific",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/asia-pacific/south-korea-to-lead-joint-maritime-drill-with-us-for-1st-time/3922362",
-      "timestamp": "2026-04-30T08:06:00+03:00"
-    },
-    {
-      "headline": "Japan Shares Guarded Mogami Warship Design With India in Defense Boost",
-      "summary": "Tokyo has offered Delhi the plans to its $500-million Mogami-class warship so that it can be built in India using local industry, marking a major defense technology transfer between the two nations.",
-      "emoji": "🇯🇵🇮🇳🚢",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/economics/article/3351945/why-japan-sharing-its-guarded-mogami-warship-design-india",
-      "timestamp": "2026-04-30T08:06:00+03:00"
     }
   ]
 }
