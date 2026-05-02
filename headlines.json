@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-05-02T18:07:10+03:00",
+  "lastUpdated": "2026-05-02T18:08:48+03:00",
   "headlines": [
+    {
+      "headline": "China Rejects US Sanctions on Refineries Over Iran Oil Links",
+      "summary": "Beijing's commerce ministry declared that China will not comply with US sanctions against five companies targeted for purchasing Iranian oil, escalating economic tensions between Washington and Beijing.",
+      "emoji": "🇨🇳",
+      "category": "US-China",
+      "source": "Al Arabiya",
+      "url": "https://english.alarabiya.net/News/middle-east/2026/05/02/china-rejects-us-sanctions-on-refineries-over-iran-oil-links",
+      "timestamp": "2026-05-02T18:07:00+03:00"
+    },
+    {
+      "headline": "Hezbollah's Fiber-Optic Drones Pose Challenge for Israel",
+      "summary": "The militant group is using cheap drones linked to their launch site by thin fiber-optic cables that can stretch for dozens of kilometers, making them difficult to detect and jam.",
+      "emoji": "🇮🇱",
+      "category": "Military",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3352209/hezbollahs-cheap-drones-pose-challenge-israel-childrens-toys",
+      "timestamp": "2026-05-02T18:07:00+03:00"
+    },
+    {
+      "headline": "Mali Probes Soldiers Collaborating with Jihadist Rebels",
+      "summary": "Malian authorities announced an investigation into military officers who allegedly collaborated with jihadist and separatist fighters who carried out coordinated attacks, highlighting internal security challenges.",
+      "emoji": "🇲🇱",
+      "category": "Africa",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/mali-probes-soldiers-working-with-rebels",
+      "timestamp": "2026-05-02T18:07:00+03:00"
+    },
     {
       "headline": "Former F1 Champion and Paralympic Gold Medalist Alex Zanardi Dies at 59",
       "summary": "The Italian racing driver who lost both legs in a 2001 crash and went on to win four Paralympic gold medals in hand cycling has died after years of health complications. He became a global symbol of resilience and determination.",
@@ -17,7 +44,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/iran-standoff-could-leave-trump-worse-off-than-before-he-went-war-2026-05-02/",
-      "timestamp": "2026-05-02T18:03:00+03:00"
+      "timestamp": "2026-05-02T18:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/trump-says-iran-war-terminated-war-powers-deadline-arrives-2026-05-01/",
+          "angle": "Trump Declares Iran War \"Terminated\" as War Powers Deadline Arrives",
+          "summary": "The White House says the ceasefire has \"terminated\" hostilities for the purposes of the congressional war powers deadline, as Trump huddles with military leaders over potential new strikes."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/iran-standoff-could-leave-trump-worse-off-than-before-he-went-war-2026-05-02/",
+        "https://www.reuters.com/world/asia-pacific/trump-says-iran-war-terminated-war-powers-deadline-arrives-2026-05-01/"
+      ]
     },
     {
       "headline": "Germany Focuses on Shared Interests After US Announces Troop Drawdown",
@@ -611,40 +654,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/uae-says-iran-cannot-be-trusted-over-hormuz-peace-efforts-an-impasse-2026-05-01/",
       "timestamp": "2026-05-02T03:05:00+03:00"
-    },
-    {
-      "headline": "Google, Nvidia and tech giants sign AI deals with Pentagon",
-      "summary": "Eight major tech companies including Google, Nvidia, SpaceX, Microsoft, Amazon and OpenAI have signed agreements with the Pentagon to deploy AI on classified military networks. The DoD aims to make the US military an \"AI-first fighting force.\"",
-      "emoji": "🤖🇺🇸⚔️",
-      "category": "Defense Industry",
-      "source": "LA Times",
-      "url": "https://www.latimes.com/business/story/2026-05-01/google-nvidia-other-tech-titans-sign-ai-deal-with-pentagon",
-      "timestamp": "2026-05-02T02:05:00+03:00"
-    },
-    {
-      "headline": "Trump Declares Iran War \"Terminated\" as War Powers Deadline Arrives",
-      "summary": "The White House says the ceasefire has \"terminated\" hostilities for the purposes of the congressional war powers deadline, as Trump huddles with military leaders over potential new strikes.",
-      "emoji": "🇺🇸🇮🇷⚖️",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/trump-says-iran-war-terminated-war-powers-deadline-arrives-2026-05-01/",
-      "timestamp": "2026-05-02T02:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/may/01/trump-iran-war-hostilities-letter",
-          "angle": "Trump tells Congress Iran war \"terminated,\" bypassing War Powers deadline",
-          "summary": "President Trump informed congressional leaders that hostilities with Iran have \"terminated\" during an ongoing ceasefire, arguing he no longer needs legislative approval under the 60-day War Powers Resolution deadline."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "The Guardian"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/trump-says-iran-war-terminated-war-powers-deadline-arrives-2026-05-01/",
-        "https://www.theguardian.com/world/2026/may/01/trump-iran-war-hostilities-letter"
-      ]
     },
     {
       "headline": "Russia Launches Record 400-Plus Drone Attack on Ukraine",
@@ -1297,19 +1306,27 @@
       "timestamp": "2026-05-01T17:00:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/pentagon-artificial-intelligence-military-classified-systems-war-060cecf836c4cebcf012a3ceb5333f2c",
-          "angle": "Pentagon seals AI deals with seven tech companies for classified systems",
-          "summary": "The Defense Department announced partnerships with seven major AI companies including NVIDIA, OpenAI, Microsoft, and Google to deploy artificial intelligence on classified military networks."
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/us/economy-trade-business/article/3352199/us-pentagon-signs-ai-deals-google-nvidia-and-spacex-focus-lawful-use",
+          "angle": "Pentagon Signs AI Deals with Google, Nvidia, SpaceX for Military Use",
+          "summary": "The US Defense Department has signed agreements with seven AI companies including Google, Nvidia, Microsoft, Amazon, and SpaceX to use advanced artificial intelligence tools in classified defense settings, raising concerns among some tech workers about autonomous weapons."
+        },
+        {
+          "source": "LA Times",
+          "url": "https://www.latimes.com/business/story/2026-05-01/google-nvidia-other-tech-titans-sign-ai-deal-with-pentagon",
+          "angle": "Google, Nvidia and tech giants sign AI deals with Pentagon",
+          "summary": "Eight major tech companies including Google, Nvidia, SpaceX, Microsoft, Amazon and OpenAI have signed agreements with the Pentagon to deploy AI on classified military networks. The DoD aims to make the US military an \"AI-first fighting force.\""
         }
       ],
       "sources": [
         "Reuters",
-        "AP News"
+        "SCMP",
+        "LA Times"
       ],
       "urls": [
         "https://www.reuters.com/business/retail-consumer/pentagon-reaches-agreements-with-leading-ai-companies-2026-05-01/",
-        "https://apnews.com/article/pentagon-artificial-intelligence-military-classified-systems-war-060cecf836c4cebcf012a3ceb5333f2c"
+        "https://www.scmp.com/news/us/economy-trade-business/article/3352199/us-pentagon-signs-ai-deals-google-nvidia-and-spacex-focus-lawful-use",
+        "https://www.latimes.com/business/story/2026-05-01/google-nvidia-other-tech-titans-sign-ai-deal-with-pentagon"
       ]
     },
     {
@@ -1693,27 +1710,19 @@
       "timestamp": "2026-05-01T09:10:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/italy-condemns-unlawful-israeli-interception-gaza-aid-flotilla-2026-04-30/",
-          "angle": "Italy Condemns Israeli Interception of Gaza Aid Flotilla",
-          "summary": "Italy condemned Israel seizure of aid ships bound for Gaza and demanded the release of Italians \"unlawfully detained,\" marking another diplomatic flashpoint over humanitarian access to the besieged territory."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/israel-begins-intercepting-gaza-aid-ships-far-shores-army-radio-says-2026-04-29/",
-          "angle": "Israel Intercepts Gaza Aid Ships Far From Shores",
-          "summary": "Israel has begun intercepting and taking control of humanitarian aid ships bound for Gaza far from Israeli shores, according to army radio, as a Gaza-bound flotilla approaches the region."
+          "source": "Al Arabiya",
+          "url": "https://english.alarabiya.net/News/middle-east/2026/05/02/spain-calls-israel-s-detention-of-citizen-from-gaza-flotilla-illegal-",
+          "angle": "Spain Condemns Israel's Detention of Spanish Activist from Gaza Flotilla",
+          "summary": "Spain's foreign minister condemned the 'illegal detention' of a Spanish activist who was taken to Israel after participating in a Gaza aid flotilla, demanding their immediate release."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters",
-        "Reuters"
+        "Al Arabiya"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/italy-condemns-unlawful-israeli-interception-gaza-aid-flotilla-2026-04-30/",
-        "https://www.reuters.com/world/middle-east/italy-condemns-unlawful-israeli-interception-gaza-aid-flotilla-2026-04-30/",
-        "https://www.reuters.com/world/middle-east/israel-begins-intercepting-gaza-aid-ships-far-shores-army-radio-says-2026-04-29/"
+        "https://english.alarabiya.net/News/middle-east/2026/05/02/spain-calls-israel-s-detention-of-citizen-from-gaza-flotilla-illegal-"
       ]
     },
     {
@@ -2831,60 +2840,6 @@
       "source": "Al Arabiya",
       "url": "https://english.alarabiya.net/News/middle-east/2026/04/29/three-police-officers-shot-dead-in-iran-s-restive-southeast",
       "timestamp": "2026-04-30T04:00:00+03:00"
-    },
-    {
-      "headline": "US Navy to Extend Service Life of USS Wasp Amphibious Assault Ship by 5 Years",
-      "summary": "The US Navy completed a study on extending the service life of Wasp-class amphibious assault ships and plans to extend the USS Wasp by five years amid heightened global operations.",
-      "emoji": "⚓",
-      "category": "Defense Industry",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/news/your-navy/2026/04/30/us-navy-to-extend-service-life-of-amphibious-assault-ship-uss-wasp-by-5-years/",
-      "timestamp": "2026-04-30T04:00:00+03:00"
-    },
-    {
-      "headline": "Hormuz Shipping Traffic Drops to Trickle as US-Iran Deadlock Deepens",
-      "summary": "Only six ships crossed the Strait of Hormuz in 24 hours as the US and Iran remain deadlocked over reopening the vital waterway, highlighting the severe impact of the blockade on global energy trade.",
-      "emoji": "🚢",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/hormuz-shipping-traffic-remains-trickle-us-iran-deadlock-deepens-2026-04-29/",
-      "timestamp": "2026-04-30T04:00:00+03:00"
-    },
-    {
-      "headline": "Chinese Hackers Spied on Cuban Embassy as US Prepared Blockade",
-      "summary": "A hacking campaign compromised emails of 68 officials including the Cuban ambassador, raising concerns about Chinese intelligence operations amid heightened US-Iran tensions.",
-      "emoji": "🇨🇳",
-      "category": "Cyber",
-      "source": "Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/04/30/world/politics/chinese-hackers-cuban-embassy-us-blockade/",
-      "timestamp": "2026-04-30T04:00:00+03:00"
-    },
-    {
-      "headline": "Powell Fed Era Bookended by Trump Draws to Close",
-      "summary": "Jerome Powell prepares to end his term as Fed chair, his legacy debated after navigating the Trump feud, COVID-19 response, and aggressive monetary policy shifts.",
-      "emoji": "🏦",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/powells-tenure-fed-chief-bookended-by-trump-draws-close-2026-04-29/",
-      "timestamp": "2026-04-30T04:00:00+03:00"
-    },
-    {
-      "headline": "USS Gerald R. Ford carrier ending record 300-day deployment",
-      "summary": "The world's largest aircraft carrier is heading home after a record-setting deployment that included the Iran war and the capture of Venezuelan leader Maduro, marking the longest carrier deployment since Vietnam.",
-      "emoji": "🚢⏱️",
-      "category": "Military",
-      "source": "AP News",
-      "url": "https://apnews.com/article/uss-ford-iran-war-record-deployment-61a40739b7792c24ac1476c110b0c9cc",
-      "timestamp": "2026-04-30T03:03:00+03:00"
-    },
-    {
-      "headline": "Brazil Senate rejects Lula Supreme Court nominee for first time in 132 years",
-      "summary": "Brazil's Senate rejected President Lula's Supreme Court nominee Jorge Messias in a 42-34 vote, the first rejection since 1894, dealing a political blow to the incumbent ahead of October elections.",
-      "emoji": "🇧🇷🏛️",
-      "category": "Latin America",
-      "source": "AP News",
-      "url": "https://apnews.com/article/brazil-supreme-court-justice-messias-lula-286e34ad39c13519dd2631d30268991d",
-      "timestamp": "2026-04-30T03:03:00+03:00"
     }
   ]
 }
