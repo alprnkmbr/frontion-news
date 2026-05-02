@@ -1,211 +1,236 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frontion News Headlines</title>
-    <link>https://frontion.com</link>
-    <description>Geopolitical news headlines curated by Frontion</description>
+    <link>https://frontion.news</link>
+    <description>Curated geopolitical news from Tier 1 sources</description>
     <language>en-us</language>
-    <lastBuildDate>2026-05-02T18:08:48+03:00</lastBuildDate>
-    <atom:link href="https://frontion.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sat, 02 May 2026 19:13:59 +0300</lastBuildDate>
+    <atom:link href="https://frontion.news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>🤖 Pentagon Signs AI Deals with Google, Nvidia, SpaceX for Military Use</title>
-      <description>The US Defense Department has signed agreements with seven AI companies including Google, Nvidia, Microsoft, Amazon, and SpaceX to use advanced artificial intelligence tools in classified defense settings, raising concerns among some tech workers about autonomous weapons.</description>
-      <link>https://www.scmp.com/news/us/economy-trade-business/article/3352199/us-pentagon-signs-ai-deals-google-nvidia-and-spacex-focus-lawful-use</link>
-      <category>Defense Industry</category>
-      <source url="https://www.scmp.com/news/us/economy-trade-business/article/3352199/us-pentagon-signs-ai-deals-google-nvidia-and-spacex-focus-lawful-use">SCMP</source>
-      <pubDate>2026-05-02T18:07:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇨🇳 China Rejects US Sanctions on Refineries Over Iran Oil Links</title>
-      <description>Beijing's commerce ministry declared that China will not comply with US sanctions against five companies targeted for purchasing Iranian oil, escalating economic tensions between Washington and Beijing.</description>
-      <link>https://english.alarabiya.net/News/middle-east/2026/05/02/china-rejects-us-sanctions-on-refineries-over-iran-oil-links</link>
-      <category>US-China</category>
-      <source url="https://english.alarabiya.net/News/middle-east/2026/05/02/china-rejects-us-sanctions-on-refineries-over-iran-oil-links">Al Arabiya</source>
-      <pubDate>2026-05-02T18:07:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇪🇸 Spain Condemns Israel's Detention of Spanish Activist from Gaza Flotilla</title>
-      <description>Spain's foreign minister condemned the 'illegal detention' of a Spanish activist who was taken to Israel after participating in a Gaza aid flotilla, demanding their immediate release.</description>
-      <link>https://english.alarabiya.net/News/middle-east/2026/05/02/spain-calls-israel-s-detention-of-citizen-from-gaza-flotilla-illegal-</link>
-      <category>Middle East</category>
-      <source url="https://english.alarabiya.net/News/middle-east/2026/05/02/spain-calls-israel-s-detention-of-citizen-from-gaza-flotilla-illegal-">Al Arabiya</source>
-      <pubDate>2026-05-02T18:07:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇮🇱 Hezbollah's Fiber-Optic Drones Pose Challenge for Israel</title>
-      <description>The militant group is using cheap drones linked to their launch site by thin fiber-optic cables that can stretch for dozens of kilometers, making them difficult to detect and jam.</description>
-      <link>https://www.scmp.com/news/world/middle-east/article/3352209/hezbollahs-cheap-drones-pose-challenge-israel-childrens-toys</link>
-      <category>Military</category>
-      <source url="https://www.scmp.com/news/world/middle-east/article/3352209/hezbollahs-cheap-drones-pose-challenge-israel-childrens-toys">SCMP</source>
-      <pubDate>2026-05-02T18:07:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇲🇱 Mali Probes Soldiers Collaborating with Jihadist Rebels</title>
-      <description>Malian authorities announced an investigation into military officers who allegedly collaborated with jihadist and separatist fighters who carried out coordinated attacks, highlighting internal security challenges.</description>
-      <link>https://www.france24.com/en/mali-probes-soldiers-working-with-rebels</link>
-      <category>Africa</category>
-      <source url="https://www.france24.com/en/mali-probes-soldiers-working-with-rebels">France 24</source>
-      <pubDate>2026-05-02T18:07:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🏁 Former F1 Driver and Paralympic Champion Zanardi Dies at 59</title>
-      <description>Alex Zanardi, the former Formula One driver who became a Paralympic hand-cycling champion after losing both legs in a racing crash, has died at age 59.</description>
-      <link>https://www.reuters.com/sports/motor-racing-former-f1-driver-paralympic-champion-zanardi-dies-59-2026-05-02/</link>
-      <category>Sports</category>
-      <source url="https://www.reuters.com/sports/motor-racing-former-f1-driver-paralympic-champion-zanardi-dies-59-2026-05-02/">Reuters</source>
-      <pubDate>2026-05-02T17:30:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>⛽ Iran Standoff Could Leave Trump Worse Off Than Before War</title>
-      <description>The unresolved Iran conflict has failed to deliver a decisive military or diplomatic victory, darkening the president's political prospects as gas prices surge to levels not seen in years.</description>
-      <link>https://www.reuters.com/business/energy/iran-standoff-could-leave-trump-worse-off-than-before-he-went-war-2026-05-02/</link>
-      <category>US-Iran War</category>
-      <source url="https://www.reuters.com/business/energy/iran-standoff-could-leave-trump-worse-off-than-before-he-went-war-2026-05-02/">Reuters</source>
-      <pubDate>2026-05-02T17:15:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇩🇪 Germany Focuses on Shared Interests After US Announces Troop Drawdown</title>
-      <description>The German defense minister responded to the US plan to withdraw 5,000 troops from Germany, emphasizing the mutual benefits of the US military presence in Europe and calling for stronger European defense.</description>
-      <link>https://apnews.com/article/germany-trump-troops-nato-drawdown-pistorius-merz-a93151327dcb7279a56a36dd4bbeca1c</link>
-      <category>Europe</category>
-      <source url="https://apnews.com/article/germany-trump-troops-nato-drawdown-pistorius-merz-a93151327dcb7279a56a36dd4bbeca1c">AP News</source>
-      <pubDate>2026-05-02T17:00:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇪🇺 Europe Rattled by 'Disastrous Trend' as Trump Pulls 5,000 Troops from Germany</title>
-      <description>European officials expressed concern over the US troop withdrawal, with Germany's defense minister saying Europeans must assume more responsibility for their security while Poland's prime minister warned of troubling trends in transatlantic relations.</description>
-      <link>https://www.nbcnews.com/world/europe/europe-rattled-disastrous-trend-trump-pulls-5000-troops-germany-rcna343189</link>
-      <category>Europe</category>
-      <source url="https://www.nbcnews.com/world/europe/europe-rattled-disastrous-trend-trump-pulls-5000-troops-germany-rcna343189">NBC News</source>
-      <pubDate>2026-05-02T16:45:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>⛪ Pope Leo XIV Encourages Wealthy US Catholics to Keep Donating</title>
-      <description>The new pope addressed concerns about the US Church's financial direction, encouraging wealthy American Catholics to continue their philanthropic support amid questions about where their donations go.</description>
-      <link>https://www.cp24.com/news/world/2026/05/02/pope-leo-xiv-encourages-wealthy-us-catholics-to-keep-donating/</link>
-      <category>Vatican</category>
-      <source url="https://www.cp24.com/news/world/2026/05/02/pope-leo-xiv-encourages-wealthy-us-catholics-to-keep-donating/">CP24</source>
-      <pubDate>2026-05-02T16:30:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇮🇷 Nobel Laureate Mohammadi Hospitalized After Cardiac Crisis</title>
-      <description>Narges Mohammadi, the imprisoned Iranian Nobel Peace Prize laureate, was hospitalized following a cardiac crisis, according to her foundation, amid concerns about her health in detention.</description>
-      <link>https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-iran-hospital-after-cardiac-crisis-foundation-says-2026-05-02/</link>
-      <category>Human Rights</category>
-      <source url="https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-iran-hospital-after-cardiac-crisis-foundation-says-2026-05-02/">Reuters</source>
-      <pubDate>2026-05-02T16:15:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🛢️ Saudi Oil Prince's Iron Grip Faces Ultimate Test with UAE's Shock OPEC Move</title>
-      <description>Energy Minister Prince Abdulaziz bin Salman's dominance over oil markets faces its biggest challenge yet after the UAE's surprise OPEC announcement sent shockwaves through the industry.</description>
-      <link>https://www.reuters.com/business/energy/newsmaker-saudi-oil-princes-iron-grip-faces-ultimate-test-with-uaes-shock-opec-2026-05-01/</link>
-      <category>Energy</category>
-      <source url="https://www.reuters.com/business/energy/newsmaker-saudi-oil-princes-iron-grip-faces-ultimate-test-with-uaes-shock-opec-2026-05-01/">Reuters</source>
-      <pubDate>2026-05-01T18:00:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>⚽ Iran FA President Says He Was Allowed Into Canada, Chose to Turn Back</title>
-      <description>Mehdi Taj, the head of Iran's football federation, clarified that Canadian authorities granted him entry but he decided to return home, disputing earlier reports about being denied entry.</description>
-      <link>https://www.reuters.com/sports/soccer/iran-fa-president-says-he-was-allowed-enter-canada-chose-turn-back-2026-05-01/</link>
-      <category>Sports</category>
-      <source url="https://www.reuters.com/sports/soccer/iran-fa-president-says-he-was-allowed-enter-canada-chose-turn-back-2026-05-01/">Reuters</source>
-      <pubDate>2026-05-01T17:30:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇾🇪 Yemen Says Oil Tanker Hijacked Off Shabwa Coast Headed to Somali Waters</title>
-      <description>Yemeni authorities reported that an oil tanker hijacked off the Shabwa coast is heading towards Somali waters, raising concerns about maritime security in the region.</description>
-      <link>https://english.alarabiya.net/News/middle-east/2026/05/02/yemen-says-oil-tanker-hijacked-off-shabwa-coast-heads-towards-somali-waters</link>
-      <category>Middle East</category>
-      <source url="https://english.alarabiya.net/News/middle-east/2026/05/02/yemen-says-oil-tanker-hijacked-off-shabwa-coast-heads-towards-somali-waters">Al Arabiya</source>
-      <pubDate>2026-05-02T15:00:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇮🇳 India's Logistics Pact with Russia Signals Arctic Footprint Ambition</title>
-      <description>New Delhi's agreement with Moscow on logistics and support signals India's growing interest in establishing presence in the resource-rich Arctic region as global power dynamics shift.</description>
-      <link>https://www.scmp.com/week-asia/politics/article/3352147/why-indias-logistics-pact-russia-signals-its-arctic-footprint-ambition</link>
-      <category>Arctic</category>
-      <source url="https://www.scmp.com/week-asia/politics/article/3352147/why-indias-logistics-pact-russia-signals-its-arctic-footprint-ambition">SCMP</source>
-      <pubDate>2026-05-02T14:30:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇹🇼 Taiwanese Opposition Leader Eyes US Trip in June</title>
-      <description>Beijing is counting its gains after Taiwanese opposition figure Cheng Li-wun announced plans for a US visit in June, a move that could affect cross-strait relations.</description>
-      <link>https://www.scmp.com/news/china/politics/article/3352159/counting-gains-beijing-taiwanese-opposition-leader-cheng-li-wun-eyes-us-trip-june</link>
-      <category>US-China</category>
-      <source url="https://www.scmp.com/news/china/politics/article/3352159/counting-gains-beijing-taiwanese-opposition-leader-cheng-li-wun-eyes-us-trip-june">SCMP</source>
-      <pubDate>2026-05-02T14:00:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇺🇸 Iran War Two Months In: No Clear Winner Yet</title>
-      <description>As the US-Iran conflict enters its third month, the war has failed to produce a decisive military or diplomatic victory, with both sides locked in a standoff that continues to affect global oil markets.</description>
-      <link>https://www.cnn.com/2026/05/02/world/iran-war-two-month-loser-intl</link>
-      <category>US-Iran War</category>
-      <source url="https://www.cnn.com/2026/05/02/world/iran-war-two-month-loser-intl">CNN</source>
-      <pubDate>2026-05-02T13:30:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>⚔️ Trump Likens US Naval Actions in Iran Blockade to Piracy</title>
-      <description>President Trump compared American naval operations during the Iran blockade to acts of piracy, defending the administration's approach to the ongoing conflict with Tehran.</description>
-      <link>https://www.dailysabah.com/world/mid-east/trump-likens-us-naval-actions-in-iran-blockade-to-piracy</link>
-      <category>US-Iran War</category>
-      <source url="https://www.dailysabah.com/world/mid-east/trump-likens-us-naval-actions-in-iran-blockade-to-piracy">Daily Sabah</source>
-      <pubDate>2026-05-02T13:00:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇫🇷 Illegal Rave Draws 20,000 to Dangerous Military Site in France</title>
-      <description>French authorities are struggling to manage an unauthorized gathering of approximately 20,000 people at a hazardous military site, raising safety concerns.</description>
-      <link>https://www.france24.com/en/live-news/20260502-illegal-rave-draws-20-000-to-dangerous-military-site-in-france</link>
-      <category>Europe</category>
-      <source url="https://www.france24.com/en/live-news/20260502-illegal-rave-draws-20-000-to-dangerous-military-site-in-france">France 24</source>
-      <pubDate>2026-05-02T12:30:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇨🇳 Trump Insists China Trip Will Go Ahead as Planned</title>
-      <description>President Trump reaffirmed that his planned China visit will proceed, saying it will be "amazing," despite ongoing tensions between Washington and Beijing over various issues.</description>
-      <link>https://www.scmp.com/news/china/diplomacy/article/3352220/china-trip-will-go-ahead-planned-and-it-will-be-amazing-trump-insists</link>
+      <title>NATO seeks clarification from US on Germany troop withdrawal</title>
+      <link>https://www.reuters.com/world/nato-working-with-us-understand-details-troop-reduction-germany-2026-05-02/</link>
+      <description>NATO is working with the United States to understand details of the planned drawdown of 5,000 US troops from Germany, a spokesperson said, as the alliance seeks clarity on implications for European security.</description>
       <category>Diplomacy</category>
-      <source url="https://www.scmp.com/news/china/diplomacy/article/3352220/china-trip-will-go-ahead-planned-and-it-will-be-amazing-trump-insists">SCMP</source>
-      <pubDate>2026-05-02T12:00:00+03:00</pubDate>
+      <dc:creator>Reuters</dc:creator>
+      <pubDate>Sat, 02 May 2026 19:12:00 +0300</pubDate>
+      <guid>https://www.reuters.com/world/nato-working-with-us-understand-details-troop-reduction-germany-2026-05-02/</guid>
     </item>
     <item>
-      <title>📱 Meta Faces New Mexico Trial That Could Force Changes to Facebook, Other Platforms</title>
-      <description>A legal battle in New Mexico could force significant changes to Meta's platforms including Facebook, as the trial examines allegations about harmful content and platform responsibility.</description>
-      <link>https://www.channelnewsasia.com/business/meta-faces-new-mexico-trial-could-force-changes-facebook-other-platforms-6095951</link>
-      <category>Technology</category>
-      <source url="https://www.channelnewsasia.com/business/meta-faces-new-mexico-trial-could-force-changes-facebook-other-platforms-6095951">Channel News Asia</source>
-      <pubDate>2026-05-02T11:30:00+03:00</pubDate>
+      <title>US and Philippines deploy anti-ship missiles near Taiwan in war games</title>
+      <link>https://www.reuters.com/world/asia-pacific/us-philippines-deploy-anti-ship-missile-system-batanes-near-taiwan-war-games-2026-05-02/</link>
+      <description>Philippine and US forces showcased the NMESIS anti-ship missile system in Batanes province during annual military exercises, highlighting escalating tensions in the Taiwan Strait as China claims the self-governed island.</description>
+      <category>Asia-Pacific</category>
+      <dc:creator>Reuters</dc:creator>
+      <pubDate>Sat, 02 May 2026 19:12:00 +0300</pubDate>
+      <guid>https://www.reuters.com/world/asia-pacific/us-philippines-deploy-anti-ship-missile-system-batanes-near-taiwan-war-games-2026-05-02/</guid>
     </item>
     <item>
-      <title>✈️ Czechia Allows Fico's Moscow Flight as Neighbors Close Airspace for Victory Day</title>
-      <description>Slovak Prime Minister Robert Fico will travel to Moscow for Russia's Victory Day celebrations, with Czech authorities permitting the flight while other European nations have closed their airspace to Russian-connected travel.</description>
-      <link>https://kyivindependent.com/czechia-allows-ficos-moscow-flight-as-neighbors-close-airspace-for-victory-day/</link>
+      <title>OPEC+ agrees to raise oil output targets despite Hormuz disruption</title>
+      <link>https://www.reuters.com/business/energy/opec-agrees-principle-small-oil-output-quota-hike-without-uae-sources-say-2026-05-02/</link>
+      <description>OPEC+ has agreed in principle to raise oil output targets in June, but the increase will remain largely theoretical as the US-Iran war continues to disrupt Gulf oil supplies through the Strait of Hormuz.</description>
+      <category>Energy</category>
+      <dc:creator>Reuters</dc:creator>
+      <pubDate>Sat, 02 May 2026 19:12:00 +0300</pubDate>
+      <guid>https://www.reuters.com/business/energy/opec-agrees-principle-small-oil-output-quota-hike-without-uae-sources-say-2026-05-02/</guid>
+    </item>
+    <item>
+      <title>Jailed Iranian Nobel laureate in critical condition after cardiac crisis</title>
+      <link>https://www.npr.org/2026/05/02/nx-s1-5808841/jailed-iranian-nobel-prize-winner-critical-condition</link>
+      <description>Narges Mohammadi, the 2023 Nobel Peace Prize winner imprisoned in Iran, was hospitalized after collapsing in prison with a severe cardiac condition. The Norwegian Nobel Committee called for her immediate release.</description>
+      <category>Middle East</category>
+      <dc:creator>NPR</dc:creator>
+      <pubDate>Sat, 02 May 2026 19:12:00 +0300</pubDate>
+      <guid>https://www.npr.org/2026/05/02/nx-s1-5808841/jailed-iranian-nobel-prize-winner-critical-condition</guid>
+    </item>
+    <item>
+      <title>China Rejects US Sanctions on Refineries Over Iran Oil Links</title>
+      <link>https://english.alarabiya.net/News/middle-east/2026/05/02/china-rejects-us-sanctions-on-refineries-over-iran-oil-links</link>
+      <description>Beijing's commerce ministry declared that China will not comply with US sanctions against five companies targeted for purchasing Iranian oil, escalating economic tensions between Washington and Beijing.</description>
+      <category>US-China</category>
+      <dc:creator>Al Arabiya</dc:creator>
+      <pubDate>Sat, 02 May 2026 18:07:00 +0300</pubDate>
+      <guid>https://english.alarabiya.net/News/middle-east/2026/05/02/china-rejects-us-sanctions-on-refineries-over-iran-oil-links</guid>
+    </item>
+    <item>
+      <title>Hezbollah's Fiber-Optic Drones Pose Challenge for Israel</title>
+      <link>https://www.scmp.com/news/world/middle-east/article/3352209/hezbollahs-cheap-drones-pose-challenge-israel-childrens-toys</link>
+      <description>The militant group is using cheap drones linked to their launch site by thin fiber-optic cables that can stretch for dozens of kilometers, making them difficult to detect and jam.</description>
+      <category>Military</category>
+      <dc:creator>SCMP</dc:creator>
+      <pubDate>Sat, 02 May 2026 18:07:00 +0300</pubDate>
+      <guid>https://www.scmp.com/news/world/middle-east/article/3352209/hezbollahs-cheap-drones-pose-challenge-israel-childrens-toys</guid>
+    </item>
+    <item>
+      <title>Mali Probes Soldiers Collaborating with Jihadist Rebels</title>
+      <link>https://www.france24.com/en/mali-probes-soldiers-working-with-rebels</link>
+      <description>Malian authorities announced an investigation into military officers who allegedly collaborated with jihadist and separatist fighters who carried out coordinated attacks, highlighting internal security challenges.</description>
+      <category>Africa</category>
+      <dc:creator>France 24</dc:creator>
+      <pubDate>Sat, 02 May 2026 18:07:00 +0300</pubDate>
+      <guid>https://www.france24.com/en/mali-probes-soldiers-working-with-rebels</guid>
+    </item>
+    <item>
+      <title>Former F1 Champion and Paralympic Gold Medalist Alex Zanardi Dies at 59</title>
+      <link>https://www.reuters.com/sports/motor-racing-former-f1-driver-paralympic-champion-zanardi-dies-59-2026-05-02/</link>
+      <description>The Italian racing driver who lost both legs in a 2001 crash and went on to win four Paralympic gold medals in hand cycling has died after years of health complications. He became a global symbol of resilience and determination.</description>
       <category>Europe</category>
-      <source url="https://kyivindependent.com/czechia-allows-ficos-moscow-flight-as-neighbors-close-airspace-for-victory-day/">Kyiv Independent</source>
-      <pubDate>2026-05-02T11:00:00+03:00</pubDate>
+      <dc:creator>Reuters</dc:creator>
+      <pubDate>Sat, 02 May 2026 18:03:00 +0300</pubDate>
+      <guid>https://www.reuters.com/sports/motor-racing-former-f1-driver-paralympic-champion-zanardi-dies-59-2026-05-02/</guid>
     </item>
     <item>
-      <title>🇺🇦 Ukraine Update: Czechia Allows Fico's Moscow Flight as Neighbors Close Airspace</title>
-      <description>Slovak PM Robert Fico's planned visit to Moscow for Victory Day highlights divisions within Europe over Russia, with some countries blocking such travel while others permit it.</description>
-      <link>https://kyivindependent.com/czechia-allows-ficos-moscow-flight-as-neighbors-close-airspace-for-victory-day/</link>
-      <category>Ukraine-Russia War</category>
-      <source url="https://kyivindependent.com/czechia-allows-ficos-moscow-flight-as-neighbors-close-airspace-for-victory-day/">Kyiv Independent</source>
-      <pubDate>2026-05-02T10:30:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇮🇷 Iran's 'New Legal Rules' in Strait of Hormuz as Trump Calls Tehran 'Lunatic'</title>
-      <description>Iran announced new legal regulations governing the Strait of Hormuz while President Trump continued his harsh rhetoric against Tehran, calling the Iranian leadership 'lunatic' amid ongoing tensions.</description>
-      <link>https://www.msn.com/en-in/news/world/us-iran-war-news-live-iran-announces-new-legal-rules-in-strait-of-hormuz-trump-calls-tehran-lunatic/ar-AA22csJi</link>
+      <title>Iran Standoff Could Leave Trump Worse Off Than Before He Went to War</title>
+      <link>https://www.reuters.com/business/energy/iran-standoff-could-leave-trump-worse-off-than-before-he-went-war-2026-05-02/</link>
+      <description>Analysis finds the unresolved conflict is driving up US gas prices without delivering a decisive military or diplomatic win, potentially harming Trump's political prospects.</description>
       <category>US-Iran War</category>
-      <source url="https://www.msn.com/en-in/news/world/us-iran-war-news-live-iran-announces-new-legal-rules-in-strait-of-hormuz-trump-calls-tehran-lunatic/ar-AA22csJi">MSN</source>
-      <pubDate>2026-05-02T10:00:00+03:00</pubDate>
+      <dc:creator>Reuters</dc:creator>
+      <pubDate>Sat, 02 May 2026 18:03:00 +0300</pubDate>
+      <guid>https://www.reuters.com/business/energy/iran-standoff-could-leave-trump-worse-off-than-before-he-went-war-2026-05-02/</guid>
     </item>
     <item>
-      <title>🇪🇺 NATO in Talks with US Over Troop Cuts</title>
-      <description>NATO says it is working with the United States to understand the decision to withdraw 5,000 troops from Germany, as alliance members assess the implications for European security.</description>
-      <link>https://www.france24.com/en/nato-in-talks-with-us-over-troops-cuts</link>
+      <title>Germany Downplays US Troop Cuts as Europe Faces New Defense Reality</title>
+      <link>https://apnews.com/article/germany-trump-troops-nato-drawdown-pistorius-merz-a93151327dcb7279a56a36dd4bbeca1c</link>
+      <description>Germany's defense minister says the planned withdrawal of 5,000 US troops should spur Europeans to take more responsibility for their own security, while NATO allies express concern about the timing amid Iran tensions.</description>
       <category>Europe</category>
-      <source url="https://www.france24.com/en/nato-in-talks-with-us-over-troops-cuts">France 24</source>
-      <pubDate>2026-05-02T09:30:00+03:00</pubDate>
+      <dc:creator>AP News</dc:creator>
+      <pubDate>Sat, 02 May 2026 17:56:00 +0300</pubDate>
+      <guid>https://apnews.com/article/germany-trump-troops-nato-drawdown-pistorius-merz-a93151327dcb7279a56a36dd4bbeca1c</guid>
+    </item>
+    <item>
+      <title>Europe Rattled by 'Disastrous Trend' as Trump Pulls 5,000 Troops from Germany</title>
+      <link>https://www.nbcnews.com/world/europe/europe-rattled-disastrous-trend-trump-pulls-5000-troops-germany-rcna343189</link>
+      <description>European leaders call for stronger defense cooperation as the Pentagon announces troop reductions that will bring US forces in Europe back to pre-2022 levels before Russia's invasion of Ukraine.</description>
+      <category>Europe</category>
+      <dc:creator>NBC News</dc:creator>
+      <pubDate>Sat, 02 May 2026 17:56:00 +0300</pubDate>
+      <guid>https://www.nbcnews.com/world/europe/europe-rattled-disastrous-trend-trump-pulls-5000-troops-germany-rcna343189</guid>
+    </item>
+    <item>
+      <title>Pope Leo XIV Urges Wealthy US Catholics to Keep Donating</title>
+      <link>https://www.cp24.com/news/world/2026/05/02/pope-leo-xiv-encourages-wealthy-us-catholics-to-keep-donating/</link>
+      <description>The new pontiff addressed American Catholic donors amid concerns about financial pressures on the Church and the global economic uncertainty caused by the Middle East conflict.</description>
+      <category>Diplomacy</category>
+      <dc:creator>CP24</dc:creator>
+      <pubDate>Sat, 02 May 2026 17:56:00 +0300</pubDate>
+      <guid>https://www.cp24.com/news/world/2026/05/02/pope-leo-xiv-encourages-wealthy-us-catholics-to-keep-donating/</guid>
+    </item>
+    <item>
+      <title>Imprisoned Iranian Nobel Laureate Hospitalized After Cardiac Crisis</title>
+      <link>https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-iran-hospital-after-cardiac-crisis-foundation-says-2026-05-02/</link>
+      <description>Narges Mohammadi, the 2023 Nobel Peace Prize winner jailed in Iran, was rushed to hospital after a severe cardiac episode. The Norwegian Nobel Committee head says her life is in Iran's hands.</description>
+      <category>Middle East</category>
+      <dc:creator>Reuters</dc:creator>
+      <pubDate>Sat, 02 May 2026 17:56:00 +0300</pubDate>
+      <guid>https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-iran-hospital-after-cardiac-crisis-foundation-says-2026-05-02/</guid>
+    </item>
+    <item>
+      <title>Saudi Energy Minister Faces Ultimate Test After UAE's Shock OPEC Exit</title>
+      <link>https://www.reuters.com/business/energy/newsmaker-saudi-oil-princes-iron-grip-faces-ultimate-test-with-uaes-shock-opec-2026-05-01/</link>
+      <description>Prince Abdulaziz bin Salman now faces the dual challenge of managing OPEC cohesion after the UAE's departure while navigating the largest-ever disruption to global oil supplies from the Hormuz closure.</description>
+      <category>Energy</category>
+      <dc:creator>Reuters</dc:creator>
+      <pubDate>Sat, 02 May 2026 12:08:00 +0300</pubDate>
+      <guid>https://www.reuters.com/business/energy/newsmaker-saudi-oil-princes-iron-grip-faces-ultimate-test-with-uaes-shock-opec-2026-05-01/</guid>
+    </item>
+    <item>
+      <title>Iran Football Chief Barred from Canada, Chooses to Return Home</title>
+      <link>https://www.reuters.com/sports/soccer/iran-fa-president-says-he-was-allowed-enter-canada-chose-turn-back-2026-05-01/</link>
+      <description>Iran's football association president said he was permitted to enter Canada but decided to return to Iran, amid tensions between Tehran and Western nations following the US-Iran conflict.</description>
+      <category>Diplomacy</category>
+      <dc:creator>Reuters</dc:creator>
+      <pubDate>Sat, 02 May 2026 12:08:00 +0300</pubDate>
+      <guid>https://www.reuters.com/sports/soccer/iran-fa-president-says-he-was-allowed-enter-canada-chose-turn-back-2026-05-01/</guid>
+    </item>
+    <item>
+      <title>Yemen Reports Oil Tanker Hijacked Off Shabwa Coast</title>
+      <link>https://english.alarabiya.net/News/middle-east/2026/05/02/yemen-says-oil-tanker-hijacked-off-shabwa-coast-heads-towards-somali-waters</link>
+      <description>Yemeni authorities say an oil tanker was seized by armed men off the country's southern coast and is heading toward Somali waters, raising concerns about maritime security in the region.</description>
+      <category>Middle East</category>
+      <dc:creator>Al Arabiya</dc:creator>
+      <pubDate>Sat, 02 May 2026 12:08:00 +0300</pubDate>
+      <guid>https://english.alarabiya.net/News/middle-east/2026/05/02/yemen-says-oil-tanker-hijacked-off-shabwa-coast-heads-towards-somali-waters</guid>
+    </item>
+    <item>
+      <title>India's Logistics Pact with Russia Signals Arctic Ambitions</title>
+      <link>https://www.scmp.com/week-asia/politics/article/3352147/why-indias-logistics-pact-russia-signals-its-arctic-footprint-ambition</link>
+      <description>New Delhi's growing defense cooperation with Moscow extends to the Arctic, where India seeks to establish a strategic presence as climate change opens new shipping routes and resource opportunities.</description>
+      <category>Arctic</category>
+      <dc:creator>SCMP</dc:creator>
+      <pubDate>Sat, 02 May 2026 12:08:00 +0300</pubDate>
+      <guid>https://www.scmp.com/week-asia/politics/article/3352147/why-indias-logistics-pact-russia-signals-its-arctic-footprint-ambition</guid>
+    </item>
+    <item>
+      <title>Taiwan Opposition Leader Eyes US Trip Amid Regional Tensions</title>
+      <link>https://www.scmp.com/news/china/politics/article/3352159/counting-gains-beijing-taiwanese-opposition-leader-cheng-li-wun-eyes-us-trip-june</link>
+      <description>Taiwanese opposition figure Cheng Li-wun is planning a June visit to the United States as Beijing watches closely amid heightened cross-strait tensions and the broader US-China rivalry.</description>
+      <category>Asia-Pacific</category>
+      <dc:creator>SCMP</dc:creator>
+      <pubDate>Sat, 02 May 2026 12:08:00 +0300</pubDate>
+      <guid>https://www.scmp.com/news/china/politics/article/3352159/counting-gains-beijing-taiwanese-opposition-leader-cheng-li-wun-eyes-us-trip-june</guid>
+    </item>
+    <item>
+      <title>US Warns Shipping Firms on Iran 'Toll' Payments for Hormuz Transit</title>
+      <link>https://apnews.com/article/iran-us-war-ceasefire-negotiations-strait-9317c11e51ba8dfa527b424f931fe04b</link>
+      <description>The State Department cautioned that companies paying Iran for safe passage through the Strait of Hormuz could face sanctions, as Tehran demands fees from vessels transiting the strategic waterway.</description>
+      <category>US-Iran War</category>
+      <dc:creator>AP News</dc:creator>
+      <pubDate>Sat, 02 May 2026 11:49:00 +0300</pubDate>
+      <guid>https://apnews.com/article/iran-us-war-ceasefire-negotiations-strait-9317c11e51ba8dfa527b424f931fe04b</guid>
+    </item>
+    <item>
+      <title>Two Months of Iran War Leaves Both Sides Seeking Exit</title>
+      <link>https://www.cnn.com/2026/05/02/world/iran-war-two-month-loser-intl</link>
+      <description>Analysis of the two-month conflict shows neither the US nor Iran has achieved decisive gains, with both sides now seeking an off-ramp amid mounting economic costs and military stalemate.</description>
+      <category>US-Iran War</category>
+      <dc:creator>CNN</dc:creator>
+      <pubDate>Sat, 02 May 2026 11:49:00 +0300</pubDate>
+      <guid>https://www.cnn.com/2026/05/02/world/iran-war-two-month-loser-intl</guid>
+    </item>
+    <item>
+      <title>US Troop Drawdown Highlights European Defense Responsibility</title>
+      <link>https://www.reuters.com/business/aerospace-defense/us-troop-drawback-underlines-european-defence-responsibility-german-minister-2026-05-02/</link>
+      <description>Germany's defense minister says the planned withdrawal should spur Europe to strengthen its own defenses, as transatlantic relations strain under Iran war disagreements and tariff disputes.</description>
+      <category>Europe</category>
+      <dc:creator>Reuters</dc:creator>
+      <pubDate>Sat, 02 May 2026 11:49:00 +0300</pubDate>
+      <guid>https://www.reuters.com/business/aerospace-defense/us-troop-drawback-underlines-european-defence-responsibility-german-minister-2026-05-02/</guid>
+    </item>
+    <item>
+      <title>Trump Likens US Naval Actions Against Iran to Piracy</title>
+      <link>https://www.dailysabah.com/world/mid-east/trump-likens-us-naval-actions-in-iran-blockade-to-piracy</link>
+      <description>President Trump compared American naval operations in the Iran blockade to piracy tactics, drawing criticism and confusion about the administration's strategy in the Persian Gulf.</description>
+      <category>US-Iran War</category>
+      <dc:creator>Daily Sabah</dc:creator>
+      <pubDate>Sat, 02 May 2026 11:49:00 +0300</pubDate>
+      <guid>https://www.dailysabah.com/world/mid-east/trump-likens-us-naval-actions-in-iran-blockade-to-piracy</guid>
+    </item>
+    <item>
+      <title>Israel Intercepts Gaza Flotilla, Spain Condemns 'Illegal Detention'</title>
+      <link>https://www.france24.com/en/middle-east/20260502-israel-brings-in-two-gaza-flotilla-activists-home-for-questioning-spain-slams-illegal-detention</link>
+      <description>Israel intercepted a Gaza-bound aid vessel in international waters and brought two activists in for questioning, prompting Spain to accuse Israel of 'illegal detention' of its citizens.</description>
+      <category>Middle East</category>
+      <dc:creator>France 24</dc:creator>
+      <pubDate>Sat, 02 May 2026 10:30:00 +0300</pubDate>
+      <guid>https://www.france24.com/en/middle-east/20260502-israel-brings-in-two-gaza-flotilla-activists-home-for-questioning-spain-slams-illegal-detention</guid>
+    </item>
+    <item>
+      <title>Trump Declares Iran War 'Terminated' as War Powers Deadline Passes</title>
+      <link>https://www.reuters.com/world/asia-pacific/white-house-says-iran-war-terminated-war-powers-deadline-arrives-2026-05-01/</link>
+      <description>The White House asserted that the ceasefire has 'terminated' hostilities for purposes of the congressional war powers deadline, as lawmakers debate the administration's authority to continue military operations.</description>
+      <category>US-Iran War</category>
+      <dc:creator>Reuters</dc:creator>
+      <pubDate>Fri, 02 May 2026 09:15:00 +0300</pubDate>
+      <guid>https://www.reuters.com/world/asia-pacific/white-house-says-iran-war-terminated-war-powers-deadline-arrives-2026-05-01/</guid>
+    </item>
+    <item>
+      <title>US Bypasses Congress for $8.6 Billion in Middle East Military Sales</title>
+      <link>https://www.reuters.com/world/middle-east/us-approves-military-sales-over-86-billion-middle-east-allies-2026-05-01/</link>
+      <description>The Trump administration approved major weapons sales to Israel, Qatar, Kuwait and the UAE without congressional review, citing national security interests amid ongoing Iran tensions.</description>
+      <category>Defense Industry</category>
+      <dc:creator>Reuters</dc:creator>
+      <pubDate>Fri, 02 May 2026 09:15:00 +0300</pubDate>
+      <guid>https://www.reuters.com/world/middle-east/us-approves-military-sales-over-86-billion-middle-east-allies-2026-05-01/</guid>
     </item>
   </channel>
 </rss>
