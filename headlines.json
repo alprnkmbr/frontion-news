@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-02T02:05:56+03:00",
+  "lastUpdated": "2026-05-02T03:04:38+03:00",
   "headlines": [
     {
-      "headline": "Taiwan tops Xi agenda in upcoming Trump-Beijing summit",
-      "summary": "Chinese President Xi Jinping has made Taiwan the top priority for his upcoming summit with Trump in Beijing, a shift from last year when he set the issue aside. China is pushing Trump to clarify he will not support Taiwan independence.",
-      "emoji": "🇨🇳🇺🇸🇹🇼",
-      "category": "US-China",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/05/02/2003856634",
-      "timestamp": "2026-05-02T02:05:00+03:00"
+      "headline": "US to Withdraw 5,000 Troops from Germany Amid Iran War Rift",
+      "summary": "The Pentagon announced the withdrawal of approximately 5,000 troops from Germany over the next 6-12 months, representing 14% of US forces stationed there. The move follows Chancellor Merz criticizing US strategy in Iran.",
+      "emoji": "🇩🇪🇺🇸",
+      "category": "Europe",
+      "source": "AP News",
+      "url": "https://apnews.com/article/trump-merz-germany-troops-withdrawal-nato-d37af7bcd1a97e265f3b3afd8aa65142",
+      "timestamp": "2026-05-02T03:05:00+03:00"
+    },
+    {
+      "headline": "Trump Raises Tariffs on EU Cars to 25%, Citing Trade Deal Violations",
+      "summary": "President Trump announced he will increase tariffs on cars and trucks from the European Union to 25% next week, up from the previously agreed 15%, accusing the bloc of not complying with the trade deal.",
+      "emoji": "🇪🇺🚗",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/autos-transportation/trump-says-he-will-raise-tariffs-eu-autos-25-2026-05-01/",
+      "timestamp": "2026-05-02T03:05:00+03:00"
+    },
+    {
+      "headline": "Trump Tells Congress Iran Hostilities Have Terminated, Bypassing War Powers Deadline",
+      "summary": "In a letter to Congress, Trump declared that hostilities with Iran have terminated, citing a ceasefire since April 7. The move aims to bypass the 60-day War Powers deadline requiring congressional authorization.",
+      "emoji": "⚖️🇮🇷",
+      "category": "US-Iran War",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/iran-war-60-day-authorization-threshold-trump-hegseth-congress-rcna343015",
+      "timestamp": "2026-05-02T03:05:00+03:00"
+    },
+    {
+      "headline": "US Gas Prices Hit Four-Year High at $4.39 Per Gallon",
+      "summary": "The national average for regular gasoline reached $4.39 per gallon, the highest level in four years. Prices have surged since the Iran war began, rising 21.2% in March alone.",
+      "emoji": "⛽📈",
+      "category": "Economy",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/news/world/2026/05/01/iran-war-costs-global-recession--live/89883004007/",
+      "timestamp": "2026-05-02T03:05:00+03:00"
+    },
+    {
+      "headline": "Trump Dissatisfied with Iran Peace Proposal, Says Leadership Disjointed",
+      "summary": "Trump expressed frustration with Irans latest peace proposal delivered via Pakistani mediators, saying Iranian leadership is very disjointed with tremendous discord among factions.",
+      "emoji": "🇮🇷🇵🇰",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/uae-says-iran-cannot-be-trusted-over-hormuz-peace-efforts-an-impasse-2026-05-01/",
+      "timestamp": "2026-05-02T03:05:00+03:00"
     },
     {
       "headline": "Hegseth orders withdrawal of 5,000 US troops from Germany",
@@ -35,7 +71,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/russia-pounds-ukraine-with-drones-daytime-attack-2026-05-01/",
-      "timestamp": "2026-05-02T02:03:00+03:00"
+      "timestamp": "2026-05-02T02:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/russia-pounds-ukraine-with-drones-daytime-attack-2026-05-01/",
+          "angle": "Russia Launches 400 Drones in Daytime Attack on Ukraine",
+          "summary": "Russia launched over 400 drones at Ukraine in a daytime attack, injuring 10 people in the western city of Ternopil. The mass assault marks one of the largest drone barrages of the war."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/russia-pounds-ukraine-with-drones-daytime-attack-2026-05-01/",
+        "https://www.reuters.com/world/europe/russia-pounds-ukraine-with-drones-daytime-attack-2026-05-01/"
+      ]
     },
     {
       "headline": "Trump Declares Iran War \"Terminated\" as War Powers Deadline Arrives",
@@ -44,7 +96,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/trump-says-iran-war-terminated-war-powers-deadline-arrives-2026-05-01/",
-      "timestamp": "2026-05-02T02:03:00+03:00"
+      "timestamp": "2026-05-02T02:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/white-house-says-iran-war-terminated-war-powers-deadline-arrives-2026-05-01/",
+          "angle": "White House Declares Iran War \"Terminated\" as War Powers Deadline Hits",
+          "summary": "The Trump administration told Congress the Iran war has been \"terminated\" as a legal deadline arrived requiring presidential notification. The move aims to avoid seeking congressional authorization."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/trump-says-iran-war-terminated-war-powers-deadline-arrives-2026-05-01/",
+        "https://www.reuters.com/world/asia-pacific/white-house-says-iran-war-terminated-war-powers-deadline-arrives-2026-05-01/"
+      ]
     },
     {
       "headline": "Ukraine Announces Army Reform Plan to Address Infantry Shortages",
@@ -53,7 +121,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/ukraine-rolls-out-army-reform-zelenskiy-says-2026-05-01/",
-      "timestamp": "2026-05-02T02:03:00+03:00"
+      "timestamp": "2026-05-02T02:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/ukraine-rolls-out-army-reform-zelenskiy-says-2026-05-01/",
+          "angle": "Ukraine Announces Army Reform as Peace Talks Stall",
+          "summary": "Ukraine unveiled plans to reform its army this summer to address infantry shortages and discharge long-serving soldiers, four years into the war with Russia as diplomatic efforts have stalled."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/ukraine-rolls-out-army-reform-zelenskiy-says-2026-05-01/",
+        "https://www.reuters.com/world/europe/ukraine-rolls-out-army-reform-zelenskiy-says-2026-05-01/"
+      ]
     },
     {
       "headline": "Investors Running Out of Time to Brace for Oil Price Shock",
@@ -62,7 +146,23 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/investors-are-running-out-time-brace-true-oil-shock-2026-05-01/",
-      "timestamp": "2026-05-02T02:03:00+03:00"
+      "timestamp": "2026-05-02T02:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/investors-are-running-out-time-brace-true-oil-shock-2026-05-01/",
+          "angle": "Investors Running Out of Time to Brace for Oil Shock",
+          "summary": "With markets focused on AI and hoping for a short-lived Iran war, investors have yet to prepare for a potential doubling of physical oil prices. The window to do so may soon be closing."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/investors-are-running-out-time-brace-true-oil-shock-2026-05-01/",
+        "https://www.reuters.com/business/energy/investors-are-running-out-time-brace-true-oil-shock-2026-05-01/"
+      ]
     },
     {
       "headline": "Iran War \"Supercharging\" Global Shift to Renewable Energy",
@@ -409,56 +509,6 @@
       "timestamp": "2026-05-01T22:04:00+03:00"
     },
     {
-      "headline": "Russia Launches 400 Drones in Daytime Attack on Ukraine",
-      "summary": "Russia launched over 400 drones at Ukraine in a daytime attack, injuring 10 people in the western city of Ternopil. The mass assault marks one of the largest drone barrages of the war.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/russia-pounds-ukraine-with-drones-daytime-attack-2026-05-01/",
-      "timestamp": "2026-05-01T22:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/russia-pounds-ukraine-with-drones-daytime-attack-2026-05-01/",
-          "angle": "Russia Launches 400+ Drones in Daytime Attack on Ukraine",
-          "summary": "Russia launched more than 400 drones at Ukraine in a daytime attack, injuring 10 people in the western city of Ternopil, marking one of the largest drone assaults of the war."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/russia-pounds-ukraine-with-drones-daytime-attack-2026-05-01/",
-        "https://www.reuters.com/world/europe/russia-pounds-ukraine-with-drones-daytime-attack-2026-05-01/"
-      ]
-    },
-    {
-      "headline": "White House Declares Iran War \"Terminated\" as War Powers Deadline Hits",
-      "summary": "The Trump administration told Congress the Iran war has been \"terminated\" as a legal deadline arrived requiring presidential notification. The move aims to avoid seeking congressional authorization.",
-      "emoji": "🏛️",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/white-house-says-iran-war-terminated-war-powers-deadline-arrives-2026-05-01/",
-      "timestamp": "2026-05-01T22:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/war-powers-resolution-purposes-us-hostilities-with-iran-that-began-february-have-2026-05-01/",
-          "angle": "US Official Says Iran Ceasefire Terminated Hostilities for War Powers Deadline",
-          "summary": "A senior Trump administration official declared that the US-Iran ceasefire that began in early April has terminated hostilities for the purposes of the congressional war powers deadline, which passed at midnight Thursday."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/white-house-says-iran-war-terminated-war-powers-deadline-arrives-2026-05-01/",
-        "https://www.reuters.com/world/middle-east/war-powers-resolution-purposes-us-hostilities-with-iran-that-began-february-have-2026-05-01/"
-      ]
-    },
-    {
       "headline": "Atlantic Alliance Creaks as US-Europe Split Deepens Over Iran",
       "summary": "US-European relations face strain after European reluctance to support the Iran campaign. NATO eastern flank nations continue training with US forces despite diplomatic tensions.",
       "emoji": "🇪🇺",
@@ -523,40 +573,6 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/autos-transportation/trump-says-he-will-raise-tariffs-eu-autos-25-2026-05-01/",
-      "timestamp": "2026-05-01T21:03:00+03:00"
-    },
-    {
-      "headline": "Ukraine Announces Army Reform as Peace Talks Stall",
-      "summary": "Ukraine unveiled plans to reform its army this summer to address infantry shortages and discharge long-serving soldiers, four years into the war with Russia as diplomatic efforts have stalled.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/ukraine-rolls-out-army-reform-zelenskiy-says-2026-05-01/",
-      "timestamp": "2026-05-01T21:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/ukraine-rolls-out-army-reform-zelenskiy-says-2026-05-01/",
-          "angle": "Ukraine launches army reform with higher military wages and contract changes",
-          "summary": "President Zelenskiy announced an \"army reform\" package including increased wages for military personnel, a strengthened contract system, and consideration of phased discharge for long-serving soldiers as Ukraine continues to fight Russia's invasion."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/ukraine-rolls-out-army-reform-zelenskiy-says-2026-05-01/",
-        "https://www.reuters.com/world/europe/ukraine-rolls-out-army-reform-zelenskiy-says-2026-05-01/"
-      ]
-    },
-    {
-      "headline": "Investors Running Out of Time to Brace for Oil Shock",
-      "summary": "With markets focused on AI and hoping for a short-lived Iran war, investors have yet to prepare for a potential doubling of physical oil prices. The window to do so may soon be closing.",
-      "emoji": "🛢️⚠️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/investors-are-running-out-time-brace-true-oil-shock-2026-05-01/",
       "timestamp": "2026-05-01T21:03:00+03:00"
     },
     {
@@ -2274,19 +2290,19 @@
       "timestamp": "2026-04-30T11:05:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/what-is-taiwan-independence-is-taiwan-already-independent-2026-04-29/",
-          "angle": "Trump-Xi Summit to Put Taiwan Independence at Center of Agenda",
-          "summary": "President Trump and Chinese President Xi Jinping will meet in Beijing next month for a summit where China is likely to make the issue of Taiwan independence a major part of the agenda. The meeting comes amid heightened tensions over the self-governing island."
+          "source": "Taipei Times",
+          "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/05/02/2003856634",
+          "angle": "Taiwan tops Xi agenda in upcoming Trump-Beijing summit",
+          "summary": "Chinese President Xi Jinping has made Taiwan the top priority for his upcoming summit with Trump in Beijing, a shift from last year when he set the issue aside. China is pushing Trump to clarify he will not support Taiwan independence."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "Taipei Times"
       ],
       "urls": [
         "https://www.reuters.com/world/china/taiwan-tops-beijings-agenda-trump-xi-summit-2026-04-29/",
-        "https://www.reuters.com/world/china/what-is-taiwan-independence-is-taiwan-already-independent-2026-04-29/"
+        "https://www.taipeitimes.com/News/taiwan/archives/2026/05/02/2003856634"
       ]
     },
     {
@@ -2877,49 +2893,6 @@
       "source": "MSN",
       "url": "https://www.msn.com/en-us/news/world/south-africa-to-deport-robert-mugabe-s-son-over-firearm-offence/ar-AA221EBt?ocid=BingNewsVerp",
       "timestamp": "2026-04-29T22:06:00+03:00"
-    },
-    {
-      "headline": "CNN Maps Strait of Hormuz Shipping Disruption",
-      "summary": "CNN published detailed visualizations showing how shipping traffic through the strategic Strait of Hormuz has collapsed since the US-Iran conflict began.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "CNN",
-      "url": "https://edition.cnn.com/2026/04/29/world/iran-war-gulf-hormuz-shipping-maps-intl-vis",
-      "timestamp": "2026-04-29T22:00:00+03:00"
-    },
-    {
-      "headline": "Ukraine Develops Private Air Defense Against Shahed Drones",
-      "summary": "Ukraine is building a private air defense network to counter Russian Shahed drone attacks as part of efforts to protect critical infrastructure.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/private-air-defence-takes-off-ukraine-2026-04-29/",
-      "timestamp": "2026-04-29T22:00:00+03:00"
-    },
-    {
-      "headline": "King Charles State Visit Aims to Repair Strained US-UK Ties",
-      "summary": "King Charles' courting of President Trump during his state visit underscores how London is playing a long game to repair frayed relations between the two allies. The visit comes amid deep divisions over the Iran war.",
-      "emoji": "🇬🇧🇺🇸",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/uk/kings-visit-us-shows-uk-playing-long-game-fixing-strained-ties-2026-04-29/",
-      "timestamp": "2026-04-29T21:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/king-charles-iii-trump-state-visit-3dbe93e7c379d5ef6fe08864db2f8a2c",
-          "angle": "King Charles III wins praise for deft handling of Trump during US state visit",
-          "summary": "The British monarch's four-day US visit was hailed as a success, with Trump praising the King after their meetings. Charles navigated potential pitfalls during the first state visit of a British monarch since the War of Independence."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/uk/kings-visit-us-shows-uk-playing-long-game-fixing-strained-ties-2026-04-29/",
-        "https://apnews.com/article/king-charles-iii-trump-state-visit-3dbe93e7c379d5ef6fe08864db2f8a2c"
-      ]
     }
   ]
 }
