@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-02T05:04:37+03:00",
+  "lastUpdated": "2026-05-02T06:08:23+03:00",
   "headlines": [
     {
-      "headline": "US to Withdraw 5,000 Troops from Germany Amid Iran War Dispute",
-      "summary": "The Pentagon announced the withdrawal of 5,000 troops from Germany in the next 6-12 months, 14% of the 36,000 US forces stationed there. The move follows Chancellor Merz criticizing the US lack of strategy in the Iran war.",
-      "emoji": "🇺🇸🇩🇪",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://apnews.com/article/trump-merz-germany-troops-withdrawal-nato-d37af7bcd1a97e265f3b3afd8aa65142",
-      "timestamp": "2026-05-02T05:15:00+03:00"
+      "headline": "Trump Calls US Navy Pirates Blockading Iranian Ports",
+      "summary": "President Trump defended the naval blockade of Iranian ports, comparing US actions to piracy, as Iran continues to block commercial traffic through the Strait of Hormuz. The blockade has disrupted 20% of global oil and LNG shipments.",
+      "emoji": "⚔️",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/trump-says-us-navy-acting-like-pirates-carry-out-naval-blockade-iranian-ports-2026-05-02/",
+      "timestamp": "2026-05-02T06:03:00+03:00"
+    },
+    {
+      "headline": "US Bypasses Congress for $8.6 Billion Middle East Arms Sales",
+      "summary": "The Trump administration bypassed congressional review to approve military sales exceeding $8.6 billion to Israel, Qatar, Kuwait, and the UAE, citing urgent regional security needs amid the Iran conflict.",
+      "emoji": "💰",
+      "category": "Military",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-approves-military-sales-over-86-billion-middle-east-allies-2026-05-01/",
+      "timestamp": "2026-05-02T06:03:00+03:00"
+    },
+    {
+      "headline": "US Court Blocks Mail-Order Access to Abortion Drugs",
+      "summary": "A US appeals court temporarily blocked a federal rule allowing the abortion drug mifepristone to be dispensed by mail, significantly curtailing access nationwide, particularly in states that have banned abortion.",
+      "emoji": "🏛️",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us-court-blocks-mail-order-access-abortion-drugs-now-2026-05-01/",
+      "timestamp": "2026-05-02T06:03:00+03:00"
+    },
+    {
+      "headline": "Guardian: Ukraine Strikes Russian Oil Hub for Fourth Time",
+      "summary": "Ukrainian drones struck the Russian oil refinery in Tuapse on the Black Sea for the fourth time, causing toxic clouds and oil slicks along the resort coastline, as Kyiv announced army reforms.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/02/ukraine-war-briefing-russian-oil-hub-of-tuapse-hit-for-fourth-time-as-environmental-disaster-mounts",
+      "timestamp": "2026-05-02T06:03:00+03:00"
+    },
+    {
+      "headline": "Iranian Crypto Exchange Linked to IRGC Sanctions Evasion",
+      "summary": "Reuters investigation reveals that Nobitex, Iran's largest cryptocurrency exchange founded by brothers from the elite Kharrazi family, has become a central node for moving funds beyond US sanctions, even during the current war.",
+      "emoji": "🇮🇷",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/investigations/one-irans-most-powerful-families-founded-its-largest-crypto-exchange-its-used-by-2026-05-01/",
+      "timestamp": "2026-05-02T06:03:00+03:00"
     },
     {
       "headline": "US Appeals Court Blocks Mail-Order Access to Abortion Pill Mifepristone",
@@ -26,7 +62,23 @@
       "category": "Economy",
       "source": "AP News",
       "url": "https://apnews.com/article/spirit-airlines-trump-bailout-bankruptcy-d42060b6a7bdac6ffc1d1e083af58f59",
-      "timestamp": "2026-05-02T05:10:00+03:00"
+      "timestamp": "2026-05-02T05:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Hill",
+          "url": "https://thehill.com/policy/transportation/5859903-spirit-airlines-preparing-to-shut-down-if-bailout-deal-isnt-reached-reports/",
+          "angle": "Spirit Airlines May Shut Down Without Bailout Deal",
+          "summary": "Spirit Airlines is preparing to potentially shut down operations if a bailout deal is not reached, with reports suggesting the shutdown could begin as early as Saturday."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "The Hill"
+      ],
+      "urls": [
+        "https://apnews.com/article/spirit-airlines-trump-bailout-bankruptcy-d42060b6a7bdac6ffc1d1e083af58f59",
+        "https://thehill.com/policy/transportation/5859903-spirit-airlines-preparing-to-shut-down-if-bailout-deal-isnt-reached-reports/"
+      ]
     },
     {
       "headline": "Japan PM Takaichi in Hanoi to Unveil New Indo-Pacific Strategy",
@@ -80,15 +132,6 @@
       "category": "Latin America",
       "source": "Anadolu Agency",
       "url": "https://www.aa.com.tr/en/americas/venezuela-s-acting-president-deflects-questions-about-elections/3924649",
-      "timestamp": "2026-05-02T04:00:00+03:00"
-    },
-    {
-      "headline": "Spirit Airlines May Shut Down Without Bailout Deal",
-      "summary": "Spirit Airlines is preparing to potentially shut down operations if a bailout deal is not reached, with reports suggesting the shutdown could begin as early as Saturday.",
-      "emoji": "✈️",
-      "category": "Economy",
-      "source": "The Hill",
-      "url": "https://thehill.com/policy/transportation/5859903-spirit-airlines-preparing-to-shut-down-if-bailout-deal-isnt-reached-reports/",
       "timestamp": "2026-05-02T04:00:00+03:00"
     },
     {
@@ -281,8 +324,8 @@
         {
           "source": "AP News",
           "url": "https://apnews.com/article/trump-merz-germany-troops-withdrawal-nato-d37af7bcd1a97e265f3b3afd8aa65142",
-          "angle": "US to Withdraw 5,000 Troops from Germany",
-          "summary": "The Pentagon announced the withdrawal of approximately 5,000 US troops from Germany over the next 6-12 months, as tensions between the Trump administration and European leaders widen over the Iran war."
+          "angle": "US to Withdraw 5,000 Troops from Germany Amid Iran War Dispute",
+          "summary": "The Pentagon announced the withdrawal of 5,000 troops from Germany in the next 6-12 months, 14% of the 36,000 US forces stationed there. The move follows Chancellor Merz criticizing the US lack of strategy in the Iran war."
         }
       ],
       "sources": [
