@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-03T09:06:07+03:00",
+  "lastUpdated": "2026-05-03T10:05:15+03:00",
   "headlines": [
+    {
+      "headline": "Trump pledges deeper US troop cuts in Germany beyond 5,000 withdrawal",
+      "summary": "President Trump announced the US would reduce troops in Germany significantly more than the planned 5,000 drawdown, escalating tensions with German Chancellor Friedrich Merz and straining NATO alliance ties already frayed by Iran war disputes.",
+      "emoji": "🇺🇸🇩🇪",
+      "category": "Europe",
+      "source": "AP News",
+      "url": "https://apnews.com/article/germany-trump-troops-nato-drawdown-pistorius-merz-a93151327dcb7279a56a36dd4bbeca1c",
+      "timestamp": "2026-05-03T10:03:00+03:00"
+    },
+    {
+      "headline": "Senior Republicans break with Trump over Germany troop withdrawal",
+      "summary": "Two top Republican lawmakers expressed concern about the Pentagon decision to withdraw 5,000 troops from Germany, highlighting bipartisan unease over the timing amid Iran war tensions and tariff disputes straining transatlantic relations.",
+      "emoji": "🇺🇸🇪🇺",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/top-republicans-express-concern-over-trump-plan-withdraw-troops-germany-2026-05-02/",
+      "timestamp": "2026-05-03T10:03:00+03:00"
+    },
+    {
+      "headline": "North Korea mobilizes youth for war effort alongside Russia",
+      "summary": "Kim Jong Un addressed the ruling party youth congress in Pyongyang, emphasizing young people central to domestic mobilization and North Korea military role in Russia war against Ukraine, as the two countries discuss long-term military cooperation through 2031.",
+      "emoji": "🇰🇵🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/north-koreas-kim-casts-youth-vanguard-state-goals-amid-russia-war-2026-05-02/",
+      "timestamp": "2026-05-03T10:03:00+03:00"
+    },
+    {
+      "headline": "Russia and Ukraine give conflicting accounts of Sumy village capture",
+      "summary": "Russia Defense Ministry claimed troops seized Myropillia village in Ukraines Sumy region, but Ukrainian military denied the village changed hands, as fighting continues along multiple fronts in the east.",
+      "emoji": "🇺🇦🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/russia-ukraine-give-conflicting-accounts-village-sumy-region-2026-05-02/",
+      "timestamp": "2026-05-03T10:03:00+03:00"
+    },
+    {
+      "headline": "China issues injunction blocking US sanctions on five refineries",
+      "summary": "Chinas Commerce Ministry moved to block US sanctions on five Chinese refiners accused of buying Iranian oil, issuing an injunction through state news agency Xinhua as Beijing pushes back against Washington pressure campaign.",
+      "emoji": "🇨🇳🇮🇷",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/chinas-commerce-ministry-blocks-us-sanctions-against-five-refineries-2026-05-02/",
+      "timestamp": "2026-05-03T10:03:00+03:00"
+    },
     {
       "headline": "Israeli Military Orders Evacuation of 11 Southern Lebanon Towns",
       "summary": "The Israeli military issued an urgent evacuation order for residents of 11 towns and villages in southern Lebanon, telling them to move at least 1,000 meters away from their homes amid ongoing operations against Hezbollah.",
@@ -8,25 +53,31 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/israeli-military-urges-southern-lebanon-residents-evacuate-amid-operations-2026-05-03/",
-      "timestamp": "2026-05-03T09:03:00+03:00"
-    },
-    {
-      "headline": "Germany Calls US Troop Withdrawal Foreseeable as Trump Threatens More Cuts",
-      "summary": "Germanys defence minister described the US decision to withdraw 5,000 troops from Germany as foreseeable, while Donald Trump warned he may reduce forces further. NATO and Republican lawmakers expressed concern about the move.",
-      "emoji": "🇩🇪",
-      "category": "Europe",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cd9pn541jjlo",
-      "timestamp": "2026-05-03T09:03:00+03:00"
-    },
-    {
-      "headline": "IDF orders evacuations for 11 southern Lebanon towns amid anti-Hezbollah operations",
-      "summary": "The Israeli military issued urgent evacuation warnings to residents of 11 towns and villages in southern Lebanon, telling them to move at least 1,000 meters away as operations against Hezbollah continue despite a fragile ceasefire.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Straits Times",
-      "url": "https://www.straitstimes.com/world/middle-east/israeli-military-urges-residents-of-multiple-towns-in-southern-lebanon-to-evacuate-amid-operations",
-      "timestamp": "2026-05-03T08:10:00+03:00"
+      "timestamp": "2026-05-03T09:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/world/middle-east/israeli-military-urges-residents-of-multiple-towns-in-southern-lebanon-to-evacuate-amid-operations",
+          "angle": "IDF orders evacuations for 11 southern Lebanon towns amid anti-Hezbollah operations",
+          "summary": "The Israeli military issued urgent evacuation warnings to residents of 11 towns and villages in southern Lebanon, telling them to move at least 1,000 meters away as operations against Hezbollah continue despite a fragile ceasefire."
+        },
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-ceasefire-f1eee1a81a4b1eb846efa1f400537c30",
+          "angle": "Israeli Airstrikes Kill 7 in Southern Lebanon Despite Ceasefire",
+          "summary": "Israeli airstrikes on southern Lebanon killed at least 7 people as hostilities continue between Israel and Hezbollah despite a ceasefire in place since April 17. Israels military carried out about 50 airstrikes over 24 hours targeting Hezbollah infrastructure."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Straits Times",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/israeli-military-urges-southern-lebanon-residents-evacuate-amid-operations-2026-05-03/",
+        "https://www.straitstimes.com/world/middle-east/israeli-military-urges-residents-of-multiple-towns-in-southern-lebanon-to-evacuate-amid-operations",
+        "https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-ceasefire-f1eee1a81a4b1eb846efa1f400537c30"
+      ]
     },
     {
       "headline": "US-Philippines Deploy Anti-Ship Missile System Near Taiwan in War Games",
@@ -988,39 +1039,6 @@
       "urls": [
         "https://www.reuters.com/world/us-withdrawing-5000-troops-germany-us-officials-say-2026-05-01/",
         "https://www.cbc.ca/news/world/us-troops-germany-withdraw-nato-trump-9.7185198"
-      ]
-    },
-    {
-      "headline": "Israeli Airstrikes Kill 7 in Southern Lebanon Despite Ceasefire",
-      "summary": "Israeli airstrikes on southern Lebanon killed at least 7 people as hostilities continue between Israel and Hezbollah despite a ceasefire in place since April 17. Israels military carried out about 50 airstrikes over 24 hours targeting Hezbollah infrastructure.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "AP News",
-      "url": "https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-ceasefire-f1eee1a81a4b1eb846efa1f400537c30",
-      "timestamp": "2026-05-02T14:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/iran-war-trump-says-reviewing-new-tehran-proposal-with-doubt/live-77021634",
-          "angle": "Israel strikes southern Lebanon as ceasefire violations continue",
-          "summary": "Israel carried out strikes across southern Lebanon on Saturday, killing several according to Lebanese state media. The Israeli military said it hit dozens of Hezbollah targets. Both sides continue to accuse each other of ceasefire violations, with Hezbollah claiming attacks on Israeli troops."
-        },
-        {
-          "source": "Middle East Eye",
-          "url": "https://www.middleeasteye.net/news/israel-accused-destroying-christian-convent-lebanon-latest-attacks-christians",
-          "angle": "Israel accused of destroying Christian convent in southern Lebanon",
-          "summary": "Church leaders warn of a growing pattern of Israeli attacks on Christian communities. A French Catholic charity condemned the destruction of the convent, part of broader civilian site targeting."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "DW",
-        "Middle East Eye"
-      ],
-      "urls": [
-        "https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-ceasefire-f1eee1a81a4b1eb846efa1f400537c30",
-        "https://www.dw.com/en/iran-war-trump-says-reviewing-new-tehran-proposal-with-doubt/live-77021634",
-        "https://www.middleeasteye.net/news/israel-accused-destroying-christian-convent-lebanon-latest-attacks-christians"
       ]
     },
     {
@@ -2725,27 +2743,19 @@
       "timestamp": "2026-04-30T23:03:00+03:00",
       "perspectives": [
         {
-          "source": "AsiaOne",
-          "url": "https://www.asiaone.com/world/trump-says-us-will-reduce-number-troops-germany-lot-further-withdrawal-5000",
-          "angle": "Trump says US troop cuts in Germany will go \"a lot further\" than 5,000",
-          "summary": "President Trump announced the US will reduce troop levels in Germany significantly beyond the initially announced 5,000 withdrawal, escalating tensions with Chancellor Merz amid disputes over the Iran war and tariff threats."
-        },
-        {
-          "source": "Korea Herald",
-          "url": "https://www.koreaherald.com/article/10730243",
-          "angle": "Trump says US will cut troops in Germany \"a lot further than 5,000\" amid NATO tensions",
-          "summary": "President Trump announced the US will reduce its troop presence in Germany beyond the announced 5,000 withdrawal, escalating strains with NATO allies. Germany's defense minister said the drawdown was expected while Republican lawmakers expressed concern about sending the wrong signal to Putin."
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cd9pn541jjlo",
+          "angle": "Germany Calls US Troop Withdrawal Foreseeable as Trump Threatens More Cuts",
+          "summary": "Germanys defence minister described the US decision to withdraw 5,000 troops from Germany as foreseeable, while Donald Trump warned he may reduce forces further. NATO and Republican lawmakers expressed concern about the move."
         }
       ],
       "sources": [
         "Reuters",
-        "AsiaOne",
-        "Korea Herald"
+        "BBC"
       ],
       "urls": [
         "https://www.reuters.com/world/europe/trump-says-us-reviewing-possible-reduction-its-troops-germany-2026-04-29/",
-        "https://www.asiaone.com/world/trump-says-us-will-reduce-number-troops-germany-lot-further-withdrawal-5000",
-        "https://www.koreaherald.com/article/10730243"
+        "https://www.bbc.com/news/articles/cd9pn541jjlo"
       ]
     },
     {
