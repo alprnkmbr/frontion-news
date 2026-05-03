@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-05-03T14:04:20+03:00",
+  "lastUpdated": "2026-05-03T14:05:33+03:00",
   "headlines": [
+    {
+      "headline": "Russia faces worker shortage crisis as war depletes labor force",
+      "summary": "Russia has run out of workers for the first time in its post-Soviet history, with record-low 2.1% unemployment driven by military conscription, emigration, and demographics. Central Bank warns labor shortages are driving inflation, forcing interest rates to 14.5%.",
+      "emoji": "🇷🇺",
+      "category": "Economy",
+      "source": "Spectator Australia",
+      "url": "https://www.spectator.com.au/2026/05/russia-is-running-out-of-workers/",
+      "timestamp": "2026-05-03T14:05:00+03:00"
+    },
+    {
+      "headline": "Ukrainian drone strikes on Tuapse refinery cause major oil spill disaster",
+      "summary": "Hundreds of tons of oil leaked into the Black Sea after Ukrainian drone strikes on Russia's Tuapse refinery, creating an ecological disaster. Russian authorities delayed declaring emergency for 12 days, worsening contamination of air, soil and water.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/the-oil-spill-in-tuapse-and-the-lessons-russia-didnt-learn/",
+      "timestamp": "2026-05-03T14:05:00+03:00"
+    },
+    {
+      "headline": "Saudi Arabia and UAE lead push for Hormuz-bypass trade corridors",
+      "summary": "Middle Eastern states are dusting off proposals for overland pipelines and rail-sea corridors to bypass the Strait of Hormuz, building a new trade architecture connecting Indian Ocean ports to Mediterranean via Saudi Arabia, Jordan and Syria.",
+      "emoji": "🇸🇦",
+      "category": "Energy",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/economics/article/3352166/middle-east-states-eye-transport-resilience-new-logistics-corridor-bypass-hormuz",
+      "timestamp": "2026-05-03T14:05:00+03:00"
+    },
     {
       "headline": "Rubio to Visit Vatican and Italy After Trump-Pope Tensions",
       "summary": "US Secretary of State Marco Rubio will travel to the Vatican and Italy for meetings this week, following President Trump's public attacks on Pope Leo that drew criticism from Christians across the political spectrum.",
@@ -35,7 +62,23 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/opec-set-agree-third-oil-output-quota-hike-since-hormuz-closure-sources-say-2026-05-03/",
-      "timestamp": "2026-05-03T14:10:00+03:00"
+      "timestamp": "2026-05-03T14:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/opec-agrees-principle-small-oil-output-quota-hike-without-uae-sources-say-2026-05-02/",
+          "angle": "OPEC+ Agrees Symbolic Oil Output Hike Despite Hormuz Closure",
+          "summary": "OPEC+ agreed in principle to a small oil output quota hike, though the increase will remain largely symbolic until shipping through the Strait of Hormuz can resume amid the ongoing Iran conflict."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/opec-set-agree-third-oil-output-quota-hike-since-hormuz-closure-sources-say-2026-05-03/",
+        "https://www.reuters.com/business/energy/opec-agrees-principle-small-oil-output-quota-hike-without-uae-sources-say-2026-05-02/"
+      ]
     },
     {
       "headline": "North Korea Rejects US Cyber Threat Claims as Fabrication",
@@ -366,31 +409,6 @@
       "urls": [
         "https://www.reuters.com/world/asia-pacific/us-philippines-deploy-anti-ship-missile-system-batanes-near-taiwan-war-games-2026-05-02/",
         "https://www.reuters.com/world/asia-pacific/us-philippines-deploy-anti-ship-missile-system-batanes-near-taiwan-war-games-2026-05-02/"
-      ]
-    },
-    {
-      "headline": "OPEC+ Agrees Symbolic Oil Output Hike Despite Hormuz Closure",
-      "summary": "OPEC+ agreed in principle to a small oil output quota hike, though the increase will remain largely symbolic until shipping through the Strait of Hormuz can resume amid the ongoing Iran conflict.",
-      "emoji": "🛢️💰",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/opec-agrees-principle-small-oil-output-quota-hike-without-uae-sources-say-2026-05-02/",
-      "timestamp": "2026-05-03T08:04:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/iraq-says-oil-output-exports-can-recover-within-week-once-hormuz-crisis-ends-2026-05-02/",
-          "angle": "Iraq Says Oil Output Can Recover Within Week Once Hormuz Crisis Ends",
-          "summary": "Deputy Oil Minister Basim Mohammed stated Iraq can restore oil output and exports to normal levels within seven days of the Strait of Hormuz crisis concluding, as the country seeks alternative export routes."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/opec-agrees-principle-small-oil-output-quota-hike-without-uae-sources-say-2026-05-02/",
-        "https://www.reuters.com/business/energy/iraq-says-oil-output-exports-can-recover-within-week-once-hormuz-crisis-ends-2026-05-02/"
       ]
     },
     {
@@ -2913,42 +2931,6 @@
       "source": "Times of Israel",
       "url": "https://www.timesofisrael.com/liveblog_entry/us-centcom-asks-for-long-delayed-hypersonic-missile-to-be-deployed-for-possible-use-against-iran-report/",
       "timestamp": "2026-04-30T22:06:00+03:00"
-    },
-    {
-      "headline": "UAE leaves OPEC as Trump and Fox News celebrate decision",
-      "summary": "The United Arab Emirates has departed the oil cartel, with Trump praising the move. The decision could reshape global oil markets and reduce Saudi influence over UAE energy policy.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/trump-fox-news-praise-uae-decision-to-leave-opec-oil-cartel",
-      "timestamp": "2026-04-30T22:06:00+03:00"
-    },
-    {
-      "headline": "Romania gains access to US counter-drone marketplace",
-      "summary": "Romania will now be able to acquire counter-UAS technology through the US counter-drone marketplace, expanding allied defense capabilities against aerial threats.",
-      "emoji": "🇷🇴",
-      "category": "Defense Industry",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/news/your-military/2026/04/30/romania-enters-us-counter-drone-marketplace/",
-      "timestamp": "2026-04-30T22:06:00+03:00"
-    },
-    {
-      "headline": "Hegseth Clashes With Democrats in Second Day of Congress Hearings",
-      "summary": "Defense Secretary Pete Hegseth faced sharp questioning over the Iran war's costs, civilian casualties, and lack of congressional authorization as the 60-day War Powers deadline looms.",
-      "emoji": "🏛️",
-      "category": "US-Iran War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/hegseth-caine-iran-war-congress-military-budget-f19fffd017024cf963cd43b42d638f12",
-      "timestamp": "2026-04-30T22:05:00+03:00"
-    },
-    {
-      "headline": "US imposes sanctions on former Congo President Joseph Kabila",
-      "summary": "The US Treasury Department sanctioned former DRC President Joseph Kabila, citing corruption and human rights abuses during his 18-year rule.",
-      "emoji": "🇨🇩",
-      "category": "Africa",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us-imposes-sanctions-former-congo-president-joseph-kabila-2026-04-30/",
-      "timestamp": "2026-04-30T21:03:00+03:00"
     }
   ]
 }
