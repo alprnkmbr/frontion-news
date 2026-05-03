@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-03T22:09:23+03:00",
+  "lastUpdated": "2026-05-03T23:06:11+03:00",
   "headlines": [
     {
-      "headline": "Poland PM condemns NATO \"disintegration\" as Trump vows further troop cuts in Europe",
-      "summary": "Polish Prime Minister Donald Tusk criticized the weakening of NATO unity after Trump announced plans to \"cut way down\" on US troop presence in Germany, beyond the previously announced 5,000 troop reduction.",
-      "emoji": "🇵🇱",
+      "headline": "Ship Attacked Off Iran as Tehran Reviews US Response to Peace Proposal",
+      "summary": "A bulk carrier reported being attacked by multiple small craft off Iran, according to UKMTO, as Iran reviews a US response to its latest peace proposal aimed at ending the conflict within 30 days.",
+      "emoji": "🚢",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/commodities/bulk-carrier-reports-being-attacked-by-multiple-small-craft-off-iran-ukmto-says-2026-05-03/",
+      "timestamp": "2026-05-03T23:03:00+03:00"
+    },
+    {
+      "headline": "Sweden Seizes Suspected False-Flag Tanker in Baltic Sea",
+      "summary": "The Swedish coast guard seized a tanker suspected of operating under a false flag in the Baltic Sea, amid growing concerns about Russia's \"shadow fleet\" and maritime security in Northern Europe.",
+      "emoji": "🇸🇪",
       "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/polands-prime-minister-condemns-nato-disintegration-as-trump-says-us-will-further-reduce-troop-presence-in-europe/",
-      "timestamp": "2026-05-03T22:08:00+03:00"
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/swedish-coast-guard-seizes-suspected-false-flag-tanker-baltic-sea-2026-05-03/",
+      "timestamp": "2026-05-03T23:03:00+03:00"
+    },
+    {
+      "headline": "Slovakia PM Fico to Attend Moscow Victory Day Parade",
+      "summary": "Slovakia's Prime Minister Robert Fico will attend the May 9 Victory Day parade in Moscow, Russian state TV reports, highlighting divisions within the EU and NATO over Russia policy.",
+      "emoji": "🇸🇰",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/slovakias-pm-fico-attend-victory-day-parade-moscow-russian-tv-says-2026-05-03/",
+      "timestamp": "2026-05-03T23:03:00+03:00"
+    },
+    {
+      "headline": "Hezbollah Pays Steep Price in Battle to Reverse Fortunes",
+      "summary": "A Reuters analysis examines how Hezbollah has suffered significant losses in its fight to recover from recent setbacks, as the group faces mounting pressure on multiple fronts.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/hezbollah-pays-steep-price-in-battle-reverse-its-fortunes-2026-05-03/",
+      "timestamp": "2026-05-03T23:03:00+03:00"
+    },
+    {
+      "headline": "Merz's Tussle With Trump Comes at Critical Moment for Europe",
+      "summary": "German Chancellor Friedrich Merz's tensions with Donald Trump over NATO and US troop cuts come at an ill-timed moment as Europe faces its biggest security challenge in decades.",
+      "emoji": "🇩🇪",
+      "category": "Europe",
+      "source": "The Economist",
+      "url": "https://www.economist.com/europe/2026/05/03/friedrich-merzs-ill-timed-tussle-with-donald-trump",
+      "timestamp": "2026-05-03T23:03:00+03:00"
     },
     {
       "headline": "Zelensky arrives in Yerevan for European Political Community Summit, first visit to Armenia",
@@ -38,22 +74,29 @@
       "timestamp": "2026-05-03T22:08:00+03:00"
     },
     {
-      "headline": "Pentagon freezes out Anthropic while signing AI deals with seven other firms",
-      "summary": "The US Department of Defense announced agreements with seven leading AI companies, notably excluding Anthropic, as the Pentagon accelerates artificial intelligence integration across defense operations.",
-      "emoji": "🏛️🤖",
-      "category": "Defense Industry",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/news/pentagon-congress/2026/05/01/pentagon-freezes-out-anthropic-as-it-signs-deals-with-ai-rivals/",
-      "timestamp": "2026-05-03T22:08:00+03:00"
-    },
-    {
       "headline": "Ukraine Strikes Primorsk Port and Shadow Fleet Tankers in Major Drone Offensive",
       "summary": "Ukraine launched drone attacks on Russia's Baltic Sea oil port of Primorsk, setting facilities ablaze and striking multiple vessels. The strikes represent an escalation in Ukraine's campaign against Russian energy infrastructure.",
       "emoji": "🇺🇦⚔️🛢️",
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/russias-primorsk-port-hit-ukraine-launches-wave-drone-strikes-2026-05-03/",
-      "timestamp": "2026-05-03T22:05:00+03:00"
+      "timestamp": "2026-05-03T22:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/russias-primorsk-port-hit-ukraine-launches-wave-drone-strikes-2026-05-03/",
+          "angle": "Ukraine Drones Strike Russian Baltic Port of Primorsk",
+          "summary": "Ukraine launched drone attacks hitting the Baltic Sea port of Primorsk, setting it on fire and striking vessels. The attack targets Russian energy infrastructure as Ukraine escalates strikes deep inside Russian territory."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/russias-primorsk-port-hit-ukraine-launches-wave-drone-strikes-2026-05-03/",
+        "https://www.reuters.com/world/russias-primorsk-port-hit-ukraine-launches-wave-drone-strikes-2026-05-03/"
+      ]
     },
     {
       "headline": "IAEA Reports Drone Strike Near Zaporizhzhia Nuclear Plant Radiation Lab",
@@ -80,7 +123,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/finance/ecb-policymaker-says-euro-zone-recession-concerns-real-justified-2026-05-03/",
-      "timestamp": "2026-05-03T22:05:00+03:00"
+      "timestamp": "2026-05-03T22:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/finance/ecb-policymaker-says-euro-zone-recession-concerns-real-justified-2026-05-03/",
+          "angle": "ECB Policymaker Warns Euro Zone Recession Fears Are Real",
+          "summary": "Bank of Greece governor Yannis Stournaras warned that euro zone recession concerns are \"real and justified\" as Middle East conflict continues. He emphasized that talks to end the Iran war will be critical for ECB monetary policy decisions."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/finance/ecb-policymaker-says-euro-zone-recession-concerns-real-justified-2026-05-03/",
+        "https://www.reuters.com/business/finance/ecb-policymaker-says-euro-zone-recession-concerns-real-justified-2026-05-03/"
+      ]
     },
     {
       "headline": "Israel Approves Purchase of Two New F-35 and F-15IA Fighter Squadrons",
@@ -89,7 +148,23 @@
       "category": "Defense Industry",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/israel-approves-plan-buy-f-35-f-15i-aircraft-us-2026-05-03/",
-      "timestamp": "2026-05-03T22:05:00+03:00"
+      "timestamp": "2026-05-03T22:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Israel Today",
+          "url": "https://www.israeltoday.co.il/read/israel-approves-purchase-of-two-new-fighter-squadrons/",
+          "angle": "Israel approves purchase of two new fighter squadrons",
+          "summary": "The Israeli government has approved the purchase of two new fighter squadrons to secure air superiority in the coming decade, drawing lessons from the recent confrontation with Iran."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Israel Today"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/aerospace-defense/israel-approves-plan-buy-f-35-f-15i-aircraft-us-2026-05-03/",
+        "https://www.israeltoday.co.il/read/israel-approves-purchase-of-two-new-fighter-squadrons/"
+      ]
     },
     {
       "headline": "Fed Governor Barr warns private credit stress could trigger psychological contagion",
@@ -221,31 +296,6 @@
       "timestamp": "2026-05-03T20:05:00+03:00"
     },
     {
-      "headline": "Israel approves purchase of two new fighter squadrons",
-      "summary": "The Israeli government has approved the purchase of two new fighter squadrons to secure air superiority in the coming decade, drawing lessons from the recent confrontation with Iran.",
-      "emoji": "🇮🇱",
-      "category": "Defense Industry",
-      "source": "Israel Today",
-      "url": "https://www.israeltoday.co.il/read/israel-approves-purchase-of-two-new-fighter-squadrons/",
-      "timestamp": "2026-05-03T20:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Straits Times",
-          "url": "https://www.straitstimes.com/world/middle-east/israel-approves-plan-to-buy-f-35-and-f-15ia-fighter-jets-from-lockheed-boeing",
-          "angle": "Israel Approves Purchase of F-35 and F-15IA Fighter Jet Squadrons",
-          "summary": "Israel gave final approval to purchase two new combat squadrons of F-35 and F-15IA fighter aircraft from Lockheed Martin and Boeing, part of a $119 billion military buildup plan for the coming decade."
-        }
-      ],
-      "sources": [
-        "Israel Today",
-        "Straits Times"
-      ],
-      "urls": [
-        "https://www.israeltoday.co.il/read/israel-approves-purchase-of-two-new-fighter-squadrons/",
-        "https://www.straitstimes.com/world/middle-east/israel-approves-plan-to-buy-f-35-and-f-15ia-fighter-jets-from-lockheed-boeing"
-      ]
-    },
-    {
       "headline": "OPEC+ set for third oil output hike since Hormuz closure, sources say",
       "summary": "OPEC+ is expected to agree to another increase in oil production quotas, the third since Iran closed the Strait of Hormuz. However, the increase will remain largely on paper as long as Gulf oil supplies remain disrupted.",
       "emoji": "🛢️",
@@ -328,31 +378,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/uk/four-people-hurt-shooting-london-saturday-sky-news-reports-2026-05-03/",
       "timestamp": "2026-05-03T19:14:00+03:00"
-    },
-    {
-      "headline": "ECB Policymaker Warns Euro Zone Recession Fears Are Real",
-      "summary": "Bank of Greece governor Yannis Stournaras warned that euro zone recession concerns are \"real and justified\" as Middle East conflict continues. He emphasized that talks to end the Iran war will be critical for ECB monetary policy decisions.",
-      "emoji": "🇪🇺",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/finance/ecb-policymaker-says-euro-zone-recession-concerns-real-justified-2026-05-03/",
-      "timestamp": "2026-05-03T19:14:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/finance/ecb-policymaker-says-euro-zone-recession-concerns-real-justified-2026-05-03/",
-          "angle": "ECB warns euro zone recession risks are real amid Middle East conflict",
-          "summary": "Bank of Greece governor Yannis Stournaras said recession concerns for the euro zone are \"real and justified\" if the Middle East conflict continues, with Iran war negotiations key for ECB monetary policy."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/finance/ecb-policymaker-says-euro-zone-recession-concerns-real-justified-2026-05-03/",
-        "https://www.reuters.com/business/finance/ecb-policymaker-says-euro-zone-recession-concerns-real-justified-2026-05-03/"
-      ]
     },
     {
       "headline": "Asian Development Bank Launches Critical Minerals Finance Scheme",
@@ -459,31 +484,6 @@
       ]
     },
     {
-      "headline": "Ukraine Drones Strike Russian Baltic Port of Primorsk",
-      "summary": "Ukraine launched drone attacks hitting the Baltic Sea port of Primorsk, setting it on fire and striking vessels. The attack targets Russian energy infrastructure as Ukraine escalates strikes deep inside Russian territory.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/russias-primorsk-port-hit-ukraine-launches-wave-drone-strikes-2026-05-03/",
-      "timestamp": "2026-05-03T17:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "France 24",
-          "url": "https://www.france24.com/en/europe/20260503-ukrainian-drones-strike-russia-baltic-sea-port-primorsk",
-          "angle": "Ukrainian drones strike Primorsk, key Russian oil port on Baltic Sea",
-          "summary": "Ukraine conducted a major drone strike on Primorsk port in the Baltic Sea, hitting oil infrastructure and multiple vessels. The attack demonstrates Kyiv's ability to project power deep into Russian territory."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "France 24"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/russias-primorsk-port-hit-ukraine-launches-wave-drone-strikes-2026-05-03/",
-        "https://www.france24.com/en/europe/20260503-ukrainian-drones-strike-russia-baltic-sea-port-primorsk"
-      ]
-    },
-    {
       "headline": "Iran Proposes 30-Day Deadline to End War With US and Israel",
       "summary": "Iran has presented a proposal seeking a comprehensive resolution within 30 days rather than extending the ceasefire. Trump expressed skepticism about the offer while saying he would review it.",
       "emoji": "🇮🇷",
@@ -524,15 +524,6 @@
       "category": "Defense Industry",
       "source": "Jerusalem Post",
       "url": "https://www.jpost.com/defense-and-tech/article-894966",
-      "timestamp": "2026-05-03T16:10:00+03:00"
-    },
-    {
-      "headline": "Poland's Tusk Warns NATO is Disintegrating After US Troop Withdrawal",
-      "summary": "Polish Prime Minister Donald Tusk declared NATO is disintegrating following the US announcement to withdraw 5,000 troops from Germany. He warned the greatest threat to the transatlantic community is not external enemies but the ongoing disintegration of the alliance.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-ceasefire-germany-strait-of-hormuz-b2969604.html",
       "timestamp": "2026-05-03T16:10:00+03:00"
     },
     {
@@ -785,35 +776,27 @@
       "timestamp": "2026-05-03T11:03:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/germany-trump-troops-nato-drawdown-pistorius-merz-a93151327dcb7279a56a36dd4bbeca1c",
-          "angle": "Trump Plans Further US Troop Cuts in Germany Beyond Initial Withdrawal",
-          "summary": "President Trump announced that US troop reductions in Germany will go significantly beyond the previously announced 5,000 troop withdrawal, deepening concerns about the US commitment to European defense."
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/polands-prime-minister-condemns-nato-disintegration-as-trump-says-us-will-further-reduce-troop-presence-in-europe/",
+          "angle": "Poland PM condemns NATO \"disintegration\" as Trump vows further troop cuts in Europe",
+          "summary": "Polish Prime Minister Donald Tusk criticized the weakening of NATO unity after Trump announced plans to \"cut way down\" on US troop presence in Germany, beyond the previously announced 5,000 troop reduction."
         },
         {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cd9pn541jjlo",
-          "angle": "Germany Calls US Troop Withdrawal Foreseeable as Republicans Express Concern",
-          "summary": "German officials responded to Trumps troop withdrawal announcement as foreseeable, while senior US Republicans voiced concerns about the decision to pull 5,000 troops from Germany."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/trump-says-us-reviewing-possible-reduction-its-troops-germany-2026-04-29/",
-          "angle": "Trump Administration Reviews Possible Troop Reduction in Germany",
-          "summary": "President Trump said his administration is considering reducing US troop levels in Germany, criticizing Berlin for not contributing naval forces to help reopen the Strait of Hormuz during the Iran conflict."
+          "source": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-ceasefire-germany-strait-of-hormuz-b2969604.html",
+          "angle": "Poland's Tusk Warns NATO is Disintegrating After US Troop Withdrawal",
+          "summary": "Polish Prime Minister Donald Tusk declared NATO is disintegrating following the US announcement to withdraw 5,000 troops from Germany. He warned the greatest threat to the transatlantic community is not external enemies but the ongoing disintegration of the alliance."
         }
       ],
       "sources": [
         "Reuters",
-        "AP News",
-        "BBC",
-        "Reuters"
+        "Kyiv Independent",
+        "The Independent"
       ],
       "urls": [
         "https://www.reuters.com/world/nato-working-with-us-understand-details-troop-reduction-germany-2026-05-02/",
-        "https://apnews.com/article/germany-trump-troops-nato-drawdown-pistorius-merz-a93151327dcb7279a56a36dd4bbeca1c",
-        "https://www.bbc.com/news/articles/cd9pn541jjlo",
-        "https://www.reuters.com/world/europe/trump-says-us-reviewing-possible-reduction-its-troops-germany-2026-04-29/"
+        "https://kyivindependent.com/polands-prime-minister-condemns-nato-disintegration-as-trump-says-us-will-further-reduce-troop-presence-in-europe/",
+        "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-ceasefire-germany-strait-of-hormuz-b2969604.html"
       ]
     },
     {
@@ -2635,19 +2618,19 @@
       "timestamp": "2026-05-01T17:00:00+03:00",
       "perspectives": [
         {
-          "source": "Military.com",
-          "url": "https://www.military.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems",
-          "angle": "US military signs AI deals with 7 tech companies for classified systems",
-          "summary": "Pentagon expands AI integration into classified defense systems through partnerships with major tech firms, accelerating military AI adoption."
+          "source": "Defense News",
+          "url": "https://www.defensenews.com/news/pentagon-congress/2026/05/01/pentagon-freezes-out-anthropic-as-it-signs-deals-with-ai-rivals/",
+          "angle": "Pentagon freezes out Anthropic while signing AI deals with seven other firms",
+          "summary": "The US Department of Defense announced agreements with seven leading AI companies, notably excluding Anthropic, as the Pentagon accelerates artificial intelligence integration across defense operations."
         }
       ],
       "sources": [
         "Reuters",
-        "Military.com"
+        "Defense News"
       ],
       "urls": [
         "https://www.reuters.com/business/retail-consumer/pentagon-reaches-agreements-with-leading-ai-companies-2026-05-01/",
-        "https://www.military.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems"
+        "https://www.defensenews.com/news/pentagon-congress/2026/05/01/pentagon-freezes-out-anthropic-as-it-signs-deals-with-ai-rivals/"
       ]
     },
     {
@@ -3006,42 +2989,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/canada-us-pipeline-trump-oil-13643144e84a88104cb610f2081937fa",
       "timestamp": "2026-05-01T08:03:00+03:00"
-    },
-    {
-      "headline": "Myanmar Junta Moves Aung San Suu Kyi to House Arrest",
-      "summary": "Myanmar's military government shortened ousted leader Aung San Suu Kyi's prison sentence, moving her from prison to house arrest in a rare concession amid international pressure.",
-      "emoji": "🇲🇲",
-      "category": "South Asia",
-      "source": "AP News",
-      "url": "https://apnews.com/article/myanmar-aung-san-suu-kyi-amnesty-a9fe9907edb714d2cd0dd1ea81d76be3",
-      "timestamp": "2026-05-01T07:00:00+03:00"
-    },
-    {
-      "headline": "Russia Questions US Role as Global Mediator Amid Iran Conflict",
-      "summary": "Senior Russian security official Dmitry Medvedev said the United States is unlikely to serve as an effective mediator in international conflicts given its actions, casting doubt on Washington's diplomatic role.",
-      "emoji": "🇷🇺",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/russias-medvedev-questions-us-suitability-play-role-conflict-mediator-2026-04-30/",
-      "timestamp": "2026-05-01T07:00:00+03:00"
-    },
-    {
-      "headline": "Top US general confirms Russia is aiding Iran in war against United States",
-      "summary": "Joint Chiefs Chairman Gen. Dan Caine told the Senate Armed Services Committee that Russia is \"definitely\" acting to support Iran, though he declined to provide details in the public hearing.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/american-general-confirms-russia-aiding-iran-in-war-against-us/",
-      "timestamp": "2026-05-01T06:10:00+03:00"
-    },
-    {
-      "headline": "China warns UN of Japanese nuclear breakout as regional row escalates",
-      "summary": "Beijing has asked the international body to prioritize Tokyo's \"dangerous tendency to seek nuclear weapons\" amid escalating regional tensions over defense policies.",
-      "emoji": "🇨🇳🇯🇵",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3352062/why-china-warning-un-japanese-nuclear-breakout",
-      "timestamp": "2026-05-01T06:10:00+03:00"
     }
   ]
 }
