@@ -1,14 +1,39 @@
 {
-  "lastUpdated": "2026-05-03T11:05:37+03:00",
+  "lastUpdated": "2026-05-03T12:05:07+03:00",
   "headlines": [
     {
-      "headline": "Ukraine strikes Russian Baltic port with drone swarm",
-      "summary": "Ukrainian drones hit Primorsk oil terminal near St Petersburg, marking a major escalation as Ukraine extends its reach deep into Russian territory. The port handles significant oil exports.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/russias-primorsk-port-hit-ukraine-launches-wave-drone-strikes-2026-05-03/",
-      "timestamp": "2026-05-03T11:03:00+03:00"
+      "headline": "Oil Tanker Hijacked Off Yemen Coast Near Somalia",
+      "summary": "An oil tanker was hijacked off the coast of Yemen and taken towards Somalia, marking the second such incident in the past 10 days amid ongoing regional instability.",
+      "emoji": "🛢️🚨",
+      "category": "Middle East",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cpwprl0v2npo",
+      "timestamp": "2026-05-03T12:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cpwprl0v2npo",
+          "angle": "Oil Tanker Hijacked Off Yemen, Second in 10 Days as Somali Piracy Surges",
+          "summary": "Somali pirates seized MT Eureka in the Gulf of Aden, the fourth successful hijacking in two weeks. The surge in piracy follows international navies redirecting to counter Houthi threats in the Red Sea."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cpwprl0v2npo",
+        "https://www.bbc.com/news/articles/cpwprl0v2npo"
+      ]
+    },
+    {
+      "headline": "Cuba Condemns New US Sanctions as Illegal and Abusive",
+      "summary": "Cuba denounced new US sanctions as illegal and abusive, adding to existing US oil blockade measures that have caused widespread blackouts and fuel shortages across the island nation.",
+      "emoji": "🇨🇺🇺🇸",
+      "category": "Latin America",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cwy21n1970vo",
+      "timestamp": "2026-05-03T12:03:00+03:00"
     },
     {
       "headline": "NATO seeks answers from US on Germany troop cuts",
@@ -17,16 +42,64 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/nato-working-with-us-understand-details-troop-reduction-germany-2026-05-02/",
-      "timestamp": "2026-05-03T11:03:00+03:00"
+      "timestamp": "2026-05-03T11:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/germany-trump-troops-nato-drawdown-pistorius-merz-a93151327dcb7279a56a36dd4bbeca1c",
+          "angle": "Trump Plans Further US Troop Cuts in Germany Beyond Initial Withdrawal",
+          "summary": "President Trump announced that US troop reductions in Germany will go significantly beyond the previously announced 5,000 troop withdrawal, deepening concerns about the US commitment to European defense."
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cd9pn541jjlo",
+          "angle": "Germany Calls US Troop Withdrawal Foreseeable as Republicans Express Concern",
+          "summary": "German officials responded to Trumps troop withdrawal announcement as foreseeable, while senior US Republicans voiced concerns about the decision to pull 5,000 troops from Germany."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/trump-says-us-reviewing-possible-reduction-its-troops-germany-2026-04-29/",
+          "angle": "Trump Administration Reviews Possible Troop Reduction in Germany",
+          "summary": "President Trump said his administration is considering reducing US troop levels in Germany, criticizing Berlin for not contributing naval forces to help reopen the Strait of Hormuz during the Iran conflict."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News",
+        "BBC",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/nato-working-with-us-understand-details-troop-reduction-germany-2026-05-02/",
+        "https://apnews.com/article/germany-trump-troops-nato-drawdown-pistorius-merz-a93151327dcb7279a56a36dd4bbeca1c",
+        "https://www.bbc.com/news/articles/cd9pn541jjlo",
+        "https://www.reuters.com/world/europe/trump-says-us-reviewing-possible-reduction-its-troops-germany-2026-04-29/"
+      ]
     },
     {
-      "headline": "China shields refineries from US sanctions",
-      "summary": "Chinas Commerce Ministry blocks US sanctions against five independent \"teapot\" refineries, rejecting American pressure over alleged Iran oil purchases.",
-      "emoji": "🇨🇳",
-      "category": "US-China",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/3/china-blocks-us-sanctions-against-five-teapot-refineries",
-      "timestamp": "2026-05-03T11:03:00+03:00"
+      "headline": "Ukraine strikes Russian Baltic port with drone swarm",
+      "summary": "Ukrainian drones hit Primorsk oil terminal near St Petersburg, marking a major escalation as Ukraine extends its reach deep into Russian territory. The port handles significant oil exports.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/russias-primorsk-port-hit-ukraine-launches-wave-drone-strikes-2026-05-03/",
+      "timestamp": "2026-05-03T11:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/russian-attack-hit-port-infrastructure-ukraines-odesa-region-officials-say-2026-05-01/",
+          "angle": "Russian Drone Strike Damages Odesa Port Infrastructure",
+          "summary": "A Russian drone attack overnight damaged port infrastructure in Ukraine's southern Odesa region and wounded two people in the city, according to regional officials."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/russias-primorsk-port-hit-ukraine-launches-wave-drone-strikes-2026-05-03/",
+        "https://www.reuters.com/world/europe/russian-attack-hit-port-infrastructure-ukraines-odesa-region-officials-say-2026-05-01/"
+      ]
     },
     {
       "headline": "Germany Mittelstand shows resilience amid industrial decline",
@@ -72,6 +145,31 @@
       "source": "Straits Times",
       "url": "https://www.straitstimes.com/opinion/america-will-pay-dearly-for-its-energy-arrogance",
       "timestamp": "2026-05-03T10:07:00+03:00"
+    },
+    {
+      "headline": "China issues injunction blocking US sanctions on five refineries",
+      "summary": "Chinas Commerce Ministry moved to block US sanctions on five Chinese refiners accused of buying Iranian oil, issuing an injunction through state news agency Xinhua as Beijing pushes back against Washington pressure campaign.",
+      "emoji": "🇨🇳🇮🇷",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/chinas-commerce-ministry-blocks-us-sanctions-against-five-refineries-2026-05-02/",
+      "timestamp": "2026-05-03T10:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/5/3/china-blocks-us-sanctions-against-five-teapot-refineries",
+          "angle": "China shields refineries from US sanctions",
+          "summary": "Chinas Commerce Ministry blocks US sanctions against five independent \"teapot\" refineries, rejecting American pressure over alleged Iran oil purchases."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/chinas-commerce-ministry-blocks-us-sanctions-against-five-refineries-2026-05-02/",
+        "https://www.aljazeera.com/economy/2026/5/3/china-blocks-us-sanctions-against-five-teapot-refineries"
+      ]
     },
     {
       "headline": "Senior Republicans break with Trump over Germany troop withdrawal",
@@ -133,31 +231,6 @@
       ]
     },
     {
-      "headline": "China issues injunction blocking US sanctions on five refineries",
-      "summary": "Chinas Commerce Ministry moved to block US sanctions on five Chinese refiners accused of buying Iranian oil, issuing an injunction through state news agency Xinhua as Beijing pushes back against Washington pressure campaign.",
-      "emoji": "🇨🇳🇮🇷",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/chinas-commerce-ministry-blocks-us-sanctions-against-five-refineries-2026-05-02/",
-      "timestamp": "2026-05-03T10:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/chinas-commerce-ministry-blocks-us-sanctions-against-five-refineries-2026-05-02/",
-          "angle": "China Blocks US Sanctions on Refineries Buying Iranian Oil",
-          "summary": "China's Commerce Ministry issued an injunction blocking US sanctions against five Chinese refineries accused of buying Iranian oil, defying Washington's pressure campaign."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/chinas-commerce-ministry-blocks-us-sanctions-against-five-refineries-2026-05-02/",
-        "https://www.reuters.com/business/energy/chinas-commerce-ministry-blocks-us-sanctions-against-five-refineries-2026-05-02/"
-      ]
-    },
-    {
       "headline": "Israeli Military Orders Evacuation of 11 Southern Lebanon Towns",
       "summary": "The Israeli military issued an urgent evacuation order for residents of 11 towns and villages in southern Lebanon, telling them to move at least 1,000 meters away from their homes amid ongoing operations against Hezbollah.",
       "emoji": "🇱🇧",
@@ -167,27 +240,19 @@
       "timestamp": "2026-05-03T09:03:00+03:00",
       "perspectives": [
         {
-          "source": "Straits Times",
-          "url": "https://www.straitstimes.com/world/middle-east/israeli-military-urges-residents-of-multiple-towns-in-southern-lebanon-to-evacuate-amid-operations",
-          "angle": "IDF orders evacuations for 11 southern Lebanon towns amid anti-Hezbollah operations",
-          "summary": "The Israeli military issued urgent evacuation warnings to residents of 11 towns and villages in southern Lebanon, telling them to move at least 1,000 meters away as operations against Hezbollah continue despite a fragile ceasefire."
-        },
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-ceasefire-f1eee1a81a4b1eb846efa1f400537c30",
-          "angle": "Israeli Airstrikes Kill 7 in Southern Lebanon Despite Ceasefire",
-          "summary": "Israeli airstrikes on southern Lebanon killed at least 7 people as hostilities continue between Israel and Hezbollah despite a ceasefire in place since April 17. Israels military carried out about 50 airstrikes over 24 hours targeting Hezbollah infrastructure."
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cd7pn0zywggo",
+          "angle": "Thirteen Killed in Israeli Strikes on Southern Lebanon Despite Ceasefire",
+          "summary": "Israeli airstrikes on southern Lebanon killed 13 people including four women and a child, as fighting with Iran-backed Hezbollah continues despite an existing ceasefire agreement."
         }
       ],
       "sources": [
         "Reuters",
-        "Straits Times",
-        "AP News"
+        "BBC"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/israeli-military-urges-southern-lebanon-residents-evacuate-amid-operations-2026-05-03/",
-        "https://www.straitstimes.com/world/middle-east/israeli-military-urges-residents-of-multiple-towns-in-southern-lebanon-to-evacuate-amid-operations",
-        "https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-ceasefire-f1eee1a81a4b1eb846efa1f400537c30"
+        "https://www.bbc.com/news/articles/cd7pn0zywggo"
       ]
     },
     {
@@ -604,31 +669,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/02/first-malaria-drug-babies-approved",
       "timestamp": "2026-05-03T04:03:00+03:00"
-    },
-    {
-      "headline": "Oil Tanker Hijacked Off Yemen, Second in 10 Days as Somali Piracy Surges",
-      "summary": "Somali pirates seized MT Eureka in the Gulf of Aden, the fourth successful hijacking in two weeks. The surge in piracy follows international navies redirecting to counter Houthi threats in the Red Sea.",
-      "emoji": "🚢⚠️",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cpwprl0v2npo",
-      "timestamp": "2026-05-03T03:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cp9d1j5y90go",
-          "angle": "Oil tanker hijacked off Yemen coast, second hijacking in 10 days",
-          "summary": "An oil tanker was hijacked off the coast of Yemen and taken toward Somalia, marking the second such incident in the area in the past 10 days amid ongoing regional tensions."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/cpwprl0v2npo",
-        "https://www.bbc.com/news/articles/cp9d1j5y90go"
-      ]
     },
     {
       "headline": "US delays arms shipments to Europe, potentially affecting Ukraine",
@@ -1842,39 +1882,6 @@
       ]
     },
     {
-      "headline": "Russian Drone Strike Damages Odesa Port Infrastructure",
-      "summary": "A Russian drone attack overnight damaged port infrastructure in Ukraine's southern Odesa region and wounded two people in the city, according to regional officials.",
-      "emoji": "⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/russian-attack-hit-port-infrastructure-ukraines-odesa-region-officials-say-2026-05-01/",
-      "timestamp": "2026-05-01T22:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/russian-city-faces-toxic-aftermath-refinery-attack-2026-04-30/",
-          "angle": "Ukrainian Drones Strike Russian Tuapse Port, Creating Environmental Disaster",
-          "summary": "Ukrainian drones struck Russia's Black Sea port of Tuapse for the fourth time in 16 days, causing toxic black smoke clouds and oil leaking into the sea. Authorities are struggling to cope with the mounting environmental crisis."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/russia-attacks-port-infrastructure-ukraines-south-hits-hospital-2026-04-29/",
-          "angle": "Russia Attacks Odesa Port Infrastructure, Damages Hospital",
-          "summary": "Russian drone strikes hit port infrastructure in Ukraine's southern Odesa region, damaging residential buildings and a hospital, wounding two people."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/russian-attack-hit-port-infrastructure-ukraines-odesa-region-officials-say-2026-05-01/",
-        "https://www.reuters.com/business/energy/russian-city-faces-toxic-aftermath-refinery-attack-2026-04-30/",
-        "https://www.reuters.com/world/europe/russia-attacks-port-infrastructure-ukraines-south-hits-hospital-2026-04-29/"
-      ]
-    },
-    {
       "headline": "US Sanctions Iranian Shadow Banking Networks Moving Oil Proceeds from China",
       "summary": "The US Treasury targeted three Iranian foreign currency exchange houses and front companies that facilitated transferring oil proceeds from China to Iran, aiming to cut off Tehrans access to hard currency.",
       "emoji": "🇺🇸",
@@ -2802,31 +2809,6 @@
       "timestamp": "2026-05-01T00:04:00+03:00"
     },
     {
-      "headline": "Trump Administration Reviews Possible Troop Reduction in Germany",
-      "summary": "President Trump said his administration is considering reducing US troop levels in Germany, criticizing Berlin for not contributing naval forces to help reopen the Strait of Hormuz during the Iran conflict.",
-      "emoji": "🇩🇪",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/trump-says-us-reviewing-possible-reduction-its-troops-germany-2026-04-29/",
-      "timestamp": "2026-04-30T23:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/germany-trump-troops-nato-drawdown-pistorius-merz-a93151327dcb7279a56a36dd4bbeca1c",
-          "angle": "Trump pledges deeper US troop cuts in Germany beyond 5,000 withdrawal",
-          "summary": "President Trump announced the US would reduce troops in Germany significantly more than the planned 5,000 drawdown, escalating tensions with German Chancellor Friedrich Merz and straining NATO alliance ties already frayed by Iran war disputes."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/trump-says-us-reviewing-possible-reduction-its-troops-germany-2026-04-29/",
-        "https://apnews.com/article/germany-trump-troops-nato-drawdown-pistorius-merz-a93151327dcb7279a56a36dd4bbeca1c"
-      ]
-    },
-    {
       "headline": "Federal Reserve Faces Leadership Shake-Up as Warsh Enters, Powell Stays",
       "summary": "President Trump's pick to lead the Federal Reserve, Kevin Warsh, has called for \"regime change\" at the central bank, while Jerome Powell will remain on the board as a governor after stepping down as chair.",
       "emoji": "🏛️",
@@ -2938,15 +2920,6 @@
         "https://apnews.com/article/gaza-israel-journalists-coverage-access-war-zone-0b3e72a7d73e211944fb5ff1c9d5d645",
         "https://apnews.com/article/gaza-israel-journalists-coverage-access-war-zone-0b3e72a7d73e211944fb5ff1c9d5d645"
       ]
-    },
-    {
-      "headline": "Ukraine Parliament approves expansion of military cemeteries across regions",
-      "summary": "New law passed by Ukraine's parliament enables the creation of official military cemeteries in multiple regions, building on the national military cemetery opened near Kyiv earlier this year to honor fallen soldiers.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/parliament-lays-ground-for-expansion-of-official-military-cemetries-across-regions-with-adoption-of-new-law-2/",
-      "timestamp": "2026-04-30T18:15:00+03:00"
     }
   ]
 }
