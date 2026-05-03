@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-03T10:05:15+03:00",
+  "lastUpdated": "2026-05-03T10:10:44+03:00",
   "headlines": [
     {
-      "headline": "Trump pledges deeper US troop cuts in Germany beyond 5,000 withdrawal",
-      "summary": "President Trump announced the US would reduce troops in Germany significantly more than the planned 5,000 drawdown, escalating tensions with German Chancellor Friedrich Merz and straining NATO alliance ties already frayed by Iran war disputes.",
-      "emoji": "🇺🇸🇩🇪",
+      "headline": "Germany Mittelstand shows resilience amid industrial decline",
+      "summary": "Small and midsize enterprises (SMEs) remain the backbone of Germanys economy, with hidden champions like Zeiss and Herrenknecht maintaining global leadership in specialized sectors despite broader industrial struggles.",
+      "emoji": "🇩🇪",
       "category": "Europe",
-      "source": "AP News",
-      "url": "https://apnews.com/article/germany-trump-troops-nato-drawdown-pistorius-merz-a93151327dcb7279a56a36dd4bbeca1c",
-      "timestamp": "2026-05-03T10:03:00+03:00"
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/where-germanys-economy-still-excels/a-77020320",
+      "timestamp": "2026-05-03T10:07:00+03:00"
+    },
+    {
+      "headline": "Myanmar military gains ground but civil war far from over",
+      "summary": "The junta has retaken territory and opened political channels after rigged elections installed Min Aung Hlaing as president, but resistance groups still control significant areas and armed opposition persists.",
+      "emoji": "🇲🇲",
+      "category": "Asia-Pacific",
+      "source": "Philippine Daily Inquirer",
+      "url": "https://globalnation.inquirer.net/320952/is-myanmars-military-winning-the-civil-war",
+      "timestamp": "2026-05-03T10:07:00+03:00"
+    },
+    {
+      "headline": "Bangkok street food culture under threat from vendor crackdown",
+      "summary": "Thailands capital is relocating street vendors from busy districts, raising concerns about livelihoods and the iconic food culture that defines Bangkok.",
+      "emoji": "🇹🇭",
+      "category": "Asia-Pacific",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3352255/bangkoks-beloved-street-food-culture-risk-vendor-crackdown-widens",
+      "timestamp": "2026-05-03T10:07:00+03:00"
+    },
+    {
+      "headline": "New Zealand PM Luxon visits Singapore for annual leaders meeting",
+      "summary": "Christopher Luxons three-day visit focuses on strengthening the New Zealand-Singapore Comprehensive Strategic Partnership, with agreements on trade in essential supplies.",
+      "emoji": "🇳🇿🇸🇬",
+      "category": "Asia-Pacific",
+      "source": "Channel News Asia",
+      "url": "https://www.channelnewsasia.com/singapore/new-zealand-pm-christopher-luxon-visit-singapore-lawrence-wong-6095791",
+      "timestamp": "2026-05-03T10:07:00+03:00"
+    },
+    {
+      "headline": "Americas energy dominance strategy faces long-term risks",
+      "summary": "A Straits Times analysis argues that Trumps approach to energy geopolitics - from sanctions to military action in Iran - may undermine US oil industry competitiveness as other nations accelerate clean energy adoption.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Straits Times",
+      "url": "https://www.straitstimes.com/opinion/america-will-pay-dearly-for-its-energy-arrogance",
+      "timestamp": "2026-05-03T10:07:00+03:00"
     },
     {
       "headline": "Senior Republicans break with Trump over Germany troop withdrawal",
@@ -17,7 +53,23 @@
       "category": "US Politics",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/us/top-republicans-express-concern-over-trump-plan-withdraw-troops-germany-2026-05-02/",
-      "timestamp": "2026-05-03T10:03:00+03:00"
+      "timestamp": "2026-05-03T10:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/us/top-republicans-express-concern-over-trump-plan-withdraw-troops-germany-2026-05-02/",
+          "angle": "Top Republicans Express Concern Over Trump Plan to Withdraw Troops From Germany",
+          "summary": "Two senior Republican lawmakers voiced concern about the Pentagon decision to withdraw 5,000 troops from NATO ally Germany, highlighting bipartisan worries about the impact on European security."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/us/top-republicans-express-concern-over-trump-plan-withdraw-troops-germany-2026-05-02/",
+        "https://www.reuters.com/world/us/top-republicans-express-concern-over-trump-plan-withdraw-troops-germany-2026-05-02/"
+      ]
     },
     {
       "headline": "North Korea mobilizes youth for war effort alongside Russia",
@@ -35,7 +87,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/russia-ukraine-give-conflicting-accounts-village-sumy-region-2026-05-02/",
-      "timestamp": "2026-05-03T10:03:00+03:00"
+      "timestamp": "2026-05-03T10:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/russia-ukraine-give-conflicting-accounts-village-sumy-region-2026-05-02/",
+          "angle": "Russia claims capture of Myropillia village, Ukraine denies",
+          "summary": "Russia's Defence Ministry said its troops took control of Myropillia in Ukraine's Sumy region, but Ukraine's military denied the village had changed hands."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/aerospace-defense/russia-ukraine-give-conflicting-accounts-village-sumy-region-2026-05-02/",
+        "https://www.reuters.com/business/aerospace-defense/russia-ukraine-give-conflicting-accounts-village-sumy-region-2026-05-02/"
+      ]
     },
     {
       "headline": "China issues injunction blocking US sanctions on five refineries",
@@ -44,7 +112,23 @@
       "category": "US-China",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/chinas-commerce-ministry-blocks-us-sanctions-against-five-refineries-2026-05-02/",
-      "timestamp": "2026-05-03T10:03:00+03:00"
+      "timestamp": "2026-05-03T10:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/chinas-commerce-ministry-blocks-us-sanctions-against-five-refineries-2026-05-02/",
+          "angle": "China Blocks US Sanctions on Refineries Buying Iranian Oil",
+          "summary": "China's Commerce Ministry issued an injunction blocking US sanctions against five Chinese refineries accused of buying Iranian oil, defying Washington's pressure campaign."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/chinas-commerce-ministry-blocks-us-sanctions-against-five-refineries-2026-05-02/",
+        "https://www.reuters.com/business/energy/chinas-commerce-ministry-blocks-us-sanctions-against-five-refineries-2026-05-02/"
+      ]
     },
     {
       "headline": "Israeli Military Orders Evacuation of 11 Southern Lebanon Towns",
@@ -701,15 +785,6 @@
       "timestamp": "2026-05-03T00:03:00+03:00"
     },
     {
-      "headline": "Russia claims capture of Myropillia village, Ukraine denies",
-      "summary": "Russia's Defence Ministry said its troops took control of Myropillia in Ukraine's Sumy region, but Ukraine's military denied the village had changed hands.",
-      "emoji": "⚔️🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/russia-ukraine-give-conflicting-accounts-village-sumy-region-2026-05-02/",
-      "timestamp": "2026-05-03T00:03:00+03:00"
-    },
-    {
       "headline": "Russian Forces Close In on Ukrainian Stronghold Kostiantynivka",
       "summary": "Russian troops are advancing toward Kostiantynivka in eastern Donetsk, attempting to establish a foothold near one of Ukraine's most heavily defended positions, according to Kyiv's top military commander.",
       "emoji": "🇺🇦",
@@ -735,31 +810,6 @@
       "source": "Nikkei Asia",
       "url": "https://asia.nikkei.com/business/defense/South-Korea-Hanwha-builds-arms-empire-as-Ukraine-Iran-wars-spur-spending",
       "timestamp": "2026-05-02T22:06:00+03:00"
-    },
-    {
-      "headline": "China Blocks US Sanctions on Refineries Buying Iranian Oil",
-      "summary": "China's Commerce Ministry issued an injunction blocking US sanctions against five Chinese refineries accused of buying Iranian oil, defying Washington's pressure campaign.",
-      "emoji": "🇨🇳",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/chinas-commerce-ministry-blocks-us-sanctions-against-five-refineries-2026-05-02/",
-      "timestamp": "2026-05-02T21:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Arabiya",
-          "url": "https://english.alarabiya.net/News/middle-east/2026/05/02/china-rejects-us-sanctions-on-refineries-over-iran-oil-links",
-          "angle": "China Rejects US Sanctions on Refineries Over Iran Oil Links",
-          "summary": "Beijing's commerce ministry declared that China will not comply with US sanctions against five companies targeted for purchasing Iranian oil, escalating economic tensions between Washington and Beijing."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Arabiya"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/chinas-commerce-ministry-blocks-us-sanctions-against-five-refineries-2026-05-02/",
-        "https://english.alarabiya.net/News/middle-east/2026/05/02/china-rejects-us-sanctions-on-refineries-over-iran-oil-links"
-      ]
     },
     {
       "headline": "Japan Turns to Russian Oil as Iran War Disrupts Gulf Supplies",
@@ -839,15 +889,6 @@
       "source": "Straits Times",
       "url": "https://www.straitstimes.com/asia/east-asia/at-un-china-denounces-japan-and-eu-over-south-china-sea-remarks",
       "timestamp": "2026-05-02T20:08:00+03:00"
-    },
-    {
-      "headline": "Top Republicans Express Concern Over Trump Plan to Withdraw Troops From Germany",
-      "summary": "Two senior Republican lawmakers voiced concern about the Pentagon decision to withdraw 5,000 troops from NATO ally Germany, highlighting bipartisan worries about the impact on European security.",
-      "emoji": "🇺🇸🇩🇪",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us/top-republicans-express-concern-over-trump-plan-withdraw-troops-germany-2026-05-02/",
-      "timestamp": "2026-05-02T20:03:00+03:00"
     },
     {
       "headline": "Airlines Scramble to Help Stranded Spirit Passengers After Budget Carrier Collapses",
@@ -2743,19 +2784,19 @@
       "timestamp": "2026-04-30T23:03:00+03:00",
       "perspectives": [
         {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cd9pn541jjlo",
-          "angle": "Germany Calls US Troop Withdrawal Foreseeable as Trump Threatens More Cuts",
-          "summary": "Germanys defence minister described the US decision to withdraw 5,000 troops from Germany as foreseeable, while Donald Trump warned he may reduce forces further. NATO and Republican lawmakers expressed concern about the move."
+          "source": "AP News",
+          "url": "https://apnews.com/article/germany-trump-troops-nato-drawdown-pistorius-merz-a93151327dcb7279a56a36dd4bbeca1c",
+          "angle": "Trump pledges deeper US troop cuts in Germany beyond 5,000 withdrawal",
+          "summary": "President Trump announced the US would reduce troops in Germany significantly more than the planned 5,000 drawdown, escalating tensions with German Chancellor Friedrich Merz and straining NATO alliance ties already frayed by Iran war disputes."
         }
       ],
       "sources": [
         "Reuters",
-        "BBC"
+        "AP News"
       ],
       "urls": [
         "https://www.reuters.com/world/europe/trump-says-us-reviewing-possible-reduction-its-troops-germany-2026-04-29/",
-        "https://www.bbc.com/news/articles/cd9pn541jjlo"
+        "https://apnews.com/article/germany-trump-troops-nato-drawdown-pistorius-merz-a93151327dcb7279a56a36dd4bbeca1c"
       ]
     },
     {
