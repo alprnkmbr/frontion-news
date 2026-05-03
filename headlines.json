@@ -1,14 +1,55 @@
 {
-  "lastUpdated": "2026-05-03T02:08:26+03:00",
+  "lastUpdated": "2026-05-03T03:04:18+03:00",
   "headlines": [
     {
-      "headline": "Trump reviewing new Iranian proposal to end war",
-      "summary": "US President Donald Trump said he is reviewing a new 14-point Iranian proposal sent via Pakistan. Iran has submitted the proposal in response to a US nine-point plan, with Trump rejecting a previous Iranian offer earlier this week.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3352245/trump-says-hes-reviewing-new-iran-proposal-end-war",
-      "timestamp": "2026-05-03T02:10:00+03:00"
+      "headline": "Spirit Airlines Shuts Down After 34 Years as Iran War Drives Fuel Costs",
+      "summary": "The US budget carrier ceased operations immediately, stranding passengers and laying off 17,000 employees. A Trump administration bailout deal fell through as soaring jet fuel prices from the Iran conflict made continued operations impossible.",
+      "emoji": "✈️💥",
+      "category": "Economy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/spirit-airlines-trump-bailout-bankruptcy-37a4818e1b71c0905d022f669d85948c",
+      "timestamp": "2026-05-03T03:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/05/01/iran-us-war-oil-gas-travel-flights-jet-fuel-summer-vacation",
+          "angle": "Iran war drives US gas prices toward summer travel crunch",
+          "summary": "The ongoing US-Iran conflict is pushing gas prices higher and disrupting summer travel plans. Airlines are cutting flights and raising ticket prices as jet fuel costs soar, with drivers facing pump prices not seen in years."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "Axios"
+      ],
+      "urls": [
+        "https://apnews.com/article/spirit-airlines-trump-bailout-bankruptcy-37a4818e1b71c0905d022f669d85948c",
+        "https://www.axios.com/2026/05/01/iran-us-war-oil-gas-travel-flights-jet-fuel-summer-vacation"
+      ]
+    },
+    {
+      "headline": "Oil Tanker Hijacked Off Yemen, Second in 10 Days as Somali Piracy Surges",
+      "summary": "Somali pirates seized MT Eureka in the Gulf of Aden, the fourth successful hijacking in two weeks. The surge in piracy follows international navies redirecting to counter Houthi threats in the Red Sea.",
+      "emoji": "🚢⚠️",
+      "category": "Middle East",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cpwprl0v2npo",
+      "timestamp": "2026-05-03T03:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cp9d1j5y90go",
+          "angle": "Oil tanker hijacked off Yemen coast, second hijacking in 10 days",
+          "summary": "An oil tanker was hijacked off the coast of Yemen and taken toward Somalia, marking the second such incident in the area in the past 10 days amid ongoing regional tensions."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cpwprl0v2npo",
+        "https://www.bbc.com/news/articles/cp9d1j5y90go"
+      ]
     },
     {
       "headline": "US delays arms shipments to Europe, potentially affecting Ukraine",
@@ -26,7 +67,23 @@
       "category": "Europe",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/czechia-allows-ficos-moscow-flight-as-neighbors-close-airspace-for-victory-day/",
-      "timestamp": "2026-05-03T02:10:00+03:00"
+      "timestamp": "2026-05-03T02:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/czechia-allows-ficos-moscow-flight-as-neighbors-close-airspace-for-victory-day/",
+          "angle": "Czechia permits Fico's Moscow flight as Baltic states, Poland deny airspace",
+          "summary": "Czechia approved Slovak PM Robert Fico's overflight request for his May 9 Victory Day visit to Moscow. Lithuania, Latvia, Estonia, and Poland have all blocked the Slovak leader's flight, citing Russia's aggression in Ukraine."
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://kyivindependent.com/czechia-allows-ficos-moscow-flight-as-neighbors-close-airspace-for-victory-day/",
+        "https://kyivindependent.com/czechia-allows-ficos-moscow-flight-as-neighbors-close-airspace-for-victory-day/"
+      ]
     },
     {
       "headline": "Zelensky invites Fico to Kyiv ahead of Moscow Victory Day trip",
@@ -44,16 +101,23 @@
       "category": "Ukraine-Russia War",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/peru-launches-investigation-into-citizens-allegedly-trafficked-to-fight-russias-war-in-ukraine/",
-      "timestamp": "2026-05-03T02:10:00+03:00"
-    },
-    {
-      "headline": "Spirit Airlines to cease operations overnight, preparing for shutdown",
-      "summary": "Bankrupt US discount carrier Spirit Airlines is preparing to cease operations around 3 a.m. Saturday, marking the collapse of the ultra-low-cost carrier model. The airline had sought government bailout assistance that did not materialize.",
-      "emoji": "✈️",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/litigation/spirit-airlines-prepares-cease-operations-overnight-sources-say-2026-05-02/",
-      "timestamp": "2026-05-03T02:05:00+03:00"
+      "timestamp": "2026-05-03T02:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/peru-launches-investigation-after-citizens-allegedly-trafficked-to-fight-russias-war-in-ukraine/",
+          "angle": "Peru investigates citizens trafficked to fight for Russia in Ukraine",
+          "summary": "Peruvian authorities launched an investigation after families reported relatives were deceived with fake job offers and then forced into combat operations once in Russia."
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://kyivindependent.com/peru-launches-investigation-into-citizens-allegedly-trafficked-to-fight-russias-war-in-ukraine/",
+        "https://kyivindependent.com/peru-launches-investigation-after-citizens-allegedly-trafficked-to-fight-russias-war-in-ukraine/"
+      ]
     },
     {
       "headline": "Iranian proposal would open Strait before nuclear talks, Trump rejected it",
@@ -62,15 +126,31 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/iranian-proposal-rejected-by-trump-would-open-strait-before-nuclear-talks-iran-2026-05-02/",
-      "timestamp": "2026-05-03T02:05:00+03:00"
+      "timestamp": "2026-05-03T02:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/iran-offers-strait-deal-trump-dissatisfied-prefers-non-military-path-2026-05-02/",
+          "angle": "Iran Offers Strait of Hormuz Deal as Trump Rejects Peace Proposal",
+          "summary": "Iran presented a proposal to mediate the Strait of Hormuz dispute through Pakistan, but US President Trump expressed dissatisfaction with the offer. Fighting could resume after four weeks of suspended bombing."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/iranian-proposal-rejected-by-trump-would-open-strait-before-nuclear-talks-iran-2026-05-02/",
+        "https://www.reuters.com/world/asia-pacific/iran-offers-strait-deal-trump-dissatisfied-prefers-non-military-path-2026-05-02/"
+      ]
     },
     {
-      "headline": "NATO and Republicans question US troop withdrawal from Germany",
-      "summary": "NATO said it is working with Washington to understand the decision to withdraw 5,000 US troops from Germany. Top Republican lawmakers also expressed concerns about the timing amid Iran war tensions and strain on transatlantic relations.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "France24",
-      "url": "https://www.france24.com/en/live-news/20260502-nato-top-republicans-question-us-troop-withdrawal-from-germany",
+      "headline": "Spirit Airlines to cease operations overnight, preparing for shutdown",
+      "summary": "Bankrupt US discount carrier Spirit Airlines is preparing to cease operations around 3 a.m. Saturday, marking the collapse of the ultra-low-cost carrier model. The airline had sought government bailout assistance that did not materialize.",
+      "emoji": "✈️",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/litigation/spirit-airlines-prepares-cease-operations-overnight-sources-say-2026-05-02/",
       "timestamp": "2026-05-03T02:05:00+03:00"
     },
     {
@@ -101,19 +181,19 @@
       "timestamp": "2026-05-03T01:05:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/us-troop-drawback-underlines-european-defence-responsibility-german-minister-2026-05-02/",
-          "angle": "Germany Calls for Stronger European Defence After US Troop Withdrawal",
-          "summary": "German Defence Minister Boris Pistorius said the planned drawdown of 5,000 US troops from Germany should spur Europeans to strengthen their own defences. The withdrawal brings US troop levels in Europe back to pre-2022 levels before Russia invaded Ukraine."
+          "source": "France24",
+          "url": "https://www.france24.com/en/live-news/20260502-nato-top-republicans-question-us-troop-withdrawal-from-germany",
+          "angle": "NATO and Republicans question US troop withdrawal from Germany",
+          "summary": "NATO said it is working with Washington to understand the decision to withdraw 5,000 US troops from Germany. Top Republican lawmakers also expressed concerns about the timing amid Iran war tensions and strain on transatlantic relations."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "France24"
       ],
       "urls": [
         "https://www.reuters.com/business/aerospace-defense/us-troop-drawback-underlines-european-defence-responsibility-german-minister-2026-05-02/",
-        "https://www.reuters.com/business/aerospace-defense/us-troop-drawback-underlines-european-defence-responsibility-german-minister-2026-05-02/"
+        "https://www.france24.com/en/live-news/20260502-nato-top-republicans-question-us-troop-withdrawal-from-germany"
       ]
     },
     {
@@ -212,6 +292,31 @@
       "timestamp": "2026-05-03T00:07:00+03:00"
     },
     {
+      "headline": "Nobel laureate Mohammadi hospitalized in Iran, Nobel committee urges release",
+      "summary": "Jailed Nobel Peace Prize laureate Narges Mohammadi was urgently hospitalized after a cardiac crisis. The Nobel Committee chief warned her life is in Iran's hands and called for her release.",
+      "emoji": "⚖️🇮🇷",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-iran-hospital-after-cardiac-crisis-foundation-says-2026-05-02/",
+      "timestamp": "2026-05-03T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c362pd8epw9o",
+          "angle": "Nobel Laureate Narges Mohammadi Hospitalized as Health Deteriorates in Iranian Prison",
+          "summary": "The 2023 Nobel Peace Prize winner was transferred to a hospital in Zanjan province after a catastrophic health decline, with family warning her condition requires specialized care unavailable locally. She has been arrested 13 times and sentenced to 31 years in prison."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-iran-hospital-after-cardiac-crisis-foundation-says-2026-05-02/",
+        "https://www.bbc.com/news/articles/c362pd8epw9o"
+      ]
+    },
+    {
       "headline": "UAE announces withdrawal from OPEC, analysts warn of quota chaos",
       "summary": "The UAE has announced it is pulling out of OPEC, a move that analysts say could complicate the group's ability to manage production quotas and coordinate global oil policy.",
       "emoji": "🇦🇪🛢️",
@@ -246,31 +351,6 @@
       ]
     },
     {
-      "headline": "Nobel laureate Mohammadi hospitalized in Iran, Nobel committee urges release",
-      "summary": "Jailed Nobel Peace Prize laureate Narges Mohammadi was urgently hospitalized after a cardiac crisis. The Nobel Committee chief warned her life is in Iran's hands and called for her release.",
-      "emoji": "⚖️🇮🇷",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-iran-hospital-after-cardiac-crisis-foundation-says-2026-05-02/",
-      "timestamp": "2026-05-03T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-iran-hospital-after-cardiac-crisis-foundation-says-2026-05-02/",
-          "angle": "Nobel Peace laureate Narges Mohammadi hospitalized in Iran after cardiac crisis",
-          "summary": "Iranian Nobel Peace Prize winner Narges Mohammadi was taken to a hospital from prison following a catastrophic deterioration of her health, her family foundation reported. Her condition remains unstable amid ongoing concerns about political prisoners."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-iran-hospital-after-cardiac-crisis-foundation-says-2026-05-02/",
-        "https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-iran-hospital-after-cardiac-crisis-foundation-says-2026-05-02/"
-      ]
-    },
-    {
       "headline": "Trump auto tariffs could cost Germany nearly $18 billion in output",
       "summary": "President Trump's tariff hike on cars and trucks from the EU could cost Germany nearly 15 billion euros in output, according to a German economic institute.",
       "emoji": "🇩🇪🚗💰",
@@ -287,47 +367,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/russia-ukraine-give-conflicting-accounts-village-sumy-region-2026-05-02/",
       "timestamp": "2026-05-03T00:03:00+03:00"
-    },
-    {
-      "headline": "Iran Offers Strait of Hormuz Deal as Trump Rejects Peace Proposal",
-      "summary": "Iran presented a proposal to mediate the Strait of Hormuz dispute through Pakistan, but US President Trump expressed dissatisfaction with the offer. Fighting could resume after four weeks of suspended bombing.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/iran-offers-strait-deal-trump-dissatisfied-prefers-non-military-path-2026-05-02/",
-      "timestamp": "2026-05-02T23:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-lebanon-ceasefire/",
-          "angle": "Trump \"Not Satisfied\" With Iran's New Peace Proposal as Hormuz Standoff Continues",
-          "summary": "President Trump said he did not like Iran's new proposal to end the war, as the Strait of Hormuz blockade continues to disrupt global oil supplies and raise fears of renewed conflict."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/iran-standoff-could-leave-trump-worse-off-than-before-he-went-war-2026-05-02/",
-          "angle": "Iran War Standoff Could Leave Trump Worse Off Than Before Conflict",
-          "summary": "Analysis suggests the US-Iran conflict has failed to deliver a decisive military or diplomatic victory, potentially leaving Trump in a weaker position than before the war began."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/us-seeks-international-help-reopen-strait-hormuz-crude-prices-surge-2026-04-30/",
-          "angle": "Iran Threatens Painful Strikes if US Renews Attacks as Hormuz Standoff Continues",
-          "summary": "Iran warned it would respond with long and painful strikes on US positions if Washington renews attacks, while also restating its claim to the Strait of Hormuz, complicating US efforts to build a coalition to reopen the critical waterway."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "CBS News",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/iran-offers-strait-deal-trump-dissatisfied-prefers-non-military-path-2026-05-02/",
-        "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-lebanon-ceasefire/",
-        "https://www.reuters.com/business/energy/iran-standoff-could-leave-trump-worse-off-than-before-he-went-war-2026-05-02/",
-        "https://www.reuters.com/business/energy/us-seeks-international-help-reopen-strait-hormuz-crude-prices-surge-2026-04-30/"
-      ]
     },
     {
       "headline": "Russian Forces Close In on Ukrainian Stronghold Kostiantynivka",
@@ -366,15 +405,6 @@
       "timestamp": "2026-05-02T22:06:00+03:00"
     },
     {
-      "headline": "Peru investigates citizens trafficked to fight for Russia in Ukraine",
-      "summary": "Peruvian authorities launched an investigation after families reported relatives were deceived with fake job offers and then forced into combat operations once in Russia.",
-      "emoji": "🇵🇪",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/peru-launches-investigation-after-citizens-allegedly-trafficked-to-fight-russias-war-in-ukraine/",
-      "timestamp": "2026-05-02T22:06:00+03:00"
-    },
-    {
       "headline": "Taiwan president visits Eswatini after China cancelled his trip",
       "summary": "Taiwan's president visited Eswatini days after blaming China for cancelling his trip. China described the visit as a \"stowaway-style escape farce\" as Taiwan seeks to maintain diplomatic allies.",
       "emoji": "🇹🇼✈️",
@@ -382,31 +412,6 @@
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cpwprl0v2npo",
       "timestamp": "2026-05-02T22:03:00+03:00"
-    },
-    {
-      "headline": "Oil tanker hijacked off Yemen coast, second hijacking in 10 days",
-      "summary": "An oil tanker was hijacked off the coast of Yemen and taken toward Somalia, marking the second such incident in the area in the past 10 days amid ongoing regional tensions.",
-      "emoji": "🛢️⚠️",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cp9d1j5y90go",
-      "timestamp": "2026-05-02T22:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cpwprl0v2npo",
-          "angle": "Oil Tanker Hijacked Off Yemen, Taken Toward Somalia",
-          "summary": "Somali pirates have hijacked an oil tanker off the coast of Yemen, according to Somali security officials, adding to maritime instability in the region."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/cp9d1j5y90go",
-        "https://www.bbc.com/news/articles/cpwprl0v2npo"
-      ]
     },
     {
       "headline": "US Warns Shipping Firms Over Iran Strait Transit Payments",
@@ -608,15 +613,6 @@
       "timestamp": "2026-05-02T18:03:00+03:00"
     },
     {
-      "headline": "Germany Focuses on Shared Interests After US Announces Troop Drawdown",
-      "summary": "German Defense Minister Boris Pistorius emphasized mutual benefits of US military presence while urging Europeans to strengthen their own defenses following the announced withdrawal of 5,000 American troops.",
-      "emoji": "🇩🇪",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://apnews.com/article/germany-trump-troops-nato-drawdown-pistorius-merz-a93151327dcb7279a56a36dd4bbeca1c",
-      "timestamp": "2026-05-02T18:03:00+03:00"
-    },
-    {
       "headline": "Europe Rattled by Disastrous Trend as Trump Pulls 5,000 Troops from Germany",
       "summary": "Poland's Prime Minister Donald Tusk warned that NATO is showing signs of disintegration while Germany's defense minister called for greater European self-reliance amid the largest US troop reduction in Germany in decades.",
       "emoji": "🇪🇺",
@@ -741,31 +737,6 @@
       "timestamp": "2026-05-02T14:08:00+03:00"
     },
     {
-      "headline": "Czechia permits Fico's Moscow flight as Baltic states, Poland deny airspace",
-      "summary": "Czechia approved Slovak PM Robert Fico's overflight request for his May 9 Victory Day visit to Moscow. Lithuania, Latvia, Estonia, and Poland have all blocked the Slovak leader's flight, citing Russia's aggression in Ukraine.",
-      "emoji": "🇸🇰",
-      "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/czechia-allows-ficos-moscow-flight-as-neighbors-close-airspace-for-victory-day/",
-      "timestamp": "2026-05-02T14:08:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/czechia-allows-ficos-moscow-flight-as-neighbors-close-airspace-for-victory-day/",
-          "angle": "Czechia allows Ficos Moscow flight as neighbors close airspace for Victory Day",
-          "summary": "Czech Republic granted Slovakia a standard overflight permit for Prime Minister Robert Ficos flight to Moscow, while neighboring countries closed their airspace for Russias Victory Day celebrations."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://kyivindependent.com/czechia-allows-ficos-moscow-flight-as-neighbors-close-airspace-for-victory-day/",
-        "https://kyivindependent.com/czechia-allows-ficos-moscow-flight-as-neighbors-close-airspace-for-victory-day/"
-      ]
-    },
-    {
       "headline": "US Announces Withdrawal of 5,000 Troops from Germany",
       "summary": "The Pentagon announced the US will withdraw about 5,000 troops from Germany in the next 6-12 months, fulfilling President Trumps threat. The drawdown returns US troop levels in Europe to pre-2022 levels before Russias invasion of Ukraine triggered a buildup.",
       "emoji": "🇺🇸",
@@ -800,19 +771,19 @@
       "timestamp": "2026-05-02T14:00:00+03:00",
       "perspectives": [
         {
-          "source": "Daily Sabah",
-          "url": "https://www.dailysabah.com/world/mid-east/israeli-strikes-kill-7-in-lebanon-despite-cease-fire",
-          "angle": "Israeli Strikes Kill 7 in Lebanon Despite Ceasefire",
-          "summary": "Israeli airstrikes killed at least seven people in southern Lebanon despite an ongoing ceasefire extension. Strikes hit multiple locations including Ain Baal, Louaizeh, and Kfardjal, with casualties including women. Israel maintains a buffer zone and continues daily violations."
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cd7pn0zywggo",
+          "angle": "Thirteen Killed in Israeli Strikes on Southern Lebanon Despite Ceasefire",
+          "summary": "Israeli air raids killed 13 people including four women and a child in southern Lebanon, as fighting with Hezbollah continues despite a three-week ceasefire extension. The IDF reported 50 strikes in the last day."
         }
       ],
       "sources": [
         "AP News",
-        "Daily Sabah"
+        "BBC"
       ],
       "urls": [
         "https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-ceasefire-f1eee1a81a4b1eb846efa1f400537c30",
-        "https://www.dailysabah.com/world/mid-east/israeli-strikes-kill-7-in-lebanon-despite-cease-fire"
+        "https://www.bbc.com/news/articles/cd7pn0zywggo"
       ]
     },
     {
@@ -1925,15 +1896,6 @@
       "timestamp": "2026-05-01T12:05:00+03:00"
     },
     {
-      "headline": "Iran war drives US gas prices toward summer travel crunch",
-      "summary": "The ongoing US-Iran conflict is pushing gas prices higher and disrupting summer travel plans. Airlines are cutting flights and raising ticket prices as jet fuel costs soar, with drivers facing pump prices not seen in years.",
-      "emoji": "✈️",
-      "category": "Economy",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/05/01/iran-us-war-oil-gas-travel-flights-jet-fuel-summer-vacation",
-      "timestamp": "2026-05-01T12:05:00+03:00"
-    },
-    {
       "headline": "Ukraine to Seek Clarification From US on Russian Ceasefire Proposal",
       "summary": "Ukraine will seek clarification from the Trump administration on details of a Russian proposal for a brief ceasefire next week, President Zelenskiy announced as diplomatic efforts continue.",
       "emoji": "🇺🇦",
@@ -2529,27 +2491,27 @@
       "timestamp": "2026-04-30T23:03:00+03:00",
       "perspectives": [
         {
-          "source": "Channel News Asia",
-          "url": "https://www.channelnewsasia.com/world/germany-us-troop-reduce-stronger-european-defence-6095911",
-          "angle": "Germany urges stronger European defense after US troop reduction",
-          "summary": "German Defense Minister Pistorius said Europe must invest more in defense following the Pentagon announcement to withdraw 5,000 troops, including canceling a long-range fire battalion deployment."
+          "source": "AP News",
+          "url": "https://apnews.com/article/germany-trump-troops-nato-drawdown-pistorius-merz-a93151327dcb7279a56a36dd4bbeca1c",
+          "angle": "Trump Announces Deeper US Troop Cuts from Germany Beyond Initial 5,000",
+          "summary": "President Trump said the US will cut \"way down\" and further than 5,000 troops from Germany, escalating tensions with Chancellor Merz after Germany criticized the US handling of the Iran war. NATO seeks clarification as concerns grow about alliance cohesion."
         },
         {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/05/02/germany-urges-stronger-european-defense-after-us-reduces-troops.html",
-          "angle": "Germany calls for stronger European defense after US troop withdrawal",
-          "summary": "German Defense Minister Boris Pistorius urged Europe to take greater responsibility for its own security following the Pentagon announcement that 5,000 US troops will be withdrawn from Germany. The move has raised concerns about NATO cohesion."
+          "source": "AP News",
+          "url": "https://apnews.com/article/germany-trump-troops-nato-drawdown-pistorius-merz-a93151327dcb7279a56a36dd4bbeca1c",
+          "angle": "Germany Focuses on Shared Interests After US Announces Troop Drawdown",
+          "summary": "German Defense Minister Boris Pistorius emphasized mutual benefits of US military presence while urging Europeans to strengthen their own defenses following the announced withdrawal of 5,000 American troops."
         }
       ],
       "sources": [
         "Reuters",
-        "Channel News Asia",
-        "CNBC"
+        "AP News",
+        "AP News"
       ],
       "urls": [
         "https://www.reuters.com/world/europe/trump-says-us-reviewing-possible-reduction-its-troops-germany-2026-04-29/",
-        "https://www.channelnewsasia.com/world/germany-us-troop-reduce-stronger-european-defence-6095911",
-        "https://www.cnbc.com/2026/05/02/germany-urges-stronger-european-defense-after-us-reduces-troops.html"
+        "https://apnews.com/article/germany-trump-troops-nato-drawdown-pistorius-merz-a93151327dcb7279a56a36dd4bbeca1c",
+        "https://apnews.com/article/germany-trump-troops-nato-drawdown-pistorius-merz-a93151327dcb7279a56a36dd4bbeca1c"
       ]
     },
     {
@@ -2804,67 +2766,6 @@
       "source": "Anadolu Agency",
       "url": "https://www.aa.com.tr/en/us-israel-iran-war/us-eyes-deployment-of-hypersonic-missile-for-1st-time-against-iran-report/3922888",
       "timestamp": "2026-04-30T14:07:00+03:00"
-    },
-    {
-      "headline": "Eurozone Economic Growth Drops to Near Zero as Energy Costs Surge",
-      "summary": "The eurozone economy barely grew in the first quarter of 2026 as soaring energy costs from the Middle East war took their toll on European industry and consumer spending.",
-      "emoji": "🇪🇺",
-      "category": "Economy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/live-news/20260430-eurozone-economy-barely-grows-in-first-months-of-2026",
-      "timestamp": "2026-04-30T14:07:00+03:00"
-    },
-    {
-      "headline": "Supreme Court Hollows Out Voting Rights Act After 61 Years",
-      "summary": "The U.S. Supreme Court knocked out a major pillar of the Voting Rights Act, eliminating protections against racial discrimination in voting and redistricting that had stood for six decades. Civil rights advocates warn the decision could return minority communities to the Jim Crow era.",
-      "emoji": "🏛️",
-      "category": "US Politics",
-      "source": "AP News",
-      "url": "https://apnews.com/article/supreme-court-voting-rights-act-louisiana-alabama-4e3225083caccda5ec73a98533a79add",
-      "timestamp": "2026-04-30T14:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/supreme-court-voting-rights-congressional-redistricting-louisiana-aa5d7dbde7c13654f341d152c2ad5229",
-          "angle": "Supreme Court Weakens Voting Rights Act in Louisiana Redistricting Case",
-          "summary": "The Supreme Court struck down a majority-Black congressional district in Louisiana in a 6-3 ruling, finding it relied too heavily on race. The decision could affect nearly 70 congressional districts protected under Section 2 and reshape the 2028 electoral map."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "AP News"
-      ],
-      "urls": [
-        "https://apnews.com/article/supreme-court-voting-rights-act-louisiana-alabama-4e3225083caccda5ec73a98533a79add",
-        "https://apnews.com/article/supreme-court-voting-rights-congressional-redistricting-louisiana-aa5d7dbde7c13654f341d152c2ad5229"
-      ]
-    },
-    {
-      "headline": "Over 1 Million in Lebanon Face Acute Food Insecurity Crisis",
-      "summary": "A global hunger monitor warned that more than 1 million people in Lebanon will face acute food insecurity in coming months due to renewed conflict and mass displacement, compounding the humanitarian crisis in the region.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/more-than-1-million-lebanon-expected-face-acute-food-insecurity-hunger-monitor-2026-04-29/",
-      "timestamp": "2026-04-30T14:03:00+03:00"
-    },
-    {
-      "headline": "UK Declares Antisemitism Emergency After Double Stabbing Attack",
-      "summary": "British government announces millions in new funding to combat antisemitism following a stabbing incident, labeling the situation an emergency.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://apnews.com/article/uk-antisemitism-stabbing-f854ca92cd6c741f82b72cf9c656b23a",
-      "timestamp": "2026-04-30T13:02:00+03:00"
-    },
-    {
-      "headline": "Powell Closes Eight Years at Fed Helm With Integrity Focus",
-      "summary": "Jerome Powell concludes eight-year tenure as Fed Chair spanning three administrations, 66 rate meetings, a pandemic, and criminal investigations.",
-      "emoji": "🇺🇸",
-      "category": "Economy",
-      "source": "CNN",
-      "url": "https://edition.cnn.com/2026/04/30/economy/jerome-powell-retrospective",
-      "timestamp": "2026-04-30T12:59:00+03:00"
     }
   ]
 }
