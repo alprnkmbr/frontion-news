@@ -1,32 +1,57 @@
 {
-  "lastUpdated": "2026-05-03T14:05:33+03:00",
+  "lastUpdated": "2026-05-03T15:05:02+03:00",
   "headlines": [
     {
-      "headline": "Russia faces worker shortage crisis as war depletes labor force",
-      "summary": "Russia has run out of workers for the first time in its post-Soviet history, with record-low 2.1% unemployment driven by military conscription, emigration, and demographics. Central Bank warns labor shortages are driving inflation, forcing interest rates to 14.5%.",
-      "emoji": "🇷🇺",
-      "category": "Economy",
-      "source": "Spectator Australia",
-      "url": "https://www.spectator.com.au/2026/05/russia-is-running-out-of-workers/",
-      "timestamp": "2026-05-03T14:05:00+03:00"
+      "headline": "China and Philippines Trade Accusations Over Disputed South China Sea Reef",
+      "summary": "China accused the Philippines of landing personnel on a disputed reef while Manila said it would dispatch ships to drive off Chinese vessels conducting illegal research. The latest escalation in territorial tensions comes amid ongoing disputes in the strategic waterway.",
+      "emoji": "🇨🇳🇵🇭",
+      "category": "South China Sea",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/china-philippines-trade-accusations-over-south-china-sea-2026-05-03/",
+      "timestamp": "2026-05-03T15:03:00+03:00"
     },
     {
-      "headline": "Ukrainian drone strikes on Tuapse refinery cause major oil spill disaster",
-      "summary": "Hundreds of tons of oil leaked into the Black Sea after Ukrainian drone strikes on Russia's Tuapse refinery, creating an ecological disaster. Russian authorities delayed declaring emergency for 12 days, worsening contamination of air, soil and water.",
-      "emoji": "🇺🇦",
+      "headline": "Israel Approves Multi-Billion Dollar Fighter Jet Purchase from US",
+      "summary": "Israel gave final approval to purchase two new combat squadrons of F-35 and F-15IA advanced fighter aircraft from Lockheed Martin and Boeing. The deal, worth tens of billions of dollars, significantly strengthens Israeli air power amid regional tensions.",
+      "emoji": "🇮🇱✈️",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/israel-approves-plan-buy-f-35-f-15i-aircraft-us-2026-05-03/",
+      "timestamp": "2026-05-03T15:03:00+03:00"
+    },
+    {
+      "headline": "Trump Warns US Could Restart Iran Strikes If Tehran Misbehaves",
+      "summary": "President Trump said the US could resume strikes on Iran if the regime misbehaves, while expressing dissatisfaction with Irans proposed 14-point peace deal. Trump said he prefers a non-military path but remains skeptical of Tehrans intentions.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/iran-offers-strait-deal-trump-dissatisfied-prefers-non-military-path-2026-05-02/",
+      "timestamp": "2026-05-03T15:03:00+03:00"
+    },
+    {
+      "headline": "Russia and Ukraine Give Conflicting Accounts of Sumy Region Fighting",
+      "summary": "Russias Defence Ministry claimed its troops took control of Myropillia village in Ukraines Sumy region, but Ukraines military denied the village had changed hands. The conflicting reports highlight ongoing intense fighting along the northeastern front.",
+      "emoji": "🇺🇦🇷🇺",
       "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/the-oil-spill-in-tuapse-and-the-lessons-russia-didnt-learn/",
-      "timestamp": "2026-05-03T14:05:00+03:00"
-    },
-    {
-      "headline": "Saudi Arabia and UAE lead push for Hormuz-bypass trade corridors",
-      "summary": "Middle Eastern states are dusting off proposals for overland pipelines and rail-sea corridors to bypass the Strait of Hormuz, building a new trade architecture connecting Indian Ocean ports to Mediterranean via Saudi Arabia, Jordan and Syria.",
-      "emoji": "🇸🇦",
-      "category": "Energy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/economics/article/3352166/middle-east-states-eye-transport-resilience-new-logistics-corridor-bypass-hormuz",
-      "timestamp": "2026-05-03T14:05:00+03:00"
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/russia-ukraine-give-conflicting-accounts-village-sumy-region-2026-05-02/",
+      "timestamp": "2026-05-03T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/russia-ukraine-give-conflicting-accounts-village-sumy-region-2026-05-02/",
+          "angle": "Russia and Ukraine give conflicting accounts of Sumy village capture",
+          "summary": "Russia Defense Ministry claimed troops seized Myropillia village in Ukraines Sumy region, but Ukrainian military denied the village changed hands, as fighting continues along multiple fronts in the east."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/aerospace-defense/russia-ukraine-give-conflicting-accounts-village-sumy-region-2026-05-02/",
+        "https://www.reuters.com/business/aerospace-defense/russia-ukraine-give-conflicting-accounts-village-sumy-region-2026-05-02/"
+      ]
     },
     {
       "headline": "Rubio to Visit Vatican and Italy After Trump-Pope Tensions",
@@ -88,6 +113,33 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/north-korea-calls-us-cyber-threat-claims-disinformation-warns-countermeasures-2026-05-02/",
       "timestamp": "2026-05-03T14:10:00+03:00"
+    },
+    {
+      "headline": "Russia faces worker shortage crisis as war depletes labor force",
+      "summary": "Russia has run out of workers for the first time in its post-Soviet history, with record-low 2.1% unemployment driven by military conscription, emigration, and demographics. Central Bank warns labor shortages are driving inflation, forcing interest rates to 14.5%.",
+      "emoji": "🇷🇺",
+      "category": "Economy",
+      "source": "Spectator Australia",
+      "url": "https://www.spectator.com.au/2026/05/russia-is-running-out-of-workers/",
+      "timestamp": "2026-05-03T14:05:00+03:00"
+    },
+    {
+      "headline": "Ukrainian drone strikes on Tuapse refinery cause major oil spill disaster",
+      "summary": "Hundreds of tons of oil leaked into the Black Sea after Ukrainian drone strikes on Russia's Tuapse refinery, creating an ecological disaster. Russian authorities delayed declaring emergency for 12 days, worsening contamination of air, soil and water.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/the-oil-spill-in-tuapse-and-the-lessons-russia-didnt-learn/",
+      "timestamp": "2026-05-03T14:05:00+03:00"
+    },
+    {
+      "headline": "Saudi Arabia and UAE lead push for Hormuz-bypass trade corridors",
+      "summary": "Middle Eastern states are dusting off proposals for overland pipelines and rail-sea corridors to bypass the Strait of Hormuz, building a new trade architecture connecting Indian Ocean ports to Mediterranean via Saudi Arabia, Jordan and Syria.",
+      "emoji": "🇸🇦",
+      "category": "Energy",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/economics/article/3352166/middle-east-states-eye-transport-resilience-new-logistics-corridor-bypass-hormuz",
+      "timestamp": "2026-05-03T14:05:00+03:00"
     },
     {
       "headline": "Taiwan President Defies China with Surprise Eswatini Visit",
@@ -335,31 +387,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/north-koreas-kim-casts-youth-vanguard-state-goals-amid-russia-war-2026-05-02/",
       "timestamp": "2026-05-03T10:03:00+03:00"
-    },
-    {
-      "headline": "Russia and Ukraine give conflicting accounts of Sumy village capture",
-      "summary": "Russia Defense Ministry claimed troops seized Myropillia village in Ukraines Sumy region, but Ukrainian military denied the village changed hands, as fighting continues along multiple fronts in the east.",
-      "emoji": "🇺🇦🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/russia-ukraine-give-conflicting-accounts-village-sumy-region-2026-05-02/",
-      "timestamp": "2026-05-03T10:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/russia-ukraine-give-conflicting-accounts-village-sumy-region-2026-05-02/",
-          "angle": "Russia claims capture of Myropillia village, Ukraine denies",
-          "summary": "Russia's Defence Ministry said its troops took control of Myropillia in Ukraine's Sumy region, but Ukraine's military denied the village had changed hands."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/aerospace-defense/russia-ukraine-give-conflicting-accounts-village-sumy-region-2026-05-02/",
-        "https://www.reuters.com/business/aerospace-defense/russia-ukraine-give-conflicting-accounts-village-sumy-region-2026-05-02/"
-      ]
     },
     {
       "headline": "Israeli Military Orders Evacuation of 11 Southern Lebanon Towns",
@@ -2845,92 +2872,6 @@
       "source": "The Independent",
       "url": "https://www.independent.co.uk/news/world/europe/ukraine-military-robotic-system-russia-putin-soldiers-b2966888.html",
       "timestamp": "2026-05-01T00:04:00+03:00"
-    },
-    {
-      "headline": "China Deploys Warships for Pacific Combat Drills Amid Japan Tensions",
-      "summary": "Beijing stages naval exercises in the western Pacific as territorial disputes with Japan escalate, highlighting intensifying military competition in the Indo-Pacific region.",
-      "emoji": "🇨🇳",
-      "category": "Asia-Pacific",
-      "source": "Straits Times",
-      "url": "https://www.straitstimes.com/asia/east-asia/china-deploys-warship-for-combat-drills-in-western-pacific",
-      "timestamp": "2026-05-01T00:04:00+03:00",
-      "perspectives": [
-        {
-          "source": "China Daily",
-          "url": "http://en.ce.cn/main/latest/202604/t20260429_2937950.shtml",
-          "angle": "China Condemns Japan Over Neo-Militarism Amid Regional Tensions",
-          "summary": "Chinese Foreign Ministry spokesperson calls for countries to resist Japan's reckless moves toward neo-militarism as Tokyo expands defense capabilities."
-        }
-      ],
-      "sources": [
-        "Straits Times",
-        "China Daily"
-      ],
-      "urls": [
-        "https://www.straitstimes.com/asia/east-asia/china-deploys-warship-for-combat-drills-in-western-pacific",
-        "http://en.ce.cn/main/latest/202604/t20260429_2937950.shtml"
-      ]
-    },
-    {
-      "headline": "China's Arctic Ambitions Bolster Russia's Geopolitical Leverage",
-      "summary": "As Beijing pursues polar infrastructure and shipping routes, Moscow gains a strategic partner in the Arctic, potentially reshaping the balance of power in the far north as Western sanctions isolate Russia.",
-      "emoji": "🥶",
-      "category": "Arctic",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/04/how-chinas-arctic-ambitions-inflate-russias-geopolitical-leverage/",
-      "timestamp": "2026-05-01T00:04:00+03:00"
-    },
-    {
-      "headline": "EU Leaders Debate NATO-Style Common Defense Clause",
-      "summary": "European Union member states are considering a mutual defense provision similar to NATO's Article 5, as questions mount about US commitment to European security under the Trump administration.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/my-europe/2026/04/23/newsletter-eu-leaders-weigh-a-nato-style-common-defence-clause",
-      "timestamp": "2026-05-01T00:04:00+03:00"
-    },
-    {
-      "headline": "Federal Reserve Faces Leadership Shake-Up as Warsh Enters, Powell Stays",
-      "summary": "President Trump's pick to lead the Federal Reserve, Kevin Warsh, has called for \"regime change\" at the central bank, while Jerome Powell will remain on the board as a governor after stepping down as chair.",
-      "emoji": "🏛️",
-      "category": "US Politics",
-      "source": "AP News",
-      "url": "https://apnews.com/article/federal-reserve-jerome-powell-kevin-warsh-interest-rates-a6de6854e24e7b43cd8fa1431f455841",
-      "timestamp": "2026-04-30T23:03:00+03:00"
-    },
-    {
-      "headline": "US House Votes to End 76-Day Partial Government Shutdown",
-      "summary": "Lawmakers approved funding for the Department of Homeland Security, ending the longest shutdown in the agency's history that had caused major disruptions at US airports.",
-      "emoji": "🇺🇸",
-      "category": "US Politics",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ce3pw5x3z54o",
-      "timestamp": "2026-04-30T22:20:00+03:00",
-      "perspectives": [
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/04/30/us/politics/house-homeland-security-funding-bill.html",
-          "angle": "House Passes Homeland Security Funding Bill Ending Government Shutdown",
-          "summary": "The US House passed a stalled Homeland Security funding bill using a special procedural maneuver to bypass Republican opposition, ending a partial government shutdown and sending the measure to the Senate."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "New York Times"
-      ],
-      "urls": [
-        "https://www.bbc.co.uk/news/articles/ce3pw5x3z54o",
-        "https://www.nytimes.com/2026/04/30/us/politics/house-homeland-security-funding-bill.html"
-      ]
-    },
-    {
-      "headline": "US CENTCOM requests Dark Eagle hypersonic missile deployment for possible use against Iran",
-      "summary": "US Central Command has asked for the long-delayed hypersonic missile to be sent to the Middle East for potential use in the Iran conflict, marking a significant escalation in military readiness.",
-      "emoji": "🚀",
-      "category": "Defense Industry",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/us-centcom-asks-for-long-delayed-hypersonic-missile-to-be-deployed-for-possible-use-against-iran-report/",
-      "timestamp": "2026-04-30T22:06:00+03:00"
     }
   ]
 }
