@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-05-04T09:05:09+03:00",
+  "lastUpdated": "2026-05-04T10:04:29+03:00",
   "headlines": [
+    {
+      "headline": "IAEA Reports Drone Strike on Zaporizhzhia Nuclear Plant Lab",
+      "summary": "The International Atomic Energy Agency says a drone targeted the external radiation control laboratory at Ukraine's Zaporizhzhia nuclear power plant, raising nuclear safety concerns amid ongoing conflict.",
+      "emoji": "☢️",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/iaea-says-drone-targeted-zaporizhzhia-nuclear-power-plants-external-radiation-2026-05-03/",
+      "timestamp": "2026-05-04T10:05:00+03:00"
+    },
+    {
+      "headline": "US Declares Taiwan a Trusted Partner in Message to Eswatini",
+      "summary": "The United States called Taiwan a trusted and capable partner and praised its ties with Eswatini, reinforcing Washington's support for the island democracy amid China tensions.",
+      "emoji": "🇹🇼",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/us-calls-taiwan-trusted-capable-partner-praises-its-ties-with-eswatini-2026-05-04/",
+      "timestamp": "2026-05-04T10:05:00+03:00"
+    },
+    {
+      "headline": "Nobel Laureate Mohammadi in Critical Condition in Iran",
+      "summary": "Nobel Peace Prize winner Narges Mohammadi remains in critical condition in an Iranian prison, her foundation reports, as the human rights activist continues to face health deterioration.",
+      "emoji": "🇮🇷",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-remains-critical-condition-iran-foundation-says-2026-05-03/",
+      "timestamp": "2026-05-04T10:05:00+03:00"
+    },
     {
       "headline": "Japan and Australia Deepen Cooperation on Energy Security and Critical Minerals",
       "summary": "Japanese PM Sanae Takaichi and Australian PM Anthony Albanese signed agreements on energy security, defense, and critical minerals cooperation amid the Iran war threatening global supply chains. Japan relies on Australia for nearly half its LNG, and both nations aim to reduce vulnerability to Middle East disruptions.",
@@ -8,16 +35,23 @@
       "category": "Asia-Pacific",
       "source": "AP News",
       "url": "https://apnews.com/article/japan-australia-cooperation-takaichi-albanese-energy-agreements-aca28a3fecc19306381d83382fd23abf",
-      "timestamp": "2026-05-04T09:03:00+03:00"
-    },
-    {
-      "headline": "Australia and Japan Deepen Ties with Focus on Economic Security and Supply Chains",
-      "summary": "Leaders of Australia and Japan pledged to build resilient supply chains for energy, critical minerals, and food amid concerns over economic coercion. The agreement counters China's industrial leverage and addresses Hormuz disruption impacts.",
-      "emoji": "🇦🇺🇯🇵",
-      "category": "Asia-Pacific",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/international-relations/australia-and-japan-expand-ties-with-focus-on-economic-security",
-      "timestamp": "2026-05-04T08:10:00+03:00"
+      "timestamp": "2026-05-04T09:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/politics/international-relations/australia-and-japan-expand-ties-with-focus-on-economic-security",
+          "angle": "Australia and Japan Deepen Ties with Focus on Economic Security and Supply Chains",
+          "summary": "Leaders of Australia and Japan pledged to build resilient supply chains for energy, critical minerals, and food amid concerns over economic coercion. The agreement counters China's industrial leverage and addresses Hormuz disruption impacts."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "Nikkei Asia"
+      ],
+      "urls": [
+        "https://apnews.com/article/japan-australia-cooperation-takaichi-albanese-energy-agreements-aca28a3fecc19306381d83382fd23abf",
+        "https://asia.nikkei.com/politics/international-relations/australia-and-japan-expand-ties-with-focus-on-economic-security"
+      ]
     },
     {
       "headline": "China to Expand AI Judicial System After Shenzhen Courts Show 50% Efficiency Gain",
