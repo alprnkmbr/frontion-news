@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-04T04:08:15+03:00",
+  "lastUpdated": "2026-05-04T04:11:24+03:00",
   "headlines": [
+    {
+      "headline": "Ukrainian drone hits luxury Moscow tower days before Victory Day parade",
+      "summary": "A drone attack struck the Mosfilm Tower in central Moscow, marking one of the deepest strikes into the Russian capital residential core. The attack comes just days before the May 9 Victory Day parade.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/damaged-reported-in-moscow-after-ukrainian-drones-reportedly-hit-residential-building/",
+      "timestamp": "2026-05-04T04:10:00+03:00"
+    },
+    {
+      "headline": "Israel extends detention of Gaza flotilla activists amid torture allegations",
+      "summary": "An Israeli court extended by two days the detention of two foreign activists from a Gaza-bound flotilla intercepted in international waters. The activists allege severe physical abuse during their seizure.",
+      "emoji": "🇮🇱",
+      "category": "Middle East",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260504-israel-court-extends-detention-of-two-gaza-flotilla-activists-amid-abuse-claims",
+      "timestamp": "2026-05-04T04:10:00+03:00"
+    },
+    {
+      "headline": "Three dead from suspected hantavirus outbreak on Atlantic cruise ship",
+      "summary": "A suspected hantavirus outbreak aboard the MV Hondius cruise ship has killed three passengers, with one more in intensive care. The ship was traveling from Argentina to the Canary Islands via Antarctica.",
+      "emoji": "🚢",
+      "category": "Geopolitics",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/suspected-hantavirus-outbreak-on-atlantic-cruise-ship-kills-3-who-says/a-77026143",
+      "timestamp": "2026-05-04T04:10:00+03:00"
+    },
+    {
+      "headline": "Merz affirms US as Germany key partner despite troop cuts and Iran tensions",
+      "summary": "German Chancellor Friedrich Merz stated the US remains Germany most important NATO partner, playing down tensions over Iran policy and confirming the US will not station Tomahawk missiles in Germany.",
+      "emoji": "🇩🇪",
+      "category": "Europe",
+      "source": "TRT World",
+      "url": "https://www.trtworld.com/article/1d206394dc3a",
+      "timestamp": "2026-05-04T04:10:00+03:00"
+    },
     {
       "headline": "Ukraine Strikes Russian Baltic Oil Port of Primorsk in Major Drone Assault",
       "summary": "Ukraine launched a wave of drone attacks on targets across Russia, hitting the Baltic Sea port of Primorsk and setting it on fire, while striking multiple vessels. The attack on Russia's key oil export terminal marks a significant escalation in Ukraine's campaign against Russian energy infrastructure.",
@@ -8,7 +44,39 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/russias-primorsk-port-hit-ukraine-launches-wave-drone-strikes-2026-05-03/",
-      "timestamp": "2026-05-04T04:03:00+03:00"
+      "timestamp": "2026-05-04T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-strikes-russian-kalibr-missile-carrier-patrol-boat-in-leningrad-oblast-zelensky-says/",
+          "angle": "Ukraine strikes Russian Kalibr missile carrier and patrol boat in Leningrad Oblast",
+          "summary": "Ukrainian forces successfully targeted a Russian Kalibr missile carrier and patrol boat in Leningrad Oblast, demonstrating Ukraine's ability to strike deep into Russian territory and degrade Russian naval capabilities."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/russias-primorsk-port-hit-ukraine-launches-wave-drone-strikes-2026-05-03/",
+          "angle": "Ukraine Strikes Primorsk Port and Shadow Fleet Tankers in Major Drone Offensive",
+          "summary": "Ukraine launched drone attacks on Russia's Baltic Sea oil port of Primorsk, setting facilities ablaze and striking multiple vessels. The strikes represent an escalation in Ukraine's campaign against Russian energy infrastructure."
+        },
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/the-oil-spill-in-tuapse-and-the-lessons-russia-didnt-learn/",
+          "angle": "Ukrainian drone strikes on Tuapse refinery cause major oil spill disaster",
+          "summary": "Hundreds of tons of oil leaked into the Black Sea after Ukrainian drone strikes on Russia's Tuapse refinery, creating an ecological disaster. Russian authorities delayed declaring emergency for 12 days, worsening contamination of air, soil and water."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Kyiv Independent",
+        "Reuters",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/russias-primorsk-port-hit-ukraine-launches-wave-drone-strikes-2026-05-03/",
+        "https://kyivindependent.com/ukraine-strikes-russian-kalibr-missile-carrier-patrol-boat-in-leningrad-oblast-zelensky-says/",
+        "https://www.reuters.com/world/russias-primorsk-port-hit-ukraine-launches-wave-drone-strikes-2026-05-03/",
+        "https://kyivindependent.com/the-oil-spill-in-tuapse-and-the-lessons-russia-didnt-learn/"
+      ]
     },
     {
       "headline": "IAEA Reports Drone Strike on Zaporizhzhia Nuclear Plant Radiation Lab",
@@ -17,7 +85,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/iaea-says-drone-targeted-zaporizhzhia-nuclear-power-plants-external-radiation-2026-05-03/",
-      "timestamp": "2026-05-04T04:03:00+03:00"
+      "timestamp": "2026-05-04T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/iaea-says-drone-targeted-zaporizhzhia-nuclear-power-plants-external-radiation-2026-05-03/",
+          "angle": "IAEA Reports Drone Strike Near Zaporizhzhia Nuclear Plant Radiation Lab",
+          "summary": "A drone targeted the external radiation control laboratory at the Russian-held Zaporizhzhia nuclear power plant in southeastern Ukraine. The IAEA said the incident raised concerns about nuclear safety near the facility."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/iaea-says-drone-targeted-zaporizhzhia-nuclear-power-plants-external-radiation-2026-05-03/",
+        "https://www.reuters.com/world/europe/iaea-says-drone-targeted-zaporizhzhia-nuclear-power-plants-external-radiation-2026-05-03/"
+      ]
     },
     {
       "headline": "Jailed Iranian Nobel Laureate Narges Mohammadi in Critical Condition",
@@ -26,7 +110,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-remains-critical-condition-iran-foundation-says-2026-05-03/",
-      "timestamp": "2026-05-04T04:03:00+03:00"
+      "timestamp": "2026-05-04T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-remains-critical-condition-iran-foundation-says-2026-05-03/",
+          "angle": "Nobel Laureate Narges Mohammadi in Critical Condition in Iranian Hospital",
+          "summary": "Jailed Nobel Peace Prize laureate Narges Mohammadi was moved to a cardiac care unit in northwestern Iran and remains in critical condition, her family foundation reports."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-remains-critical-condition-iran-foundation-says-2026-05-03/",
+        "https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-remains-critical-condition-iran-foundation-says-2026-05-03/"
+      ]
     },
     {
       "headline": "UAE Exits Arab Oil Exporters Group OAPEC",
@@ -35,7 +135,23 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/uae-exits-arab-oil-exporter-group-oapec-2026-05-03/",
-      "timestamp": "2026-05-04T04:03:00+03:00"
+      "timestamp": "2026-05-04T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/newsmaker-saudi-oil-princes-iron-grip-faces-ultimate-test-with-uaes-shock-opec-2026-05-01/",
+          "angle": "Saudi energy minister faces OPEC crisis as UAE exits oil cartel",
+          "summary": "UAE shocked markets by announcing its departure from OPEC, creating a major challenge for Saudi Energy Minister Prince Abdulaziz bin Salman on top of the Iran-driven disruption to global oil supplies."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/uae-exits-arab-oil-exporter-group-oapec-2026-05-03/",
+        "https://www.reuters.com/business/energy/newsmaker-saudi-oil-princes-iron-grip-faces-ultimate-test-with-uaes-shock-opec-2026-05-01/"
+      ]
     },
     {
       "headline": "Japanese Yen Steadies as Intervention Fears Linger",
@@ -44,7 +160,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/yen-steady-intervention-fears-linger-with-japan-shut-holidays-2026-05-04/",
-      "timestamp": "2026-05-04T04:03:00+03:00"
+      "timestamp": "2026-05-04T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/japan-yen-suddenly-jumps-against-dollar-2026-05-01/",
+          "angle": "Japanese Yen Surges After Suspected Intervention",
+          "summary": "The Japanese yen jumped sharply against the dollar on Friday, a day after Tokyo authorities were widely believed to have intervened to prop up the currency. The move highlights growing currency market volatility."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/yen-steady-intervention-fears-linger-with-japan-shut-holidays-2026-05-04/",
+        "https://www.reuters.com/world/asia-pacific/japan-yen-suddenly-jumps-against-dollar-2026-05-01/"
+      ]
     },
     {
       "headline": "Iran Warns US Hormuz Operation Would Violate Ceasefire",
@@ -389,31 +521,6 @@
       "timestamp": "2026-05-04T00:06:00+03:00"
     },
     {
-      "headline": "Nobel Laureate Narges Mohammadi in Critical Condition in Iranian Hospital",
-      "summary": "Jailed Nobel Peace Prize laureate Narges Mohammadi was moved to a cardiac care unit in northwestern Iran and remains in critical condition, her family foundation reports.",
-      "emoji": "🇮🇷",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-remains-critical-condition-iran-foundation-says-2026-05-03/",
-      "timestamp": "2026-05-04T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-remains-critical-condition-iran-foundation-says-2026-05-03/",
-          "angle": "Nobel Laureate Narges Mohammadi in Critical Condition in Iranian Hospital",
-          "summary": "Jailed Nobel Peace Prize laureate Narges Mohammadi remains in critical condition in a cardiac care unit in northwestern Iran after being transferred from prison. Her family foundation reports her health is deteriorating due to her continued imprisonment."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-remains-critical-condition-iran-foundation-says-2026-05-03/",
-        "https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-remains-critical-condition-iran-foundation-says-2026-05-03/"
-      ]
-    },
-    {
       "headline": "Asian Development Bank Offers Aid to Pacific Nations Hit by Iran War",
       "summary": "The ADB announced readiness to deliver urgent assistance to Pacific countries affected by Middle East conflict and resulting fuel shortages.",
       "emoji": "🌏",
@@ -584,15 +691,6 @@
       "timestamp": "2026-05-03T22:08:00+03:00"
     },
     {
-      "headline": "Ukraine strikes Russian Kalibr missile carrier and patrol boat in Leningrad Oblast",
-      "summary": "Ukrainian forces successfully targeted a Russian Kalibr missile carrier and patrol boat in Leningrad Oblast, demonstrating Ukraine's ability to strike deep into Russian territory and degrade Russian naval capabilities.",
-      "emoji": "🇺🇦⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/ukraine-strikes-russian-kalibr-missile-carrier-patrol-boat-in-leningrad-oblast-zelensky-says/",
-      "timestamp": "2026-05-03T22:08:00+03:00"
-    },
-    {
       "headline": "China's massive stealth flying wing drones spotted together at secretive test base",
       "summary": "New satellite imagery shows multiple large Chinese stealth flying-wing drones operating together at a secretive test base, indicating accelerated development of unmanned combat aerial vehicles for potential future conflicts.",
       "emoji": "🇨🇳✈️",
@@ -600,40 +698,6 @@
       "source": "The War Zone",
       "url": "https://www.twz.com/air/massive-chinese-stealth-flying-wings-spotted-together-at-secretive-drone-test-base",
       "timestamp": "2026-05-03T22:08:00+03:00"
-    },
-    {
-      "headline": "Ukraine Strikes Primorsk Port and Shadow Fleet Tankers in Major Drone Offensive",
-      "summary": "Ukraine launched drone attacks on Russia's Baltic Sea oil port of Primorsk, setting facilities ablaze and striking multiple vessels. The strikes represent an escalation in Ukraine's campaign against Russian energy infrastructure.",
-      "emoji": "🇺🇦⚔️🛢️",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/russias-primorsk-port-hit-ukraine-launches-wave-drone-strikes-2026-05-03/",
-      "timestamp": "2026-05-03T22:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/russias-primorsk-port-hit-ukraine-launches-wave-drone-strikes-2026-05-03/",
-          "angle": "Ukraine Drones Strike Russian Baltic Port of Primorsk",
-          "summary": "Ukraine launched drone attacks hitting the Baltic Sea port of Primorsk, setting it on fire and striking vessels. The attack targets Russian energy infrastructure as Ukraine escalates strikes deep inside Russian territory."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/russias-primorsk-port-hit-ukraine-launches-wave-drone-strikes-2026-05-03/",
-        "https://www.reuters.com/world/russias-primorsk-port-hit-ukraine-launches-wave-drone-strikes-2026-05-03/"
-      ]
-    },
-    {
-      "headline": "IAEA Reports Drone Strike Near Zaporizhzhia Nuclear Plant Radiation Lab",
-      "summary": "A drone targeted the external radiation control laboratory at the Russian-held Zaporizhzhia nuclear power plant in southeastern Ukraine. The IAEA said the incident raised concerns about nuclear safety near the facility.",
-      "emoji": "☢️🇺🇦🚨",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/iaea-says-drone-targeted-zaporizhzhia-nuclear-power-plants-external-radiation-2026-05-03/",
-      "timestamp": "2026-05-03T22:05:00+03:00"
     },
     {
       "headline": "Ukraine Offers Finland Drone Technology Deal, Zelenskiy Announces",
@@ -979,15 +1043,6 @@
       "category": "Economy",
       "source": "Spectator Australia",
       "url": "https://www.spectator.com.au/2026/05/russia-is-running-out-of-workers/",
-      "timestamp": "2026-05-03T14:05:00+03:00"
-    },
-    {
-      "headline": "Ukrainian drone strikes on Tuapse refinery cause major oil spill disaster",
-      "summary": "Hundreds of tons of oil leaked into the Black Sea after Ukrainian drone strikes on Russia's Tuapse refinery, creating an ecological disaster. Russian authorities delayed declaring emergency for 12 days, worsening contamination of air, soil and water.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/the-oil-spill-in-tuapse-and-the-lessons-russia-didnt-learn/",
       "timestamp": "2026-05-03T14:05:00+03:00"
     },
     {
@@ -1873,15 +1928,6 @@
       "source": "CP24",
       "url": "https://www.cp24.com/news/world/2026/05/02/pope-leo-xiv-encourages-wealthy-us-catholics-to-keep-donating/",
       "timestamp": "2026-05-02T18:03:00+03:00"
-    },
-    {
-      "headline": "Saudi energy minister faces OPEC crisis as UAE exits oil cartel",
-      "summary": "UAE shocked markets by announcing its departure from OPEC, creating a major challenge for Saudi Energy Minister Prince Abdulaziz bin Salman on top of the Iran-driven disruption to global oil supplies.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/newsmaker-saudi-oil-princes-iron-grip-faces-ultimate-test-with-uaes-shock-opec-2026-05-01/",
-      "timestamp": "2026-05-02T17:03:00+03:00"
     },
     {
       "headline": "Iranian soccer delegation turns back from Canada after airport questioning",
@@ -2942,15 +2988,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/denmarks-flsmidth-investigates-potential-breach-sanctions-russia-2026-05-01/",
       "timestamp": "2026-05-01T16:03:00+03:00"
-    },
-    {
-      "headline": "Japanese Yen Surges After Suspected Intervention",
-      "summary": "The Japanese yen jumped sharply against the dollar on Friday, a day after Tokyo authorities were widely believed to have intervened to prop up the currency. The move highlights growing currency market volatility.",
-      "emoji": "🇯🇵💴",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/japan-yen-suddenly-jumps-against-dollar-2026-05-01/",
-      "timestamp": "2026-05-01T15:03:00+03:00"
     },
     {
       "headline": "Syria Relies on Russian Oil Despite Western Pivot",
