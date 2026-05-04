@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-05-04T19:14:23+03:00",
+  "lastUpdated": "2026-05-04T20:10:56+03:00",
   "headlines": [
+    {
+      "headline": "Germany calls for European defense spending boost after US troop withdrawal announcement",
+      "summary": "Germanys defense minister said the US plan to withdraw 5,000 troops from Germany should spur Europe to increase its own defense spending, while a top Trump ally called the move \"foreseeable.\" The announcement comes amid tensions over NATOs response to Russias war in Ukraine.",
+      "emoji": "🇩🇪",
+      "category": "Europe",
+      "source": "AP News",
+      "url": "https://apnews.com/article/germany-trump-troops-nato-drawdown-pistorius-merz-a93151327dcb7279a56a36dd4bbeca1c",
+      "timestamp": "2026-05-04T20:03:00+03:00"
+    },
+    {
+      "headline": "Trump tells Congress Iran war \"terminated\" as 60-day legal deadline passes",
+      "summary": "The Trump administration argued to Congress that the Iran ceasefire effectively \"terminated\" hostilities, stopping the clock on the War Powers Act deadline that would have required congressional authorization. Critics say the move evades constitutional war powers oversight.",
+      "emoji": "🏛️",
+      "category": "US Politics",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2026/05/01/trump-congress-war-terminated-00902681",
+      "timestamp": "2026-05-04T20:03:00+03:00"
+    },
+    {
+      "headline": "US official says Iran ceasefire \"terminated\" hostilities under War Powers resolution",
+      "summary": "A US official confirmed that the administration views the Iran ceasefire as having terminated hostilities for War Powers Act purposes, meaning the 60-day clock for congressional authorization has stopped. The legal interpretation faces scrutiny from lawmakers.",
+      "emoji": "⚖️",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/war-powers-resolution-purposes-us-hostilities-with-iran-that-began-february-have-2026-05-01/",
+      "timestamp": "2026-05-04T20:03:00+03:00"
+    },
     {
       "headline": "Ukrainian drone strikes Moscow high-rise days before Victory Day parade",
       "summary": "A Ukrainian drone hit an upscale residential building in Moscow, the third consecutive night of attacks on the Russian capital ahead of a scaled-down May 9 military parade. Mayor Sobyanin reported two other drones intercepted, with airports suspending operations.",
@@ -8,7 +35,23 @@
       "category": "Ukraine-Russia War",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cwy234llx3vo",
-      "timestamp": "2026-05-04T19:15:00+03:00"
+      "timestamp": "2026-05-04T19:15:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/damaged-reported-in-moscow-after-ukrainian-drones-reportedly-hit-residential-building/",
+          "angle": "Luxury Moscow Tower Hit by Ukrainian Drone Strike Ahead of Victory Day Parade",
+          "summary": "A Ukrainian drone strike hit the Mosfilm Tower in an elite Moscow neighborhood approximately 7km from Red Square and 3km from the Russian Defense Ministry, marking one of the deepest strikes into central Moscow's residential core."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cwy234llx3vo",
+        "https://kyivindependent.com/damaged-reported-in-moscow-after-ukrainian-drones-reportedly-hit-residential-building/"
+      ]
     },
     {
       "headline": "European leaders gather in Armenia for historic summits as Russia watches",
@@ -316,31 +359,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/hantavirus-south-africa-cruise-ship-who-4c9215a2bd7cd34a743b2a31323c7e18",
       "timestamp": "2026-05-04T15:06:00+03:00"
-    },
-    {
-      "headline": "Luxury Moscow Tower Hit by Ukrainian Drone Strike Ahead of Victory Day Parade",
-      "summary": "A Ukrainian drone strike hit the Mosfilm Tower in an elite Moscow neighborhood approximately 7km from Red Square and 3km from the Russian Defense Ministry, marking one of the deepest strikes into central Moscow's residential core.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/damaged-reported-in-moscow-after-ukrainian-drones-reportedly-hit-residential-building/",
-      "timestamp": "2026-05-04T14:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Post",
-          "url": "https://www.kyivpost.com/post/75372",
-          "angle": "Russia cancels military hardware display for May 9 Victory Day parade",
-          "summary": "Russia's Defense Ministry announced the annual May 9 Victory Day parade will proceed without tanks or missiles for the first time, citing the \"current operational situation\" and concerns about Ukrainian drone attacks reaching deep into Russian territory."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "Kyiv Post"
-      ],
-      "urls": [
-        "https://kyivindependent.com/damaged-reported-in-moscow-after-ukrainian-drones-reportedly-hit-residential-building/",
-        "https://www.kyivpost.com/post/75372"
-      ]
     },
     {
       "headline": "Germany Prepares Wartime Supply Lines as Defense Minister Cites Paradigm Shift",
@@ -2929,98 +2947,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/sustainability/the-switch/sustainable-switch-climate-focus-iran-war-supercharging-global-shift-renewables-2026-05-01/",
       "timestamp": "2026-05-02T02:03:00+03:00"
-    },
-    {
-      "headline": "Trump Tells Congress Iran War \"Terminated\"",
-      "summary": "President Trump sent letters to Congress asserting that hostilities with Iran have \"terminated,\" attempting to avoid the 60-day War Powers deadline that would require congressional authorization.",
-      "emoji": "🏛️🇺🇸",
-      "category": "US Politics",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/01/us/politics/trump-congress-authorization-iran-war.html",
-      "timestamp": "2026-05-02T01:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Straits Times",
-          "url": "https://www.straitstimes.com/world/middle-east/trump-approval-sinks-to-record-low-as-war-with-iran-drives-cost-of-living-concerns",
-          "angle": "Trump Approval Rating Hits Record Low as Iran War Drives Cost of Living Concerns",
-          "summary": "US President Donald Trump's approval rating has dropped to a record low as the ongoing Iran war fuels economic anxiety among Americans. Rising fuel prices and inflation fears are weighing heavily on public sentiment."
-        }
-      ],
-      "sources": [
-        "New York Times",
-        "Straits Times"
-      ],
-      "urls": [
-        "https://www.nytimes.com/2026/05/01/us/politics/trump-congress-authorization-iran-war.html",
-        "https://www.straitstimes.com/world/middle-east/trump-approval-sinks-to-record-low-as-war-with-iran-drives-cost-of-living-concerns"
-      ]
-    },
-    {
-      "headline": "US to Withdraw 5,000 Troops From Germany",
-      "summary": "The Pentagon announced the withdrawal of 5,000 US troops from Germany amid a widening rift between President Trump and German Chancellor Merz over the Iran war.",
-      "emoji": "🇺🇸🇩🇪",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us-withdrawing-5000-troops-germany-us-officials-say-2026-05-01/",
-      "timestamp": "2026-05-02T01:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "The New York Times",
-          "url": "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html",
-          "angle": "US to withdraw 5,000 troops from Germany after Trump-Pistorius row",
-          "summary": "The Pentagon announced the withdrawal of approximately 5,000 US troops from Germany over the next 6-12 months, following tensions over German criticism of US actions in the Iran conflict."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/some-us-troops-cite-benefits-germany-presence-trump-threatens-pullback-2026-04-30/",
-          "angle": "US troops in Germany highlight strategic value as Trump threatens pullback",
-          "summary": "Senior officers at US Army training facilities in Germany emphasized the benefits of American presence in the country, a day after Trump said he was reviewing whether to reduce troop numbers amid tensions over Europe's stance on Iran."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "The New York Times",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/us-withdrawing-5000-troops-germany-us-officials-say-2026-05-01/",
-        "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html",
-        "https://www.reuters.com/business/aerospace-defense/some-us-troops-cite-benefits-germany-presence-trump-threatens-pullback-2026-04-30/"
-      ]
-    },
-    {
-      "headline": "Barclays Raises 2026 Brent Forecast to $100",
-      "summary": "Barclays raised its 2026 Brent crude forecast from $85 to $100 per barrel, citing prolonged Strait of Hormuz disruption from the ongoing Iran conflict.",
-      "emoji": "🛢️💰",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/barclays-lifts-2026-brent-forecast-100-prolonged-hormuz-disruption-2026-05-01/",
-      "timestamp": "2026-05-02T01:03:00+03:00"
-    },
-    {
-      "headline": "California Gasoline Hits $6 Per Gallon",
-      "summary": "Motorists in California are paying $6 per gallon for gasoline, the highest price in two years, as the Iran war and Hormuz blockade drive fuel costs higher.",
-      "emoji": "⛽🇺🇸",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/californians-now-paying-6-bucks-gallon-kicks-route-66-2026-05-01/",
-      "timestamp": "2026-05-02T01:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/californians-now-paying-6-bucks-gallon-kicks-route-66-2026-05-01/",
-          "angle": "California Gasoline Hits $6 Per Gallon Amid Iran Crisis",
-          "summary": "Motorists in California are paying $6 per gallon for gasoline, the highest in two years, as the Strait of Hormuz standoff drives global oil prices higher. The price surge is becoming a political flashpoint ahead of elections."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/californians-now-paying-6-bucks-gallon-kicks-route-66-2026-05-01/",
-        "https://www.reuters.com/business/energy/californians-now-paying-6-bucks-gallon-kicks-route-66-2026-05-01/"
-      ]
     }
   ]
 }
