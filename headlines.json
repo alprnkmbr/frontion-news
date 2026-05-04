@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-04T17:06:50+03:00",
+  "lastUpdated": "2026-05-04T18:04:35+03:00",
   "headlines": [
+    {
+      "headline": "Trump Withdraws 5,000 Troops from Germany as NATO Tensions Deepen",
+      "summary": "The Pentagon announced a withdrawal of 5,000 U.S. troops from Germany, a move European officials warn undermines NATO cohesion amid the Iran crisis. The decision follows German criticism of U.S. policy and highlights the limits of European efforts to keep Washington committed to the alliance.",
+      "emoji": "🇺🇸🇩🇪",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/trumps-germany-troop-cuts-show-limits-nato-efforts-keep-us-board-2026-05-04/",
+      "timestamp": "2026-05-04T18:03:00+03:00"
+    },
+    {
+      "headline": "Fed Policy Constrained by Iran War Uncertainty, Says Kashkari",
+      "summary": "Minneapolis Fed President Neel Kashkari warned that the ongoing Iran conflict limits the Federal Reserve's ability to provide guidance on interest rate policy, citing risks of higher inflation and economic damage the longer the war persists.",
+      "emoji": "💰🇺🇸",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/kashkari-says-iran-war-limits-feds-ability-provide-rate-guidance-2026-05-03/",
+      "timestamp": "2026-05-04T18:03:00+03:00"
+    },
+    {
+      "headline": "German Carmakers Slump as Trump Hikes EU Auto Tariffs to 25%",
+      "summary": "Shares in German automakers fell sharply after President Trump raised U.S. tariffs on imported European cars from 15% to 25%, dealing a fresh blow to the sector already struggling with global supply chain disruptions.",
+      "emoji": "🚗🇩🇪🇺🇸",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/shares-german-carmakers-fall-after-trump-tariff-hike-2026-05-04/",
+      "timestamp": "2026-05-04T18:03:00+03:00"
+    },
+    {
+      "headline": "US Military Presence in Europe Under Spotlight After Germany Drawdown",
+      "summary": "An AP News analysis examines the scope and strategic importance of U.S. military deployments across Europe as Trump's troop withdrawal from Germany raises questions about America's commitment to NATO deterrence against Russia.",
+      "emoji": "🇪🇺⚔️",
+      "category": "Defense Industry",
+      "source": "AP News",
+      "url": "https://apnews.com/article/nato-germany-trump-defense-military-russia-ukraine-edb9c28be9dd023fd33b6e1c293e3b29",
+      "timestamp": "2026-05-04T18:03:00+03:00"
+    },
     {
       "headline": "Sweden Arrests Chinese Captain of Russia-Linked Tanker",
       "summary": "The Chinese captain of a seized oil tanker with suspected Russian ties was placed under arrest in Sweden on suspicion of carrying false documents and violating seaworthiness laws, the latest action against Russia's shadow fleet in the Baltic Sea.",
@@ -35,7 +71,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/most-gulf-markets-gain-early-hopes-middle-east-resolution-2026-05-04/",
-      "timestamp": "2026-05-04T17:03:00+03:00"
+      "timestamp": "2026-05-04T17:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/gulf-bourses-close-higher-us-iran-uncertainty-caps-upside-2026-05-03/",
+          "angle": "Gulf Stock Markets Rise as Iran-US Uncertainty Caps Upside",
+          "summary": "Most Gulf bourses closed higher on Sunday, but gains were limited by ongoing uncertainty over a potential US-Iran peace deal."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/most-gulf-markets-gain-early-hopes-middle-east-resolution-2026-05-04/",
+        "https://www.reuters.com/world/middle-east/gulf-bourses-close-higher-us-iran-uncertainty-caps-upside-2026-05-03/"
+      ]
     },
     {
       "headline": "US Launches Effort to Reopen Strait of Hormuz",
@@ -1231,15 +1283,6 @@
         "https://www.reuters.com/sustainability/climate-energy/asian-development-bank-offers-help-pacific-countries-hit-by-iran-war-2026-05-03/",
         "https://asia.nikkei.com/business/agriculture/australian-farmers-face-hard-choices-as-iran-war-hits-fertilizer-supplies"
       ]
-    },
-    {
-      "headline": "Gulf Stock Markets Rise as Iran-US Uncertainty Caps Upside",
-      "summary": "Most Gulf bourses closed higher on Sunday, but gains were limited by ongoing uncertainty over a potential US-Iran peace deal.",
-      "emoji": "📈",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/gulf-bourses-close-higher-us-iran-uncertainty-caps-upside-2026-05-03/",
-      "timestamp": "2026-05-04T00:03:00+03:00"
     },
     {
       "headline": "Ship Attacked Off Iran as Tehran Reviews US Response to Peace Proposal",
@@ -3001,74 +3044,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/kashkri-uncertainty-around-oil-shock-means-fed-should-acknowledge-risk-rate-2026-05-01/",
       "timestamp": "2026-05-02T00:03:00+03:00"
-    },
-    {
-      "headline": "US Gas Glut Stranded as Asia, Europe Scramble for Supply",
-      "summary": "The Iran war has boosted globally traded natural gas prices while West Texas gas remains so abundant that some producers must pay to have it taken away, highlighting a stark geographic imbalance in energy markets.",
-      "emoji": "🛢️🌍",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/while-asia-europe-scramble-natural-gas-us-glut-has-nowhere-go-2026-05-01/",
-      "timestamp": "2026-05-02T00:03:00+03:00"
-    },
-    {
-      "headline": "Huawei Expects 60% Jump in AI Chip Revenue as China Demand Surges",
-      "summary": "Huawei expects revenue from its AI chips to jump at least 60% this year, boosted by strong demand from Chinese companies seeking domestic alternatives amid U.S. export restrictions on advanced semiconductors.",
-      "emoji": "🇨🇳💻",
-      "category": "Technology",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/huawei-expects-ai-chip-revenue-jump-least-60-this-year-ft-reports-2026-05-01/",
-      "timestamp": "2026-05-02T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/huawei-expects-ai-chip-revenue-jump-least-60-this-year-ft-reports-2026-05-01/",
-          "angle": "Huawei Expects AI Chip Revenue to Jump at Least 60% This Year",
-          "summary": "Huawei projects revenue from its AI chips to surge at least 60% in 2026, driven by strong demand from Chinese companies for domestic alternatives amid U.S. export restrictions."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/huawei-expects-ai-chip-revenue-jump-least-60-this-year-ft-reports-2026-05-01/",
-        "https://www.reuters.com/world/china/huawei-expects-ai-chip-revenue-jump-least-60-this-year-ft-reports-2026-05-01/"
-      ]
-    },
-    {
-      "headline": "US Navy turns to AI firm to counter Iranian mines in Strait of Hormuz",
-      "summary": "The US Navy awarded a contract to AI firm Domino to enhance mine-hunting capabilities in the Strait of Hormuz, one of the world's most critical shipping lanes, amid ongoing tensions with Iran.",
-      "emoji": "🇺🇸",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-navy-turns-ai-firm-domino-options-counter-iranian-mines-2026-05-01/",
-      "timestamp": "2026-05-01T23:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/us-navy-turns-ai-firm-domino-options-counter-iranian-mines-2026-05-01/",
-          "angle": "US Navy taps AI firm to counter Iranian mines in Strait of Hormuz",
-          "summary": "The US Navy is accelerating AI capabilities to detect Iranian mines in the critical Strait of Hormuz shipping lane, according to a newly awarded contract with AI firm Domino."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/us-navy-turns-ai-firm-domino-options-counter-iranian-mines-2026-05-01/",
-        "https://www.reuters.com/world/middle-east/us-navy-turns-ai-firm-domino-options-counter-iranian-mines-2026-05-01/"
-      ]
-    },
-    {
-      "headline": "WHO delays pandemic treaty amid pathogen-sharing dispute",
-      "summary": "World Health Organization member states extended talks on pathogen-sharing rules, delaying the pandemic treaty negotiations. The dispute centers on how pathogens and vaccines should be shared globally.",
-      "emoji": "🌍",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters/world/who-delays-pandemic-treaty-amid-pathogen-sharing-dispute-2026-05-01/",
-      "timestamp": "2026-05-01T23:03:00+03:00"
     }
   ]
 }
