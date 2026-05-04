@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2026-05-04T08:04:56+03:00",
+  "lastUpdated": "2026-05-04T08:06:25+03:00",
   "headlines": [
     {
-      "headline": "Iran Says US Has Responded to Latest Peace Proposal",
-      "summary": "Tehran claims the US has responded to its peace initiative, though Trump reportedly told Israeli media the proposal was unacceptable. The diplomatic exchange comes amid fragile ceasefire conditions.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cn0px2x53k2o",
-      "timestamp": "2026-05-04T08:05:00+03:00"
+      "headline": "Kuwait Records Zero Crude Oil Exports for First Time Since 1991 Gulf War",
+      "summary": "TankerTrackers confirms Kuwait exported no crude oil in April due to the Strait of Hormuz blockade, marking the first month without exports since the 1991 Gulf War. The disruption highlights growing impacts on Gulf oil producers from the Iran-US conflict.",
+      "emoji": "🇰🇼🛢️",
+      "category": "Energy",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/news/world/kuwait-didnt-export-any-crude-oil-in-april-for-the-first-time-in-over-30-years-oil-shipments-tracker-11777782116949.html",
+      "timestamp": "2026-05-04T08:10:00+03:00"
+    },
+    {
+      "headline": "Australia and Japan Deepen Ties with Focus on Economic Security and Supply Chains",
+      "summary": "Leaders of Australia and Japan pledged to build resilient supply chains for energy, critical minerals, and food amid concerns over economic coercion. The agreement counters China's industrial leverage and addresses Hormuz disruption impacts.",
+      "emoji": "🇦🇺🇯🇵",
+      "category": "Asia-Pacific",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/australia-and-japan-expand-ties-with-focus-on-economic-security",
+      "timestamp": "2026-05-04T08:10:00+03:00"
+    },
+    {
+      "headline": "China to Expand AI Judicial System After Shenzhen Courts Show 50% Efficiency Gain",
+      "summary": "Shenzhen judges processed 50% more cases in 2025 using an AI-powered judicial system, prompting expansion to dozens more Chinese cities. The system covers 85 judicial procedures using domain-specific large language models.",
+      "emoji": "🇨🇳⚖️",
+      "category": "Technology",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/politics/article/3352161/ai-helped-shenzhen-judges-handle-cases-50-faster-future-china",
+      "timestamp": "2026-05-04T08:10:00+03:00"
     },
     {
       "headline": "US Republicans Criticize German Troop Withdrawal Plan",
@@ -17,15 +35,6 @@
       "category": "Europe",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo",
-      "timestamp": "2026-05-04T08:05:00+03:00"
-    },
-    {
-      "headline": "Jailed Iranian Nobel Laureate Hospitalized as Health Deteriorates",
-      "summary": "Narges Mohammadi, 54, was transferred from prison to hospital after a sharp decline in her condition. Her family fears she is dying amid concerns about Iran's treatment of political prisoners.",
-      "emoji": "🇮🇷",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c362pd8epw9o",
       "timestamp": "2026-05-04T08:05:00+03:00"
     },
     {
@@ -444,6 +453,31 @@
       "timestamp": "2026-05-04T04:10:00+03:00"
     },
     {
+      "headline": "Jailed Iranian Nobel Laureate Narges Mohammadi in Critical Condition",
+      "summary": "Nobel Peace Prize laureate Narges Mohammadi remains in critical condition in a cardiac care unit in northwestern Iran after being transferred from prison. Her family's foundation warns that authorities have blocked her transfer to Tehran for specialist care.",
+      "emoji": "🇮🇷⛪",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-remains-critical-condition-iran-foundation-says-2026-05-03/",
+      "timestamp": "2026-05-04T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c362pd8epw9o",
+          "angle": "Jailed Iranian Nobel Laureate Hospitalized as Health Deteriorates",
+          "summary": "Narges Mohammadi, 54, was transferred from prison to hospital after a sharp decline in her condition. Her family fears she is dying amid concerns about Iran's treatment of political prisoners."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-remains-critical-condition-iran-foundation-says-2026-05-03/",
+        "https://www.bbc.com/news/articles/c362pd8epw9o"
+      ]
+    },
+    {
       "headline": "Ukraine Strikes Russian Baltic Oil Port of Primorsk in Major Drone Assault",
       "summary": "Ukraine launched a wave of drone attacks on targets across Russia, hitting the Baltic Sea port of Primorsk and setting it on fire, while striking multiple vessels. The attack on Russia's key oil export terminal marks a significant escalation in Ukraine's campaign against Russian energy infrastructure.",
       "emoji": "🇺🇦🇷🇺",
@@ -507,31 +541,6 @@
       "urls": [
         "https://www.reuters.com/world/europe/iaea-says-drone-targeted-zaporizhzhia-nuclear-power-plants-external-radiation-2026-05-03/",
         "https://www.reuters.com/world/europe/iaea-says-drone-targeted-zaporizhzhia-nuclear-power-plants-external-radiation-2026-05-03/"
-      ]
-    },
-    {
-      "headline": "Jailed Iranian Nobel Laureate Narges Mohammadi in Critical Condition",
-      "summary": "Nobel Peace Prize laureate Narges Mohammadi remains in critical condition in a cardiac care unit in northwestern Iran after being transferred from prison. Her family's foundation warns that authorities have blocked her transfer to Tehran for specialist care.",
-      "emoji": "🇮🇷⛪",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-remains-critical-condition-iran-foundation-says-2026-05-03/",
-      "timestamp": "2026-05-04T04:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-remains-critical-condition-iran-foundation-says-2026-05-03/",
-          "angle": "Nobel Laureate Narges Mohammadi in Critical Condition in Iranian Hospital",
-          "summary": "Jailed Nobel Peace Prize laureate Narges Mohammadi was moved to a cardiac care unit in northwestern Iran and remains in critical condition, her family foundation reports."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-remains-critical-condition-iran-foundation-says-2026-05-03/",
-        "https://www.reuters.com/world/middle-east/nobel-laureate-mohammadi-remains-critical-condition-iran-foundation-says-2026-05-03/"
       ]
     },
     {
@@ -827,19 +836,19 @@
       "timestamp": "2026-05-03T23:03:00+03:00",
       "perspectives": [
         {
-          "source": "Daily Sabah",
-          "url": "https://www.dailysabah.com/world/mid-east/trump-offers-cold-shoulder-to-irans-new-14-point-peace-plan",
-          "angle": "Trump dismisses Iran's 14-point peace proposal as insufficient",
-          "summary": "Trump said he would review Iran's new peace plan but warned Tehran \"has not yet paid a big enough price\" for 47 years of actions. Iran's proposal, submitted via Islamabad, includes ending the conflict and a new Strait of Hormuz framework."
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cn0px2x53k2o",
+          "angle": "Iran Says US Has Responded to Latest Peace Proposal",
+          "summary": "Tehran claims the US has responded to its peace initiative, though Trump reportedly told Israeli media the proposal was unacceptable. The diplomatic exchange comes amid fragile ceasefire conditions."
         }
       ],
       "sources": [
         "Reuters",
-        "Daily Sabah"
+        "BBC"
       ],
       "urls": [
         "https://www.reuters.com/markets/commodities/bulk-carrier-reports-being-attacked-by-multiple-small-craft-off-iran-ukmto-says-2026-05-03/",
-        "https://www.dailysabah.com/world/mid-east/trump-offers-cold-shoulder-to-irans-new-14-point-peace-plan"
+        "https://www.bbc.com/news/articles/cn0px2x53k2o"
       ]
     },
     {
@@ -3114,33 +3123,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/opinion/west-bubble-illusion-israel-about-itself-finally-being-burst",
       "timestamp": "2026-05-01T16:10:00+03:00"
-    },
-    {
-      "headline": "House Speaker Johnson claims US is \"not at war\" with Iran as 60-day deadline passes",
-      "summary": "Speaker Mike Johnson said Congress doesn't need to authorize military action because the US is \"not at war\" with Iran, despite the conflict nearing the 60-day War Powers Resolution threshold. The White House argues hostilities have \"terminated\" due to the ceasefire.",
-      "emoji": "🏛️",
-      "category": "US Politics",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/congress/house-speaker-mike-johnson-says-us-not-war-iran-white-house-approaches-rcna342868",
-      "timestamp": "2026-05-01T16:03:00+03:00"
-    },
-    {
-      "headline": "Danish company FLSmidth investigates potential Russia sanctions breach",
-      "summary": "Danish mining equipment supplier FLSmidth said it is investigating whether it failed to comply with sanctions after discovering it provided certain pre-contract tender materials to Russia, amid ongoing Western restrictions over the Ukraine war.",
-      "emoji": "🇩🇰",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/denmarks-flsmidth-investigates-potential-breach-sanctions-russia-2026-05-01/",
-      "timestamp": "2026-05-01T16:03:00+03:00"
-    },
-    {
-      "headline": "Syria Relies on Russian Oil Despite Western Pivot",
-      "summary": "Russia has emerged as the main supplier of oil to Syria despite the new government alignment with the West, Reuters reporting shows. The situation highlights complex regional energy dynamics amid the broader Middle East conflict.",
-      "emoji": "🇸🇾🇷🇺",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/syria-relies-russias-oil-despite-pivot-west-2026-05-01/",
-      "timestamp": "2026-05-01T15:03:00+03:00"
     }
   ]
 }
