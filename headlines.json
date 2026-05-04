@@ -1,23 +1,32 @@
 {
-  "lastUpdated": "2026-05-04T12:06:26+03:00",
+  "lastUpdated": "2026-05-04T12:08:58+03:00",
   "headlines": [
     {
-      "headline": "Iran Warns US Ships Not to Enter Strait of Hormuz as 'Guide Mission' Launches",
-      "summary": "Iran's military warned that any foreign armed force approaching the Strait of Hormuz would be attacked, as the US begins a mission to guide stranded ships through the critical waterway. The standoff continues amid fragile ceasefire negotiations.",
-      "emoji": "🇮🇷🇺🇸⚔️",
-      "category": "US-Iran War",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/iran/iran-war-trump-mission-guide-ships-strait-hormuz-attack-energy-prices-rcna343406",
-      "timestamp": "2026-05-04T12:03:00+03:00"
+      "headline": "Finland raises concerns with Ukraine over drones entering Finnish airspace",
+      "summary": "Finnish PM Petteri Orpo told Zelensky that drone incursions near the Finnish-Russian border are unacceptable. The incident coincided with an alleged Ukrainian drone strike on Leningrad Oblast.",
+      "emoji": "🇫🇮",
+      "category": "Europe",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/finland-turns-to-ukraine-over-drone-straying-into-finnish-airspace/",
+      "timestamp": "2026-05-04T12:15:00+03:00"
     },
     {
-      "headline": "Australia and Japan Sign Energy Security Pact Amid Middle East Supply Crisis",
-      "summary": "Japanese PM Sanae Takaichi and Australian PM Anthony Albanese signed agreements deepening cooperation on energy and critical minerals, with Australia providing up to A$1.3 billion for critical mineral projects. The pact aims to secure supply chains disrupted by the Iran conflict.",
-      "emoji": "🇯🇵🇦🇺💰",
-      "category": "Asia-Pacific",
-      "source": "Asahi Shimbun",
-      "url": "https://www.asahi.com/ajw/articles/16544338",
-      "timestamp": "2026-05-04T12:03:00+03:00"
+      "headline": "Oil prices climb as Iran threatens US forces entering Strait of Hormuz",
+      "summary": "Brent crude rose 1.5% to $109.80 after Iran warned it would attack US forces approaching the strait. The US launched Project Freedom to escort stranded vessels through the waterway.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Oil Price",
+      "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Climb-as-Iran-Threatens-US-Forces.html",
+      "timestamp": "2026-05-04T12:15:00+03:00"
+    },
+    {
+      "headline": "War on Iran triggers crisis of trust in nuclear non-proliferation treaty",
+      "summary": "The US-Israel campaign against Iran has exposed fundamental flaws in the NPT, diplomats say. Iran remained in compliance with the JCPOA before the US withdrawal, raising questions about the value of nuclear restraint.",
+      "emoji": "☢️",
+      "category": "Diplomacy",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/war-iran-fundamental-crisis-trust-nuclear-non-proliferation-treaty",
+      "timestamp": "2026-05-04T12:15:00+03:00"
     },
     {
       "headline": "Hezbollah Suffers Heavy Casualties in Lebanon Fighting, Over 2,600 Dead",
@@ -26,7 +35,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/hezbollah-pays-steep-price-battle-reverse-its-fortunes-2026-05-03/",
-      "timestamp": "2026-05-04T12:03:00+03:00"
+      "timestamp": "2026-05-04T12:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/hezbollah-pays-steep-price-battle-reverse-its-fortunes-2026-05-03/",
+          "angle": "Hezbollah suffers heavy losses in battle to reverse its fortunes in southern Lebanon",
+          "summary": "Israel has occupied a chunk of southern Lebanon and displaced thousands of Shi'ite Muslim constituents, with Hezbollah paying a steep price in its efforts to regain ground and influence in the region."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/hezbollah-pays-steep-price-battle-reverse-its-fortunes-2026-05-03/",
+        "https://www.reuters.com/world/asia-pacific/hezbollah-pays-steep-price-battle-reverse-its-fortunes-2026-05-03/"
+      ]
     },
     {
       "headline": "Iran Warns US Navy to Stay Clear of Hormuz as Trump Launches Ship Escort Mission",
@@ -38,35 +63,19 @@
       "timestamp": "2026-05-04T11:03:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/trump-says-us-help-ships-stranded-strait-hormuz-tanker-hit-by-projectiles-2026-05-04/",
-          "angle": "Trump Announces \"Project Freedom\" to Escort Ships Through Strait of Hormuz",
-          "summary": "The US will launch a military-backed operation to guide stranded commercial vessels through the Strait of Hormuz, with 15,000 personnel and over 100 aircraft committed to the effort as the Iran conflict continues."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/iran-offers-strait-deal-trump-dissatisfied-prefers-non-military-path-2026-05-02/",
-          "angle": "Trump Warns US Could Restart Iran Strikes If Tehran Misbehaves",
-          "summary": "President Trump said the US could resume strikes on Iran if the regime misbehaves, while expressing dissatisfaction with Irans proposed 14-point peace deal. Trump said he prefers a non-military path but remains skeptical of Tehrans intentions."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.msn.com/en-us/money/economy/us-warns-shippers-they-could-face-sanctions-for-paying-iran-s-strait-of-hormuz-tolls/ar-AA22eBxh",
-          "angle": "US Warns Shippers of Sanctions for Paying Iran Strait of Hormuz Tolls",
-          "summary": "The United States has warned global shipping companies they could face sanctions if they pay Iran for safe passage through the Strait of Hormuz, escalating the financial dimension of the Iran crisis."
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/world/iran/iran-war-trump-mission-guide-ships-strait-hormuz-attack-energy-prices-rcna343406",
+          "angle": "Iran Warns US Ships Not to Enter Strait of Hormuz as 'Guide Mission' Launches",
+          "summary": "Iran's military warned that any foreign armed force approaching the Strait of Hormuz would be attacked, as the US begins a mission to guide stranded ships through the critical waterway. The standoff continues amid fragile ceasefire negotiations."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters",
-        "Reuters",
-        "Reuters"
+        "NBC News"
       ],
       "urls": [
         "https://www.reuters.com/world/asia-pacific/trump-says-us-help-ships-stranded-strait-hormuz-tanker-hit-by-projectiles-2026-05-04/",
-        "https://www.reuters.com/world/asia-pacific/trump-says-us-help-ships-stranded-strait-hormuz-tanker-hit-by-projectiles-2026-05-04/",
-        "https://www.reuters.com/world/asia-pacific/iran-offers-strait-deal-trump-dissatisfied-prefers-non-military-path-2026-05-02/",
-        "https://www.msn.com/en-us/money/economy/us-warns-shippers-they-could-face-sanctions-for-paying-iran-s-strait-of-hormuz-tolls/ar-AA22eBxh"
+        "https://www.nbcnews.com/world/iran/iran-war-trump-mission-guide-ships-strait-hormuz-attack-energy-prices-rcna343406"
       ]
     },
     {
@@ -208,19 +217,35 @@
       "timestamp": "2026-05-04T09:03:00+03:00",
       "perspectives": [
         {
-          "source": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/politics/international-relations/australia-and-japan-expand-ties-with-focus-on-economic-security",
-          "angle": "Australia and Japan Deepen Ties with Focus on Economic Security and Supply Chains",
-          "summary": "Leaders of Australia and Japan pledged to build resilient supply chains for energy, critical minerals, and food amid concerns over economic coercion. The agreement counters China's industrial leverage and addresses Hormuz disruption impacts."
+          "source": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/asia-pacific/australia-japan-to-boost-defense-cooperation-expand-minerals-partnership/3926210",
+          "angle": "Australia and Japan sign defense and critical minerals agreements",
+          "summary": "PMs Albanese and Takaichi signed agreements on defense cooperation, energy security, and critical minerals supply chains. The quasi-alliance aims to counter Chinas growing influence in the Indo-Pacific."
+        },
+        {
+          "source": "Asahi Shimbun",
+          "url": "https://www.asahi.com/ajw/articles/16544338",
+          "angle": "Australia and Japan Sign Energy Security Pact Amid Middle East Supply Crisis",
+          "summary": "Japanese PM Sanae Takaichi and Australian PM Anthony Albanese signed agreements deepening cooperation on energy and critical minerals, with Australia providing up to A$1.3 billion for critical mineral projects. The pact aims to secure supply chains disrupted by the Iran conflict."
+        },
+        {
+          "source": "Defense News",
+          "url": "https://www.defensenews.com/global/asia-pacific/2026/04/27/massive-frigate-buy-from-japan-jolts-australian-warship-program/",
+          "angle": "Japan-Australia Seal $14.4B Frigate Deal in Historic Defense Pact",
+          "summary": "Japan and Australia signed contracts for a $14.4 billion warship deal, marking Japan's largest defense export. The Mogami-class frigates will be built for the Australian Navy, deepening defense ties between US allies in the Indo-Pacific."
         }
       ],
       "sources": [
         "AP News",
-        "Nikkei Asia"
+        "Anadolu Agency",
+        "Asahi Shimbun",
+        "Defense News"
       ],
       "urls": [
         "https://apnews.com/article/japan-australia-cooperation-takaichi-albanese-energy-agreements-aca28a3fecc19306381d83382fd23abf",
-        "https://asia.nikkei.com/politics/international-relations/australia-and-japan-expand-ties-with-focus-on-economic-security"
+        "https://www.aa.com.tr/en/asia-pacific/australia-japan-to-boost-defense-cooperation-expand-minerals-partnership/3926210",
+        "https://www.asahi.com/ajw/articles/16544338",
+        "https://www.defensenews.com/global/asia-pacific/2026/04/27/massive-frigate-buy-from-japan-jolts-australian-warship-program/"
       ]
     },
     {
@@ -495,39 +520,6 @@
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-05-04/asian-stocks-outside-of-japan-hit-record-high-as-tech-rallies",
       "timestamp": "2026-05-04T06:03:00+03:00"
-    },
-    {
-      "headline": "Hezbollah suffers heavy losses in battle to reverse its fortunes in southern Lebanon",
-      "summary": "Israel has occupied a chunk of southern Lebanon and displaced thousands of Shi'ite Muslim constituents, with Hezbollah paying a steep price in its efforts to regain ground and influence in the region.",
-      "emoji": "🇱🇧⚔️",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/hezbollah-pays-steep-price-battle-reverse-its-fortunes-2026-05-03/",
-      "timestamp": "2026-05-04T05:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/hezbollah-pays-steep-price-in-battle-reverse-its-fortunes-2026-05-03/",
-          "angle": "Hezbollah Pays Steep Price in Battle to Reverse Fortunes",
-          "summary": "A Reuters analysis examines how Hezbollah has suffered significant losses in its fight to recover from recent setbacks, as the group faces mounting pressure on multiple fronts."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/israeli-military-urges-southern-lebanon-residents-evacuate-amid-operations-2026-05-03/",
-          "angle": "Israel orders evacuations of 11 towns in southern Lebanon amid Hezbollah operations",
-          "summary": "The Israeli military issued urgent evacuation warnings to residents of 11 towns and villages in southern Lebanon, telling them to move at least 1,000 meters away. The order comes as Israel continues operations against Hezbollah."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/hezbollah-pays-steep-price-battle-reverse-its-fortunes-2026-05-03/",
-        "https://www.reuters.com/world/asia-pacific/hezbollah-pays-steep-price-in-battle-reverse-its-fortunes-2026-05-03/",
-        "https://www.reuters.com/world/middle-east/israeli-military-urges-southern-lebanon-residents-evacuate-amid-operations-2026-05-03/"
-      ]
     },
     {
       "headline": "Two US troops missing during African Lion military exercise in Morocco",
@@ -971,19 +963,19 @@
       "timestamp": "2026-05-03T23:03:00+03:00",
       "perspectives": [
         {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cn0px2x53k2o",
-          "angle": "Iran Says US Has Responded to Latest Peace Proposal",
-          "summary": "Tehran claims the US has responded to its peace initiative, though Trump reportedly told Israeli media the proposal was unacceptable. The diplomatic exchange comes amid fragile ceasefire conditions."
+          "source": "Channel News Asia",
+          "url": "https://www.channelnewsasia.com/world/iran-says-it-has-received-us-response-its-latest-offer-talks-6097326",
+          "angle": "Iran says it received US response to latest peace proposal",
+          "summary": "Tehran confirmed receiving Washingtons response to its 14-point proposal via Pakistan. Trump said he would likely reject the offer because Iran has not paid a big enough price."
         }
       ],
       "sources": [
         "Reuters",
-        "BBC"
+        "Channel News Asia"
       ],
       "urls": [
         "https://www.reuters.com/markets/commodities/bulk-carrier-reports-being-attacked-by-multiple-small-craft-off-iran-ukmto-says-2026-05-03/",
-        "https://www.bbc.com/news/articles/cn0px2x53k2o"
+        "https://www.channelnewsasia.com/world/iran-says-it-has-received-us-response-its-latest-offer-talks-6097326"
       ]
     },
     {
@@ -2688,31 +2680,6 @@
       ]
     },
     {
-      "headline": "Japan-Australia Seal $14.4B Frigate Deal in Historic Defense Pact",
-      "summary": "Japan and Australia signed contracts for a $14.4 billion warship deal, marking Japan's largest defense export. The Mogami-class frigates will be built for the Australian Navy, deepening defense ties between US allies in the Indo-Pacific.",
-      "emoji": "🇯🇵🇦🇺",
-      "category": "Asia-Pacific",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/global/asia-pacific/2026/04/27/massive-frigate-buy-from-japan-jolts-australian-warship-program/",
-      "timestamp": "2026-05-02T00:07:00+03:00",
-      "perspectives": [
-        {
-          "source": "ABC News Australia",
-          "url": "https://www.abc.net.au/asia/australia-and-japan-face-a-similar-dilemma-with-united-states/106638114",
-          "angle": "Australia-Japan Defense Dilemma: Indispensable to US But Not Dependent",
-          "summary": "Japanese PM Takaichi's Australia visit highlights a shared challenge: maintaining US alliance value while building independent security capabilities in an uncertain geopolitical environment."
-        }
-      ],
-      "sources": [
-        "Defense News",
-        "ABC News Australia"
-      ],
-      "urls": [
-        "https://www.defensenews.com/global/asia-pacific/2026/04/27/massive-frigate-buy-from-japan-jolts-australian-warship-program/",
-        "https://www.abc.net.au/asia/australia-and-japan-face-a-similar-dilemma-with-united-states/106638114"
-      ]
-    },
-    {
       "headline": "Germany Unveils Strategy to Become Europe's Strongest Military by 2039",
       "summary": "Germany announced a comprehensive defense modernization strategy aimed at becoming Europe's strongest conventional military force within 15 years. The plan comes as Trump threatens to reduce US troops stationed in Germany.",
       "emoji": "🇩🇪🛡️",
@@ -3089,40 +3056,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/news/china/military/article/3352120/pakistan-commissions-first-chinese-attack-submarine-historic-milestone-navy",
       "timestamp": "2026-05-01T18:06:00+03:00"
-    },
-    {
-      "headline": "Bahrain king orders more citizenship revocations over support for Iran attacks",
-      "summary": "Bahrain's King Hamad orders additional citizenship revocations for individuals accused of supporting Iranian attacks, escalating the Gulf state's crackdown amid regional tensions.",
-      "emoji": "🇧🇭",
-      "category": "Middle East",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/middle-east/bahrain-king-orders-more-citizenship-revocations-over-support-for-iran-attacks/3924394",
-      "timestamp": "2026-05-01T18:06:00+03:00"
-    },
-    {
-      "headline": "Gulf countries' plans to bypass Hormuz still far off, experts warn",
-      "summary": "Despite war-driven urgency to find alternative oil and trade routes, Gulf monarchies face significant logistical and financial hurdles to rerouting around the Strait of Hormuz.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Al-Monitor",
-      "url": "https://www.al-monitor.com/originals/2026/05/gulf-countries-plans-bypass-hormuz-still-far-experts-warn",
-      "timestamp": "2026-05-01T18:06:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Conversation",
-          "url": "https://theconversation.com/what-alternatives-do-gulf-states-have-to-the-strait-of-hormuz-281805",
-          "angle": "Gulf states test Hormuz bypass infrastructure as strait remains blocked",
-          "summary": "With the Strait of Hormuz largely shut for two months due to the Iran war, alternative pipelines and routes are being stress-tested to their limits, revealing both capabilities and vulnerabilities in Gulf energy export infrastructure."
-        }
-      ],
-      "sources": [
-        "Al-Monitor",
-        "The Conversation"
-      ],
-      "urls": [
-        "https://www.al-monitor.com/originals/2026/05/gulf-countries-plans-bypass-hormuz-still-far-experts-warn",
-        "https://theconversation.com/what-alternatives-do-gulf-states-have-to-the-strait-of-hormuz-281805"
-      ]
     }
   ]
 }
