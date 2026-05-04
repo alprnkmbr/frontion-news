@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-04T14:11:11+03:00",
+  "lastUpdated": "2026-05-04T15:07:28+03:00",
   "headlines": [
+    {
+      "headline": "US launches \"Project Freedom\" to guide ships through Strait of Hormuz as Iran threatens attacks",
+      "summary": "President Trump announced the US military would begin escorting stranded vessels through the blocked waterway. Iran warned it would attack any ships accepting US guidance, while the UAE reported an ADNOC tanker was targeted by Iranian drones.",
+      "emoji": "🇺🇸🇮🇷⚔️",
+      "category": "US-Iran War",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-ship-attack-threat-peace-proposal/",
+      "timestamp": "2026-05-04T15:06:00+03:00"
+    },
+    {
+      "headline": "NATO chief Rutte says Europe ready to help clear mines from Strait of Hormuz",
+      "summary": "NATO Secretary General Mark Rutte said European governments \"got the message\" from Trump on the Iran conflict and are prepared to deploy mine hunters and minesweepers in the \"next phase\" of the operation to restore freedom of navigation.",
+      "emoji": "🇪🇺🛡️",
+      "category": "Diplomacy",
+      "source": "Irish Times",
+      "url": "https://www.irishtimes.com/world/europe/2026/05/04/europe-has-gotten-the-message-from-trump-on-iran-nato-chief-says/",
+      "timestamp": "2026-05-04T15:06:00+03:00"
+    },
+    {
+      "headline": "Modi's BJP wins historic victory in West Bengal state elections",
+      "summary": "India's ruling BJP has conquered one of its toughest political frontiers, winning West Bengal after 15 years of TMC rule. The victory marks a major expansion of Modi's political influence into eastern India, with the state's electorate larger than Germany's.",
+      "emoji": "🇮🇳🏛️",
+      "category": "Asia-Pacific",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/ce8pdvp5x5ro",
+      "timestamp": "2026-05-04T15:06:00+03:00"
+    },
+    {
+      "headline": "Three dead from suspected hantavirus outbreak on Atlantic cruise ship",
+      "summary": "Three people have died and at least three others are ill after a suspected hantavirus outbreak on a Dutch cruise ship off Cape Verde. The WHO confirmed one case and is coordinating medical evacuations while saying the risk to the public is low.",
+      "emoji": "🚢🦠",
+      "category": "Africa",
+      "source": "AP News",
+      "url": "https://apnews.com/article/hantavirus-south-africa-cruise-ship-who-4c9215a2bd7cd34a743b2a31323c7e18",
+      "timestamp": "2026-05-04T15:06:00+03:00"
+    },
+    {
+      "headline": "Russia cancels military hardware display for May 9 Victory Day parade",
+      "summary": "Russia's Defense Ministry announced the annual May 9 Victory Day parade will proceed without tanks or missiles for the first time, citing the \"current operational situation\" and concerns about Ukrainian drone attacks reaching deep into Russian territory.",
+      "emoji": "🇷🇺🎖️",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Post",
+      "url": "https://www.kyivpost.com/post/75372",
+      "timestamp": "2026-05-04T15:06:00+03:00"
+    },
     {
       "headline": "Germany Prepares Wartime Supply Lines as Defense Minister Cites Paradigm Shift",
       "summary": "Berlin is ramping up military logistics infrastructure in what Defense Minister Pistorius calls a \"paradigm shift,\" but structural and bureaucratic hurdles remain significant for the Bundeswehr's transformation.",
@@ -17,16 +62,23 @@
       "category": "Ukraine-Russia War",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/damaged-reported-in-moscow-after-ukrainian-drones-reportedly-hit-residential-building/",
-      "timestamp": "2026-05-04T14:10:00+03:00"
-    },
-    {
-      "headline": "Sweden Detains Russian Shadow Fleet Tanker in Baltic Sea",
-      "summary": "The Swedish Coast Guard detained a tanker believed to be part of Russia's shadow fleet in the Baltic Sea, the fifth such intervention in recent months as European nations crack down on sanctions evasion.",
-      "emoji": "🇸🇪",
-      "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/sweden-detains-suspected-russian-shadow-fleet-vessel-in-baltic-sea/",
-      "timestamp": "2026-05-04T14:10:00+03:00"
+      "timestamp": "2026-05-04T14:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/damaged-reported-in-moscow-after-ukrainian-drones-reportedly-hit-residential-building/",
+          "angle": "Ukrainian drone hits luxury Moscow tower days before Victory Day parade",
+          "summary": "A drone attack struck the Mosfilm Tower in central Moscow, marking one of the deepest strikes into the Russian capital residential core. The attack comes just days before the May 9 Victory Day parade."
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://kyivindependent.com/damaged-reported-in-moscow-after-ukrainian-drones-reportedly-hit-residential-building/",
+        "https://kyivindependent.com/damaged-reported-in-moscow-after-ukrainian-drones-reportedly-hit-residential-building/"
+      ]
     },
     {
       "headline": "US Withdrawing 5,000 Troops from Germany as Iran War Rift With Europe Widens",
@@ -459,6 +511,39 @@
       "timestamp": "2026-05-04T08:05:00+03:00"
     },
     {
+      "headline": "Swedish Coast Guard Seizes Russian Shadow Fleet Tanker",
+      "summary": "Swedish authorities seized a tanker in the Baltic Sea believed to be part of Russia shadow fleet, the latest in a string of similar actions targeting sanctions evasion.",
+      "emoji": "🇸🇪🚢",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/swedish-coast-guard-seizes-suspected-false-flag-tanker-baltic-sea-2026-05-03/",
+      "timestamp": "2026-05-04T07:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/sweden-detains-suspected-russian-shadow-fleet-vessel-in-baltic-sea/",
+          "angle": "Sweden Detains Russian Shadow Fleet Tanker in Baltic Sea",
+          "summary": "The Swedish Coast Guard detained a tanker believed to be part of Russia's shadow fleet in the Baltic Sea, the fifth such intervention in recent months as European nations crack down on sanctions evasion."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/swedish-coast-guard-seizes-suspected-false-flag-tanker-baltic-sea-2026-05-03/",
+          "angle": "Sweden Seizes Suspected False-Flag Tanker in Baltic Sea",
+          "summary": "The Swedish coast guard seized a tanker suspected of operating under a false flag in the Baltic Sea, amid growing concerns about Russia's \"shadow fleet\" and maritime security in Northern Europe."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Kyiv Independent",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/swedish-coast-guard-seizes-suspected-false-flag-tanker-baltic-sea-2026-05-03/",
+        "https://kyivindependent.com/sweden-detains-suspected-russian-shadow-fleet-vessel-in-baltic-sea/",
+        "https://www.reuters.com/world/swedish-coast-guard-seizes-suspected-false-flag-tanker-baltic-sea-2026-05-03/"
+      ]
+    },
+    {
       "headline": "UK to Join EU 78 Billion Pound Ukraine Loan Package",
       "summary": "Britain is set to enter talks to join the European Union massive loan to Ukraine, deepening European defense ties amid rising US pressure for burden sharing.",
       "emoji": "🇬🇧🇪🇺🇺🇦",
@@ -507,15 +592,6 @@
         "https://www.reuters.com/world/ukraine-offers-finland-drone-deal-zelenskiy-says-2026-05-03/",
         "https://www.reuters.com/world/ukraine-offers-finland-drone-deal-zelenskiy-says-2026-05-03/"
       ]
-    },
-    {
-      "headline": "Swedish Coast Guard Seizes Russian Shadow Fleet Tanker",
-      "summary": "Swedish authorities seized a tanker in the Baltic Sea believed to be part of Russia shadow fleet, the latest in a string of similar actions targeting sanctions evasion.",
-      "emoji": "🇸🇪🚢",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/swedish-coast-guard-seizes-suspected-false-flag-tanker-baltic-sea-2026-05-03/",
-      "timestamp": "2026-05-04T07:03:00+03:00"
     },
     {
       "headline": "Slovakia PM Fico to Attend Moscow Victory Day Parade",
@@ -719,15 +795,6 @@
         "https://www.reuters.com/business/aerospace-defense/poland-has-not-received-signals-suggesting-delays-patriot-deliveries-says-2026-05-03/",
         "https://www.reuters.com/business/aerospace-defense/poland-has-not-received-signals-suggesting-delays-patriot-deliveries-says-2026-05-03/"
       ]
-    },
-    {
-      "headline": "Ukrainian drone hits luxury Moscow tower days before Victory Day parade",
-      "summary": "A drone attack struck the Mosfilm Tower in central Moscow, marking one of the deepest strikes into the Russian capital residential core. The attack comes just days before the May 9 Victory Day parade.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/damaged-reported-in-moscow-after-ukrainian-drones-reportedly-hit-residential-building/",
-      "timestamp": "2026-05-04T04:10:00+03:00"
     },
     {
       "headline": "Three dead from suspected hantavirus outbreak on Atlantic cruise ship",
@@ -1100,31 +1167,6 @@
       "urls": [
         "https://www.reuters.com/markets/commodities/bulk-carrier-reports-being-attacked-by-multiple-small-craft-off-iran-ukmto-says-2026-05-03/",
         "https://www.channelnewsasia.com/world/iran-says-it-has-received-us-response-its-latest-offer-talks-6097326"
-      ]
-    },
-    {
-      "headline": "Sweden Seizes Suspected False-Flag Tanker in Baltic Sea",
-      "summary": "The Swedish coast guard seized a tanker suspected of operating under a false flag in the Baltic Sea, amid growing concerns about Russia's \"shadow fleet\" and maritime security in Northern Europe.",
-      "emoji": "🇸🇪",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/swedish-coast-guard-seizes-suspected-false-flag-tanker-baltic-sea-2026-05-03/",
-      "timestamp": "2026-05-03T23:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/swedish-coast-guard-seizes-suspected-false-flag-tanker-baltic-sea-2026-05-03/",
-          "angle": "Sweden seizes Russian shadow fleet tanker in Baltic Sea",
-          "summary": "The Swedish Coast Guard seized a tanker believed to be part of Russia's shadow fleet operating in the Baltic Sea, the latest in a series of similar actions targeting vessels circumventing sanctions."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/swedish-coast-guard-seizes-suspected-false-flag-tanker-baltic-sea-2026-05-03/",
-        "https://www.reuters.com/world/swedish-coast-guard-seizes-suspected-false-flag-tanker-baltic-sea-2026-05-03/"
       ]
     },
     {
@@ -3042,24 +3084,6 @@
       "category": "US-Iran War",
       "source": "Al-Monitor",
       "url": "https://www.al-monitor.com/originals/2026/05/us-sanctions-irans-shadow-banking-channels-moving-oil-proceeds-china",
-      "timestamp": "2026-05-01T20:05:00+03:00"
-    },
-    {
-      "headline": "Lebanon Death Toll Surpasses 2,600 Since March 2 Israeli Offensive",
-      "summary": "Lebanons Health Ministry reports 2,618 deaths and over 8,000 injuries from Israeli attacks since March 2, as the regional spillover from the Iran-US conflict continues to escalate.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/middle-east/lebanon-death-toll-since-march-2-israeli-offensive-surpasses-2-600/3924488",
-      "timestamp": "2026-05-01T20:05:00+03:00"
-    },
-    {
-      "headline": "Ukrainian Firm Unveils Mid-Range Drone to Exhaust Russian Air Defenses",
-      "summary": "General Cherrys Khmarynka drone enters a growing class of low-cost, mid-range strike weapons designed to deplete Russian air defense stocks, modeled on Russias own Molniya design.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/lightweight-but-most-importantly-cheap-ukraines-new-midrange-drone-designed-to-exhaust-russian-airdefence/",
       "timestamp": "2026-05-01T20:05:00+03:00"
     }
   ]
