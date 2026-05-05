@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2026-05-05T12:05:44+03:00",
+  "lastUpdated": "2026-05-05T13:05:47+03:00",
   "headlines": [
+    {
+      "headline": "Sudan Accuses Ethiopia of Drone Attacks, Recalls Ambassador",
+      "summary": "Sudan military accuses Ethiopia and UAE of drone strikes on Khartoum, recalling its ambassador from Addis Ababa as regional tensions escalate.",
+      "emoji": "🇸🇩",
+      "category": "Africa",
+      "source": "AP News",
+      "url": "https://apnews.com/article/sudan-war-ethiopia-rsf-army-drone-uae-907855de58f8c5ad89a1cd92897e5749",
+      "timestamp": "2026-05-05T13:03:00+03:00"
+    },
+    {
+      "headline": "Armenia Hosts Historic EU Summit as Yerevan Shifts Away from Russia",
+      "summary": "Armenia hosts first-ever European Union summit in Yerevan, marking a deepening of ties that signals a strategic pivot away from Moscow.",
+      "emoji": "🇦🇲🇪🇺",
+      "category": "Europe",
+      "source": "AP News",
+      "url": "https://apnews.com/article/armenia-russia-eu-summit-be0ff15ba34ab0d3316e00856a84d487",
+      "timestamp": "2026-05-05T13:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "RFERL",
+          "url": "https://www.rferl.org/a/yerevan-armenia-summit-europe-pashinyan-starmer-ukraine/33748205.html",
+          "angle": "Yerevan summit puts Armenia in global spotlight as European leaders converge",
+          "summary": "The Armenian capital receives rare global attention as dozens of world leaders and the NATO chief gather for two European-led summits. The meetings come as regional security architecture faces strain from multiple conflicts."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "RFERL"
+      ],
+      "urls": [
+        "https://apnews.com/article/armenia-russia-eu-summit-be0ff15ba34ab0d3316e00856a84d487",
+        "https://www.rferl.org/a/yerevan-armenia-summit-europe-pashinyan-starmer-ukraine/33748205.html"
+      ]
+    },
+    {
+      "headline": "Saudi-UAE Rift Deepens Over Energy Policy and Regional Conflicts",
+      "summary": "Tensions between Gulf allies mount over OPEC energy quotas and diverging approaches to regional conflicts, raising questions about Gulf unity.",
+      "emoji": "🇸🇦🇦🇪",
+      "category": "Middle East",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/05/world/middleeast/uae-saudi-arabia-oil-opec-what-to-know.html",
+      "timestamp": "2026-05-05T13:03:00+03:00"
+    },
+    {
+      "headline": "US Secret Service Shoots Gunman Near White House",
+      "summary": "Secret Service returned fire at an armed individual near the White House, wounding him and briefly triggering a lockdown.",
+      "emoji": "🇺🇸",
+      "category": "US Politics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/5/us-secret-service-shoots-gunman-near-white-house",
+      "timestamp": "2026-05-05T13:03:00+03:00"
+    },
     {
       "headline": "US Army fires Tomahawk from new Typhon launcher in Philippines drill",
       "summary": "The US Army successfully test-fired a Tomahawk missile from its new Typhon land-based launcher during joint exercises in the Philippines, demonstrating enhanced long-range strike capabilities in the Indo-Pacific theater.",
@@ -47,13 +99,54 @@
       "timestamp": "2026-05-05T12:05:00+03:00"
     },
     {
+      "headline": "IMF Chief Warns of Global Economic Damage if Middle East War Extends into 2027",
+      "summary": "IMF Managing Director Kristalina Georgieva warned that inflation is already picking up and the global economy could face a much worse outcome if the Middle East war drags into 2027 with oil prices hitting around $125 per barrel.",
+      "emoji": "💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/imf-chief-georgieva-warns-much-worse-outcome-if-middle-east-war-drags-into-2027-2026-05-04/",
+      "timestamp": "2026-05-05T12:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Wall Street Journal",
+          "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-05-2026/card/imf-scraps-outlook-for-global-economy-as-iran-conflict-drags-on-IwogBt1GlozFkDOWDIZp",
+          "angle": "IMF Scraps Global Economic Outlook as Iran Conflict Drags On",
+          "summary": "International Monetary Fund says forecasts made three weeks ago are no longer relevant as the Iran conflict continues to reshape global markets."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Wall Street Journal"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/finance/imf-chief-georgieva-warns-much-worse-outcome-if-middle-east-war-drags-into-2027-2026-05-04/",
+        "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-05-2026/card/imf-scraps-outlook-for-global-economy-as-iran-conflict-drags-on-IwogBt1GlozFkDOWDIZp"
+      ]
+    },
+    {
       "headline": "Russian Missile Attack Kills Five at Ukrainian Gas Production Facilities",
       "summary": "A Russian overnight missile and drone attack on Ukrainian gas production facilities killed five people, including two rescue workers, as Kyiv and Moscow exchanged rival ceasefire proposals around Victory Day commemorations.",
       "emoji": "🇺🇦",
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/russian-attack-kills-five-ukraines-naftogaz-gas-production-facilities-officials-2026-05-05/",
-      "timestamp": "2026-05-05T12:03:00+03:00"
+      "timestamp": "2026-05-05T12:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/russian-missile-attack-kills-five-ukraines-karkhiv-region-officials-say-2026-05-04/",
+          "angle": "Russian Missile Attack Kills Five in Ukraine's Kharkiv Region",
+          "summary": "A Russian missile strike on the town of Merefa in Ukraine's northeastern Kharkiv region killed five people and wounded several others, Ukrainian officials said, as fighting continues on multiple fronts."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/russian-attack-kills-five-ukraines-naftogaz-gas-production-facilities-officials-2026-05-05/",
+        "https://www.reuters.com/world/europe/russian-missile-attack-kills-five-ukraines-karkhiv-region-officials-say-2026-05-04/"
+      ]
     },
     {
       "headline": "Middle East Truce in Doubt as US and Iran Battle for Strait of Hormuz Control",
@@ -62,16 +155,31 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/middle-east-truce-doubt-us-iran-fight-control-strait-hormuz-2026-05-05/",
-      "timestamp": "2026-05-05T12:03:00+03:00"
-    },
-    {
-      "headline": "IMF Chief Warns of Global Economic Damage if Middle East War Extends into 2027",
-      "summary": "IMF Managing Director Kristalina Georgieva warned that inflation is already picking up and the global economy could face a much worse outcome if the Middle East war drags into 2027 with oil prices hitting around $125 per barrel.",
-      "emoji": "💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/finance/imf-chief-georgieva-warns-much-worse-outcome-if-middle-east-war-drags-into-2027-2026-05-04/",
-      "timestamp": "2026-05-05T12:03:00+03:00"
+      "timestamp": "2026-05-05T12:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/irans-fars-news-agency-reports-incident-with-us-warship-strait-hormuz-2026-05-04/",
+          "angle": "Iran Navy Says It Prevented US Warships From Entering Strait of Hormuz",
+          "summary": "Irans navy said it prevented the entry of enemy warships into the Strait of Hormuz by issuing a swift and decisive warning, according to state TV."
+        },
+        {
+          "source": "Jerusalem Post",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-895083",
+          "angle": "IRGC publishes new map of Strait of Hormuz control zone as shipping remains at standstill",
+          "summary": "Iran Revolutionary Guard Corps released a revised map delineating its claimed control area in the Strait of Hormuz, even as virtually no commercial tankers transited the waterway despite Trump's pledge to reopen it. Only one sanctioned LPG carrier and a few cargo ships moved through on Monday."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Jerusalem Post"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/middle-east-truce-doubt-us-iran-fight-control-strait-hormuz-2026-05-05/",
+        "https://www.reuters.com/world/middle-east/irans-fars-news-agency-reports-incident-with-us-warship-strait-hormuz-2026-05-04/",
+        "https://www.jpost.com/middle-east/iran-news/article-895083"
+      ]
     },
     {
       "headline": "Iran War Gives Modest Boost to Thermal Coal Prices",
@@ -557,15 +665,6 @@
       "timestamp": "2026-05-05T06:10:00+03:00"
     },
     {
-      "headline": "Yen steady, dollar firms as Middle East war fuels safe-haven demand",
-      "summary": "The Japanese yen held steady on Tuesday after suspected intervention, while the US dollar gained on safe-haven flows as the US-Iran conflict kept markets on edge. Oil prices remain above $100 per barrel.",
-      "emoji": "🇯🇵",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/yen-steady-dollar-firms-middle-east-war-fears-2026-05-05/",
-      "timestamp": "2026-05-05T06:10:00+03:00"
-    },
-    {
       "headline": "Japan finance minister warns against FX speculation after yen jolt",
       "summary": "Finance Minister Satsuki Katayama issued a warning against speculative currency moves after the yen's sudden spike on Monday triggered speculation that Tokyo had intervened to support its weakening currency.",
       "emoji": "💴",
@@ -661,30 +760,12 @@
       "timestamp": "2026-05-05T05:03:00+03:00"
     },
     {
-      "headline": "Iran Navy Says It Prevented US Warships From Entering Strait of Hormuz",
-      "summary": "Irans navy said it prevented the entry of enemy warships into the Strait of Hormuz by issuing a swift and decisive warning, according to state TV.",
-      "emoji": "🇮🇷⚔️🚢",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/irans-fars-news-agency-reports-incident-with-us-warship-strait-hormuz-2026-05-04/",
-      "timestamp": "2026-05-05T05:03:00+03:00"
-    },
-    {
       "headline": "Türkiye navigates post-European security landscape amid Iran war fallout",
       "summary": "While the EU seeks to frame Türkiye within its security architecture, Ankara has moved to project its own cross-regional security framework. The analysis examines strategic positioning as European security structures face unprecedented strain from the Middle East conflict.",
       "emoji": "🇹🇷",
       "category": "Europe",
       "source": "Daily Sabah",
       "url": "https://www.dailysabah.com/opinion/columns/turkiyes-post-european-security-moment",
-      "timestamp": "2026-05-05T04:05:00+03:00"
-    },
-    {
-      "headline": "Yerevan summit puts Armenia in global spotlight as European leaders converge",
-      "summary": "The Armenian capital receives rare global attention as dozens of world leaders and the NATO chief gather for two European-led summits. The meetings come as regional security architecture faces strain from multiple conflicts.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "RFERL",
-      "url": "https://www.rferl.org/a/yerevan-armenia-summit-europe-pashinyan-starmer-ukraine/33748205.html",
       "timestamp": "2026-05-05T04:05:00+03:00"
     },
     {
@@ -1311,15 +1392,6 @@
       "timestamp": "2026-05-04T17:03:00+03:00"
     },
     {
-      "headline": "IRGC publishes new map of Strait of Hormuz control zone as shipping remains at standstill",
-      "summary": "Iran Revolutionary Guard Corps released a revised map delineating its claimed control area in the Strait of Hormuz, even as virtually no commercial tankers transited the waterway despite Trump's pledge to reopen it. Only one sanctioned LPG carrier and a few cargo ships moved through on Monday.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-895083",
-      "timestamp": "2026-05-04T16:10:00+03:00"
-    },
-    {
       "headline": "Lebanon parliament speaker Berri rejects negotiations with Israel until war halts",
       "summary": "Nabih Berri, Lebanon's most senior Shi'ite politician and Hezbollah ally, said no talks with Israel are possible while fighting continues in the south. Israel ordered evacuations of four more villages as the ceasefire fails to hold.",
       "emoji": "🇱🇧",
@@ -1417,39 +1489,6 @@
       "source": "The War Zone",
       "url": "https://www.twz.com/air/israel-to-buy-extra-f-15ia-and-f-35i-squadrons",
       "timestamp": "2026-05-04T14:10:00+03:00"
-    },
-    {
-      "headline": "Russian Missile Attack Kills Five in Ukraine's Kharkiv Region",
-      "summary": "A Russian missile strike on the town of Merefa in Ukraine's northeastern Kharkiv region killed five people and wounded several others, Ukrainian officials said, as fighting continues on multiple fronts.",
-      "emoji": "🇺🇦⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/russian-missile-attack-kills-five-ukraines-karkhiv-region-officials-say-2026-05-04/",
-      "timestamp": "2026-05-04T14:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/flamingo-missiles-reportedly-hit-russian-shahed-iskander-component-facility-amid-large-scale-attack/",
-          "angle": "Ukraine strikes Russian Shahed drone facility and oil refinery in large-scale overnight attack",
-          "summary": "Ukrainian forces launched a coordinated missile and drone attack on multiple Russian regions, reportedly striking a facility manufacturing components for Shahed drones and Iskander missiles, as well as a major oil refinery."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/russias-primorsk-port-hit-ukraine-launches-wave-drone-strikes-2026-05-03/",
-          "angle": "Ukraine Strikes Russian Baltic Oil Port of Primorsk in Major Drone Assault",
-          "summary": "Ukraine launched a wave of drone attacks on targets across Russia, hitting the Baltic Sea port of Primorsk and setting it on fire, while striking multiple vessels. The attack on Russia's key oil export terminal marks a significant escalation in Ukraine's campaign against Russian energy infrastructure."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Kyiv Independent",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/russian-missile-attack-kills-five-ukraines-karkhiv-region-officials-say-2026-05-04/",
-        "https://kyivindependent.com/flamingo-missiles-reportedly-hit-russian-shahed-iskander-component-facility-amid-large-scale-attack/",
-        "https://www.reuters.com/world/russias-primorsk-port-hit-ukraine-launches-wave-drone-strikes-2026-05-03/"
-      ]
     },
     {
       "headline": "US Restaurant Sales Drop as Iran War Pushes Gasoline Prices Higher",
@@ -1833,31 +1872,6 @@
       "urls": [
         "https://www.reuters.com/world/slovakias-pm-fico-attend-victory-day-parade-moscow-russian-tv-says-2026-05-03/",
         "https://www.reuters.com/world/slovakias-pm-fico-attend-victory-day-parade-moscow-russian-tv-says-2026-05-03/"
-      ]
-    },
-    {
-      "headline": "ECB Warns Euro Zone Recession Risks from Middle East Conflict",
-      "summary": "Bank of Greece governor Stournaras said recession concerns are real and justified if the Middle East conflict continues, with Iran war talks key for ECB monetary policy.",
-      "emoji": "🇪🇺💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/finance/ecb-policymaker-says-euro-zone-recession-concerns-real-justified-2026-05-03/",
-      "timestamp": "2026-05-04T07:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/finance/ecb-policymaker-says-euro-zone-recession-concerns-real-justified-2026-05-03/",
-          "angle": "ECB Policymaker Warns Euro Zone Recession Concerns Are Real and Justified",
-          "summary": "Bank of Greece governor Yannis Stournaras warned that concerns the euro zone could slip into recession if the Middle East conflict continues are \"real and justified,\" with Iran war talks key for ECB policy."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/finance/ecb-policymaker-says-euro-zone-recession-concerns-real-justified-2026-05-03/",
-        "https://www.reuters.com/business/finance/ecb-policymaker-says-euro-zone-recession-concerns-real-justified-2026-05-03/"
       ]
     },
     {
@@ -2762,101 +2776,6 @@
         "https://www.reuters.com/business/energy/iran-standoff-could-leave-trump-worse-off-than-before-he-went-war-2026-05-02/",
         "https://www.reuters.com/business/energy/iran-standoff-could-leave-trump-worse-off-than-before-he-went-war-2026-05-02/"
       ]
-    },
-    {
-      "headline": "Reclusive Turkmenistan Shows Signs of Cautiously Opening to the World",
-      "summary": "The isolated Central Asian nation is taking tentative steps toward economic modernization and international engagement, with new tech startups and easing restrictions signaling a shift from decades of isolation.",
-      "emoji": "🇹🇲🌍",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/reclusive-turkmenistan-shows-signs-cautiously-opening-up-2026-05-02/",
-      "timestamp": "2026-05-03T07:03:00+03:00"
-    },
-    {
-      "headline": "Iran says \"ball in US court\" on diplomacy as senior military expects renewed conflict",
-      "summary": "Iran's Deputy Foreign Minister said Tehran is prepared for both diplomacy or continued confrontation, while a senior Iranian military commander warned that renewed conflict with the US is \"likely.\" The statements come as Trump reviews a new 14-point Iranian peace proposal.",
-      "emoji": "🇮🇷🇺🇸",
-      "category": "Middle East",
-      "source": "DW",
-      "url": "https://www.dw.com/en/iran-war-trump-says-reviewing-new-tehran-proposal-with-doubt/live-77021634",
-      "timestamp": "2026-05-03T06:07:00+03:00"
-    },
-    {
-      "headline": "Japan to Receive Russian Sakhalin-2 Oil Cargo as Iran War Disrupts Gulf Supplies",
-      "summary": "Japanese refinery Taiyo Oil will receive a crude oil cargo from Russias Sakhalin-2 project next week, as Japan seeks alternative petroleum sources following the US-Iran conflict that limited Gulf supplies.",
-      "emoji": "🇯🇵",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/japans-taiyo-oil-receive-cargo-oil-russias-sakhalin-2-mainichi-says-2026-05-02/",
-      "timestamp": "2026-05-03T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Livemint",
-          "url": "https://www.livemint.com/news/world/kuwait-didnt-export-any-crude-oil-in-april-for-the-first-time-in-over-30-years-oil-shipments-tracker-11777782116949.html",
-          "angle": "Kuwait Records Zero Crude Oil Exports for First Time Since 1991 Gulf War",
-          "summary": "TankerTrackers confirms Kuwait exported no crude oil in April due to the Strait of Hormuz blockade, marking the first month without exports since the 1991 Gulf War. The disruption highlights growing impacts on Gulf oil producers from the Iran-US conflict."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Livemint"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/japans-taiyo-oil-receive-cargo-oil-russias-sakhalin-2-mainichi-says-2026-05-02/",
-        "https://www.livemint.com/news/world/kuwait-didnt-export-any-crude-oil-in-april-for-the-first-time-in-over-30-years-oil-shipments-tracker-11777782116949.html"
-      ]
-    },
-    {
-      "headline": "Cambodia Upholds Treason Conviction of Opposition Leader",
-      "summary": "A Cambodian appeals court upheld the treason conviction and 27-year prison sentence for opposition leader Kem Sokha, drawing concern from the US State Department and UN rights chief.",
-      "emoji": "🇰🇭",
-      "category": "Asia-Pacific",
-      "source": "AP News",
-      "url": "https://apnews.com/article/hun-sen-kem-sokha-cambodia-national-rescue-party-a9db5fc6aae35eecf76ec672fd7a48d6",
-      "timestamp": "2026-05-03T05:03:00+03:00"
-    },
-    {
-      "headline": "Iran War Reaches Two-Month Mark With No Clear Victory",
-      "summary": "Two months into the US-Iran conflict, fighting has been suspended but a definitive end remains elusive. Washington lacks clear strategic gains as oil prices stay elevated and diplomatic solutions stall.",
-      "emoji": "⚔️",
-      "category": "US-Iran War",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/05/02/world/iran-war-two-month-loser-intl",
-      "timestamp": "2026-05-03T05:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "CNN",
-          "url": "https://www.cnn.com/2026/05/02/world/iran-war-two-month-loser-intl",
-          "angle": "Two months into the Iran war, almost everybody is a loser",
-          "summary": "A CNN analysis examines how the US-Iran conflict has dragged on for two months without clear strategic gains, creating a widening quagmire affecting much of the world."
-        }
-      ],
-      "sources": [
-        "CNN",
-        "CNN"
-      ],
-      "urls": [
-        "https://www.cnn.com/2026/05/02/world/iran-war-two-month-loser-intl",
-        "https://www.cnn.com/2026/05/02/world/iran-war-two-month-loser-intl"
-      ]
-    },
-    {
-      "headline": "US Navy Turns to AI Firm to Counter Iranian Mines in Strait",
-      "summary": "The US Navy has contracted AI company Domino to develop countermeasures against Iranian naval mines as the Strait of Hormuz crisis continues. The move reflects growing concerns about Iranian mining capabilities disrupting global oil shipments.",
-      "emoji": "⚓",
-      "category": "Defense Industry",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/naval/2026/05/01/us-navy-turns-to-ai-firm-domino-for-options-to-counter-iranian-mines/",
-      "timestamp": "2026-05-03T04:04:00+03:00"
-    },
-    {
-      "headline": "China Develops SQUID Technology to Detect US Nuclear Submarines",
-      "summary": "Chinese scientists have made advances in gravity-detecting SQUID technology that could make it easier to track US nuclear submarines. The development could shift the strategic balance in underwater warfare.",
-      "emoji": "🇨🇳",
-      "category": "Defense Industry",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3348984/chinas-gravity-detecting-squid-gets-closer-spotting-us-nuclear-submarines",
-      "timestamp": "2026-05-03T04:04:00+03:00"
     }
   ]
 }
