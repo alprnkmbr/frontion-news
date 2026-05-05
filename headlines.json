@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-05T14:08:52+03:00",
+  "lastUpdated": "2026-05-05T14:11:19+03:00",
   "headlines": [
+    {
+      "headline": "China Signals Readiness to Export J-35A Fighter Jet to Pakistan",
+      "summary": "State media showed a J-35A model with AVIC logo and English lettering, suggesting China's first export of its new stealth fighter may go to Pakistan amid growing defense ties.",
+      "emoji": "🇨🇳",
+      "category": "Defense Industry",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/military/article/3352380/has-china-given-first-sign-its-ready-export-its-j-35a-fighter-jet-pakistan",
+      "timestamp": "2026-05-05T14:09:00+03:00"
+    },
+    {
+      "headline": "US Intelligence: Iran No Closer to Nuclear Weapon Despite War",
+      "summary": "US intelligence agencies estimate Tehran remains about a year away from being able to build a nuclear weapon, despite weeks of fighting, suggesting the conflict has not significantly degraded Iran's nuclear timeline.",
+      "emoji": "🇮🇷",
+      "category": "US-Iran War",
+      "source": "Times of Israel",
+      "url": "https://www.timesofisrael.com/iran-no-further-to-nuclear-weapon-than-it-was-before-war-us-intel-agencies-assess/",
+      "timestamp": "2026-05-05T14:09:00+03:00"
+    },
+    {
+      "headline": "Russian Attacks Kill 15 Ukrainian Civilians in Past Day",
+      "summary": "Russia launched 11 Iskander ballistic missiles and 164 Shahed drones in overnight attacks, killing 15 civilians and injuring at least 72 across Ukraine despite the declared ceasefire.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/russian-attacks-kill-15-killed-injure-more-than-72-over-past-day/",
+      "timestamp": "2026-05-05T14:09:00+03:00"
+    },
+    {
+      "headline": "Finland Joins Ukraine-Led Corpus Defense Procurement Coalition",
+      "summary": "Finland has joined the Ukraine-led Corpus defense procurement coalition, aiming to strengthen defense procurement coordination and supply chain resilience among partner nations.",
+      "emoji": "🇫🇮",
+      "category": "Ukraine-Russia War",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/europe/finland-joins-ukraine-led-corpus-defense-procurement-coalition/3927565",
+      "timestamp": "2026-05-05T14:09:00+03:00"
+    },
+    {
+      "headline": "EU Hails Leap Forward in Ties With Russia's Ally Armenia",
+      "summary": "The EU and Armenia laid the groundwork for closer ties at a summit in Yerevan, marking another step in the former Soviet republic's pivot away from Moscow toward the West.",
+      "emoji": "🇪🇺",
+      "category": "Europe",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/live-news/20260505-eu-hails-leap-forward-in-ties-with-russia-s-ally-armenia",
+      "timestamp": "2026-05-05T14:09:00+03:00"
+    },
     {
       "headline": "Russia kills 5 in Ukraine strikes before declaring Victory Day ceasefire",
       "summary": "Russian drone and missile attacks killed at least five people in Ukraine overnight, hours before Moscow announced a unilateral ceasefire for Victory Day celebrations. Zelenskyy called the timing \"utter cynicism\" and said Ukraine would observe a reciprocal truce.",
@@ -8,7 +53,23 @@
       "category": "Ukraine-Russia War",
       "source": "AP News",
       "url": "https://apnews.com/article/russia-ukraine-drone-missile-attacks-truce-8091ae98d24510be51ffd67d034d64d2",
-      "timestamp": "2026-05-05T14:03:00+03:00"
+      "timestamp": "2026-05-05T14:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cwy234llx3vo",
+          "angle": "Ukrainian drone strikes Moscow high-rise days before Victory Day parade",
+          "summary": "A Ukrainian drone hit an upscale residential building in Moscow, the third consecutive night of attacks on the Russian capital ahead of a scaled-down May 9 military parade. Mayor Sobyanin reported two other drones intercepted, with airports suspending operations."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "BBC"
+      ],
+      "urls": [
+        "https://apnews.com/article/russia-ukraine-drone-missile-attacks-truce-8091ae98d24510be51ffd67d034d64d2",
+        "https://www.bbc.com/news/articles/cwy234llx3vo"
+      ]
     },
     {
       "headline": "Romanian PM faces no-confidence vote as coalition collapses",
@@ -44,7 +105,23 @@
       "category": "Geopolitics",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cy0294829ndo",
-      "timestamp": "2026-05-05T14:03:00+03:00"
+      "timestamp": "2026-05-05T14:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Deutsche Welle",
+          "url": "https://www.dw.com/en/suspected-hantavirus-outbreak-on-atlantic-cruise-ship-kills-3-who-says/a-77026143",
+          "angle": "Three dead from suspected hantavirus outbreak on Atlantic cruise ship",
+          "summary": "A suspected hantavirus outbreak aboard the MV Hondius cruise ship has killed three passengers, with one more in intensive care. The ship was traveling from Argentina to the Canary Islands via Antarctica."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "Deutsche Welle"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cy0294829ndo",
+        "https://www.dw.com/en/suspected-hantavirus-outbreak-on-atlantic-cruise-ship-kills-3-who-says/a-77026143"
+      ]
     },
     {
       "headline": "Sudan Accuses Ethiopia of Drone Attacks, Recalls Ambassador",
@@ -1290,31 +1367,6 @@
       "timestamp": "2026-05-04T20:03:00+03:00"
     },
     {
-      "headline": "Ukrainian drone strikes Moscow high-rise days before Victory Day parade",
-      "summary": "A Ukrainian drone hit an upscale residential building in Moscow, the third consecutive night of attacks on the Russian capital ahead of a scaled-down May 9 military parade. Mayor Sobyanin reported two other drones intercepted, with airports suspending operations.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cwy234llx3vo",
-      "timestamp": "2026-05-04T19:15:00+03:00",
-      "perspectives": [
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html",
-          "angle": "Ukrainian drone strikes Moscow high-rise days before Victory Day parade",
-          "summary": "A drone hit a residential building near the Kremlin as Ukraine intensifies long-range strikes ahead of Russia May 9 military parade, which has been scaled back over security concerns."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "New York Times"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/cwy234llx3vo",
-        "https://www.nytimes.com/2026/05/04/world/europe/moscow-drone-attack.html"
-      ]
-    },
-    {
       "headline": "Modi's BJP wins West Bengal in landmark political breakthrough",
       "summary": "India's BJP has conquered West Bengal, ending 15 years of Trinamool Congress rule in a state of 100 million voters. The victory marks the completion of Modi's political expansion into eastern India and ranks among the most significant electoral wins of his 12-year tenure.",
       "emoji": "🇮🇳",
@@ -2031,15 +2083,6 @@
       ]
     },
     {
-      "headline": "Three dead from suspected hantavirus outbreak on Atlantic cruise ship",
-      "summary": "A suspected hantavirus outbreak aboard the MV Hondius cruise ship has killed three passengers, with one more in intensive care. The ship was traveling from Argentina to the Canary Islands via Antarctica.",
-      "emoji": "🚢",
-      "category": "Geopolitics",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/suspected-hantavirus-outbreak-on-atlantic-cruise-ship-kills-3-who-says/a-77026143",
-      "timestamp": "2026-05-04T04:10:00+03:00"
-    },
-    {
       "headline": "UAE Exits Arab Oil Exporters Group OAPEC",
       "summary": "The United Arab Emirates has left the Organization of Arab Petroleum Exporting Countries (OAPEC), an alliance that does not set production policies. The move comes amid shifting energy dynamics in the Gulf region following the Iran-US conflict.",
       "emoji": "🇦🇪🛢️",
@@ -2685,142 +2728,6 @@
       "source": "Channel News Asia",
       "url": "https://www.channelnewsasia.com/singapore/new-zealand-pm-christopher-luxon-visit-singapore-lawrence-wong-6095791",
       "timestamp": "2026-05-03T10:07:00+03:00"
-    },
-    {
-      "headline": "Americas energy dominance strategy faces long-term risks",
-      "summary": "A Straits Times analysis argues that Trumps approach to energy geopolitics - from sanctions to military action in Iran - may undermine US oil industry competitiveness as other nations accelerate clean energy adoption.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Straits Times",
-      "url": "https://www.straitstimes.com/opinion/america-will-pay-dearly-for-its-energy-arrogance",
-      "timestamp": "2026-05-03T10:07:00+03:00"
-    },
-    {
-      "headline": "China issues injunction blocking US sanctions on five refineries",
-      "summary": "Chinas Commerce Ministry moved to block US sanctions on five Chinese refiners accused of buying Iranian oil, issuing an injunction through state news agency Xinhua as Beijing pushes back against Washington pressure campaign.",
-      "emoji": "🇨🇳🇮🇷",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/chinas-commerce-ministry-blocks-us-sanctions-against-five-refineries-2026-05-02/",
-      "timestamp": "2026-05-03T10:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3352278/us-sanctioned-chinese-oil-refineries-now-china-really-pushing-back",
-          "angle": "China activates Blocking Rules against US sanctions on oil refineries for first time",
-          "summary": "Beijing has ordered non-compliance with American sanctions on Chinese oil refineries, marking the first use of its Blocking Rules in response to US pressure. The move escalates US-China tensions over energy trade."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/chinas-commerce-ministry-blocks-us-sanctions-against-five-refineries-2026-05-02/",
-        "https://www.scmp.com/news/china/diplomacy/article/3352278/us-sanctioned-chinese-oil-refineries-now-china-really-pushing-back"
-      ]
-    },
-    {
-      "headline": "Senior Republicans break with Trump over Germany troop withdrawal",
-      "summary": "Two top Republican lawmakers expressed concern about the Pentagon decision to withdraw 5,000 troops from Germany, highlighting bipartisan unease over the timing amid Iran war tensions and tariff disputes straining transatlantic relations.",
-      "emoji": "🇺🇸🇪🇺",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us/top-republicans-express-concern-over-trump-plan-withdraw-troops-germany-2026-05-02/",
-      "timestamp": "2026-05-03T10:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/us/top-republicans-express-concern-over-trump-plan-withdraw-troops-germany-2026-05-02/",
-          "angle": "Top Republicans Express Concern Over Trump Plan to Withdraw Troops From Germany",
-          "summary": "Two senior Republican lawmakers voiced concern about the Pentagon decision to withdraw 5,000 troops from NATO ally Germany, highlighting bipartisan worries about the impact on European security."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/us/top-republicans-express-concern-over-trump-plan-withdraw-troops-germany-2026-05-02/",
-        "https://www.reuters.com/world/us/top-republicans-express-concern-over-trump-plan-withdraw-troops-germany-2026-05-02/"
-      ]
-    },
-    {
-      "headline": "North Korea mobilizes youth for war effort alongside Russia",
-      "summary": "Kim Jong Un addressed the ruling party youth congress in Pyongyang, emphasizing young people central to domestic mobilization and North Korea military role in Russia war against Ukraine, as the two countries discuss long-term military cooperation through 2031.",
-      "emoji": "🇰🇵🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/north-koreas-kim-casts-youth-vanguard-state-goals-amid-russia-war-2026-05-02/",
-      "timestamp": "2026-05-03T10:03:00+03:00"
-    },
-    {
-      "headline": "US-Philippines Deploy Anti-Ship Missile System Near Taiwan in War Games",
-      "summary": "Philippine and US forces showcased the NMESIS anti-ship missile system in Batanes province near Taiwan during annual military exercises, as regional tensions over the self-governed island continue to escalate.",
-      "emoji": "🇺🇸🇵🇭🇨🇳",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/us-philippines-deploy-anti-ship-missile-system-batanes-near-taiwan-war-games-2026-05-02/",
-      "timestamp": "2026-05-03T08:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/us-philippines-deploy-anti-ship-missile-system-batanes-near-taiwan-war-games-2026-05-02/",
-          "angle": "US-Philippines deploy anti-ship missiles near Taiwan in joint war games",
-          "summary": "Philippine and US forces showcased the NMESIS anti-ship missile system in Batanes province during annual exercises, as tensions simmer over Taiwan and the South China Sea."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/us-philippines-deploy-anti-ship-missile-system-batanes-near-taiwan-war-games-2026-05-02/",
-        "https://www.reuters.com/world/asia-pacific/us-philippines-deploy-anti-ship-missile-system-batanes-near-taiwan-war-games-2026-05-02/"
-      ]
-    },
-    {
-      "headline": "Millions of Jobs Lost as Iran Battles \"Operation Economic Fury\" Fallout",
-      "summary": "A fragile ceasefire may have paused the US-Israeli war on Iran, but the economic cost is devastating Tehran, with millions of jobs lost and crippling effects on daily life from the sustained military and economic pressure campaign.",
-      "emoji": "🇮🇷💸",
-      "category": "Economy",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/millions-of-jobs-lost-as-iranians-battle-operation-economic",
-      "timestamp": "2026-05-03T08:01:00+03:00"
-    },
-    {
-      "headline": "Modi's UAE visit signals new era for India's Middle East policy",
-      "summary": "Prime Minister Modi's upcoming UAE stopover represents a strategic opportunity for India to establish a key pivot in the Persian Gulf, similar to Singapore's role in Southeast Asia. The visit underscores the Emirates importance in India's regional calculations.",
-      "emoji": "🇮🇳🇦🇪",
-      "category": "South Asia",
-      "source": "The Week",
-      "url": "https://www.theweek.in/news/middle-east/2026/05/03/modis-uae-visit-a-new-era-for-indias-middle-east-policy.html",
-      "timestamp": "2026-05-03T07:55:00+03:00"
-    },
-    {
-      "headline": "Iran Standoff Could Leave Trump Worse Off Than Before War Began",
-      "summary": "Reuters analysis finds the US-Iran conflict has failed to deliver a decisive military or diplomatic victory, with Tehran's blockade strategy and Trump's stalled negotiations leaving both sides in an uneasy stalemate.",
-      "emoji": "🇮🇷⚔️",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/iran-standoff-could-leave-trump-worse-off-than-before-he-went-war-2026-05-02/",
-      "timestamp": "2026-05-03T07:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/iran-standoff-could-leave-trump-worse-off-than-before-he-went-war-2026-05-02/",
-          "angle": "Iran standoff could leave Trump worse off than before war",
-          "summary": "Analysis finds the US-Iran conflict has failed to deliver a decisive military or diplomatic victory. With the war's stated goals unmet and regional tensions elevated, Trump may face a worse strategic position than before the conflict began."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/iran-standoff-could-leave-trump-worse-off-than-before-he-went-war-2026-05-02/",
-        "https://www.reuters.com/business/energy/iran-standoff-could-leave-trump-worse-off-than-before-he-went-war-2026-05-02/"
-      ]
     }
   ]
 }
