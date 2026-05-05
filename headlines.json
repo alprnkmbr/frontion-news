@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-05T19:27:47+03:00",
+  "lastUpdated": "2026-05-05T20:04:08+03:00",
   "headlines": [
     {
-      "headline": "US-Iran Ceasefire Holds Despite Hormuz and UAE Attacks",
-      "summary": "The fragile ceasefire between the US and Iran appears to be holding after Iranian forces fired on vessels in the Strait of Hormuz and attacked UAE facilities. US officials say Iran has not breached the ceasefire agreement, though tensions remain high.",
-      "emoji": "🇺🇸🇮🇷",
+      "headline": "UAE Under Iranian Missile and Drone Attack as US Says Ceasefire Holds",
+      "summary": "The United Arab Emirates reported Iranian missile and drone attacks even as Washington maintained a shaky US-Iran ceasefire was intact. US forces exchanged fire while attempting to keep the Strait of Hormuz open for shipping.",
+      "emoji": "🇦🇪🇮🇷⚔️",
       "category": "US-Iran War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-war-ceasefire-negotiations-strait-hormuz-b8a77d16945085e5a5039032a55b3a90",
-      "timestamp": "2026-05-05T19:25:00+03:00"
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/middle-east-truce-doubt-us-iran-fight-control-strait-hormuz-2026-05-05/",
+      "timestamp": "2026-05-05T20:03:00+03:00"
+    },
+    {
+      "headline": "Russian Attacks Kill at Least 20 Before Rival Ceasefires Take Effect",
+      "summary": "Russia and Ukraine proposed competing ceasefire dates around May 9 victory celebrations. Russian drone and missile strikes killed at least 20 people before any truce could begin, with Zelensky condemning Moscow's \"cynicism.\"",
+      "emoji": "🇺🇦🇷🇺💀",
+      "category": "Ukraine-Russia War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c1e2zjz22p9o",
+      "timestamp": "2026-05-05T20:03:00+03:00"
+    },
+    {
+      "headline": "US Trade Deficit Widens as AI Investment Boom Drives Imports Higher",
+      "summary": "The US trade deficit widened in March as an artificial intelligence investment surge pulled in imports, offsetting increased exports including crude oil shipments amid the Middle East conflict.",
+      "emoji": "🇺🇸💰📉",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/us-trade-deficit-widens-march-imports-petroleum-exports-rise-2026-05-05/",
+      "timestamp": "2026-05-05T20:03:00+03:00"
+    },
+    {
+      "headline": "Turkey Accelerates Delivery of Steel Dome Air Defense System Components",
+      "summary": "Turkish defense firm Aselsan will ramp up deliveries of parts for Turkey's integrated multi-layered \"Steel Dome\" air defense system in 2026, strengthening national air defense capabilities.",
+      "emoji": "🇹🇷🛡️",
+      "category": "Defense Industry",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/turkeys-aselsan-ramp-up-delivery-steel-dome-parts-2026-2026-05-05/",
+      "timestamp": "2026-05-05T20:03:00+03:00"
+    },
+    {
+      "headline": "Brazil Embraer Eyes New Middle East Defense Deals After UAE Order",
+      "summary": "Brazilian aerospace company Embraer expects new defense aircraft deals in the Middle East, including government-to-government procurements, following a landmark C-390 military plane order from the UAE.",
+      "emoji": "🇧🇷🇦🇪✈️",
+      "category": "Defense Industry",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/embraer-eyes-new-middle-east-defense-deals-after-uae-order-2026-05-04/",
+      "timestamp": "2026-05-05T20:03:00+03:00"
     },
     {
       "headline": "Russian Strike Kills Five at Ukraine Gas Production Facilities",
@@ -17,16 +53,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/russian-attack-kills-five-ukraines-naftogaz-gas-production-facilities-officials-2026-05-05/",
-      "timestamp": "2026-05-05T19:25:00+03:00"
-    },
-    {
-      "headline": "Russia and Ukraine Announce Rival Ceasefires as Strikes Continue",
-      "summary": "Russia announced a ceasefire for May 8-9 while Ukraine proposed its own pause. The competing offers come as deadly strikes continue to hit Ukrainian infrastructure, with both sides accusing the other of cynicism.",
-      "emoji": "🇺🇦🇷🇺⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c1e2zjz22p9o",
-      "timestamp": "2026-05-05T19:25:00+03:00"
+      "timestamp": "2026-05-05T19:25:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/russian-attack-kills-five-ukraines-naftogaz-gas-production-facilities-officials-2026-05-05/",
+          "angle": "Russian Missile Attack Kills Five at Ukrainian Gas Production Facilities",
+          "summary": "A Russian overnight missile and drone attack on Ukrainian gas production facilities killed five people, including two rescue workers, as Kyiv and Moscow exchanged rival ceasefire proposals around Victory Day commemorations."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/russian-attack-kills-five-ukraines-naftogaz-gas-production-facilities-officials-2026-05-05/",
+        "https://www.reuters.com/world/europe/russian-attack-kills-five-ukraines-naftogaz-gas-production-facilities-officials-2026-05-05/"
+      ]
     },
     {
       "headline": "Russian Pavilion Reopens at Venice Biennale Despite Controversy",
@@ -36,6 +79,31 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/lifestyle/russian-return-biennale-rattles-venice-ahead-opening-2026-05-05/",
       "timestamp": "2026-05-05T19:25:00+03:00"
+    },
+    {
+      "headline": "Pentagon Chief: Iran Ceasefire Holds Despite Hormuz Clash",
+      "summary": "Defense Secretary Pete Hegseth affirmed the ceasefire with Iran remains in effect, even as U.S. and Iranian forces exchanged fire near the Strait of Hormuz. The U.S. is conducting temporary maritime operations to protect commercial vessels.",
+      "emoji": "⚔️",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-not-looking-fight-with-temporary-operation-protect-ships-iran-pentagon-chief-2026-05-05/",
+      "timestamp": "2026-05-05T18:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/iran-us-war-ceasefire-negotiations-strait-hormuz-b8a77d16945085e5a5039032a55b3a90",
+          "angle": "US-Iran Ceasefire Holds Despite Hormuz and UAE Attacks",
+          "summary": "The fragile ceasefire between the US and Iran appears to be holding after Iranian forces fired on vessels in the Strait of Hormuz and attacked UAE facilities. US officials say Iran has not breached the ceasefire agreement, though tensions remain high."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/us-not-looking-fight-with-temporary-operation-protect-ships-iran-pentagon-chief-2026-05-05/",
+        "https://apnews.com/article/iran-us-war-ceasefire-negotiations-strait-hormuz-b8a77d16945085e5a5039032a55b3a90"
+      ]
     },
     {
       "headline": "South Korea rejects Trump call to join Hormuz mission",
@@ -79,31 +147,6 @@
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/russian-fiber-optic-fpv-drones-appear-in-heart-of-ukraines-donbas-stronghold/",
       "timestamp": "2026-05-05T18:05:00+03:00"
-    },
-    {
-      "headline": "Pentagon Chief: Iran Ceasefire Holds Despite Hormuz Clash",
-      "summary": "Defense Secretary Pete Hegseth affirmed the ceasefire with Iran remains in effect, even as U.S. and Iranian forces exchanged fire near the Strait of Hormuz. The U.S. is conducting temporary maritime operations to protect commercial vessels.",
-      "emoji": "⚔️",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-not-looking-fight-with-temporary-operation-protect-ships-iran-pentagon-chief-2026-05-05/",
-      "timestamp": "2026-05-05T18:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/middle-east-truce-doubt-us-iran-fight-control-strait-hormuz-2026-05-05/",
-          "angle": "Middle East Ceasefire in Doubt as US and Iran Battle for Strait of Hormuz",
-          "summary": "A fragile ceasefire between the US and Iran was under strain after both sides exchanged fire in the Gulf. Iran warned the fight over the strategic waterway has not even begun yet, while the US destroyed six Iranian small boats during escort operations."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/us-not-looking-fight-with-temporary-operation-protect-ships-iran-pentagon-chief-2026-05-05/",
-        "https://www.reuters.com/world/asia-pacific/middle-east-truce-doubt-us-iran-fight-control-strait-hormuz-2026-05-05/"
-      ]
     },
     {
       "headline": "US Service Sector Cools Sharply as Energy Prices Bite",
@@ -588,31 +631,6 @@
       "timestamp": "2026-05-05T12:05:00+03:00"
     },
     {
-      "headline": "Russian Missile Attack Kills Five at Ukrainian Gas Production Facilities",
-      "summary": "A Russian overnight missile and drone attack on Ukrainian gas production facilities killed five people, including two rescue workers, as Kyiv and Moscow exchanged rival ceasefire proposals around Victory Day commemorations.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/russian-attack-kills-five-ukraines-naftogaz-gas-production-facilities-officials-2026-05-05/",
-      "timestamp": "2026-05-05T12:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/russian-missile-attack-kills-five-ukraines-karkhiv-region-officials-say-2026-05-04/",
-          "angle": "Russian Missile Attack Kills Five in Ukraine's Kharkiv Region",
-          "summary": "A Russian missile strike on the town of Merefa in Ukraine's northeastern Kharkiv region killed five people and wounded several others, Ukrainian officials said, as fighting continues on multiple fronts."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/russian-attack-kills-five-ukraines-naftogaz-gas-production-facilities-officials-2026-05-05/",
-        "https://www.reuters.com/world/europe/russian-missile-attack-kills-five-ukraines-karkhiv-region-officials-say-2026-05-04/"
-      ]
-    },
-    {
       "headline": "Iran War Gives Modest Boost to Thermal Coal Prices",
       "summary": "Seaborne thermal coal prices in Asia rallied after the US-Israel war on Iran began, but gains remain modest compared to the spike seen during Russia invasion of Ukraine, with analysts noting limited upside.",
       "emoji": "🛢️",
@@ -793,19 +811,19 @@
       "timestamp": "2026-05-05T09:05:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/putin-declares-may-8-9-ceasefire-with-ukraine-mark-wwii-anniversary-agencies-say-2026-05-04/",
-          "angle": "Putin and Zelenskiy declare rival ceasefires for Victory Day",
-          "summary": "Putin declared a May 8-9 ceasefire for Russia WWII commemorations, while Zelenskiy proposed an earlier pause starting May 5-6, as both sides position for diplomatic leverage."
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c1e2zjz22p9o",
+          "angle": "Russia and Ukraine Announce Rival Ceasefires as Strikes Continue",
+          "summary": "Russia announced a ceasefire for May 8-9 while Ukraine proposed its own pause. The competing offers come as deadly strikes continue to hit Ukrainian infrastructure, with both sides accusing the other of cynicism."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "BBC"
       ],
       "urls": [
         "https://www.reuters.com/world/putin-declares-may-8-9-ceasefire-with-ukraine-mark-wwii-anniversary-agencies-say-2026-05-04/",
-        "https://www.reuters.com/world/putin-declares-may-8-9-ceasefire-with-ukraine-mark-wwii-anniversary-agencies-say-2026-05-04/"
+        "https://www.bbc.com/news/articles/c1e2zjz22p9o"
       ]
     },
     {
@@ -2811,15 +2829,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/north-korea-calls-us-cyber-threat-claims-disinformation-warns-countermeasures-2026-05-02/",
       "timestamp": "2026-05-03T14:10:00+03:00"
-    },
-    {
-      "headline": "Russia faces worker shortage crisis as war depletes labor force",
-      "summary": "Russia has run out of workers for the first time in its post-Soviet history, with record-low 2.1% unemployment driven by military conscription, emigration, and demographics. Central Bank warns labor shortages are driving inflation, forcing interest rates to 14.5%.",
-      "emoji": "🇷🇺",
-      "category": "Economy",
-      "source": "Spectator Australia",
-      "url": "https://www.spectator.com.au/2026/05/russia-is-running-out-of-workers/",
-      "timestamp": "2026-05-03T14:05:00+03:00"
     }
   ]
 }
