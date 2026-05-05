@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-05T05:06:56+03:00",
+  "lastUpdated": "2026-05-05T06:06:15+03:00",
   "headlines": [
+    {
+      "headline": "Yen steady, dollar firms as Middle East war fuels safe-haven demand",
+      "summary": "The Japanese yen held steady on Tuesday after suspected intervention, while the US dollar gained on safe-haven flows as the US-Iran conflict kept markets on edge. Oil prices remain above $100 per barrel.",
+      "emoji": "🇯🇵",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/yen-steady-dollar-firms-middle-east-war-fears-2026-05-05/",
+      "timestamp": "2026-05-05T06:10:00+03:00"
+    },
+    {
+      "headline": "Trump's Germany troop cuts expose limits of NATO efforts to keep US on board",
+      "summary": "European officials scrambling to keep the US in NATO face a setback as Trump abruptly orders force reductions in Germany, a move that comes amid tensions over the Iran war and questions about US commitment to European security.",
+      "emoji": "🇩🇪",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/trumps-germany-troop-cuts-show-limits-nato-efforts-keep-us-board-2026-05-04/",
+      "timestamp": "2026-05-05T06:05:00+03:00"
+    },
+    {
+      "headline": "Japan finance minister warns against FX speculation after yen jolt",
+      "summary": "Finance Minister Satsuki Katayama issued a warning against speculative currency moves after the yen's sudden spike on Monday triggered speculation that Tokyo had intervened to support its weakening currency.",
+      "emoji": "💴",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/japans-finance-minister-issues-foreign-exchange-warning-amid-intervention-2026-05-04/",
+      "timestamp": "2026-05-05T06:00:00+03:00"
+    },
+    {
+      "headline": "Asian shares slide as US-Iran truce prospects dim",
+      "summary": "Stocks across Asia fell while oil remained above $100 a barrel as hopes for a ceasefire between the US and Iran faded. Both sides continue trading blows over the strategic Strait of Hormuz.",
+      "emoji": "📉",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-05-05/",
+      "timestamp": "2026-05-05T05:55:00+03:00"
+    },
+    {
+      "headline": "Reuters wins two Pulitzer Prizes for Trump and Meta investigations",
+      "summary": "Reuters was awarded Pulitzer Prizes for national reporting on Trump's use of executive power and beat reporting on Meta, while the New York Times and Washington Post also received honors for coverage of the administration.",
+      "emoji": "🏆",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/media-center/reuters-wins-pulitzer-prizes-beat-reporting-national-reporting-named-finalist-2026-05-04/",
+      "timestamp": "2026-05-05T05:50:00+03:00"
+    },
     {
       "headline": "UAE Air Defences Engage Iranian Missiles and Drones as Oil Zone Hit by Fire",
       "summary": "The UAE said its air defences were engaging missile and drone threats as firefighters battled a blaze at a major oil industry zone following a drone attack that authorities said originated from Iran.",
@@ -8,7 +53,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/fujairah-oil-zone-hit-by-fire-after-drone-attack-uae-says-it-intercepted-iran-2026-05-04/",
-      "timestamp": "2026-05-05T05:03:00+03:00"
+      "timestamp": "2026-05-05T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Oil Price",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Iranian-Drone-Strike-Hits-Omans-Largest-Oil-Storage-Facility.html",
+          "angle": "Iranian drones strike Oman oil storage facility at Salalah port",
+          "summary": "Iran expanded attacks beyond the Strait of Hormuz, hitting fuel storage tanks at Oman's Port of Salalah — a key alternative route for tankers bypassing the blocked strait. The strike marks an escalation in the campaign targeting regional energy infrastructure."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Oil Price"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/fujairah-oil-zone-hit-by-fire-after-drone-attack-uae-says-it-intercepted-iran-2026-05-04/",
+        "https://oilprice.com/Latest-Energy-News/World-News/Iranian-Drone-Strike-Hits-Omans-Largest-Oil-Storage-Facility.html"
+      ]
     },
     {
       "headline": "South Korean-Operated Vessel Ablaze in Strait of Hormuz After Iranian Attack",
@@ -17,7 +78,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/south-korea-checking-whether-korean-flagged-vessel-struck-hormuz-report-says-2026-05-04/",
-      "timestamp": "2026-05-05T05:03:00+03:00"
+      "timestamp": "2026-05-05T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-us-admiral-says-2026-05-04/",
+          "angle": "US destroys Iranian boats, intercepts missiles and drones in Strait of Hormuz operation",
+          "summary": "US military destroyed six Iranian small boats and shot down cruise missiles and drones as it launched efforts to guide stranded ships through the Strait of Hormuz, marking a major escalation in the fragile ceasefire period."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/south-korea-checking-whether-korean-flagged-vessel-struck-hormuz-report-says-2026-05-04/",
+        "https://www.reuters.com/world/middle-east/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-us-admiral-says-2026-05-04/"
+      ]
     },
     {
       "headline": "Bessent Urges China to Step Up Diplomacy on Iran Ahead of Trump-Xi Summit",
@@ -323,31 +400,6 @@
       "source": "The Hill",
       "url": "https://thehill.com/policy/defense/5862819-forceful-response-uae-iran/",
       "timestamp": "2026-05-05T00:06:00+03:00"
-    },
-    {
-      "headline": "US destroys Iranian boats, intercepts missiles and drones in Strait of Hormuz operation",
-      "summary": "US military destroyed six Iranian small boats and shot down cruise missiles and drones as it launched efforts to guide stranded ships through the Strait of Hormuz, marking a major escalation in the fragile ceasefire period.",
-      "emoji": "🇺🇸",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-us-admiral-says-2026-05-04/",
-      "timestamp": "2026-05-04T23:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cjwp432d0v5o",
-          "angle": "US strikes Iranian boats in Strait of Hormuz as Iran attacks UAE oil facility",
-          "summary": "The US destroyed seven Iranian fast boats in the Strait of Hormuz while Iran launched missile and drone attacks on UAE's Fujairah oil port. Maersk reported a US-flagged vessel successfully exited the strait under military protection as part of 'Project Freedom'."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/us-destroys-six-iranian-small-boats-shoots-down-missiles-drones-us-admiral-says-2026-05-04/",
-        "https://www.bbc.com/news/articles/cjwp432d0v5o"
-      ]
     },
     {
       "headline": "Trump launches Project Freedom to escort ships through Hormuz as Iran warns of ceasefire breach",
@@ -1677,15 +1729,6 @@
       ]
     },
     {
-      "headline": "Iranian drones strike Oman oil storage facility at Salalah port",
-      "summary": "Iran expanded attacks beyond the Strait of Hormuz, hitting fuel storage tanks at Oman's Port of Salalah — a key alternative route for tankers bypassing the blocked strait. The strike marks an escalation in the campaign targeting regional energy infrastructure.",
-      "emoji": "🇴🇲",
-      "category": "Middle East",
-      "source": "Oil Price",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Iranian-Drone-Strike-Hits-Omans-Largest-Oil-Storage-Facility.html",
-      "timestamp": "2026-05-04T02:06:00+03:00"
-    },
-    {
       "headline": "Oil surges past $120/barrel as Trump rejects Iran overture",
       "summary": "Brent crude hit its highest level of the conflict after Trump maintained the naval blockade of Iranian ports. The UAE announced it would leave OPEC on May 1 to respond to market shortages without cartel constraints.",
       "emoji": "🛢️",
@@ -2882,33 +2925,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/nato-working-with-us-understand-details-troop-reduction-germany-2026-05-02/",
       "timestamp": "2026-05-02T19:12:00+03:00"
-    },
-    {
-      "headline": "Hezbollah's Fiber-Optic Drones Pose Challenge for Israel",
-      "summary": "The militant group is using cheap drones linked to their launch site by thin fiber-optic cables that can stretch for dozens of kilometers, making them difficult to detect and jam.",
-      "emoji": "🇮🇱",
-      "category": "Military",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3352209/hezbollahs-cheap-drones-pose-challenge-israel-childrens-toys",
-      "timestamp": "2026-05-02T18:07:00+03:00"
-    },
-    {
-      "headline": "Mali Probes Soldiers Collaborating with Jihadist Rebels",
-      "summary": "Malian authorities announced an investigation into military officers who allegedly collaborated with jihadist and separatist fighters who carried out coordinated attacks, highlighting internal security challenges.",
-      "emoji": "🇲🇱",
-      "category": "Africa",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/mali-probes-soldiers-working-with-rebels",
-      "timestamp": "2026-05-02T18:07:00+03:00"
-    },
-    {
-      "headline": "Former F1 Champion and Paralympic Gold Medalist Alex Zanardi Dies at 59",
-      "summary": "The Italian racing driver who lost both legs in a 2001 crash and went on to win four Paralympic gold medals in hand cycling has died after years of health complications. He became a global symbol of resilience and determination.",
-      "emoji": "🏎️",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/sports/motor-racing-former-f1-driver-paralympic-champion-zanardi-dies-59-2026-05-02/",
-      "timestamp": "2026-05-02T18:03:00+03:00"
     }
   ]
 }
