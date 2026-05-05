@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-05T07:06:03+03:00",
+  "lastUpdated": "2026-05-05T08:04:35+03:00",
   "headlines": [
+    {
+      "headline": "Apple in Talks with Intel and Samsung for US Chip Production",
+      "summary": "Apple has held exploratory discussions about using Intel and Samsung Electronics to produce main processors for its devices in the United States, as part of efforts to diversify its chip supply chain.",
+      "emoji": "🍎",
+      "category": "Technology",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/apple-explores-using-intel-samsung-build-main-device-chips-us-bloomberg-news-2026-05-05/",
+      "timestamp": "2026-05-05T08:03:00+03:00"
+    },
+    {
+      "headline": "Trump Calls on South Korea to Join Hormuz Protection Mission",
+      "summary": "President Trump said South Korea should join US efforts to protect ships near Iran, with Defense Secretary Hegseth scheduled to hold a news conference with the Chairman of the Joint Chiefs of Staff.",
+      "emoji": "🇰🇷",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/trump-says-south-korea-should-join-mission-protect-ships-near-iran-2026-05-04/",
+      "timestamp": "2026-05-05T08:03:00+03:00"
+    },
+    {
+      "headline": "Russian Court Freezes Assets of Rusagro Billionaire Founder",
+      "summary": "A Russian court has frozen the assets of Vadim Moshkovich, billionaire founder of agricultural producer Rusagro, in what could be another high-profile asset grab by the state.",
+      "emoji": "🇷🇺",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/russian-court-freezes-assets-rusagro-founder-moshkovich-ifx-reports-2026-05-04/",
+      "timestamp": "2026-05-05T08:03:00+03:00"
+    },
+    {
+      "headline": "Trump Family Crypto Venture Countersues Justin Sun for Defamation",
+      "summary": "World Liberty Financial, the crypto venture co-founded by President Trump and his sons, filed a defamation lawsuit against Hong Kong-based crypto entrepreneur Justin Sun, escalating a dispute with one of its most prominent backers.",
+      "emoji": "💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/government/world-liberty-financial-sues-justin-sun-defamation-alleges-token-misconduct-2026-05-04/",
+      "timestamp": "2026-05-05T08:03:00+03:00"
+    },
+    {
+      "headline": "Gulf Markets Rise on Hopes of Middle East Resolution",
+      "summary": "Most Gulf stock exchanges closed slightly higher, supported by limited signs that the Middle East conflict may be resolved.",
+      "emoji": "📈",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/most-gulf-markets-gain-early-hopes-middle-east-resolution-2026-05-04/",
+      "timestamp": "2026-05-05T08:03:00+03:00"
+    },
     {
       "headline": "US Forces Battle Iran for Control of Strait of Hormuz as UAE Comes Under Attack",
       "summary": "The US military fired on Iranian forces and sank six boats while attempting to reopen the Strait of Hormuz. The UAE reported 15 missiles and 4 drones intercepted, with a drone sparking a fire at a key oil facility that wounded three Indian nationals. The fragile ceasefire from early April is under severe strain.",
@@ -11,22 +56,29 @@
       "timestamp": "2026-05-05T07:03:00+03:00"
     },
     {
-      "headline": "Trump Seeks Troop Drawdown in Germany as Europe Reassesses NATO Role",
-      "summary": "President Trump announced the withdrawal of 5,000 US troops from Germany, with threats to go further. The move comes amid tensions over Iran war strategy and follows German Chancellor Merz criticizing US handling of the conflict. The deployment has historically supported operations in the Arctic, Africa, and Middle East.",
-      "emoji": "🇩🇪",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://apnews.com/article/nato-germany-trump-defense-military-russia-ukraine-edb9c28be9dd023fd33b6e1c293e3b29",
-      "timestamp": "2026-05-05T07:03:00+03:00"
-    },
-    {
       "headline": "German Carmakers Slump as Trump Hikes Auto Tariffs to 25 Percent",
       "summary": "Shares in German automakers fell sharply after President Trump raised tariffs on imported European cars from 15% to 25%, breaking from the previously agreed terms. The move deals a fresh blow to the already battered sector as transatlantic tensions escalate.",
       "emoji": "🚗",
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/shares-german-carmakers-fall-after-trump-tariff-hike-2026-05-04/",
-      "timestamp": "2026-05-05T07:03:00+03:00"
+      "timestamp": "2026-05-05T07:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/shares-german-carmakers-fall-after-trump-tariff-hike-2026-05-04/",
+          "angle": "German Carmakers Slump as Trump Hikes EU Car Tariffs to 25%",
+          "summary": "President Trump raised US tariffs on imported European cars from 15% to 25%, dealing a fresh blow to German automakers already struggling with Middle East supply disruptions."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/shares-german-carmakers-fall-after-trump-tariff-hike-2026-05-04/",
+        "https://www.reuters.com/business/shares-german-carmakers-fall-after-trump-tariff-hike-2026-05-04/"
+      ]
     },
     {
       "headline": "Japanese Yen Surges as Markets Brace for Potential Currency Intervention",
@@ -35,7 +87,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/yen-suddenly-jumps-markets-alert-intervention-2026-05-04/",
-      "timestamp": "2026-05-05T07:03:00+03:00"
+      "timestamp": "2026-05-05T07:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/yen-steady-intervention-fears-linger-with-japan-shut-holidays-2026-05-04/",
+          "angle": "Japanese Yen Steadies as Intervention Fears Linger",
+          "summary": "The yen stabilized at the start of Asian trading, strengthening slightly after suspected currency intervention by Japanese authorities last week. Markets remain on alert for further action as the Iran conflict continues to impact global financial markets."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/yen-suddenly-jumps-markets-alert-intervention-2026-05-04/",
+        "https://www.reuters.com/world/asia-pacific/yen-steady-intervention-fears-linger-with-japan-shut-holidays-2026-05-04/"
+      ]
     },
     {
       "headline": "Brazil Revives Consumer Debt Relief Program Ahead of October Election",
@@ -101,19 +169,27 @@
       "timestamp": "2026-05-05T06:05:00+03:00",
       "perspectives": [
         {
+          "source": "AP News",
+          "url": "https://apnews.com/article/nato-germany-trump-defense-military-russia-ukraine-edb9c28be9dd023fd33b6e1c293e3b29",
+          "angle": "Trump Seeks Troop Drawdown in Germany as Europe Reassesses NATO Role",
+          "summary": "President Trump announced the withdrawal of 5,000 US troops from Germany, with threats to go further. The move comes amid tensions over Iran war strategy and follows German Chancellor Merz criticizing US handling of the conflict. The deployment has historically supported operations in the Arctic, Africa, and Middle East."
+        },
+        {
           "source": "Reuters",
-          "url": "https://www.reuters.com/world/nato-working-with-us-understand-details-troop-reduction-germany-2026-05-02/",
-          "angle": "NATO seeks answers from US on Germany troop cuts",
-          "summary": "NATO says it is working with the US to understand details of planned troop reductions in Germany, after Trump announced deeper cuts beyond the initial 5,000 withdrawal."
+          "url": "https://www.reuters.com/world/europe/german-chancellor-downplays-row-with-trump-after-troop-drawdown-announced-2026-05-03/",
+          "angle": "German Chancellor Downplays Rift with Trump After US Troop Drawdown",
+          "summary": "Chancellor Friedrich Merz sought to ease tensions with Washington, stating Germany must work with the US within NATO despite policy differences."
         }
       ],
       "sources": [
         "Reuters",
+        "AP News",
         "Reuters"
       ],
       "urls": [
         "https://www.reuters.com/world/trumps-germany-troop-cuts-show-limits-nato-efforts-keep-us-board-2026-05-04/",
-        "https://www.reuters.com/world/nato-working-with-us-understand-details-troop-reduction-germany-2026-05-02/"
+        "https://apnews.com/article/nato-germany-trump-defense-military-russia-ukraine-edb9c28be9dd023fd33b6e1c293e3b29",
+        "https://www.reuters.com/world/europe/german-chancellor-downplays-row-with-trump-after-troop-drawdown-announced-2026-05-03/"
       ]
     },
     {
@@ -384,31 +460,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/guyanas-president-irfaan-ali-says-energy-investment-insufficient-meet-demand-2026-05-04/",
       "timestamp": "2026-05-05T02:05:00+03:00"
-    },
-    {
-      "headline": "German Carmakers Slump as Trump Hikes EU Car Tariffs to 25%",
-      "summary": "President Trump raised US tariffs on imported European cars from 15% to 25%, dealing a fresh blow to German automakers already struggling with Middle East supply disruptions.",
-      "emoji": "🚗",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/shares-german-carmakers-fall-after-trump-tariff-hike-2026-05-04/",
-      "timestamp": "2026-05-05T02:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/shares-german-carmakers-fall-after-trump-tariff-hike-2026-05-04/",
-          "angle": "German Carmakers Slump as Trump Hikes EU Auto Tariffs to 25%",
-          "summary": "Shares in German automakers fell sharply after President Trump raised U.S. tariffs on imported European cars from 15% to 25%, dealing a fresh blow to the sector already struggling with global supply chain disruptions."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/shares-german-carmakers-fall-after-trump-tariff-hike-2026-05-04/",
-        "https://www.reuters.com/business/shares-german-carmakers-fall-after-trump-tariff-hike-2026-05-04/"
-      ]
     },
     {
       "headline": "Embraer Sees New Middle East Defense Deals After UAE C-390 Order",
@@ -1742,31 +1793,6 @@
       ]
     },
     {
-      "headline": "Japanese Yen Steadies as Intervention Fears Linger",
-      "summary": "The yen stabilized at the start of Asian trading, strengthening slightly after suspected currency intervention by Japanese authorities last week. Markets remain on alert for further action as the Iran conflict continues to impact global financial markets.",
-      "emoji": "🇯🇵💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/yen-steady-intervention-fears-linger-with-japan-shut-holidays-2026-05-04/",
-      "timestamp": "2026-05-04T04:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/japan-yen-suddenly-jumps-against-dollar-2026-05-01/",
-          "angle": "Japanese Yen Surges After Suspected Intervention",
-          "summary": "The Japanese yen jumped sharply against the dollar on Friday, a day after Tokyo authorities were widely believed to have intervened to prop up the currency. The move highlights growing currency market volatility."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/yen-steady-intervention-fears-linger-with-japan-shut-holidays-2026-05-04/",
-        "https://www.reuters.com/world/asia-pacific/japan-yen-suddenly-jumps-against-dollar-2026-05-01/"
-      ]
-    },
-    {
       "headline": "Oil Prices Ease After Trump Hormuz Escort Announcement",
       "summary": "Oil prices fell after President Trump announced the US would help free ships stranded in the Strait of Hormuz. However, prices remained above $100 per barrel as no US-Iran peace deal has been reached.",
       "emoji": "💰",
@@ -1928,39 +1954,6 @@
       "source": "Nikkei Asia",
       "url": "https://asia.nikkei.com/business/markets/trading-asia/hong-kong-s-new-listing-pipeline-undeterred-by-iran-war-volatility",
       "timestamp": "2026-05-04T00:06:00+03:00"
-    },
-    {
-      "headline": "German Chancellor Downplays Rift with Trump After US Troop Drawdown",
-      "summary": "Chancellor Friedrich Merz sought to ease tensions with Washington, stating Germany must work with the US within NATO despite policy differences.",
-      "emoji": "🇩🇪🇺🇸",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/german-chancellor-downplays-row-with-trump-after-troop-drawdown-announced-2026-05-03/",
-      "timestamp": "2026-05-04T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/europe-us-nato-troops-trump-germany-56adb70f611da5314bba9178bd4388b1",
-          "angle": "European Leaders Say Trump Troop Drawdown Proves Need for Self-Reliance",
-          "summary": "President Trump's decision to pull 5,000 US troops from Germany has surprised European leaders, who say it underscores the need for Europe to strengthen its own defense capabilities independent of US support."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/us-troop-drawback-underlines-european-defence-responsibility-german-minister-2026-05-02/",
-          "angle": "US Troop Drawdown from Germany Signals Shift in European Defense Responsibilities",
-          "summary": "Germany's defense minister says the US withdrawal of 5,000 troops should spur Europe to take greater defense responsibility, as Trump-Pentagon tensions with Europe mount over Iran war and tariffs. Trump signaled cuts could go \"a lot further.\""
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/german-chancellor-downplays-row-with-trump-after-troop-drawdown-announced-2026-05-03/",
-        "https://apnews.com/article/europe-us-nato-troops-trump-germany-56adb70f611da5314bba9178bd4388b1",
-        "https://www.reuters.com/business/aerospace-defense/us-troop-drawback-underlines-european-defence-responsibility-german-minister-2026-05-02/"
-      ]
     },
     {
       "headline": "Asian Development Bank Offers Aid to Pacific Nations Hit by Iran War",
@@ -2883,15 +2876,6 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/fighting-reaches-outskirts-ukraines-stronghold-kostiantynivka-2026-05-02/",
-      "timestamp": "2026-05-02T23:05:00+03:00"
-    },
-    {
-      "headline": "Two Civilians Killed in Russian Drone Attack on Bus in Kherson",
-      "summary": "A Russian drone struck a minibus in the southern Ukrainian city of Kherson early Saturday, killing two people and wounding seven others. The attack targeted civilian infrastructure.",
-      "emoji": "💥",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/two-killed-russian-attack-bus-kherson-2026-05-02/",
       "timestamp": "2026-05-02T23:05:00+03:00"
     }
   ]
