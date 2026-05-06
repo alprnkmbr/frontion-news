@@ -1,41 +1,50 @@
 {
-  "lastUpdated": "2026-05-06T18:11:54+03:00",
+  "lastUpdated": "2026-05-06T19:13:12+03:00",
   "headlines": [
     {
-      "headline": "Russia cancels Victory Day celebrations in Crimea amid Ukraine drone strikes",
-      "summary": "Russian occupation authorities canceled Victory Day celebrations in Crimea citing security concerns as Ukraine intensifies drone attacks on the peninsula.",
-      "emoji": "🇷🇺",
+      "headline": "US and Iran closing in on memorandum to end war",
+      "summary": "Washington and Tehran are nearing a one-page memorandum to end the Iran war, leaving nuclear issues for later negotiations. Trump has expressed optimism about reaching a deal before his planned summit with Xi Jinping in Beijing.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "US-Iran War",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/05/06/politics/trump-iran-war-talks-plan",
+      "timestamp": "2026-05-06T19:15:00+03:00"
+    },
+    {
+      "headline": "Russia fires drones at Ukraine, ignoring unilateral ceasefire",
+      "summary": "Russian forces launched 108 drones and three missiles overnight, disregarding a unilateral ceasefire declared by Kyiv. The attacks targeted multiple regions including Crimea, with Ukrainian air defenses intercepting most drones.",
+      "emoji": "🇺🇦🇷🇺",
       "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russia-canceled-victory-day-celebrations-in-crimea-over-safety-concerns-amid-ukraine-strikes/",
-      "timestamp": "2026-05-06T18:12:00+03:00"
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-ceasefire-drones-missiles-crimea-484f28530eb0c2ce64fff9be5eb7c9d3",
+      "timestamp": "2026-05-06T19:15:00+03:00"
     },
     {
-      "headline": "Ukraine rejects Russia Victory Day truce after Moscow violates Kyiv ceasefire",
-      "summary": "Ukraine rejected a proposed Russian Victory Day truce after Moscow violated Kyiv ceasefire proposal 1,820 times, according to Ukrainian officials.",
-      "emoji": "🇺🇦",
+      "headline": "America massing troops near Taiwan to deter Chinese aggression",
+      "summary": "The US is significantly increasing its military presence near Taiwan amid heightened tensions with Beijing. The buildup comes as China continues provocative actions in the Taiwan Strait.",
+      "emoji": "🇺🇸🇨🇳🇹🇼",
+      "category": "US-China",
+      "source": "The Economist",
+      "url": "https://www.economist.com/asia/2026/05/06/america-is-massing-troops-near-taiwan-to-deter-troublemaking-by-china",
+      "timestamp": "2026-05-06T19:15:00+03:00"
+    },
+    {
+      "headline": "Iran war pauses global central bank easing push",
+      "summary": "Major central banks have put interest rate cuts on hold as the Iran war creates inflation pressures and market volatility. The conflict has disrupted global energy markets and complicated monetary policy decisions worldwide.",
+      "emoji": "💰🏦",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/iran-war-pauses-global-easing-push-by-central-banks-april-2026-05-06/",
+      "timestamp": "2026-05-06T19:15:00+03:00"
+    },
+    {
+      "headline": "Putin is losing his grip on Russia",
+      "summary": "An analysis suggests Vladimir Putin has led Russia into a strategic dead-end, with growing internal pressures and military setbacks in Ukraine undermining his authority. The war has exposed fundamental weaknesses in Russias military and economic model.",
+      "emoji": "🇷🇺⚔️",
       "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/ukraine-rejects-russias-victory-day-truce-after-moscow-violates-kyivs-ceasefire/",
-      "timestamp": "2026-05-06T18:14:00+03:00"
-    },
-    {
-      "headline": "Hungary returns seized Ukrainian bank assets in diplomatic breakthrough",
-      "summary": "Hungary returned seized Ukrainian bank assets in what Zelensky called a civilized step, marking an improvement in bilateral relations.",
-      "emoji": "🇭🇺🇺🇦",
-      "category": "Diplomacy",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/hungary-gives-back-seized-ukrainian-bank-assets/",
-      "timestamp": "2026-05-06T18:16:00+03:00"
-    },
-    {
-      "headline": "EU backs new compensation mechanism for victims of Russian war",
-      "summary": "EU ambassadors approved a new compensation mechanism for victims of Russias war, though no country besides Ukraine has ratified the International Claims Commission.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/eu-ambassadors-back-new-compensation-mechanism-for-victims-of-russias-war/",
-      "timestamp": "2026-05-06T18:18:00+03:00"
+      "source": "The Economist",
+      "url": "https://www.economist.com/by-invitation/2026/05/06/vladimir-putin-is-losing-his-grip-on-russia",
+      "timestamp": "2026-05-06T19:15:00+03:00"
     },
     {
       "headline": "Russia losing influence in Africa as setbacks mount in Mali",
@@ -45,6 +54,40 @@
       "source": "Charter97",
       "url": "https://charter97.org/en/news/2026/5/6/683106/",
       "timestamp": "2026-05-06T18:20:00+03:00"
+    },
+    {
+      "headline": "EU backs new compensation mechanism for victims of Russian war",
+      "summary": "EU ambassadors approved a new compensation mechanism for victims of Russias war, though no country besides Ukraine has ratified the International Claims Commission.",
+      "emoji": "🇪🇺",
+      "category": "Europe",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/eu-ambassadors-back-new-compensation-mechanism-for-victims-of-russias-war/",
+      "timestamp": "2026-05-06T18:18:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/eu-signs-on-to-new-court-to-prosecute-putin-for-war-of-aggression/",
+          "angle": "EU Formally Backs Nuremberg-Style Tribunal to Prosecute Russian Leaders for War of Aggression",
+          "summary": "EU ministers voted to join a Council of Europe court that will prosecute Russian leadership for the crime of aggression against Ukraine, the same charge used against Nazi leaders at Nuremberg. The tribunal aims to hold Putin and other top officials accountable."
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://kyivindependent.com/eu-ambassadors-back-new-compensation-mechanism-for-victims-of-russias-war/",
+        "https://kyivindependent.com/eu-signs-on-to-new-court-to-prosecute-putin-for-war-of-aggression/"
+      ]
+    },
+    {
+      "headline": "Hungary returns seized Ukrainian bank assets in diplomatic breakthrough",
+      "summary": "Hungary returned seized Ukrainian bank assets in what Zelensky called a civilized step, marking an improvement in bilateral relations.",
+      "emoji": "🇭🇺🇺🇦",
+      "category": "Diplomacy",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/hungary-gives-back-seized-ukrainian-bank-assets/",
+      "timestamp": "2026-05-06T18:16:00+03:00"
     },
     {
       "headline": "Iran Reviews US Proposal as Deal Progress Reported",
@@ -609,27 +652,43 @@
       "timestamp": "2026-05-06T10:03:00+03:00",
       "perspectives": [
         {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cpdpxdd5n6yo",
-          "angle": "Russia Violates Ukraine Ceasefire, Strikes Kindergarten in Sumy",
-          "summary": "Russia launched drone attacks despite Ukraine's unilateral ceasefire, killing one woman when a kindergarten was hit in the Sumy region. Zelensky accused Moscow of \"spurning the ceasefire\" as Kyiv decides on further action."
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russia-canceled-victory-day-celebrations-in-crimea-over-safety-concerns-amid-ukraine-strikes/",
+          "angle": "Russia cancels Victory Day celebrations in Crimea amid Ukraine drone strikes",
+          "summary": "Russian occupation authorities canceled Victory Day celebrations in Crimea citing security concerns as Ukraine intensifies drone attacks on the peninsula."
         },
         {
           "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russia-ukraine-accuse-each-other-of-violating-zelenskys-proposed-ceasefire-from-may-6/",
-          "angle": "Russia Violates Zelensky Ceasefire 1,820 Times, Killing 26 Civilians",
-          "summary": "Ukraine reports 1,820 Russian violations of Zelensky's proposed May 6 ceasefire, with attacks killing 26 civilians and injuring 118. Moscow also accused Kyiv of breaches, underscoring the conflict's deepening impasse."
+          "url": "https://kyivindependent.com/ukraine-rejects-russias-victory-day-truce-after-moscow-violates-kyivs-ceasefire/",
+          "angle": "Ukraine rejects Russia Victory Day truce after Moscow violates Kyiv ceasefire",
+          "summary": "Ukraine rejected a proposed Russian Victory Day truce after Moscow violated Kyiv ceasefire proposal 1,820 times, according to Ukrainian officials."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/russia-limits-mobile-internet-ahead-scaled-back-ww2-victory-parade-2026-05-05/",
+          "angle": "Russia Cuts Mobile Internet Ahead of Scaled-Back Victory Day Parade",
+          "summary": "Russia restricted mobile internet services in Moscow ahead of the annual May 9 parade, which has been scaled down due to the threat of Ukrainian drone attacks."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/ukraine-steps-up-medium-range-strikes-russian-forces-2026-05-05/",
+          "angle": "Ukraine Steps Up Medium-Range Drone Strikes on Russian Forces",
+          "summary": "Ukrainian troops are rapidly increasing medium-range drone strikes on Russian positions, demonstrating growing capability as the war enters its fifth year."
         }
       ],
       "sources": [
         "Reuters",
-        "BBC",
-        "Kyiv Independent"
+        "Kyiv Independent",
+        "Kyiv Independent",
+        "Reuters",
+        "Reuters"
       ],
       "urls": [
         "https://www.usnews.com/news/world/articles/2026-05-06/ukraine-says-russia-violated-ceasefire-initiated-by-kyiv",
-        "https://www.bbc.com/news/articles/cpdpxdd5n6yo",
-        "https://kyivindependent.com/russia-ukraine-accuse-each-other-of-violating-zelenskys-proposed-ceasefire-from-may-6/"
+        "https://kyivindependent.com/russia-canceled-victory-day-celebrations-in-crimea-over-safety-concerns-amid-ukraine-strikes/",
+        "https://kyivindependent.com/ukraine-rejects-russias-victory-day-truce-after-moscow-violates-kyivs-ceasefire/",
+        "https://www.reuters.com/world/russia-limits-mobile-internet-ahead-scaled-back-ww2-victory-parade-2026-05-05/",
+        "https://www.reuters.com/world/europe/ukraine-steps-up-medium-range-strikes-russian-forces-2026-05-05/"
       ]
     },
     {
@@ -733,31 +792,6 @@
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/russia-cuts-mobile-internet-ahead-of-victory-day-parade/",
       "timestamp": "2026-05-06T08:05:00+03:00"
-    },
-    {
-      "headline": "EU Formally Backs Nuremberg-Style Tribunal to Prosecute Russian Leaders for War of Aggression",
-      "summary": "EU ministers voted to join a Council of Europe court that will prosecute Russian leadership for the crime of aggression against Ukraine, the same charge used against Nazi leaders at Nuremberg. The tribunal aims to hold Putin and other top officials accountable.",
-      "emoji": "⚖️",
-      "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/eu-signs-on-to-new-court-to-prosecute-putin-for-war-of-aggression/",
-      "timestamp": "2026-05-06T08:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/eu-signs-on-to-new-court-to-prosecute-putin-for-war-of-aggression/",
-          "angle": "EU joins new court to prosecute Putin for war of aggression",
-          "summary": "The European Union formally joined the Special Tribunal, the only court with mandate to prosecute Russia for the crime of aggression against Ukraine."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://kyivindependent.com/eu-signs-on-to-new-court-to-prosecute-putin-for-war-of-aggression/",
-        "https://kyivindependent.com/eu-signs-on-to-new-court-to-prosecute-putin-for-war-of-aggression/"
-      ]
     },
     {
       "headline": "US Approves $373.6 Million JDAM Weapons Sale to Ukraine",
@@ -880,64 +914,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3352508/asian-alternative-nato-how-cica-rethinking-middle-east-security",
       "timestamp": "2026-05-06T06:04:00+03:00"
-    },
-    {
-      "headline": "Russia Cuts Mobile Internet Ahead of Scaled-Back Victory Day Parade",
-      "summary": "Russia restricted mobile internet services in Moscow ahead of the annual May 9 parade, which has been scaled down due to the threat of Ukrainian drone attacks.",
-      "emoji": "🇷🇺📱",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/russia-limits-mobile-internet-ahead-scaled-back-ww2-victory-parade-2026-05-05/",
-      "timestamp": "2026-05-06T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Politico",
-          "url": "https://www.politico.eu/article/russia-derails-ceasefire-ukraine-will-act-in-kind-volodymyr-zelenskyy-said/",
-          "angle": "Ukraine Not Bound by Russia Victory Day Truce, Zelenskyy Declares",
-          "summary": "President Zelenskyy says Ukraine will not observe Russia's Victory Day ceasefire after Moscow ignored Kyiv's unilateral truce, with both sides accusing each other of continued attacks."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Politico"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/russia-limits-mobile-internet-ahead-scaled-back-ww2-victory-parade-2026-05-05/",
-        "https://www.politico.eu/article/russia-derails-ceasefire-ukraine-will-act-in-kind-volodymyr-zelenskyy-said/"
-      ]
-    },
-    {
-      "headline": "Ukraine Steps Up Medium-Range Drone Strikes on Russian Forces",
-      "summary": "Ukrainian troops are rapidly increasing medium-range drone strikes on Russian positions, demonstrating growing capability as the war enters its fifth year.",
-      "emoji": "🇺🇦⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/ukraine-steps-up-medium-range-strikes-russian-forces-2026-05-05/",
-      "timestamp": "2026-05-06T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Euronews",
-          "url": "https://www.msn.com/en-gb/news/world/ukraine-strikes-russian-military-facility-more-than-1000-kilometres-into-moscows-territory/ar-AA22rCsn",
-          "angle": "Ukraine strikes Russian military facility 1,000 km inside Moscow territory",
-          "summary": "Ukraine launched a long-range strike against a Russian military site over 1,000 km from its border, just days before Moscow Victory Day parade. The attack demonstrates Ukraine deep-strike capability as Russia announces separate ceasefire."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/ukraine-steps-up-medium-range-strikes-russian-forces-2026-05-05/",
-          "angle": "Ukraine Steps Up Medium-Range Drone Strikes on Russian Forces",
-          "summary": "Ukrainian troops are rapidly increasing medium-range drone strikes on Russian forces, President Zelenskiy announced, demonstrating growing capability as Kyiv fights Moscow in the fifth year of the war."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Euronews",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/ukraine-steps-up-medium-range-strikes-russian-forces-2026-05-05/",
-        "https://www.msn.com/en-gb/news/world/ukraine-strikes-russian-military-facility-more-than-1000-kilometres-into-moscows-territory/ar-AA22rCsn",
-        "https://www.reuters.com/world/europe/ukraine-steps-up-medium-range-strikes-russian-forces-2026-05-05/"
-      ]
     },
     {
       "headline": "UK Sanctions Russia for Recruiting Migrants to Fight in Ukraine",
