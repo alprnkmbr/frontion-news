@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-06T12:10:40+03:00",
+  "lastUpdated": "2026-05-06T13:08:11+03:00",
   "headlines": [
     {
-      "headline": "China Calls for Urgent Ceasefire as Iranian FM Meets Wang Yi in Beijing",
-      "summary": "Iranian Foreign Minister Araghchi held talks with Chinese counterpart Wang Yi in Beijing, with China calling for an immediate ceasefire. The visit comes days before Trump’s scheduled trip to China.",
-      "emoji": "🇨🇳🇮🇷",
+      "headline": "China Calls for Comprehensive Ceasefire in Iran War",
+      "summary": "Chinese Foreign Minister Wang Yi urged a complete ceasefire in the US-Iran conflict during talks with Iranian counterpart Abbas Araghchi in Beijing. The meeting comes one week before Trump's scheduled visit to China for a summit with Xi Jinping.",
+      "emoji": "🇨🇳",
+      "category": "US-Iran War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-israel-war-china-may-6-2026-3d061a90ccde095178d9b988d94d08f3",
+      "timestamp": "2026-05-06T13:00:00+03:00"
+    },
+    {
+      "headline": "Russia Defies Ukraine Ceasefire with Drone Attacks",
+      "summary": "Russia launched 108 drones and missiles at Ukraine overnight, disregarding Kyiv's unilateral ceasefire. Five people were killed in Crimea from Ukrainian drone strikes. The attacks came despite Ukraine's truce offer ahead of Russia's Victory Day celebrations.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-ceasefire-drones-missiles-crimea-484f28530eb0c2ce64fff9be5eb7c9d3",
+      "timestamp": "2026-05-06T13:01:00+03:00"
+    },
+    {
+      "headline": "Iran's Araghchi Meets China's Wang Yi in Beijing",
+      "summary": "Iranian Foreign Minister Abbas Araghchi held talks with Chinese counterpart Wang Yi in Beijing, seeking China's continued support as Trump visits next week. Wang called for reopening the Strait of Hormuz \"as soon as possible\" while Araghchi stressed Iran wants a \"fair and comprehensive agreement\" with the US.",
+      "emoji": "🇮🇷🇨🇳",
       "category": "Diplomacy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3352532/irans-top-diplomat-abbas-araghchi-visit-china-days-ahead-donald-trump",
-      "timestamp": "2026-05-06T12:07:00+03:00"
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/6/irans-araghchi-holds-talks-with-chinas-wang-yi-in-beijing",
+      "timestamp": "2026-05-06T13:02:00+03:00"
+    },
+    {
+      "headline": "Kim Ju Ae's Fashion Signals North Korean Succession",
+      "summary": "North Korean leader Kim Jong Un's daughter is being styled as his successor through sophisticated Western-style clothing and formal outfits, analysts say. Her evolving fashion, including luxury items like a ,900 Dior jacket, contrasts sharply with tightening controls on ordinary citizens' clothing.",
+      "emoji": "🇰🇵",
+      "category": "Asia-Pacific",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cy82x9wve2xo",
+      "timestamp": "2026-05-06T13:03:00+03:00"
+    },
+    {
+      "headline": "Ukrainians Trapped in Frontline City of Oleshky",
+      "summary": "Around 2,000 civilians remain trapped in the Russian-occupied city of Oleshky, cut off from food and medicine supplies for months. Residents face a \"Road of Death\" if they attempt to flee, with heavy mining and attacks making evacuation routes extremely dangerous.",
+      "emoji": "⚠️",
+      "category": "Ukraine-Russia War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c893xj41zwdo",
+      "timestamp": "2026-05-06T13:04:00+03:00"
     },
     {
       "headline": "Anadolu Agency: Beijing Extends Support to Iran Amid US Conflict Ahead of Trump Visit",
@@ -44,7 +80,23 @@
       "category": "Defense Industry",
       "source": "Daily Sabah",
       "url": "https://www.dailysabah.com/opinion/op-ed/italy-and-turkiye-forging-a-new-pillar-of-natos-southern-flank",
-      "timestamp": "2026-05-06T12:07:00+03:00"
+      "timestamp": "2026-05-06T12:07:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al-Monitor",
+          "url": "https://www.al-monitor.com/originals/2026/05/uae-purchases-10-military-aircraft-brazil-brics-ties-grow",
+          "angle": "UAE Buys 10 Brazilian Military Aircraft as BRICS Defense Ties Deepen",
+          "summary": "The UAE has purchased 10 C-390 Millennium transport aircraft from Brazil, strengthening military cooperation within the BRICS bloc. The deal signals Abu Dhabis push to diversify defense partnerships beyond Western suppliers."
+        }
+      ],
+      "sources": [
+        "Daily Sabah",
+        "Al-Monitor"
+      ],
+      "urls": [
+        "https://www.dailysabah.com/opinion/op-ed/italy-and-turkiye-forging-a-new-pillar-of-natos-southern-flank",
+        "https://www.al-monitor.com/originals/2026/05/uae-purchases-10-military-aircraft-brazil-brics-ties-grow"
+      ]
     },
     {
       "headline": "Russian Strikes Kill Over 20 Ahead of Rival Ceasefire Declarations",
@@ -249,19 +301,19 @@
       "timestamp": "2026-05-06T09:03:00+03:00",
       "perspectives": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/5/6/irans-araghchi-holds-talks-with-chinas-wang-yi-in-beijing",
-          "angle": "Iran Foreign Minister Visits Beijing Ahead of Trump-Xi Summit",
-          "summary": "Iranian Foreign Minister Abbas Araghchi met with Chinese counterpart Wang Yi in Beijing to discuss maintaining the ceasefire and reopening the Strait of Hormuz, one week before US President Donald Trump visits China for a summit with President Xi Jinping."
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3352532/irans-top-diplomat-abbas-araghchi-visit-china-days-ahead-donald-trump",
+          "angle": "China Calls for Urgent Ceasefire as Iranian FM Meets Wang Yi in Beijing",
+          "summary": "Iranian Foreign Minister Araghchi held talks with Chinese counterpart Wang Yi in Beijing, with China calling for an immediate ceasefire. The visit comes days before Trump’s scheduled trip to China."
         }
       ],
       "sources": [
         "AP News",
-        "Al Jazeera"
+        "SCMP"
       ],
       "urls": [
         "https://apnews.com/article/iran-us-war-ceasefire-negotiations-strait-hormuz-b8a77d16945085e5a5039032a55b3a90",
-        "https://www.aljazeera.com/news/2026/5/6/irans-araghchi-holds-talks-with-chinas-wang-yi-in-beijing"
+        "https://www.scmp.com/news/china/diplomacy/article/3352532/irans-top-diplomat-abbas-araghchi-visit-china-days-ahead-donald-trump"
       ]
     },
     {
@@ -2308,15 +2360,6 @@
       "timestamp": "2026-05-05T01:03:00+03:00"
     },
     {
-      "headline": "UAE Buys 10 Brazilian Military Aircraft as BRICS Defense Ties Deepen",
-      "summary": "The UAE has purchased 10 C-390 Millennium transport aircraft from Brazil, strengthening military cooperation within the BRICS bloc. The deal signals Abu Dhabis push to diversify defense partnerships beyond Western suppliers.",
-      "emoji": "🇦🇪🇧🇷",
-      "category": "Defense Industry",
-      "source": "Al-Monitor",
-      "url": "https://www.al-monitor.com/originals/2026/05/uae-purchases-10-military-aircraft-brazil-brics-ties-grow",
-      "timestamp": "2026-05-05T00:06:00+03:00"
-    },
-    {
       "headline": "Senator Graham Demands Forceful US Response After Iran Targets UAE",
       "summary": "Senator Lindsey Graham called for a forceful US military response after Iran launched attacks on the United Arab Emirates. The Republican hawk warned that Irans escalation must be met with decisive action.",
       "emoji": "🇺🇸🇮🇷",
@@ -2802,33 +2845,6 @@
         "https://www.reuters.com/business/energy/trump-administration-cites-national-security-halt-us-wind-farm-projects-ft-2026-05-03/",
         "https://www.reuters.com/business/energy/trump-administration-cites-national-security-halt-us-wind-farm-projects-ft-2026-05-03/"
       ]
-    },
-    {
-      "headline": "AI Chipmaker Cerebras Targets $115-$125 Share Price in US IPO",
-      "summary": "AI chipmaker Cerebras Systems, a rival to Nvidia, is kicking off its IPO roadshow with shares expected to be priced between $115 and $125.",
-      "emoji": "🤖💰",
-      "category": "Technology",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/ai-chipmaker-cerebras-targets-115-125-share-price-us-ipo-source-says-2026-05-04/",
-      "timestamp": "2026-05-04T13:05:00+03:00"
-    },
-    {
-      "headline": "Finland raises concerns with Ukraine over drones entering Finnish airspace",
-      "summary": "Finnish PM Petteri Orpo told Zelensky that drone incursions near the Finnish-Russian border are unacceptable. The incident coincided with an alleged Ukrainian drone strike on Leningrad Oblast.",
-      "emoji": "🇫🇮",
-      "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/finland-turns-to-ukraine-over-drone-straying-into-finnish-airspace/",
-      "timestamp": "2026-05-04T12:15:00+03:00"
-    },
-    {
-      "headline": "War on Iran triggers crisis of trust in nuclear non-proliferation treaty",
-      "summary": "The US-Israel campaign against Iran has exposed fundamental flaws in the NPT, diplomats say. Iran remained in compliance with the JCPOA before the US withdrawal, raising questions about the value of nuclear restraint.",
-      "emoji": "☢️",
-      "category": "Diplomacy",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/opinion/war-iran-fundamental-crisis-trust-nuclear-non-proliferation-treaty",
-      "timestamp": "2026-05-04T12:15:00+03:00"
     }
   ]
 }
