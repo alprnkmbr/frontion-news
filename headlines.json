@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-07T02:06:06+03:00",
+  "lastUpdated": "2026-05-07T02:07:38+03:00",
   "headlines": [
+    {
+      "headline": "North Korea declares it is not bound by nuclear non-proliferation treaty",
+      "summary": "Pyongyang says the US and other countries are \"tarnishing the atmosphere\" at the UN NPT review conference by raising concerns about its nuclear weapons program.",
+      "emoji": "🇰🇵",
+      "category": "Diplomacy",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/asia-pacific/north-korea-says-it-s-not-bound-to-any-treaty-on-non-proliferation-of-nuclear-weapons/3929589",
+      "timestamp": "2026-05-07T02:06:00+03:00"
+    },
+    {
+      "headline": "Russia cancels Victory Day celebrations in Crimea over Ukraine drone threat",
+      "summary": "Russian occupation authorities in Crimea cancelled May 9 Victory Day events citing security concerns amid Ukrainian drone strikes targeting the peninsula.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/russia-canceled-victory-day-celebrations-in-crimea-over-safety-concerns-amid-ukraine-strikes/",
+      "timestamp": "2026-05-07T02:06:00+03:00"
+    },
+    {
+      "headline": "Israeli forces launch new incursion into Syrias Daraa province",
+      "summary": "Israeli forces carried out an incursion in the Yarmouk Basin region in western Daraa countryside late Wednesday, marking continued Israeli operations in southern Syria.",
+      "emoji": "🇸🇾",
+      "category": "Middle East",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/middle-east/israeli-forces-launch-fresh-incursion-into-countryside-of-syrias-daraa-province/3929588",
+      "timestamp": "2026-05-07T02:06:00+03:00"
+    },
+    {
+      "headline": "Russias YJ-20 hypersonic missile threatens US carrier dominance",
+      "summary": "SCMP analyzes Chinas YJ-20 hypersonic sea-based missile, a highly maneuverable weapon that could sink aircraft carriers with a single hit and is nearly impossible to intercept.",
+      "emoji": "⚔️",
+      "category": "Defense Industry",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/military/article/3352554/does-chinas-yj-20-hypersonic-sea-based-missile-give-beijing-edge-over-us-carriers",
+      "timestamp": "2026-05-07T02:06:00+03:00"
+    },
     {
       "headline": "Russia to Buy Foreign Currency as Iran War Boosts Oil Revenue",
       "summary": "Russia will resume foreign currency purchases for the first time since the Ukraine war, as high oil prices from the Iran conflict boost Moscow export revenues.",
@@ -8,7 +44,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/russia-start-buying-forex-middle-east-war-oil-windfall-arrives-2026-05-06/",
-      "timestamp": "2026-05-07T02:03:00+03:00"
+      "timestamp": "2026-05-07T02:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/russia-start-buying-forex-middle-east-war-oil-windfall-arrives-2026-05-06/",
+          "angle": "Russia to Buy Foreign Currency as Iran War Oil Windfall Boosts Revenues",
+          "summary": "Russia will purchase foreign currency on the market for the first time since the Ukraine war began, as surging oil prices from the Iran conflict have boosted Moscow's crude export revenues. The Finance Ministry announcement signals a shift in Russia's fiscal position driven by Middle East tensions."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/russia-start-buying-forex-middle-east-war-oil-windfall-arrives-2026-05-06/",
+        "https://www.reuters.com/world/china/russia-start-buying-forex-middle-east-war-oil-windfall-arrives-2026-05-06/"
+      ]
     },
     {
       "headline": "UAE Rejects Iran Criticism of US Defense Partnerships",
@@ -56,19 +108,27 @@
       "timestamp": "2026-05-07T01:03:00+03:00",
       "perspectives": [
         {
-          "source": "Al-Monitor",
-          "url": "https://www.al-monitor.com/originals/2026/05/israel-strikes-beirut-breach-lebanon-ceasefire",
-          "angle": "Israel Strikes Beirut for First Time Since Ceasefire, Targeting Hezbollah Commander",
-          "summary": "An Israeli airstrike hit Beirut southern suburbs targeting a Hezbollah Radwan Force commander, marking the first attack on the Lebanese capital since the ceasefire was brokered in mid-April. The strike comes as US-Iran negotiations appear to be progressing."
+          "source": "TRT World",
+          "url": "https://www.trtworld.com/article/2cd69d7773a0",
+          "angle": "Hezbollah elite Radwan Force commander killed in Israeli strike on Beirut",
+          "summary": "An Israeli airstrike on Beirut southern suburbs killed a senior commander from Hezbollah elite Radwan Force, according to local reports."
+        },
+        {
+          "source": "Al Arabiya",
+          "url": "https://english.alarabiya.net/News/middle-east/2026/05/07/-exhaustion-and-sadness-in-beirut-s-southern-suburbs",
+          "angle": "Beirut Residents Describe Exhaustion After Israeli Strike Shatters Ceasefire",
+          "summary": "Residents in Beirut's southern suburbs express exhaustion and sadness after Israel struck the capital for the first time since the Hezbollah ceasefire, targeting a Radwan Force commander."
         }
       ],
       "sources": [
         "Reuters",
-        "Al-Monitor"
+        "TRT World",
+        "Al Arabiya"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/strike-hits-beiruts-southern-suburbs-first-time-weeks-sources-say-2026-05-06/",
-        "https://www.al-monitor.com/originals/2026/05/israel-strikes-beirut-breach-lebanon-ceasefire"
+        "https://www.trtworld.com/article/2cd69d7773a0",
+        "https://english.alarabiya.net/News/middle-east/2026/05/07/-exhaustion-and-sadness-in-beirut-s-southern-suburbs"
       ]
     },
     {
@@ -171,15 +231,6 @@
       "category": "Defense Industry",
       "source": "Nikkei Asia",
       "url": "https://asia.nikkei.com/opinion/china-s-role-in-enabling-iran-s-shahed-drone-supply-lines",
-      "timestamp": "2026-05-07T00:04:00+03:00"
-    },
-    {
-      "headline": "Beirut Residents Describe Exhaustion After Israeli Strike Shatters Ceasefire",
-      "summary": "Residents in Beirut's southern suburbs express exhaustion and sadness after Israel struck the capital for the first time since the Hezbollah ceasefire, targeting a Radwan Force commander.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/middle-east/2026/05/07/-exhaustion-and-sadness-in-beirut-s-southern-suburbs",
       "timestamp": "2026-05-07T00:04:00+03:00"
     },
     {
@@ -536,15 +587,6 @@
         "https://www.scmp.com/news/china/military/article/3352646/china-condemns-japans-first-overseas-offensive-missile-test-wwii",
         "https://www.reuters.com/business/aerospace-defense/japan-fires-missile-joint-drill-with-us-allies-northern-philippines-facing-south-2026-05-06/"
       ]
-    },
-    {
-      "headline": "Russia to Buy Foreign Currency as Iran War Oil Windfall Boosts Revenues",
-      "summary": "Russia will purchase foreign currency on the market for the first time since the Ukraine war began, as surging oil prices from the Iran conflict have boosted Moscow's crude export revenues. The Finance Ministry announcement signals a shift in Russia's fiscal position driven by Middle East tensions.",
-      "emoji": "🇷🇺",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/russia-start-buying-forex-middle-east-war-oil-windfall-arrives-2026-05-06/",
-      "timestamp": "2026-05-06T20:03:00+03:00"
     },
     {
       "headline": "Gulf's Trade Lifeline Hangs on Two UAE Ports Amid Hormuz Crisis",
@@ -2854,69 +2896,6 @@
       "source": "Nikkei Asia",
       "url": "https://asia.nikkei.com/spotlight/asean-money/singapore-power-plan-buoys-sarawak-s-green-energy-ambitions",
       "timestamp": "2026-05-05T02:10:00+03:00"
-    },
-    {
-      "headline": "Three Dead in Colombia Monster Truck Show Crash",
-      "summary": "A monster truck veered out of control at a show in Colombia, killing three including a 10-year-old girl and injuring 38 spectators.",
-      "emoji": "🇨🇴",
-      "category": "Latin America",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/live-news/20260504-3-dead-in-colombia-monster-truck-show-crash",
-      "timestamp": "2026-05-05T02:10:00+03:00"
-    },
-    {
-      "headline": "Russia Hits Five Naftogaz Facilities as Energy Infrastructure Targeted",
-      "summary": "Russian attacks struck five facilities of Ukraine's state energy company Naftogaz, damaging equipment and causing fires, the CEO reported, continuing Moscow's campaign against Ukrainian energy assets.",
-      "emoji": "⛽",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/russia-hits-five-naftogaz-ukraine-facilities-ceo-says-2026-05-04/",
-      "timestamp": "2026-05-05T01:03:00+03:00"
-    },
-    {
-      "headline": "UAE Energy Minister: OPEC Exit Not Directed at Anyone",
-      "summary": "Following its departure from OPEC, the UAE energy minister said the country owes it to investment partners to produce without restrictions while cooperating with other crude producers.",
-      "emoji": "🇦🇪",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/uaes-exit-opec-not-directed-against-anyone-adnoc-ceo-says-2026-05-04/",
-      "timestamp": "2026-05-05T01:03:00+03:00"
-    },
-    {
-      "headline": "US to Raise EU Car Tariffs to 25%",
-      "summary": "The US Trade Representative confirmed Washington will proceed with President Trump's plan to increase EU car import tariffs to 25%, dealing a blow to German automakers already under pressure.",
-      "emoji": "🚗",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/us-move-forward-with-plans-hike-eu-car-tariffs-2026-05-04/",
-      "timestamp": "2026-05-05T01:03:00+03:00"
-    },
-    {
-      "headline": "Senator Graham Demands Forceful US Response After Iran Targets UAE",
-      "summary": "Senator Lindsey Graham called for a forceful US military response after Iran launched attacks on the United Arab Emirates. The Republican hawk warned that Irans escalation must be met with decisive action.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "The Hill",
-      "url": "https://thehill.com/policy/defense/5862819-forceful-response-uae-iran/",
-      "timestamp": "2026-05-05T00:06:00+03:00"
-    },
-    {
-      "headline": "Canada seeks closer ties with Europe as both face Trump pressure",
-      "summary": "Canadian Prime Minister Mark Carney attended a European summit as a special guest, offering trade deals and partnership as both sides navigate tensions with the Trump administration.",
-      "emoji": "🇨🇦🇪🇺",
-      "category": "Diplomacy",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/04/world/canada/carney-europe-trump.html",
-      "timestamp": "2026-05-04T23:03:00+03:00"
-    },
-    {
-      "headline": "Reuters analysis warns US inflation heading toward 4 percent",
-      "summary": "A Reuters commentary piece argues that persistent inflation pressures are pushing the US toward 4% inflation, far above the Federal Reserve target, complicating monetary policy amid Middle East tensions.",
-      "emoji": "📈",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/forget-3-us-inflation-its-heading-4-2026-05-04/",
-      "timestamp": "2026-05-04T23:03:00+03:00"
     }
   ]
 }
