@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-06T04:13:26+03:00",
+  "lastUpdated": "2026-05-06T05:04:13+03:00",
   "headlines": [
+    {
+      "headline": "Indian Rupee Hits Record Low as US-Iran Tensions Spark Economic Fears",
+      "summary": "The Indian rupee slid to a record low as the fragile truce in the Middle East came under strain after new US-Iran attacks over the Strait of Hormuz, highlighting economic spillover risks from the conflict.",
+      "emoji": "🇮🇳💸",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/india/rupee-hits-record-low-fading-hopes-us-iran-peace-spotlight-economic-risks-2026-05-05/",
+      "timestamp": "2026-05-06T05:03:00+03:00"
+    },
+    {
+      "headline": "Pacific Island Nations Face Fuel Shortages as Iran War Disrupts Supply Chains",
+      "summary": "The Asian Development Bank is coordinating regional support for Pacific nations struggling with soaring fuel costs, as the Iran conflict strains global energy distribution networks.",
+      "emoji": "🏝️⛽",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sustainability/asian-development-banks-financial-response-iran-war-2026-05-05/",
+      "timestamp": "2026-05-06T05:03:00+03:00"
+    },
+    {
+      "headline": "US Energy Exports Surge While Domestic Gas Prices Climb",
+      "summary": "US exporters are filling global energy gaps caused by the Iran war, but rising domestic fuel costs are raising questions about prioritizing exports over domestic supply.",
+      "emoji": "🛢️🇺🇸",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/booming-us-energy-exports-draw-scrutiny-domestic-fuel-prices-bite-2026-05-05/",
+      "timestamp": "2026-05-06T05:03:00+03:00"
+    },
+    {
+      "headline": "US-Iran Ceasefire Holding For Now, Defense Secretary Says",
+      "summary": "Defense Secretary Hegseth confirmed the ceasefire with Iran is holding after a naval clash in the Strait of Hormuz, as Trump seeks to finalize a settlement.",
+      "emoji": "⚔️🤝",
+      "category": "US-Iran War",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-ships-uae-attacked/",
+      "timestamp": "2026-05-06T05:03:00+03:00"
+    },
+    {
+      "headline": "European Gas Prices Dip as US Moves to Reopen Strait of Hormuz",
+      "summary": "Dutch gas prices edged lower as US efforts to weaken Iranian control over the Strait of Hormuz provided hope for restored shipping lanes.",
+      "emoji": "🇪🇺⚡",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sustainability/climate-energy/dutch-gas-prices-edge-lower-us-moves-open-strait-hormuz-2026-05-05/",
+      "timestamp": "2026-05-06T05:03:00+03:00"
+    },
     {
       "headline": "US Army fires Tomahawk from Typhon system for first time in Philippines drills",
       "summary": "The US Army successfully fired a Tomahawk missile from its Typhon Mid-Range Capability launcher during Balikatan exercises in the Philippines, marking a significant milestone for the new missile system deployed in the Indo-Pacific.",
@@ -8,7 +53,23 @@
       "category": "Asia-Pacific",
       "source": "SCMP",
       "url": "https://www.scmp.com/news/asia/southeast-asia/article/3352548/us-army-fires-typhon-first-time-philippines-during-balikatan-drills",
-      "timestamp": "2026-05-06T04:15:00+03:00"
+      "timestamp": "2026-05-06T04:15:00+03:00",
+      "perspectives": [
+        {
+          "source": "Defense News",
+          "url": "https://www.defensenews.com/global/asia-pacific/2026/05/05/us-army-fires-tomahawk-missile-from-new-typhon-launcher-during-philippines-drill/",
+          "angle": "US Army fires Tomahawk from new Typhon launcher in Philippines drill",
+          "summary": "The US Army successfully test-fired a Tomahawk missile from its new Typhon land-based launcher during joint exercises in the Philippines, demonstrating enhanced long-range strike capabilities in the Indo-Pacific theater."
+        }
+      ],
+      "sources": [
+        "SCMP",
+        "Defense News"
+      ],
+      "urls": [
+        "https://www.scmp.com/news/asia/southeast-asia/article/3352548/us-army-fires-typhon-first-time-philippines-during-balikatan-drills",
+        "https://www.defensenews.com/global/asia-pacific/2026/05/05/us-army-fires-tomahawk-missile-from-new-typhon-launcher-during-philippines-drill/"
+      ]
     },
     {
       "headline": "ASEAN leaders under pressure to address economic fallout from Iran conflict",
@@ -1190,15 +1251,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/5/us-secret-service-shoots-gunman-near-white-house",
       "timestamp": "2026-05-05T13:03:00+03:00"
-    },
-    {
-      "headline": "US Army fires Tomahawk from new Typhon launcher in Philippines drill",
-      "summary": "The US Army successfully test-fired a Tomahawk missile from its new Typhon land-based launcher during joint exercises in the Philippines, demonstrating enhanced long-range strike capabilities in the Indo-Pacific theater.",
-      "emoji": "🇺🇸",
-      "category": "Asia-Pacific",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/global/asia-pacific/2026/05/05/us-army-fires-tomahawk-missile-from-new-typhon-launcher-during-philippines-drill/",
-      "timestamp": "2026-05-05T12:05:00+03:00"
     },
     {
       "headline": "Thailand scraps 25-year Cambodia energy exploration agreement",
@@ -2865,58 +2917,6 @@
       "source": "CBS News",
       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-israel-lebanon-ceasefire/",
       "timestamp": "2026-05-04T03:03:00+03:00"
-    },
-    {
-      "headline": "Israel Approves Purchase of New F-35 and F-15IA Fighter Squadrons",
-      "summary": "Israel gave final approval for a plan to purchase two new combat squadrons of F-35 and F-15IA advanced fighter aircraft from Lockheed Martin and Boeing in a deal worth tens of billions of dollars.",
-      "emoji": "✈️",
-      "category": "Defense Industry",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/israel-approves-plan-buy-f-35-f-15i-aircraft-us-2026-05-03/",
-      "timestamp": "2026-05-04T03:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/israel-approves-plan-buy-f-35-f-15i-aircraft-us-2026-05-03/",
-          "angle": "Israel Approves Purchase of Two New F-35 and F-15IA Fighter Squadrons",
-          "summary": "Israel gave final approval for purchasing two new combat squadrons of F-35 and F-15IA fighter aircraft from Lockheed Martin and Boeing in a deal worth tens of billions of dollars, the defense ministry announced."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/aerospace-defense/israel-approves-plan-buy-f-35-f-15i-aircraft-us-2026-05-03/",
-        "https://www.reuters.com/business/aerospace-defense/israel-approves-plan-buy-f-35-f-15i-aircraft-us-2026-05-03/"
-      ]
-    },
-    {
-      "headline": "Oil surges past $120/barrel as Trump rejects Iran overture",
-      "summary": "Brent crude hit its highest level of the conflict after Trump maintained the naval blockade of Iranian ports. The UAE announced it would leave OPEC on May 1 to respond to market shortages without cartel constraints.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Al-Monitor",
-      "url": "https://www.al-monitor.com/originals/2026/04/oil-surges-past-120-war-time-high-trump-rejects-iran-overture",
-      "timestamp": "2026-05-04T02:06:00+03:00"
-    },
-    {
-      "headline": "Pentagon's Office of Net Assessment chief joins Anthropic",
-      "summary": "James Baker, who led the Defense Department's long-term strategic analysis office from 2015-2025, joined AI company Anthropic as a \"strategist-in-residence.\" The move comes after the Trump administration temporarily shuttered ONA and designated Anthropic a supply-chain risk.",
-      "emoji": "🤖",
-      "category": "Technology",
-      "source": "Defense One",
-      "url": "https://www.defenseone.com/technology/2026/05/former-head-pentagons-think-tank-joins-anthropic/413256/",
-      "timestamp": "2026-05-04T02:06:00+03:00"
-    },
-    {
-      "headline": "China stages naval drill east of Philippines amid US-Balikatan exercises",
-      "summary": "The PLA Southern Theatre Command conducted drills led by Type 055 destroyer Zunyi in waters east of Luzon, calling it a \"necessary action\" in response to the regional situation. The exercises coincide with the 19-day Balikatan 2026 joint drills between US and Philippine forces.",
-      "emoji": "🇨🇳",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3351353/china-stages-navy-drill-us-and-philippines-embark-balikatan-2026",
-      "timestamp": "2026-05-04T02:06:00+03:00"
     }
   ]
 }
