@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-05-06T15:04:28+03:00",
+  "lastUpdated": "2026-05-06T16:04:18+03:00",
   "headlines": [
+    {
+      "headline": "Saudi Arabia and UAE Drift Toward Open Rivalry Over Oil Policy and Regional Influence",
+      "summary": "Competition between the Gulf powers has turned into tension over energy quotas, regional conflicts and differing visions for the Middle East, as the UAE leaves OPEC and Saudi Arabia asserts dominance.",
+      "emoji": "🇸🇦🇦🇪",
+      "category": "Middle East",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/05/world/middleeast/uae-saudi-arabia-oil-opec-what-to-know.html",
+      "timestamp": "2026-05-06T16:05:00+03:00"
+    },
+    {
+      "headline": "Washington Post: Iran War Deepens US Political Divide Over Israel Alliance",
+      "summary": "The Iran conflict has fractured the traditional bipartisan consensus on US-Israel ties, with both Democrats and Republicans now fiercely debating the alliance on campaign trails and in Congress.",
+      "emoji": "🇺🇸🇮🇱⚖️",
+      "category": "US Politics",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/05/06/israel-political-division-democrats-republicans/",
+      "timestamp": "2026-05-06T16:05:00+03:00"
+    },
+    {
+      "headline": "Bloomberg: UK Faces Disastrous Breakup as Four Nations Drift to Separatist Rule",
+      "summary": "Polls suggest three of the four UK nations may soon be ruled by separatist parties dedicated to ending the union, a historic shift that could unravel centuries of political unity.",
+      "emoji": "🇬🇧⚠️",
+      "category": "Europe",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-05-06/uk-may-elections-united-kingdom-may-be-stumbling-into-a-disastrous-breakup",
+      "timestamp": "2026-05-06T16:05:00+03:00"
+    },
     {
       "headline": "Iran foreign minister meets Chinese counterpart days before Trump-Xi summit",
       "summary": "Iranian FM Abbas Araqchi held talks with China's Wang Yi in Beijing, underscoring close ties between the two countries just a week before US President Trump is scheduled to meet with Xi Jinping.",
@@ -8,16 +35,23 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/chinese-foreign-minister-kicks-off-meeting-with-iranian-counterpart-2026-05-06/",
-      "timestamp": "2026-05-06T15:05:00+03:00"
-    },
-    {
-      "headline": "China steps up Iran war diplomacy ahead of Trump-Xi summit",
-      "summary": "China's diplomatic role in the Iran war has come into sharper focus following talks between Chinese and Iranian foreign ministers, with Beijing positioning itself as a key mediator days before Trump's meeting with Xi.",
-      "emoji": "🇨🇳🕊️",
-      "category": "Diplomacy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/china-iran-us-war-behind-scenes-diplomacy-cd2283edc105303e6cbc5eadc8840ad2",
-      "timestamp": "2026-05-06T15:05:00+03:00"
+      "timestamp": "2026-05-06T15:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/china-iran-us-war-behind-scenes-diplomacy-cd2283edc105303e6cbc5eadc8840ad2",
+          "angle": "China steps up Iran war diplomacy ahead of Trump-Xi summit",
+          "summary": "China's diplomatic role in the Iran war has come into sharper focus following talks between Chinese and Iranian foreign ministers, with Beijing positioning itself as a key mediator days before Trump's meeting with Xi."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/chinese-foreign-minister-kicks-off-meeting-with-iranian-counterpart-2026-05-06/",
+        "https://apnews.com/article/china-iran-us-war-behind-scenes-diplomacy-cd2283edc105303e6cbc5eadc8840ad2"
+      ]
     },
     {
       "headline": "US NATO exit would force Europe into major defense spending surge",
@@ -26,7 +60,23 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/commentary/breakingviews/us-nato-exit-would-call-eu-fiscal-creativity-2026-05-06/",
-      "timestamp": "2026-05-06T15:05:00+03:00"
+      "timestamp": "2026-05-06T15:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/natos-rutte-says-europeans-have-gotten-message-trump-2026-05-04/",
+          "angle": "NATO Chief Says Europe Has Gotten Trumps Message on Defense",
+          "summary": "NATO Secretary General Mark Rutte said European nations have understood President Trumps frustration over the Iran war and are stepping up defense commitments after the US announced troop withdrawals from Germany."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/commentary/breakingviews/us-nato-exit-would-call-eu-fiscal-creativity-2026-05-06/",
+        "https://www.reuters.com/world/europe/natos-rutte-says-europeans-have-gotten-message-trump-2026-05-04/"
+      ]
     },
     {
       "headline": "Ukraine war spills into NATO territory as drones hit Romania",
@@ -2542,31 +2592,6 @@
       "timestamp": "2026-05-04T22:03:00+03:00"
     },
     {
-      "headline": "NATO Chief Says Europe Has Gotten Trumps Message on Defense",
-      "summary": "NATO Secretary General Mark Rutte said European nations have understood President Trumps frustration over the Iran war and are stepping up defense commitments after the US announced troop withdrawals from Germany.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/natos-rutte-says-europeans-have-gotten-message-trump-2026-05-04/",
-      "timestamp": "2026-05-04T21:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/nato-germany-trump-defense-military-russia-ukraine-edb9c28be9dd023fd33b6e1c293e3b29",
-          "angle": "NATO Chief Says Europeans \"Got the Message\" on Defense After Trump Drawdown",
-          "summary": "European leaders are reassessing their role in NATO after Trump announced the withdrawal of 5,000 US troops from Germany, with the alliance chief saying Europeans are \"stepping up\" on defense responsibility."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/natos-rutte-says-europeans-have-gotten-message-trump-2026-05-04/",
-        "https://apnews.com/article/nato-germany-trump-defense-military-russia-ukraine-edb9c28be9dd023fd33b6e1c293e3b29"
-      ]
-    },
-    {
       "headline": "UK in Talks to Join EU 105 Billion Ukraine Loan for Defense Orders",
       "summary": "Britain is negotiating to join the European Unions massive loan package to Ukraine, which would qualify the UK for defense orders financed by the loan, though it would need to cover some interest payments.",
       "emoji": "🇬🇧",
@@ -2826,33 +2851,6 @@
       "source": "UN News",
       "url": "https://news.un.org/en/story/2026/05/1167432",
       "timestamp": "2026-05-04T16:05:00+03:00"
-    },
-    {
-      "headline": "NATO chief Rutte says Europe ready to help clear mines from Strait of Hormuz",
-      "summary": "NATO Secretary General Mark Rutte said European governments \"got the message\" from Trump on the Iran conflict and are prepared to deploy mine hunters and minesweepers in the \"next phase\" of the operation to restore freedom of navigation.",
-      "emoji": "🇪🇺🛡️",
-      "category": "Diplomacy",
-      "source": "Irish Times",
-      "url": "https://www.irishtimes.com/world/europe/2026/05/04/europe-has-gotten-the-message-from-trump-on-iran-nato-chief-says/",
-      "timestamp": "2026-05-04T15:06:00+03:00"
-    },
-    {
-      "headline": "Modi's BJP wins historic victory in West Bengal state elections",
-      "summary": "India's ruling BJP has conquered one of its toughest political frontiers, winning West Bengal after 15 years of TMC rule. The victory marks a major expansion of Modi's political influence into eastern India, with the state's electorate larger than Germany's.",
-      "emoji": "🇮🇳🏛️",
-      "category": "Asia-Pacific",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/ce8pdvp5x5ro",
-      "timestamp": "2026-05-04T15:06:00+03:00"
-    },
-    {
-      "headline": "Three dead from suspected hantavirus outbreak on Atlantic cruise ship",
-      "summary": "Three people have died and at least three others are ill after a suspected hantavirus outbreak on a Dutch cruise ship off Cape Verde. The WHO confirmed one case and is coordinating medical evacuations while saying the risk to the public is low.",
-      "emoji": "🚢🦠",
-      "category": "Africa",
-      "source": "AP News",
-      "url": "https://apnews.com/article/hantavirus-south-africa-cruise-ship-who-4c9215a2bd7cd34a743b2a31323c7e18",
-      "timestamp": "2026-05-04T15:06:00+03:00"
     }
   ]
 }
