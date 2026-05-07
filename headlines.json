@@ -1,14 +1,41 @@
 {
-  "lastUpdated": "2026-05-07T08:04:57+03:00",
+  "lastUpdated": "2026-05-07T08:08:25+03:00",
   "headlines": [
     {
-      "headline": "Iran Reviewing US Peace Proposal as Both Sides Edge Toward Deal",
-      "summary": "Iran is reviewing a one-page US proposal that could end the war and reopen the Strait of Hormuz, requiring Tehran to suspend nuclear enrichment while Washington releases billions in frozen assets. The White House awaits Tehran's response as diplomatic momentum builds.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/06/world/middleeast/us-iran-peace-proposal.html",
-      "timestamp": "2026-05-07T08:05:00+03:00"
+      "headline": "Australia forces gas giants to reserve 20% for domestic market",
+      "summary": "Australia will require LNG exporters to reserve 20% of their gas for the domestic east coast market to avert supply shortfalls and lower energy bills amid global energy disruptions from the Iran conflict.",
+      "emoji": "🇦🇺⛽",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/australia-requires-lng-exporters-reserve-20-gas-east-coast-market-2026-05-07/",
+      "timestamp": "2026-05-07T08:10:00+03:00"
+    },
+    {
+      "headline": "China condemns Eswatini for being \"kept and fed\" by Taiwan",
+      "summary": "Beijing used unusually strong language against Taiwan's remaining African ally, saying Eswatini's leaders are being \"kept and fed\" by Taipei as diplomatic tensions rise.",
+      "emoji": "🇨🇳🇹🇼",
+      "category": "Diplomacy",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/05/07/2003856926",
+      "timestamp": "2026-05-07T08:10:00+03:00"
+    },
+    {
+      "headline": "Zelensky announces legislation to legalize private military companies in Ukraine",
+      "summary": "Ukraine is preparing laws to establish private military companies, creating postwar opportunities for veterans and expanding Kyiv's role in the global security sector.",
+      "emoji": "🇺🇦⚔️",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/zelensky-announces-plan-to-establish-private-military-companies-in-ukraine/",
+      "timestamp": "2026-05-07T08:10:00+03:00"
+    },
+    {
+      "headline": "ASEAN leaders gather in Philippines amid Middle East energy crisis",
+      "summary": "ASEAN summit in Cebu focuses on energy security and Middle East tensions, with fuel import-dependent Southeast Asian economies facing significant challenges from the Iran conflict.",
+      "emoji": "🌏⚡",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/energy-crisis-front-centre-asean-leaders-prepare-summit-2026-05-06/",
+      "timestamp": "2026-05-07T08:10:00+03:00"
     },
     {
       "headline": "China Expands Influence Across Asia as Iran War Creates Energy Crisis",
@@ -35,7 +62,23 @@
       "category": "Ukraine-Russia War",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/05/06/world/europe/ukraine-russia-romania-drones-nato-drone-wall.html",
-      "timestamp": "2026-05-07T08:05:00+03:00"
+      "timestamp": "2026-05-07T08:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/05/06/world/europe/ukraine-russia-romania-drones-nato-drone-wall.html",
+          "angle": "Ukraine war spills into NATO territory as drones hit Romania",
+          "summary": "Four years of battle in Ukraine is taking a toll on neighboring Romanians, with drones from the conflict crossing into NATO territory even as the war itself has not crossed the border."
+        }
+      ],
+      "sources": [
+        "New York Times",
+        "New York Times"
+      ],
+      "urls": [
+        "https://www.nytimes.com/2026/05/06/world/europe/ukraine-russia-romania-drones-nato-drone-wall.html",
+        "https://www.nytimes.com/2026/05/06/world/europe/ukraine-russia-romania-drones-nato-drone-wall.html"
+      ]
     },
     {
       "headline": "US Private Payrolls Post Largest Gain in 15 Months Despite Middle East Uncertainty",
@@ -297,6 +340,31 @@
       "timestamp": "2026-05-07T04:10:00+03:00"
     },
     {
+      "headline": "Japan fires missile in joint drill with US allies in Philippines near South China Sea",
+      "summary": "Japan's Self-Defense Forces fired an anti-ship missile during exercises with US, Australian and Philippine forces, demonstrating growing military cooperation in waters facing the contested South China Sea.",
+      "emoji": "🇯🇵",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/japan-fires-missile-joint-drill-with-us-allies-northern-philippines-facing-south-2026-05-06/",
+      "timestamp": "2026-05-07T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "France 24",
+          "url": "https://www.france24.com/en/live-news/20260507-japan-fires-missiles-during-drills-drawing-china-rebuke",
+          "angle": "Japan fires anti-ship missiles in joint drill with US and allies near South China Sea",
+          "summary": "Japan's Self-Defense Forces fired a Type 88 anti-ship missile during a joint exercise with US, Australian, and Philippine forces, sinking a decommissioned ship in waters between the Philippines and Taiwan. China condemned the drills."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "France 24"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/aerospace-defense/japan-fires-missile-joint-drill-with-us-allies-northern-philippines-facing-south-2026-05-06/",
+        "https://www.france24.com/en/live-news/20260507-japan-fires-missiles-during-drills-drawing-china-rebuke"
+      ]
+    },
+    {
       "headline": "Iran reviews US peace proposal as Trump signals war may be ending",
       "summary": "Iran is reviewing a US peace proposal that would formally end the war, though key American demands on Iran's nuclear program and reopening the Strait of Hormuz remain unaddressed.",
       "emoji": "🇮🇷",
@@ -306,19 +374,19 @@
       "timestamp": "2026-05-07T04:03:00+03:00",
       "perspectives": [
         {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cj0pq2q8221o",
-          "angle": "Iran considering US proposal to end war",
-          "summary": "Iran is weighing a US proposal for a 14-point memorandum of understanding to end the conflict. The White House believes it could be closing in on a deal with Tehran after days of escalation."
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/05/06/world/middleeast/us-iran-peace-proposal.html",
+          "angle": "Iran Reviewing US Peace Proposal as Both Sides Edge Toward Deal",
+          "summary": "Iran is reviewing a one-page US proposal that could end the war and reopen the Strait of Hormuz, requiring Tehran to suspend nuclear enrichment while Washington releases billions in frozen assets. The White House awaits Tehran's response as diplomatic momentum builds."
         }
       ],
       "sources": [
         "Reuters",
-        "BBC"
+        "New York Times"
       ],
       "urls": [
         "https://www.reuters.com/world/china/iran-says-it-wants-comprehensive-agreement-with-us-2026-05-06/",
-        "https://www.bbc.com/news/articles/cj0pq2q8221o"
+        "https://www.nytimes.com/2026/05/06/world/middleeast/us-iran-peace-proposal.html"
       ]
     },
     {
@@ -394,39 +462,6 @@
       "urls": [
         "https://www.reuters.com/world/china/g7-trade-ministers-discuss-critical-minerals-supply-chain-french-minister-says-2026-05-06/",
         "https://www.reuters.com/world/china/g7-trade-ministers-discuss-critical-minerals-supply-chain-french-minister-says-2026-05-06/"
-      ]
-    },
-    {
-      "headline": "Japan fires missile in joint drill with US allies in Philippines near South China Sea",
-      "summary": "Japan's Self-Defense Forces fired an anti-ship missile during exercises with US, Australian and Philippine forces, demonstrating growing military cooperation in waters facing the contested South China Sea.",
-      "emoji": "🇯🇵",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/japan-fires-missile-joint-drill-with-us-allies-northern-philippines-facing-south-2026-05-06/",
-      "timestamp": "2026-05-07T04:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/japan-fires-missile-joint-drill-with-us-allies-northern-philippines-facing-south-2026-05-06/",
-          "angle": "Japan Fires Missile in Joint Drill With US Allies Near South China Sea",
-          "summary": "Japan Self-Defense Forces fired an anti-ship missile during a joint exercise with US, Australian, and Philippine forces in waters facing the South China Sea."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/japan-fires-missile-joint-drill-with-us-allies-northern-philippines-facing-south-2026-05-06/",
-          "angle": "Japan Conducts First Overseas Offensive Missile Test in Philippines",
-          "summary": "Japan's Self-Defense Forces fired a Type 88 anti-ship missile during a joint exercise with US, Australian, and Philippine forces, hitting a decommissioned ship in waters facing the South China Sea. The drill marks Japan's first overseas offensive missile test since WWII and signals Tokyo's deepening security partnerships in the Indo-Pacific."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/aerospace-defense/japan-fires-missile-joint-drill-with-us-allies-northern-philippines-facing-south-2026-05-06/",
-        "https://www.reuters.com/business/aerospace-defense/japan-fires-missile-joint-drill-with-us-allies-northern-philippines-facing-south-2026-05-06/",
-        "https://www.reuters.com/business/aerospace-defense/japan-fires-missile-joint-drill-with-us-allies-northern-philippines-facing-south-2026-05-06/"
       ]
     },
     {
@@ -988,15 +1023,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/week-asia/politics/article/3352651/vietnam-india-seek-closer-ties-hedge-against-dependence-superpowers",
       "timestamp": "2026-05-06T16:04:00+03:00"
-    },
-    {
-      "headline": "Ukraine war spills into NATO territory as drones hit Romania",
-      "summary": "Four years of battle in Ukraine is taking a toll on neighboring Romanians, with drones from the conflict crossing into NATO territory even as the war itself has not crossed the border.",
-      "emoji": "🇷🇴🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/06/world/europe/ukraine-russia-romania-drones-nato-drone-wall.html",
-      "timestamp": "2026-05-06T15:05:00+03:00"
     },
     {
       "headline": "US dollar stuck in range as markets watch Strait of Hormuz developments",
@@ -2814,92 +2840,6 @@
       "source": "Times of Israel",
       "url": "https://www.timesofisrael.com/jewish-library-and-chabad-in-suburb-near-buenos-aires-attacked-no-injuries-reported/",
       "timestamp": "2026-05-05T08:00:00+03:00"
-    },
-    {
-      "headline": "Pakistan foils suicide attack near Afghan border, one civilian killed",
-      "summary": "Pakistani security forces thwarted a suicide attack after an attacker attempted to ram an explosives-laden vehicle into a military post in South Waziristan, resulting in one civilian death.",
-      "emoji": "🇵🇰",
-      "category": "South Asia",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/asia-pacific/pakistani-forces-foil-suicide-attack-near-afghan-border-1-civilian-killed/3927220",
-      "timestamp": "2026-05-05T08:00:00+03:00"
-    },
-    {
-      "headline": "Brazilian President Lula to meet Trump in US this week",
-      "summary": "Brazilian President Luiz Inácio Lula da Silva will travel to the US to meet with President Trump, with hopes of strengthening the \"good chemistry\" between the two leaders for mutual benefit.",
-      "emoji": "🇧🇷🇺🇸",
-      "category": "Diplomacy",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/americas/brazils-lula-to-visit-us-to-meet-trump-this-week/3927218",
-      "timestamp": "2026-05-05T08:00:00+03:00"
-    },
-    {
-      "headline": "US Forces Battle Iran for Control of Strait of Hormuz as UAE Comes Under Attack",
-      "summary": "The US military fired on Iranian forces and sank six boats while attempting to reopen the Strait of Hormuz. The UAE reported 15 missiles and 4 drones intercepted, with a drone sparking a fire at a key oil facility that wounded three Indian nationals. The fragile ceasefire from early April is under severe strain.",
-      "emoji": "⚔️",
-      "category": "Middle East",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-war-ceasefire-negotiations-strait-a4857f28d9b47e0170b65ced19451a25",
-      "timestamp": "2026-05-05T07:03:00+03:00"
-    },
-    {
-      "headline": "German Carmakers Slump as Trump Hikes Auto Tariffs to 25 Percent",
-      "summary": "Shares in German automakers fell sharply after President Trump raised tariffs on imported European cars from 15% to 25%, breaking from the previously agreed terms. The move deals a fresh blow to the already battered sector as transatlantic tensions escalate.",
-      "emoji": "🚗",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/shares-german-carmakers-fall-after-trump-tariff-hike-2026-05-04/",
-      "timestamp": "2026-05-05T07:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/shares-german-carmakers-fall-after-trump-tariff-hike-2026-05-04/",
-          "angle": "German Carmakers Slump as Trump Hikes EU Car Tariffs to 25%",
-          "summary": "President Trump raised US tariffs on imported European cars from 15% to 25%, dealing a fresh blow to German automakers already struggling with Middle East supply disruptions."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/shares-german-carmakers-fall-after-trump-tariff-hike-2026-05-04/",
-        "https://www.reuters.com/business/shares-german-carmakers-fall-after-trump-tariff-hike-2026-05-04/"
-      ]
-    },
-    {
-      "headline": "Japanese Yen Surges as Markets Brace for Potential Currency Intervention",
-      "summary": "The yen jumped sharply on Monday, sparking speculation that Japan had again intervened to support its sinking currency. Finance Minister Katayama warned against speculative moves in foreign exchange as pressure persists despite intervention risks.",
-      "emoji": "🇯🇵",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/yen-suddenly-jumps-markets-alert-intervention-2026-05-04/",
-      "timestamp": "2026-05-05T07:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/yen-steady-intervention-fears-linger-with-japan-shut-holidays-2026-05-04/",
-          "angle": "Japanese Yen Steadies as Intervention Fears Linger",
-          "summary": "The yen stabilized at the start of Asian trading, strengthening slightly after suspected currency intervention by Japanese authorities last week. Markets remain on alert for further action as the Iran conflict continues to impact global financial markets."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/yen-suddenly-jumps-markets-alert-intervention-2026-05-04/",
-        "https://www.reuters.com/world/asia-pacific/yen-steady-intervention-fears-linger-with-japan-shut-holidays-2026-05-04/"
-      ]
-    },
-    {
-      "headline": "Brazil Revives Consumer Debt Relief Program Ahead of October Election",
-      "summary": "Brazil relaunched its consumer debt relief program first introduced in 2023, aiming to cut interest burdens and boost disposable income ahead of President Lula da Silvas re-election bid in October. The move targets economic relief for struggling households.",
-      "emoji": "🇧🇷",
-      "category": "Latin America",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/americas/brazil-revives-consumer-debt-relief-program-ahead-election-2026-05-04/",
-      "timestamp": "2026-05-05T07:03:00+03:00"
     }
   ]
 }
