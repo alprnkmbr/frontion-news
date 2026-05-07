@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-07T13:06:53+03:00",
+  "lastUpdated": "2026-05-07T14:06:15+03:00",
   "headlines": [
+    {
+      "headline": "Ukraine Launches Major Drone Attack on Moscow After Russia Rejects Ceasefire",
+      "summary": "Russia reported shooting down 347 Ukrainian drones overnight in one of the largest attacks on Moscow, coming after Russia rejected a ceasefire proposal. The escalation coincides with Russia announcing its own two-day ceasefire starting at midnight.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-drone-attack-moscow-celebrations-3fd7de0bc63bc349422117e1517e724d",
+      "timestamp": "2026-05-07T14:03:00+03:00"
+    },
+    {
+      "headline": "China May Attempt Taiwan Maneuvering at Trump-Xi Summit, Taiwan Warns",
+      "summary": "Taiwan's intelligence chief warned that China may try to extract concessions on Taiwan when Trump visits Beijing next week, though the U.S. has reaffirmed its policy stance on the island has not changed.",
+      "emoji": "🇨🇳",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/china-may-try-manoeuvring-over-taiwan-issue-trump-meeting-official-says-2026-05-07/",
+      "timestamp": "2026-05-07T14:03:00+03:00"
+    },
+    {
+      "headline": "Vatican Cardinal Calls Trump's Attacks on Pope Leo 'Strange'",
+      "summary": "A senior Vatican cardinal criticized Trump's repeated attacks on Pope Leo over the Iran war as \"strange,\" ahead of Secretary of State Rubio's fence-mending visit to the Holy See.",
+      "emoji": "⛪",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/top-vatican-cardinal-calls-trumps-attacks-pope-leo-strange-2026-05-06/",
+      "timestamp": "2026-05-07T14:03:00+03:00"
+    },
+    {
+      "headline": "South Korea and Netherlands Agree to Expand Chips, AI Cooperation",
+      "summary": "South Korean President Lee Jae Myung and Dutch PM Rob Jetten agreed to deepen cooperation on semiconductors, AI, and quantum technology in their first phone call, strengthening ties between two key chip-producing nations.",
+      "emoji": "🇰🇷",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/south-korea-dutch-leaders-discuss-chips-ai-cooperation-2026-05-07/",
+      "timestamp": "2026-05-07T14:03:00+03:00"
+    },
+    {
+      "headline": "China Sentences Former Defense Ministers to Suspended Death for Corruption",
+      "summary": "Two former Chinese defense ministers received suspended death sentences on corruption charges, in the latest high-profile anti-corruption purge targeting China's military leadership.",
+      "emoji": "🇨🇳",
+      "category": "Asia-Pacific",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/clypjx383j2o",
+      "timestamp": "2026-05-07T14:03:00+03:00"
+    },
     {
       "headline": "Rubio Meets Pope Leo Amid Trump-Vatican Tensions Over Iran War",
       "summary": "US Secretary of State Marco Rubio held a fence-mending meeting with Pope Leo at the Vatican, seeking to ease tensions after President Trump's repeated attacks on the pontiff over US Iran policy.",
@@ -8,7 +53,31 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/rubio-meet-pope-leo-trump-keeps-up-attacks-pontiff-2026-05-07/",
-      "timestamp": "2026-05-07T13:03:00+03:00"
+      "timestamp": "2026-05-07T13:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/top-vatican-cardinal-calls-trumps-attacks-pope-leo-strange-2026-05-06/",
+          "angle": "Vatican Cardinal Calls Trump's Attacks on Pope Leo \"Strange\"",
+          "summary": "A senior Vatican cardinal described President Trump's disparaging attacks on Pope Leo over the Iran war as \"strange,\" ahead of Secretary of State Marco Rubio's talks with the pontiff."
+        },
+        {
+          "source": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/asia-pacific/beijing-extends-support-to-iran-amid-conflict-with-us-ahead-of-trumps-china-trip/3928569",
+          "angle": "Anadolu Agency: Beijing Extends Support to Iran Amid US Conflict Ahead of Trump Visit",
+          "summary": "Chinese Foreign Minister Wang Yi emphasized international concern over restoring normal passage through the Strait of Hormuz during talks with Iranian counterpart Araghchi."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Anadolu Agency"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/rubio-meet-pope-leo-trump-keeps-up-attacks-pontiff-2026-05-07/",
+        "https://www.reuters.com/world/top-vatican-cardinal-calls-trumps-attacks-pope-leo-strange-2026-05-06/",
+        "https://www.aa.com.tr/en/asia-pacific/beijing-extends-support-to-iran-amid-conflict-with-us-ahead-of-trumps-china-trip/3928569"
+      ]
     },
     {
       "headline": "Israel Kills Hezbollah Commander in First Beirut Strike Since Ceasefire",
@@ -17,7 +86,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/israel-says-it-killed-hezbollah-commander-first-strike-beirut-since-ceasefire-2026-05-07/",
-      "timestamp": "2026-05-07T13:03:00+03:00"
+      "timestamp": "2026-05-07T13:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/lebanese-pm-says-premature-talk-any-high-level-meeting-with-israel-2026-05-06/",
+          "angle": "Israel strikes Beirut for first time since Hezbollah ceasefire",
+          "summary": "Israel struck Beirut for the first time since agreeing to a ceasefire with Hezbollah, targeting a commander of the militant group's elite Radwan force in the city's southern suburbs."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/israel-says-it-killed-hezbollah-commander-first-strike-beirut-since-ceasefire-2026-05-07/",
+        "https://www.reuters.com/world/middle-east/lebanese-pm-says-premature-talk-any-high-level-meeting-with-israel-2026-05-06/"
+      ]
     },
     {
       "headline": "US and Iran Edge Toward Short-Term Deal to End Fighting",
@@ -115,39 +200,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/whats-stake-trump-xi-summit-2026-05-07/",
       "timestamp": "2026-05-07T12:03:00+03:00"
-    },
-    {
-      "headline": "Vatican Cardinal Calls Trump's Attacks on Pope Leo \"Strange\"",
-      "summary": "A senior Vatican cardinal described President Trump's disparaging attacks on Pope Leo over the Iran war as \"strange,\" ahead of Secretary of State Marco Rubio's talks with the pontiff.",
-      "emoji": "⛪🇻🇦",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/top-vatican-cardinal-calls-trumps-attacks-pope-leo-strange-2026-05-06/",
-      "timestamp": "2026-05-07T12:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/rubio-meet-pope-leo-trump-keeps-up-attacks-pontiff-2026-05-07/",
-          "angle": "Rubio to Meet Pope Leo as Trump Keeps Up Attacks on Pontiff",
-          "summary": "US Secretary of State Marco Rubio will meet Pope Leo at the Vatican in a potentially fraught encounter, as President Trump has continued disparaging attacks on the Catholic leader over the Iran war."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/rubio-meet-pope-leo-trump-keeps-up-attacks-pontiff-2026-05-07/",
-          "angle": "Rubio to meet Pope Leo as Trump continues attacks on pontiff",
-          "summary": "US Secretary of State Marco Rubio will meet Pope Leo at the Vatican, in a potentially fraught encounter as President Donald Trump has continued disparaging attacks on the Catholic leader over the Iran war."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/top-vatican-cardinal-calls-trumps-attacks-pope-leo-strange-2026-05-06/",
-        "https://www.reuters.com/world/rubio-meet-pope-leo-trump-keeps-up-attacks-pontiff-2026-05-07/",
-        "https://www.reuters.com/world/rubio-meet-pope-leo-trump-keeps-up-attacks-pontiff-2026-05-07/"
-      ]
     },
     {
       "headline": "Pope Leo to Visit Canary Islands on Spain Trip",
@@ -561,31 +613,6 @@
       "source": "TASS",
       "url": "https://tass.com/defense/2127557",
       "timestamp": "2026-05-07T06:10:00+03:00"
-    },
-    {
-      "headline": "Israel strikes Beirut for first time since Hezbollah ceasefire",
-      "summary": "Israel struck Beirut for the first time since agreeing to a ceasefire with Hezbollah, targeting a commander of the militant group's elite Radwan force in the city's southern suburbs.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/lebanese-pm-says-premature-talk-any-high-level-meeting-with-israel-2026-05-06/",
-      "timestamp": "2026-05-07T06:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/crmpjjl02l2o",
-          "angle": "Israel strikes Beirut targeting Hezbollah commander",
-          "summary": "Israeli forces conducted the first strike on Beirut's southern suburbs since the Israel-Hezbollah ceasefire took effect on April 17, targeting a senior Hezbollah figure."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/lebanese-pm-says-premature-talk-any-high-level-meeting-with-israel-2026-05-06/",
-        "https://www.bbc.com/news/articles/crmpjjl02l2o"
-      ]
     },
     {
       "headline": "North Korea declares it is not bound by nuclear non-proliferation treaty",
@@ -1404,15 +1431,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/iran-us-israel-war-china-may-6-2026-3d061a90ccde095178d9b988d94d08f3",
       "timestamp": "2026-05-06T13:00:00+03:00"
-    },
-    {
-      "headline": "Anadolu Agency: Beijing Extends Support to Iran Amid US Conflict Ahead of Trump Visit",
-      "summary": "Chinese Foreign Minister Wang Yi emphasized international concern over restoring normal passage through the Strait of Hormuz during talks with Iranian counterpart Araghchi.",
-      "emoji": "🇨🇳🇮🇷",
-      "category": "Diplomacy",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/asia-pacific/beijing-extends-support-to-iran-amid-conflict-with-us-ahead-of-trumps-china-trip/3928569",
-      "timestamp": "2026-05-06T12:07:00+03:00"
     },
     {
       "headline": "Japan Pivots Indo-Pacific Strategy Toward Southeast Asia",
@@ -2835,40 +2853,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/germanys-merz-marks-year-office-facing-deep-transatlantic-crisis-2026-05-04/",
       "timestamp": "2026-05-05T11:03:00+03:00"
-    },
-    {
-      "headline": "US to proceed with 25% EU car tariff hike",
-      "summary": "The US Trade Representative confirmed Washington will move forward with Trump's plan to raise EU auto import tariffs to 25%, deepening trade tensions with European allies already reeling from troop withdrawal announcements.",
-      "emoji": "🚗",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/us-move-forward-with-plans-hike-eu-car-tariffs-2026-05-04/",
-      "timestamp": "2026-05-05T11:03:00+03:00"
-    },
-    {
-      "headline": "Japan defense chief visits Philippines for security cooperation",
-      "summary": "Japanese Defense Minister Shinjiro Koizumi traveled to the Philippines to witness international combat drills and deepen security ties, as Japan expands defense partnerships in the Indo-Pacific region.",
-      "emoji": "🇯🇵",
-      "category": "Asia-Pacific",
-      "source": "AP News",
-      "url": "https://apnews.com/article/japan-philippines-defense-koizumi-marcos-balikatan-3c337bba04f0079278eff1436f177ad5",
-      "timestamp": "2026-05-05T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/japan-australia-cooperation-takaichi-albanese-energy-agreements-aca28a3fecc19306381d83382fd23abf",
-          "angle": "Japan and Australia Deepen Cooperation on Energy Security and Critical Minerals",
-          "summary": "Japanese PM Sanae Takaichi and Australian PM Anthony Albanese signed agreements on energy security, defense, and critical minerals cooperation amid the Iran war threatening global supply chains. Japan relies on Australia for nearly half its LNG, and both nations aim to reduce vulnerability to Middle East disruptions."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "AP News"
-      ],
-      "urls": [
-        "https://apnews.com/article/japan-philippines-defense-koizumi-marcos-balikatan-3c337bba04f0079278eff1436f177ad5",
-        "https://apnews.com/article/japan-australia-cooperation-takaichi-albanese-energy-agreements-aca28a3fecc19306381d83382fd23abf"
-      ]
     }
   ]
 }
