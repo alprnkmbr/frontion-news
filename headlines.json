@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-07T19:25:06+03:00",
+  "lastUpdated": "2026-05-07T20:06:12+03:00",
   "headlines": [
+    {
+      "headline": "CNN Founder Ted Turner Dies at 87",
+      "summary": "Ted Turner, the brash media pioneer who founded CNN and revolutionized 24-hour news broadcasting, has died at age 87. His vision transformed both the television industry and global news consumption.",
+      "emoji": "📺",
+      "category": "US Politics",
+      "source": "AP News",
+      "url": "https://apnews.com/article/ted-turner-cnn-death-obit-4ec07d2aecea43aa86f92b294d32e410",
+      "timestamp": "2026-05-07T20:05:00+03:00"
+    },
+    {
+      "headline": "Russia Cancels Military Hardware at Victory Day Parade for First Time in Decades",
+      "summary": "For the first time in nearly 20 years, Russia will display no tanks or military vehicles at Moscow Victory Day parade - only soldiers marching. BBC Russia editor Steve Rosenberg says this signals the Ukraine war is not going to plan.",
+      "emoji": "🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cwy2gj2jlr8o",
+      "timestamp": "2026-05-07T20:05:00+03:00"
+    },
+    {
+      "headline": "China Sentences Former Defense Ministers to Suspended Death",
+      "summary": "China has announced suspended death sentences for former defense ministers Wei Fenghe and Li Shangfu following their ousting in a major military purge. The move highlights ongoing anti-corruption campaigns targeting top military brass.",
+      "emoji": "🇨🇳",
+      "category": "Asia-Pacific",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/clypjx383j2o",
+      "timestamp": "2026-05-07T20:05:00+03:00"
+    },
+    {
+      "headline": "Three IS-Linked Women Arrested in Australia After Syria Return",
+      "summary": "Three women allegedly linked to Islamic State have been arrested in Australia after flying home from Syria for the first time in years. The arrests highlight ongoing concerns about returning foreign fighters.",
+      "emoji": "🇦🇺",
+      "category": "Middle East",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/czj2emlv2kjo",
+      "timestamp": "2026-05-07T20:05:00+03:00"
+    },
+    {
+      "headline": "Hungary Returns Seized $82 Million in Cash and Gold to Ukraine",
+      "summary": "Hungary has returned a seized shipment worth $82 million in cash and gold to Ukraine, in a significant gesture after initially confiscating the assets. The move could signal improving Hungary-Ukraine relations.",
+      "emoji": "🇭🇺",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/hungary-ukraine-cash-gold-shipment-zelenskyy-c6181fc0aec462e05cce8781a993aa97",
+      "timestamp": "2026-05-07T20:05:00+03:00"
+    },
     {
       "headline": "Ukraine Gripen Fighter Deal Could Be Signed Within Months",
       "summary": "Ukraine's purchase of Swedish Saab Gripen fighter jets could be finalized within months, Sweden's defense minister announced during talks in Stockholm, marking a significant boost to Ukraine's air defense capabilities.",
@@ -35,16 +80,23 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/rubio-meet-pope-leo-trump-keeps-up-attacks-pontiff-2026-05-07/",
-      "timestamp": "2026-05-07T19:22:00+03:00"
-    },
-    {
-      "headline": "Ukraine Launches Major Drone Attack on Moscow Ahead of Victory Day",
-      "summary": "Russia reported shooting down 347 Ukrainian drones overnight in a major attack on Moscow, coming after Russia rejected a Ukrainian ceasefire proposal ahead of May 9 Victory Day celebrations.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/russia-ukraine-war-drone-attack-moscow-celebrations-3fd7de0bc63bc349422117e1517e724d",
-      "timestamp": "2026-05-07T19:22:00+03:00"
+      "timestamp": "2026-05-07T19:22:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/rubio-meet-pope-leo-trump-keeps-up-attacks-pontiff-2026-05-07/",
+          "angle": "Rubio Meets Pope Leo Amid Trump-Vatican Tensions Over Iran",
+          "summary": "US Secretary of State Marco Rubio met with Pope Leo at the Vatican in a fence-mending visit following Trump's repeated attacks on the pontiff over the Iran war."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/rubio-meet-pope-leo-trump-keeps-up-attacks-pontiff-2026-05-07/",
+        "https://www.reuters.com/world/rubio-meet-pope-leo-trump-keeps-up-attacks-pontiff-2026-05-07/"
+      ]
     },
     {
       "headline": "Kenya confirms 19 citizens killed fighting for Russia in Ukraine, 32 missing",
@@ -99,6 +151,31 @@
       "timestamp": "2026-05-07T18:05:00+03:00"
     },
     {
+      "headline": "Russia Tightens Putin Security for Victory Day Over Ukraine Attack Fears",
+      "summary": "The Kremlin announced extra security measures for President Putin during May 9 Victory Day events amid concerns about potential Ukrainian attacks on the WWII anniversary celebrations.",
+      "emoji": "🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/kremlin-says-putins-security-is-being-tightened-victory-day-events-2026-05-07/",
+      "timestamp": "2026-05-07T18:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/russia-ukraine-war-drone-attack-moscow-celebrations-3fd7de0bc63bc349422117e1517e724d",
+          "angle": "Ukraine Launches Major Drone Attack on Moscow Ahead of Victory Day",
+          "summary": "Russia reported shooting down 347 Ukrainian drones overnight in a major attack on Moscow, coming after Russia rejected a Ukrainian ceasefire proposal ahead of May 9 Victory Day celebrations."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/kremlin-says-putins-security-is-being-tightened-victory-day-events-2026-05-07/",
+        "https://apnews.com/article/russia-ukraine-war-drone-attack-moscow-celebrations-3fd7de0bc63bc349422117e1517e724d"
+      ]
+    },
+    {
       "headline": "Taiwan Tests Torpedo on Indigenous Submarine, Boosting Defense Against China",
       "summary": "Taiwan conducted its first torpedo test firing for a domestically-built submarine, marking a major milestone in efforts to strengthen deterrence against Chinese naval forces and protect critical sea lanes.",
       "emoji": "🇹🇼",
@@ -114,15 +191,6 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/ukraines-top-negotiator-miami-talks-source-says-2026-05-07/",
-      "timestamp": "2026-05-07T18:03:00+03:00"
-    },
-    {
-      "headline": "Russia Tightens Putin Security for Victory Day Over Ukraine Attack Fears",
-      "summary": "The Kremlin announced extra security measures for President Putin during May 9 Victory Day events amid concerns about potential Ukrainian attacks on the WWII anniversary celebrations.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/kremlin-says-putins-security-is-being-tightened-victory-day-events-2026-05-07/",
       "timestamp": "2026-05-07T18:03:00+03:00"
     },
     {
@@ -405,31 +473,6 @@
         "https://www.reuters.com/world/russia-continues-violate-kyiv-proposed-ceasefire-zelenskiy-says-2026-05-07/",
         "https://apnews.com/article/russia-ukraine-war-drone-attack-moscow-celebrations-3fd7de0bc63bc349422117e1517e724d",
         "https://www.reuters.com/world/europe/ukraine-says-russia-violated-ceasefire-initiated-by-kyiv-2026-05-06/"
-      ]
-    },
-    {
-      "headline": "Rubio Meets Pope Leo Amid Trump-Vatican Tensions Over Iran",
-      "summary": "US Secretary of State Marco Rubio met with Pope Leo at the Vatican in a fence-mending visit following Trump's repeated attacks on the pontiff over the Iran war.",
-      "emoji": "⛪",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/rubio-meet-pope-leo-trump-keeps-up-attacks-pontiff-2026-05-07/",
-      "timestamp": "2026-05-07T15:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/top-vatican-cardinal-calls-trumps-attacks-pope-leo-strange-2026-05-06/",
-          "angle": "Vatican Cardinal Calls Trump's Attacks on Pope Leo 'Strange'",
-          "summary": "A senior Vatican cardinal criticized Trump's repeated attacks on Pope Leo over the Iran war as \"strange,\" ahead of Secretary of State Rubio's fence-mending visit to the Holy See."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/rubio-meet-pope-leo-trump-keeps-up-attacks-pontiff-2026-05-07/",
-        "https://www.reuters.com/world/top-vatican-cardinal-calls-trumps-attacks-pope-leo-strange-2026-05-06/"
       ]
     },
     {
@@ -2809,49 +2852,6 @@
       "urls": [
         "https://www.scmp.com/week-asia/politics/article/3352462/south-korea-rebuffs-trumps-project-freedom-call-after-hormuz-ship-fire",
         "https://www.scmp.com/week-asia/politics/article/3352462/south-korea-rebuffs-trumps-project-freedom-call-after-hormuz-ship-fire"
-      ]
-    },
-    {
-      "headline": "Russian fiber-optic FPV drones reach Kramatorsk",
-      "summary": "Advanced Russian drones with fiber-optic guidance have appeared in Kramatorsk, posing a new threat to one of Ukraine key strongholds in Donetsk Oblast.",
-      "emoji": "🇺🇦⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russian-fiber-optic-fpv-drones-appear-in-heart-of-ukraines-donbas-stronghold/",
-      "timestamp": "2026-05-05T18:05:00+03:00"
-    },
-    {
-      "headline": "US Service Sector Cools Sharply as Energy Prices Bite",
-      "summary": "U.S. services sector growth slowed for a second month in April, with new orders dropping the most in three years as energy prices from the Iran conflict pushed input costs to their highest since late 2022.",
-      "emoji": "📉",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/us-service-sector-growth-cools-order-growth-drops-by-most-3-years-2026-05-05/",
-      "timestamp": "2026-05-05T18:05:00+03:00"
-    },
-    {
-      "headline": "India Infrastructure Giant L&T Reports Profit Drop as Middle East War Disrupts Projects",
-      "summary": "Larsen & Toubro posted a 3.1% fall in quarterly profit as the Middle East conflict disrupted the infrastructure giants projects in the region, highlighting economic spillover from the Iran war.",
-      "emoji": "🇮🇳",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/india/indias-larsen-toubro-quarterly-profit-falls-middle-east-conflict-disrupts-2026-05-05/",
-      "timestamp": "2026-05-05T17:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/finance/imf-chief-georgieva-warns-much-worse-outcome-if-middle-east-war-drags-into-2027-2026-05-04/",
-          "angle": "IMF Chief Warns of Global Economic Damage if Middle East War Extends into 2027",
-          "summary": "IMF Managing Director Kristalina Georgieva warned that inflation is already picking up and the global economy could face a much worse outcome if the Middle East war drags into 2027 with oil prices hitting around $125 per barrel."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/india/indias-larsen-toubro-quarterly-profit-falls-middle-east-conflict-disrupts-2026-05-05/",
-        "https://www.reuters.com/business/finance/imf-chief-georgieva-warns-much-worse-outcome-if-middle-east-war-drags-into-2027-2026-05-04/"
       ]
     }
   ]
