@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-07T23:05:57+03:00",
+  "lastUpdated": "2026-05-08T00:05:31+03:00",
   "headlines": [
+    {
+      "headline": "Kremlin Tightens Putin Security for Victory Day Amid Drone Threats",
+      "summary": "Russia is implementing extra security measures for President Putin ahead of May 9 Victory Day celebrations, fearing Ukrainian attacks during the WWII commemorations.",
+      "emoji": "🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/kremlin-says-putins-security-is-being-tightened-victory-day-events-2026-05-07/",
+      "timestamp": "2026-05-08T00:03:00+03:00"
+    },
+    {
+      "headline": "Rubio Meets Pope Leo to Mend US-Vatican Relations Amid Trump Tensions",
+      "summary": "Secretary of State Marco Rubio held a private meeting with Pope Leo XIV at the Vatican, discussing religious freedom and humanitarian issues as tensions persist between Trump and the pontiff.",
+      "emoji": "🇻🇦",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/rubio-meet-pope-leo-trump-keeps-up-attacks-pontiff-2026-05-07/",
+      "timestamp": "2026-05-08T00:03:00+03:00"
+    },
+    {
+      "headline": "Russia Ramping Up Assassination Attempts Against Opponents in Europe",
+      "summary": "European intelligence officials warn that Russia is intensifying efforts to kill dissidents and opponents across Europe, marking a dangerous escalation in Moscow's overseas operations.",
+      "emoji": "🇪🇺",
+      "category": "Europe",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/europe/russia-ramping-attempts-kill-opponents-europe-intelligence-officials-s-rcna344115",
+      "timestamp": "2026-05-08T00:03:00+03:00"
+    },
+    {
+      "headline": "Russia Violates Ukraine Ceasefire as Zelenskiy Vows Continued Strikes",
+      "summary": "President Zelenskiy says Russia continues to violate a Kyiv-proposed ceasefire, warning that Ukraine will maintain long-range strikes if Russian assaults persist.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/russia-continues-violate-kyiv-proposed-ceasefire-zelenskiy-says-2026-05-07/",
+      "timestamp": "2026-05-08T00:03:00+03:00"
+    },
+    {
+      "headline": "US Sells $17 Billion in Missiles to Gulf Nations as Stockpiles Deplete",
+      "summary": "The US and partners have exhausted air defense missiles in the Iran war, and now Washington is selling more missiles worth $17 billion to Gulf allies as production struggles to keep pace.",
+      "emoji": "🛡️",
+      "category": "Defense Industry",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/07/us/politics/weapons-stockpiles-iran-war.html",
+      "timestamp": "2026-05-08T00:03:00+03:00"
+    },
     {
       "headline": "US and Iran Near Short-Term Peace Deal",
       "summary": "The United States and Iran are edging toward a temporary agreement to halt their war, with Tehran reviewing a proposal that would stop the fighting but leave contentious issues unresolved.",
@@ -8,7 +53,31 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/",
-      "timestamp": "2026-05-07T23:03:00+03:00"
+      "timestamp": "2026-05-07T23:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/",
+          "angle": "US and Iran Edge Toward Limited Peace Deal",
+          "summary": "The United States and Iran are negotiating a temporary agreement to halt their war, with a draft framework that would stop the fighting but leave contentious issues unresolved. Tehran is reviewing US proposals as Trump pushes for a swift resolution."
+        },
+        {
+          "source": "Jerusalem Post",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-895294",
+          "angle": "US and Iran Near Deal on Uranium Transfer",
+          "summary": "Reports indicate Washington and Tehran are closing in on an agreement that would see Iran give away its enriched uranium stockpile as part of a broader peace framework."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Jerusalem Post"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/",
+        "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/",
+        "https://www.jpost.com/middle-east/iran-news/article-895294"
+      ]
     },
     {
       "headline": "Ukraine Launches Major Drone Attack on Moscow",
@@ -379,31 +448,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/china-asks-banks-pause-new-loans-us-sanctioned-refiners-bloomberg-news-reports-2026-05-07/",
       "timestamp": "2026-05-07T18:03:00+03:00"
-    },
-    {
-      "headline": "US and Iran Edge Toward Limited Peace Deal",
-      "summary": "The United States and Iran are negotiating a temporary agreement to halt their war, with a draft framework that would stop the fighting but leave contentious issues unresolved. Tehran is reviewing US proposals as Trump pushes for a swift resolution.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/",
-      "timestamp": "2026-05-07T17:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/",
-          "angle": "US and Iran Edge Toward Short-Term Deal to End Fighting",
-          "summary": "Washington and Tehran are moving toward a memorandum-based agreement rather than a comprehensive peace deal, with Iran reviewing a US proposal. Trump says a deal is \"very possible\" while threatening continued action if negotiations fail."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/",
-        "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/"
-      ]
     },
     {
       "headline": "US Submarines Maintain Edge But China Closing Gap",
@@ -1664,15 +1708,6 @@
       "timestamp": "2026-05-06T20:05:00+03:00"
     },
     {
-      "headline": "US and Iran Near Deal on Uranium Transfer",
-      "summary": "Reports indicate Washington and Tehran are closing in on an agreement that would see Iran give away its enriched uranium stockpile as part of a broader peace framework.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-895294",
-      "timestamp": "2026-05-06T20:05:00+03:00"
-    },
-    {
       "headline": "Gulf's Trade Lifeline Hangs on Two UAE Ports Amid Hormuz Crisis",
       "summary": "The UAE ports of Fujairah and Khor Fakkan have become critical chokepoints for Gulf trade as the Strait of Hormuz remains blocked. Grain offloading and crude loading continue at Fujairah while regional supply chains reroute through the eastern UAE facilities.",
       "emoji": "🇦🇪",
@@ -2714,33 +2749,6 @@
       "source": "Oil Price",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/API-Confirms-Very-Large-Crude-and-Oil-Product-Draws.html",
       "timestamp": "2026-05-06T00:14:00+03:00"
-    },
-    {
-      "headline": "German Chancellor Merz rules out snap elections or minority government",
-      "summary": "Friedrich Merz dismissed speculation about early elections, committing to stable governance as his new administration takes shape.",
-      "emoji": "🇩🇪",
-      "category": "Europe",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/europe/germany-s-merz-rules-out-snap-elections-or-minority-government/3928267",
-      "timestamp": "2026-05-06T00:14:00+03:00"
-    },
-    {
-      "headline": "Gas prices expected to cool drastically in five states",
-      "summary": "After last week's spike, gas prices in five states are projected to decline significantly, offering relief to consumers amid regional volatility.",
-      "emoji": "⛽",
-      "category": "Economy",
-      "source": "The Hill",
-      "url": "https://thehill.com/policy/energy-environment/5864695-why-gas-prices-could-soon-cool-drastically-in-these-5-states-and-who-else-may-benefit/",
-      "timestamp": "2026-05-06T00:14:00+03:00"
-    },
-    {
-      "headline": "US Industries Split Over Trump Tariff Probe on Factory Capacity",
-      "summary": "Domestic US industries are urging higher tariffs to curb exports from China and other countries with excess factory capacity, while import-dependent and agriculture groups advocate a more cautious approach to new trade restrictions.",
-      "emoji": "💰",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us/us-industries-trade-groups-split-over-trumps-tariff-probe-excess-factory-2026-05-05/",
-      "timestamp": "2026-05-06T00:03:00+03:00"
     }
   ]
 }
