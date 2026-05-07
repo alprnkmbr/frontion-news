@@ -1,23 +1,32 @@
 {
-  "lastUpdated": "2026-05-07T20:06:12+03:00",
+  "lastUpdated": "2026-05-07T20:11:01+03:00",
   "headlines": [
     {
-      "headline": "CNN Founder Ted Turner Dies at 87",
-      "summary": "Ted Turner, the brash media pioneer who founded CNN and revolutionized 24-hour news broadcasting, has died at age 87. His vision transformed both the television industry and global news consumption.",
-      "emoji": "📺",
-      "category": "US Politics",
-      "source": "AP News",
-      "url": "https://apnews.com/article/ted-turner-cnn-death-obit-4ec07d2aecea43aa86f92b294d32e410",
-      "timestamp": "2026-05-07T20:05:00+03:00"
+      "headline": "US-Germany Rift Deepens Over Iran War as Trump Orders Troop Withdrawal",
+      "summary": "German Chancellor Merz criticized Trump for having \"no strategy\" on Iran, prompting the US to announce withdrawal of 5,000 troops from Germany. Berlin dispatched minesweepers to the Mediterranean as the diplomatic row escalates.",
+      "emoji": "🇩🇪🇺🇸",
+      "category": "Europe",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/6/a-stress-test-us-germany-rift-widens-as-iran-war-drags-on",
+      "timestamp": "2026-05-07T20:10:00+03:00"
     },
     {
-      "headline": "Russia Cancels Military Hardware at Victory Day Parade for First Time in Decades",
-      "summary": "For the first time in nearly 20 years, Russia will display no tanks or military vehicles at Moscow Victory Day parade - only soldiers marching. BBC Russia editor Steve Rosenberg says this signals the Ukraine war is not going to plan.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cwy2gj2jlr8o",
-      "timestamp": "2026-05-07T20:05:00+03:00"
+      "headline": "Satellite Images Show Iran Hit 228 US Military Targets, Far More Than Reported",
+      "summary": "Analysis of satellite photos reveals damage to at least 228 structures at US bases across the Persian Gulf region. A new report estimates US spent $72 billion on the Iran war—nearly triple the Pentagon official estimate.",
+      "emoji": "🛰️💥",
+      "category": "Middle East",
+      "source": "Democracy Now",
+      "url": "https://www.democracynow.org/2026/5/7/headlines/satellite_photos_reveal_iran_has_hit_far_more_us_military_targets_than_previously_reported",
+      "timestamp": "2026-05-07T20:10:00+03:00"
+    },
+    {
+      "headline": "Iran Reviews US Peace Proposal Conveyed Through Pakistan, No Final Decision Yet",
+      "summary": "Iran confirmed it is reviewing a US ceasefire proposal transmitted via Pakistani mediation, described as a \"14-point framework.\" Tehran has not yet responded to Washington as markets rally on hopes of Hormuz reopening.",
+      "emoji": "🇮🇷🇵🇰",
+      "category": "Middle East",
+      "source": "Express Tribune",
+      "url": "https://tribune.com.pk/story/2606837/us-world-await-iran-response-to-latest-deal-offer",
+      "timestamp": "2026-05-07T20:10:00+03:00"
     },
     {
       "headline": "China Sentences Former Defense Ministers to Suspended Death",
@@ -26,7 +35,23 @@
       "category": "Asia-Pacific",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/clypjx383j2o",
-      "timestamp": "2026-05-07T20:05:00+03:00"
+      "timestamp": "2026-05-07T20:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/clypjx383j2o",
+          "angle": "China Sentences Former Defense Ministers to Suspended Death for Corruption",
+          "summary": "Two former Chinese defense ministers received suspended death sentences on corruption charges, in the latest high-profile anti-corruption purge targeting China's military leadership."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/clypjx383j2o",
+        "https://www.bbc.com/news/articles/clypjx383j2o"
+      ]
     },
     {
       "headline": "Three IS-Linked Women Arrested in Australia After Syria Return",
@@ -160,19 +185,19 @@
       "timestamp": "2026-05-07T18:03:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/russia-ukraine-war-drone-attack-moscow-celebrations-3fd7de0bc63bc349422117e1517e724d",
-          "angle": "Ukraine Launches Major Drone Attack on Moscow Ahead of Victory Day",
-          "summary": "Russia reported shooting down 347 Ukrainian drones overnight in a major attack on Moscow, coming after Russia rejected a Ukrainian ceasefire proposal ahead of May 9 Victory Day celebrations."
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cwy2gj2jlr8o",
+          "angle": "Russia Cancels Military Hardware at Victory Day Parade for First Time in Decades",
+          "summary": "For the first time in nearly 20 years, Russia will display no tanks or military vehicles at Moscow Victory Day parade - only soldiers marching. BBC Russia editor Steve Rosenberg says this signals the Ukraine war is not going to plan."
         }
       ],
       "sources": [
         "Reuters",
-        "AP News"
+        "BBC"
       ],
       "urls": [
         "https://www.reuters.com/world/kremlin-says-putins-security-is-being-tightened-victory-day-events-2026-05-07/",
-        "https://apnews.com/article/russia-ukraine-war-drone-attack-moscow-celebrations-3fd7de0bc63bc349422117e1517e724d"
+        "https://www.bbc.com/news/articles/cwy2gj2jlr8o"
       ]
     },
     {
@@ -534,15 +559,6 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/south-korea-dutch-leaders-discuss-chips-ai-cooperation-2026-05-07/",
-      "timestamp": "2026-05-07T14:03:00+03:00"
-    },
-    {
-      "headline": "China Sentences Former Defense Ministers to Suspended Death for Corruption",
-      "summary": "Two former Chinese defense ministers received suspended death sentences on corruption charges, in the latest high-profile anti-corruption purge targeting China's military leadership.",
-      "emoji": "🇨🇳",
-      "category": "Asia-Pacific",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/clypjx383j2o",
       "timestamp": "2026-05-07T14:03:00+03:00"
     },
     {
@@ -1065,8 +1081,8 @@
         {
           "source": "AP News",
           "url": "https://apnews.com/article/ted-turner-cnn-death-obit-4ec07d2aecea43aa86f92b294d32e410",
-          "angle": "CNN founder Ted Turner dies at 87",
-          "summary": "Media mogul Ted Turner, who revolutionized TV news by launching CNN in 1980, has died at age 87. He pioneered the modern 24-hour news culture."
+          "angle": "CNN Founder Ted Turner Dies at 87",
+          "summary": "Ted Turner, the brash media pioneer who founded CNN and revolutionized 24-hour news broadcasting, has died at age 87. His vision transformed both the television industry and global news consumption."
         }
       ],
       "sources": [
@@ -2803,56 +2819,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/lifestyle/russian-return-biennale-rattles-venice-ahead-opening-2026-05-05/",
       "timestamp": "2026-05-05T19:25:00+03:00"
-    },
-    {
-      "headline": "Pentagon Chief: Iran Ceasefire Holds Despite Hormuz Clash",
-      "summary": "Defense Secretary Pete Hegseth affirmed the ceasefire with Iran remains in effect, even as U.S. and Iranian forces exchanged fire near the Strait of Hormuz. The U.S. is conducting temporary maritime operations to protect commercial vessels.",
-      "emoji": "⚔️",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-not-looking-fight-with-temporary-operation-protect-ships-iran-pentagon-chief-2026-05-05/",
-      "timestamp": "2026-05-05T18:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/iran-us-war-ceasefire-negotiations-strait-hormuz-b8a77d16945085e5a5039032a55b3a90",
-          "angle": "US Declares Offensive Phase of Iran War Complete as Ceasefire Holds",
-          "summary": "Secretary of State Marco Rubio announced that Operation Epic Fury, the US-Israeli offensive against Iran launched in February, is complete. The fragile ceasefire continues despite Iranian attacks on UAE and ongoing tensions in the Strait of Hormuz, where the US military is attempting to reopen commercial shipping lanes."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/us-not-looking-fight-with-temporary-operation-protect-ships-iran-pentagon-chief-2026-05-05/",
-        "https://apnews.com/article/iran-us-war-ceasefire-negotiations-strait-hormuz-b8a77d16945085e5a5039032a55b3a90"
-      ]
-    },
-    {
-      "headline": "South Korea rejects Trump call to join Hormuz mission",
-      "summary": "Seoul says UN mandate and global coalition required before joining US-led operation to reopen the Strait of Hormuz after Iranian fire on ships.",
-      "emoji": "🇰🇷🇺🇸",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/politics/article/3352462/south-korea-rebuffs-trumps-project-freedom-call-after-hormuz-ship-fire",
-      "timestamp": "2026-05-05T18:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/politics/article/3352462/south-korea-rebuffs-trumps-project-freedom-call-after-hormuz-ship-fire",
-          "angle": "South Korea rebuffs Trump's call to join Hormuz mission after ship fired on",
-          "summary": "South Korea indicated it requires a UN mandate and global coalition before joining Trump's \"Project Freedom\" to reopen the Strait of Hormuz, after Iran reportedly fired on a South Korean cargo vessel."
-        }
-      ],
-      "sources": [
-        "SCMP",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.scmp.com/week-asia/politics/article/3352462/south-korea-rebuffs-trumps-project-freedom-call-after-hormuz-ship-fire",
-        "https://www.scmp.com/week-asia/politics/article/3352462/south-korea-rebuffs-trumps-project-freedom-call-after-hormuz-ship-fire"
-      ]
     }
   ]
 }
