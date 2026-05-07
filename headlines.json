@@ -1,14 +1,41 @@
 {
-  "lastUpdated": "2026-05-07T10:04:37+03:00",
+  "lastUpdated": "2026-05-07T11:04:25+03:00",
   "headlines": [
     {
-      "headline": "Japan Fires Missiles During Military Drills, Drawing China Rebuke",
-      "summary": "Japan fired surface-to-ship missiles and sank an old warship in waters between the Philippines and Taiwan during major military exercises with US forces, prompting sharp criticism from Beijing.",
-      "emoji": "🇯🇵",
-      "category": "Asia-Pacific",
-      "source": "Jakarta Post",
-      "url": "https://www.thejakartapost.com/world/2026/05/07/japan-fires-missiles-during-drills-drawing-china-rebuke.html",
-      "timestamp": "2026-05-07T10:05:00+03:00"
+      "headline": "Equinor Sees Surge in Asia-Pacific Demand for Norwegian Energy as Iran War Disrupts Gulf Exports",
+      "summary": "Norway's state energy giant reports increased interest from customers as far as Australia for petroleum and LNG exports, as Middle East conflict cuts off traditional Gulf supply routes.",
+      "emoji": "🇳🇴🛢️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/iran-war-lifts-asia-pacific-interest-norwegian-petroleum-products-lng-equinor-2026-05-06/",
+      "timestamp": "2026-05-07T11:03:00+03:00"
+    },
+    {
+      "headline": "Oil Prices Rebound as Markets Weigh Prospects of US-Iran Peace Deal",
+      "summary": "Crude prices rose over $1 after sharp losses in previous session, with investors optimistic about diplomatic progress to end the Middle East conflict and reopen the Strait of Hormuz.",
+      "emoji": "🛢️💰",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/us-oil-prices-rebound-investors-assess-prospects-middle-east-peace-deal-2026-05-06/",
+      "timestamp": "2026-05-07T11:03:00+03:00"
+    },
+    {
+      "headline": "Gold Rises for Third Day on Hopes for US-Iran Peace Agreement",
+      "summary": "Gold prices extended gains as a softer dollar and optimism about diplomatic efforts to end the Middle East conflict supported the precious metal.",
+      "emoji": "🥇🇺🇸🇮🇷",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/india/gold-steady-markets-focus-potential-us-iran-peace-deal-2026-05-07/",
+      "timestamp": "2026-05-07T11:03:00+03:00"
+    },
+    {
+      "headline": "Russia Kills Dozens in Missile Barrage Despite Ukraine's Unilateral Ceasefire",
+      "summary": "Russia launched dozens of drones and missiles at Ukraine, killing at least 27 civilians, ignoring Kyiv's unilateral ceasefire while Moscow prepares its own Victory Day truce.",
+      "emoji": "🇺🇦🇷🇺⚔️",
+      "category": "Ukraine-Russia War",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/06/russia-ukraine-missiles-24-hour-ceasefire-military-parade",
+      "timestamp": "2026-05-07T11:03:00+03:00"
     },
     {
       "headline": "EU Suspends Methane Rules as Energy Crunch Intensifies",
@@ -62,7 +89,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/",
-      "timestamp": "2026-05-07T10:03:00+03:00"
+      "timestamp": "2026-05-07T10:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/iran-says-it-wants-comprehensive-agreement-with-us-2026-05-06/",
+          "angle": "Iran reviews US peace proposal as Trump signals war may be ending",
+          "summary": "Iran is reviewing a US peace proposal that would formally end the war, though key American demands on Iran's nuclear program and reopening the Strait of Hormuz remain unaddressed."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/",
+        "https://www.reuters.com/world/china/iran-says-it-wants-comprehensive-agreement-with-us-2026-05-06/"
+      ]
     },
     {
       "headline": "Paraguay president visits Taiwan as China ramps up diplomatic pressure",
@@ -530,44 +573,19 @@
       "timestamp": "2026-05-07T04:03:00+03:00",
       "perspectives": [
         {
-          "source": "France 24",
-          "url": "https://www.france24.com/en/live-news/20260507-japan-fires-missiles-during-drills-drawing-china-rebuke",
-          "angle": "Japan fires anti-ship missiles in joint drill with US and allies near South China Sea",
-          "summary": "Japan's Self-Defense Forces fired a Type 88 anti-ship missile during a joint exercise with US, Australian, and Philippine forces, sinking a decommissioned ship in waters between the Philippines and Taiwan. China condemned the drills."
+          "source": "Jakarta Post",
+          "url": "https://www.thejakartapost.com/world/2026/05/07/japan-fires-missiles-during-drills-drawing-china-rebuke.html",
+          "angle": "Japan Fires Missiles During Military Drills, Drawing China Rebuke",
+          "summary": "Japan fired surface-to-ship missiles and sank an old warship in waters between the Philippines and Taiwan during major military exercises with US forces, prompting sharp criticism from Beijing."
         }
       ],
       "sources": [
         "Reuters",
-        "France 24"
+        "Jakarta Post"
       ],
       "urls": [
         "https://www.reuters.com/business/aerospace-defense/japan-fires-missile-joint-drill-with-us-allies-northern-philippines-facing-south-2026-05-06/",
-        "https://www.france24.com/en/live-news/20260507-japan-fires-missiles-during-drills-drawing-china-rebuke"
-      ]
-    },
-    {
-      "headline": "Iran reviews US peace proposal as Trump signals war may be ending",
-      "summary": "Iran is reviewing a US peace proposal that would formally end the war, though key American demands on Iran's nuclear program and reopening the Strait of Hormuz remain unaddressed.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/iran-says-it-wants-comprehensive-agreement-with-us-2026-05-06/",
-      "timestamp": "2026-05-07T04:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/05/06/world/middleeast/us-iran-peace-proposal.html",
-          "angle": "Iran Reviewing US Peace Proposal as Both Sides Edge Toward Deal",
-          "summary": "Iran is reviewing a one-page US proposal that could end the war and reopen the Strait of Hormuz, requiring Tehran to suspend nuclear enrichment while Washington releases billions in frozen assets. The White House awaits Tehran's response as diplomatic momentum builds."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "New York Times"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/iran-says-it-wants-comprehensive-agreement-with-us-2026-05-06/",
-        "https://www.nytimes.com/2026/05/06/world/middleeast/us-iran-peace-proposal.html"
+        "https://www.thejakartapost.com/world/2026/05/07/japan-fires-missiles-during-drills-drawing-china-rebuke.html"
       ]
     },
     {
@@ -2873,76 +2891,6 @@
       "urls": [
         "https://www.reuters.com/world/putin-declares-may-8-9-ceasefire-with-ukraine-mark-wwii-anniversary-agencies-say-2026-05-04/",
         "https://www.bbc.com/news/articles/c1e2zjz22p9o"
-      ]
-    },
-    {
-      "headline": "Australia raises rates for third time this year as oil shock bites",
-      "summary": "The Reserve Bank of Australia lifted rates to 4.35%, warning inflation would remain sticky as the Middle East conflict unleashed a global oil shock. Headline inflation is now seen peaking near 5%, with growth downgrades expected.",
-      "emoji": "🇦🇺💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/australia-central-bank-hikes-rates-third-time-this-year-battle-with-inflation-2026-05-05/",
-      "timestamp": "2026-05-05T09:05:00+03:00"
-    },
-    {
-      "headline": "Apple in Talks with Intel and Samsung for US Chip Production",
-      "summary": "Apple has held exploratory discussions about using Intel and Samsung Electronics to produce main processors for its devices in the United States, as part of efforts to diversify its chip supply chain.",
-      "emoji": "🍎",
-      "category": "Technology",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/apple-explores-using-intel-samsung-build-main-device-chips-us-bloomberg-news-2026-05-05/",
-      "timestamp": "2026-05-05T08:03:00+03:00"
-    },
-    {
-      "headline": "Trump Calls on South Korea to Join Hormuz Protection Mission",
-      "summary": "President Trump said South Korea should join US efforts to protect ships near Iran, with Defense Secretary Hegseth scheduled to hold a news conference with the Chairman of the Joint Chiefs of Staff.",
-      "emoji": "🇰🇷",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/trump-says-south-korea-should-join-mission-protect-ships-near-iran-2026-05-04/",
-      "timestamp": "2026-05-05T08:03:00+03:00"
-    },
-    {
-      "headline": "Russian Court Freezes Assets of Rusagro Billionaire Founder",
-      "summary": "A Russian court has frozen the assets of Vadim Moshkovich, billionaire founder of agricultural producer Rusagro, in what could be another high-profile asset grab by the state.",
-      "emoji": "🇷🇺",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/russian-court-freezes-assets-rusagro-founder-moshkovich-ifx-reports-2026-05-04/",
-      "timestamp": "2026-05-05T08:03:00+03:00"
-    },
-    {
-      "headline": "Trump Family Crypto Venture Countersues Justin Sun for Defamation",
-      "summary": "World Liberty Financial, the crypto venture co-founded by President Trump and his sons, filed a defamation lawsuit against Hong Kong-based crypto entrepreneur Justin Sun, escalating a dispute with one of its most prominent backers.",
-      "emoji": "💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/government/world-liberty-financial-sues-justin-sun-defamation-alleges-token-misconduct-2026-05-04/",
-      "timestamp": "2026-05-05T08:03:00+03:00"
-    },
-    {
-      "headline": "Gulf Markets Rise on Hopes of Middle East Resolution",
-      "summary": "Most Gulf stock exchanges closed slightly higher, supported by limited signs that the Middle East conflict may be resolved.",
-      "emoji": "📈",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/most-gulf-markets-gain-early-hopes-middle-east-resolution-2026-05-04/",
-      "timestamp": "2026-05-05T08:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/most-gulf-markets-gain-early-hopes-middle-east-resolution-2026-05-04/",
-          "angle": "Gulf Markets Rise on Hopes for Middle East Resolution",
-          "summary": "Most Gulf stock exchanges closed slightly higher Monday, supported by limited signs that the Middle East conflict may be resolved, even as global markets remain jittery."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/most-gulf-markets-gain-early-hopes-middle-east-resolution-2026-05-04/",
-        "https://www.reuters.com/world/middle-east/most-gulf-markets-gain-early-hopes-middle-east-resolution-2026-05-04/"
       ]
     }
   ]
