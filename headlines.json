@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-07T06:07:43+03:00",
+  "lastUpdated": "2026-05-07T07:04:51+03:00",
   "headlines": [
     {
-      "headline": "Hezbollah Commander Killed in Israeli Strike on Beirut",
-      "summary": "Israel struck Beirut for the first time since the ceasefire, targeting a senior commander of Hezbollah elite Radwan force. Lebanon PM called any high-level meeting with Israel premature.",
-      "emoji": "🇱🇧⚔️",
+      "headline": "Iran considering US proposal to end war",
+      "summary": "Iran is weighing a US proposal for a 14-point memorandum of understanding to end the conflict. The White House believes it could be closing in on a deal with Tehran after days of escalation.",
+      "emoji": "🇮🇷",
+      "category": "US-Iran War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cj0pq2q8221o",
+      "timestamp": "2026-05-07T07:10:00+03:00"
+    },
+    {
+      "headline": "Israel strikes Beirut targeting Hezbollah commander",
+      "summary": "Israeli forces conducted the first strike on Beirut's southern suburbs since the Israel-Hezbollah ceasefire took effect on April 17, targeting a senior Hezbollah figure.",
+      "emoji": "🇱🇧",
       "category": "Middle East",
-      "source": "France24",
-      "url": "https://www.france24.com/en/middle-east/20260507-middle-east-war-live-source-close-to-hezbollah-says-top-commander-killed-in-israeli-strike",
-      "timestamp": "2026-05-07T06:10:00+03:00"
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/crmpjjl02l2o",
+      "timestamp": "2026-05-07T07:10:00+03:00"
+    },
+    {
+      "headline": "US fires on Iranian oil tanker amid war pressure",
+      "summary": "US military forces fired on an Iranian oil tanker as the Trump administration continues to pressure Tehran for a deal to end the ongoing conflict.",
+      "emoji": "🛢️",
+      "category": "US-Iran War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-israel-war-china-may-6-2026-3d061a90ccde095178d9b988d94d08f3",
+      "timestamp": "2026-05-07T07:10:00+03:00"
+    },
+    {
+      "headline": "Russia violates Ukraine ceasefire, attacks kindergarten",
+      "summary": "Russia ignored Ukraine's unilateral ceasefire and attacked a kindergarten. Ukraine's president says Russia has \"spurned the ceasefire\" as Kyiv considers further action.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cpdpxdd5n6yo",
+      "timestamp": "2026-05-07T07:10:00+03:00"
+    },
+    {
+      "headline": "CNN founder Ted Turner dies at 87",
+      "summary": "Media mogul Ted Turner, who revolutionized TV news by launching CNN in 1980, has died at age 87. He pioneered the modern 24-hour news culture.",
+      "emoji": "📺",
+      "category": "US Politics",
+      "source": "AP News",
+      "url": "https://apnews.com/article/ted-turner-cnn-death-obit-4ec07d2aecea43aa86f92b294d32e410",
+      "timestamp": "2026-05-07T07:10:00+03:00"
     },
     {
       "headline": "Japan's Trump Supporters Lose Faith Amid Iran War Chaos",
@@ -62,7 +98,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/north-korea-revises-constitution-drop-references-unification-korean-peninsula-2026-05-06/",
-      "timestamp": "2026-05-07T06:05:00+03:00"
+      "timestamp": "2026-05-07T06:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/politics/article/3352662/north-koreas-constitutional-shift-move-towards-peaceful-co-existence-south",
+          "angle": "North Korea Drops Reunification Goal in Constitutional Shift",
+          "summary": "Pyongyang has removed references to \"national reunification\" and redefined inter-Korean borders in its revised constitution, signaling a potential move toward peaceful co-existence with South Korea."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "SCMP"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/north-korea-revises-constitution-drop-references-unification-korean-peninsula-2026-05-06/",
+        "https://www.scmp.com/week-asia/politics/article/3352662/north-koreas-constitutional-shift-move-towards-peaceful-co-existence-south"
+      ]
     },
     {
       "headline": "Rubio to meet Pope Leo as Trump continues attacks on pontiff",
@@ -71,16 +123,31 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/rubio-meet-pope-leo-trump-keeps-up-attacks-pontiff-2026-05-07/",
-      "timestamp": "2026-05-07T06:05:00+03:00"
-    },
-    {
-      "headline": "Top Vatican cardinal calls Trump attacks on Pope Leo strange",
-      "summary": "A senior Vatican Cardinal called US President Donald Trump's disparaging attacks on Pope Leo over the Iran war \"strange,\" a day before Secretary of State Marco Rubio is due to hold talks with the pope.",
-      "emoji": "⛪",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/top-vatican-cardinal-calls-trumps-attacks-pope-leo-strange-2026-05-06/",
-      "timestamp": "2026-05-07T06:05:00+03:00"
+      "timestamp": "2026-05-07T06:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/top-vatican-cardinal-calls-trumps-attacks-pope-leo-strange-2026-05-06/",
+          "angle": "Top Vatican cardinal calls Trump attacks on Pope Leo strange",
+          "summary": "A senior Vatican Cardinal called US President Donald Trump's disparaging attacks on Pope Leo over the Iran war \"strange,\" a day before Secretary of State Marco Rubio is due to hold talks with the pope."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/top-vatican-cardinal-calls-trumps-attacks-pope-leo-strange-2026-05-06/",
+          "angle": "Vatican cardinal calls Trump attacks on Pope Leo strange before Rubio visit",
+          "summary": "A senior Vatican cardinal criticized President Trumps public attacks on Pope Leo over the Iran war as strange, one day before US Secretary of State Marco Rubio is scheduled to meet with the pontiff. Tensions between Washington and the Vatican have escalated over differing approaches to the Iran conflict."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/rubio-meet-pope-leo-trump-keeps-up-attacks-pontiff-2026-05-07/",
+        "https://www.reuters.com/world/top-vatican-cardinal-calls-trumps-attacks-pope-leo-strange-2026-05-06/",
+        "https://www.reuters.com/world/top-vatican-cardinal-calls-trumps-attacks-pope-leo-strange-2026-05-06/"
+      ]
     },
     {
       "headline": "Israel strikes Beirut for first time since Hezbollah ceasefire",
@@ -89,7 +156,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/lebanese-pm-says-premature-talk-any-high-level-meeting-with-israel-2026-05-06/",
-      "timestamp": "2026-05-07T06:05:00+03:00"
+      "timestamp": "2026-05-07T06:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/strike-hits-beiruts-southern-suburbs-first-time-weeks-sources-say-2026-05-06/",
+          "angle": "Israel Strikes Beirut, Targeting Hezbollah Commander",
+          "summary": "Israel carried out an airstrike on Beirut's southern suburbs for the first time since the April ceasefire, saying it targeted a senior commander of Hezbollah's elite Radwan force. The strike marks a major breach of the fragile truce."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/lebanese-pm-says-premature-talk-any-high-level-meeting-with-israel-2026-05-06/",
+        "https://www.reuters.com/world/middle-east/strike-hits-beiruts-southern-suburbs-first-time-weeks-sources-say-2026-05-06/"
+      ]
     },
     {
       "headline": "Ted Turner, CNN Founder and Media Pioneer, Dies at 87",
@@ -151,15 +234,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/chance-ecb-rate-hike-has-risen-board-member-cipollone-says-2026-05-06/",
       "timestamp": "2026-05-07T05:03:00+03:00"
-    },
-    {
-      "headline": "North Korea Drops Reunification Goal in Constitutional Shift",
-      "summary": "Pyongyang has removed references to \"national reunification\" and redefined inter-Korean borders in its revised constitution, signaling a potential move toward peaceful co-existence with South Korea.",
-      "emoji": "🇰🇵",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/politics/article/3352662/north-koreas-constitutional-shift-move-towards-peaceful-co-existence-south",
-      "timestamp": "2026-05-07T04:10:00+03:00"
     },
     {
       "headline": "US Counterterrorism Strategy Adds Offensive Cyber Operations",
@@ -461,31 +535,6 @@
       "timestamp": "2026-05-07T02:03:00+03:00"
     },
     {
-      "headline": "Israel Strikes Beirut, Targeting Hezbollah Commander",
-      "summary": "Israel carried out an airstrike on Beirut's southern suburbs for the first time since the April ceasefire, saying it targeted a senior commander of Hezbollah's elite Radwan force. The strike marks a major breach of the fragile truce.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/strike-hits-beiruts-southern-suburbs-first-time-weeks-sources-say-2026-05-06/",
-      "timestamp": "2026-05-07T01:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Washington Post",
-          "url": "https://www.washingtonpost.com/world/2026/05/06/israel-hezbollah-radwan-beirut-attack-haret-hreik/",
-          "angle": "Israel Strikes Beirut Suburbs, Threatening Shaky Ceasefire",
-          "summary": "An Israeli airstrike on the Haret Hreik neighborhood in southern Beirut targeted the leader of Hezbollah Radwan forces, risking escalation of the already fragile truce."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Washington Post"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/strike-hits-beiruts-southern-suburbs-first-time-weeks-sources-say-2026-05-06/",
-        "https://www.washingtonpost.com/world/2026/05/06/israel-hezbollah-radwan-beirut-attack-haret-hreik/"
-      ]
-    },
-    {
       "headline": "China's Wang Yi Meets Iranian Foreign Minister Ahead of Trump-Xi Summit",
       "summary": "Chinese Foreign Minister Wang Yi met Iran's Abbas Araghchi in Beijing, calling for efforts to reopen the Strait of Hormuz. The meeting comes a week before Trump's scheduled visit to meet Xi Jinping.",
       "emoji": "🇨🇳🇮🇷",
@@ -576,39 +625,6 @@
       "urls": [
         "https://www.reuters.com/world/europe/cruise-ship-hit-by-hantavirus-outbreak-departs-cape-verde-canary-islands-reuters-2026-05-06/",
         "https://apnews.com/article/hantavirus-outbreak-cruise-ship-timeline-a04e0f8097d068a00fe94bf19f840240"
-      ]
-    },
-    {
-      "headline": "Vatican cardinal calls Trump attacks on Pope Leo strange before Rubio visit",
-      "summary": "A senior Vatican cardinal criticized President Trumps public attacks on Pope Leo over the Iran war as strange, one day before US Secretary of State Marco Rubio is scheduled to meet with the pontiff. Tensions between Washington and the Vatican have escalated over differing approaches to the Iran conflict.",
-      "emoji": "⛪🇺🇸",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/top-vatican-cardinal-calls-trumps-attacks-pope-leo-strange-2026-05-06/",
-      "timestamp": "2026-05-07T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/pope-visit-canary-islands-migrant-entry-point-trip-spain-2026-05-06/",
-          "angle": "Pope Leo to Visit Canary Islands on Spain Trip, Spotlight on Migrant Crisis",
-          "summary": "Pope Leo will visit the Canary Islands, a major entry point for migrants crossing from Africa, as part of a tour of Spain next month. The Vatican highlighted the islands as a destination for desperate migrants braving dangerous Atlantic waters."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/top-vatican-cardinal-calls-trumps-attacks-pope-leo-strange-2026-05-06/",
-          "angle": "Vatican Cardinal Calls Trump's Attacks on Pope Leo 'Strange'",
-          "summary": "A senior Vatican cardinal criticized President Trump's disparaging comments about Pope Leo over the Iran war as 'strange,' ahead of Secretary of State Marco Rubio's scheduled talks with the pope. The rare public rebuke highlights tensions between Washington and the Holy See."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/top-vatican-cardinal-calls-trumps-attacks-pope-leo-strange-2026-05-06/",
-        "https://www.reuters.com/world/pope-visit-canary-islands-migrant-entry-point-trip-spain-2026-05-06/",
-        "https://www.reuters.com/world/top-vatican-cardinal-calls-trumps-attacks-pope-leo-strange-2026-05-06/"
       ]
     },
     {
@@ -2876,60 +2892,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/americas/brazil-revives-consumer-debt-relief-program-ahead-election-2026-05-04/",
       "timestamp": "2026-05-05T07:03:00+03:00"
-    },
-    {
-      "headline": "Merz adopts conciliatory strategy to navigate Trump's anger over trade and security",
-      "summary": "German Chancellor Friedrich Merz is falling back on the familiar tactic of telling Trump he's right after a perilous blowup with Washington over trade and security tensions.",
-      "emoji": "🇩🇪",
-      "category": "Europe",
-      "source": "Politico",
-      "url": "https://www.politico.eu/article/friedrich-merz-germany-strategy-angry-donald-trump-threats-trade-security-tensions/",
-      "timestamp": "2026-05-05T06:10:00+03:00"
-    },
-    {
-      "headline": "Nvidia CEO says China should not get most advanced chips but urges continued US sales",
-      "summary": "Jensen Huang said China should not have the company's most advanced chips but urged Washington to allow U.S. firms to continue selling to the Chinese market, highlighting the tech Cold War dilemma.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "US-China",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/tech/semiconductors/nvidia-s-jensen-huang-says-china-should-not-have-its-most-advanced-chips",
-      "timestamp": "2026-05-05T06:10:00+03:00"
-    },
-    {
-      "headline": "OCBC acquires HSBC's retail and wealth management operations in Indonesia",
-      "summary": "OCBC, Southeast Asia's second-largest banking group, agreed to acquire HSBC's retail and wealth management operations in Indonesia, marking a significant consolidation in regional banking.",
-      "emoji": "🇮🇩🇸🇬",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/business/article/3352432/ocbc-acquires-hsbcs-retail-and-wealth-management-indonesia",
-      "timestamp": "2026-05-05T06:10:00+03:00"
-    },
-    {
-      "headline": "Japan finance minister warns against FX speculation after yen jolt",
-      "summary": "Finance Minister Satsuki Katayama issued a warning against speculative currency moves after the yen's sudden spike on Monday triggered speculation that Tokyo had intervened to support its weakening currency.",
-      "emoji": "💴",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/japans-finance-minister-issues-foreign-exchange-warning-amid-intervention-2026-05-04/",
-      "timestamp": "2026-05-05T06:00:00+03:00"
-    },
-    {
-      "headline": "Asian shares slide as US-Iran truce prospects dim",
-      "summary": "Stocks across Asia fell while oil remained above $100 a barrel as hopes for a ceasefire between the US and Iran faded. Both sides continue trading blows over the strategic Strait of Hormuz.",
-      "emoji": "📉",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-05-05/",
-      "timestamp": "2026-05-05T05:55:00+03:00"
-    },
-    {
-      "headline": "Reuters wins two Pulitzer Prizes for Trump and Meta investigations",
-      "summary": "Reuters was awarded Pulitzer Prizes for national reporting on Trump's use of executive power and beat reporting on Meta, while the New York Times and Washington Post also received honors for coverage of the administration.",
-      "emoji": "🏆",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/media-center/reuters-wins-pulitzer-prizes-beat-reporting-national-reporting-named-finalist-2026-05-04/",
-      "timestamp": "2026-05-05T05:50:00+03:00"
     }
   ]
 }
