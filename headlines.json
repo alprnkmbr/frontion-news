@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-07T14:06:15+03:00",
+  "lastUpdated": "2026-05-07T14:09:53+03:00",
   "headlines": [
     {
-      "headline": "Ukraine Launches Major Drone Attack on Moscow After Russia Rejects Ceasefire",
-      "summary": "Russia reported shooting down 347 Ukrainian drones overnight in one of the largest attacks on Moscow, coming after Russia rejected a ceasefire proposal. The escalation coincides with Russia announcing its own two-day ceasefire starting at midnight.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/russia-ukraine-war-drone-attack-moscow-celebrations-3fd7de0bc63bc349422117e1517e724d",
-      "timestamp": "2026-05-07T14:03:00+03:00"
+      "headline": "China sentences two former defense ministers to death with reprieve for corruption",
+      "summary": "Former defense ministers Wei Fenghe and Li Shangfu received suspended death sentences for graft, in the latest high-profile anti-corruption purge targeting China's military leadership.",
+      "emoji": "🇨🇳",
+      "category": "Defense Industry",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/military/article/3352764/2-former-chinese-defence-ministers-given-death-sentence-reprieve",
+      "timestamp": "2026-05-07T14:15:00+03:00"
+    },
+    {
+      "headline": "UK PM Starmer to seek even closer EU ties after reset deal",
+      "summary": "Prime Minister Keir Starmer faces pressure from MPs to go further than the reset deal as he battles to salvage his premiership, signaling deeper UK-EU integration ahead.",
+      "emoji": "🇬🇧🇪🇺",
+      "category": "Europe",
+      "source": "Telegraph",
+      "url": "https://www.telegraph.co.uk/politics/2026/05/07/starmer-to-seek-even-closer-ties-to-european-union/",
+      "timestamp": "2026-05-07T14:10:00+03:00"
+    },
+    {
+      "headline": "Turkey Togg partners with China CATL in first overseas EV chassis deal",
+      "summary": "Turkish EV maker Togg and Chinese battery giant CATL will jointly develop vehicles based on CATLs Panshi EV platform, marking the first overseas deployment of the Chinese chassis technology.",
+      "emoji": "🇹🇷🇨🇳",
+      "category": "Economy",
+      "source": "Daily Sabah",
+      "url": "https://www.dailysabah.com/business/automotive/turkiyes-togg-chinas-catl-to-jointly-develop-platform-for-evs",
+      "timestamp": "2026-05-07T14:05:00+03:00"
+    },
+    {
+      "headline": "Moonshot AI valued at $20 billion as Kimi chatbot developer navigates China IPO rules",
+      "summary": "The Chinese AI startup behind the popular Kimi chatbot raised $2 billion from Meituan and China Mobile, reaching $3.9 billion in total funding while adapting to Beijings new listing requirements.",
+      "emoji": "🇨🇳",
+      "category": "Technology",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/tech/article/3352751/kimi-developer-moonshot-ai-valued-us20b-it-navigates-chinas-new-ipo-rules",
+      "timestamp": "2026-05-07T14:00:00+03:00"
+    },
+    {
+      "headline": "Netanyahu says slain Hezbollah commander thought he had immunity in Beirut",
+      "summary": "Prime Minister Benjamin Netanyahu declared the killed Hezbollah commander believed he was protected in Beirut, continuing Israels tough rhetoric following the strike that breached the ceasefire.",
+      "emoji": "🇮🇱",
+      "category": "Middle East",
+      "source": "Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/netanyahu-says-slain-hezbollah-commander-thought-he-had-immunity-in-beirut/",
+      "timestamp": "2026-05-07T13:55:00+03:00"
     },
     {
       "headline": "China May Attempt Taiwan Maneuvering at Trump-Xi Summit, Taiwan Warns",
@@ -17,7 +53,23 @@
       "category": "US-China",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/china-may-try-manoeuvring-over-taiwan-issue-trump-meeting-official-says-2026-05-07/",
-      "timestamp": "2026-05-07T14:03:00+03:00"
+      "timestamp": "2026-05-07T14:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/trump-calls-xi-meeting-important-trip-says-us-leads-ai-2026-05-04/",
+          "angle": "Trump Looks Forward to Xi Summit as US-China Tensions Mount",
+          "summary": "President Trump said he looks forward to meeting China's Xi Jinping later this month, calling the summit \"very important\" amid tensions over trade, technology, and the Iran war that has disrupted energy flows."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/china-may-try-manoeuvring-over-taiwan-issue-trump-meeting-official-says-2026-05-07/",
+        "https://www.reuters.com/world/asia-pacific/trump-calls-xi-meeting-important-trip-says-us-leads-ai-2026-05-04/"
+      ]
     },
     {
       "headline": "Vatican Cardinal Calls Trump's Attacks on Pope Leo 'Strange'",
@@ -26,7 +78,23 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/top-vatican-cardinal-calls-trumps-attacks-pope-leo-strange-2026-05-06/",
-      "timestamp": "2026-05-07T14:03:00+03:00"
+      "timestamp": "2026-05-07T14:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/rubio-meet-pope-leo-trump-keeps-up-attacks-pontiff-2026-05-07/",
+          "angle": "Rubio Meets Pope Leo Amid Trump-Vatican Tensions Over Iran War",
+          "summary": "US Secretary of State Marco Rubio held a fence-mending meeting with Pope Leo at the Vatican, seeking to ease tensions after President Trump's repeated attacks on the pontiff over US Iran policy."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/top-vatican-cardinal-calls-trumps-attacks-pope-leo-strange-2026-05-06/",
+        "https://www.reuters.com/world/rubio-meet-pope-leo-trump-keeps-up-attacks-pontiff-2026-05-07/"
+      ]
     },
     {
       "headline": "South Korea and Netherlands Agree to Expand Chips, AI Cooperation",
@@ -45,39 +113,6 @@
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/clypjx383j2o",
       "timestamp": "2026-05-07T14:03:00+03:00"
-    },
-    {
-      "headline": "Rubio Meets Pope Leo Amid Trump-Vatican Tensions Over Iran War",
-      "summary": "US Secretary of State Marco Rubio held a fence-mending meeting with Pope Leo at the Vatican, seeking to ease tensions after President Trump's repeated attacks on the pontiff over US Iran policy.",
-      "emoji": "🇻🇦",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/rubio-meet-pope-leo-trump-keeps-up-attacks-pontiff-2026-05-07/",
-      "timestamp": "2026-05-07T13:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/top-vatican-cardinal-calls-trumps-attacks-pope-leo-strange-2026-05-06/",
-          "angle": "Vatican Cardinal Calls Trump's Attacks on Pope Leo \"Strange\"",
-          "summary": "A senior Vatican cardinal described President Trump's disparaging attacks on Pope Leo over the Iran war as \"strange,\" ahead of Secretary of State Marco Rubio's talks with the pontiff."
-        },
-        {
-          "source": "Anadolu Agency",
-          "url": "https://www.aa.com.tr/en/asia-pacific/beijing-extends-support-to-iran-amid-conflict-with-us-ahead-of-trumps-china-trip/3928569",
-          "angle": "Anadolu Agency: Beijing Extends Support to Iran Amid US Conflict Ahead of Trump Visit",
-          "summary": "Chinese Foreign Minister Wang Yi emphasized international concern over restoring normal passage through the Strait of Hormuz during talks with Iranian counterpart Araghchi."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Anadolu Agency"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/rubio-meet-pope-leo-trump-keeps-up-attacks-pontiff-2026-05-07/",
-        "https://www.reuters.com/world/top-vatican-cardinal-calls-trumps-attacks-pope-leo-strange-2026-05-06/",
-        "https://www.aa.com.tr/en/asia-pacific/beijing-extends-support-to-iran-amid-conflict-with-us-ahead-of-trumps-china-trip/3928569"
-      ]
     },
     {
       "headline": "Israel Kills Hezbollah Commander in First Beirut Strike Since Ceasefire",
@@ -305,15 +340,6 @@
       "timestamp": "2026-05-07T10:05:00+03:00"
     },
     {
-      "headline": "Russian Military Logistics Hub Near Moscow Hit in 347-Drone Attack",
-      "summary": "Ukraine launched a massive drone blitz targeting a military logistics hub near Moscow, striking as Russia tightens security ahead of Victory Day celebrations.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Post",
-      "url": "https://www.kyivpost.com/post/75590",
-      "timestamp": "2026-05-07T10:05:00+03:00"
-    },
-    {
       "headline": "BAE Systems confident on growth as Iran war drives defense orders",
       "summary": "Britain's largest defense contractor says it's on track for 9-11% earnings growth this year as the Iran conflict keeps orders flowing, highlighting how geopolitical tensions are boosting Western defense industries.",
       "emoji": "🇬🇧",
@@ -366,19 +392,35 @@
       "timestamp": "2026-05-07T09:03:00+03:00",
       "perspectives": [
         {
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/may/06/russia-ukraine-missiles-24-hour-ceasefire-military-parade",
-          "angle": "Russia Kills Dozens in Missile Barrage Despite Ukraine's Unilateral Ceasefire",
-          "summary": "Russia launched dozens of drones and missiles at Ukraine, killing at least 27 civilians, ignoring Kyiv's unilateral ceasefire while Moscow prepares its own Victory Day truce."
+          "source": "AP News",
+          "url": "https://apnews.com/article/russia-ukraine-war-drone-attack-moscow-celebrations-3fd7de0bc63bc349422117e1517e724d",
+          "angle": "Ukraine Launches Major Drone Attack on Moscow After Russia Rejects Ceasefire",
+          "summary": "Russia reported shooting down 347 Ukrainian drones overnight in one of the largest attacks on Moscow, coming after Russia rejected a ceasefire proposal. The escalation coincides with Russia announcing its own two-day ceasefire starting at midnight."
+        },
+        {
+          "source": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/75590",
+          "angle": "Russian Military Logistics Hub Near Moscow Hit in 347-Drone Attack",
+          "summary": "Ukraine launched a massive drone blitz targeting a military logistics hub near Moscow, striking as Russia tightens security ahead of Victory Day celebrations."
+        },
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russia-canceled-victory-day-celebrations-in-crimea-over-safety-concerns-amid-ukraine-strikes/",
+          "angle": "Russia cancels Victory Day celebrations in Crimea over Ukraine drone threat",
+          "summary": "Russian occupation authorities in Crimea cancelled May 9 Victory Day events citing security concerns amid Ukrainian drone strikes targeting the peninsula."
         }
       ],
       "sources": [
         "Reuters",
-        "The Guardian"
+        "AP News",
+        "Kyiv Post",
+        "Kyiv Independent"
       ],
       "urls": [
         "https://www.reuters.com/world/europe/ukraine-says-russia-violated-ceasefire-initiated-by-kyiv-2026-05-06/",
-        "https://www.theguardian.com/world/2026/may/06/russia-ukraine-missiles-24-hour-ceasefire-military-parade"
+        "https://apnews.com/article/russia-ukraine-war-drone-attack-moscow-celebrations-3fd7de0bc63bc349422117e1517e724d",
+        "https://www.kyivpost.com/post/75590",
+        "https://kyivindependent.com/russia-canceled-victory-day-celebrations-in-crimea-over-safety-concerns-amid-ukraine-strikes/"
       ]
     },
     {
@@ -861,15 +903,6 @@
       "category": "Diplomacy",
       "source": "Anadolu Agency",
       "url": "https://www.aa.com.tr/en/asia-pacific/north-korea-says-it-s-not-bound-to-any-treaty-on-non-proliferation-of-nuclear-weapons/3929589",
-      "timestamp": "2026-05-07T02:06:00+03:00"
-    },
-    {
-      "headline": "Russia cancels Victory Day celebrations in Crimea over Ukraine drone threat",
-      "summary": "Russian occupation authorities in Crimea cancelled May 9 Victory Day events citing security concerns amid Ukrainian drone strikes targeting the peninsula.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russia-canceled-victory-day-celebrations-in-crimea-over-safety-concerns-amid-ukraine-strikes/",
       "timestamp": "2026-05-07T02:06:00+03:00"
     },
     {
@@ -2618,31 +2651,6 @@
       "source": "Daily Sabah",
       "url": "https://www.dailysabah.com/business/economy/turkish-company-signs-deal-to-export-100000-kamikaze-drones",
       "timestamp": "2026-05-05T16:05:00+03:00"
-    },
-    {
-      "headline": "Trump Looks Forward to Xi Summit as US-China Tensions Mount",
-      "summary": "President Trump said he looks forward to meeting China's Xi Jinping later this month, calling the summit \"very important\" amid tensions over trade, technology, and the Iran war that has disrupted energy flows.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/trump-calls-xi-meeting-important-trip-says-us-leads-ai-2026-05-04/",
-      "timestamp": "2026-05-05T16:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/us/article/3352544/china-urges-us-drop-trade-probe-key-trump-xi-summit-approaches",
-          "angle": "China urges US to drop trade probe ahead of Trump-Xi summit",
-          "summary": "Beijing calls on Washington to abandon Section 301 investigations targeting 16 trading partners for structural excess capacity, as a key Trump-Xi summit approaches that could reshape bilateral relations."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/trump-calls-xi-meeting-important-trip-says-us-leads-ai-2026-05-04/",
-        "https://www.scmp.com/news/us/article/3352544/china-urges-us-drop-trade-probe-key-trump-xi-summit-approaches"
-      ]
     },
     {
       "headline": "Trump's Germany Troop Cuts Show Limits of NATO Efforts to Keep US on Board",
