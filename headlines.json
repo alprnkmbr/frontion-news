@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-07T17:05:43+03:00",
+  "lastUpdated": "2026-05-07T18:04:48+03:00",
   "headlines": [
+    {
+      "headline": "Taiwan Tests Torpedo on Indigenous Submarine, Boosting Defense Against China",
+      "summary": "Taiwan conducted its first torpedo test firing for a domestically-built submarine, marking a major milestone in efforts to strengthen deterrence against Chinese naval forces and protect critical sea lanes.",
+      "emoji": "🇹🇼",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/taiwan-carries-out-first-torpedo-test-fire-domestically-made-submarine-2026-05-07/",
+      "timestamp": "2026-05-07T18:03:00+03:00"
+    },
+    {
+      "headline": "Ukraine Peace Negotiator Arrives in Miami for US Talks",
+      "summary": "Ukrainian peace negotiator Rustem Umerov arrived in Miami for meetings with US officials as peace talks to end the war with Russia have stalled in recent months.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/ukraines-top-negotiator-miami-talks-source-says-2026-05-07/",
+      "timestamp": "2026-05-07T18:03:00+03:00"
+    },
+    {
+      "headline": "Russia Tightens Putin Security for Victory Day Over Ukraine Attack Fears",
+      "summary": "The Kremlin announced extra security measures for President Putin during May 9 Victory Day events amid concerns about potential Ukrainian attacks on the WWII anniversary celebrations.",
+      "emoji": "🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/kremlin-says-putins-security-is-being-tightened-victory-day-events-2026-05-07/",
+      "timestamp": "2026-05-07T18:03:00+03:00"
+    },
+    {
+      "headline": "China Tells Banks to Halt Loans to US-Sanctioned Iranian Oil Refineries",
+      "summary": "Chinese regulators advised major lenders to suspend new loans to five refineries sanctioned by the US over ties to Iranian oil, signaling Beijing may be bowing to Washington pressure.",
+      "emoji": "🇨🇳",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/china-asks-banks-pause-new-loans-us-sanctioned-refiners-bloomberg-news-reports-2026-05-07/",
+      "timestamp": "2026-05-07T18:03:00+03:00"
+    },
     {
       "headline": "US and Iran Edge Toward Limited Peace Deal",
       "summary": "The United States and Iran are negotiating a temporary agreement to halt their war, with a draft framework that would stop the fighting but leave contentious issues unresolved. Tehran is reviewing US proposals as Trump pushes for a swift resolution.",
@@ -8,16 +44,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/",
-      "timestamp": "2026-05-07T17:03:00+03:00"
-    },
-    {
-      "headline": "China Pressures Trump for Taiwan Concessions Ahead of Visit",
-      "summary": "Beijing is pushing for significant concessions on Taiwan policy before any potential Trump visit to China. The diplomatic maneuvering comes amid heightened tensions over the self-governing island.",
-      "emoji": "🇨🇳🇹🇼",
-      "category": "US-China",
-      "source": "The Economist",
-      "url": "https://www.economist.com/briefing/2026/05/07/china-is-pushing-donald-trump-for-concessions-on-taiwan",
-      "timestamp": "2026-05-07T17:03:00+03:00"
+      "timestamp": "2026-05-07T17:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/",
+          "angle": "US and Iran Edge Toward Short-Term Deal to End Fighting",
+          "summary": "Washington and Tehran are moving toward a memorandum-based agreement rather than a comprehensive peace deal, with Iran reviewing a US proposal. Trump says a deal is \"very possible\" while threatening continued action if negotiations fail."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/",
+        "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/"
+      ]
     },
     {
       "headline": "US Submarines Maintain Edge But China Closing Gap",
@@ -329,19 +372,19 @@
       "timestamp": "2026-05-07T14:03:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/trump-calls-xi-meeting-important-trip-says-us-leads-ai-2026-05-04/",
-          "angle": "Trump Looks Forward to Xi Summit as US-China Tensions Mount",
-          "summary": "President Trump said he looks forward to meeting China's Xi Jinping later this month, calling the summit \"very important\" amid tensions over trade, technology, and the Iran war that has disrupted energy flows."
+          "source": "The Economist",
+          "url": "https://www.economist.com/briefing/2026/05/07/china-is-pushing-donald-trump-for-concessions-on-taiwan",
+          "angle": "China Pressures Trump for Taiwan Concessions Ahead of Visit",
+          "summary": "Beijing is pushing for significant concessions on Taiwan policy before any potential Trump visit to China. The diplomatic maneuvering comes amid heightened tensions over the self-governing island."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "The Economist"
       ],
       "urls": [
         "https://www.reuters.com/world/china/china-may-try-manoeuvring-over-taiwan-issue-trump-meeting-official-says-2026-05-07/",
-        "https://www.reuters.com/world/asia-pacific/trump-calls-xi-meeting-important-trip-says-us-leads-ai-2026-05-04/"
+        "https://www.economist.com/briefing/2026/05/07/china-is-pushing-donald-trump-for-concessions-on-taiwan"
       ]
     },
     {
@@ -395,15 +438,6 @@
         "https://www.reuters.com/world/israel-says-it-killed-hezbollah-commander-first-strike-beirut-since-ceasefire-2026-05-07/",
         "https://www.timesofisrael.com/liveblog_entry/netanyahu-says-slain-hezbollah-commander-thought-he-had-immunity-in-beirut/"
       ]
-    },
-    {
-      "headline": "US and Iran Edge Toward Short-Term Deal to End Fighting",
-      "summary": "Washington and Tehran are moving toward a memorandum-based agreement rather than a comprehensive peace deal, with Iran reviewing a US proposal. Trump says a deal is \"very possible\" while threatening continued action if negotiations fail.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/",
-      "timestamp": "2026-05-07T13:03:00+03:00"
     },
     {
       "headline": "US Fuel Stock Drawdowns Undermine Trump's Oil Price Promises",
@@ -2842,33 +2876,6 @@
       "source": "Times of Israel",
       "url": "https://www.timesofisrael.com/iran-no-further-to-nuclear-weapon-than-it-was-before-war-us-intel-agencies-assess/",
       "timestamp": "2026-05-05T14:09:00+03:00"
-    },
-    {
-      "headline": "Finland Joins Ukraine-Led Corpus Defense Procurement Coalition",
-      "summary": "Finland has joined the Ukraine-led Corpus defense procurement coalition, aiming to strengthen defense procurement coordination and supply chain resilience among partner nations.",
-      "emoji": "🇫🇮",
-      "category": "Ukraine-Russia War",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/europe/finland-joins-ukraine-led-corpus-defense-procurement-coalition/3927565",
-      "timestamp": "2026-05-05T14:09:00+03:00"
-    },
-    {
-      "headline": "EU Hails Leap Forward in Ties With Russia's Ally Armenia",
-      "summary": "The EU and Armenia laid the groundwork for closer ties at a summit in Yerevan, marking another step in the former Soviet republic's pivot away from Moscow toward the West.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/live-news/20260505-eu-hails-leap-forward-in-ties-with-russia-s-ally-armenia",
-      "timestamp": "2026-05-05T14:09:00+03:00"
-    },
-    {
-      "headline": "US defense contractor Leidos raises 2026 forecast on strong military demand",
-      "summary": "Defense contractor Leidos Holdings raised its profit and revenue forecast for 2026, citing strong demand for IT and military intelligence services amid ongoing global conflicts and the Iran-US war.",
-      "emoji": "🛡️",
-      "category": "Defense Industry",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/defense-contractor-leidos-raises-2026-forecast-strong-demand-2026-05-05/",
-      "timestamp": "2026-05-05T14:03:00+03:00"
     }
   ]
 }
