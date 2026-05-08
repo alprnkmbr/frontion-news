@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-08T09:04:43+03:00",
+  "lastUpdated": "2026-05-08T10:05:55+03:00",
   "headlines": [
+    {
+      "headline": "British MPs to Visit China for First Time in Seven Years",
+      "summary": "A cross-party delegation of UK lawmakers will visit China this month for the first time since 2019, signaling warming ties following Prime Minister Keir Starmer's January visit.",
+      "emoji": "🇬🇧🇨🇳",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/uk/british-mps-visit-china-first-time-seven-years-sources-say-2026-05-08/",
+      "timestamp": "2026-05-08T10:03:00+03:00"
+    },
+    {
+      "headline": "Trump Announces Withdrawal of 5,000 US Troops from Germany",
+      "summary": "President Trump said he will withdraw 5,000 U.S. troops from Germany as tensions with NATO allies widen over the Iran war, raising questions about the future of the transatlantic alliance.",
+      "emoji": "🇺🇸🇩🇪⚔️",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/can-trump-pull-thousands-us-troops-out-germany-2026-05-07/",
+      "timestamp": "2026-05-08T10:03:00+03:00"
+    },
+    {
+      "headline": "China Export Growth Quickens on Iran War Stockpiling",
+      "summary": "China's export growth likely accelerated in April as companies rushed to stockpile components amid fears the Iran war could push input costs higher, a Reuters poll shows.",
+      "emoji": "🇨🇳💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/chinas-exports-likely-picked-up-pace-april-iran-war-stockpiling-2026-05-08/",
+      "timestamp": "2026-05-08T10:03:00+03:00"
+    },
+    {
+      "headline": "UK Labour Suffers Heavy Losses as Reform UK Makes Gains",
+      "summary": "Partial results from English local elections show large losses for Prime Minister Keir Starmer's Labour Party and gains for the hard-right Reform UK party.",
+      "emoji": "🇬🇧🗳️",
+      "category": "Europe",
+      "source": "AP News",
+      "url": "https://apnews.com/article/britain-elections-labour-starmer-reform-farage-f17a122a0cfcc3595ef01f142517b0b6",
+      "timestamp": "2026-05-08T10:03:00+03:00"
+    },
+    {
+      "headline": "ASEAN Leaders Meet on Iran War Economic Fallout",
+      "summary": "Southeast Asian leaders are meeting under pressure to mitigate the impact on their economies from the Iran war, with one minister saying it \"should not have occurred in the first place.\"",
+      "emoji": "🌏⚖️",
+      "category": "Asia-Pacific",
+      "source": "AP News",
+      "url": "https://apnews.com/article/asean-philippines-middle-east-war-50aa18310ef0f247616188049d645bb",
+      "timestamp": "2026-05-08T10:03:00+03:00"
+    },
     {
       "headline": "Russia and Ukraine accuse each other of violating Victory Day ceasefire",
       "summary": "Russia and Ukraine traded accusations of violating a two-day ceasefire announced by Moscow to cover Soviet Victory Day celebrations. The fragile truce failed to hold as both sides reported attacks along the frontlines.",
@@ -8,7 +53,31 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/russia-ukraine-accuse-each-other-violating-ceasefire-2026-05-08/",
-      "timestamp": "2026-05-08T09:04:00+03:00"
+      "timestamp": "2026-05-08T09:04:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/more-than-50-moscow-bound-drones-intercepted-by-russia-mayor-says-2026-05-07/",
+          "angle": "Russia Intercepts 50+ Drones Over Moscow Ahead of Victory Day Parade",
+          "summary": "Russian air defense units intercepted more than 50 drones heading for Moscow over 15 hours as Ukraine continued strikes despite Russia declaring a ceasefire for WWII commemorations."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/russia-continues-violate-kyiv-proposed-ceasefire-zelenskiy-says-2026-05-07/",
+          "angle": "Russia Declares Ceasefire for WWII Anniversary as Ukraine Reports Violations",
+          "summary": "Russia declared a ceasefire from May 8-10 to mark the defeat of Nazi Germany, but President Zelenskiy said Russia continued to violate the Kyiv-proposed ceasefire. Over 50 drones were intercepted heading for Moscow."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/russia-ukraine-accuse-each-other-violating-ceasefire-2026-05-08/",
+        "https://www.reuters.com/world/more-than-50-moscow-bound-drones-intercepted-by-russia-mayor-says-2026-05-07/",
+        "https://www.reuters.com/world/russia-continues-violate-kyiv-proposed-ceasefire-zelenskiy-says-2026-05-07/"
+      ]
     },
     {
       "headline": "North Korea announces new long-range artillery systems targeting Seoul",
@@ -17,7 +86,23 @@
       "category": "Asia-Pacific",
       "source": "NPR",
       "url": "https://www.npr.org/2026/05/08/g-s1-121048/north-korea-new-artillery-guns-targeting-seoul",
-      "timestamp": "2026-05-08T09:04:00+03:00"
+      "timestamp": "2026-05-08T09:04:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Hill",
+          "url": "https://thehill.com/homenews/ap/ap-international/ap-north-korea-will-deploy-new-artillery-guns-targeting-seoul-and-commission-its-1st-destroyer/",
+          "angle": "North Korea to Deploy New Long-Range Artillery Targeting Seoul",
+          "summary": "North Korea announced it will deploy new long-range artillery systems capable of striking Seoul and commission its first destroyer, escalating military capabilities on the Korean Peninsula."
+        }
+      ],
+      "sources": [
+        "NPR",
+        "The Hill"
+      ],
+      "urls": [
+        "https://www.npr.org/2026/05/08/g-s1-121048/north-korea-new-artillery-guns-targeting-seoul",
+        "https://thehill.com/homenews/ap/ap-international/ap-north-korea-will-deploy-new-artillery-guns-targeting-seoul-and-commission-its-1st-destroyer/"
+      ]
     },
     {
       "headline": "Paraguay reaffirms Taiwan ties as China pressures last South American ally",
@@ -76,47 +161,6 @@
       "urls": [
         "https://www.reuters.com/business/maersk-first-quarter-profit-beats-forecasts-keeps-outlook-unchanged-2026-05-07/",
         "https://www.reuters.com/business/maersk-first-quarter-profit-beats-forecasts-keeps-outlook-unchanged-2026-05-07/"
-      ]
-    },
-    {
-      "headline": "Russia Intercepts 50+ Drones Over Moscow Ahead of Victory Day Parade",
-      "summary": "Russian air defense units intercepted more than 50 drones heading for Moscow over 15 hours as Ukraine continued strikes despite Russia declaring a ceasefire for WWII commemorations.",
-      "emoji": "🇷🇺🇺🇦💥",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/more-than-50-moscow-bound-drones-intercepted-by-russia-mayor-says-2026-05-07/",
-      "timestamp": "2026-05-08T08:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/no-tanks-no-missiles-why-this-years-victory-parade-will-be-smaller-than-ever/",
-          "angle": "Moscow scales down Victory Day parade amid Ukrainian drone threats",
-          "summary": "For the first time under Putin, Moscow's May 9 parade will feature no tanks, missiles, or armored vehicles. Mobile internet will be cut off in the capital as fears of Ukrainian strikes grow. Only infantry will march, with few foreign leaders attending."
-        },
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/world/europe/russia-victory-day-parade-no-tanks",
-          "angle": "Russia Victory Day parade held without tanks for first time in decades",
-          "summary": "Moscow's annual military parade will feature only soldiers, no military hardware, for the first time in nearly 20 years, seen as a sign that the Ukraine war is straining Russian military resources."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/kremlin-says-putins-security-is-being-tightened-victory-day-events-2026-05-07/",
-          "angle": "Kremlin Tightens Putin Security for Victory Day Amid Drone Threats",
-          "summary": "Russia is implementing extra security measures for President Putin ahead of May 9 Victory Day celebrations, fearing Ukrainian attacks during the WWII commemorations."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Kyiv Independent",
-        "BBC",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/more-than-50-moscow-bound-drones-intercepted-by-russia-mayor-says-2026-05-07/",
-        "https://kyivindependent.com/no-tanks-no-missiles-why-this-years-victory-parade-will-be-smaller-than-ever/",
-        "https://www.bbc.com/news/world/europe/russia-victory-day-parade-no-tanks",
-        "https://www.reuters.com/world/kremlin-says-putins-security-is-being-tightened-victory-day-events-2026-05-07/"
       ]
     },
     {
@@ -228,15 +272,6 @@
       "category": "Middle East",
       "source": "Israel National News",
       "url": "https://www.israelnationalnews.com/news/426750",
-      "timestamp": "2026-05-08T06:07:00+03:00"
-    },
-    {
-      "headline": "North Korea to Deploy New Long-Range Artillery Targeting Seoul",
-      "summary": "North Korea announced it will deploy new long-range artillery systems capable of striking Seoul and commission its first destroyer, escalating military capabilities on the Korean Peninsula.",
-      "emoji": "🇰🇵🇰🇷",
-      "category": "Asia-Pacific",
-      "source": "The Hill",
-      "url": "https://thehill.com/homenews/ap/ap-international/ap-north-korea-will-deploy-new-artillery-guns-targeting-seoul-and-commission-its-1st-destroyer/",
       "timestamp": "2026-05-08T06:07:00+03:00"
     },
     {
@@ -406,31 +441,6 @@
         "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/",
         "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/",
         "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/"
-      ]
-    },
-    {
-      "headline": "Russia Declares Ceasefire for WWII Anniversary as Ukraine Reports Violations",
-      "summary": "Russia declared a ceasefire from May 8-10 to mark the defeat of Nazi Germany, but President Zelenskiy said Russia continued to violate the Kyiv-proposed ceasefire. Over 50 drones were intercepted heading for Moscow.",
-      "emoji": "🇷🇺🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/russia-continues-violate-kyiv-proposed-ceasefire-zelenskiy-says-2026-05-07/",
-      "timestamp": "2026-05-08T05:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/russia-continues-violate-kyiv-proposed-ceasefire-zelenskiy-says-2026-05-07/",
-          "angle": "Russia Violates Ukraine Ceasefire as Zelenskiy Vows Continued Strikes",
-          "summary": "President Zelenskiy says Russia continues to violate a Kyiv-proposed ceasefire, warning that Ukraine will maintain long-range strikes if Russian assaults persist."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/russia-continues-violate-kyiv-proposed-ceasefire-zelenskiy-says-2026-05-07/",
-        "https://www.reuters.com/world/russia-continues-violate-kyiv-proposed-ceasefire-zelenskiy-says-2026-05-07/"
       ]
     },
     {
