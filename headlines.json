@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2026-05-08T08:08:12+03:00",
+  "lastUpdated": "2026-05-08T09:04:43+03:00",
   "headlines": [
     {
-      "headline": "ASEAN Summit addresses energy crisis from Iran war as 1,500 ships trapped in Hormuz",
-      "summary": "Southeast Asian leaders meeting in Cebu, Philippines are coordinating a regional response to the Middle East crisis, pushing for energy security and a negotiated settlement to reopen the Strait of Hormuz. The region faces significant risks as a major oil importer with nearly 70 days of Hormuz blockade.",
-      "emoji": "🇦🇸🇪🇦",
+      "headline": "Russia and Ukraine accuse each other of violating Victory Day ceasefire",
+      "summary": "Russia and Ukraine traded accusations of violating a two-day ceasefire announced by Moscow to cover Soviet Victory Day celebrations. The fragile truce failed to hold as both sides reported attacks along the frontlines.",
+      "emoji": "🇺🇦🇷🇺⚔️",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/russia-ukraine-accuse-each-other-violating-ceasefire-2026-05-08/",
+      "timestamp": "2026-05-08T09:04:00+03:00"
+    },
+    {
+      "headline": "North Korea announces new long-range artillery systems targeting Seoul",
+      "summary": "North Korea says it will deploy new long-range artillery systems capable of striking the Seoul metropolitan area. The announcement comes amid continued military cooperation with Russia and tensions on the Korean peninsula.",
+      "emoji": "🇰🇵🇰🇷💥",
       "category": "Asia-Pacific",
-      "source": "Bangkok Post",
-      "url": "https://www.bangkokpost.com/world/3251788/southeast-asian-leaders-seek-strategy-to-ease-impacts-of-iran-war",
-      "timestamp": "2026-05-08T08:10:00+03:00"
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/08/g-s1-121048/north-korea-new-artillery-guns-targeting-seoul",
+      "timestamp": "2026-05-08T09:04:00+03:00"
     },
     {
       "headline": "Paraguay reaffirms Taiwan ties as China pressures last South American ally",
@@ -26,16 +35,23 @@
       "category": "Europe",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/on-the-issue-of-ukraine-we-are-not-an-ally-of-russia-armenian-pm-says-as-kremlin-fumes-over-zelensky-visit/",
-      "timestamp": "2026-05-08T08:10:00+03:00"
-    },
-    {
-      "headline": "Moscow scales down Victory Day parade amid Ukrainian drone threats",
-      "summary": "For the first time under Putin, Moscow's May 9 parade will feature no tanks, missiles, or armored vehicles. Mobile internet will be cut off in the capital as fears of Ukrainian strikes grow. Only infantry will march, with few foreign leaders attending.",
-      "emoji": "🇷🇺⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/no-tanks-no-missiles-why-this-years-victory-parade-will-be-smaller-than-ever/",
-      "timestamp": "2026-05-08T08:10:00+03:00"
+      "timestamp": "2026-05-08T08:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/on-the-issue-of-ukraine-we-are-not-an-ally-of-russia-armenian-pm-says-as-kremlin-fumes-over-zelensky-visit/",
+          "angle": "Armenia Distances Itself from Russia as Kremlin Fumes Over Zelensky Visit",
+          "summary": "Armenian PM Pashinyan declared Armenia is not an ally of Russia on Ukraine, while Russia summoned Armenia's ambassador to protest Zelensky's visit to Yerevan, marking a significant shift in Caucasus geopolitics."
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://kyivindependent.com/on-the-issue-of-ukraine-we-are-not-an-ally-of-russia-armenian-pm-says-as-kremlin-fumes-over-zelensky-visit/",
+        "https://kyivindependent.com/on-the-issue-of-ukraine-we-are-not-an-ally-of-russia-armenian-pm-says-as-kremlin-fumes-over-zelensky-visit/"
+      ]
     },
     {
       "headline": "Maersk warns energy crunch to persist even if Iran peace deal struck",
@@ -44,16 +60,23 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/maersk-first-quarter-profit-beats-forecasts-keeps-outlook-unchanged-2026-05-07/",
-      "timestamp": "2026-05-08T08:10:00+03:00"
-    },
-    {
-      "headline": "US and Iran Exchange Fire as Fragile Ceasefire Shows Cracks",
-      "summary": "US military carried out retaliatory strikes on Iranian targets after renewed hostilities in the Strait of Hormuz. The UAE reported intercepting drones and missiles as Trump insisted the ceasefire still holds.",
-      "emoji": "🇺🇸🇮🇷⚔️",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/uae-countering-iranian-air-attack-after-trump-says-ceasefire-still-effect-2026-05-08/",
-      "timestamp": "2026-05-08T08:03:00+03:00"
+      "timestamp": "2026-05-08T08:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/maersk-first-quarter-profit-beats-forecasts-keeps-outlook-unchanged-2026-05-07/",
+          "angle": "Maersk Warns Energy Crisis to Persist Even with Iran Peace Deal",
+          "summary": "Shipping giant Maersk reported fuel costs surged nearly $500 million monthly due to the Iran war, warning the energy crisis will continue even if a peace agreement is reached."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/maersk-first-quarter-profit-beats-forecasts-keeps-outlook-unchanged-2026-05-07/",
+        "https://www.reuters.com/business/maersk-first-quarter-profit-beats-forecasts-keeps-outlook-unchanged-2026-05-07/"
+      ]
     },
     {
       "headline": "Russia Intercepts 50+ Drones Over Moscow Ahead of Victory Day Parade",
@@ -62,7 +85,64 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/more-than-50-moscow-bound-drones-intercepted-by-russia-mayor-says-2026-05-07/",
-      "timestamp": "2026-05-08T08:03:00+03:00"
+      "timestamp": "2026-05-08T08:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/no-tanks-no-missiles-why-this-years-victory-parade-will-be-smaller-than-ever/",
+          "angle": "Moscow scales down Victory Day parade amid Ukrainian drone threats",
+          "summary": "For the first time under Putin, Moscow's May 9 parade will feature no tanks, missiles, or armored vehicles. Mobile internet will be cut off in the capital as fears of Ukrainian strikes grow. Only infantry will march, with few foreign leaders attending."
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/world/europe/russia-victory-day-parade-no-tanks",
+          "angle": "Russia Victory Day parade held without tanks for first time in decades",
+          "summary": "Moscow's annual military parade will feature only soldiers, no military hardware, for the first time in nearly 20 years, seen as a sign that the Ukraine war is straining Russian military resources."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/kremlin-says-putins-security-is-being-tightened-victory-day-events-2026-05-07/",
+          "angle": "Kremlin Tightens Putin Security for Victory Day Amid Drone Threats",
+          "summary": "Russia is implementing extra security measures for President Putin ahead of May 9 Victory Day celebrations, fearing Ukrainian attacks during the WWII commemorations."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Kyiv Independent",
+        "BBC",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/more-than-50-moscow-bound-drones-intercepted-by-russia-mayor-says-2026-05-07/",
+        "https://kyivindependent.com/no-tanks-no-missiles-why-this-years-victory-parade-will-be-smaller-than-ever/",
+        "https://www.bbc.com/news/world/europe/russia-victory-day-parade-no-tanks",
+        "https://www.reuters.com/world/kremlin-says-putins-security-is-being-tightened-victory-day-events-2026-05-07/"
+      ]
+    },
+    {
+      "headline": "US and Iran Exchange Fire as Fragile Ceasefire Shows Cracks",
+      "summary": "US military carried out retaliatory strikes on Iranian targets after renewed hostilities in the Strait of Hormuz. The UAE reported intercepting drones and missiles as Trump insisted the ceasefire still holds.",
+      "emoji": "🇺🇸🇮🇷⚔️",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/uae-countering-iranian-air-attack-after-trump-says-ceasefire-still-effect-2026-05-08/",
+      "timestamp": "2026-05-08T08:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/us-carries-out-retaliatory-strikes-against-iran-us-military-says-2026-05-07/",
+          "angle": "US and Iran Exchange Fire in Strait of Hormuz, Testing Ceasefire",
+          "summary": "The US military said it carried out retaliatory strikes on Iran after intercepting Iranian attacks in the Strait of Hormuz, in the most serious test yet of their month-long ceasefire. Both sides said they did not want to escalate."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/uae-countering-iranian-air-attack-after-trump-says-ceasefire-still-effect-2026-05-08/",
+        "https://www.reuters.com/world/middle-east/us-carries-out-retaliatory-strikes-against-iran-us-military-says-2026-05-07/"
+      ]
     },
     {
       "headline": "Netanyahu Vows No Immunity for Enemies After Beirut Strike",
@@ -71,7 +151,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/israel-says-it-killed-hezbollah-commander-first-strike-beirut-since-ceasefire-2026-05-07/",
-      "timestamp": "2026-05-08T08:03:00+03:00"
+      "timestamp": "2026-05-08T08:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/israel-says-it-killed-hezbollah-commander-first-strike-beirut-since-ceasefire-2026-05-07/",
+          "angle": "Israel Strikes Beirut, Netanyahu Warns No Immunity for Militants",
+          "summary": "Israel carried out its first strike on Beirut's southern suburbs since the ceasefire, targeting a Hezbollah commander. Netanyahu declared there would be \"no immunity\" for Israel's enemies amid escalating regional tensions."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/israel-says-it-killed-hezbollah-commander-first-strike-beirut-since-ceasefire-2026-05-07/",
+        "https://www.reuters.com/world/israel-says-it-killed-hezbollah-commander-first-strike-beirut-since-ceasefire-2026-05-07/"
+      ]
     },
     {
       "headline": "Global Views of US Fall Below Russia Under Trump, Survey Finds",
@@ -280,31 +376,6 @@
       ]
     },
     {
-      "headline": "US and Iran Exchange Fire in Strait of Hormuz, Testing Ceasefire",
-      "summary": "The US military said it carried out retaliatory strikes on Iran after intercepting Iranian attacks in the Strait of Hormuz, in the most serious test yet of their month-long ceasefire. Both sides said they did not want to escalate.",
-      "emoji": "⚔️",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-carries-out-retaliatory-strikes-against-iran-us-military-says-2026-05-07/",
-      "timestamp": "2026-05-08T05:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Anadolu Agency",
-          "url": "https://www.aa.com.tr/en/us-israel-iran-war/iran-confirms-missile-drone-attack-on-us-destroyers-near-strait-of-hormuz/3930779",
-          "angle": "Iran confirms missile and drone attack on US destroyers near Strait of Hormuz",
-          "summary": "The IRGC Navy claimed it launched missiles and drones at US destroyers transiting the Strait, calling it retaliation for a US ceasefire violation involving an Iranian oil tanker. CENTCOM said US forces responded with self-defense strikes."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Anadolu Agency"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/us-carries-out-retaliatory-strikes-against-iran-us-military-says-2026-05-07/",
-        "https://www.aa.com.tr/en/us-israel-iran-war/iran-confirms-missile-drone-attack-on-us-destroyers-near-strait-of-hormuz/3930779"
-      ]
-    },
-    {
       "headline": "Trump Says Iran Peace Deal Could Be a Week Away",
       "summary": "President Donald Trump said a peace deal with Iran could be reached within a week as Tehran reviews the latest US proposal. The US also paused its \"Project Freedom\" operations in the Strait of Hormuz.",
       "emoji": "🇺🇸🇮🇷",
@@ -406,15 +477,6 @@
       "timestamp": "2026-05-08T04:05:00+03:00"
     },
     {
-      "headline": "Armenia Distances Itself from Russia as Kremlin Fumes Over Zelensky Visit",
-      "summary": "Armenian PM Pashinyan declared Armenia is not an ally of Russia on Ukraine, while Russia summoned Armenia's ambassador to protest Zelensky's visit to Yerevan, marking a significant shift in Caucasus geopolitics.",
-      "emoji": "🇦🇲🇺🇦",
-      "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/on-the-issue-of-ukraine-we-are-not-an-ally-of-russia-armenian-pm-says-as-kremlin-fumes-over-zelensky-visit/",
-      "timestamp": "2026-05-08T04:05:00+03:00"
-    },
-    {
       "headline": "Hezbollah Claims 13 Attacks on Israeli Forces in Southern Lebanon",
       "summary": "Hezbollah announced it carried out drone and artillery strikes on Israeli troops, Merkava tanks, an Iron Dome platform, and military positions in southern Lebanon amid ongoing cross-border escalation.",
       "emoji": "🇱🇧🇮🇱",
@@ -483,31 +545,6 @@
       "source": "BBC",
       "url": "https://www.bbc.com/news/world/middle-east/gaza-hamas-disarmament-talks",
       "timestamp": "2026-05-08T04:03:00+03:00"
-    },
-    {
-      "headline": "Russia Victory Day parade held without tanks for first time in decades",
-      "summary": "Moscow's annual military parade will feature only soldiers, no military hardware, for the first time in nearly 20 years, seen as a sign that the Ukraine war is straining Russian military resources.",
-      "emoji": "🇷🇺🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/world/europe/russia-victory-day-parade-no-tanks",
-      "timestamp": "2026-05-08T04:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russia-warns-embassies-to-flee-kyiv-before-victory-day/",
-          "angle": "Russia Warns Embassies to Flee Kyiv Before Victory Day as Diplomats Refuse to Move",
-          "summary": "Moscow issued warnings to foreign embassies ahead of Victory Day celebrations, but diplomats say they have no plans to evacuate. Zelensky said the fate of Russia's parade \"depends\" on Ukraine's actions."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/world/europe/russia-victory-day-parade-no-tanks",
-        "https://kyivindependent.com/russia-warns-embassies-to-flee-kyiv-before-victory-day/"
-      ]
     },
     {
       "headline": "Saudi Arabia and Kuwait lift US military access restrictions",
@@ -770,31 +807,6 @@
       "timestamp": "2026-05-08T00:06:00+03:00"
     },
     {
-      "headline": "Kremlin Tightens Putin Security for Victory Day Amid Drone Threats",
-      "summary": "Russia is implementing extra security measures for President Putin ahead of May 9 Victory Day celebrations, fearing Ukrainian attacks during the WWII commemorations.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/kremlin-says-putins-security-is-being-tightened-victory-day-events-2026-05-07/",
-      "timestamp": "2026-05-08T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/kremlin-says-putins-security-is-being-tightened-victory-day-events-2026-05-07/",
-          "angle": "Russia Tightens Putin Security for Victory Day Over Ukraine Attack Fears",
-          "summary": "The Kremlin announced extra security measures for President Putin during May 9 Victory Day events amid concerns about potential Ukrainian attacks on the WWII anniversary celebrations."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/kremlin-says-putins-security-is-being-tightened-victory-day-events-2026-05-07/",
-        "https://www.reuters.com/world/kremlin-says-putins-security-is-being-tightened-victory-day-events-2026-05-07/"
-      ]
-    },
-    {
       "headline": "Rubio Meets Pope Leo to Mend US-Vatican Relations Amid Trump Tensions",
       "summary": "Secretary of State Marco Rubio held a private meeting with Pope Leo XIV at the Vatican, discussing religious freedom and humanitarian issues as tensions persist between Trump and the pontiff.",
       "emoji": "🇻🇦",
@@ -1007,15 +1019,6 @@
       "timestamp": "2026-05-07T20:05:00+03:00"
     },
     {
-      "headline": "Israel Strikes Beirut, Netanyahu Warns No Immunity for Militants",
-      "summary": "Israel carried out its first strike on Beirut's southern suburbs since the ceasefire, targeting a Hezbollah commander. Netanyahu declared there would be \"no immunity\" for Israel's enemies amid escalating regional tensions.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/israel-says-it-killed-hezbollah-commander-first-strike-beirut-since-ceasefire-2026-05-07/",
-      "timestamp": "2026-05-07T19:22:00+03:00"
-    },
-    {
       "headline": "Latvia Calls for NATO Air Defense Boost After Drone Crashes",
       "summary": "Latvia and Lithuania urged NATO to strengthen regional air defenses after two suspected Ukrainian drones crossed from Russian territory and crashed in Latvia, with one hitting an oil storage facility.",
       "emoji": "🇱🇻",
@@ -1180,31 +1183,6 @@
       "urls": [
         "https://www.reuters.com/world/middle-east/israeli-attack-kills-son-hamas-leader-negotiating-with-trump-led-board-2026-05-07/",
         "https://www.rte.ie/news/middle-east/2026/0507/1572236-gaza-israel/"
-      ]
-    },
-    {
-      "headline": "Maersk Warns Energy Crisis to Persist Even with Iran Peace Deal",
-      "summary": "Shipping giant Maersk reported fuel costs surged nearly $500 million monthly due to the Iran war, warning the energy crisis will continue even if a peace agreement is reached.",
-      "emoji": "🚢",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/maersk-first-quarter-profit-beats-forecasts-keeps-outlook-unchanged-2026-05-07/",
-      "timestamp": "2026-05-07T16:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o",
-          "angle": "Oil Prices Fall, Markets Rise on Reports of US-Iran Peace Deal Progress",
-          "summary": "Brent crude dropped to $97 a barrel while European stock markets rallied after reports that the US and Iran are close to a memorandum of understanding to end the war. The deal would declare an end to hostilities and start negotiations on reopening the strait."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/maersk-first-quarter-profit-beats-forecasts-keeps-outlook-unchanged-2026-05-07/",
-        "https://www.bbc.com/news/articles/c4g8zejyyr3o"
       ]
     },
     {
@@ -1653,6 +1631,31 @@
       ]
     },
     {
+      "headline": "ASEAN leaders gather in Philippines amid Middle East energy crisis",
+      "summary": "ASEAN summit in Cebu focuses on energy security and Middle East tensions, with fuel import-dependent Southeast Asian economies facing significant challenges from the Iran conflict.",
+      "emoji": "🌏⚡",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/energy-crisis-front-centre-asean-leaders-prepare-summit-2026-05-06/",
+      "timestamp": "2026-05-07T08:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Bangkok Post",
+          "url": "https://www.bangkokpost.com/world/3251788/southeast-asian-leaders-seek-strategy-to-ease-impacts-of-iran-war",
+          "angle": "ASEAN Summit addresses energy crisis from Iran war as 1,500 ships trapped in Hormuz",
+          "summary": "Southeast Asian leaders meeting in Cebu, Philippines are coordinating a regional response to the Middle East crisis, pushing for energy security and a negotiated settlement to reopen the Strait of Hormuz. The region faces significant risks as a major oil importer with nearly 70 days of Hormuz blockade."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Bangkok Post"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/energy-crisis-front-centre-asean-leaders-prepare-summit-2026-05-06/",
+        "https://www.bangkokpost.com/world/3251788/southeast-asian-leaders-seek-strategy-to-ease-impacts-of-iran-war"
+      ]
+    },
+    {
       "headline": "Australia forces gas giants to reserve 20% for domestic market",
       "summary": "Australia will require LNG exporters to reserve 20% of their gas for the domestic east coast market to avert supply shortfalls and lower energy bills amid global energy disruptions from the Iran conflict.",
       "emoji": "🇦🇺⛽",
@@ -1677,15 +1680,6 @@
       "category": "Ukraine-Russia War",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/zelensky-announces-plan-to-establish-private-military-companies-in-ukraine/",
-      "timestamp": "2026-05-07T08:10:00+03:00"
-    },
-    {
-      "headline": "ASEAN leaders gather in Philippines amid Middle East energy crisis",
-      "summary": "ASEAN summit in Cebu focuses on energy security and Middle East tensions, with fuel import-dependent Southeast Asian economies facing significant challenges from the Iran conflict.",
-      "emoji": "🌏⚡",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/energy-crisis-front-centre-asean-leaders-prepare-summit-2026-05-06/",
       "timestamp": "2026-05-07T08:10:00+03:00"
     },
     {
@@ -2767,24 +2761,6 @@
       "category": "Russia",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/russia-cuts-mobile-internet-ahead-of-victory-day-parade/",
-      "timestamp": "2026-05-06T08:05:00+03:00"
-    },
-    {
-      "headline": "US Approves $373.6 Million JDAM Weapons Sale to Ukraine",
-      "summary": "The US State Department approved a weapons sale including extended-range Joint Direct Attack Munition systems to Ukraine. The package includes over 1,500 JDAM tail kits to enhance Ukraine's precision strike capabilities.",
-      "emoji": "🇺🇸",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/us-state-department-approves-373-million-weapons-sale-ukraine/",
-      "timestamp": "2026-05-06T08:05:00+03:00"
-    },
-    {
-      "headline": "Palo Alto Networks Zero-Day Vulnerability Exploited to Hack Enterprise Firewalls",
-      "summary": "A critical buffer overflow vulnerability (CVE-2026-0300) in Palo Alto Networks PAN-OS has been exploited in targeted attacks against enterprise firewalls. The flaw allows unauthenticated remote code execution with root privileges. Patches expected May 13.",
-      "emoji": "🔐",
-      "category": "Cyber",
-      "source": "SecurityWeek",
-      "url": "https://www.securityweek.com/palo-alto-networks-to-patch-zero-day-exploited-to-hack-firewalls/",
       "timestamp": "2026-05-06T08:05:00+03:00"
     }
   ]
