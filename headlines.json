@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-08T19:14:43+03:00",
+  "lastUpdated": "2026-05-08T20:05:53+03:00",
   "headlines": [
+    {
+      "headline": "Toyota Warns of $4.3 Billion Hit from Iran War",
+      "summary": "Japan's Toyota expects the Iran conflict to cost it about $4.3 billion this financial year, one of the most significant corporate warnings yet on the wider economic impact of the US-Israeli war on Iran.",
+      "emoji": "🇯🇵💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/autos-transportation/toyota-sees-20-drop-annual-profit-iran-war-weighs-2026-05-08/",
+      "timestamp": "2026-05-08T20:03:00+03:00"
+    },
+    {
+      "headline": "UK Labour Party Suffers Heavy Losses as Reform UK Surges",
+      "summary": "British Prime Minister Keir Starmer vowed to fight on after his Labour Party suffered heavy losses in local elections, with Nigel Farage's Reform UK making significant gains that deepened doubts over Labour's ability to govern.",
+      "emoji": "🇬🇧🗳️",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/uk/uks-labour-party-suffers-heavy-early-losses-reform-gains-elections-2026-05-08/",
+      "timestamp": "2026-05-08T20:04:00+03:00"
+    },
+    {
+      "headline": "IEA Warns Energy Markets Headed Into Troubled Waters",
+      "summary": "Global energy markets are headed into \"troubled waters\" as the Iran war continues to knock out millions of barrels of oil each day, IEA head Fatih Birol warned, saying Europe made a mistake moving away from nuclear power.",
+      "emoji": "🛢️⚠️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/europe-made-mistake-by-moving-away-nuclear-power-ieas-birol-says-2026-05-07/",
+      "timestamp": "2026-05-08T20:05:00+03:00"
+    },
+    {
+      "headline": "Iran Seizes Oil Tanker as US Disables Two Ships in Gulf",
+      "summary": "Iran said it seized an oil tanker over attempts to disrupt its exports, hours after US and Iranian forces exchanged fire in the Strait of Hormuz, with US forces firing on and disabling two Iranian tankers.",
+      "emoji": "🇮🇷🚢",
+      "category": "US-Iran War",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/8/iran-says-it-has-seized-oil-tanker-over-attempts-to-disrupt-its-oil-exports",
+      "timestamp": "2026-05-08T20:06:00+03:00"
+    },
+    {
+      "headline": "Seven Markets to Track If Peace Breaks Out in Middle East",
+      "summary": "A durable peace breakthrough in the Middle East would ripple through markets far beyond crude oil, quickly stripping out risk premia baked into freight rates, fertilizer prices and more.",
+      "emoji": "📈🌍",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/seven-markets-track-if-peace-breaks-out-middle-east-2026-05-08/",
+      "timestamp": "2026-05-08T20:07:00+03:00"
+    },
     {
       "headline": "US Trade Court Rules Trump Tariffs Illegal, Blocks 10% Global Levy",
       "summary": "A federal trade court ruled that President Trump exceeded his authority with new 10% global tariffs, though the order only applies to importers who sued. The administration plans to appeal.",
@@ -8,7 +53,23 @@
       "category": "US Politics",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/us-trade-court-rules-against-trumps-10-global-tariff-2026-05-07/",
-      "timestamp": "2026-05-08T19:15:00+03:00"
+      "timestamp": "2026-05-08T19:15:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/us-trade-court-rules-against-trumps-10-global-tariff-2026-05-07/",
+          "angle": "US trade court rules Trump 10% global tariff illegal",
+          "summary": "A panel of federal judges on the Court of International Trade blocked President Trump's 10% tariffs on most US imports, ruling in a 2-1 decision that the law sidestepped a Supreme Court ruling that struck down blanket tariffs imposed under emergency powers."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/us-trade-court-rules-against-trumps-10-global-tariff-2026-05-07/",
+        "https://www.reuters.com/world/us-trade-court-rules-against-trumps-10-global-tariff-2026-05-07/"
+      ]
     },
     {
       "headline": "US Navy Came Under Iranian Missile Fire After Attacking Oil Tanker",
@@ -17,7 +78,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/irans-state-broadcaster-says-enemy-units-came-under-missile-fire-after-us-attack-2026-05-07/",
-      "timestamp": "2026-05-08T19:15:00+03:00"
+      "timestamp": "2026-05-08T19:15:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/iran-us-israel-war-china-may-6-2026-3d061a90ccde095178d9b988d94d08f3",
+          "angle": "US fires on Iranian oil tanker amid war pressure",
+          "summary": "US military forces fired on an Iranian oil tanker as the Trump administration continues to pressure Tehran for a deal to end the ongoing conflict."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/irans-state-broadcaster-says-enemy-units-came-under-missile-fire-after-us-attack-2026-05-07/",
+        "https://apnews.com/article/iran-us-israel-war-china-may-6-2026-3d061a90ccde095178d9b988d94d08f3"
+      ]
     },
     {
       "headline": "North Korea Deploys Artillery at Border to Hit Seoul",
@@ -26,7 +103,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/north-korea-leader-kim-inspects-navy-destroyer-weapons-production-plants-2026-05-07/",
-      "timestamp": "2026-05-08T19:15:00+03:00"
+      "timestamp": "2026-05-08T19:15:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/north-korea-leader-kim-inspects-navy-destroyer-weapons-production-plants-2026-05-07/",
+          "angle": "North Korea Deploys New Artillery Systems Capable of Striking Seoul",
+          "summary": "Kim Jong Un inspected new long-range artillery with ranges exceeding 60km to be deployed at the South Korean border, bolstering ability to hit Seoul, state media reports."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/north-korea-leader-kim-inspects-navy-destroyer-weapons-production-plants-2026-05-07/",
+        "https://www.reuters.com/world/asia-pacific/north-korea-leader-kim-inspects-navy-destroyer-weapons-production-plants-2026-05-07/"
+      ]
     },
     {
       "headline": "China Fireworks Factory Blast Kills 37, One Missing",
@@ -431,31 +524,6 @@
       ]
     },
     {
-      "headline": "US trade court rules Trump 10% global tariff illegal",
-      "summary": "A panel of federal judges on the Court of International Trade blocked President Trump's 10% tariffs on most US imports, ruling in a 2-1 decision that the law sidestepped a Supreme Court ruling that struck down blanket tariffs imposed under emergency powers.",
-      "emoji": "⚖️",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us-trade-court-rules-against-trumps-10-global-tariff-2026-05-07/",
-      "timestamp": "2026-05-08T14:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/us-trade-court-rules-against-trumps-10-global-tariff-2026-05-07/",
-          "angle": "US trade court rules Trump tariffs illegal, issues narrow block",
-          "summary": "The US trade court ruled against President Donald Trump's 10% global tariffs, finding they were not justified under a 1970s trade law, though the court only blocked the levy on two small businesses and Washington state."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/us-trade-court-rules-against-trumps-10-global-tariff-2026-05-07/",
-        "https://www.reuters.com/world/us-trade-court-rules-against-trumps-10-global-tariff-2026-05-07/"
-      ]
-    },
-    {
       "headline": "Secret document reveals Russia's plans to supply advanced weapons to Iran",
       "summary": "A classified document obtained by The Economist shows Russia offered to provide Iran with innovative weapons in large enough quantities to inflict significant casualties on American and allied forces, beyond the intelligence support Moscow is already believed to have provided.",
       "emoji": "🇷🇺",
@@ -576,31 +644,6 @@
       "source": "Stripes",
       "url": "https://www.stripes.com/theaters/asia_pacific/2026-05-08/us-philippine-balikatan-nmesis-himars-luzon-21610288.html",
       "timestamp": "2026-05-08T12:04:00+03:00"
-    },
-    {
-      "headline": "North Korea Deploys New Artillery Systems Capable of Striking Seoul",
-      "summary": "Kim Jong Un inspected new long-range artillery with ranges exceeding 60km to be deployed at the South Korean border, bolstering ability to hit Seoul, state media reports.",
-      "emoji": "🇰🇵⚔️",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/north-korea-leader-kim-inspects-navy-destroyer-weapons-production-plants-2026-05-07/",
-      "timestamp": "2026-05-08T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/north-korea-kim-artillery-destroyer-south-4e25362f8d7d0311d85bb3505a46c1cf",
-          "angle": "North Korea to deploy artillery targeting Seoul, commission first destroyer",
-          "summary": "North Korea announced it will deploy new long-range artillery systems capable of striking Seoul this year and commission its first naval destroyer. Leader Kim Jong Un inspected weapons production as the country continues military expansion amid stalled denuclearization talks."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/north-korea-leader-kim-inspects-navy-destroyer-weapons-production-plants-2026-05-07/",
-        "https://apnews.com/article/north-korea-kim-artillery-destroyer-south-4e25362f8d7d0311d85bb3505a46c1cf"
-      ]
     },
     {
       "headline": "$7 Billion in Well-Timed Oil Bets Before Iran War News Sparks Scrutiny",
@@ -2302,31 +2345,6 @@
       "timestamp": "2026-05-07T08:05:00+03:00"
     },
     {
-      "headline": "US fires on Iranian oil tanker amid war pressure",
-      "summary": "US military forces fired on an Iranian oil tanker as the Trump administration continues to pressure Tehran for a deal to end the ongoing conflict.",
-      "emoji": "🛢️",
-      "category": "US-Iran War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-israel-war-china-may-6-2026-3d061a90ccde095178d9b988d94d08f3",
-      "timestamp": "2026-05-07T07:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/iran-us-israel-war-china-may-6-2026-3d061a90ccde095178d9b988d94d08f3",
-          "angle": "US Navy Disables Iranian Oil Tanker in Gulf of Oman",
-          "summary": "US military disabled an Iranian-flagged oil tanker in the Gulf of Oman on Wednesday for allegedly violating the blockade of Iranian ports, marking continued tensions even as diplomatic talks progress."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "AP News"
-      ],
-      "urls": [
-        "https://apnews.com/article/iran-us-israel-war-china-may-6-2026-3d061a90ccde095178d9b988d94d08f3",
-        "https://apnews.com/article/iran-us-israel-war-china-may-6-2026-3d061a90ccde095178d9b988d94d08f3"
-      ]
-    },
-    {
       "headline": "Japan's Trump Supporters Lose Faith Amid Iran War Chaos",
       "summary": "Longtime Japanese supporters of Trump are questioning their allegiance as Iran war disruptions and troop withdrawal plans raise concerns about US-Japan security ties.",
       "emoji": "🇯🇵🇺🇸",
@@ -2851,15 +2869,6 @@
         "https://www.reuters.com/world/middle-east/gulfs-fragile-trade-lifeline-hangs-two-eastern-uae-ports-2026-05-06/",
         "https://english.alarabiya.net/News/gulf/2026/05/04/oman-says-two-injured-after-residential-building-in-bukha-targeted"
       ]
-    },
-    {
-      "headline": "America massing troops near Taiwan to deter Chinese aggression",
-      "summary": "The US is significantly increasing its military presence near Taiwan amid heightened tensions with Beijing. The buildup comes as China continues provocative actions in the Taiwan Strait.",
-      "emoji": "🇺🇸🇨🇳🇹🇼",
-      "category": "US-China",
-      "source": "The Economist",
-      "url": "https://www.economist.com/asia/2026/05/06/america-is-massing-troops-near-taiwan-to-deter-troublemaking-by-china",
-      "timestamp": "2026-05-06T19:15:00+03:00"
     }
   ]
 }
