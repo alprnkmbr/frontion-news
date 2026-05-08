@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-08T17:04:11+03:00",
+  "lastUpdated": "2026-05-08T18:05:27+03:00",
   "headlines": [
+    {
+      "headline": "Russia and Ukraine Trade Ceasefire Accusations as Moscow Prepares Victory Day Parade",
+      "summary": "Both nations accused each other of violating ceasefires ahead of Russia's WWII commemoration under tight security, while fighting continues despite temporary truces.",
+      "emoji": "🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/russia-ukraine-accuse-each-other-violating-ceasefire-2026-05-08/",
+      "timestamp": "2026-05-08T18:03:00+03:00"
+    },
+    {
+      "headline": "Ukraine Running Short on Air Defence Missiles After Winter Campaign",
+      "summary": "Ukraine's air force warned it is running low on air defence missiles following Russia's massive winter attacks, as it braces for further strikes.",
+      "emoji": "🛡️",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/ukraine-says-it-is-running-short-air-defence-missiles-2026-05-08/",
+      "timestamp": "2026-05-08T18:03:00+03:00"
+    },
+    {
+      "headline": "China Exports Surge as Companies Stockpile Amid Iran War Fears",
+      "summary": "Chinese export growth quickened in April as firms rushed to stockpile components, worried the Iran conflict could push input costs higher.",
+      "emoji": "🇨🇳",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/chinas-exports-likely-picked-up-pace-april-iran-war-stockpiling-2026-05-08/",
+      "timestamp": "2026-05-08T18:03:00+03:00"
+    },
+    {
+      "headline": "Victory Day Reveals Putins War Dilemma",
+      "summary": "Russia's low-key WWII commemorations highlight tensions as Moscow prepares its annual parade under heightened security amid the ongoing Ukraine conflict.",
+      "emoji": "🎖️",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-moscow-parade-ceasefire-cde7ec7a0fb10a3e2563171b931485e8",
+      "timestamp": "2026-05-08T18:03:00+03:00"
+    },
     {
       "headline": "US and Iran clash in Strait of Hormuz as Tehran mulls ceasefire proposal",
       "summary": "US forces carried out retaliatory strikes on Iranian targets after Tehran attacked destroyers in the Strait of Hormuz. Washington awaits Irans response to a ceasefire proposal as Trump insists the truce still holds.",
@@ -8,7 +44,39 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/iran-war-live-us-expects-response-friday-trump-says-ceasefire-holds-after-strait-2026-05-08/",
-      "timestamp": "2026-05-08T17:03:00+03:00"
+      "timestamp": "2026-05-08T17:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-attacks-qeshm-island-ceasefire/",
+          "angle": "CBS News: Trump says ceasefire holds despite Strait of Hormuz clash",
+          "summary": "President Trump insisted the ceasefire with Iran remains in effect after an exchange of attacks in the Strait of Hormuz. Tehran called the strikes a point of no return."
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/8/what-we-know-about-irans-response-to-the-latest-us-ceasefire-proposal",
+          "angle": "Iran Reviews US Ceasefire Proposal Amid Ongoing Hormuz Clashes",
+          "summary": "Iran is reviewing a 14-point US peace proposal that would require Tehran to halt uranium enrichment for 12 years and hand over its 60% enriched uranium stockpile. The proposal comes as both sides exchanged fire in the Strait of Hormuz despite a fragile ceasefire."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/us-carries-out-retaliatory-strikes-against-iran-us-military-says-2026-05-07/",
+          "angle": "US carries out retaliatory strikes on Iran after Hormuz clash",
+          "summary": "The US military conducted retaliatory strikes on Iranian targets it said were responsible for attacking American forces, calling the hostilities \"unprovoked\" amid renewed fighting in the Gulf region."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "CBS News",
+        "Al Jazeera",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/iran-war-live-us-expects-response-friday-trump-says-ceasefire-holds-after-strait-2026-05-08/",
+        "https://www.cbsnews.com/live-updates/iran-war-trump-us-attacks-qeshm-island-ceasefire/",
+        "https://www.aljazeera.com/news/2026/5/8/what-we-know-about-irans-response-to-the-latest-us-ceasefire-proposal",
+        "https://www.reuters.com/world/middle-east/us-carries-out-retaliatory-strikes-against-iran-us-military-says-2026-05-07/"
+      ]
     },
     {
       "headline": "NPR: UAE intercepts missiles as US-Iran fighting flares",
@@ -17,15 +85,6 @@
       "category": "US-Iran War",
       "source": "NPR",
       "url": "https://www.npr.org/2026/05/08/g-s1-121061/iran-war-updates",
-      "timestamp": "2026-05-08T17:03:00+03:00"
-    },
-    {
-      "headline": "CBS News: Trump says ceasefire holds despite Strait of Hormuz clash",
-      "summary": "President Trump insisted the ceasefire with Iran remains in effect after an exchange of attacks in the Strait of Hormuz. Tehran called the strikes a point of no return.",
-      "emoji": "🇺🇸🛑⚔️",
-      "category": "US-Iran War",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-attacks-qeshm-island-ceasefire/",
       "timestamp": "2026-05-08T17:03:00+03:00"
     },
     {
@@ -163,15 +222,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/dollar-firms-us-iran-hostilities-flare-yen-steadied-by-intervention-risk-2026-05-08/",
       "timestamp": "2026-05-08T16:03:00+03:00"
-    },
-    {
-      "headline": "Iran Reviews US Ceasefire Proposal Amid Ongoing Hormuz Clashes",
-      "summary": "Iran is reviewing a 14-point US peace proposal that would require Tehran to halt uranium enrichment for 12 years and hand over its 60% enriched uranium stockpile. The proposal comes as both sides exchanged fire in the Strait of Hormuz despite a fragile ceasefire.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/8/what-we-know-about-irans-response-to-the-latest-us-ceasefire-proposal",
-      "timestamp": "2026-05-08T15:05:00+03:00"
     },
     {
       "headline": "David Attenborough Turns 100, \"Overwhelmed\" by Global Tributes",
@@ -387,15 +437,6 @@
         "https://www.reuters.com/world/china/first-chinese-product-tanker-attacked-monday-near-strait-hormuz-caixin-reports-2026-05-07/",
         "https://www.channelnewsasia.com/world/iran-us-hormuz-china-oil-tanker-6107751"
       ]
-    },
-    {
-      "headline": "US carries out retaliatory strikes on Iran after Hormuz clash",
-      "summary": "The US military conducted retaliatory strikes on Iranian targets it said were responsible for attacking American forces, calling the hostilities \"unprovoked\" amid renewed fighting in the Gulf region.",
-      "emoji": "⚔️",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-carries-out-retaliatory-strikes-against-iran-us-military-says-2026-05-07/",
-      "timestamp": "2026-05-08T12:05:00+03:00"
     },
     {
       "headline": "China sees weakened US deterrence on Taiwan as Iran war drains weapons",
@@ -2835,15 +2876,6 @@
         "https://www.nytimes.com/2026/05/05/world/middleeast/uae-saudi-arabia-oil-opec-what-to-know.html",
         "https://www.scmp.com/news/china/military/article/3349036/iran-demands-explanations-saudis-and-uae-after-chinese-made-drone-was-shot-down"
       ]
-    },
-    {
-      "headline": "Washington Post: Iran War Deepens US Political Divide Over Israel Alliance",
-      "summary": "The Iran conflict has fractured the traditional bipartisan consensus on US-Israel ties, with both Democrats and Republicans now fiercely debating the alliance on campaign trails and in Congress.",
-      "emoji": "🇺🇸🇮🇱⚖️",
-      "category": "US Politics",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/05/06/israel-political-division-democrats-republicans/",
-      "timestamp": "2026-05-06T16:05:00+03:00"
     }
   ]
 }
