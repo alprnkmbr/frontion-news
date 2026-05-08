@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-08T07:04:27+03:00",
+  "lastUpdated": "2026-05-08T08:04:51+03:00",
   "headlines": [
+    {
+      "headline": "US and Iran Exchange Fire as Fragile Ceasefire Shows Cracks",
+      "summary": "US military carried out retaliatory strikes on Iranian targets after renewed hostilities in the Strait of Hormuz. The UAE reported intercepting drones and missiles as Trump insisted the ceasefire still holds.",
+      "emoji": "🇺🇸🇮🇷⚔️",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/uae-countering-iranian-air-attack-after-trump-says-ceasefire-still-effect-2026-05-08/",
+      "timestamp": "2026-05-08T08:03:00+03:00"
+    },
+    {
+      "headline": "Russia Intercepts 50+ Drones Over Moscow Ahead of Victory Day Parade",
+      "summary": "Russian air defense units intercepted more than 50 drones heading for Moscow over 15 hours as Ukraine continued strikes despite Russia declaring a ceasefire for WWII commemorations.",
+      "emoji": "🇷🇺🇺🇦💥",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/more-than-50-moscow-bound-drones-intercepted-by-russia-mayor-says-2026-05-07/",
+      "timestamp": "2026-05-08T08:03:00+03:00"
+    },
+    {
+      "headline": "Netanyahu Vows No Immunity for Enemies After Beirut Strike",
+      "summary": "Israel struck a Hezbollah commander in Beirut, its first strike on the capital since the ceasefire. Netanyahu declared there would be no immunity for militants threatening Israel.",
+      "emoji": "🇮🇱🇱🇧⚔️",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/israel-says-it-killed-hezbollah-commander-first-strike-beirut-since-ceasefire-2026-05-07/",
+      "timestamp": "2026-05-08T08:03:00+03:00"
+    },
+    {
+      "headline": "Global Views of US Fall Below Russia Under Trump, Survey Finds",
+      "summary": "An annual democracy study shows US global perceptions have deteriorated for a second year and now rank worse than Russia, as Trump’s policies strain the NATO alliance.",
+      "emoji": "🇺🇸🌍📉",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/global-perceptions-us-fall-below-russia-under-trump-survey-finds-2026-05-08/",
+      "timestamp": "2026-05-08T08:03:00+03:00"
+    },
+    {
+      "headline": "Lula Visits Trump Seeking to Avert Trade Tariffs",
+      "summary": "Brazilian President Lula met with Trump in Washington to discuss trade relations and tariffs. The two leaders skipped a joint press appearance despite signs of thaw in relations.",
+      "emoji": "🇧🇷🇺🇸🏛️",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/americas/brazils-lula-visits-trump-washington-seeking-avert-new-us-trade-tariffs-2026-05-07/",
+      "timestamp": "2026-05-08T08:03:00+03:00"
+    },
     {
       "headline": "Russia ramps up assassination campaign against opponents abroad, Western intelligence says",
       "summary": "Western intelligence officials report Russia has intensified targeted killings abroad since the 2022 Ukraine invasion, going after Russian activists and foreign supporters of Ukraine using recruited proxies. Plots have been disrupted in France, Germany, Lithuania, and Poland.",
@@ -8,16 +53,23 @@
       "category": "Europe",
       "source": "AP News",
       "url": "https://apnews.com/article/russia-putin-killing-assassination-intelligence-6e60452ecbe1a42a0ddc9adcd2f39f23",
-      "timestamp": "2026-05-08T07:03:00+03:00"
-    },
-    {
-      "headline": "Health officials track dozens who left hantavirus-stricken cruise ship across four continents",
-      "summary": "Three passengers have died from a hantavirus outbreak on a cruise ship that docked at Cape Verde. Over two dozen passengers left the ship at St. Helena on April 24 without contact tracing, prompting international health monitoring across multiple countries.",
-      "emoji": "🚢",
-      "category": "Geopolitics",
-      "source": "AP News",
-      "url": "https://apnews.com/article/hantavirus-cruise-ship-st-helena-9c70878b2ff59d187f1e34c12627cea7",
-      "timestamp": "2026-05-08T07:03:00+03:00"
+      "timestamp": "2026-05-08T07:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/world/europe/russia-ramping-attempts-kill-opponents-europe-intelligence-officials-s-rcna344115",
+          "angle": "Russia Ramping Up Assassination Attempts Against Opponents in Europe",
+          "summary": "European intelligence officials warn that Russia is intensifying efforts to kill dissidents and opponents across Europe, marking a dangerous escalation in Moscow's overseas operations."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "NBC News"
+      ],
+      "urls": [
+        "https://apnews.com/article/russia-putin-killing-assassination-intelligence-6e60452ecbe1a42a0ddc9adcd2f39f23",
+        "https://www.nbcnews.com/world/europe/russia-ramping-attempts-kill-opponents-europe-intelligence-officials-s-rcna344115"
+      ]
     },
     {
       "headline": "US stocks fall from records as oil prices yo-yo amid Iran tensions",
@@ -721,15 +773,6 @@
         "https://www.reuters.com/world/rubio-meet-pope-leo-trump-keeps-up-attacks-pontiff-2026-05-07/",
         "https://www.reuters.com/world/rubio-meet-pope-leo-trump-keeps-up-attacks-pontiff-2026-05-07/"
       ]
-    },
-    {
-      "headline": "Russia Ramping Up Assassination Attempts Against Opponents in Europe",
-      "summary": "European intelligence officials warn that Russia is intensifying efforts to kill dissidents and opponents across Europe, marking a dangerous escalation in Moscow's overseas operations.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/europe/russia-ramping-attempts-kill-opponents-europe-intelligence-officials-s-rcna344115",
-      "timestamp": "2026-05-08T00:03:00+03:00"
     },
     {
       "headline": "US Sells $17 Billion in Missiles to Gulf Nations as Stockpiles Deplete",
@@ -2362,15 +2405,6 @@
       "timestamp": "2026-05-06T14:06:00+03:00"
     },
     {
-      "headline": "UK Local Elections Could End Starmer's Troubled Premiership",
-      "summary": "British voters are casting ballots in local elections that could hasten the end of Prime Minister Keir Starmer's troubled term, as the hard-right Reform UK party eyes significant gains.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://apnews.com/article/uk-elections-labour-starmer-crisis-402bb5be1e77fd74c91dd9ff8d784aa3",
-      "timestamp": "2026-05-06T14:05:00+03:00"
-    },
-    {
       "headline": "Hantavirus-Hit Cruise Ship to Sail to Spain; Rare Andes Strain Confirmed",
       "summary": "A luxury cruise ship hit by a deadly hantavirus outbreak with close to 150 people on board was due to head to Spain, while South Africa confirmed it identified the Andes strain of the virus that can spread among humans. Three passengers have died.",
       "emoji": "🚢⚠️",
@@ -2380,20 +2414,29 @@
       "timestamp": "2026-05-06T14:05:00+03:00",
       "perspectives": [
         {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cy0294829ndo",
-          "angle": "Second hantavirus case confirmed on cruise ship after three deaths",
-          "summary": "The WHO confirmed a second hantavirus case on the MV Hondius cruise ship anchored off Cape Verde. Three passengers have died and WHO warns human-to-human transmission may be occurring among close contacts."
+          "source": "AP News",
+          "url": "https://apnews.com/article/hantavirus-cruise-ship-st-helena-9c70878b2ff59d187f1e34c12627cea7",
+          "angle": "Health officials track dozens who left hantavirus-stricken cruise ship across four continents",
+          "summary": "Three passengers have died from a hantavirus outbreak on a cruise ship that docked at Cape Verde. Over two dozen passengers left the ship at St. Helena on April 24 without contact tracing, prompting international health monitoring across multiple countries."
         }
       ],
       "sources": [
         "Reuters",
-        "BBC"
+        "AP News"
       ],
       "urls": [
         "https://www.reuters.com/business/healthcare-pharmaceuticals/two-cases-hantavirus-which-spreads-human-to-human-linked-ship-south-africa-says-2026-05-06/",
-        "https://www.bbc.com/news/articles/cy0294829ndo"
+        "https://apnews.com/article/hantavirus-cruise-ship-st-helena-9c70878b2ff59d187f1e34c12627cea7"
       ]
+    },
+    {
+      "headline": "UK Local Elections Could End Starmer's Troubled Premiership",
+      "summary": "British voters are casting ballots in local elections that could hasten the end of Prime Minister Keir Starmer's troubled term, as the hard-right Reform UK party eyes significant gains.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "AP News",
+      "url": "https://apnews.com/article/uk-elections-labour-starmer-crisis-402bb5be1e77fd74c91dd9ff8d784aa3",
+      "timestamp": "2026-05-06T14:05:00+03:00"
     },
     {
       "headline": "Ukrainians Trapped in Frontline City of Oleshky",
@@ -2698,31 +2741,6 @@
       "source": "SecurityWeek",
       "url": "https://www.securityweek.com/palo-alto-networks-to-patch-zero-day-exploited-to-hack-firewalls/",
       "timestamp": "2026-05-06T08:05:00+03:00"
-    },
-    {
-      "headline": "Two Russian hypersonic missile scientists convicted of treason, sentenced to 12 years",
-      "summary": "Two Russian physicists involved in hypersonic missile research were convicted of treason and sentenced to 12.5 years each in a closed-door trial. The cases are part of a broader crackdown on academics amid heightened wartime security.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/two-more-russian-hypersonic-scientists-are-convicted-treason-2026-05-05/",
-      "timestamp": "2026-05-06T08:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/two-more-russian-hypersonic-scientists-are-convicted-treason-2026-05-05/",
-          "angle": "Two Russian Hypersonic Scientists Sentenced to 12 Years for Treason",
-          "summary": "Two Russian physicists involved in hypersonic missile research were convicted of treason and sentenced to 12-and-a-half years in prison each. The convictions continue a pattern of treason cases against Russian scientists working on sensitive defense technologies."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/two-more-russian-hypersonic-scientists-are-convicted-treason-2026-05-05/",
-        "https://www.reuters.com/world/two-more-russian-hypersonic-scientists-are-convicted-treason-2026-05-05/"
-      ]
     }
   ]
 }
