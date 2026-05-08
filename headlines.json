@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-09T00:07:46+03:00",
+  "lastUpdated": "2026-05-09T01:05:01+03:00",
   "headlines": [
+    {
+      "headline": "US-Iran Ceasefire Tested by Naval Skirmish in Strait of Hormuz",
+      "summary": "US forces disabled two Iranian oil tankers after exchanging fire with Iranian forces overnight. Iran accused the US of violating the ceasefire while Washington said it acted in response to attacks on three Navy ships. Trump insisted the ceasefire remains intact despite the escalation.",
+      "emoji": "⚔️",
+      "category": "US-Iran War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro",
+      "timestamp": "2026-05-09T01:03:00+03:00"
+    },
+    {
+      "headline": "Trump Announces Russia-Ukraine Three-Day Ceasefire",
+      "summary": "Donald Trump announced a three-day ceasefire between Russia and Ukraine after both countries accused each other of violating separate ceasefires for Victory Day. The agreement includes a prisoner swap of 1,000 from each side.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c202zn5gg0lo",
+      "timestamp": "2026-05-09T01:03:00+03:00"
+    },
+    {
+      "headline": "South African Opposition Demands Ramaphosa Resign After Court Ruling",
+      "summary": "Opposition leader Julius Malema called for President Cyril Ramaphosa to resign after the Constitutional Court ruled parliament violated the constitution by blocking impeachment proceedings over the Phala Phala cash theft scandal.",
+      "emoji": "🇿🇦",
+      "category": "Africa",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cy4287vpvl7o",
+      "timestamp": "2026-05-09T01:03:00+03:00"
+    },
+    {
+      "headline": "Japan Sees Largest Anti-War Protests in Decades Over Defense Expansion",
+      "summary": "Thousands of protesters gathered in Tokyo and other cities against Prime Minister Sanae Takaichi moves to lift arms export restrictions and expand military role abroad, challenging Japan post-war pacifist constitution.",
+      "emoji": "🇯🇵",
+      "category": "Asia-Pacific",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c4g93v8jqnyo",
+      "timestamp": "2026-05-09T01:03:00+03:00"
+    },
+    {
+      "headline": "US Forces Disable Two Iranian Tankers in Hormuz Blockade Enforcement",
+      "summary": "US Central Command said it fired precision munitions into the smokestacks of two Iranian tankers attempting to breach the US naval blockade, as Washington awaits Iran response to peace proposals.",
+      "emoji": "🛢️",
+      "category": "US-Iran War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-israel-war-may-8-2026-6490db55a65880a61a6233eff7acc68b",
+      "timestamp": "2026-05-09T01:03:00+03:00"
+    },
     {
       "headline": "Iran says US cannot turn China against Tehran as peace talks loom",
       "summary": "Iran ambassador to China says Beijing-Tehran ties are strong enough to withstand US pressure, as speculation grows Washington may offer trade concessions to China in exchange for pressuring Iran on peace deal.",
@@ -8,7 +53,23 @@
       "category": "Diplomacy",
       "source": "SCMP",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3352940/why-irans-ambassador-china-thinks-us-cant-turn-beijing-against-it",
-      "timestamp": "2026-05-09T00:05:00+03:00"
+      "timestamp": "2026-05-09T00:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Anadolu",
+          "url": "https://www.aa.com.tr/en/americas/us-iran-may-resume-talks-next-week-in-islamabad-wsj/3931974",
+          "angle": "US-Iran peace talks may resume next week in Islamabad",
+          "summary": "Wall Street Journal reports the US and Iran could resume negotiations as early as next week in Pakistans capital, citing people familiar with the matter, as both sides seek to end the conflict."
+        }
+      ],
+      "sources": [
+        "SCMP",
+        "Anadolu"
+      ],
+      "urls": [
+        "https://www.scmp.com/news/china/diplomacy/article/3352940/why-irans-ambassador-china-thinks-us-cant-turn-beijing-against-it",
+        "https://www.aa.com.tr/en/americas/us-iran-may-resume-talks-next-week-in-islamabad-wsj/3931974"
+      ]
     },
     {
       "headline": "CIA report: Iran could withstand Hormuz blockade for four months",
@@ -29,31 +90,29 @@
       "timestamp": "2026-05-09T00:05:00+03:00"
     },
     {
-      "headline": "US-Iran peace talks may resume next week in Islamabad",
-      "summary": "Wall Street Journal reports the US and Iran could resume negotiations as early as next week in Pakistans capital, citing people familiar with the matter, as both sides seek to end the conflict.",
-      "emoji": "🇺🇸🇮🇷🇵🇰",
-      "category": "Diplomacy",
-      "source": "Anadolu",
-      "url": "https://www.aa.com.tr/en/americas/us-iran-may-resume-talks-next-week-in-islamabad-wsj/3931974",
-      "timestamp": "2026-05-09T00:05:00+03:00"
-    },
-    {
-      "headline": "Ukraine launches drone attack on Moscow ahead of Victory Day Parade",
-      "summary": "Moscow mayor claims Ukraine launched dozens of drones at the Russian capital one day before the annual Victory Day parade, a symbolic attack as Russia holds a scaled-back celebration amid war concerns.",
-      "emoji": "🇺🇦🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/ukraine-reportedly-launches-dozens-of-drones-at-moscow-day-before-victory-day-parade/",
-      "timestamp": "2026-05-09T00:05:00+03:00"
-    },
-    {
       "headline": "Rubio Questions Allies Support on Iran After Italy Talks",
       "summary": "Secretary of State Marco Rubio met Italian PM Giorgia Meloni and questioned why allies including Italy were not backing Washington efforts to confront Iran and reopen the Strait of Hormuz, highlighting strains in the US-Europe relationship over the Iran conflict.",
       "emoji": "🇺🇸🇮🇹",
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/meloni-meets-rubio-iran-war-strains-italy-us-ties-2026-05-08/",
-      "timestamp": "2026-05-09T00:03:00+03:00"
+      "timestamp": "2026-05-09T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/meloni-meets-rubio-iran-war-strains-italy-us-ties-2026-05-08/",
+          "angle": "Meloni Meets Rubio as Iran War Strains Italy-US Ties",
+          "summary": "Italian Prime Minister Giorgia Meloni held talks with U.S. Secretary of State Marco Rubio amid unusual strain between Rome and the Trump administration over the Iran conflict, highlighting diverging European and American approaches to the crisis."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/meloni-meets-rubio-iran-war-strains-italy-us-ties-2026-05-08/",
+        "https://www.reuters.com/world/meloni-meets-rubio-iran-war-strains-italy-us-ties-2026-05-08/"
+      ]
     },
     {
       "headline": "Taiwan Parliament Approves Extra Defense Spending",
@@ -80,7 +139,23 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/uk/british-mps-visit-china-first-time-seven-years-sources-say-2026-05-08/",
-      "timestamp": "2026-05-09T00:03:00+03:00"
+      "timestamp": "2026-05-09T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/uk/british-mps-visit-china-first-time-seven-years-sources-say-2026-05-08/",
+          "angle": "British MPs to Visit China for First Time in Seven Years",
+          "summary": "A cross-party delegation of UK lawmakers will visit China this month for the first time since 2019, signaling warming ties following Prime Minister Keir Starmer's January visit."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/uk/british-mps-visit-china-first-time-seven-years-sources-say-2026-05-08/",
+        "https://www.reuters.com/world/uk/british-mps-visit-china-first-time-seven-years-sources-say-2026-05-08/"
+      ]
     },
     {
       "headline": "European Shares Slide as Middle East Tensions Flare",
@@ -683,15 +758,6 @@
       ]
     },
     {
-      "headline": "Meloni Meets Rubio as Iran War Strains Italy-US Ties",
-      "summary": "Italian Prime Minister Giorgia Meloni held talks with U.S. Secretary of State Marco Rubio amid unusual strain between Rome and the Trump administration over the Iran conflict, highlighting diverging European and American approaches to the crisis.",
-      "emoji": "🇮🇹🇺🇸",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/meloni-meets-rubio-iran-war-strains-italy-us-ties-2026-05-08/",
-      "timestamp": "2026-05-08T16:03:00+03:00"
-    },
-    {
       "headline": "Trump Announces Withdrawal of 5,000 US Troops from Germany",
       "summary": "President Donald Trump announced he will withdraw 5,000 U.S. troops from Germany as a rift over the Iran war widens between Washington and NATO allies, raising questions about the legal and practical implications of such a move.",
       "emoji": "🇩🇪🇺🇸",
@@ -984,15 +1050,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/us/vance-rubios-2028-audition-2026-05-07/",
       "timestamp": "2026-05-08T11:03:00+03:00"
-    },
-    {
-      "headline": "British MPs to Visit China for First Time in Seven Years",
-      "summary": "A cross-party delegation of UK lawmakers will visit China this month for the first time since 2019, signaling warming ties following Prime Minister Keir Starmer's January visit.",
-      "emoji": "🇬🇧🇨🇳",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/uk/british-mps-visit-china-first-time-seven-years-sources-say-2026-05-08/",
-      "timestamp": "2026-05-08T10:03:00+03:00"
     },
     {
       "headline": "ASEAN Leaders Meet on Iran War Economic Fallout",
@@ -1716,6 +1773,31 @@
       "timestamp": "2026-05-08T00:03:00+03:00"
     },
     {
+      "headline": "Ukraine Launches Major Drone Attack on Moscow",
+      "summary": "Russia reported shooting down 347 Ukrainian drones overnight in a major attack after Moscow shunned a ceasefire offer, marking one of the largest drone assaults on the Russian capital.",
+      "emoji": "🇺🇦🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-drone-attack-moscow-celebrations-3fd7de0bc63bc349422117e1517e724d",
+      "timestamp": "2026-05-07T23:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-reportedly-launches-dozens-of-drones-at-moscow-day-before-victory-day-parade/",
+          "angle": "Ukraine launches drone attack on Moscow ahead of Victory Day Parade",
+          "summary": "Moscow mayor claims Ukraine launched dozens of drones at the Russian capital one day before the annual Victory Day parade, a symbolic attack as Russia holds a scaled-back celebration amid war concerns."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://apnews.com/article/russia-ukraine-war-drone-attack-moscow-celebrations-3fd7de0bc63bc349422117e1517e724d",
+        "https://kyivindependent.com/ukraine-reportedly-launches-dozens-of-drones-at-moscow-day-before-victory-day-parade/"
+      ]
+    },
+    {
       "headline": "Dollar Faces Trapdoor if Iran War Ends",
       "summary": "Fresh optimism over a possible end to the Iran war has pushed the US dollar back to pre-conflict lows, with analysts warning the greenback could be a casualty of any peace deal.",
       "emoji": "💰📉",
@@ -1739,15 +1821,6 @@
         "https://www.reuters.com/markets/currencies/trapdoor-creaks-dollar-if-iran-war-ends-2026-05-07/",
         "https://www.middleeasteye.net/news/wall-street-core-business-dealmaking-risk-amid-iran-war"
       ]
-    },
-    {
-      "headline": "Ukraine Launches Major Drone Attack on Moscow",
-      "summary": "Russia reported shooting down 347 Ukrainian drones overnight in a major attack after Moscow shunned a ceasefire offer, marking one of the largest drone assaults on the Russian capital.",
-      "emoji": "🇺🇦🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/russia-ukraine-war-drone-attack-moscow-celebrations-3fd7de0bc63bc349422117e1517e724d",
-      "timestamp": "2026-05-07T23:03:00+03:00"
     },
     {
       "headline": "Japan Signals Unlimited Yen Defense",
@@ -2764,108 +2837,6 @@
         "https://www.reuters.com/business/aerospace-defense/japan-fires-missile-joint-drill-with-us-allies-northern-philippines-facing-south-2026-05-06/",
         "https://www.scmp.com/news/china/military/article/3352919/are-china-and-russia-flexing-their-maritime-muscle-near-japan"
       ]
-    },
-    {
-      "headline": "G7 trade ministers discuss critical minerals as US-EU tariff tensions strain unity",
-      "summary": "Trade ministers from the Group of Seven sought common ground on securing critical mineral supplies dominated by China, but fresh US tariff threats against European cars risked straining alliance unity.",
-      "emoji": "🇪🇺",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/g7-trade-ministers-discuss-critical-minerals-supply-chain-french-minister-says-2026-05-06/",
-      "timestamp": "2026-05-07T04:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/5/7/brazils-lula-meets-trump-amid-efforts-to-avert-new-us-trade-tariffs",
-          "angle": "Brazils Lula meets Trump at White House amid trade tariff tensions",
-          "summary": "Brazilian President Lula da Silva held talks with Donald Trump at the White House to reset relations strained by tariff disputes. Trump described the meeting as \"very well\" while Brazilian officials seek to avoid new trade levies."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/g7-trade-ministers-discuss-critical-minerals-supply-chain-french-minister-says-2026-05-06/",
-        "https://www.aljazeera.com/news/2026/5/7/brazils-lula-meets-trump-amid-efforts-to-avert-new-us-trade-tariffs"
-      ]
-    },
-    {
-      "headline": "Gulf Economies Face Long-Term Hit from Iran Conflict",
-      "summary": "The ongoing Iran-US-Israel war is dealing a sustained blow to Gulf economies, with Iranian strikes on gas fields and shipping disruptions threatening the region economic transformation plans.",
-      "emoji": "🇮🇷",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0k257g8jk5o",
-      "timestamp": "2026-05-07T03:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "MSN",
-          "url": "https://www.msn.com/en-us/news/world/gulf-states-will-have-mixed-feelings-about-the-us-at-the-end-of-the-iran-war-warns-middle-east-expert/vi-AA22rYjm",
-          "angle": "Gulf states face uncertainty as Iran war reshapes regional alliances",
-          "summary": "Middle East expert warns that Gulf monarchies will have mixed feelings about the US after the Iran war, as the conflict exposes growing rift between UAE and Saudi Arabia over energy quotas and regional security."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "MSN"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/c0k257g8jk5o",
-        "https://www.msn.com/en-us/news/world/gulf-states-will-have-mixed-feelings-about-the-us-at-the-end-of-the-iran-war-warns-middle-east-expert/vi-AA22rYjm"
-      ]
-    },
-    {
-      "headline": "Fed Officials Warn Supply Chain Risks Fuel Inflation Concerns",
-      "summary": "Federal Reserve officials said the US-backed war with Iran is raising the risk of sustained inflation shock, with high oil prices and growing concerns about global supply chain disruptions.",
-      "emoji": "🇺🇸",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/markets/us/feds-museum-risks-have-shifted-towards-higher-inflation-2026-05-06/",
-      "timestamp": "2026-05-07T03:03:00+03:00"
-    },
-    {
-      "headline": "A Year Into Papacy, Pope Leo Finds His Voice on World Stage",
-      "summary": "Pope Leo marks his first year leading the Catholic Church with a higher public profile, having grown more outspoken on global affairs and drawn the ire of US President Donald Trump.",
-      "emoji": "⛪",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/year-into-papacy-leo-finds-his-clarion-voice-2026-05-06/",
-      "timestamp": "2026-05-07T03:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/year-into-papacy-leo-finds-his-clarion-voice-2026-05-06/",
-          "angle": "Pope Leo Marks First Year with Growing Global Profile",
-          "summary": "Pope Leo marks his first year leading the Catholic Church with higher public profile and outspoken stance on world affairs, drawing criticism from Trump over nuclear weapons position."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/year-into-papacy-leo-finds-his-clarion-voice-2026-05-06/",
-        "https://www.reuters.com/world/year-into-papacy-leo-finds-his-clarion-voice-2026-05-06/"
-      ]
-    },
-    {
-      "headline": "North Korea declares it is not bound by nuclear non-proliferation treaty",
-      "summary": "Pyongyang says the US and other countries are \"tarnishing the atmosphere\" at the UN NPT review conference by raising concerns about its nuclear weapons program.",
-      "emoji": "🇰🇵",
-      "category": "Diplomacy",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/asia-pacific/north-korea-says-it-s-not-bound-to-any-treaty-on-non-proliferation-of-nuclear-weapons/3929589",
-      "timestamp": "2026-05-07T02:06:00+03:00"
-    },
-    {
-      "headline": "Israeli forces launch new incursion into Syrias Daraa province",
-      "summary": "Israeli forces carried out an incursion in the Yarmouk Basin region in western Daraa countryside late Wednesday, marking continued Israeli operations in southern Syria.",
-      "emoji": "🇸🇾",
-      "category": "Middle East",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/middle-east/israeli-forces-launch-fresh-incursion-into-countryside-of-syrias-daraa-province/3929588",
-      "timestamp": "2026-05-07T02:06:00+03:00"
     }
   ]
 }
