@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-08T04:04:14+03:00",
+  "lastUpdated": "2026-05-08T04:08:09+03:00",
   "headlines": [
+    {
+      "headline": "UK Court Convicts Two Men for Spying on Hong Kong Dissidents",
+      "summary": "A UK court found two men guilty, including a British immigration officer, of conducting surveillance on Hong Kong pro-democracy activists in Britain on behalf of China, in an unprecedented shadow policing case.",
+      "emoji": "🇬🇧🇭🇰",
+      "category": "Europe",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352809/uk-court-convicts-2-men-linked-hong-kong-trade-office-spying",
+      "timestamp": "2026-05-08T04:05:00+03:00"
+    },
+    {
+      "headline": "Armenia Distances Itself from Russia as Kremlin Fumes Over Zelensky Visit",
+      "summary": "Armenian PM Pashinyan declared Armenia is not an ally of Russia on Ukraine, while Russia summoned Armenia's ambassador to protest Zelensky's visit to Yerevan, marking a significant shift in Caucasus geopolitics.",
+      "emoji": "🇦🇲🇺🇦",
+      "category": "Europe",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/on-the-issue-of-ukraine-we-are-not-an-ally-of-russia-armenian-pm-says-as-kremlin-fumes-over-zelensky-visit/",
+      "timestamp": "2026-05-08T04:05:00+03:00"
+    },
+    {
+      "headline": "Hezbollah Claims 13 Attacks on Israeli Forces in Southern Lebanon",
+      "summary": "Hezbollah announced it carried out drone and artillery strikes on Israeli troops, Merkava tanks, an Iron Dome platform, and military positions in southern Lebanon amid ongoing cross-border escalation.",
+      "emoji": "🇱🇧🇮🇱",
+      "category": "Middle East",
+      "source": "Anadolu",
+      "url": "https://www.aa.com.tr/en/middle-east/hezbollah-says-it-carried-out-13-attacks-on-israeli-forces-sites-in-southern-lebanon/3930804",
+      "timestamp": "2026-05-08T04:05:00+03:00"
+    },
+    {
+      "headline": "Turkey Unveils First Intercontinental Ballistic Missile Yildirimhan",
+      "summary": "Turkey revealed its first ICBM with a 6,000km range and Mach 25 speed, representing a major advancement in Turkish defense capabilities and regional deterrence.",
+      "emoji": "🇹🇷⚔️",
+      "category": "Defense Industry",
+      "source": "Daily Sabah",
+      "url": "https://www.dailysabah.com/politics/turkiye-unveils-its-first-intercontinental-ballistic-missile-what-we-know/news",
+      "timestamp": "2026-05-08T04:05:00+03:00"
+    },
     {
       "headline": "US strikes Iranian military facilities after warship attacks in Strait of Hormuz",
       "summary": "The US military targeted Iranian missile sites, command centers, and surveillance nodes after Iran fired on US Navy ships in the Strait of Hormuz. President Trump threatened further strikes if Iran does not accept a peace deal.",
@@ -17,7 +53,23 @@
       "category": "Europe",
       "source": "BBC",
       "url": "https://www.bbc.com/news/world/economy-trump-iran-germany",
-      "timestamp": "2026-05-08T04:03:00+03:00"
+      "timestamp": "2026-05-08T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/6/a-stress-test-us-germany-rift-widens-as-iran-war-drags-on",
+          "angle": "US-Germany Rift Deepens Over Iran War as Trump Orders Troop Withdrawal",
+          "summary": "German Chancellor Merz criticized Trump for having \"no strategy\" on Iran, prompting the US to announce withdrawal of 5,000 troops from Germany. Berlin dispatched minesweepers to the Mediterranean as the diplomatic row escalates."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/world/economy-trump-iran-germany",
+        "https://www.aljazeera.com/news/2026/5/6/a-stress-test-us-germany-rift-widens-as-iran-war-drags-on"
+      ]
     },
     {
       "headline": "China announces suspended death sentences for former defense ministers",
@@ -44,7 +96,23 @@
       "category": "Ukraine-Russia War",
       "source": "BBC",
       "url": "https://www.bbc.com/news/world/europe/russia-victory-day-parade-no-tanks",
-      "timestamp": "2026-05-08T04:03:00+03:00"
+      "timestamp": "2026-05-08T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russia-warns-embassies-to-flee-kyiv-before-victory-day/",
+          "angle": "Russia Warns Embassies to Flee Kyiv Before Victory Day as Diplomats Refuse to Move",
+          "summary": "Moscow issued warnings to foreign embassies ahead of Victory Day celebrations, but diplomats say they have no plans to evacuate. Zelensky said the fate of Russia's parade \"depends\" on Ukraine's actions."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/world/europe/russia-victory-day-parade-no-tanks",
+        "https://kyivindependent.com/russia-warns-embassies-to-flee-kyiv-before-victory-day/"
+      ]
     },
     {
       "headline": "Saudi Arabia and Kuwait lift US military access restrictions",
@@ -325,15 +393,6 @@
       "timestamp": "2026-05-08T00:06:00+03:00"
     },
     {
-      "headline": "Russia Warns Embassies to Flee Kyiv Before Victory Day as Diplomats Refuse to Move",
-      "summary": "Moscow issued warnings to foreign embassies ahead of Victory Day celebrations, but diplomats say they have no plans to evacuate. Zelensky said the fate of Russia's parade \"depends\" on Ukraine's actions.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russia-warns-embassies-to-flee-kyiv-before-victory-day/",
-      "timestamp": "2026-05-08T00:06:00+03:00"
-    },
-    {
       "headline": "Kremlin Tightens Putin Security for Victory Day Amid Drone Threats",
       "summary": "Russia is implementing extra security measures for President Putin ahead of May 9 Victory Day celebrations, fearing Ukrainian attacks during the WWII commemorations.",
       "emoji": "🇷🇺",
@@ -584,15 +643,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/americas/canadian-dollar-forecasts-more-bullish-geopolitical-risk-ebbs-2026-05-07/",
       "timestamp": "2026-05-07T21:03:00+03:00"
-    },
-    {
-      "headline": "US-Germany Rift Deepens Over Iran War as Trump Orders Troop Withdrawal",
-      "summary": "German Chancellor Merz criticized Trump for having \"no strategy\" on Iran, prompting the US to announce withdrawal of 5,000 troops from Germany. Berlin dispatched minesweepers to the Mediterranean as the diplomatic row escalates.",
-      "emoji": "🇩🇪🇺🇸",
-      "category": "Europe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/6/a-stress-test-us-germany-rift-widens-as-iran-war-drags-on",
-      "timestamp": "2026-05-07T20:10:00+03:00"
     },
     {
       "headline": "Satellite Images Show Iran Hit 228 US Military Targets, Far More Than Reported",
@@ -2566,149 +2616,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/uk-announces-sanctions-targeting-russia-fighter-recruitment-drone-production-2026-05-05/",
       "timestamp": "2026-05-06T06:03:00+03:00"
-    },
-    {
-      "headline": "Trump Broke OPEC, He May Regret It",
-      "summary": "Military campaigns in Venezuela and Iran have weakened OPEC more than anyone expected, but the White House may ultimately face consequences for disrupting the cartel.",
-      "emoji": "🛢️🇺🇸",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/trump-broke-opec-he-may-regret-it-2026-05-05/",
-      "timestamp": "2026-05-06T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/commentary/reuters-open-interest/trump-broke-opec-he-may-regret-it-2026-05-05/",
-          "angle": "Trump Broke OPEC, but the Consequences May Prove Costly",
-          "summary": "US military actions in Venezuela and Iran have weakened OPEC beyond expectations, but the strategic gains may come at the price of reduced influence over global oil markets and heightened regional instability."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/commentary/reuters-open-interest/trump-broke-opec-he-may-regret-it-2026-05-05/",
-        "https://www.reuters.com/commentary/reuters-open-interest/trump-broke-opec-he-may-regret-it-2026-05-05/"
-      ]
-    },
-    {
-      "headline": "Asia Stranded Seafarers Suffer as Iran War Drags On",
-      "summary": "An unprecedented crisis is unfolding for 20,000 seafarers stranded in the Persian Gulf as the Strait of Hormuz closure leaves crews trapped on ships with no clear way out.",
-      "emoji": "🚢⚠️",
-      "category": "Middle East",
-      "source": "The Economist",
-      "url": "https://www.economist.com/asia/2026/05/05/asias-stranded-seafarers-suffer-as-the-iran-war-drags-on",
-      "timestamp": "2026-05-06T06:03:00+03:00"
-    },
-    {
-      "headline": "Indian Rupee Hits Record Low as US-Iran Tensions Spark Economic Fears",
-      "summary": "The Indian rupee slid to a record low as the fragile truce in the Middle East came under strain after new US-Iran attacks over the Strait of Hormuz, highlighting economic spillover risks from the conflict.",
-      "emoji": "🇮🇳💸",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/india/rupee-hits-record-low-fading-hopes-us-iran-peace-spotlight-economic-risks-2026-05-05/",
-      "timestamp": "2026-05-06T05:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/india/rupee-hits-record-low-fading-hopes-us-iran-peace-spotlight-economic-risks-2026-05-05/",
-          "angle": "Indian Rupee Hits Record Low as US-Iran Strains Mount",
-          "summary": "The Indian rupee slid to a record low as a fragile Middle East truce came under strain after the US and Iran launched new attacks to wrestle for control of the Strait of Hormuz, a key artery for global energy supplies."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/india/rupee-hits-record-low-fading-hopes-us-iran-peace-spotlight-economic-risks-2026-05-05/",
-        "https://www.reuters.com/world/india/rupee-hits-record-low-fading-hopes-us-iran-peace-spotlight-economic-risks-2026-05-05/"
-      ]
-    },
-    {
-      "headline": "Pacific Island Nations Face Fuel Shortages as Iran War Disrupts Supply Chains",
-      "summary": "The Asian Development Bank is coordinating regional support for Pacific nations struggling with soaring fuel costs, as the Iran conflict strains global energy distribution networks.",
-      "emoji": "🏝️⛽",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/sustainability/asian-development-banks-financial-response-iran-war-2026-05-05/",
-      "timestamp": "2026-05-06T05:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/business/transportation/jal-and-ana-s-frequent-flyer-miles-undercut-by-higher-fuel-surcharges",
-          "angle": "Iran war fuel shock undercuts value of Japan airline frequent flyer miles",
-          "summary": "JAL and ANA fuel surcharges are diminishing the appeal of reward miles as oil prices surge from Strait of Hormuz disruptions. Tokyo-London airfares have climbed 90% since conflict began."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Nikkei Asia"
-      ],
-      "urls": [
-        "https://www.reuters.com/sustainability/asian-development-banks-financial-response-iran-war-2026-05-05/",
-        "https://asia.nikkei.com/business/transportation/jal-and-ana-s-frequent-flyer-miles-undercut-by-higher-fuel-surcharges"
-      ]
-    },
-    {
-      "headline": "European Gas Prices Dip as US Moves to Reopen Strait of Hormuz",
-      "summary": "Dutch gas prices edged lower as US efforts to weaken Iranian control over the Strait of Hormuz provided hope for restored shipping lanes.",
-      "emoji": "🇪🇺⚡",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/sustainability/climate-energy/dutch-gas-prices-edge-lower-us-moves-open-strait-hormuz-2026-05-05/",
-      "timestamp": "2026-05-06T05:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/sustainability/climate-energy/dutch-gas-prices-edge-lower-us-moves-open-strait-hormuz-2026-05-05/",
-          "angle": "Dutch Gas Prices Edge Lower as US Moves to Open Strait of Hormuz",
-          "summary": "European natural gas prices fell as US efforts to weaken Iranian control over the Strait of Hormuz raised hopes for improved energy supply flows through the critical shipping lane."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/sustainability/climate-energy/dutch-gas-prices-edge-lower-us-moves-open-strait-hormuz-2026-05-05/",
-        "https://www.reuters.com/sustainability/climate-energy/dutch-gas-prices-edge-lower-us-moves-open-strait-hormuz-2026-05-05/"
-      ]
-    },
-    {
-      "headline": "US Army fires Tomahawk from Typhon system for first time in Philippines drills",
-      "summary": "The US Army successfully fired a Tomahawk missile from its Typhon Mid-Range Capability launcher during Balikatan exercises in the Philippines, marking a significant milestone for the new missile system deployed in the Indo-Pacific.",
-      "emoji": "🇺🇸🇵🇭",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3352548/us-army-fires-typhon-first-time-philippines-during-balikatan-drills",
-      "timestamp": "2026-05-06T04:15:00+03:00",
-      "perspectives": [
-        {
-          "source": "Straits Times",
-          "url": "https://www.straitstimes.com/asia/se-asia/us-army-fires-first-tomahawk-from-philippines-in-exercise",
-          "angle": "US fires first Tomahawk from Philippines during Balikatan exercises",
-          "summary": "The US Army conducted its first live-fire test of a Tomahawk missile from the Philippines using the Typhon mid-range missile system. The test comes amid heightened tensions with China over military exercises in the Pacific."
-        }
-      ],
-      "sources": [
-        "SCMP",
-        "Straits Times"
-      ],
-      "urls": [
-        "https://www.scmp.com/news/asia/southeast-asia/article/3352548/us-army-fires-typhon-first-time-philippines-during-balikatan-drills",
-        "https://www.straitstimes.com/asia/se-asia/us-army-fires-first-tomahawk-from-philippines-in-exercise"
-      ]
-    },
-    {
-      "headline": "ASEAN leaders under pressure to address economic fallout from Iran conflict",
-      "summary": "The escalating impact of the Iran war on Southeast Asia is expected to dominate this week's ASEAN Summit in the Philippines, as regional leaders grapple with economic spillover effects.",
-      "emoji": "🌏",
-      "category": "Asia-Pacific",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/location/southeast-asia/asean-leaders-under-pressure-to-address-economic-fallout-of-iran-conflict",
-      "timestamp": "2026-05-06T04:15:00+03:00"
     }
   ]
 }
