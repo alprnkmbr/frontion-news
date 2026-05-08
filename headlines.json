@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-08T06:06:40+03:00",
+  "lastUpdated": "2026-05-08T06:09:29+03:00",
   "headlines": [
+    {
+      "headline": "Hamas Operating Training Camps in Turkey for Attacks on Israel",
+      "summary": "Kan 11 News reports Hamas is using Turkish shooting ranges and drone schools to train operatives for future conflicts with Israel, raising tensions between Israel and Turkey.",
+      "emoji": "🇹🇷🇮🇱",
+      "category": "Middle East",
+      "source": "Israel National News",
+      "url": "https://www.israelnationalnews.com/news/426750",
+      "timestamp": "2026-05-08T06:07:00+03:00"
+    },
+    {
+      "headline": "North Korea to Deploy New Long-Range Artillery Targeting Seoul",
+      "summary": "North Korea announced it will deploy new long-range artillery systems capable of striking Seoul and commission its first destroyer, escalating military capabilities on the Korean Peninsula.",
+      "emoji": "🇰🇵🇰🇷",
+      "category": "Asia-Pacific",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/ap/ap-international/ap-north-korea-will-deploy-new-artillery-guns-targeting-seoul-and-commission-its-1st-destroyer/",
+      "timestamp": "2026-05-08T06:07:00+03:00"
+    },
+    {
+      "headline": "China to Supply J-35 Stealth Jets to Pakistan, Edge Over India",
+      "summary": "Chinese J-35 stealth fighter jets are set to give Pakistan an advantage over India in fifth-generation aircraft technology, as India lags in acquiring stealth capabilities.",
+      "emoji": "🇨🇳🇵🇰🇮🇳",
+      "category": "Asia-Pacific",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/politics/article/3352829/chinese-j-35-stealth-jets-set-give-pakistan-edge-over-india-fifth-generation-tech",
+      "timestamp": "2026-05-08T06:07:00+03:00"
+    },
+    {
+      "headline": "UAE Air Defenses Respond to Missile Threat as Regional Tensions Escalate",
+      "summary": "UAE authorities activated air defenses in response to a missile threat amid ongoing US-Iran hostilities, urging residents to follow official channels for safety updates.",
+      "emoji": "🇦🇪💥",
+      "category": "Middle East",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/middle-east/uae-says-its-air-defenses-responding-to-missile-threat/3930827",
+      "timestamp": "2026-05-08T06:07:00+03:00"
+    },
+    {
+      "headline": "Third Round of Lebanon-Israel Direct Talks Set for Next Week in Washington",
+      "summary": "Lebanon and Israel will hold their third round of direct negotiations in Washington next week, mediated by the US State Department, continuing unprecedented diplomatic engagement.",
+      "emoji": "🇱🇧🇮🇱🇺🇸",
+      "category": "Diplomacy",
+      "source": "Al Arabiya",
+      "url": "https://english.alarabiya.net/News/middle-east/2026/05/07/third-round-of-lebanonisrael-talks-to-be-held-next-week-us-official",
+      "timestamp": "2026-05-08T06:07:00+03:00"
+    },
     {
       "headline": "US-Iran resolution at UN faces Chinese and Russian vetoes",
       "summary": "The US urged countries to support a UN resolution demanding Iran halt attacks on the Strait of Hormuz, but diplomats say China and Russia are likely to veto it, highlighting geopolitical divisions over the conflict.",
@@ -8,7 +53,23 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/us-proposed-iran-resolution-un-faces-likely-vetoes-china-russia-2026-05-07/",
-      "timestamp": "2026-05-08T06:03:00+03:00"
+      "timestamp": "2026-05-08T06:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/asia/us-proposed-iran-resolution-at-un-faces-likely-vetoes-from-china-russia",
+          "angle": "US Iran Resolution at UN Faces Likely Vetoes from China and Russia",
+          "summary": "The US urged countries to support its UN resolution demanding Iran halt attacks and mining of waterways. China and Russia are expected to veto the measure."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Straits Times"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/us-proposed-iran-resolution-un-faces-likely-vetoes-china-russia-2026-05-07/",
+        "https://www.straitstimes.com/asia/us-proposed-iran-resolution-at-un-faces-likely-vetoes-from-china-russia"
+      ]
     },
     {
       "headline": "Pussy Riot protests Russia return to Venice Biennale",
@@ -17,7 +78,23 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/anti-kremlin-pussy-riot-demonstrate-venice-against-russias-biennale-return-2026-05-07/",
-      "timestamp": "2026-05-08T06:03:00+03:00"
+      "timestamp": "2026-05-08T06:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/italy-biennale-protest-russia-9ea82ea4d6e73949deb66e3fbea17348",
+          "angle": "Pussy Riot Protesters Swarm Russia's Venice Biennale Pavilion",
+          "summary": "Activists from Pussy Riot and FEMEN staged a protest against Russia's presence at the Venice Biennale, releasing colored smoke and swarming the pavilion in pink balaclavas."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/anti-kremlin-pussy-riot-demonstrate-venice-against-russias-biennale-return-2026-05-07/",
+        "https://apnews.com/article/italy-biennale-protest-russia-9ea82ea4d6e73949deb66e3fbea17348"
+      ]
     },
     {
       "headline": "Brazil Lula reports progress after Trump White House meeting",
@@ -26,7 +103,23 @@
       "category": "Latin America",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/americas/brazils-lula-visits-trump-washington-seeking-avert-new-us-trade-tariffs-2026-05-07/",
-      "timestamp": "2026-05-08T06:03:00+03:00"
+      "timestamp": "2026-05-08T06:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Hill",
+          "url": "https://thehill.com/policy/international/5868832-trump-lula-cuba-invasion/",
+          "angle": "Brazil's Lula says Trump indicated no plans to invade Cuba during White House meeting",
+          "summary": "Brazilian President Lula da Silva reported that Trump conveyed he has no intention of ordering a US invasion of Cuba during their White House discussion. The statement comes amid heightened US-Cuba tensions."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "The Hill"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/americas/brazils-lula-visits-trump-washington-seeking-avert-new-us-trade-tariffs-2026-05-07/",
+        "https://thehill.com/policy/international/5868832-trump-lula-cuba-invasion/"
+      ]
     },
     {
       "headline": "Serbia rejects local bid for Russian-owned NIS oil firm",
@@ -44,7 +137,23 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/us-oil-prices-jump-us-iran-hostilities-2026-05-07/",
-      "timestamp": "2026-05-08T06:03:00+03:00"
+      "timestamp": "2026-05-08T06:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/us-oil-prices-rebound-investors-assess-prospects-middle-east-peace-deal-2026-05-06/",
+          "angle": "Oil Prices Rebound as Markets Weigh Prospects of US-Iran Peace Deal",
+          "summary": "Crude prices rose over $1 after sharp losses in previous session, with investors optimistic about diplomatic progress to end the Middle East conflict and reopen the Strait of Hormuz."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/us-oil-prices-jump-us-iran-hostilities-2026-05-07/",
+        "https://www.reuters.com/business/energy/us-oil-prices-rebound-investors-assess-prospects-middle-east-peace-deal-2026-05-06/"
+      ]
     },
     {
       "headline": "US and Iran Exchange Fire in Strait of Hormuz, Testing Ceasefire",
@@ -372,15 +481,6 @@
       "timestamp": "2026-05-08T02:10:00+03:00"
     },
     {
-      "headline": "Brazil's Lula says Trump indicated no plans to invade Cuba during White House meeting",
-      "summary": "Brazilian President Lula da Silva reported that Trump conveyed he has no intention of ordering a US invasion of Cuba during their White House discussion. The statement comes amid heightened US-Cuba tensions.",
-      "emoji": "🇧🇷🇨🇺",
-      "category": "Latin America",
-      "source": "The Hill",
-      "url": "https://thehill.com/policy/international/5868832-trump-lula-cuba-invasion/",
-      "timestamp": "2026-05-08T02:10:00+03:00"
-    },
-    {
       "headline": "US troops withdrawal from Germany raises NATO concerns",
       "summary": "President Trump announced withdrawing 5,000 US troops from Germany as rifts over the Iran war widen with NATO allies. The move tests transatlantic security ties.",
       "emoji": "🇺🇸🇩🇪",
@@ -665,15 +765,6 @@
       "category": "Europe",
       "source": "Straits Times",
       "url": "https://www.straitstimes.com/world/europe/paris-public-prosecutor-opens-judicial-investigation-into-elon-musk-and-x",
-      "timestamp": "2026-05-07T22:10:00+03:00"
-    },
-    {
-      "headline": "US Iran Resolution at UN Faces Likely Vetoes from China and Russia",
-      "summary": "The US urged countries to support its UN resolution demanding Iran halt attacks and mining of waterways. China and Russia are expected to veto the measure.",
-      "emoji": "🇺🇳",
-      "category": "Diplomacy",
-      "source": "Straits Times",
-      "url": "https://www.straitstimes.com/asia/us-proposed-iran-resolution-at-un-faces-likely-vetoes-from-china-russia",
       "timestamp": "2026-05-07T22:10:00+03:00"
     },
     {
@@ -1316,15 +1407,6 @@
         "https://www.reuters.com/commentary/reuters-open-interest/booming-us-energy-exports-draw-scrutiny-domestic-fuel-prices-bite-2026-05-05/",
         "https://www.reuters.com/sustainability/asian-development-banks-financial-response-iran-war-2026-05-05/"
       ]
-    },
-    {
-      "headline": "Oil Prices Rebound as Markets Weigh Prospects of US-Iran Peace Deal",
-      "summary": "Crude prices rose over $1 after sharp losses in previous session, with investors optimistic about diplomatic progress to end the Middle East conflict and reopen the Strait of Hormuz.",
-      "emoji": "🛢️💰",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/us-oil-prices-rebound-investors-assess-prospects-middle-east-peace-deal-2026-05-06/",
-      "timestamp": "2026-05-07T11:03:00+03:00"
     },
     {
       "headline": "Gold Rises for Third Day on Hopes for US-Iran Peace Agreement",
@@ -2010,15 +2092,6 @@
       ]
     },
     {
-      "headline": "Pussy Riot Protesters Swarm Russia's Venice Biennale Pavilion",
-      "summary": "Activists from Pussy Riot and FEMEN staged a protest against Russia's presence at the Venice Biennale, releasing colored smoke and swarming the pavilion in pink balaclavas.",
-      "emoji": "🎭",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://apnews.com/article/italy-biennale-protest-russia-9ea82ea4d6e73949deb66e3fbea17348",
-      "timestamp": "2026-05-06T22:03:00+03:00"
-    },
-    {
       "headline": "FBI Searches Virginia Senate Leader's Office in Corruption Probe",
       "summary": "The FBI executed a search warrant at Virginia Senate Leader Louise Lucas's office as part of an ongoing corruption investigation.",
       "emoji": "🏛️",
@@ -2668,15 +2741,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3352508/asian-alternative-nato-how-cica-rethinking-middle-east-security",
       "timestamp": "2026-05-06T06:04:00+03:00"
-    },
-    {
-      "headline": "UK Sanctions Russia for Recruiting Migrants to Fight in Ukraine",
-      "summary": "Britain imposed sanctions on 35 people and entities involved in recruiting vulnerable migrants to fight for Russia against Ukraine, as well as those producing drones for the war effort.",
-      "emoji": "🇬🇧🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/uk-announces-sanctions-targeting-russia-fighter-recruitment-drone-production-2026-05-05/",
-      "timestamp": "2026-05-06T06:03:00+03:00"
     }
   ]
 }
