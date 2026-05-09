@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2026-05-09T12:06:41+03:00",
+  "lastUpdated": "2026-05-09T13:05:08+03:00",
   "headlines": [
     {
-      "headline": "CIA assesses Iran could withstand naval blockade for four months as Gulf clashes continue",
-      "summary": "A US intelligence analysis indicates Iran has stockpiles and resilience to endure a naval blockade for months, suggesting the Islamic Republic has not been forced to capitulate despite the US-led campaign in the Gulf.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/iran-us-war-hormuz-naval-blockade-us-proposal-6110471",
-      "timestamp": "2026-05-09T12:05:00+03:00"
+      "headline": "Bahrain Arrests 41 People Linked to Iran's IRGC",
+      "summary": "Bahrain's interior ministry announced the arrest of 41 individuals it says were connected to Iran's Revolutionary Guards, amid heightened regional tensions following the US-Iran conflict.",
+      "emoji": "🇧🇭🇮🇷",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/bahrain-says-it-has-arrested-41-people-linked-irans-irgc-2026-05-09/",
+      "timestamp": "2026-05-09T13:03:00+03:00"
+    },
+    {
+      "headline": "Trump Announces Russia-Ukraine 3-Day Ceasefire Agreement",
+      "summary": "President Trump said both Putin and Zelenskyy agreed to a three-day ceasefire and prisoner exchange, calling it a potential \"beginning of the end\" of the war.",
+      "emoji": "🕊️🇺🇦🇷🇺",
+      "category": "Diplomacy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/trump-russia-ukraine-war-ceasefire-prisoner-swap-007c385a9b81ba81b4b51c1a5b8ace9b",
+      "timestamp": "2026-05-09T13:03:00+03:00"
+    },
+    {
+      "headline": "Venice Biennale Torn by Controversy Over Russian Participation",
+      "summary": "Russia's return to the Venice Biennale has sparked outrage, with Ukraine's culture minister comparing it to \"inviting a serial killer to dinner with your friends\" as the art world grapples with war's cultural impact.",
+      "emoji": "🎨⚔️",
+      "category": "Europe",
+      "source": "France24",
+      "url": "https://www.france24.com/en/live-news/20260509-conflict-inflames-tensions-at-venice-biennale-of-art",
+      "timestamp": "2026-05-09T13:03:00+03:00"
     },
     {
       "headline": "Israeli artillery shells southern Lebanon, destroys homes in new strikes",
@@ -17,7 +35,23 @@
       "category": "Middle East",
       "source": "Anadolu",
       "url": "https://www.aa.com.tr/en/middle-east/israeli-army-shells-southern-lebanon-destroys-homes-in-new-strikes/3932161",
-      "timestamp": "2026-05-09T12:05:00+03:00"
+      "timestamp": "2026-05-09T12:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Anadolu",
+          "url": "https://www.aa.com.tr/en/middle-east/hezbollah-says-it-carried-out-13-attacks-on-israeli-forces-sites-in-southern-lebanon/3930804",
+          "angle": "Hezbollah Claims 13 Attacks on Israeli Forces in Southern Lebanon",
+          "summary": "Hezbollah announced it carried out drone and artillery strikes on Israeli troops, Merkava tanks, an Iron Dome platform, and military positions in southern Lebanon amid ongoing cross-border escalation."
+        }
+      ],
+      "sources": [
+        "Anadolu",
+        "Anadolu"
+      ],
+      "urls": [
+        "https://www.aa.com.tr/en/middle-east/israeli-army-shells-southern-lebanon-destroys-homes-in-new-strikes/3932161",
+        "https://www.aa.com.tr/en/middle-east/hezbollah-says-it-carried-out-13-attacks-on-israeli-forces-sites-in-southern-lebanon/3930804"
+      ]
     },
     {
       "headline": "Erdogan says Europe without Türkiye is incomplete and vulnerable in crisis management",
@@ -35,15 +69,6 @@
       "category": "Africa",
       "source": "France 24",
       "url": "https://www.france24.com/en/africa/20260509-after-losing-influence-in-west-africa-france-seeks-a-regional-reset-at-kenya-summit",
-      "timestamp": "2026-05-09T12:05:00+03:00"
-    },
-    {
-      "headline": "Starmer vows to stay on after Labour suffers local election drubbing",
-      "summary": "British Prime Minister Keir Starmer rejected calls to resign after local elections delivered heavy losses for the Labour Party, insisting he will continue leading despite the poor results.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260508-starmer-says-he-won-t-quit-after-local-elections-deliver-drubbing",
       "timestamp": "2026-05-09T12:05:00+03:00"
     },
     {
@@ -121,7 +146,39 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/us-iran-no-closer-ending-war-gulf-clashes-flare-2026-05-09/",
-      "timestamp": "2026-05-09T11:03:00+03:00"
+      "timestamp": "2026-05-09T11:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "CNA",
+          "url": "https://www.channelnewsasia.com/world/iran-us-war-hormuz-naval-blockade-us-proposal-6110471",
+          "angle": "CIA assesses Iran could withstand naval blockade for four months as Gulf clashes continue",
+          "summary": "A US intelligence analysis indicates Iran has stockpiles and resilience to endure a naval blockade for months, suggesting the Islamic Republic has not been forced to capitulate despite the US-led campaign in the Gulf."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/uae-countering-iranian-air-attack-after-trump-says-ceasefire-still-effect-2026-05-08/",
+          "angle": "CIA Report: Iran Could Withstand Hormuz Blockade for Four Months",
+          "summary": "A US intelligence analysis concludes Tehran has stockpiles to survive a naval blockade for months, as fighting flares in the Gulf despite ongoing ceasefire negotiations."
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro",
+          "angle": "Iran accuses US of reckless military adventure as Hormuz clashes continue",
+          "summary": "Iran's Foreign Minister Abbas Araghchi accused the US of opting for military action whenever diplomacy is on the table, as both sides exchanged attacks in the Strait of Hormuz and the US enforced a naval blockade of Iranian ports."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "CNA",
+        "Reuters",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/us-iran-no-closer-ending-war-gulf-clashes-flare-2026-05-09/",
+        "https://www.channelnewsasia.com/world/iran-us-war-hormuz-naval-blockade-us-proposal-6110471",
+        "https://www.reuters.com/world/middle-east/uae-countering-iranian-air-attack-after-trump-says-ceasefire-still-effect-2026-05-08/",
+        "https://www.bbc.com/news/articles/c99lpn9ze8ro"
+      ]
     },
     {
       "headline": "US Warns EU of Higher Tariffs if Trade Deal Misses July 4 Deadline",
@@ -278,19 +335,19 @@
       "timestamp": "2026-05-09T09:03:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/russia-victory-day-parade-security-moscow-may-9-7cb7b5cbfbaf993dadfe9bafb5cf5262",
-          "angle": "Russia Holds Scaled-Back Victory Day Parade Amid Ukraine War",
-          "summary": "Moscow commemorated Victory Day with a reduced military parade featuring no tanks or heavy equipment, reflecting the strain of the ongoing conflict in Ukraine."
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/05/09/world/europe/russia-ukraine-war-death-toll.html",
+          "angle": "Russia Has Lost Over 350,000 Soldiers in Ukraine War",
+          "summary": "A new estimate finds Russia has lost more than 350,000 soldiers, raising the prospect that total casualties on both sides may approach half a million dead as the war drags on."
         }
       ],
       "sources": [
         "Reuters",
-        "AP News"
+        "New York Times"
       ],
       "urls": [
         "https://www.reuters.com/business/aerospace-defense/russia-holds-scaled-back-ww2-victory-parade-worries-over-war-ukraine-deepen-2026-05-08/",
-        "https://apnews.com/article/russia-victory-day-parade-security-moscow-may-9-7cb7b5cbfbaf993dadfe9bafb5cf5262"
+        "https://www.nytimes.com/2026/05/09/world/europe/russia-ukraine-war-death-toll.html"
       ]
     },
     {
@@ -681,31 +738,6 @@
       "timestamp": "2026-05-09T04:03:00+03:00"
     },
     {
-      "headline": "CIA Report: Iran Could Withstand Hormuz Blockade for Four Months",
-      "summary": "A US intelligence analysis concludes Tehran has stockpiles to survive a naval blockade for months, as fighting flares in the Gulf despite ongoing ceasefire negotiations.",
-      "emoji": "🇮🇷⚓",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/uae-countering-iranian-air-attack-after-trump-says-ceasefire-still-effect-2026-05-08/",
-      "timestamp": "2026-05-09T04:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "CNA",
-          "url": "https://www.channelnewsasia.com/world/iran-us-war-hormuz-naval-blockade-us-proposal-6110471",
-          "angle": "CIA report: Iran could withstand Hormuz blockade for four months",
-          "summary": "US intelligence assessment shows Iran has stockpiles and resilience to endure a naval blockade for months, raising questions about the effectiveness of a blockade strategy as fighting continues in the Gulf."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "CNA"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/uae-countering-iranian-air-attack-after-trump-says-ceasefire-still-effect-2026-05-08/",
-        "https://www.channelnewsasia.com/world/iran-us-war-hormuz-naval-blockade-us-proposal-6110471"
-      ]
-    },
-    {
       "headline": "US Revises UN Iran Resolution, China and Russia Still Expected to Veto",
       "summary": "Washington revised its proposed UN resolution demanding Iran halt attacks in the Strait of Hormuz, but diplomats say the changes are unlikely to prevent Chinese and Russian vetoes.",
       "emoji": "🇺🇳",
@@ -834,15 +866,6 @@
       "timestamp": "2026-05-09T02:08:00+03:00"
     },
     {
-      "headline": "Iran accuses US of reckless military adventure as Hormuz clashes continue",
-      "summary": "Iran's Foreign Minister Abbas Araghchi accused the US of opting for military action whenever diplomacy is on the table, as both sides exchanged attacks in the Strait of Hormuz and the US enforced a naval blockade of Iranian ports.",
-      "emoji": "🇮🇷🇺🇸",
-      "category": "US-Iran War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro",
-      "timestamp": "2026-05-09T02:05:00+03:00"
-    },
-    {
       "headline": "Japan Sees Largest Anti-War Protests in Decades Over Defense Expansion",
       "summary": "Thousands of protesters gathered in Tokyo and other cities against Prime Minister Sanae Takaichi moves to lift arms export restrictions and expand military role abroad, challenging Japan post-war pacifist constitution.",
       "emoji": "🇯🇵",
@@ -895,6 +918,31 @@
       "timestamp": "2026-05-09T00:03:00+03:00"
     },
     {
+      "headline": "Starmer Vows to Stay On Despite Labour Election Disaster",
+      "summary": "Prime Minister Keir Starmer insisted he would not resign after disastrous local elections saw Labour lose thousands of council seats and control of major cities including Birmingham, while Reform UK made historic gains.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "AP News",
+      "url": "https://apnews.com/article/britain-elections-labour-starmer-reform-farage-f17a122a0cfcc3595ef01f142517b0b6",
+      "timestamp": "2026-05-08T23:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "France 24",
+          "url": "https://www.france24.com/en/europe/20260508-starmer-says-he-won-t-quit-after-local-elections-deliver-drubbing",
+          "angle": "Starmer vows to stay on after Labour suffers local election drubbing",
+          "summary": "British Prime Minister Keir Starmer rejected calls to resign after local elections delivered heavy losses for the Labour Party, insisting he will continue leading despite the poor results."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "France 24"
+      ],
+      "urls": [
+        "https://apnews.com/article/britain-elections-labour-starmer-reform-farage-f17a122a0cfcc3595ef01f142517b0b6",
+        "https://www.france24.com/en/europe/20260508-starmer-says-he-won-t-quit-after-local-elections-deliver-drubbing"
+      ]
+    },
+    {
       "headline": "UK Elections: Reform UK Surges as Labour Suffers Major Losses",
       "summary": "Nigel Farage's hard-right Reform UK party made significant gains in England's local elections while Keir Starmer's Labour Party suffered major losses, with pro-independence parties now governing three of the UK's four nations.",
       "emoji": "🇬🇧🗳️",
@@ -918,15 +966,6 @@
         "https://www.reuters.com/world/uk/divided-kingdom-pro-independence-parties-surge-across-britain-2026-05-08/",
         "https://www.reuters.com/world/uk/uks-labour-party-suffers-heavy-early-losses-reform-gains-elections-2026-05-08/"
       ]
-    },
-    {
-      "headline": "Starmer Vows to Stay On Despite Labour Election Disaster",
-      "summary": "Prime Minister Keir Starmer insisted he would not resign after disastrous local elections saw Labour lose thousands of council seats and control of major cities including Birmingham, while Reform UK made historic gains.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://apnews.com/article/britain-elections-labour-starmer-reform-farage-f17a122a0cfcc3595ef01f142517b0b6",
-      "timestamp": "2026-05-08T23:03:00+03:00"
     },
     {
       "headline": "Pope Leo XIV Marks First Year Amid Tensions With Trump",
@@ -1968,15 +2007,6 @@
       "timestamp": "2026-05-08T04:05:00+03:00"
     },
     {
-      "headline": "Hezbollah Claims 13 Attacks on Israeli Forces in Southern Lebanon",
-      "summary": "Hezbollah announced it carried out drone and artillery strikes on Israeli troops, Merkava tanks, an Iron Dome platform, and military positions in southern Lebanon amid ongoing cross-border escalation.",
-      "emoji": "🇱🇧🇮🇱",
-      "category": "Middle East",
-      "source": "Anadolu",
-      "url": "https://www.aa.com.tr/en/middle-east/hezbollah-says-it-carried-out-13-attacks-on-israeli-forces-sites-in-southern-lebanon/3930804",
-      "timestamp": "2026-05-08T04:05:00+03:00"
-    },
-    {
       "headline": "Turkey Unveils First Intercontinental Ballistic Missile Yildirimhan",
       "summary": "Turkey revealed its first ICBM with a 6,000km range and Mach 25 speed, representing a major advancement in Turkish defense capabilities and regional deterrence.",
       "emoji": "🇹🇷⚔️",
@@ -2826,73 +2856,6 @@
       "source": "Oil Price",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Crunch-Prompts-Plastics-Crisis-in-Asia.html",
       "timestamp": "2026-05-07T12:06:00+03:00"
-    },
-    {
-      "headline": "TikTok Invests Record $25 Billion in Thailand Digital Infrastructure",
-      "summary": "Chinese firm ByteDance makes massive investment to expand data centers and storage in Thailand, deepening digital infrastructure ties in Southeast Asia.",
-      "emoji": "🇹🇭💾",
-      "category": "Technology",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/tech/article/3352736/tiktok-makes-record-us25b-investment-expand-digital-infrastructure-thailand",
-      "timestamp": "2026-05-07T12:06:00+03:00"
-    },
-    {
-      "headline": "Pope Leo to Visit Canary Islands on Spain Trip",
-      "summary": "Pope Leo will visit two of the Canary Islands, major entry points for migrants braving dangerous Atlantic waters to reach Europe, as part of a tour of Spain next month.",
-      "emoji": "🇪🇸⛪",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/pope-visit-canary-islands-migrant-entry-point-trip-spain-2026-05-06/",
-      "timestamp": "2026-05-07T12:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/hantavirus-cruise-ship-e5b35d12be9dc30213d7a2b8b4955a88",
-          "angle": "Spain readies evacuations as hantavirus-hit cruise ship heads for Canary Islands",
-          "summary": "Spanish authorities prepare to receive over 140 passengers and crew from a cruise ship where at least three passengers have died. US and UK arranging repatriation flights for their citizens."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/uk/uk-advises-two-returnees-hantavirus-hit-cruise-ship-selfisolate-2026-05-06/",
-          "angle": "UK Advises Hantavirus Cruise Ship Returnees to Self-Isolate",
-          "summary": "British health authorities advised two people who returned from the hantavirus-hit cruise ship MV Hondius to self-isolate. The ship departed for Spain's Canary Islands after three evacuations."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/pope-visit-canary-islands-migrant-entry-point-trip-spain-2026-05-06/",
-        "https://apnews.com/article/hantavirus-cruise-ship-e5b35d12be9dc30213d7a2b8b4955a88",
-        "https://www.reuters.com/world/uk/uk-advises-two-returnees-hantavirus-hit-cruise-ship-selfisolate-2026-05-06/"
-      ]
-    },
-    {
-      "headline": "Trump Says Iran Wants to Make a Deal",
-      "summary": "US President Donald Trump stated that Iran wants to negotiate and make a deal, adding that the US was doing very well in Iran and operations were going smoothly. Tehran is reportedly reviewing a US peace proposal.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/trump-says-iran-wants-make-deal-2026-05-06/",
-      "timestamp": "2026-05-07T12:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al-Monitor",
-          "url": "https://www.al-monitor.com/originals/2026/05/us-iran-move-toward-deal-framework-after-trump-halts-hormuz-operation",
-          "angle": "US-Iran Deal Framework Emerging After Trump Pauses Hormuz Operation",
-          "summary": "The US and Iran are moving toward a negotiation framework after Trump halted a maritime escort mission in the Strait of Hormuz. Iran is reviewing a US proposal while key sticking points over uranium enrichment remain unresolved."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al-Monitor"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/trump-says-iran-wants-make-deal-2026-05-06/",
-        "https://www.al-monitor.com/originals/2026/05/us-iran-move-toward-deal-framework-after-trump-halts-hormuz-operation"
-      ]
     }
   ]
 }
