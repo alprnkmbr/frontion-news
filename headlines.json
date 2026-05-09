@@ -1,13 +1,49 @@
 {
-  "lastUpdated": "2026-05-09T08:04:30+03:00",
+  "lastUpdated": "2026-05-09T08:09:27+03:00",
   "headlines": [
     {
-      "headline": "US Disables Two Iranian Tankers in Strait of Hormuz as Ceasefire Strains",
-      "summary": "US forces fired on and disabled two Iranian oil tankers attempting to breach the American blockade of Iranian ports, following overnight exchanges of fire between US and Iranian forces in the strategic waterway. Iran accused the US of \"reckless military adventure\" while Washington awaits Tehran's response to its latest peace proposal.",
-      "emoji": "🇺🇸🇮🇷⚔️",
-      "category": "US-Iran War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-israel-war-may-8-2026-6490db55a65880a61a6233eff7acc68b",
+      "headline": "Belarus Expands Military Infrastructure With Russian Coordination",
+      "summary": "Ukrainian border officials report Belarus is developing training grounds and logistics routes that could support Russian operations against Ukraine, though no immediate offensive threat exists.",
+      "emoji": "🇧🇾",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/belarus-develops-military-training-grounds-and-logistics-routes-in-cooperation-with-russia-border-officials-say/",
+      "timestamp": "2026-05-09T08:10:00+03:00"
+    },
+    {
+      "headline": "Poland Signs Record €44 Billion EU Defense Loan",
+      "summary": "Poland becomes the largest beneficiary of the EU SAFE program, securing preferential loans for defense modernization as Europe accelerates rearmament amid Russian threat and concerns over US commitment.",
+      "emoji": "🇵🇱",
+      "category": "Europe",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/live-news/20260508-poland-signs-44-bn-euro-eu-defence-loan-deal-to-modernise-military",
+      "timestamp": "2026-05-09T08:10:00+03:00"
+    },
+    {
+      "headline": "Russia Still Outproducing EU Militarily, Defence Commissioner Warns",
+      "summary": "EU Defence Commissioner Andrius Kubilius says Russia produces more ammunition in three months than NATO produces in a year, urging European defense industry to scale up faster.",
+      "emoji": "🇪🇺",
+      "category": "Defense Industry",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/my-europe/2026/05/08/russia-is-still-outproducing-us-militarily-eu-defence-commissioner-tells-euronews",
+      "timestamp": "2026-05-09T08:10:00+03:00"
+    },
+    {
+      "headline": "Russia and Ukraine Confirm 3-Day Ceasefire With 1,000 Prisoner Swap",
+      "summary": "Trump announces Russia-Ukraine ceasefire from May 9-11 with prisoner exchange of 1,000 from each side, though Ukraine expresses skepticism about Russian compliance.",
+      "emoji": "🕊️",
+      "category": "Ukraine-Russia War",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/flashpoints/ukraine/2026/05/08/russia-ukraine-to-enter-temporary-ceasefire-with-prisoner-exchange-trump-says/",
+      "timestamp": "2026-05-09T08:10:00+03:00"
+    },
+    {
+      "headline": "Oil Prices Whipsaw as Iran Conflict Shakes Global Markets",
+      "summary": "Crude oil swung from $88 to $107 per barrel as Iran-UAE attacks and Strait of Hormuz disruptions roiled markets, with WTI settling near $97 amid ongoing US-Iran tensions.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Oil Price",
+      "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Whipsaw-as-US-Iran-Conflict-Shakes-Markets.html",
       "timestamp": "2026-05-09T08:10:00+03:00"
     },
     {
@@ -17,7 +53,23 @@
       "category": "Cyber",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/ce3pq0136eqo",
-      "timestamp": "2026-05-09T08:10:00+03:00"
+      "timestamp": "2026-05-09T08:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/ce3pq0136eqo",
+          "angle": "Major cyber attack disrupts thousands of universities and schools worldwide",
+          "summary": "Hacking group ShinyHunters claimed responsibility for an attack on Canvas academic software, affecting approximately 9,000 institutions globally. Students faced exam cancellations and coursework disruptions across US, Canada, Australia and Europe."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/ce3pq0136eqo",
+        "https://www.bbc.com/news/articles/ce3pq0136eqo"
+      ]
     },
     {
       "headline": "Hungary Swears in New Prime Minister After Viktor Orban Era Ends",
@@ -35,7 +87,23 @@
       "category": "Africa",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cy4287vpvl7o",
-      "timestamp": "2026-05-09T08:10:00+03:00"
+      "timestamp": "2026-05-09T08:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cy4287vpvl7o",
+          "angle": "South African Opposition Demands Ramaphosa Resign After Court Ruling",
+          "summary": "Opposition leader Julius Malema called for President Cyril Ramaphosa to resign after the Constitutional Court ruled parliament violated the constitution by blocking impeachment proceedings over the Phala Phala cash theft scandal."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cy4287vpvl7o",
+        "https://www.bbc.com/news/articles/cy4287vpvl7o"
+      ]
     },
     {
       "headline": "Mystery Naval Drone With Explosives Found in Greek Waters",
@@ -471,15 +539,6 @@
       "timestamp": "2026-05-09T04:03:00+03:00"
     },
     {
-      "headline": "Ex-NATO Chief Warns of Alliance Disintegration",
-      "summary": "Former NATO Secretary General Anders Fogh Rasmussen warned of potential alliance disintegration as European countries increasingly take leadership roles while the US role recedes under Trump administration policies.",
-      "emoji": "🏛️",
-      "category": "Europe",
-      "source": "Politico",
-      "url": "https://www.politico.com/news/2026/05/08/anders-fogh-rasmussen-interview-nato-00911431",
-      "timestamp": "2026-05-09T03:05:00+03:00"
-    },
-    {
       "headline": "US Strikes Two Iranian-Flagged Oil Tankers in Strait of Hormuz",
       "summary": "US Central Command confirmed strikes on two empty Iranian oil tankers in the Strait of Hormuz as tensions escalate despite ongoing ceasefire negotiations. The incident marks another challenge to the fragile truce.",
       "emoji": "🛢️⚔️",
@@ -491,34 +550,35 @@
         {
           "source": "AP News",
           "url": "https://apnews.com/article/iran-us-israel-war-may-8-2026-6490db55a65880a61a6233eff7acc68b",
-          "angle": "US Forces Disable Two Iranian Tankers in Hormuz Blockade Enforcement",
-          "summary": "US Central Command said it fired precision munitions into the smokestacks of two Iranian tankers attempting to breach the US naval blockade, as Washington awaits Iran response to peace proposals."
+          "angle": "US Disables Two Iranian Tankers in Strait of Hormuz as Ceasefire Strains",
+          "summary": "US forces fired on and disabled two Iranian oil tankers attempting to breach the American blockade of Iranian ports, following overnight exchanges of fire between US and Iranian forces in the strategic waterway. Iran accused the US of \"reckless military adventure\" while Washington awaits Tehran's response to its latest peace proposal."
         },
         {
           "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/first-chinese-product-tanker-attacked-monday-near-strait-hormuz-caixin-reports-2026-05-07/",
-          "angle": "Chinese-owned oil tanker attacked near Strait of Hormuz",
-          "summary": "A Chinese-owned oil products tanker was attacked near the Strait of Hormuz on Monday, according to Chinese media, as the US launched and then suspended a plan to help stranded vessels transiting the vital waterway."
-        },
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/live/world-6c4g4093dy39o",
-          "angle": "US strikes Iranian military facilities after warship attacks in Strait of Hormuz",
-          "summary": "The US military targeted Iranian missile sites, command centers, and surveillance nodes after Iran fired on US Navy ships in the Strait of Hormuz. President Trump threatened further strikes if Iran does not accept a peace deal."
+          "url": "https://www.reuters.com/world/iran-war-live-us-expects-response-friday-trump-says-ceasefire-holds-after-strait-2026-05-08/",
+          "angle": "US and Iran clash in Strait of Hormuz as Tehran mulls ceasefire proposal",
+          "summary": "US forces carried out retaliatory strikes on Iranian targets after Tehran attacked destroyers in the Strait of Hormuz. Washington awaits Irans response to a ceasefire proposal as Trump insists the truce still holds."
         }
       ],
       "sources": [
         "Reuters",
         "AP News",
-        "Reuters",
-        "BBC"
+        "Reuters"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/us-forces-strike-two-empty-iranian-oil-tankers-central-command-says-2026-05-08/",
         "https://apnews.com/article/iran-us-israel-war-may-8-2026-6490db55a65880a61a6233eff7acc68b",
-        "https://www.reuters.com/world/china/first-chinese-product-tanker-attacked-monday-near-strait-hormuz-caixin-reports-2026-05-07/",
-        "https://www.bbc.com/news/live/world-6c4g4093dy39o"
+        "https://www.reuters.com/world/iran-war-live-us-expects-response-friday-trump-says-ceasefire-holds-after-strait-2026-05-08/"
       ]
+    },
+    {
+      "headline": "Ex-NATO Chief Warns of Alliance Disintegration",
+      "summary": "Former NATO Secretary General Anders Fogh Rasmussen warned of potential alliance disintegration as European countries increasingly take leadership roles while the US role recedes under Trump administration policies.",
+      "emoji": "🏛️",
+      "category": "Europe",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2026/05/08/anders-fogh-rasmussen-interview-nato-00911431",
+      "timestamp": "2026-05-09T03:05:00+03:00"
     },
     {
       "headline": "Foreign Militias Deployed in Iran to Enforce Regime Crackdown",
@@ -555,40 +615,6 @@
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro",
       "timestamp": "2026-05-09T02:05:00+03:00"
-    },
-    {
-      "headline": "Major cyber attack disrupts thousands of universities and schools worldwide",
-      "summary": "Hacking group ShinyHunters claimed responsibility for an attack on Canvas academic software, affecting approximately 9,000 institutions globally. Students faced exam cancellations and coursework disruptions across US, Canada, Australia and Europe.",
-      "emoji": "💻",
-      "category": "Cyber",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ce3pq0136eqo",
-      "timestamp": "2026-05-09T02:05:00+03:00"
-    },
-    {
-      "headline": "South African Opposition Demands Ramaphosa Resign After Court Ruling",
-      "summary": "Opposition leader Julius Malema called for President Cyril Ramaphosa to resign after the Constitutional Court ruled parliament violated the constitution by blocking impeachment proceedings over the Phala Phala cash theft scandal.",
-      "emoji": "🇿🇦",
-      "category": "Africa",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cy4287vpvl7o",
-      "timestamp": "2026-05-09T01:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Deutsche Welle",
-          "url": "https://www.dw.com/en/south-africa-constitutional-court-orders-parliament-to-revisit-ramaphosa-impeachment-proceedings/a-77090630",
-          "angle": "South Africa Constitutional Court orders Ramaphosa impeachment review",
-          "summary": "South Africa's Constitutional Court ruled that parliament violated the constitution by blocking impeachment proceedings against President Cyril Ramaphosa over the Phala Phala farm scandal. Opposition leader Julius Malema called for his resignation."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "Deutsche Welle"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/cy4287vpvl7o",
-        "https://www.dw.com/en/south-africa-constitutional-court-orders-parliament-to-revisit-ramaphosa-impeachment-proceedings/a-77090630"
-      ]
     },
     {
       "headline": "Japan Sees Largest Anti-War Protests in Decades Over Defense Expansion",
@@ -1087,31 +1113,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/russia-ukraine-war-moscow-parade-ceasefire-cde7ec7a0fb10a3e2563171b931485e8",
       "timestamp": "2026-05-08T18:03:00+03:00"
-    },
-    {
-      "headline": "US and Iran clash in Strait of Hormuz as Tehran mulls ceasefire proposal",
-      "summary": "US forces carried out retaliatory strikes on Iranian targets after Tehran attacked destroyers in the Strait of Hormuz. Washington awaits Irans response to a ceasefire proposal as Trump insists the truce still holds.",
-      "emoji": "🇺🇸🇮🇷⚔️",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/iran-war-live-us-expects-response-friday-trump-says-ceasefire-holds-after-strait-2026-05-08/",
-      "timestamp": "2026-05-08T17:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro",
-          "angle": "US-Iran Ceasefire Tested by Naval Skirmish in Strait of Hormuz",
-          "summary": "US forces disabled two Iranian oil tankers after exchanging fire with Iranian forces overnight. Iran accused the US of violating the ceasefire while Washington said it acted in response to attacks on three Navy ships. Trump insisted the ceasefire remains intact despite the escalation."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/iran-war-live-us-expects-response-friday-trump-says-ceasefire-holds-after-strait-2026-05-08/",
-        "https://www.bbc.com/news/articles/c99lpn9ze8ro"
-      ]
     },
     {
       "headline": "NPR: UAE intercepts missiles as US-Iran fighting flares",
@@ -2900,31 +2901,6 @@
       "source": "The Economist",
       "url": "https://www.economist.com/asia/2026/05/06/america-is-massing-troops-near-taiwan-to-deter-troublemaking-by-china",
       "timestamp": "2026-05-07T08:05:00+03:00"
-    },
-    {
-      "headline": "Russian Drone Attacks Spill Into NATO Territory in Romania",
-      "summary": "Four years of war in Ukraine is taking a toll on neighboring Romania as Russian drones repeatedly cross into NATO territory. Residents live with the constant threat of weapons of war entering their airspace.",
-      "emoji": "🇷🇴",
-      "category": "Ukraine-Russia War",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/06/world/europe/ukraine-russia-romania-drones-nato-drone-wall.html",
-      "timestamp": "2026-05-07T08:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/05/06/world/europe/ukraine-russia-romania-drones-nato-drone-wall.html",
-          "angle": "Ukraine war spills into NATO territory as drones hit Romania",
-          "summary": "Four years of battle in Ukraine is taking a toll on neighboring Romanians, with drones from the conflict crossing into NATO territory even as the war itself has not crossed the border."
-        }
-      ],
-      "sources": [
-        "New York Times",
-        "New York Times"
-      ],
-      "urls": [
-        "https://www.nytimes.com/2026/05/06/world/europe/ukraine-russia-romania-drones-nato-drone-wall.html",
-        "https://www.nytimes.com/2026/05/06/world/europe/ukraine-russia-romania-drones-nato-drone-wall.html"
-      ]
     }
   ]
 }
