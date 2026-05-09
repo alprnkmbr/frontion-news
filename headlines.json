@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-09T14:08:21+03:00",
+  "lastUpdated": "2026-05-09T15:05:29+03:00",
   "headlines": [
     {
-      "headline": "US strikes Iranian tankers as Gulf tensions threaten ceasefire",
-      "summary": "US forces struck tankers attempting to break Iran blockade in the Gulf of Oman; Iran questioned American diplomacy seriousness amid renewed clashes.",
-      "emoji": "🇺🇸🇮🇷",
+      "headline": "Trump announces three-day Russia-Ukraine ceasefire with prisoner swap",
+      "summary": "Donald Trump announced a three-day ceasefire between Russia and Ukraine, including a 1,000-for-1,000 prisoner exchange. Both Putin and Zelensky agreed to the truce after accusing each other of violations during Victory Day celebrations.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c202zn5gg0lo",
+      "timestamp": "2026-05-09T15:05:00+03:00"
+    },
+    {
+      "headline": "Fragile US-Iran ceasefire holds as Bahrain arrests 41 linked to IRGC",
+      "summary": "A tenuous ceasefire appeared to be holding after US forces struck two Iranian oil tankers attempting to breach the American blockade. Bahrain arrested 41 people allegedly linked to Iran's Revolutionary Guard as Tehran weighs a US peace proposal.",
+      "emoji": "🇮🇷",
       "category": "US-Iran War",
-      "source": "Al-Monitor",
-      "url": "https://www.al-monitor.com/originals/2026/05/us-fire-iran-tankers-sparks-reprisals-deal-hangs-balance-0",
-      "timestamp": "2026-05-09T14:07:00+03:00"
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-war-0c25b2ca53ee90bc19bfbf6c44a66e6e",
+      "timestamp": "2026-05-09T15:05:00+03:00"
+    },
+    {
+      "headline": "Putin leads scaled-down Victory Day parade, vows victory in Ukraine",
+      "summary": "Russian President Vladimir Putin declared confidence in victory during Moscow's Victory Day parade, which for the first time in nearly two decades featured no tanks or heavy military equipment. Security was tight amid a US-brokered ceasefire.",
+      "emoji": "🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-victory-day-parade-security-moscow-may-9-7cb7b5cbfbaf993dadfe9bafb5cf5262",
+      "timestamp": "2026-05-09T15:05:00+03:00"
+    },
+    {
+      "headline": "WHO chief travels to Tenerife for hantavirus cruise ship evacuation",
+      "summary": "WHO Director-General Tedros Adhanom Ghebreyesus arrived in Spain to oversee the evacuation of over 140 passengers and crew from a hantavirus-stricken cruise ship heading to the Canary Islands. Three people have died and five are infected in the outbreak.",
+      "emoji": "🚢",
+      "category": "Health",
+      "source": "AP News",
+      "url": "https://apnews.com/article/hantavirus-cruise-ship-hondius-spain-53d606306e31bf220d92614d9de519dd",
+      "timestamp": "2026-05-09T15:05:00+03:00"
+    },
+    {
+      "headline": "Trump feuds with allies likely to outlast Iran war, analysts warn",
+      "summary": "Trump's words and deeds have revived fears among Washington's long-standing friends that the United States might be unreliable in a future crisis, with diplomatic tensions expected to persist even after the Iran conflict ends.",
+      "emoji": "🇺🇸",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/trumps-feuds-tensions-with-allies-likely-outlast-iran-war-2026-05-09/",
+      "timestamp": "2026-05-09T15:05:00+03:00"
     },
     {
       "headline": "China unveils worlds first dual-core quantum computer",
@@ -26,7 +62,23 @@
       "category": "Asia-Pacific",
       "source": "SCMP",
       "url": "https://www.scmp.com/week-asia/politics/article/3352966/why-japans-mogami-class-warship-winning-over-new-zealand",
-      "timestamp": "2026-05-09T14:07:00+03:00"
+      "timestamp": "2026-05-09T14:07:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/politics/article/3352966/why-japans-mogami-class-warship-winning-over-new-zealand",
+          "angle": "Japan's Mogami-Class Warship Favored for New Zealand Frigate Competition",
+          "summary": "Japan's Mogami-class frigate has emerged as the leading contender for New Zealand's next-generation warship program, competing against Britain's Type 31 design, with Australia potentially influencing the outcome."
+        }
+      ],
+      "sources": [
+        "SCMP",
+        "SCMP"
+      ],
+      "urls": [
+        "https://www.scmp.com/week-asia/politics/article/3352966/why-japans-mogami-class-warship-winning-over-new-zealand",
+        "https://www.scmp.com/week-asia/politics/article/3352966/why-japans-mogami-class-warship-winning-over-new-zealand"
+      ]
     },
     {
       "headline": "Ukraine deploys AI-powered turrets against fiber-optic drones",
@@ -36,24 +88,6 @@
       "source": "Kyiv Post",
       "url": "https://www.kyivpost.com/post/75772",
       "timestamp": "2026-05-09T14:07:00+03:00"
-    },
-    {
-      "headline": "Bahrain arrests 41 people linked to Irans IRGC",
-      "summary": "Bahrains interior ministry announced the arrest of 41 individuals with alleged ties to Irans Islamic Revolutionary Guard Corps.",
-      "emoji": "🇧🇭🇮🇷",
-      "category": "Middle East",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/bahrain-arrests-41-people-with-ties-to-iran-guards/",
-      "timestamp": "2026-05-09T14:07:00+03:00"
-    },
-    {
-      "headline": "Putin denounces NATO at scaled-back Victory Day parade",
-      "summary": "Russian President Vladimir Putin used his annual Victory Day speech to justify the war in Ukraine and criticize NATO, while no armored vehicles or ballistic missiles featured in Moscow parade for the first time in years. North Korean soldiers participated alongside Russian troops.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c626xjq0q0vo",
-      "timestamp": "2026-05-09T14:06:00+03:00"
     },
     {
       "headline": "Iran accuses US of reckless military adventure amid Hormuz clashes",
@@ -83,22 +117,29 @@
       "timestamp": "2026-05-09T14:06:00+03:00"
     },
     {
-      "headline": "Virginia Supreme Court strikes down Democratic redistricting plan",
-      "summary": "Virginia highest court ruled 4-3 that Democrats violated procedural requirements when placing the congressional redistricting amendment on the ballot, delivering a setback to the party in the nationwide battle for House control ahead of midterms.",
-      "emoji": "🏛️",
-      "category": "US Politics",
-      "source": "AP News",
-      "url": "https://apnews.com/article/redistricting-virginia-congress-democrats-republicans-12a31037f3c9a94d3cb9fbcaaf84d94f",
-      "timestamp": "2026-05-09T14:06:00+03:00"
-    },
-    {
       "headline": "Bahrain Arrests 41 People Linked to Iran's IRGC",
       "summary": "Bahrain's interior ministry announced the arrest of 41 individuals it says were connected to Iran's Revolutionary Guards, amid heightened regional tensions following the US-Iran conflict.",
       "emoji": "🇧🇭🇮🇷",
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/bahrain-says-it-has-arrested-41-people-linked-irans-irgc-2026-05-09/",
-      "timestamp": "2026-05-09T13:03:00+03:00"
+      "timestamp": "2026-05-09T13:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/bahrain-arrests-41-people-with-ties-to-iran-guards/",
+          "angle": "Bahrain arrests 41 people linked to Irans IRGC",
+          "summary": "Bahrains interior ministry announced the arrest of 41 individuals with alleged ties to Irans Islamic Revolutionary Guard Corps."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Times of Israel"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/bahrain-says-it-has-arrested-41-people-linked-irans-irgc-2026-05-09/",
+        "https://www.timesofisrael.com/liveblog_entry/bahrain-arrests-41-people-with-ties-to-iran-guards/"
+      ]
     },
     {
       "headline": "Trump Announces Russia-Ukraine 3-Day Ceasefire Agreement",
@@ -117,6 +158,31 @@
       "source": "France24",
       "url": "https://www.france24.com/en/live-news/20260509-conflict-inflames-tensions-at-venice-biennale-of-art",
       "timestamp": "2026-05-09T13:03:00+03:00"
+    },
+    {
+      "headline": "Virginia Supreme Court throws out Democratic congressional map, boosts Republican midterm hopes",
+      "summary": "The court rejected a Democratic-backed ballot measure that reconfigured the state's US House districts for partisan advantage, dealing a major blow to Democratic midterm prospects.",
+      "emoji": "🇺🇸",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/government/virginias-top-court-throws-out-democratic-backed-us-house-map-2026-05-08/",
+      "timestamp": "2026-05-09T12:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/redistricting-virginia-congress-democrats-republicans-12a31037f3c9a94d3cb9fbcaaf84d94f",
+          "angle": "Virginia Supreme Court strikes down Democratic redistricting plan",
+          "summary": "Virginia highest court ruled 4-3 that Democrats violated procedural requirements when placing the congressional redistricting amendment on the ballot, delivering a setback to the party in the nationwide battle for House control ahead of midterms."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/legal/government/virginias-top-court-throws-out-democratic-backed-us-house-map-2026-05-08/",
+        "https://apnews.com/article/redistricting-virginia-congress-democrats-republicans-12a31037f3c9a94d3cb9fbcaaf84d94f"
+      ]
     },
     {
       "headline": "Israeli artillery shells southern Lebanon, destroys homes in new strikes",
@@ -193,15 +259,6 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/ukraines-zelenskiy-confirms-us-announcement-ceasefire-prisoner-exchange-2026-05-08/",
-      "timestamp": "2026-05-09T12:05:00+03:00"
-    },
-    {
-      "headline": "Virginia Supreme Court throws out Democratic congressional map, boosts Republican midterm hopes",
-      "summary": "The court rejected a Democratic-backed ballot measure that reconfigured the state's US House districts for partisan advantage, dealing a major blow to Democratic midterm prospects.",
-      "emoji": "🇺🇸",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/government/virginias-top-court-throws-out-democratic-backed-us-house-map-2026-05-08/",
       "timestamp": "2026-05-09T12:05:00+03:00"
     },
     {
@@ -425,19 +482,19 @@
       "timestamp": "2026-05-09T09:03:00+03:00",
       "perspectives": [
         {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/05/09/world/europe/russia-ukraine-war-death-toll.html",
-          "angle": "Russia Has Lost Over 350,000 Soldiers in Ukraine War",
-          "summary": "A new estimate finds Russia has lost more than 350,000 soldiers, raising the prospect that total casualties on both sides may approach half a million dead as the war drags on."
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c626xjq0q0vo",
+          "angle": "Putin denounces NATO at scaled-back Victory Day parade",
+          "summary": "Russian President Vladimir Putin used his annual Victory Day speech to justify the war in Ukraine and criticize NATO, while no armored vehicles or ballistic missiles featured in Moscow parade for the first time in years. North Korean soldiers participated alongside Russian troops."
         }
       ],
       "sources": [
         "Reuters",
-        "New York Times"
+        "BBC"
       ],
       "urls": [
         "https://www.reuters.com/business/aerospace-defense/russia-holds-scaled-back-ww2-victory-parade-worries-over-war-ukraine-deepen-2026-05-08/",
-        "https://www.nytimes.com/2026/05/09/world/europe/russia-ukraine-war-death-toll.html"
+        "https://www.bbc.com/news/articles/c626xjq0q0vo"
       ]
     },
     {
@@ -447,15 +504,6 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/trumps-feuds-tensions-with-allies-likely-outlast-iran-war-2026-05-09/",
-      "timestamp": "2026-05-09T09:03:00+03:00"
-    },
-    {
-      "headline": "US strikes Iranian ships in Gulf of Oman",
-      "summary": "US Central Command released video showing F/A-18 Super Hornets using precision munitions against two Iranian tankers as fighting continues around the Strait of Hormuz.",
-      "emoji": "⚔️",
-      "category": "US-Iran War",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/trump-iran-war-peace-deal-strait-of-hormuz/",
       "timestamp": "2026-05-09T09:03:00+03:00"
     },
     {
@@ -604,15 +652,6 @@
         "https://www.scmp.com/news/us/diplomacy/article/3352960/us-host-new-israel-lebanon-talks-trump-team-presses-hezbollah-disarmament",
         "https://www.scmp.com/news/us/diplomacy/article/3352960/us-host-new-israel-lebanon-talks-trump-team-presses-hezbollah-disarmament"
       ]
-    },
-    {
-      "headline": "Japan's Mogami-Class Warship Favored for New Zealand Frigate Competition",
-      "summary": "Japan's Mogami-class frigate has emerged as the leading contender for New Zealand's next-generation warship program, competing against Britain's Type 31 design, with Australia potentially influencing the outcome.",
-      "emoji": "🇯🇵🇳🇿",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/politics/article/3352966/why-japans-mogami-class-warship-winning-over-new-zealand",
-      "timestamp": "2026-05-09T06:20:00+03:00"
     },
     {
       "headline": "S&P Maintains Israel Credit Rating at A Despite Iran War",
@@ -896,27 +935,27 @@
       "timestamp": "2026-05-09T03:05:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/iran-us-israel-war-may-8-2026-6490db55a65880a61a6233eff7acc68b",
-          "angle": "US Disables Two Iranian Tankers in Strait of Hormuz as Ceasefire Strains",
-          "summary": "US forces fired on and disabled two Iranian oil tankers attempting to breach the American blockade of Iranian ports, following overnight exchanges of fire between US and Iranian forces in the strategic waterway. Iran accused the US of \"reckless military adventure\" while Washington awaits Tehran's response to its latest peace proposal."
+          "source": "Al-Monitor",
+          "url": "https://www.al-monitor.com/originals/2026/05/us-fire-iran-tankers-sparks-reprisals-deal-hangs-balance-0",
+          "angle": "US strikes Iranian tankers as Gulf tensions threaten ceasefire",
+          "summary": "US forces struck tankers attempting to break Iran blockade in the Gulf of Oman; Iran questioned American diplomacy seriousness amid renewed clashes."
         },
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/iran-war-live-us-expects-response-friday-trump-says-ceasefire-holds-after-strait-2026-05-08/",
-          "angle": "US and Iran clash in Strait of Hormuz as Tehran mulls ceasefire proposal",
-          "summary": "US forces carried out retaliatory strikes on Iranian targets after Tehran attacked destroyers in the Strait of Hormuz. Washington awaits Irans response to a ceasefire proposal as Trump insists the truce still holds."
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/trump-iran-war-peace-deal-strait-of-hormuz/",
+          "angle": "US strikes Iranian ships in Gulf of Oman",
+          "summary": "US Central Command released video showing F/A-18 Super Hornets using precision munitions against two Iranian tankers as fighting continues around the Strait of Hormuz."
         }
       ],
       "sources": [
         "Reuters",
-        "AP News",
-        "Reuters"
+        "Al-Monitor",
+        "CBS News"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/us-forces-strike-two-empty-iranian-oil-tankers-central-command-says-2026-05-08/",
-        "https://apnews.com/article/iran-us-israel-war-may-8-2026-6490db55a65880a61a6233eff7acc68b",
-        "https://www.reuters.com/world/iran-war-live-us-expects-response-friday-trump-says-ceasefire-holds-after-strait-2026-05-08/"
+        "https://www.al-monitor.com/originals/2026/05/us-fire-iran-tankers-sparks-reprisals-deal-hangs-balance-0",
+        "https://www.cbsnews.com/live-updates/trump-iran-war-peace-deal-strait-of-hormuz/"
       ]
     },
     {
@@ -2894,58 +2933,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/tech/article/3352751/kimi-developer-moonshot-ai-valued-us20b-it-navigates-chinas-new-ipo-rules",
       "timestamp": "2026-05-07T14:00:00+03:00"
-    },
-    {
-      "headline": "Israel Kills Hezbollah Commander in First Beirut Strike Since Ceasefire",
-      "summary": "Israel carried out its first strike on Beirut since the ceasefire, targeting a Hezbollah Radwan Force commander. The attack raises pressure on the fragile truce that had halted Israeli attacks on the Lebanese capital.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/israel-says-it-killed-hezbollah-commander-first-strike-beirut-since-ceasefire-2026-05-07/",
-      "timestamp": "2026-05-07T13:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Anadolu Agency",
-          "url": "https://www.aa.com.tr/en/middle-east/israel-kills-21-more-in-southern-lebanon-despite-ceasefire/3930961",
-          "angle": "Israel Kills 21 in Southern Lebanon Despite Ceasefire",
-          "summary": "Despite a ceasefire announced April 17 and extended until May 17, Israeli forces continue daily strikes in Lebanon. 21 more killed in latest attacks."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Anadolu Agency"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/israel-says-it-killed-hezbollah-commander-first-strike-beirut-since-ceasefire-2026-05-07/",
-        "https://www.aa.com.tr/en/middle-east/israel-kills-21-more-in-southern-lebanon-despite-ceasefire/3930961"
-      ]
-    },
-    {
-      "headline": "US Fuel Stock Drawdowns Undermine Trump's Oil Price Promises",
-      "summary": "Sharp drawdowns in US crude, gasoline and diesel stocks are flashing warning signs, undermining Trump's claims that prices will \"drop like a rock\" once the Iran conflict ends. Markets remain distorted with reserves at critical levels.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/markets/commodities/shrinking-us-fuel-stocks-leave-trump-exposed-2026-05-07/",
-      "timestamp": "2026-05-07T13:03:00+03:00"
-    },
-    {
-      "headline": "US-China Consider Launching Official AI Dialogue",
-      "summary": "Washington and Beijing are weighing the launch of formal discussions on artificial intelligence, the Wall Street Journal reported, amid broader efforts to stabilize US-China relations ahead of the Trump-Xi summit.",
-      "emoji": "🤖",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/us-china-weigh-launch-official-discussions-ai-wsj-reports-2026-05-07/",
-      "timestamp": "2026-05-07T13:03:00+03:00"
-    },
-    {
-      "headline": "Asia Faces Plastics Shortage as Middle East War Disrupts Oil Supply",
-      "summary": "The Iran conflict has triggered plastics shortages across Asia due to oil and gas supply disruptions, affecting medical supply chains and manufacturing.",
-      "emoji": "🏭🌏",
-      "category": "Asia-Pacific",
-      "source": "Oil Price",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Crunch-Prompts-Plastics-Crisis-in-Asia.html",
-      "timestamp": "2026-05-07T12:06:00+03:00"
     }
   ]
 }
