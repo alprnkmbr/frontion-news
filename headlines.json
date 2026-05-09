@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-09T11:05:24+03:00",
+  "lastUpdated": "2026-05-09T12:05:05+03:00",
   "headlines": [
+    {
+      "headline": "Ukraine running critically low on air defence missiles after winter campaign",
+      "summary": "Ukraine's air force warned it is running short of air defence missiles following Russia's massive winter attack campaign, as Kyiv braces for further strikes amid ongoing conflict.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/ukraine-says-it-is-running-short-air-defence-missiles-2026-05-08/",
+      "timestamp": "2026-05-09T12:05:00+03:00"
+    },
+    {
+      "headline": "Zelenskiy confirms US-brokered three-day ceasefire and prisoner exchange with Russia",
+      "summary": "Ukrainian President Volodymyr Zelenskiy confirmed a three-day ceasefire arranged with Russia as part of US efforts to negotiate an end to the over four-year-old war.",
+      "emoji": "🕊️",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/ukraines-zelenskiy-confirms-us-announcement-ceasefire-prisoner-exchange-2026-05-08/",
+      "timestamp": "2026-05-09T12:05:00+03:00"
+    },
+    {
+      "headline": "Virginia Supreme Court throws out Democratic congressional map, boosts Republican midterm hopes",
+      "summary": "The court rejected a Democratic-backed ballot measure that reconfigured the state's US House districts for partisan advantage, dealing a major blow to Democratic midterm prospects.",
+      "emoji": "🇺🇸",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/government/virginias-top-court-throws-out-democratic-backed-us-house-map-2026-05-08/",
+      "timestamp": "2026-05-09T12:05:00+03:00"
+    },
+    {
+      "headline": "US trade chief says Trump administration will win appeal on temporary tariffs ruling",
+      "summary": "US Trade Representative Jamieson Greer said the administration expects to prevail in appealing the Court of International Trade's ruling against its temporary 10% global tariffs.",
+      "emoji": "💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/government/trump-administration-will-win-appeal-ruling-against-temporary-tariffs-us-trade-2026-05-08/",
+      "timestamp": "2026-05-09T12:05:00+03:00"
+    },
     {
       "headline": "US and Iran Remain Deadlocked Despite Ongoing Gulf Clashes",
       "summary": "Washington awaits Tehran's response to a US proposal to formally end the war, but neither side appears closer to resolution as military confrontations continue in the Strait of Hormuz.",
@@ -26,16 +62,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/us-says-it-will-revert-higher-tariffs-eu-goods-if-brussels-misses-july-4-2026-05-08/",
-      "timestamp": "2026-05-09T11:03:00+03:00"
-    },
-    {
-      "headline": "Russia Holds Scaled-Back Victory Day Parade Amid Ukraine War",
-      "summary": "Moscow commemorated Victory Day with a reduced military parade featuring no tanks or heavy equipment, reflecting the strain of the ongoing conflict in Ukraine.",
-      "emoji": "🇷🇺⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/russia-victory-day-parade-security-moscow-may-9-7cb7b5cbfbaf993dadfe9bafb5cf5262",
-      "timestamp": "2026-05-09T11:03:00+03:00"
+      "timestamp": "2026-05-09T11:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Politico",
+          "url": "https://www.politico.com/news/2026/05/07/trump-deadline-european-union-trade-deal-tariffs-00910521",
+          "angle": "Trump Gives EU Until July 4 to Ratify Trade Deal or Face Higher Tariffs",
+          "summary": "President Trump set a two-month deadline for the European Union to implement the trade deal agreed last year, threatening significantly higher tariffs if not fulfilled by Independence Day."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Politico"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/us-says-it-will-revert-higher-tariffs-eu-goods-if-brussels-misses-july-4-2026-05-08/",
+        "https://www.politico.com/news/2026/05/07/trump-deadline-european-union-trade-deal-tariffs-00910521"
+      ]
     },
     {
       "headline": "India appoints new Chief of Defence Staff amid major military reforms",
@@ -158,15 +201,6 @@
       "timestamp": "2026-05-09T10:03:00+03:00"
     },
     {
-      "headline": "Trump allies tensions likely to outlast Iran war",
-      "summary": "President Trump pulled troops from Germany and downplayed Iran attacks on Gulf partners, signaling fraying ties with key allies that could outlast the conflict.",
-      "emoji": "🇺🇸",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/trumps-feuds-tensions-with-allies-likely-outlast-iran-war-2026-05-09/",
-      "timestamp": "2026-05-09T09:03:00+03:00"
-    },
-    {
       "headline": "Russia holds scaled-back Victory Day parade amid Ukraine war",
       "summary": "Russia held its most scaled-back Victory Day parade in years due to threat of attack from Ukraine, where victory has proven elusive four years into the deadliest European conflict since WWII.",
       "emoji": "🇷🇺",
@@ -177,35 +211,28 @@
       "perspectives": [
         {
           "source": "AP News",
-          "url": "https://apnews.com/article/trump-russia-ukraine-war-ceasefire-prisoner-swap-007c385a9b81ba81b4b51c1a5b8ace9b",
-          "angle": "Russia and Ukraine agree to 3-day ceasefire",
-          "summary": "President Trump announced both sides agreed to a three-day ceasefire coinciding with Russia Victory Day celebrations, including a prisoner exchange of 1,000 from each country."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/russia-ukraine-accuse-each-other-violating-ceasefire-2026-05-08/",
-          "angle": "Russia and Ukraine agree to three-day ceasefire with prisoner swap",
-          "summary": "Russia and Ukraine confirmed a US-brokered three-day ceasefire from May 9-11, with a planned 1,000-for-1,000 prisoner swap. Trump expressed hope for an extension."
-        },
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/russia-ukraine-war-moscow-parade-ceasefire-cde7ec7a0fb10a3e2563171b931485e8",
-          "angle": "Victory Day Reveals Putins War Dilemma",
-          "summary": "Russia's low-key WWII commemorations highlight tensions as Moscow prepares its annual parade under heightened security amid the ongoing Ukraine conflict."
+          "url": "https://apnews.com/article/russia-victory-day-parade-security-moscow-may-9-7cb7b5cbfbaf993dadfe9bafb5cf5262",
+          "angle": "Russia Holds Scaled-Back Victory Day Parade Amid Ukraine War",
+          "summary": "Moscow commemorated Victory Day with a reduced military parade featuring no tanks or heavy equipment, reflecting the strain of the ongoing conflict in Ukraine."
         }
       ],
       "sources": [
-        "Reuters",
-        "AP News",
         "Reuters",
         "AP News"
       ],
       "urls": [
         "https://www.reuters.com/business/aerospace-defense/russia-holds-scaled-back-ww2-victory-parade-worries-over-war-ukraine-deepen-2026-05-08/",
-        "https://apnews.com/article/trump-russia-ukraine-war-ceasefire-prisoner-swap-007c385a9b81ba81b4b51c1a5b8ace9b",
-        "https://www.reuters.com/world/europe/russia-ukraine-accuse-each-other-violating-ceasefire-2026-05-08/",
-        "https://apnews.com/article/russia-ukraine-war-moscow-parade-ceasefire-cde7ec7a0fb10a3e2563171b931485e8"
+        "https://apnews.com/article/russia-victory-day-parade-security-moscow-may-9-7cb7b5cbfbaf993dadfe9bafb5cf5262"
       ]
+    },
+    {
+      "headline": "Trump allies tensions likely to outlast Iran war",
+      "summary": "President Trump pulled troops from Germany and downplayed Iran attacks on Gulf partners, signaling fraying ties with key allies that could outlast the conflict.",
+      "emoji": "🇺🇸",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/trumps-feuds-tensions-with-allies-likely-outlast-iran-war-2026-05-09/",
+      "timestamp": "2026-05-09T09:03:00+03:00"
     },
     {
       "headline": "US strikes Iranian ships in Gulf of Oman",
@@ -2150,15 +2177,6 @@
       ]
     },
     {
-      "headline": "Trump Gives EU Until July 4 to Ratify Trade Deal or Face Higher Tariffs",
-      "summary": "President Trump set a two-month deadline for the European Union to implement the trade deal agreed last year, threatening significantly higher tariffs if not fulfilled by Independence Day.",
-      "emoji": "🇪🇺",
-      "category": "Economy",
-      "source": "Politico",
-      "url": "https://www.politico.com/news/2026/05/07/trump-deadline-european-union-trade-deal-tariffs-00910521",
-      "timestamp": "2026-05-08T00:06:00+03:00"
-    },
-    {
       "headline": "US Sells $17 Billion in Missiles to Gulf Nations as Stockpiles Deplete",
       "summary": "The US and partners have exhausted air defense missiles in the Iran war, and now Washington is selling more missiles worth $17 billion to Gulf allies as production struggles to keep pace.",
       "emoji": "🛡️",
@@ -2874,24 +2892,6 @@
         "https://www.reuters.com/business/energy/iran-war-lifts-asia-pacific-interest-norwegian-petroleum-products-lng-equinor-2026-05-06/",
         "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Rejects-LNG-Bids-as-Energy-Crisis-Deepens.html"
       ]
-    },
-    {
-      "headline": "EU Suspends Methane Rules as Energy Crunch Intensifies",
-      "summary": "The European Union is delaying enforcement of methane reporting penalties as it prioritizes energy security during a worsening supply crunch caused by the Iran war blockade.",
-      "emoji": "🇪🇺🛢️",
-      "category": "Energy",
-      "source": "Oil Price",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/EU-Suspends-Methane-Rules-as-Energy-Crunch-Intensifies.html",
-      "timestamp": "2026-05-07T10:05:00+03:00"
-    },
-    {
-      "headline": "Kazakh President Calls for Military Reform on Defender Day",
-      "summary": "President Tokayev congratulated citizens on Defender of the Fatherland Day, reaffirming commitment to strengthen national defense amid regional tensions.",
-      "emoji": "🇰🇿",
-      "category": "Central Asia",
-      "source": "Astana Times",
-      "url": "https://astanatimes.com/2026/05/tokayev-congratulates-kazakh-citizens-on-defender-of-fatherland-day-calls-for-military-reform/",
-      "timestamp": "2026-05-07T10:05:00+03:00"
     }
   ]
 }
