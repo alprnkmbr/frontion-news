@@ -1,14 +1,66 @@
 {
-  "lastUpdated": "2026-05-09T06:07:32+03:00",
+  "lastUpdated": "2026-05-09T07:05:54+03:00",
   "headlines": [
     {
-      "headline": "S&P Maintains Israel Credit Rating at A Despite Iran War",
-      "summary": "S&P Global Ratings affirmed Israel's A/A-1 credit rating with stable outlook, citing resilience despite ongoing Iran conflict and regional tensions.",
-      "emoji": "🇮🇱",
+      "headline": "U.S. Fires on Iran-Flagged Tankers as Peace Deal Response Awaited",
+      "summary": "U.S. Central Command says forces disabled two Iranian oil tankers attempting to dock at an Iranian port in violation of the American blockade. Secretary of State Rubio said Washington awaits Iran's response to a peace proposal as clashes continue in the Strait of Hormuz.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "US-Iran War",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-attacks-qeshm-island-ceasefire/",
+      "timestamp": "2026-05-09T07:05:00+03:00"
+    },
+    {
+      "headline": "Jimmy Lai's Fate May Turn on Trump-Xi Meeting Next Week",
+      "summary": "The imprisoned Hong Kong pro-democracy activist's family hopes Trump will seek his release during an upcoming Beijing summit. The 78-year-old media mogul was sentenced to 20 years under China's national security law, and observers say his release could signal whether Beijing is ready to move on.",
+      "emoji": "🇭🇰",
+      "category": "US-China",
+      "source": "AP News",
+      "url": "https://apnews.com/article/hong-kong-jimmy-lai-trump-xi-d0ebb5b2803acf8d4f550216552e0b29",
+      "timestamp": "2026-05-09T07:05:00+03:00"
+    },
+    {
+      "headline": "Africa's EV Surge Led by Ethiopia as Fuel Shortages Mount",
+      "summary": "Africa imported 44,358 electric vehicles from China in 2025, up from 19,386 the prior year, with Ethiopia leading adoption after banning new fossil fuel vehicle imports. The Iran war's disruption of oil shipments through the Strait of Hormuz has accelerated the transition away from costly fuel imports.",
+      "emoji": "🔋🇪🇹",
+      "category": "Energy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/ethiopia-electric-vehicles-iran-war-d4d5ffa1a7b06d3b2e34d59dcc80f0e7",
+      "timestamp": "2026-05-09T07:05:00+03:00"
+    },
+    {
+      "headline": "Israel Wounds 9 Palestinians Including Child in Gaza Ceasefire Violation",
+      "summary": "Gaza Civil Defense reports that Israeli forces wounded 9 Palestinians, including a child, in the latest violation of the ceasefire agreement.",
+      "emoji": "🇵🇸",
       "category": "Middle East",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/sp-keeps-israels-a-a-1-credit-rating-unchanged-says-outlook-is-stable/",
-      "timestamp": "2026-05-09T06:15:00+03:00"
+      "source": "TRT World",
+      "url": "https://www.trtworld.com/article/6d567a5bb0c1",
+      "timestamp": "2026-05-09T06:30:00+03:00"
+    },
+    {
+      "headline": "US to Host Israel-Lebanon Talks Pressing for Hezbollah Disarmament",
+      "summary": "Washington will host new Israel-Lebanon negotiations as the Trump team pushes for Hezbollah disarmament, while awaiting Iran's response to a US proposal to end regional conflict.",
+      "emoji": "🇺🇸🇱🇧",
+      "category": "Middle East",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/us/diplomacy/article/3352960/us-host-new-israel-lebanon-talks-trump-team-presses-hezbollah-disarmament",
+      "timestamp": "2026-05-09T06:25:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/us/diplomacy/article/3352960/us-host-new-israel-lebanon-talks-trump-team-presses-hezbollah-disarmament",
+          "angle": "US to Host New Israel-Lebanon Talks on Hezbollah Disarmament",
+          "summary": "The Trump administration presses for Hezbollah disarmament as it awaits Iran response to a new US proposal aimed at advancing peace in the region."
+        }
+      ],
+      "sources": [
+        "SCMP",
+        "SCMP"
+      ],
+      "urls": [
+        "https://www.scmp.com/news/us/diplomacy/article/3352960/us-host-new-israel-lebanon-talks-trump-team-presses-hezbollah-disarmament",
+        "https://www.scmp.com/news/us/diplomacy/article/3352960/us-host-new-israel-lebanon-talks-trump-team-presses-hezbollah-disarmament"
+      ]
     },
     {
       "headline": "Japan's Mogami-Class Warship Favored for New Zealand Frigate Competition",
@@ -20,31 +72,13 @@
       "timestamp": "2026-05-09T06:20:00+03:00"
     },
     {
-      "headline": "US to Host Israel-Lebanon Talks Pressing for Hezbollah Disarmament",
-      "summary": "Washington will host new Israel-Lebanon negotiations as the Trump team pushes for Hezbollah disarmament, while awaiting Iran's response to a US proposal to end regional conflict.",
-      "emoji": "🇺🇸🇱🇧",
+      "headline": "S&P Maintains Israel Credit Rating at A Despite Iran War",
+      "summary": "S&P Global Ratings affirmed Israel's A/A-1 credit rating with stable outlook, citing resilience despite ongoing Iran conflict and regional tensions.",
+      "emoji": "🇮🇱",
       "category": "Middle East",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/us/diplomacy/article/3352960/us-host-new-israel-lebanon-talks-trump-team-presses-hezbollah-disarmament",
-      "timestamp": "2026-05-09T06:25:00+03:00"
-    },
-    {
-      "headline": "Victory Day Ceasefire Confusion as Both Ukraine and Russia Report Continued Fighting",
-      "summary": "Despite agreement on a 3-day ceasefire and prisoner swap, over 140 strikes were recorded on Ukrainian positions by 7am, with both sides reporting drone attacks and front-line fighting.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/confusion-surrounds-victory-day-ceasefire-as-both-sides-report-drone-attacks-front-line-fighting/",
-      "timestamp": "2026-05-09T06:10:00+03:00"
-    },
-    {
-      "headline": "Israel Wounds 9 Palestinians Including Child in Gaza Ceasefire Violation",
-      "summary": "Gaza Civil Defense reports that Israeli forces wounded 9 Palestinians, including a child, in the latest violation of the ceasefire agreement.",
-      "emoji": "🇵🇸",
-      "category": "Middle East",
-      "source": "TRT World",
-      "url": "https://www.trtworld.com/article/6d567a5bb0c1",
-      "timestamp": "2026-05-09T06:30:00+03:00"
+      "source": "Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/sp-keeps-israels-a-a-1-credit-rating-unchanged-says-outlook-is-stable/",
+      "timestamp": "2026-05-09T06:15:00+03:00"
     },
     {
       "headline": "Pope Leo Appeals for Calm After Vatican Meeting With Rubio",
@@ -132,19 +166,27 @@
       "timestamp": "2026-05-09T05:03:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/russia-ukraine-accuse-each-other-violating-ceasefire-2026-05-08/",
-          "angle": "Russia and Ukraine Trade Ceasefire Accuses Despite Three-Day Truce Deal",
-          "summary": "Russia and Ukraine accused each other of violating ceasefires as Moscow prepared for its Victory Day parade, while Trump announced both sides agreed to a 3-day ceasefire and prisoner swap."
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/confusion-surrounds-victory-day-ceasefire-as-both-sides-report-drone-attacks-front-line-fighting/",
+          "angle": "Victory Day Ceasefire Confusion as Both Ukraine and Russia Report Continued Fighting",
+          "summary": "Despite agreement on a 3-day ceasefire and prisoner swap, over 140 strikes were recorded on Ukrainian positions by 7am, with both sides reporting drone attacks and front-line fighting."
+        },
+        {
+          "source": "Al Arabiya",
+          "url": "https://english.alarabiya.net/News/world/2026/05/07/-kenya-fm-says-19-kenyans-have-been-killed-fighting-for-russia-in-ukraine",
+          "angle": "Kenya confirms 19 citizens killed fighting for Russia in Ukraine, 32 missing",
+          "summary": "Kenya's foreign minister reported that 19 Kenyan nationals have died fighting on the Ukrainian frontline for Russian forces, with 32 others missing. This highlights the ongoing recruitment of foreign fighters by Russia in the Ukraine war."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "Kyiv Independent",
+        "Al Arabiya"
       ],
       "urls": [
         "https://www.reuters.com/world/europe/russia-ukraine-accuse-each-other-violating-ceasefire-2026-05-08/",
-        "https://www.reuters.com/world/europe/russia-ukraine-accuse-each-other-violating-ceasefire-2026-05-08/"
+        "https://kyivindependent.com/confusion-surrounds-victory-day-ceasefire-as-both-sides-report-drone-attacks-front-line-fighting/",
+        "https://english.alarabiya.net/News/world/2026/05/07/-kenya-fm-says-19-kenyans-have-been-killed-fighting-for-russia-in-ukraine"
       ]
     },
     {
@@ -606,15 +648,6 @@
       "source": "AP News",
       "url": "https://www.bostonherald.com/2026/05/08/vatican-a-year-of-leo/",
       "timestamp": "2026-05-08T23:03:00+03:00"
-    },
-    {
-      "headline": "US to Host New Israel-Lebanon Talks on Hezbollah Disarmament",
-      "summary": "The Trump administration presses for Hezbollah disarmament as it awaits Iran response to a new US proposal aimed at advancing peace in the region.",
-      "emoji": "🇺🇸🇱🇧",
-      "category": "Middle East",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/us/diplomacy/article/3352960/us-host-new-israel-lebanon-talks-trump-team-presses-hezbollah-disarmament",
-      "timestamp": "2026-05-08T22:10:00+03:00"
     },
     {
       "headline": "Beijing Condemns UK Conviction of Two Men Tied to Hong Kong Trade Office",
@@ -2213,15 +2246,6 @@
       "timestamp": "2026-05-07T19:22:00+03:00"
     },
     {
-      "headline": "Kenya confirms 19 citizens killed fighting for Russia in Ukraine, 32 missing",
-      "summary": "Kenya's foreign minister reported that 19 Kenyan nationals have died fighting on the Ukrainian frontline for Russian forces, with 32 others missing. This highlights the ongoing recruitment of foreign fighters by Russia in the Ukraine war.",
-      "emoji": "🇰🇪⚔️🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/world/2026/05/07/-kenya-fm-says-19-kenyans-have-been-killed-fighting-for-russia-in-ukraine",
-      "timestamp": "2026-05-07T18:05:00+03:00"
-    },
-    {
       "headline": "US sanctions Iraq's deputy oil minister for facilitating Iranian oil sales",
       "summary": "The US Treasury Department sanctioned Iraq's deputy oil minister Ali Maarij Al-Bahadly for helping Iran and its proxies divert oil for illicit sales. The sanctions target Iranian oil smuggling networks amid ongoing US-Iran tensions.",
       "emoji": "🇺🇸🇮🇶🇮🇷💰",
@@ -2890,24 +2914,6 @@
       "category": "Asia-Pacific",
       "source": "SCMP",
       "url": "https://www.scmp.com/week-asia/politics/article/3352657/trumps-last-japanese-diehard-fans-lose-faith-iran-war-chaos-spreads",
-      "timestamp": "2026-05-07T06:10:00+03:00"
-    },
-    {
-      "headline": "India Sidelined by Iran War as Regional Diplomacy Unravels",
-      "summary": "The Iran-Israel conflict has undermined New Delhi's delicate balancing act in the Middle East, leaving India without leverage as major powers reshape regional dynamics.",
-      "emoji": "🇮🇳🇮🇷",
-      "category": "South Asia",
-      "source": "Channel News Asia",
-      "url": "https://www.channelnewsasia.com/commentary/india-iran-war-us-middle-east-diplomacy-pakistan-6103116",
-      "timestamp": "2026-05-07T06:10:00+03:00"
-    },
-    {
-      "headline": "Taiwan's Silicon Shield Exposed by Hormuz Crisis",
-      "summary": "The Strait of Hormuz disruption reveals vulnerabilities in Taiwan's economic power, as its technology sector depends on stable global supply chains now under threat.",
-      "emoji": "🇹🇼💾",
-      "category": "Asia-Pacific",
-      "source": "Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/05/07/asia-pacific/hormuz-taiwan-silicon-shield/",
       "timestamp": "2026-05-07T06:10:00+03:00"
     }
   ]
