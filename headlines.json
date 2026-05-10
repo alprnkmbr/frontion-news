@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-11T02:04:39+03:00",
+  "lastUpdated": "2026-05-11T02:08:21+03:00",
   "headlines": [
+    {
+      "headline": "Hezbollah strikes Iron Dome battery with FPV drone on northern border",
+      "summary": "Hezbollah released footage of a First-Person View drone striking an Iron Dome battery, highlighting the IDF struggle against FPV drones that use cables and manual operation to evade jamming technologies.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-895734",
+      "timestamp": "2026-05-11T02:08:00+03:00"
+    },
+    {
+      "headline": "IDF and US ran covert rescue operations from Iraq during Iran war",
+      "summary": "Jerusalem Post confirms IDF special forces rescue units were stationed in Iraq to rescue downed pilots during the Iran war, with Brig-Gen R. calling the US-Israel air force cooperation historic and unprecedented.",
+      "emoji": "🇮🇱",
+      "category": "Middle East",
+      "source": "Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-895673",
+      "timestamp": "2026-05-11T02:08:00+03:00"
+    },
+    {
+      "headline": "South Korea identifies aircraft that struck cargo ship in Hormuz",
+      "summary": "Seoul says two unidentified aircraft struck the HMM Namu cargo ship in the Strait of Hormuz, causing fire and smoke. Iran denied responsibility for the attack.",
+      "emoji": "🇰🇷",
+      "category": "Middle East",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/east-asia/article/3353065/unidentified-aircraft-hit-korean-cargo-ship-hormuz-monday-seoul",
+      "timestamp": "2026-05-11T02:08:00+03:00"
+    },
+    {
+      "headline": "Ukraine ramps up ground robot production to evacuate civilians and soldiers",
+      "summary": "Ukraine contracted 25,000 ground robots in first half of 2026, more than double last year. UGVs are now dual-use: hauling ammo, evacuating wounded, and rescuing civilians from contested zones like Lyman.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/unmanned/2026/05/08/ukraine-ramps-up-ground-robot-production-to-spare-soldiers-haul-ammo-and-rescue-grandma/",
+      "timestamp": "2026-05-11T02:08:00+03:00"
+    },
+    {
+      "headline": "Pentagon launches Deal Team Six to reform defense acquisitions",
+      "summary": "Defense Secretary Hegseth created a team of private sector negotiators to fix Pentagon bureaucracy, aiming to eliminate double-dipping by contractors and speed up weapons production.",
+      "emoji": "🏛️",
+      "category": "Defense Industry",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/news/pentagon-congress/2026/05/08/hegseth-aims-to-cut-through-the-bureaucracy-with-deal-team-six/",
+      "timestamp": "2026-05-11T02:08:00+03:00"
+    },
     {
       "headline": "Iran Rejects US Ceasefire Proposal as \"Surrender,\" Trump Calls Response \"Totally Unacceptable\"",
       "summary": "Iran sent its response to the US peace proposal via Pakistani mediators, demanding war reparations, full sovereignty over the Strait of Hormuz, and an end to sanctions. Trump rejected the response and accused Tehran of \"playing games\" for nearly 50 years.",
@@ -8,16 +53,23 @@
       "category": "US-Iran War",
       "source": "AP News",
       "url": "https://apnews.com/article/iran-us-war-attack-may-10-2026-f8812db41837336d816efaea7bc1c44a",
-      "timestamp": "2026-05-11T02:03:00+03:00"
-    },
-    {
-      "headline": "Putin Suggests Ukraine Conflict \"Coming to an End\" After Scaled-Back Victory Day Parade",
-      "summary": "Russian President Vladimir Putin said he believes the war in Ukraine is nearing its end, while condemning Western support for Kyiv. The Victory Day parade in Moscow featured no military hardware for the first time in nearly two decades amid fears of Ukrainian attacks.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo",
-      "timestamp": "2026-05-11T02:03:00+03:00"
+      "timestamp": "2026-05-11T02:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/iran-us-war-attack-may-10-2026-f8812db41837336d816efaea7bc1c44a",
+          "angle": "Iran responds to US ceasefire proposal as Gulf states report drone attacks",
+          "summary": "Tehran has sent a response to Washington via mediator Pakistan regarding a 30-day ceasefire extension and Strait of Hormuz reopening, while drone strikes hit cargo ships off Qatar and were repelled by Kuwait and UAE."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "AP News"
+      ],
+      "urls": [
+        "https://apnews.com/article/iran-us-war-attack-may-10-2026-f8812db41837336d816efaea7bc1c44a",
+        "https://apnews.com/article/iran-us-war-attack-may-10-2026-f8812db41837336d816efaea7bc1c44a"
+      ]
     },
     {
       "headline": "Lebanon Reports 39 Killed in Israeli Strikes Despite Ceasefire Agreement",
@@ -26,7 +78,39 @@
       "category": "Middle East",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cn4pjegk358o",
-      "timestamp": "2026-05-11T02:03:00+03:00"
+      "timestamp": "2026-05-11T02:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cn4pjegk358o",
+          "angle": "Israel escalates Lebanon strikes, killing 39 despite ceasefire announcement",
+          "summary": "Israeli attacks on Lebanon have killed at least 39 people, including an infant, as Israel and Hezbollah continue trading fire despite a ceasefire deal announced last month."
+        },
+        {
+          "source": "Anadolu",
+          "url": "https://www.aa.com.tr/en/middle-east/israeli-army-shells-southern-lebanon-destroys-homes-in-new-strikes/3932161",
+          "angle": "Israeli artillery shells southern Lebanon, destroys homes in new strikes",
+          "summary": "Israeli forces continue targeting towns in southern Lebanon despite ceasefire arrangements, with artillery strikes hitting Braashit, Safad al-Battikh, and Touline amid ongoing truce violations."
+        },
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/trump-iran-war-peace-deal-strait-of-hormuz/",
+          "angle": "Lebanon civil defense member killed in Israeli strike amid ceasefire",
+          "summary": "An Israeli strike in southern Lebanon killed a civil defense rescuer despite the ongoing truce. WHO has verified 152 attacks on healthcare in Lebanon since the war began, with 103 deaths."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC",
+        "Anadolu",
+        "CBS News"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cn4pjegk358o",
+        "https://www.bbc.com/news/articles/cn4pjegk358o",
+        "https://www.aa.com.tr/en/middle-east/israeli-army-shells-southern-lebanon-destroys-homes-in-new-strikes/3932161",
+        "https://www.cbsnews.com/live-updates/trump-iran-war-peace-deal-strait-of-hormuz/"
+      ]
     },
     {
       "headline": "Gulf States Report Drone Attacks Straining Fragile US-Iran Ceasefire",
@@ -300,57 +384,6 @@
       "timestamp": "2026-05-10T21:00:00+03:00"
     },
     {
-      "headline": "Iran responds to US ceasefire proposal as Gulf states report drone attacks",
-      "summary": "Tehran has sent a response to Washington via mediator Pakistan regarding a 30-day ceasefire extension and Strait of Hormuz reopening, while drone strikes hit cargo ships off Qatar and were repelled by Kuwait and UAE.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-war-attack-may-10-2026-f8812db41837336d816efaea7bc1c44a",
-      "timestamp": "2026-05-10T20:58:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/5/10/us-iran-ceasefire-under-strain-as-gulf-states-report-drone-attacks",
-          "angle": "Gulf States Report Drone Attacks as Iran Ceasefire Strains",
-          "summary": "A cargo ship was hit off Qatar's coast while Kuwait and the UAE repelled drone attacks, raising concerns about the stability of the US-Iran ceasefire."
-        },
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/iran-us-israel-war-may-8-2026-6490db55a65880a61a6233eff7acc68b",
-          "angle": "UAE intercepts drone and missile attack as Iran war ceasefire frays",
-          "summary": "The United Arab Emirates said it intercepted missiles and drones as tensions escalate despite ongoing ceasefire negotiations between Iran and the US. The UAE Ministry of Defense said its air defenses were \"actively engaging\" incoming threats."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "Al Jazeera",
-        "AP News"
-      ],
-      "urls": [
-        "https://apnews.com/article/iran-us-war-attack-may-10-2026-f8812db41837336d816efaea7bc1c44a",
-        "https://www.aljazeera.com/news/2026/5/10/us-iran-ceasefire-under-strain-as-gulf-states-report-drone-attacks",
-        "https://apnews.com/article/iran-us-israel-war-may-8-2026-6490db55a65880a61a6233eff7acc68b"
-      ]
-    },
-    {
-      "headline": "Putin says Ukraine conflict is coming to an end",
-      "summary": "The Russian leader expressed optimism about potential Ukraine negotiations but criticized Western backing for President Zelensky, while aides cautioned it remains a long road to peace.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo",
-      "timestamp": "2026-05-10T20:58:00+03:00"
-    },
-    {
-      "headline": "Israel escalates Lebanon strikes, killing 39 despite ceasefire announcement",
-      "summary": "Israeli attacks on Lebanon have killed at least 39 people, including an infant, as Israel and Hezbollah continue trading fire despite a ceasefire deal announced last month.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cn4pjegk358o",
-      "timestamp": "2026-05-10T20:58:00+03:00"
-    },
-    {
       "headline": "DR Congo militia attack kills at least 69 civilians",
       "summary": "CODECO militia fighters killed at least 69 people in an attack in Ituri province, northeastern Democratic Republic of Congo, in one of the deadliest massacres in the region this year.",
       "emoji": "🇨🇩",
@@ -358,6 +391,39 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/10/rebel-fighters-kill-at-least-69-people-in-northeastern-dr-congo",
       "timestamp": "2026-05-10T20:58:00+03:00"
+    },
+    {
+      "headline": "Putin leads scaled-down Victory Day parade, vows victory in Ukraine",
+      "summary": "Russian President Vladimir Putin declared confidence in victory during Moscow's Victory Day parade, which for the first time in nearly two decades featured no tanks or heavy military equipment. Security was tight amid a US-brokered ceasefire.",
+      "emoji": "🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-victory-day-parade-security-moscow-may-9-7cb7b5cbfbaf993dadfe9bafb5cf5262",
+      "timestamp": "2026-05-09T15:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo",
+          "angle": "Putin Suggests Ukraine Conflict \"Coming to an End\" After Scaled-Back Victory Day Parade",
+          "summary": "Russian President Vladimir Putin said he believes the war in Ukraine is nearing its end, while condemning Western support for Kyiv. The Victory Day parade in Moscow featured no military hardware for the first time in nearly two decades amid fears of Ukrainian attacks."
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo",
+          "angle": "Putin says Ukraine conflict is coming to an end",
+          "summary": "The Russian leader expressed optimism about potential Ukraine negotiations but criticized Western backing for President Zelensky, while aides cautioned it remains a long road to peace."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://apnews.com/article/russia-victory-day-parade-security-moscow-may-9-7cb7b5cbfbaf993dadfe9bafb5cf5262",
+        "https://www.bbc.com/news/articles/cn8p4j2jzwwo",
+        "https://www.bbc.com/news/articles/cn8p4j2jzwwo"
+      ]
     },
     {
       "headline": "Trump feuds with allies likely to outlast Iran war, analysts warn",
@@ -391,15 +457,6 @@
         "https://www.bbc.com/news/articles/czd2y0d90n7o",
         "https://www.reuters.com/world/pope-leo-after-rubio-meeting-asks-god-inspire-leaders-calm-tensions-2026-05-08/"
       ]
-    },
-    {
-      "headline": "Putin leads scaled-down Victory Day parade, vows victory in Ukraine",
-      "summary": "Russian President Vladimir Putin declared confidence in victory during Moscow's Victory Day parade, which for the first time in nearly two decades featured no tanks or heavy military equipment. Security was tight amid a US-brokered ceasefire.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/russia-victory-day-parade-security-moscow-may-9-7cb7b5cbfbaf993dadfe9bafb5cf5262",
-      "timestamp": "2026-05-09T15:05:00+03:00"
     },
     {
       "headline": "China unveils worlds first dual-core quantum computer",
@@ -568,31 +625,6 @@
       "urls": [
         "https://www.reuters.com/legal/government/virginias-top-court-throws-out-democratic-backed-us-house-map-2026-05-08/",
         "https://apnews.com/article/redistricting-virginia-congress-democrats-republicans-12a31037f3c9a94d3cb9fbcaaf84d94f"
-      ]
-    },
-    {
-      "headline": "Israeli artillery shells southern Lebanon, destroys homes in new strikes",
-      "summary": "Israeli forces continue targeting towns in southern Lebanon despite ceasefire arrangements, with artillery strikes hitting Braashit, Safad al-Battikh, and Touline amid ongoing truce violations.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Anadolu",
-      "url": "https://www.aa.com.tr/en/middle-east/israeli-army-shells-southern-lebanon-destroys-homes-in-new-strikes/3932161",
-      "timestamp": "2026-05-09T12:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Anadolu",
-          "url": "https://www.aa.com.tr/en/middle-east/hezbollah-says-it-carried-out-13-attacks-on-israeli-forces-sites-in-southern-lebanon/3930804",
-          "angle": "Hezbollah Claims 13 Attacks on Israeli Forces in Southern Lebanon",
-          "summary": "Hezbollah announced it carried out drone and artillery strikes on Israeli troops, Merkava tanks, an Iron Dome platform, and military positions in southern Lebanon amid ongoing cross-border escalation."
-        }
-      ],
-      "sources": [
-        "Anadolu",
-        "Anadolu"
-      ],
-      "urls": [
-        "https://www.aa.com.tr/en/middle-east/israeli-army-shells-southern-lebanon-destroys-homes-in-new-strikes/3932161",
-        "https://www.aa.com.tr/en/middle-east/hezbollah-says-it-carried-out-13-attacks-on-israeli-forces-sites-in-southern-lebanon/3930804"
       ]
     },
     {
@@ -1941,15 +1973,6 @@
       "timestamp": "2026-05-08T13:03:00+03:00"
     },
     {
-      "headline": "Lebanon civil defense member killed in Israeli strike amid ceasefire",
-      "summary": "An Israeli strike in southern Lebanon killed a civil defense rescuer despite the ongoing truce. WHO has verified 152 attacks on healthcare in Lebanon since the war began, with 103 deaths.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/trump-iran-war-peace-deal-strait-of-hormuz/",
-      "timestamp": "2026-05-08T13:03:00+03:00"
-    },
-    {
       "headline": "China sees weakened US deterrence on Taiwan as Iran war drains weapons",
       "summary": "Chinese analysts say America\"s ability to deter a war over Taiwan is weakened by the Iran conflict, giving Beijing leverage ahead of President Trump\"s upcoming summit with Xi Jinping.",
       "emoji": "🇨🇳",
@@ -2548,33 +2571,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3352785/china-urged-forge-spear-cognitive-warfare-amid-great-power-rivalry",
       "timestamp": "2026-05-08T02:10:00+03:00"
-    },
-    {
-      "headline": "Japan signals unlimited yen defense, in daily contact with US",
-      "summary": "Japans top currency diplomat said the country faces no constraints on currency intervention frequency and is in daily contact with US authorities, reinforcing Tokyos resolve to defend the embattled yen.",
-      "emoji": "🇯🇵💱",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/japan-forex-czar-says-imf-floating-rate-label-does-not-limit-currency-action-2026-05-07/",
-      "timestamp": "2026-05-08T02:05:00+03:00"
-    },
-    {
-      "headline": "India-Pakistan ceasefire holds one year on, but little else does",
-      "summary": "One year after the India-Pakistan conflict, the ceasefire continues but underlying tensions remain unresolved. The crisis was triggered by a militant attack on tourists in Kashmir.",
-      "emoji": "🇮🇳🇵🇰",
-      "category": "South Asia",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c4g4093dy39o",
-      "timestamp": "2026-05-08T02:05:00+03:00"
-    },
-    {
-      "headline": "US not planning imminent military action in Cuba despite Trump threats",
-      "summary": "US officials say the administration isnt looking at imminent military action against Havana despite Trumps threats, as new sanctions target Cuban military conglomerate.",
-      "emoji": "🇨🇺🇺🇸",
-      "category": "Latin America",
-      "source": "AP News",
-      "url": "https://apnews.com/article/cuba-trump-rubio-energy-blockade-26b89fa6c057eb419d099a39e38d5b98",
-      "timestamp": "2026-05-08T02:05:00+03:00"
     }
   ]
 }
