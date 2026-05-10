@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-10T21:00:48+03:00",
+  "lastUpdated": "2026-05-10T22:04:39+03:00",
   "headlines": [
+    {
+      "headline": "Pakistan Car Bomb Kills 15 Police Officers",
+      "summary": "A suicide bomber rammed an explosives-laden vehicle into a checkpoint in Pakistan late Saturday night, killing at least 15 police officers in a devastating attack.",
+      "emoji": "🇵🇰",
+      "category": "South Asia",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo",
+      "timestamp": "2026-05-10T22:03:00+03:00"
+    },
+    {
+      "headline": "Hungary's New PM Apologizes to Those Wronged Under Orbán",
+      "summary": "Péter Magyar, who swept away 16 years of Viktor Orbán's rule, struck a radically different tone in his first speech as Hungary's new prime minister.",
+      "emoji": "🇭🇺",
+      "category": "Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/10/hungary-new-pm-apologises-to-those-wronged-under-orban",
+      "timestamp": "2026-05-10T22:03:00+03:00"
+    },
+    {
+      "headline": "Australia's One Nation Party Wins Historic Parliamentary Seat",
+      "summary": "Pauline Hanson's right-wing One Nation party gained its first seat in Australia's lower house in a by-election seen as a key test for the populist party.",
+      "emoji": "🇦🇺",
+      "category": "Oceania",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cn4pjegk358o",
+      "timestamp": "2026-05-10T22:03:00+03:00"
+    },
+    {
+      "headline": "Marco Rubio Meets Pope Leo Amid Tensions With Trump Over Iran War",
+      "summary": "Secretary of State Marco Rubio held a meeting with Pope Leo, the first American pontiff, who has been a firm critic of the Iran war and the administration's immigration policies.",
+      "emoji": "🇻🇦",
+      "category": "Diplomacy",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/czd2y0d90n7o",
+      "timestamp": "2026-05-10T22:03:00+03:00"
+    },
+    {
+      "headline": "Starmer Faces Leadership Challenge as 40 Labour MPs Call for Resignation",
+      "summary": "UK Prime Minister Keir Starmer is under mounting pressure with about 40 Labour MPs reportedly calling for him to quit as Angela Rayner and Wes Streeting eye leadership bids.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/10/starmer-faces-fight-to-survive-as-streeting-and-rayner-eye-leadership-bids",
+      "timestamp": "2026-05-10T22:03:00+03:00"
+    },
     {
       "headline": "Poland Finds Military Spy Drone Near Russian Kaliningrad Border",
       "summary": "Polish military police discovered a reconnaissance drone with Cyrillic markings near the border with Russia's Kaliningrad exclave. Officials say the drone had no combat capabilities but was likely used for intelligence gathering.",
@@ -17,15 +62,6 @@
       "category": "Diplomacy",
       "source": "Haaretz",
       "url": "https://www.haaretz.com/middle-east-news/iran/2026-05-10/ty-article/.premium/irans-response-to-u-s-proposal-to-end-war-sent-via-pakistan-state-media-says/0000019e-120e-db97-adbf-366fef190000",
-      "timestamp": "2026-05-10T21:00:00+03:00"
-    },
-    {
-      "headline": "Turkey Pursuing Intercontinental Ballistic Missile Capability",
-      "summary": "An unexpected reveal of a previously unknown ICBM program has raised major questions about Turkey's strategic ambitions. The disclosure comes as Ankara seeks to expand its defense industrial base and regional influence.",
-      "emoji": "🇹🇷",
-      "category": "Defense Industry",
-      "source": "The War Zone",
-      "url": "https://www.twz.com/nuclear/what-is-behind-turkeys-pursuit-of-an-icbm",
       "timestamp": "2026-05-10T21:00:00+03:00"
     },
     {
@@ -2194,21 +2230,37 @@
       "timestamp": "2026-05-08T05:05:00+03:00"
     },
     {
-      "headline": "UK Court Convicts Two Men for Spying on Hong Kong Dissidents",
-      "summary": "A UK court found two men guilty, including a British immigration officer, of conducting surveillance on Hong Kong pro-democracy activists in Britain on behalf of China, in an unprecedented shadow policing case.",
-      "emoji": "🇬🇧🇭🇰",
-      "category": "Europe",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352809/uk-court-convicts-2-men-linked-hong-kong-trade-office-spying",
-      "timestamp": "2026-05-08T04:05:00+03:00"
-    },
-    {
       "headline": "Turkey Unveils First Intercontinental Ballistic Missile Yildirimhan",
       "summary": "Turkey revealed its first ICBM with a 6,000km range and Mach 25 speed, representing a major advancement in Turkish defense capabilities and regional deterrence.",
       "emoji": "🇹🇷⚔️",
       "category": "Defense Industry",
       "source": "Daily Sabah",
       "url": "https://www.dailysabah.com/politics/turkiye-unveils-its-first-intercontinental-ballistic-missile-what-we-know/news",
+      "timestamp": "2026-05-08T04:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "The War Zone",
+          "url": "https://www.twz.com/nuclear/what-is-behind-turkeys-pursuit-of-an-icbm",
+          "angle": "Turkey Pursuing Intercontinental Ballistic Missile Capability",
+          "summary": "An unexpected reveal of a previously unknown ICBM program has raised major questions about Turkey's strategic ambitions. The disclosure comes as Ankara seeks to expand its defense industrial base and regional influence."
+        }
+      ],
+      "sources": [
+        "Daily Sabah",
+        "The War Zone"
+      ],
+      "urls": [
+        "https://www.dailysabah.com/politics/turkiye-unveils-its-first-intercontinental-ballistic-missile-what-we-know/news",
+        "https://www.twz.com/nuclear/what-is-behind-turkeys-pursuit-of-an-icbm"
+      ]
+    },
+    {
+      "headline": "UK Court Convicts Two Men for Spying on Hong Kong Dissidents",
+      "summary": "A UK court found two men guilty, including a British immigration officer, of conducting surveillance on Hong Kong pro-democracy activists in Britain on behalf of China, in an unprecedented shadow policing case.",
+      "emoji": "🇬🇧🇭🇰",
+      "category": "Europe",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3352809/uk-court-convicts-2-men-linked-hong-kong-trade-office-spying",
       "timestamp": "2026-05-08T04:05:00+03:00"
     },
     {
@@ -2540,466 +2592,6 @@
       "source": "Telegraph",
       "url": "https://www.telegraph.co.uk/news/2026/05/07/gaza-war-called-genocide-press-watchdog-ipso-rules/",
       "timestamp": "2026-05-07T22:10:00+03:00"
-    },
-    {
-      "headline": "French prosecutors seek charges against Elon Musk and X over abuse images and Grok deepfakes",
-      "summary": "Paris prosecutors opened an investigation into X for complicity in distributing child sexual abuse images, deepfakes, and Holocaust denial by the AI system Grok. Musk and former X CEO Yaccarino were summoned for voluntary interviews but did not appear.",
-      "emoji": "🇫🇷",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://apnews.com/article/france-x-grok-deepfakes-child-sexual-abuse-charges-cac04b1869201bb4c9d425dafc4593a6",
-      "timestamp": "2026-05-07T22:03:00+03:00"
-    },
-    {
-      "headline": "Trump FEMA council proposes sweeping changes to US disaster aid system",
-      "summary": "A council appointed by President Trump approved recommendations to overhaul FEMA, potentially reducing federal disaster support and shifting more responsibility to states. The changes would affect how disasters qualify for federal aid and how states receive reimbursement.",
-      "emoji": "🏛️",
-      "category": "US Politics",
-      "source": "AP News",
-      "url": "https://apnews.com/article/fema-review-council-markwayne-mullin-disasters-22540cc138b3e55762c44306a3e97d8e",
-      "timestamp": "2026-05-07T22:03:00+03:00"
-    },
-    {
-      "headline": "EU Leaders Prepare for Potential Talks With Putin",
-      "summary": "European Union leaders are preparing for potential talks with Russian President Vladimir Putin, according to a senior official cited by the Financial Times. The move signals a possible shift in diplomatic strategy as the Ukraine conflict continues.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/eu-prepares-potential-talks-with-vladimir-putin-ft-reports-2026-05-07/",
-      "timestamp": "2026-05-07T21:03:00+03:00"
-    },
-    {
-      "headline": "UK Elections Could Reshape British Politics",
-      "summary": "Elections for nearly 5,000 council seats in England and parliaments in Scotland and Wales could signal the end of Britain's traditional two-party system if voters opt for populist and nationalist parties.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/uk/uk-voters-cast-ballots-elections-expected-deal-blow-starmer-2026-05-07/",
-      "timestamp": "2026-05-07T21:03:00+03:00"
-    },
-    {
-      "headline": "US and China Weigh Launch of Official AI Discussions",
-      "summary": "Washington and Beijing are weighing the launch of official discussions about artificial intelligence, the Wall Street Journal reports, as competition in the critical technology sector intensifies.",
-      "emoji": "🤖",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/us-china-weigh-launch-official-discussions-ai-wsj-reports-2026-05-07/",
-      "timestamp": "2026-05-07T21:03:00+03:00"
-    },
-    {
-      "headline": "Canada Dollar Outlook Bullish on Geopolitical Risk Easing",
-      "summary": "The Canadian dollar is expected to strengthen if uncertainty linked to the Middle East war and US tariffs eases, according to a Reuters poll, as markets eye potential resolution of the Iran conflict.",
-      "emoji": "🇨🇦",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/americas/canadian-dollar-forecasts-more-bullish-geopolitical-risk-ebbs-2026-05-07/",
-      "timestamp": "2026-05-07T21:03:00+03:00"
-    },
-    {
-      "headline": "Satellite Images Show Iran Hit 228 US Military Targets, Far More Than Reported",
-      "summary": "Analysis of satellite photos reveals damage to at least 228 structures at US bases across the Persian Gulf region. A new report estimates US spent $72 billion on the Iran war—nearly triple the Pentagon official estimate.",
-      "emoji": "🛰️💥",
-      "category": "Middle East",
-      "source": "Democracy Now",
-      "url": "https://www.democracynow.org/2026/5/7/headlines/satellite_photos_reveal_iran_has_hit_far_more_us_military_targets_than_previously_reported",
-      "timestamp": "2026-05-07T20:10:00+03:00"
-    },
-    {
-      "headline": "Iran Reviews US Peace Proposal Conveyed Through Pakistan, No Final Decision Yet",
-      "summary": "Iran confirmed it is reviewing a US ceasefire proposal transmitted via Pakistani mediation, described as a \"14-point framework.\" Tehran has not yet responded to Washington as markets rally on hopes of Hormuz reopening.",
-      "emoji": "🇮🇷🇵🇰",
-      "category": "Middle East",
-      "source": "Express Tribune",
-      "url": "https://tribune.com.pk/story/2606837/us-world-await-iran-response-to-latest-deal-offer",
-      "timestamp": "2026-05-07T20:10:00+03:00"
-    },
-    {
-      "headline": "China Sentences Former Defense Ministers to Suspended Death",
-      "summary": "China has announced suspended death sentences for former defense ministers Wei Fenghe and Li Shangfu following their ousting in a major military purge. The move highlights ongoing anti-corruption campaigns targeting top military brass.",
-      "emoji": "🇨🇳",
-      "category": "Asia-Pacific",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/clypjx383j2o",
-      "timestamp": "2026-05-07T20:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/military/article/3352764/2-former-chinese-defence-ministers-given-death-sentence-reprieve",
-          "angle": "Two former Chinese defense ministers sentenced to death with reprieve on corruption charges",
-          "summary": "Wei Fenghe and Li Shangfu, both former defense ministers, received suspended death sentences in a major anti-corruption purge. The sentences signal Xi Jinping's continued crackdown on military corruption."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/clypjx383j2o",
-        "https://www.scmp.com/news/china/military/article/3352764/2-former-chinese-defence-ministers-given-death-sentence-reprieve"
-      ]
-    },
-    {
-      "headline": "Three IS-Linked Women Arrested in Australia After Syria Return",
-      "summary": "Three women allegedly linked to Islamic State have been arrested in Australia after flying home from Syria for the first time in years. The arrests highlight ongoing concerns about returning foreign fighters.",
-      "emoji": "🇦🇺",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/czj2emlv2kjo",
-      "timestamp": "2026-05-07T20:05:00+03:00"
-    },
-    {
-      "headline": "Hungary Returns Seized $82 Million in Cash and Gold to Ukraine",
-      "summary": "Hungary has returned a seized shipment worth $82 million in cash and gold to Ukraine, in a significant gesture after initially confiscating the assets. The move could signal improving Hungary-Ukraine relations.",
-      "emoji": "🇭🇺",
-      "category": "Ukraine-Russia War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/hungary-ukraine-cash-gold-shipment-zelenskyy-c6181fc0aec462e05cce8781a993aa97",
-      "timestamp": "2026-05-07T20:05:00+03:00"
-    },
-    {
-      "headline": "Latvia Calls for NATO Air Defense Boost After Drone Crashes",
-      "summary": "Latvia and Lithuania urged NATO to strengthen regional air defenses after two suspected Ukrainian drones crossed from Russian territory and crashed in Latvia, with one hitting an oil storage facility.",
-      "emoji": "🇱🇻",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/two-drones-russia-crash-latvia-army-says-2026-05-07/",
-      "timestamp": "2026-05-07T19:22:00+03:00"
-    },
-    {
-      "headline": "US sanctions Iraq's deputy oil minister for facilitating Iranian oil sales",
-      "summary": "The US Treasury Department sanctioned Iraq's deputy oil minister Ali Maarij Al-Bahadly for helping Iran and its proxies divert oil for illicit sales. The sanctions target Iranian oil smuggling networks amid ongoing US-Iran tensions.",
-      "emoji": "🇺🇸🇮🇶🇮🇷💰",
-      "category": "Middle East",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/middle-east/2026/05/07/us-sanctions-iraq-s-deputy-oil-minister-for-helping-iran-and-its-proxies-treasury",
-      "timestamp": "2026-05-07T18:05:00+03:00"
-    },
-    {
-      "headline": "Thailand and Cambodia pledge lasting peace at ASEAN meeting after border clashes",
-      "summary": "Both nations agreed to build trust and pursue lasting peace following last year's border conflict, with further talks planned to solidify bilateral ties. The diplomatic breakthrough came at a regional ASEAN meeting.",
-      "emoji": "🇹🇭🇰🇭🤝",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3352802/thailand-cambodia-pledge-forge-lasting-peace-asean-meet-after-border-clashes",
-      "timestamp": "2026-05-07T18:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3352487/thailand-scraps-25-year-old-agreement-cambodia-joint-energy-exploration",
-          "angle": "Thailand cancels 25-year oil pact with Cambodia after border clashes",
-          "summary": "Thailand scrapped a 2001 agreement for joint offshore energy exploration with Cambodia, forcing Phnom Penh to pursue UN arbitration. The move follows armed conflict between the neighbors last year."
-        }
-      ],
-      "sources": [
-        "SCMP",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.scmp.com/news/asia/southeast-asia/article/3352802/thailand-cambodia-pledge-forge-lasting-peace-asean-meet-after-border-clashes",
-        "https://www.scmp.com/news/asia/southeast-asia/article/3352487/thailand-scraps-25-year-old-agreement-cambodia-joint-energy-exploration"
-      ]
-    },
-    {
-      "headline": "China condemns US raid on Venezuela as hegemonic, vows continued support for Maduro",
-      "summary": "China's Foreign Ministry reiterated opposition to what it called the US \"hegemonic\" raid on Venezuela and seizure of President Maduro, pledging continued support for Venezuela's sovereignty. The statement underscores China-US tensions over Latin America.",
-      "emoji": "🇨🇳🇻🇪🇺🇸",
-      "category": "US-China",
-      "source": "Anadolu",
-      "url": "https://www.aa.com.tr/en/asia-pacific/china-reiterates-opposition-to-hegemonic-us-raid-on-venezuela-seizure-of-maduro/3930317",
-      "timestamp": "2026-05-07T18:05:00+03:00"
-    },
-    {
-      "headline": "Taiwan Tests Torpedo on Indigenous Submarine, Boosting Defense Against China",
-      "summary": "Taiwan conducted its first torpedo test firing for a domestically-built submarine, marking a major milestone in efforts to strengthen deterrence against Chinese naval forces and protect critical sea lanes.",
-      "emoji": "🇹🇼",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/taiwan-carries-out-first-torpedo-test-fire-domestically-made-submarine-2026-05-07/",
-      "timestamp": "2026-05-07T18:03:00+03:00"
-    },
-    {
-      "headline": "US Submarines Maintain Edge But China Closing Gap",
-      "summary": "The undersea domain remains America's last clear military advantage over China, but Beijing's submarine capabilities are rapidly improving as both nations expand their naval fleets.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "Military",
-      "source": "The Economist",
-      "url": "https://www.economist.com/international/2026/05/07/american-subs-rule-beneath-the-waves-but-chinas-are-catching-up",
-      "timestamp": "2026-05-07T17:03:00+03:00"
-    },
-    {
-      "headline": "Pakistan Warns of Strong Response on India Clash Anniversary",
-      "summary": "Pakistan's military warned of a strong response to any attack as it marks the anniversary of last year's conflict with India, heightening tensions between the nuclear-armed neighbors.",
-      "emoji": "🇵🇰🇮🇳",
-      "category": "South Asia",
-      "source": "AP News",
-      "url": "https://apnews.com/article/pakistan-india-war-kashmir-anniversary-683ab7446c2f019f545d68ddd3e1a7f1",
-      "timestamp": "2026-05-07T17:03:00+03:00"
-    },
-    {
-      "headline": "IOC Urges Sports to Allow Belarus Athletes Without Neutral Vetting",
-      "summary": "The International Olympic Committee says Belarusian athletes should compete with full national identity rather than being vetted for neutral status, marking a shift in post-Russia sanctions policy.",
-      "emoji": "🏛️",
-      "category": "Diplomacy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/olympics-ioc-belarus-russia-21e5b0368bef2d06c1d41aae2eb2af6a",
-      "timestamp": "2026-05-07T17:03:00+03:00"
-    },
-    {
-      "headline": "Hungarian Voters Split on Ukraine EU Bid as Magyar Party Opposes Aid",
-      "summary": "A new poll shows most voters of Hungarys opposition Tisza party oppose sending aid to Ukraine, while being divided on Kyivs EU accession bid, highlighting continued political tensions over Hungarys stance on the war.",
-      "emoji": "🇭🇺",
-      "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/most-of-magyars-voters-oppose-hungarian-aid-to-ukraine-split-on-kyivs-eu-bid-poll-shows/",
-      "timestamp": "2026-05-07T16:06:00+03:00"
-    },
-    {
-      "headline": "Israel Aerospace Industries Distances Itself From Turkey Critic Shay Gal",
-      "summary": "Israeli defense company IAI stated that former employee Shay Gal no longer works there after he declared Turkey would become the next Iran, amid growing Israeli criticism of Turkeys regional stance.",
-      "emoji": "🇮🇱🇹🇷",
-      "category": "Middle East",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israeli-arms-company-says-turkey-critic-shay-gal-no-longer-works-there",
-      "timestamp": "2026-05-07T16:06:00+03:00"
-    },
-    {
-      "headline": "Gulf States Derail Trump Air Access by Cutting Airspace and Bases",
-      "summary": "Saudi Arabia and other Gulf states have suspended US access to airbases and airspace for operations against Iran, dealing a major blow to Washingtons military options and signaling regional reluctance to escalate.",
-      "emoji": "🇸🇦",
-      "category": "Middle East",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/gulf-states-derailed-trumps-project-freedom-cutting-us-access-airspace-bases",
-      "timestamp": "2026-05-07T16:06:00+03:00"
-    },
-    {
-      "headline": "Global Debt Hits Record $353 Trillion as War and AI Drive Borrowing",
-      "summary": "A new report shows China and the US driving global debt to unprecedented levels, with Iran war pressures, AI infrastructure spending, and energy security pushes expected to increase borrowing further.",
-      "emoji": "💰",
-      "category": "Economy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/economy/global-economy/article/3352794/china-us-drive-global-debt-record-353-trillion-iran-war-adds-pressure-report",
-      "timestamp": "2026-05-07T16:06:00+03:00"
-    },
-    {
-      "headline": "EU Cuts Funding for Green Projects Using Chinese Inverters, Drawing Beijing Rebuke",
-      "summary": "The European Union has eliminated funding for renewable energy projects using Chinese inverters, prompting Chinas commerce ministry to warn the move would backfire and harm European energy security.",
-      "emoji": "🇪🇺🇨🇳",
-      "category": "Europe",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/economy/global-economy/article/3352796/china-vows-action-after-eu-cuts-funding-green-projects-using-chinese-inverters",
-      "timestamp": "2026-05-07T16:06:00+03:00"
-    },
-    {
-      "headline": "Israeli Strike Kills Son of Hamas Chief Negotiator in Gaza",
-      "summary": "An Israeli airstrike killed the son of Hamas' top negotiator as the militant group held talks in Cairo on safeguarding its truce with Israel, complicating US-mediated negotiations over Gaza's future.",
-      "emoji": "🇵🇸",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israeli-attack-kills-son-hamas-leader-negotiating-with-trump-led-board-2026-05-07/",
-      "timestamp": "2026-05-07T16:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "RTE",
-          "url": "https://www.rte.ie/news/middle-east/2026/0507/1572236-gaza-israel/",
-          "angle": "Israeli airstrike kills son of Hamas chief negotiator in Gaza",
-          "summary": "An Israeli attack killed Azzam Al-Hayya, son of Khalil Al-Hayya, who leads Hamas negotiating team in US-mediated Gaza talks. It marks the fourth son of the Hamas leader to be killed in Israeli strikes, as negotiations continue in Cairo."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "RTE"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/israeli-attack-kills-son-hamas-leader-negotiating-with-trump-led-board-2026-05-07/",
-        "https://www.rte.ie/news/middle-east/2026/0507/1572236-gaza-israel/"
-      ]
-    },
-    {
-      "headline": "US Senators Urge Stability and Cooperation in Beijing Visit Ahead of Trump-Xi Summit",
-      "summary": "A delegation of US senators visiting China called for stability and peaceful cooperation between the world's two largest economies one week before the Trump-Xi bilateral meeting.",
-      "emoji": "🇨🇳",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/us-senators-urge-stability-cooperation-between-us-china-2026-05-07/",
-      "timestamp": "2026-05-07T16:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/chinese-foreign-minister-kicks-off-meeting-with-iranian-counterpart-2026-05-06/",
-          "angle": "China's Wang Yi Meets Iranian Foreign Minister Ahead of Trump-Xi Summit",
-          "summary": "Chinese Foreign Minister Wang Yi met Iran's Abbas Araghchi in Beijing, calling for efforts to reopen the Strait of Hormuz. The meeting comes a week before Trump's scheduled visit to meet Xi Jinping."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/aerospace-defense/us-senators-urge-stability-cooperation-between-us-china-2026-05-07/",
-        "https://www.reuters.com/world/asia-pacific/chinese-foreign-minister-kicks-off-meeting-with-iranian-counterpart-2026-05-06/"
-      ]
-    },
-    {
-      "headline": "Singapore Oil Product Stocks Hit Over Nine-Month Lows as Iran War Cuts Supply",
-      "summary": "Oil product stocks in Asia's trading hub Singapore fell to their lowest in more than nine months after the US-Iran war disrupted Middle East crude and fuel exports.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/singapores-oil-product-stocks-hit-over-nine-month-lows-us-iran-war-cuts-supply-2026-05-07/",
-      "timestamp": "2026-05-07T16:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Oil Price",
-          "url": "https://oilprice.com/Latest-Energy-News/World-News/Shell-Beats-Profit-Estimates-as-War-Brings-Trading-Windfall.html",
-          "angle": "Shell Reports Strong Q1 Profits as Iran War Drives Oil Trading Gains",
-          "summary": "Shell beat profit estimates as the Iran conflict boosted oil prices and generated exceptional trading windfall, highlighting how geopolitical crises benefit major energy traders."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Oil Price"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/singapores-oil-product-stocks-hit-over-nine-month-lows-us-iran-war-cuts-supply-2026-05-07/",
-        "https://oilprice.com/Latest-Energy-News/World-News/Shell-Beats-Profit-Estimates-as-War-Brings-Trading-Windfall.html"
-      ]
-    },
-    {
-      "headline": "Irish Footballers and Celebrities Urge Boycott of Israel Match",
-      "summary": "Leading Irish footballers joined celebrities in a campaign urging Ireland to boycott a UEFA Nations League match against Israel, accusing the country of genocide in Gaza.",
-      "emoji": "⚽",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/sports/soccer/irish-footballers-celebrities-urge-boycott-israel-match-2026-05-07/",
-      "timestamp": "2026-05-07T16:03:00+03:00"
-    },
-    {
-      "headline": "Hong Kong Exchange Proposes Gold Futures as Geopolitical Volatility Drives Demand",
-      "summary": "HKEX plans to relaunch gold futures as the city pushes to become an international gold trading hub amid bullion price volatility driven by Iran war tensions.",
-      "emoji": "🇭🇰",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/hong-kong-bourse-proposes-revive-gold-futures-volatility-grips-market-2026-05-07/",
-      "timestamp": "2026-05-07T15:03:00+03:00"
-    },
-    {
-      "headline": "Russian Drones Crash in Latvia, Damaging Oil Storage Facility",
-      "summary": "Two drones from Russian territory entered NATO member Latvia and crashed, damaging an oil storage facility, in an escalation of spillover from the Ukraine conflict.",
-      "emoji": "🇱🇻",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/two-drones-russia-crash-latvia-army-says-2026-05-07/",
-      "timestamp": "2026-05-07T15:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/two-drones-russia-crash-latvia-army-says-2026-05-07/",
-          "angle": "Two Russian Drones Crash in NATO Member Latvia, Damaging Oil Facility",
-          "summary": "Two drones entered Latvia from Russian territory and crashed, with one damaging an oil storage facility. The incident raises NATO concerns about spillover from the Ukraine war as Baltic states remain on high alert."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/two-drones-russia-crash-latvia-army-says-2026-05-07/",
-        "https://www.reuters.com/world/two-drones-russia-crash-latvia-army-says-2026-05-07/"
-      ]
-    },
-    {
-      "headline": "China sentences two former defense ministers to death with reprieve for corruption",
-      "summary": "Former defense ministers Wei Fenghe and Li Shangfu received suspended death sentences for graft, in the latest high-profile anti-corruption purge targeting China's military leadership.",
-      "emoji": "🇨🇳",
-      "category": "Defense Industry",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3352764/2-former-chinese-defence-ministers-given-death-sentence-reprieve",
-      "timestamp": "2026-05-07T14:15:00+03:00"
-    },
-    {
-      "headline": "UK PM Starmer to seek even closer EU ties after reset deal",
-      "summary": "Prime Minister Keir Starmer faces pressure from MPs to go further than the reset deal as he battles to salvage his premiership, signaling deeper UK-EU integration ahead.",
-      "emoji": "🇬🇧🇪🇺",
-      "category": "Europe",
-      "source": "Telegraph",
-      "url": "https://www.telegraph.co.uk/politics/2026/05/07/starmer-to-seek-even-closer-ties-to-european-union/",
-      "timestamp": "2026-05-07T14:10:00+03:00"
-    },
-    {
-      "headline": "Turkey Togg partners with China CATL in first overseas EV chassis deal",
-      "summary": "Turkish EV maker Togg and Chinese battery giant CATL will jointly develop vehicles based on CATLs Panshi EV platform, marking the first overseas deployment of the Chinese chassis technology.",
-      "emoji": "🇹🇷🇨🇳",
-      "category": "Economy",
-      "source": "Daily Sabah",
-      "url": "https://www.dailysabah.com/business/automotive/turkiyes-togg-chinas-catl-to-jointly-develop-platform-for-evs",
-      "timestamp": "2026-05-07T14:05:00+03:00"
-    },
-    {
-      "headline": "China May Attempt Taiwan Maneuvering at Trump-Xi Summit, Taiwan Warns",
-      "summary": "Taiwan's intelligence chief warned that China may try to extract concessions on Taiwan when Trump visits Beijing next week, though the U.S. has reaffirmed its policy stance on the island has not changed.",
-      "emoji": "🇨🇳",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/china-may-try-manoeuvring-over-taiwan-issue-trump-meeting-official-says-2026-05-07/",
-      "timestamp": "2026-05-07T14:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3352950/china-and-us-ai-revolution-race-tech-rivals-battle-global-supremacy",
-          "angle": "China and US in AI race for global tech supremacy ahead of Trump-Xi summit",
-          "summary": "AI technology will be a key negotiation point when Trump and Xi meet next week in Beijing, as both countries compete for dominance in the industry that will shape future economic and military power."
-        },
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/05/09/business/china-april-trade-exports-imports.html",
-          "angle": "China Trade Surplus With US Widens as Exports Hit Record Ahead of Trump Visit",
-          "summary": "Chinas exports and imports both set records in April, with the trade surplus against the US widening ahead of President Trumps scheduled visit to Beijing next week."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "SCMP",
-        "New York Times"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/china-may-try-manoeuvring-over-taiwan-issue-trump-meeting-official-says-2026-05-07/",
-        "https://www.scmp.com/news/china/diplomacy/article/3352950/china-and-us-ai-revolution-race-tech-rivals-battle-global-supremacy",
-        "https://www.nytimes.com/2026/05/09/business/china-april-trade-exports-imports.html"
-      ]
-    },
-    {
-      "headline": "South Korea and Netherlands Agree to Expand Chips, AI Cooperation",
-      "summary": "South Korean President Lee Jae Myung and Dutch PM Rob Jetten agreed to deepen cooperation on semiconductors, AI, and quantum technology in their first phone call, strengthening ties between two key chip-producing nations.",
-      "emoji": "🇰🇷",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/south-korea-dutch-leaders-discuss-chips-ai-cooperation-2026-05-07/",
-      "timestamp": "2026-05-07T14:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Anadolu Agency",
-          "url": "https://www.aa.com.tr/en/americas/us-south-korea-sign-memorandum-to-advance-shipbuilding-cooperation/3932032",
-          "angle": "US-South Korea Sign Shipbuilding Cooperation Agreement",
-          "summary": "The two nations established a Korea-US Shipbuilding Partnership Initiative to strengthen cooperation in commercial and defense shipbuilding amid regional security concerns."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Anadolu Agency"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/south-korea-dutch-leaders-discuss-chips-ai-cooperation-2026-05-07/",
-        "https://www.aa.com.tr/en/americas/us-south-korea-sign-memorandum-to-advance-shipbuilding-cooperation/3932032"
-      ]
-    },
-    {
-      "headline": "Moonshot AI valued at $20 billion as Kimi chatbot developer navigates China IPO rules",
-      "summary": "The Chinese AI startup behind the popular Kimi chatbot raised $2 billion from Meituan and China Mobile, reaching $3.9 billion in total funding while adapting to Beijings new listing requirements.",
-      "emoji": "🇨🇳",
-      "category": "Technology",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/tech/article/3352751/kimi-developer-moonshot-ai-valued-us20b-it-navigates-chinas-new-ipo-rules",
-      "timestamp": "2026-05-07T14:00:00+03:00"
     }
   ]
 }
