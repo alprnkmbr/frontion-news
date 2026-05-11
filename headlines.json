@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-11T12:07:39+03:00",
+  "lastUpdated": "2026-05-11T13:07:22+03:00",
   "headlines": [
     {
-      "headline": "Trump Reportedly Heads to Beijing Seeking Xi Jinping's Help to End Iran War",
-      "summary": "The US President is seeking China's assistance in resolving the Iran conflict, as both sides remain far apart with Tehran demanding war reparations and control of the Strait of Hormuz.",
-      "emoji": "🇺🇸🇨🇳🇮🇷",
-      "category": "Diplomacy",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/us-news/2026-05-11/ty-article/.premium/trump-reportedly-heads-to-beijing-seeking-xi-jinpings-help-to-end-iran-war/0000019e-15e0-d969-adff-15ed10e40000",
-      "timestamp": "2026-05-11T12:05:00+03:00"
+      "headline": "Trump rejects Iran peace proposal, calls response \"totally unacceptable\"",
+      "summary": "US President dismisses Irans counter-proposal to end the war, which included demands to lift the naval blockade and compensation for war damage. Netanyahu insists Irans enriched uranium must be removed before the war can end.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "US-Iran War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/clypgz9e5pmo",
+      "timestamp": "2026-05-11T13:03:00+03:00"
+    },
+    {
+      "headline": "Ailing Iranian Nobel laureate Narges Mohammadi granted bail, moved to hospital",
+      "summary": "The 2023 Nobel Peace Prize winner, serving a 13-year sentence for activism against female oppression in Iran, was transferred to a Tehran hospital amid concerns over her deteriorating health after suspected heart attacks in prison.",
+      "emoji": "🇮🇷⛪",
+      "category": "Middle East",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c1j257w87neo",
+      "timestamp": "2026-05-11T13:03:00+03:00"
+    },
+    {
+      "headline": "Trump heads to China for Xi summit as Iran war casts shadow over talks",
+      "summary": "US President arrives in Beijing Wednesday for meetings with Xi Jinping, with trade tensions and Chinas economic ties to Iran complicating the visit. Trump predicted Xi would give him a big, fat hug.",
+      "emoji": "🇺🇸🇨🇳",
+      "category": "US-China",
+      "source": "AP News",
+      "url": "https://apnews.com/article/trump-visit-china-xi-iran-trade-diplomacy-75a27d595cfa5882b1e5bef917385309",
+      "timestamp": "2026-05-11T13:03:00+03:00"
+    },
+    {
+      "headline": "Canada sees biggest military recruitment surge in 30 years amid global instability",
+      "summary": "Canadas armed forces are experiencing their highest recruitment numbers in three decades, driven by global conflicts, high youth unemployment, and a nationalist response to Trumps 51st state remarks. Prime Minister Carney announced the largest pay increase for military personnel in a generation.",
+      "emoji": "🇨🇦⚔️",
+      "category": "Defense Industry",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/crrpd1pvgkzo",
+      "timestamp": "2026-05-11T13:03:00+03:00"
+    },
+    {
+      "headline": "Israeli strikes kill 51 in Lebanon including medics as ceasefire violations continue",
+      "summary": "Israeli attacks intensify in southern Lebanon with 51 killed in 24 hours, including two medical workers. The Lebanese Health Ministry reports 552 killed since the ceasefire began on April 16, with at least 103 medical workers killed and 230 injured.",
+      "emoji": "🇱🇧⚔️",
+      "category": "Middle East",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours",
+      "timestamp": "2026-05-11T13:03:00+03:00"
     },
     {
       "headline": "Turkey Achieves Propellant Breakthrough for Yildirimhan Long-Range Ballistic Missile",
@@ -17,7 +53,31 @@
       "category": "Defense Industry",
       "source": "Defense News",
       "url": "https://www.defensenews.com/global/mideast/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/",
-      "timestamp": "2026-05-11T12:05:00+03:00"
+      "timestamp": "2026-05-11T12:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "The War Zone",
+          "url": "https://www.twz.com/what-is-behind-turkeys-pursuit-of-icbm",
+          "angle": "Turkey Unveils New Yildirimhan ICBM With 6,000km Range",
+          "summary": "Turkey revealed a previously unknown intercontinental ballistic missile, raising major questions about Ankara's strategic ambitions and defense capabilities in the region."
+        },
+        {
+          "source": "Defense News",
+          "url": "https://www.defensenews.com/global/europe/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/",
+          "angle": "Turkey announces propellant breakthrough for Yıldırımhan long-range ballistic missile",
+          "summary": "The Turkish government has achieved advances in hypersonic technologies and liquid-propellant propulsion systems for its Yıldırımhan missile program after nearly a decade of development."
+        }
+      ],
+      "sources": [
+        "Defense News",
+        "The War Zone",
+        "Defense News"
+      ],
+      "urls": [
+        "https://www.defensenews.com/global/mideast/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/",
+        "https://www.twz.com/what-is-behind-turkeys-pursuit-of-icbm",
+        "https://www.defensenews.com/global/europe/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/"
+      ]
     },
     {
       "headline": "20 Warships Now Enforcing Iran Blockade as Carrier Movements Intensify",
@@ -47,22 +107,29 @@
       "timestamp": "2026-05-11T12:05:00+03:00"
     },
     {
-      "headline": "Trump rejects Iranian ceasefire proposal as totally unacceptable amid ongoing Hormuz crisis",
-      "summary": "US President Trump dismissed Iran counterproposal which reportedly demanded lifting of the naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz, and war damages compensation. Oil prices jumped 3 percent as the strategic waterway remains effectively shut.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/world/middle-east",
-      "timestamp": "2026-05-11T12:00:00+03:00"
-    },
-    {
       "headline": "Nobel laureate Narges Mohammadi granted bail and transferred to hospital amid health concerns",
       "summary": "Iranian authorities released the ailing human rights activist Narges Mohammadi on bail due to her deteriorating health in prison. She had been serving a lengthy sentence for her advocacy work.",
       "emoji": "🇮🇷⚖️",
       "category": "Middle East",
       "source": "BBC",
       "url": "https://www.bbc.com/news/world/middle-east",
-      "timestamp": "2026-05-11T12:00:00+03:00"
+      "timestamp": "2026-05-11T12:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/world/middle-east/iran-nobel-mohammadi-bail",
+          "angle": "Iranian Nobel Laureate Narges Mohammadi Released on Bail for Medical Treatment",
+          "summary": "Iranian authorities granted bail to the ailing human rights activist Narges Mohammadi, allowing her transfer to a hospital amid growing international concern over her deteriorating health while imprisoned."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/world/middle-east",
+        "https://www.bbc.com/news/world/middle-east/iran-nobel-mohammadi-bail"
+      ]
     },
     {
       "headline": "India urges work-from-home and limits foreign travel as Iran war strains fuel supplies",
@@ -80,16 +147,23 @@
       "category": "Asia-Pacific",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/11/philippines-congress-impeach-vp-sara-duterte",
-      "timestamp": "2026-05-11T12:00:00+03:00"
-    },
-    {
-      "headline": "Greece investigates explosive-packed drone found in territorial waters",
-      "summary": "Greek authorities are scrambling to explain how a drone carrying explosives landed in Greek waters, raising security concerns in the region amid escalating Middle East tensions.",
-      "emoji": "🇬🇷🛸",
-      "category": "Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world",
-      "timestamp": "2026-05-11T12:00:00+03:00"
+      "timestamp": "2026-05-11T12:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/11/philippines-congress-impeach-vp-sara-duterte",
+          "angle": "Philippines Congress in power struggle over VP Sara Duterte impeachment",
+          "summary": "Allies of Vice President Sara Duterte staged a coup and wrested control of the Philippine Senate, throwing the trial of the vice president into question."
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://www.aljazeera.com/news/2026/5/11/philippines-congress-impeach-vp-sara-duterte",
+        "https://www.aljazeera.com/news/2026/5/11/philippines-congress-impeach-vp-sara-duterte"
+      ]
     },
     {
       "headline": "Body of missing US soldier recovered off Morocco coast",
@@ -126,40 +200,6 @@
       "timestamp": "2026-05-11T11:05:00+03:00"
     },
     {
-      "headline": "Philippines Congress in power struggle over VP Sara Duterte impeachment",
-      "summary": "Allies of Vice President Sara Duterte staged a coup and wrested control of the Philippine Senate, throwing the trial of the vice president into question.",
-      "emoji": "🇵🇭",
-      "category": "Asia-Pacific",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/11/philippines-congress-impeach-vp-sara-duterte",
-      "timestamp": "2026-05-11T11:05:00+03:00"
-    },
-    {
-      "headline": "Greece scrambles to explain explosive-packed drone in its waters",
-      "summary": "Greek authorities are investigating how a drone carrying explosives landed in Greek waters, raising questions about regional security amid ongoing tensions.",
-      "emoji": "🇬🇷",
-      "category": "Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/11/greece-explosive-drone-waters",
-      "timestamp": "2026-05-11T11:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world",
-          "angle": "Greek Authorities Investigate Explosive-Packed Drone That Landed in Territorial Waters",
-          "summary": "Greece is scrambling to explain how a drone carrying explosives ended up in its waters, raising questions about regional security and potential spillover from nearby conflicts."
-        }
-      ],
-      "sources": [
-        "The Guardian",
-        "The Guardian"
-      ],
-      "urls": [
-        "https://www.theguardian.com/world/2026/may/11/greece-explosive-drone-waters",
-        "https://www.theguardian.com/world"
-      ]
-    },
-    {
       "headline": "Modi urges Indians to work from home as Iran war strains fuel supply",
       "summary": "Indian Prime Minister Narendra Modi called on citizens to work from home and limit foreign travel to reduce fuel consumption and save foreign exchange as the Iran war continues disrupting global energy shipments.",
       "emoji": "🇮🇳",
@@ -194,31 +234,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/week-asia/politics/article/3352924/israels-election-may-end-netanyahu-era-not-forever-wars",
       "timestamp": "2026-05-11T10:08:00+03:00"
-    },
-    {
-      "headline": "Iranian Nobel Laureate Narges Mohammadi Released on Bail for Medical Treatment",
-      "summary": "Iranian authorities granted bail to the ailing human rights activist Narges Mohammadi, allowing her transfer to a hospital amid growing international concern over her deteriorating health while imprisoned.",
-      "emoji": "🇮🇷",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/world/middle-east/iran-nobel-mohammadi-bail",
-      "timestamp": "2026-05-11T10:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3353072/jailed-iran-nobel-laureate-narges-mohammadi-transferred-hospital-after-medical-crisis",
-          "angle": "Jailed Iranian Nobel Laureate Narges Mohammadi Transferred to Hospital",
-          "summary": "Iranian Nobel Peace Prize laureate Narges Mohammadi was moved to hospital after a medical crisis, following days of appeals from her family who described her condition as critical."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/world/middle-east/iran-nobel-mohammadi-bail",
-        "https://www.scmp.com/news/world/middle-east/article/3353072/jailed-iran-nobel-laureate-narges-mohammadi-transferred-hospital-after-medical-crisis"
-      ]
     },
     {
       "headline": "Polish Ex-Minister Flees Hungary After PM Magyar Says Country Won't Protect Him",
@@ -321,15 +336,6 @@
         "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-incursions",
         "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-incursions"
       ]
-    },
-    {
-      "headline": "Turkey Unveils New Yildirimhan ICBM With 6,000km Range",
-      "summary": "Turkey revealed a previously unknown intercontinental ballistic missile, raising major questions about Ankara's strategic ambitions and defense capabilities in the region.",
-      "emoji": "🇹🇷",
-      "category": "Defense Industry",
-      "source": "The War Zone",
-      "url": "https://www.twz.com/what-is-behind-turkeys-pursuit-of-icbm",
-      "timestamp": "2026-05-11T08:04:00+03:00"
     },
     {
       "headline": "Hezbollah Strikes Iron Dome Battery With FPV Drone",
@@ -519,31 +525,6 @@
       ]
     },
     {
-      "headline": "Turkey announces propellant breakthrough for Yıldırımhan long-range ballistic missile",
-      "summary": "The Turkish government has achieved advances in hypersonic technologies and liquid-propellant propulsion systems for its Yıldırımhan missile program after nearly a decade of development.",
-      "emoji": "🇹🇷",
-      "category": "Defense Industry",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/global/europe/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/",
-      "timestamp": "2026-05-11T04:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "The War Zone",
-          "url": "https://www.twz.com/nuclear/what-is-behind-turkeys-pursuit-of-an-icbm",
-          "angle": "Turkey Reveals ICBM Program With New Propellant Breakthrough",
-          "summary": "Turkey announced advances in hypersonic technologies and liquid-propellant propulsion systems for its Yıldırımhan long-range ballistic missile program, raising questions about Ankara's strategic ambitions."
-        }
-      ],
-      "sources": [
-        "Defense News",
-        "The War Zone"
-      ],
-      "urls": [
-        "https://www.defensenews.com/global/europe/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/",
-        "https://www.twz.com/nuclear/what-is-behind-turkeys-pursuit-of-an-icbm"
-      ]
-    },
-    {
       "headline": "Kremlin expects US envoys Witkoff and Kushner for peace talks quite soon",
       "summary": "Russian officials said they expect US envoys Steve Witkoff and Jared Kushner to visit Moscow soon. Peace talks remain stalled as the Kremlin insists Ukraine must withdraw from Donbas first.",
       "emoji": "🇷🇺🇺🇸",
@@ -669,9 +650,9 @@
       "perspectives": [
         {
           "source": "BBC",
-          "url": "https://www.bbc.com/news/world",
-          "angle": "Trump Rejects Iran Ceasefire Proposal as \"Totally Unacceptable\"",
-          "summary": "The US president dismissed Iran's response to a peace proposal, extending uncertainty in the ongoing conflict. Tehran reportedly sought lifting of the naval blockade, recognition of sovereignty over the Strait of Hormuz, and compensation for war damage."
+          "url": "https://www.bbc.com/news/world/middle-east",
+          "angle": "Trump rejects Iranian ceasefire proposal as totally unacceptable amid ongoing Hormuz crisis",
+          "summary": "US President Trump dismissed Iran counterproposal which reportedly demanded lifting of the naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz, and war damages compensation. Oil prices jumped 3 percent as the strategic waterway remains effectively shut."
         }
       ],
       "sources": [
@@ -680,7 +661,7 @@
       ],
       "urls": [
         "https://apnews.com/article/iran-us-war-attack-may-10-2026-f8812db41837336d816efaea7bc1c44a",
-        "https://www.bbc.com/news/world"
+        "https://www.bbc.com/news/world/middle-east"
       ]
     },
     {
@@ -926,19 +907,19 @@
       "timestamp": "2026-05-09T15:05:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/trump-visit-china-xi-iran-trade-diplomacy-75a27d595cfa5882b1e5bef917385309",
-          "angle": "Trump-Xi Summit This Week Complicated by Iran War and Trade Tensions",
-          "summary": "President Trump heads to Beijing for talks with Xi Jinping amid the Iran war. Beijing's economic ties to Tehran and ongoing tariff disputes could strain the visit, despite Trump predicting a 'big, fat hug' from the Chinese leader."
+          "source": "Haaretz",
+          "url": "https://www.haaretz.com/us-news/2026-05-11/ty-article/.premium/trump-reportedly-heads-to-beijing-seeking-xi-jinpings-help-to-end-iran-war/0000019e-15e0-d969-adff-15ed10e40000",
+          "angle": "Trump Reportedly Heads to Beijing Seeking Xi Jinping's Help to End Iran War",
+          "summary": "The US President is seeking China's assistance in resolving the Iran conflict, as both sides remain far apart with Tehran demanding war reparations and control of the Strait of Hormuz."
         }
       ],
       "sources": [
         "Reuters",
-        "AP News"
+        "Haaretz"
       ],
       "urls": [
         "https://www.reuters.com/world/china/trumps-feuds-tensions-with-allies-likely-outlast-iran-war-2026-05-09/",
-        "https://apnews.com/article/trump-visit-china-xi-iran-trade-diplomacy-75a27d595cfa5882b1e5bef917385309"
+        "https://www.haaretz.com/us-news/2026-05-11/ty-article/.premium/trump-reportedly-heads-to-beijing-seeking-xi-jinpings-help-to-end-iran-war/0000019e-15e0-d969-adff-15ed10e40000"
       ]
     },
     {
@@ -1300,18 +1281,26 @@
       "perspectives": [
         {
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/may/10/greece-explosive-drone-waters",
-          "angle": "Greece Investigates Explosive-Packed Drone Found in Territorial Waters",
-          "summary": "Greek officials are scrambling to explain how a drone carrying explosives ended up in their waters, with suspicion falling on the Ukraine conflict."
+          "url": "https://www.theguardian.com/world",
+          "angle": "Greece investigates explosive-packed drone found in territorial waters",
+          "summary": "Greek authorities are scrambling to explain how a drone carrying explosives landed in Greek waters, raising security concerns in the region amid escalating Middle East tensions."
+        },
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/may/11/greece-explosive-drone-waters",
+          "angle": "Greece scrambles to explain explosive-packed drone in its waters",
+          "summary": "Greek authorities are investigating how a drone carrying explosives landed in Greek waters, raising questions about regional security amid ongoing tensions."
         }
       ],
       "sources": [
         "Reuters",
+        "The Guardian",
         "The Guardian"
       ],
       "urls": [
         "https://www.reuters.com/world/greece-investigating-ukrainian-made-naval-drone-found-cave-island-2026-05-08/",
-        "https://www.theguardian.com/world/2026/may/10/greece-explosive-drone-waters"
+        "https://www.theguardian.com/world",
+        "https://www.theguardian.com/world/2026/may/11/greece-explosive-drone-waters"
       ]
     },
     {
@@ -2428,85 +2417,6 @@
       "source": "The Economist",
       "url": "https://www.economist.com/europe/2026/05/07/secret-document-reveals-russias-plans-to-aid-iran",
       "timestamp": "2026-05-08T14:03:00+03:00"
-    },
-    {
-      "headline": "Indonesia volcano eruption kills three hikers on remote island",
-      "summary": "Mount Dukono erupted on Halmahera Island, killing three hikers including two Singaporeans. Rescuers evacuated 14 climbers while searching for others who defied safety restrictions.",
-      "emoji": "🌋",
-      "category": "Asia-Pacific",
-      "source": "AP News",
-      "url": "https://apnews.com/article/indonesia-dukono-eruption-volcano-hikers-killed-b87deb3e34843da67f77901d7c0631c0",
-      "timestamp": "2026-05-08T13:03:00+03:00"
-    },
-    {
-      "headline": "Islamic State-affiliated group kills 40 in Congo near Uganda border",
-      "summary": "Allied Democratic Forces attacked villages in eastern Congo overnight, killing at least 40 and burning homes. The group pledged allegiance to IS in 2019 and has long operated in the border region.",
-      "emoji": "🇨🇩",
-      "category": "Africa",
-      "source": "AP News",
-      "url": "https://apnews.com/article/congo-attacks-villages-allied-democratic-forces-killings-563bef10f07e476759c2738b820a6091",
-      "timestamp": "2026-05-08T13:03:00+03:00"
-    },
-    {
-      "headline": "China sees weakened US deterrence on Taiwan as Iran war drains weapons",
-      "summary": "Chinese analysts say America\"s ability to deter a war over Taiwan is weakened by the Iran conflict, giving Beijing leverage ahead of President Trump\"s upcoming summit with Xi Jinping.",
-      "emoji": "🇨🇳",
-      "category": "US-China",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/08/world/asia/trump-xi-china-us-iran-munitions.html",
-      "timestamp": "2026-05-08T12:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/05/07/business/war-energy-china-iran.html",
-          "angle": "China Expands Influence Across Asia as Iran War Creates Energy Crisis",
-          "summary": "The Iran war has left China's neighbors appealing for energy help, handing Beijing the regional sway it has long sought. Countries across Asia are turning to China as fuel shortages bite."
-        }
-      ],
-      "sources": [
-        "New York Times",
-        "New York Times"
-      ],
-      "urls": [
-        "https://www.nytimes.com/2026/05/08/world/asia/trump-xi-china-us-iran-munitions.html",
-        "https://www.nytimes.com/2026/05/07/business/war-energy-china-iran.html"
-      ]
-    },
-    {
-      "headline": "UAE sends $100 million to train new Gaza police force under Trump-backed plan",
-      "summary": "The UAE has transferred $100 million to Trump's Board of Peace to fund training of a 27,000-strong Gaza police force composed of Jordanian and Egyptian-trained officers, marking a significant step in post-war governance planning.",
-      "emoji": "🇦🇪🇵🇸",
-      "category": "Middle East",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/report-uae-sends-trumps-board-peace-100-million-training-new-gaza-police-force",
-      "timestamp": "2026-05-08T12:04:00+03:00"
-    },
-    {
-      "headline": "China's J-35 stealth fighters to give Pakistan edge over India in fifth-generation tech",
-      "summary": "Pakistan is set to acquire Chinese J-35 stealth jets, potentially giving it a technological advantage over India which lacks fifth-generation fighters despite having a larger overall fleet.",
-      "emoji": "🇨🇳🇵🇰🇮🇳",
-      "category": "South Asia",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/politics/article/3352829/chinese-j-35-stealth-jets-set-give-pakistan-edge-over-india-fifth-generation-tech",
-      "timestamp": "2026-05-08T12:04:00+03:00"
-    },
-    {
-      "headline": "German cyber chief warns: 'We are not at war, but we're not at peace either'",
-      "summary": "Germany's cyber warfare commander says allied nations face relentless digital attacks from Russia and other adversaries, with cyber intrusions increasingly targeting defense industries as European rearmament accelerates.",
-      "emoji": "🇩🇪💻",
-      "category": "Europe",
-      "source": "DW",
-      "url": "https://www.dw.com/en/germany-cyber-warfare-commander-russia-attacks/a-71524892",
-      "timestamp": "2026-05-08T12:04:00+03:00"
-    },
-    {
-      "headline": "US-Philippine Balikatan drills expand with more nations and advanced missiles",
-      "summary": "American and Filipino forces wrapped up annual exercises featuring troops from five additional nations and deployed advanced systems including NMESIS and HIMARS, demonstrating deepening Indo-Pacific security cooperation.",
-      "emoji": "🇺🇸🇵🇭🎯",
-      "category": "Asia-Pacific",
-      "source": "Stripes",
-      "url": "https://www.stripes.com/theaters/asia_pacific/2026-05-08/us-philippine-balikatan-nmesis-himars-luzon-21610288.html",
-      "timestamp": "2026-05-08T12:04:00+03:00"
     }
   ]
 }
