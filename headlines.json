@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-11T06:10:00+03:00",
+  "lastUpdated": "2026-05-11T07:05:13+03:00",
   "headlines": [
+    {
+      "headline": "Trump Rejects Iran Ceasefire Response as \"Totally Unacceptable\"",
+      "summary": "President Trump dismissed Iran response to US peace proposal, extending limbo in the Middle East conflict. Tehran had reportedly sent a response via Pakistan to a US ceasefire proposal.",
+      "emoji": "🇮🇷",
+      "category": "US-Iran War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/world",
+      "timestamp": "2026-05-11T07:05:00+03:00"
+    },
+    {
+      "headline": "Nobel Laureate Narges Mohammadi Granted Bail and Hospital Transfer in Iran",
+      "summary": "Iranian authorities granted human rights activist Narges Mohammadi bail amid growing concern over her poor health in prison. The jailed Iranian Nobel laureate faced a medical crisis.",
+      "emoji": "🇮🇷",
+      "category": "Middle East",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/world",
+      "timestamp": "2026-05-11T07:05:00+03:00"
+    },
+    {
+      "headline": "Oil Prices Jump After Trump Dismisses Iran Proposal",
+      "summary": "Global oil prices surged as the Strait of Hormuz waterway remains effectively shut, severely disrupting global energy shipments. The standoff continues between US and Iran.",
+      "emoji": "💰🛢️",
+      "category": "Energy",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/world",
+      "timestamp": "2026-05-11T07:05:00+03:00"
+    },
+    {
+      "headline": "Putin Hints Ukraine Conflict \"Coming to an End\" Amid Ceasefire Talks",
+      "summary": "The Russian leader sees potential for Ukraine negotiations but condemns the West backing for President Zelensky. A US-backed ceasefire is in effect.",
+      "emoji": "🇷🇺🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/world",
+      "timestamp": "2026-05-11T07:05:00+03:00"
+    },
+    {
+      "headline": "Russia Kills Three Ukrainians in 24 Hours, Accuses Kyiv of Violating Truce",
+      "summary": "Russia claims Ukraine has committed more than 1,000 violations since the three-day truce came into effect. Russian strikes killed three and injured others despite the ceasefire.",
+      "emoji": "🇷🇺🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/",
+      "timestamp": "2026-05-11T07:05:00+03:00"
+    },
     {
       "headline": "Russia Breaks Ceasefire as Strikes Kill 1, Injure 19 Across Ukraine",
       "summary": "Russian attacks during the declared three-day ceasefire killed one civilian and injured 19 others across Ukraine. Ukraine's Air Force intercepted all 27 drones, but fighting continued on the front lines with 147 combat clashes recorded.",
@@ -17,7 +62,23 @@
       "category": "Europe",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-incursions",
-      "timestamp": "2026-05-11T06:10:00+03:00"
+      "timestamp": "2026-05-11T06:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-incursions/",
+          "angle": "Latvian defense minister resigns after drone incursions violate airspace",
+          "summary": "Defense Minister Andris Spruds resigned after drones violated Latvian airspace. Prime Minister Evika Silina requested his resignation, saying he had lost her trust and that of the public."
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-incursions",
+        "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-incursions/"
+      ]
     },
     {
       "headline": "Poland Finds Military Spy Drone Near Russia's Kaliningrad Border",
@@ -26,25 +87,23 @@
       "category": "Europe",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/poland-finds-spy-drone-near-russias-kaliningrad-border",
-      "timestamp": "2026-05-11T06:10:00+03:00"
-    },
-    {
-      "headline": "Turkey Pursues Intercontinental Ballistic Missile Capability",
-      "summary": "Turkey has revealed development of a previously unknown intercontinental ballistic missile (ICBM), raising major questions about Ankara's strategic ambitions and defense posture.",
-      "emoji": "🇹🇷🚀",
-      "category": "Defense Industry",
-      "source": "The War Zone",
-      "url": "https://www.twz.com/what-is-behind-turkeys-pursuit-of-an-icbm",
-      "timestamp": "2026-05-11T06:10:00+03:00"
-    },
-    {
-      "headline": "US F/A-18 Super Hornets Strike Iranian Tankers Running Hormuz Blockade",
-      "summary": "US Navy F/A-18 Super Hornets have been conducting strikes against Iranian tankers attempting to run the Strait of Hormuz blockade, using bombs dropped down smokestacks and 20mm cannon fire against vessels' rudders.",
-      "emoji": "🇺🇸⚔️🇮🇷",
-      "category": "US-Iran War",
-      "source": "The War Zone",
-      "url": "https://www.twz.com/us-strikes-iranian-tankers-hormuz-blockade",
-      "timestamp": "2026-05-11T06:10:00+03:00"
+      "timestamp": "2026-05-11T06:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/drone-with-cyrillic-markings-found-near-polish-russian-border/",
+          "angle": "Poland finds military spy drone near Russian Kaliningrad border",
+          "summary": "Polish military police discovered a drone with Cyrillic markings near the border with Russia's Kaliningrad exclave. Preliminary findings suggest it was a reconnaissance drone with no combat capabilities."
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://kyivindependent.com/poland-finds-spy-drone-near-russias-kaliningrad-border",
+        "https://kyivindependent.com/drone-with-cyrillic-markings-found-near-polish-russian-border/"
+      ]
     },
     {
       "headline": "British Paratroopers Land on Remote Island for Hantavirus Case",
@@ -148,6 +207,31 @@
       ]
     },
     {
+      "headline": "Turkey announces propellant breakthrough for Yıldırımhan long-range ballistic missile",
+      "summary": "The Turkish government has achieved advances in hypersonic technologies and liquid-propellant propulsion systems for its Yıldırımhan missile program after nearly a decade of development.",
+      "emoji": "🇹🇷",
+      "category": "Defense Industry",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/global/europe/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/",
+      "timestamp": "2026-05-11T04:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "The War Zone",
+          "url": "https://www.twz.com/what-is-behind-turkeys-pursuit-of-an-icbm",
+          "angle": "Turkey Pursues Intercontinental Ballistic Missile Capability",
+          "summary": "Turkey has revealed development of a previously unknown intercontinental ballistic missile (ICBM), raising major questions about Ankara's strategic ambitions and defense posture."
+        }
+      ],
+      "sources": [
+        "Defense News",
+        "The War Zone"
+      ],
+      "urls": [
+        "https://www.defensenews.com/global/europe/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/",
+        "https://www.twz.com/what-is-behind-turkeys-pursuit-of-an-icbm"
+      ]
+    },
+    {
       "headline": "Jailed Iranian Nobel laureate Narges Mohammadi hospitalized after medical crisis",
       "summary": "The Iranian activist and Nobel Peace Prize winner was transferred to a hospital after collapsing in prison over a week ago. Her family had been pleading for proper medical care.",
       "emoji": "🇮🇷",
@@ -173,71 +257,12 @@
       ]
     },
     {
-      "headline": "Latvian defense minister resigns after drone incursions violate airspace",
-      "summary": "Defense Minister Andris Spruds resigned after drones violated Latvian airspace. Prime Minister Evika Silina requested his resignation, saying he had lost her trust and that of the public.",
-      "emoji": "🇱🇻",
-      "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-incursions/",
-      "timestamp": "2026-05-11T04:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-airspace-violation/",
-          "angle": "Latvian Defense Minister Resigns After Drone Airspace Violation",
-          "summary": "Latvian Defense Minister Andris Spruds resigned after drones violated Latvian airspace, with PM Evika Silina saying he had lost her trust and that of the public."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-incursions/",
-        "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-airspace-violation/"
-      ]
-    },
-    {
-      "headline": "Poland finds military spy drone near Russian Kaliningrad border",
-      "summary": "Polish military police discovered a drone with Cyrillic markings near the border with Russia's Kaliningrad exclave. Preliminary findings suggest it was a reconnaissance drone with no combat capabilities.",
-      "emoji": "🇵🇱",
-      "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/drone-with-cyrillic-markings-found-near-polish-russian-border/",
-      "timestamp": "2026-05-11T04:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/drone-with-cyrillic-markings-found-near-polish-russian-border/",
-          "angle": "Poland Finds Military Spy Drone Near Russian Kaliningrad Border",
-          "summary": "Polish military police discovered a reconnaissance drone with Cyrillic markings near the border with Russia's Kaliningrad exclave. Officials say the drone had no combat capabilities but was likely used for intelligence gathering."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://kyivindependent.com/drone-with-cyrillic-markings-found-near-polish-russian-border/",
-        "https://kyivindependent.com/drone-with-cyrillic-markings-found-near-polish-russian-border/"
-      ]
-    },
-    {
       "headline": "Kremlin expects US envoys Witkoff and Kushner for peace talks quite soon",
       "summary": "Russian officials said they expect US envoys Steve Witkoff and Jared Kushner to visit Moscow soon. Peace talks remain stalled as the Kremlin insists Ukraine must withdraw from Donbas first.",
       "emoji": "🇷🇺🇺🇸",
       "category": "Diplomacy",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/kremlin-expects-us-envoys-witkoff-kushner-quite-soon/",
-      "timestamp": "2026-05-11T04:10:00+03:00"
-    },
-    {
-      "headline": "Turkey announces propellant breakthrough for Yıldırımhan long-range ballistic missile",
-      "summary": "The Turkish government has achieved advances in hypersonic technologies and liquid-propellant propulsion systems for its Yıldırımhan missile program after nearly a decade of development.",
-      "emoji": "🇹🇷",
-      "category": "Defense Industry",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/global/europe/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/",
       "timestamp": "2026-05-11T04:10:00+03:00"
     },
     {
@@ -1475,27 +1500,19 @@
       "timestamp": "2026-05-09T03:05:00+03:00",
       "perspectives": [
         {
-          "source": "Al-Monitor",
-          "url": "https://www.al-monitor.com/originals/2026/05/us-fire-iran-tankers-sparks-reprisals-deal-hangs-balance-0",
-          "angle": "US strikes Iranian tankers as Gulf tensions threaten ceasefire",
-          "summary": "US forces struck tankers attempting to break Iran blockade in the Gulf of Oman; Iran questioned American diplomacy seriousness amid renewed clashes."
-        },
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/trump-iran-war-peace-deal-strait-of-hormuz/",
-          "angle": "US strikes Iranian ships in Gulf of Oman",
-          "summary": "US Central Command released video showing F/A-18 Super Hornets using precision munitions against two Iranian tankers as fighting continues around the Strait of Hormuz."
+          "source": "The War Zone",
+          "url": "https://www.twz.com/us-strikes-iranian-tankers-hormuz-blockade",
+          "angle": "US F/A-18 Super Hornets Strike Iranian Tankers Running Hormuz Blockade",
+          "summary": "US Navy F/A-18 Super Hornets have been conducting strikes against Iranian tankers attempting to run the Strait of Hormuz blockade, using bombs dropped down smokestacks and 20mm cannon fire against vessels' rudders."
         }
       ],
       "sources": [
         "Reuters",
-        "Al-Monitor",
-        "CBS News"
+        "The War Zone"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/us-forces-strike-two-empty-iranian-oil-tankers-central-command-says-2026-05-08/",
-        "https://www.al-monitor.com/originals/2026/05/us-fire-iran-tankers-sparks-reprisals-deal-hangs-balance-0",
-        "https://www.cbsnews.com/live-updates/trump-iran-war-peace-deal-strait-of-hormuz/"
+        "https://www.twz.com/us-strikes-iranian-tankers-hormuz-blockade"
       ]
     },
     {
@@ -2368,40 +2385,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/americas/brazils-lula-visits-trump-washington-seeking-avert-new-us-trade-tariffs-2026-05-07/",
       "timestamp": "2026-05-08T08:03:00+03:00"
-    },
-    {
-      "headline": "Russia ramps up assassination campaign against opponents abroad, Western intelligence says",
-      "summary": "Western intelligence officials report Russia has intensified targeted killings abroad since the 2022 Ukraine invasion, going after Russian activists and foreign supporters of Ukraine using recruited proxies. Plots have been disrupted in France, Germany, Lithuania, and Poland.",
-      "emoji": "🇷🇺",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://apnews.com/article/russia-putin-killing-assassination-intelligence-6e60452ecbe1a42a0ddc9adcd2f39f23",
-      "timestamp": "2026-05-08T07:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/world/europe/russia-ramping-attempts-kill-opponents-europe-intelligence-officials-s-rcna344115",
-          "angle": "Russia Ramping Up Assassination Attempts Against Opponents in Europe",
-          "summary": "European intelligence officials warn that Russia is intensifying efforts to kill dissidents and opponents across Europe, marking a dangerous escalation in Moscow's overseas operations."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "NBC News"
-      ],
-      "urls": [
-        "https://apnews.com/article/russia-putin-killing-assassination-intelligence-6e60452ecbe1a42a0ddc9adcd2f39f23",
-        "https://www.nbcnews.com/world/europe/russia-ramping-attempts-kill-opponents-europe-intelligence-officials-s-rcna344115"
-      ]
-    },
-    {
-      "headline": "US stocks fall from records as oil prices yo-yo amid Iran tensions",
-      "summary": "US stocks dropped from their record highs while oil prices fluctuated sharply as tensions between the US and Iran continued to roil global markets.",
-      "emoji": "📉",
-      "category": "Economy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/stocks-markets-rates-iran-trump-oil-44bac8b794519ae9169f968ddc9ea675",
-      "timestamp": "2026-05-08T07:03:00+03:00"
     }
   ]
 }
