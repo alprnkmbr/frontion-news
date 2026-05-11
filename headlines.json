@@ -1,23 +1,50 @@
 {
-  "lastUpdated": "2026-05-11T06:05:09+03:00",
+  "lastUpdated": "2026-05-11T06:10:00+03:00",
   "headlines": [
     {
-      "headline": "Trump Rejects Iran Ceasefire Response as \"Totally Unacceptable\"",
-      "summary": "US President dismissed Iran's response to a US ceasefire proposal designed to end the war. The Strait of Hormuz remains effectively shut, severely disrupting global energy shipments as oil prices jumped on the news.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/world",
-      "timestamp": "2026-05-11T06:03:00+03:00"
+      "headline": "Russia Breaks Ceasefire as Strikes Kill 1, Injure 19 Across Ukraine",
+      "summary": "Russian attacks during the declared three-day ceasefire killed one civilian and injured 19 others across Ukraine. Ukraine's Air Force intercepted all 27 drones, but fighting continued on the front lines with 147 combat clashes recorded.",
+      "emoji": "🇺🇦💥",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/russia-breaks-3-day-ceasefire-as-strikes-kill-1-injure-19-across-ukraine",
+      "timestamp": "2026-05-11T06:10:00+03:00"
     },
     {
-      "headline": "Russia Breaches Three-Day Ukraine Ceasefire, Zelenskyy Says",
-      "summary": "Ukrainian President Zelenskyy accused Russia of violating a three-day ceasefire agreement, as Putin publicly suggested the conflict may be \"coming to an end\" while condemning Western support for Ukraine.",
-      "emoji": "🇺🇦🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world",
-      "timestamp": "2026-05-11T06:03:00+03:00"
+      "headline": "Latvian Defense Minister Resigns After Drone Incursions",
+      "summary": "Latvian Defense Minister Andris Spruds resigned after drones violated Latvia's airspace. Prime Minister Evika Silina requested his resignation, citing loss of trust.",
+      "emoji": "🇱🇻🚁",
+      "category": "Europe",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-incursions",
+      "timestamp": "2026-05-11T06:10:00+03:00"
+    },
+    {
+      "headline": "Poland Finds Military Spy Drone Near Russia's Kaliningrad Border",
+      "summary": "Poland's military police found what appears to be a military reconnaissance drone near the border with Russia's Kaliningrad exclave. The drone had no combat capabilities according to preliminary findings.",
+      "emoji": "🇵🇱🔍",
+      "category": "Europe",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/poland-finds-spy-drone-near-russias-kaliningrad-border",
+      "timestamp": "2026-05-11T06:10:00+03:00"
+    },
+    {
+      "headline": "Turkey Pursues Intercontinental Ballistic Missile Capability",
+      "summary": "Turkey has revealed development of a previously unknown intercontinental ballistic missile (ICBM), raising major questions about Ankara's strategic ambitions and defense posture.",
+      "emoji": "🇹🇷🚀",
+      "category": "Defense Industry",
+      "source": "The War Zone",
+      "url": "https://www.twz.com/what-is-behind-turkeys-pursuit-of-an-icbm",
+      "timestamp": "2026-05-11T06:10:00+03:00"
+    },
+    {
+      "headline": "US F/A-18 Super Hornets Strike Iranian Tankers Running Hormuz Blockade",
+      "summary": "US Navy F/A-18 Super Hornets have been conducting strikes against Iranian tankers attempting to run the Strait of Hormuz blockade, using bombs dropped down smokestacks and 20mm cannon fire against vessels' rudders.",
+      "emoji": "🇺🇸⚔️🇮🇷",
+      "category": "US-Iran War",
+      "source": "The War Zone",
+      "url": "https://www.twz.com/us-strikes-iranian-tankers-hormuz-blockade",
+      "timestamp": "2026-05-11T06:10:00+03:00"
     },
     {
       "headline": "British Paratroopers Land on Remote Island for Hantavirus Case",
@@ -26,16 +53,23 @@
       "category": "Europe",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world",
-      "timestamp": "2026-05-11T06:03:00+03:00"
-    },
-    {
-      "headline": "Medics Among 51 Killed in Israeli Attacks on Lebanon",
-      "summary": "Israeli attacks intensify in southern Lebanon, with 552 killed since the ceasefire started on April 16. Medical personnel are among the casualties as the conflict continues to escalate.",
-      "emoji": "🇱🇧⚔️",
-      "category": "Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/",
-      "timestamp": "2026-05-11T06:03:00+03:00"
+      "timestamp": "2026-05-11T06:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/may/10/paratroopers-britain-overseas-territory-suspected-hantavirus-case",
+          "angle": "British Paratroopers Deploy to Remote Island for Hantavirus Case",
+          "summary": "Army parachutists landed on Tristan da Cunha, Britain's most remote overseas territory, to deliver medical aid for a suspected hantavirus case linked to the cruise ship outbreak."
+        }
+      ],
+      "sources": [
+        "The Guardian",
+        "The Guardian"
+      ],
+      "urls": [
+        "https://www.theguardian.com/world",
+        "https://www.theguardian.com/world/2026/may/10/paratroopers-britain-overseas-territory-suspected-hantavirus-case"
+      ]
     },
     {
       "headline": "Polish Ex-Minister Flees Hungary to US After PM Warning",
@@ -340,6 +374,31 @@
       "timestamp": "2026-05-11T02:08:00+03:00"
     },
     {
+      "headline": "Iran Rejects US Ceasefire Proposal as \"Surrender,\" Trump Calls Response \"Totally Unacceptable\"",
+      "summary": "Iran sent its response to the US peace proposal via Pakistani mediators, demanding war reparations, full sovereignty over the Strait of Hormuz, and an end to sanctions. Trump rejected the response and accused Tehran of \"playing games\" for nearly 50 years.",
+      "emoji": "🇮🇷",
+      "category": "US-Iran War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-war-attack-may-10-2026-f8812db41837336d816efaea7bc1c44a",
+      "timestamp": "2026-05-11T02:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/world",
+          "angle": "Trump Rejects Iran Ceasefire Response as \"Totally Unacceptable\"",
+          "summary": "US President dismissed Iran's response to a US ceasefire proposal designed to end the war. The Strait of Hormuz remains effectively shut, severely disrupting global energy shipments as oil prices jumped on the news."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "BBC"
+      ],
+      "urls": [
+        "https://apnews.com/article/iran-us-war-attack-may-10-2026-f8812db41837336d816efaea7bc1c44a",
+        "https://www.bbc.com/news/world"
+      ]
+    },
+    {
       "headline": "Lebanon Reports 39 Killed in Israeli Strikes Despite Ceasefire Agreement",
       "summary": "Israeli strikes in Lebanon have killed at least 39 people, including women and children, according to Lebanon's health ministry. The attacks come despite a US-brokered ceasefire between Israel and Lebanon, with Israel saying it targets Hezbollah infrastructure.",
       "emoji": "🇱🇧",
@@ -350,9 +409,9 @@
       "perspectives": [
         {
           "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours",
-          "angle": "Medics Among 51 Killed in Israeli Attacks on Lebanon in 24 Hours",
-          "summary": "Israeli strikes are intensifying in southern Lebanon with 552 killed since the April 16 ceasefire announcement. The attacks further unravel the truce between Israel and Hezbollah."
+          "url": "https://www.aljazeera.com/news/",
+          "angle": "Medics Among 51 Killed in Israeli Attacks on Lebanon",
+          "summary": "Israeli attacks intensify in southern Lebanon, with 552 killed since the ceasefire started on April 16. Medical personnel are among the casualties as the conflict continues to escalate."
         }
       ],
       "sources": [
@@ -361,32 +420,7 @@
       ],
       "urls": [
         "https://www.bbc.com/news/articles/cn4pjegk358o",
-        "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours"
-      ]
-    },
-    {
-      "headline": "Iran Rejects US Ceasefire Proposal as \"Surrender,\" Trump Calls Response \"Totally Unacceptable\"",
-      "summary": "Iran sent its response to the US peace proposal via Pakistani mediators, demanding war reparations, full sovereignty over the Strait of Hormuz, and an end to sanctions. Trump rejected the response and accused Tehran of \"playing games\" for nearly 50 years.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-war-attack-may-10-2026-f8812db41837336d816efaea7bc1c44a",
-      "timestamp": "2026-05-11T02:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/5/11/iran-replies-to-us-proposal-trump-finds-response-unacceptable",
-          "angle": "Iran responds to US ceasefire proposal as Trump prepares for China summit",
-          "summary": "Tehran delivered its response to Washington's proposal to end the conflict, with Trump calling the reply unacceptable. The diplomatic exchange comes as Trump prepares to meet Xi Jinping to discuss Iran and trade tensions."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://apnews.com/article/iran-us-war-attack-may-10-2026-f8812db41837336d816efaea7bc1c44a",
-        "https://www.aljazeera.com/news/2026/5/11/iran-replies-to-us-proposal-trump-finds-response-unacceptable"
+        "https://www.aljazeera.com/news/"
       ]
     },
     {
@@ -483,15 +517,6 @@
         "https://www.bbc.com/news/articles/czd2y0d90n7o",
         "https://www.bbc.com/news/articles/cn8p4j2jzwwo"
       ]
-    },
-    {
-      "headline": "British Paratroopers Deploy to Remote Island for Hantavirus Case",
-      "summary": "Army parachutists landed on Tristan da Cunha, Britain's most remote overseas territory, to deliver medical aid for a suspected hantavirus case linked to the cruise ship outbreak.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/10/paratroopers-britain-overseas-territory-suspected-hantavirus-case",
-      "timestamp": "2026-05-11T00:03:00+03:00"
     },
     {
       "headline": "Trump Faces Diplomatic Tightrope Ahead of Xi Summit",
@@ -769,27 +794,19 @@
       "timestamp": "2026-05-09T12:05:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/russia-ukraine-ceasefire-violations-trump",
-          "angle": "Russia and Ukraine trade accusations over violated US-brokered ceasefire",
-          "summary": "Both sides alleged violations of the three-day truce brokered by Washington, with Russia reporting Ukrainian attacks and Kyiv accusing Moscow of continuing drone strikes during the ceasefire period."
-        },
-        {
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/may/10/russia-breaches-ceasefire-ukraine-zelenskyy",
-          "angle": "Russia Breaches Ukraine Ceasefire, Zelenskyy Says",
-          "summary": "Russia violated a three-day ceasefire with Ukraine, according to President Zelenskyy, as Putin simultaneously hints at potential peace talks."
+          "url": "https://www.theguardian.com/world",
+          "angle": "Russia Breaches Three-Day Ukraine Ceasefire, Zelenskyy Says",
+          "summary": "Ukrainian President Zelenskyy accused Russia of violating a three-day ceasefire agreement, as Putin publicly suggested the conflict may be \"coming to an end\" while condemning Western support for Ukraine."
         }
       ],
       "sources": [
         "Reuters",
-        "AP News",
         "The Guardian"
       ],
       "urls": [
         "https://www.reuters.com/world/europe/ukraines-zelenskiy-confirms-us-announcement-ceasefire-prisoner-exchange-2026-05-08/",
-        "https://apnews.com/article/russia-ukraine-ceasefire-violations-trump",
-        "https://www.theguardian.com/world/2026/may/10/russia-breaches-ceasefire-ukraine-zelenskyy"
+        "https://www.theguardian.com/world"
       ]
     },
     {
@@ -2385,42 +2402,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/stocks-markets-rates-iran-trump-oil-44bac8b794519ae9169f968ddc9ea675",
       "timestamp": "2026-05-08T07:03:00+03:00"
-    },
-    {
-      "headline": "Hamas Operating Training Camps in Turkey for Attacks on Israel",
-      "summary": "Kan 11 News reports Hamas is using Turkish shooting ranges and drone schools to train operatives for future conflicts with Israel, raising tensions between Israel and Turkey.",
-      "emoji": "🇹🇷🇮🇱",
-      "category": "Middle East",
-      "source": "Israel National News",
-      "url": "https://www.israelnationalnews.com/news/426750",
-      "timestamp": "2026-05-08T06:07:00+03:00"
-    },
-    {
-      "headline": "China to Supply J-35 Stealth Jets to Pakistan, Edge Over India",
-      "summary": "Chinese J-35 stealth fighter jets are set to give Pakistan an advantage over India in fifth-generation aircraft technology, as India lags in acquiring stealth capabilities.",
-      "emoji": "🇨🇳🇵🇰🇮🇳",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/politics/article/3352829/chinese-j-35-stealth-jets-set-give-pakistan-edge-over-india-fifth-generation-tech",
-      "timestamp": "2026-05-08T06:07:00+03:00"
-    },
-    {
-      "headline": "UAE Air Defenses Respond to Missile Threat as Regional Tensions Escalate",
-      "summary": "UAE authorities activated air defenses in response to a missile threat amid ongoing US-Iran hostilities, urging residents to follow official channels for safety updates.",
-      "emoji": "🇦🇪💥",
-      "category": "Middle East",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/middle-east/uae-says-its-air-defenses-responding-to-missile-threat/3930827",
-      "timestamp": "2026-05-08T06:07:00+03:00"
-    },
-    {
-      "headline": "Third Round of Lebanon-Israel Direct Talks Set for Next Week in Washington",
-      "summary": "Lebanon and Israel will hold their third round of direct negotiations in Washington next week, mediated by the US State Department, continuing unprecedented diplomatic engagement.",
-      "emoji": "🇱🇧🇮🇱🇺🇸",
-      "category": "Diplomacy",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/middle-east/2026/05/07/third-round-of-lebanonisrael-talks-to-be-held-next-week-us-official",
-      "timestamp": "2026-05-08T06:07:00+03:00"
     }
   ]
 }
