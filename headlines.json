@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-11T04:09:18+03:00",
+  "lastUpdated": "2026-05-11T05:05:14+03:00",
   "headlines": [
+    {
+      "headline": "Trump-Xi Summit This Week Complicated by Iran War and Trade Tensions",
+      "summary": "President Trump heads to Beijing for talks with Xi Jinping amid the Iran war. Beijing's economic ties to Tehran and ongoing tariff disputes could strain the visit, despite Trump predicting a 'big, fat hug' from the Chinese leader.",
+      "emoji": "🇺🇸🇨🇳",
+      "category": "Diplomacy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/trump-visit-china-xi-iran-trade-diplomacy-75a27d595cfa5882b1e5bef917385309",
+      "timestamp": "2026-05-11T05:05:00+03:00"
+    },
+    {
+      "headline": "Israel Operated Secret Military Base in Iraq During Iran War",
+      "summary": "Israel established a clandestine outpost in the Iraqi desert to support its air campaign against Iran, housing special forces and serving as a logistics hub. Israel launched airstrikes against Iraqi troops who nearly discovered it early in the war.",
+      "emoji": "🇮🇱🇮🇶",
+      "category": "Middle East",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/world/middle-east/israel-built-and-defended-a-secret-iran-war-base-in-iraq-3590851a",
+      "timestamp": "2026-05-11T05:05:00+03:00"
+    },
+    {
+      "headline": "Iran's Supreme Leader Missing and Silent as War Negotiations Continue",
+      "summary": "Mojtaba Khamenei has not appeared publicly since being severely injured in a February airstrike that killed his father Ali Khamenei. Only AI-generated images and purported written messages have emerged, raising questions about who is actually running Iran.",
+      "emoji": "🇮🇷",
+      "category": "Middle East",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/world/middle-east/irans-supreme-leader-is-mia-just-when-negotiators-need-him-most-eb4bdc56",
+      "timestamp": "2026-05-11T05:05:00+03:00"
+    },
+    {
+      "headline": "Saudi Aramco Profit Jumps 25% as Pipeline Bypasses Hormuz Disruption",
+      "summary": "The world's largest oil company reported $32.5 billion in Q1 profit as it shifted exports to its East-West Pipeline running to the Red Sea. Brent crude stands at $103.91/barrel, below war highs but still elevated from pre-war $70 levels.",
+      "emoji": "🛢️💰",
+      "category": "Energy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/aramco-saudi-arabian-oil-ab384a52510f7af0c1e5629889742285",
+      "timestamp": "2026-05-11T05:05:00+03:00"
+    },
+    {
+      "headline": "Medics Among 51 Killed in Israeli Attacks on Lebanon in 24 Hours",
+      "summary": "Israeli strikes are intensifying in southern Lebanon with 552 killed since the April 16 ceasefire announcement. The attacks further unravel the truce between Israel and Hezbollah.",
+      "emoji": "🇱🇧⚔️",
+      "category": "Middle East",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours",
+      "timestamp": "2026-05-11T05:05:00+03:00"
+    },
     {
       "headline": "Jailed Iranian Nobel laureate Narges Mohammadi hospitalized after medical crisis",
       "summary": "The Iranian activist and Nobel Peace Prize winner was transferred to a hospital after collapsing in prison over a week ago. Her family had been pleading for proper medical care.",
@@ -8,7 +53,23 @@
       "category": "Middle East",
       "source": "SCMP",
       "url": "https://www.scmp.com/news/world/middle-east/article/3353072/jailed-iran-nobel-laureate-narges-mohammadi-transferred-hospital-after-medical-crisis",
-      "timestamp": "2026-05-11T04:10:00+03:00"
+      "timestamp": "2026-05-11T04:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/may/10/narges-mohammadi-nobel-laureate-smuggled-memoir-details-beatings-neglect-iranian-prisons",
+          "angle": "Nobel Laureate Smuggled Memoir Details Iranian Prison Abuse",
+          "summary": "Narges Mohammadi, arrested 14 times for activism, smuggled writings describe beatings and neglect in Iranian prisons, offering a disturbing glimpse into conditions amid the ongoing conflict."
+        }
+      ],
+      "sources": [
+        "SCMP",
+        "The Guardian"
+      ],
+      "urls": [
+        "https://www.scmp.com/news/world/middle-east/article/3353072/jailed-iran-nobel-laureate-narges-mohammadi-transferred-hospital-after-medical-crisis",
+        "https://www.theguardian.com/world/2026/may/10/narges-mohammadi-nobel-laureate-smuggled-memoir-details-beatings-neglect-iranian-prisons"
+      ]
     },
     {
       "headline": "Latvian defense minister resigns after drone incursions violate airspace",
@@ -17,7 +78,23 @@
       "category": "Europe",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-incursions/",
-      "timestamp": "2026-05-11T04:10:00+03:00"
+      "timestamp": "2026-05-11T04:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-airspace-violation/",
+          "angle": "Latvian Defense Minister Resigns After Drone Airspace Violation",
+          "summary": "Latvian Defense Minister Andris Spruds resigned after drones violated Latvian airspace, with PM Evika Silina saying he had lost her trust and that of the public."
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-incursions/",
+        "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-airspace-violation/"
+      ]
     },
     {
       "headline": "Poland finds military spy drone near Russian Kaliningrad border",
@@ -26,7 +103,23 @@
       "category": "Europe",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/drone-with-cyrillic-markings-found-near-polish-russian-border/",
-      "timestamp": "2026-05-11T04:10:00+03:00"
+      "timestamp": "2026-05-11T04:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/drone-with-cyrillic-markings-found-near-polish-russian-border/",
+          "angle": "Poland Finds Military Spy Drone Near Russian Kaliningrad Border",
+          "summary": "Polish military police discovered a reconnaissance drone with Cyrillic markings near the border with Russia's Kaliningrad exclave. Officials say the drone had no combat capabilities but was likely used for intelligence gathering."
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://kyivindependent.com/drone-with-cyrillic-markings-found-near-polish-russian-border/",
+        "https://kyivindependent.com/drone-with-cyrillic-markings-found-near-polish-russian-border/"
+      ]
     },
     {
       "headline": "Kremlin expects US envoys Witkoff and Kushner for peace talks quite soon",
@@ -332,15 +425,6 @@
       "timestamp": "2026-05-11T01:03:00+03:00"
     },
     {
-      "headline": "Nobel Laureate Smuggled Memoir Details Iranian Prison Abuse",
-      "summary": "Narges Mohammadi, arrested 14 times for activism, smuggled writings describe beatings and neglect in Iranian prisons, offering a disturbing glimpse into conditions amid the ongoing conflict.",
-      "emoji": "⛪",
-      "category": "Middle East",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/10/narges-mohammadi-nobel-laureate-smuggled-memoir-details-beatings-neglect-iranian-prisons",
-      "timestamp": "2026-05-11T01:03:00+03:00"
-    },
-    {
       "headline": "Iran War to Overshadow Trump-Xi Summit as Tensions Mount",
       "summary": "The US-China relationship faces new strains as Trump prepares to visit China amid the Iran conflict, with trade tensions and geopolitical calculations complicating diplomatic efforts.",
       "emoji": "🇺🇸🇨🇳",
@@ -348,15 +432,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/trump-visit-china-xi-iran-trade-diplomacy-75a27d595cfa5882b1e5bef917385309",
       "timestamp": "2026-05-11T01:03:00+03:00"
-    },
-    {
-      "headline": "Latvian Defense Minister Resigns After Drone Airspace Violation",
-      "summary": "Latvian Defense Minister Andris Spruds resigned after drones violated Latvian airspace, with PM Evika Silina saying he had lost her trust and that of the public.",
-      "emoji": "🇱🇻",
-      "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-airspace-violation/",
-      "timestamp": "2026-05-11T00:05:00+03:00"
     },
     {
       "headline": "South Korea Draws Gulf Oil Storage Interest as Hormuz Stays Closed",
@@ -486,15 +561,6 @@
       "source": "The War Zone",
       "url": "https://www.twz.com/news-features/drone-swarms-packed-into-unassuming-containers-sought-by-darpa",
       "timestamp": "2026-05-10T22:05:00+03:00"
-    },
-    {
-      "headline": "Poland Finds Military Spy Drone Near Russian Kaliningrad Border",
-      "summary": "Polish military police discovered a reconnaissance drone with Cyrillic markings near the border with Russia's Kaliningrad exclave. Officials say the drone had no combat capabilities but was likely used for intelligence gathering.",
-      "emoji": "🇵🇱",
-      "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/drone-with-cyrillic-markings-found-near-polish-russian-border/",
-      "timestamp": "2026-05-10T21:00:00+03:00"
     },
     {
       "headline": "Iran Sent Response to US War Proposal via Pakistan, State Media Reports",
