@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-11T18:11:22+03:00",
+  "lastUpdated": "2026-05-11T19:22:54+03:00",
   "headlines": [
+    {
+      "headline": "Chad airstrikes on Boko Haram kill dozens of Nigerian fishermen",
+      "summary": "Chad conducted airstrikes targeting Boko Haram positions near Lake Chad, with fishermen reporting 40 people feared dead either from the strikes or drowning while fleeing. The incident highlights the ongoing regional conflict affecting civilian populations.",
+      "emoji": "🇳🇬",
+      "category": "Africa",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cr5p85v446ro",
+      "timestamp": "2026-05-11T19:20:00+03:00"
+    },
+    {
+      "headline": "Bosnia peace envoy Christian Schmidt resigns",
+      "summary": "The international High Representative for Bosnia and Herzegovina has stepped down after appearing to lose US backing. Schmidt had held the powerful peace envoy role since 2021, raising questions about the future of international oversight in the Balkans.",
+      "emoji": "🇧🇦",
+      "category": "Europe",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cg5pvj5pg51o",
+      "timestamp": "2026-05-11T19:20:00+03:00"
+    },
+    {
+      "headline": "EU restores full trade ties with Syria after years of sanctions",
+      "summary": "The European Council announced the restoration of full trade relations with Syria, sending what it called a clear political signal of commitment to re-engage with Damascus. The move marks a major shift in European policy toward the war-torn country.",
+      "emoji": "🇪🇺",
+      "category": "Diplomacy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-to-restore-full-trade-ties-with-syria",
+      "timestamp": "2026-05-11T19:20:00+03:00"
+    },
+    {
+      "headline": "Israel advances legislation for executions and trials of October 7 detainees",
+      "summary": "Israel is pushing legislation to try October 7 detainees in military courts, with provisions for death penalty and what critics call show trials. The move raises serious human rights concerns about the treatment of detainees from the Hamas attack.",
+      "emoji": "🇮🇱",
+      "category": "Middle East",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/11/israel-pushes-for-death-penalty-and-show-trials-for-oct-7-detainees",
+      "timestamp": "2026-05-11T19:20:00+03:00"
+    },
+    {
+      "headline": "Taiwan civilians flock to self-defense courses ahead of Trump-Xi summit",
+      "summary": "Taiwanese civilians are enrolling in self-defense courses in record numbers amid fears China could use force to seize the island. The surge comes as Trump prepares to visit China for talks that could determine the future of US-Taiwan relations.",
+      "emoji": "🇹🇼",
+      "category": "Asia-Pacific",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/taiwan-civilians-sharpen-self-defence-skills-ahead-of-trump-xi-summit",
+      "timestamp": "2026-05-11T19:20:00+03:00"
+    },
     {
       "headline": "Latvian Defense Minister Resigns After Drone Airspace Violations",
       "summary": "Latvia's defense minister resigned after Ukrainian drones, allegedly spoofed by Russia, violated Baltic airspace. Prime Minister Silina cited loss of public trust.",
@@ -8,7 +53,23 @@
       "category": "Ukraine-Russia War",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-incursions/",
-      "timestamp": "2026-05-11T18:07:00+03:00"
+      "timestamp": "2026-05-11T18:07:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-incursions",
+          "angle": "Latvian Defense Minister Resigns After Drone Incursions",
+          "summary": "Latvian Prime Minister Evika Silina requested the resignation of Defense Minister Andris Spruds after drones violated the country's airspace, saying he had lost her trust and \"that of the public.\""
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-incursions/",
+        "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-incursions"
+      ]
     },
     {
       "headline": "Turkey Unveils Yildirimhan ICBM With 6,000km Range",
@@ -17,7 +78,23 @@
       "category": "Defense Industry",
       "source": "Defense News",
       "url": "https://www.defensenews.com/global/europe/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/",
-      "timestamp": "2026-05-11T18:07:00+03:00"
+      "timestamp": "2026-05-11T18:07:00+03:00",
+      "perspectives": [
+        {
+          "source": "Defense News",
+          "url": "https://www.defensenews.com/global/mideast/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/",
+          "angle": "Turkey Achieves Propellant Breakthrough for Yildirimhan Long-Range Ballistic Missile",
+          "summary": "Ankara has been working on hypersonic technologies and liquid-propellant propulsion systems for nearly a decade, marking a significant advance in Turkish missile capabilities."
+        }
+      ],
+      "sources": [
+        "Defense News",
+        "Defense News"
+      ],
+      "urls": [
+        "https://www.defensenews.com/global/europe/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/",
+        "https://www.defensenews.com/global/mideast/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/"
+      ]
     },
     {
       "headline": "Hezbollah Strikes Iron Dome Battery With FPV Drone",
@@ -26,7 +103,23 @@
       "category": "Middle East",
       "source": "Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/defense-news/article-895734",
-      "timestamp": "2026-05-11T18:07:00+03:00"
+      "timestamp": "2026-05-11T18:07:00+03:00",
+      "perspectives": [
+        {
+          "source": "Jerusalem Post",
+          "url": "https://www.jpost.com/israel-news/article-851234",
+          "angle": "Hezbollah Strikes Iron Dome Battery With FPV Drone",
+          "summary": "Hezbollah used an FPV drone to strike an Iron Dome battery. The IDF has struggled to respond to FPV drone threats that use special cables and manual operation to evade jamming technologies."
+        }
+      ],
+      "sources": [
+        "Jerusalem Post",
+        "Jerusalem Post"
+      ],
+      "urls": [
+        "https://www.jpost.com/israel-news/defense-news/article-895734",
+        "https://www.jpost.com/israel-news/article-851234"
+      ]
     },
     {
       "headline": "EU Sanctions 16 Individuals Over Forced Deportation of Ukrainian Children",
@@ -253,39 +346,6 @@
       ]
     },
     {
-      "headline": "Turkey Achieves Propellant Breakthrough for Yildirimhan Long-Range Ballistic Missile",
-      "summary": "Ankara has been working on hypersonic technologies and liquid-propellant propulsion systems for nearly a decade, marking a significant advance in Turkish missile capabilities.",
-      "emoji": "🇹🇷🚀",
-      "category": "Defense Industry",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/global/mideast/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/",
-      "timestamp": "2026-05-11T12:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "The War Zone",
-          "url": "https://www.twz.com/what-is-behind-turkeys-pursuit-of-icbm",
-          "angle": "Turkey Unveils New Yildirimhan ICBM With 6,000km Range",
-          "summary": "Turkey revealed a previously unknown intercontinental ballistic missile, raising major questions about Ankara's strategic ambitions and defense capabilities in the region."
-        },
-        {
-          "source": "Defense News",
-          "url": "https://www.defensenews.com/global/europe/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/",
-          "angle": "Turkey announces propellant breakthrough for Yıldırımhan long-range ballistic missile",
-          "summary": "The Turkish government has achieved advances in hypersonic technologies and liquid-propellant propulsion systems for its Yıldırımhan missile program after nearly a decade of development."
-        }
-      ],
-      "sources": [
-        "Defense News",
-        "The War Zone",
-        "Defense News"
-      ],
-      "urls": [
-        "https://www.defensenews.com/global/mideast/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/",
-        "https://www.twz.com/what-is-behind-turkeys-pursuit-of-icbm",
-        "https://www.defensenews.com/global/europe/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/"
-      ]
-    },
-    {
       "headline": "20 Warships Now Enforcing Iran Blockade as Carrier Movements Intensify",
       "summary": "A detailed look at US carrier strike group positions shows unprecedented naval presence in the Middle East as the Iran blockade continues, with USS Nimitz making a stop in Rio during its repositioning cruise.",
       "emoji": "🇺🇸⚓🇮🇷",
@@ -458,56 +518,6 @@
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c3r2p70jdy7o",
       "timestamp": "2026-05-11T09:03:00+03:00"
-    },
-    {
-      "headline": "Latvian Defense Minister Resigns After Drone Incursions",
-      "summary": "Latvian Prime Minister Evika Silina requested the resignation of Defense Minister Andris Spruds after drones violated the country's airspace, saying he had lost her trust and \"that of the public.\"",
-      "emoji": "🇱🇻",
-      "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-incursions",
-      "timestamp": "2026-05-11T08:04:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-incursions",
-          "angle": "Latvian Defense Minister Resigns After Drone Incursions",
-          "summary": "Latvian Defense Minister Andris Spruds resigned after drones violated Latvia's airspace. Prime Minister Evika Silina requested his resignation, citing loss of trust."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-incursions",
-        "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-incursions"
-      ]
-    },
-    {
-      "headline": "Hezbollah Strikes Iron Dome Battery With FPV Drone",
-      "summary": "Hezbollah used an FPV drone to strike an Iron Dome battery. The IDF has struggled to respond to FPV drone threats that use special cables and manual operation to evade jamming technologies.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/article-851234",
-      "timestamp": "2026-05-11T08:04:00+03:00",
-      "perspectives": [
-        {
-          "source": "Jerusalem Post",
-          "url": "https://www.jpost.com/israel-news/defense-news/article-895734",
-          "angle": "Hezbollah strikes Iron Dome battery with FPV drone on northern border",
-          "summary": "Hezbollah released footage of a First-Person View drone striking an Iron Dome battery, highlighting the IDF struggle against FPV drones that use cables and manual operation to evade jamming technologies."
-        }
-      ],
-      "sources": [
-        "Jerusalem Post",
-        "Jerusalem Post"
-      ],
-      "urls": [
-        "https://www.jpost.com/israel-news/article-851234",
-        "https://www.jpost.com/israel-news/defense-news/article-895734"
-      ]
     },
     {
       "headline": "China Confirms Trump State Visit to Beijing This Week",
@@ -2271,90 +2281,6 @@
         "https://www.reuters.com/business/autos-transportation/toyota-sees-20-drop-annual-profit-iran-war-weighs-2026-05-08/",
         "https://www.theguardian.com/business/2026/may/11/iran-war-toyota-losses-material-prices"
       ]
-    },
-    {
-      "headline": "US Trade Court Rules Trump Tariffs Illegal, Blocks 10% Global Levy",
-      "summary": "A federal trade court ruled that President Trump exceeded his authority with new 10% global tariffs, though the order only applies to importers who sued. The administration plans to appeal.",
-      "emoji": "⚖️",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us-trade-court-rules-against-trumps-10-global-tariff-2026-05-07/",
-      "timestamp": "2026-05-08T19:15:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/us-trade-court-rules-against-trumps-10-global-tariff-2026-05-07/",
-          "angle": "US trade court rules Trump 10% global tariff illegal",
-          "summary": "A panel of federal judges on the Court of International Trade blocked President Trump's 10% tariffs on most US imports, ruling in a 2-1 decision that the law sidestepped a Supreme Court ruling that struck down blanket tariffs imposed under emergency powers."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/us-trade-court-rules-against-trumps-10-global-tariff-2026-05-07/",
-        "https://www.reuters.com/world/us-trade-court-rules-against-trumps-10-global-tariff-2026-05-07/"
-      ]
-    },
-    {
-      "headline": "US Navy Came Under Iranian Missile Fire After Attacking Oil Tanker",
-      "summary": "Iranian state media reports US naval forces in the Strait of Hormuz came under missile fire following a US attack on an Iranian oil tanker, marking a significant escalation in the Gulf conflict.",
-      "emoji": "⚔️",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/irans-state-broadcaster-says-enemy-units-came-under-missile-fire-after-us-attack-2026-05-07/",
-      "timestamp": "2026-05-08T19:15:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/iran-us-israel-war-china-may-6-2026-3d061a90ccde095178d9b988d94d08f3",
-          "angle": "US fires on Iranian oil tanker amid war pressure",
-          "summary": "US military forces fired on an Iranian oil tanker as the Trump administration continues to pressure Tehran for a deal to end the ongoing conflict."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/irans-state-broadcaster-says-enemy-units-came-under-missile-fire-after-us-attack-2026-05-07/",
-        "https://apnews.com/article/iran-us-israel-war-china-may-6-2026-3d061a90ccde095178d9b988d94d08f3"
-      ]
-    },
-    {
-      "headline": "North Korea Deploys Artillery at Border to Hit Seoul",
-      "summary": "Kim Jong Un inspected production of artillery with 60km+ range to be deployed at the South Korean border, bolstering its ability to strike Seoul and other targets.",
-      "emoji": "🇰🇵",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/north-korea-leader-kim-inspects-navy-destroyer-weapons-production-plants-2026-05-07/",
-      "timestamp": "2026-05-08T19:15:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/north-korea-leader-kim-inspects-navy-destroyer-weapons-production-plants-2026-05-07/",
-          "angle": "North Korea Deploys New Artillery Systems Capable of Striking Seoul",
-          "summary": "Kim Jong Un inspected new long-range artillery with ranges exceeding 60km to be deployed at the South Korean border, bolstering ability to hit Seoul, state media reports."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/north-korea-leader-kim-inspects-navy-destroyer-weapons-production-plants-2026-05-07/",
-        "https://www.reuters.com/world/asia-pacific/north-korea-leader-kim-inspects-navy-destroyer-weapons-production-plants-2026-05-07/"
-      ]
-    },
-    {
-      "headline": "China Fireworks Factory Blast Kills 37, One Missing",
-      "summary": "The death toll from a fireworks factory explosion in Hunan province rose to 37 with one person still missing, making it China's deadliest industrial blast since 2019.",
-      "emoji": "💥",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/death-toll-rises-37-china-fireworks-factory-blast-2026-05-08/",
-      "timestamp": "2026-05-08T19:15:00+03:00"
     }
   ]
 }
