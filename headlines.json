@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-11T21:05:36+03:00",
+  "lastUpdated": "2026-05-11T22:04:50+03:00",
   "headlines": [
     {
-      "headline": "Multiple Passengers Test Positive for Hantavirus After Cruise Ship Evacuation",
-      "summary": "US and French nationals are the latest confirmed cases as health officials evacuate passengers from a virus-stricken cruise ship. The rare Andes virus variant has prompted global health monitoring.",
-      "emoji": "🦠",
-      "category": "Health",
+      "headline": "Philippine Vice President Sara Duterte impeached for second time",
+      "summary": "The Philippine House of Representatives impeached Vice President Sara Duterte for a second time on charges of misusing public funds and threatening the lives of President Marcos Jr and his wife. If convicted in a Senate trial, she would be disqualified from running for president.",
+      "emoji": "🇵🇭",
+      "category": "Asia-Pacific",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cjep78l5835o",
-      "timestamp": "2026-05-11T21:03:00+03:00"
+      "url": "https://www.bbc.com/news/articles/cqlp21q4yq4o",
+      "timestamp": "2026-05-11T22:03:00+03:00"
+    },
+    {
+      "headline": "Bosnia high representative Christian Schmidt resigns",
+      "summary": "The international high representative for Bosnia and Herzegovina, Christian Schmidt, has resigned after appearing to lose backing from the United States. His departure raises questions about the future of the peace envoy role established under the Dayton Accords.",
+      "emoji": "🇧🇦",
+      "category": "Europe",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cg5pvj5pg51o",
+      "timestamp": "2026-05-11T22:03:00+03:00"
+    },
+    {
+      "headline": "Iranian Nobel laureate Narges Mohammadi granted bail amid health concerns",
+      "summary": "Iranian authorities granted human rights activist and Nobel Peace Prize laureate Narges Mohammadi bail amid growing international concern over her deteriorating health in prison. Mohammadi has been a prominent voice against Iran's treatment of women.",
+      "emoji": "🇮🇷",
+      "category": "Middle East",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c1j257w87neo",
+      "timestamp": "2026-05-11T22:03:00+03:00"
+    },
+    {
+      "headline": "Trump vows to pause federal gas tax after Iran war drives fuel prices to four-year high",
+      "summary": "President Trump announced plans to suspend the federal gasoline tax as fuel prices surged to their highest level in four years due to the ongoing Iran conflict. The proposal would require congressional approval.",
+      "emoji": "⛽",
+      "category": "Economy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/11/trump-federal-gas-tax-iran-war",
+      "timestamp": "2026-05-11T22:03:00+03:00"
+    },
+    {
+      "headline": "EU rejects Putin call for Gerhard Schroeder role in Ukraine peace talks",
+      "summary": "European Union officials rejected Russian President Vladimir Putin's proposal to involve former German Chancellor Gerhard Schroeder in Ukraine peace mediation, citing concerns about his close ties to Moscow and Russia's energy sector.",
+      "emoji": "🇪🇺",
+      "category": "Ukraine-Russia War",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/11/eu-rejects-putin-call-gerhard-schroder-role-ukraine-peace-talks",
+      "timestamp": "2026-05-11T22:03:00+03:00"
     },
     {
       "headline": "Washington Dinner Shooting Suspect Pleads Not Guilty to Assassination Attempt on Trump",
@@ -44,7 +80,23 @@
       "category": "Diplomacy",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/11/who-is-gerhard-schroeder-putins-pick-for-ukraine-peace-talks-mediation",
-      "timestamp": "2026-05-11T21:03:00+03:00"
+      "timestamp": "2026-05-11T21:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/eu-ukraine-reject-germanys-ex-chancellor-schroeder-as-peace-talks-mediator/",
+          "angle": "EU and Ukraine reject Schroeder as peace mediator",
+          "summary": "EU foreign policy chief Kaja Kallas and Ukraine rejected Gerhard Schroeder as a potential mediator, noting his work as a lobbyist for Russian state-owned companies and questioning why Putin would want him involved."
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://www.aljazeera.com/news/2026/5/11/who-is-gerhard-schroeder-putins-pick-for-ukraine-peace-talks-mediation",
+        "https://kyivindependent.com/eu-ukraine-reject-germanys-ex-chancellor-schroeder-as-peace-talks-mediator/"
+      ]
     },
     {
       "headline": "UK Sanctions 85 Over Ukrainian Children Deportation and Armenian Election Meddling",
@@ -321,15 +373,6 @@
         "https://www.bbc.com/news/articles/c1j257w87neo",
         "https://www.bbc.com/news/articles/cgmpj0p9k08o"
       ]
-    },
-    {
-      "headline": "EU and Ukraine reject Schroeder as peace mediator",
-      "summary": "EU foreign policy chief Kaja Kallas and Ukraine rejected Gerhard Schroeder as a potential mediator, noting his work as a lobbyist for Russian state-owned companies and questioning why Putin would want him involved.",
-      "emoji": "🇪🇺",
-      "category": "Diplomacy",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/eu-ukraine-reject-germanys-ex-chancellor-schroeder-as-peace-talks-mediator/",
-      "timestamp": "2026-05-11T14:05:00+03:00"
     },
     {
       "headline": "Hungary pledges to stop abusing EU veto rights",
@@ -979,19 +1022,19 @@
       "timestamp": "2026-05-11T01:03:00+03:00",
       "perspectives": [
         {
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/may/11/evacuated-us-and-french-mv-hondius-cruise-ship-passengers-test-positive-for-hantavirus",
-          "angle": "US and French cruise ship passengers test positive for hantavirus",
-          "summary": "One French passenger and one American tested positive for hantavirus after being evacuated from the MV Hondius cruise ship in the Canary Islands. The outbreak has triggered global contact tracing."
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cjep78l5835o",
+          "angle": "Multiple Passengers Test Positive for Hantavirus After Cruise Ship Evacuation",
+          "summary": "US and French nationals are the latest confirmed cases as health officials evacuate passengers from a virus-stricken cruise ship. The rare Andes virus variant has prompted global health monitoring."
         }
       ],
       "sources": [
         "AP News",
-        "The Guardian"
+        "BBC"
       ],
       "urls": [
         "https://apnews.com/article/hantavirus-cruise-ship-hondius-tenerife-1c43c66d2b0555cf946d9e57fc65f1d4",
-        "https://www.theguardian.com/world/2026/may/11/evacuated-us-and-french-mv-hondius-cruise-ship-passengers-test-positive-for-hantavirus"
+        "https://www.bbc.com/news/articles/cjep78l5835o"
       ]
     },
     {
@@ -2164,125 +2207,6 @@
       "source": "Al-Monitor",
       "url": "https://www.al-monitor.com/originals/2026/05/iraqs-sadr-says-exclude-armed-groups-next-government-pressure-builds",
       "timestamp": "2026-05-08T22:10:00+03:00"
-    },
-    {
-      "headline": "China exports accelerate in April as Iran war drives global stockpiling",
-      "summary": "Chinese export growth likely quickened in April as companies worldwide rushed to secure components amid fears the Iran conflict could push input costs higher, a Reuters poll shows.",
-      "emoji": "🇨🇳",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/chinas-exports-likely-picked-up-pace-april-iran-war-stockpiling-2026-05-08/",
-      "timestamp": "2026-05-08T22:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/chinas-exports-likely-picked-up-pace-april-iran-war-stockpiling-2026-05-08/",
-          "angle": "China Exports Surge as Companies Stockpile Amid Iran War Fears",
-          "summary": "Chinese export growth quickened in April as firms rushed to stockpile components, worried the Iran conflict could push input costs higher."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/africa/gold-fields-flags-cost-pressures-iran-war-drives-up-input-prices-2026-05-07/",
-          "angle": "Gold Fields flags cost pressures as Iran war drives up input prices",
-          "summary": "South Africas Gold Fields expects costs to increase as the Iran war has driven prices of fuel and explosives higher, highlighting conflict impact on mining sector."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/chinas-exports-likely-picked-up-pace-april-iran-war-stockpiling-2026-05-08/",
-        "https://www.reuters.com/world/china/chinas-exports-likely-picked-up-pace-april-iran-war-stockpiling-2026-05-08/",
-        "https://www.reuters.com/world/africa/gold-fields-flags-cost-pressures-iran-war-drives-up-input-prices-2026-05-07/"
-      ]
-    },
-    {
-      "headline": "German industrial production unexpectedly falls 0.7% in March",
-      "summary": "German industrial output dropped unexpectedly in March, decreasing 0.7% from the previous month, the federal statistics office reported, signaling continued weakness in Europe largest economy.",
-      "emoji": "🇩🇪",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/markets/us/german-industrial-output-falls-unexpectedly-march-2026-05-08/",
-      "timestamp": "2026-05-08T22:03:00+03:00"
-    },
-    {
-      "headline": "US Expects Iranian Response to Peace Proposal as Fighting Flares in Gulf",
-      "summary": "The United States expects an Iranian response as soon as Friday to its latest proposal to end the war, even as US and Iranian forces traded fire and the UAE came under renewed attack.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/uae-countering-iranian-air-attack-after-trump-says-ceasefire-still-effect-2026-05-08/",
-      "timestamp": "2026-05-08T21:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/clypgz9e5pmo",
-          "angle": "Trump Rejects Iranian Peace Proposal, Says Response \"Totally Unacceptable\"",
-          "summary": "President Trump dismissed Iran's response to a US ceasefire proposal as \"totally unacceptable,\" straining the fragile truce. Iran reportedly demanded lifting of the US naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz, and war damage compensation."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/uae-countering-iranian-air-attack-after-trump-says-ceasefire-still-effect-2026-05-08/",
-        "https://www.bbc.com/news/articles/clypgz9e5pmo"
-      ]
-    },
-    {
-      "headline": "Dollar Slips as Investors Pin Hopes on US-Iran Peace Resolution",
-      "summary": "The dollar slipped Friday, on pace for a second straight weekly fall as investors stayed cautiously optimistic about a swift end to the Middle East conflict after Trump said the ceasefire remained in place.",
-      "emoji": "💰🇺🇸",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/dollar-firms-us-iran-hostilities-flare-yen-steadied-by-intervention-risk-2026-05-08/",
-      "timestamp": "2026-05-08T21:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/india/gold-steady-markets-focus-potential-us-iran-peace-deal-2026-05-07/",
-          "angle": "Gold Rises for Third Day on Hopes for US-Iran Peace Agreement",
-          "summary": "Gold prices extended gains as a softer dollar and optimism about diplomatic efforts to end the Middle East conflict supported the precious metal."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/dollar-firms-us-iran-hostilities-flare-yen-steadied-by-intervention-risk-2026-05-08/",
-        "https://www.reuters.com/world/india/gold-steady-markets-focus-potential-us-iran-peace-deal-2026-05-07/"
-      ]
-    },
-    {
-      "headline": "Questions Mount Over UK PM Starmer Future After Election Losses",
-      "summary": "British Prime Minister Keir Starmer has vowed to carry on as leader after his Labour Party suffered heavy losses to the populist Reform party, deepening doubts over his ability to govern.",
-      "emoji": "🇬🇧🗳️",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/uk/could-uk-pm-starmer-be-forced-out-after-local-election-losses-2026-05-08/",
-      "timestamp": "2026-05-08T21:05:00+03:00"
-    },
-    {
-      "headline": "Kremlin Says Putin Ready to Negotiate With EU But Wont Make First Move",
-      "summary": "President Vladimir Putin is ready to negotiate with everyone including the Europeans, the Kremlin said, after reports EU leaders were preparing for potential talks.",
-      "emoji": "🇷🇺🇪🇺",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/putin-is-ready-talk-with-eu-wont-make-first-move-kremlin-says-2026-05-08/",
-      "timestamp": "2026-05-08T21:05:00+03:00"
-    },
-    {
-      "headline": "Global Perceptions of US Fall Below Russia Under Trump, Survey Finds",
-      "summary": "Global perceptions of the US have deteriorated for a second consecutive year and are now worse than views of Russia, an annual study showed, as Trumps policies continue to strain the NATO alliance.",
-      "emoji": "🌍📉",
-      "category": "Geopolitics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/global-perceptions-us-fall-below-russia-under-trump-survey-finds-2026-05-08/",
-      "timestamp": "2026-05-08T21:05:00+03:00"
     }
   ]
 }
