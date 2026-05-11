@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-11T07:05:13+03:00",
+  "lastUpdated": "2026-05-11T08:04:30+03:00",
   "headlines": [
     {
-      "headline": "Trump Rejects Iran Ceasefire Response as \"Totally Unacceptable\"",
-      "summary": "President Trump dismissed Iran response to US peace proposal, extending limbo in the Middle East conflict. Tehran had reportedly sent a response via Pakistan to a US ceasefire proposal.",
-      "emoji": "🇮🇷",
+      "headline": "Trump Rejects Iran Ceasefire Proposal as \"Totally Unacceptable\"",
+      "summary": "US President dismissed Iran's response to American proposals aimed at ending the conflict, keeping the Strait of Hormuz effectively shut and oil prices elevated.",
+      "emoji": "🇺🇸🇮🇷",
       "category": "US-Iran War",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/world",
-      "timestamp": "2026-05-11T07:05:00+03:00"
+      "url": "https://www.bbc.com/news/world/middle-east",
+      "timestamp": "2026-05-11T08:05:00+03:00"
+    },
+    {
+      "headline": "Israeli Strikes Kill 51 in Lebanon, Including Medics, as Ceasefire Unravels",
+      "summary": "Israeli attacks intensify in southern Lebanon with 552 killed since the ceasefire started on April 16, including at least 51 in the past 24 hours.",
+      "emoji": "🇱🇧🇮🇱",
+      "category": "Middle East",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/10/medics-killed-israel-lebanon",
+      "timestamp": "2026-05-11T08:05:00+03:00"
+    },
+    {
+      "headline": "Polish Ex-Minister Flees Hungary to US After PM Magyar Refuses Protection",
+      "summary": "Former Polish minister sought refuge in the United States after Hungary's prime minister said the country would not protect individuals wanted elsewhere.",
+      "emoji": "🇵🇱🇭🇺",
+      "category": "Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/10/polish-ex-minister-flees-hungary-us",
+      "timestamp": "2026-05-11T08:05:00+03:00"
+    },
+    {
+      "headline": "Greece Investigates Explosive-Packed Drone Found in Territorial Waters",
+      "summary": "Greek officials are scrambling to explain how a drone carrying explosives ended up in their waters, with suspicion falling on the Ukraine conflict.",
+      "emoji": "🇬🇷",
+      "category": "Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/10/greece-explosive-drone-waters",
+      "timestamp": "2026-05-11T08:05:00+03:00"
+    },
+    {
+      "headline": "Iran Nobel Laureate Narges Mohammadi Granted Bail, Transferred to Hospital",
+      "summary": "Iranian authorities released the ailing human rights activist on bail amid growing concern over her deteriorating health in prison.",
+      "emoji": "🇮🇷",
+      "category": "Middle East",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/world/middle-east/iran-nobel-mohammadi-bail",
+      "timestamp": "2026-05-11T08:05:00+03:00"
     },
     {
       "headline": "Nobel Laureate Narges Mohammadi Granted Bail and Hospital Transfer in Iran",
@@ -17,7 +53,23 @@
       "category": "Middle East",
       "source": "BBC",
       "url": "https://www.bbc.com/news/world",
-      "timestamp": "2026-05-11T07:05:00+03:00"
+      "timestamp": "2026-05-11T07:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3353072/jailed-iran-nobel-laureate-narges-mohammadi-transferred-hospital-after-medical-crisis",
+          "angle": "Jailed Iranian Nobel laureate Narges Mohammadi hospitalized after medical crisis",
+          "summary": "The Iranian activist and Nobel Peace Prize winner was transferred to a hospital after collapsing in prison over a week ago. Her family had been pleading for proper medical care."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "SCMP"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/world",
+        "https://www.scmp.com/news/world/middle-east/article/3353072/jailed-iran-nobel-laureate-narges-mohammadi-transferred-hospital-after-medical-crisis"
+      ]
     },
     {
       "headline": "Oil Prices Jump After Trump Dismisses Iran Proposal",
@@ -232,31 +284,6 @@
       ]
     },
     {
-      "headline": "Jailed Iranian Nobel laureate Narges Mohammadi hospitalized after medical crisis",
-      "summary": "The Iranian activist and Nobel Peace Prize winner was transferred to a hospital after collapsing in prison over a week ago. Her family had been pleading for proper medical care.",
-      "emoji": "🇮🇷",
-      "category": "Middle East",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3353072/jailed-iran-nobel-laureate-narges-mohammadi-transferred-hospital-after-medical-crisis",
-      "timestamp": "2026-05-11T04:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/may/10/narges-mohammadi-nobel-laureate-smuggled-memoir-details-beatings-neglect-iranian-prisons",
-          "angle": "Nobel Laureate Smuggled Memoir Details Iranian Prison Abuse",
-          "summary": "Narges Mohammadi, arrested 14 times for activism, smuggled writings describe beatings and neglect in Iranian prisons, offering a disturbing glimpse into conditions amid the ongoing conflict."
-        }
-      ],
-      "sources": [
-        "SCMP",
-        "The Guardian"
-      ],
-      "urls": [
-        "https://www.scmp.com/news/world/middle-east/article/3353072/jailed-iran-nobel-laureate-narges-mohammadi-transferred-hospital-after-medical-crisis",
-        "https://www.theguardian.com/world/2026/may/10/narges-mohammadi-nobel-laureate-smuggled-memoir-details-beatings-neglect-iranian-prisons"
-      ]
-    },
-    {
       "headline": "Kremlin expects US envoys Witkoff and Kushner for peace talks quite soon",
       "summary": "Russian officials said they expect US envoys Steve Witkoff and Jared Kushner to visit Moscow soon. Peace talks remain stalled as the Kremlin insists Ukraine must withdraw from Donbas first.",
       "emoji": "🇷🇺🇺🇸",
@@ -411,7 +438,7 @@
           "source": "BBC",
           "url": "https://www.bbc.com/news/world",
           "angle": "Trump Rejects Iran Ceasefire Response as \"Totally Unacceptable\"",
-          "summary": "US President dismissed Iran's response to a US ceasefire proposal designed to end the war. The Strait of Hormuz remains effectively shut, severely disrupting global energy shipments as oil prices jumped on the news."
+          "summary": "President Trump dismissed Iran response to US peace proposal, extending limbo in the Middle East conflict. Tehran had reportedly sent a response via Pakistan to a US ceasefire proposal."
         }
       ],
       "sources": [
@@ -2342,49 +2369,6 @@
         "https://www.reuters.com/business/maersk-first-quarter-profit-beats-forecasts-keeps-outlook-unchanged-2026-05-07/",
         "https://www.reuters.com/business/maersk-first-quarter-profit-beats-forecasts-keeps-outlook-unchanged-2026-05-07/"
       ]
-    },
-    {
-      "headline": "Netanyahu Vows No Immunity for Enemies After Beirut Strike",
-      "summary": "Israel struck a Hezbollah commander in Beirut, its first strike on the capital since the ceasefire. Netanyahu declared there would be no immunity for militants threatening Israel.",
-      "emoji": "🇮🇱🇱🇧⚔️",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/israel-says-it-killed-hezbollah-commander-first-strike-beirut-since-ceasefire-2026-05-07/",
-      "timestamp": "2026-05-08T08:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/israel-says-it-killed-hezbollah-commander-first-strike-beirut-since-ceasefire-2026-05-07/",
-          "angle": "Israel Strikes Beirut, Netanyahu Warns No Immunity for Militants",
-          "summary": "Israel carried out its first strike on Beirut's southern suburbs since the ceasefire, targeting a Hezbollah commander. Netanyahu declared there would be \"no immunity\" for Israel's enemies amid escalating regional tensions."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/israel-says-it-killed-hezbollah-commander-first-strike-beirut-since-ceasefire-2026-05-07/",
-        "https://www.reuters.com/world/israel-says-it-killed-hezbollah-commander-first-strike-beirut-since-ceasefire-2026-05-07/"
-      ]
-    },
-    {
-      "headline": "Global Views of US Fall Below Russia Under Trump, Survey Finds",
-      "summary": "An annual democracy study shows US global perceptions have deteriorated for a second year and now rank worse than Russia, as Trump’s policies strain the NATO alliance.",
-      "emoji": "🇺🇸🌍📉",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/global-perceptions-us-fall-below-russia-under-trump-survey-finds-2026-05-08/",
-      "timestamp": "2026-05-08T08:03:00+03:00"
-    },
-    {
-      "headline": "Lula Visits Trump Seeking to Avert Trade Tariffs",
-      "summary": "Brazilian President Lula met with Trump in Washington to discuss trade relations and tariffs. The two leaders skipped a joint press appearance despite signs of thaw in relations.",
-      "emoji": "🇧🇷🇺🇸🏛️",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/americas/brazils-lula-visits-trump-washington-seeking-avert-new-us-trade-tariffs-2026-05-07/",
-      "timestamp": "2026-05-08T08:03:00+03:00"
     }
   ]
 }
