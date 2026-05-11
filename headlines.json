@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-11T02:08:21+03:00",
+  "lastUpdated": "2026-05-11T03:04:55+03:00",
   "headlines": [
+    {
+      "headline": "Iran responds to US ceasefire proposal as Trump prepares for China summit",
+      "summary": "Tehran delivered its response to Washington's proposal to end the conflict, with Trump calling the reply unacceptable. The diplomatic exchange comes as Trump prepares to meet Xi Jinping to discuss Iran and trade tensions.",
+      "emoji": "🇮🇷🇺🇸",
+      "category": "US-Iran War",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/11/iran-replies-to-us-proposal-trump-finds-response-unacceptable",
+      "timestamp": "2026-05-11T03:00:00+03:00"
+    },
+    {
+      "headline": "Putin says Ukraine conflict coming to an end after Victory Day parade",
+      "summary": "The Russian president suggested the war is nearing conclusion during a scaled-down Victory Day parade in Moscow, following a US-brokered three-day ceasefire and prisoner swap announcement.",
+      "emoji": "🇷🇺🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/putin-ukraine-conflict-coming-to-an-end",
+      "timestamp": "2026-05-11T03:00:00+03:00"
+    },
+    {
+      "headline": "Russia and Ukraine trade accusations over violated US-brokered ceasefire",
+      "summary": "Both sides alleged violations of the three-day truce brokered by Washington, with Russia reporting Ukrainian attacks and Kyiv accusing Moscow of continuing drone strikes during the ceasefire period.",
+      "emoji": "⚔️",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-ceasefire-violations-trump",
+      "timestamp": "2026-05-11T03:00:00+03:00"
+    },
+    {
+      "headline": "Germany moves to purchase US Tomahawk missiles for defense boost",
+      "summary": "Berlin is reviving efforts to acquire American Tomahawk cruise missiles as part of a broader European push to strengthen defense capabilities amid growing security concerns on the continent.",
+      "emoji": "🇩🇪🇺🇸",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/germany-revives-effort-buy-us-tomahawks-2026-05-11",
+      "timestamp": "2026-05-11T03:00:00+03:00"
+    },
+    {
+      "headline": "Macron leads diplomatic push in East Africa to redefine French influence",
+      "summary": "The French president is touring Kenya and East African nations for an Africa summit, seeking to reshape France's role on the continent amid changing geopolitical dynamics and competition from other powers.",
+      "emoji": "🇫🇷🌍",
+      "category": "Africa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/11/macron-tours-east-africa-france-role-continent",
+      "timestamp": "2026-05-11T03:00:00+03:00"
+    },
     {
       "headline": "Hezbollah strikes Iron Dome battery with FPV drone on northern border",
       "summary": "Hezbollah released footage of a First-Person View drone striking an Iron Dome battery, highlighting the IDF struggle against FPV drones that use cables and manual operation to evade jamming technologies.",
@@ -17,7 +62,23 @@
       "category": "Middle East",
       "source": "Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/defense-news/article-895673",
-      "timestamp": "2026-05-11T02:08:00+03:00"
+      "timestamp": "2026-05-11T02:08:00+03:00",
+      "perspectives": [
+        {
+          "source": "Haaretz",
+          "url": "https://www.haaretz.com/middle-east-news/iran/2026-05-10/ty-article/.premium/reports-u-s-told-iraq-to-avoid-area-where-israel-allegedly-built-iran-war-base/0000019e-1230-db10-a3bf-f233f0fe0000",
+          "angle": "Israel Allegedly Built Secret Military Outpost in Iraq for Iran Operations",
+          "summary": "Reports indicate Israel established a clandestine military base in Iraq to support operations against Iran. The US reportedly advised Iraq to avoid the area where the facility was allegedly constructed."
+        }
+      ],
+      "sources": [
+        "Jerusalem Post",
+        "Haaretz"
+      ],
+      "urls": [
+        "https://www.jpost.com/israel-news/defense-news/article-895673",
+        "https://www.haaretz.com/middle-east-news/iran/2026-05-10/ty-article/.premium/reports-u-s-told-iraq-to-avoid-area-where-israel-allegedly-built-iran-war-base/0000019e-1230-db10-a3bf-f233f0fe0000"
+      ]
     },
     {
       "headline": "South Korea identifies aircraft that struck cargo ship in Hormuz",
@@ -372,15 +433,6 @@
       "category": "Diplomacy",
       "source": "SCMP",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3352980/us-sanctions-9-mainland-china-and-hong-kong-entities-over-alleged-iran-military-links",
-      "timestamp": "2026-05-10T21:00:00+03:00"
-    },
-    {
-      "headline": "Israel Allegedly Built Secret Military Outpost in Iraq for Iran Operations",
-      "summary": "Reports indicate Israel established a clandestine military base in Iraq to support operations against Iran. The US reportedly advised Iraq to avoid the area where the facility was allegedly constructed.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/middle-east-news/iran/2026-05-10/ty-article/.premium/reports-u-s-told-iraq-to-avoid-area-where-israel-allegedly-built-iran-war-base/0000019e-1230-db10-a3bf-f233f0fe0000",
       "timestamp": "2026-05-10T21:00:00+03:00"
     },
     {
@@ -2485,92 +2537,6 @@
       "source": "BBC",
       "url": "https://www.bbc.com/news/world/middle-east/gaza-hamas-disarmament-talks",
       "timestamp": "2026-05-08T04:03:00+03:00"
-    },
-    {
-      "headline": "Saudi Arabia and Kuwait lift US military access restrictions",
-      "summary": "Saudi Arabia and Kuwait have lifted restrictions on US military use of their bases and airspace that were imposed after the launch of the US operation to reopen the Strait of Hormuz, according to the Wall Street Journal.",
-      "emoji": "🇸🇦",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/saudi-arabia-kuwait-lift-restrictions-us-military-access-bases-airspace-wsj-says-2026-05-07/",
-      "timestamp": "2026-05-08T03:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/saudi-arabia-kuwait-lift-restrictions-us-military-access-bases-airspace-wsj-says-2026-05-07/",
-          "angle": "Saudi Arabia and Kuwait Lift US Military Access Restrictions",
-          "summary": "Saudi Arabia and Kuwait have lifted restrictions on US military use of their bases and airspace that were imposed after the launch of Operation to reopen the Strait of Hormuz, the Wall Street Journal reports."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/saudi-arabia-kuwait-lift-restrictions-us-military-access-bases-airspace-wsj-says-2026-05-07/",
-        "https://www.reuters.com/world/middle-east/saudi-arabia-kuwait-lift-restrictions-us-military-access-bases-airspace-wsj-says-2026-05-07/"
-      ]
-    },
-    {
-      "headline": "Rubio approves .8 billion in weapons sales to Middle East partners",
-      "summary": "US Secretary of State Marco Rubio approved the sale of hundreds of air-defense interceptors and other weapons to Middle East partners in deals worth .8 billion as the region remains volatile.",
-      "emoji": "💰",
-      "category": "Defense Industry",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/rubio-approves-258-billion-weapons-push-middle-east-nations-bloomberg-news-2026-05-07/",
-      "timestamp": "2026-05-08T03:03:00+03:00"
-    },
-    {
-      "headline": "EU prepares for potential talks with Vladimir Putin",
-      "summary": "European Union leaders are preparing for potential talks with Russian President Vladimir Putin, the Financial Times reported, citing a senior official.",
-      "emoji": "🇪🇺",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/eu-prepares-potential-talks-with-vladimir-putin-ft-reports-2026-05-07/",
-      "timestamp": "2026-05-08T03:03:00+03:00"
-    },
-    {
-      "headline": "China asks banks to pause loans to US-sanctioned refineries",
-      "summary": "China's financial regulator has advised the country's largest lenders to temporarily suspend new loans to five refineries recently sanctioned by the US over their ties to Iranian oil, Bloomberg News reported.",
-      "emoji": "🇨🇳",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/china-asks-banks-pause-new-loans-us-sanctioned-refiners-bloomberg-news-reports-2026-05-07/",
-      "timestamp": "2026-05-08T03:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/china-asks-banks-pause-new-loans-us-sanctioned-refiners-bloomberg-news-reports-2026-05-07/",
-          "angle": "China Tells Banks to Halt Loans to US-Sanctioned Iranian Oil Refineries",
-          "summary": "Chinese regulators advised major lenders to suspend new loans to five refineries sanctioned by the US over ties to Iranian oil, signaling Beijing may be bowing to Washington pressure."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/china-asks-banks-pause-new-loans-us-sanctioned-refiners-bloomberg-news-reports-2026-05-07/",
-        "https://www.reuters.com/world/asia-pacific/china-asks-banks-pause-new-loans-us-sanctioned-refiners-bloomberg-news-reports-2026-05-07/"
-      ]
-    },
-    {
-      "headline": "Poland's president pushes referendum on EU climate policy amid political roadblocks",
-      "summary": "Polish President Andrzej Duda is advocating for a referendum on EU climate policy, though the proposal faces opposition in the Senate. The debate highlights tensions over energy transition costs and sovereignty.",
-      "emoji": "🇵🇱🇪🇺",
-      "category": "Europe",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/europe/polish-president-pushes-referendum-on-eu-climate-policy-faces-political-roadblocks/3930783",
-      "timestamp": "2026-05-08T02:10:00+03:00"
-    },
-    {
-      "headline": "China urged to forge 'spear' for cognitive warfare amid great power rivalry",
-      "summary": "Prominent Chinese academics are calling on Beijing to move beyond a defensive mindset and actively shape international public opinion. The recommendations come as competition with Western powers intensifies.",
-      "emoji": "🇨🇳💡",
-      "category": "Geopolitics",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3352785/china-urged-forge-spear-cognitive-warfare-amid-great-power-rivalry",
-      "timestamp": "2026-05-08T02:10:00+03:00"
     }
   ]
 }
