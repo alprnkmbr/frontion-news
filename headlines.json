@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-11T23:04:51+03:00",
+  "lastUpdated": "2026-05-12T00:04:51+03:00",
   "headlines": [
+    {
+      "headline": "Putin signals Ukraine war may be ending as Russia loses momentum",
+      "summary": "Russian President Vladimir Putin suggested the war in Ukraine may be coming to an end, amid signs that Russia is losing battlefield momentum with Ukraine retaking territory and Russian casualties exceeding recruitment rates.",
+      "emoji": "🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/11/why-is-putin-now-talking-about-the-war-in-ukraine-coming-to-an-end",
+      "timestamp": "2026-05-12T00:03:00+03:00"
+    },
+    {
+      "headline": "Nazi-looted painting found in home of Dutch SS leader descendants",
+      "summary": "A portrait stolen from Jewish art collector Jacques Goudstikker during World War II was discovered in the home of descendants of Hendrik Seyffardt, a Dutch SS general, after a family member came forward to return it.",
+      "emoji": "🏛️",
+      "category": "Europe",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cgmpj0p9k08o",
+      "timestamp": "2026-05-12T00:03:00+03:00"
+    },
+    {
+      "headline": "Six migrants found dead in shipping container at Texas rail yard",
+      "summary": "Six people, believed to be migrants, were found dead inside a shipping container at a Union Pacific rail yard near the Mexico border in Laredo, Texas, with heat stroke suspected as the cause of death.",
+      "emoji": "🇺🇸",
+      "category": "US Politics",
+      "source": "AP News",
+      "url": "https://apnews.com/article/boxcar-train-deaths-laredo-texas-mexico-fdf03f56b3496f6ac063fa6337ce5ccb",
+      "timestamp": "2026-05-12T00:03:00+03:00"
+    },
+    {
+      "headline": "Last passengers evacuated from hantavirus-hit cruise ship as new cases confirmed",
+      "summary": "The final passengers from the MV Hondius have been evacuated to 20 countries for quarantine, with new hantavirus cases confirmed in France and the US, as the WHO says the public health risk remains low.",
+      "emoji": "🚢",
+      "category": "Health",
+      "source": "AP News",
+      "url": "https://apnews.com/article/hantavirus-outbreak-hondius-cruise-ship-df0e7e1fb9c7fd3e4092be06e684f644",
+      "timestamp": "2026-05-12T00:03:00+03:00"
+    },
     {
       "headline": "Chad airstrikes on Boko Haram kill dozens of Nigerian fishermen",
       "summary": "Fishermen's leader reports 40 people feared dead after Chad targeted Boko Haram militants near Lake Chad, with casualties including Nigerian civilians caught in strikes or drowning while fleeing.",
@@ -8,7 +44,23 @@
       "category": "Africa",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cr5p85v446ro",
-      "timestamp": "2026-05-11T23:03:00+03:00"
+      "timestamp": "2026-05-11T23:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cr5p85v446ro",
+          "angle": "Chad airstrikes on Boko Haram kill dozens of Nigerian fishermen",
+          "summary": "Chad conducted airstrikes targeting Boko Haram positions near Lake Chad, with fishermen reporting 40 people feared dead either from the strikes or drowning while fleeing. The incident highlights the ongoing regional conflict affecting civilian populations."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cr5p85v446ro",
+        "https://www.bbc.com/news/articles/cr5p85v446ro"
+      ]
     },
     {
       "headline": "Musk, Cook among CEOs to join Trump on China visit",
@@ -17,7 +69,23 @@
       "category": "US-China",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c5yx757w048o",
-      "timestamp": "2026-05-11T23:03:00+03:00"
+      "timestamp": "2026-05-11T23:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3353075/china-confirms-dates-donald-trumps-state-visit-beijing",
+          "angle": "China Confirms Trump State Visit to Beijing This Week",
+          "summary": "China confirmed dates for President Donald Trump's state visit to Beijing, the first trip to the country by a US president since 2017. The visit includes two bilateral meetings amid tensions over Iran, tariffs, Taiwan and tech rivalry."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "SCMP"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/c5yx757w048o",
+        "https://www.scmp.com/news/china/diplomacy/article/3353075/china-confirms-dates-donald-trumps-state-visit-beijing"
+      ]
     },
     {
       "headline": "Bosnia high representative resigns amid US backing uncertainty",
@@ -26,7 +94,23 @@
       "category": "Europe",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cg5pvj5pg51o",
-      "timestamp": "2026-05-11T23:03:00+03:00"
+      "timestamp": "2026-05-11T23:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cg5pvj5pg51o",
+          "angle": "Bosnia high representative Christian Schmidt resigns",
+          "summary": "The international high representative for Bosnia and Herzegovina, Christian Schmidt, has resigned after appearing to lose backing from the United States. His departure raises questions about the future of the peace envoy role established under the Dayton Accords."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cg5pvj5pg51o",
+        "https://www.bbc.com/news/articles/cg5pvj5pg51o"
+      ]
     },
     {
       "headline": "Israel strikes kill at least four in southern Lebanon",
@@ -35,15 +119,6 @@
       "category": "Middle East",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/11/israeli-attacks-kill-at-least-four-in-southern-lebanon",
-      "timestamp": "2026-05-11T23:03:00+03:00"
-    },
-    {
-      "headline": "Modi urges Indians to avoid foreign travel amid Iran war energy crisis",
-      "summary": "Indian Prime Minister Modi asked citizens to work from home and avoid foreign trips during the global energy crisis triggered by the Iran-US conflict.",
-      "emoji": "🇮🇳⛽",
-      "category": "South Asia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/11/iran-war-effect-why-is-modi-asking-indians-to-avoid-foreign-trips-gold",
       "timestamp": "2026-05-11T23:03:00+03:00"
     },
     {
@@ -130,31 +205,6 @@
       "urls": [
         "https://www.bbc.com/news/articles/cqlp21q4yq4o",
         "https://www.aljazeera.com/news/2026/5/11/philippine-congress-impeach-vp-sara-duterte"
-      ]
-    },
-    {
-      "headline": "Bosnia high representative Christian Schmidt resigns",
-      "summary": "The international high representative for Bosnia and Herzegovina, Christian Schmidt, has resigned after appearing to lose backing from the United States. His departure raises questions about the future of the peace envoy role established under the Dayton Accords.",
-      "emoji": "🇧🇦",
-      "category": "Europe",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cg5pvj5pg51o",
-      "timestamp": "2026-05-11T22:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cg5pvj5pg51o",
-          "angle": "Bosnia peace envoy Christian Schmidt resigns",
-          "summary": "The international High Representative for Bosnia and Herzegovina has stepped down after appearing to lose US backing. Schmidt had held the powerful peace envoy role since 2021, raising questions about the future of international oversight in the Balkans."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/cg5pvj5pg51o",
-        "https://www.bbc.com/news/articles/cg5pvj5pg51o"
       ]
     },
     {
@@ -294,15 +344,6 @@
         "https://apnews.com/article/iran-us-israel-china-war-may-11-2026-0e9067769efea20e9d45e3d43158ad8c",
         "https://www.bbc.com/news/articles/clypgz9e5pmo"
       ]
-    },
-    {
-      "headline": "Chad airstrikes on Boko Haram kill dozens of Nigerian fishermen",
-      "summary": "Chad conducted airstrikes targeting Boko Haram positions near Lake Chad, with fishermen reporting 40 people feared dead either from the strikes or drowning while fleeing. The incident highlights the ongoing regional conflict affecting civilian populations.",
-      "emoji": "🇳🇬",
-      "category": "Africa",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cr5p85v446ro",
-      "timestamp": "2026-05-11T19:20:00+03:00"
     },
     {
       "headline": "EU restores full trade ties with Syria after years of sanctions",
@@ -596,7 +637,23 @@
       "category": "South Asia",
       "source": "BBC",
       "url": "https://www.bbc.com/news/world/asia/india",
-      "timestamp": "2026-05-11T12:00:00+03:00"
+      "timestamp": "2026-05-11T12:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/11/iran-war-effect-why-is-modi-asking-indians-to-avoid-foreign-trips-gold",
+          "angle": "Modi urges Indians to avoid foreign travel amid Iran war energy crisis",
+          "summary": "Indian Prime Minister Modi asked citizens to work from home and avoid foreign trips during the global energy crisis triggered by the Iran-US conflict."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/world/asia/india",
+        "https://www.aljazeera.com/news/2026/5/11/iran-war-effect-why-is-modi-asking-indians-to-avoid-foreign-trips-gold"
+      ]
     },
     {
       "headline": "Modi urges Indians to work from home as Iran war strains fuel supply",
@@ -751,15 +808,6 @@
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c3r2p70jdy7o",
       "timestamp": "2026-05-11T09:03:00+03:00"
-    },
-    {
-      "headline": "China Confirms Trump State Visit to Beijing This Week",
-      "summary": "China confirmed dates for President Donald Trump's state visit to Beijing, the first trip to the country by a US president since 2017. The visit includes two bilateral meetings amid tensions over Iran, tariffs, Taiwan and tech rivalry.",
-      "emoji": "🇨🇳",
-      "category": "US-China",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3353075/china-confirms-dates-donald-trumps-state-visit-beijing",
-      "timestamp": "2026-05-11T08:04:00+03:00"
     },
     {
       "headline": "Putin Hints Ukraine Conflict \"Coming to an End\" Amid Ceasefire Talks",
@@ -2197,15 +2245,6 @@
       "source": "Nikkei",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/2-lng-tankers-cross-hormuz-on-way-to-japan-china-but-shortage-persists",
       "timestamp": "2026-05-09T00:05:00+03:00"
-    },
-    {
-      "headline": "European Shares Slide as Middle East Tensions Flare",
-      "summary": "European shares slipped on Friday in broad-based losses as a flare-up in the Middle East conflict hit risk sentiment at the end of a week dominated by geopolitics.",
-      "emoji": "📉🇪🇺",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/markets/europe/european-shares-retreat-middle-east-tensions-flare-2026-05-08/",
-      "timestamp": "2026-05-09T00:03:00+03:00"
     }
   ]
 }
