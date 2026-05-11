@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-11T05:05:14+03:00",
+  "lastUpdated": "2026-05-11T06:05:09+03:00",
   "headlines": [
     {
-      "headline": "Trump-Xi Summit This Week Complicated by Iran War and Trade Tensions",
-      "summary": "President Trump heads to Beijing for talks with Xi Jinping amid the Iran war. Beijing's economic ties to Tehran and ongoing tariff disputes could strain the visit, despite Trump predicting a 'big, fat hug' from the Chinese leader.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "Diplomacy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/trump-visit-china-xi-iran-trade-diplomacy-75a27d595cfa5882b1e5bef917385309",
-      "timestamp": "2026-05-11T05:05:00+03:00"
+      "headline": "Trump Rejects Iran Ceasefire Response as \"Totally Unacceptable\"",
+      "summary": "US President dismissed Iran's response to a US ceasefire proposal designed to end the war. The Strait of Hormuz remains effectively shut, severely disrupting global energy shipments as oil prices jumped on the news.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "US-Iran War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/world",
+      "timestamp": "2026-05-11T06:03:00+03:00"
+    },
+    {
+      "headline": "Russia Breaches Three-Day Ukraine Ceasefire, Zelenskyy Says",
+      "summary": "Ukrainian President Zelenskyy accused Russia of violating a three-day ceasefire agreement, as Putin publicly suggested the conflict may be \"coming to an end\" while condemning Western support for Ukraine.",
+      "emoji": "🇺🇦🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world",
+      "timestamp": "2026-05-11T06:03:00+03:00"
+    },
+    {
+      "headline": "British Paratroopers Land on Remote Island for Hantavirus Case",
+      "summary": "A specialist British military team parachuted onto Tristan da Cunha, one of the world's most remote inhabited islands, to treat a suspected hantavirus case. The operation highlights global health concerns as a cruise ship outbreak continues.",
+      "emoji": "🇬🇧🏥",
+      "category": "Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world",
+      "timestamp": "2026-05-11T06:03:00+03:00"
+    },
+    {
+      "headline": "Medics Among 51 Killed in Israeli Attacks on Lebanon",
+      "summary": "Israeli attacks intensify in southern Lebanon, with 552 killed since the ceasefire started on April 16. Medical personnel are among the casualties as the conflict continues to escalate.",
+      "emoji": "🇱🇧⚔️",
+      "category": "Middle East",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/",
+      "timestamp": "2026-05-11T06:03:00+03:00"
+    },
+    {
+      "headline": "Polish Ex-Minister Flees Hungary to US After PM Warning",
+      "summary": "Zbigniew Ziobro, former Polish justice minister accused of leading an organized criminal enterprise, fled to the US after Hungary's new PM said the country would not protect people wanted elsewhere.",
+      "emoji": "🇵🇱🇭🇺",
+      "category": "Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world",
+      "timestamp": "2026-05-11T06:03:00+03:00"
     },
     {
       "headline": "Israel Operated Secret Military Base in Iraq During Iran War",
@@ -17,7 +53,31 @@
       "category": "Middle East",
       "source": "Wall Street Journal",
       "url": "https://www.wsj.com/world/middle-east/israel-built-and-defended-a-secret-iran-war-base-in-iraq-3590851a",
-      "timestamp": "2026-05-11T05:05:00+03:00"
+      "timestamp": "2026-05-11T05:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Jerusalem Post",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-895673",
+          "angle": "IDF and US ran covert rescue operations from Iraq during Iran war",
+          "summary": "Jerusalem Post confirms IDF special forces rescue units were stationed in Iraq to rescue downed pilots during the Iran war, with Brig-Gen R. calling the US-Israel air force cooperation historic and unprecedented."
+        },
+        {
+          "source": "Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/sp-keeps-israels-a-a-1-credit-rating-unchanged-says-outlook-is-stable/",
+          "angle": "S&P Maintains Israel Credit Rating at A Despite Iran War",
+          "summary": "S&P Global Ratings affirmed Israel's A/A-1 credit rating with stable outlook, citing resilience despite ongoing Iran conflict and regional tensions."
+        }
+      ],
+      "sources": [
+        "Wall Street Journal",
+        "Jerusalem Post",
+        "Times of Israel"
+      ],
+      "urls": [
+        "https://www.wsj.com/world/middle-east/israel-built-and-defended-a-secret-iran-war-base-in-iraq-3590851a",
+        "https://www.jpost.com/israel-news/defense-news/article-895673",
+        "https://www.timesofisrael.com/liveblog_entry/sp-keeps-israels-a-a-1-credit-rating-unchanged-says-outlook-is-stable/"
+      ]
     },
     {
       "headline": "Iran's Supreme Leader Missing and Silent as War Negotiations Continue",
@@ -35,16 +95,23 @@
       "category": "Energy",
       "source": "AP News",
       "url": "https://apnews.com/article/aramco-saudi-arabian-oil-ab384a52510f7af0c1e5629889742285",
-      "timestamp": "2026-05-11T05:05:00+03:00"
-    },
-    {
-      "headline": "Medics Among 51 Killed in Israeli Attacks on Lebanon in 24 Hours",
-      "summary": "Israeli strikes are intensifying in southern Lebanon with 552 killed since the April 16 ceasefire announcement. The attacks further unravel the truce between Israel and Hezbollah.",
-      "emoji": "🇱🇧⚔️",
-      "category": "Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours",
-      "timestamp": "2026-05-11T05:05:00+03:00"
+      "timestamp": "2026-05-11T05:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/aramco-saudi-arabian-oil-ab384a52510f7af0c1e5629889742285",
+          "angle": "Saudi Aramco Profit Jumps 25% After Shifting from Strait of Hormuz",
+          "summary": "Saudi Arabia's state oil giant reported a significant Q1 profit increase after rerouting oil exports away from the Strait of Hormuz during the Iran conflict, highlighting the company's adaptability."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "AP News"
+      ],
+      "urls": [
+        "https://apnews.com/article/aramco-saudi-arabian-oil-ab384a52510f7af0c1e5629889742285",
+        "https://apnews.com/article/aramco-saudi-arabian-oil-ab384a52510f7af0c1e5629889742285"
+      ]
     },
     {
       "headline": "Jailed Iranian Nobel laureate Narges Mohammadi hospitalized after medical crisis",
@@ -246,31 +313,6 @@
       "timestamp": "2026-05-11T02:08:00+03:00"
     },
     {
-      "headline": "IDF and US ran covert rescue operations from Iraq during Iran war",
-      "summary": "Jerusalem Post confirms IDF special forces rescue units were stationed in Iraq to rescue downed pilots during the Iran war, with Brig-Gen R. calling the US-Israel air force cooperation historic and unprecedented.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-895673",
-      "timestamp": "2026-05-11T02:08:00+03:00",
-      "perspectives": [
-        {
-          "source": "Haaretz",
-          "url": "https://www.haaretz.com/middle-east-news/iran/2026-05-10/ty-article/.premium/reports-u-s-told-iraq-to-avoid-area-where-israel-allegedly-built-iran-war-base/0000019e-1230-db10-a3bf-f233f0fe0000",
-          "angle": "Israel Allegedly Built Secret Military Outpost in Iraq for Iran Operations",
-          "summary": "Reports indicate Israel established a clandestine military base in Iraq to support operations against Iran. The US reportedly advised Iraq to avoid the area where the facility was allegedly constructed."
-        }
-      ],
-      "sources": [
-        "Jerusalem Post",
-        "Haaretz"
-      ],
-      "urls": [
-        "https://www.jpost.com/israel-news/defense-news/article-895673",
-        "https://www.haaretz.com/middle-east-news/iran/2026-05-10/ty-article/.premium/reports-u-s-told-iraq-to-avoid-area-where-israel-allegedly-built-iran-war-base/0000019e-1230-db10-a3bf-f233f0fe0000"
-      ]
-    },
-    {
       "headline": "South Korea identifies aircraft that struck cargo ship in Hormuz",
       "summary": "Seoul says two unidentified aircraft struck the HMM Namu cargo ship in the Strait of Hormuz, causing fire and smoke. Iran denied responsibility for the attack.",
       "emoji": "🇰🇷",
@@ -298,6 +340,31 @@
       "timestamp": "2026-05-11T02:08:00+03:00"
     },
     {
+      "headline": "Lebanon Reports 39 Killed in Israeli Strikes Despite Ceasefire Agreement",
+      "summary": "Israeli strikes in Lebanon have killed at least 39 people, including women and children, according to Lebanon's health ministry. The attacks come despite a US-brokered ceasefire between Israel and Lebanon, with Israel saying it targets Hezbollah infrastructure.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cn4pjegk358o",
+      "timestamp": "2026-05-11T02:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours",
+          "angle": "Medics Among 51 Killed in Israeli Attacks on Lebanon in 24 Hours",
+          "summary": "Israeli strikes are intensifying in southern Lebanon with 552 killed since the April 16 ceasefire announcement. The attacks further unravel the truce between Israel and Hezbollah."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cn4pjegk358o",
+        "https://www.aljazeera.com/news/2026/5/10/medics-among-51-killed-in-israeli-attacks-on-lebanon-in-past-24-hours"
+      ]
+    },
+    {
       "headline": "Iran Rejects US Ceasefire Proposal as \"Surrender,\" Trump Calls Response \"Totally Unacceptable\"",
       "summary": "Iran sent its response to the US peace proposal via Pakistani mediators, demanding war reparations, full sovereignty over the Strait of Hormuz, and an end to sanctions. Trump rejected the response and accused Tehran of \"playing games\" for nearly 50 years.",
       "emoji": "🇮🇷",
@@ -320,47 +387,6 @@
       "urls": [
         "https://apnews.com/article/iran-us-war-attack-may-10-2026-f8812db41837336d816efaea7bc1c44a",
         "https://www.aljazeera.com/news/2026/5/11/iran-replies-to-us-proposal-trump-finds-response-unacceptable"
-      ]
-    },
-    {
-      "headline": "Lebanon Reports 39 Killed in Israeli Strikes Despite Ceasefire Agreement",
-      "summary": "Israeli strikes in Lebanon have killed at least 39 people, including women and children, according to Lebanon's health ministry. The attacks come despite a US-brokered ceasefire between Israel and Lebanon, with Israel saying it targets Hezbollah infrastructure.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cn4pjegk358o",
-      "timestamp": "2026-05-11T02:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cn4pjegk358o",
-          "angle": "Israel escalates Lebanon strikes, killing 39 despite ceasefire announcement",
-          "summary": "Israeli attacks on Lebanon have killed at least 39 people, including an infant, as Israel and Hezbollah continue trading fire despite a ceasefire deal announced last month."
-        },
-        {
-          "source": "Anadolu",
-          "url": "https://www.aa.com.tr/en/middle-east/israeli-army-shells-southern-lebanon-destroys-homes-in-new-strikes/3932161",
-          "angle": "Israeli artillery shells southern Lebanon, destroys homes in new strikes",
-          "summary": "Israeli forces continue targeting towns in southern Lebanon despite ceasefire arrangements, with artillery strikes hitting Braashit, Safad al-Battikh, and Touline amid ongoing truce violations."
-        },
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/trump-iran-war-peace-deal-strait-of-hormuz/",
-          "angle": "Lebanon civil defense member killed in Israeli strike amid ceasefire",
-          "summary": "An Israeli strike in southern Lebanon killed a civil defense rescuer despite the ongoing truce. WHO has verified 152 attacks on healthcare in Lebanon since the war began, with 103 deaths."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC",
-        "Anadolu",
-        "CBS News"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/cn4pjegk358o",
-        "https://www.bbc.com/news/articles/cn4pjegk358o",
-        "https://www.aa.com.tr/en/middle-east/israeli-army-shells-southern-lebanon-destroys-homes-in-new-strikes/3932161",
-        "https://www.cbsnews.com/live-updates/trump-iran-war-peace-deal-strait-of-hormuz/"
       ]
     },
     {
@@ -414,15 +440,6 @@
         "https://apnews.com/article/hantavirus-cruise-ship-hondius-tenerife-1c43c66d2b0555cf946d9e57fc65f1d4",
         "https://apnews.com/article/hantavirus-cruise-ship-hondius-spain-53d606306e31bf220d92614d9de519dd"
       ]
-    },
-    {
-      "headline": "Saudi Aramco Profit Jumps 25% After Shifting from Strait of Hormuz",
-      "summary": "Saudi Arabia's state oil giant reported a significant Q1 profit increase after rerouting oil exports away from the Strait of Hormuz during the Iran conflict, highlighting the company's adaptability.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/aramco-saudi-arabian-oil-ab384a52510f7af0c1e5629889742285",
-      "timestamp": "2026-05-11T01:03:00+03:00"
     },
     {
       "headline": "Iran War to Overshadow Trump-Xi Summit as Tensions Mount",
@@ -590,6 +607,31 @@
       "timestamp": "2026-05-10T20:58:00+03:00"
     },
     {
+      "headline": "Trump feuds with allies likely to outlast Iran war, analysts warn",
+      "summary": "Trump's words and deeds have revived fears among Washington's long-standing friends that the United States might be unreliable in a future crisis, with diplomatic tensions expected to persist even after the Iran conflict ends.",
+      "emoji": "🇺🇸",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/trumps-feuds-tensions-with-allies-likely-outlast-iran-war-2026-05-09/",
+      "timestamp": "2026-05-09T15:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/trump-visit-china-xi-iran-trade-diplomacy-75a27d595cfa5882b1e5bef917385309",
+          "angle": "Trump-Xi Summit This Week Complicated by Iran War and Trade Tensions",
+          "summary": "President Trump heads to Beijing for talks with Xi Jinping amid the Iran war. Beijing's economic ties to Tehran and ongoing tariff disputes could strain the visit, despite Trump predicting a 'big, fat hug' from the Chinese leader."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/trumps-feuds-tensions-with-allies-likely-outlast-iran-war-2026-05-09/",
+        "https://apnews.com/article/trump-visit-china-xi-iran-trade-diplomacy-75a27d595cfa5882b1e5bef917385309"
+      ]
+    },
+    {
       "headline": "Putin leads scaled-down Victory Day parade, vows victory in Ukraine",
       "summary": "Russian President Vladimir Putin declared confidence in victory during Moscow's Victory Day parade, which for the first time in nearly two decades featured no tanks or heavy military equipment. Security was tight amid a US-brokered ceasefire.",
       "emoji": "🇷🇺",
@@ -612,39 +654,6 @@
       "urls": [
         "https://apnews.com/article/russia-victory-day-parade-security-moscow-may-9-7cb7b5cbfbaf993dadfe9bafb5cf5262",
         "https://www.bbc.com/news/articles/putin-ukraine-conflict-coming-to-an-end"
-      ]
-    },
-    {
-      "headline": "Trump feuds with allies likely to outlast Iran war, analysts warn",
-      "summary": "Trump's words and deeds have revived fears among Washington's long-standing friends that the United States might be unreliable in a future crisis, with diplomatic tensions expected to persist even after the Iran conflict ends.",
-      "emoji": "🇺🇸",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/trumps-feuds-tensions-with-allies-likely-outlast-iran-war-2026-05-09/",
-      "timestamp": "2026-05-09T15:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/czd2y0d90n7o",
-          "angle": "Marco Rubio Meets Pope Leo Amid Tensions With Trump Over Iran War",
-          "summary": "Secretary of State Marco Rubio held a meeting with Pope Leo, the first American pontiff, who has been a firm critic of the Iran war and the administration's immigration policies."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/pope-leo-after-rubio-meeting-asks-god-inspire-leaders-calm-tensions-2026-05-08/",
-          "angle": "Pope Leo Appeals for Calm After Vatican Meeting With Rubio",
-          "summary": "Pope Leo asked God to inspire world leaders to reduce tensions and hatred in an address marking his first anniversary as head of the Catholic Church, following his meeting with U.S. Secretary of State Marco Rubio amid strained U.S.-Holy See relations."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "BBC",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/trumps-feuds-tensions-with-allies-likely-outlast-iran-war-2026-05-09/",
-        "https://www.bbc.com/news/articles/czd2y0d90n7o",
-        "https://www.reuters.com/world/pope-leo-after-rubio-meeting-asks-god-inspire-leaders-calm-tensions-2026-05-08/"
       ]
     },
     {
@@ -1208,15 +1217,6 @@
         "https://www.scmp.com/news/us/diplomacy/article/3352960/us-host-new-israel-lebanon-talks-trump-team-presses-hezbollah-disarmament",
         "https://www.scmp.com/news/us/diplomacy/article/3352960/us-host-new-israel-lebanon-talks-trump-team-presses-hezbollah-disarmament"
       ]
-    },
-    {
-      "headline": "S&P Maintains Israel Credit Rating at A Despite Iran War",
-      "summary": "S&P Global Ratings affirmed Israel's A/A-1 credit rating with stable outlook, citing resilience despite ongoing Iran conflict and regional tensions.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/sp-keeps-israels-a-a-1-credit-rating-unchanged-says-outlook-is-stable/",
-      "timestamp": "2026-05-09T06:15:00+03:00"
     },
     {
       "headline": "Rubio Questions Allied Support on Iran After Italy Talks",
@@ -2421,174 +2421,6 @@
       "source": "Al Arabiya",
       "url": "https://english.alarabiya.net/News/middle-east/2026/05/07/third-round-of-lebanonisrael-talks-to-be-held-next-week-us-official",
       "timestamp": "2026-05-08T06:07:00+03:00"
-    },
-    {
-      "headline": "Oil prices jump as US-Iran hostilities threaten ceasefire",
-      "summary": "Oil prices rose more than 1% after renewed fighting between the US and Iran threatened a shaky ceasefire and dashed hopes for progress on reopening the Strait of Hormuz, a key transit route.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/us-oil-prices-jump-us-iran-hostilities-2026-05-07/",
-      "timestamp": "2026-05-08T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Oil Price",
-          "url": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Whipsaw-as-US-Iran-Conflict-Shakes-Markets.html",
-          "angle": "Oil Prices Whipsaw as Iran Conflict Shakes Global Markets",
-          "summary": "Crude oil swung from $88 to $107 per barrel as Iran-UAE attacks and Strait of Hormuz disruptions roiled markets, with WTI settling near $97 amid ongoing US-Iran tensions."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Oil Price"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/us-oil-prices-jump-us-iran-hostilities-2026-05-07/",
-        "https://oilprice.com/Energy/Energy-General/Oil-Prices-Whipsaw-as-US-Iran-Conflict-Shakes-Markets.html"
-      ]
-    },
-    {
-      "headline": "US-Iran resolution at UN faces Chinese and Russian vetoes",
-      "summary": "The US urged countries to support a UN resolution demanding Iran halt attacks on the Strait of Hormuz, but diplomats say China and Russia are likely to veto it, highlighting geopolitical divisions over the conflict.",
-      "emoji": "🇺🇳",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/us-proposed-iran-resolution-un-faces-likely-vetoes-china-russia-2026-05-07/",
-      "timestamp": "2026-05-08T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Straits Times",
-          "url": "https://www.straitstimes.com/asia/us-proposed-iran-resolution-at-un-faces-likely-vetoes-from-china-russia",
-          "angle": "US Iran Resolution at UN Faces Likely Vetoes from China and Russia",
-          "summary": "The US urged countries to support its UN resolution demanding Iran halt attacks and mining of waterways. China and Russia are expected to veto the measure."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Straits Times"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/us-proposed-iran-resolution-un-faces-likely-vetoes-china-russia-2026-05-07/",
-        "https://www.straitstimes.com/asia/us-proposed-iran-resolution-at-un-faces-likely-vetoes-from-china-russia"
-      ]
-    },
-    {
-      "headline": "Pussy Riot protests Russia return to Venice Biennale",
-      "summary": "Dozens of activists from the anti-Kremlin art collective Pussy Riot demonstrated in Venice, waving Ukrainian flags and chanting against Putin to oppose Moscow presence at the Venice Biennale for the first time since the 2022 invasion.",
-      "emoji": "🎨",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/anti-kremlin-pussy-riot-demonstrate-venice-against-russias-biennale-return-2026-05-07/",
-      "timestamp": "2026-05-08T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/italy-biennale-protest-russia-9ea82ea4d6e73949deb66e3fbea17348",
-          "angle": "Pussy Riot Protesters Swarm Russia's Venice Biennale Pavilion",
-          "summary": "Activists from Pussy Riot and FEMEN staged a protest against Russia's presence at the Venice Biennale, releasing colored smoke and swarming the pavilion in pink balaclavas."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/anti-kremlin-pussy-riot-demonstrate-venice-against-russias-biennale-return-2026-05-07/",
-        "https://apnews.com/article/italy-biennale-protest-russia-9ea82ea4d6e73949deb66e3fbea17348"
-      ]
-    },
-    {
-      "headline": "Brazil Lula reports progress after Trump White House meeting",
-      "summary": "Brazilian President Lula reported progress in relations with the US after a three-hour meeting with Trump in Washington, seeking to avert new trade tariffs that had strained bilateral ties.",
-      "emoji": "🇧🇷",
-      "category": "Latin America",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/americas/brazils-lula-visits-trump-washington-seeking-avert-new-us-trade-tariffs-2026-05-07/",
-      "timestamp": "2026-05-08T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Hill",
-          "url": "https://thehill.com/policy/international/5868832-trump-lula-cuba-invasion/",
-          "angle": "Brazil's Lula says Trump indicated no plans to invade Cuba during White House meeting",
-          "summary": "Brazilian President Lula da Silva reported that Trump conveyed he has no intention of ordering a US invasion of Cuba during their White House discussion. The statement comes amid heightened US-Cuba tensions."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "The Hill"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/americas/brazils-lula-visits-trump-washington-seeking-avert-new-us-trade-tariffs-2026-05-07/",
-        "https://thehill.com/policy/international/5868832-trump-lula-cuba-invasion/"
-      ]
-    },
-    {
-      "headline": "Serbia rejects local bid for Russian-owned NIS oil firm",
-      "summary": "Serbias President Vucic dismissed a bid by a recently formed local company to purchase a majority stake in the Russian-owned NIS oil firm, citing lack of expertise amid ongoing talks with Hungarian MOL.",
-      "emoji": "🇷🇸",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/serbias-president-dismisses-bid-by-local-company-buy-nis-oil-firm-2026-05-07/",
-      "timestamp": "2026-05-08T06:03:00+03:00"
-    },
-    {
-      "headline": "Trump Says Iran Peace Deal Could Be a Week Away",
-      "summary": "President Donald Trump said a peace deal with Iran could be reached within a week as Tehran reviews the latest US proposal. The US also paused its \"Project Freedom\" operations in the Strait of Hormuz.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/",
-      "timestamp": "2026-05-08T05:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-attacks-qeshm-island-ceasefire/",
-          "angle": "U.S. Fires on Iran-Flagged Tankers as Peace Deal Response Awaited",
-          "summary": "U.S. Central Command says forces disabled two Iranian oil tankers attempting to dock at an Iranian port in violation of the American blockade. Secretary of State Rubio said Washington awaits Iran's response to a peace proposal as clashes continue in the Strait of Hormuz."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "CBS News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/trump-sees-swift-end-war-iran-reviews-us-peace-proposal-2026-05-07/",
-        "https://www.cbsnews.com/live-updates/iran-war-trump-us-attacks-qeshm-island-ceasefire/"
-      ]
-    },
-    {
-      "headline": "Ukraine Peace Negotiator Arrives in Miami for Talks with US Envoys",
-      "summary": "Ukraine top negotiator Rustem Umerov arrived in Miami for meetings with US representatives as peace talks on ending the war with Russia have stalled in recent months.",
-      "emoji": "🇺🇦🇺🇸",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/ukraines-top-negotiator-miami-talks-source-says-2026-05-07/",
-      "timestamp": "2026-05-08T05:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/ukraines-top-negotiator-miami-talks-source-says-2026-05-07/",
-          "angle": "Ukraine Peace Negotiator Arrives in Miami for US Talks",
-          "summary": "Ukrainian peace negotiator Rustem Umerov arrived in Miami for meetings with US officials as peace talks to end the war with Russia have stalled in recent months."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/ukraines-top-negotiator-miami-talks-source-says-2026-05-07/",
-        "https://www.reuters.com/world/europe/ukraines-top-negotiator-miami-talks-source-says-2026-05-07/"
-      ]
-    },
-    {
-      "headline": "Dollar Firms as US-Iran Hostilities Flare, Yen Steadies on Intervention Risk",
-      "summary": "The dollar strengthened against major currencies after renewed hostilities between the US and Iran, while the Japanese yen held steady following verbal intervention warnings from Tokyo.",
-      "emoji": "💵",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/dollar-firms-us-iran-hostilities-flare-yen-steadied-by-intervention-risk-2026-05-08/",
-      "timestamp": "2026-05-08T05:05:00+03:00"
     }
   ]
 }
