@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2026-05-11T18:07:05+03:00",
+  "lastUpdated": "2026-05-11T18:11:22+03:00",
   "headlines": [
     {
-      "headline": "Trump Rejects Iran Peace Proposal as US-Iran Tensions Persist",
-      "summary": "President Trump called Iran's response to a US peace proposal \"unacceptable,\" rejecting Tehran's terms as the conflict enters day 73. Oil prices climbed following the rejection as Strait of Hormuz tensions continue.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/11/world/middleeast/trump-iran-peace-proposal.html",
-      "timestamp": "2026-05-11T18:03:00+03:00"
+      "headline": "Latvian Defense Minister Resigns After Drone Airspace Violations",
+      "summary": "Latvia's defense minister resigned after Ukrainian drones, allegedly spoofed by Russia, violated Baltic airspace. Prime Minister Silina cited loss of public trust.",
+      "emoji": "🇱🇻",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/latvian-defense-minister-resigns-after-drone-incursions/",
+      "timestamp": "2026-05-11T18:07:00+03:00"
+    },
+    {
+      "headline": "Turkey Unveils Yildirimhan ICBM With 6,000km Range",
+      "summary": "Turkey announced a major propellant breakthrough for its Yildirimhan intercontinental ballistic missile program, revealing capabilities previously undisclosed. The 6,000km range raises questions about Ankara's strategic ambitions.",
+      "emoji": "🇹🇷",
+      "category": "Defense Industry",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/global/europe/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/",
+      "timestamp": "2026-05-11T18:07:00+03:00"
+    },
+    {
+      "headline": "Hezbollah Strikes Iron Dome Battery With FPV Drone",
+      "summary": "Hezbollah successfully targeted an Iron Dome battery using a first-person-view drone, exploiting the system's vulnerability to manually-operated drones that evade jamming and tracking technologies.",
+      "emoji": "⚠️",
+      "category": "Middle East",
+      "source": "Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-895734",
+      "timestamp": "2026-05-11T18:07:00+03:00"
     },
     {
       "headline": "EU Sanctions 16 Individuals Over Forced Deportation of Ukrainian Children",
@@ -17,15 +35,6 @@
       "category": "Ukraine-Russia War",
       "source": "European Council",
       "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/11/eu-sanctions-ukrainian-children-deportation/",
-      "timestamp": "2026-05-11T18:03:00+03:00"
-    },
-    {
-      "headline": "Putin Hints at Ending Ukraine War as EU Rejects Schröder as Mediator",
-      "summary": "Russian President Putin suggested openness to ending the war in Ukraine, while the EU rejected Gerhard Schröder as a potential peace mediator. Fighting continues despite ongoing US-mediated ceasefire discussions.",
-      "emoji": "🇷🇺🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/05/11/europe/putin-ukraine-war-end-analysis/index.html",
       "timestamp": "2026-05-11T18:03:00+03:00"
     },
     {
@@ -53,7 +62,23 @@
       "category": "US-Iran War",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/clypgz9e5pmo",
-      "timestamp": "2026-05-11T17:03:00+03:00"
+      "timestamp": "2026-05-11T17:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/05/11/world/middleeast/trump-iran-peace-proposal.html",
+          "angle": "Trump Rejects Iran Peace Proposal as US-Iran Tensions Persist",
+          "summary": "President Trump called Iran's response to a US peace proposal \"unacceptable,\" rejecting Tehran's terms as the conflict enters day 73. Oil prices climbed following the rejection as Strait of Hormuz tensions continue."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "New York Times"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/clypgz9e5pmo",
+        "https://www.nytimes.com/2026/05/11/world/middleeast/trump-iran-peace-proposal.html"
+      ]
     },
     {
       "headline": "Philippine VP Sara Duterte Impeached for Second Time",
@@ -113,15 +138,6 @@
         "https://www.bbc.com/news/articles/c1j257w87neo",
         "https://www.bbc.com/news/articles/cgmpj0p9k08o"
       ]
-    },
-    {
-      "headline": "EU Rejects Putin's Call for Schröder as Ukraine Peace Mediator",
-      "summary": "EU foreign policy chief Kaja Kallas dismissed Putin's \"very cynical\" Ukraine ceasefire proposals and rejected the suggestion that former German Chancellor Gerhard Schröder could coordinate peace talks. Schröder has faced criticism for his close ties to Moscow.",
-      "emoji": "🇪🇺🇷🇺🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/11/ukraine-russia-eu-ministers-brussels-putin-zelenskyy-hantavirus-spain-europe-latest-news-updates",
-      "timestamp": "2026-05-11T16:00:00+03:00"
     },
     {
       "headline": "EU and Ukraine reject Schroeder as peace mediator",
@@ -503,19 +519,43 @@
       "timestamp": "2026-05-11T08:04:00+03:00"
     },
     {
-      "headline": "Oil Prices Jump After Trump Dismisses Iran Proposal",
-      "summary": "Global oil prices surged as the Strait of Hormuz waterway remains effectively shut, severely disrupting global energy shipments. The standoff continues between US and Iran.",
-      "emoji": "💰🛢️",
-      "category": "Energy",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/world",
-      "timestamp": "2026-05-11T07:05:00+03:00"
-    },
-    {
       "headline": "Putin Hints Ukraine Conflict \"Coming to an End\" Amid Ceasefire Talks",
       "summary": "The Russian leader sees potential for Ukraine negotiations but condemns the West backing for President Zelensky. A US-backed ceasefire is in effect.",
       "emoji": "🇷🇺🇺🇦",
       "category": "Ukraine-Russia War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/world",
+      "timestamp": "2026-05-11T07:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/05/11/europe/putin-ukraine-war-end-analysis/index.html",
+          "angle": "Putin Hints at Ending Ukraine War as EU Rejects Schröder as Mediator",
+          "summary": "Russian President Putin suggested openness to ending the war in Ukraine, while the EU rejected Gerhard Schröder as a potential peace mediator. Fighting continues despite ongoing US-mediated ceasefire discussions."
+        },
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/may/11/ukraine-russia-eu-ministers-brussels-putin-zelenskyy-hantavirus-spain-europe-latest-news-updates",
+          "angle": "EU Rejects Putin's Call for Schröder as Ukraine Peace Mediator",
+          "summary": "EU foreign policy chief Kaja Kallas dismissed Putin's \"very cynical\" Ukraine ceasefire proposals and rejected the suggestion that former German Chancellor Gerhard Schröder could coordinate peace talks. Schröder has faced criticism for his close ties to Moscow."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "CNN",
+        "The Guardian"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/world",
+        "https://www.cnn.com/2026/05/11/europe/putin-ukraine-war-end-analysis/index.html",
+        "https://www.theguardian.com/world/live/2026/may/11/ukraine-russia-eu-ministers-brussels-putin-zelenskyy-hantavirus-spain-europe-latest-news-updates"
+      ]
+    },
+    {
+      "headline": "Oil Prices Jump After Trump Dismisses Iran Proposal",
+      "summary": "Global oil prices surged as the Strait of Hormuz waterway remains effectively shut, severely disrupting global energy shipments. The standoff continues between US and Iran.",
+      "emoji": "💰🛢️",
+      "category": "Energy",
       "source": "BBC",
       "url": "https://www.bbc.com/news/world",
       "timestamp": "2026-05-11T07:05:00+03:00"
@@ -2315,24 +2355,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/death-toll-rises-37-china-fireworks-factory-blast-2026-05-08/",
       "timestamp": "2026-05-08T19:15:00+03:00"
-    },
-    {
-      "headline": "US Marine Corps Seeks Robots to Build Expeditionary Airfields",
-      "summary": "The Marine Corps is developing robotic systems to construct forward airfields, part of its Force Design 2030 modernization. The initiative aims to reduce personnel needs and speed up deployment in contested environments.",
-      "emoji": "🤖🇺🇸",
-      "category": "Defense Industry",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/news/your-military/2026/05/08/the-us-marine-corps-is-looking-for-a-few-good-robots-to-build-airfields/",
-      "timestamp": "2026-05-08T18:06:00+03:00"
-    },
-    {
-      "headline": "Ukraine Deploys 25,000 Ground Robots for Front-Line Combat",
-      "summary": "Ukraine is producing 25,000 unmanned ground vehicles to serve as \"cavalry\" on the front lines, reducing casualties and replacing lost hardware. The robots represent a major shift in modern warfare tactics.",
-      "emoji": "🤖⚔️",
-      "category": "Military",
-      "source": "The Telegraph",
-      "url": "https://www.telegraph.co.uk/world-news/2026/05/08/ukraine-calls-in-25000-robots-front-line-cavalry/",
-      "timestamp": "2026-05-08T18:06:00+03:00"
     }
   ]
 }
