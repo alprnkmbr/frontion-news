@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-13T00:08:01+03:00",
+  "lastUpdated": "2026-05-13T01:05:09+03:00",
   "headlines": [
+    {
+      "headline": "Serbia Hosts First Joint Military Exercise With NATO",
+      "summary": "Serbia conducted its first joint military drills with NATO, less than 30 years after the alliance bombed Belgrade during the Kosovo war, marking a significant shift in Belgrade's foreign policy alignment.",
+      "emoji": "🇷🇸",
+      "category": "Europe",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/12/serbia-hosts-first-joint-military-exercise-with-nato",
+      "timestamp": "2026-05-13T01:03:00+03:00"
+    },
+    {
+      "headline": "Kevin Warsh Confirmed to Federal Reserve Board in Close Senate Vote",
+      "summary": "The US Senate confirmed Kevin Warsh to the Federal Reserve Board in a narrow vote, with Democratic Senator John Fetterman joining Republicans to advance the nomination.",
+      "emoji": "🇺🇸",
+      "category": "US Politics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/12/kevin-warsh-confirmed-to-us-federal-reserve-board-in-close-senate-vote",
+      "timestamp": "2026-05-13T01:03:00+03:00"
+    },
+    {
+      "headline": "Israel Sent Iron Dome Batteries and Personnel to UAE",
+      "summary": "US Ambassador Mike Huckabee revealed that Israel deployed Iron Dome anti-missile batteries and personnel to the UAE, calling on Gulf states to \"pick a side\" in the war between Israel and Iran.",
+      "emoji": "🇮🇱",
+      "category": "Middle East",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/12/israel-sent-iron-dome-anti-missile-batteries-and-personnel-to-uae-us-envoy",
+      "timestamp": "2026-05-13T01:03:00+03:00"
+    },
+    {
+      "headline": "Dali Ship Operator Charged Over Deadly Baltimore Bridge Collapse",
+      "summary": "Six construction workers were killed when the cargo ship Dali crashed into the Francis Scott Key Bridge. The ship's operator now faces federal charges over the incident.",
+      "emoji": "⚖️",
+      "category": "US Politics",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cnvpm67ner6o",
+      "timestamp": "2026-05-13T01:03:00+03:00"
+    },
     {
       "headline": "Saudi Arabia covertly struck Iran during US-Iran war, sources say",
       "summary": "Saudi Arabia conducted undisclosed strikes against Iran during the ongoing conflict, marking a shift from its traditional diplomatic stance as regional tensions escalate.",
@@ -17,16 +53,23 @@
       "category": "Diplomacy",
       "source": "SCMP",
       "url": "https://www.scmp.com/news/us/article/3353333/china-presses-pakistan-deepen-iran-mediation-ahead-trump-xi-talks",
-      "timestamp": "2026-05-13T00:07:00+03:00"
-    },
-    {
-      "headline": "US inflation jumps as Iran war sends energy prices higher",
-      "summary": "US consumer inflation rose after falling steadily since the 2022 peak, driven by energy price increases from the ongoing US-Iran conflict affecting fuel costs.",
-      "emoji": "📊",
-      "category": "Economy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3353316/us-consumer-inflation-jumps-iran-war-sends-energy-prices-higher",
-      "timestamp": "2026-05-13T00:07:00+03:00"
+      "timestamp": "2026-05-13T00:07:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3353252/trump-rejects-garbage-iran-peace-plan-heading-china",
+          "angle": "Trump Rejects Iran Peace Plan as 'Garbage' Before Heading to China",
+          "summary": "President Trump dismissed an Iran peace proposal before departing for China, where he is expected to seek President Xi Jinping's help in ending the conflict given the lack of progress on diplomatic efforts."
+        }
+      ],
+      "sources": [
+        "SCMP",
+        "SCMP"
+      ],
+      "urls": [
+        "https://www.scmp.com/news/us/article/3353333/china-presses-pakistan-deepen-iran-mediation-ahead-trump-xi-talks",
+        "https://www.scmp.com/plus/news/china/diplomacy/article/3353252/trump-rejects-garbage-iran-peace-plan-heading-china"
+      ]
     },
     {
       "headline": "EU expresses frustration over failed defense industry ramp-up",
@@ -53,25 +96,23 @@
       "category": "US-Iran War",
       "source": "Washington Post",
       "url": "https://www.washingtonpost.com/national-security/2026/05/11/us-ukraine-trump-weapons-purl/",
-      "timestamp": "2026-05-13T00:03:00+03:00"
-    },
-    {
-      "headline": "Trump Backs Pakistan as Iran War Mediator Despite GOP Criticism",
-      "summary": "President Trump endorsed Pakistan to facilitate Iran diplomacy, brushing off criticism from Senator Lindsey Graham who questioned whether Islamabad can be trusted to broker peace in the ongoing conflict.",
-      "emoji": "🇵🇰🇮🇷",
-      "category": "US-Iran War",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/12/trump-backs-pakistan-as-iran-mediator-after-criticism-from-lindsey-graham",
-      "timestamp": "2026-05-13T00:02:00+03:00"
-    },
-    {
-      "headline": "EU Imposes Sanctions on Israeli Settlers and Hamas Members",
-      "summary": "The European Union approved sanctions targeting Israeli settlers and organizations in the West Bank as well as Hamas members, after Hungary dropped its veto that had blocked the measures.",
-      "emoji": "🇪🇺🇮🇱",
-      "category": "Middle East",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/05/11/eu-israel-settler-sanctions/",
-      "timestamp": "2026-05-13T00:01:00+03:00"
+      "timestamp": "2026-05-13T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Washington Post",
+          "url": "https://www.washingtonpost.com/national-security/2026/05/11/us-ukraine-trump-weapons-purl/",
+          "angle": "US Weapons Stockpiles Depleted by Iran War, Raising Concerns for Ukraine Support",
+          "summary": "As the Iran conflict stretches into its sixth week, US weapons stockpiles have been significantly depleted, raising concerns among European allies about continued military support for Ukraine. Key munitions including Patriot interceptors and artillery shells are running low."
+        }
+      ],
+      "sources": [
+        "Washington Post",
+        "Washington Post"
+      ],
+      "urls": [
+        "https://www.washingtonpost.com/national-security/2026/05/11/us-ukraine-trump-weapons-purl/",
+        "https://www.washingtonpost.com/national-security/2026/05/11/us-ukraine-trump-weapons-purl/"
+      ]
     },
     {
       "headline": "Iran Rhetoric Targets UAE as Gulf State Faces Growing Pressure",
@@ -92,15 +133,6 @@
       "timestamp": "2026-05-12T23:59:00+03:00"
     },
     {
-      "headline": "UK pledges jets, drones and warship for Hormuz defence mission",
-      "summary": "The UK announced it will contribute Typhoon jets, mine-hunting drones and HMS Dragon destroyer to a 40-nation mission to secure the Strait of Hormuz. Defence Minister John Healey said the mission would begin when conditions allow, with £115m in new funding.",
-      "emoji": "🇬🇧",
-      "category": "Military",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5y909grldqo",
-      "timestamp": "2026-05-12T23:03:00+03:00"
-    },
-    {
       "headline": "US inflation hits 3.8% as Iran war drives energy costs higher",
       "summary": "Consumer prices rose at their fastest rate since May 2023, with energy costs from the Iran war contributing nearly half the increase. The national gas price average hit $4.50/gallon, and airfares jumped 20.7% as jet fuel costs surged.",
       "emoji": "💰",
@@ -110,20 +142,29 @@
       "timestamp": "2026-05-12T23:03:00+03:00",
       "perspectives": [
         {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c202pgxx89lo",
-          "angle": "US Inflation Surges to 3.8% as Iran War Drives Up Energy Costs",
-          "summary": "The key measure of US inflation rose to its highest level since May 2023 as consumers feel the impact of the Iran war on gasoline and energy prices, complicating the economic picture for the Trump administration."
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3353316/us-consumer-inflation-jumps-iran-war-sends-energy-prices-higher",
+          "angle": "US inflation jumps as Iran war sends energy prices higher",
+          "summary": "US consumer inflation rose after falling steadily since the 2022 peak, driven by energy price increases from the ongoing US-Iran conflict affecting fuel costs."
         }
       ],
       "sources": [
         "BBC",
-        "BBC"
+        "SCMP"
       ],
       "urls": [
         "https://www.bbc.com/news/articles/c202pgxx89lo",
-        "https://www.bbc.com/news/articles/c202pgxx89lo"
+        "https://www.scmp.com/news/world/united-states-canada/article/3353316/us-consumer-inflation-jumps-iran-war-sends-energy-prices-higher"
       ]
+    },
+    {
+      "headline": "UK pledges jets, drones and warship for Hormuz defence mission",
+      "summary": "The UK announced it will contribute Typhoon jets, mine-hunting drones and HMS Dragon destroyer to a 40-nation mission to secure the Strait of Hormuz. Defence Minister John Healey said the mission would begin when conditions allow, with £115m in new funding.",
+      "emoji": "🇬🇧",
+      "category": "Military",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c5y909grldqo",
+      "timestamp": "2026-05-12T23:03:00+03:00"
     },
     {
       "headline": "Ugandas Museveni sworn in for record seventh term after disputed election",
@@ -175,15 +216,6 @@
       "category": "US Politics",
       "source": "SCMP",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3353326/us-senate-confirms-trump-pick-kevin-warsh-federal-reserve-board",
-      "timestamp": "2026-05-12T22:07:00+03:00"
-    },
-    {
-      "headline": "Trump Rejects Iran Peace Plan as 'Garbage' Before Heading to China",
-      "summary": "President Trump dismissed an Iran peace proposal before departing for China, where he is expected to seek President Xi Jinping's help in ending the conflict given the lack of progress on diplomatic efforts.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "Diplomacy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3353252/trump-rejects-garbage-iran-peace-plan-heading-china",
       "timestamp": "2026-05-12T22:07:00+03:00"
     },
     {
@@ -773,7 +805,7 @@
           "source": "Washington Post",
           "url": "https://www.washingtonpost.com/world/2026/05/11/eu-israel-settler-sanctions/",
           "angle": "EU Imposes Sanctions on Israeli Settlers and Hamas Members",
-          "summary": "The European Union has approved sanctions targeting Israeli settlers and organizations as well as Hamas members, after Hungary dropped its veto that had been blocking the measures for months."
+          "summary": "The European Union approved sanctions targeting Israeli settlers and organizations in the West Bank as well as Hamas members, after Hungary dropped its veto that had blocked the measures."
         }
       ],
       "sources": [
@@ -1267,7 +1299,23 @@
       "category": "US-Iran War",
       "source": "AP News",
       "url": "https://apnews.com/article/trump-gas-tax-high-prices-iran-war-85313468d583c40b79c59e34d8186ee7",
-      "timestamp": "2026-05-12T02:03:00+03:00"
+      "timestamp": "2026-05-12T02:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/12/trump-backs-pakistan-as-iran-mediator-after-criticism-from-lindsey-graham",
+          "angle": "Trump Backs Pakistan as Iran War Mediator Despite GOP Criticism",
+          "summary": "President Trump endorsed Pakistan to facilitate Iran diplomacy, brushing off criticism from Senator Lindsey Graham who questioned whether Islamabad can be trusted to broker peace in the ongoing conflict."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://apnews.com/article/trump-gas-tax-high-prices-iran-war-85313468d583c40b79c59e34d8186ee7",
+        "https://www.aljazeera.com/news/2026/5/12/trump-backs-pakistan-as-iran-mediator-after-criticism-from-lindsey-graham"
+      ]
     },
     {
       "headline": "Dozens of Nigerian Fishermen Feared Dead After Chad Air Strikes on Boko Haram",
@@ -1669,15 +1717,6 @@
       "source": "The Times",
       "url": "https://www.thetimes.com/world/africa/article/macron-china-africa-summit-kenya/",
       "timestamp": "2026-05-11T18:03:00+03:00"
-    },
-    {
-      "headline": "US Weapons Stockpiles Depleted by Iran War, Raising Concerns for Ukraine Support",
-      "summary": "As the Iran conflict stretches into its sixth week, US weapons stockpiles have been significantly depleted, raising concerns among European allies about continued military support for Ukraine. Key munitions including Patriot interceptors and artillery shells are running low.",
-      "emoji": "🇺🇸🇺🇦🇮🇷",
-      "category": "US-Iran War",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/05/11/us-ukraine-trump-weapons-purl/",
-      "timestamp": "2026-05-11T16:00:00+03:00"
     },
     {
       "headline": "Netanyahu declares Iran war not over, signals indefinite Hezbollah fighting",
