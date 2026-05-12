@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-13T01:05:09+03:00",
+  "lastUpdated": "2026-05-13T02:05:16+03:00",
   "headlines": [
+    {
+      "headline": "Israel Deploys Iron Dome Systems and Personnel to UAE",
+      "summary": "Israel sent Iron Dome air-defense batteries and operators to the UAE during the Iran war, marking the first publicly acknowledged Israeli military deployment to the Emirates.",
+      "emoji": "🇮🇱🇦🇪",
+      "category": "Middle East",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/12/nx-s1-5819174/israel-sent-iron-dome-uae",
+      "timestamp": "2026-05-13T02:03:00+03:00"
+    },
+    {
+      "headline": "EU Sanctions Hamas Leaders and Israeli Settler Organizations",
+      "summary": "European Union foreign ministers unanimously agreed to sanction Hamas leaders and Israeli settler groups including Amana, Nachala, and Regavim over West Bank violence and Gaza devastation.",
+      "emoji": "🇪🇺🇮🇱",
+      "category": "Europe",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/12/g-s1-121581/eu-sanction-hamas-leaders-israeli-settlers",
+      "timestamp": "2026-05-13T02:03:00+03:00"
+    },
+    {
+      "headline": "Keir Starmer Faces Deep Political Peril After Surviving Resignation Calls",
+      "summary": "UK Prime Minister Keir Starmer remains under intense pressure despite surviving calls for his resignation, as internal Labour divisions and policy controversies continue to mount.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/12/world/europe/kier-starmer-uk-prime-minister.html",
+      "timestamp": "2026-05-13T02:03:00+03:00"
+    },
+    {
+      "headline": "Global Conflict Displacements Hit Record High in 2025",
+      "summary": "Internal displacements caused by violence and conflict reached record levels in 2025, driven by wars in Ukraine, Sudan, Gaza, and other conflicts worldwide.",
+      "emoji": "🌍",
+      "category": "Geopolitics",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/12/internal-displacements-violence-conflict-record-high-2025",
+      "timestamp": "2026-05-13T02:03:00+03:00"
+    },
+    {
+      "headline": "US Inflation Jumps to 3.8% as Iran War Drives Energy Costs Higher",
+      "summary": "US consumer prices rose 3.8% annually as the Iran conflict disrupted oil supplies and pushed energy costs higher, complicating Federal Reserve policy decisions.",
+      "emoji": "🇺🇸💰",
+      "category": "Economy",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c202pgxx89lo",
+      "timestamp": "2026-05-13T02:03:00+03:00"
+    },
     {
       "headline": "Serbia Hosts First Joint Military Exercise With NATO",
       "summary": "Serbia conducted its first joint military drills with NATO, less than 30 years after the alliance bombed Belgrade during the Kosovo war, marking a significant shift in Belgrade's foreign policy alignment.",
@@ -17,7 +62,23 @@
       "category": "US Politics",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/5/12/kevin-warsh-confirmed-to-us-federal-reserve-board-in-close-senate-vote",
-      "timestamp": "2026-05-13T01:03:00+03:00"
+      "timestamp": "2026-05-13T01:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3353326/us-senate-confirms-trump-pick-kevin-warsh-federal-reserve-board",
+          "angle": "US Senate Confirms Kevin Warsh to Federal Reserve Board, Set to Replace Powell as Chair",
+          "summary": "The Senate confirmed Trump's pick Kevin Warsh to the Federal Reserve Board, clearing the way for him to take over as Fed chair from Jerome Powell later this week in a significant shift for US monetary policy."
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "SCMP"
+      ],
+      "urls": [
+        "https://www.aljazeera.com/economy/2026/5/12/kevin-warsh-confirmed-to-us-federal-reserve-board-in-close-senate-vote",
+        "https://www.scmp.com/news/world/united-states-canada/article/3353326/us-senate-confirms-trump-pick-kevin-warsh-federal-reserve-board"
+      ]
     },
     {
       "headline": "Israel Sent Iron Dome Batteries and Personnel to UAE",
@@ -35,7 +96,23 @@
       "category": "US Politics",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cnvpm67ner6o",
-      "timestamp": "2026-05-13T01:03:00+03:00"
+      "timestamp": "2026-05-13T01:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cnvpm67ner6o",
+          "angle": "Dali Ship Operator Charged Over Baltimore Bridge Collapse That Killed Six",
+          "summary": "Six construction workers died when the cargo ship crashed into the Francis Scott Key Bridge. The operator now faces criminal charges."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cnvpm67ner6o",
+        "https://www.bbc.com/news/articles/cnvpm67ner6o"
+      ]
     },
     {
       "headline": "Saudi Arabia covertly struck Iran during US-Iran war, sources say",
@@ -207,15 +284,6 @@
       "category": "Military",
       "source": "SCMP",
       "url": "https://www.scmp.com/news/world/russia-central-asia/article/3353329/putin-hails-russias-test-new-nuclear-capable-icbm-calls-it-worlds-most-powerful",
-      "timestamp": "2026-05-12T22:07:00+03:00"
-    },
-    {
-      "headline": "US Senate Confirms Kevin Warsh to Federal Reserve Board, Set to Replace Powell as Chair",
-      "summary": "The Senate confirmed Trump's pick Kevin Warsh to the Federal Reserve Board, clearing the way for him to take over as Fed chair from Jerome Powell later this week in a significant shift for US monetary policy.",
-      "emoji": "🇺🇸",
-      "category": "US Politics",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3353326/us-senate-confirms-trump-pick-kevin-warsh-federal-reserve-board",
       "timestamp": "2026-05-12T22:07:00+03:00"
     },
     {
@@ -440,15 +508,6 @@
       "category": "Middle East",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/5/12/israel-killing-at-least-one-child-a-week-in-occupied-west-bank-un-says",
-      "timestamp": "2026-05-12T19:20:00+03:00"
-    },
-    {
-      "headline": "Dali Ship Operator Charged Over Baltimore Bridge Collapse That Killed Six",
-      "summary": "Six construction workers died when the cargo ship crashed into the Francis Scott Key Bridge. The operator now faces criminal charges.",
-      "emoji": "🇺🇸⚓",
-      "category": "US Politics",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cnvpm67ner6o",
       "timestamp": "2026-05-12T19:20:00+03:00"
     },
     {
