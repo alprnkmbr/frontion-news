@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-12T22:06:27+03:00",
+  "lastUpdated": "2026-05-12T22:09:11+03:00",
   "headlines": [
+    {
+      "headline": "Putin Hails Test of New Nuclear-Capable ICBM, Calls It World's Most Powerful",
+      "summary": "Russian President Vladimir Putin announced the test of a new intercontinental ballistic missile, claiming it is the world's most powerful, as Russia continues its nuclear saber-rattling amid the Ukraine war and tensions with the West.",
+      "emoji": "🇷🇺",
+      "category": "Military",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3353329/putin-hails-russias-test-new-nuclear-capable-icbm-calls-it-worlds-most-powerful",
+      "timestamp": "2026-05-12T22:07:00+03:00"
+    },
+    {
+      "headline": "US Senate Confirms Kevin Warsh to Federal Reserve Board, Set to Replace Powell as Chair",
+      "summary": "The Senate confirmed Trump's pick Kevin Warsh to the Federal Reserve Board, clearing the way for him to take over as Fed chair from Jerome Powell later this week in a significant shift for US monetary policy.",
+      "emoji": "🇺🇸",
+      "category": "US Politics",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3353326/us-senate-confirms-trump-pick-kevin-warsh-federal-reserve-board",
+      "timestamp": "2026-05-12T22:07:00+03:00"
+    },
+    {
+      "headline": "Trump Rejects Iran Peace Plan as 'Garbage' Before Heading to China",
+      "summary": "President Trump dismissed an Iran peace proposal before departing for China, where he is expected to seek President Xi Jinping's help in ending the conflict given the lack of progress on diplomatic efforts.",
+      "emoji": "🇺🇸🇨🇳",
+      "category": "Diplomacy",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/plus/news/china/diplomacy/article/3353252/trump-rejects-garbage-iran-peace-plan-heading-china",
+      "timestamp": "2026-05-12T22:07:00+03:00"
+    },
+    {
+      "headline": "US Finalizes $35.5 Billion in Refunds for Illegal Trump Tariffs",
+      "summary": "US Customs and Border Protection has received 126,237 applications for tariff reimbursements as companies seek refunds for tariffs that were ruled illegal, a significant economic correction.",
+      "emoji": "🇺🇸💰",
+      "category": "Economy",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3353327/us-finalises-us355-billion-refunds-illegal-trump-tariffs",
+      "timestamp": "2026-05-12T22:07:00+03:00"
+    },
     {
       "headline": "Kuwait Foils Iranian Infiltration Attempt on Bubiyan Island",
       "summary": "Kuwait announced it arrested four men accused of being IRGC operatives attempting to infiltrate Bubiyan Island, marking a significant escalation as Gulf states risk being drawn into the Iran conflict.",
@@ -20,22 +56,29 @@
       "timestamp": "2026-05-12T22:05:00+03:00"
     },
     {
-      "headline": "UAE Secret Attack on Iran Risks Drawing Gulf States Into War",
-      "summary": "The United Arab Emirates conducted a covert attack on Iranian territory, raising fears that Gulf states are being pulled deeper into the conflict as the US-Iran war enters its second month.",
-      "emoji": "🇦🇪",
-      "category": "Middle East",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/12/uae-secret-attack-iran-risks-drawing-gulf-states-into-war",
-      "timestamp": "2026-05-12T22:05:00+03:00"
-    },
-    {
       "headline": "UK PM Starmer Defies Calls to Resign After Heavy Election Losses",
       "summary": "British Prime Minister Keir Starmer vowed to continue in office despite growing pressure from Labour Party lawmakers urging him to step down following devastating losses in local elections.",
       "emoji": "🇬🇧",
       "category": "Europe",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/uk-starmer-resign",
-      "timestamp": "2026-05-12T22:05:00+03:00"
+      "timestamp": "2026-05-12T22:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/live/2026/05/12/world/uk-starmer",
+          "angle": "Keir Starmer Defies Calls to Resign After Labour Election Losses",
+          "summary": "British Prime Minister Keir Starmer vowed to continue in office despite dozens of Labour Party lawmakers urging him to step down after heavy losses in local elections, in a significant political crisis for the UK government."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "New York Times"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/uk-starmer-resign",
+        "https://www.nytimes.com/live/2026/05/12/world/uk-starmer"
+      ]
     },
     {
       "headline": "WHO Warns Countries to Prepare for More Hantavirus Cases",
@@ -215,15 +258,6 @@
         "https://www.bbc.com/news/articles/c202pgxx89lo",
         "https://www.bbc.com/news/articles/c202pgxx89lo"
       ]
-    },
-    {
-      "headline": "Keir Starmer Defies Calls to Resign After Labour Election Losses",
-      "summary": "British Prime Minister Keir Starmer vowed to continue in office despite dozens of Labour Party lawmakers urging him to step down after heavy losses in local elections, in a significant political crisis for the UK government.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/live/2026/05/12/world/uk-starmer",
-      "timestamp": "2026-05-12T20:03:00+03:00"
     },
     {
       "headline": "Xi to Press Trump on Taiwan Arms Sales at Beijing Summit",
@@ -521,7 +555,23 @@
       "category": "US-China",
       "source": "AP News",
       "url": "https://apnews.com/article/southern-california-mayor-chinese-agent-resigns-f9eea16895868e940521823d12b4ebbe",
-      "timestamp": "2026-05-12T12:10:00+03:00"
+      "timestamp": "2026-05-12T12:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3353203/southern-california-mayor-will-plead-guilty-acting-agent-chinese-government",
+          "angle": "California Mayor Resigns, Will Plead Guilty to Acting as Chinese Agent",
+          "summary": "Eileen Wang, mayor of Arcadia, California, resigned and agreed to plead guilty to charges of acting as an illegal agent of the Chinese government while serving in public office."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "SCMP"
+      ],
+      "urls": [
+        "https://apnews.com/article/southern-california-mayor-chinese-agent-resigns-f9eea16895868e940521823d12b4ebbe",
+        "https://www.scmp.com/news/world/united-states-canada/article/3353203/southern-california-mayor-will-plead-guilty-acting-agent-chinese-government"
+      ]
     },
     {
       "headline": "France Announces $27 Billion Investment Package at Africa Summit in Kenya",
@@ -1892,9 +1942,9 @@
       "perspectives": [
         {
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/may/12/uae-secret-attack-iran-risks-gulf-states-regional-conflict",
-          "angle": "UAEs Secret Attack on Iran Risks Drawing Gulf States Into Regional War",
-          "summary": "The UAE carried out a covert strike on Iran during the ongoing conflict, raising concerns that Gulf states could become targets if the fragile ceasefire collapses."
+          "url": "https://www.theguardian.com/world/2026/may/12/uae-secret-attack-iran-risks-drawing-gulf-states-into-war",
+          "angle": "UAE Secret Attack on Iran Risks Drawing Gulf States Into War",
+          "summary": "The United Arab Emirates conducted a covert attack on Iranian territory, raising fears that Gulf states are being pulled deeper into the conflict as the US-Iran war enters its second month."
         }
       ],
       "sources": [
@@ -1903,7 +1953,7 @@
       ],
       "urls": [
         "https://www.wsj.com/world/middle-east/israel-built-and-defended-a-secret-iran-war-base-in-iraq-3590851a",
-        "https://www.theguardian.com/world/2026/may/12/uae-secret-attack-iran-risks-gulf-states-regional-conflict"
+        "https://www.theguardian.com/world/2026/may/12/uae-secret-attack-iran-risks-drawing-gulf-states-into-war"
       ]
     },
     {
