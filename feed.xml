@@ -1,12 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Frontion News Headlines</title>
 <link>https://frontion.news</link>
-<description>Curated geopolitical news headlines from Tier 1 sources</description>
+<description>Global geopolitics and breaking news headlines</description>
 <language>en-us</language>
-<lastBuildDate>Tue, 12 May 2026 08:05:00 +0300</lastBuildDate>
-
+<lastBuildDate>{build_date}</lastBuildDate>
+<atom:link href="https://frontion.news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>🇨🇦🇹🇷 Canada Seeks Defense Partnership With Turkey as Middle Powers Align</title>
+<link>https://www.defensenews.com/global/europe/2026/05/11/canada-eyes-turkey-as-a-fellow-mid-power-ally-in-weapons-development/</link>
+<description>Canada is rapidly expanding defense ties with Turkey, viewing Ankara as a trusted middle-power partner for co-development of drones, counter-drone systems, and ammunition amid shifting global security dynamics and US retrenchment.</description>
+<category>Defense Industry</category>
+<source url="https://www.defensenews.com/global/europe/2026/05/11/canada-eyes-turkey-as-a-fellow-mid-power-ally-in-weapons-development/">Defense News</source>
+<pubDate>2026-05-12T08:05:00+03:00</pubDate>
+</item>
+<item>
+<title>🇸🇪🇷🇺 Sweden Detains Two Suspects for Aiding High-Tech Shipments to Russia</title>
+<link>https://kyivindependent.com/sweden-detains-two-suspects-over-allegedly-aiding-high-tech-shipments-to-russia/</link>
+<description>Swedish authorities arrested a Swedish and a Turkish national on suspicion of violating EU sanctions by helping Russia procure advanced technology products that could be used in the war against Ukraine.</description>
+<category>Europe</category>
+<source url="https://kyivindependent.com/sweden-detains-two-suspects-over-allegedly-aiding-high-tech-shipments-to-russia/">Kyiv Independent</source>
+<pubDate>2026-05-12T08:05:00+03:00</pubDate>
+</item>
+<item>
+<title>🇰🇵🇷🇺💰 Russia Paid North Korea Up to $13.8 Billion for War Support, South Korean Intel Says</title>
+<link>https://kyivindependent.com/russia-has-paid-north-korea-billions-for-help-fighting-ukraine-south-korean-intel-says/</link>
+<description>North Korea has earned between $7-13.8 billion supplying weapons including artillery and ballistic missiles to Russia, with an estimated 6,000 North Korean casualties in Ukraine and plans to send 30,000 more soldiers.</description>
+<category>Ukraine-Russia War</category>
+<source url="https://kyivindependent.com/russia-has-paid-north-korea-billions-for-help-fighting-ukraine-south-korean-intel-says/">Kyiv Independent</source>
+<pubDate>2026-05-12T08:05:00+03:00</pubDate>
+</item>
+<item>
+<title>🇬🇧🇷🇺 UK Sanctions 85 People and Entities Over Russian Information Warfare</title>
+<link>https://www.scmp.com/news/world/europe/article/3353190/uk-sanctions-85-people-and-entities-over-pro-kremlin-narratives</link>
+<description>Britain imposed new sanctions targeting Russian propaganda operations including attempts to interfere in Armenian elections, alongside measures against those involved in the forced deportation and indoctrination of Ukrainian children.</description>
+<category>Europe</category>
+<source url="https://www.scmp.com/news/world/europe/article/3353190/uk-sanctions-85-people-and-entities-over-pro-kremlin-narratives">SCMP</source>
+<pubDate>2026-05-12T08:05:00+03:00</pubDate>
+</item>
+<item>
+<title>🇿🇦🏛️ South Africa's Ramaphosa Defies Calls to Resign Over Cash-in-Sofa Scandal</title>
+<link>https://www.scmp.com/news/world/africa/article/3353196/south-africas-ramaphosa-faces-down-calls-resign-over-cash-sofa-scandal</link>
+<description>President Cyril Ramaphosa refused to resign after a constitutional court ruling revived impeachment proceedings over the Farmgate scandal, in which thieves stole foreign currency hidden in a sofa at his ranch.</description>
+<category>Africa</category>
+<source url="https://www.scmp.com/news/world/africa/article/3353196/south-africas-ramaphosa-faces-down-calls-resign-over-cash-sofa-scandal">SCMP</source>
+<pubDate>2026-05-12T08:05:00+03:00</pubDate>
+</item>
 <item>
 <title>🇮🇷 Trump Says Iran Ceasefire on "Life Support" After Rejecting Tehran Peace Proposal</title>
 <link>https://apnews.com/article/iran-us-israel-china-war-may-11-2026-0e9067769efea20e9d45e3d43158ad8c</link>
@@ -15,7 +55,6 @@
 <source url="https://apnews.com/article/iran-us-israel-china-war-may-11-2026-0e9067769efea20e9d45e3d43158ad8c">AP News</source>
 <pubDate>2026-05-12T08:00:00+03:00</pubDate>
 </item>
-
 <item>
 <title>🇷🇺 Putin Suggests Ukraine War "Coming to an End" as Russian Momentum Fades</title>
 <link>https://www.theguardian.com/world/2026/may/11/why-is-putin-now-talking-about-the-war-in-ukraine-coming-to-an-end</link>
@@ -24,7 +63,6 @@
 <source url="https://www.theguardian.com/world/2026/may/11/why-is-putin-now-talking-about-the-war-in-ukraine-coming-to-an-end">The Guardian</source>
 <pubDate>2026-05-12T08:00:00+03:00</pubDate>
 </item>
-
 <item>
 <title>🇪🇺 EU Sanctions Israeli West Bank Settlers After Hungary Drops Veto</title>
 <link>https://www.theguardian.com/world/2026/may/11/eu-announces-sanctions-against-violent-israel-settlers</link>
@@ -33,7 +71,6 @@
 <source url="https://www.theguardian.com/world/2026/may/11/eu-announces-sanctions-against-violent-israel-settlers">The Guardian</source>
 <pubDate>2026-05-12T08:00:00+03:00</pubDate>
 </item>
-
 <item>
 <title>🇿🇦 South Africa's Ramaphosa Refuses to Resign Despite Impeachment Push</title>
 <link>https://www.bbc.com/news/articles/c9369q3g7w7o</link>
@@ -42,7 +79,6 @@
 <source url="https://www.bbc.com/news/articles/c9369q3g7w7o">BBC</source>
 <pubDate>2026-05-12T08:00:00+03:00</pubDate>
 </item>
-
 <item>
 <title>🇺🇸🇨🇳 Trump-Xi Summit Could Define Superpower Relations for Years, BBC Analysis Says</title>
 <link>https://www.bbc.com/news/articles/ceqprgen1nyo</link>
@@ -51,7 +87,6 @@
 <source url="https://www.bbc.com/news/articles/ceqprgen1nyo">BBC</source>
 <pubDate>2026-05-12T07:03:00+03:00</pubDate>
 </item>
-
 <item>
 <title>🇨🇳 China Passenger Car Exports Surge 85% in April as Domestic Sales Slump</title>
 <link>https://apnews.com/article/china-autos-evs-exports-cars-2e1c50df43a9c4975fd6d9f33e920545</link>
@@ -60,7 +95,6 @@
 <source url="https://apnews.com/article/china-autos-evs-exports-cars-2e1c50df43a9c4975fd6d9f33e920545">AP News</source>
 <pubDate>2026-05-12T07:03:00+03:00</pubDate>
 </item>
-
 <item>
 <title>⛽🇺🇸 Trump Announces Plan to Suspend Federal Gas Tax Amid Soaring Fuel Prices</title>
 <link>https://www.aljazeera.com/news/2026/5/11/trump-says-he-will-suspend-petrol-tax-amid-soaring-us-fuel-prices</link>
@@ -69,7 +103,6 @@
 <source url="https://www.aljazeera.com/news/2026/5/11/trump-says-he-will-suspend-petrol-tax-amid-soaring-us-fuel-prices">Al Jazeera</source>
 <pubDate>2026-05-12T07:03:00+03:00</pubDate>
 </item>
-
 <item>
 <title>🇺🇸🇯🇲 Trump Nominates Kari Lake as US Ambassador to Jamaica</title>
 <link>https://www.bbc.com/news/articles/clypng12xq5o</link>
@@ -78,7 +111,6 @@
 <source url="https://www.bbc.com/news/articles/clypng12xq5o">BBC</source>
 <pubDate>2026-05-12T07:03:00+03:00</pubDate>
 </item>
-
 <item>
 <title>🇬🇧 Nearly 200 Sanctioned Russian Ships Entered UK Waters Despite Warning</title>
 <link>https://www.bbc.com/news/articles/cn8pvgw802no</link>
@@ -87,7 +119,6 @@
 <source url="https://www.bbc.com/news/articles/cn8pvgw802no">BBC</source>
 <pubDate>2026-05-12T06:05:00+03:00</pubDate>
 </item>
-
 <item>
 <title>🇬🇧 UK Prime Minister Starmer on Brink as Cabinet Ministers Urge Resignation</title>
 <link>https://www.theguardian.com/politics/2026/may/11/more-than-60-labour-mps-call-on-starmer-to-set-timetable-to-quit</link>
@@ -96,7 +127,6 @@
 <source url="https://www.theguardian.com/politics/2026/may/11/more-than-60-labour-mps-call-on-starmer-to-set-timetable-to-quit">The Guardian</source>
 <pubDate>2026-05-12T06:05:00+03:00</pubDate>
 </item>
-
 <item>
 <title>🇬🇱🇺🇸 US in Talks With Denmark to Open Three New Military Bases in Greenland</title>
 <link>https://www.bbc.com/news/articles/cx21669452lo</link>
@@ -105,7 +135,6 @@
 <source url="https://www.bbc.com/news/articles/cx21669452lo">BBC</source>
 <pubDate>2026-05-12T05:03:00+03:00</pubDate>
 </item>
-
 <item>
 <title>🇿🇦 South Africa President Ramaphosa Vows to Fight Impeachment, Won't Resign</title>
 <link>https://www.bbc.com/news/articles/c9369q3g7w7o</link>
@@ -114,7 +143,6 @@
 <source url="https://www.bbc.com/news/articles/c9369q3g7w7o">BBC</source>
 <pubDate>2026-05-12T05:03:00+03:00</pubDate>
 </item>
-
 <item>
 <title>🇺🇸🇨🇳 California Mayor Resigns, Pleads Guilty to Acting as Chinese Agent</title>
 <link>https://apnews.com/article/southern-california-mayor-chinese-agent-resigns-f9eea16895868e940521823d12b4ebbe</link>
@@ -123,7 +151,6 @@
 <source url="https://apnews.com/article/southern-california-mayor-chinese-agent-resigns-f9eea16895868e940521823d12b4ebbe">AP News</source>
 <pubDate>2026-05-12T05:03:00+03:00</pubDate>
 </item>
-
 <item>
 <title>🇺🇦 Zelensky's former chief of staff Yermak charged in major corruption probe</title>
 <link>https://kyivindependent.com/zelenskys-former-second-in-command-yermak-charged-in-major-corruption-probe/</link>
@@ -132,7 +159,6 @@
 <source url="https://kyivindependent.com/zelenskys-former-second-in-command-yermak-charged-in-major-corruption-probe/">Kyiv Independent</source>
 <pubDate>2026-05-12T04:07:00+03:00</pubDate>
 </item>
-
 <item>
 <title>✈️🇪🇺 Ukraine turns to Europe for possible airport ceasefire with Russia</title>
 <link>https://kyivindependent.com/ukraine-turns-to-europe-for-possible-airport-ceasefire-with-russia-sybiha-says/</link>
@@ -141,7 +167,6 @@
 <source url="https://kyivindependent.com/ukraine-turns-to-europe-for-possible-airport-ceasefire-with-russia-sybiha-says/">Kyiv Independent</source>
 <pubDate>2026-05-12T04:07:00+03:00</pubDate>
 </item>
-
 <item>
 <title>🇭🇺🇪🇺 Hungary vows to stop abusing EU veto rights, incoming foreign minister says</title>
 <link>https://kyivindependent.com/hungary-to-stop-abusing-eu-veto-rights-incoming-foreign-minister-says/</link>
@@ -150,7 +175,6 @@
 <source url="https://kyivindependent.com/hungary-to-stop-abusing-eu-veto-rights-incoming-foreign-minister-says/">Kyiv Independent</source>
 <pubDate>2026-05-12T04:07:00+03:00</pubDate>
 </item>
-
 <item>
 <title>🚢⚓ Epic Fury deployment has US Navy rethinking carrier deployment tempo</title>
 <link>https://www.defensenews.com/naval/2026/05/11/epic-fury-has-navy-rethinking-carrier-deployment-tempo/</link>
@@ -159,7 +183,6 @@
 <source url="https://www.defensenews.com/naval/2026/05/11/epic-fury-has-navy-rethinking-carrier-deployment-tempo/">Defense News</source>
 <pubDate>2026-05-12T04:07:00+03:00</pubDate>
 </item>
-
 <item>
 <title>🛢️💰 Morgan Stanley warns oil buffers could run out before Hormuz reopens</title>
 <link>https://oilprice.com/Latest-Energy-News/World-News/Morgan-Stanley-Oil-Buffers-Could-Run-Out-Before-Hormuz-Reopens.html</link>
@@ -168,7 +191,6 @@
 <source url="https://oilprice.com/Latest-Energy-News/World-News/Morgan-Stanley-Oil-Buffers-Could-Run-Out-Before-Hormuz-Reopens.html">Oil Price</source>
 <pubDate>2026-05-12T04:07:00+03:00</pubDate>
 </item>
-
 <item>
 <title>🇬🇧 UK sanctions Iran-linked network for planning attacks</title>
 <link>https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran</link>
@@ -177,7 +199,6 @@
 <source url="https://www.aljazeera.com/news/2026/5/11/uk-sanctions-network-accused-of-planning-attacks-for-iran">Al Jazeera</source>
 <pubDate>2026-05-12T04:03:00+03:00</pubDate>
 </item>
-
 <item>
 <title>🇪🇺 EU sanctions Israeli settlers over West Bank violence</title>
 <link>https://www.bbc.com/news/articles/c202wp2rl09o</link>
@@ -186,51 +207,5 @@
 <source url="https://www.bbc.com/news/articles/c202wp2rl09o">BBC</source>
 <pubDate>2026-05-12T04:03:00+03:00</pubDate>
 </item>
-
-<item>
-<title>🇺🇸🇨🇳 Musk, Cook among 17 CEOs to join Trump on China visit</title>
-<link>https://www.bbc.com/news/articles/c5yx757w048o</link>
-<description>Top US executives including Elon Musk (Tesla/SpaceX), Tim Cook (Apple), and Larry Fink (BlackRock) will accompany President Trump to Beijing. The trip comes amid fragile tariff truce and Iranian war tensions affecting US-China relations.</description>
-<category>US-China</category>
-<source url="https://www.bbc.com/news/articles/c5yx757w048o">BBC</source>
-<pubDate>2026-05-12T03:00:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🇺🇸 White House press dinner shooting suspect pleads not guilty</title>
-<link>https://www.bbc.com/news/articles/c4g48ewgz8mo</link>
-<description>Cole Tomas Allen, 31, pleaded not guilty to federal gun charges and attempted assassination of President Trump after allegedly firing at a Secret Service agent during the White House Correspondents' dinner.</description>
-<category>US Politics</category>
-<source url="https://www.bbc.com/news/articles/c4g48ewgz8mo">BBC</source>
-<pubDate>2026-05-12T03:00:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🇵🇭 Philippine senator flees ICC arrest over Duterte drug war role</title>
-<link>https://www.aljazeera.com/news/2026/5/11/philippine-senator-flees-icc-arrest-over-role-in-dutertes-drug-war</link>
-<description>Senator Ronald Dela Rosa has evaded a warrant related to the drug war during Duterte presidency, fleeing abroad as ICC intensifies its investigation.</description>
-<category>Asia-Pacific</category>
-<source url="https://www.aljazeera.com/news/2026/5/11/philippine-senator-flees-icc-arrest-over-role-in-dutertes-drug-war">Al Jazeera</source>
-<pubDate>2026-05-12T02:07:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🇬🇧 UK sanctions 85 people and entities over pro-Kremlin narratives</title>
-<link>https://www.scmp.com/news/world/europe/article/3353190/uk-sanctions-85-people-and-entities-over-pro-kremlin-narratives</link>
-<description>British government targets individuals and organizations accused of helping Russia forcibly deport and militarize Ukrainian children, calling it one of its "toughest measures" to date.</description>
-<category>Europe</category>
-<source url="https://www.scmp.com/news/world/europe/article/3353190/uk-sanctions-85-people-and-entities-over-pro-kremlin-narratives">SCMP</source>
-<pubDate>2026-05-12T02:07:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🇰🇵 Russia paid North Korea up to $13.8B for war support</title>
-<link>https://kyivindependent.com/russia-has-paid-north-korea-billions-for-help-fighting-ukraine-south-korean-intel-says/</link>
-<description>North Korea has earned billions for supplying weapons and soldiers to Russia's war in Ukraine, according to a new South Korean intelligence report.</description>
-<category>Ukraine-Russia War</category>
-<source url="https://kyivindependent.com/russia-has-paid-north-korea-billions-for-help-fighting-ukraine-south-korean-intel-says/">Kyiv Independent</source>
-<pubDate>2026-05-12T02:07:00+03:00</pubDate>
-</item>
-
 </channel>
 </rss>
