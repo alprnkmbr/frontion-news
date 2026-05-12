@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-12T02:10:00+03:00",
+  "lastUpdated": "2026-05-12T03:05:14+03:00",
   "headlines": [
+    {
+      "headline": "Trump says Iran ceasefire on \"life support\" after rejecting Tehran proposal",
+      "summary": "US President Donald Trump rejected Iran's counter-proposal to end the war, calling it \"totally unacceptable\" and a \"piece of garbage.\" Iran demanded lifting of the US naval blockade, recognition of sovereignty over the Strait of Hormuz, and compensation for war damage.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "US-Iran War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo",
+      "timestamp": "2026-05-12T03:00:00+03:00"
+    },
+    {
+      "headline": "Musk, Cook among 17 CEOs to join Trump on China visit",
+      "summary": "Top US executives including Elon Musk (Tesla/SpaceX), Tim Cook (Apple), and Larry Fink (BlackRock) will accompany President Trump to Beijing. The trip comes amid fragile tariff truce and Iranian war tensions affecting US-China relations.",
+      "emoji": "🇺🇸🇨🇳",
+      "category": "US-China",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c5yx757w048o",
+      "timestamp": "2026-05-12T03:00:00+03:00"
+    },
+    {
+      "headline": "South African president refuses to resign after impeachment ruling",
+      "summary": "Cyril Ramaphosa said he will legally challenge a report that cleared the way for parliament to consider impeachment proceedings over the Phala Phala scandal involving cash theft from his private farm.",
+      "emoji": "🇿🇦",
+      "category": "Africa",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c9369q3g7w7o",
+      "timestamp": "2026-05-12T03:00:00+03:00"
+    },
+    {
+      "headline": "Putin suggests Ukraine war may be \"coming to an end\"",
+      "summary": "Russia's president said the war could be ending as Ukraine recaptures territory and Russian casualties exceed recruitment. Putin may be seeking to re-engage Trump's attention after the Iran crisis dominated diplomatic focus.",
+      "emoji": "🇷🇺🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/11/why-is-putin-now-talking-about-the-war-in-ukraine-coming-to-an-end",
+      "timestamp": "2026-05-12T03:00:00+03:00"
+    },
+    {
+      "headline": "White House press dinner shooting suspect pleads not guilty",
+      "summary": "Cole Tomas Allen, 31, pleaded not guilty to federal gun charges and attempted assassination of President Trump after allegedly firing at a Secret Service agent during the White House Correspondents' dinner.",
+      "emoji": "🇺🇸",
+      "category": "US Politics",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c4g48ewgz8mo",
+      "timestamp": "2026-05-12T03:00:00+03:00"
+    },
     {
       "headline": "Philippine senator flees ICC arrest over Duterte drug war role",
       "summary": "Senator Ronald Dela Rosa has evaded a warrant related to the drug war during Duterte presidency, fleeing abroad as ICC intensifies its investigation.",
@@ -20,31 +65,29 @@
       "timestamp": "2026-05-12T02:07:00+03:00"
     },
     {
-      "headline": "Ukraine seeks Europe-brokered airport ceasefire with Russia",
-      "summary": "Foreign Minister Andrii Sybiha told Politico that Europe may help Ukraine and Russia reach an agreement to pause attacks on each other's airports.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/ukraine-turns-to-europe-to-arrange-airport-ceasefire-with-russia-sybiha-says/",
-      "timestamp": "2026-05-12T02:07:00+03:00"
-    },
-    {
       "headline": "Russia paid North Korea up to $13.8B for war support",
       "summary": "North Korea has earned billions for supplying weapons and soldiers to Russia's war in Ukraine, according to a new South Korean intelligence report.",
       "emoji": "🇰🇵",
       "category": "Ukraine-Russia War",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/russia-has-paid-north-korea-billions-for-help-fighting-ukraine-south-korean-intel-says/",
-      "timestamp": "2026-05-12T02:07:00+03:00"
-    },
-    {
-      "headline": "EU and Ukraine reject Schroeder as peace mediator",
-      "summary": "Kaja Kallas rejected Gerhard Schroeder as a mediator, noting he worked as a high-level lobbyist for Russian state-owned companies.",
-      "emoji": "🇪🇺",
-      "category": "Diplomacy",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/eu-ukraine-reject-germanys-ex-chancellor-schroeder-as-peace-talks-mediator/",
-      "timestamp": "2026-05-12T02:07:00+03:00"
+      "timestamp": "2026-05-12T02:07:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russia-paid-north-korea-up-to-13-8b-for-help-fighting-ukraine-south-korean-intelligence-says/",
+          "angle": "Russia paid North Korea up to $13.8 billion for war support",
+          "summary": "South Korean intelligence estimates North Korea earned $13-13.8 billion from Russia for weapons and soldiers, revealing unprecedented military cooperation between the two nations."
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://kyivindependent.com/russia-has-paid-north-korea-billions-for-help-fighting-ukraine-south-korean-intel-says/",
+        "https://kyivindependent.com/russia-paid-north-korea-up-to-13-8b-for-help-fighting-ukraine-south-korean-intelligence-says/"
+      ]
     },
     {
       "headline": "South African president refuses to resign after impeachment call",
@@ -321,15 +364,6 @@
       "timestamp": "2026-05-11T22:05:00+03:00"
     },
     {
-      "headline": "Russia paid North Korea up to $13.8 billion for war support",
-      "summary": "South Korean intelligence estimates North Korea earned $13-13.8 billion from Russia for weapons and soldiers, revealing unprecedented military cooperation between the two nations.",
-      "emoji": "🇷🇺🇰🇵💰",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russia-paid-north-korea-up-to-13-8b-for-help-fighting-ukraine-south-korean-intelligence-says/",
-      "timestamp": "2026-05-11T22:05:00+03:00"
-    },
-    {
       "headline": "Ukraine and Germany sign defense cooperation agreement, plan joint drone production",
       "summary": "Germany and Ukraine launch \"Brave Germany\" initiative to advance defense technologies and support innovative startups, deepening bilateral military cooperation.",
       "emoji": "🇺🇦🇩🇪🤝",
@@ -414,6 +448,31 @@
       ]
     },
     {
+      "headline": "Gerhard Schroeder Emerges as Putin's Pick for Ukraine Peace Mediation",
+      "summary": "The former German chancellor and close Putin ally is being positioned as a potential mediator in Ukraine peace talks, raising questions about Western acceptance.",
+      "emoji": "🇷🇺🇺🇦",
+      "category": "Diplomacy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/11/who-is-gerhard-schroeder-putins-pick-for-ukraine-peace-talks-mediation",
+      "timestamp": "2026-05-11T21:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/eu-ukraine-reject-germanys-ex-chancellor-schroeder-as-peace-talks-mediator/",
+          "angle": "EU and Ukraine reject Schroeder as peace mediator",
+          "summary": "Kaja Kallas rejected Gerhard Schroeder as a mediator, noting he worked as a high-level lobbyist for Russian state-owned companies."
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://www.aljazeera.com/news/2026/5/11/who-is-gerhard-schroeder-putins-pick-for-ukraine-peace-talks-mediation",
+        "https://kyivindependent.com/eu-ukraine-reject-germanys-ex-chancellor-schroeder-as-peace-talks-mediator/"
+      ]
+    },
+    {
       "headline": "Washington Dinner Shooting Suspect Pleads Not Guilty to Assassination Attempt on Trump",
       "summary": "Cole Tomas Allen, 31, entered a not guilty plea after being charged with attempting to assassinate President Donald Trump during a Washington dinner event.",
       "emoji": "⚖️",
@@ -439,31 +498,6 @@
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cwy2k7re9jdo",
       "timestamp": "2026-05-11T21:03:00+03:00"
-    },
-    {
-      "headline": "Gerhard Schroeder Emerges as Putin's Pick for Ukraine Peace Mediation",
-      "summary": "The former German chancellor and close Putin ally is being positioned as a potential mediator in Ukraine peace talks, raising questions about Western acceptance.",
-      "emoji": "🇷🇺🇺🇦",
-      "category": "Diplomacy",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/11/who-is-gerhard-schroeder-putins-pick-for-ukraine-peace-talks-mediation",
-      "timestamp": "2026-05-11T21:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/eu-ukraine-reject-germanys-ex-chancellor-schroeder-as-peace-talks-mediator/",
-          "angle": "EU and Ukraine reject Schroeder as peace mediator",
-          "summary": "EU foreign policy chief Kaja Kallas and Ukraine rejected Gerhard Schroeder as a potential mediator, noting his work as a lobbyist for Russian state-owned companies and questioning why Putin would want him involved."
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://www.aljazeera.com/news/2026/5/11/who-is-gerhard-schroeder-putins-pick-for-ukraine-peace-talks-mediation",
-        "https://kyivindependent.com/eu-ukraine-reject-germanys-ex-chancellor-schroeder-as-peace-talks-mediator/"
-      ]
     },
     {
       "headline": "UK Sanctions 85 Over Ukrainian Children Deportation and Armenian Election Meddling",
@@ -998,15 +1032,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/",
       "timestamp": "2026-05-11T07:05:00+03:00"
-    },
-    {
-      "headline": "Russia Breaks Ceasefire as Strikes Kill 1, Injure 19 Across Ukraine",
-      "summary": "Russian attacks during the declared three-day ceasefire killed one civilian and injured 19 others across Ukraine. Ukraine's Air Force intercepted all 27 drones, but fighting continued on the front lines with 147 combat clashes recorded.",
-      "emoji": "🇺🇦💥",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russia-breaks-3-day-ceasefire-as-strikes-kill-1-injure-19-across-ukraine",
-      "timestamp": "2026-05-11T06:10:00+03:00"
     },
     {
       "headline": "Poland Finds Military Spy Drone Near Russia's Kaliningrad Border",
@@ -1610,19 +1635,27 @@
       "timestamp": "2026-05-09T12:05:00+03:00",
       "perspectives": [
         {
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world",
-          "angle": "Russia Breaches Three-Day Ukraine Ceasefire, Zelenskyy Says",
-          "summary": "Ukrainian President Zelenskyy accused Russia of violating a three-day ceasefire agreement, as Putin publicly suggested the conflict may be \"coming to an end\" while condemning Western support for Ukraine."
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-turns-to-europe-to-arrange-airport-ceasefire-with-russia-sybiha-says/",
+          "angle": "Ukraine seeks Europe-brokered airport ceasefire with Russia",
+          "summary": "Foreign Minister Andrii Sybiha told Politico that Europe may help Ukraine and Russia reach an agreement to pause attacks on each other's airports."
+        },
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russia-breaks-3-day-ceasefire-as-strikes-kill-1-injure-19-across-ukraine",
+          "angle": "Russia Breaks Ceasefire as Strikes Kill 1, Injure 19 Across Ukraine",
+          "summary": "Russian attacks during the declared three-day ceasefire killed one civilian and injured 19 others across Ukraine. Ukraine's Air Force intercepted all 27 drones, but fighting continued on the front lines with 147 combat clashes recorded."
         }
       ],
       "sources": [
         "Reuters",
-        "The Guardian"
+        "Kyiv Independent",
+        "Kyiv Independent"
       ],
       "urls": [
         "https://www.reuters.com/world/europe/ukraines-zelenskiy-confirms-us-announcement-ceasefire-prisoner-exchange-2026-05-08/",
-        "https://www.theguardian.com/world"
+        "https://kyivindependent.com/ukraine-turns-to-europe-to-arrange-airport-ceasefire-with-russia-sybiha-says/",
+        "https://kyivindependent.com/russia-breaks-3-day-ceasefire-as-strikes-kill-1-injure-19-across-ukraine"
       ]
     },
     {
