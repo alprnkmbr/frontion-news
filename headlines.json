@@ -1,23 +1,50 @@
 {
-  "lastUpdated": "2026-05-12T05:06:57+03:00",
+  "lastUpdated": "2026-05-12T06:07:21+03:00",
   "headlines": [
     {
-      "headline": "Trump Rejects Iran Ceasefire Proposal, Says Deal on \"Life Support\"",
-      "summary": "President Trump rejected Iran's latest ceasefire counteroffer as \"totally unacceptable,\" saying the month-long truce is on \"massive life support.\" Iran demanded recognition of its sovereignty over the Strait of Hormuz and war reparations, while Trump pushed for removal of Iran's enriched uranium stockpile.",
+      "headline": "Putin Suggests Ukraine War May Be Coming to an End",
+      "summary": "Russian President Vladimir Putin said the war in Ukraine may be \"coming to an end\" as Ukraine recaptures territory and Russia faces mounting casualties and economic pressure. Ukraine has become a drone and missile power, exporting technology to Gulf states.",
+      "emoji": "🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/11/why-is-putin-now-talking-about-the-war-in-ukraine-coming-to-an-end",
+      "timestamp": "2026-05-12T06:05:00+03:00"
+    },
+    {
+      "headline": "Israeli Soldiers Jailed for Virgin Mary Statue Desecration in Lebanon",
+      "summary": "Two Israeli soldiers sentenced to military prison after a photo of one sticking a cigarette in a Virgin Mary statue went viral. The incident follows another where soldiers hacked a crucifix statue, drawing condemnation from Christian leaders.",
+      "emoji": "⛪",
+      "category": "Middle East",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/11/israeli-troops-jailed-desecration-virgin-mary-statue-lebanon",
+      "timestamp": "2026-05-12T06:05:00+03:00"
+    },
+    {
+      "headline": "Nearly 200 Sanctioned Russian Ships Entered UK Waters Despite Warning",
+      "summary": "BBC Verify analysis shows 184 UK-sanctioned \"shadow fleet\" vessels made 238 journeys through UK waters since March, with no public evidence of boardings. Critics call lack of action \"pathetic\" amid legal constraints.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cn8pvgw802no",
+      "timestamp": "2026-05-12T06:05:00+03:00"
+    },
+    {
+      "headline": "UK Prime Minister Starmer on Brink as Cabinet Ministers Urge Resignation",
+      "summary": "Over 70 Labour MPs including cabinet ministers publicly called for Starmer to quit, with Yvette Cooper and Shabana Mahmood urging an orderly transition. Starmer refused to resign, saying the country would \"never forgive\" Labour for leadership chaos.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/may/11/more-than-60-labour-mps-call-on-starmer-to-set-timetable-to-quit",
+      "timestamp": "2026-05-12T06:05:00+03:00"
+    },
+    {
+      "headline": "Trump Says Iran Ceasefire on Massive Life Support as Talks Falter",
+      "summary": "US President rejected Iran counter-offer as \"totally unacceptable\" and \"garbage,\" calling Tehran leaders \"dishonourable.\" Iran insists on ending Israel-Hezbollah fighting and lifting the US naval blockade of Iranian ports.",
       "emoji": "🇺🇸🇮🇷",
       "category": "US-Iran War",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cvgznxn18zgo",
-      "timestamp": "2026-05-12T05:03:00+03:00"
-    },
-    {
-      "headline": "Trump-Xi Summit in Beijing Could Define US-China Relations for Years",
-      "summary": "President Trump's visit to China comes as Beijing seeks to mediate the Iran war. The summit will address trade tensions, Taiwan, and technology competition, with both leaders hoping to reset relations amid global energy crisis from the Iran conflict.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "US-China",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ceqprgen1nyo",
-      "timestamp": "2026-05-12T05:03:00+03:00"
+      "timestamp": "2026-05-12T06:05:00+03:00"
     },
     {
       "headline": "US in Talks With Denmark to Open Three New Military Bases in Greenland",
@@ -26,7 +53,23 @@
       "category": "Arctic",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cx21669452lo",
-      "timestamp": "2026-05-12T05:03:00+03:00"
+      "timestamp": "2026-05-12T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cx21669452lo",
+          "angle": "US in secret talks to open new military bases in Greenland",
+          "summary": "The US is seeking to establish three bases in southern Greenland, according to officials familiar with the discussions, marking a significant Arctic strategy shift."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cx21669452lo",
+        "https://www.bbc.com/news/articles/cx21669452lo"
+      ]
     },
     {
       "headline": "South Africa President Ramaphosa Vows to Fight Impeachment, Won't Resign",
@@ -35,7 +78,23 @@
       "category": "Africa",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c9369q3g7w7o",
-      "timestamp": "2026-05-12T05:03:00+03:00"
+      "timestamp": "2026-05-12T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c9369q3g7w7o",
+          "angle": "South African president refuses to resign after impeachment ruling",
+          "summary": "Cyril Ramaphosa said he will legally challenge a report that cleared the way for parliament to consider impeachment proceedings over the Phala Phala scandal involving cash theft from his private farm."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/c9369q3g7w7o",
+        "https://www.bbc.com/news/articles/c9369q3g7w7o"
+      ]
     },
     {
       "headline": "California Mayor Resigns, Pleads Guilty to Acting as Chinese Agent",
@@ -133,15 +192,6 @@
       "timestamp": "2026-05-12T04:03:00+03:00"
     },
     {
-      "headline": "US in secret talks to open new military bases in Greenland",
-      "summary": "The US is seeking to establish three bases in southern Greenland, according to officials familiar with the discussions, marking a significant Arctic strategy shift.",
-      "emoji": "🇬🇱",
-      "category": "Arctic",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cx21669452lo",
-      "timestamp": "2026-05-12T04:03:00+03:00"
-    },
-    {
       "headline": "EU sanctions Israeli settlers over West Bank violence",
       "summary": "The EU's foreign policy chief announced sanctions against violent Israeli settlers, saying \"extremism and violence carry consequences.\" Israel called the move \"arbitrary.\"",
       "emoji": "🇪🇺",
@@ -189,31 +239,6 @@
       "urls": [
         "https://www.bbc.com/news/articles/c5yx757w048o",
         "https://www.bbc.com/news/articles/cr5p85v446ro"
-      ]
-    },
-    {
-      "headline": "South African president refuses to resign after impeachment ruling",
-      "summary": "Cyril Ramaphosa said he will legally challenge a report that cleared the way for parliament to consider impeachment proceedings over the Phala Phala scandal involving cash theft from his private farm.",
-      "emoji": "🇿🇦",
-      "category": "Africa",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c9369q3g7w7o",
-      "timestamp": "2026-05-12T03:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c9369q3g7w7o",
-          "angle": "South African president refuses to resign after impeachment call",
-          "summary": "President Cyril Ramaphosa stated he would not step down following days of speculation and an impeachment call, amid political turmoil in South Africa."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/c9369q3g7w7o",
-        "https://www.bbc.com/news/articles/c9369q3g7w7o"
       ]
     },
     {
@@ -656,8 +681,8 @@
         {
           "source": "BBC",
           "url": "https://www.bbc.com/news/articles/cvgznxn18zgo",
-          "angle": "Trump says Iran ceasefire on \"life support\" as peace talks falter",
-          "summary": "President Trump rejected Iran's counteroffer to end the war, calling it \"unbelievably weak\" and criticizing Tehran's demands. The Strait of Hormuz remains closed as diplomatic efforts stall."
+          "angle": "Trump Rejects Iran Ceasefire Proposal, Says Deal on \"Life Support\"",
+          "summary": "President Trump rejected Iran's latest ceasefire counteroffer as \"totally unacceptable,\" saying the month-long truce is on \"massive life support.\" Iran demanded recognition of its sovereignty over the Strait of Hormuz and war reparations, while Trump pushed for removal of Iran's enriched uranium stockpile."
         }
       ],
       "sources": [
@@ -853,19 +878,19 @@
       "timestamp": "2026-05-11T13:03:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/trump-visit-china-xi-iran-trade-diplomacy-75a27d595cfa5882b1e5bef917385309",
-          "angle": "Iran War to Overshadow Trump-Xi Summit as Tensions Mount",
-          "summary": "The US-China relationship faces new strains as Trump prepares to visit China amid the Iran conflict, with trade tensions and geopolitical calculations complicating diplomatic efforts."
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/ceqprgen1nyo",
+          "angle": "Trump-Xi Summit in Beijing Could Define US-China Relations for Years",
+          "summary": "President Trump's visit to China comes as Beijing seeks to mediate the Iran war. The summit will address trade tensions, Taiwan, and technology competition, with both leaders hoping to reset relations amid global energy crisis from the Iran conflict."
         }
       ],
       "sources": [
         "AP News",
-        "AP News"
+        "BBC"
       ],
       "urls": [
         "https://apnews.com/article/trump-visit-china-xi-iran-trade-diplomacy-75a27d595cfa5882b1e5bef917385309",
-        "https://apnews.com/article/trump-visit-china-xi-iran-trade-diplomacy-75a27d595cfa5882b1e5bef917385309"
+        "https://www.bbc.com/news/articles/ceqprgen1nyo"
       ]
     },
     {
