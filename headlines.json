@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-12T23:05:51+03:00",
+  "lastUpdated": "2026-05-13T00:05:36+03:00",
   "headlines": [
+    {
+      "headline": "US Weapons Stockpile Depletion Raises Concerns for Ukraine Aid",
+      "summary": "Weeks of conflict with Iran have depleted critical US weapons stocks, leading European allies to question the viability of American support for Ukraine as the war stretches Pentagon supplies.",
+      "emoji": "🇺🇸🇺🇦",
+      "category": "US-Iran War",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/05/11/us-ukraine-trump-weapons-purl/",
+      "timestamp": "2026-05-13T00:03:00+03:00"
+    },
+    {
+      "headline": "Trump Backs Pakistan as Iran War Mediator Despite GOP Criticism",
+      "summary": "President Trump endorsed Pakistan to facilitate Iran diplomacy, brushing off criticism from Senator Lindsey Graham who questioned whether Islamabad can be trusted to broker peace in the ongoing conflict.",
+      "emoji": "🇵🇰🇮🇷",
+      "category": "US-Iran War",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/12/trump-backs-pakistan-as-iran-mediator-after-criticism-from-lindsey-graham",
+      "timestamp": "2026-05-13T00:02:00+03:00"
+    },
+    {
+      "headline": "EU Imposes Sanctions on Israeli Settlers and Hamas Members",
+      "summary": "The European Union approved sanctions targeting Israeli settlers and organizations in the West Bank as well as Hamas members, after Hungary dropped its veto that had blocked the measures.",
+      "emoji": "🇪🇺🇮🇱",
+      "category": "Middle East",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/05/11/eu-israel-settler-sanctions/",
+      "timestamp": "2026-05-13T00:01:00+03:00"
+    },
+    {
+      "headline": "Iran Rhetoric Targets UAE as Gulf State Faces Growing Pressure",
+      "summary": "Iran has escalated its war messaging against the United Arab Emirates, viewing the Gulf state with suspicion due to its close ties with the United States and Israel amid the ongoing conflict.",
+      "emoji": "🇮🇷🇦🇪",
+      "category": "Middle East",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/12/why-is-iran-increasingly-targeting-the-uae-in-its-war-messaging",
+      "timestamp": "2026-05-13T00:00:00+03:00"
+    },
+    {
+      "headline": "Ukraine Strikes Russian Gas Facilities After Deadly Moscow Attacks",
+      "summary": "Ukraine targeted distant Russian gas infrastructure in retaliation for Russian attacks that killed at least six people, escalating the energy war between the two nations.",
+      "emoji": "🇺🇦🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/12/russia-ukraine-latest",
+      "timestamp": "2026-05-12T23:59:00+03:00"
+    },
     {
       "headline": "UK pledges jets, drones and warship for Hormuz defence mission",
       "summary": "The UK announced it will contribute Typhoon jets, mine-hunting drones and HMS Dragon destroyer to a 40-nation mission to secure the Strait of Hormuz. Defence Minister John Healey said the mission would begin when conditions allow, with £115m in new funding.",
@@ -17,7 +62,23 @@
       "category": "Economy",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c202pgxx89lo",
-      "timestamp": "2026-05-12T23:03:00+03:00"
+      "timestamp": "2026-05-12T23:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c202pgxx89lo",
+          "angle": "US Inflation Surges to 3.8% as Iran War Drives Up Energy Costs",
+          "summary": "The key measure of US inflation rose to its highest level since May 2023 as consumers feel the impact of the Iran war on gasoline and energy prices, complicating the economic picture for the Trump administration."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/c202pgxx89lo",
+        "https://www.bbc.com/news/articles/c202pgxx89lo"
+      ]
     },
     {
       "headline": "Ugandas Museveni sworn in for record seventh term after disputed election",
@@ -26,7 +87,23 @@
       "category": "Africa",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cqxp23272j3o",
-      "timestamp": "2026-05-12T23:03:00+03:00"
+      "timestamp": "2026-05-12T23:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cqxp23272j3o",
+          "angle": "Museveni Sworn In for Seventh Term, Extending 40-Year Rule in Uganda",
+          "summary": "Uganda's President Yoweri Museveni, 81, was sworn in after winning disputed January elections, extending his four-decade grip on power in one of Africa's longest-serving leaders."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cqxp23272j3o",
+        "https://www.bbc.com/news/articles/cqxp23272j3o"
+      ]
     },
     {
       "headline": "Venezuelas acting president rejects Trumps 51st state comments",
@@ -271,31 +348,6 @@
       ]
     },
     {
-      "headline": "US Inflation Surges to 3.8% as Iran War Drives Up Energy Costs",
-      "summary": "The key measure of US inflation rose to its highest level since May 2023 as consumers feel the impact of the Iran war on gasoline and energy prices, complicating the economic picture for the Trump administration.",
-      "emoji": "💰🛢️",
-      "category": "Economy",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c202pgxx89lo",
-      "timestamp": "2026-05-12T20:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c202pgxx89lo",
-          "angle": "US Inflation Surges to 3.8% as Iran War Drives Energy Prices Higher",
-          "summary": "The key US inflation measure rose to its highest level since May 2023 as consumers feel the direct impact of the Iran war on energy costs. The spike adds economic pressure on American households."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/c202pgxx89lo",
-        "https://www.bbc.com/news/articles/c202pgxx89lo"
-      ]
-    },
-    {
       "headline": "Xi to Press Trump on Taiwan Arms Sales at Beijing Summit",
       "summary": "Chinese President Xi Jinping is poised to press Donald Trump to slow approval of weapons for Taiwan during their summit, as Beijing calls the self-governing island the \"core of China's core interests.\"",
       "emoji": "🇨🇳🇹🇼",
@@ -384,31 +436,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/venezuela-guyana-essequibo-court-trump-oil-89f55dc0049617e81bfbad49c4bed777",
       "timestamp": "2026-05-12T18:05:00+03:00"
-    },
-    {
-      "headline": "Museveni Sworn In for Seventh Term, Extending 40-Year Rule in Uganda",
-      "summary": "Uganda's President Yoweri Museveni, 81, was sworn in after winning disputed January elections, extending his four-decade grip on power in one of Africa's longest-serving leaders.",
-      "emoji": "🇺🇬🏛️",
-      "category": "Africa",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cqxp23272j3o",
-      "timestamp": "2026-05-12T17:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/africa/article/3353285/ugandan-president-81-sworn-new-term-after-40-years-helm",
-          "angle": "Uganda's Museveni, 81, Sworn In for New Term After 40 Years in Power",
-          "summary": "Ugandan President Yoweri Museveni, 81, was sworn in for another five-year term after 40 years at the helm, with his son and presumptive heir emerging as de facto ruler."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/cqxp23272j3o",
-        "https://www.scmp.com/news/world/africa/article/3353285/ugandan-president-81-sworn-new-term-after-40-years-helm"
-      ]
     },
     {
       "headline": "WHO Warns Countries to Prepare for More Hantavirus Cases",
