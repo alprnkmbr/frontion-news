@@ -1,14 +1,41 @@
 {
-  "lastUpdated": "2026-05-12T11:08:09+03:00",
+  "lastUpdated": "2026-05-12T12:06:58+03:00",
   "headlines": [
     {
-      "headline": "Trump heads to China for high-stakes summit with Xi Jinping",
-      "summary": "The US president will meet with Xi Jinping in a visit that could reshape superpower relations amid Iran war tensions and trade negotiations. Middle powers fear Trump might trade security commitments for better economic terms.",
-      "emoji": "🇺🇸🇨🇳",
+      "headline": "California Mayor Resigns After Pleading Guilty to Acting as Chinese Agent",
+      "summary": "Eileen Wang, mayor of Arcadia, California, agreed to plead guilty to acting as an illegal agent for the Chinese government. She was accused of promoting pro-Beijing propaganda without notifying US authorities, including content denying Uyghur genocide.",
+      "emoji": "🇨🇳🇺🇸",
       "category": "US-China",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/11/world/asia/trump-xi-china-summit-iran.html",
-      "timestamp": "2026-05-12T11:03:00+03:00"
+      "source": "AP News",
+      "url": "https://apnews.com/article/southern-california-mayor-chinese-agent-resigns-f9eea16895868e940521823d12b4ebbe",
+      "timestamp": "2026-05-12T12:10:00+03:00"
+    },
+    {
+      "headline": "France Announces $27 Billion Investment Package at Africa Summit in Kenya",
+      "summary": "President Macron co-hosted the Africa Forward Summit in English-speaking Kenya for the first time, marking a shift away from traditional Francophone Africa ties. The move comes amid rising anti-French sentiment in former colonies.",
+      "emoji": "🇫🇷🇰🇪🌍",
+      "category": "Africa",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cpqpernnx8xo",
+      "timestamp": "2026-05-12T12:10:00+03:00"
+    },
+    {
+      "headline": "US in Secret Talks to Open Three New Military Bases in Greenland",
+      "summary": "The US is negotiating with Denmark to establish three new military bases in southern Greenland, focused on surveillance of Russian and Chinese activity in the GIUK Gap. The talks aim to resolve tensions after Trump threatened to seize the territory.",
+      "emoji": "🇺🇸🇬🇱",
+      "category": "Arctic",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx21669452lo",
+      "timestamp": "2026-05-12T12:10:00+03:00"
+    },
+    {
+      "headline": "Bolivia Issues Arrest Warrant for Former President Evo Morales",
+      "summary": "A Bolivian judge reissued an arrest warrant for ex-President Evo Morales after he failed to appear for his trial on charges of trafficking a minor. Morales is accused of fathering a child with a 15-year-old girl while in office.",
+      "emoji": "🇧🇴⚖️",
+      "category": "Latin America",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/12/bolivia-issues-warrant-for-evo-moraless-arrest-after-court-no-show",
+      "timestamp": "2026-05-12T12:10:00+03:00"
     },
     {
       "headline": "Pakistan airstrike killed 269 Afghans at rehab centre, families demand answers",
@@ -26,7 +53,23 @@
       "category": "Middle East",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c202wp2rl09o",
-      "timestamp": "2026-05-12T11:03:00+03:00"
+      "timestamp": "2026-05-12T11:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c202wp2rl09o",
+          "angle": "EU Agrees Sanctions on Israeli West Bank Settlers",
+          "summary": "The European Union reached agreement to sanction Israeli settlers over West Bank violence after Hungary new government dropped its veto. Israel branded the move \"arbitrary\"."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/c202wp2rl09o",
+        "https://www.bbc.com/news/articles/c202wp2rl09o"
+      ]
     },
     {
       "headline": "Duterte drug war enforcer escapes ICC arrest in Philippines",
@@ -35,16 +78,23 @@
       "category": "Asia-Pacific",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cn8p1zrr9nxo",
-      "timestamp": "2026-05-12T11:03:00+03:00"
-    },
-    {
-      "headline": "Israel passes law allowing death penalty for October 7 detainees",
-      "summary": "Israel approved legislation permitting public trials and death penalty for those involved in the October 7 Hamas-led attacks. Rights groups warn the law strips fair trial protections and makes executions easier to impose.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/12/israel-approves-law-on-public-trials-death-penalty-for-october-7-detainees",
-      "timestamp": "2026-05-12T11:03:00+03:00"
+      "timestamp": "2026-05-12T11:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/11/philippine-senator-flees-icc-arrest-over-role-in-dutertes-drug-war",
+          "angle": "Philippine senator flees ICC arrest over Duterte drug war role",
+          "summary": "Senator Ronald Dela Rosa has evaded a warrant related to the drug war during Duterte presidency, fleeing abroad as ICC intensifies its investigation."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cn8p1zrr9nxo",
+        "https://www.aljazeera.com/news/2026/5/11/philippine-senator-flees-icc-arrest-over-role-in-dutertes-drug-war"
+      ]
     },
     {
       "headline": "Zelensky's former chief of staff Yermak charged in major corruption probe",
@@ -124,19 +174,27 @@
       "timestamp": "2026-05-12T10:03:00+03:00",
       "perspectives": [
         {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cd0wvlj17r1o",
-          "angle": "Israel Passes Law Allowing Death Penalty for Those Linked to October 7 Attacks",
-          "summary": "Israel's parliament approved legislation permitting the death penalty and public trials for individuals involved in the Hamas-led October 7 attacks, a move condemned by human rights groups as undermining due process."
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/12/israel-approves-law-on-public-trials-death-penalty-for-october-7-detainees",
+          "angle": "Israel passes law allowing death penalty for October 7 detainees",
+          "summary": "Israel approved legislation permitting public trials and death penalty for those involved in the October 7 Hamas-led attacks. Rights groups warn the law strips fair trial protections and makes executions easier to impose."
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/11/israel-pushes-for-death-penalty-and-show-trials-for-oct-7-detainees",
+          "angle": "Israel advances legislation for executions and trials of October 7 detainees",
+          "summary": "Israel is pushing legislation to try October 7 detainees in military courts, with provisions for death penalty and what critics call show trials. The move raises serious human rights concerns about the treatment of detainees from the Hamas attack."
         }
       ],
       "sources": [
         "BBC",
-        "BBC"
+        "Al Jazeera",
+        "Al Jazeera"
       ],
       "urls": [
         "https://www.bbc.com/news/articles/c202ngg45x8o",
-        "https://www.bbc.com/news/articles/cd0wvlj17r1o"
+        "https://www.aljazeera.com/news/2026/5/12/israel-approves-law-on-public-trials-death-penalty-for-october-7-detainees",
+        "https://www.aljazeera.com/news/2026/5/11/israel-pushes-for-death-penalty-and-show-trials-for-oct-7-detainees"
       ]
     },
     {
@@ -147,31 +205,6 @@
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cn8p1zrr9nxo",
       "timestamp": "2026-05-12T10:03:00+03:00"
-    },
-    {
-      "headline": "EU Agrees Sanctions on Israeli West Bank Settlers",
-      "summary": "The European Union reached agreement to sanction Israeli settlers over West Bank violence after Hungary new government dropped its veto. Israel branded the move \"arbitrary\".",
-      "emoji": "🇪🇺🇮🇱",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c202wp2rl09o",
-      "timestamp": "2026-05-12T10:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c202wp2rl09o",
-          "angle": "EU sanctions Israeli settlers over West Bank violence",
-          "summary": "The EU's foreign policy chief announced sanctions against violent Israeli settlers, saying \"extremism and violence carry consequences.\" Israel called the move \"arbitrary.\""
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/c202wp2rl09o",
-        "https://www.bbc.com/news/articles/c202wp2rl09o"
-      ]
     },
     {
       "headline": "Asia Braces for Second Wave of Energy Shocks from Iran War",
@@ -565,15 +598,6 @@
       ]
     },
     {
-      "headline": "Philippine senator flees ICC arrest over Duterte drug war role",
-      "summary": "Senator Ronald Dela Rosa has evaded a warrant related to the drug war during Duterte presidency, fleeing abroad as ICC intensifies its investigation.",
-      "emoji": "🇵🇭",
-      "category": "Asia-Pacific",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/11/philippine-senator-flees-icc-arrest-over-role-in-dutertes-drug-war",
-      "timestamp": "2026-05-12T02:07:00+03:00"
-    },
-    {
       "headline": "Trump proposes suspending federal gasoline tax amid Iran war",
       "summary": "President Trump announced plans to suspend the federal gasoline tax to ease prices as the Iran war continues to disrupt oil markets and keep the Strait of Hormuz closed. Critics note he cannot implement this unilaterally without Congress.",
       "emoji": "⛽🇺🇸",
@@ -891,15 +915,6 @@
       "timestamp": "2026-05-11T19:20:00+03:00"
     },
     {
-      "headline": "Israel advances legislation for executions and trials of October 7 detainees",
-      "summary": "Israel is pushing legislation to try October 7 detainees in military courts, with provisions for death penalty and what critics call show trials. The move raises serious human rights concerns about the treatment of detainees from the Hamas attack.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/11/israel-pushes-for-death-penalty-and-show-trials-for-oct-7-detainees",
-      "timestamp": "2026-05-11T19:20:00+03:00"
-    },
-    {
       "headline": "Taiwan civilians flock to self-defense courses ahead of Trump-Xi summit",
       "summary": "Taiwanese civilians are enrolling in self-defense courses in record numbers amid fears China could use force to seize the island. The surge comes as Trump prepares to visit China for talks that could determine the future of US-Taiwan relations.",
       "emoji": "🇹🇼",
@@ -1065,19 +1080,19 @@
       "timestamp": "2026-05-11T13:03:00+03:00",
       "perspectives": [
         {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/ceqprgen1nyo",
-          "angle": "Trump-Xi Summit in Beijing Could Define US-China Relations for Years",
-          "summary": "President Trump's visit to China comes as Beijing seeks to mediate the Iran war. The summit will address trade tensions, Taiwan, and technology competition, with both leaders hoping to reset relations amid global energy crisis from the Iran conflict."
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/05/11/world/asia/trump-xi-china-summit-iran.html",
+          "angle": "Trump heads to China for high-stakes summit with Xi Jinping",
+          "summary": "The US president will meet with Xi Jinping in a visit that could reshape superpower relations amid Iran war tensions and trade negotiations. Middle powers fear Trump might trade security commitments for better economic terms."
         }
       ],
       "sources": [
         "AP News",
-        "BBC"
+        "New York Times"
       ],
       "urls": [
         "https://apnews.com/article/trump-visit-china-xi-iran-trade-diplomacy-75a27d595cfa5882b1e5bef917385309",
-        "https://www.bbc.com/news/articles/ceqprgen1nyo"
+        "https://www.nytimes.com/2026/05/11/world/asia/trump-xi-china-summit-iran.html"
       ]
     },
     {
