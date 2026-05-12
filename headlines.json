@@ -1,23 +1,41 @@
 {
-  "lastUpdated": "2026-05-12T06:07:21+03:00",
+  "lastUpdated": "2026-05-12T07:09:46+03:00",
   "headlines": [
     {
-      "headline": "Putin Suggests Ukraine War May Be Coming to an End",
-      "summary": "Russian President Vladimir Putin said the war in Ukraine may be \"coming to an end\" as Ukraine recaptures territory and Russia faces mounting casualties and economic pressure. Ukraine has become a drone and missile power, exporting technology to Gulf states.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/11/why-is-putin-now-talking-about-the-war-in-ukraine-coming-to-an-end",
-      "timestamp": "2026-05-12T06:05:00+03:00"
+      "headline": "Trump-Xi Summit Could Define Superpower Relations for Years, BBC Analysis Says",
+      "summary": "The first US presidential visit to China in nearly 10 years comes as Trump focuses on Iran, military operations, and domestic concerns. Taiwan, trade tensions, and technology competition are at stake, with both leaders seeking cooperation on the Iran conflict.",
+      "emoji": "🇺🇸🇨🇳",
+      "category": "US-China",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ceqprgen1nyo",
+      "timestamp": "2026-05-12T07:03:00+03:00"
     },
     {
-      "headline": "Israeli Soldiers Jailed for Virgin Mary Statue Desecration in Lebanon",
-      "summary": "Two Israeli soldiers sentenced to military prison after a photo of one sticking a cigarette in a Virgin Mary statue went viral. The incident follows another where soldiers hacked a crucifix statue, drawing condemnation from Christian leaders.",
-      "emoji": "⛪",
-      "category": "Middle East",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/11/israeli-troops-jailed-desecration-virgin-mary-statue-lebanon",
-      "timestamp": "2026-05-12T06:05:00+03:00"
+      "headline": "China Passenger Car Exports Surge 85% in April as Domestic Sales Slump",
+      "summary": "China exported 796,000 vehicles in April, up 85% year-on-year, with EV exports jumping 120%. Domestic sales fell 25.5% amid reduced subsidies and economic uncertainty. Analysts expect continued export growth despite trade tensions.",
+      "emoji": "🇨🇳",
+      "category": "Economy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/china-autos-evs-exports-cars-2e1c50df43a9c4975fd6d9f33e920545",
+      "timestamp": "2026-05-12T07:03:00+03:00"
+    },
+    {
+      "headline": "Trump Announces Plan to Suspend Federal Gas Tax Amid Soaring Fuel Prices",
+      "summary": "President Trump said he would suspend the 18-cent federal gasoline tax to offset prices that have risen 50% since the Iran war began. The move requires congressional approval, with Senator Hawley planning legislation. Gas prices now average $4.52 per gallon.",
+      "emoji": "⛽🇺🇸",
+      "category": "US Politics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/11/trump-says-he-will-suspend-petrol-tax-amid-soaring-us-fuel-prices",
+      "timestamp": "2026-05-12T07:03:00+03:00"
+    },
+    {
+      "headline": "Trump Nominates Kari Lake as US Ambassador to Jamaica",
+      "summary": "Former Arizona news anchor and Trump ally Kari Lake has been nominated as ambassador to Jamaica. Lake recently led efforts to dismantle Voice of America, terminating hundreds of employees. She thanked Trump, saying Jamaica \"is a country I know very well.\"",
+      "emoji": "🇺🇸🇯🇲",
+      "category": "US Politics",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/clypng12xq5o",
+      "timestamp": "2026-05-12T07:03:00+03:00"
     },
     {
       "headline": "Nearly 200 Sanctioned Russian Ships Entered UK Waters Despite Warning",
@@ -35,15 +53,6 @@
       "category": "Europe",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/2026/may/11/more-than-60-labour-mps-call-on-starmer-to-set-timetable-to-quit",
-      "timestamp": "2026-05-12T06:05:00+03:00"
-    },
-    {
-      "headline": "Trump Says Iran Ceasefire on Massive Life Support as Talks Falter",
-      "summary": "US President rejected Iran counter-offer as \"totally unacceptable\" and \"garbage,\" calling Tehran leaders \"dishonourable.\" Iran insists on ending Israel-Hezbollah fighting and lifting the US naval blockade of Iranian ports.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo",
       "timestamp": "2026-05-12T06:05:00+03:00"
     },
     {
@@ -513,7 +522,23 @@
       "category": "Middle East",
       "source": "SCMP",
       "url": "https://www.scmp.com/news/world/middle-east/article/3353193/israeli-soldiers-jailed-desecration-virgin-mary-statue-lebanon",
-      "timestamp": "2026-05-11T22:05:00+03:00"
+      "timestamp": "2026-05-11T22:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/may/11/israeli-troops-jailed-desecration-virgin-mary-statue-lebanon",
+          "angle": "Israeli Soldiers Jailed for Virgin Mary Statue Desecration in Lebanon",
+          "summary": "Two Israeli soldiers sentenced to military prison after a photo of one sticking a cigarette in a Virgin Mary statue went viral. The incident follows another where soldiers hacked a crucifix statue, drawing condemnation from Christian leaders."
+        }
+      ],
+      "sources": [
+        "SCMP",
+        "The Guardian"
+      ],
+      "urls": [
+        "https://www.scmp.com/news/world/middle-east/article/3353193/israeli-soldiers-jailed-desecration-virgin-mary-statue-lebanon",
+        "https://www.theguardian.com/world/2026/may/11/israeli-troops-jailed-desecration-virgin-mary-statue-lebanon"
+      ]
     },
     {
       "headline": "Ukraine and Germany sign defense cooperation agreement, plan joint drone production",
@@ -681,8 +706,8 @@
         {
           "source": "BBC",
           "url": "https://www.bbc.com/news/articles/cvgznxn18zgo",
-          "angle": "Trump Rejects Iran Ceasefire Proposal, Says Deal on \"Life Support\"",
-          "summary": "President Trump rejected Iran's latest ceasefire counteroffer as \"totally unacceptable,\" saying the month-long truce is on \"massive life support.\" Iran demanded recognition of its sovereignty over the Strait of Hormuz and war reparations, while Trump pushed for removal of Iran's enriched uranium stockpile."
+          "angle": "Trump Says Iran Ceasefire on Massive Life Support as Talks Falter",
+          "summary": "US President rejected Iran counter-offer as \"totally unacceptable\" and \"garbage,\" calling Tehran leaders \"dishonourable.\" Iran insists on ending Israel-Hezbollah fighting and lifting the US naval blockade of Iranian ports."
         }
       ],
       "sources": [
@@ -1136,8 +1161,8 @@
         {
           "source": "The Guardian",
           "url": "https://www.theguardian.com/world/2026/may/11/why-is-putin-now-talking-about-the-war-in-ukraine-coming-to-an-end",
-          "angle": "Putin signals Ukraine war \"coming to an end\" as EU assesses weakness",
-          "summary": "Russian President Putin's comments about the war ending come as EU's Kallas says Putin is in a \"weaker position than ever before\" amid continued Western support for Ukraine."
+          "angle": "Putin Suggests Ukraine War May Be Coming to an End",
+          "summary": "Russian President Vladimir Putin said the war in Ukraine may be \"coming to an end\" as Ukraine recaptures territory and Russia faces mounting casualties and economic pressure. Ukraine has become a drone and missile power, exporting technology to Gulf states."
         }
       ],
       "sources": [
@@ -2139,101 +2164,6 @@
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cx217expnvvo",
       "timestamp": "2026-05-09T08:10:00+03:00"
-    },
-    {
-      "headline": "Jimmy Lai's Fate May Turn on Trump-Xi Meeting Next Week",
-      "summary": "The imprisoned Hong Kong pro-democracy activist's family hopes Trump will seek his release during an upcoming Beijing summit. The 78-year-old media mogul was sentenced to 20 years under China's national security law, and observers say his release could signal whether Beijing is ready to move on.",
-      "emoji": "🇭🇰",
-      "category": "US-China",
-      "source": "AP News",
-      "url": "https://apnews.com/article/hong-kong-jimmy-lai-trump-xi-d0ebb5b2803acf8d4f550216552e0b29",
-      "timestamp": "2026-05-09T07:05:00+03:00"
-    },
-    {
-      "headline": "Africa's EV Surge Led by Ethiopia as Fuel Shortages Mount",
-      "summary": "Africa imported 44,358 electric vehicles from China in 2025, up from 19,386 the prior year, with Ethiopia leading adoption after banning new fossil fuel vehicle imports. The Iran war's disruption of oil shipments through the Strait of Hormuz has accelerated the transition away from costly fuel imports.",
-      "emoji": "🔋🇪🇹",
-      "category": "Energy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/ethiopia-electric-vehicles-iran-war-d4d5ffa1a7b06d3b2e34d59dcc80f0e7",
-      "timestamp": "2026-05-09T07:05:00+03:00"
-    },
-    {
-      "headline": "Israel Wounds 9 Palestinians Including Child in Gaza Ceasefire Violation",
-      "summary": "Gaza Civil Defense reports that Israeli forces wounded 9 Palestinians, including a child, in the latest violation of the ceasefire agreement.",
-      "emoji": "🇵🇸",
-      "category": "Middle East",
-      "source": "TRT World",
-      "url": "https://www.trtworld.com/article/6d567a5bb0c1",
-      "timestamp": "2026-05-09T06:30:00+03:00"
-    },
-    {
-      "headline": "US to Host Israel-Lebanon Talks Pressing for Hezbollah Disarmament",
-      "summary": "Washington will host new Israel-Lebanon negotiations as the Trump team pushes for Hezbollah disarmament, while awaiting Iran's response to a US proposal to end regional conflict.",
-      "emoji": "🇺🇸🇱🇧",
-      "category": "Middle East",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/us/diplomacy/article/3352960/us-host-new-israel-lebanon-talks-trump-team-presses-hezbollah-disarmament",
-      "timestamp": "2026-05-09T06:25:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/us/diplomacy/article/3352960/us-host-new-israel-lebanon-talks-trump-team-presses-hezbollah-disarmament",
-          "angle": "US to Host New Israel-Lebanon Talks on Hezbollah Disarmament",
-          "summary": "The Trump administration presses for Hezbollah disarmament as it awaits Iran response to a new US proposal aimed at advancing peace in the region."
-        }
-      ],
-      "sources": [
-        "SCMP",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.scmp.com/news/us/diplomacy/article/3352960/us-host-new-israel-lebanon-talks-trump-team-presses-hezbollah-disarmament",
-        "https://www.scmp.com/news/us/diplomacy/article/3352960/us-host-new-israel-lebanon-talks-trump-team-presses-hezbollah-disarmament"
-      ]
-    },
-    {
-      "headline": "Rubio Questions Allied Support on Iran After Italy Talks",
-      "summary": "Secretary of State Marco Rubio met Italian Prime Minister Giorgia Meloni and questioned why allies including Italy were not backing U.S. efforts to confront Iran and reopen the Strait of Hormuz.",
-      "emoji": "🇮🇹",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/meloni-meets-rubio-iran-war-strains-italy-us-ties-2026-05-08/",
-      "timestamp": "2026-05-09T06:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/meloni-meets-rubio-iran-war-strains-italy-us-ties-2026-05-08/",
-          "angle": "Rubio Questions Allies Support on Iran After Italy Talks",
-          "summary": "Secretary of State Marco Rubio met Italian PM Giorgia Meloni and questioned why allies including Italy were not backing Washington efforts to confront Iran and reopen the Strait of Hormuz, highlighting strains in the US-Europe relationship over the Iran conflict."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/meloni-meets-rubio-iran-war-strains-italy-us-ties-2026-05-08/",
-        "https://www.reuters.com/world/meloni-meets-rubio-iran-war-strains-italy-us-ties-2026-05-08/"
-      ]
-    },
-    {
-      "headline": "UK Markets Understate Political Dysfunction After Reform Surge",
-      "summary": "British bond yields remained calm after Reform UK gains in local elections, but the rise of fringe parties bodes ill for economic policy coherence, with upstarts less likely than current government to deliver coherent policy.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/commentary/breakingviews/markets-understate-scope-uk-dysfunction-2026-05-08/",
-      "timestamp": "2026-05-09T06:05:00+03:00"
-    },
-    {
-      "headline": "India Inflation Likely Rose to 3.8% as Fuel Costs Climb",
-      "summary": "India annual consumer inflation likely moved closer to the central bank 4% target in April as higher fuel costs from the U.S.-Iran conflict began feeding into prices, according to a Reuters poll of economists.",
-      "emoji": "🇮🇳",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/india/indias-april-consumer-inflation-likely-rose-38-higher-fuel-costs-weigh-2026-05-08/",
-      "timestamp": "2026-05-09T06:05:00+03:00"
     }
   ]
 }
