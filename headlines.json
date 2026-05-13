@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-13T18:09:28+03:00",
+  "lastUpdated": "2026-05-13T19:18:19+03:00",
   "headlines": [
+    {
+      "headline": "Russia Launches Major Drone Barrage on Ukraine Despite Peace Talks",
+      "summary": "Russia fired approximately 800 drones at Ukraine in a prolonged barrage lasting hours, hitting Kyiv and Lviv despite recent Moscow talk of possible peace negotiations.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/russia-fires-about-800-drones-ukraine-despite-peace-talks-2026-05-13/",
+      "timestamp": "2026-05-13T19:16:00+03:00"
+    },
+    {
+      "headline": "Gunshots Erupt at Philippine Senate During ICC Arrest Standoff",
+      "summary": "Gunshots broke out at the Philippine Senate as security forces attempted to arrest Senator Ronald dela Rosa, wanted by the International Criminal Court for crimes against humanity related to the drug war.",
+      "emoji": "🇵🇭",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/philippine-senator-says-arrest-is-imminent-urges-public-not-allow-icc-transfer-2026-05-13/",
+      "timestamp": "2026-05-13T19:16:00+03:00"
+    },
+    {
+      "headline": "Trump Arrives in Beijing for High-Stakes Xi Summit on Iran, Trade, Taiwan",
+      "summary": "President Trump landed in Beijing with top CEOs including Nvidia Jensen Huang and Elon Musk, seeking Chinese help on the Iran war while navigating tensions over tariffs, Taiwan, and AI technology.",
+      "emoji": "🇺🇸🇨🇳",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/nvidia-ceo-joins-trumps-mission-open-up-china-2026-05-13/",
+      "timestamp": "2026-05-13T19:16:00+03:00"
+    },
+    {
+      "headline": "Sweden Announces $1.9 Billion Energy Relief Package Amid Middle East War",
+      "summary": "Sweden will temporarily reduce fuel taxes and introduce measures to shield households and businesses from soaring energy costs caused by the Iran war disruption.",
+      "emoji": "🇸🇪",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/sweden-cuts-fuel-tax-part-19-billion-energy-relief-2026-05-13/",
+      "timestamp": "2026-05-13T19:16:00+03:00"
+    },
+    {
+      "headline": "House Reaches Threshold to Force Vote on $1.3 Billion Ukraine Aid",
+      "summary": "A discharge petition reached 218 signatures to force a House vote on $1.3 billion in Ukraine aid, marking a significant procedural win for supporters.",
+      "emoji": "🏛️",
+      "category": "US Politics",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/13/us/politics/house-ukraine-aid-discharge-petition-kiley.html",
+      "timestamp": "2026-05-13T19:16:00+03:00"
+    },
     {
       "headline": "France probes Israeli firm BlackCore over alleged election interference",
       "summary": "French authorities are investigating whether an obscure Israeli company carried out a foreign interference campaign targeting hard-left France Unbowed candidates ahead of March municipal elections, including deceptive websites and disparaging digital ads.",
@@ -17,7 +62,23 @@
       "category": "Diplomacy",
       "source": "SCMP",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3353389/us-and-china-unprecedented-cooperation-against-scam-centres-dubai",
-      "timestamp": "2026-05-13T18:07:00+03:00"
+      "timestamp": "2026-05-13T18:07:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3353389/us-and-china-unprecedented-cooperation-against-scam-centres-dubai",
+          "angle": "US and China Cooperate Against Dubai Scam Centres",
+          "summary": "US and China are working together in unprecedented cooperation to target scam centres operating out of Dubai, marking a rare area of collaboration amid tensions."
+        }
+      ],
+      "sources": [
+        "SCMP",
+        "SCMP"
+      ],
+      "urls": [
+        "https://www.scmp.com/news/china/diplomacy/article/3353389/us-and-china-unprecedented-cooperation-against-scam-centres-dubai",
+        "https://www.scmp.com/news/china/diplomacy/article/3353389/us-and-china-unprecedented-cooperation-against-scam-centres-dubai"
+      ]
     },
     {
       "headline": "Australia joins UK-France Hormuz mission as regional tensions escalate",
@@ -47,15 +108,6 @@
       "timestamp": "2026-05-13T18:07:00+03:00"
     },
     {
-      "headline": "Trump Lands in Beijing for High-Stakes Summit with Xi Jinping",
-      "summary": "US President Donald Trump arrived in China for his first bilateral meeting hosted there in nearly a decade, accompanied by tech leaders including Elon Musk and Jensen Huang. The Iran war and its impact on global energy markets loom over talks on trade, Taiwan, and AI.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "Diplomacy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/13/trump-china-summit-xi-jinping-talks",
-      "timestamp": "2026-05-13T18:05:00+03:00"
-    },
-    {
       "headline": "Jason Collins, NBA First Openly Gay Player, Dies at 47",
       "summary": "Jason Collins, who made history in 2013 as the NBA first openly gay player, has died from brain cancer at age 47. Collins spent 13 seasons in the league and became a pioneer for inclusion in professional sports.",
       "emoji": "🏀🏳️‍🌈",
@@ -74,22 +126,29 @@
       "timestamp": "2026-05-13T18:05:00+03:00"
     },
     {
-      "headline": "Trump Arrives in Beijing as Iran War Casts Shadow Over China Summit",
-      "summary": "Trump downplayed Chinas potential role in ending the Iran conflict, saying the US does not need help. Trade tensions, Taiwan, AI, and rare earth exports dominate the agenda as the Iran war and Strait of Hormuz disruptions add urgency to the summit.",
-      "emoji": "🇺🇸🇨🇳🇮🇷",
-      "category": "Diplomacy",
-      "source": "RFE/RL",
-      "url": "https://www.rferl.org/a/trump-xi-summit-iran-war-taiwan-energy-oil-minerals/33756013.html",
-      "timestamp": "2026-05-13T18:05:00+03:00"
-    },
-    {
       "headline": "Russia Bombards Ukraine with 100+ Drones as Trump Talks Peace",
       "summary": "More than 100 Russian drones targeted Ukraine in the latest wave of strikes, hitting railway infrastructure, civilian sites, ports, and energy facilities. At least eight people were killed in Tuesdays barrage as Zelenskyy urged continued international support.",
       "emoji": "🇺🇦⚔️",
       "category": "Ukraine-Russia War",
       "source": "AP News",
       "url": "https://apnews.com/article/russia-ukraine-war-drones-caa36f593f0eb2f853921a4580f9810d",
-      "timestamp": "2026-05-13T18:05:00+03:00"
+      "timestamp": "2026-05-13T18:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/05/13/world/europe/russia-ukraine-truce-trump.html",
+          "angle": "Russia-Ukraine Ceasefires Lose Meaning Under Trump Diplomacy",
+          "summary": "Analysis shows that temporary truces in the Ukraine war have become performative diplomacy rather than paths to lasting settlement. The pattern reflects how ceasefire agreements are now tools of political theater with diminishing practical impact on the ground."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "New York Times"
+      ],
+      "urls": [
+        "https://apnews.com/article/russia-ukraine-war-drones-caa36f593f0eb2f853921a4580f9810d",
+        "https://www.nytimes.com/2026/05/13/world/europe/russia-ukraine-truce-trump.html"
+      ]
     },
     {
       "headline": "NATO Leaders Call for Strengthened Air Defences After Russian Airspace Breaches",
@@ -377,15 +436,6 @@
       "timestamp": "2026-05-13T14:05:00+03:00"
     },
     {
-      "headline": "Russia-Ukraine Ceasefires Lose Meaning Under Trump Diplomacy",
-      "summary": "Analysis shows that temporary truces in the Ukraine war have become performative diplomacy rather than paths to lasting settlement. The pattern reflects how ceasefire agreements are now tools of political theater with diminishing practical impact on the ground.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/13/world/europe/russia-ukraine-truce-trump.html",
-      "timestamp": "2026-05-13T14:05:00+03:00"
-    },
-    {
       "headline": "Tech Rivalry Overshadows AI Push at Trump-Xi Summit",
       "summary": "US officials say AI will be central to Trump-Xi talks but substantive commitments are unlikely given deepening tech rivalry and mutual distrust. The strategic importance of artificial intelligence highlights the technology's role in great power competition.",
       "emoji": "🤖",
@@ -639,15 +689,6 @@
       ]
     },
     {
-      "headline": "US and China Cooperate Against Dubai Scam Centres",
-      "summary": "US and China are working together in unprecedented cooperation to target scam centres operating out of Dubai, marking a rare area of collaboration amid tensions.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "Diplomacy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3353389/us-and-china-unprecedented-cooperation-against-scam-centres-dubai",
-      "timestamp": "2026-05-13T10:06:00+03:00"
-    },
-    {
       "headline": "Australia Deploys Surveillance Aircraft for Hormuz Mission",
       "summary": "Australia will deploy surveillance aircraft to support the international mission protecting the Strait of Hormuz amid ongoing Iran conflict.",
       "emoji": "🇦🇺✈️",
@@ -684,19 +725,27 @@
       "timestamp": "2026-05-13T09:05:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/trump-xi-china-trip-arrival-353c768987542843e2033aa684266879",
-          "angle": "Trump Arrives in Beijing for Summit With Xi on Iran War and Trade",
-          "summary": "President Trump touched down in Beijing for a two-day summit with President Xi Jinping, with the Iran war, Taiwan arms sales, and trade disputes topping the agenda. The visit is the first by a U.S. president to China in nearly a decade."
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/may/13/trump-china-summit-xi-jinping-talks",
+          "angle": "Trump Lands in Beijing for High-Stakes Summit with Xi Jinping",
+          "summary": "US President Donald Trump arrived in China for his first bilateral meeting hosted there in nearly a decade, accompanied by tech leaders including Elon Musk and Jensen Huang. The Iran war and its impact on global energy markets loom over talks on trade, Taiwan, and AI."
+        },
+        {
+          "source": "RFE/RL",
+          "url": "https://www.rferl.org/a/trump-xi-summit-iran-war-taiwan-energy-oil-minerals/33756013.html",
+          "angle": "Trump Arrives in Beijing as Iran War Casts Shadow Over China Summit",
+          "summary": "Trump downplayed Chinas potential role in ending the Iran conflict, saying the US does not need help. Trade tensions, Taiwan, AI, and rare earth exports dominate the agenda as the Iran war and Strait of Hormuz disruptions add urgency to the summit."
         }
       ],
       "sources": [
         "Reuters",
-        "AP News"
+        "The Guardian",
+        "RFE/RL"
       ],
       "urls": [
         "https://www.reuters.com/world/china/temple-heaven-summit-trump-xi-will-seek-good-harvest-2026-05-12/",
-        "https://apnews.com/article/trump-xi-china-trip-arrival-353c768987542843e2033aa684266879"
+        "https://www.theguardian.com/world/2026/may/13/trump-china-summit-xi-jinping-talks",
+        "https://www.rferl.org/a/trump-xi-summit-iran-war-taiwan-energy-oil-minerals/33756013.html"
       ]
     },
     {
@@ -3100,60 +3149,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/10/atef-najib-faces-at-least-10-charges-in-landmark-syria-trial",
       "timestamp": "2026-05-11T04:03:00+03:00"
-    },
-    {
-      "headline": "US-China Telescope Rivalry Reaches South American Skies",
-      "summary": "The United States has pressed Argentina and Chile to review two Chinese telescope projects in the Andean deserts, raising concerns about security implications and potential setbacks for astronomical research.",
-      "emoji": "🇺🇸🇨🇳🔭",
-      "category": "US-China",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/10/world/americas/us-china-telescope-argentina-chile.html",
-      "timestamp": "2026-05-11T04:03:00+03:00"
-    },
-    {
-      "headline": "Hong Kong Dissident Nathan Law Says China Spies in UK Not Surprising",
-      "summary": "Hong Kong pro-democracy activist Nathan Law commented on Chinese intelligence operations in Britain, stating that the revelations of spy activity targeting dissidents abroad were expected given Beijing's pursuit of critics worldwide.",
-      "emoji": "🇭🇰🇬🇧",
-      "category": "China",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/10/hong-kong-dissident-nathan-law-on-china-spies-in-uk-were-not-surprised",
-      "timestamp": "2026-05-11T04:03:00+03:00"
-    },
-    {
-      "headline": "Food Inflation Devastates Iranian Households Amid War",
-      "summary": "Iranians face skyrocketing food prices as inflation soars and the currency plunges under a US-enforced naval blockade, with basic staples becoming increasingly unaffordable for ordinary citizens.",
-      "emoji": "🇮🇷📈",
-      "category": "Economy",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/10/food-inflation-hammers-households-in-war-hit-iran",
-      "timestamp": "2026-05-11T04:03:00+03:00"
-    },
-    {
-      "headline": "Germany moves to purchase US Tomahawk missiles for defense boost",
-      "summary": "Berlin is reviving efforts to acquire American Tomahawk cruise missiles as part of a broader European push to strengthen defense capabilities amid growing security concerns on the continent.",
-      "emoji": "🇩🇪🇺🇸",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/germany-revives-effort-buy-us-tomahawks-2026-05-11",
-      "timestamp": "2026-05-11T03:00:00+03:00"
-    },
-    {
-      "headline": "Macron leads diplomatic push in East Africa to redefine French influence",
-      "summary": "The French president is touring Kenya and East African nations for an Africa summit, seeking to reshape France's role on the continent amid changing geopolitical dynamics and competition from other powers.",
-      "emoji": "🇫🇷🌍",
-      "category": "Africa",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/11/macron-tours-east-africa-france-role-continent",
-      "timestamp": "2026-05-11T03:00:00+03:00"
-    },
-    {
-      "headline": "South Korea identifies aircraft that struck cargo ship in Hormuz",
-      "summary": "Seoul says two unidentified aircraft struck the HMM Namu cargo ship in the Strait of Hormuz, causing fire and smoke. Iran denied responsibility for the attack.",
-      "emoji": "🇰🇷",
-      "category": "Middle East",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3353065/unidentified-aircraft-hit-korean-cargo-ship-hormuz-monday-seoul",
-      "timestamp": "2026-05-11T02:08:00+03:00"
     }
   ]
 }
