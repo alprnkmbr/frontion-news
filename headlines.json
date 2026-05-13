@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-13T07:05:54+03:00",
+  "lastUpdated": "2026-05-13T08:04:17+03:00",
   "headlines": [
+    {
+      "headline": "Trump arrives in China for high-stakes summit with Xi Jinping",
+      "summary": "US President Donald Trump arrived in Beijing for talks with Chinese leader Xi Jinping, with the Iran war, trade tariffs, Taiwan, and AI cooperation on the agenda. Tech leaders including Elon Musk and Tim Cook are accompanying the president.",
+      "emoji": "🇺🇸🇨🇳",
+      "category": "US-China",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/13/trump-china-summit-xi-jinping-talks",
+      "timestamp": "2026-05-13T08:05:00+03:00"
+    },
+    {
+      "headline": "Trump says Ukraine war very close to ending as Kremlin echoes claim",
+      "summary": "President Donald Trump said the war in Ukraine is \"very close\" to ending, while the Kremlin repeated Putin's assertion that the conflict is nearly over. Ukrainian President Zelenskiy has expressed skepticism about Moscow's intentions.",
+      "emoji": "🇺🇦🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/trump-says-end-war-ukraine-is-very-close-2026-05-12/",
+      "timestamp": "2026-05-13T08:05:00+03:00"
+    },
+    {
+      "headline": "Putin announces deployment of new Sarmat nuclear missile this year",
+      "summary": "Russian President Vladimir Putin said Russia will deploy its new Sarmat strategic nuclear missile, described as \"the most powerful in the world,\" by the end of this year. The announcement follows a successful test launch of the ICBM known as Satan II.",
+      "emoji": "🇷🇺☢️",
+      "category": "Military",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/russia-says-it-successfully-tested-its-new-sarmat-strategic-nuclear-missile-2026-05-12/",
+      "timestamp": "2026-05-13T08:05:00+03:00"
+    },
+    {
+      "headline": "US and China agree no country should exact Hormuz shipping tolls",
+      "summary": "Senior US and Chinese officials agreed that no country should be allowed to impose shipping tolls in the Strait of Hormuz, signaling cooperation to pressure Iran over control of the vital waterway.",
+      "emoji": "🇺🇸🇨🇳🛢️",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/china-us-agree-opposing-hormuz-tolls-state-department-says-2026-05-12/",
+      "timestamp": "2026-05-13T08:05:00+03:00"
+    },
+    {
+      "headline": "US EIA warns Middle East oil disruptions worse than previously estimated",
+      "summary": "The US Energy Information Administration revised forecasts to reflect a much larger and longer hit to global oil supplies from the Iran war than previously projected, with the Strait of Hormuz expected to remain shut through late May.",
+      "emoji": "🛢️📈",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/us-governments-energy-arm-assumes-strait-hormuz-will-stay-shut-through-late-may-2026-05-12/",
+      "timestamp": "2026-05-13T08:05:00+03:00"
+    },
     {
       "headline": "US Treasury Secretary Bessent arrives in South Korea for pre-summit China trade talks",
       "summary": "Treasury Secretary Scott Bessent arrived in South Korea on Wednesday for trade talks with Chinese Vice Premier He Lifeng ahead of the Trump-Xi summit in Beijing, as the world's two largest economies seek to navigate trade tensions and the Iran conflict.",
@@ -17,7 +62,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/taiwan-president-thanks-us-help-strengthening-defences-2026-05-12/",
-      "timestamp": "2026-05-13T07:03:00+03:00"
+      "timestamp": "2026-05-13T07:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/taiwan-civilians-sharpen-self-defence-skills-ahead-of-trump-xi-summit",
+          "angle": "Taiwan civilians flock to self-defense courses ahead of Trump-Xi summit",
+          "summary": "Taiwanese civilians are enrolling in self-defense courses in record numbers amid fears China could use force to seize the island. The surge comes as Trump prepares to visit China for talks that could determine the future of US-Taiwan relations."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/taiwan-president-thanks-us-help-strengthening-defences-2026-05-12/",
+        "https://www.aljazeera.com/video/newsfeed/2026/5/11/taiwan-civilians-sharpen-self-defence-skills-ahead-of-trump-xi-summit"
+      ]
     },
     {
       "headline": "Zelensky faces major corruption test as ex-chief of staff named suspect in graft probe",
@@ -26,16 +87,23 @@
       "category": "Ukraine-Russia War",
       "source": "AP News",
       "url": "https://apnews.com/article/russia-ukraine-war-corruption-yermak-fighting-drones-3b305f6e9b6f763605ebe6de2b356a54",
-      "timestamp": "2026-05-13T07:03:00+03:00"
-    },
-    {
-      "headline": "Iran threatens retaliation as Trump says ceasefire is on life support",
-      "summary": "Iran warned any new US attacks would bring a bad result while Trump rejected Tehran's peace proposal as a ceasefire falters and violence flares in Lebanon, with 380 killed since the truce began.",
-      "emoji": "🇮🇷⚔️🇺🇸",
-      "category": "US-Iran War",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-ceasefire-life-support-israel-hezbollah/",
-      "timestamp": "2026-05-13T07:03:00+03:00"
+      "timestamp": "2026-05-13T07:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/breaking-zelenskys-former-second-in-command-yermak-charged-in-major-corruption-probe/",
+          "angle": "Zelensky ex-chief of staff Yermak charged in corruption probe",
+          "summary": "Andriy Yermak, former chief of staff to President Zelensky and Ukraine's lead negotiator with the US, has been named as a suspect in a major money-laundering investigation tied to luxury development near Kyiv. Six people have been charged in the anti-corruption sweep."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://apnews.com/article/russia-ukraine-war-corruption-yermak-fighting-drones-3b305f6e9b6f763605ebe6de2b356a54",
+        "https://kyivindependent.com/breaking-zelenskys-former-second-in-command-yermak-charged-in-major-corruption-probe/"
+      ]
     },
     {
       "headline": "Strait of Hormuz emerges as central battleground of Iran conflict",
@@ -746,31 +814,6 @@
       "timestamp": "2026-05-12T22:05:00+03:00"
     },
     {
-      "headline": "Zelensky ex-chief of staff Yermak charged in corruption probe",
-      "summary": "Andriy Yermak, former chief of staff to President Zelensky and Ukraine's lead negotiator with the US, has been named as a suspect in a major money-laundering investigation tied to luxury development near Kyiv. Six people have been charged in the anti-corruption sweep.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/breaking-zelenskys-former-second-in-command-yermak-charged-in-major-corruption-probe/",
-      "timestamp": "2026-05-12T21:20:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/breaking-zelenskys-former-second-in-command-yermak-charged-in-major-corruption-probe/",
-          "angle": "Zelensky's former chief of staff Yermak charged in major corruption probe",
-          "summary": "Ukraine's anti-corruption authorities have charged Andriy Yermak, former head of the presidential administration and Zelensky's closest aide, with corruption offenses. The case involves state-owned nuclear energy company Energoatom and marks the highest-level corruption investigation since the war began."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://kyivindependent.com/breaking-zelenskys-former-second-in-command-yermak-charged-in-major-corruption-probe/",
-        "https://kyivindependent.com/breaking-zelenskys-former-second-in-command-yermak-charged-in-major-corruption-probe/"
-      ]
-    },
-    {
       "headline": "Hamas Weaponized Sexual Violence in October 7 Attacks, Israeli Investigation Finds",
       "summary": "A comprehensive Israeli report documents systematic sexual assaults during the October 7 attacks, detailing harrowing cases. It is the most extensive investigation of its kind to date.",
       "emoji": "🇮🇱",
@@ -1443,19 +1486,19 @@
       "timestamp": "2026-05-12T08:00:00+03:00",
       "perspectives": [
         {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cvgznxn18zgo",
-          "angle": "Iran Ceasefire Deal on Massive Life Support, Trump Rejects Counteroffer",
-          "summary": "President Trump criticized Iran ceasefire proposal as unbelievably weak as the month-long truce hangs by a thread. The US is pushing for a more comprehensive agreement amid concerns about escalation."
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-ceasefire-life-support-israel-hezbollah/",
+          "angle": "Iran threatens retaliation as Trump says ceasefire is on life support",
+          "summary": "Iran warned any new US attacks would bring a bad result while Trump rejected Tehran's peace proposal as a ceasefire falters and violence flares in Lebanon, with 380 killed since the truce began."
         }
       ],
       "sources": [
         "AP News",
-        "BBC"
+        "CBS News"
       ],
       "urls": [
         "https://apnews.com/article/iran-us-israel-china-war-may-11-2026-0e9067769efea20e9d45e3d43158ad8c",
-        "https://www.bbc.com/news/articles/cvgznxn18zgo"
+        "https://www.cbsnews.com/live-updates/iran-war-trump-ceasefire-life-support-israel-hezbollah/"
       ]
     },
     {
@@ -1985,15 +2028,6 @@
       "category": "Diplomacy",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/11/eu-agrees-to-restore-full-trade-ties-with-syria",
-      "timestamp": "2026-05-11T19:20:00+03:00"
-    },
-    {
-      "headline": "Taiwan civilians flock to self-defense courses ahead of Trump-Xi summit",
-      "summary": "Taiwanese civilians are enrolling in self-defense courses in record numbers amid fears China could use force to seize the island. The surge comes as Trump prepares to visit China for talks that could determine the future of US-Taiwan relations.",
-      "emoji": "🇹🇼",
-      "category": "Asia-Pacific",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/11/taiwan-civilians-sharpen-self-defence-skills-ahead-of-trump-xi-summit",
       "timestamp": "2026-05-11T19:20:00+03:00"
     },
     {
