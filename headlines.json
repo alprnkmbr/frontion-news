@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-13T21:04:55+03:00",
+  "lastUpdated": "2026-05-13T22:06:44+03:00",
   "headlines": [
+    {
+      "headline": "Russia fires ~800 drones at Ukraine in massive barrage despite peace talks",
+      "summary": "Russia launched one of the wars largest drone attacks, killing at least six people, as Putin and Trump had spoken of possible peace. The barrage targeted 20 regions across Ukraine.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-drones-caa36f593f0eb2f853921a4580f9810d",
+      "timestamp": "2026-05-13T22:03:00+03:00"
+    },
+    {
+      "headline": "Netanyahu made secret visit to UAE during Iran war",
+      "summary": "Israeli PM Netanyahu secretly visited the UAE to meet the Emirati president during the Iran conflict, in what his office calls a historic breakthrough in relations between the two countries.",
+      "emoji": "🇮🇱🇦🇪",
+      "category": "Middle East",
+      "source": "AP News",
+      "url": "https://apnews.com/article/netanyahu-secret-visit-united-arab-emirates-iran-war-664cf1ec33396a66d11e8509f8a5d10c",
+      "timestamp": "2026-05-13T22:03:00+03:00"
+    },
+    {
+      "headline": "Fed officials signal rate hikes may be needed to curb inflation",
+      "summary": "Boston Fed President Collins and Minneapolis Fed President Kashkari both indicated interest rates may need to rise if inflation pressures persist, with the Iran war worsening price pressures.",
+      "emoji": "💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/us/feds-collins-says-rate-hikes-may-be-needed-quell-inflation-2026-05-13/",
+      "timestamp": "2026-05-13T22:03:00+03:00"
+    },
+    {
+      "headline": "Nigeria urges global finance overhaul as debt costs consume half of revenue",
+      "summary": "President Tinubu called for reforming the global financial system, saying Nigeria will spend .6 billion on debt service in 2026 - nearly half of projected government revenue.",
+      "emoji": "🇳🇬",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/africa/nigerias-tinubu-urges-global-finance-overhaul-debt-costs-crowd-out-spending-2026-05-13/",
+      "timestamp": "2026-05-13T22:03:00+03:00"
+    },
+    {
+      "headline": "Bank of England to hold rates at 3.75% as Iran war fuels inflation",
+      "summary": "The BoE will likely keep rates steady this year, though a growing minority of economists expect a hike as energy price surges from the Iran conflict drive up inflation forecasts.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/boe-hold-rates-375-this-year-growing-minority-expect-hike-2026-05-13/",
+      "timestamp": "2026-05-13T22:03:00+03:00"
+    },
     {
       "headline": "Hungary Summons Russian Ambassador Over Western Ukraine Drone Strikes",
       "summary": "Hungary summoned Russia's ambassador after drone attacks on western Ukraine near its border, highlighting NATO concerns as Russian strikes continue despite ongoing peace talks.",
@@ -8,7 +53,31 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/hungary-summons-russian-ambassador-over-drone-strikes-western-ukraine-2026-05-13/",
-      "timestamp": "2026-05-13T21:03:00+03:00"
+      "timestamp": "2026-05-13T21:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-port-infrastructure-in-russias-krasnodar-krai/",
+          "angle": "Russian Black Sea oil terminal ablaze after Ukrainian drone strikes",
+          "summary": "Ukrainian forces struck the Tamanneftegaz oil terminal in Krasnodar Krai, as well as facilities in Yaroslavl and Astrakhan, causing significant damage to Russian energy export infrastructure on the same day Moscow celebrated its Navy anniversary."
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/12/russia-ukraine-latest",
+          "angle": "Ukraine Strikes Russian Gas Facilities After Deadly Moscow Attacks",
+          "summary": "Ukraine targeted distant Russian gas infrastructure in retaliation for Russian attacks that killed at least six people, escalating the energy war between the two nations."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Kyiv Independent",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/hungary-summons-russian-ambassador-over-drone-strikes-western-ukraine-2026-05-13/",
+        "https://kyivindependent.com/ukrainian-drones-reportedly-strike-port-infrastructure-in-russias-krasnodar-krai/",
+        "https://www.aljazeera.com/news/2026/5/12/russia-ukraine-latest"
+      ]
     },
     {
       "headline": "Netanyahu Held Secret Meeting With UAE President During Iran War",
@@ -17,7 +86,31 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/netanyahu-held-secret-meeting-with-emirati-president-uae-during-iran-war-pms-2026-05-13/",
-      "timestamp": "2026-05-13T21:03:00+03:00"
+      "timestamp": "2026-05-13T21:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Haaretz",
+          "url": "https://www.haaretz.com/middle-east-news/2026-05-11/ty-article/.premium/netanyahu-iran-war-not-over-no-clear-end-to-fighting-with-hezbollah/0000019e-13ad-d969-adff-17ede3600000",
+          "angle": "Netanyahu declares Iran war not over, signals indefinite Hezbollah fighting",
+          "summary": "Israeli PM stated that the Iran war cannot end until Iranian uranium is physically removed, and warned there is no clear end to fighting with Hezbollah as Israeli strikes in Lebanon continue."
+        },
+        {
+          "source": "Wall Street Journal",
+          "url": "https://www.wsj.com/world/middle-east/israel-built-and-defended-a-secret-iran-war-base-in-iraq-3590851a",
+          "angle": "Israel Operated Secret Military Base in Iraq During Iran War",
+          "summary": "Israel established a clandestine outpost in the Iraqi desert to support its air campaign against Iran, housing special forces and serving as a logistics hub. Israel launched airstrikes against Iraqi troops who nearly discovered it early in the war."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Haaretz",
+        "Wall Street Journal"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/netanyahu-held-secret-meeting-with-emirati-president-uae-during-iran-war-pms-2026-05-13/",
+        "https://www.haaretz.com/middle-east-news/2026-05-11/ty-article/.premium/netanyahu-iran-war-not-over-no-clear-end-to-fighting-with-hezbollah/0000019e-13ad-d969-adff-17ede3600000",
+        "https://www.wsj.com/world/middle-east/israel-built-and-defended-a-secret-iran-war-base-in-iraq-3590851a"
+      ]
     },
     {
       "headline": "Saudi Arabia Launched Covert Attacks on Iran During Regional War",
@@ -26,7 +119,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/saudi-arabia-launched-covert-attacks-iran-regional-war-widened-sources-2026-05-12/",
-      "timestamp": "2026-05-13T21:03:00+03:00"
+      "timestamp": "2026-05-13T21:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/saudi-arabia-launched-covert-attacks-iran-regional-war-widened-sources-2026-05-12/",
+          "angle": "Saudi Arabia Conducted Covert Strikes on Iran During Regional War",
+          "summary": "Saudi Arabia launched multiple unpublicized attacks on Iranian soil in retaliation for strikes on the kingdom, marking the first known direct Saudi military action against Iran. The covert operations reveal how the Iran war has drawn in regional powers beyond the US and Israel."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/saudi-arabia-launched-covert-attacks-iran-regional-war-widened-sources-2026-05-12/",
+        "https://www.reuters.com/world/asia-pacific/saudi-arabia-launched-covert-attacks-iran-regional-war-widened-sources-2026-05-12/"
+      ]
     },
     {
       "headline": "US House Forces Vote on Ukraine Aid, Defying GOP Leadership",
@@ -44,7 +153,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/us/fed-chair-nominee-warsh-set-get-us-senate-nod-inflation-intensifies-2026-05-13/",
-      "timestamp": "2026-05-13T21:03:00+03:00"
+      "timestamp": "2026-05-13T21:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/5/12/kevin-warsh-confirmed-to-us-federal-reserve-board-in-close-senate-vote",
+          "angle": "Kevin Warsh confirmed to Fed Board ahead of chair vote",
+          "summary": "The Senate confirmed Kevin Warsh to the Federal Reserve Board 51-45, with one Democrat joining Republicans. A separate vote on his appointment as Fed chair is expected Wednesday before Jerome Powell's term ends Friday."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/us/fed-chair-nominee-warsh-set-get-us-senate-nod-inflation-intensifies-2026-05-13/",
+        "https://www.aljazeera.com/economy/2026/5/12/kevin-warsh-confirmed-to-us-federal-reserve-board-in-close-senate-vote"
+      ]
     },
     {
       "headline": "Iran releases prominent human rights lawyer Nasrin Sotoudeh on bail",
@@ -316,15 +441,6 @@
       "timestamp": "2026-05-13T17:03:00+03:00"
     },
     {
-      "headline": "Russian Black Sea oil terminal ablaze after Ukrainian drone strikes",
-      "summary": "Ukrainian forces struck the Tamanneftegaz oil terminal in Krasnodar Krai, as well as facilities in Yaroslavl and Astrakhan, causing significant damage to Russian energy export infrastructure on the same day Moscow celebrated its Navy anniversary.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-port-infrastructure-in-russias-krasnodar-krai/",
-      "timestamp": "2026-05-13T16:07:00+03:00"
-    },
-    {
       "headline": "Ukrainian forces deploy ground robot to destroy Russian-held building",
       "summary": "Ukraines 100th Mechanized Brigade used a kamikaze ground robot to attack a building occupied by Russian sabotage troops in Kostiantynivka, demonstrating evolving robotic warfare tactics on the battlefield.",
       "emoji": "🤖",
@@ -460,15 +576,6 @@
       "category": "Middle East",
       "source": "Times of Israel",
       "url": "https://www.timesofisrael.com/liveblog_entry/uae-puts-21-lebanese-citizens-organizations-on-terror-list-over-alleged-hezbollah-ties/",
-      "timestamp": "2026-05-13T14:05:00+03:00"
-    },
-    {
-      "headline": "Saudi Arabia Conducted Covert Strikes on Iran During Regional War",
-      "summary": "Saudi Arabia launched multiple unpublicized attacks on Iranian soil in retaliation for strikes on the kingdom, marking the first known direct Saudi military action against Iran. The covert operations reveal how the Iran war has drawn in regional powers beyond the US and Israel.",
-      "emoji": "🇸🇦",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/saudi-arabia-launched-covert-attacks-iran-regional-war-widened-sources-2026-05-12/",
       "timestamp": "2026-05-13T14:05:00+03:00"
     },
     {
@@ -1319,15 +1426,6 @@
       "timestamp": "2026-05-13T03:05:00+03:00"
     },
     {
-      "headline": "Kevin Warsh confirmed to Fed Board ahead of chair vote",
-      "summary": "The Senate confirmed Kevin Warsh to the Federal Reserve Board 51-45, with one Democrat joining Republicans. A separate vote on his appointment as Fed chair is expected Wednesday before Jerome Powell's term ends Friday.",
-      "emoji": "🇺🇸",
-      "category": "Economy",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/12/kevin-warsh-confirmed-to-us-federal-reserve-board-in-close-senate-vote",
-      "timestamp": "2026-05-13T03:05:00+03:00"
-    },
-    {
       "headline": "US allies surpassed American military purchasing power in 2025, new report shows",
       "summary": "A new defense analysis reveals that US allies have collectively surpassed American military budget purchasing power, though Washington remains the single highest spender in absolute terms.",
       "emoji": "🛡️",
@@ -1462,15 +1560,6 @@
         "https://www.washingtonpost.com/national-security/2026/05/11/us-ukraine-trump-weapons-purl/",
         "https://www.washingtonpost.com/national-security/2026/05/11/us-ukraine-trump-weapons-purl/"
       ]
-    },
-    {
-      "headline": "Ukraine Strikes Russian Gas Facilities After Deadly Moscow Attacks",
-      "summary": "Ukraine targeted distant Russian gas infrastructure in retaliation for Russian attacks that killed at least six people, escalating the energy war between the two nations.",
-      "emoji": "🇺🇦🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/12/russia-ukraine-latest",
-      "timestamp": "2026-05-12T23:59:00+03:00"
     },
     {
       "headline": "UK pledges jets, drones and warship for Hormuz defence mission",
@@ -2742,15 +2831,6 @@
       "timestamp": "2026-05-11T18:03:00+03:00"
     },
     {
-      "headline": "Netanyahu declares Iran war not over, signals indefinite Hezbollah fighting",
-      "summary": "Israeli PM stated that the Iran war cannot end until Iranian uranium is physically removed, and warned there is no clear end to fighting with Hezbollah as Israeli strikes in Lebanon continue.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/middle-east-news/2026-05-11/ty-article/.premium/netanyahu-iran-war-not-over-no-clear-end-to-fighting-with-hezbollah/0000019e-13ad-d969-adff-17ede3600000",
-      "timestamp": "2026-05-11T14:05:00+03:00"
-    },
-    {
       "headline": "Canadian spy report validates Sikh extremism concerns despite India meddling claims",
       "summary": "A Canadian intelligence report confirms Sikh extremism remains a threat while also accusing India of foreign interference and espionage, potentially signaling a diplomatic reset with New Delhi.",
       "emoji": "🇨🇦🇮🇳",
@@ -3065,39 +3145,6 @@
       "urls": [
         "https://www.theguardian.com/world",
         "https://www.theguardian.com/world/2026/may/10/paratroopers-britain-overseas-territory-suspected-hantavirus-case"
-      ]
-    },
-    {
-      "headline": "Israel Operated Secret Military Base in Iraq During Iran War",
-      "summary": "Israel established a clandestine outpost in the Iraqi desert to support its air campaign against Iran, housing special forces and serving as a logistics hub. Israel launched airstrikes against Iraqi troops who nearly discovered it early in the war.",
-      "emoji": "🇮🇱🇮🇶",
-      "category": "Middle East",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/world/middle-east/israel-built-and-defended-a-secret-iran-war-base-in-iraq-3590851a",
-      "timestamp": "2026-05-11T05:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/may/12/uae-secret-attack-iran-risks-gulf-states-regional-conflict",
-          "angle": "UAE carried out secret attack on Iran risking Gulf war escalation",
-          "summary": "The United Arab Emirates covertly struck Iran during the ongoing war, according to sources. The attack risks drawing other Gulf states into the regional conflict."
-        },
-        {
-          "source": "Haaretz",
-          "url": "https://www.haaretz.com/middle-east-news/iran/2026-05-12/ty-article/saudi-arabia-covertly-struck-iran-during-war-sources-say/0000019e-1d8e-dccb-abde-7dfe7cd40000",
-          "angle": "Saudi Arabia carried out covert strikes on Iran during war",
-          "summary": "Saudi Arabia launched unpublicized strikes on Iran in retaliation for attacks on the kingdom during the Middle East war, then engaged in intensive diplomatic contact with Tehran to de-escalate, officials said."
-        }
-      ],
-      "sources": [
-        "Wall Street Journal",
-        "The Guardian",
-        "Haaretz"
-      ],
-      "urls": [
-        "https://www.wsj.com/world/middle-east/israel-built-and-defended-a-secret-iran-war-base-in-iraq-3590851a",
-        "https://www.theguardian.com/world/2026/may/12/uae-secret-attack-iran-risks-gulf-states-regional-conflict",
-        "https://www.haaretz.com/middle-east-news/iran/2026-05-12/ty-article/saudi-arabia-covertly-struck-iran-during-war-sources-say/0000019e-1d8e-dccb-abde-7dfe7cd40000"
       ]
     },
     {
