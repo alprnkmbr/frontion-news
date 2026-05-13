@@ -1,13 +1,49 @@
 {
-  "lastUpdated": "2026-05-13T08:04:17+03:00",
+  "lastUpdated": "2026-05-13T08:06:11+03:00",
   "headlines": [
     {
-      "headline": "Trump arrives in China for high-stakes summit with Xi Jinping",
-      "summary": "US President Donald Trump arrived in Beijing for talks with Chinese leader Xi Jinping, with the Iran war, trade tariffs, Taiwan, and AI cooperation on the agenda. Tech leaders including Elon Musk and Tim Cook are accompanying the president.",
+      "headline": "US Defense Secretary Hegseth Joins Trump on Rare Beijing Trip",
+      "summary": "Pete Hegseth becomes the first Pentagon chief to accompany a US president to Beijing since Nixon's 1972 visit, signaling the strategic importance of the Trump-Xi summit amid ongoing Iran tensions.",
       "emoji": "🇺🇸🇨🇳",
       "category": "US-China",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/13/trump-china-summit-xi-jinping-talks",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/us/article/3353336/us-defence-secretary-joins-trump-china-trip-rare-diplomatic-move",
+      "timestamp": "2026-05-13T08:05:00+03:00"
+    },
+    {
+      "headline": "China Warns US on Arms Sales to Taiwan Ahead of Trump-Xi Summit",
+      "summary": "Beijing reiterated strong opposition to US weapons sales to Taiwan just hours before Trump arrives, calling on Washington to honor its commitments and threatening to crush any independence bid.",
+      "emoji": "🇨🇳🇹🇼",
+      "category": "US-China",
+      "source": "AsiaOne",
+      "url": "https://www.asiaone.com/china/ahead-trump-xi-summit-china-warns-us-arms-sales-taiwan",
+      "timestamp": "2026-05-13T08:05:00+03:00"
+    },
+    {
+      "headline": "Sirens Warn of Suspected Hezbollah Drone Attack in Northern Israel",
+      "summary": "Air raid sirens sounded in northern Israel amid a suspected Hezbollah drone intrusion from Lebanon, raising fears of a new front opening as the Iran conflict continues.",
+      "emoji": "🇮🇱⚠️",
+      "category": "Middle East",
+      "source": "Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/sirens-in-north-warn-of-suspected-hezbollah-drone-attack-from-lebanon/",
+      "timestamp": "2026-05-13T08:05:00+03:00"
+    },
+    {
+      "headline": "Ukrainian Drones Strike Port Infrastructure in Russia's Krasnodar Krai",
+      "summary": "Ukrainian forces targeted port facilities near the Kerch Peninsula east of Crimea, continuing their campaign against Russian logistics in the occupied territories.",
+      "emoji": "🇺🇦💥",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-port-infrastructure-in-russias-krasnodar-krai/",
+      "timestamp": "2026-05-13T08:05:00+03:00"
+    },
+    {
+      "headline": "UK Activists Face Terrorist Sentencing for Raid on Israeli Arms Firm",
+      "summary": "Four Palestine Action members convicted of smashing a UK site of Israeli defense firm Elbit could be sentenced as terrorists, marking a significant escalation in legal consequences for pro-Palestine activism.",
+      "emoji": "🇬🇧⚖️",
+      "category": "Europe",
+      "source": "Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/palestine-action-members-convicted-for-uk-raid-on-israeli-arms-firm-could-be-sentenced-as-terrorists/",
       "timestamp": "2026-05-13T08:05:00+03:00"
     },
     {
@@ -17,7 +53,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/trump-says-end-war-ukraine-is-very-close-2026-05-12/",
-      "timestamp": "2026-05-13T08:05:00+03:00"
+      "timestamp": "2026-05-13T08:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/trump-says-end-of-russias-war-against-ukraine-is-very-close/",
+          "angle": "Trump Says Russia-Ukraine War End Is Very Close",
+          "summary": "US President Donald Trump stated that he believes the Russia-Ukraine war is nearing an end and that Moscow and Kyiv are moving closer to a settlement, amid ongoing diplomatic efforts."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/trump-says-end-war-ukraine-is-very-close-2026-05-12/",
+        "https://kyivindependent.com/trump-says-end-of-russias-war-against-ukraine-is-very-close/"
+      ]
     },
     {
       "headline": "Putin announces deployment of new Sarmat nuclear missile this year",
@@ -432,15 +484,6 @@
         "https://www.defensenews.com/global/europe/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/",
         "https://www.defensenews.com/global/europe/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/"
       ]
-    },
-    {
-      "headline": "Trump Says Russia-Ukraine War End Is Very Close",
-      "summary": "US President Donald Trump stated that he believes the Russia-Ukraine war is nearing an end and that Moscow and Kyiv are moving closer to a settlement, amid ongoing diplomatic efforts.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/trump-says-end-of-russias-war-against-ukraine-is-very-close/",
-      "timestamp": "2026-05-13T04:10:00+03:00"
     },
     {
       "headline": "Ukrainian Drones Strike Russian Gas Facility 1,500km From Border",
@@ -875,19 +918,27 @@
       "timestamp": "2026-05-12T20:03:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/trump-visit-china-xi-iran-trade-diplomacy-75a27d595cfa5882b1e5bef917385309",
-          "angle": "Trump heads to China for Xi summit as Iran war casts shadow over talks",
-          "summary": "US President arrives in Beijing Wednesday for meetings with Xi Jinping, with trade tensions and Chinas economic ties to Iran complicating the visit. Trump predicted Xi would give him a big, fat hug."
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/may/13/trump-china-summit-xi-jinping-talks",
+          "angle": "Trump arrives in China for high-stakes summit with Xi Jinping",
+          "summary": "US President Donald Trump arrived in Beijing for talks with Chinese leader Xi Jinping, with the Iran war, trade tariffs, Taiwan, and AI cooperation on the agenda. Tech leaders including Elon Musk and Tim Cook are accompanying the president."
+        },
+        {
+          "source": "Washington Post",
+          "url": "https://www.washingtonpost.com/world/2026/05/11/trump-xi-china-beijing-visit/",
+          "angle": "Xi Prepares for High-Stakes Summit With Unpredictable Trump",
+          "summary": "China's President Xi Jinping hosts Trump in Beijing this week for a summit overshadowed by the Iran war, Taiwan tensions, and trade disputes, with Beijing aiming to project stability amid U.S. volatility."
         }
       ],
       "sources": [
         "AP News",
-        "AP News"
+        "The Guardian",
+        "Washington Post"
       ],
       "urls": [
         "https://apnews.com/article/trump-xi-iran-sanctions-trade-48b0ca751712ce473ffcd207997928af",
-        "https://apnews.com/article/trump-visit-china-xi-iran-trade-diplomacy-75a27d595cfa5882b1e5bef917385309"
+        "https://www.theguardian.com/world/2026/may/13/trump-china-summit-xi-jinping-talks",
+        "https://www.washingtonpost.com/world/2026/05/11/trump-xi-china-beijing-visit/"
       ]
     },
     {
@@ -1030,15 +1081,6 @@
       "category": "Asia-Pacific",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/12/ronald-dela-rosa-icc-arrest-warrant-philippines-senate-refuge",
-      "timestamp": "2026-05-12T15:03:00+03:00"
-    },
-    {
-      "headline": "Xi Prepares for High-Stakes Summit With Unpredictable Trump",
-      "summary": "China's President Xi Jinping hosts Trump in Beijing this week for a summit overshadowed by the Iran war, Taiwan tensions, and trade disputes, with Beijing aiming to project stability amid U.S. volatility.",
-      "emoji": "🇨🇳",
-      "category": "US-China",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/05/11/trump-xi-china-beijing-visit/",
       "timestamp": "2026-05-12T15:03:00+03:00"
     },
     {
