@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-13T14:07:10+03:00",
+  "lastUpdated": "2026-05-13T15:11:19+03:00",
   "headlines": [
+    {
+      "headline": "Gunshots at Philippine Senate as Police Standoff Escalates",
+      "summary": "More than a dozen gunshots were heard at the Philippine Senate during a standoff involving a senator with an outstanding arrest warrant. The building was placed on lockdown with personnel told to take cover.",
+      "emoji": "🇵🇭",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/gunshots-ring-out-philippine-senate-people-told-take-cover-2026-05-13/",
+      "timestamp": "2026-05-13T15:03:00+03:00"
+    },
+    {
+      "headline": "Britain to Strengthen EU Ties in New Legislative Agenda",
+      "summary": "King Charles delivered the governments legislative agenda including legislation to strengthen ties with the European Union, as Prime Minister Keir Starmer fights to stay in power amid leadership pressure.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/uk/britain-strengthen-ties-with-eu-new-legislation-2026-05-13/",
+      "timestamp": "2026-05-13T15:03:00+03:00"
+    },
+    {
+      "headline": "Israel Escalates Gaza Strikes as Hamas Regroups After Iran Truce",
+      "summary": "Israel has intensified attacks on Gaza in the five weeks since halting joint bombing with the US in Iran, redirecting fire back to the Palestinian enclave where Hamas fighters are tightening their grip.",
+      "emoji": "🇮🇱",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israel-steps-up-attacks-gaza-since-iran-truce-military-says-hamas-rearming-2026-05-13/",
+      "timestamp": "2026-05-13T15:03:00+03:00"
+    },
+    {
+      "headline": "OECD Projects Bank of Japan to Raise Rates to 2% by End-2027",
+      "summary": "The OECD forecasts Japan will raise its policy rate to 2% from 0.75% by end-2027, as robust domestic demand helps the economy absorb external shocks from the Middle East conflict.",
+      "emoji": "🇯🇵",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/asia/oecd-sees-japan-raising-interest-rates-2-by-end-2027-2026-05-13/",
+      "timestamp": "2026-05-13T15:03:00+03:00"
+    },
+    {
+      "headline": "Trumps China Summit Ambitions Shrink from Grand Bargain to Plea",
+      "summary": "President Trumps ambitions for his summit with Xi Jinping have shrunk from a grand bargain to a plea for help on Iran, as tech rivalry and distrust sap hopes for substantive AI commitments.",
+      "emoji": "🇺🇸🇨🇳",
+      "category": "US-China",
+      "source": "Politico",
+      "url": "https://www.politico.com/news/2026/05/13/trump-summit-xi-trade-hormuz-00915983",
+      "timestamp": "2026-05-13T15:03:00+03:00"
+    },
     {
       "headline": "Vietnam seeks US approval for oil tanker to bypass Hormuz blockade",
       "summary": "Vietnam has asked the US to allow an \"extremely important\" oil tanker carrying nearly 2 million barrels to pass through the Strait of Hormuz blockade. The ship is destined for Nghi Son refinery, which can process 200,000 barrels per day.",
@@ -8,16 +53,23 @@
       "category": "Energy",
       "source": "SCMP",
       "url": "https://www.scmp.com/news/asia/southeast-asia/article/3353350/vietnam-asks-us-allow-extremely-important-oil-tanker-slip-past-hormuz-blockade",
-      "timestamp": "2026-05-13T14:05:00+03:00"
-    },
-    {
-      "headline": "Trump Golden Dome missile shield could cost $1.2 trillion, watchdog warns",
-      "summary": "A US government watchdog estimates Trump's missile defense system will cost six times more than expected and could still be overwhelmed by a peer adversary's all-out attack, raising questions about feasibility.",
-      "emoji": "🇺🇸🛡️",
-      "category": "Defense Industry",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3353334/trumps-golden-dome-cost-us12-trillion-may-fail-stop-all-out-attack-watchdog",
-      "timestamp": "2026-05-13T14:05:00+03:00"
+      "timestamp": "2026-05-13T14:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Oil Price",
+          "url": "https://oilprice.com/energy/crude-oil/oil-tankers-go-dark-to-exit-the-strait-of-hormuz.html",
+          "angle": "Oil Tankers Go Dark to Exit the Strait of Hormuz Amid Blockade",
+          "summary": "Vessels are disabling their AIS transponders to navigate through the contested waterway as the US-Iran conflict continues to disrupt global energy flows and shipping routes."
+        }
+      ],
+      "sources": [
+        "SCMP",
+        "Oil Price"
+      ],
+      "urls": [
+        "https://www.scmp.com/news/asia/southeast-asia/article/3353350/vietnam-asks-us-allow-extremely-important-oil-tanker-slip-past-hormuz-blockade",
+        "https://oilprice.com/energy/crude-oil/oil-tankers-go-dark-to-exit-the-strait-of-hormuz.html"
+      ]
     },
     {
       "headline": "Israel strikes Lebanese highway, killing 8 including 2 children",
@@ -26,15 +78,6 @@
       "category": "Middle East",
       "source": "Daily Sabah",
       "url": "https://www.dailysabah.com/world/mid-east/israel-strikes-cars-on-lebanese-highway-killing-8-including-2-children",
-      "timestamp": "2026-05-13T14:05:00+03:00"
-    },
-    {
-      "headline": "European firms in China rethink supply chains as Iran war drives up costs",
-      "summary": "A new survey finds European companies operating in China are adjusting sourcing and production strategies due to supply disruptions and rising costs linked to the Middle East conflict.",
-      "emoji": "🇪🇺🇨🇳",
-      "category": "Economy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/economy/global-economy/article/3353423/european-firms-china-rethink-supply-chains-iran-war-drives-costs-survey-finds",
       "timestamp": "2026-05-13T14:05:00+03:00"
     },
     {
@@ -89,7 +132,23 @@
       "category": "Technology",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/tech-rivalry-distrust-sap-summit-hopes-trump-xi-ai-push-2026-05-13/",
-      "timestamp": "2026-05-13T14:05:00+03:00"
+      "timestamp": "2026-05-13T14:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/tech-rivalry-distrust-sap-summit-hopes-trump-xi-ai-push-2026-05-13/",
+          "angle": "Tech rivalry and distrust dim hopes for Trump-Xi AI cooperation",
+          "summary": "Trump will put AI at the forefront of talks with Xi, highlighting the technology's strategic heft, but substantive commitments are unlikely given deep mistrust and tech rivalry between the two powers."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/tech-rivalry-distrust-sap-summit-hopes-trump-xi-ai-push-2026-05-13/",
+        "https://www.reuters.com/world/china/tech-rivalry-distrust-sap-summit-hopes-trump-xi-ai-push-2026-05-13/"
+      ]
     },
     {
       "headline": "Bessent and Chinese VP hold talks in South Korea ahead of Trump-Xi summit",
@@ -387,15 +446,6 @@
       ]
     },
     {
-      "headline": "Tech rivalry and distrust dim hopes for Trump-Xi AI cooperation",
-      "summary": "Trump will put AI at the forefront of talks with Xi, highlighting the technology's strategic heft, but substantive commitments are unlikely given deep mistrust and tech rivalry between the two powers.",
-      "emoji": "🤖",
-      "category": "Technology",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/tech-rivalry-distrust-sap-summit-hopes-trump-xi-ai-push-2026-05-13/",
-      "timestamp": "2026-05-13T11:00:00+03:00"
-    },
-    {
       "headline": "US and China Cooperate Against Dubai Scam Centres",
       "summary": "US and China are working together in unprecedented cooperation to target scam centres operating out of Dubai, marking a rare area of collaboration amid tensions.",
       "emoji": "🇺🇸🇨🇳",
@@ -542,27 +592,27 @@
       "timestamp": "2026-05-13T09:00:00+03:00",
       "perspectives": [
         {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/business",
-          "angle": "US Inflation Surges to 3.8% as Iran War Drives Energy Prices Higher",
-          "summary": "Consumer prices spiked in April with petrol prices up nearly 30% since last year, driven by the Iran conflict's impact on global oil markets and the Strait of Hormuz blockage."
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/global-economy/article/3353423/european-firms-china-rethink-supply-chains-iran-war-drives-costs-survey-finds",
+          "angle": "European firms in China rethink supply chains as Iran war drives up costs",
+          "summary": "A new survey finds European companies operating in China are adjusting sourcing and production strategies due to supply disruptions and rising costs linked to the Middle East conflict."
         },
         {
-          "source": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/business/markets/currencies/china-s-yuan-hits-three-year-high-days-before-xi-trump-summit",
-          "angle": "Chinas yuan hits three-year high days before Xi-Trump summit",
-          "summary": "The Chinese currency has reached its strongest level in three years as markets position ahead of the highly anticipated Trump-Xi meeting in Beijing."
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/world/asia/india-modi-wfh-iran-war",
+          "angle": "Modi urges Indians to work from home as Iran war strains fuel supply",
+          "summary": "Indian Prime Minister Narendra Modi called on citizens to work from home and limit foreign travel to reduce fuel consumption and save foreign exchange as the Iran war continues disrupting global energy shipments."
         }
       ],
       "sources": [
         "Reuters",
-        "BBC",
-        "Nikkei Asia"
+        "SCMP",
+        "BBC"
       ],
       "urls": [
         "https://www.reuters.com/business/us-consumer-prices-increase-further-april-2026-05-12/",
-        "https://www.bbc.com/news/business",
-        "https://asia.nikkei.com/business/markets/currencies/china-s-yuan-hits-three-year-high-days-before-xi-trump-summit"
+        "https://www.scmp.com/economy/global-economy/article/3353423/european-firms-china-rethink-supply-chains-iran-war-drives-costs-survey-finds",
+        "https://www.bbc.com/news/world/asia/india-modi-wfh-iran-war"
       ]
     },
     {
@@ -763,6 +813,31 @@
       ]
     },
     {
+      "headline": "Trump Golden Dome missile shield to cost $1.2 trillion",
+      "summary": "US Congressional Budget Office estimates Trump's proposed missile defense system will cost nearly seven times his initial estimate. The system may not be able to stop an all-out missile attack.",
+      "emoji": "🇺🇸",
+      "category": "Defense Industry",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cqxp27j1xyjo",
+      "timestamp": "2026-05-13T06:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3353334/trumps-golden-dome-cost-us12-trillion-may-fail-stop-all-out-attack-watchdog",
+          "angle": "Trump Golden Dome missile shield could cost $1.2 trillion, watchdog warns",
+          "summary": "A US government watchdog estimates Trump's missile defense system will cost six times more than expected and could still be overwhelmed by a peer adversary's all-out attack, raising questions about feasibility."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "SCMP"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cqxp27j1xyjo",
+        "https://www.scmp.com/news/world/united-states-canada/article/3353334/trumps-golden-dome-cost-us12-trillion-may-fail-stop-all-out-attack-watchdog"
+      ]
+    },
+    {
       "headline": "Israeli strikes in Lebanon kill 13 including two paramedics",
       "summary": "Lebanon's health ministry says paramedics were carrying out a rescue mission in Nabatieh when they were killed. The strikes came in response to earlier attacks.",
       "emoji": "🇱🇧",
@@ -793,31 +868,6 @@
         "https://www.bbc.com/news/articles/cx21j3xl72zo",
         "https://www.aa.com.tr/en/middle-east/2-israeli-soldiers-injured-in-explosive-drone-blast-near-lebanon-border/3935723",
         "https://www.scmp.com/news/world/middle-east/article/3353193/israeli-soldiers-jailed-desecration-virgin-mary-statue-lebanon"
-      ]
-    },
-    {
-      "headline": "Trump Golden Dome missile shield to cost $1.2 trillion",
-      "summary": "US Congressional Budget Office estimates Trump's proposed missile defense system will cost nearly seven times his initial estimate. The system may not be able to stop an all-out missile attack.",
-      "emoji": "🇺🇸",
-      "category": "Defense Industry",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cqxp27j1xyjo",
-      "timestamp": "2026-05-13T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Defense News",
-          "url": "https://www.defensenews.com/news/pentagon-congress/2026/05/12/trumps-golden-dome-missile-shield-estimated-to-cost-12-trillion/",
-          "angle": "Trump Golden Dome missile shield estimated to cost $1.2 trillion over 20 years",
-          "summary": "A nonpartisan federal agency estimates that building and maintaining a national missile defense system would cost $1.2 trillion over two decades."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "Defense News"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/cqxp27j1xyjo",
-        "https://www.defensenews.com/news/pentagon-congress/2026/05/12/trumps-golden-dome-missile-shield-estimated-to-cost-12-trillion/"
       ]
     },
     {
@@ -2543,15 +2593,6 @@
       "timestamp": "2026-05-11T12:05:00+03:00"
     },
     {
-      "headline": "Oil Tankers Go Dark to Exit the Strait of Hormuz Amid Blockade",
-      "summary": "Vessels are disabling their AIS transponders to navigate through the contested waterway as the US-Iran conflict continues to disrupt global energy flows and shipping routes.",
-      "emoji": "🛢️🚢🇮🇷",
-      "category": "Energy",
-      "source": "Oil Price",
-      "url": "https://oilprice.com/energy/crude-oil/oil-tankers-go-dark-to-exit-the-strait-of-hormuz.html",
-      "timestamp": "2026-05-11T12:05:00+03:00"
-    },
-    {
       "headline": "F/A-18 Super Hornets Strike Iranian Tanker Smokestacks Running Blockade",
       "summary": "US Navy aircraft are using precision weapons to disable Iranian-flagged vessels attempting to break the blockade, with the latest attack targeting a tanker's propulsion to force compliance.",
       "emoji": "✈️🇮🇷🚢",
@@ -2583,31 +2624,6 @@
       "urls": [
         "https://www.bbc.com/news/world/asia/india",
         "https://www.al-monitor.com/originals/2026/05/indias-modi-cuts-size-his-motorcade-save-fuel-source-says"
-      ]
-    },
-    {
-      "headline": "Modi urges Indians to work from home as Iran war strains fuel supply",
-      "summary": "Indian Prime Minister Narendra Modi called on citizens to work from home and limit foreign travel to reduce fuel consumption and save foreign exchange as the Iran war continues disrupting global energy shipments.",
-      "emoji": "🇮🇳",
-      "category": "Economy",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/world/asia/india-modi-wfh-iran-war",
-      "timestamp": "2026-05-11T11:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/us-news/2026/may/11/trump-federal-gas-tax-iran-war",
-          "angle": "Trump vows to pause federal gas tax after Iran war drives fuel prices to four-year high",
-          "summary": "President Trump announced plans to suspend the federal gasoline tax as fuel prices surged to their highest level in four years due to the ongoing Iran conflict. The proposal would require congressional approval."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "The Guardian"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/world/asia/india-modi-wfh-iran-war",
-        "https://www.theguardian.com/us-news/2026/may/11/trump-federal-gas-tax-iran-war"
       ]
     },
     {
@@ -3117,33 +3133,6 @@
       "source": "The War Zone",
       "url": "https://www.twz.com/news-features/drone-swarms-packed-into-unassuming-containers-sought-by-darpa",
       "timestamp": "2026-05-10T22:05:00+03:00"
-    },
-    {
-      "headline": "Iran Sent Response to US War Proposal via Pakistan, State Media Reports",
-      "summary": "Iran conveyed its response to a US proposal to end the conflict through Pakistani channels, according to Iranian state media. Pakistan has served as an intermediary in diplomatic communications between Washington and Tehran.",
-      "emoji": "🇮🇷",
-      "category": "Diplomacy",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/middle-east-news/iran/2026-05-10/ty-article/.premium/irans-response-to-u-s-proposal-to-end-war-sent-via-pakistan-state-media-says/0000019e-120e-db97-adbf-366fef190000",
-      "timestamp": "2026-05-10T21:00:00+03:00"
-    },
-    {
-      "headline": "US Sanctions Nine China and Hong Kong Entities Over Iran Military Links",
-      "summary": "The US Treasury and State Department imposed sanctions on mainland China and Hong Kong entities accused of enabling Iran's military procurement efforts. The move comes days before Trump's summit with Xi Jinping in Beijing.",
-      "emoji": "🇨🇳",
-      "category": "Diplomacy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3352980/us-sanctions-9-mainland-china-and-hong-kong-entities-over-alleged-iran-military-links",
-      "timestamp": "2026-05-10T21:00:00+03:00"
-    },
-    {
-      "headline": "DR Congo militia attack kills at least 69 civilians",
-      "summary": "CODECO militia fighters killed at least 69 people in an attack in Ituri province, northeastern Democratic Republic of Congo, in one of the deadliest massacres in the region this year.",
-      "emoji": "🇨🇩",
-      "category": "Africa",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/10/rebel-fighters-kill-at-least-69-people-in-northeastern-dr-congo",
-      "timestamp": "2026-05-10T20:58:00+03:00"
     }
   ]
 }
