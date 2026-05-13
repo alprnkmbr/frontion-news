@@ -1,23 +1,50 @@
 {
-  "lastUpdated": "2026-05-13T22:06:44+03:00",
+  "lastUpdated": "2026-05-13T22:11:21+03:00",
   "headlines": [
     {
-      "headline": "Russia fires ~800 drones at Ukraine in massive barrage despite peace talks",
-      "summary": "Russia launched one of the wars largest drone attacks, killing at least six people, as Putin and Trump had spoken of possible peace. The barrage targeted 20 regions across Ukraine.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/russia-ukraine-war-drones-caa36f593f0eb2f853921a4580f9810d",
-      "timestamp": "2026-05-13T22:03:00+03:00"
+      "headline": "Israel strikes Lebanon killing 12 ahead of US-brokered talks",
+      "summary": "Israeli airstrikes hit vehicles in Lebanon, killing 12 people one day before planned US-brokered negotiations between Lebanon and Israel in Washington.",
+      "emoji": "🇮🇱🇱🇧",
+      "category": "Middle East",
+      "source": "Channel News Asia",
+      "url": "https://www.channelnewsasia.com/world/israel-lebanon-strikes-cars-killed-12-us-talks-6119511",
+      "timestamp": "2026-05-13T22:09:00+03:00"
     },
     {
-      "headline": "Netanyahu made secret visit to UAE during Iran war",
-      "summary": "Israeli PM Netanyahu secretly visited the UAE to meet the Emirati president during the Iran conflict, in what his office calls a historic breakthrough in relations between the two countries.",
-      "emoji": "🇮🇱🇦🇪",
-      "category": "Middle East",
-      "source": "AP News",
-      "url": "https://apnews.com/article/netanyahu-secret-visit-united-arab-emirates-iran-war-664cf1ec33396a66d11e8509f8a5d10c",
-      "timestamp": "2026-05-13T22:03:00+03:00"
+      "headline": "US Senate blocks Iran war powers challenge as conflict continues",
+      "summary": "Senate Republicans blocked a Democratic-led effort to end the Iran war until Congress authorizes it, while support for congressional oversight grows.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "US-Iran War",
+      "source": "Al-Monitor",
+      "url": "https://www.al-monitor.com/originals/2026/05/us-senate-blocks-latest-bid-rein-trump-iran-war-powers-support-grows",
+      "timestamp": "2026-05-13T22:09:00+03:00"
+    },
+    {
+      "headline": "Taiwan stages live-fire drill opposite mainland as Trump visits Beijing",
+      "summary": "Taiwan conducted live-fire military exercises on an island facing mainland China, highlighting anxiety about being used as a bargaining chip during the Trump-Xi summit.",
+      "emoji": "🇹🇼🇨🇳",
+      "category": "US-China",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/military/article/3353413/taiwan-stages-live-fire-drill-mainland-facing-island-trump-heads-beijing",
+      "timestamp": "2026-05-13T22:09:00+03:00"
+    },
+    {
+      "headline": "UK Energy Secretary vows permanent North Sea shutdown amid Iran war supply crunch",
+      "summary": "Ed Miliband pledged to permanently shut down North Sea oil and gas production, though timing draws controversy as the Iran war disrupts Middle East energy supplies.",
+      "emoji": "🇬🇧🛢️",
+      "category": "Energy",
+      "source": "The Telegraph",
+      "url": "https://www.telegraph.co.uk/business/2026/05/13/miliband-vows-permanent-shutdown-of-the-north-sea/",
+      "timestamp": "2026-05-13T22:09:00+03:00"
+    },
+    {
+      "headline": "European firms in China rethink supply chains as Iran war drives costs higher",
+      "summary": "A new survey shows European companies operating in China are adjusting sourcing and production plans due to supply disruptions and rising costs from Middle East instability.",
+      "emoji": "🇪🇺🇨🇳",
+      "category": "Economy",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/global-economy/article/3353423/european-firms-china-rethink-supply-chains-iran-war-drives-costs-survey-finds",
+      "timestamp": "2026-05-13T22:09:00+03:00"
     },
     {
       "headline": "Fed officials signal rate hikes may be needed to curb inflation",
@@ -45,6 +72,31 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/boe-hold-rates-375-this-year-growing-minority-expect-hike-2026-05-13/",
       "timestamp": "2026-05-13T22:03:00+03:00"
+    },
+    {
+      "headline": "Netanyahu Held Secret Meeting With UAE President During Iran War",
+      "summary": "Israeli PM Benjamin Netanyahu visited the UAE and met with the Emirati president during the Iran war, marking their first confirmed meeting and a \"historic breakthrough\" in relations.",
+      "emoji": "🇮🇱🇦🇪",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/netanyahu-held-secret-meeting-with-emirati-president-uae-during-iran-war-pms-2026-05-13/",
+      "timestamp": "2026-05-13T21:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/netanyahu-secret-visit-united-arab-emirates-iran-war-664cf1ec33396a66d11e8509f8a5d10c",
+          "angle": "Netanyahu made secret visit to UAE during Iran war",
+          "summary": "Israeli PM Netanyahu secretly visited the UAE to meet the Emirati president during the Iran conflict, in what his office calls a historic breakthrough in relations between the two countries."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/netanyahu-held-secret-meeting-with-emirati-president-uae-during-iran-war-pms-2026-05-13/",
+        "https://apnews.com/article/netanyahu-secret-visit-united-arab-emirates-iran-war-664cf1ec33396a66d11e8509f8a5d10c"
+      ]
     },
     {
       "headline": "Hungary Summons Russian Ambassador Over Western Ukraine Drone Strikes",
@@ -77,39 +129,6 @@
         "https://www.reuters.com/world/hungary-summons-russian-ambassador-over-drone-strikes-western-ukraine-2026-05-13/",
         "https://kyivindependent.com/ukrainian-drones-reportedly-strike-port-infrastructure-in-russias-krasnodar-krai/",
         "https://www.aljazeera.com/news/2026/5/12/russia-ukraine-latest"
-      ]
-    },
-    {
-      "headline": "Netanyahu Held Secret Meeting With UAE President During Iran War",
-      "summary": "Israeli PM Benjamin Netanyahu visited the UAE and met with the Emirati president during the Iran war, marking their first confirmed meeting and a \"historic breakthrough\" in relations.",
-      "emoji": "🇮🇱🇦🇪",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/netanyahu-held-secret-meeting-with-emirati-president-uae-during-iran-war-pms-2026-05-13/",
-      "timestamp": "2026-05-13T21:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Haaretz",
-          "url": "https://www.haaretz.com/middle-east-news/2026-05-11/ty-article/.premium/netanyahu-iran-war-not-over-no-clear-end-to-fighting-with-hezbollah/0000019e-13ad-d969-adff-17ede3600000",
-          "angle": "Netanyahu declares Iran war not over, signals indefinite Hezbollah fighting",
-          "summary": "Israeli PM stated that the Iran war cannot end until Iranian uranium is physically removed, and warned there is no clear end to fighting with Hezbollah as Israeli strikes in Lebanon continue."
-        },
-        {
-          "source": "Wall Street Journal",
-          "url": "https://www.wsj.com/world/middle-east/israel-built-and-defended-a-secret-iran-war-base-in-iraq-3590851a",
-          "angle": "Israel Operated Secret Military Base in Iraq During Iran War",
-          "summary": "Israel established a clandestine outpost in the Iraqi desert to support its air campaign against Iran, housing special forces and serving as a logistics hub. Israel launched airstrikes against Iraqi troops who nearly discovered it early in the war."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Haaretz",
-        "Wall Street Journal"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/netanyahu-held-secret-meeting-with-emirati-president-uae-during-iran-war-pms-2026-05-13/",
-        "https://www.haaretz.com/middle-east-news/2026-05-11/ty-article/.premium/netanyahu-iran-war-not-over-no-clear-end-to-fighting-with-hezbollah/0000019e-13ad-d969-adff-17ede3600000",
-        "https://www.wsj.com/world/middle-east/israel-built-and-defended-a-secret-iran-war-base-in-iraq-3590851a"
       ]
     },
     {
@@ -217,6 +236,31 @@
       "timestamp": "2026-05-13T20:10:00+03:00"
     },
     {
+      "headline": "Russia Launches Major Drone Barrage on Ukraine Despite Peace Talks",
+      "summary": "Russia fired approximately 800 drones at Ukraine in a prolonged barrage lasting hours, hitting Kyiv and Lviv despite recent Moscow talk of possible peace negotiations.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/russia-fires-about-800-drones-ukraine-despite-peace-talks-2026-05-13/",
+      "timestamp": "2026-05-13T19:16:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/russia-ukraine-war-drones-caa36f593f0eb2f853921a4580f9810d",
+          "angle": "Russia fires ~800 drones at Ukraine in massive barrage despite peace talks",
+          "summary": "Russia launched one of the wars largest drone attacks, killing at least six people, as Putin and Trump had spoken of possible peace. The barrage targeted 20 regions across Ukraine."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/russia-fires-about-800-drones-ukraine-despite-peace-talks-2026-05-13/",
+        "https://apnews.com/article/russia-ukraine-war-drones-caa36f593f0eb2f853921a4580f9810d"
+      ]
+    },
+    {
       "headline": "Trump Arrives in Beijing for High-Stakes Xi Summit on Iran, Trade, Taiwan",
       "summary": "President Trump landed in Beijing with top CEOs including Nvidia Jensen Huang and Elon Musk, seeking Chinese help on the Iran war while navigating tensions over tariffs, Taiwan, and AI technology.",
       "emoji": "🇺🇸🇨🇳",
@@ -239,31 +283,6 @@
       "urls": [
         "https://www.reuters.com/world/china/nvidia-ceo-joins-trumps-mission-open-up-china-2026-05-13/",
         "https://www.aljazeera.com/news/2026/5/13/chinas-xi-to-press-trump-on-taiwan-tariffs-during-summit"
-      ]
-    },
-    {
-      "headline": "Russia Launches Major Drone Barrage on Ukraine Despite Peace Talks",
-      "summary": "Russia fired approximately 800 drones at Ukraine in a prolonged barrage lasting hours, hitting Kyiv and Lviv despite recent Moscow talk of possible peace negotiations.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/russia-fires-about-800-drones-ukraine-despite-peace-talks-2026-05-13/",
-      "timestamp": "2026-05-13T19:16:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/russia-ukraine-war-drones-caa36f593f0eb2f853921a4580f9810d",
-          "angle": "Russia Bombards Ukraine with 100+ Drones as Trump Talks Peace",
-          "summary": "More than 100 Russian drones targeted Ukraine in the latest wave of strikes, hitting railway infrastructure, civilian sites, ports, and energy facilities. At least eight people were killed in Tuesdays barrage as Zelenskyy urged continued international support."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/russia-fires-about-800-drones-ukraine-despite-peace-talks-2026-05-13/",
-        "https://apnews.com/article/russia-ukraine-war-drones-caa36f593f0eb2f853921a4580f9810d"
       ]
     },
     {
@@ -3145,40 +3164,6 @@
       "urls": [
         "https://www.theguardian.com/world",
         "https://www.theguardian.com/world/2026/may/10/paratroopers-britain-overseas-territory-suspected-hantavirus-case"
-      ]
-    },
-    {
-      "headline": "Iran's Supreme Leader Missing and Silent as War Negotiations Continue",
-      "summary": "Mojtaba Khamenei has not appeared publicly since being severely injured in a February airstrike that killed his father Ali Khamenei. Only AI-generated images and purported written messages have emerged, raising questions about who is actually running Iran.",
-      "emoji": "🇮🇷",
-      "category": "Middle East",
-      "source": "Wall Street Journal",
-      "url": "https://www.wsj.com/world/middle-east/irans-supreme-leader-is-mia-just-when-negotiators-need-him-most-eb4bdc56",
-      "timestamp": "2026-05-11T05:05:00+03:00"
-    },
-    {
-      "headline": "Saudi Aramco Profit Jumps 25% as Pipeline Bypasses Hormuz Disruption",
-      "summary": "The world's largest oil company reported $32.5 billion in Q1 profit as it shifted exports to its East-West Pipeline running to the Red Sea. Brent crude stands at $103.91/barrel, below war highs but still elevated from pre-war $70 levels.",
-      "emoji": "🛢️💰",
-      "category": "Energy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/aramco-saudi-arabian-oil-ab384a52510f7af0c1e5629889742285",
-      "timestamp": "2026-05-11T05:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/aramco-saudi-arabian-oil-ab384a52510f7af0c1e5629889742285",
-          "angle": "Saudi Aramco Profit Jumps 25% After Shifting from Strait of Hormuz",
-          "summary": "Saudi Arabia's state oil giant reported a significant Q1 profit increase after rerouting oil exports away from the Strait of Hormuz during the Iran conflict, highlighting the company's adaptability."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "AP News"
-      ],
-      "urls": [
-        "https://apnews.com/article/aramco-saudi-arabian-oil-ab384a52510f7af0c1e5629889742285",
-        "https://apnews.com/article/aramco-saudi-arabian-oil-ab384a52510f7af0c1e5629889742285"
       ]
     }
   ]
