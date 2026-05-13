@@ -1,6 +1,82 @@
 {
-  "lastUpdated": "2026-05-13T08:06:11+03:00",
+  "lastUpdated": "2026-05-13T09:04:53+03:00",
   "headlines": [
+    {
+      "headline": "Saudi Arabia launched covert attacks on Iranian soil",
+      "summary": "Saudi Arabia carried out previously unreported military strikes inside Iran, marking the first time the kingdom is known to have directly attacked Iranian territory as the regional war expanded.",
+      "emoji": "🇸🇦🇮🇷",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/saudi-arabia-launched-covert-attacks-iran-regional-war-widened-sources-2026-05-12/",
+      "timestamp": "2026-05-13T09:05:00+03:00"
+    },
+    {
+      "headline": "Iran expands Strait of Hormuz operational zone definition",
+      "summary": "A senior IRGC Navy officer says Iran has redefined the Strait of Hormuz as a \"vast operational area\" far wider than before the war, signaling potential escalation in the strategic waterway.",
+      "emoji": "🇮🇷🛢️",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-now-defines-strait-hormuz-far-larger-zone-irgc-officer-says-2026-05-12/",
+      "timestamp": "2026-05-13T09:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Haaretz",
+          "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-12/ty-article-live/cnn-trump-more-seriously-considering-resuming-combat-operations-in-iran/0000019e-19d8-dfbd-affe-3ddaa89a0000",
+          "angle": "Iran redefines Strait of Hormuz boundaries 10 times wider",
+          "summary": "An IRGC officer says Iran now defines the Strait of Hormuz as 10 times wider than before the war, significantly expanding what Tehran considers its territorial waters. The move could escalate tensions with shipping in the critical waterway."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Haaretz"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/iran-now-defines-strait-hormuz-far-larger-zone-irgc-officer-says-2026-05-12/",
+        "https://www.haaretz.com/israel-news/israel-security/2026-05-12/ty-article-live/cnn-trump-more-seriously-considering-resuming-combat-operations-in-iran/0000019e-19d8-dfbd-affe-3ddaa89a0000"
+      ]
+    },
+    {
+      "headline": "Nvidia CEO Jensen Huang joins Trump mission to China",
+      "summary": "President Trump picked up Nvidia CEO Jensen Huang in Alaska en route to a high-stakes Beijing summit, with the US delegation seeking business deals and market access.",
+      "emoji": "🇺🇸🇨🇳",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/nvidia-ceo-joins-trumps-mission-open-up-china-2026-05-13/",
+      "timestamp": "2026-05-13T09:05:00+03:00"
+    },
+    {
+      "headline": "Trump-Xi to meet at Beijing Temple of Heaven for summit",
+      "summary": "Trump and Xi will hold their summit at the historic Hall of Prayer for Good Harvests, with both leaders seeking positive outcomes on Iran, trade, Taiwan, and AI issues.",
+      "emoji": "🇺🇸🇨🇳",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/temple-heaven-summit-trump-xi-will-seek-good-harvest-2026-05-12/",
+      "timestamp": "2026-05-13T09:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/us-treasurys-bessent-arrives-south-korea-trade-talks-with-chinas-he-ahead-2026-05-13/",
+          "angle": "US and Chinese treasury officials meet in South Korea before Trump-Xi summit",
+          "summary": "US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng started talks in South Korea to lay groundwork ahead of the Trump-Xi summit in Beijing."
+        },
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/trump-xi-iran-sanctions-trade-48b0ca751712ce473ffcd207997928af",
+          "angle": "Trump downplays differences with Xi over Iran as he heads to Beijing summit",
+          "summary": "President Trump departed for Beijing for a high-stakes summit with Chinese leader Xi Jinping, seeking to manage tensions over the Iran war and trade issues amid fragile ceasefire negotiations."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/temple-heaven-summit-trump-xi-will-seek-good-harvest-2026-05-12/",
+        "https://www.reuters.com/world/asia-pacific/us-treasurys-bessent-arrives-south-korea-trade-talks-with-chinas-he-ahead-2026-05-13/",
+        "https://apnews.com/article/trump-xi-iran-sanctions-trade-48b0ca751712ce473ffcd207997928af"
+      ]
+    },
     {
       "headline": "US Defense Secretary Hegseth Joins Trump on Rare Beijing Trip",
       "summary": "Pete Hegseth becomes the first Pentagon chief to accompany a US president to Beijing since Nixon's 1972 visit, signaling the strategic importance of the Trump-Xi summit amid ongoing Iran tensions.",
@@ -8,15 +84,6 @@
       "category": "US-China",
       "source": "SCMP",
       "url": "https://www.scmp.com/news/us/article/3353336/us-defence-secretary-joins-trump-china-trip-rare-diplomatic-move",
-      "timestamp": "2026-05-13T08:05:00+03:00"
-    },
-    {
-      "headline": "China Warns US on Arms Sales to Taiwan Ahead of Trump-Xi Summit",
-      "summary": "Beijing reiterated strong opposition to US weapons sales to Taiwan just hours before Trump arrives, calling on Washington to honor its commitments and threatening to crush any independence bid.",
-      "emoji": "🇨🇳🇹🇼",
-      "category": "US-China",
-      "source": "AsiaOne",
-      "url": "https://www.asiaone.com/china/ahead-trump-xi-summit-china-warns-us-arms-sales-taiwan",
       "timestamp": "2026-05-13T08:05:00+03:00"
     },
     {
@@ -35,7 +102,23 @@
       "category": "Ukraine-Russia War",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-port-infrastructure-in-russias-krasnodar-krai/",
-      "timestamp": "2026-05-13T08:05:00+03:00"
+      "timestamp": "2026-05-13T08:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russias-orenburg-and-chelyabinsk-reportedly-came-under-drone-attack/",
+          "angle": "Ukrainian Drones Strike Russian Gas Facility 1,500km From Border",
+          "summary": "Ukrainian forces carried out drone strikes on a gas facility in Russia's Orenburg Oblast, more than 1,500 kilometers from the Ukrainian border, demonstrating continued deep-strike capabilities after the Victory Day ceasefire ended."
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://kyivindependent.com/ukrainian-drones-reportedly-strike-port-infrastructure-in-russias-krasnodar-krai/",
+        "https://kyivindependent.com/russias-orenburg-and-chelyabinsk-reportedly-came-under-drone-attack/"
+      ]
     },
     {
       "headline": "UK Activists Face Terrorist Sentencing for Raid on Israeli Arms Firm",
@@ -486,15 +569,6 @@
       ]
     },
     {
-      "headline": "Ukrainian Drones Strike Russian Gas Facility 1,500km From Border",
-      "summary": "Ukrainian forces carried out drone strikes on a gas facility in Russia's Orenburg Oblast, more than 1,500 kilometers from the Ukrainian border, demonstrating continued deep-strike capabilities after the Victory Day ceasefire ended.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russias-orenburg-and-chelyabinsk-reportedly-came-under-drone-attack/",
-      "timestamp": "2026-05-13T04:10:00+03:00"
-    },
-    {
       "headline": "Russian ship that sank near Spain may have been carrying nuclear reactors to North Korea",
       "summary": "A Russian vessel that sank in the Mediterranean may have been transporting nuclear reactor components destined for North Korea, raising concerns about illicit nuclear proliferation and sanctions evasion.",
       "emoji": "🚢☢️🇰🇵",
@@ -526,15 +600,6 @@
       "category": "Health",
       "source": "AP News",
       "url": "https://apnews.com/article/hantavirus-outbreak-hondius-cruise-ship-ac42357c5c3ae1694a93f1d43ba38bdb",
-      "timestamp": "2026-05-13T04:05:00+03:00"
-    },
-    {
-      "headline": "Trump downplays differences with Xi over Iran as he heads to Beijing summit",
-      "summary": "President Trump departed for Beijing for a high-stakes summit with Chinese leader Xi Jinping, seeking to manage tensions over the Iran war and trade issues amid fragile ceasefire negotiations.",
-      "emoji": "🇺🇸🇨🇳🤝",
-      "category": "Diplomacy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/trump-xi-iran-sanctions-trade-48b0ca751712ce473ffcd207997928af",
       "timestamp": "2026-05-13T04:05:00+03:00"
     },
     {
@@ -918,37 +983,28 @@
       "timestamp": "2026-05-12T20:03:00+03:00",
       "perspectives": [
         {
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/may/13/trump-china-summit-xi-jinping-talks",
-          "angle": "Trump arrives in China for high-stakes summit with Xi Jinping",
-          "summary": "US President Donald Trump arrived in Beijing for talks with Chinese leader Xi Jinping, with the Iran war, trade tariffs, Taiwan, and AI cooperation on the agenda. Tech leaders including Elon Musk and Tim Cook are accompanying the president."
+          "source": "AsiaOne",
+          "url": "https://www.asiaone.com/china/ahead-trump-xi-summit-china-warns-us-arms-sales-taiwan",
+          "angle": "China Warns US on Arms Sales to Taiwan Ahead of Trump-Xi Summit",
+          "summary": "Beijing reiterated strong opposition to US weapons sales to Taiwan just hours before Trump arrives, calling on Washington to honor its commitments and threatening to crush any independence bid."
         },
         {
-          "source": "Washington Post",
-          "url": "https://www.washingtonpost.com/world/2026/05/11/trump-xi-china-beijing-visit/",
-          "angle": "Xi Prepares for High-Stakes Summit With Unpredictable Trump",
-          "summary": "China's President Xi Jinping hosts Trump in Beijing this week for a summit overshadowed by the Iran war, Taiwan tensions, and trade disputes, with Beijing aiming to project stability amid U.S. volatility."
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html",
+          "angle": "Xi to Press Trump on Taiwan Arms Sales at Beijing Summit",
+          "summary": "Chinese President Xi Jinping is poised to press Donald Trump to slow approval of weapons for Taiwan during their summit, as Beijing calls the self-governing island the \"core of China's core interests.\""
         }
       ],
       "sources": [
         "AP News",
-        "The Guardian",
-        "Washington Post"
+        "AsiaOne",
+        "New York Times"
       ],
       "urls": [
         "https://apnews.com/article/trump-xi-iran-sanctions-trade-48b0ca751712ce473ffcd207997928af",
-        "https://www.theguardian.com/world/2026/may/13/trump-china-summit-xi-jinping-talks",
-        "https://www.washingtonpost.com/world/2026/05/11/trump-xi-china-beijing-visit/"
+        "https://www.asiaone.com/china/ahead-trump-xi-summit-china-warns-us-arms-sales-taiwan",
+        "https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html"
       ]
-    },
-    {
-      "headline": "Xi to Press Trump on Taiwan Arms Sales at Beijing Summit",
-      "summary": "Chinese President Xi Jinping is poised to press Donald Trump to slow approval of weapons for Taiwan during their summit, as Beijing calls the self-governing island the \"core of China's core interests.\"",
-      "emoji": "🇨🇳🇹🇼",
-      "category": "US-China",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/12/world/asia/xi-trump-china-taiwan-arms-sales.html",
-      "timestamp": "2026-05-12T20:03:00+03:00"
     },
     {
       "headline": "Israel Killing One Palestinian Child Per Week in West Bank, UN Reports",
@@ -1046,15 +1102,6 @@
         "https://www.haaretz.com/israel-news/israel-security/2026-05-12/ty-article-live/cnn-trump-more-seriously-considering-resuming-combat-operations-in-iran/0000019e-19d8-dfbd-affe-3ddaa89a0000",
         "https://www.haaretz.com/israel-news/israel-security/2026-05-12/ty-article-live/cnn-trump-more-seriously-considering-resuming-combat-operations-in-iran/0000019e-19d8-dfbd-affe-3ddaa89a0000"
       ]
-    },
-    {
-      "headline": "Iran redefines Strait of Hormuz boundaries 10 times wider",
-      "summary": "An IRGC officer says Iran now defines the Strait of Hormuz as 10 times wider than before the war, significantly expanding what Tehran considers its territorial waters. The move could escalate tensions with shipping in the critical waterway.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-12/ty-article-live/cnn-trump-more-seriously-considering-resuming-combat-operations-in-iran/0000019e-19d8-dfbd-affe-3ddaa89a0000",
-      "timestamp": "2026-05-12T16:04:00+03:00"
     },
     {
       "headline": "Ukraine drones hit Russian city 1,200km from front lines",
