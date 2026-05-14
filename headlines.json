@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-14T20:04:41+03:00",
+  "lastUpdated": "2026-05-14T20:09:03+03:00",
   "headlines": [
+    {
+      "headline": "Pentagon cancels deployment of 4,000 troops to Poland",
+      "summary": "The US abruptly cancelled plans to send about 4,000 Army troops to Poland amid a broader review of European force posture, linked to wider troop cuts in Germany. Warsaw says US troop numbers in Poland remain stable.",
+      "emoji": "🇺🇸🇵🇱",
+      "category": "Europe",
+      "source": "Telegraph",
+      "url": "https://www.telegraph.co.uk/world-news/2026/05/14/pentagon-cancels-deployment-of-thousands-of-troops/",
+      "timestamp": "2026-05-14T20:05:00+03:00"
+    },
+    {
+      "headline": "Iran small businesses collapse under war and internet blackout",
+      "summary": "Prices for some goods have tripled or quadrupled within months, with at least 2 million people losing jobs as Iran economy buckles under war pressure, inflation, and internet restrictions.",
+      "emoji": "🇮🇷💰",
+      "category": "Middle East",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260514-iran-economy-collapse-internet-blackout-small-businesses-war-inflation",
+      "timestamp": "2026-05-14T20:05:00+03:00"
+    },
+    {
+      "headline": "Cuba power grid critical as US blocks fuel shipments",
+      "summary": "Protests flared in Havana amid widespread power outages. Cuba energy minister says fuel has run out as a four-month US sanctions campaign has blocked fuel deliveries to the island.",
+      "emoji": "🇨🇺⚡",
+      "category": "Latin America",
+      "source": "DW",
+      "url": "https://www.dw.com/en/cubas-power-grid-critical-as-us-blocks-fuel-shipments/a-77162028",
+      "timestamp": "2026-05-14T20:05:00+03:00"
+    },
+    {
+      "headline": "Saudi Arabia floats non-aggression pact with Iran and regional states",
+      "summary": "The kingdom is modelling its framework on the 1975 Helsinki Accords, seeking to reduce tensions between regional powers as the Iran conflict continues.",
+      "emoji": "🇸🇦🇮🇷",
+      "category": "Middle East",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/saudi-arabia-floats-non-aggression-pact-iran-and-regional-states-report",
+      "timestamp": "2026-05-14T20:05:00+03:00"
+    },
+    {
+      "headline": "Ukraine corruption scandal widens, former Zelenskyy chief of staff arrested",
+      "summary": "Andriy Yermak, former chief of staff to President Zelenskyy, has been arrested on money-laundering charges. A drawn-out corruption affair continues to fuel wartime political tensions.",
+      "emoji": "🇺🇦⚖️",
+      "category": "Ukraine-Russia War",
+      "source": "DW",
+      "url": "https://www.dw.com/en/corruption-in-ukraine-will-this-scandal-reach-zelenskyy/a-77161926",
+      "timestamp": "2026-05-14T20:05:00+03:00"
+    },
     {
       "headline": "Russia Launches Largest Drone Attack of War on Ukraine",
       "summary": "Russia carried out its largest aerial attack over a two-day period since the war began, pounding Kyiv with hundreds of drones. An apartment building was flattened, killing at least 7 civilians as strikes continued for a third straight day.",
@@ -8,7 +53,31 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-2026-05-14/",
-      "timestamp": "2026-05-14T20:05:00+03:00"
+      "timestamp": "2026-05-14T20:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/76139",
+          "angle": "Russia's prison population drops 180,000 as prisoners join Ukraine war",
+          "summary": "Russia has seen its prison population fall by 180,000 over four years as prisoners are offered army contracts to fight in Ukraine in exchange for sentence reductions."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/ukraines-zelenskiy-warns-incoming-russian-drone-attacks-during-daylight-2026-05-13/",
+          "angle": "Russia Launches Massive Drone Barrage on Western Ukraine, Killing Six",
+          "summary": "Russia fired approximately 800 drones at about 20 Ukrainian regions in a daylight attack targeting critical infrastructure near NATO borders, killing at least six people and prompting Poland to scramble fighter jets."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Kyiv Post",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-2026-05-14/",
+        "https://www.kyivpost.com/post/76139",
+        "https://www.reuters.com/business/aerospace-defense/ukraines-zelenskiy-warns-incoming-russian-drone-attacks-during-daylight-2026-05-13/"
+      ]
     },
     {
       "headline": "Ship Seized Near Strait of Hormuz as Tensions Escalate",
@@ -26,7 +95,23 @@
       "category": "US-China",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/taiwan-no-surprises-trump-xi-summit-china-should-end-military-pressure-2026-05-14/",
-      "timestamp": "2026-05-14T20:05:00+03:00"
+      "timestamp": "2026-05-14T20:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/05/14/world/asia/xi-lays-out-blunt-warning-for-trump-over-taiwan.html",
+          "angle": "Xi Warns Trump That Taiwan Could Push US-China Relations Into \"Great Jeopardy\"",
+          "summary": "Chinese President Xi Jinping issued a stark warning to President Trump during their Beijing summit, saying US-China relations could enter an \"extremely dangerous place\" if the Taiwan issue is not handled properly. The warning came as the leaders discussed trade and the Iran conflict."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "New York Times"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/taiwan-no-surprises-trump-xi-summit-china-should-end-military-pressure-2026-05-14/",
+        "https://www.nytimes.com/2026/05/14/world/asia/xi-lays-out-blunt-warning-for-trump-over-taiwan.html"
+      ]
     },
     {
       "headline": "China Halts US Beef Export Licenses Hours After Approving Them",
@@ -320,15 +405,6 @@
       "timestamp": "2026-05-14T16:07:00+03:00"
     },
     {
-      "headline": "Russia's prison population drops 180,000 as prisoners join Ukraine war",
-      "summary": "Russia has seen its prison population fall by 180,000 over four years as prisoners are offered army contracts to fight in Ukraine in exchange for sentence reductions.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Post",
-      "url": "https://www.kyivpost.com/post/76139",
-      "timestamp": "2026-05-14T16:07:00+03:00"
-    },
-    {
       "headline": "Latvian Armed Forces deploy Natrix unmanned ground vehicles",
       "summary": "The Latvian Armed Forces have begun operating the Natrix NXU unmanned ground vehicle as of May 2026, continuing NATO eastern flank defense modernization.",
       "emoji": "🇱🇻",
@@ -576,39 +652,6 @@
       "urls": [
         "https://www.reuters.com/business/aerospace-defense/russian-airspace-breaches-show-need-boost-nato-eastern-flank-air-defence-say-2026-05-13/",
         "https://www.reuters.com/business/aerospace-defense/russian-airspace-breaches-show-need-boost-nato-eastern-flank-air-defence-say-2026-05-13/"
-      ]
-    },
-    {
-      "headline": "Xi Warns Trump That Taiwan Could Push US-China Relations Into \"Great Jeopardy\"",
-      "summary": "Chinese President Xi Jinping issued a stark warning to President Trump during their Beijing summit, saying US-China relations could enter an \"extremely dangerous place\" if the Taiwan issue is not handled properly. The warning came as the leaders discussed trade and the Iran conflict.",
-      "emoji": "🇨🇳",
-      "category": "US-China",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/14/world/asia/xi-lays-out-blunt-warning-for-trump-over-taiwan.html",
-      "timestamp": "2026-05-14T11:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/military/article/3353604/xi-warns-trump-about-extremely-dangerous-risks-if-taiwan-issue-mishandled",
-          "angle": "Xi warns Trump of extremely dangerous risks if Taiwan issue mishandled",
-          "summary": "During the Trump-Xi summit, the Chinese leader emphasized that managing the Taiwan question would be the primary factor for constructive strategic stability in US-China ties over the next three years."
-        },
-        {
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-china-trip-xi-live-updates-rcna344529",
-          "angle": "Xi Warns Trump on Taiwan at High-Stakes Beijing Summit",
-          "summary": "Chinese President Xi Jinping cautioned that mishandling Taiwan could push the two superpowers toward conflict, as Trump and Xi met for a two-day summit focused on trade, the Iran war, and strategic competition."
-        }
-      ],
-      "sources": [
-        "New York Times",
-        "SCMP",
-        "NBC News"
-      ],
-      "urls": [
-        "https://www.nytimes.com/2026/05/14/world/asia/xi-lays-out-blunt-warning-for-trump-over-taiwan.html",
-        "https://www.scmp.com/news/china/military/article/3353604/xi-warns-trump-about-extremely-dangerous-risks-if-taiwan-issue-mishandled",
-        "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-china-trip-xi-live-updates-rcna344529"
       ]
     },
     {
@@ -1124,31 +1167,6 @@
       "source": "Defense News",
       "url": "https://www.defensenews.com/global/europe/2026/05/13/austrian-jets-intercept-unauthorized-us-military-planes-two-days-in-a-row/",
       "timestamp": "2026-05-14T02:05:00+03:00"
-    },
-    {
-      "headline": "Russia Launches Massive Drone Barrage on Western Ukraine, Killing Six",
-      "summary": "Russia fired approximately 800 drones at about 20 Ukrainian regions in a daylight attack targeting critical infrastructure near NATO borders, killing at least six people and prompting Poland to scramble fighter jets.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/ukraines-zelenskiy-warns-incoming-russian-drone-attacks-during-daylight-2026-05-13/",
-      "timestamp": "2026-05-14T02:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Sky News",
-          "url": "https://news.sky.com/story/ukraine-war-latest-putin-ally-warns-full-scale-world-war-iii-is-possible-in-latest-threat-as-russia-makes-high-risk-decision-to-send-new-tank-to-ukraine-12541713",
-          "angle": "Russia Launches Massive Drone and Missile Barrage on Ukraine, Killing One",
-          "summary": "Moscow fired more than 700 drones and missiles at Ukraine in a deadly night of attacks that killed at least one person in Kyiv and wounded dozens. The assault came after a brief ceasefire ended."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Sky News"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/aerospace-defense/ukraines-zelenskiy-warns-incoming-russian-drone-attacks-during-daylight-2026-05-13/",
-        "https://news.sky.com/story/ukraine-war-latest-putin-ally-warns-full-scale-world-war-iii-is-possible-in-latest-threat-as-russia-makes-high-risk-decision-to-send-new-tank-to-ukraine-12541713"
-      ]
     },
     {
       "headline": "US Senate Blocks Bid to Restrain Trump Iran War Powers as Support Grows",
@@ -2986,31 +3004,6 @@
       "urls": [
         "https://kyivindependent.com/russia-has-paid-north-korea-billions-for-help-fighting-ukraine-south-korean-intel-says/",
         "https://kyivindependent.com/russia-has-paid-north-korea-billions-for-help-fighting-ukraine-south-korean-intel-says/"
-      ]
-    },
-    {
-      "headline": "UK Sanctions 85 People and Entities Over Russian Information Warfare",
-      "summary": "Britain imposed new sanctions targeting Russian propaganda operations including attempts to interfere in Armenian elections, alongside measures against those involved in the forced deportation and indoctrination of Ukrainian children.",
-      "emoji": "🇬🇧🇷🇺",
-      "category": "Europe",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3353190/uk-sanctions-85-people-and-entities-over-pro-kremlin-narratives",
-      "timestamp": "2026-05-12T08:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3353190/uk-sanctions-85-people-and-entities-over-pro-kremlin-narratives",
-          "angle": "UK sanctions 85 people and entities over pro-Kremlin narratives",
-          "summary": "British government targets individuals and organizations accused of helping Russia forcibly deport and militarize Ukrainian children, calling it one of its \"toughest measures\" to date."
-        }
-      ],
-      "sources": [
-        "SCMP",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.scmp.com/news/world/europe/article/3353190/uk-sanctions-85-people-and-entities-over-pro-kremlin-narratives",
-        "https://www.scmp.com/news/world/europe/article/3353190/uk-sanctions-85-people-and-entities-over-pro-kremlin-narratives"
       ]
     }
   ]
