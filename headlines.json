@@ -1,14 +1,14 @@
 {
-  "lastUpdated": "2026-05-14T15:06:31+03:00",
+  "lastUpdated": "2026-05-14T16:05:28+03:00",
   "headlines": [
     {
-      "headline": "Russia unleashes largest wartime aerial assault with 1,500+ drones over two days",
-      "summary": "Russia carried out its largest aerial attack over a two-day period since the war began, pounding Kyiv and other cities with hundreds of drones. Ukrainian officials reported widespread destruction and casualties.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-2026-05-14/",
-      "timestamp": "2026-05-14T15:03:00+03:00"
+      "headline": "Trump and Xi Agree Strait of Hormuz Must Remain Open",
+      "summary": "President Trump and Chinese leader Xi Jinping met in Beijing and agreed that the Strait of Hormuz must remain open for energy shipments, while Xi warned that Taiwan differences could lead to conflict. The summit addressed Iran war impacts on global oil flows.",
+      "emoji": "🇺🇸🇨🇳",
+      "category": "Diplomacy",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/trump-xi-iran-war-strait-hormuz-lebanon-israel-peace-talks/",
+      "timestamp": "2026-05-14T16:03:00+03:00"
     },
     {
       "headline": "Zelenskiy ex-chief of staff arrested in widening Ukraine corruption probe",
@@ -17,7 +17,48 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/ukraines-anti-corruption-court-places-zelenskiys-former-chief-staff-yermak-under-2026-05-14/",
-      "timestamp": "2026-05-14T15:03:00+03:00"
+      "timestamp": "2026-05-14T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "CBC/Reuters",
+          "url": "https://www.cbc.ca/news/world/zelenskyy-top-aid-arrested-ukraine-9.7199142",
+          "angle": "Zelenskyy Former Chief of Staff Yermak Arrested on Money-Laundering Charges",
+          "summary": "Andriy Yermak, former chief of staff to President Zelenskyy, was taken into custody on money-laundering charges related to a .5 million scheme through an elite housing development. The case is part of a broader anti-corruption operation."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "CBC/Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/ukraines-anti-corruption-court-places-zelenskiys-former-chief-staff-yermak-under-2026-05-14/",
+        "https://www.cbc.ca/news/world/zelenskyy-top-aid-arrested-ukraine-9.7199142"
+      ]
+    },
+    {
+      "headline": "Russia unleashes largest wartime aerial assault with 1,500+ drones over two days",
+      "summary": "Russia carried out its largest aerial attack over a two-day period since the war began, pounding Kyiv and other cities with hundreds of drones. Ukrainian officials reported widespread destruction and casualties.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-2026-05-14/",
+      "timestamp": "2026-05-14T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-2026-05-14/",
+          "angle": "Russia unleashes largest aerial assault on Ukraine, pummeling Kyiv with hundreds of drones",
+          "summary": "Russia launched the biggest aerial attack on Ukraine over a two-day period since the war began, striking Kyiv and multiple cities with hundreds of drones in a devastating barrage that killed at least two and wounded dozens."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-2026-05-14/",
+        "https://www.reuters.com/world/europe/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-2026-05-14/"
+      ]
     },
     {
       "headline": "New ship attacks near Strait of Hormuz as Trump-Xi summit stalls on Iran",
@@ -26,16 +67,31 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/iran-war-overshadows-trumps-china-visit-peace-talks-stall-2026-05-14/",
-      "timestamp": "2026-05-14T15:03:00+03:00"
-    },
-    {
-      "headline": "Israel escalates Lebanon strikes ahead of US-brokered peace talks",
-      "summary": "Israel ramped up attacks on southern Lebanon, killing two people and issuing forced displacement orders as Beirut and Washington prepare to resume peace negotiations.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/14/two-killed-as-israel-ramps-up-southern-lebanon-attacks-ahead-of-us-talks",
-      "timestamp": "2026-05-14T15:03:00+03:00"
+      "timestamp": "2026-05-14T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-china-xi-summit-ceasefire-peace-talks-stalled/",
+          "angle": "Iran Military Ready for New US Assault as Trump Heads to China Summit",
+          "summary": "Iran's military says it is trained and prepared to repel any new US attack, with peace talks stalled and Trump predicting a 'long talk' about the war with Xi Jinping in Beijing. The fragile ceasefire remains on edge as both sides brace for potential escalation."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/iran-now-defines-strait-hormuz-far-larger-zone-irgc-officer-says-2026-05-12/",
+          "angle": "Iran expands Strait of Hormuz operational zone definition",
+          "summary": "A senior IRGC Navy officer says Iran has redefined the Strait of Hormuz as a \"vast operational area\" far wider than before the war, signaling potential escalation in the strategic waterway."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "CBS News",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/iran-war-overshadows-trumps-china-visit-peace-talks-stall-2026-05-14/",
+        "https://www.cbsnews.com/live-updates/iran-war-us-trump-china-xi-summit-ceasefire-peace-talks-stalled/",
+        "https://www.reuters.com/world/middle-east/iran-now-defines-strait-hormuz-far-larger-zone-irgc-officer-says-2026-05-12/"
+      ]
     },
     {
       "headline": "Putin to visit China soon as Russia deepens ties amid Iran war",
@@ -180,29 +236,36 @@
       "timestamp": "2026-05-14T12:05:00+03:00",
       "perspectives": [
         {
-          "source": "Daily Sabah",
-          "url": "https://www.dailysabah.com/world/mid-east/israel-strikes-cars-on-lebanese-highway-killing-8-including-2-children",
-          "angle": "Israeli strikes kill 8 including 2 children on Lebanese highway despite ceasefire",
-          "summary": "At least eight people, including two children, were killed when Israeli airstrikes targeted cars on a coastal highway south of Beirut, the latest violation of the Israel-Hezbollah ceasefire that has now seen 380 deaths."
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/14/two-killed-as-israel-ramps-up-southern-lebanon-attacks-ahead-of-us-talks",
+          "angle": "Israel escalates Lebanon strikes ahead of US-brokered peace talks",
+          "summary": "Israel ramped up attacks on southern Lebanon, killing two people and issuing forced displacement orders as Beirut and Washington prepare to resume peace negotiations."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/israel-steps-up-attacks-gaza-since-iran-truce-military-says-hamas-rearming-2026-05-13/",
+          "angle": "Israel Escalates Gaza Strikes as Hamas Regroups After Iran Truce",
+          "summary": "Israel has intensified attacks on Gaza in the five weeks since halting joint bombing with the US in Iran, redirecting fire back to the Palestinian enclave where Hamas fighters are tightening their grip."
+        },
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/lebanon-israel-hezbollah-litani-negotiations-washington-462af0a3095db4b5a95f2898d1c5a3f4",
+          "angle": "Hezbollah urges Lebanon to withdraw from direct Israel talks",
+          "summary": "Hezbollah leader Naim Kassem called on Lebanon to withdraw from direct negotiations with Israel in Washington, advocating for indirect talks instead. The call comes amid Israeli strikes that have killed 380 people since the April 17 ceasefire."
         }
       ],
       "sources": [
         "Reuters",
-        "Daily Sabah"
+        "Al Jazeera",
+        "Reuters",
+        "AP News"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/israeli-airstrikes-kill-eight-people-highway-south-beirut-lebanons-health-2026-05-13/",
-        "https://www.dailysabah.com/world/mid-east/israel-strikes-cars-on-lebanese-highway-killing-8-including-2-children"
+        "https://www.aljazeera.com/news/2026/5/14/two-killed-as-israel-ramps-up-southern-lebanon-attacks-ahead-of-us-talks",
+        "https://www.reuters.com/world/middle-east/israel-steps-up-attacks-gaza-since-iran-truce-military-says-hamas-rearming-2026-05-13/",
+        "https://apnews.com/article/lebanon-israel-hezbollah-litani-negotiations-washington-462af0a3095db4b5a95f2898d1c5a3f4"
       ]
-    },
-    {
-      "headline": "Russia unleashes largest aerial assault on Ukraine, pummeling Kyiv with hundreds of drones",
-      "summary": "Russia launched the biggest aerial attack on Ukraine over a two-day period since the war began, striking Kyiv and multiple cities with hundreds of drones in a devastating barrage that killed at least two and wounded dozens.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-2026-05-14/",
-      "timestamp": "2026-05-14T12:05:00+03:00"
     },
     {
       "headline": "Iran war devastates Middle East economies and upends regional security",
@@ -272,19 +335,19 @@
       "timestamp": "2026-05-14T11:00:00+03:00",
       "perspectives": [
         {
-          "source": "Anadolu Agency",
-          "url": "https://www.aa.com.tr/en/asia-pacific/chinas-xi-warns-of-clash-with-us-if-taiwan-issue-not-handled-properly/3936785",
-          "angle": "Xi Warns Trump of US-China Clash if Taiwan Issue Mishandled",
-          "summary": "Chinese President Xi Jinping told Trump during their Beijing summit that Taiwan must be handled properly or the two nations will face conflict. Xi called for the US and China to be partners rather than rivals as the high-stakes meeting began."
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/05/14/nx-s1-5822168/trump-xi-summit",
+          "angle": "Xi Warns Trump Taiwan Differences Could Lead to Clash",
+          "summary": "Chinese President Xi Jinping told President Trump that Taiwan is the most important issue between their nations, warning that mishandling it could lead to conflict. Xi emphasized Taiwan independence and cross-Strait peace are irreconcilable."
         }
       ],
       "sources": [
         "New York Times",
-        "Anadolu Agency"
+        "NPR"
       ],
       "urls": [
         "https://www.nytimes.com/2026/05/14/world/asia/xi-lays-out-blunt-warning-for-trump-over-taiwan.html",
-        "https://www.aa.com.tr/en/asia-pacific/chinas-xi-warns-of-clash-with-us-if-taiwan-issue-not-handled-properly/3936785"
+        "https://www.npr.org/2026/05/14/nx-s1-5822168/trump-xi-summit"
       ]
     },
     {
@@ -1202,31 +1265,6 @@
       "timestamp": "2026-05-13T16:07:00+03:00"
     },
     {
-      "headline": "Corruption Charges Hit Zelenskiy's Inner Circle as Ukraine War Drags On",
-      "summary": "After years of graft allegations swirling around his associates, President Zelenskiy now faces a bigger test with corruption charges reaching his former right-hand man. The case could weaken Ukraine's wartime leadership at a critical juncture.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/years-graft-accusations-against-his-circle-did-zelenskiy-little-harm-now-they-2026-05-12/",
-      "timestamp": "2026-05-13T16:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/the-fall-of-andriy-yermak-from-ukraines-most-powerful-fixer-to-corruption-defendant/",
-          "angle": "Ukraine anti-corruption court places Zelenskiy ally Yermak under arrest",
-          "summary": "Former presidential chief of staff Andriy Yermak has been arrested on money-laundering charges in a major corruption probe, marking a dramatic fall for Zelenskiy's once most powerful aide."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/years-graft-accusations-against-his-circle-did-zelenskiy-little-harm-now-they-2026-05-12/",
-        "https://kyivindependent.com/the-fall-of-andriy-yermak-from-ukraines-most-powerful-fixer-to-corruption-defendant/"
-      ]
-    },
-    {
       "headline": "US and China Weigh Tariff Cuts on $30 Billion of Imports",
       "summary": "Washington and Beijing are expected to move toward a managed trade mechanism, with each side potentially identifying $30 billion in goods for tariff reductions. The deal would avoid national security red lines while easing trade tensions.",
       "emoji": "💰",
@@ -1243,31 +1281,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/uk/britain-strengthen-ties-with-eu-new-legislation-2026-05-13/",
       "timestamp": "2026-05-13T15:03:00+03:00"
-    },
-    {
-      "headline": "Israel Escalates Gaza Strikes as Hamas Regroups After Iran Truce",
-      "summary": "Israel has intensified attacks on Gaza in the five weeks since halting joint bombing with the US in Iran, redirecting fire back to the Palestinian enclave where Hamas fighters are tightening their grip.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israel-steps-up-attacks-gaza-since-iran-truce-military-says-hamas-rearming-2026-05-13/",
-      "timestamp": "2026-05-13T15:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Channel News Asia",
-          "url": "https://www.channelnewsasia.com/world/lebanon-israel-strike-two-civil-defence-workers-killed-ceasefire-hezbollah-6116651",
-          "angle": "Israel Strikes Lebanon as Deaths Reach 380 Since Truce",
-          "summary": "Israeli strikes continue in Lebanon as authorities report 380 people killed since the ceasefire agreement, raising concerns about truce violations."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Channel News Asia"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/israel-steps-up-attacks-gaza-since-iran-truce-military-says-hamas-rearming-2026-05-13/",
-        "https://www.channelnewsasia.com/world/lebanon-israel-strike-two-civil-defence-workers-killed-ceasefire-hezbollah-6116651"
-      ]
     },
     {
       "headline": "OECD Projects Bank of Japan to Raise Rates to 2% by End-2027",
@@ -1319,15 +1332,6 @@
       "category": "Middle East",
       "source": "Times of Israel",
       "url": "https://www.timesofisrael.com/liveblog_entry/uae-puts-21-lebanese-citizens-organizations-on-terror-list-over-alleged-hezbollah-ties/",
-      "timestamp": "2026-05-13T14:05:00+03:00"
-    },
-    {
-      "headline": "Iran Military Ready for New US Assault as Trump Heads to China Summit",
-      "summary": "Iran's military says it is trained and prepared to repel any new US attack, with peace talks stalled and Trump predicting a 'long talk' about the war with Xi Jinping in Beijing. The fragile ceasefire remains on edge as both sides brace for potential escalation.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-china-xi-summit-ceasefire-peace-talks-stalled/",
       "timestamp": "2026-05-13T14:05:00+03:00"
     },
     {
@@ -1508,39 +1512,6 @@
       "timestamp": "2026-05-13T12:03:00+03:00"
     },
     {
-      "headline": "Hezbollah urges Lebanon to withdraw from direct Israel talks",
-      "summary": "Hezbollah leader Naim Kassem called on Lebanon to withdraw from direct negotiations with Israel in Washington, advocating for indirect talks instead. The call comes amid Israeli strikes that have killed 380 people since the April 17 ceasefire.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "AP News",
-      "url": "https://apnews.com/article/lebanon-israel-hezbollah-litani-negotiations-washington-462af0a3095db4b5a95f2898d1c5a3f4",
-      "timestamp": "2026-05-13T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Asharq Al-Awsat",
-          "url": "https://english.aawsat.com/arab-world/5272995-lebanon-enters-talks-constrained-adamant-israel-hezbollah-positions",
-          "angle": "Lebanon Enters Israel Talks With Little Room to Maneuver",
-          "summary": "Beirut heads into Washington negotiations constrained by hardening positions on both sides. Hezbollah has largely cut off contact with Lebanese authorities, while Israel shows little appetite for ending strikes soon as elections approach."
-        },
-        {
-          "source": "RTÉ",
-          "url": "https://www.rte.ie/news/middle-east/2026/0514/1573261-lebanon-israel-hezbollah/",
-          "angle": "Lebanon and Israel Open New Talks as Ceasefire Nears End",
-          "summary": "Third round of US-mediated negotiations begins in Washington with over 400 killed during the ceasefire. Lebanon seeks ceasefire consolidation as Israel continues strikes against Hezbollah despite the truce."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "Asharq Al-Awsat",
-        "RTÉ"
-      ],
-      "urls": [
-        "https://apnews.com/article/lebanon-israel-hezbollah-litani-negotiations-washington-462af0a3095db4b5a95f2898d1c5a3f4",
-        "https://english.aawsat.com/arab-world/5272995-lebanon-enters-talks-constrained-adamant-israel-hezbollah-positions",
-        "https://www.rte.ie/news/middle-east/2026/0514/1573261-lebanon-israel-hezbollah/"
-      ]
-    },
-    {
       "headline": "Putin hails successful test of Sarmat nuclear ICBM",
       "summary": "Russia successfully tested its new Sarmat intercontinental ballistic missile, with President Putin calling it the most powerful in the world and announcing plans to deploy it by years end. The test comes as the last nuclear arms treaty with the US has expired.",
       "emoji": "🇷🇺",
@@ -1608,31 +1579,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/saudi-arabia-launched-covert-attacks-iran-regional-war-widened-sources-2026-05-12/",
       "timestamp": "2026-05-13T09:05:00+03:00"
-    },
-    {
-      "headline": "Iran expands Strait of Hormuz operational zone definition",
-      "summary": "A senior IRGC Navy officer says Iran has redefined the Strait of Hormuz as a \"vast operational area\" far wider than before the war, signaling potential escalation in the strategic waterway.",
-      "emoji": "🇮🇷🛢️",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-now-defines-strait-hormuz-far-larger-zone-irgc-officer-says-2026-05-12/",
-      "timestamp": "2026-05-13T09:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Haaretz",
-          "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-12/ty-article-live/cnn-trump-more-seriously-considering-resuming-combat-operations-in-iran/0000019e-19d8-dfbd-affe-3ddaa89a0000",
-          "angle": "Iran redefines Strait of Hormuz boundaries 10 times wider",
-          "summary": "An IRGC officer says Iran now defines the Strait of Hormuz as 10 times wider than before the war, significantly expanding what Tehran considers its territorial waters. The move could escalate tensions with shipping in the critical waterway."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Haaretz"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/iran-now-defines-strait-hormuz-far-larger-zone-irgc-officer-says-2026-05-12/",
-        "https://www.haaretz.com/israel-news/israel-security/2026-05-12/ty-article-live/cnn-trump-more-seriously-considering-resuming-combat-operations-in-iran/0000019e-19d8-dfbd-affe-3ddaa89a0000"
-      ]
     },
     {
       "headline": "US Defense Secretary Hegseth Joins Trump on Rare Beijing Trip",
