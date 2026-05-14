@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-14T17:04:40+03:00",
+  "lastUpdated": "2026-05-14T18:06:56+03:00",
   "headlines": [
+    {
+      "headline": "Saudi Arabia and UAE Carried Out Secret Attacks Inside Iran",
+      "summary": "US officials reveal that Gulf Arab states conducted clandestine operations against Iranian targets, seeking to deter Iran after the war exposed the limits of American security guarantees.",
+      "emoji": "🇸🇦🇦🇪🇮🇷",
+      "category": "Middle East",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html",
+      "timestamp": "2026-05-14T18:03:00+03:00"
+    },
+    {
+      "headline": "Xi Warns Trump on Taiwan at High-Stakes Beijing Summit",
+      "summary": "Chinese President Xi Jinping cautioned that mishandling Taiwan could push the two superpowers toward conflict, as Trump and Xi met for a two-day summit focused on trade, the Iran war, and strategic competition.",
+      "emoji": "🇨🇳🇺🇸🇹🇼",
+      "category": "US-China",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/trump-administration/live-blog/trump-china-trip-xi-live-updates-rcna344529",
+      "timestamp": "2026-05-14T18:03:00+03:00"
+    },
+    {
+      "headline": "China's Xi Hails \"New Positioning\" in Ties With US",
+      "summary": "President Xi Jinping proclaimed a recalibrated US-China relationship envisioning cooperation with measured competition, following talks with President Trump in Beijing.",
+      "emoji": "🇨🇳🇺🇸",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/chinas-xi-lauds-new-positioning-ties-with-us-2026-05-14/",
+      "timestamp": "2026-05-14T18:03:00+03:00"
+    },
+    {
+      "headline": "Lebanon to Press Israel for Cease-Fire at Washington Talks",
+      "summary": "A senior Lebanese official said Beirut will demand Israel cease fire at face-to-face talks that began Thursday, as Iran-backed Hezbollah and Israel continue to trade blows despite a US-backed truce.",
+      "emoji": "🇱🇧🇮🇱",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/lebanon-press-israel-cease-fire-washington-talks-lebanese-official-says-2026-05-14/",
+      "timestamp": "2026-05-14T18:03:00+03:00"
+    },
+    {
+      "headline": "India Condemns Attack That Sank Indian-Flagged Ship Off Oman",
+      "summary": "New Delhi called an attack that sank an Indian cargo vessel in Omani waters \"unacceptable\" after the ship was hit by a suspected drone or missile strike amid escalating regional tensions.",
+      "emoji": "🇮🇳🇴🇲",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/india/india-says-attack-that-sank-indian-flagged-ship-off-omans-coast-unacceptable-2026-05-14/",
+      "timestamp": "2026-05-14T18:03:00+03:00"
+    },
     {
       "headline": "Hezbollah Drone Wounds Three Civilians in Northern Israel",
       "summary": "A Hezbollah drone exploded inside Israel on Thursday, injuring three civilians, two of them severely, according to Israeli military and hospitals. The incident occurred ahead of a third round of direct talks.",
@@ -8,7 +53,23 @@
       "category": "Middle East",
       "source": "AP News",
       "url": "https://apnews.com/article/israel-lebanon-hezbollah-iran-c194620ef1838812da6167db918da3ea",
-      "timestamp": "2026-05-14T17:05:00+03:00"
+      "timestamp": "2026-05-14T17:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/sirens-in-north-warn-of-suspected-hezbollah-drone-attack-from-lebanon/",
+          "angle": "Sirens Warn of Suspected Hezbollah Drone Attack in Northern Israel",
+          "summary": "Air raid sirens sounded in northern Israel amid a suspected Hezbollah drone intrusion from Lebanon, raising fears of a new front opening as the Iran conflict continues."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "Times of Israel"
+      ],
+      "urls": [
+        "https://apnews.com/article/israel-lebanon-hezbollah-iran-c194620ef1838812da6167db918da3ea",
+        "https://www.timesofisrael.com/liveblog_entry/sirens-in-north-warn-of-suspected-hezbollah-drone-attack-from-lebanon/"
+      ]
     },
     {
       "headline": "Iran Allows Chinese Vessels to Transit Strait of Hormuz",
@@ -26,7 +87,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/how-has-iran-war-affected-middle-east-states-2026-05-13/",
-      "timestamp": "2026-05-14T17:05:00+03:00"
+      "timestamp": "2026-05-14T17:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/how-has-iran-war-affected-middle-east-states-2026-05-13/",
+          "angle": "Iran war devastates Middle East economies and upends regional security",
+          "summary": "The US-Israeli bombing campaign against Iran has damaged infrastructure across the region, exposed Gulf energy vulnerabilities, and overturned decades of assumptions about Middle East security architecture."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/how-has-iran-war-affected-middle-east-states-2026-05-13/",
+        "https://www.reuters.com/world/middle-east/how-has-iran-war-affected-middle-east-states-2026-05-13/"
+      ]
     },
     {
       "headline": "Chinese Yuan Hits 3-Year High as Markets Await Trump-Xi Summit",
@@ -355,39 +432,6 @@
         "https://www.aljazeera.com/news/2026/5/14/two-killed-as-israel-ramps-up-southern-lebanon-attacks-ahead-of-us-talks",
         "https://www.reuters.com/world/middle-east/israel-steps-up-attacks-gaza-since-iran-truce-military-says-hamas-rearming-2026-05-13/",
         "https://apnews.com/article/lebanon-israel-hezbollah-litani-negotiations-washington-462af0a3095db4b5a95f2898d1c5a3f4"
-      ]
-    },
-    {
-      "headline": "Iran war devastates Middle East economies and upends regional security",
-      "summary": "The US-Israeli bombing campaign against Iran has damaged infrastructure across the region, exposed Gulf energy vulnerabilities, and overturned decades of assumptions about Middle East security architecture.",
-      "emoji": "🌍",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/how-has-iran-war-affected-middle-east-states-2026-05-13/",
-      "timestamp": "2026-05-14T12:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/how-has-iran-war-affected-middle-east-states-2026-05-13/",
-          "angle": "How the Iran War Has Reshaped Middle East Alliances and Economies",
-          "summary": "A comprehensive analysis of how the US-Israeli bombing campaign that began February 28 has destabilized the region, damaged infrastructure and economies, and overturned assumptions about regional security."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/saudi-arabia-launched-covert-attacks-iran-regional-war-widened-sources-2026-05-12/",
-          "angle": "Saudi Arabia Launched Covert Attacks on Iran During Regional War",
-          "summary": "Saudi Arabia carried out previously unreported military strikes on Iranian soil and targeted Tehran-backed militias in Iraq, marking the first known direct Saudi military action against Iran."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/how-has-iran-war-affected-middle-east-states-2026-05-13/",
-        "https://www.reuters.com/world/middle-east/how-has-iran-war-affected-middle-east-states-2026-05-13/",
-        "https://www.reuters.com/world/asia-pacific/saudi-arabia-launched-covert-attacks-iran-regional-war-widened-sources-2026-05-12/"
       ]
     },
     {
@@ -1680,15 +1724,6 @@
       "timestamp": "2026-05-13T08:05:00+03:00"
     },
     {
-      "headline": "Sirens Warn of Suspected Hezbollah Drone Attack in Northern Israel",
-      "summary": "Air raid sirens sounded in northern Israel amid a suspected Hezbollah drone intrusion from Lebanon, raising fears of a new front opening as the Iran conflict continues.",
-      "emoji": "🇮🇱⚠️",
-      "category": "Middle East",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/sirens-in-north-warn-of-suspected-hezbollah-drone-attack-from-lebanon/",
-      "timestamp": "2026-05-13T08:05:00+03:00"
-    },
-    {
       "headline": "Ukrainian Drones Strike Port Infrastructure in Russia's Krasnodar Krai",
       "summary": "Ukrainian forces targeted port facilities near the Kerch Peninsula east of Crimea, continuing their campaign against Russian logistics in the occupied territories.",
       "emoji": "🇺🇦💥",
@@ -2962,65 +2997,6 @@
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cn8pvgw802no",
       "timestamp": "2026-05-12T06:05:00+03:00"
-    },
-    {
-      "headline": "California Mayor Resigns, Pleads Guilty to Acting as Chinese Agent",
-      "summary": "Arcadia Mayor Eileen Wang agreed to plead guilty to acting as an illegal agent for China, resigning from her position. She was accused of promoting pro-PRC propaganda through a news website targeting Chinese Americans, including content denying Uyghur persecution.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "US Politics",
-      "source": "AP News",
-      "url": "https://apnews.com/article/southern-california-mayor-chinese-agent-resigns-f9eea16895868e940521823d12b4ebbe",
-      "timestamp": "2026-05-12T05:03:00+03:00"
-    },
-    {
-      "headline": "Ukraine turns to Europe for possible airport ceasefire with Russia",
-      "summary": "Foreign Minister Andrii Sybiha told Politico that Europe may help mediate an agreement between Ukraine and Russia to halt attacks on each other's airports.",
-      "emoji": "✈️🇪🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/ukraine-turns-to-europe-for-possible-airport-ceasefire-with-russia-sybiha-says/",
-      "timestamp": "2026-05-12T04:07:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/live/2026/may/12/europe-defence-ukraine-russia-hungary-latest-news-updates",
-          "angle": "Three-Day Ceasefire Ends as Russia Launches Fresh Drone Strikes on Ukraine",
-          "summary": "At least one person was killed as Moscow launched drone strikes on energy facilities and apartments following the end of a brief ceasefire, renewing attacks on Ukrainian infrastructure."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "The Guardian"
-      ],
-      "urls": [
-        "https://kyivindependent.com/ukraine-turns-to-europe-for-possible-airport-ceasefire-with-russia-sybiha-says/",
-        "https://www.theguardian.com/world/live/2026/may/12/europe-defence-ukraine-russia-hungary-latest-news-updates"
-      ]
-    },
-    {
-      "headline": "Hungary vows to stop abusing EU veto rights, incoming foreign minister says",
-      "summary": "Hungary's incoming foreign minister Anita Orban stated that Hungary has too often used its veto \"as political theater\" and pledged to change course during a confirmation hearing.",
-      "emoji": "🇭🇺🇪🇺",
-      "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/hungary-to-stop-abusing-eu-veto-rights-incoming-foreign-minister-says/",
-      "timestamp": "2026-05-12T04:07:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/hungary-to-stop-abusing-eu-veto-rights-incoming-foreign-minister-says/",
-          "angle": "Hungary pledges to stop abusing EU veto rights",
-          "summary": "Hungary incoming foreign minister Anita Orban told parliament that Hungary has too often used the veto as political theater, signaling a shift in EU relations under the new Magyar government."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://kyivindependent.com/hungary-to-stop-abusing-eu-veto-rights-incoming-foreign-minister-says/",
-        "https://kyivindependent.com/hungary-to-stop-abusing-eu-veto-rights-incoming-foreign-minister-says/"
-      ]
     }
   ]
 }
