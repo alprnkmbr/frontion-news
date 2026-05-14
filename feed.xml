@@ -1,227 +1,236 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Frontion News Headlines</title>
-    <link>https://frontion.com</link>
-    <description>Geopolitical news headlines curated by Frontion</description>
+    <title>Frontion News - Geopolitical Headlines</title>
+    <link>https://frontion.news</link>
+    <description>Curated geopolitical news from Tier 1 sources worldwide</description>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 May 2026 07:07:53 +0000</lastBuildDate>
-    <atom:link href="https://frontion.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Wed, 14 May 2026 08:03:00 GMT</lastBuildDate>
+    <atom:link href="https://frontion.news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>🇮🇷🇦🇪 Iran warns UAE over alleged Israel collusion after reported Netanyahu visit</title>
-      <description>Iranian Foreign Minister Abbas Araghchi warned Gulf states against cooperating with Israel after reports claimed Netanyahu secretly visited the UAE during the ongoing conflict. UAE denied the visit took place.</description>
-      <link>https://english.alarabiya.net/News/middle-east/2026/05/14/iran-calls-to-challenge-international-law-violations</link>
-      <guid isPermaLink="true">https://english.alarabiya.net/News/middle-east/2026/05/14/iran-calls-to-challenge-international-law-violations</guid>
-      <pubDate>Thu, 14 May 2026 07:05:00 +0000</pubDate>
-      <source>Al Arabiya</source>
-      <category>Middle East</category>
-    </item>
-    <item>
-      <title>🇮🇳🇧🇷 BRICS foreign ministers meet in Delhi as Iran war and oil prices test bloc unity</title>
-      <description>India hosts BRICS foreign ministers meeting where Jaishankar emphasized safe maritime flows through Hormuz and Red Sea. The Iran war and energy security dominated discussions amid divisions within the bloc.</description>
-      <link>https://www.al-monitor.com/originals/2026/05/india-says-safe-unimpeded-maritime-flows-vital-global-economic-well-being</link>
-      <guid isPermaLink="true">https://www.al-monitor.com/originals/2026/05/india-says-safe-unimpeded-maritime-flows-vital-global-economic-well-being</guid>
-      <pubDate>Thu, 14 May 2026 07:05:00 +0000</pubDate>
-      <source>Al-Monitor</source>
+      <title>🇮🇳 BRICS Foreign Ministers Meet in Delhi as Iran War Tests Bloc Unity</title>
+      <link>https://apnews.com/article/india-brics-iran-war-4fe5c3ff22993f8e24cf917df56d781c</link>
+      <description>Foreign ministers from BRICS nations began a two-day meeting in New Delhi, with the Iran-US conflict, oil prices, and internal divisions dominating the agenda. India hosts the summit amid efforts to maintain bloc cohesion on West Asian crises.</description>
+      <dc:source>AP News</dc:source>
       <category>Diplomacy</category>
+      <pubDate>Wed, 14 May 2026 08:00:00 GMT</pubDate>
+      <guid>https://apnews.com/article/india-brics-iran-war-4fe5c3ff22993f8e24cf917df56d781c</guid>
     </item>
     <item>
-      <title>🇺🇦⚖️ Ukraine anti-corruption court places Zelenskiy ally Yermak under arrest</title>
-      <description>Former presidential chief of staff Andriy Yermak has been arrested on money-laundering charges in a major corruption probe, marking a dramatic fall for Zelenskiy's once most powerful aide.</description>
-      <link>https://kyivindependent.com/the-fall-of-andriy-yermak-from-ukraines-most-powerful-fixer-to-corruption-defendant/</link>
-      <guid isPermaLink="true">https://kyivindependent.com/the-fall-of-andriy-yermak-from-ukraines-most-powerful-fixer-to-corruption-defendant/</guid>
-      <pubDate>Thu, 14 May 2026 07:05:00 +0000</pubDate>
-      <source>Kyiv Independent</source>
+      <title>🇨🇳 Xi Warns Trump That Taiwan Could Push US-China Relations Into "Great Jeopardy"</title>
+      <link>https://www.nytimes.com/2026/05/14/world/asia/xi-lays-out-blunt-warning-for-trump-over-taiwan.html</link>
+      <description>Chinese President Xi Jinping issued a stark warning to President Trump during their Beijing summit, saying US-China relations could enter an "extremely dangerous place" if the Taiwan issue is not handled properly. The warning came as the leaders discussed trade and the Iran conflict.</description>
+      <dc:source>New York Times</dc:source>
+      <category>US-China</category>
+      <pubDate>Wed, 14 May 2026 08:00:00 GMT</pubDate>
+      <guid>https://www.nytimes.com/2026/05/14/world/asia/xi-lays-out-blunt-warning-for-trump-over-taiwan.html</guid>
+    </item>
+    <item>
+      <title>🇮🇷 Iran Says Ready to Repel New US Attack as Peace Talks Stall</title>
+      <link>https://www.cbsnews.com/live-updates/iran-war-us-trump-china-xi-summit-ceasefire-peace-talks-stalled/</link>
+      <description>Iran's military said it is trained and ready for any new US assault as President Trump predicted a "long talk" about the war during his China visit. Peace talks remain stalled with no breakthrough in sight.</description>
+      <dc:source>CBS News</dc:source>
+      <category>US-Iran War</category>
+      <pubDate>Wed, 14 May 2026 08:00:00 GMT</pubDate>
+      <guid>https://www.cbsnews.com/live-updates/iran-war-us-trump-china-xi-summit-ceasefire-peace-talks-stalled/</guid>
+    </item>
+    <item>
+      <title>🇺🇦 Russia Launches Massive Drone and Missile Barrage on Ukraine, Killing One</title>
+      <link>https://news.sky.com/story/ukraine-war-latest-putin-ally-warns-full-scale-world-war-iii-is-possible-in-latest-threat-as-russia-makes-high-risk-decision-to-send-new-tank-to-ukraine-12541713</link>
+      <description>Moscow fired more than 700 drones and missiles at Ukraine in a deadly night of attacks that killed at least one person in Kyiv and wounded dozens. The assault came after a brief ceasefire ended.</description>
+      <dc:source>Sky News</dc:source>
       <category>Ukraine-Russia War</category>
+      <pubDate>Wed, 14 May 2026 08:00:00 GMT</pubDate>
+      <guid>https://news.sky.com/story/ukraine-war-latest-putin-ally-warns-full-scale-world-war-iii-is-possible-in-latest-threat-as-russia-makes-high-risk-decision-to-send-new-tank-to-ukraine-12541713</guid>
+    </item>
+    <item>
+      <title>🇦🇪 UAE Denies Netanyahu Made Secret Visit During Iran War</title>
+      <link>https://www.weku.org/npr-news/2026-05-14/uae-denies-netanyahu-secretly-visited-the-country-during-the-iran-war</link>
+      <description>The United Arab Emirates denied reports that Israeli Prime Minister Benjamin Netanyahu secretly visited the country during the Israel-US war with Iran. The denial comes amid heightened regional diplomacy.</description>
+      <dc:source>NPR</dc:source>
+      <category>Middle East</category>
+      <pubDate>Wed, 14 May 2026 08:00:00 GMT</pubDate>
+      <guid>https://www.weku.org/npr-news/2026-05-14/uae-denies-netanyahu-secretly-visited-the-country-during-the-iran-war</guid>
     </item>
     <item>
       <title>🇵🇭🏛️ Philippines seeks ICC suspect after Senate shootout chaos</title>
-      <description>Philippine authorities are hunting for Senator Ronald &quot;Bato&quot; dela Rosa wanted by the ICC after gunfire erupted at the Senate building where he had taken refuge. Marcos convened an emergency meeting.</description>
       <link>https://english.alarabiya.net/News/world/2026/05/14/philippines-seeking-to-confirm-icc-suspect-has-fled-after-chaos-at-senate</link>
-      <guid isPermaLink="true">https://english.alarabiya.net/News/world/2026/05/14/philippines-seeking-to-confirm-icc-suspect-has-fled-after-chaos-at-senate</guid>
-      <pubDate>Thu, 14 May 2026 07:05:00 +0000</pubDate>
-      <source>Al Arabiya</source>
+      <description>Philippine authorities are hunting for Senator Ronald "Bato" dela Rosa wanted by the ICC after gunfire erupted at the Senate building where he had taken refuge. Marcos convened an emergency meeting.</description>
+      <dc:source>Al Arabiya</dc:source>
       <category>Asia-Pacific</category>
+      <pubDate>Wed, 14 May 2026 07:05:00 GMT</pubDate>
+      <guid>https://english.alarabiya.net/News/world/2026/05/14/philippines-seeking-to-confirm-icc-suspect-has-fled-after-chaos-at-senate</guid>
     </item>
     <item>
       <title>🇰🇷⚔️ South Korea showcases Cheongung-II missile defense and KF-21 fighter in military demonstration</title>
-      <description>South Korea's military offered a rare look at its flagship defense programs, demonstrating the Cheongung-II missile defense system and KF-21 fighter aircraft amid regional tensions.</description>
       <link>https://koreajoongangdaily.joins.com/news/2026-05-14/national/defense/Military-puts-CheongungII-missile-defense-system-KF21-front-and-center-in-demonstration/2592329</link>
-      <guid isPermaLink="true">https://koreajoongangdaily.joins.com/news/2026-05-14/national/defense/Military-puts-CheongungII-missile-defense-system-KF21-front-and-center-in-demonstration/2592329</guid>
-      <pubDate>Thu, 14 May 2026 07:05:00 +0000</pubDate>
-      <source>Korea JoongAng Daily</source>
+      <description>South Korea's military offered a rare look at its flagship defense programs, demonstrating the Cheongung-II missile defense system and KF-21 fighter aircraft amid regional tensions.</description>
+      <dc:source>Korea JoongAng Daily</dc:source>
       <category>Defense Industry</category>
+      <pubDate>Wed, 14 May 2026 07:05:00 GMT</pubDate>
+      <guid>https://koreajoongangdaily.joins.com/news/2026-05-14/national/defense/Military-puts-CheongungII-missile-defense-system-KF21-front-and-center-in-demonstration/2592329</guid>
     </item>
     <item>
-      <title>🇷🇺⚠️ Russia places UK ex-minister Ben Wallace on wanted list</title>
-      <description>Russia has placed former UK Defence Secretary Ben Wallace on its wanted list, according to Reuters. The move comes amid escalating tensions between Russia and Western nations over the Ukraine conflict.</description>
-      <link>https://www.reuters.com/world/russia-places-uk-minister-ben-wallace-wanted-list-2026-05-13/</link>
-      <guid isPermaLink="true">https://www.reuters.com/world/russia-places-uk-minister-ben-wallace-wanted-list-2026-05-13/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <source>Reuters</source>
-      <category>Europe</category>
-    </item>
-    <item>
-      <title>🇺🇦💥 Heavy Russian strikes on Kyiv kill one, wound 31</title>
-      <description>Heavy Russian missile strikes on Kyiv killed one person and wounded 31 others, according to RFI. The attacks continue the pattern of intensified Russian aerial assaults on Ukrainian cities.</description>
-      <link>https://www.rfi.fr/en/international-news/20260514-heavy-russian-strikes-on-kyiv-kill-one-wound-31</link>
-      <guid isPermaLink="true">https://www.rfi.fr/en/international-news/20260514-heavy-russian-strikes-on-kyiv-kill-one-wound-31</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <source>RFI</source>
-      <category>Ukraine-Russia War</category>
-    </item>
-    <item>
-      <title>🇨🇳🇺🇸 China's Xi warns of clash with US if Taiwan issue not handled properly</title>
-      <description>Chinese President Xi Jinping warned of potential conflict with the United States if the Taiwan issue is not handled properly during high-stakes talks with Trump in Beijing. The summit marks a pivotal moment in US-China relations.</description>
-      <link>https://www.aa.com.tr/en/asia-pacific/chinas-xi-warns-of-clash-with-us-if-taiwan-issue-not-handled-properly/3936785</link>
-      <guid isPermaLink="true">https://www.aa.com.tr/en/asia-pacific/chinas-xi-warns-of-clash-with-us-if-taiwan-issue-not-handled-properly/3936785</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <source>Anadolu Agency</source>
-      <category>US-China</category>
-    </item>
-    <item>
-      <title>⚽🌍 Quarter of World Cup games risk searing heat, scientists warn</title>
-      <description>A quarter of World Cup games could face dangerously high heat conditions according to scientists, as France 24 reports on climate concerns affecting global sporting events.</description>
-      <link>https://www.france24.com/en/live-news/20260514-a-quarter-of-world-cup-games-risk-searing-heat-scientists</link>
-      <guid isPermaLink="true">https://www.france24.com/en/live-news/20260514-a-quarter-of-world-cup-games-risk-searing-heat-scientists</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <source>France 24</source>
-      <category>Climate</category>
-    </item>
-    <item>
-      <title>🇮🇷🇨🇳 Iran war overshadows Trump's China visit as peace talks stall</title>
-      <description>The ongoing Iran conflict is casting a shadow over Trump's summit with Xi Jinping in Beijing, with peace talks stalled and both leaders seeking to navigate the regional crisis.</description>
-      <link>https://www.reuters.com/world/china/iran-war-overshadows-trumps-china-visit-peace-talks-stall-2026-05-14/</link>
-      <guid isPermaLink="true">https://www.reuters.com/world/china/iran-war-overshadows-trumps-china-visit-peace-talks-stall-2026-05-14/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <source>Reuters</source>
-      <category>US-Iran War</category>
-    </item>
-    <item>
-      <title>💰🇨🇳 Gold edges up on weaker dollar ahead of Trump-Xi talks</title>
-      <description>Gold prices rose slightly on a weaker dollar as markets awaited the outcome of high-stakes talks between Trump and Xi Jinping in Beijing.</description>
-      <link>https://www.reuters.com/business/gold-edges-up-weaker-dollar-ahead-trump-xi-talks-2026-05-14/</link>
-      <guid isPermaLink="true">https://www.reuters.com/business/gold-edges-up-weaker-dollar-ahead-trump-xi-talks-2026-05-14/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <source>Reuters</source>
-      <category>Economy</category>
-    </item>
-    <item>
-      <title>🛢️📈 Stressed crude oil market looks to Xi-Trump summit for Iran help</title>
-      <description>The increasingly stressed crude oil market is looking to the Xi-Trump summit for any positive developments on the Iran conflict, which has significantly disrupted global oil supply.</description>
-      <link>https://www.reuters.com/commentary/reuters-open-interest/stressed-crude-oil-market-looks-xi-trump-summit-iran-help-2026-05-14/</link>
-      <guid isPermaLink="true">https://www.reuters.com/commentary/reuters-open-interest/stressed-crude-oil-market-looks-xi-trump-summit-iran-help-2026-05-14/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <source>Reuters</source>
-      <category>Energy</category>
-    </item>
-    <item>
-      <title>🇨🇳💹 China's yuan hits 3-year high as stocks dip on Trump-Xi summit</title>
-      <description>China's yuan reached a three-year high against the dollar while stocks dipped as Trump and Xi began their high-stakes summit in Beijing, with markets watching for trade developments.</description>
-      <link>https://www.reuters.com/world/asia-pacific/chinas-yuan-hits-3-year-high-stocks-dip-trump-xi-summit-begins-2026-05-14/</link>
-      <guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/chinas-yuan-hits-3-year-high-stocks-dip-trump-xi-summit-begins-2026-05-14/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <source>Reuters</source>
-      <category>Economy</category>
-    </item>
-    <item>
-      <title>🇺🇸🏛️ US House members defy leadership to force vote on Ukraine aid</title>
-      <description>US House members have defied party leadership to force a vote on Ukraine aid, highlighting the ongoing political battles over continued support for Kyiv.</description>
-      <link>https://www.reuters.com/legal/government/us-house-members-defy-leadership-force-vote-ukraine-aid-2026-05-13/</link>
-      <guid isPermaLink="true">https://www.reuters.com/legal/government/us-house-members-defy-leadership-force-vote-ukraine-aid-2026-05-13/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <source>Reuters</source>
-      <category>US Politics</category>
-    </item>
-    <item>
-      <title>🇮🇷🇮🇳 Iran war casts shadow over BRICS foreign ministers meeting in Delhi</title>
-      <description>The Iran conflict cast a shadow over BRICS foreign ministers meeting in Delhi, with discussions focusing on regional tensions and economic uncertainty.</description>
-      <link>https://www.reuters.com/world/china/iran-war-cast-shadow-brics-foreign-ministers-meeting-delhi-2026-05-13/</link>
-      <guid isPermaLink="true">https://www.reuters.com/world/china/iran-war-cast-shadow-brics-foreign-ministers-meeting-delhi-2026-05-13/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <source>Reuters</source>
+      <title>🇷🇺🇬🇧 Russia places UK ex-defense minister Ben Wallace on wanted list</title>
+      <link>https://www.reuters.com/world/russia-places-uk-ex-minister-ben-wallace-wanted-list-2026-05-13/</link>
+      <description>Russia has placed former British Defence Minister Ben Wallace on its wanted list in connection with an unspecified criminal investigation, state media reported Wednesday citing the Interior Ministry.</description>
+      <dc:source>Reuters</dc:source>
       <category>Diplomacy</category>
+      <pubDate>Wed, 14 May 2026 07:03:00 GMT</pubDate>
+      <guid>https://www.reuters.com/world/russia-places-uk-ex-minister-ben-wallace-wanted-list-2026-05-13/</guid>
     </item>
     <item>
-      <title>🇨🇳🇺🇸 Trump and Xi set for Beijing talks with trade truce and Iran war at stake</title>
-      <description>Trump and Xi are set for high-stakes talks in Beijing with trade negotiations and the Iran conflict at the forefront of discussions.</description>
-      <link>https://www.reuters.com/world/china/trump-xi-set-beijing-talks-with-trade-truce-iran-war-stake-2026-05-13/</link>
-      <guid isPermaLink="true">https://www.reuters.com/world/china/trump-xi-set-beijing-talks-with-trade-truce-iran-war-stake-2026-05-13/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <source>Reuters</source>
-      <category>US-China</category>
-    </item>
-    <item>
-      <title>🇷🇺🛢️ Russia's oil output down 460,000 bpd year-on-year in April, IEA says</title>
-      <description>Russia's oil production fell by 460,000 barrels per day year-on-year in April according to the International Energy Agency, as sanctions and market conditions impact output.</description>
-      <link>https://www.reuters.com/business/energy/russias-oil-output-down-460000-bpd-year-on-year-april-iea-says-2026-05-13/</link>
-      <guid isPermaLink="true">https://www.reuters.com/business/energy/russias-oil-output-down-460000-bpd-year-on-year-april-iea-says-2026-05-13/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <source>Reuters</source>
-      <category>Energy</category>
-    </item>
-    <item>
-      <title>🇺🇸🏦 Fed chair nominee Warsh set to get Senate nod as inflation intensifies</title>
-      <description>Trump's Fed chair nominee Kevin Warsh is expected to receive Senate confirmation as inflation concerns continue to intensify.</description>
-      <link>https://www.reuters.com/world/us/fed-chair-nominee-warsh-set-get-us-senate-nod-inflation-intensifies-2026-05-13/</link>
-      <guid isPermaLink="true">https://www.reuters.com/world/us/fed-chair-nominee-warsh-set-get-us-senate-nod-inflation-intensifies-2026-05-13/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <source>Reuters</source>
-      <category>US Politics</category>
-    </item>
-    <item>
-      <title>🇨🇳⚔️ China stages navy drill as US and Philippines embark on Balikatan exercises</title>
-      <description>China conducted naval exercises as the US and Philippines launched their joint Balikatan military exercises, highlighting regional military posturing.</description>
-      <link>https://www.scmp.com/news/china/military/article/3351353/china-stages-navy-drill-us-and-philippines-embark-balikatan-2026</link>
-      <guid isPermaLink="true">https://www.scmp.com/news/china/military/article/3351353/china-stages-navy-drill-us-and-philippines-embark-balikatan-2026</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <source>SCMP</source>
-      <category>Military</category>
-    </item>
-    <item>
-      <title>🇩🇪⚖️ Germany: 5 on trial after attack on Israeli arms firm in Ulm</title>
-      <description>Five people are on trial in Germany after an attack on an Israeli arms company in Ulm, Deutsche Welle reports.</description>
-      <link>https://www.dw.com/en/germany-ulm-5-on-trial-after-attack-on-israeli-arms-firm/a-77038804</link>
-      <guid isPermaLink="true">https://www.dw.com/en/germany-ulm-5-on-trial-after-attack-on-israeli-arms-firm/a-77038804</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <source>Deutsche Welle</source>
-      <category>Europe</category>
-    </item>
-    <item>
-      <title>🇨🇳🤖 White Eagles and Persian Cats: Chinese AI satire on US war with Iran goes viral</title>
-      <description>A Chinese AI-generated satire titled &quot;White Eagles and Persian Cats&quot; depicting a fictional US-Iran war has gone viral, reflecting how the conflict is resonating in Chinese popular culture.</description>
-      <link>https://www.scmp.com/news/china/diplomacy/article/3347626/white-eagles-and-persian-cats-chinese-ai-satire-us-war-iran-goes-viral</link>
-      <guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3347626/white-eagles-and-persian-cats-chinese-ai-satire-us-war-iran-goes-viral</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <source>SCMP</source>
-      <category>US-Iran War</category>
-    </item>
-    <item>
-      <title>🇨🇳💰 Does Iran have a yuan-for-Hormuz oil trade plan? Why analysts in China are urging caution</title>
-      <description>Analysts in China are urging caution over speculation that Iran might accept yuan payments for oil trade through the Strait of Hormuz, examining the economic and geopolitical implications.</description>
-      <link>https://www.scmp.com/economy/china-economy/article/3346617/does-iran-have-yuan-hormuz-oil-trade-plan-why-analysts-china-are-urging-caution</link>
-      <guid isPermaLink="true">https://www.scmp.com/economy/china-economy/article/3346617/does-iran-have-yuan-hormuz-oil-trade-plan-why-analysts-china-are-urging-caution</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <source>SCMP</source>
-      <category>Economy</category>
-    </item>
-    <item>
-      <title>🇺🇸📈 Fed chair nominee Warsh wins confirmation with inflation in March</title>
-      <description>Trump's Federal Reserve chair nominee Kevin Warsh won Senate confirmation amid ongoing inflation concerns in March.</description>
-      <link>https://www.reuters.com/business/quote-box-warsh-wins-confirmation-fed-chair-with-inflation-march-2026-05-13/</link>
-      <guid isPermaLink="true">https://www.reuters.com/business/quote-box-warsh-wins-confirmation-fed-chair-with-inflation-march-2026-05-13/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <source>Reuters</source>
-      <category>US Politics</category>
-    </item>
-    <item>
-      <title>🇺🇦💥 Ukraine says it struck Russian oil and gas infrastructure</title>
-      <description>Ukraine stated it struck Russian oil and gas infrastructure in continued attacks on Russian energy facilities.</description>
-      <link>https://www.reuters.com/business/energy/ukraine-says-it-struck-russian-oil-gas-infrastructure-2026-05-13/</link>
-      <guid isPermaLink="true">https://www.reuters.com/business/energy/ukraine-says-it-struck-russian-oil-gas-infrastructure-2026-05-13/</guid>
-      <pubDate>Wed, 13 May 2026 00:00:00 +0000</pubDate>
-      <source>Reuters</source>
+      <title>🇺🇦⚔️ Heavy Russian strikes kill one, wound 31 in Kyiv</title>
+      <link>https://www.rfi.fr/en/international-news/20260514-heavy-russian-strikes-on-kyiv-kill-one-wound-31</link>
+      <description>Russia pummeled Kyiv and other regions in a massive aerial attack that killed one person and wounded at least 31 others, according to city authorities on Thursday.</description>
+      <dc:source>Reuters</dc:source>
       <category>Ukraine-Russia War</category>
+      <pubDate>Wed, 14 May 2026 07:03:00 GMT</pubDate>
+      <guid>https://www.rfi.fr/en/international-news/20260514-heavy-russian-strikes-on-kyiv-kill-one-wound-31</guid>
+    </item>
+    <item>
+      <title>🇨🇩 M23 Rebels and Rwandan Soldiers Accused of War Crimes in DR Congo</title>
+      <link>https://www.bbc.com/news/articles/cy42dgj0x32o</link>
+      <description>Human Rights Watch documented summary executions, rape, and forced recruitment during M23's occupation of Uvira in eastern DR Congo. At least 53 civilians were executed and eight cases of rape were documented. Rwanda denies supporting M23 despite UN evidence of its control over rebel operations.</description>
+      <dc:source>BBC</dc:source>
+      <category>Africa</category>
+      <pubDate>Wed, 14 May 2026 06:03:00 GMT</pubDate>
+      <guid>https://www.bbc.com/news/articles/cy42dgj0x32o</guid>
+    </item>
+    <item>
+      <title>🇨🇳🇺🇸 Xi Warns Trump of US-China Clash if Taiwan Issue Mishandled</title>
+      <link>https://www.aa.com.tr/en/asia-pacific/chinas-xi-warns-of-clash-with-us-if-taiwan-issue-not-handled-properly/3936785</link>
+      <description>Chinese President Xi Jinping told Trump during their Beijing summit that Taiwan must be handled properly or the two nations will face conflict. Xi called for the US and China to be partners rather than rivals as the high-stakes meeting began.</description>
+      <dc:source>Anadolu Agency</dc:source>
+      <category>US-China</category>
+      <pubDate>Wed, 14 May 2026 05:10:00 GMT</pubDate>
+      <guid>https://www.aa.com.tr/en/asia-pacific/chinas-xi-warns-of-clash-with-us-if-taiwan-issue-not-handled-properly/3936785</guid>
+    </item>
+    <item>
+      <title>⚽🌡️ Quarter of World Cup Games at Risk of Dangerous Heat, Scientists Warn</title>
+      <link>https://www.france24.com/en/live-news/20260514-a-quarter-of-world-cup-games-risk-searing-heat-scientists</link>
+      <description>Climate change has increased the risk of extreme heat at the 2026 World Cup, with 26 of 104 matches potentially facing conditions that require cooling breaks. The final has a 1-in-8 chance of reaching heat levels that could force postponement.</description>
+      <dc:source>France 24</dc:source>
+      <category>Climate</category>
+      <pubDate>Wed, 14 May 2026 05:10:00 GMT</pubDate>
+      <guid>https://www.france24.com/en/live-news/20260514-a-quarter-of-world-cup-games-risk-searing-heat-scientists</guid>
+    </item>
+    <item>
+      <title>🇺🇸🇨🇳 Iran war overshadows Trump-Xi summit in Beijing</title>
+      <link>https://www.reuters.com/world/china/iran-war-overshadows-trumps-china-visit-peace-talks-stall-2026-05-14/</link>
+      <description>Donald Trump is expected to ask China to help end the costly and unpopular Iran war in discussions with Xi Jinping, with peace talks stalled and the global economic cost of the conflict increasing.</description>
+      <dc:source>Reuters</dc:source>
+      <category>Diplomacy</category>
+      <pubDate>Wed, 14 May 2026 05:03:00 GMT</pubDate>
+      <guid>https://www.reuters.com/world/china/iran-war-overshadows-trumps-china-visit-peace-talks-stall-2026-05-14/</guid>
+    </item>
+    <item>
+      <title>💰 Gold rises as markets watch Trump-Xi talks and Iran war</title>
+      <link>https://www.reuters.com/business/gold-edges-up-weaker-dollar-ahead-trump-xi-talks-2026-05-14/</link>
+      <description>Gold prices ticked up on Thursday, supported by a weaker dollar, as investors focused on talks between Trump and Xi Jinping and looked for signs of progress in the Iran war.</description>
+      <dc:source>Reuters</dc:source>
+      <category>Economy</category>
+      <pubDate>Wed, 14 May 2026 05:03:00 GMT</pubDate>
+      <guid>https://www.reuters.com/business/gold-edges-up-weaker-dollar-ahead-trump-xi-talks-2026-05-14/</guid>
+    </item>
+    <item>
+      <title>🛢️ Oil markets look to Xi-Trump summit for Iran war relief</title>
+      <link>https://www.reuters.com/commentary/reuters-open-interest/stressed-crude-oil-market-looks-xi-trump-summit-iran-help-2026-05-14/</link>
+      <description>The increasingly stressed crude oil market is looking to the Xi-Trump summit for any signs of progress that could help de-escalate the Iran war and ease supply concerns.</description>
+      <dc:source>Reuters</dc:source>
+      <category>Energy</category>
+      <pubDate>Wed, 14 May 2026 05:03:00 GMT</pubDate>
+      <guid>https://www.reuters.com/commentary/reuters-open-interest/stressed-crude-oil-market-looks-xi-trump-summit-iran-help-2026-05-14/</guid>
+    </item>
+    <item>
+      <title>🇨🇳 Chinese yuan hits 3-year high ahead of Trump-Xi summit</title>
+      <link>https://www.reuters.com/world/asia-pacific/chinas-yuan-hits-3-year-high-stocks-dip-trump-xi-summit-begins-2026-05-14/</link>
+      <description>China's yuan edged up to a three-year high against the dollar, while stock indexes dipped, as investors awaited the outcome of the summit between Trump and Xi.</description>
+      <dc:source>Reuters</dc:source>
+      <category>Economy</category>
+      <pubDate>Wed, 14 May 2026 05:03:00 GMT</pubDate>
+      <guid>https://www.reuters.com/world/asia-pacific/chinas-yuan-hits-3-year-high-stocks-dip-trump-xi-summit-begins-2026-05-14/</guid>
+    </item>
+    <item>
+      <title>🇺🇦 US House members force vote on Ukraine aid, defying leadership</title>
+      <link>https://www.reuters.com/legal/government/us-house-members-defy-leadership-force-vote-ukraine-aid-2026-05-13/</link>
+      <description>A U.S. House petition to force a floor vote on providing security aid to Ukraine and imposing new sanctions on Russia reached the 218-signature threshold, defying Republican leadership.</description>
+      <dc:source>Reuters</dc:source>
+      <category>Ukraine-Russia War</category>
+      <pubDate>Wed, 14 May 2026 05:03:00 GMT</pubDate>
+      <guid>https://www.reuters.com/legal/government/us-house-members-defy-leadership-force-vote-ukraine-aid-2026-05-13/</guid>
+    </item>
+    <item>
+      <title>🇮🇳⚔️ Iran War Casts Shadow Over BRICS Foreign Ministers Meeting in Delhi</title>
+      <link>https://www.reuters.com/world/china/iran-war-cast-shadow-brics-foreign-ministers-meeting-delhi-2026-05-13/</link>
+      <description>The US-Israeli war on Iran is testing BRICS unity as foreign ministers gather in New Delhi, with the bloc struggling to reach a unified position on the conflict that has disrupted global oil markets.</description>
+      <dc:source>Reuters</dc:source>
+      <category>Diplomacy</category>
+      <pubDate>Wed, 14 May 2026 04:03:00 GMT</pubDate>
+      <guid>https://www.reuters.com/world/china/iran-war-cast-shadow-brics-foreign-ministers-meeting-delhi-2026-05-13/</guid>
+    </item>
+    <item>
+      <title>🇺🇸🇨🇳 Trump-Xi Summit Begins in Beijing with Trade and Iran War on Agenda</title>
+      <link>https://www.reuters.com/world/china/trump-xi-set-beijing-talks-with-trade-truce-iran-war-stake-2026-05-13/</link>
+      <description>President Trump and Chinese leader Xi Jinping opened high-stakes talks in Beijing, with Xi saying the two nations should be "partners not rivals." Trump brought CEOs including Nvidia's Jensen Huang and Elon Musk, seeking China's help on the Iran war and trade cooperation.</description>
+      <dc:source>Reuters</dc:source>
+      <category>US-China</category>
+      <pubDate>Wed, 14 May 2026 04:03:00 GMT</pubDate>
+      <guid>https://www.reuters.com/world/china/trump-xi-set-beijing-talks-with-trade-truce-iran-war-stake-2026-05-13/</guid>
+    </item>
+    <item>
+      <title>🛢️🇷🇺 Russia Oil Output Drops 460,000 Barrels Per Day Amid Ukraine Drone Attacks</title>
+      <link>https://www.reuters.com/business/energy/russias-oil-output-down-460000-bpd-year-on-year-april-iea-says-2026-05-13/</link>
+      <description>Russian crude production fell to 8.8 million barrels per day in April, down 460,000 bpd year-on-year, as Ukraine intensified drone strikes on energy infrastructure, according to the IEA.</description>
+      <dc:source>Reuters</dc:source>
+      <category>Energy</category>
+      <pubDate>Wed, 14 May 2026 04:03:00 GMT</pubDate>
+      <guid>https://www.reuters.com/business/energy/russias-oil-output-down-460000-bpd-year-on-year-april-iea-says-2026-05-13/</guid>
+    </item>
+    <item>
+      <title>🏛️💰 Warsh Confirmed as Fed Chair Amid Rising Inflation Pressures</title>
+      <link>https://www.reuters.com/world/us/fed-chair-nominee-warsh-set-get-us-senate-nod-inflation-intensifies-2026-05-13/</link>
+      <description>The US Senate confirmed Warsh as Federal Reserve Chair by a 54-45 vote, the most partisan confirmation ever for a Fed chair, as inflation concerns mount from oil price shocks linked to the Iran war.</description>
+      <dc:source>Reuters</dc:source>
+      <category>US Politics</category>
+      <pubDate>Wed, 14 May 2026 04:03:00 GMT</pubDate>
+      <guid>https://www.reuters.com/world/us/fed-chair-nominee-warsh-set-get-us-senate-nod-inflation-intensifies-2026-05-13/</guid>
+    </item>
+    <item>
+      <title>🇨🇳 China stages naval drills near Philippines as US launches Balikatan 2026</title>
+      <link>https://www.scmp.com/news/china/military/article/3351353/china-stages-navy-drill-us-and-philippines-embark-balikatan-2026</link>
+      <description>China's PLA Southern Theatre Command conducted naval exercises east of Luzon, coinciding with the launch of US-Philippines Balikatan 2026 drills featuring unprecedented Japanese participation.</description>
+      <dc:source>SCMP</dc:source>
+      <category>Asia-Pacific</category>
+      <pubDate>Wed, 14 May 2026 03:07:00 GMT</pubDate>
+      <guid>https://www.scmp.com/news/china/military/article/3351353/china-stages-navy-drill-us-and-philippines-embark-balikatan-2026</guid>
+    </item>
+    <item>
+      <title>🇩🇪 Germany opens trial of "Ulm 5" activists over Elbit arms firm attack</title>
+      <link>https://www.dw.com/en/germany-ulm-5-on-trial-after-attack-on-israeli-arms-firm/a-77038804</link>
+      <description>Five activists face trial in Stuttgart for a September 2025 attack on an Israeli arms manufacturer's German subsidiary, charged under controversial criminal organization statutes.</description>
+      <dc:source>DW</dc:source>
+      <category>Europe</category>
+      <pubDate>Wed, 14 May 2026 03:07:00 GMT</pubDate>
+      <guid>https://www.dw.com/en/germany-ulm-5-on-trial-after-attack-on-israeli-arms-firm/a-77038804</guid>
+    </item>
+    <item>
+      <title>🇨🇳 Chinese AI satire of US-Iran war goes viral on state media</title>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3347626/white-eagles-and-persian-cats-chinese-ai-satire-us-war-iran-goes-viral</link>
+      <description>A wuxia-style animated allegory by CCTV depicting the "White Eagle" vs "Persian Cat" conflict has triggered user-made spin-offs, reflecting Chinese public engagement with the Iran war narrative.</description>
+      <dc:source>SCMP</dc:source>
+      <category>Diplomacy</category>
+      <pubDate>Wed, 14 May 2026 03:07:00 GMT</pubDate>
+      <guid>https://www.scmp.com/news/china/diplomacy/article/3347626/white-eagles-and-persian-cats-chinese-ai-satire-us-war-iran-goes-viral</guid>
+    </item>
+    <item>
+      <title>🛢️ Iran explores yuan-for-Hormuz oil trade plan, Chinese analysts urge caution</title>
+      <link>https://www.scmp.com/economy/china-economy/article/3346617/does-iran-have-yuan-hormuz-oil-trade-plan-why-analysts-china-are-urging-caution</link>
+      <description>Reports suggest Iran may allow oil tankers through the Strait of Hormuz if trade is conducted in Chinese yuan, but analysts warn of implementation challenges and risks to China-US relations.</description>
+      <dc:source>SCMP</dc:source>
+      <category>Energy</category>
+      <pubDate>Wed, 14 May 2026 03:07:00 GMT</pubDate>
+      <guid>https://www.scmp.com/economy/china-economy/article/3346617/does-iran-have-yuan-hormuz-oil-trade-plan-why-analysts-china-are-urging-caution</guid>
     </item>
   </channel>
 </rss>
