@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-15T03:05:44+03:00",
+  "lastUpdated": "2026-05-15T04:04:12+03:00",
   "headlines": [
+    {
+      "headline": "Russia Launches Largest Drone Attack of the War on Kyiv",
+      "summary": "Russia fired hundreds of drones at Kyiv in what officials call the largest aerial assault since the invasion began, flattening residential buildings and killing at least 10 people across Ukraine.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/14/world/europe/ukraine-strike-kyiv-russia-putin.html",
+      "timestamp": "2026-05-15T04:03:00+03:00"
+    },
+    {
+      "headline": "Macron Faces Backlash in Kenya Over Africa Investment Push",
+      "summary": "French President Emmanuel Macron announced a €23 billion investment package for Africa at the Kenya summit, but faced protests and criticism over Frances continued influence in former colonies.",
+      "emoji": "🇫🇷🇰🇪",
+      "category": "Africa",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/05/14/french-president-emmanuel-macron-faces-backlash-he-visits-africa/",
+      "timestamp": "2026-05-15T04:03:00+03:00"
+    },
+    {
+      "headline": "Chinas Xi Warns Trump on Taiwan at Beijing Summit",
+      "summary": "Chinese President Xi Jinping issued a subtle but clear warning on Taiwan during the Trump-Xi summit in Beijing, while both leaders agreed on cooperation regarding the Iran conflict.",
+      "emoji": "🇨🇳🇺🇸",
+      "category": "US-China",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/14/chinas-xi-warns-trump-about-taiwan-at-beijing-summit",
+      "timestamp": "2026-05-15T04:03:00+03:00"
+    },
+    {
+      "headline": "Rescuers Pull Bodies From Kyiv Rubble After Massive Russian Attack",
+      "summary": "Emergency workers recovered bodies from the ruins of a flattened apartment block in Kyiv after Russia unleashed one of its largest drone barrages of the war.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cq5p8yygq94o",
+      "timestamp": "2026-05-15T04:03:00+03:00"
+    },
+    {
+      "headline": "Five Key Takeaways From Trump-Xi Summit in Beijing",
+      "summary": "The Trump-Xi summit covered Taiwan, Iran, trade, AI chips, and strategic relations with CNBC analyzing the five major outcomes from the historic Beijing meeting.",
+      "emoji": "🇨🇳🇺🇸",
+      "category": "Diplomacy",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/14/trump-xi-summit-beijing-takeaway-taiwan-trade-iran-war-strategic-relations-.html",
+      "timestamp": "2026-05-15T04:03:00+03:00"
+    },
     {
       "headline": "Hungary summons Russian ambassador over drone attack that entered its airspace",
       "summary": "Hungary summoned Russia's ambassador after a massive drone attack on Ukraine included drones that entered Hungarian airspace, marking a significant diplomatic escalation as Hungary maintains close ties with Moscow.",
@@ -8,7 +53,23 @@
       "category": "Ukraine-Russia War",
       "source": "AP News",
       "url": "https://www.baltimoresun.com/2026/05/14/hungary-summons-russian-ambassador/",
-      "timestamp": "2026-05-15T03:03:00+03:00"
+      "timestamp": "2026-05-15T03:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/after-unprecedented-attack-on-ukraines-neighboring-zakarpattia-oblast-hungarys-pm-to-summon-russian-ambassador/",
+          "angle": "Hungary Summons Russian Ambassador After Zakarpattia Drone Attack",
+          "summary": "Hungary summoned Russias ambassador after Ukraines western Zakarpattia Oblast, home to a Hungarian minority, was targeted in Russias mass drone attack that killed at least six people."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://www.baltimoresun.com/2026/05/14/hungary-summons-russian-ambassador/",
+        "https://kyivindependent.com/after-unprecedented-attack-on-ukraines-neighboring-zakarpattia-oblast-hungarys-pm-to-summon-russian-ambassador/"
+      ]
     },
     {
       "headline": "UN humanitarian convoy hit by drone strikes in Ukraine's Kherson",
@@ -35,7 +96,23 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/iran-uae-clash-brics-foreign-ministers-meeting-2026-05-14/",
-      "timestamp": "2026-05-15T03:03:00+03:00"
+      "timestamp": "2026-05-15T03:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/sustainability/tense-brics-amid-iran-war-oil-crisis-2026-05-14/",
+          "angle": "Iran war overshadows BRICS foreign ministers meeting",
+          "summary": "Tensions from the Iran conflict dominated discussions at a BRICS meeting, highlighting how the crisis is straining relations even within the bloc of major emerging economies."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/iran-uae-clash-brics-foreign-ministers-meeting-2026-05-14/",
+        "https://www.reuters.com/sustainability/tense-brics-amid-iran-war-oil-crisis-2026-05-14/"
+      ]
     },
     {
       "headline": "Taiwan responds to Trump-Xi summit: China should end military pressure",
@@ -44,7 +121,23 @@
       "category": "US-China",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/taiwan-no-surprises-trump-xi-summit-china-should-end-military-pressure-2026-05-14/",
-      "timestamp": "2026-05-15T03:03:00+03:00"
+      "timestamp": "2026-05-15T03:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Hill",
+          "url": "https://thehill.com/homenews/administration/5879110-trump-xi-china-taiwan-trade/",
+          "angle": "Trump-Xi Summit Reveals Dueling Priorities as Taiwan Tensions Loom",
+          "summary": "The Hill reports that the Beijing summit exposed fundamental differences between US and Chinese strategic priorities, with Xi warning Taiwan could push relations toward conflict while Trump focused on trade deals."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "The Hill"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/taiwan-no-surprises-trump-xi-summit-china-should-end-military-pressure-2026-05-14/",
+        "https://thehill.com/homenews/administration/5879110-trump-xi-china-taiwan-trade/"
+      ]
     },
     {
       "headline": "Iraq swears in new PM with partial cabinet as Iran war strains region",
@@ -161,31 +254,6 @@
       "urls": [
         "https://www.reuters.com/business/aerospace-defense/pope-leo-decries-european-military-spending-betrayal-diplomacy-2026-05-14/",
         "https://www.reuters.com/business/aerospace-defense/pope-leo-decries-european-military-spending-betrayal-diplomacy-2026-05-14/"
-      ]
-    },
-    {
-      "headline": "Trump-Xi Summit Reveals Dueling Priorities as Taiwan Tensions Loom",
-      "summary": "The Hill reports that the Beijing summit exposed fundamental differences between US and Chinese strategic priorities, with Xi warning Taiwan could push relations toward conflict while Trump focused on trade deals.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "US-China",
-      "source": "The Hill",
-      "url": "https://thehill.com/homenews/administration/5879110-trump-xi-china-taiwan-trade/",
-      "timestamp": "2026-05-15T02:04:00+03:00",
-      "perspectives": [
-        {
-          "source": "WION",
-          "url": "https://www.wionews.com/world/trump-xi-meet-exposes-gaps-china-silent-on-iran-us-skips-mentioning-taiwan-1778778081266",
-          "angle": "China-Xi summit reveals gaps: Beijing silent on Iran, Washington avoids Taiwan mention",
-          "summary": "The Trump-Xi summit in Beijing exposed strategic gaps, with China refusing to comment on Iran while the US conspicuously avoided mentioning Taiwan in official statements."
-        }
-      ],
-      "sources": [
-        "The Hill",
-        "WION"
-      ],
-      "urls": [
-        "https://thehill.com/homenews/administration/5879110-trump-xi-china-taiwan-trade/",
-        "https://www.wionews.com/world/trump-xi-meet-exposes-gaps-china-silent-on-iran-us-skips-mentioning-taiwan-1778778081266"
       ]
     },
     {
@@ -332,31 +400,6 @@
       "urls": [
         "https://www.reuters.com/world/middle-east/lebanon-press-israel-cease-fire-washington-talks-lebanese-official-says-2026-05-14/",
         "https://www.reuters.com/world/middle-east/lebanon-press-israel-cease-fire-washington-talks-lebanese-official-says-2026-05-14/"
-      ]
-    },
-    {
-      "headline": "Iran war overshadows BRICS foreign ministers meeting",
-      "summary": "Tensions from the Iran conflict dominated discussions at a BRICS meeting, highlighting how the crisis is straining relations even within the bloc of major emerging economies.",
-      "emoji": "🌍",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/sustainability/tense-brics-amid-iran-war-oil-crisis-2026-05-14/",
-      "timestamp": "2026-05-15T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/iran-war-cast-shadow-brics-foreign-ministers-meeting-delhi-2026-05-13/",
-          "angle": "Iran War Casts Shadow Over BRICS Foreign Ministers Meeting in Delhi",
-          "summary": "The US-Israeli war on Iran is testing BRICS unity as foreign ministers gather in New Delhi, with the bloc struggling to reach a unified position on the conflict that has disrupted global oil markets."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/sustainability/tense-brics-amid-iran-war-oil-crisis-2026-05-14/",
-        "https://www.reuters.com/world/china/iran-war-cast-shadow-brics-foreign-ministers-meeting-delhi-2026-05-13/"
       ]
     },
     {
@@ -1525,15 +1568,6 @@
       "category": "Ukraine-Russia War",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/russian-forces-ordered-to-behead-display-bodies-of-2-fallen-ukrainian-soldiers-general-staff-reports/",
-      "timestamp": "2026-05-14T02:05:00+03:00"
-    },
-    {
-      "headline": "Hungary Summons Russian Ambassador After Zakarpattia Drone Attack",
-      "summary": "Hungary summoned Russias ambassador after Ukraines western Zakarpattia Oblast, home to a Hungarian minority, was targeted in Russias mass drone attack that killed at least six people.",
-      "emoji": "🇭🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/after-unprecedented-attack-on-ukraines-neighboring-zakarpattia-oblast-hungarys-pm-to-summon-russian-ambassador/",
       "timestamp": "2026-05-14T02:05:00+03:00"
     },
     {
@@ -2955,24 +2989,6 @@
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/russias-orenburg-and-chelyabinsk-reportedly-came-under-drone-attack/",
       "timestamp": "2026-05-12T15:33:00+03:00"
-    },
-    {
-      "headline": "Spain reports new hantavirus case as outbreak grows to 11",
-      "summary": "Spain's hantavirus outbreak has grown to 11 confirmed cases, with the WHO chief saying there is currently no sign of a larger outbreak. Health authorities are monitoring the situation closely as the rare viral disease spreads.",
-      "emoji": "🇪🇸",
-      "category": "Europe",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3353299/spain-reports-new-hantavirus-case-outbreak-grows-11",
-      "timestamp": "2026-05-12T15:30:00+03:00"
-    },
-    {
-      "headline": "EU Rejects Putin's Proposal for Ex-German Leader Schroeder in Future Security Talks",
-      "summary": "EU ministers dismissed Russia's suggestion that former German Chancellor Gerhard Schroeder play a role in future security discussions, citing his close relationship with Putin.",
-      "emoji": "🇪🇺🇷🇺",
-      "category": "Diplomacy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3353225/eu-rejects-putins-idea-role-ex-german-leader-future-security-talks",
-      "timestamp": "2026-05-12T14:12:00+03:00"
     }
   ]
 }
