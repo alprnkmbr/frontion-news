@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-15T14:05:35+03:00",
+  "lastUpdated": "2026-05-15T14:08:24+03:00",
   "headlines": [
+    {
+      "headline": "Poland Scrambles After Pentagon Abruptly Cancels Planned US Troop Deployment",
+      "summary": "Poland was blindsided by the Pentagon decision to cancel a planned deployment of 4,000 US troops, raising questions about US security commitments in Europe under the Trump administration.",
+      "emoji": "🇵🇱🇺🇸",
+      "category": "Europe",
+      "source": "Politico",
+      "url": "https://www.politico.eu/article/poland-scrambles-respond-us-troop-decision/",
+      "timestamp": "2026-05-15T14:10:00+03:00"
+    },
+    {
+      "headline": "US Official Calls First Day of Israel-Lebanon Ceasefire Talks Positive",
+      "summary": "A US official described the initial day of Israel-Lebanon ceasefire negotiations as positive, though Israel has continued airstrikes it says target Hezbollah while the current truce is set to expire Sunday.",
+      "emoji": "🇱🇧🇮🇱",
+      "category": "Middle East",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3353618/first-day-lebanon-israel-ceasefire-talks-positive-us-official-says",
+      "timestamp": "2026-05-15T14:10:00+03:00"
+    },
+    {
+      "headline": "Israel Adopts Rubble Doctrine in Southern Lebanon Security Policy",
+      "summary": "A profound shift in Israeli military thinking after October 7 has led to a new security doctrine focused on denying enemy positions in southern Lebanon through systematic destruction, as seen in El-Khiam.",
+      "emoji": "🇮🇱⚔️",
+      "category": "Middle East",
+      "source": "Jerusalem Post",
+      "url": "https://www.jpost.com/israel-news/defense-news/article-896271",
+      "timestamp": "2026-05-15T14:10:00+03:00"
+    },
+    {
+      "headline": "Australia Rules Out LNG Export Controls as Gas Supply Fears Ease",
+      "summary": "Australia will not impose LNG export controls for Q3 2026 after industry assurances eased concerns about east coast gas supply, maintaining its position as a key global LNG supplier.",
+      "emoji": "🇦🇺🛢️",
+      "category": "Energy",
+      "source": "Oil Price",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Australia-Rules-Out-LNG-Export-Curbs-as-East-Coast-Gas-Supply-Fears-Ease.html",
+      "timestamp": "2026-05-15T14:10:00+03:00"
+    },
+    {
+      "headline": "AI and Semiconductors Loom Over Trump-Xi Summit Despite Trade Focus",
+      "summary": "While trade dominated the Trump-Xi talks, artificial intelligence and semiconductor technology remained an undercurrent in the discussions, highlighting the tech competition between the superpowers.",
+      "emoji": "🇺🇸🇨🇳",
+      "category": "US-China",
+      "source": "Time",
+      "url": "https://time.com/article/2026/05/15/trump-xi-us-china-summit-ai-semiconductor-chips/",
+      "timestamp": "2026-05-15T14:10:00+03:00"
+    },
     {
       "headline": "US Expects Massive Chinese Farm Purchases After Trump-Xi Summit",
       "summary": "The US anticipates China will commit to buy double-digit billions worth of American agricultural goods following the Trump-Xi summit in Beijing. Trade Representative Jamieson Greer announced the expected deal as Trump concluded his two-day visit.",
@@ -8,7 +53,23 @@
       "category": "US-China",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/",
-      "timestamp": "2026-05-15T14:03:00+03:00"
+      "timestamp": "2026-05-15T14:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/",
+          "angle": "US Expects Major Chinese Farm Purchases After Trump-Xi Summit",
+          "summary": "USTR Jamieson Greer announced China will commit to \"double-digit billions\" in US agricultural imports following the Beijing summit between Presidents Trump and Xi."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/",
+        "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/"
+      ]
     },
     {
       "headline": "Trump and Xi Agree Iran Cannot Have Nuclear Weapons",
@@ -26,7 +87,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/china-has-agreed-to-buy-200-boeing-jets-trump-says-2026-05-14/",
-      "timestamp": "2026-05-15T14:03:00+03:00"
+      "timestamp": "2026-05-15T14:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/china-has-agreed-to-buy-200-boeing-jets-trump-says-2026-05-14/",
+          "angle": "Boeing shares tumble as China agrees to buy only 200 jets",
+          "summary": "China agreed to purchase 200 Boeing jets during Trump-Xi talks, far fewer than analysts expected, sending Boeing shares down 4%. The deal reflects Beijing's cautious approach amid ongoing trade tensions and the Iran conflict."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/aerospace-defense/china-has-agreed-to-buy-200-boeing-jets-trump-says-2026-05-14/",
+        "https://www.reuters.com/business/aerospace-defense/china-has-agreed-to-buy-200-boeing-jets-trump-says-2026-05-14/"
+      ]
     },
     {
       "headline": "Trump Leaves China With Few Wins Despite Warm Words for Xi",
@@ -35,16 +112,23 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/trump-xi-set-second-day-talks-after-taiwan-warning-2026-05-14/",
-      "timestamp": "2026-05-15T14:03:00+03:00"
-    },
-    {
-      "headline": "Key Takeaways From Day 2 of Trump-Xi Beijing Summit",
-      "summary": "President Trump and Chinese leader Xi Jinping emphasized stability in their talks but announced no major breakthroughs on contentious issues. AI and semiconductors remained an undercurrent throughout discussions.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "US-China",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/15/world/asia/trump-china-xi-meeting-what-happened.html",
-      "timestamp": "2026-05-15T14:03:00+03:00"
+      "timestamp": "2026-05-15T14:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/trump-wants-chinas-help-iran-beijing-may-have-other-ideas-2026-05-13/",
+          "angle": "China Reluctant to Cut Iran Support Despite Trump Pressure at Beijing Summit",
+          "summary": "Analysts say Xi may nudge Iran back to negotiations but is unlikely to sever economic ties or halt dual-use military supplies to Beijing's key Middle East partner."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/trump-xi-set-second-day-talks-after-taiwan-warning-2026-05-14/",
+        "https://www.reuters.com/world/china/trump-wants-chinas-help-iran-beijing-may-have-other-ideas-2026-05-13/"
+      ]
     },
     {
       "headline": "Russia and Ukraine Exchange 205 POWs Each in Ceasefire-Linked Swap",
@@ -271,31 +355,6 @@
       ]
     },
     {
-      "headline": "US Expects Major Chinese Farm Purchases After Trump-Xi Summit",
-      "summary": "USTR Jamieson Greer announced China will commit to \"double-digit billions\" in US agricultural imports following the Beijing summit between Presidents Trump and Xi.",
-      "emoji": "🇺🇸🇨🇳🌾",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/",
-      "timestamp": "2026-05-15T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/",
-          "angle": "US Expects Double-Digit Billions in Chinese Farm Purchases After Trump-Xi Summit",
-          "summary": "US Trade Representative Jamieson Greer announced expectations of major Chinese agricultural purchases following the Beijing summit, signaling potential trade breakthrough."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/",
-        "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/"
-      ]
-    },
-    {
       "headline": "Pope Leo Condemns AI Warfare as Path to \"Spiral of Annihilation\"",
       "summary": "Pope Leo XIV denounced investments in AI-driven weaponry, warning they lead humanity toward destruction and criticized Europe's military buildup as a betrayal of diplomacy.",
       "emoji": "⛪⚠️",
@@ -323,27 +382,19 @@
       "timestamp": "2026-05-15T10:05:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/trump-xi-china-iran-trade-a1d63a711a037472f5c1c330c2120bd5",
-          "angle": "AP: Xi Warns Trump That Taiwan Could Lead to Conflict",
-          "summary": "Chinese President Xi Jinping warned Trump that differences over Taiwan could lead to conflict between the two powers if mishandled, during high-stakes talks in Beijing."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/chinas-xi-lauds-new-positioning-ties-with-us-2026-05-14/",
-          "angle": "Trump and Xi conclude Beijing summit with new trade deals, Iran tensions dominate agenda",
-          "summary": "US President Trump completed high-stakes talks with Chinese leader Xi Jinping in Beijing, announcing trade agreements while Xi warned on Taiwan. Both leaders discussed Iran and Strait of Hormuz tensions, with China wanting the waterway open without restrictions."
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/05/15/world/asia/trump-china-xi-meeting-what-happened.html",
+          "angle": "Key Takeaways From Day 2 of Trump-Xi Beijing Summit",
+          "summary": "President Trump and Chinese leader Xi Jinping emphasized stability in their talks but announced no major breakthroughs on contentious issues. AI and semiconductors remained an undercurrent throughout discussions."
         }
       ],
       "sources": [
         "Reuters",
-        "AP News",
-        "Reuters"
+        "New York Times"
       ],
       "urls": [
         "https://www.reuters.com/world/trump-china-live-second-day-talks-with-xi-iran-taiwan-trade-2026-05-15/",
-        "https://apnews.com/article/trump-xi-china-iran-trade-a1d63a711a037472f5c1c330c2120bd5",
-        "https://www.reuters.com/world/china/chinas-xi-lauds-new-positioning-ties-with-us-2026-05-14/"
+        "https://www.nytimes.com/2026/05/15/world/asia/trump-china-xi-meeting-what-happened.html"
       ]
     },
     {
@@ -959,15 +1010,6 @@
       ]
     },
     {
-      "headline": "Boeing shares tumble as China agrees to buy only 200 jets",
-      "summary": "China agreed to purchase 200 Boeing jets during Trump-Xi talks, far fewer than analysts expected, sending Boeing shares down 4%. The deal reflects Beijing's cautious approach amid ongoing trade tensions and the Iran conflict.",
-      "emoji": "✈️🇨🇳",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/china-has-agreed-to-buy-200-boeing-jets-trump-says-2026-05-14/",
-      "timestamp": "2026-05-15T01:05:00+03:00"
-    },
-    {
       "headline": "IAEA reports over 160 drones near Ukrainian nuclear sites amid safety concerns",
       "summary": "The International Atomic Energy Agency documented a surge in drone activity near Khmelnytskyi, Rivne, and South Ukraine nuclear power plants, raising nuclear safety risks as Zaporizhzhia plant operates on a single backup power line for over seven weeks.",
       "emoji": "☢️🇺🇦",
@@ -1085,31 +1127,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/uk/pound-dips-political-crisis-engulfs-britain-2026-05-14/",
       "timestamp": "2026-05-14T23:03:00+03:00"
-    },
-    {
-      "headline": "China Reluctant to Cut Iran Support Despite Trump Pressure at Beijing Summit",
-      "summary": "Analysts say Xi may nudge Iran back to negotiations but is unlikely to sever economic ties or halt dual-use military supplies to Beijing's key Middle East partner.",
-      "emoji": "🇨🇳🇮🇷",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/trump-wants-chinas-help-iran-beijing-may-have-other-ideas-2026-05-13/",
-      "timestamp": "2026-05-14T22:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/05/14/trump-xi-summit-beijing-takeaway-taiwan-trade-iran-war-strategic-relations-.html",
-          "angle": "Five Key Takeaways From Trump-Xi Summit in Beijing",
-          "summary": "The Trump-Xi summit covered Taiwan, Iran, trade, AI chips, and strategic relations with CNBC analyzing the five major outcomes from the historic Beijing meeting."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "CNBC"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/trump-wants-chinas-help-iran-beijing-may-have-other-ideas-2026-05-13/",
-        "https://www.cnbc.com/2026/05/14/trump-xi-summit-beijing-takeaway-taiwan-trade-iran-war-strategic-relations-.html"
-      ]
     },
     {
       "headline": "Activist flotilla departs Turkey for Gaza as Israel prepares for interception",
@@ -2995,31 +3012,6 @@
       "urls": [
         "https://www.defensenews.com/global/europe/2026/05/12/nato-to-cultivate-vetted-counter-drone-vendor-pool-for-nations-to-pick-and-choose/",
         "https://www.defensenews.com/global/europe/2026/05/12/nato-to-cultivate-vetted-counter-drone-vendor-pool-for-nations-to-pick-and-choose/"
-      ]
-    },
-    {
-      "headline": "Turkey Announces Propellant Breakthrough for Yildirimhan Long-Range Ballistic Missile",
-      "summary": "Turkish defense officials have announced a significant advancement in solid propellant technology for the Yildirimhan long-range ballistic missile program, boosting domestic missile development capabilities.",
-      "emoji": "🇹🇷",
-      "category": "Defense Industry",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/global/europe/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/",
-      "timestamp": "2026-05-13T04:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "Defense News",
-          "url": "https://www.defensenews.com/global/europe/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/",
-          "angle": "Turkey Unveils Yildirimhan ICBM With 6,000km Range",
-          "summary": "Turkey announced a major propellant breakthrough for its Yildirimhan intercontinental ballistic missile program, revealing capabilities previously undisclosed. The 6,000km range raises questions about Ankara's strategic ambitions."
-        }
-      ],
-      "sources": [
-        "Defense News",
-        "Defense News"
-      ],
-      "urls": [
-        "https://www.defensenews.com/global/europe/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/",
-        "https://www.defensenews.com/global/europe/2026/05/08/turkey-touts-propellant-breakthrough-for-yildirimhan-long-range-ballistic-missile/"
       ]
     }
   ]
