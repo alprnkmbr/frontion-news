@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-15T16:08:31+03:00",
+  "lastUpdated": "2026-05-15T17:04:33+03:00",
   "headlines": [
+    {
+      "headline": "Russian Missile Strike Kills 24 in Kyiv Apartment Building",
+      "summary": "A Russian missile struck a residential building in Kyiv, killing 24 people including three children. President Zelenskiy called for punishment of Moscow as rescue workers recovered bodies from the rubble.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/zelenskiy-condemns-russia-after-strike-kyiv-apartment-bloc-kills-24-2026-05-15/",
+      "timestamp": "2026-05-15T17:03:00+03:00"
+    },
+    {
+      "headline": "Germany Arrests Ukrainian National Suspected of Spying for Russia",
+      "summary": "German prosecutors announced the arrest of a Ukrainian national on suspicion of espionage for Russia. The case highlights ongoing intelligence threats in Europe amid the Ukraine war.",
+      "emoji": "🇩🇪",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/germany-says-ukrainian-national-arrested-suspicion-spying-russia-2026-05-15/",
+      "timestamp": "2026-05-15T17:03:00+03:00"
+    },
+    {
+      "headline": "US Admiral: Iran Military Capability Dramatically Degraded",
+      "summary": "The US admiral commanding the Iran war effort said American strikes have left Tehran with only small or moderate ability to strike its neighbors, describing major damage to Irans defense industry.",
+      "emoji": "⚔️",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-admiral-says-irans-ability-threaten-neighbors-dramatically-degraded-2026-05-14/",
+      "timestamp": "2026-05-15T17:03:00+03:00"
+    },
+    {
+      "headline": "Iran FM: No Trust in US, Will Negotiate Only If Serious",
+      "summary": "Iranian Foreign Minister Abbas Araqchi said Tehran has no trust in Washington and will only negotiate if the US shows seriousness. He added that all vessels can pass through Hormuz except those at war with Iran.",
+      "emoji": "🇮🇷",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/iran-has-no-trust-us-will-negotiate-only-if-it-is-serious-araqchi-says-2026-05-15/",
+      "timestamp": "2026-05-15T17:03:00+03:00"
+    },
+    {
+      "headline": "US Cancels Planned Deployment of 4,000 Troops to Poland",
+      "summary": "The Pentagon scrapped plans to temporarily deploy 4,000 US-based troops to Poland, raising fresh questions about Trumps expected troop cuts in Europe and NATOs eastern flank security.",
+      "emoji": "🇵🇱",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/us-scraps-deployment-4000-troops-poland-2026-05-14/",
+      "timestamp": "2026-05-15T17:03:00+03:00"
+    },
     {
       "headline": "Iran says Pakistan mediation with US at impasse over uranium enrichment",
       "summary": "Iranian Foreign Minister Abbas Araghchi stated that Pakistan-mediated talks with the US face deadlock over the enriched uranium issue, while welcoming potential Chinese diplomatic involvement.",
@@ -26,25 +71,23 @@
       "category": "Defense Industry",
       "source": "Kyiv Post",
       "url": "https://www.kyivpost.com/post/76223",
-      "timestamp": "2026-05-15T16:05:00+03:00"
-    },
-    {
-      "headline": "UAE failed to convince Gulf states to join coordinated military response against Iran",
-      "summary": "Bloomberg reports UAE President MBZ attempted to persuade Saudi Arabia, Qatar and other Gulf states to retaliate collectively against Iran, but was told the conflict wasnt their war.",
-      "emoji": "🇦🇪",
-      "category": "Middle East",
-      "source": "Kyiv Post",
-      "url": "https://www.kyivpost.com/post/76221",
-      "timestamp": "2026-05-15T16:05:00+03:00"
-    },
-    {
-      "headline": "Philippine Senate plunged into chaos during attempt to arrest ICC-wanted senator",
-      "summary": "Gunshots erupted in the Philippine Senate during an attempt to arrest Senator Ronald dela Rosa, wanted by the International Criminal Court, as the countrys political crisis deepens.",
-      "emoji": "🇵🇭",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3353656/i-got-really-scared-how-philippine-senate-shoot-out-unfolded",
-      "timestamp": "2026-05-15T16:05:00+03:00"
+      "timestamp": "2026-05-15T16:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Naval News",
+          "url": "https://www.navalnews.com/naval-news/2026/05/russian-nuclear-submarines-thousands-of-miles-from-ukraine-get-anti-drone-defenses/",
+          "angle": "Russian Nuclear Submarines Receive Anti-Drone Defenses Thousands of Miles From Ukraine",
+          "summary": "New satellite imagery reveals anti-drone protections around Russian nuclear submarines, suggesting commanders fear Ukrainian drone capabilities extending far beyond the front lines."
+        }
+      ],
+      "sources": [
+        "Kyiv Post",
+        "Naval News"
+      ],
+      "urls": [
+        "https://www.kyivpost.com/post/76223",
+        "https://www.navalnews.com/naval-news/2026/05/russian-nuclear-submarines-thousands-of-miles-from-ukraine-get-anti-drone-defenses/"
+      ]
     },
     {
       "headline": "Japan Economy Expected to Grow for Second Quarter Despite Iran War Shadow",
@@ -1329,19 +1372,19 @@
       "timestamp": "2026-05-14T21:03:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/netanyahu-held-secret-meeting-with-emirati-president-uae-during-iran-war-pms-2026-05-13/",
-          "angle": "Netanyahu Held Secret Meeting With UAE President During Iran War",
-          "summary": "Israeli PM Benjamin Netanyahu visited the UAE and met with the Emirati president during the Iran war, marking their first confirmed meeting and a \"historic breakthrough\" in relations."
+          "source": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/76221",
+          "angle": "UAE failed to convince Gulf states to join coordinated military response against Iran",
+          "summary": "Bloomberg reports UAE President MBZ attempted to persuade Saudi Arabia, Qatar and other Gulf states to retaliate collectively against Iran, but was told the conflict wasnt their war."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "Kyiv Post"
       ],
       "urls": [
         "https://www.reuters.com/world/china/iran-uae-clash-brics-foreign-ministers-meeting-2026-05-14/",
-        "https://www.reuters.com/world/middle-east/netanyahu-held-secret-meeting-with-emirati-president-uae-during-iran-war-pms-2026-05-13/"
+        "https://www.kyivpost.com/post/76221"
       ]
     },
     {
@@ -1849,15 +1892,6 @@
       ]
     },
     {
-      "headline": "Philippines seeks ICC suspect after Senate shootout chaos",
-      "summary": "Philippine authorities are hunting for Senator Ronald \"Bato\" dela Rosa wanted by the ICC after gunfire erupted at the Senate building where he had taken refuge. Marcos convened an emergency meeting.",
-      "emoji": "🇵🇭🏛️",
-      "category": "Asia-Pacific",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/world/2026/05/14/philippines-seeking-to-confirm-icc-suspect-has-fled-after-chaos-at-senate",
-      "timestamp": "2026-05-14T10:05:00+03:00"
-    },
-    {
       "headline": "Russia places UK ex-defense minister Ben Wallace on wanted list",
       "summary": "Russia has placed former British Defence Minister Ben Wallace on its wanted list in connection with an unspecified criminal investigation, state media reported Wednesday citing the Interior Ministry.",
       "emoji": "🇷🇺🇬🇧",
@@ -2298,18 +2332,26 @@
       "perspectives": [
         {
           "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3353591/philippine-senator-wanted-icc-flees-senate",
-          "angle": "Philippine senator wanted by ICC escapes Senate custody amid gunfire",
-          "summary": "Senator Ronald dela Rosa, wanted by the International Criminal Court for alleged crimes against humanity, fled the heavily guarded Senate building after gunshots were fired during an argument between security and a government agent."
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3353656/i-got-really-scared-how-philippine-senate-shoot-out-unfolded",
+          "angle": "Philippine Senate plunged into chaos during attempt to arrest ICC-wanted senator",
+          "summary": "Gunshots erupted in the Philippine Senate during an attempt to arrest Senator Ronald dela Rosa, wanted by the International Criminal Court, as the countrys political crisis deepens."
+        },
+        {
+          "source": "Al Arabiya",
+          "url": "https://english.alarabiya.net/News/world/2026/05/14/philippines-seeking-to-confirm-icc-suspect-has-fled-after-chaos-at-senate",
+          "angle": "Philippines seeks ICC suspect after Senate shootout chaos",
+          "summary": "Philippine authorities are hunting for Senator Ronald \"Bato\" dela Rosa wanted by the ICC after gunfire erupted at the Senate building where he had taken refuge. Marcos convened an emergency meeting."
         }
       ],
       "sources": [
         "Reuters",
-        "SCMP"
+        "SCMP",
+        "Al Arabiya"
       ],
       "urls": [
         "https://www.reuters.com/world/asia-pacific/philippine-senator-says-arrest-is-imminent-urges-public-not-allow-icc-transfer-2026-05-13/",
-        "https://www.scmp.com/news/asia/southeast-asia/article/3353591/philippine-senator-wanted-icc-flees-senate"
+        "https://www.scmp.com/news/asia/southeast-asia/article/3353656/i-got-really-scared-how-philippine-senate-shoot-out-unfolded",
+        "https://english.alarabiya.net/News/world/2026/05/14/philippines-seeking-to-confirm-icc-suspect-has-fled-after-chaos-at-senate"
       ]
     },
     {
@@ -2611,15 +2653,6 @@
       "timestamp": "2026-05-13T12:10:00+03:00"
     },
     {
-      "headline": "Russian Nuclear Submarines Receive Anti-Drone Defenses Thousands of Miles From Ukraine",
-      "summary": "New satellite imagery reveals anti-drone protections around Russian nuclear submarines, suggesting commanders fear Ukrainian drone capabilities extending far beyond the front lines.",
-      "emoji": "⚔️",
-      "category": "Defense Industry",
-      "source": "Naval News",
-      "url": "https://www.navalnews.com/naval-news/2026/05/russian-nuclear-submarines-thousands-of-miles-from-ukraine-get-anti-drone-defenses/",
-      "timestamp": "2026-05-13T12:10:00+03:00"
-    },
-    {
       "headline": "South Korea Weighs Phased Hormuz Support After US Talks",
       "summary": "South Korea is reviewing a phased contribution to efforts to ensure safe navigation through the Strait of Hormuz, signaling support steps short of military participation as the US seeks allies for the Iran mission.",
       "emoji": "🇰🇷",
@@ -2916,31 +2949,6 @@
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/ukraine-sanctions-66-russian-companies-individuals-linked-to-russias-military-industrial-complex/",
       "timestamp": "2026-05-13T06:07:00+03:00"
-    },
-    {
-      "headline": "EU expresses frustration over slow defense industry ramp-up",
-      "summary": "EU diplomat Kaja Kallas said the bloc is frustrated that despite billions in funding, defense production lags behind Ukraine, which has become a significant military-industrial power in four years.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/eu-defense-industry-frustration/",
-      "timestamp": "2026-05-13T06:07:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/eu-defense-industry-frustration/",
-          "angle": "EU expresses frustration over failed defense industry ramp-up",
-          "summary": "EU top diplomat Kaja Kallas voiced frustration over the bloc's slow defense production pace, drawing contrast with Ukraine's rapid industrial growth amid the Russia war."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://kyivindependent.com/eu-defense-industry-frustration/",
-        "https://kyivindependent.com/eu-defense-industry-frustration/"
-      ]
     }
   ]
 }
