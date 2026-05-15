@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-15T04:04:12+03:00",
+  "lastUpdated": "2026-05-15T04:07:18+03:00",
   "headlines": [
     {
-      "headline": "Russia Launches Largest Drone Attack of the War on Kyiv",
-      "summary": "Russia fired hundreds of drones at Kyiv in what officials call the largest aerial assault since the invasion began, flattening residential buildings and killing at least 10 people across Ukraine.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/14/world/europe/ukraine-strike-kyiv-russia-putin.html",
-      "timestamp": "2026-05-15T04:03:00+03:00"
+      "headline": "US cancels planned deployment of 4,000 troops to Poland",
+      "summary": "Pentagon scraps temporary troop deployment to Poland, surprising lawmakers and raising questions about US commitment to European defense amid Iran war tensions.",
+      "emoji": "🇺🇸🇵🇱",
+      "category": "Military",
+      "source": "The Star",
+      "url": "https://www.thestar.com.my/news/world/2026/05/15/us-scraps-deployment-of-4000-troops-to-poland",
+      "timestamp": "2026-05-15T04:10:00+03:00"
+    },
+    {
+      "headline": "UK Labour MPs question whether party will survive as political force",
+      "summary": "Labour Party faces existential crisis with support at historic lows as internal revolt engulfs Keir Starmer's leadership, raising questions about Britain's political realignment.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/tv-shows/spotlight/20260515-uk-in-political-turmoil-labour-mps-openly-question-whether-labour-will-survive-as-political-force",
+      "timestamp": "2026-05-15T04:10:00+03:00"
+    },
+    {
+      "headline": "Football unrest triggers protests in Libyan capital",
+      "summary": "Protests erupted in Tripoli after football match tensions, with demonstrators damaging parts of the prime minister's office building.",
+      "emoji": "🇱🇾",
+      "category": "Middle East",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/middle-east/football-unrest-triggers-protests-in-libyan-capital-with-parts-of-prime-ministers-office-damaged/3937968",
+      "timestamp": "2026-05-15T04:10:00+03:00"
+    },
+    {
+      "headline": "US Border Patrol chief Michael Banks resigns",
+      "summary": "The head of US Border Patrol steps down amid ongoing border security challenges and policy debates.",
+      "emoji": "🇺🇸",
+      "category": "US Politics",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/americas/us-border-patrol-chief-michael-banks-resigns/3937966",
+      "timestamp": "2026-05-15T04:10:00+03:00"
+    },
+    {
+      "headline": "Saudi Arabia condemns Israel over Al-Aqsa Mosque practices",
+      "summary": "Saudi foreign ministry denounces Israeli actions at Jerusalem's Al-Aqsa Mosque, calling them provocative amid ongoing regional tensions.",
+      "emoji": "🇸🇦⛪",
+      "category": "Middle East",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-condemns-israel-s-provocative-practices-at-al-aqsa-mosque/3937965",
+      "timestamp": "2026-05-15T04:10:00+03:00"
     },
     {
       "headline": "Macron Faces Backlash in Kenya Over Africa Investment Push",
@@ -20,31 +56,62 @@
       "timestamp": "2026-05-15T04:03:00+03:00"
     },
     {
-      "headline": "Chinas Xi Warns Trump on Taiwan at Beijing Summit",
-      "summary": "Chinese President Xi Jinping issued a subtle but clear warning on Taiwan during the Trump-Xi summit in Beijing, while both leaders agreed on cooperation regarding the Iran conflict.",
-      "emoji": "🇨🇳🇺🇸",
-      "category": "US-China",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/14/chinas-xi-warns-trump-about-taiwan-at-beijing-summit",
-      "timestamp": "2026-05-15T04:03:00+03:00"
-    },
-    {
       "headline": "Rescuers Pull Bodies From Kyiv Rubble After Massive Russian Attack",
       "summary": "Emergency workers recovered bodies from the ruins of a flattened apartment block in Kyiv after Russia unleashed one of its largest drone barrages of the war.",
       "emoji": "🇺🇦",
       "category": "Ukraine-Russia War",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cq5p8yygq94o",
-      "timestamp": "2026-05-15T04:03:00+03:00"
+      "timestamp": "2026-05-15T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-war-latest-zelensky-orders-military-response-after-russian-attack-on-kyiv-kills-at-least-12/",
+          "angle": "Zelensky orders military response after Russian attack kills 12 in Kyiv",
+          "summary": "Ukrainian President Zelensky instructed the military to prepare a response after a Russian mass attack on Kyiv killed at least 12 people. Ukraine accused Russia of \"ripping off\" its drone warfare success."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cq5p8yygq94o",
+        "https://kyivindependent.com/ukraine-war-latest-zelensky-orders-military-response-after-russian-attack-on-kyiv-kills-at-least-12/"
+      ]
     },
     {
-      "headline": "Five Key Takeaways From Trump-Xi Summit in Beijing",
-      "summary": "The Trump-Xi summit covered Taiwan, Iran, trade, AI chips, and strategic relations with CNBC analyzing the five major outcomes from the historic Beijing meeting.",
-      "emoji": "🇨🇳🇺🇸",
-      "category": "Diplomacy",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/14/trump-xi-summit-beijing-takeaway-taiwan-trade-iran-war-strategic-relations-.html",
-      "timestamp": "2026-05-15T04:03:00+03:00"
+      "headline": "Taiwan responds to Trump-Xi summit: China should end military pressure",
+      "summary": "Taiwan said nothing surprising came from the Trump-Xi summit but called on China to end military pressure on the island, which Taipei views as the real threat to regional peace.",
+      "emoji": "🇹🇼",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/taiwan-no-surprises-trump-xi-summit-china-should-end-military-pressure-2026-05-14/",
+      "timestamp": "2026-05-15T03:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/14/chinas-xi-warns-trump-about-taiwan-at-beijing-summit",
+          "angle": "Chinas Xi Warns Trump on Taiwan at Beijing Summit",
+          "summary": "Chinese President Xi Jinping issued a subtle but clear warning on Taiwan during the Trump-Xi summit in Beijing, while both leaders agreed on cooperation regarding the Iran conflict."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/trump-xi-set-second-day-talks-after-taiwan-warning-2026-05-14/",
+          "angle": "Xi warns Trump that mishandling Taiwan could push relations to dangerous place",
+          "summary": "Chinese President Xi Jinping issued a stark warning during the Beijing summit, saying that mishandling the Taiwan issue could push US-China relations to a \"very dangerous\" place, underscoring the fragility of the relationship."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Al Jazeera",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/taiwan-no-surprises-trump-xi-summit-china-should-end-military-pressure-2026-05-14/",
+        "https://www.aljazeera.com/news/2026/5/14/chinas-xi-warns-trump-about-taiwan-at-beijing-summit",
+        "https://www.reuters.com/world/china/trump-xi-set-second-day-talks-after-taiwan-warning-2026-05-14/"
+      ]
     },
     {
       "headline": "Hungary summons Russian ambassador over drone attack that entered its airspace",
@@ -112,31 +179,6 @@
       "urls": [
         "https://www.reuters.com/world/china/iran-uae-clash-brics-foreign-ministers-meeting-2026-05-14/",
         "https://www.reuters.com/sustainability/tense-brics-amid-iran-war-oil-crisis-2026-05-14/"
-      ]
-    },
-    {
-      "headline": "Taiwan responds to Trump-Xi summit: China should end military pressure",
-      "summary": "Taiwan said nothing surprising came from the Trump-Xi summit but called on China to end military pressure on the island, which Taipei views as the real threat to regional peace.",
-      "emoji": "🇹🇼",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/taiwan-no-surprises-trump-xi-summit-china-should-end-military-pressure-2026-05-14/",
-      "timestamp": "2026-05-15T03:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Hill",
-          "url": "https://thehill.com/homenews/administration/5879110-trump-xi-china-taiwan-trade/",
-          "angle": "Trump-Xi Summit Reveals Dueling Priorities as Taiwan Tensions Loom",
-          "summary": "The Hill reports that the Beijing summit exposed fundamental differences between US and Chinese strategic priorities, with Xi warning Taiwan could push relations toward conflict while Trump focused on trade deals."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "The Hill"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/taiwan-no-surprises-trump-xi-summit-china-should-end-military-pressure-2026-05-14/",
-        "https://thehill.com/homenews/administration/5879110-trump-xi-china-taiwan-trade/"
       ]
     },
     {
@@ -302,31 +344,6 @@
       "timestamp": "2026-05-15T01:08:00+03:00"
     },
     {
-      "headline": "Xi warns Trump that mishandling Taiwan could push relations to dangerous place",
-      "summary": "Chinese President Xi Jinping issued a stark warning during the Beijing summit, saying that mishandling the Taiwan issue could push US-China relations to a \"very dangerous\" place, underscoring the fragility of the relationship.",
-      "emoji": "🇨🇳🇺🇸",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/trump-xi-set-second-day-talks-after-taiwan-warning-2026-05-14/",
-      "timestamp": "2026-05-15T01:07:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/trump-xi-set-beijing-talks-with-trade-truce-iran-war-stake-2026-05-13/",
-          "angle": "Xi Warns Trump Taiwan Mishandling Could Lead to Dangerous Relations",
-          "summary": "China's President Xi Jinping told Trump that mishandling disagreements over Taiwan could push US-China relations to a \"very dangerous place\" during their closely watched Beijing summit."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/trump-xi-set-second-day-talks-after-taiwan-warning-2026-05-14/",
-        "https://www.reuters.com/world/china/trump-xi-set-beijing-talks-with-trade-truce-iran-war-stake-2026-05-13/"
-      ]
-    },
-    {
       "headline": "Gold falls as oil prices and dollar rise ahead of Trump-Xi summit",
       "summary": "Gold prices declined as rising oil prices and a stronger dollar pressured markets, with investors awaiting signals from the Trump-Xi meeting. The vessel seizure in the Gulf added to market uncertainty.",
       "emoji": "💰🛢️",
@@ -481,6 +498,31 @@
       "timestamp": "2026-05-14T23:03:00+03:00"
     },
     {
+      "headline": "China Reluctant to Cut Iran Support Despite Trump Pressure at Beijing Summit",
+      "summary": "Analysts say Xi may nudge Iran back to negotiations but is unlikely to sever economic ties or halt dual-use military supplies to Beijing's key Middle East partner.",
+      "emoji": "🇨🇳🇮🇷",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/trump-wants-chinas-help-iran-beijing-may-have-other-ideas-2026-05-13/",
+      "timestamp": "2026-05-14T22:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "CNBC",
+          "url": "https://www.cnbc.com/2026/05/14/trump-xi-summit-beijing-takeaway-taiwan-trade-iran-war-strategic-relations-.html",
+          "angle": "Five Key Takeaways From Trump-Xi Summit in Beijing",
+          "summary": "The Trump-Xi summit covered Taiwan, Iran, trade, AI chips, and strategic relations with CNBC analyzing the five major outcomes from the historic Beijing meeting."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "CNBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/trump-wants-chinas-help-iran-beijing-may-have-other-ideas-2026-05-13/",
+        "https://www.cnbc.com/2026/05/14/trump-xi-summit-beijing-takeaway-taiwan-trade-iran-war-strategic-relations-.html"
+      ]
+    },
+    {
       "headline": "Activist flotilla departs Turkey for Gaza as Israel prepares for interception",
       "summary": "Over 50 vessels carrying 500 activists left Turkey for Gaza, weeks after Israel intercepted a previous convoy. Israel is preparing to intercept the new flotilla amid ongoing tensions.",
       "emoji": "🇹🇷🇮🇱",
@@ -504,15 +546,6 @@
         "https://www.timesofisrael.com/activist-flotilla-leaves-turkey-for-gaza-weeks-after-israel-intercepted-previous-convoy/",
         "https://www.timesofisrael.com/liveblog_entry/organizer-of-new-activist-flotilla-says-ships-have-departed-turkey-for-gaza/"
       ]
-    },
-    {
-      "headline": "Zelensky orders military response after Russian attack kills 12 in Kyiv",
-      "summary": "Ukrainian President Zelensky instructed the military to prepare a response after a Russian mass attack on Kyiv killed at least 12 people. Ukraine accused Russia of \"ripping off\" its drone warfare success.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/ukraine-war-latest-zelensky-orders-military-response-after-russian-attack-on-kyiv-kills-at-least-12/",
-      "timestamp": "2026-05-14T22:05:00+03:00"
     },
     {
       "headline": "Germany's Merz says Russia prefers escalation over negotiation",
@@ -564,31 +597,6 @@
       "urls": [
         "https://www.reuters.com/commentary/reuters-open-interest/russias-juiced-up-energy-exports-cushion-blow-iran-war-fallout-2026-05-14/",
         "https://www.reuters.com/commentary/reuters-open-interest/stressed-crude-oil-market-looks-xi-trump-summit-iran-help-2026-05-14/"
-      ]
-    },
-    {
-      "headline": "China Reluctant to Cut Iran Support Despite Trump Pressure at Beijing Summit",
-      "summary": "Analysts say Xi may nudge Iran back to negotiations but is unlikely to sever economic ties or halt dual-use military supplies to Beijing's key Middle East partner.",
-      "emoji": "🇨🇳🇮🇷",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/trump-wants-chinas-help-iran-beijing-may-have-other-ideas-2026-05-13/",
-      "timestamp": "2026-05-14T22:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/iran-war-overshadows-trumps-china-visit-peace-talks-stall-2026-05-14/",
-          "angle": "Iran war overshadows Trump-Xi summit in Beijing",
-          "summary": "Donald Trump is expected to ask China to help end the costly and unpopular Iran war in discussions with Xi Jinping, with peace talks stalled and the global economic cost of the conflict increasing."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/trump-wants-chinas-help-iran-beijing-may-have-other-ideas-2026-05-13/",
-        "https://www.reuters.com/world/china/iran-war-overshadows-trumps-china-visit-peace-talks-stall-2026-05-14/"
       ]
     },
     {
@@ -653,6 +661,31 @@
       "timestamp": "2026-05-14T21:03:00+03:00"
     },
     {
+      "headline": "Russia Launches Largest Drone Attack of War on Ukraine",
+      "summary": "Russia carried out its largest aerial attack over a two-day period since the war began, pounding Kyiv with hundreds of drones. An apartment building was flattened, killing at least 7 civilians as strikes continued for a third straight day.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-2026-05-14/",
+      "timestamp": "2026-05-14T20:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/05/14/world/europe/ukraine-strike-kyiv-russia-putin.html",
+          "angle": "Russia Launches Largest Drone Attack of the War on Kyiv",
+          "summary": "Russia fired hundreds of drones at Kyiv in what officials call the largest aerial assault since the invasion began, flattening residential buildings and killing at least 10 people across Ukraine."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "New York Times"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-2026-05-14/",
+        "https://www.nytimes.com/2026/05/14/world/europe/ukraine-strike-kyiv-russia-putin.html"
+      ]
+    },
+    {
       "headline": "China Halts US Beef Export Licenses Hours After Approving Them",
       "summary": "Chinese customs appeared to halt export clearances for hundreds of US beef plants just hours after Reuters reported the long-awaited licenses had been approved during the Trump-Xi summit, underscoring ongoing trade tensions.",
       "emoji": "🥩",
@@ -675,31 +708,6 @@
       "urls": [
         "https://www.reuters.com/world/asia-pacific/china-renews-licences-hundreds-us-beef-exporters-amid-trump-xi-summit-2026-05-14/",
         "https://www.scmp.com/news/china/diplomacy/article/3353616/china-restores-us-beef-trade-amid-trump-xi-summit-alarming-brazilian-exporters"
-      ]
-    },
-    {
-      "headline": "Russia Launches Largest Drone Attack of War on Ukraine",
-      "summary": "Russia carried out its largest aerial attack over a two-day period since the war began, pounding Kyiv with hundreds of drones. An apartment building was flattened, killing at least 7 civilians as strikes continued for a third straight day.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-2026-05-14/",
-      "timestamp": "2026-05-14T20:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3353566/russia-unleashes-1500-attack-drones-ukraine-shattering-prospects-peace",
-          "angle": "Russia launches 1,500 attack drones on Ukraine, shatters peace prospects",
-          "summary": "Russia unleashed a massive wave of 1,500 attack drones on Ukraine over two days, targeting Kyiv and shattering prospects for peace just days after Putin suggested the war was ending."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-2026-05-14/",
-        "https://www.scmp.com/news/world/europe/article/3353566/russia-unleashes-1500-attack-drones-ukraine-shattering-prospects-peace"
       ]
     },
     {
