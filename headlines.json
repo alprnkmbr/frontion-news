@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-15T11:05:18+03:00",
+  "lastUpdated": "2026-05-15T12:06:00+03:00",
   "headlines": [
+    {
+      "headline": "UAE Accelerates Pipeline to Double Oil Exports Bypassing Hormuz",
+      "summary": "The UAE announced it will accelerate construction of a new oil pipeline to double export capacity through Fujairah by 2027, significantly expanding its ability to bypass the Strait of Hormuz amid Iran tensions.",
+      "emoji": "🇦🇪🛢️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/uae-accelerate-oil-pipeline-project-help-bypass-hormuz-2026-05-15/",
+      "timestamp": "2026-05-15T12:03:00+03:00"
+    },
+    {
+      "headline": "Zelenskiy Condemns Russia After Kyiv Apartment Strike Kills 24",
+      "summary": "President Zelenskiy called for Moscow to be punished after visiting the rubble of a Kyiv apartment building where a Russian missile strike killed 24 people including three children.",
+      "emoji": "🇺🇦⚔️",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/zelenskiy-condemns-russia-after-strike-kyiv-apartment-bloc-kills-24-2026-05-15/",
+      "timestamp": "2026-05-15T12:03:00+03:00"
+    },
+    {
+      "headline": "Global Bonds Tumble as Inflation Fears Mount from Iran War Fallout",
+      "summary": "Global bond markets ended a bruising week as economic damage from the Iran conflict prompts investors to expect faster interest rate rises and weaker growth.",
+      "emoji": "📉💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/global-bonds-tumble-flaring-inflation-spooks-investors-2026-05-15/",
+      "timestamp": "2026-05-15T12:03:00+03:00"
+    },
+    {
+      "headline": "Russia and Ukraine Exchange 205 Prisoners of War Each",
+      "summary": "Russia and Ukraine swapped 205 prisoners of war each, a week after Trump announced a large swap would take place between the warring sides.",
+      "emoji": "🇺🇦🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "France24",
+      "url": "https://www.france24.com/en/live-news/20260515-russia-ukraine-swap-205-prisoners-of-war-each",
+      "timestamp": "2026-05-15T12:03:00+03:00"
+    },
+    {
+      "headline": "IMF Staff to Visit Ukraine for $8.1 Billion Loan Review",
+      "summary": "IMF staff will visit Ukraine in coming weeks to review progress on economic reforms and tax base expansion under an $8.1 billion loan program.",
+      "emoji": "🇺🇦🏦",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/imf-staff-heading-ukraine-review-81-billion-loan-program-coming-weeks-2026-05-14/",
+      "timestamp": "2026-05-15T12:03:00+03:00"
+    },
     {
       "headline": "Finland Reopens Helsinki Airport After Drone Alert",
       "summary": "Finnish authorities cleared a drone threat in the capital region, ending a temporary shutdown of Helsinki Airport. Fighter jets were scrambled before the alert was lifted.",
@@ -17,7 +62,23 @@
       "category": "Middle East",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html",
-      "timestamp": "2026-05-15T11:03:00+03:00"
+      "timestamp": "2026-05-15T11:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html",
+          "angle": "Saudi Arabia and UAE Carried Out Secret Attacks Inside Iran",
+          "summary": "US officials revealed that Gulf Arab states conducted covert operations in Iran, seeking to deter Iranian aggression after the war exposed limits of American security guarantees. The attacks reflect regional unease about Iranian military capabilities."
+        }
+      ],
+      "sources": [
+        "New York Times",
+        "New York Times"
+      ],
+      "urls": [
+        "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html",
+        "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html"
+      ]
     },
     {
       "headline": "US Expects Major Chinese Farm Purchases After Trump-Xi Summit",
@@ -26,7 +87,23 @@
       "category": "US-China",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/",
-      "timestamp": "2026-05-15T11:03:00+03:00"
+      "timestamp": "2026-05-15T11:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/",
+          "angle": "US Expects Double-Digit Billions in Chinese Farm Purchases After Trump-Xi Summit",
+          "summary": "US Trade Representative Jamieson Greer announced expectations of major Chinese agricultural purchases following the Beijing summit, signaling potential trade breakthrough."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/",
+        "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/"
+      ]
     },
     {
       "headline": "Pope Leo Condemns AI Warfare as Path to \"Spiral of Annihilation\"",
@@ -361,39 +438,6 @@
       ]
     },
     {
-      "headline": "US Expects Double-Digit Billions in Chinese Farm Purchases After Trump-Xi Summit",
-      "summary": "US Trade Representative Jamieson Greer announced expectations of major Chinese agricultural purchases following the Beijing summit, signaling potential trade breakthrough.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/",
-      "timestamp": "2026-05-15T07:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/",
-          "angle": "US expects double-digit billions in Chinese farm purchases after summit",
-          "summary": "The US expects China to sign up to buy double-digit billions worth of American farm goods following the Trump-Xi summit in Beijing, according to US Trade Representative Jamieson Greer."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/chinas-yuan-hits-3-year-high-stocks-dip-trump-xi-summit-begins-2026-05-14/",
-          "angle": "Chinese Yuan Hits 3-Year High as Markets Await Trump-Xi Summit",
-          "summary": "China's yuan edged up to a three-year high against the dollar on Thursday, while key stock indexes retreated from recent peaks amid profit-taking, as investors awaited further news from a summit between the leaders of the world's two largest economies."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/",
-        "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/",
-        "https://www.reuters.com/world/asia-pacific/chinas-yuan-hits-3-year-high-stocks-dip-trump-xi-summit-begins-2026-05-14/"
-      ]
-    },
-    {
       "headline": "IMF Team to Visit Ukraine for $8.1 Billion Loan Program Review",
       "summary": "International Monetary Fund staff will visit Ukraine in coming weeks to review progress on economic reforms and tax base expansion under the major loan program.",
       "emoji": "🇺🇦💰",
@@ -455,31 +499,6 @@
       "source": "CNN",
       "url": "https://edition.cnn.com/2026/05/14/europe/russia-winning-streak-ukraine-over-intl-cmd",
       "timestamp": "2026-05-15T06:03:00+03:00"
-    },
-    {
-      "headline": "Saudi Arabia and UAE Carried Out Secret Attacks Inside Iran",
-      "summary": "US officials revealed that Gulf Arab states conducted covert operations in Iran, seeking to deter Iranian aggression after the war exposed limits of American security guarantees. The attacks reflect regional unease about Iranian military capabilities.",
-      "emoji": "🇸🇦",
-      "category": "Middle East",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html",
-      "timestamp": "2026-05-15T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Middle East Eye",
-          "url": "https://www.middleeasteye.net/news/saudi-arabia-floats-non-aggression-pact-iran-and-regional-states-report",
-          "angle": "Saudi Arabia floats non-aggression pact with Iran and regional states",
-          "summary": "The kingdom is modelling its framework on the 1975 Helsinki Accords, seeking to reduce tensions between regional powers as the Iran conflict continues."
-        }
-      ],
-      "sources": [
-        "New York Times",
-        "Middle East Eye"
-      ],
-      "urls": [
-        "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html",
-        "https://www.middleeasteye.net/news/saudi-arabia-floats-non-aggression-pact-iran-and-regional-states-report"
-      ]
     },
     {
       "headline": "China halts US beef export licenses hours after Trump-Xi summit approval",
@@ -3074,49 +3093,6 @@
         "https://www.aljazeera.com/economy/2026/5/12/kevin-warsh-confirmed-to-us-federal-reserve-board-in-close-senate-vote",
         "https://www.scmp.com/news/world/united-states-canada/article/3353326/us-senate-confirms-trump-pick-kevin-warsh-federal-reserve-board"
       ]
-    },
-    {
-      "headline": "Saudi Arabia covertly struck Iran during US-Iran war, sources say",
-      "summary": "Saudi Arabia conducted undisclosed strikes against Iran during the ongoing conflict, marking a shift from its traditional diplomatic stance as regional tensions escalate.",
-      "emoji": "🇸🇦",
-      "category": "US-Iran War",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/middle-east-news/iran/2026-05-12/ty-article/saudi-arabia-covertly-struck-iran-during-war-sources-say/0000019e-1d8e-dccb-abde-7dfe7cd40000",
-      "timestamp": "2026-05-13T00:07:00+03:00"
-    },
-    {
-      "headline": "US Weapons Stockpile Depletion Raises Concerns for Ukraine Aid",
-      "summary": "Weeks of conflict with Iran have depleted critical US weapons stocks, leading European allies to question the viability of American support for Ukraine as the war stretches Pentagon supplies.",
-      "emoji": "🇺🇸🇺🇦",
-      "category": "US-Iran War",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/05/11/us-ukraine-trump-weapons-purl/",
-      "timestamp": "2026-05-13T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Washington Post",
-          "url": "https://www.washingtonpost.com/national-security/2026/05/11/us-ukraine-trump-weapons-purl/",
-          "angle": "US Weapons Stockpiles Depleted by Iran War, Raising Concerns for Ukraine Support",
-          "summary": "As the Iran conflict stretches into its sixth week, US weapons stockpiles have been significantly depleted, raising concerns among European allies about continued military support for Ukraine. Key munitions including Patriot interceptors and artillery shells are running low."
-        }
-      ],
-      "sources": [
-        "Washington Post",
-        "Washington Post"
-      ],
-      "urls": [
-        "https://www.washingtonpost.com/national-security/2026/05/11/us-ukraine-trump-weapons-purl/",
-        "https://www.washingtonpost.com/national-security/2026/05/11/us-ukraine-trump-weapons-purl/"
-      ]
-    },
-    {
-      "headline": "UK pledges jets, drones and warship for Hormuz defence mission",
-      "summary": "The UK announced it will contribute Typhoon jets, mine-hunting drones and HMS Dragon destroyer to a 40-nation mission to secure the Strait of Hormuz. Defence Minister John Healey said the mission would begin when conditions allow, with £115m in new funding.",
-      "emoji": "🇬🇧",
-      "category": "Military",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5y909grldqo",
-      "timestamp": "2026-05-12T23:03:00+03:00"
     }
   ]
 }
