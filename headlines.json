@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-15T08:04:11+03:00",
+  "lastUpdated": "2026-05-15T08:06:29+03:00",
   "headlines": [
+    {
+      "headline": "Macron acknowledges France outpaced in Africa by China, Turkey and US",
+      "summary": "French President Emmanuel Macron acknowledged that France has lost competitive ground in Africa to China, Turkey and the United States, as European influence on the continent continues to decline.",
+      "emoji": "🇫🇷",
+      "category": "Africa",
+      "source": "Anadolu",
+      "url": "https://www.aa.com.tr/en/politics/macron-says-france-outpaced-in-africa-by-china-turkiye-us/3937994",
+      "timestamp": "2026-05-15T08:10:00+03:00"
+    },
     {
       "headline": "Trump warns patience with Iran running thin as diplomacy pressure mounts",
       "summary": "President Donald Trump said he would not be much more patient with Iran as he urged Tehran to reach a deal with Washington, suggesting the focus on enriched uranium retrieval was more about perception than security.",
@@ -17,7 +26,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/solomon-islands-elects-former-china-critic-wale-prime-minister-2026-05-15/",
-      "timestamp": "2026-05-15T08:03:00+03:00"
+      "timestamp": "2026-05-15T08:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/politics/solomon-island-lawmakers-pick-china-cautious-matthew-wale-as-new-pm",
+          "angle": "Solomon Islands Elects China-Cautious Opposition Leader Matthew Wale as PM",
+          "summary": "The Solomon Islands elected Matthew Wale as its new prime minister. Wale has been a critic of the security deal signed with China and has called for it to be made public."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Nikkei Asia"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/solomon-islands-elects-former-china-critic-wale-prime-minister-2026-05-15/",
+        "https://asia.nikkei.com/politics/solomon-island-lawmakers-pick-china-cautious-matthew-wale-as-new-pm"
+      ]
     },
     {
       "headline": "China wants Strait of Hormuz open without restrictions, USTR Greer says",
@@ -26,7 +51,23 @@
       "category": "US-China",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/china-wants-strait-hormuz-open-without-restrictions-ustr-greer-tells-bloomberg-2026-05-15/",
-      "timestamp": "2026-05-15T08:03:00+03:00"
+      "timestamp": "2026-05-15T08:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/trump-xi-iran-war-strait-hormuz-lebanon-israel-peace-talks/",
+          "angle": "Xi and Trump Agree Strait of Hormuz Must Remain Open",
+          "summary": "As Trump and Xi held their Beijing summit, both leaders agreed that the Strait of Hormuz must remain open amid the Iran conflict, while a ship was reported seized near the strategic waterway."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "CBS News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/china-wants-strait-hormuz-open-without-restrictions-ustr-greer-tells-bloomberg-2026-05-15/",
+        "https://www.cbsnews.com/live-updates/trump-xi-iran-war-strait-hormuz-lebanon-israel-peace-talks/"
+      ]
     },
     {
       "headline": "US Justice Department set to drop criminal fraud case against India's Gautam Adani",
@@ -44,7 +85,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/imf-says-constructive-us-china-dialogue-reduced-tensions-good-world-economy-2026-05-14/",
-      "timestamp": "2026-05-15T08:03:00+03:00"
+      "timestamp": "2026-05-15T08:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/imf-says-constructive-us-china-dialogue-reduced-tensions-good-world-economy-2026-05-14/",
+          "angle": "IMF Welcomes US-China Dialogue as 'Good for World Economy'",
+          "summary": "The International Monetary Fund welcomed the initial positive dialogue between Presidents Trump and Xi Jinping, saying that reduced tensions between the world's two largest economies would benefit the global economy amid ongoing trade and geopolitical uncertainties."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/imf-says-constructive-us-china-dialogue-reduced-tensions-good-world-economy-2026-05-14/",
+        "https://www.reuters.com/world/china/imf-says-constructive-us-china-dialogue-reduced-tensions-good-world-economy-2026-05-14/"
+      ]
     },
     {
       "headline": "Latvian Prime Minister Resigns Over Ukrainian Drone Incident Handling",
@@ -141,15 +198,6 @@
       "timestamp": "2026-05-15T06:04:00+03:00"
     },
     {
-      "headline": "Solomon Islands Elects China-Cautious Opposition Leader Matthew Wale as PM",
-      "summary": "The Solomon Islands elected Matthew Wale as its new prime minister. Wale has been a critic of the security deal signed with China and has called for it to be made public.",
-      "emoji": "🇸🇧🇨🇳",
-      "category": "Asia-Pacific",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/solomon-island-lawmakers-pick-china-cautious-matthew-wale-as-new-pm",
-      "timestamp": "2026-05-15T06:04:00+03:00"
-    },
-    {
       "headline": "Trump Blames Biden for US Decline After Xi Comments on Thucydides Trap",
       "summary": "President Trump invoked his predecessor to explain Chinese President Xi Jinping comments suggesting the US is a declining nation, as the two leaders held high-stakes talks in Beijing.",
       "emoji": "🇺🇸🇨🇳",
@@ -202,6 +250,31 @@
       ]
     },
     {
+      "headline": "China halts US beef export licenses hours after Trump-Xi summit approval",
+      "summary": "Chinese customs appeared to halt export clearances for hundreds of US beef plants just hours after Reuters reported the long-awaited licenses had been approved during the Trump-Xi summit in Beijing.",
+      "emoji": "🇨🇳🇺🇸",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/china-renews-licences-hundreds-us-beef-exporters-amid-trump-xi-summit-2026-05-14/",
+      "timestamp": "2026-05-15T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3353616/china-restores-us-beef-trade-amid-trump-xi-summit-alarming-brazilian-exporters",
+          "angle": "China renews US beef import licenses during Trump-Xi summit, alarming Brazilian exporters",
+          "summary": "Beijing renewed import licenses for hundreds of US beef plants during the Trump-Xi summit, a reversal from months of frozen trade. Brazil expressed concern as China is its largest beef market."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "SCMP"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/china-renews-licences-hundreds-us-beef-exporters-amid-trump-xi-summit-2026-05-14/",
+        "https://www.scmp.com/news/china/diplomacy/article/3353616/china-restores-us-beef-trade-amid-trump-xi-summit-alarming-brazilian-exporters"
+      ]
+    },
+    {
       "headline": "Japan wholesale inflation hits 3-year high as Iran war drives energy prices",
       "summary": "Japanese wholesale inflation accelerated at the fastest pace in three years in April as the Iran conflict boosted oil and chemical prices, strengthening the case for a central bank rate hike as soon as June.",
       "emoji": "🇯🇵",
@@ -224,39 +297,6 @@
       "urls": [
         "https://www.reuters.com/world/asia-pacific/japan-april-wholesale-inflation-rate-spikes-rising-import-costs-2026-05-15/",
         "https://www.dailysabah.com/business/economy/turkish-central-bank-ups-year-end-inflation-target-warns-of-war-risks"
-      ]
-    },
-    {
-      "headline": "China halts US beef export licenses hours after Trump-Xi summit approval",
-      "summary": "Chinese customs appeared to halt export clearances for hundreds of US beef plants just hours after Reuters reported the long-awaited licenses had been approved during the Trump-Xi summit in Beijing.",
-      "emoji": "🇨🇳🇺🇸",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/china-renews-licences-hundreds-us-beef-exporters-amid-trump-xi-summit-2026-05-14/",
-      "timestamp": "2026-05-15T05:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/taiwan-no-surprises-trump-xi-summit-china-should-end-military-pressure-2026-05-14/",
-          "angle": "Taiwan responds to Trump-Xi summit: China should end military pressure",
-          "summary": "Taiwan said nothing surprising came from the Trump-Xi summit but called on China to end military pressure on the island, which Taipei views as the real threat to regional peace."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/china-renews-licences-hundreds-us-beef-exporters-amid-trump-xi-summit-2026-05-14/",
-          "angle": "China Halts US Beef Export Licenses Hours After Approving Them",
-          "summary": "Chinese customs appeared to halt export clearances for hundreds of US beef plants just hours after Reuters reported the long-awaited licenses had been approved during the Trump-Xi summit, underscoring ongoing trade tensions."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/china-renews-licences-hundreds-us-beef-exporters-amid-trump-xi-summit-2026-05-14/",
-        "https://www.reuters.com/world/china/taiwan-no-surprises-trump-xi-summit-china-should-end-military-pressure-2026-05-14/",
-        "https://www.reuters.com/world/asia-pacific/china-renews-licences-hundreds-us-beef-exporters-amid-trump-xi-summit-2026-05-14/"
       ]
     },
     {
@@ -404,15 +444,6 @@
         "https://www.baltimoresun.com/2026/05/14/hungary-summons-russian-ambassador/",
         "https://kyivindependent.com/after-unprecedented-attack-on-ukraines-neighboring-zakarpattia-oblast-hungarys-pm-to-summon-russian-ambassador/"
       ]
-    },
-    {
-      "headline": "UN humanitarian convoy hit by drone strikes in Ukraine's Kherson",
-      "summary": "A UN aid convoy delivering humanitarian assistance to Kherson was struck by drone attacks, highlighting the dangers faced by relief operations in conflict zones.",
-      "emoji": "🇺🇳",
-      "category": "Ukraine-Russia War",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/un-aid-convoy-hit-by-drone-strikes-in-ukraines-kherson",
-      "timestamp": "2026-05-15T03:03:00+03:00"
     },
     {
       "headline": "Iran urges BRICS to condemn US and Israel, Indian-flagged vessel sunk",
@@ -604,6 +635,31 @@
       "timestamp": "2026-05-15T00:05:00+03:00"
     },
     {
+      "headline": "Nvidia CEO hopes Trump-Xi meeting will improve US-China ties",
+      "summary": "Jensen Huang told Chinese state broadcaster CCTV he hopes the Beijing summit will build on the good relationship between the two leaders to improve bilateral relations.",
+      "emoji": "💻",
+      "category": "Technology",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/nvidia-ceo-hopes-trump-xi-will-improve-two-way-ties-cctv-says-2026-05-14/",
+      "timestamp": "2026-05-15T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/anthropic-urges-tough-chip-controls-as-nvidia-ceo-joins-trump-in-china",
+          "angle": "Anthropic calls for tighter AI chip export controls as Nvidia CEO joins Trump in Beijing",
+          "summary": "AI company Anthropic released a paper urging the US and allies to maintain chip export restrictions to prevent authoritarian governments from gaining AI leadership, timing the release during US-China summit talks."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Nikkei Asia"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/nvidia-ceo-hopes-trump-xi-will-improve-two-way-ties-cctv-says-2026-05-14/",
+        "https://asia.nikkei.com/business/technology/artificial-intelligence/anthropic-urges-tough-chip-controls-as-nvidia-ceo-joins-trump-in-china"
+      ]
+    },
+    {
       "headline": "Lebanon demands Israel cease-fire at Washington talks",
       "summary": "Lebanese officials are pressing for an immediate cease-fire in face-to-face talks with Israel in Washington, as Hezbollah and Israel continue trading blows despite a US-backed truce declared last month.",
       "emoji": "🇱🇧",
@@ -635,15 +691,6 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/chinas-xi-expressed-interest-buying-us-oil-says-white-house-2026-05-14/",
-      "timestamp": "2026-05-15T00:03:00+03:00"
-    },
-    {
-      "headline": "Nvidia CEO hopes Trump-Xi meeting will improve US-China ties",
-      "summary": "Jensen Huang told Chinese state broadcaster CCTV he hopes the Beijing summit will build on the good relationship between the two leaders to improve bilateral relations.",
-      "emoji": "💻",
-      "category": "Technology",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/nvidia-ceo-hopes-trump-xi-will-improve-two-way-ties-cctv-says-2026-05-14/",
       "timestamp": "2026-05-15T00:03:00+03:00"
     },
     {
@@ -695,15 +742,6 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/uk/pound-dips-political-crisis-engulfs-britain-2026-05-14/",
-      "timestamp": "2026-05-14T23:03:00+03:00"
-    },
-    {
-      "headline": "IMF Welcomes US-China Dialogue as 'Good for World Economy'",
-      "summary": "The International Monetary Fund welcomed the initial positive dialogue between Presidents Trump and Xi Jinping, saying that reduced tensions between the world's two largest economies would benefit the global economy amid ongoing trade and geopolitical uncertainties.",
-      "emoji": "🌐",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/imf-says-constructive-us-china-dialogue-reduced-tensions-good-world-economy-2026-05-14/",
       "timestamp": "2026-05-14T23:03:00+03:00"
     },
     {
@@ -861,13 +899,45 @@
       "timestamp": "2026-05-14T21:03:00+03:00"
     },
     {
-      "headline": "Xi and Trump Agree Strait of Hormuz Must Remain Open",
-      "summary": "As Trump and Xi held their Beijing summit, both leaders agreed that the Strait of Hormuz must remain open amid the Iran conflict, while a ship was reported seized near the strategic waterway.",
-      "emoji": "🇨🇳🛢️",
-      "category": "US-China",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/trump-xi-iran-war-strait-hormuz-lebanon-israel-peace-talks/",
-      "timestamp": "2026-05-14T21:03:00+03:00"
+      "headline": "Russia Launches Largest Drone Attack of War on Ukraine",
+      "summary": "Russia carried out its largest aerial attack over a two-day period since the war began, pounding Kyiv with hundreds of drones. An apartment building was flattened, killing at least 7 civilians as strikes continued for a third straight day.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-2026-05-14/",
+      "timestamp": "2026-05-14T20:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-oil-refinery-military-airfield-in-multiple-russian-regions/",
+          "angle": "Major fire at Ryazan refinery as Ukraine launches large-scale drone strikes on Russia",
+          "summary": "Ukrainian forces carried out a major drone attack on Russian energy infrastructure, with a large fire erupting at the Ryazan oil refinery. Local reports indicate casualties and damage to residential buildings from drone debris."
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/un-aid-convoy-hit-by-drone-strikes-in-ukraines-kherson",
+          "angle": "UN humanitarian convoy hit by drone strikes in Ukraine's Kherson",
+          "summary": "A UN aid convoy delivering humanitarian assistance to Kherson was struck by drone attacks, highlighting the dangers faced by relief operations in conflict zones."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/ukraine-says-it-struck-russian-oil-gas-infrastructure-2026-05-13/",
+          "angle": "Ukraine strikes Russian oil terminal, refinery and gas plant",
+          "summary": "Ukraine resumed attacks on Russian energy infrastructure after a short-lived ceasefire, hitting an oil terminal, refinery and gas processing plant in response to Russia's massive drone assault that killed six civilians in western Ukraine."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Kyiv Independent",
+        "Al Jazeera",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-2026-05-14/",
+        "https://kyivindependent.com/ukrainian-drones-reportedly-strike-oil-refinery-military-airfield-in-multiple-russian-regions/",
+        "https://www.aljazeera.com/video/newsfeed/2026/5/14/un-aid-convoy-hit-by-drone-strikes-in-ukraines-kherson",
+        "https://www.reuters.com/business/energy/ukraine-says-it-struck-russian-oil-gas-infrastructure-2026-05-13/"
+      ]
     },
     {
       "headline": "Ship Seized Near Strait of Hormuz as Tensions Escalate",
@@ -892,31 +962,6 @@
       "urls": [
         "https://apnews.com/article/iran-us-israel-war-oil-hormuz-may-14-2026-efb53c39ee6334733e1cb22ca4a6c279",
         "https://thehill.com/policy/international/strait-of-hormuz-iran-ship-seized-another-sunk/"
-      ]
-    },
-    {
-      "headline": "Russia Launches Largest Drone Attack of War on Ukraine",
-      "summary": "Russia carried out its largest aerial attack over a two-day period since the war began, pounding Kyiv with hundreds of drones. An apartment building was flattened, killing at least 7 civilians as strikes continued for a third straight day.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-2026-05-14/",
-      "timestamp": "2026-05-14T20:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/05/14/world/europe/ukraine-strike-kyiv-russia-putin.html",
-          "angle": "Russia Launches Largest Drone Attack of the War on Kyiv",
-          "summary": "Russia fired hundreds of drones at Kyiv in what officials call the largest aerial assault since the invasion began, flattening residential buildings and killing at least 10 people across Ukraine."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "New York Times"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-2026-05-14/",
-        "https://www.nytimes.com/2026/05/14/world/europe/ukraine-strike-kyiv-russia-putin.html"
       ]
     },
     {
@@ -1135,6 +1180,31 @@
       "timestamp": "2026-05-14T16:03:00+03:00"
     },
     {
+      "headline": "Putin to visit China soon as Russia deepens ties amid Iran war",
+      "summary": "Russian President Vladimir Putin will visit China very soon, the Kremlin said, as preparations for the trip are already complete amid ongoing global tensions over the Iran conflict.",
+      "emoji": "🇷🇺",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/putin-visit-china-will-take-place-very-soon-kremlin-says-2026-05-14/",
+      "timestamp": "2026-05-14T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al-Monitor",
+          "url": "https://www.al-monitor.com/originals/2026/05/indian-pm-seeks-trade-energy-stability-uae-europe-tour",
+          "angle": "India PM Modi begins five-nation tour seeking energy stability amid Iran war disruptions",
+          "summary": "Indian Prime Minister Narendra Modi started a diplomatic tour to UAE, Netherlands, Sweden, Norway and Italy to secure energy supplies and strengthen trade ties following the India-EU free trade agreement. The trip underscores India's efforts to diversify partnerships amid Middle East volatility."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Al-Monitor"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/putin-visit-china-will-take-place-very-soon-kremlin-says-2026-05-14/",
+        "https://www.al-monitor.com/originals/2026/05/indian-pm-seeks-trade-energy-stability-uae-europe-tour"
+      ]
+    },
+    {
       "headline": "Zelenskiy ex-chief of staff arrested in widening Ukraine corruption probe",
       "summary": "Ukrainian President Zelenskiy's former right-hand man was taken into custody on money-laundering charges, part of a fight against graft that is fuelling wartime political tensions.",
       "emoji": "⚖️",
@@ -1216,15 +1286,6 @@
         "https://www.cbsnews.com/live-updates/iran-war-us-trump-china-xi-summit-ceasefire-peace-talks-stalled/",
         "https://www.reuters.com/world/middle-east/iran-now-defines-strait-hormuz-far-larger-zone-irgc-officer-says-2026-05-12/"
       ]
-    },
-    {
-      "headline": "Putin to visit China soon as Russia deepens ties amid Iran war",
-      "summary": "Russian President Vladimir Putin will visit China very soon, the Kremlin said, as preparations for the trip are already complete amid ongoing global tensions over the Iran conflict.",
-      "emoji": "🇷🇺",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/putin-visit-china-will-take-place-very-soon-kremlin-says-2026-05-14/",
-      "timestamp": "2026-05-14T15:03:00+03:00"
     },
     {
       "headline": "Europe Fears Putin May Exploit US Distraction in Middle East",
@@ -1546,31 +1607,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/economy/china-economy/article/3346617/does-iran-have-yuan-hormuz-oil-trade-plan-why-analysts-china-are-urging-caution",
       "timestamp": "2026-05-14T06:07:00+03:00"
-    },
-    {
-      "headline": "Ukraine strikes Russian oil terminal, refinery and gas plant",
-      "summary": "Ukraine resumed attacks on Russian energy infrastructure after a short-lived ceasefire, hitting an oil terminal, refinery and gas processing plant in response to Russia's massive drone assault that killed six civilians in western Ukraine.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/ukraine-says-it-struck-russian-oil-gas-infrastructure-2026-05-13/",
-      "timestamp": "2026-05-14T06:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/ukraine-war-latest-137/",
-          "angle": "Ukraine Strikes Three Major Russian Energy Facilities Overnight",
-          "summary": "Ukrainian forces targeted key Russian energy infrastructure in overnight operations, continuing their campaign against Russian oil refining capabilities as the war enters a new phase."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/ukraine-says-it-struck-russian-oil-gas-infrastructure-2026-05-13/",
-        "https://kyivindependent.com/ukraine-war-latest-137/"
-      ]
     },
     {
       "headline": "Switzerland eyes rival air defenses after US delays Patriot delivery",
@@ -3012,31 +3048,6 @@
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cvgz9k7pzggo",
       "timestamp": "2026-05-12T21:03:00+03:00"
-    },
-    {
-      "headline": "Sweden Detains Two for Helping Russia Evade Sanctions with High-Tech Shipments",
-      "summary": "Swedish Security Service arrested two suspects, a Swedish and Turkish national, for violating EU sanctions by allegedly facilitating advanced technology shipments to Russia that could aid its war in Ukraine.",
-      "emoji": "🇸🇪",
-      "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/sweden-detains-two-suspects-over-allegedly-aiding-high-tech-shipments-to-russia/",
-      "timestamp": "2026-05-12T20:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/sweden-detains-two-suspects-over-allegedly-aiding-high-tech-shipments-to-russia/",
-          "angle": "Sweden Detains Two Suspects Over Allegedly Aiding High-Tech Shipments to Russia",
-          "summary": "Swedish authorities have detained two people on suspicion of violating international sanctions by helping Russia procure advanced products, marking an escalation in enforcement of export controls."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://kyivindependent.com/sweden-detains-two-suspects-over-allegedly-aiding-high-tech-shipments-to-russia/",
-        "https://kyivindependent.com/sweden-detains-two-suspects-over-allegedly-aiding-high-tech-shipments-to-russia/"
-      ]
     }
   ]
 }
