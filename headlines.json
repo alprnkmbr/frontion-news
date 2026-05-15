@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-15T16:05:10+03:00",
+  "lastUpdated": "2026-05-15T16:08:31+03:00",
   "headlines": [
     {
-      "headline": "Russia-Ukraine Exchange 205 POWs Each as Kyiv Mourns 24 Dead in Apartment Strike",
-      "summary": "Russia and Ukraine carried out their largest prisoner swap of the war, exchanging 205 prisoners each, while rescue workers ended the search for victims of a Russian missile strike on a Kyiv apartment building that killed 24 people including three teenagers.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c5y049w8nqwo",
-      "timestamp": "2026-05-15T16:03:00+03:00"
+      "headline": "Iran says Pakistan mediation with US at impasse over uranium enrichment",
+      "summary": "Iranian Foreign Minister Abbas Araghchi stated that Pakistan-mediated talks with the US face deadlock over the enriched uranium issue, while welcoming potential Chinese diplomatic involvement.",
+      "emoji": "🇮🇷",
+      "category": "Diplomacy",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/us-israel-iran-war/pakistan-mediation-with-us-in-difficult-course-deadlock-remains-over-enriched-uranium-issue-iranian-top-diplomat/3938675",
+      "timestamp": "2026-05-15T16:05:00+03:00"
+    },
+    {
+      "headline": "UN agencies warn Somalia faces renewed famine risk as hunger crisis deepens",
+      "summary": "Nearly 6 million people face acute food insecurity in Somalia with famine risk emerging in the southwest, as UN agencies call for urgent international assistance.",
+      "emoji": "🌍",
+      "category": "Africa",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/africa/un-agencies-warn-somalia-at-risk-of-renewed-famine-as-hunger-crisis-deepens/3938671",
+      "timestamp": "2026-05-15T16:05:00+03:00"
+    },
+    {
+      "headline": "Ukraine races to deploy AI-powered drone swarms to counter Russian manpower advantage",
+      "summary": "Ukrainian defense industry is advancing swarm drone technology that would allow few operators to deploy dozens or hundreds of autonomous attack craft, though mass battlefield deployment remains years away.",
+      "emoji": "🚁",
+      "category": "Defense Industry",
+      "source": "Kyiv Post",
+      "url": "https://www.kyivpost.com/post/76223",
+      "timestamp": "2026-05-15T16:05:00+03:00"
+    },
+    {
+      "headline": "UAE failed to convince Gulf states to join coordinated military response against Iran",
+      "summary": "Bloomberg reports UAE President MBZ attempted to persuade Saudi Arabia, Qatar and other Gulf states to retaliate collectively against Iran, but was told the conflict wasnt their war.",
+      "emoji": "🇦🇪",
+      "category": "Middle East",
+      "source": "Kyiv Post",
+      "url": "https://www.kyivpost.com/post/76221",
+      "timestamp": "2026-05-15T16:05:00+03:00"
+    },
+    {
+      "headline": "Philippine Senate plunged into chaos during attempt to arrest ICC-wanted senator",
+      "summary": "Gunshots erupted in the Philippine Senate during an attempt to arrest Senator Ronald dela Rosa, wanted by the International Criminal Court, as the countrys political crisis deepens.",
+      "emoji": "🇵🇭",
+      "category": "Asia-Pacific",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3353656/i-got-really-scared-how-philippine-senate-shoot-out-unfolded",
+      "timestamp": "2026-05-15T16:05:00+03:00"
     },
     {
       "headline": "Japan Economy Expected to Grow for Second Quarter Despite Iran War Shadow",
@@ -26,7 +62,23 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/gazproms-astrakhan-gas-plant-halted-motor-fuel-output-after-may-13-drone-attack-2026-05-14/",
-      "timestamp": "2026-05-15T16:03:00+03:00"
+      "timestamp": "2026-05-15T16:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/gazproms-astrakhan-gas-plant-halted-motor-fuel-output-after-may-13-drone-attack-2026-05-14/",
+          "angle": "Gazprom halts fuel output at Russian plant after drone strike",
+          "summary": "Gazproms Astrakhan gas processing plant stopped motor fuel production following a fire from a May 13 drone attack, highlighting the reach of aerial warfare into Russian energy infrastructure."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/gazproms-astrakhan-gas-plant-halted-motor-fuel-output-after-may-13-drone-attack-2026-05-14/",
+        "https://www.reuters.com/world/gazproms-astrakhan-gas-plant-halted-motor-fuel-output-after-may-13-drone-attack-2026-05-14/"
+      ]
     },
     {
       "headline": "Iraqi Parliament Approves Partial Government Under New PM Zaidi",
@@ -225,7 +277,31 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/russia-ukraine-swap-205-prisoners-war-each-2026-05-15/",
-      "timestamp": "2026-05-15T13:03:00+03:00"
+      "timestamp": "2026-05-15T13:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c5y049w8nqwo",
+          "angle": "Russia-Ukraine Exchange 205 POWs Each as Kyiv Mourns 24 Dead in Apartment Strike",
+          "summary": "Russia and Ukraine carried out their largest prisoner swap of the war, exchanging 205 prisoners each, while rescue workers ended the search for victims of a Russian missile strike on a Kyiv apartment building that killed 24 people including three teenagers."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/zelenskiy-condemns-russia-after-strike-kyiv-apartment-bloc-kills-24-2026-05-15/",
+          "angle": "Zelenskiy Condemns Russia After Kyiv Apartment Strike Kills 24",
+          "summary": "President Zelenskiy called for Moscow to be punished after visiting the rubble of a Kyiv apartment building where a Russian missile strike killed 24 people including three children."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/russia-ukraine-swap-205-prisoners-war-each-2026-05-15/",
+        "https://www.bbc.co.uk/news/articles/c5y049w8nqwo",
+        "https://www.reuters.com/world/europe/zelenskiy-condemns-russia-after-strike-kyiv-apartment-bloc-kills-24-2026-05-15/"
+      ]
     },
     {
       "headline": "Ukrainian Drone Strike Kills Four in Russian City of Ryazan",
@@ -287,31 +363,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/uae-accelerate-oil-pipeline-project-help-bypass-hormuz-2026-05-15/",
       "timestamp": "2026-05-15T12:03:00+03:00"
-    },
-    {
-      "headline": "Zelenskiy Condemns Russia After Kyiv Apartment Strike Kills 24",
-      "summary": "President Zelenskiy called for Moscow to be punished after visiting the rubble of a Kyiv apartment building where a Russian missile strike killed 24 people including three children.",
-      "emoji": "🇺🇦⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/zelenskiy-condemns-russia-after-strike-kyiv-apartment-bloc-kills-24-2026-05-15/",
-      "timestamp": "2026-05-15T12:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/russia-attacks-ukraine-kyiv-third-day-2026-05-14/",
-          "angle": "Russia Pounds Ukraine for Third Day, Kyiv Apartment Block Flattened",
-          "summary": "Russia unleashed a third straight day of massive drone and missile attacks on Ukraine, demolishing an apartment building in Kyiv and killing at least seven people as the assault on the capital intensifies."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/zelenskiy-condemns-russia-after-strike-kyiv-apartment-bloc-kills-24-2026-05-15/",
-        "https://www.reuters.com/world/europe/russia-attacks-ukraine-kyiv-third-day-2026-05-14/"
-      ]
     },
     {
       "headline": "Global Bonds Tumble as Inflation Fears Mount from Iran War Fallout",
@@ -984,15 +1035,6 @@
         "https://www.reuters.com/business/energy/india-asks-us-russian-oil-waiver-extension-iran-war-bloomberg-news-reports-2026-05-14/",
         "https://www.reuters.com/business/energy/india-asks-us-russian-oil-waiver-extension-iran-war-drags-bloomberg-news-reports-2026-05-14/"
       ]
-    },
-    {
-      "headline": "Gazprom halts fuel output at Russian plant after drone strike",
-      "summary": "Gazproms Astrakhan gas processing plant stopped motor fuel production following a fire from a May 13 drone attack, highlighting the reach of aerial warfare into Russian energy infrastructure.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/gazproms-astrakhan-gas-plant-halted-motor-fuel-output-after-may-13-drone-attack-2026-05-14/",
-      "timestamp": "2026-05-15T02:05:00+03:00"
     },
     {
       "headline": "Pope Leo criticizes surge in European military spending as diplomacy betrayal",
@@ -2898,40 +2940,6 @@
       "urls": [
         "https://kyivindependent.com/eu-defense-industry-frustration/",
         "https://kyivindependent.com/eu-defense-industry-frustration/"
-      ]
-    },
-    {
-      "headline": "Major fire breaks out at Moscow tourist complex",
-      "summary": "A massive fire exceeding 3,000 square meters engulfed the Izmailovo Kremlin cultural and entertainment complex in eastern Moscow overnight, with the cause unclear.",
-      "emoji": "🔥",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/major-fire-reportedly-breaks-out-at-tourist-complex-in-moscow/",
-      "timestamp": "2026-05-13T06:07:00+03:00"
-    },
-    {
-      "headline": "UK affirms Ukraine support amid domestic political turmoil",
-      "summary": "UK Europe Minister Stephen Doughty assured continued British backing for Ukraine despite Labour Party losses in local elections and pressure on PM Starmer.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/uk-resolutely-behind-ukraine-minister-tells-kyiv-independent/",
-      "timestamp": "2026-05-13T06:07:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/uk-resolutely-behind-ukraine-minister-tells-kyiv-independent/",
-          "angle": "UK Minister Vows Continued Support for Ukraine Despite Domestic Political Turmoil",
-          "summary": "Europe Minister Stephen Doughty told the Kyiv Independent that Britain remains \"resolutely behind Ukraine\" even as Prime Minister Keir Starmer faces calls to resign after Labour losses in local elections."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://kyivindependent.com/uk-resolutely-behind-ukraine-minister-tells-kyiv-independent/",
-        "https://kyivindependent.com/uk-resolutely-behind-ukraine-minister-tells-kyiv-independent/"
       ]
     }
   ]
