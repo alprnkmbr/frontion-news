@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-15T12:06:00+03:00",
+  "lastUpdated": "2026-05-15T12:07:47+03:00",
   "headlines": [
+    {
+      "headline": "Turkey and Kazakhstan Deepen Middle Corridor Cooperation",
+      "summary": "President Erdogan oversaw the signing of new agreements during a visit to Kazakhstan, expanding the Middle Corridor trade route that bypasses Russian territory. The move strengthens Turkey's role as a logistics hub connecting Asia and Europe.",
+      "emoji": "🇹🇷🇰🇿",
+      "category": "Diplomacy",
+      "source": "Daily Sabah",
+      "url": "https://www.dailysabah.com/politics/diplomacy/turkiye-aims-for-middle-corridor-benefits-with-kazakhstan",
+      "timestamp": "2026-05-15T12:00:00+03:00"
+    },
+    {
+      "headline": "Asian Markets Uneven as Trump-Xi Summit Overshadowed by Hormuz Crisis",
+      "summary": "Stock markets across Asia showed mixed performance as investors assessed the outcome of the Trump-Xi summit. The closure of the Strait of Hormuz due to the Iran conflict has sent global energy prices soaring, weighing on market sentiment.",
+      "emoji": "📈🇨🇳",
+      "category": "Economy",
+      "source": "Channel News Asia",
+      "url": "https://www.channelnewsasia.com/business/asian-stocks-market-uneven-high-stakes-trump-xi-talks-ai-rally-6120396",
+      "timestamp": "2026-05-15T12:00:00+03:00"
+    },
+    {
+      "headline": "John Bolton: Iran is Europe's War Too",
+      "summary": "Former US National Security Adviser John Bolton criticized European nations like Spain for staying out of the Iran conflict, arguing that the war directly affects European security and energy interests.",
+      "emoji": "🇪🇺🇮🇷",
+      "category": "Europe",
+      "source": "Politico EU",
+      "url": "https://www.politico.eu/article/iran-europe-war-us-national-security-adviser-john-bolton/",
+      "timestamp": "2026-05-15T12:00:00+03:00"
+    },
+    {
+      "headline": "Korean Peninsula Sidelined at US-China Summit",
+      "summary": "The Korean Peninsula was conspicuously absent from the Trump-Xi summit agenda, signaling Pyongyang's diminishing priority as the US focuses on Iran and trade disputes. Analysts note the shift reflects changing global priorities.",
+      "emoji": "🇰🇷🇰🇵",
+      "category": "Asia-Pacific",
+      "source": "Korea Times",
+      "url": "https://www.koreatimes.co.kr/foreignaffairs/20260515/korean-peninsula-sidelined-at-us-china-summit-signaling-pyongyangs-shrinking-place-on-global-agenda",
+      "timestamp": "2026-05-15T12:00:00+03:00"
+    },
+    {
+      "headline": "Analysis: Iran's Future and Its Impact on the South Caucasus",
+      "summary": "A new analysis examines three scenarios for Iran's future and how each would affect the strategic landscape of the South Caucasus. Iran borders both Central Asia and the Caucasus, making its stability crucial for regional powers including Armenia, Azerbaijan, and Russia.",
+      "emoji": "🇦🇲🇦🇿",
+      "category": "Geopolitics",
+      "source": "Armenian Weekly",
+      "url": "https://armenianweekly.com/2026/05/14/a-three-scenario-analysis-of-irans-future-and-its-impact-on-the-south-caucasus/",
+      "timestamp": "2026-05-15T12:00:00+03:00"
+    },
     {
       "headline": "UAE Accelerates Pipeline to Double Oil Exports Bypassing Hormuz",
       "summary": "The UAE announced it will accelerate construction of a new oil pipeline to double export capacity through Fujairah by 2027, significantly expanding its ability to bypass the Strait of Hormuz amid Iran tensions.",
@@ -17,7 +62,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/zelenskiy-condemns-russia-after-strike-kyiv-apartment-bloc-kills-24-2026-05-15/",
-      "timestamp": "2026-05-15T12:03:00+03:00"
+      "timestamp": "2026-05-15T12:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/russia-attacks-ukraine-kyiv-third-day-2026-05-14/",
+          "angle": "Russia Pounds Ukraine for Third Day, Kyiv Apartment Block Flattened",
+          "summary": "Russia unleashed a third straight day of massive drone and missile attacks on Ukraine, demolishing an apartment building in Kyiv and killing at least seven people as the assault on the capital intensifies."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/zelenskiy-condemns-russia-after-strike-kyiv-apartment-bloc-kills-24-2026-05-15/",
+        "https://www.reuters.com/world/europe/russia-attacks-ukraine-kyiv-third-day-2026-05-14/"
+      ]
     },
     {
       "headline": "Global Bonds Tumble as Inflation Fears Mount from Iran War Fallout",
@@ -26,16 +87,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/global-bonds-tumble-flaring-inflation-spooks-investors-2026-05-15/",
-      "timestamp": "2026-05-15T12:03:00+03:00"
-    },
-    {
-      "headline": "Russia and Ukraine Exchange 205 Prisoners of War Each",
-      "summary": "Russia and Ukraine swapped 205 prisoners of war each, a week after Trump announced a large swap would take place between the warring sides.",
-      "emoji": "🇺🇦🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "France24",
-      "url": "https://www.france24.com/en/live-news/20260515-russia-ukraine-swap-205-prisoners-of-war-each",
-      "timestamp": "2026-05-15T12:03:00+03:00"
+      "timestamp": "2026-05-15T12:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/commentary/reuters-open-interest/russias-juiced-up-energy-exports-cushion-blow-iran-war-fallout-2026-05-14/",
+          "angle": "Russia ramps up energy exports to cushion global markets from Iran war fallout",
+          "summary": "Despite sanctions, Russia is playing a key role cushioning global commodity markets from the Iran war impact, increasing energy exports to stabilize markets amid Middle East supply disruptions."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/global-bonds-tumble-flaring-inflation-spooks-investors-2026-05-15/",
+        "https://www.reuters.com/commentary/reuters-open-interest/russias-juiced-up-energy-exports-cushion-blow-iran-war-fallout-2026-05-14/"
+      ]
     },
     {
       "headline": "IMF Staff to Visit Ukraine for $8.1 Billion Loan Review",
@@ -44,7 +112,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/imf-staff-heading-ukraine-review-81-billion-loan-program-coming-weeks-2026-05-14/",
-      "timestamp": "2026-05-15T12:03:00+03:00"
+      "timestamp": "2026-05-15T12:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/imf-staff-heading-ukraine-review-81-billion-loan-program-coming-weeks-2026-05-14/",
+          "angle": "IMF Team to Review Ukraine's $8.1 Billion Loan Program",
+          "summary": "International Monetary Fund staff will visit Ukraine in coming weeks to assess reform progress and tax base expansion under the wartime loan program."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/imf-staff-heading-ukraine-review-81-billion-loan-program-coming-weeks-2026-05-14/",
+        "https://www.reuters.com/business/imf-staff-heading-ukraine-review-81-billion-loan-program-coming-weeks-2026-05-14/"
+      ]
     },
     {
       "headline": "Finland Reopens Helsinki Airport After Drone Alert",
@@ -267,47 +351,6 @@
       "urls": [
         "https://www.reuters.com/world/middle-east/oil-rises-fears-ship-attacks-seizures-persist-2026-05-15/",
         "https://www.scmp.com/economy/china-economy/article/3346617/does-iran-have-yuan-hormuz-oil-trade-plan-why-analysts-china-are-urging-caution"
-      ]
-    },
-    {
-      "headline": "Russia ramps up energy exports to cushion global markets from Iran war fallout",
-      "summary": "Despite sanctions, Russia is playing a key role cushioning global commodity markets from the Iran war impact, increasing energy exports to stabilize markets amid Middle East supply disruptions.",
-      "emoji": "🇷🇺",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/russias-juiced-up-energy-exports-cushion-blow-iran-war-fallout-2026-05-14/",
-      "timestamp": "2026-05-15T09:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/japan-april-wholesale-inflation-rate-spikes-rising-import-costs-2026-05-15/",
-          "angle": "Japan wholesale inflation hits 3-year high as Iran war drives energy prices",
-          "summary": "Japanese wholesale inflation accelerated at the fastest pace in three years in April as the Iran conflict boosted oil and chemical prices, strengthening the case for a central bank rate hike as soon as June."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/commentary/reuters-open-interest/russias-juiced-up-energy-exports-cushion-blow-iran-war-fallout-2026-05-14/",
-          "angle": "Russia Boosts Energy Exports to Cushion Global Markets from Iran War Fallout",
-          "summary": "Despite sanctions and isolation, Russia has increased energy exports to help stabilize global commodity markets disrupted by the Iran war and collapse of Middle Eastern energy shipments."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/gold-edges-up-weaker-dollar-ahead-trump-xi-talks-2026-05-14/",
-          "angle": "Gold rises as markets watch Trump-Xi talks and Iran war",
-          "summary": "Gold prices ticked up on Thursday, supported by a weaker dollar, as investors focused on talks between Trump and Xi Jinping and looked for signs of progress in the Iran war."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/commentary/reuters-open-interest/russias-juiced-up-energy-exports-cushion-blow-iran-war-fallout-2026-05-14/",
-        "https://www.reuters.com/world/asia-pacific/japan-april-wholesale-inflation-rate-spikes-rising-import-costs-2026-05-15/",
-        "https://www.reuters.com/commentary/reuters-open-interest/russias-juiced-up-energy-exports-cushion-blow-iran-war-fallout-2026-05-14/",
-        "https://www.reuters.com/business/gold-edges-up-weaker-dollar-ahead-trump-xi-talks-2026-05-14/"
       ]
     },
     {
@@ -1091,15 +1134,6 @@
       "timestamp": "2026-05-14T21:03:00+03:00"
     },
     {
-      "headline": "Russia Pounds Ukraine for Third Day, Kyiv Apartment Block Flattened",
-      "summary": "Russia unleashed a third straight day of massive drone and missile attacks on Ukraine, demolishing an apartment building in Kyiv and killing at least seven people as the assault on the capital intensifies.",
-      "emoji": "🇺🇦⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/russia-attacks-ukraine-kyiv-third-day-2026-05-14/",
-      "timestamp": "2026-05-14T21:03:00+03:00"
-    },
-    {
       "headline": "Russia Launches Largest Drone Attack of War on Ukraine",
       "summary": "Russia carried out its largest aerial attack over a two-day period since the war began, pounding Kyiv with hundreds of drones. An apartment building was flattened, killing at least 7 civilians as strikes continued for a third straight day.",
       "emoji": "🇺🇦",
@@ -1109,35 +1143,19 @@
       "timestamp": "2026-05-14T20:05:00+03:00",
       "perspectives": [
         {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/ukrainian-drones-reportedly-strike-oil-refinery-military-airfield-in-multiple-russian-regions/",
-          "angle": "Major fire at Ryazan refinery as Ukraine launches large-scale drone strikes on Russia",
-          "summary": "Ukrainian forces carried out a major drone attack on Russian energy infrastructure, with a large fire erupting at the Ryazan oil refinery. Local reports indicate casualties and damage to residential buildings from drone debris."
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/5/14/un-aid-convoy-hit-by-drone-strikes-in-ukraines-kherson",
-          "angle": "UN humanitarian convoy hit by drone strikes in Ukraine's Kherson",
-          "summary": "A UN aid convoy delivering humanitarian assistance to Kherson was struck by drone attacks, highlighting the dangers faced by relief operations in conflict zones."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/ukraine-says-it-struck-russian-oil-gas-infrastructure-2026-05-13/",
-          "angle": "Ukraine strikes Russian oil terminal, refinery and gas plant",
-          "summary": "Ukraine resumed attacks on Russian energy infrastructure after a short-lived ceasefire, hitting an oil terminal, refinery and gas processing plant in response to Russia's massive drone assault that killed six civilians in western Ukraine."
+          "source": "France24",
+          "url": "https://www.france24.com/en/live-news/20260515-russia-ukraine-swap-205-prisoners-of-war-each",
+          "angle": "Russia and Ukraine Exchange 205 Prisoners of War Each",
+          "summary": "Russia and Ukraine swapped 205 prisoners of war each, a week after Trump announced a large swap would take place between the warring sides."
         }
       ],
       "sources": [
         "Reuters",
-        "Kyiv Independent",
-        "Al Jazeera",
-        "Reuters"
+        "France24"
       ],
       "urls": [
         "https://www.reuters.com/world/europe/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-2026-05-14/",
-        "https://kyivindependent.com/ukrainian-drones-reportedly-strike-oil-refinery-military-airfield-in-multiple-russian-regions/",
-        "https://www.aljazeera.com/video/newsfeed/2026/5/14/un-aid-convoy-hit-by-drone-strikes-in-ukraines-kherson",
-        "https://www.reuters.com/business/energy/ukraine-says-it-struck-russian-oil-gas-infrastructure-2026-05-13/"
+        "https://www.france24.com/en/live-news/20260515-russia-ukraine-swap-205-prisoners-of-war-each"
       ]
     },
     {
@@ -1232,15 +1250,6 @@
         "https://www.reuters.com/world/us/fed-chair-nominee-warsh-set-get-us-senate-nod-inflation-intensifies-2026-05-13/",
         "https://www.reuters.com/business/quote-box-warsh-wins-confirmation-fed-chair-with-inflation-march-2026-05-13/"
       ]
-    },
-    {
-      "headline": "IMF Team to Review Ukraine's $8.1 Billion Loan Program",
-      "summary": "International Monetary Fund staff will visit Ukraine in coming weeks to assess reform progress and tax base expansion under the wartime loan program.",
-      "emoji": "💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/imf-staff-heading-ukraine-review-81-billion-loan-program-coming-weeks-2026-05-14/",
-      "timestamp": "2026-05-14T19:20:00+03:00"
     },
     {
       "headline": "Yemen government and Houthis exchange over 1,600 prisoners in largest swap of conflict",
@@ -3067,31 +3076,6 @@
       "urls": [
         "https://www.aljazeera.com/news/2026/5/12/israel-sent-iron-dome-anti-missile-batteries-and-personnel-to-uae-us-envoy",
         "https://www.npr.org/2026/05/12/nx-s1-5819174/israel-sent-iron-dome-uae"
-      ]
-    },
-    {
-      "headline": "Kevin Warsh Confirmed to Federal Reserve Board in Close Senate Vote",
-      "summary": "The US Senate confirmed Kevin Warsh to the Federal Reserve Board in a narrow vote, with Democratic Senator John Fetterman joining Republicans to advance the nomination.",
-      "emoji": "🇺🇸",
-      "category": "US Politics",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/12/kevin-warsh-confirmed-to-us-federal-reserve-board-in-close-senate-vote",
-      "timestamp": "2026-05-13T01:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3353326/us-senate-confirms-trump-pick-kevin-warsh-federal-reserve-board",
-          "angle": "US Senate Confirms Kevin Warsh to Federal Reserve Board, Set to Replace Powell as Chair",
-          "summary": "The Senate confirmed Trump's pick Kevin Warsh to the Federal Reserve Board, clearing the way for him to take over as Fed chair from Jerome Powell later this week in a significant shift for US monetary policy."
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.aljazeera.com/economy/2026/5/12/kevin-warsh-confirmed-to-us-federal-reserve-board-in-close-senate-vote",
-        "https://www.scmp.com/news/world/united-states-canada/article/3353326/us-senate-confirms-trump-pick-kevin-warsh-federal-reserve-board"
       ]
     }
   ]
