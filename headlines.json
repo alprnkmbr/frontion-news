@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-15T06:04:27+03:00",
+  "lastUpdated": "2026-05-15T06:06:45+03:00",
   "headlines": [
+    {
+      "headline": "Ship Seized and Another Sunk Near Strait of Hormuz as Tensions Escalate",
+      "summary": "A ship anchored off the UAE was seized by Iranian personnel and taken toward Iran, while a cargo ship near Oman sank. The incidents come amid the ongoing Iran conflict and closed Strait of Hormuz.",
+      "emoji": "🚢⚠️",
+      "category": "Middle East",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/international/strait-of-hormuz-iran-ship-seized-another-sunk/",
+      "timestamp": "2026-05-15T06:04:00+03:00"
+    },
+    {
+      "headline": "Israel Pushing for Return to Iran War, Weighing Options With US",
+      "summary": "Israeli military officials discussed renewed operations, maritime blockade and other scenarios for resuming conflict with Iran, according to an Israeli broadcaster report.",
+      "emoji": "🇮🇱⚔️",
+      "category": "Middle East",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/middle-east/israel-pushing-for-return-to-iran-war-weighing-options-with-us-report/3937975",
+      "timestamp": "2026-05-15T06:04:00+03:00"
+    },
+    {
+      "headline": "Solomon Islands Elects China-Cautious Opposition Leader Matthew Wale as PM",
+      "summary": "The Solomon Islands elected Matthew Wale as its new prime minister. Wale has been a critic of the security deal signed with China and has called for it to be made public.",
+      "emoji": "🇸🇧🇨🇳",
+      "category": "Asia-Pacific",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/solomon-island-lawmakers-pick-china-cautious-matthew-wale-as-new-pm",
+      "timestamp": "2026-05-15T06:04:00+03:00"
+    },
+    {
+      "headline": "Trump Blames Biden for US Decline After Xi Comments on Thucydides Trap",
+      "summary": "President Trump invoked his predecessor to explain Chinese President Xi Jinping comments suggesting the US is a declining nation, as the two leaders held high-stakes talks in Beijing.",
+      "emoji": "🇺🇸🇨🇳",
+      "category": "US-China",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/administration/5879325-trump-blames-biden-decline-xi/",
+      "timestamp": "2026-05-15T06:04:00+03:00"
+    },
     {
       "headline": "Putin Escalating War, Not Seeking End, Says German Chancellor Candidate Merz",
       "summary": "German politician Friedrich Merz condemned Russia massive aerial attacks on Ukraine, saying Putin is escalating rather than seeking peace. Kyiv faced its third straight day of Russian strikes with apartment buildings flattened.",
@@ -26,16 +62,23 @@
       "category": "Middle East",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html",
-      "timestamp": "2026-05-15T06:03:00+03:00"
-    },
-    {
-      "headline": "Ship Seized Near Iran as Trump and Xi Agree Hormuz Must Stay Open",
-      "summary": "A vessel was taken toward Iranian waters while another ship sank near Oman. Trump and Xi Jinping agreed the critical Strait of Hormuz shipping lane must remain open during their Beijing summit, as China offered to help negotiate with Iran.",
-      "emoji": "🚢",
-      "category": "Middle East",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/trump-xi-iran-war-strait-hormuz-lebanon-israel-peace-talks/",
-      "timestamp": "2026-05-15T06:03:00+03:00"
+      "timestamp": "2026-05-15T06:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Middle East Eye",
+          "url": "https://www.middleeasteye.net/news/saudi-arabia-floats-non-aggression-pact-iran-and-regional-states-report",
+          "angle": "Saudi Arabia floats non-aggression pact with Iran and regional states",
+          "summary": "The kingdom is modelling its framework on the 1975 Helsinki Accords, seeking to reduce tensions between regional powers as the Iran conflict continues."
+        }
+      ],
+      "sources": [
+        "New York Times",
+        "Middle East Eye"
+      ],
+      "urls": [
+        "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html",
+        "https://www.middleeasteye.net/news/saudi-arabia-floats-non-aggression-pact-iran-and-regional-states-report"
+      ]
     },
     {
       "headline": "Japan wholesale inflation hits 3-year high as Iran war drives energy prices",
@@ -748,6 +791,31 @@
       "timestamp": "2026-05-14T21:03:00+03:00"
     },
     {
+      "headline": "Ship Seized Near Strait of Hormuz as Tensions Escalate",
+      "summary": "A vessel anchored off the UAE coast was seized by unauthorized personnel and is heading toward Iranian waters, according to British military reports. The incident comes as another ship was sunk in the region, raising fears of wider conflict in the critical waterway.",
+      "emoji": "🚢",
+      "category": "Middle East",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-israel-war-oil-hormuz-may-14-2026-efb53c39ee6334733e1cb22ca4a6c279",
+      "timestamp": "2026-05-14T20:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/trump-xi-iran-war-strait-hormuz-lebanon-israel-peace-talks/",
+          "angle": "Ship Seized Near Iran as Trump and Xi Agree Hormuz Must Stay Open",
+          "summary": "A vessel was taken toward Iranian waters while another ship sank near Oman. Trump and Xi Jinping agreed the critical Strait of Hormuz shipping lane must remain open during their Beijing summit, as China offered to help negotiate with Iran."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "CBS News"
+      ],
+      "urls": [
+        "https://apnews.com/article/iran-us-israel-war-oil-hormuz-may-14-2026-efb53c39ee6334733e1cb22ca4a6c279",
+        "https://www.cbsnews.com/live-updates/trump-xi-iran-war-strait-hormuz-lebanon-israel-peace-talks/"
+      ]
+    },
+    {
       "headline": "Russia Launches Largest Drone Attack of War on Ukraine",
       "summary": "Russia carried out its largest aerial attack over a two-day period since the war began, pounding Kyiv with hundreds of drones. An apartment building was flattened, killing at least 7 civilians as strikes continued for a third straight day.",
       "emoji": "🇺🇦",
@@ -788,24 +856,6 @@
       "category": "Latin America",
       "source": "DW",
       "url": "https://www.dw.com/en/cubas-power-grid-critical-as-us-blocks-fuel-shipments/a-77162028",
-      "timestamp": "2026-05-14T20:05:00+03:00"
-    },
-    {
-      "headline": "Saudi Arabia floats non-aggression pact with Iran and regional states",
-      "summary": "The kingdom is modelling its framework on the 1975 Helsinki Accords, seeking to reduce tensions between regional powers as the Iran conflict continues.",
-      "emoji": "🇸🇦🇮🇷",
-      "category": "Middle East",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/saudi-arabia-floats-non-aggression-pact-iran-and-regional-states-report",
-      "timestamp": "2026-05-14T20:05:00+03:00"
-    },
-    {
-      "headline": "Ship Seized Near Strait of Hormuz as Tensions Escalate",
-      "summary": "A vessel anchored off the UAE coast was seized by unauthorized personnel and is heading toward Iranian waters, according to British military reports. The incident comes as another ship was sunk in the region, raising fears of wider conflict in the critical waterway.",
-      "emoji": "🚢",
-      "category": "Middle East",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-israel-war-oil-hormuz-may-14-2026-efb53c39ee6334733e1cb22ca4a6c279",
       "timestamp": "2026-05-14T20:05:00+03:00"
     },
     {
@@ -2962,24 +3012,6 @@
       "source": "Defense News",
       "url": "https://www.defensenews.com/news/your-navy/2026/05/12/us-navy-open-to-building-ships-overseas-new-plan-says/",
       "timestamp": "2026-05-12T18:10:00+03:00"
-    },
-    {
-      "headline": "Major Japanese oil firm expects Hormuz crisis to ease by July",
-      "summary": "A major Japanese petroleum company forecasts the Strait of Hormuz disruption will subside by July, providing insight into Asian energy sector expectations amid the US-Iran conflict.",
-      "emoji": "🇯🇵",
-      "category": "Energy",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/major-japanese-petroleum-company-expects-hormuz-crisis-to-subside-in-july3",
-      "timestamp": "2026-05-12T18:10:00+03:00"
-    },
-    {
-      "headline": "Russia targets US firms in Ukraine as White House stays silent",
-      "summary": "Russian forces have deliberately struck facilities tied to Coca-Cola, Cargill, Mondelez and other American companies in Ukraine. The Trump administration's muted response to these attacks on US corporate interests has raised concerns about its commitment to protecting American assets abroad.",
-      "emoji": "🇷🇺🇺🇸",
-      "category": "Ukraine-Russia War",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/12/world/europe/russian-strikes-us-firms-ukraine-trump.html",
-      "timestamp": "2026-05-12T18:05:00+03:00"
     }
   ]
 }
