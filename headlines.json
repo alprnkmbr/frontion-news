@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-16T00:08:12+03:00",
+  "lastUpdated": "2026-05-16T01:05:58+03:00",
   "headlines": [
+    {
+      "headline": "Zelenskiy: Russia Planning Attack on NATO From Belarus",
+      "summary": "Ukraines president warned Russia may be preparing attacks on Ukraine north or a NATO country from Belarusian territory, as Moscow seeks to draw Belarus deeper into the war.",
+      "emoji": "🇺🇦🇧🇾",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/zelenskiy-says-russia-considering-plan-attack-nato-country-belarus-2026-05-15/",
+      "timestamp": "2026-05-16T01:05:00+03:00"
+    },
+    {
+      "headline": "Merz: Would Advise Children Against Living in US",
+      "summary": "German Chancellor Friedrich Merz said he would advise his children against living or studying in the United States, citing a rapidly changing social climate and limited opportunities even for the highly educated.",
+      "emoji": "🇩🇪🇺🇸",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/germanys-merz-i-wouldnt-advise-my-children-live-us-2026-05-15/",
+      "timestamp": "2026-05-16T01:05:00+03:00"
+    },
+    {
+      "headline": "Israel Strikes Hamas Armed Wing Chief in Gaza",
+      "summary": "Israeli airstrikes killed at least seven Palestinians in Gaza. Israel said the strikes targeted the head of Hamas armed wing, though it was unclear if he was killed or wounded.",
+      "emoji": "🇮🇱⚔️",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israel-targets-head-hamas-armed-wing-with-gaza-strike-2026-05-15/",
+      "timestamp": "2026-05-16T01:05:00+03:00"
+    },
+    {
+      "headline": "Greek Tanker Crosses Hormuz Amid Gulf Shipping Disruption",
+      "summary": "A Greek-operated tanker sailed from the Gulf to India, one of the few crude sailings through the Strait of Hormuz this week as most shipping remains disrupted by the Iran conflict.",
+      "emoji": "🛢️🚢",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/greek-operated-tanker-is-among-few-oil-vessels-cross-strait-hormuz-2026-05-15/",
+      "timestamp": "2026-05-16T01:05:00+03:00"
+    },
+    {
+      "headline": "India-UAE Sign Strategic Defense Partnership",
+      "summary": "India and the UAE agreed on a strategic defence partnership framework as PM Modi visited Abu Dhabi, deepening ties amid the Iran war with agreements on defence and petroleum cooperation.",
+      "emoji": "🇮🇳🇦🇪",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/india/india-signs-pacts-with-uae-defence-petroleum-during-modis-visit-2026-05-15/",
+      "timestamp": "2026-05-16T01:05:00+03:00"
+    },
     {
       "headline": "US Arrests Iraqi Kataib Hezbollah Commander for Plotting Attacks on Jewish Targets",
       "summary": "The US Justice Department arrested Mohammad Baqer Saad Dawood Al-Saadi, an Iraqi national and Kataib Hezbollah commander, for terrorism on behalf of Iran. He allegedly planned attacks against Jewish sites and US interests.",
@@ -8,15 +53,6 @@
       "category": "US-Iran War",
       "source": "Jerusalem Post",
       "url": "https://www.jpost.com/international/article-896335",
-      "timestamp": "2026-05-16T00:05:00+03:00"
-    },
-    {
-      "headline": "Riyadh Proposes Non-Aggression Pact Between Iran and Gulf States",
-      "summary": "Saudi Arabia has proposed a regional security agreement modeled on the 1975 Helsinki Accords, aiming to create a non-aggression pact between Iran and Middle Eastern states amid the ongoing conflict.",
-      "emoji": "🇸🇦🇮🇷",
-      "category": "Diplomacy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/ar/تقرير-الرياض-تقترح-اتفاق-عدم-اعتداء-بين-إيران-ودول-المنطقة/a-77177653",
       "timestamp": "2026-05-16T00:05:00+03:00"
     },
     {
@@ -1043,21 +1079,37 @@
       "timestamp": "2026-05-15T10:05:00+03:00"
     },
     {
-      "headline": "CENTCOM Chief: Iran Threat Diminished But Not Eliminated",
-      "summary": "Admiral Brad Cooper told the Senate Armed Services Committee that the US bombing campaign has degraded 90% of Iran naval mines, but Tehran retains limited strike capability on regional neighbors amid ongoing Strait of Hormuz standoff.",
-      "emoji": "⚔️",
-      "category": "Military",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/news/pentagon-congress/2026/05/14/iran-military-threat-is-diminished-but-not-eliminated-centcom-chief-says/",
-      "timestamp": "2026-05-15T10:04:00+03:00"
-    },
-    {
       "headline": "Saudi Arabia Floats Non-Aggression Pact With Iran",
       "summary": "Riyadh has proposed a regional non-aggression agreement modeled on the 1975 Helsinki Accords, gaining European support but facing uncertainty over US and Israeli backing amid the ongoing Iran conflict.",
       "emoji": "🇸🇦",
       "category": "Diplomacy",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/saudi-arabia-floats-non-aggression-pact-iran-and-regional-states-report",
+      "timestamp": "2026-05-15T10:04:00+03:00",
+      "perspectives": [
+        {
+          "source": "Deutsche Welle",
+          "url": "https://www.dw.com/ar/تقرير-الرياض-تقترح-اتفاق-عدم-اعتداء-بين-إيران-ودول-المنطقة/a-77177653",
+          "angle": "Riyadh Proposes Non-Aggression Pact Between Iran and Gulf States",
+          "summary": "Saudi Arabia has proposed a regional security agreement modeled on the 1975 Helsinki Accords, aiming to create a non-aggression pact between Iran and Middle Eastern states amid the ongoing conflict."
+        }
+      ],
+      "sources": [
+        "Middle East Eye",
+        "Deutsche Welle"
+      ],
+      "urls": [
+        "https://www.middleeasteye.net/news/saudi-arabia-floats-non-aggression-pact-iran-and-regional-states-report",
+        "https://www.dw.com/ar/تقرير-الرياض-تقترح-اتفاق-عدم-اعتداء-بين-إيران-ودول-المنطقة/a-77177653"
+      ]
+    },
+    {
+      "headline": "CENTCOM Chief: Iran Threat Diminished But Not Eliminated",
+      "summary": "Admiral Brad Cooper told the Senate Armed Services Committee that the US bombing campaign has degraded 90% of Iran naval mines, but Tehran retains limited strike capability on regional neighbors amid ongoing Strait of Hormuz standoff.",
+      "emoji": "⚔️",
+      "category": "Military",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/news/pentagon-congress/2026/05/14/iran-military-threat-is-diminished-but-not-eliminated-centcom-chief-says/",
       "timestamp": "2026-05-15T10:04:00+03:00"
     },
     {
@@ -2825,42 +2877,6 @@
       "source": "Forbes",
       "url": "https://www.forbes.com/sites/davidkirichenko/2026/05/13/a-ukrainian-ground-robot-drove-into-a-russian-held-building-and-blew-it-up/",
       "timestamp": "2026-05-13T16:07:00+03:00"
-    },
-    {
-      "headline": "US and China Weigh Tariff Cuts on $30 Billion of Imports",
-      "summary": "Washington and Beijing are expected to move toward a managed trade mechanism, with each side potentially identifying $30 billion in goods for tariff reductions. The deal would avoid national security red lines while easing trade tensions.",
-      "emoji": "💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/autos-transportation/trump-xi-weigh-tariff-cuts-30-billion-imports-managed-trade-push-2026-05-13/",
-      "timestamp": "2026-05-13T15:55:00+03:00"
-    },
-    {
-      "headline": "Britain to Strengthen EU Ties in New Legislative Agenda",
-      "summary": "King Charles delivered the governments legislative agenda including legislation to strengthen ties with the European Union, as Prime Minister Keir Starmer fights to stay in power amid leadership pressure.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/uk/britain-strengthen-ties-with-eu-new-legislation-2026-05-13/",
-      "timestamp": "2026-05-13T15:03:00+03:00"
-    },
-    {
-      "headline": "OECD Projects Bank of Japan to Raise Rates to 2% by End-2027",
-      "summary": "The OECD forecasts Japan will raise its policy rate to 2% from 0.75% by end-2027, as robust domestic demand helps the economy absorb external shocks from the Middle East conflict.",
-      "emoji": "🇯🇵",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/markets/asia/oecd-sees-japan-raising-interest-rates-2-by-end-2027-2026-05-13/",
-      "timestamp": "2026-05-13T15:03:00+03:00"
-    },
-    {
-      "headline": "Trumps China Summit Ambitions Shrink from Grand Bargain to Plea",
-      "summary": "President Trumps ambitions for his summit with Xi Jinping have shrunk from a grand bargain to a plea for help on Iran, as tech rivalry and distrust sap hopes for substantive AI commitments.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "US-China",
-      "source": "Politico",
-      "url": "https://www.politico.com/news/2026/05/13/trump-summit-xi-trade-hormuz-00915983",
-      "timestamp": "2026-05-13T15:03:00+03:00"
     }
   ]
 }
