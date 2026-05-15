@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-15T10:04:21+03:00",
+  "lastUpdated": "2026-05-15T10:06:46+03:00",
   "headlines": [
     {
       "headline": "Trump Wraps Beijing Summit as Xi Warns on Taiwan",
@@ -8,7 +8,31 @@
       "category": "US-China",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/trump-china-live-second-day-talks-with-xi-iran-taiwan-trade-2026-05-15/",
-      "timestamp": "2026-05-15T10:05:00+03:00"
+      "timestamp": "2026-05-15T10:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/trump-xi-china-iran-trade-a1d63a711a037472f5c1c330c2120bd5",
+          "angle": "AP: Xi Warns Trump That Taiwan Could Lead to Conflict",
+          "summary": "Chinese President Xi Jinping warned Trump that differences over Taiwan could lead to conflict between the two powers if mishandled, during high-stakes talks in Beijing."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/chinas-xi-lauds-new-positioning-ties-with-us-2026-05-14/",
+          "angle": "Trump and Xi conclude Beijing summit with new trade deals, Iran tensions dominate agenda",
+          "summary": "US President Trump completed high-stakes talks with Chinese leader Xi Jinping in Beijing, announcing trade agreements while Xi warned on Taiwan. Both leaders discussed Iran and Strait of Hormuz tensions, with China wanting the waterway open without restrictions."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/trump-china-live-second-day-talks-with-xi-iran-taiwan-trade-2026-05-15/",
+        "https://apnews.com/article/trump-xi-china-iran-trade-a1d63a711a037472f5c1c330c2120bd5",
+        "https://www.reuters.com/world/china/chinas-xi-lauds-new-positioning-ties-with-us-2026-05-14/"
+      ]
     },
     {
       "headline": "AP: Trump Insists US-China Relations Good Despite Differences",
@@ -26,16 +50,23 @@
       "category": "US-Iran War",
       "source": "CBS News",
       "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-china-xi-summit-ceasefire-peace-talks-stalled/",
-      "timestamp": "2026-05-15T10:05:00+03:00"
-    },
-    {
-      "headline": "AP: Xi Warns Trump That Taiwan Could Lead to Conflict",
-      "summary": "Chinese President Xi Jinping warned Trump that differences over Taiwan could lead to conflict between the two powers if mishandled, during high-stakes talks in Beijing.",
-      "emoji": "🇹🇼🇨🇳",
-      "category": "US-China",
-      "source": "AP News",
-      "url": "https://apnews.com/article/trump-xi-china-iran-trade-a1d63a711a037472f5c1c330c2120bd5",
-      "timestamp": "2026-05-15T10:05:00+03:00"
+      "timestamp": "2026-05-15T10:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-china-xi-summit-ceasefire-peace-talks-stalled/",
+          "angle": "Iran Says Ready to Repel New US Attack as Peace Talks Stall",
+          "summary": "Iran's military said it is trained and ready for any new US assault as President Trump predicted a \"long talk\" about the war during his China visit. Peace talks remain stalled with no breakthrough in sight."
+        }
+      ],
+      "sources": [
+        "CBS News",
+        "CBS News"
+      ],
+      "urls": [
+        "https://www.cbsnews.com/live-updates/iran-war-us-trump-china-xi-summit-ceasefire-peace-talks-stalled/",
+        "https://www.cbsnews.com/live-updates/iran-war-us-trump-china-xi-summit-ceasefire-peace-talks-stalled/"
+      ]
     },
     {
       "headline": "India Hikes Fuel Prices for First Time in Four Years",
@@ -47,13 +78,40 @@
       "timestamp": "2026-05-15T10:05:00+03:00"
     },
     {
-      "headline": "Trump and Xi conclude Beijing summit with new trade deals, Iran tensions dominate agenda",
-      "summary": "US President Trump completed high-stakes talks with Chinese leader Xi Jinping in Beijing, announcing trade agreements while Xi warned on Taiwan. Both leaders discussed Iran and Strait of Hormuz tensions, with China wanting the waterway open without restrictions.",
-      "emoji": "🇨🇳",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/chinas-xi-lauds-new-positioning-ties-with-us-2026-05-14/",
-      "timestamp": "2026-05-15T09:03:00+03:00"
+      "headline": "CENTCOM Chief: Iran Threat Diminished But Not Eliminated",
+      "summary": "Admiral Brad Cooper told the Senate Armed Services Committee that the US bombing campaign has degraded 90% of Iran naval mines, but Tehran retains limited strike capability on regional neighbors amid ongoing Strait of Hormuz standoff.",
+      "emoji": "⚔️",
+      "category": "Military",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/news/pentagon-congress/2026/05/14/iran-military-threat-is-diminished-but-not-eliminated-centcom-chief-says/",
+      "timestamp": "2026-05-15T10:04:00+03:00"
+    },
+    {
+      "headline": "Saudi Arabia Floats Non-Aggression Pact With Iran",
+      "summary": "Riyadh has proposed a regional non-aggression agreement modeled on the 1975 Helsinki Accords, gaining European support but facing uncertainty over US and Israeli backing amid the ongoing Iran conflict.",
+      "emoji": "🇸🇦",
+      "category": "Diplomacy",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/news/saudi-arabia-floats-non-aggression-pact-iran-and-regional-states-report",
+      "timestamp": "2026-05-15T10:04:00+03:00"
+    },
+    {
+      "headline": "NPT Review Conference Faces Unprecedented Strain",
+      "summary": "The Nuclear Non-Proliferation Treaty is under stress from five major challenges including US-Israeli strikes on Iran, great power competition, and the Ukraine war, as diplomats meet in New York with modest progress unlikely.",
+      "emoji": "☢️",
+      "category": "Geopolitics",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/05/can-the-npt-survive-amid-global-disorder/",
+      "timestamp": "2026-05-15T10:04:00+03:00"
+    },
+    {
+      "headline": "Taiwan Defense Expert Urges Civilian Drone Production",
+      "summary": "A defense researcher called for opening military drone specifications to private manufacturers to reduce costs and enable mass production, after the legislature removed drone procurement from a special defense budget.",
+      "emoji": "🇹🇼",
+      "category": "Defense Industry",
+      "source": "Taipei Times",
+      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/05/15/2003857374",
+      "timestamp": "2026-05-15T10:04:00+03:00"
     },
     {
       "headline": "China wants Strait of Hormuz open without restrictions, USTR Greer confirms",
@@ -242,19 +300,19 @@
       "timestamp": "2026-05-15T07:05:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/latvian-prime-minister-silina-says-she-is-resigning-2026-05-14/",
-          "angle": "Latvian government collapses over Ukraine drone incident response",
-          "summary": "Prime Minister Evika Silina resigned Thursday, triggering coalition collapse months before October elections, amid criticism of her handling of airspace violations by Ukrainian drones during Russian attacks."
+          "source": "France 24",
+          "url": "https://www.france24.com/en/europe/20260514-how-stray-ukrainian-drones-pushed-latvia-prime-minister-resign",
+          "angle": "Latvia Government Collapses After Ukrainian Drone Incident",
+          "summary": "Prime Minister Evika Silina resigned after a coalition rift over her sacking of the defense minister following stray Ukrainian drone incursions into Latvian territory, triggering political turmoil months before October elections."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "France 24"
       ],
       "urls": [
         "https://www.reuters.com/world/latvian-prime-minister-silina-says-she-is-resigning-2026-05-14/",
-        "https://www.reuters.com/world/latvian-prime-minister-silina-says-she-is-resigning-2026-05-14/"
+        "https://www.france24.com/en/europe/20260514-how-stray-ukrainian-drones-pushed-latvia-prime-minister-resign"
       ]
     },
     {
@@ -1496,15 +1554,6 @@
         "https://www.reuters.com/business/aerospace-defense/russian-airspace-breaches-show-need-boost-nato-eastern-flank-air-defence-say-2026-05-13/",
         "https://www.reuters.com/business/aerospace-defense/russian-airspace-breaches-show-need-boost-nato-eastern-flank-air-defence-say-2026-05-13/"
       ]
-    },
-    {
-      "headline": "Iran Says Ready to Repel New US Attack as Peace Talks Stall",
-      "summary": "Iran's military said it is trained and ready for any new US assault as President Trump predicted a \"long talk\" about the war during his China visit. Peace talks remain stalled with no breakthrough in sight.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-us-trump-china-xi-summit-ceasefire-peace-talks-stalled/",
-      "timestamp": "2026-05-14T11:00:00+03:00"
     },
     {
       "headline": "Philippines seeks ICC suspect after Senate shootout chaos",
@@ -3023,76 +3072,6 @@
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c5y909grldqo",
       "timestamp": "2026-05-12T23:03:00+03:00"
-    },
-    {
-      "headline": "Venezuelas acting president rejects Trumps 51st state comments",
-      "summary": "Acting President Delcy Rodríguez told journalists at the International Court of Justice that Venezuela is \"not a colony, but a free country\" after Trump said he was \"seriously considering\" making Venezuela the 51st US state. She defended Venezuelas claim to the disputed Essequibo region in the territorial dispute with Guyana.",
-      "emoji": "🇻🇪",
-      "category": "Latin America",
-      "source": "AP News",
-      "url": "https://apnews.com/article/venezuela-guyana-essequibo-court-trump-oil-89f55dc0049617e81bfbad49c4bed777",
-      "timestamp": "2026-05-12T23:03:00+03:00"
-    },
-    {
-      "headline": "US Finalizes $35.5 Billion in Refunds for Illegal Trump Tariffs",
-      "summary": "US Customs and Border Protection has received 126,237 applications for tariff reimbursements as companies seek refunds for tariffs that were ruled illegal, a significant economic correction.",
-      "emoji": "🇺🇸💰",
-      "category": "Economy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3353327/us-finalises-us355-billion-refunds-illegal-trump-tariffs",
-      "timestamp": "2026-05-12T22:07:00+03:00"
-    },
-    {
-      "headline": "Kuwait Foils Iranian Infiltration Attempt on Bubiyan Island",
-      "summary": "Kuwait announced it arrested four men accused of being IRGC operatives attempting to infiltrate Bubiyan Island, marking a significant escalation as Gulf states risk being drawn into the Iran conflict.",
-      "emoji": "🇰🇼",
-      "category": "Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/12/kuwait-says-it-foils-infiltration-operation-by-irans-irgc",
-      "timestamp": "2026-05-12T22:05:00+03:00"
-    },
-    {
-      "headline": "UK PM Starmer Defies Calls to Resign After Heavy Election Losses",
-      "summary": "British Prime Minister Keir Starmer vowed to continue in office despite growing pressure from Labour Party lawmakers urging him to step down following devastating losses in local elections.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/uk-starmer-resign",
-      "timestamp": "2026-05-12T22:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/live/2026/05/12/world/uk-starmer",
-          "angle": "Keir Starmer Defies Calls to Resign After Labour Election Losses",
-          "summary": "British Prime Minister Keir Starmer vowed to continue in office despite dozens of Labour Party lawmakers urging him to step down after heavy losses in local elections, in a significant political crisis for the UK government."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "New York Times"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/uk-starmer-resign",
-        "https://www.nytimes.com/live/2026/05/12/world/uk-starmer"
-      ]
-    },
-    {
-      "headline": "WHO Warns Countries to Prepare for More Hantavirus Cases",
-      "summary": "The World Health Organization urged nations to prepare for additional hantavirus cases as a cruise ship-linked outbreak spreads, with Spain confirming new cases bringing the total to 11.",
-      "emoji": "🏥",
-      "category": "Geopolitics",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/12/who-head-tells-countries-prepare-hantavirus-cases",
-      "timestamp": "2026-05-12T22:05:00+03:00"
-    },
-    {
-      "headline": "Hamas Weaponized Sexual Violence in October 7 Attacks, Israeli Investigation Finds",
-      "summary": "A comprehensive Israeli report documents systematic sexual assaults during the October 7 attacks, detailing harrowing cases. It is the most extensive investigation of its kind to date.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cvgz9k7pzggo",
-      "timestamp": "2026-05-12T21:03:00+03:00"
     }
   ]
 }
