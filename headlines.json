@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-15T22:06:59+03:00",
+  "lastUpdated": "2026-05-15T23:06:26+03:00",
   "headlines": [
+    {
+      "headline": "US Justice Department Prepares to Indict Former Cuban President Raul Castro",
+      "summary": "The US Justice Department is working to secure criminal charges against former Cuban President Raul Castro related to the 1996 shootdown of humanitarian planes, amid heightened US-Cuba tensions.",
+      "emoji": "🇨🇺",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/americas/us-plans-indict-raul-castro-raise-cubans-fears-force-2026-05-15/",
+      "timestamp": "2026-05-15T23:03:00+03:00"
+    },
+    {
+      "headline": "Israel and Lebanon Agree to Extend Ceasefire by 45 Days After Washington Talks",
+      "summary": "Israel and Lebanon have agreed to extend their US-brokered ceasefire for 45 days to allow for more negotiations, despite continued flare-ups between Israel and Hezbollah.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-15/israel-lebanon-extend-ceasefire-45-days-after-washington-talks",
+      "timestamp": "2026-05-15T23:03:00+03:00"
+    },
+    {
+      "headline": "Trump Suggests Deadly Russian Strike on Kyiv Could Set Back Ukraine Peace Efforts",
+      "summary": "President Donald Trump suggested that a Russian missile strike on a Kyiv apartment building that killed 24 people, including three children, could complicate efforts to find a peaceful settlement to the war in Ukraine.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/trump-suggests-deadly-russian-strike-kyiv-could-set-back-peace-efforts-2026-05-15/",
+      "timestamp": "2026-05-15T23:03:00+03:00"
+    },
+    {
+      "headline": "Zelenskiy Vows Retribution After Russian Strike Kills 24 in Kyiv Apartment Building",
+      "summary": "Ukrainian President Volodymyr Zelenskiy promised retribution against Russia after a Russian missile strike on a Kyiv apartment building killed 24 people, including three children.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/zelenskiy-condemns-russia-after-strike-kyiv-apartment-bloc-kills-24-2026-05-15/",
+      "timestamp": "2026-05-15T23:03:00+03:00"
+    },
+    {
+      "headline": "Trump Weighs Taiwan Arms Package After Summit Aimed at Steadying US-China Ties",
+      "summary": "President Donald Trump said he has not decided whether to proceed with a major arms sale to Taiwan, adding to uncertainty about US support for the island following his summit with Xi Jinping in Beijing.",
+      "emoji": "🇹🇼",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/taiwan-thanks-us-support-ahead-further-trump-xi-talks-2026-05-15/",
+      "timestamp": "2026-05-15T23:03:00+03:00"
+    },
     {
       "headline": "China Doubles Down on Manufacturing Push After Trump Visit",
       "summary": "China's Communist Party journal calls for strengthening manufacturing shortly after Trump's departure from Beijing, signaling continued focus on industrial self-sufficiency amid trade tensions.",
@@ -26,7 +71,23 @@
       "category": "Defense Industry",
       "source": "Defense News",
       "url": "https://www.defensenews.com/news/your-military/2026/05/15/no-sound-of-silence-us-soldiers-train-eyes-and-ears-for-drone-swarms/",
-      "timestamp": "2026-05-15T22:05:00+03:00"
+      "timestamp": "2026-05-15T22:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/76223",
+          "angle": "Ukraine races to deploy AI-powered drone swarms to counter Russian manpower advantage",
+          "summary": "Ukrainian defense industry is advancing swarm drone technology that would allow few operators to deploy dozens or hundreds of autonomous attack craft, though mass battlefield deployment remains years away."
+        }
+      ],
+      "sources": [
+        "Defense News",
+        "Kyiv Post"
+      ],
+      "urls": [
+        "https://www.defensenews.com/news/your-military/2026/05/15/no-sound-of-silence-us-soldiers-train-eyes-and-ears-for-drone-swarms/",
+        "https://www.kyivpost.com/post/76223"
+      ]
     },
     {
       "headline": "FBI Offers $200K Reward for Ex-Air Force Specialist Who Defected to Iran",
@@ -71,7 +132,23 @@
       "category": "US-China",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/",
-      "timestamp": "2026-05-15T22:03:00+03:00"
+      "timestamp": "2026-05-15T22:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/",
+          "angle": "US Expects Massive Chinese Farm Purchases After Trump-Xi Summit",
+          "summary": "The US anticipates China will commit to buy double-digit billions worth of American agricultural goods following the Trump-Xi summit in Beijing. Trade Representative Jamieson Greer announced the expected deal as Trump concluded his two-day visit."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/",
+        "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/"
+      ]
     },
     {
       "headline": "China Still Slow on Rare Earth Approvals Despite Improvements",
@@ -89,7 +166,23 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/trump-xi-set-second-day-talks-after-taiwan-warning-2026-05-14/",
-      "timestamp": "2026-05-15T22:03:00+03:00"
+      "timestamp": "2026-05-15T22:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/trump-xi-set-second-day-talks-after-taiwan-warning-2026-05-14/",
+          "angle": "Trump Leaves China With Few Wins Despite Warm Words for Xi",
+          "summary": "President Trump departed Beijing with no major breakthroughs on trade or concrete Chinese help to end the Iran war, despite two days of praising President Xi. The summit emphasized stability but produced limited tangible results."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/trump-xi-set-second-day-talks-after-taiwan-warning-2026-05-14/",
+        "https://www.reuters.com/world/china/trump-xi-set-second-day-talks-after-taiwan-warning-2026-05-14/"
+      ]
     },
     {
       "headline": "Uganda Confirms Ebola Outbreak",
@@ -421,31 +514,6 @@
       "timestamp": "2026-05-15T16:05:00+03:00"
     },
     {
-      "headline": "Ukraine races to deploy AI-powered drone swarms to counter Russian manpower advantage",
-      "summary": "Ukrainian defense industry is advancing swarm drone technology that would allow few operators to deploy dozens or hundreds of autonomous attack craft, though mass battlefield deployment remains years away.",
-      "emoji": "🚁",
-      "category": "Defense Industry",
-      "source": "Kyiv Post",
-      "url": "https://www.kyivpost.com/post/76223",
-      "timestamp": "2026-05-15T16:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Naval News",
-          "url": "https://www.navalnews.com/naval-news/2026/05/russian-nuclear-submarines-thousands-of-miles-from-ukraine-get-anti-drone-defenses/",
-          "angle": "Russian Nuclear Submarines Receive Anti-Drone Defenses Thousands of Miles From Ukraine",
-          "summary": "New satellite imagery reveals anti-drone protections around Russian nuclear submarines, suggesting commanders fear Ukrainian drone capabilities extending far beyond the front lines."
-        }
-      ],
-      "sources": [
-        "Kyiv Post",
-        "Naval News"
-      ],
-      "urls": [
-        "https://www.kyivpost.com/post/76223",
-        "https://www.navalnews.com/naval-news/2026/05/russian-nuclear-submarines-thousands-of-miles-from-ukraine-get-anti-drone-defenses/"
-      ]
-    },
-    {
       "headline": "Japan Economy Expected to Grow for Second Quarter Despite Iran War Shadow",
       "summary": "Japan's GDP likely rose in January-March on recovering exports and solid domestic demand, a Reuters poll showed, though the full impact of the Iran conflict on the global economy has yet to be felt.",
       "emoji": "🇯🇵",
@@ -601,31 +669,6 @@
       ]
     },
     {
-      "headline": "US Expects Massive Chinese Farm Purchases After Trump-Xi Summit",
-      "summary": "The US anticipates China will commit to buy double-digit billions worth of American agricultural goods following the Trump-Xi summit in Beijing. Trade Representative Jamieson Greer announced the expected deal as Trump concluded his two-day visit.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/",
-      "timestamp": "2026-05-15T14:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/",
-          "angle": "US Expects Major Chinese Farm Purchases After Trump-Xi Summit",
-          "summary": "USTR Jamieson Greer announced China will commit to \"double-digit billions\" in US agricultural imports following the Beijing summit between Presidents Trump and Xi."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/",
-        "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/"
-      ]
-    },
-    {
       "headline": "Boeing Shares Drop After China Orders Just 200 Jets",
       "summary": "China agreed to purchase 200 Boeing aircraft, far fewer than analysts expected, sending Boeing shares down 4%. The announcement came during Trump’s Beijing visit and disappointed markets hoping for a larger deal.",
       "emoji": "✈️📉",
@@ -648,31 +691,6 @@
       "urls": [
         "https://www.reuters.com/business/aerospace-defense/china-has-agreed-to-buy-200-boeing-jets-trump-says-2026-05-14/",
         "https://www.reuters.com/business/aerospace-defense/china-has-agreed-to-buy-200-boeing-jets-trump-says-2026-05-14/"
-      ]
-    },
-    {
-      "headline": "Trump Leaves China With Few Wins Despite Warm Words for Xi",
-      "summary": "President Trump departed Beijing with no major breakthroughs on trade or concrete Chinese help to end the Iran war, despite two days of praising President Xi. The summit emphasized stability but produced limited tangible results.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/trump-xi-set-second-day-talks-after-taiwan-warning-2026-05-14/",
-      "timestamp": "2026-05-15T14:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/trump-wants-chinas-help-iran-beijing-may-have-other-ideas-2026-05-13/",
-          "angle": "China Reluctant to Cut Iran Support Despite Trump Pressure at Beijing Summit",
-          "summary": "Analysts say Xi may nudge Iran back to negotiations but is unlikely to sever economic ties or halt dual-use military supplies to Beijing's key Middle East partner."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/trump-xi-set-second-day-talks-after-taiwan-warning-2026-05-14/",
-        "https://www.reuters.com/world/china/trump-wants-chinas-help-iran-beijing-may-have-other-ideas-2026-05-13/"
       ]
     },
     {
@@ -2834,149 +2852,6 @@
       "urls": [
         "https://www.scmp.com/news/asia/southeast-asia/article/3353350/vietnam-asks-us-allow-extremely-important-oil-tanker-slip-past-hormuz-blockade",
         "https://oilprice.com/energy/crude-oil/oil-tankers-go-dark-to-exit-the-strait-of-hormuz.html"
-      ]
-    },
-    {
-      "headline": "UAE designates 21 Lebanese citizens and groups as terrorists over Hezbollah ties",
-      "summary": "The United Arab Emirates has branded 21 Lebanese individuals and organizations as terrorists, ordering asset freezes and accusing them of connections to Hezbollah.",
-      "emoji": "🇦🇪🇱🇧",
-      "category": "Middle East",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/uae-puts-21-lebanese-citizens-organizations-on-terror-list-over-alleged-hezbollah-ties/",
-      "timestamp": "2026-05-13T14:05:00+03:00"
-    },
-    {
-      "headline": "Tech Rivalry Overshadows AI Push at Trump-Xi Summit",
-      "summary": "US officials say AI will be central to Trump-Xi talks but substantive commitments are unlikely given deepening tech rivalry and mutual distrust. The strategic importance of artificial intelligence highlights the technology's role in great power competition.",
-      "emoji": "🤖",
-      "category": "Technology",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/tech-rivalry-distrust-sap-summit-hopes-trump-xi-ai-push-2026-05-13/",
-      "timestamp": "2026-05-13T14:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/tech-rivalry-distrust-sap-summit-hopes-trump-xi-ai-push-2026-05-13/",
-          "angle": "Tech rivalry and distrust dim hopes for Trump-Xi AI cooperation",
-          "summary": "Trump will put AI at the forefront of talks with Xi, highlighting the technology's strategic heft, but substantive commitments are unlikely given deep mistrust and tech rivalry between the two powers."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/tech-rivalry-distrust-sap-summit-hopes-trump-xi-ai-push-2026-05-13/",
-        "https://www.reuters.com/world/china/tech-rivalry-distrust-sap-summit-hopes-trump-xi-ai-push-2026-05-13/"
-      ]
-    },
-    {
-      "headline": "Bessent and Chinese VP hold talks in South Korea ahead of Trump-Xi summit",
-      "summary": "US Treasury Secretary Scott Bessent and Chinese Vice Premier He Lifeng concluded three hours of talks in South Korea aimed at laying groundwork for this week's Beijing summit between Trump and Xi.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/us-treasurys-bessent-arrives-south-korea-trade-talks-with-chinas-he-ahead-2026-05-13/",
-      "timestamp": "2026-05-13T13:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "Straits Times",
-          "url": "https://www.straitstimes.com/asia/east-asia/us-china-trade-chiefs-hold-candid-constructive-talks-ahead-of-trump-xi-summit",
-          "angle": "US and China trade chiefs hold constructive talks in Seoul before Trump-Xi summit",
-          "summary": "Treasury Secretary Scott Bessent and Vice-Premier He Lifeng met for three hours at Incheon Airport in what Chinese state media described as candid and constructive exchanges, setting groundwork for the Trump-Xi summit."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Straits Times"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/us-treasurys-bessent-arrives-south-korea-trade-talks-with-chinas-he-ahead-2026-05-13/",
-        "https://www.straitstimes.com/asia/east-asia/us-china-trade-chiefs-hold-candid-constructive-talks-ahead-of-trump-xi-summit"
-      ]
-    },
-    {
-      "headline": "Lukashenko Announces Military Mobilization as Belarus Prepares for War",
-      "summary": "Belarusian President Alexander Lukashenko announced a rotational mobilization of selected military units, stating \"We are all preparing for war\" amid heightened regional tensions.",
-      "emoji": "🇧🇾",
-      "category": "Europe",
-      "source": "Kyiv Post",
-      "url": "https://www.kyivpost.com/post/76011",
-      "timestamp": "2026-05-13T12:10:00+03:00"
-    },
-    {
-      "headline": "South Korea Weighs Phased Hormuz Support After US Talks",
-      "summary": "South Korea is reviewing a phased contribution to efforts to ensure safe navigation through the Strait of Hormuz, signaling support steps short of military participation as the US seeks allies for the Iran mission.",
-      "emoji": "🇰🇷",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/south-korea-weighs-phased-role-hormuz-mission-after-us-talks-defense-minister-2026-05-12/",
-      "timestamp": "2026-05-13T12:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/east-asia/article/3353396/south-korea-signals-phased-support-us-led-hormuz-mission-after-ship-attack",
-          "angle": "South Korea Signals Phased Support for Hormuz Mission",
-          "summary": "South Korea announced phased support for the US-led Strait of Hormuz mission following a ship attack, joining international efforts to secure the vital waterway."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/aerospace-defense/south-korea-weighs-phased-role-hormuz-mission-after-us-talks-defense-minister-2026-05-12/",
-        "https://www.scmp.com/news/asia/east-asia/article/3353396/south-korea-signals-phased-support-us-led-hormuz-mission-after-ship-attack"
-      ]
-    },
-    {
-      "headline": "Pentagon: US War in Iran Has Cost $29 Billion",
-      "summary": "A senior Pentagon official said the US war in Iran has cost $29 billion so far, an increase of $4 billion from estimates late last month, as lawmakers query costs and Trump renews strike threats.",
-      "emoji": "💰",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-war-iran-has-cost-29-billion-pentagon-says-2026-05-12/",
-      "timestamp": "2026-05-13T12:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/5/12/pentagon-gives-new-29bn-iran-war-price-tag",
-          "angle": "US Iran War Has Cost $29 Billion, Pentagon Tells Congress",
-          "summary": "Defense Secretary Pete Hegseth testified before Congress that the US military campaign against Iran has cost approximately $29 billion, while lawmakers questioned munitions readiness and escalation options."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/us-war-iran-has-cost-29-billion-pentagon-says-2026-05-12/",
-        "https://www.aljazeera.com/news/2026/5/12/pentagon-gives-new-29bn-iran-war-price-tag"
-      ]
-    },
-    {
-      "headline": "US and China Agree on Opposing Hormuz Shipping Tolls",
-      "summary": "Senior US and Chinese officials agree that no country should exact shipping tolls in the Strait of Hormuz, a sign both countries are trying to find common ground on pressuring Iran to give up control of the vital waterway.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/china-us-agree-opposing-hormuz-tolls-state-department-says-2026-05-12/",
-      "timestamp": "2026-05-13T12:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/china-us-agree-opposing-hormuz-tolls-state-department-says-2026-05-12/",
-          "angle": "US and China agree no country should exact Hormuz shipping tolls",
-          "summary": "Senior US and Chinese officials agreed that no country should be allowed to impose shipping tolls in the Strait of Hormuz, signaling cooperation to pressure Iran over control of the vital waterway."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/china-us-agree-opposing-hormuz-tolls-state-department-says-2026-05-12/",
-        "https://www.reuters.com/world/china/china-us-agree-opposing-hormuz-tolls-state-department-says-2026-05-12/"
       ]
     }
   ]
