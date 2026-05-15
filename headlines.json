@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-15T15:05:19+03:00",
+  "lastUpdated": "2026-05-15T16:05:10+03:00",
   "headlines": [
+    {
+      "headline": "Russia-Ukraine Exchange 205 POWs Each as Kyiv Mourns 24 Dead in Apartment Strike",
+      "summary": "Russia and Ukraine carried out their largest prisoner swap of the war, exchanging 205 prisoners each, while rescue workers ended the search for victims of a Russian missile strike on a Kyiv apartment building that killed 24 people including three teenagers.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c5y049w8nqwo",
+      "timestamp": "2026-05-15T16:03:00+03:00"
+    },
+    {
+      "headline": "Japan Economy Expected to Grow for Second Quarter Despite Iran War Shadow",
+      "summary": "Japan's GDP likely rose in January-March on recovering exports and solid domestic demand, a Reuters poll showed, though the full impact of the Iran conflict on the global economy has yet to be felt.",
+      "emoji": "🇯🇵",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/japans-q1-gdp-likely-rose-firm-exports-2026-05-15/",
+      "timestamp": "2026-05-15T16:03:00+03:00"
+    },
+    {
+      "headline": "Gazprom Astrakhan Gas Plant Halts Fuel Output After Drone Attack Fire",
+      "summary": "Gazprom's gas processing plant in Russia's southern Astrakhan region has halted motor fuel production after a fire broke out following a drone attack on May 13, two industry sources told Reuters.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/gazproms-astrakhan-gas-plant-halted-motor-fuel-output-after-may-13-drone-attack-2026-05-14/",
+      "timestamp": "2026-05-15T16:03:00+03:00"
+    },
+    {
+      "headline": "Iraqi Parliament Approves Partial Government Under New PM Zaidi",
+      "summary": "Iraq's new Prime Minister Ali al-Zaidi was sworn in with only a partial cabinet after lawmakers failed to reach consensus on key postings including interior and defense, amid political uncertainty in a country heavily affected by the Iran conflict.",
+      "emoji": "🇮🇶",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iraqi-parliament-approves-partial-government-led-pm-zaidi-2026-05-14/",
+      "timestamp": "2026-05-15T16:03:00+03:00"
+    },
+    {
+      "headline": "Bolivian Miners Clash With Police in La Paz, Demand President Resign",
+      "summary": "Violent clashes erupted in La Paz as mining groups took to the streets calling for the resignation of centrist President Rodrigo Paz, with explosions heard during the protests in Bolivia's capital.",
+      "emoji": "🇧🇴",
+      "category": "Latin America",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/americas/explosions-heard-during-bolivia-march-by-mining-groups-calling-resignation-2026-05-14/",
+      "timestamp": "2026-05-15T16:03:00+03:00"
+    },
     {
       "headline": "Trump Reaffirms Ironclad US-Japan Alliance After China Summit",
       "summary": "Japanese PM Takaichi confirmed that Trump reaffirmed the ironclad bilateral alliance in a phone call after his Beijing visit, signaling continued US commitment to Asian allies despite Trump-Xi talks.",
@@ -8,7 +53,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/trump-reaffirmed-ironclad-us-japan-alliance-after-china-trip-japans-takaichi-2026-05-15/",
-      "timestamp": "2026-05-15T15:03:00+03:00"
+      "timestamp": "2026-05-15T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/politics/international-relations/japan-s-hopes-for-a-trump-stop-in-tokyo-before-beijing-fall-through",
+          "angle": "Japan fails to secure Trump stop in Tokyo before Beijing summit",
+          "summary": "Japanese government plans to invite President Trump to Japan ahead of his China visit fell through. The diplomatic setback comes as Trump arrives in Beijing for a high-stakes summit with Xi Jinping."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Nikkei Asia"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/trump-reaffirmed-ironclad-us-japan-alliance-after-china-trip-japans-takaichi-2026-05-15/",
+        "https://asia.nikkei.com/politics/international-relations/japan-s-hopes-for-a-trump-stop-in-tokyo-before-beijing-fall-through"
+      ]
     },
     {
       "headline": "Trump Says Patience With Iran Running Out",
@@ -2246,15 +2307,6 @@
       "timestamp": "2026-05-13T20:10:00+03:00"
     },
     {
-      "headline": "Japan fails to secure Trump stop in Tokyo before Beijing summit",
-      "summary": "Japanese government plans to invite President Trump to Japan ahead of his China visit fell through. The diplomatic setback comes as Trump arrives in Beijing for a high-stakes summit with Xi Jinping.",
-      "emoji": "🇯🇵",
-      "category": "Asia-Pacific",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/international-relations/japan-s-hopes-for-a-trump-stop-in-tokyo-before-beijing-fall-through",
-      "timestamp": "2026-05-13T20:10:00+03:00"
-    },
-    {
       "headline": "Anduril raises $5 billion to build autonomous warship operations",
       "summary": "Defense tech company Anduril has secured $5 billion in financing to build autonomous warship operations in Seattle. The major investment signals growing private sector involvement in defense manufacturing.",
       "emoji": "⚔️",
@@ -2880,106 +2932,6 @@
       "urls": [
         "https://kyivindependent.com/uk-resolutely-behind-ukraine-minister-tells-kyiv-independent/",
         "https://kyivindependent.com/uk-resolutely-behind-ukraine-minister-tells-kyiv-independent/"
-      ]
-    },
-    {
-      "headline": "Trump Golden Dome missile shield to cost $1.2 trillion",
-      "summary": "US Congressional Budget Office estimates Trump's proposed missile defense system will cost nearly seven times his initial estimate. The system may not be able to stop an all-out missile attack.",
-      "emoji": "🇺🇸",
-      "category": "Defense Industry",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cqxp27j1xyjo",
-      "timestamp": "2026-05-13T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/united-states-canada/article/3353334/trumps-golden-dome-cost-us12-trillion-may-fail-stop-all-out-attack-watchdog",
-          "angle": "Trump Golden Dome missile shield could cost $1.2 trillion, watchdog warns",
-          "summary": "A US government watchdog estimates Trump's missile defense system will cost six times more than expected and could still be overwhelmed by a peer adversary's all-out attack, raising questions about feasibility."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/cqxp27j1xyjo",
-        "https://www.scmp.com/news/world/united-states-canada/article/3353334/trumps-golden-dome-cost-us12-trillion-may-fail-stop-all-out-attack-watchdog"
-      ]
-    },
-    {
-      "headline": "Global conflict displacements hit record 32.3 million in 2025",
-      "summary": "Internal displacements caused by violence or conflict reached a record high last year, surpassing disaster-driven displacement for the first time. Total global displacement now stands at 82.2 million.",
-      "emoji": "🌍",
-      "category": "Geopolitics",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/12/internal-displacements-violence-conflict-record-high-2025",
-      "timestamp": "2026-05-13T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/may/12/internal-displacements-violence-conflict-record-high-2025",
-          "angle": "Global conflict displacements hit record 32.3 million in 2025",
-          "summary": "Internal displacements from violence and conflict reached an all-time high in 2025, surpassing disaster-driven displacements for the first time. Iran and DR Congo accounted for two-thirds of all conflict-driven displacements."
-        }
-      ],
-      "sources": [
-        "The Guardian",
-        "The Guardian"
-      ],
-      "urls": [
-        "https://www.theguardian.com/world/2026/may/12/internal-displacements-violence-conflict-record-high-2025",
-        "https://www.theguardian.com/world/2026/may/12/internal-displacements-violence-conflict-record-high-2025"
-      ]
-    },
-    {
-      "headline": "Uganda's Museveni Sworn In for Record Seventh Term After Disputed Election",
-      "summary": "President Yoweri Museveni, 81, won January's disputed elections to extend his 40-year rule, making him one of Africa's longest-serving leaders.",
-      "emoji": "🇺🇬",
-      "category": "Africa",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/world/africa",
-      "timestamp": "2026-05-13T05:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cqxp23272j3o",
-          "angle": "Ugandas Museveni sworn in for record seventh term after disputed election",
-          "summary": "President Yoweri Museveni, 81, began his seventh consecutive term extending his 40-year rule over Uganda. Opposition leader Bobi Wine fled the country claiming the election was marred by ballot-stuffing, while rights groups reported at least 16 killed in post-election violence."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/world/africa",
-        "https://www.bbc.com/news/articles/cqxp23272j3o"
-      ]
-    },
-    {
-      "headline": "Serbia Hosts First Joint Military Exercise With NATO Since Kosovo War",
-      "summary": "The two-week drills mark a historic shift for Serbia, coming less than 30 years after NATO bombed Belgrade during the Kosovo conflict.",
-      "emoji": "🇷🇸",
-      "category": "Europe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/12/serbia-hosts-first-joint-military-exercise-with-nato",
-      "timestamp": "2026-05-13T05:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/5/12/serbia-hosts-first-joint-military-exercise-with-nato",
-          "angle": "Serbia Hosts First Joint Military Exercise With NATO",
-          "summary": "Serbia conducted its first joint military drills with NATO, less than 30 years after the alliance bombed Belgrade during the Kosovo war, marking a significant shift in Belgrade's foreign policy alignment."
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://www.aljazeera.com/news/2026/5/12/serbia-hosts-first-joint-military-exercise-with-nato",
-        "https://www.aljazeera.com/news/2026/5/12/serbia-hosts-first-joint-military-exercise-with-nato"
       ]
     }
   ]
