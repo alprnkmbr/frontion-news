@@ -1,18 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frontion News Headlines</title>
-    <link>https://frontion.com</link>
-    <description>Curated geopolitical news headlines from Tier 1 and Tier 2 sources</description>
+    <link>https://frontion.netlify.app/</link>
+    <description>Tier 1 Geopolitical News Headlines</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 May 2026 22:06:05 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 02:05:39 +0300</lastBuildDate>
+    <atom:link href="https://frontion.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Uganda confirms Ebola outbreak as Congo crisis deepens</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/uganda-confirms-outbreak-ebola-virus-disease-health-ministry-2026-05-15/</link>
+      <description>Uganda's health ministry confirmed an Ebola outbreak involving the Bundibugyo strain, while Africa CDC reported 65 deaths from 246 suspected cases in Congo's Ituri province. The US CDC is monitoring both outbreaks and providing technical assistance.</description>
+      <category>Africa</category>
+      <pubDate>2026-05-16T02:05:00+03:00</pubDate>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/uganda-confirms-outbreak-ebola-virus-disease-health-ministry-2026-05-15/</guid>
+    </item>
+    <item>
+      <title>Pentagon draws down thousands of troops in Europe</title>
+      <link>https://apnews.com/article/pentagon-europe-troops-poland-germany-2026-05-15/</link>
+      <description>The Pentagon is reducing US troop levels in Europe by canceling planned deployments to Poland and Germany rather than withdrawing existing forces, according to AP sources. The move comes as the Trump administration reassesses America's military footprint abroad.</description>
+      <category>Europe</category>
+      <pubDate>2026-05-16T02:05:00+03:00</pubDate>
+      <guid>https://apnews.com/article/pentagon-europe-troops-poland-germany-2026-05-15/</guid>
+    </item>
+    <item>
+      <title>Israel targets Hamas military wing leader in Gaza airstrike</title>
+      <link>https://www.nbcnews.com/world/middle-east/gaza-airstrike-targeted-hamas-military-wing-leader-israel-says-rcna345397</link>
+      <description>An Israeli airstrike targeted Izz al-Din al-Haddad, leader of Hamas' Qassam Brigades, who Israel says was one of the architects of the October 7 attack. At least seven people were killed in the strikes. It remains unclear if al-Haddad was hit.</description>
+      <category>Middle East</category>
+      <pubDate>2026-05-16T02:05:00+03:00</pubDate>
+      <guid>https://www.nbcnews.com/world/middle-east/gaza-airstrike-targeted-hamas-military-wing-leader-israel-says-rcna345397</guid>
+    </item>
+    <item>
+      <title>Oil prices surge over 3% as US-Iran standoff persists</title>
+      <link>https://www.reuters.com/world/middle-east/oil-rises-fears-ship-attacks-seizures-persist-2026-05-15/</link>
+      <description>Oil prices jumped more than 3% as comments from President Trump and Iran's foreign minister dented hopes for a deal to end ship attacks and seizures around the Strait of Hormuz. UAE stocks also fell as the deadlock rattled regional markets.</description>
+      <category>Energy</category>
+      <pubDate>2026-05-16T02:05:00+03:00</pubDate>
+      <guid>https://www.reuters.com/world/middle-east/oil-rises-fears-ship-attacks-seizures-persist-2026-05-15/</guid>
+    </item>
+    <item>
+      <title>Venezuela launches massive sovereign debt restructuring</title>
+      <link>https://www.reuters.com/business/finance/venezuela-starts-giant-debt-rework-hurdles-remain-2026-05-15/</link>
+      <description>Venezuela began a comprehensive public debt restructuring, one of the largest and most complex sovereign reworks on record. The country still faces major hurdles to complete the process after years of economic crisis and sanctions.</description>
+      <category>Economy</category>
+      <pubDate>2026-05-16T02:05:00+03:00</pubDate>
+      <guid>https://www.reuters.com/business/finance/venezuela-starts-giant-debt-rework-hurdles-remain-2026-05-15/</guid>
+    </item>
     <item>
       <title>Zelenskiy: Russia Planning Attack on NATO From Belarus</title>
       <link>https://www.reuters.com/world/europe/zelenskiy-says-russia-considering-plan-attack-nato-country-belarus-2026-05-15/</link>
       <description>Ukraines president warned Russia may be preparing attacks on Ukraine north or a NATO country from Belarusian territory, as Moscow seeks to draw Belarus deeper into the war.</description>
       <category>Ukraine-Russia War</category>
       <pubDate>2026-05-16T01:05:00+03:00</pubDate>
-      <source>Reuters</source>
+      <guid>https://www.reuters.com/world/europe/zelenskiy-says-russia-considering-plan-attack-nato-country-belarus-2026-05-15/</guid>
     </item>
     <item>
       <title>Merz: Would Advise Children Against Living in US</title>
@@ -20,7 +61,7 @@
       <description>German Chancellor Friedrich Merz said he would advise his children against living or studying in the United States, citing a rapidly changing social climate and limited opportunities even for the highly educated.</description>
       <category>Europe</category>
       <pubDate>2026-05-16T01:05:00+03:00</pubDate>
-      <source>Reuters</source>
+      <guid>https://www.reuters.com/world/germanys-merz-i-wouldnt-advise-my-children-live-us-2026-05-15/</guid>
     </item>
     <item>
       <title>Israel Strikes Hamas Armed Wing Chief in Gaza</title>
@@ -28,7 +69,7 @@
       <description>Israeli airstrikes killed at least seven Palestinians in Gaza. Israel said the strikes targeted the head of Hamas armed wing, though it was unclear if he was killed or wounded.</description>
       <category>Middle East</category>
       <pubDate>2026-05-16T01:05:00+03:00</pubDate>
-      <source>Reuters</source>
+      <guid>https://www.reuters.com/world/middle-east/israel-targets-head-hamas-armed-wing-with-gaza-strike-2026-05-15/</guid>
     </item>
     <item>
       <title>Greek Tanker Crosses Hormuz Amid Gulf Shipping Disruption</title>
@@ -36,7 +77,7 @@
       <description>A Greek-operated tanker sailed from the Gulf to India, one of the few crude sailings through the Strait of Hormuz this week as most shipping remains disrupted by the Iran conflict.</description>
       <category>Energy</category>
       <pubDate>2026-05-16T01:05:00+03:00</pubDate>
-      <source>Reuters</source>
+      <guid>https://www.reuters.com/world/middle-east/greek-operated-tanker-is-among-few-oil-vessels-cross-strait-hormuz-2026-05-15/</guid>
     </item>
     <item>
       <title>India-UAE Sign Strategic Defense Partnership</title>
@@ -44,7 +85,7 @@
       <description>India and the UAE agreed on a strategic defence partnership framework as PM Modi visited Abu Dhabi, deepening ties amid the Iran war with agreements on defence and petroleum cooperation.</description>
       <category>Diplomacy</category>
       <pubDate>2026-05-16T01:05:00+03:00</pubDate>
-      <source>Reuters</source>
+      <guid>https://www.reuters.com/world/india/india-signs-pacts-with-uae-defence-petroleum-during-modis-visit-2026-05-15/</guid>
     </item>
     <item>
       <title>US Arrests Iraqi Kataib Hezbollah Commander for Plotting Attacks on Jewish Targets</title>
@@ -52,7 +93,7 @@
       <description>The US Justice Department arrested Mohammad Baqer Saad Dawood Al-Saadi, an Iraqi national and Kataib Hezbollah commander, for terrorism on behalf of Iran. He allegedly planned attacks against Jewish sites and US interests.</description>
       <category>US-Iran War</category>
       <pubDate>2026-05-16T00:05:00+03:00</pubDate>
-      <source>Jerusalem Post</source>
+      <guid>https://www.jpost.com/international/article-896335</guid>
     </item>
     <item>
       <title>UAE Unveils $5 Billion India Investment Push During Modi Visit</title>
@@ -60,7 +101,7 @@
       <description>The UAE signed deals with India related to energy supplies and maritime security during Prime Minister Modi's visit, strengthening ties between the two nations amid the regional conflict.</description>
       <category>Diplomacy</category>
       <pubDate>2026-05-16T00:05:00+03:00</pubDate>
-      <source>Al-Monitor</source>
+      <guid>https://www.al-monitor.com/originals/2026/05/uae-unveils-5b-india-investment-push-during-modi-visit-what-know</guid>
     </item>
     <item>
       <title>IMF Warns Hong Kong Economy of Risks Linked to Middle East War</title>
@@ -68,7 +109,7 @@
       <description>The International Monetary Fund praised Hong Kong's resilient economy but warned of risks connected to the Middle East conflict while urging the city to pursue medium-term financial reforms.</description>
       <category>Economy</category>
       <pubDate>2026-05-16T00:05:00+03:00</pubDate>
-      <source>SCMP</source>
+      <guid>https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3353758/imf-lauds-resilient-hong-kong-economy-warns-risks-linked-middle-east-war</guid>
     </item>
     <item>
       <title>Pakistan Secures Release of 31 Seafarers Held by US</title>
@@ -76,7 +117,7 @@
       <description>Pakistan announced the successful repatriation of 31 seafarers, including 11 Pakistanis and 20 Iranians, who were aboard vessels seized by the US in a high-seas operation.</description>
       <category>Diplomacy</category>
       <pubDate>2026-05-16T00:05:00+03:00</pubDate>
-      <source>Anadolu Agency</source>
+      <guid>https://www.aa.com.tr/en/asia-pacific/islamabad-secures-release-of-pakistani-iranian-seafarers-held-by-us/3939091</guid>
     </item>
     <item>
       <title>BRICS Foreign Ministers Fail to Agree on Joint Statement Over Iran War</title>
@@ -84,7 +125,7 @@
       <description>Top diplomats from BRICS nations including rivals Iran and UAE could not issue a joint statement after a two-day meeting in Delhi, exposing deep divisions within the bloc over the ongoing Iran conflict. India released only a chair's statement instead.</description>
       <category>Diplomacy</category>
       <pubDate>2026-05-16T00:03:00+03:00</pubDate>
-      <source>Reuters</source>
+      <guid>https://www.reuters.com/world/china/india-issues-chair-statement-after-brics-meeting-amid-differences-over-gulf-2026-05-15/</guid>
     </item>
     <item>
       <title>Ebola Outbreak Confirmed in Congo with 65 Deaths</title>
@@ -92,7 +133,7 @@
       <description>Africa CDC confirmed a new Ebola outbreak in Democratic Republic of Congo's Ituri province with 65 deaths out of 246 suspected cases. The outbreak is in a remote region and US health officials are monitoring the situation.</description>
       <category>Africa</category>
       <pubDate>2026-05-16T00:03:00+03:00</pubDate>
-      <source>Reuters</source>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/africa-cdc-says-ebola-outbreak-confirmed-congos-ituri-province-2026-05-15/</guid>
     </item>
     <item>
       <title>Israel and Lebanon Extend Ceasefire by 45 Days</title>
@@ -100,7 +141,7 @@
       <description>Israel and Lebanon agreed to extend their ceasefire by 45 days after US-mediated talks in Washington, despite continued Israeli strikes. The extension allows time for further negotiations toward a permanent political settlement.</description>
       <category>Middle East</category>
       <pubDate>2026-05-16T00:03:00+03:00</pubDate>
-      <source>France24</source>
+      <guid>https://www.france24.com/en/middle-east/20260515-israel-lebanon-agree-to-extend-ceasefire-by-45-days-after-talks-in-washington</guid>
     </item>
     <item>
       <title>Oscar-Winning Iranian Director Condemns War Deaths and Crackdown</title>
@@ -108,7 +149,7 @@
       <description>Asghar Farhadi, director of the first Iranian film to win an Oscar for best foreign language movie, described as deeply painful the deaths of thousands in a January crackdown on protesters and the ongoing Iran war.</description>
       <category>Middle East</category>
       <pubDate>2026-05-16T00:03:00+03:00</pubDate>
-      <source>Reuters</source>
+      <guid>https://www.reuters.com/business/media-telecom/oscar-winning-iranian-director-farhadi-calls-crackdown-war-deaths-deeply-painful-2026-05-15/</guid>
     </item>
     <item>
       <title>US Justice Department Prepares to Indict Former Cuban President Raul Castro</title>
@@ -116,7 +157,7 @@
       <description>The US Justice Department is working to secure criminal charges against former Cuban President Raul Castro related to the 1996 shootdown of humanitarian planes, amid heightened US-Cuba tensions.</description>
       <category>Diplomacy</category>
       <pubDate>2026-05-15T23:03:00+03:00</pubDate>
-      <source>Reuters</source>
+      <guid>https://www.reuters.com/world/americas/us-plans-indict-raul-castro-raise-cubans-fears-force-2026-05-15/</guid>
     </item>
     <item>
       <title>Trump Suggests Deadly Russian Strike on Kyiv Could Set Back Ukraine Peace Efforts</title>
@@ -124,7 +165,7 @@
       <description>President Donald Trump suggested that a Russian missile strike on a Kyiv apartment building that killed 24 people, including three children, could complicate efforts to find a peaceful settlement to the war in Ukraine.</description>
       <category>Ukraine-Russia War</category>
       <pubDate>2026-05-15T23:03:00+03:00</pubDate>
-      <source>Reuters</source>
+      <guid>https://www.reuters.com/world/china/trump-suggests-deadly-russian-strike-kyiv-could-set-back-peace-efforts-2026-05-15/</guid>
     </item>
     <item>
       <title>Trump Weighs Taiwan Arms Package After Summit Aimed at Steadying US-China Ties</title>
@@ -132,7 +173,7 @@
       <description>President Donald Trump said he has not decided whether to proceed with a major arms sale to Taiwan, adding to uncertainty about US support for the island following his summit with Xi Jinping in Beijing.</description>
       <category>US-China</category>
       <pubDate>2026-05-15T23:03:00+03:00</pubDate>
-      <source>Reuters</source>
+      <guid>https://www.reuters.com/world/china/taiwan-thanks-us-support-ahead-further-trump-xi-talks-2026-05-15/</guid>
     </item>
     <item>
       <title>China Doubles Down on Manufacturing Push After Trump Visit</title>
@@ -140,7 +181,7 @@
       <description>China's Communist Party journal calls for strengthening manufacturing shortly after Trump's departure from Beijing, signaling continued focus on industrial self-sufficiency amid trade tensions.</description>
       <category>US-China</category>
       <pubDate>2026-05-15T22:05:00+03:00</pubDate>
-      <source>SCMP</source>
+      <guid>https://www.scmp.com/economy/china-economy/article/3353732/after-trump-visit-chinas-top-party-journal-doubles-down-manufacturing-push</guid>
     </item>
     <item>
       <title>Japan Faces Critical Shortage of Accredited Language Schools for Foreign Workers</title>
@@ -148,7 +189,7 @@
       <description>Only three schools nationwide are certified to teach under Japan's new foreign worker training program, creating a bottleneck as the country seeks to address labor shortages through immigration.</description>
       <category>Asia-Pacific</category>
       <pubDate>2026-05-15T22:05:00+03:00</pubDate>
-      <source>Nikkei Asia</source>
+      <guid>https://asia.nikkei.com/spotlight/japan-immigration/foreign-workers-in-japan-face-dearth-of-accredited-language-schools</guid>
     </item>
     <item>
       <title>US Army Trains to Counter Drone Swarms as Battlefield Threat Evolves</title>
@@ -156,7 +197,7 @@
       <description>The US Army is developing tactics to combat multiple drone threats simultaneously, moving beyond individual counter-drone measures as adversaries increasingly deploy swarm tactics.</description>
       <category>Defense Industry</category>
       <pubDate>2026-05-15T22:05:00+03:00</pubDate>
-      <source>Defense News</source>
+      <guid>https://www.defensenews.com/news/your-military/2026/05/15/no-sound-of-silence-us-soldiers-train-eyes-and-ears-for-drone-swarms/</guid>
     </item>
     <item>
       <title>FBI Offers $200K Reward for Ex-Air Force Specialist Who Defected to Iran</title>
@@ -164,47 +205,7 @@
       <description>Monica Witt, a former US Air Force counterintelligence specialist, is wanted for espionage after allegedly defecting to Iran and sharing classified information about US intelligence personnel.</description>
       <category>US-Iran War</category>
       <pubDate>2026-05-15T22:05:00+03:00</pubDate>
-      <source>The Hill</source>
-    </item>
-    <item>
-      <title>UN Vehicle Struck Twice by Drones in Ukraine's Kherson Region</title>
-      <link>https://www.aa.com.tr/en/russia-ukraine-war/un-alarmed-after-its-humanitarian-vehicle-struck-twice-by-drones-in-ukraines-kherson/3938994</link>
-      <description>The UN expressed alarm after a humanitarian vehicle was hit twice by drones in Kherson, calling it a serious incident. The organization is working to establish the facts and has not attributed the attack to either side.</description>
-      <category>Ukraine-Russia War</category>
-      <pubDate>2026-05-15T22:05:00+03:00</pubDate>
-      <source>Anadolu Agency</source>
-    </item>
-    <item>
-      <title>China Agrees to Buy 200 Boeing Jets, Could Rise to 750</title>
-      <link>https://www.reuters.com/business/aerospace-defense/trump-says-china-potentially-buy-750-boeing-planes-2026-05-15/</link>
-      <description>President Trump announced China will purchase 200 Boeing aircraft with GE engines, with potential to expand to 750 jets. The deal emerged from the Beijing summit between Trump and Xi Jinping.</description>
-      <category>US-China</category>
-      <pubDate>2026-05-15T22:03:00+03:00</pubDate>
-      <source>Reuters</source>
-    </item>
-    <item>
-      <title>German Chancellor Merz Reports Good Call With Trump After Iran Spat</title>
-      <link>https://www.nytimes.com/2026/05/15/world/europe/merz-trump-germany-us.html</link>
-      <description>Friedrich Merz initiated a phone call with Trump following tensions over Iran policy. Merz, who previously expressed admiration for America, sought to smooth relations after criticizing US actions.</description>
-      <category>Diplomacy</category>
-      <pubDate>2026-05-15T22:03:00+03:00</pubDate>
-      <source>New York Times</source>
-    </item>
-    <item>
-      <title>US Expects Double-Digit Billions in Chinese Farm Purchases After Summit</title>
-      <link>https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/</link>
-      <description>USTR Jamieson Greer announced China will commit to massive agricultural purchases following the Trump-Xi summit. The deal aims to reduce trade imbalance between the two nations.</description>
-      <category>US-China</category>
-      <pubDate>2026-05-15T22:03:00+03:00</pubDate>
-      <source>Reuters</source>
-    </item>
-    <item>
-      <title>China Still Slow on Rare Earth Approvals Despite Improvements</title>
-      <link>https://www.reuters.com/business/aerospace-defense/china-still-drags-its-feet-rare-earths-sometimes-says-greer-2026-05-15/</link>
-      <description>USTR Greer noted that while rare earth exports to the US are improving, Beijing continues to delay some shipments. Rare earths remain a key point of leverage in US-China trade negotiations.</description>
-      <category>US-China</category>
-      <pubDate>2026-05-15T22:03:00+03:00</pubDate>
-      <source>Reuters</source>
+      <guid>https://thehill.com/policy/national-security/5880353-monica-witt-iran-espionage-air-force-fbi-reward/</guid>
     </item>
   </channel>
 </rss>

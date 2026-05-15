@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-16T01:05:58+03:00",
+  "lastUpdated": "2026-05-16T02:05:25+03:00",
   "headlines": [
+    {
+      "headline": "Uganda confirms Ebola outbreak as Congo crisis deepens",
+      "summary": "Uganda's health ministry confirmed an Ebola outbreak involving the Bundibugyo strain, while Africa CDC reported 65 deaths from 246 suspected cases in Congo's Ituri province. The US CDC is monitoring both outbreaks and providing technical assistance.",
+      "emoji": "🦠",
+      "category": "Africa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/uganda-confirms-outbreak-ebola-virus-disease-health-ministry-2026-05-15/",
+      "timestamp": "2026-05-16T02:05:00+03:00"
+    },
+    {
+      "headline": "Pentagon draws down thousands of troops in Europe",
+      "summary": "The Pentagon is reducing US troop levels in Europe by canceling planned deployments to Poland and Germany rather than withdrawing existing forces, according to AP sources. The move comes as the Trump administration reassesses America's military footprint abroad.",
+      "emoji": "🇺🇸",
+      "category": "Europe",
+      "source": "AP News",
+      "url": "https://apnews.com/article/pentagon-europe-troops-poland-germany-2026-05-15/",
+      "timestamp": "2026-05-16T02:05:00+03:00"
+    },
+    {
+      "headline": "Israel targets Hamas military wing leader in Gaza airstrike",
+      "summary": "An Israeli airstrike targeted Izz al-Din al-Haddad, leader of Hamas' Qassam Brigades, who Israel says was one of the architects of the October 7 attack. At least seven people were killed in the strikes. It remains unclear if al-Haddad was hit.",
+      "emoji": "🇮🇱",
+      "category": "Middle East",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/middle-east/gaza-airstrike-targeted-hamas-military-wing-leader-israel-says-rcna345397",
+      "timestamp": "2026-05-16T02:05:00+03:00"
+    },
+    {
+      "headline": "Oil prices surge over 3% as US-Iran standoff persists",
+      "summary": "Oil prices jumped more than 3% as comments from President Trump and Iran's foreign minister dented hopes for a deal to end ship attacks and seizures around the Strait of Hormuz. UAE stocks also fell as the deadlock rattled regional markets.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/oil-rises-fears-ship-attacks-seizures-persist-2026-05-15/",
+      "timestamp": "2026-05-16T02:05:00+03:00"
+    },
+    {
+      "headline": "Venezuela launches massive sovereign debt restructuring",
+      "summary": "Venezuela began a comprehensive public debt restructuring, one of the largest and most complex sovereign reworks on record. The country still faces major hurdles to complete the process after years of economic crisis and sanctions.",
+      "emoji": "🇻🇪",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/venezuela-starts-giant-debt-rework-hurdles-remain-2026-05-15/",
+      "timestamp": "2026-05-16T02:05:00+03:00"
+    },
     {
       "headline": "Zelenskiy: Russia Planning Attack on NATO From Belarus",
       "summary": "Ukraines president warned Russia may be preparing attacks on Ukraine north or a NATO country from Belarusian territory, as Moscow seeks to draw Belarus deeper into the war.",
@@ -8,7 +53,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/zelenskiy-says-russia-considering-plan-attack-nato-country-belarus-2026-05-15/",
-      "timestamp": "2026-05-16T01:05:00+03:00"
+      "timestamp": "2026-05-16T01:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russian-plans-to-attack-kyiv-or-nato-country-from-belarus-zelensky-says/",
+          "angle": "Russia planning new offensive from Belarus, Zelensky warns",
+          "summary": "President Zelensky said Russia is stepping up efforts to drag Belarus into the war, with Moscow planning potential attacks on Ukraine or NATO states from Belarusian territory. Ukraine has strengthened its northern border defenses in response."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/zelenskiy-says-russia-considering-plan-attack-nato-country-belarus-2026-05-15/",
+        "https://kyivindependent.com/russian-plans-to-attack-kyiv-or-nato-country-from-belarus-zelensky-says/"
+      ]
     },
     {
       "headline": "Merz: Would Advise Children Against Living in US",
@@ -388,15 +449,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-monitoring-ebola-outbreak-drc-uganda-providing-assistance-2026-05-15/",
       "timestamp": "2026-05-15T21:03:00+03:00"
-    },
-    {
-      "headline": "Russia planning new offensive from Belarus, Zelensky warns",
-      "summary": "President Zelensky said Russia is stepping up efforts to drag Belarus into the war, with Moscow planning potential attacks on Ukraine or NATO states from Belarusian territory. Ukraine has strengthened its northern border defenses in response.",
-      "emoji": "🇧🇾",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russian-plans-to-attack-kyiv-or-nato-country-from-belarus-zelensky-says/",
-      "timestamp": "2026-05-15T20:08:00+03:00"
     },
     {
       "headline": "Russian drone force passes 100,000 personnel, copying Ukraine model",
@@ -2841,42 +2893,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/kenya-france-africa-summit-investments-macron-ruto-9f3b72102b8f91209f5f1772f3da8e02",
       "timestamp": "2026-05-13T18:05:00+03:00"
-    },
-    {
-      "headline": "EU Gas Reliance on US Raises Supply Risk Concerns",
-      "summary": "European energy regulators warned that the EU's growing dependence on U.S. liquefied natural gas carries risks, including rising dependence on a single supplier.",
-      "emoji": "⛽",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/europes-reliance-us-gas-set-rise-research-report-says-2026-05-13/",
-      "timestamp": "2026-05-13T17:03:00+03:00"
-    },
-    {
-      "headline": "US LNG Vessels Resume China Shipments After Year-Long Pause Ahead of Trump-Xi Summit",
-      "summary": "China may receive its first direct U.S. liquefied natural gas shipment in over a year, signaling thawing energy ties as Trump heads to Beijing for talks with Xi Jinping.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/us-lng-vessels-leave-china-after-year-long-pause-ahead-trump-xi-summit-2026-05-12/",
-      "timestamp": "2026-05-13T17:03:00+03:00"
-    },
-    {
-      "headline": "Post-War Gaza Envoy Visits Jerusalem to Advance Ceasefire Deal",
-      "summary": "The top diplomat overseeing the U.S.-brokered Gaza ceasefire deal is in Jerusalem to advance implementation of the agreement.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "AP News",
-      "url": "https://apnews.com/article/gaza-hamas-israel-netanyahu-mladenov-fad582f86073bd9e3345a6d309ce197e",
-      "timestamp": "2026-05-13T17:03:00+03:00"
-    },
-    {
-      "headline": "Ukrainian forces deploy ground robot to destroy Russian-held building",
-      "summary": "Ukraines 100th Mechanized Brigade used a kamikaze ground robot to attack a building occupied by Russian sabotage troops in Kostiantynivka, demonstrating evolving robotic warfare tactics on the battlefield.",
-      "emoji": "🤖",
-      "category": "Military",
-      "source": "Forbes",
-      "url": "https://www.forbes.com/sites/davidkirichenko/2026/05/13/a-ukrainian-ground-robot-drove-into-a-russian-held-building-and-blew-it-up/",
-      "timestamp": "2026-05-13T16:07:00+03:00"
     }
   ]
 }
