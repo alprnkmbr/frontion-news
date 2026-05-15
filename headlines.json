@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-15T05:04:57+03:00",
+  "lastUpdated": "2026-05-15T06:04:27+03:00",
   "headlines": [
+    {
+      "headline": "Putin Escalating War, Not Seeking End, Says German Chancellor Candidate Merz",
+      "summary": "German politician Friedrich Merz condemned Russia massive aerial attacks on Ukraine, saying Putin is escalating rather than seeking peace. Kyiv faced its third straight day of Russian strikes with apartment buildings flattened.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/15/ukraine-war-briefing-putin-escalating-war-not-seeking-an-end-merz",
+      "timestamp": "2026-05-15T06:03:00+03:00"
+    },
+    {
+      "headline": "Russia Losing Ground in Ukraine for First Time Since Kursk Incursion",
+      "summary": "Ukraine liberated more territory than Russia seized last month, marking Moscows first net loss of territory since Ukraines 2024 Kursk operation. The shift comes as Russia launched its largest aerial assault of the war.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "CNN",
+      "url": "https://edition.cnn.com/2026/05/14/europe/russia-winning-streak-ukraine-over-intl-cmd",
+      "timestamp": "2026-05-15T06:03:00+03:00"
+    },
+    {
+      "headline": "Saudi Arabia and UAE Carried Out Secret Attacks Inside Iran",
+      "summary": "US officials revealed that Gulf Arab states conducted covert operations in Iran, seeking to deter Iranian aggression after the war exposed limits of American security guarantees. The attacks reflect regional unease about Iranian military capabilities.",
+      "emoji": "🇸🇦",
+      "category": "Middle East",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html",
+      "timestamp": "2026-05-15T06:03:00+03:00"
+    },
+    {
+      "headline": "Ship Seized Near Iran as Trump and Xi Agree Hormuz Must Stay Open",
+      "summary": "A vessel was taken toward Iranian waters while another ship sank near Oman. Trump and Xi Jinping agreed the critical Strait of Hormuz shipping lane must remain open during their Beijing summit, as China offered to help negotiate with Iran.",
+      "emoji": "🚢",
+      "category": "Middle East",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/trump-xi-iran-war-strait-hormuz-lebanon-israel-peace-talks/",
+      "timestamp": "2026-05-15T06:03:00+03:00"
+    },
     {
       "headline": "Japan wholesale inflation hits 3-year high as Iran war drives energy prices",
       "summary": "Japanese wholesale inflation accelerated at the fastest pace in three years in April as the Iran conflict boosted oil and chemical prices, strengthening the case for a central bank rate hike as soon as June.",
@@ -8,7 +44,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/japan-april-wholesale-inflation-rate-spikes-rising-import-costs-2026-05-15/",
-      "timestamp": "2026-05-15T05:03:00+03:00"
+      "timestamp": "2026-05-15T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Daily Sabah",
+          "url": "https://www.dailysabah.com/business/economy/turkish-central-bank-ups-year-end-inflation-target-warns-of-war-risks",
+          "angle": "Turkish central bank raises inflation target, warns of Iran war risks",
+          "summary": "Turkey's central bank increased its year-end inflation forecast and warned of potential economic impacts from the ongoing Iran conflict affecting regional stability."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Daily Sabah"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/japan-april-wholesale-inflation-rate-spikes-rising-import-costs-2026-05-15/",
+        "https://www.dailysabah.com/business/economy/turkish-central-bank-ups-year-end-inflation-target-warns-of-war-risks"
+      ]
     },
     {
       "headline": "China halts US beef export licenses hours after Trump-Xi summit approval",
@@ -17,7 +69,31 @@
       "category": "US-China",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/china-renews-licences-hundreds-us-beef-exporters-amid-trump-xi-summit-2026-05-14/",
-      "timestamp": "2026-05-15T05:03:00+03:00"
+      "timestamp": "2026-05-15T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/taiwan-no-surprises-trump-xi-summit-china-should-end-military-pressure-2026-05-14/",
+          "angle": "Taiwan responds to Trump-Xi summit: China should end military pressure",
+          "summary": "Taiwan said nothing surprising came from the Trump-Xi summit but called on China to end military pressure on the island, which Taipei views as the real threat to regional peace."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/china-renews-licences-hundreds-us-beef-exporters-amid-trump-xi-summit-2026-05-14/",
+          "angle": "China Halts US Beef Export Licenses Hours After Approving Them",
+          "summary": "Chinese customs appeared to halt export clearances for hundreds of US beef plants just hours after Reuters reported the long-awaited licenses had been approved during the Trump-Xi summit, underscoring ongoing trade tensions."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/china-renews-licences-hundreds-us-beef-exporters-amid-trump-xi-summit-2026-05-14/",
+        "https://www.reuters.com/world/china/taiwan-no-surprises-trump-xi-summit-china-should-end-military-pressure-2026-05-14/",
+        "https://www.reuters.com/world/asia-pacific/china-renews-licences-hundreds-us-beef-exporters-amid-trump-xi-summit-2026-05-14/"
+      ]
     },
     {
       "headline": "US expects double-digit billions in Chinese farm purchases after summit",
@@ -44,7 +120,31 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/iraq-sought-financial-assistance-imf-result-iran-war-source-close-imf-says-2026-05-14/",
-      "timestamp": "2026-05-15T05:03:00+03:00"
+      "timestamp": "2026-05-15T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/iraqi-parliament-approves-partial-government-led-by-pm-zaidi-2026-05-14/",
+          "angle": "Iraq swears in new PM with partial cabinet as Iran war strains region",
+          "summary": "Prime Minister Ali al-Zaidi was sworn in with only a partial cabinet after lawmakers failed to agree on key postings including interior and defence, as the conflict in neighboring Iran creates regional instability."
+        },
+        {
+          "source": "Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/gulf-countries-arrest-over-100-shiites-for-treason-amid-iran-war-nyt-report/",
+          "angle": "Gulf states arrest over 100 Shiites on treason charges amid Iran war",
+          "summary": "Gulf nations have arrested more than 100 Shiites and accused them of treason as the Iran-Israel war continues, according to a New York Times report. The arrests highlight regional sectarian tensions amplified by the conflict."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Times of Israel"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/iraq-sought-financial-assistance-imf-result-iran-war-source-close-imf-says-2026-05-14/",
+        "https://www.reuters.com/world/middle-east/iraqi-parliament-approves-partial-government-led-by-pm-zaidi-2026-05-14/",
+        "https://www.timesofisrael.com/liveblog_entry/gulf-countries-arrest-over-100-shiites-for-treason-amid-iran-war-nyt-report/"
+      ]
     },
     {
       "headline": "US cancels planned deployment of 4,000 troops to Poland",
@@ -126,39 +226,6 @@
       ]
     },
     {
-      "headline": "Taiwan responds to Trump-Xi summit: China should end military pressure",
-      "summary": "Taiwan said nothing surprising came from the Trump-Xi summit but called on China to end military pressure on the island, which Taipei views as the real threat to regional peace.",
-      "emoji": "🇹🇼",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/taiwan-no-surprises-trump-xi-summit-china-should-end-military-pressure-2026-05-14/",
-      "timestamp": "2026-05-15T03:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/5/14/chinas-xi-warns-trump-about-taiwan-at-beijing-summit",
-          "angle": "Chinas Xi Warns Trump on Taiwan at Beijing Summit",
-          "summary": "Chinese President Xi Jinping issued a subtle but clear warning on Taiwan during the Trump-Xi summit in Beijing, while both leaders agreed on cooperation regarding the Iran conflict."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/trump-xi-set-second-day-talks-after-taiwan-warning-2026-05-14/",
-          "angle": "Xi warns Trump that mishandling Taiwan could push relations to dangerous place",
-          "summary": "Chinese President Xi Jinping issued a stark warning during the Beijing summit, saying that mishandling the Taiwan issue could push US-China relations to a \"very dangerous\" place, underscoring the fragility of the relationship."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Jazeera",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/taiwan-no-surprises-trump-xi-summit-china-should-end-military-pressure-2026-05-14/",
-        "https://www.aljazeera.com/news/2026/5/14/chinas-xi-warns-trump-about-taiwan-at-beijing-summit",
-        "https://www.reuters.com/world/china/trump-xi-set-second-day-talks-after-taiwan-warning-2026-05-14/"
-      ]
-    },
-    {
       "headline": "Hungary summons Russian ambassador over drone attack that entered its airspace",
       "summary": "Hungary summoned Russia's ambassador after a massive drone attack on Ukraine included drones that entered Hungarian airspace, marking a significant diplomatic escalation as Hungary maintains close ties with Moscow.",
       "emoji": "🇭🇺",
@@ -224,31 +291,6 @@
       "urls": [
         "https://www.reuters.com/world/china/iran-uae-clash-brics-foreign-ministers-meeting-2026-05-14/",
         "https://www.reuters.com/sustainability/tense-brics-amid-iran-war-oil-crisis-2026-05-14/"
-      ]
-    },
-    {
-      "headline": "Iraq swears in new PM with partial cabinet as Iran war strains region",
-      "summary": "Prime Minister Ali al-Zaidi was sworn in with only a partial cabinet after lawmakers failed to agree on key postings including interior and defence, as the conflict in neighboring Iran creates regional instability.",
-      "emoji": "🇮🇶",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iraqi-parliament-approves-partial-government-led-by-pm-zaidi-2026-05-14/",
-      "timestamp": "2026-05-15T02:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al-Monitor",
-          "url": "https://www.al-monitor.com/originals/2026/05/exclusive-iraq-sought-financial-assistance-imf-result-iran-war-source-close-imf",
-          "angle": "Iraq seeks IMF financial assistance due to Iran war economic impact",
-          "summary": "Iraqi officials have approached the International Monetary Fund for financial assistance as the Iran war creates economic pressures on the country, highlighting regional spillover effects."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al-Monitor"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/iraqi-parliament-approves-partial-government-led-by-pm-zaidi-2026-05-14/",
-        "https://www.al-monitor.com/originals/2026/05/exclusive-iraq-sought-financial-assistance-imf-result-iran-war-source-close-imf"
       ]
     },
     {
@@ -731,31 +773,6 @@
       ]
     },
     {
-      "headline": "China Halts US Beef Export Licenses Hours After Approving Them",
-      "summary": "Chinese customs appeared to halt export clearances for hundreds of US beef plants just hours after Reuters reported the long-awaited licenses had been approved during the Trump-Xi summit, underscoring ongoing trade tensions.",
-      "emoji": "🥩",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/china-renews-licences-hundreds-us-beef-exporters-amid-trump-xi-summit-2026-05-14/",
-      "timestamp": "2026-05-14T20:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3353616/china-restores-us-beef-trade-amid-trump-xi-summit-alarming-brazilian-exporters",
-          "angle": "China renews US beef import licenses, raising competition for Brazil",
-          "summary": "Beijing restored import licenses for hundreds of US beef plants during the Trump-Xi summit, reversing months of frozen trade and creating new competition for Brazilian exporters in Chinas largest beef market."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/china-renews-licences-hundreds-us-beef-exporters-amid-trump-xi-summit-2026-05-14/",
-        "https://www.scmp.com/news/china/diplomacy/article/3353616/china-restores-us-beef-trade-amid-trump-xi-summit-alarming-brazilian-exporters"
-      ]
-    },
-    {
       "headline": "Iran small businesses collapse under war and internet blackout",
       "summary": "Prices for some goods have tripled or quadrupled within months, with at least 2 million people losing jobs as Iran economy buckles under war pressure, inflation, and internet restrictions.",
       "emoji": "🇮🇷💰",
@@ -978,15 +995,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/rubio-us-wants-china-press-iran-change-course-gulf-2026-05-13/",
       "timestamp": "2026-05-14T17:05:00+03:00"
-    },
-    {
-      "headline": "Turkish central bank raises inflation target, warns of Iran war risks",
-      "summary": "Turkey's central bank increased its year-end inflation forecast and warned of potential economic impacts from the ongoing Iran conflict affecting regional stability.",
-      "emoji": "🇹🇷",
-      "category": "Economy",
-      "source": "Daily Sabah",
-      "url": "https://www.dailysabah.com/business/economy/turkish-central-bank-ups-year-end-inflation-target-warns-of-war-risks",
-      "timestamp": "2026-05-14T16:07:00+03:00"
     },
     {
       "headline": "Latvian Armed Forces deploy Natrix unmanned ground vehicles",
@@ -1787,15 +1795,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/boe-hold-rates-375-this-year-growing-minority-expect-hike-2026-05-13/",
       "timestamp": "2026-05-13T22:03:00+03:00"
-    },
-    {
-      "headline": "Gulf states arrest over 100 Shiites on treason charges amid Iran war",
-      "summary": "Gulf nations have arrested more than 100 Shiites and accused them of treason as the Iran-Israel war continues, according to a New York Times report. The arrests highlight regional sectarian tensions amplified by the conflict.",
-      "emoji": "🇸🇦",
-      "category": "Middle East",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/gulf-countries-arrest-over-100-shiites-for-treason-amid-iran-war-nyt-report/",
-      "timestamp": "2026-05-13T20:10:00+03:00"
     },
     {
       "headline": "Germany calls for probe into alleged Israeli abuse of Palestinian detainees",
