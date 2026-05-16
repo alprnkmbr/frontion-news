@@ -1,23 +1,50 @@
 {
-  "lastUpdated": "2026-05-16T07:06:08+03:00",
+  "lastUpdated": "2026-05-16T08:06:41+03:00",
   "headlines": [
     {
-      "headline": "Trump Weighs Taiwan Arms Sale After Xi Summit",
-      "summary": "After two days of talks in Beijing, Trump said he has not decided on a major arms package for Taiwan and warned against independence, saying \"the last thing we need right now is a war 9,500 miles away.\" Xi warned that Taiwan is the most important issue in US-China relations and mishandling it could lead to conflict.",
-      "emoji": "🇨🇳🇺🇸🇹🇼",
-      "category": "US-China",
-      "source": "AP News",
-      "url": "https://apnews.com/article/trump-xi-taiwan-iran-trade-e7a3cdf161c608de152ac1c6e5755452",
-      "timestamp": "2026-05-16T07:05:00+03:00"
+      "headline": "Russia and Ukraine exchange 205 prisoners each in latest swap",
+      "summary": "The prisoner exchange marks a continued diplomatic effort despite ongoing hostilities, with both sides bringing home service personnel from Russian and Ukrainian captivity.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/russia-ukraine-swap-205-prisoners-war-each-2026-05-15/",
+      "timestamp": "2026-05-16T08:05:00+03:00"
     },
     {
-      "headline": "Trump Warns Taiwan Against Independence After China Summit",
-      "summary": "US President Trump cautioned Taiwan against declaring independence after meeting Xi Jinping in Beijing. Xi warned that Taiwan is \"the most important issue\" in bilateral relations and could trigger conflict if mishandled. Trump said he would decide soon on a major arms sale.",
-      "emoji": "🇹🇼🇨🇳",
+      "headline": "Zelenskiy warns Russia may be planning NATO attack from Belarus",
+      "summary": "Ukraine's president says intelligence suggests Russia is considering military operations against a NATO country using Belarusian territory, raising concerns about escalation.",
+      "emoji": "🇷🇺",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/zelenskiy-says-russia-considering-plan-attack-nato-country-belarus-2026-05-15/",
+      "timestamp": "2026-05-16T08:05:00+03:00"
+    },
+    {
+      "headline": "Drone warfare becomes deadliest threat to Sudanese civilians",
+      "summary": "Armed drones account for over 80% of conflict-related civilian deaths in Sudan, with at least 880 civilians killed by drone strikes between January and April 2026.",
+      "emoji": "🇸🇩",
+      "category": "Africa",
+      "source": "AP News",
+      "url": "https://apnews.com/article/sudan-war-military-rsf-paramilitary-drones-1c0301faa15f5b57df9621a4b44aa939",
+      "timestamp": "2026-05-16T08:05:00+03:00"
+    },
+    {
+      "headline": "Taiwan presses US for arms sales after Trump signals uncertainty",
+      "summary": "Following Trump's comments during his China visit expressing hesitation about defending Taiwan, the island's government emphasizes the importance of US arms deals for regional security.",
+      "emoji": "🇹🇼",
       "category": "US-China",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ce8p61v7l68o",
-      "timestamp": "2026-05-16T07:05:00+03:00"
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/taiwan-says-us-arms-sales-are-cornerstone-regional-peace-2026-05-16/",
+      "timestamp": "2026-05-16T08:05:00+03:00"
+    },
+    {
+      "headline": "US and Nigerian forces kill ISIS second-in-command, Trump announces",
+      "summary": "Abu-Bilal al-Minuki, described as the global second-in-command of ISIS, was eliminated in a joint US-Nigerian military operation, according to President Trump.",
+      "emoji": "🇺🇸",
+      "category": "Middle East",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-16/trump-says-us-forces-nigeria-armed-forces-killed-isis-leader",
+      "timestamp": "2026-05-16T08:05:00+03:00"
     },
     {
       "headline": "Trump Leaves China With Warm Rhetoric But Few Concrete Results",
@@ -35,7 +62,23 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/xi-gives-trump-rare-tour-secret-garden-heart-chinese-government-2026-05-15/",
-      "timestamp": "2026-05-16T07:05:00+03:00"
+      "timestamp": "2026-05-16T07:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/putin-visit-china-will-take-place-very-soon-kremlin-says-2026-05-14/",
+          "angle": "Putin to visit China soon as Russia deepens ties amid Iran war",
+          "summary": "Russian President Vladimir Putin will visit China very soon, the Kremlin said, as preparations for the trip are already complete amid ongoing global tensions over the Iran conflict."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/xi-gives-trump-rare-tour-secret-garden-heart-chinese-government-2026-05-15/",
+        "https://www.reuters.com/world/china/putin-visit-china-will-take-place-very-soon-kremlin-says-2026-05-14/"
+      ]
     },
     {
       "headline": "36 Countries and EU Approve Special Tribunal to Prosecute Putin for Aggression",
@@ -468,19 +511,27 @@
       "timestamp": "2026-05-15T23:03:00+03:00",
       "perspectives": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3353782/trump-leaves-china-after-much-pomp-and-pageantry-little-show-it",
-          "angle": "Trump Leaves China With Little Concrete Progress After Xi Summit",
-          "summary": "Analysts say the Trump-Xi summit in Beijing produced impressive optics but disappointing economic deliverables. Key issues remain unresolved including AI, nuclear weapons, tariffs, Taiwan, and South China Sea tensions."
+          "source": "AP News",
+          "url": "https://apnews.com/article/trump-xi-taiwan-iran-trade-e7a3cdf161c608de152ac1c6e5755452",
+          "angle": "Trump Weighs Taiwan Arms Sale After Xi Summit",
+          "summary": "After two days of talks in Beijing, Trump said he has not decided on a major arms package for Taiwan and warned against independence, saying \"the last thing we need right now is a war 9,500 miles away.\" Xi warned that Taiwan is the most important issue in US-China relations and mishandling it could lead to conflict."
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/ce8p61v7l68o",
+          "angle": "Trump Warns Taiwan Against Independence After China Summit",
+          "summary": "US President Trump cautioned Taiwan against declaring independence after meeting Xi Jinping in Beijing. Xi warned that Taiwan is \"the most important issue\" in bilateral relations and could trigger conflict if mishandled. Trump said he would decide soon on a major arms sale."
         }
       ],
       "sources": [
         "Reuters",
-        "SCMP"
+        "AP News",
+        "BBC"
       ],
       "urls": [
         "https://www.reuters.com/world/china/taiwan-thanks-us-support-ahead-further-trump-xi-talks-2026-05-15/",
-        "https://www.scmp.com/news/china/diplomacy/article/3353782/trump-leaves-china-after-much-pomp-and-pageantry-little-show-it"
+        "https://apnews.com/article/trump-xi-taiwan-iran-trade-e7a3cdf161c608de152ac1c6e5755452",
+        "https://www.bbc.com/news/articles/ce8p61v7l68o"
       ]
     },
     {
@@ -2231,31 +2282,6 @@
       "timestamp": "2026-05-14T16:03:00+03:00"
     },
     {
-      "headline": "Putin to visit China soon as Russia deepens ties amid Iran war",
-      "summary": "Russian President Vladimir Putin will visit China very soon, the Kremlin said, as preparations for the trip are already complete amid ongoing global tensions over the Iran conflict.",
-      "emoji": "🇷🇺",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/putin-visit-china-will-take-place-very-soon-kremlin-says-2026-05-14/",
-      "timestamp": "2026-05-14T15:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al-Monitor",
-          "url": "https://www.al-monitor.com/originals/2026/05/indian-pm-seeks-trade-energy-stability-uae-europe-tour",
-          "angle": "India PM Modi begins five-nation tour seeking energy stability amid Iran war disruptions",
-          "summary": "Indian Prime Minister Narendra Modi started a diplomatic tour to UAE, Netherlands, Sweden, Norway and Italy to secure energy supplies and strengthen trade ties following the India-EU free trade agreement. The trip underscores India's efforts to diversify partnerships amid Middle East volatility."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al-Monitor"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/putin-visit-china-will-take-place-very-soon-kremlin-says-2026-05-14/",
-        "https://www.al-monitor.com/originals/2026/05/indian-pm-seeks-trade-energy-stability-uae-europe-tour"
-      ]
-    },
-    {
       "headline": "Zelenskiy ex-chief of staff arrested in widening Ukraine corruption probe",
       "summary": "Ukrainian President Zelenskiy's former right-hand man was taken into custody on money-laundering charges, part of a fight against graft that is fuelling wartime political tensions.",
       "emoji": "⚖️",
@@ -2875,15 +2901,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/boe-hold-rates-375-this-year-growing-minority-expect-hike-2026-05-13/",
       "timestamp": "2026-05-13T22:03:00+03:00"
-    },
-    {
-      "headline": "Germany calls for probe into alleged Israeli abuse of Palestinian detainees",
-      "summary": "Germany has urged an investigation into allegations of torture and sexual abuse against Palestinian detainees in Israeli custody. The call adds international pressure over treatment of prisoners amid the broader regional conflict.",
-      "emoji": "🇩🇪",
-      "category": "Middle East",
-      "source": "Daily Sabah",
-      "url": "https://www.dailysabah.com/world/mid-east/germany-urges-probe-into-alleged-israeli-abuse-of-palestinian-detainees",
-      "timestamp": "2026-05-13T20:10:00+03:00"
     }
   ]
 }
