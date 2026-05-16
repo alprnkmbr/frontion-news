@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-17T00:06:12+03:00",
+  "lastUpdated": "2026-05-17T01:05:08+03:00",
   "headlines": [
+    {
+      "headline": "ISIS Deputy Leader Killed in US-Nigeria Joint Operation",
+      "summary": "Abu-Bilal al-Minuki, the second-in-command of ISIS globally, was killed in a joint US-Nigerian military operation in northeastern Nigeria. President Trump and Nigerian President Tinubu confirmed the operation, marking a significant blow to the terrorist organization.",
+      "emoji": "🌍",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/trump-says-isis-second-command-abu-bilal-al-minuki-eliminated-2026-05-16/",
+      "timestamp": "2026-05-17T01:05:00+03:00"
+    },
+    {
+      "headline": "Tens of Thousands Protest in London as Rival Rallies Face Off",
+      "summary": "London deployed thousands of police officers to manage rival protests: a far-right \"Unite the Kingdom\" rally and a pro-Palestinian Nakba Day march. At least 11 people were arrested as authorities worked to keep the opposing groups separated.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/live/2026/may/16/far-right-unite-the-kingdom-rally-tommy-robinson-london-nakba-day-march-latest-news-updates",
+      "timestamp": "2026-05-17T01:05:00+03:00"
+    },
     {
       "headline": "IDF Infantry Commander Killed by Hezbollah Drone in Southern Lebanon",
       "summary": "Captain Maoz Israel Recanati, 24, was killed by a Hezbollah drone attack in southern Lebanon. He was set to marry next month. The IDF struck over 100 targets in response.",
@@ -29,15 +47,6 @@
       "timestamp": "2026-05-17T00:05:00+03:00"
     },
     {
-      "headline": "Putin to Visit China Days After Trump Trip",
-      "summary": "Russian President Vladimir Putin will meet Chinese leader Xi Jinping on a two-day trip to Beijing next week. The announcement comes just after Trump wrapped up the first visit to China by a US president in years.",
-      "emoji": "🇷🇺🇨🇳",
-      "category": "Diplomacy",
-      "source": "Channel News Asia",
-      "url": "https://www.channelnewsasia.com/east-asia/russia-vladimir-putin-visit-china-xi-jinping-6125516",
-      "timestamp": "2026-05-17T00:05:00+03:00"
-    },
-    {
       "headline": "Hezbollah Urges Lebanon to Abandon Peace Illusions With Israel",
       "summary": "Hezbollah warned Lebanese authorities against direct negotiations with Israel as Washington pushes forward with a new round of talks between Beirut and Tel Aviv.",
       "emoji": "🇱🇧⚠️",
@@ -47,22 +56,62 @@
       "timestamp": "2026-05-17T00:05:00+03:00"
     },
     {
-      "headline": "Israel kills Hamas military chief Izz al-Din al-Haddad in Gaza strike",
-      "summary": "An Israeli airstrike killed the head of Hamas armed wing, the most senior Hamas official killed since the October ceasefire. Israel says he helped plan the Oct 7 attacks.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/gaza-mosques-announce-death-hamas-military-leader-after-israeli-targeting-claim-2026-05-16/",
-      "timestamp": "2026-05-17T00:03:00+03:00"
-    },
-    {
       "headline": "Putin to visit China days after Trump summit as Russia seeks strategic support",
       "summary": "Russian President Vladimir Putin will meet Xi Jinping in Beijing next week, just after Trump became the first US president to visit China since 2017.",
       "emoji": "🇷🇺🇨🇳",
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/trump-returns-china-with-stability-stalemate-2026-05-16/",
-      "timestamp": "2026-05-17T00:03:00+03:00"
+      "timestamp": "2026-05-17T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Channel News Asia",
+          "url": "https://www.channelnewsasia.com/east-asia/russia-vladimir-putin-visit-china-xi-jinping-6125516",
+          "angle": "Putin to Visit China Days After Trump Trip",
+          "summary": "Russian President Vladimir Putin will meet Chinese leader Xi Jinping on a two-day trip to Beijing next week. The announcement comes just after Trump wrapped up the first visit to China by a US president in years."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/xi-gives-trump-rare-tour-secret-garden-heart-chinese-government-2026-05-15/",
+          "angle": "Putin to Visit China Soon as Kremlin Announces Completed Preparations",
+          "summary": "Russian President Vladimir Putin will visit Beijing very soon, the Kremlin said, with preparations complete. The visit comes days after Trump-Xi summit, raising speculation about triangular diplomacy between US, China, and Russia."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Channel News Asia",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/trump-returns-china-with-stability-stalemate-2026-05-16/",
+        "https://www.channelnewsasia.com/east-asia/russia-vladimir-putin-visit-china-xi-jinping-6125516",
+        "https://www.reuters.com/world/china/xi-gives-trump-rare-tour-secret-garden-heart-chinese-government-2026-05-15/"
+      ]
+    },
+    {
+      "headline": "Israel kills Hamas military chief Izz al-Din al-Haddad in Gaza strike",
+      "summary": "An Israeli airstrike killed the head of Hamas armed wing, the most senior Hamas official killed since the October ceasefire. Israel says he helped plan the Oct 7 attacks.",
+      "emoji": "🇮🇱",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/gaza-mosques-announce-death-hamas-military-leader-after-israeli-targeting-claim-2026-05-16/",
+      "timestamp": "2026-05-17T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/gaza-mosques-announce-death-hamas-military-leader-after-israeli-targeting-claim-2026-05-16/",
+          "angle": "Hamas military chief dies after Israeli airstrike",
+          "summary": "A senior Hamas official confirmed the death of the groups military wing commander, a day after Israel announced it had carried out airstrikes targeting him. This marks a significant blow to Hamas leadership."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/gaza-mosques-announce-death-hamas-military-leader-after-israeli-targeting-claim-2026-05-16/",
+        "https://www.reuters.com/world/middle-east/gaza-mosques-announce-death-hamas-military-leader-after-israeli-targeting-claim-2026-05-16/"
+      ]
     },
     {
       "headline": "Romania finds unexploded projectile near Ukraine border",
@@ -74,22 +123,29 @@
       "timestamp": "2026-05-17T00:03:00+03:00"
     },
     {
-      "headline": "Ebola outbreak in Congo reports 80 deaths amid constant burials",
-      "summary": "A new Ebola outbreak in eastern Congo has killed at least 80 people, with locals describing continuous burials as authorities struggle to contain the spread.",
-      "emoji": "🇨🇩",
-      "category": "Africa",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/africa/ebola-outbreak-congo-rcna345481",
-      "timestamp": "2026-05-17T00:03:00+03:00"
-    },
-    {
       "headline": "Comoros suspends fuel price hikes after deadly Iran-war protests",
       "summary": "The East African island nation backed down on fuel price increases triggered by the Iran conflict after protests turned deadly across the archipelago.",
       "emoji": "🇰🇲",
       "category": "Africa",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/africa/one-dead-comoros-clashes-erupt-over-rising-fuel-prices-2026-05-16/",
-      "timestamp": "2026-05-17T00:03:00+03:00"
+      "timestamp": "2026-05-17T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/africa/one-dead-comoros-clashes-erupt-over-rising-fuel-prices-2026-05-16/",
+          "angle": "Comoros fuel protests turn deadly amid Iran war price spikes",
+          "summary": "One person killed and five injured in clashes on the Comorian island of Anjouan as unrest over fuel price hikes spreads across the archipelago, linked to global supply disruptions from the Strait of Hormuz crisis."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/africa/one-dead-comoros-clashes-erupt-over-rising-fuel-prices-2026-05-16/",
+        "https://www.reuters.com/world/africa/one-dead-comoros-clashes-erupt-over-rising-fuel-prices-2026-05-16/"
+      ]
     },
     {
       "headline": "CBS News Live: Israel Strikes Lebanon as Iran Distrusts US",
@@ -393,15 +449,6 @@
       "timestamp": "2026-05-16T20:03:00+03:00"
     },
     {
-      "headline": "Comoros fuel protests turn deadly amid Iran war price spikes",
-      "summary": "One person killed and five injured in clashes on the Comorian island of Anjouan as unrest over fuel price hikes spreads across the archipelago, linked to global supply disruptions from the Strait of Hormuz crisis.",
-      "emoji": "🇰🇲",
-      "category": "Africa",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/africa/one-dead-comoros-clashes-erupt-over-rising-fuel-prices-2026-05-16/",
-      "timestamp": "2026-05-16T19:10:00+03:00"
-    },
-    {
       "headline": "Latvia faces political uncertainty as president names opposition lawmaker as PM candidate",
       "summary": "Latvian President Edgars Rinkevics proposed opposition lawmaker Andris Kulbergs as the next prime minister after Evika Silina resigned, amid regional security concerns.",
       "emoji": "🇱🇻",
@@ -499,19 +546,19 @@
       "timestamp": "2026-05-16T17:03:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-monitoring-ebola-outbreak-drc-uganda-providing-assistance-2026-05-15/",
-          "angle": "Ebola Outbreak in Eastern Congo Kills 80, US CDC Monitoring",
-          "summary": "A new Ebola outbreak in the Democratic Republic of Congo's Ituri province has killed at least 80 people, with 246 suspected cases identified. The US CDC is monitoring the situation and providing technical assistance to DRC and Uganda."
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/world/africa/ebola-outbreak-congo-rcna345481",
+          "angle": "Ebola outbreak in Congo reports 80 deaths amid constant burials",
+          "summary": "A new Ebola outbreak in eastern Congo has killed at least 80 people, with locals describing continuous burials as authorities struggle to contain the spread."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "NBC News"
       ],
       "urls": [
         "https://www.reuters.com/business/healthcare-pharmaceuticals/africa-cdc-says-ebola-outbreak-confirmed-congos-ituri-province-2026-05-15/",
-        "https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-monitoring-ebola-outbreak-drc-uganda-providing-assistance-2026-05-15/"
+        "https://www.nbcnews.com/world/africa/ebola-outbreak-congo-rcna345481"
       ]
     },
     {
@@ -728,39 +775,6 @@
       "urls": [
         "https://www.bbc.com/news/articles/cy72p2kpd03o",
         "https://english.aawsat.com/world/5273740-nigeria-confirms-killing-senior-isis-leader-joint-us-operation"
-      ]
-    },
-    {
-      "headline": "Hamas military chief dies after Israeli airstrike",
-      "summary": "A senior Hamas official confirmed the death of the groups military wing commander, a day after Israel announced it had carried out airstrikes targeting him. This marks a significant blow to Hamas leadership.",
-      "emoji": "🇵🇸",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/gaza-mosques-announce-death-hamas-military-leader-after-israeli-targeting-claim-2026-05-16/",
-      "timestamp": "2026-05-16T13:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3353841/gaza-israel-kills-hamas-leader-deaths-mount-despite-ceasefire",
-          "angle": "Gaza: Israel Kills Hamas Military Chief Izz al-Din al-Haddad in Strike",
-          "summary": "Hamas official confirms military chief killed in Israeli attack; joint funeral held for Haddad, his wife and daughter as regional tensions remain elevated."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/israel-targets-head-hamas-armed-wing-with-gaza-strike-2026-05-15/",
-          "angle": "Israel Strikes Hamas Armed Wing Chief in Gaza",
-          "summary": "Israeli airstrikes killed at least seven Palestinians in Gaza. Israel said the strikes targeted the head of Hamas armed wing, though it was unclear if he was killed or wounded."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "SCMP",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/gaza-mosques-announce-death-hamas-military-leader-after-israeli-targeting-claim-2026-05-16/",
-        "https://www.scmp.com/news/world/middle-east/article/3353841/gaza-israel-kills-hamas-leader-deaths-mount-despite-ceasefire",
-        "https://www.reuters.com/world/middle-east/israel-targets-head-hamas-armed-wing-with-gaza-strike-2026-05-15/"
       ]
     },
     {
@@ -1080,39 +1094,6 @@
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-05-16/trump-says-us-forces-nigeria-armed-forces-killed-isis-leader",
       "timestamp": "2026-05-16T08:05:00+03:00"
-    },
-    {
-      "headline": "Putin to Visit China Soon as Kremlin Announces Completed Preparations",
-      "summary": "Russian President Vladimir Putin will visit Beijing very soon, the Kremlin said, with preparations complete. The visit comes days after Trump-Xi summit, raising speculation about triangular diplomacy between US, China, and Russia.",
-      "emoji": "🇷🇺🇨🇳",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/xi-gives-trump-rare-tour-secret-garden-heart-chinese-government-2026-05-15/",
-      "timestamp": "2026-05-16T07:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/putin-to-visit-china-days-after-trump-as-russia-looks-to-deepen-partnership/",
-          "angle": "Putin to Visit China Days After Trump as Russia Seeks to Deepen Strategic Partnership",
-          "summary": "Russian President Vladimir Putin will travel to Beijing to meet Xi Jinping following Trump summit, aiming to reinforce Sino-Russian cooperation amid evolving global dynamics."
-        },
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3353825/bangkok-train-bus-crash-kills-8-thai-pm-orders-investigation",
-          "angle": "Putin to Visit Beijing Days After Trump-Xi Summit",
-          "summary": "Russian President Vladimir Putin will meet with Xi Jinping on a two-day trip to Beijing next week, signaling continued Russia-China coordination following Trump's visit."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Kyiv Independent",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/xi-gives-trump-rare-tour-secret-garden-heart-chinese-government-2026-05-15/",
-        "https://kyivindependent.com/putin-to-visit-china-days-after-trump-as-russia-looks-to-deepen-partnership/",
-        "https://www.scmp.com/news/asia/southeast-asia/article/3353825/bangkok-train-bus-crash-kills-8-thai-pm-orders-investigation"
-      ]
     },
     {
       "headline": "36 Countries and EU Approve Special Tribunal to Prosecute Putin for Aggression",
@@ -2813,99 +2794,6 @@
       "source": "DW",
       "url": "https://www.dw.com/en/cubas-power-grid-critical-as-us-blocks-fuel-shipments/a-77162028",
       "timestamp": "2026-05-14T20:05:00+03:00"
-    },
-    {
-      "headline": "US House Forces Vote on Ukraine Aid, Defying Republican Leadership",
-      "summary": "A discharge petition reached 218 signatures to force a floor vote on Ukraine security aid and new Russia sanctions, bypassing Republican leadership opposition.",
-      "emoji": "🇺🇸",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/government/us-house-members-defy-leadership-force-vote-ukraine-aid-2026-05-13/",
-      "timestamp": "2026-05-14T19:20:00+03:00",
-      "perspectives": [
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/05/13/us/politics/house-ukraine-aid-discharge-petition-kiley.html",
-          "angle": "House Reaches Threshold to Force Vote on $1.3 Billion Ukraine Aid",
-          "summary": "A discharge petition reached 218 signatures to force a House vote on $1.3 billion in Ukraine aid, marking a significant procedural win for supporters."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "New York Times"
-      ],
-      "urls": [
-        "https://www.reuters.com/legal/government/us-house-members-defy-leadership-force-vote-ukraine-aid-2026-05-13/",
-        "https://www.nytimes.com/2026/05/13/us/politics/house-ukraine-aid-discharge-petition-kiley.html"
-      ]
-    },
-    {
-      "headline": "Kevin Warsh Confirmed as Federal Reserve Chair Amid Inflation Crisis",
-      "summary": "Senate confirmed Kevin Warsh as Fed chair in a 54-45 vote, the most partisan ever for a Fed chair, as oil-driven inflation intensifies from the Iran war.",
-      "emoji": "🏛️",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us/fed-chair-nominee-warsh-set-get-us-senate-nod-inflation-intensifies-2026-05-13/",
-      "timestamp": "2026-05-14T19:20:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/quote-box-warsh-wins-confirmation-fed-chair-with-inflation-march-2026-05-13/",
-          "angle": "Senate confirms Kevin Warsh as new Fed Chair",
-          "summary": "The US Senate confirmed Kevin Warsh as Federal Reserve Chair in a 54-45 vote, the most partisan confirmation ever for a Fed chair. Warsh replaces Jerome Powell as inflation concerns mount amid the Iran war oil shock."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/us/fed-chair-nominee-warsh-set-get-us-senate-nod-inflation-intensifies-2026-05-13/",
-        "https://www.reuters.com/business/quote-box-warsh-wins-confirmation-fed-chair-with-inflation-march-2026-05-13/"
-      ]
-    },
-    {
-      "headline": "Yemen government and Houthis exchange over 1,600 prisoners in largest swap of conflict",
-      "summary": "The internationally recognized Yemeni government and Iran-aligned Houthis agreed to exchange more than 1,600 prisoners in the largest prisoner swap of the years-long conflict.",
-      "emoji": "🇾🇪",
-      "category": "Middle East",
-      "source": "Al-Monitor",
-      "url": "https://www.al-monitor.com/originals/2026/05/yemen-government-houthis-release-more-1600-prisoners-conflicts-largest-swap",
-      "timestamp": "2026-05-14T18:07:00+03:00"
-    },
-    {
-      "headline": "German intelligence agencies drop US-owned Palantir for French alternative",
-      "summary": "Germany's domestic intelligence agency chose a French data analysis system over Palantir, reflecting concerns about US-owned software in sensitive government operations.",
-      "emoji": "🇩🇪",
-      "category": "Europe",
-      "source": "DW",
-      "url": "https://www.dw.com/en/german-intelligence-offices-snub-us-based-palantir-software/a-77160897",
-      "timestamp": "2026-05-14T18:07:00+03:00"
-    },
-    {
-      "headline": "China's Xi Hails \"New Positioning\" in Ties With US",
-      "summary": "President Xi Jinping proclaimed a recalibrated US-China relationship envisioning cooperation with measured competition, following talks with President Trump in Beijing.",
-      "emoji": "🇨🇳🇺🇸",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/chinas-xi-lauds-new-positioning-ties-with-us-2026-05-14/",
-      "timestamp": "2026-05-14T18:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/chinas-xi-lauds-new-positioning-ties-with-us-2026-05-14/",
-          "angle": "Xi Hails New Positioning in US-China Relations",
-          "summary": "Chinese President Xi Jinping praised a \"new positioning\" of ties with the US that envisages cooperation with measured competition following his summit with Trump."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/chinas-xi-lauds-new-positioning-ties-with-us-2026-05-14/",
-        "https://www.reuters.com/world/china/chinas-xi-lauds-new-positioning-ties-with-us-2026-05-14/"
-      ]
     }
   ]
 }
