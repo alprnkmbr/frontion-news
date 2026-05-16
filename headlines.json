@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-16T09:06:18+03:00",
+  "lastUpdated": "2026-05-16T10:06:12+03:00",
   "headlines": [
     {
-      "headline": "US Halts Poland Troop Deployment After Germany Withdrawal Order",
-      "summary": "The Pentagon has stopped the deployment of 4,000 troops to Poland following Trump administration orders to pull thousands of soldiers from Germany. The move comes amid tensions over Chancellor Merz comments on US handling of Iran.",
-      "emoji": "🇺🇸",
+      "headline": "Ebola Outbreak in Eastern Congo Kills 80, US CDC Monitoring",
+      "summary": "A new Ebola outbreak in the Democratic Republic of Congo's Ituri province has killed at least 80 people, with 246 suspected cases identified. The US CDC is monitoring the situation and providing technical assistance to DRC and Uganda.",
+      "emoji": "🇨🇩🦠",
+      "category": "Africa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-cdc-monitoring-ebola-outbreak-drc-uganda-providing-assistance-2026-05-15/",
+      "timestamp": "2026-05-16T10:03:00+03:00"
+    },
+    {
+      "headline": "Israel and Lebanon Extend Ceasefire by 45 Days After US-Brokered Talks",
+      "summary": "Israel and Lebanon agreed to extend their ceasefire by 45 days after Washington-mediated negotiations, with further meetings planned in coming weeks. The ceasefire has reduced conflict between Israel and Hezbollah in southern Lebanon.",
+      "emoji": "🇮🇱🇱🇧🕊️",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israel-lebanon-agree-extend-ceasefire-by-45-days-us-state-dept-says-2026-05-15/",
+      "timestamp": "2026-05-16T10:03:00+03:00"
+    },
+    {
+      "headline": "Iran FM Says Trust Is Main Obstacle in Nuclear Talks With US",
+      "summary": "Iran's foreign minister Abbas Araghchi said a lack of trust is the biggest obstacle in negotiations to end the war with the US, expressing openness to diplomatic help from China. He acknowledged that enriched uranium discussions have hit a deadlock.",
+      "emoji": "🇮🇷⚖️",
+      "category": "US-Iran War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-israel-war-trump-oil-hormuz-5a1d5142470e0de7349c409e2d566fce",
+      "timestamp": "2026-05-16T10:03:00+03:00"
+    },
+    {
+      "headline": "Analysis: Trump's Geopolitical Brinkmanship Hits Wall With Iran",
+      "summary": "Reuters analysis examines how President Trump's blustery negotiating style, which won concessions on other issues, has faced significant challenges with Iran amid ongoing tensions over nuclear weapons and the Strait of Hormuz.",
+      "emoji": "🇺🇸🇮🇷📉",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/trumps-geopolitical-brinkmanship-has-hit-wall-with-iran-2026-05-16/",
+      "timestamp": "2026-05-16T10:03:00+03:00"
+    },
+    {
+      "headline": "Spain Boycotts Eurovision Over Israel Participation",
+      "summary": "Spain's public broadcaster withdrew from the Eurovision Song Contest, protesting Israel's participation over its war against Hamas in Gaza. The boycott marks the first time in seven years Spain will not participate.",
+      "emoji": "🇪🇸🎤",
       "category": "Europe",
-      "source": "DW",
-      "url": "https://www.dw.com/en/us-stops-poland-troop-deployment-after-germany-pullout-order/a-77177920",
-      "timestamp": "2026-05-16T09:05:00+03:00"
+      "source": "AP News",
+      "url": "https://apnews.com/article/spain-eurovision-boycott-israel-ireland-netherlands-slovenia-2b8dc7a04fb40fd8f086183431f356a5",
+      "timestamp": "2026-05-16T10:03:00+03:00"
     },
     {
       "headline": "Trump Accepts 20-Year Iran Nuclear Freeze as Sufficient for Deal",
@@ -17,15 +53,6 @@
       "category": "Middle East",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cgkpnnen5dzo",
-      "timestamp": "2026-05-16T09:05:00+03:00"
-    },
-    {
-      "headline": "Latvian PM Resigns Over Handling of Ukrainian Drone Incidents",
-      "summary": "Latvia Prime Minister Evika Silina resigned after coalition ally withdrawal over the government response to Ukrainian drone incursions into Latvian airspace during the Russia-Ukraine conflict.",
-      "emoji": "🇱🇻",
-      "category": "Europe",
-      "source": "DW",
-      "url": "https://www.dw.com/en/latvia-prime-minister-evika-silina-resigns-over-handling-of-drone-incidents-after-coalition-allys-withdrawal/a-77159518",
       "timestamp": "2026-05-16T09:05:00+03:00"
     },
     {
@@ -373,6 +400,31 @@
       ]
     },
     {
+      "headline": "Pentagon Halts Troop Deployments to Poland and Germany",
+      "summary": "The Pentagon is drawing down thousands of troops in Europe by canceling planned deployments to Poland and Germany. The move has drawn bipartisan criticism from US lawmakers concerned about signaling weakness to Russia.",
+      "emoji": "🇺🇸",
+      "category": "Europe",
+      "source": "AP News",
+      "url": "https://apnews.com/article/pentagon-europe-troops-poland-germany-2026-05-15/",
+      "timestamp": "2026-05-16T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/us-stops-poland-troop-deployment-after-germany-pullout-order/a-77177920",
+          "angle": "US Halts Poland Troop Deployment After Germany Withdrawal Order",
+          "summary": "The Pentagon has stopped the deployment of 4,000 troops to Poland following Trump administration orders to pull thousands of soldiers from Germany. The move comes amid tensions over Chancellor Merz comments on US handling of Iran."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "DW"
+      ],
+      "urls": [
+        "https://apnews.com/article/pentagon-europe-troops-poland-germany-2026-05-15/",
+        "https://www.dw.com/en/us-stops-poland-troop-deployment-after-germany-pullout-order/a-77177920"
+      ]
+    },
+    {
       "headline": "Ebola Outbreak Confirmed in Congo with 65 Deaths",
       "summary": "Africa CDC confirmed a new Ebola outbreak in DR Congo's Ituri province with 246 suspected cases and 65 deaths. The US CDC is monitoring the outbreak and providing technical assistance to both DRC and Uganda.",
       "emoji": "🦠",
@@ -396,15 +448,6 @@
         "https://www.reuters.com/business/healthcare-pharmaceuticals/africa-cdc-says-ebola-outbreak-confirmed-congos-ituri-province-2026-05-15/",
         "https://www.reuters.com/business/healthcare-pharmaceuticals/uganda-confirms-outbreak-ebola-virus-disease-health-ministry-2026-05-15/"
       ]
-    },
-    {
-      "headline": "Pentagon Halts Troop Deployments to Poland and Germany",
-      "summary": "The Pentagon is drawing down thousands of troops in Europe by canceling planned deployments to Poland and Germany. The move has drawn bipartisan criticism from US lawmakers concerned about signaling weakness to Russia.",
-      "emoji": "🇺🇸",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://apnews.com/article/pentagon-europe-troops-poland-germany-2026-05-15/",
-      "timestamp": "2026-05-16T04:03:00+03:00"
     },
     {
       "headline": "Trump-Xi Summit Ends With Trade Deals But No Major Breakthroughs",
@@ -1533,8 +1576,8 @@
         {
           "source": "DW",
           "url": "https://www.dw.com/en/latvia-prime-minister-evika-silina-resigns-over-handling-of-drone-incidents-after-coalition-allys-withdrawal/a-77159518",
-          "angle": "Latvian Prime Minister Resigns Over Drone Incident Handling",
-          "summary": "Latvia's Prime Minister Evika Silina resigned after a coalition ally withdrew support over her handling of drone incidents, citing national security concerns."
+          "angle": "Latvian PM Resigns Over Handling of Ukrainian Drone Incidents",
+          "summary": "Latvia Prime Minister Evika Silina resigned after coalition ally withdrawal over the government response to Ukrainian drone incursions into Latvian airspace during the Russia-Ukraine conflict."
         }
       ],
       "sources": [
@@ -2834,33 +2877,6 @@
         "https://apnews.com/article/iran-us-israel-china-war-may-11-2026-0e9067769efea20e9d45e3d43158ad8c",
         "https://apnews.com/article/trump-gas-tax-high-prices-iran-war-85313468d583c40b79c59e34d8186ee7"
       ]
-    },
-    {
-      "headline": "EU warns of risks from growing reliance on US gas",
-      "summary": "European energy regulators warned that the EU increasing dependence on U.S. gas carries risks, including rising reliance on a single supplier.",
-      "emoji": "🇪🇺",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/europes-reliance-us-gas-set-rise-research-report-says-2026-05-13/",
-      "timestamp": "2026-05-14T01:03:00+03:00"
-    },
-    {
-      "headline": "US Navy Could Run Out of Money by July, Top Officer Warns",
-      "summary": "Chief of Naval Operations Adm. Daryl Caudle told lawmakers the Navy might have to modify operations if Congress does not pass a budget, highlighting funding concerns amid ongoing global deployments.",
-      "emoji": "⚓🇺🇸",
-      "category": "Defense Industry",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/news/your-navy/2026/05/13/us-navy-could-run-out-of-money-by-july-top-officer-warns/",
-      "timestamp": "2026-05-14T00:08:00+03:00"
-    },
-    {
-      "headline": "Netanyahu Coalition Submits Bill for Early Elections in Israel",
-      "summary": "Israel's ruling coalition moved to dissolve parliament, potentially triggering snap elections amid domestic political pressures during the ongoing Iran conflict.",
-      "emoji": "🇮🇱🗳️",
-      "category": "Middle East",
-      "source": "Daily Sabah",
-      "url": "https://www.dailysabah.com/world/mid-east/netanyahus-coalition-pushes-bill-for-early-elections-in-israel",
-      "timestamp": "2026-05-14T00:08:00+03:00"
     }
   ]
 }
