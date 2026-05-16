@@ -1,14 +1,57 @@
 {
-  "lastUpdated": "2026-05-16T18:06:10+03:00",
+  "lastUpdated": "2026-05-16T18:07:50+03:00",
   "headlines": [
     {
-      "headline": "Putin to Meet Xi in Beijing May 19-20 Following Trump Summit",
-      "summary": "Russian President Vladimir Putin will visit China for two days of talks with Xi Jinping on May 19-20, discussing bilateral relations and international issues just days after Trump concluded his own summit in Beijing.",
-      "emoji": "🇷🇺🇨🇳",
-      "category": "Diplomacy",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/vladimir-putin-xi-jinping-russia-china-visit-beijing-trump-summit/",
-      "timestamp": "2026-05-16T18:05:00+03:00"
+      "headline": "US military says 78 ships redirected from Strait of Hormuz amid Iran blockade",
+      "summary": "CENTCOM reports that 78 commercial vessels have been redirected and 4 disabled to ensure compliance with the Hormuz closure, underscoring the escalating disruption to global shipping.",
+      "emoji": "🚢🛢️",
+      "category": "US-Iran War",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/middle-east/so-far-78-ships-redirected-from-transiting-strait-of-hormuz-says-us-military/3939645",
+      "timestamp": "2026-05-16T18:10:00+03:00"
+    },
+    {
+      "headline": "Italy's Meloni wins European backing for third-country migrant return hubs",
+      "summary": "Italian PM Giorgia Meloni hailed a shift in European migration policy as her controversial approach to offshore migrant processing gains support across the Council of Europe.",
+      "emoji": "🇮🇹🇪🇺",
+      "category": "Europe",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/europe/italian-premier-meloni-hails-european-backing-for-third-country-migrant-return-hubs/3939646",
+      "timestamp": "2026-05-16T18:10:00+03:00"
+    },
+    {
+      "headline": "France to develop ballistic missile defense system with Ukraine",
+      "summary": "President Zelensky announced France's readiness to cooperate on ballistic missile defense, calling it an important step in strengthening Ukraine's ability to repel Russian attacks.",
+      "emoji": "🇫🇷🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/france-ready-to-develop-ballistic-missile-defense-with-ukraine-zelensky-calls-it-important-step/",
+      "timestamp": "2026-05-16T18:10:00+03:00"
+    },
+    {
+      "headline": "Poll: Russians fear strikes at home more than front line for first time since 2022",
+      "summary": "Ukrainian drone strikes deep inside Russia have shifted Russian public concern from battlefield developments to domestic security, according to a new poll.",
+      "emoji": "🇷🇺⚔️",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/russians-worry-more-about-strikes-at-home-than-front-line-poll-shows/",
+      "timestamp": "2026-05-16T18:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "CNN",
+          "url": "https://edition.cnn.com/2026/05/14/europe/russia-winning-streak-ukraine-over-intl-cmd",
+          "angle": "Russia Losing Ground in Ukraine for First Time Since Kursk Incursion",
+          "summary": "Ukraine liberated more territory than Russia seized last month, marking Moscows first net loss of territory since Ukraines 2024 Kursk operation. The shift comes as Russia launched its largest aerial assault of the war."
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "CNN"
+      ],
+      "urls": [
+        "https://kyivindependent.com/russians-worry-more-about-strikes-at-home-than-front-line-poll-shows/",
+        "https://edition.cnn.com/2026/05/14/europe/russia-winning-streak-ukraine-over-intl-cmd"
+      ]
     },
     {
       "headline": "UAE States All Actions Were Defensive Measures to Protect Sovereignty",
@@ -35,7 +78,23 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/eurovision-song-contest-final-takes-stage-amid-gaza-boycott-2026-05-16/",
-      "timestamp": "2026-05-16T18:05:00+03:00"
+      "timestamp": "2026-05-16T18:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "TRT World",
+          "url": "https://www.trtworld.com/article/85c7a4834160",
+          "angle": "Spain PM backs Eurovision boycott, says silence on Gaza \"not an option\"",
+          "summary": "Spanish Prime Minister Pedro Sánchez defended Spain's boycott of Eurovision over Israel's participation, saying it puts the country \"on the right side of history\" and warning against \"double standards\" compared to Russia's exclusion."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "TRT World"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/eurovision-song-contest-final-takes-stage-amid-gaza-boycott-2026-05-16/",
+        "https://www.trtworld.com/article/85c7a4834160"
+      ]
     },
     {
       "headline": "US Reportedly Preparing to Indict Former Cuban Leader Raul Castro",
@@ -158,6 +217,31 @@
       ]
     },
     {
+      "headline": "Putin to Visit Beijing Days After Trump-Xi Summit",
+      "summary": "Russian President Vladimir Putin will meet with Xi Jinping on a two-day trip to Beijing next week, signaling continued Russia-China coordination following Trump's visit.",
+      "emoji": "🇷🇺",
+      "category": "Diplomacy",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3353825/bangkok-train-bus-crash-kills-8-thai-pm-orders-investigation",
+      "timestamp": "2026-05-16T16:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/vladimir-putin-xi-jinping-russia-china-visit-beijing-trump-summit/",
+          "angle": "Putin to Meet Xi in Beijing May 19-20 Following Trump Summit",
+          "summary": "Russian President Vladimir Putin will visit China for two days of talks with Xi Jinping on May 19-20, discussing bilateral relations and international issues just days after Trump concluded his own summit in Beijing."
+        }
+      ],
+      "sources": [
+        "SCMP",
+        "CBS News"
+      ],
+      "urls": [
+        "https://www.scmp.com/news/asia/southeast-asia/article/3353825/bangkok-train-bus-crash-kills-8-thai-pm-orders-investigation",
+        "https://www.cbsnews.com/news/vladimir-putin-xi-jinping-russia-china-visit-beijing-trump-summit/"
+      ]
+    },
+    {
       "headline": "China Confirms Boeing Aircraft Purchase Deal Following Trump Visit",
       "summary": "Chinese Ministry of Commerce confirms Beijing will buy at least 200 Boeing aircraft and engines, marking a significant trade concession following Trump's summit with Xi.",
       "emoji": "🇨🇳",
@@ -190,31 +274,6 @@
       "source": "Anadolu Agency",
       "url": "https://www.aa.com.tr/en/asia-pacific/pakistans-interior-minister-in-tehran-to-meet-with-iranian-officials-sources/3939553",
       "timestamp": "2026-05-16T16:00:00+03:00"
-    },
-    {
-      "headline": "Putin to Visit Beijing Days After Trump-Xi Summit",
-      "summary": "Russian President Vladimir Putin will meet with Xi Jinping on a two-day trip to Beijing next week, signaling continued Russia-China coordination following Trump's visit.",
-      "emoji": "🇷🇺",
-      "category": "Diplomacy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3353825/bangkok-train-bus-crash-kills-8-thai-pm-orders-investigation",
-      "timestamp": "2026-05-16T16:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "Business Times Singapore",
-          "url": "https://www.businesstimes.com.sg/international/global/putin-visit-beijing-only-days-after-trump-departs-scmp-reports",
-          "angle": "Putin to Visit Beijing May 20 for Talks with Xi, Days After Trump Summit",
-          "summary": "Russian President Vladimir Putin will visit Beijing on May 20 for a one-day trip, the South China Morning Post reported. The visit comes days after Xi's summit with Trump and is seen as routine coordination between the strategic partners."
-        }
-      ],
-      "sources": [
-        "SCMP",
-        "Business Times Singapore"
-      ],
-      "urls": [
-        "https://www.scmp.com/news/asia/southeast-asia/article/3353825/bangkok-train-bus-crash-kills-8-thai-pm-orders-investigation",
-        "https://www.businesstimes.com.sg/international/global/putin-visit-beijing-only-days-after-trump-departs-scmp-reports"
-      ]
     },
     {
       "headline": "Moscow Signals Frustration as US-Russia Contacts Remain Difficult",
@@ -401,6 +460,39 @@
       "timestamp": "2026-05-16T11:30:00+03:00"
     },
     {
+      "headline": "Trump Says Xi Agrees Iran Must Open Hormuz Strait, China Says War Should Not Have Started",
+      "summary": "U.S. President Donald Trump said Chinese President Xi Jinping agreed Tehran must reopen the Strait of Hormuz after their Beijing summit, though China gave no indication it would intervene militarily in the conflict.",
+      "emoji": "🇨🇳🇺🇸🇮🇷",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/trump-says-xi-agrees-iran-must-open-strait-china-says-war-shouldnt-have-started-2026-05-16/",
+      "timestamp": "2026-05-16T11:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Times of Israel",
+          "url": "https://www.timesofisrael.com/trump-says-hes-ok-with-iran-suspending-nuke-program-for-20-years-if-theres-a-real-commitment/",
+          "angle": "Trump signals flexibility on Iran nuclear enrichment, open to 20-year suspension",
+          "summary": "President Trump indicated he would accept Iran suspending nuclear enrichment for 20 years if there is a real guarantee, marking a shift from his previous demands for total cessation."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/trump-says-he-chinas-xi-agree-iran-cannot-have-nuclear-weapons-2026-05-15/",
+          "angle": "Trump and Xi Agree Iran Cannot Have Nuclear Weapons",
+          "summary": "President Trump said he agreed with Chinese President Xi Jinping that Iran cannot be allowed to possess nuclear weapons and must reopen the Strait of Hormuz. Trump warned his patience with Iran was running out."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Times of Israel",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/trump-says-xi-agrees-iran-must-open-strait-china-says-war-shouldnt-have-started-2026-05-16/",
+        "https://www.timesofisrael.com/trump-says-hes-ok-with-iran-suspending-nuke-program-for-20-years-if-theres-a-real-commitment/",
+        "https://www.reuters.com/world/china/trump-says-he-chinas-xi-agree-iran-cannot-have-nuclear-weapons-2026-05-15/"
+      ]
+    },
+    {
       "headline": "China Renews Export Licenses for 400+ US Beef Plants After Trump-Xi Summit",
       "summary": "China renewed export licenses that had expired for more than 400 U.S. beef plants, the Chinese customs website showed, a potential sign of thawing trade relations following the Beijing summit between Presidents Trump and Xi.",
       "emoji": "🥩🇺🇸🇨🇳",
@@ -439,39 +531,6 @@
         "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html",
         "https://www.theguardian.com/world/2026/may/15/trump-china-visit-iran-agreement-xi-jinping-elusive",
         "https://www.nytimes.com/2026/05/15/business/economy/trump-china-deals.html"
-      ]
-    },
-    {
-      "headline": "Trump Says Xi Agrees Iran Must Open Hormuz Strait, China Says War Should Not Have Started",
-      "summary": "U.S. President Donald Trump said Chinese President Xi Jinping agreed Tehran must reopen the Strait of Hormuz after their Beijing summit, though China gave no indication it would intervene militarily in the conflict.",
-      "emoji": "🇨🇳🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/trump-says-xi-agrees-iran-must-open-strait-china-says-war-shouldnt-have-started-2026-05-16/",
-      "timestamp": "2026-05-16T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/trump-says-he-chinas-xi-agree-iran-cannot-have-nuclear-weapons-2026-05-15/",
-          "angle": "Trump Says Losing Patience With Iran, Did Not Ask China for Favors",
-          "summary": "President Trump said his patience with Iran is running out and that Xi Jinping agreed Tehran must reopen the Strait of Hormuz, though China gave no indication it would intervene."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/legal/government/us-senate-blocks-latest-bid-rein-trump-iran-war-powers-support-grows-2026-05-13/",
-          "angle": "US Senate Blocks Bid to Restrain Trump Iran War Powers as Support Grows",
-          "summary": "Senate Republicans blocked the latest Democratic effort to end the Iran war without congressional authorization, but a third Republican voted to advance the bill, signaling growing bipartisan concern over the conflict."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/trump-says-xi-agrees-iran-must-open-strait-china-says-war-shouldnt-have-started-2026-05-16/",
-        "https://www.reuters.com/world/china/trump-says-he-chinas-xi-agree-iran-cannot-have-nuclear-weapons-2026-05-15/",
-        "https://www.reuters.com/legal/government/us-senate-blocks-latest-bid-rein-trump-iran-war-powers-support-grows-2026-05-13/"
       ]
     },
     {
@@ -1270,15 +1329,6 @@
       "timestamp": "2026-05-15T18:08:00+03:00"
     },
     {
-      "headline": "Spain PM backs Eurovision boycott, says silence on Gaza \"not an option\"",
-      "summary": "Spanish Prime Minister Pedro Sánchez defended Spain's boycott of Eurovision over Israel's participation, saying it puts the country \"on the right side of history\" and warning against \"double standards\" compared to Russia's exclusion.",
-      "emoji": "🇪🇸🎤",
-      "category": "Europe",
-      "source": "TRT World",
-      "url": "https://www.trtworld.com/article/85c7a4834160",
-      "timestamp": "2026-05-15T18:08:00+03:00"
-    },
-    {
       "headline": "Ukrainian drone pilots demonstrate edge during NATO drills on Gotland",
       "summary": "Ukrainian drone pilots showcased advanced tactics during NATO exercises on Sweden's Gotland island, demonstrating lessons from combat experience. Meanwhile, a US House discharge petition forced a vote on nearly  billion in new Ukraine aid.",
       "emoji": "🇺🇦🛸",
@@ -1527,31 +1577,6 @@
       "source": "Oil Price",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Australia-Rules-Out-LNG-Export-Curbs-as-East-Coast-Gas-Supply-Fears-Ease.html",
       "timestamp": "2026-05-15T14:10:00+03:00"
-    },
-    {
-      "headline": "Trump and Xi Agree Iran Cannot Have Nuclear Weapons",
-      "summary": "President Trump said he agreed with Chinese President Xi Jinping that Iran cannot be allowed to possess nuclear weapons and must reopen the Strait of Hormuz. Trump warned his patience with Iran was running out.",
-      "emoji": "🇺🇸🇨🇳🇮🇷",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/trump-says-he-chinas-xi-agree-iran-cannot-have-nuclear-weapons-2026-05-15/",
-      "timestamp": "2026-05-15T14:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/cgkpnnen5dzo",
-          "angle": "Trump Says 20-Year Iran Nuclear Suspension Would Be Acceptable",
-          "summary": "President Trump stated that a 20-year suspension of Irans nuclear program would be sufficient, as Tehran must show \"real\" commitment to removing nuclear fuel and stopping uranium enrichment."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/trump-says-he-chinas-xi-agree-iran-cannot-have-nuclear-weapons-2026-05-15/",
-        "https://www.bbc.co.uk/news/articles/cgkpnnen5dzo"
-      ]
     },
     {
       "headline": "Boeing Shares Drop After China Orders Just 200 Jets",
@@ -2025,15 +2050,6 @@
       "source": "The Hill",
       "url": "https://thehill.com/homenews/administration/5879325-trump-blames-biden-decline-xi/",
       "timestamp": "2026-05-15T06:04:00+03:00"
-    },
-    {
-      "headline": "Russia Losing Ground in Ukraine for First Time Since Kursk Incursion",
-      "summary": "Ukraine liberated more territory than Russia seized last month, marking Moscows first net loss of territory since Ukraines 2024 Kursk operation. The shift comes as Russia launched its largest aerial assault of the war.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "CNN",
-      "url": "https://edition.cnn.com/2026/05/14/europe/russia-winning-streak-ukraine-over-intl-cmd",
-      "timestamp": "2026-05-15T06:03:00+03:00"
     },
     {
       "headline": "Morocco adds B to budget to cushion Middle East conflict impact",
@@ -2816,67 +2832,6 @@
         "https://koreajoongangdaily.joins.com/news/2026-05-14/national/defense/Military-puts-CheongungII-missile-defense-system-KF21-front-and-center-in-demonstration/2592329",
         "https://koreajoongangdaily.joins.com/news/2026-05-14/national/defense/Military-puts-CheongungII-missile-defense-system-KF21-front-and-center-in-demonstration/2592329"
       ]
-    },
-    {
-      "headline": "Russia establishes full partnership with Afghan Taliban, urges regional cooperation",
-      "summary": "Russia is building a full-fledged partnership with Afghanistans Taliban government, encouraging SCO members to expand cooperation with Kabul in security, trade, and humanitarian support.",
-      "emoji": "🇷🇺",
-      "category": "Diplomacy",
-      "source": "Al-Monitor",
-      "url": "https://www.al-monitor.com/originals/2026/05/russia-says-its-establishing-full-partnership-afghan-taliban",
-      "timestamp": "2026-05-14T12:07:00+03:00"
-    },
-    {
-      "headline": "US Army general: Industry surge and allied burden sharing essential for Indo-Pacific peace",
-      "summary": "Gen. Xavier Brunson emphasized that military strength, industrial sustainability, and allied collaboration are critical components to create a fortress chain of defense burden sharing in the Indo-Pacific region.",
-      "emoji": "⚔️",
-      "category": "Military",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/news/your-military/2026/05/13/no-indo-pacific-peace-without-industry-surge-and-burden-sharing-us-general-says/",
-      "timestamp": "2026-05-14T12:07:00+03:00"
-    },
-    {
-      "headline": "Samsung union threatens 18-day strike amid AI chip boom, sparking economic slowdown fears",
-      "summary": "Samsung Electronics largest union has threatened an 18-day walkout from May 21 to June 7, raising concerns about production disruptions and wider fallout across the global technology supply chain.",
-      "emoji": "🇰🇷",
-      "category": "Economy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/economics/article/3353543/samsung-unions-strike-threat-fuels-fears-south-koreas-economic-slowdown",
-      "timestamp": "2026-05-14T12:07:00+03:00"
-    },
-    {
-      "headline": "NATO eastern flank leaders call for consolidated air defenses after Russian violations",
-      "summary": "Leaders of 14 NATO allies on the eastern flank warned that repeated Russian airspace breaches underscore the urgent need to strengthen the alliance's air defense capabilities against missiles and drones.",
-      "emoji": "🛡️",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/russian-airspace-breaches-show-need-boost-nato-eastern-flank-air-defence-say-2026-05-13/",
-      "timestamp": "2026-05-14T12:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/russian-airspace-breaches-show-need-boost-nato-eastern-flank-air-defence-say-2026-05-13/",
-          "angle": "NATO leaders call for stronger eastern flank air defense after Russian breaches",
-          "summary": "Leaders of 14 NATO allies said Russia repeated airspace violations underline the urgent need to consolidate alliance air defenses against missiles and drones."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/aerospace-defense/russian-airspace-breaches-show-need-boost-nato-eastern-flank-air-defence-say-2026-05-13/",
-        "https://www.reuters.com/business/aerospace-defense/russian-airspace-breaches-show-need-boost-nato-eastern-flank-air-defence-say-2026-05-13/"
-      ]
-    },
-    {
-      "headline": "Russia places UK ex-defense minister Ben Wallace on wanted list",
-      "summary": "Russia has placed former British Defence Minister Ben Wallace on its wanted list in connection with an unspecified criminal investigation, state media reported Wednesday citing the Interior Ministry.",
-      "emoji": "🇷🇺🇬🇧",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/russia-places-uk-ex-minister-ben-wallace-wanted-list-2026-05-13/",
-      "timestamp": "2026-05-14T10:03:00+03:00"
     }
   ]
 }
