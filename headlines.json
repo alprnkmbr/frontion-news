@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2026-05-16T22:06:09+03:00",
+  "lastUpdated": "2026-05-16T22:09:39+03:00",
   "headlines": [
     {
-      "headline": "Taiwan Asserts Independence After Trump Warning Post-Beijing Summit",
-      "summary": "Taiwan's foreign ministry declared the island is a 'sovereign and independent democratic nation' after President Trump warned against formal independence declarations following his summit with Xi Jinping in Beijing. Trump said he opposes Taiwan going independent and questioned why the US would fight a war 9,500 miles away.",
-      "emoji": "🇹🇼",
-      "category": "US-China",
+      "headline": "Israel Strikes Lebanon Hours After Ceasefire Extension",
+      "summary": "Israel launched new airstrikes against Hezbollah in southern Lebanon just hours after the US announced a 45-day ceasefire extension. The April 17 truce did not end Israeli strikes in Lebanese territory, and Iran expressed distrust of US negotiations.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
       "source": "France 24",
-      "url": "https://www.france24.com/en/asia-pacific/20260516-taiwan-says-it-is-a-sovereign-nation-with-us-security-commitment-after-trump-s-warning",
-      "timestamp": "2026-05-16T22:03:00+03:00"
+      "url": "https://www.france24.com/en/middle-east/20260516-middle-east-war-live-israel-lebanon-extend-shaky-ceasefire",
+      "timestamp": "2026-05-16T22:07:00+03:00"
+    },
+    {
+      "headline": "Iran Plans Fees for Ships Passing Through Strait of Hormuz",
+      "summary": "Iran is preparing to charge fees for commercial vessels transiting the strategic Strait of Hormuz amid tensions with the US and Israel. Only vessels from cooperative countries would benefit under the proposed mechanism, tightening control over a critical oil transit route.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Al Jazeera",
+      "url": "https://saharareporters.com/2026/05/16/iran-moves-charge-fees-ships-passing-through-strait-hormuz-amid-tension-us-israel",
+      "timestamp": "2026-05-16T22:07:00+03:00"
+    },
+    {
+      "headline": "UK Ex-Health Minister Streeting to Run Against Starmer for PM",
+      "summary": "Wes Streeting, who resigned as UK health secretary, announced he will run to replace Keir Starmer as Labour Party leader. The leadership challenge comes amid political turbulence following recent government changes.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "Asharq Al-Awsat",
+      "url": "https://english.aawsat.com/world/5273954-uk%E2%80%99s-ex-health-minister-streeting-says-will-run-replace-pm-starmer",
+      "timestamp": "2026-05-16T22:07:00+03:00"
     },
     {
       "headline": "Over 50 Schoolchildren Including Toddlers Kidnapped in Nigeria",
@@ -17,24 +35,6 @@
       "category": "Africa",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c202vrxlwqgo",
-      "timestamp": "2026-05-16T22:03:00+03:00"
-    },
-    {
-      "headline": "Zelenskyy Vows Retribution After Russian Strikes Kill 24 in Kyiv",
-      "summary": "President Zelenskyy promised retaliation after a Russian missile strike killed 24 people including three children at a Kyiv apartment building. Ukraine launched retaliatory drone strikes on Russian oil infrastructure as massive Russian bombardments continued following the expiration of a US-brokered ceasefire.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/16/ukraine-war-briefing-zelenskyy-vows-retribution-over-deadly-russian-bombardments",
-      "timestamp": "2026-05-16T22:03:00+03:00"
-    },
-    {
-      "headline": "Trump-Xi Summit Concludes With Trade Deals, Taiwan Tensions Loom",
-      "summary": "President Trump and Chinese leader Xi Jinping wrapped up their Beijing summit with promises of 'fantastic trade deals' including Chinese purchases of US oil, soybeans, and Boeing jets. However, Xi warned of 'conflicts' if the Taiwan issue is mishandled, while Trump made no commitments on arms sales to Taiwan or political prisoners.",
-      "emoji": "🇨🇳",
-      "category": "US-China",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/trump-wraps-up-visit-with-xi-in-china/",
       "timestamp": "2026-05-16T22:03:00+03:00"
     },
     {
@@ -151,6 +151,47 @@
       "timestamp": "2026-05-16T20:05:00+03:00"
     },
     {
+      "headline": "US CEOs Pursue Diplomacy in Beijing Following Trump Summit",
+      "summary": "American business leaders from Citigroup and Goldman Sachs meet Chinese officials, hoping political goodwill will translate into regulatory approvals and lucrative deals.",
+      "emoji": "🇺🇸🇨🇳",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/chinese-officials-meet-citigroup-goldman-chiefs-beijing-2026-05-16/",
+      "timestamp": "2026-05-16T20:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "France 24",
+          "url": "https://www.france24.com/en/asia-pacific/20260516-taiwan-says-it-is-a-sovereign-nation-with-us-security-commitment-after-trump-s-warning",
+          "angle": "Taiwan Asserts Independence After Trump Warning Post-Beijing Summit",
+          "summary": "Taiwan's foreign ministry declared the island is a 'sovereign and independent democratic nation' after President Trump warned against formal independence declarations following his summit with Xi Jinping in Beijing. Trump said he opposes Taiwan going independent and questioned why the US would fight a war 9,500 miles away."
+        },
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/trump-wraps-up-visit-with-xi-in-china/",
+          "angle": "Trump-Xi Summit Concludes With Trade Deals, Taiwan Tensions Loom",
+          "summary": "President Trump and Chinese leader Xi Jinping wrapped up their Beijing summit with promises of 'fantastic trade deals' including Chinese purchases of US oil, soybeans, and Boeing jets. However, Xi warned of 'conflicts' if the Taiwan issue is mishandled, while Trump made no commitments on arms sales to Taiwan or political prisoners."
+        },
+        {
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/live/2026/05/13/world/trump-xi-summit-china",
+          "angle": "New York Times: Xi and Trump Strike Positive Tone After Taiwan Warning",
+          "summary": "Following Xi's stark warning on Taiwan, both leaders emphasized the importance of US-China relations in their summit discussions on trade, Iran war, and bilateral cooperation."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "France 24",
+        "CBS News",
+        "New York Times"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/finance/chinese-officials-meet-citigroup-goldman-chiefs-beijing-2026-05-16/",
+        "https://www.france24.com/en/asia-pacific/20260516-taiwan-says-it-is-a-sovereign-nation-with-us-security-commitment-after-trump-s-warning",
+        "https://www.cbsnews.com/news/trump-wraps-up-visit-with-xi-in-china/",
+        "https://www.nytimes.com/live/2026/05/13/world/trump-xi-summit-china"
+      ]
+    },
+    {
       "headline": "Russia Captures Two Villages in Ukraine's Kharkiv Region",
       "summary": "Russian forces have taken control of Borova and Kutkivka settlements in Kharkiv, marking continued territorial gains as Moscow presses its offensive in eastern Ukraine.",
       "emoji": "🇷🇺",
@@ -232,15 +273,6 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/retail-consumer/consumers-sue-amazon-not-refunding-trump-tariff-costs-2026-05-16/",
-      "timestamp": "2026-05-16T20:03:00+03:00"
-    },
-    {
-      "headline": "US CEOs Pursue Diplomacy in Beijing Following Trump Summit",
-      "summary": "American business leaders from Citigroup and Goldman Sachs meet Chinese officials, hoping political goodwill will translate into regulatory approvals and lucrative deals.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/finance/chinese-officials-meet-citigroup-goldman-chiefs-beijing-2026-05-16/",
       "timestamp": "2026-05-16T20:03:00+03:00"
     },
     {
@@ -1003,27 +1035,19 @@
       "timestamp": "2026-05-16T06:03:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/russia-ukraine-war-kyiv-attack-58db0cf78615952f3f090c19e104387f",
-          "angle": "Death toll from Russian missile attack on Kyiv apartment building rises to 24",
-          "summary": "The Russian cruise missile strike that flattened a nine-story apartment building in Kyiv killed 24 people including three teenagers. It was one of the deadliest attacks on the Ukrainian capital in the 4-year war."
-        },
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cq5p8yygq94o",
-          "angle": "Rescuers Pull Bodies From Kyiv Rubble After Massive Russian Attack",
-          "summary": "Emergency workers recovered bodies from the ruins of a flattened apartment block in Kyiv after Russia unleashed one of its largest drone barrages of the war."
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/may/16/ukraine-war-briefing-zelenskyy-vows-retribution-over-deadly-russian-bombardments",
+          "angle": "Zelenskyy Vows Retribution After Russian Strikes Kill 24 in Kyiv",
+          "summary": "President Zelenskyy promised retaliation after a Russian missile strike killed 24 people including three children at a Kyiv apartment building. Ukraine launched retaliatory drone strikes on Russian oil infrastructure as massive Russian bombardments continued following the expiration of a US-brokered ceasefire."
         }
       ],
       "sources": [
         "Reuters",
-        "AP News",
-        "BBC"
+        "The Guardian"
       ],
       "urls": [
         "https://www.reuters.com/world/europe/zelenskiy-condemns-russia-after-strike-kyiv-apartment-bloc-kills-24-2026-05-15/",
-        "https://apnews.com/article/russia-ukraine-war-kyiv-attack-58db0cf78615952f3f090c19e104387f",
-        "https://www.bbc.com/news/articles/cq5p8yygq94o"
+        "https://www.theguardian.com/world/2026/may/16/ukraine-war-briefing-zelenskyy-vows-retribution-over-deadly-russian-bombardments"
       ]
     },
     {
@@ -2573,15 +2597,6 @@
       "timestamp": "2026-05-14T22:05:00+03:00"
     },
     {
-      "headline": "New York Times: Xi and Trump Strike Positive Tone After Taiwan Warning",
-      "summary": "Following Xi's stark warning on Taiwan, both leaders emphasized the importance of US-China relations in their summit discussions on trade, Iran war, and bilateral cooperation.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "US-China",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/live/2026/05/13/world/trump-xi-summit-china",
-      "timestamp": "2026-05-14T22:05:00+03:00"
-    },
-    {
       "headline": "Iran Accuses UAE of Direct Military Involvement at BRICS Meeting",
       "summary": "Iran's foreign minister accused the UAE of direct involvement in military operations against Iran during a BRICS foreign ministers meeting in New Delhi, further escalating regional tensions.",
       "emoji": "🇮🇷🇦🇪",
@@ -2860,15 +2875,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/rubio-us-wants-china-press-iran-change-course-gulf-2026-05-13/",
       "timestamp": "2026-05-14T17:05:00+03:00"
-    },
-    {
-      "headline": "Latvian Armed Forces deploy Natrix unmanned ground vehicles",
-      "summary": "The Latvian Armed Forces have begun operating the Natrix NXU unmanned ground vehicle as of May 2026, continuing NATO eastern flank defense modernization.",
-      "emoji": "🇱🇻",
-      "category": "Defense Industry",
-      "source": "Janes",
-      "url": "https://www.janes.com/defence-intelligence-insights/defence-news/defence/latvian-armed-forces-using-natrix-ugv-since-may-2026",
-      "timestamp": "2026-05-14T16:07:00+03:00"
     }
   ]
 }
