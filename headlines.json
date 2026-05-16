@@ -1,6 +1,40 @@
 {
-  "lastUpdated": "2026-05-16T04:05:06+03:00",
+  "lastUpdated": "2026-05-16T04:07:29+03:00",
   "headlines": [
+    {
+      "headline": "Gulf States Edge Closer to Direct Confrontation with Iran",
+      "summary": "Saudi Arabia and UAE have conducted military strikes inside Iran in retaliation for Iranian attacks, marking a shift from proxy conflicts to direct engagement. Kuwait also arrested IRGC members plotting attacks on Bubiyan Island.",
+      "emoji": "🇸🇦🇦🇪",
+      "category": "Middle East",
+      "source": "Alhurra",
+      "url": "https://alhurra.com/en/20671",
+      "timestamp": "2026-05-16T04:05:00+03:00"
+    },
+    {
+      "headline": "Israel and Lebanon Extend Ceasefire by 45 Days",
+      "summary": "The US-brokered ceasefire between Israel and Hezbollah has been extended by 45 days following Washington talks. Israel carried out fresh strikes even as the extension was announced.",
+      "emoji": "🇱🇧🇮🇱",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israel-lebanon-agree-extend-ceasefire-by-45-days-us-state-dept-says-2026-05-15/",
+      "timestamp": "2026-05-16T04:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/middle-east/20260515-israel-lebanon-agree-to-extend-ceasefire-by-45-days-after-talks-in-washington",
+          "angle": "Israel and Lebanon Extend Ceasefire by 45 Days",
+          "summary": "Israel and Lebanon agreed to extend their ceasefire by 45 days after US-mediated talks in Washington, despite continued Israeli strikes. The extension allows time for further negotiations toward a permanent political settlement."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "France24"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/israel-lebanon-agree-extend-ceasefire-by-45-days-us-state-dept-says-2026-05-15/",
+        "https://www.france24.com/en/middle-east/20260515-israel-lebanon-agree-to-extend-ceasefire-by-45-days-after-talks-in-washington"
+      ]
+    },
     {
       "headline": "Ebola Outbreak Confirmed in Congo with 65 Deaths",
       "summary": "Africa CDC confirmed a new Ebola outbreak in DR Congo's Ituri province with 246 suspected cases and 65 deaths. The US CDC is monitoring the outbreak and providing technical assistance to both DRC and Uganda.",
@@ -8,7 +42,23 @@
       "category": "Africa",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/africa-cdc-says-ebola-outbreak-confirmed-congos-ituri-province-2026-05-15/",
-      "timestamp": "2026-05-16T04:03:00+03:00"
+      "timestamp": "2026-05-16T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/uganda-confirms-outbreak-ebola-virus-disease-health-ministry-2026-05-15/",
+          "angle": "Uganda confirms Ebola outbreak as Congo crisis deepens",
+          "summary": "Uganda's health ministry confirmed an Ebola outbreak involving the Bundibugyo strain, while Africa CDC reported 65 deaths from 246 suspected cases in Congo's Ituri province. The US CDC is monitoring both outbreaks and providing technical assistance."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/healthcare-pharmaceuticals/africa-cdc-says-ebola-outbreak-confirmed-congos-ituri-province-2026-05-15/",
+        "https://www.reuters.com/business/healthcare-pharmaceuticals/uganda-confirms-outbreak-ebola-virus-disease-health-ministry-2026-05-15/"
+      ]
     },
     {
       "headline": "Pentagon Halts Troop Deployments to Poland and Germany",
@@ -26,7 +76,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/trump-says-he-chinas-xi-agree-iran-cannot-have-nuclear-weapons-2026-05-15/",
-      "timestamp": "2026-05-16T04:03:00+03:00"
+      "timestamp": "2026-05-16T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/trump-says-he-wont-be-much-more-patient-with-iran-2026-05-15/",
+          "angle": "Trump Says Patience With Iran Running Thin",
+          "summary": "President Trump stated he would not be \"much more patient\" with Iran as negotiations continue, while suggesting the quest to retrieve enriched uranium was more about perception than security."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/trump-says-he-chinas-xi-agree-iran-cannot-have-nuclear-weapons-2026-05-15/",
+        "https://www.reuters.com/world/middle-east/trump-says-he-wont-be-much-more-patient-with-iran-2026-05-15/"
+      ]
     },
     {
       "headline": "Trump-Xi Summit Ends With Trade Deals But No Major Breakthroughs",
@@ -38,19 +104,19 @@
       "timestamp": "2026-05-16T03:03:00+03:00",
       "perspectives": [
         {
-          "source": "Time",
-          "url": "https://time.com/article/2026/05/15/trump-xi-us-china-summit-ai-semiconductor-chips/",
-          "angle": "AI and Semiconductors Loom Over Trump-Xi Summit Despite Trade Focus",
-          "summary": "While trade dominated the Trump-Xi talks, artificial intelligence and semiconductor technology remained an undercurrent in the discussions, highlighting the tech competition between the superpowers."
+          "source": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-how-the-us-president-s-china-visit-unfolded",
+          "angle": "Xi-Trump Summit Ends With Promise of Continued Engagement",
+          "summary": "US President Trump concluded his Beijing visit with Xi Jinping agreeing to meet again in the autumn. Discussions covered Iran, Taiwan, trade, and AI. Xi warned that mishandling Taiwan risks a clash, while Trump touted potential Boeing jet sales."
         }
       ],
       "sources": [
         "New York Times",
-        "Time"
+        "Nikkei Asia"
       ],
       "urls": [
         "https://www.nytimes.com/2026/05/15/business/economy/trump-china-deals.html",
-        "https://time.com/article/2026/05/15/trump-xi-us-china-summit-ai-semiconductor-chips/"
+        "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-how-the-us-president-s-china-visit-unfolded"
       ]
     },
     {
@@ -70,39 +136,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3353761/xi-jinping-pay-first-state-visit-us-more-decade-trump-says",
       "timestamp": "2026-05-16T02:05:00+03:00"
-    },
-    {
-      "headline": "Uganda confirms Ebola outbreak as Congo crisis deepens",
-      "summary": "Uganda's health ministry confirmed an Ebola outbreak involving the Bundibugyo strain, while Africa CDC reported 65 deaths from 246 suspected cases in Congo's Ituri province. The US CDC is monitoring both outbreaks and providing technical assistance.",
-      "emoji": "🦠",
-      "category": "Africa",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/uganda-confirms-outbreak-ebola-virus-disease-health-ministry-2026-05-15/",
-      "timestamp": "2026-05-16T02:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/africa-cdc-says-ebola-outbreak-confirmed-congos-ituri-province-2026-05-15/",
-          "angle": "Ebola Outbreak Confirmed in Congo with 65 Deaths",
-          "summary": "Africa CDC confirmed a new Ebola outbreak in Democratic Republic of Congo's Ituri province with 65 deaths out of 246 suspected cases. The outbreak is in a remote region and US health officials are monitoring the situation."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/uganda-confirms-outbreak-ebola-virus-disease-health-ministry-2026-05-15/",
-          "angle": "Uganda Confirms Ebola Outbreak",
-          "summary": "Uganda health ministry announced an Ebola outbreak involving the Bundibugyo strain, as neighboring DRC battles a separate outbreak that has killed 65. The dual outbreaks raise regional containment concerns."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/healthcare-pharmaceuticals/uganda-confirms-outbreak-ebola-virus-disease-health-ministry-2026-05-15/",
-        "https://www.reuters.com/business/healthcare-pharmaceuticals/africa-cdc-says-ebola-outbreak-confirmed-congos-ituri-province-2026-05-15/",
-        "https://www.reuters.com/business/healthcare-pharmaceuticals/uganda-confirms-outbreak-ebola-virus-disease-health-ministry-2026-05-15/"
-      ]
     },
     {
       "headline": "Pentagon draws down thousands of troops in Europe",
@@ -300,15 +333,6 @@
         "https://www.reuters.com/world/china/india-issues-chair-statement-after-brics-meeting-amid-differences-over-gulf-2026-05-15/",
         "https://timesofindia.indiatimes.com/india/amid-uae-iran-rift-brics-remains-a-divided-house-on-west-asia-no-joint-statement-after-meeting/articleshow/131129062.cms"
       ]
-    },
-    {
-      "headline": "Israel and Lebanon Extend Ceasefire by 45 Days",
-      "summary": "Israel and Lebanon agreed to extend their ceasefire by 45 days after US-mediated talks in Washington, despite continued Israeli strikes. The extension allows time for further negotiations toward a permanent political settlement.",
-      "emoji": "🇱🇧🇮🇱",
-      "category": "Middle East",
-      "source": "France24",
-      "url": "https://www.france24.com/en/middle-east/20260515-israel-lebanon-agree-to-extend-ceasefire-by-45-days-after-talks-in-washington",
-      "timestamp": "2026-05-16T00:03:00+03:00"
     },
     {
       "headline": "Oscar-Winning Iranian Director Condemns War Deaths and Crackdown",
@@ -550,39 +574,6 @@
       "source": "First Post",
       "url": "https://www.firstpost.com/world/uae-rejects-attempts-to-justify-terrorist-attacks-after-iran-accuses-abu-dhabi-of-role-in-conflict-14011697.html",
       "timestamp": "2026-05-15T20:07:00+03:00"
-    },
-    {
-      "headline": "Trump Says Patience With Iran Running Thin",
-      "summary": "President Trump stated he would not be \"much more patient\" with Iran as negotiations continue, while suggesting the quest to retrieve enriched uranium was more about perception than security.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/trump-says-he-wont-be-much-more-patient-with-iran-2026-05-15/",
-      "timestamp": "2026-05-15T20:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/trump-says-he-wont-be-much-more-patient-with-iran-2026-05-15/",
-          "angle": "Trump Says Patience With Iran Running Out",
-          "summary": "President Trump stated he would not be \"much more patient\" with Iran, urging Tehran to reach a deal while suggesting the quest for enriched uranium was more about perception than security."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/trump-says-he-wont-be-much-more-patient-with-iran-2026-05-15/",
-          "angle": "Trump warns patience with Iran running thin as diplomacy pressure mounts",
-          "summary": "President Donald Trump said he would not be much more patient with Iran as he urged Tehran to reach a deal with Washington, suggesting the focus on enriched uranium retrieval was more about perception than security."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/trump-says-he-wont-be-much-more-patient-with-iran-2026-05-15/",
-        "https://www.reuters.com/world/middle-east/trump-says-he-wont-be-much-more-patient-with-iran-2026-05-15/",
-        "https://www.reuters.com/world/middle-east/trump-says-he-wont-be-much-more-patient-with-iran-2026-05-15/"
-      ]
     },
     {
       "headline": "Trump Discussed Lifting Sanctions on Chinese Companies Buying Iranian Oil",
@@ -2896,15 +2887,6 @@
       "category": "Military",
       "source": "Times of Israel",
       "url": "https://www.timesofisrael.com/liveblog_entry/australia-says-it-will-join-strictly-defensive-hormuz-mission-led-by-france-and-uk/",
-      "timestamp": "2026-05-13T18:07:00+03:00"
-    },
-    {
-      "headline": "Ethiopia-Eritrea war fears rise as Tigray tensions resurface",
-      "summary": "The TPLF's reassertion of control in Tigray after electing Debretsion Gebremichael is raising fears of renewed conflict between Ethiopia's federal government and Eritrea, threatening regional stability in the Horn of Africa.",
-      "emoji": "🇪🇹",
-      "category": "Africa",
-      "source": "DW",
-      "url": "https://www.dw.com/en/tigray-tensions-raise-fears-of-ethiopia-eritrea-war/a-77133464",
       "timestamp": "2026-05-13T18:07:00+03:00"
     }
   ]
