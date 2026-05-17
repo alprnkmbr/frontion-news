@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-17T15:05:20+03:00",
+  "lastUpdated": "2026-05-17T16:07:42+03:00",
   "headlines": [
+    {
+      "headline": "China Signals Tariff Cuts After Trump-Xi Summit",
+      "summary": "China and the US agreed to expand agricultural trade through tariff reductions and address non-tariff barriers following the Beijing summit. The agreement marks a potential de-escalation in trade tensions between the two largest economies.",
+      "emoji": "🇨🇳🇺🇸",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/china-signals-tariff-cuts-advances-farm-market-access-after-trump-xi-summit-2026-05-16/",
+      "timestamp": "2026-05-17T16:07:00+03:00"
+    },
+    {
+      "headline": "South Korea Pursues All Options to Prevent Samsung Strike",
+      "summary": "South Korea's prime minister said the government is considering all measures to prevent a potential Samsung Electronics strike that could cause unimaginable economic damage. Samsung accounts for nearly a quarter of South Korea's exports.",
+      "emoji": "🇰🇷💰",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/world-at-work/south-korea-says-it-will-pursue-all-options-avoid-samsung-strike-2026-05-17/",
+      "timestamp": "2026-05-17T16:07:00+03:00"
+    },
+    {
+      "headline": "Drone Strike Causes Fire at UAE Barakah Nuclear Plant",
+      "summary": "A drone strike targeted the Barakah Nuclear Power Plant in Abu Dhabi, causing a fire at an electrical generator outside the inner perimeter. No injuries or radiation risks were reported, and the IAEA confirmed normal radiation levels.",
+      "emoji": "🇦🇪⚠️",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/abu-dhabi-says-drone-strike-caused-fire-barakah-nuclear-power-plant-no-injuries-2026-05-17/",
+      "timestamp": "2026-05-17T16:07:00+03:00"
+    },
+    {
+      "headline": "Italian PM Meloni Visits Modena After Car-Ramming Incident",
+      "summary": "Prime Minister Giorgia Meloni travelled to Modena after a driver with mental health problems rammed into pedestrians. Several people were injured, and Meloni cancelled a Cyprus meeting to visit the victims.",
+      "emoji": "🇮🇹",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/italy-pm-meloni-heads-modena-after-car-ramming-cancels-cyprus-meeting-2026-05-17/",
+      "timestamp": "2026-05-17T16:07:00+03:00"
+    },
     {
       "headline": "Tata-ASML Partnership to Build India's First Semiconductor Fab",
       "summary": "Tata Electronics and Dutch chip equipment maker ASML signed an agreement to build India's first front-end semiconductor fabrication plant in Gujarat, marking a major milestone in the country's push for chip manufacturing independence.",
@@ -8,25 +44,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/india/tata-electronics-asml-partner-indias-first-semiconductor-fab-2026-05-16/",
-      "timestamp": "2026-05-17T15:03:00+03:00"
-    },
-    {
-      "headline": "Ukraine Launches Largest Drone Attack on Moscow in Over a Year",
-      "summary": "Ukraine fired around 600 drones at Russia overnight in its biggest attack on Moscow in more than a year, killing at least four people. Russia's defense ministry said air defenses intercepted drones across 14 regions including the capital.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "France24",
-      "url": "https://www.france24.com/en/europe/20260517-ukraine-launches-more-than-500-drones-at-russia-in-deadly-overnight-attack-authorities-say",
-      "timestamp": "2026-05-17T15:03:00+03:00"
-    },
-    {
-      "headline": "Iran's \"Vulture's Advantage\" Explored Amid Middle East War",
-      "summary": "The Atlantic analyzes Iran's strategic calculus in the ongoing conflict, noting that Tehran's high tolerance for suffering gives it asymmetric leverage against wealthier Gulf neighbors whose economies are vulnerable to disruption.",
-      "emoji": "🇮🇷",
-      "category": "Middle East",
-      "source": "The Atlantic",
-      "url": "https://www.theatlantic.com/international/2026/05/iran-middle-east-war-trump-uae/687187/",
-      "timestamp": "2026-05-17T15:03:00+03:00"
+      "timestamp": "2026-05-17T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/17/indias-tata-and-dutch-giant-asml-sign-semiconductor-deal-during-modi-visit",
+          "angle": "Tata and ASML Sign Major Semiconductor Deal During Modi Netherlands Visit",
+          "summary": "India's Tata Group and Dutch chip equipment giant ASML signed a semiconductor cooperation agreement as Prime Minister Modi visited the Netherlands, with talks also focusing on defense and security cooperation."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/india/tata-electronics-asml-partner-indias-first-semiconductor-fab-2026-05-16/",
+        "https://www.aljazeera.com/news/2026/5/17/indias-tata-and-dutch-giant-asml-sign-semiconductor-deal-during-modi-visit"
+      ]
     },
     {
       "headline": "Live Updates: Israel Strikes Lebanon as Iran Says It Cannot Trust Americans",
@@ -35,7 +69,23 @@
       "category": "Middle East",
       "source": "CBS News",
       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-trust-americans-control/",
-      "timestamp": "2026-05-17T15:03:00+03:00"
+      "timestamp": "2026-05-17T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-trust-americans-control/",
+          "angle": "Israel Strikes Lebanon as Iran Says It Cannot Trust the US",
+          "summary": "Israel continues airstrikes on southern Lebanon despite a 45-day ceasefire extension, while Irans foreign minister says Tehran cannot trust the Americans at all as diplomatic efforts to end the war struggle."
+        }
+      ],
+      "sources": [
+        "CBS News",
+        "CBS News"
+      ],
+      "urls": [
+        "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-trust-americans-control/",
+        "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-trust-americans-control/"
+      ]
     },
     {
       "headline": "Fire breaks out near Abu Dhabi nuclear plant after drone strike",
@@ -187,19 +237,19 @@
       "timestamp": "2026-05-17T12:03:00+03:00",
       "perspectives": [
         {
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/may/17/people-killed-in-russia-ukraine-retaliatory-strikes-moscow",
-          "angle": "Ukraine Launches Massive Drone Strike on Moscow Region in Retaliatory Attack",
-          "summary": "Ukraine fired nearly 600 drones across 14 Russian regions, killing at least four people near Moscow, in retaliation for Russia's deadly three-day attack that killed over 20 Ukrainians. The strike hit residential areas and damaged infrastructure near Moscow's oil refinery."
+          "source": "France24",
+          "url": "https://www.france24.com/en/europe/20260517-ukraine-launches-more-than-500-drones-at-russia-in-deadly-overnight-attack-authorities-say",
+          "angle": "Ukraine Launches Largest Drone Attack on Moscow in Over a Year",
+          "summary": "Ukraine fired around 600 drones at Russia overnight in its biggest attack on Moscow in more than a year, killing at least four people. Russia's defense ministry said air defenses intercepted drones across 14 regions including the capital."
         }
       ],
       "sources": [
         "Reuters",
-        "The Guardian"
+        "France24"
       ],
       "urls": [
         "https://www.reuters.com/world/europe/least-three-died-ukraine-drone-attack-moscow-region-governor-says-2026-05-17/",
-        "https://www.theguardian.com/world/2026/may/17/people-killed-in-russia-ukraine-retaliatory-strikes-moscow"
+        "https://www.france24.com/en/europe/20260517-ukraine-launches-more-than-500-drones-at-russia-in-deadly-overnight-attack-authorities-say"
       ]
     },
     {
@@ -309,15 +359,6 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/latvian-president-proposes-opposition-lawmaker-next-prime-minister-2026-05-16/",
-      "timestamp": "2026-05-17T11:03:00+03:00"
-    },
-    {
-      "headline": "Tata and ASML Sign Major Semiconductor Deal During Modi Netherlands Visit",
-      "summary": "India's Tata Group and Dutch chip equipment giant ASML signed a semiconductor cooperation agreement as Prime Minister Modi visited the Netherlands, with talks also focusing on defense and security cooperation.",
-      "emoji": "🇮🇳",
-      "category": "Asia-Pacific",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/indias-tata-and-dutch-giant-asml-sign-semiconductor-deal-during-modi-visit",
       "timestamp": "2026-05-17T11:03:00+03:00"
     },
     {
@@ -527,15 +568,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/uk-government-scrap-planned-rise-fuel-tax-sun-reports-2026-05-16/",
       "timestamp": "2026-05-17T08:05:00+03:00"
-    },
-    {
-      "headline": "Israel Strikes Lebanon as Iran Says It Cannot Trust the US",
-      "summary": "Israel continues airstrikes on southern Lebanon despite a 45-day ceasefire extension, while Irans foreign minister says Tehran cannot trust the Americans at all as diplomatic efforts to end the war struggle.",
-      "emoji": "🇮🇱🇱🇧",
-      "category": "Middle East",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-trust-americans-control/",
-      "timestamp": "2026-05-17T07:05:00+03:00"
     },
     {
       "headline": "Global Oil Stockpiles Could Hit Record Lows if Hormuz Remains Closed",
@@ -2480,19 +2512,19 @@
       "timestamp": "2026-05-15T13:03:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/iraq-sought-financial-assistance-imf-result-iran-war-source-close-imf-says-2026-05-14/",
-          "angle": "Iraq seeks IMF and World Bank financial assistance amid Iran war fallout",
-          "summary": "Iraqi officials have approached the International Monetary Fund about securing financial assistance as a result of the Middle East conflict, according to a source close to the IMF."
+          "source": "The Atlantic",
+          "url": "https://www.theatlantic.com/international/2026/05/iran-middle-east-war-trump-uae/687187/",
+          "angle": "Iran's \"Vulture's Advantage\" Explored Amid Middle East War",
+          "summary": "The Atlantic analyzes Iran's strategic calculus in the ongoing conflict, noting that Tehran's high tolerance for suffering gives it asymmetric leverage against wealthier Gulf neighbors whose economies are vulnerable to disruption."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "The Atlantic"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/iraq-sought-financial-assistance-imf-result-iran-war-source-close-imf-says-2026-05-14/",
-        "https://www.reuters.com/world/middle-east/iraq-sought-financial-assistance-imf-result-iran-war-source-close-imf-says-2026-05-14/"
+        "https://www.theatlantic.com/international/2026/05/iran-middle-east-war-trump-uae/687187/"
       ]
     },
     {
