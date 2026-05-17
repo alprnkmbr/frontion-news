@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-17T17:05:28+03:00",
+  "lastUpdated": "2026-05-17T18:04:49+03:00",
   "headlines": [
+    {
+      "headline": "WHO Declares Ebola Outbreak in Congo-Uganda Global Health Emergency",
+      "summary": "The World Health Organization designated the Ebola outbreak caused by the Bundibugyo virus spreading across Congo and Uganda as a public health emergency of international concern, signaling the need for coordinated global response.",
+      "emoji": "🦠",
+      "category": "Africa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17/",
+      "timestamp": "2026-05-17T18:03:00+03:00"
+    },
+    {
+      "headline": "Ukrainian Drone Attack Kills Four in Russia, Moscow Hit in Largest Strike in Over a Year",
+      "summary": "At least four people were killed in a major Ukrainian drone attack on Russian regions, with Moscow facing its largest assault in more than a year, marking an escalation in cross-border strikes.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/least-three-died-ukraine-drone-attack-moscow-region-governor-says-2026-05-17/",
+      "timestamp": "2026-05-17T18:03:00+03:00"
+    },
+    {
+      "headline": "Drone Strike Sparks Fire at UAE Nuclear Power Plant",
+      "summary": "A drone strike caused a fire at the Barakah nuclear power plant in the United Arab Emirates, officials said, highlighting risks to Gulf energy infrastructure amid the ongoing Iran conflict.",
+      "emoji": "☢️",
+      "category": "Middle East",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/world/middle-east/drone-strike-sparks-fire-near-u-a-e-nuclear-plant-b061ab0d",
+      "timestamp": "2026-05-17T18:03:00+03:00"
+    },
+    {
+      "headline": "Peru Confirms June 7 Presidential Runoff Between Fujimori and Sánchez",
+      "summary": "Peruvian electoral authorities officially confirmed the presidential runoff election scheduled for June 7, setting up a contest between Keiko Fujimori and Pedro Sánchez.",
+      "emoji": "🇵🇪",
+      "category": "Latin America",
+      "source": "AP News",
+      "url": "https://apnews.com/article/peru-elections-results-second-round-288f3772df67d8fea900efc2cab0f1ac",
+      "timestamp": "2026-05-17T18:03:00+03:00"
+    },
     {
       "headline": "WHO Declares Ebola Outbreak in Congo-Uganda a Global Health Emergency",
       "summary": "The World Health Organization declared the Ebola outbreak spreading between Democratic Republic of Congo and Uganda a public health emergency of international concern, with at least 88 suspected deaths. No approved vaccines exist for this strain.",
@@ -8,34 +44,23 @@
       "category": "Africa",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/what-do-we-know-about-ebola-outbreak-congo-uganda-2026-05-17/",
-      "timestamp": "2026-05-17T17:03:00+03:00"
-    },
-    {
-      "headline": "Ukraine Launches Massive Drone Attack on Moscow, Killing Four",
-      "summary": "Ukraine launched around 600 drones at Russia in one of the largest attacks on Moscow since the war began, killing at least four people including an Indian worker. Zelenskyy called it a justified response to Russian attacks on Ukrainian cities.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/ukraine/ukraine-drones-kill-four-russia-moscow-faces-biggest-attack-year-rcna345529",
-      "timestamp": "2026-05-17T17:03:00+03:00"
-    },
-    {
-      "headline": "Hamas Gaza Commander Killed by Israel, Testing Ceasefire",
-      "summary": "Israel assassinated Hamas top commander Izz al-Din al-Haddad in Gaza. The group pledged to adapt operations following the killing, which comes amid ongoing ceasefire negotiations.",
-      "emoji": "⚔️",
-      "category": "Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/how-will-izz-al-din-al-haddads-assassination-impact-hamas-gaza-operations",
-      "timestamp": "2026-05-17T17:03:00+03:00"
-    },
-    {
-      "headline": "Bond Markets Signal New Era of Elevated Yields Amid War-Driven Inflation",
-      "summary": "US bond traders see a potential shift toward sustained higher borrowing costs as war-driven inflation fears intensify. The trend marks a departure from decades of declining yields.",
-      "emoji": "📈",
-      "category": "Economy",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-17/bond-traders-see-tipping-point-toward-new-era-of-higher-yields",
-      "timestamp": "2026-05-17T17:03:00+03:00"
+      "timestamp": "2026-05-17T17:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17/",
+          "angle": "WHO declares global health emergency over Ebola outbreak",
+          "summary": "The World Health Organization declared the Ebola outbreak in DR Congo and Uganda a public health emergency of international concern after over 300 suspected cases and 88 deaths from a rare Bundibugyo strain with no approved vaccine."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/healthcare-pharmaceuticals/what-do-we-know-about-ebola-outbreak-congo-uganda-2026-05-17/",
+        "https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17/"
+      ]
     },
     {
       "headline": "US to Weigh Action Against China Over Industrial Overcapacity",
@@ -373,44 +398,19 @@
       "timestamp": "2026-05-17T12:03:00+03:00",
       "perspectives": [
         {
-          "source": "France24",
-          "url": "https://www.france24.com/en/europe/20260517-ukraine-launches-more-than-500-drones-at-russia-in-deadly-overnight-attack-authorities-say",
-          "angle": "Ukraine Launches Largest Drone Attack on Moscow in Over a Year",
-          "summary": "Ukraine fired around 600 drones at Russia overnight in its biggest attack on Moscow in more than a year, killing at least four people. Russia's defense ministry said air defenses intercepted drones across 14 regions including the capital."
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/world/ukraine/ukraine-drones-kill-four-russia-moscow-faces-biggest-attack-year-rcna345529",
+          "angle": "Ukraine Launches Massive Drone Attack on Moscow, Killing Four",
+          "summary": "Ukraine launched around 600 drones at Russia in one of the largest attacks on Moscow since the war began, killing at least four people including an Indian worker. Zelenskyy called it a justified response to Russian attacks on Ukrainian cities."
         }
       ],
       "sources": [
         "Reuters",
-        "France24"
+        "NBC News"
       ],
       "urls": [
         "https://www.reuters.com/world/europe/least-three-died-ukraine-drone-attack-moscow-region-governor-says-2026-05-17/",
-        "https://www.france24.com/en/europe/20260517-ukraine-launches-more-than-500-drones-at-russia-in-deadly-overnight-attack-authorities-say"
-      ]
-    },
-    {
-      "headline": "WHO declares global health emergency over Ebola outbreak",
-      "summary": "The World Health Organization declared the Ebola outbreak in DR Congo and Uganda a public health emergency of international concern after over 300 suspected cases and 88 deaths from a rare Bundibugyo strain with no approved vaccine.",
-      "emoji": "🌍🚨",
-      "category": "Africa",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17/",
-      "timestamp": "2026-05-17T12:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17/",
-          "angle": "WHO Declares Ebola Outbreak in Congo and Uganda International Emergency",
-          "summary": "The World Health Organization declared the Ebola outbreak caused by the Bundibugyo virus in DRC and Uganda a public health emergency of international concern, signaling heightened global health risk."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17/",
-        "https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17/"
+        "https://www.nbcnews.com/world/ukraine/ukraine-drones-kill-four-russia-moscow-faces-biggest-attack-year-rcna345529"
       ]
     },
     {
@@ -1151,19 +1151,19 @@
       "timestamp": "2026-05-17T00:03:00+03:00",
       "perspectives": [
         {
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/world/middle-east/gaza-airstrike-targeted-hamas-military-wing-leader-israel-says-rcna345397",
-          "angle": "Israel Kills Hamas Military Wing Leader, Architect of Oct. 7 Attack",
-          "summary": "An Israeli airstrike in Gaza City killed Izz al-Din al-Haddad, leader of Hamas' military wing and one of the last surviving architects of the October 7, 2023 attacks. His death comes as the fragile ceasefire continues with key disagreements blocking a final deal."
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/17/how-will-izz-al-din-al-haddads-assassination-impact-hamas-gaza-operations",
+          "angle": "Hamas Gaza Commander Killed by Israel, Testing Ceasefire",
+          "summary": "Israel assassinated Hamas top commander Izz al-Din al-Haddad in Gaza. The group pledged to adapt operations following the killing, which comes amid ongoing ceasefire negotiations."
         }
       ],
       "sources": [
         "Reuters",
-        "NBC News"
+        "Al Jazeera"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/gaza-mosques-announce-death-hamas-military-leader-after-israeli-targeting-claim-2026-05-16/",
-        "https://www.nbcnews.com/world/middle-east/gaza-airstrike-targeted-hamas-military-wing-leader-israel-says-rcna345397"
+        "https://www.aljazeera.com/news/2026/5/17/how-will-izz-al-din-al-haddads-assassination-impact-hamas-gaza-operations"
       ]
     },
     {
@@ -1644,6 +1644,31 @@
       "timestamp": "2026-05-16T11:30:00+03:00"
     },
     {
+      "headline": "US Treasury Yields Hit One-Year High as Oil Prices and Inflation Rattle Markets",
+      "summary": "U.S. Treasury yields climbed to their highest levels in a year as a spike in oil prices tied to Middle East energy disruptions, inflation concerns and expectations for a stronger economy led investors to reevaluate interest rate trajectories.",
+      "emoji": "📈💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/yields-surge-may-2025-highs-oil-prices-and-inflation-data-rattle-markets-2026-05-15/",
+      "timestamp": "2026-05-16T11:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-17/bond-traders-see-tipping-point-toward-new-era-of-higher-yields",
+          "angle": "Bond Markets Signal New Era of Elevated Yields Amid War-Driven Inflation",
+          "summary": "US bond traders see a potential shift toward sustained higher borrowing costs as war-driven inflation fears intensify. The trend marks a departure from decades of declining yields."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Bloomberg"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/yields-surge-may-2025-highs-oil-prices-and-inflation-data-rattle-markets-2026-05-15/",
+        "https://www.bloomberg.com/news/articles/2026-05-17/bond-traders-see-tipping-point-toward-new-era-of-higher-yields"
+      ]
+    },
+    {
       "headline": "Trump Says Xi Agrees Iran Must Open Hormuz Strait, China Says War Should Not Have Started",
       "summary": "U.S. President Donald Trump said Chinese President Xi Jinping agreed Tehran must reopen the Strait of Hormuz after their Beijing summit, though China gave no indication it would intervene militarily in the conflict.",
       "emoji": "🇨🇳🇺🇸🇮🇷",
@@ -1667,15 +1692,6 @@
         "https://www.reuters.com/world/china/trump-says-xi-agrees-iran-must-open-strait-china-says-war-shouldnt-have-started-2026-05-16/",
         "https://www.aa.com.tr/en/middle-east/seoul-urges-tehran-to-clarify-stance-on-attack-on-s-korean-vessel-in-strait-of-hormuz/3940104"
       ]
-    },
-    {
-      "headline": "US Treasury Yields Hit One-Year High as Oil Prices and Inflation Rattle Markets",
-      "summary": "U.S. Treasury yields climbed to their highest levels in a year as a spike in oil prices tied to Middle East energy disruptions, inflation concerns and expectations for a stronger economy led investors to reevaluate interest rate trajectories.",
-      "emoji": "📈💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/yields-surge-may-2025-highs-oil-prices-and-inflation-data-rattle-markets-2026-05-15/",
-      "timestamp": "2026-05-16T11:03:00+03:00"
     },
     {
       "headline": "Chinese Officials Meet Citigroup and Goldman Sachs CEOs in Beijing",
@@ -2851,15 +2867,6 @@
       "category": "Military",
       "source": "Defense News",
       "url": "https://www.defensenews.com/news/pentagon-congress/2026/05/14/iran-military-threat-is-diminished-but-not-eliminated-centcom-chief-says/",
-      "timestamp": "2026-05-15T10:04:00+03:00"
-    },
-    {
-      "headline": "NPT Review Conference Faces Unprecedented Strain",
-      "summary": "The Nuclear Non-Proliferation Treaty is under stress from five major challenges including US-Israeli strikes on Iran, great power competition, and the Ukraine war, as diplomats meet in New York with modest progress unlikely.",
-      "emoji": "☢️",
-      "category": "Geopolitics",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/05/can-the-npt-survive-amid-global-disorder/",
       "timestamp": "2026-05-15T10:04:00+03:00"
     }
   ]
