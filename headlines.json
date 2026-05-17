@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-17T13:05:50+03:00",
+  "lastUpdated": "2026-05-17T14:05:15+03:00",
   "headlines": [
+    {
+      "headline": "Ukraine Launches Massive Drone Strike on Moscow Region in Retaliatory Attack",
+      "summary": "Ukraine fired nearly 600 drones across 14 Russian regions, killing at least four people near Moscow, in retaliation for Russia's deadly three-day attack that killed over 20 Ukrainians. The strike hit residential areas and damaged infrastructure near Moscow's oil refinery.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/17/people-killed-in-russia-ukraine-retaliatory-strikes-moscow",
+      "timestamp": "2026-05-17T14:03:00+03:00"
+    },
+    {
+      "headline": "North Korea Fires Ballistic Missiles After Rejecting South Korea's Outreach",
+      "summary": "North Korea launched multiple short-range ballistic missiles, including one that flew over 700km, hours after a senior official called South Korea a \"hostile enemy state\" and ridiculed hopes for warmer ties. The launches came as South Korea's liberal government sought dialogue.",
+      "emoji": "🇰🇵",
+      "category": "Asia-Pacific",
+      "source": "AP News",
+      "url": "https://apnews.com/article/north-korea-launch-south-korea-098ca1f60e71fe6aa25539d8a9e14c96",
+      "timestamp": "2026-05-17T14:03:00+03:00"
+    },
+    {
+      "headline": "Israel Kills Hamas Military Wing Leader, Architect of Oct. 7 Attack",
+      "summary": "An Israeli airstrike in Gaza City killed Izz al-Din al-Haddad, leader of Hamas' military wing and one of the last surviving architects of the October 7, 2023 attacks. His death comes as the fragile ceasefire continues with key disagreements blocking a final deal.",
+      "emoji": "🇮🇱",
+      "category": "Middle East",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/middle-east/gaza-airstrike-targeted-hamas-military-wing-leader-israel-says-rcna345397",
+      "timestamp": "2026-05-17T14:03:00+03:00"
+    },
+    {
+      "headline": "Macron Opens Africa Summit in Kenya With $27 Billion Investment Package",
+      "summary": "French President Emmanuel Macron announced €23 billion in investments at the Africa Forward Summit in Nairobi, marking France's first major summit in an Anglophone African country. The move signals a shift from colonial-era dominance toward \"partnership of equals\" as France seeks new allies.",
+      "emoji": "🇫🇷",
+      "category": "Africa",
+      "source": "AP News",
+      "url": "https://apnews.com/article/kenya-africa-summit-france-macron-ruto-d07479573f56ba6e02ac424cb855f000",
+      "timestamp": "2026-05-17T14:03:00+03:00"
+    },
+    {
+      "headline": "Coal Makes Global Comeback as Iran War Cuts Off LNG Supplies",
+      "summary": "Countries worldwide are returning to coal power after the Iran war effectively closed the Strait of Hormuz, cutting off about 20% of global liquefied natural gas supplies. The shift is most pronounced in Asia as nations prioritize energy security over climate goals.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/business/energy-oil/coal-makes-a-comeback-fueled-by-war-in-the-middle-east-fb4cd0a8",
+      "timestamp": "2026-05-17T14:03:00+03:00"
+    },
     {
       "headline": "Italy PM Meloni visits Modena after car-ramming attack injures several",
       "summary": "Italian Prime Minister Giorgia Meloni cancelled a planned meeting with Cyprus president to travel to Modena after a car plowed into pedestrians in an incident authorities are investigating. Four bystanders tackled the knife-wielding driver after the attack.",
@@ -17,7 +62,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/irans-stock-market-reopen-tuesday-official-says-2026-05-16/",
-      "timestamp": "2026-05-17T13:03:00+03:00"
+      "timestamp": "2026-05-17T13:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/irans-stock-market-reopen-tuesday-official-says-2026-05-16/",
+          "angle": "Iran's stock market to reopen Tuesday after war suspension",
+          "summary": "Iran will reopen its stock market on Tuesday after a suspension during the conflict with the US and Israel, IRNA news agency cited a senior official as saying, as the country begins normalizing economic activity."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/irans-stock-market-reopen-tuesday-official-says-2026-05-16/",
+        "https://www.reuters.com/world/middle-east/irans-stock-market-reopen-tuesday-official-says-2026-05-16/"
+      ]
     },
     {
       "headline": "Palestinian President Abbas son elected to top Fatah leadership body",
@@ -823,15 +884,6 @@
         "https://www.reuters.com/world/europe/russia-says-it-took-control-two-villages-ukraines-kharkiv-region-ria-reports-2026-05-16/",
         "https://www.reuters.com/world/europe/russia-says-it-took-control-two-villages-ukraines-kharkiv-region-ria-reports-2026-05-16/"
       ]
-    },
-    {
-      "headline": "Iran's stock market to reopen Tuesday after war suspension",
-      "summary": "Iran will reopen its stock market on Tuesday after a suspension during the conflict with the US and Israel, IRNA news agency cited a senior official as saying, as the country begins normalizing economic activity.",
-      "emoji": "📈",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/irans-stock-market-reopen-tuesday-official-says-2026-05-16/",
-      "timestamp": "2026-05-17T02:03:00+03:00"
     },
     {
       "headline": "ISIS Deputy Leader Killed in US-Nigeria Joint Operation",
@@ -2745,24 +2797,6 @@
       "source": "Anadolu Agency",
       "url": "https://www.aa.com.tr/en/middle-east/israel-pushing-for-return-to-iran-war-weighing-options-with-us-report/3937975",
       "timestamp": "2026-05-15T06:04:00+03:00"
-    },
-    {
-      "headline": "Trump Blames Biden for US Decline After Xi Comments on Thucydides Trap",
-      "summary": "President Trump invoked his predecessor to explain Chinese President Xi Jinping comments suggesting the US is a declining nation, as the two leaders held high-stakes talks in Beijing.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "US-China",
-      "source": "The Hill",
-      "url": "https://thehill.com/homenews/administration/5879325-trump-blames-biden-decline-xi/",
-      "timestamp": "2026-05-15T06:04:00+03:00"
-    },
-    {
-      "headline": "Morocco adds B to budget to cushion Middle East conflict impact",
-      "summary": "The Moroccan government plans to add 20 billion dirhams to its 2026 budget to finance measures cushioning the impact of the Middle East conflict on the domestic market.",
-      "emoji": "🇲🇦",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/sustainability/boards-policy-regulation/morocco-add-2-billion-its-budget-soften-economic-impact-middle-east-conflict-2026-05-14/",
-      "timestamp": "2026-05-15T05:03:00+03:00"
     }
   ]
 }
