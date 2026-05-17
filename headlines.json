@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-17T22:06:23+03:00",
+  "lastUpdated": "2026-05-17T23:05:23+03:00",
   "headlines": [
+    {
+      "headline": "WHO Declares Ebola Outbreak Global Health Emergency",
+      "summary": "The World Health Organization declared an Ebola outbreak in Congo and Uganda a public health emergency of international concern. The rare Bundibugyo strain has no approved vaccine and has killed nearly 90 people.",
+      "emoji": "🦠🌍",
+      "category": "Africa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17/",
+      "timestamp": "2026-05-17T23:03:00+03:00"
+    },
+    {
+      "headline": "Israel to Build Defense Offices in Former UNRWA Jerusalem Compound",
+      "summary": "Israel cabinet approved building a defense compound on the site of recently demolished UNRWA premises in East Jerusalem. The UN had called the demolition a violation of international law.",
+      "emoji": "🇮🇱🏛️",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israel-establish-defence-offices-former-unrwa-east-jerusalem-compound-2026-05-17/",
+      "timestamp": "2026-05-17T23:03:00+03:00"
+    },
+    {
+      "headline": "Wave of Ukrainian Drone Strikes Kills Four in Russia",
+      "summary": "Ukraine launched its largest drone attack on Moscow in over a year, with over 550 drones intercepted across a dozen Russian regions. Four people were killed including three in the Moscow region.",
+      "emoji": "🇺🇦⚔️",
+      "category": "Ukraine-Russia War",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/17/world/europe/russia-ukraine-strikes-moscow.html",
+      "timestamp": "2026-05-17T23:03:00+03:00"
+    },
+    {
+      "headline": "Republicans Vie to Replace Defeated Senator Cassidy in Louisiana",
+      "summary": "Republican Senator Bill Cassidy was defeated in the primary after his impeachment vote against Trump. Representative Julia Letlow and State Treasurer John Fleming advance to the runoff.",
+      "emoji": "🇺🇸🏛️",
+      "category": "US Politics",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/17/us/politics/letlow-fleming-cassidy-louisiana-senate.html",
+      "timestamp": "2026-05-17T23:03:00+03:00"
+    },
+    {
+      "headline": "Air Force Base Locked Down After Idaho Air Show Incident",
+      "summary": "Emergency crews responded to an aircraft incident during the Gunfighter Skies Air Show at Mountain Home Air Force Base in Idaho. Witnesses reported mid-air collision involving Navy jets with parachutes seen descending.",
+      "emoji": "✈️🚨",
+      "category": "Military",
+      "source": "AP News",
+      "url": "https://apnews.com/article/air-show-idaho-incident-lockdown-cf2c98134c068cfcb8987e68a3177c62",
+      "timestamp": "2026-05-17T23:03:00+03:00"
+    },
     {
       "headline": "Cuba seeking Russian drones, military equipment as US warns of Guantanamo threat",
       "summary": "US intelligence reports Cuba has acquired over 300 Russian and Iranian drones and is discussing attacks on Guantanamo Bay, Key West, and US military vessels. Cuban officials are studying how Iran has resisted US military pressure.",
@@ -17,7 +62,23 @@
       "category": "Ukraine-Russia War",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/ukraine-war-latest-drone-strike-reportedly-hits-major-russian-fertilizer-plant-linked-to-explosives-production/",
-      "timestamp": "2026-05-17T22:05:00+03:00"
+      "timestamp": "2026-05-17T22:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/at-least-2-killed-41-injured-in-russian-attacks-across-ukraine-over-past-day/",
+          "angle": "Russian Drone Barrage Kills 2, Injures 41 Across Ukraine",
+          "summary": "Russia launched 287 attack drones overnight, with Ukraine shooting down 279. Eight drones struck seven locations in the latest escalation of aerial attacks."
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://kyivindependent.com/ukraine-war-latest-drone-strike-reportedly-hits-major-russian-fertilizer-plant-linked-to-explosives-production/",
+        "https://kyivindependent.com/at-least-2-killed-41-injured-in-russian-attacks-across-ukraine-over-past-day/"
+      ]
     },
     {
       "headline": "US sanctions waiver for Russian oil purchases expires without renewal",
@@ -53,7 +114,23 @@
       "category": "US-China",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/taiwan-independence-means-we-dont-belong-beijing-president-says-2026-05-17/",
-      "timestamp": "2026-05-17T22:03:00+03:00"
+      "timestamp": "2026-05-17T22:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/taiwan-says-us-arms-sales-are-cornerstone-regional-peace-2026-05-16/",
+          "angle": "Taiwan Seeks Reassurance on US Arms Sales After Trump Signals Uncertainty",
+          "summary": "Taiwan pressed its case for continued US weapons sales as a cornerstone of regional peace after President Trump said he has not decided on future sales, adding uncertainty about American support for the island amid rising tensions with China."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/taiwan-independence-means-we-dont-belong-beijing-president-says-2026-05-17/",
+        "https://www.reuters.com/world/china/taiwan-says-us-arms-sales-are-cornerstone-regional-peace-2026-05-16/"
+      ]
     },
     {
       "headline": "Israel Economy Contracts in Q1 as Iran War Takes Toll",
@@ -373,31 +450,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/week-asia/economics/article/3353847/indonesia-pushes-back-after-chinese-business-group-complains-tougher-rules-hurt-investors",
       "timestamp": "2026-05-17T16:08:00+03:00"
-    },
-    {
-      "headline": "Russian Drone Barrage Kills 2, Injures 41 Across Ukraine",
-      "summary": "Russia launched 287 attack drones overnight, with Ukraine shooting down 279. Eight drones struck seven locations in the latest escalation of aerial attacks.",
-      "emoji": "🇺🇦⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/at-least-2-killed-41-injured-in-russian-attacks-across-ukraine-over-past-day/",
-      "timestamp": "2026-05-17T16:08:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russias-expanding-drone-forces-passes-100-000-personnel-copies-ukrainian-example-magyar-says/",
-          "angle": "Russian drone force passes 100,000 personnel, copying Ukraine model",
-          "summary": "Russia has expanded its drone forces from 86,000 to over 114,000 personnel and is on track to reach 168,000 by year-end, effectively copying Ukraine's Unmanned Systems Forces structure, according to Ukrainian commander Robert \"Magyar\" Brovdi."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://kyivindependent.com/at-least-2-killed-41-injured-in-russian-attacks-across-ukraine-over-past-day/",
-        "https://kyivindependent.com/russias-expanding-drone-forces-passes-100-000-personnel-copies-ukrainian-example-magyar-says/"
-      ]
     },
     {
       "headline": "White House to Host Mass Prayer Event Promoting Christian Origins of US",
@@ -1024,31 +1076,6 @@
       "urls": [
         "https://www.reuters.com/legal/litigation/us-accuses-iraqi-man-helping-iran-backed-militias-plans-attacks-us-europe-2026-05-16/",
         "https://www.reuters.com/legal/litigation/us-accuses-iraqi-man-helping-iran-backed-militias-plans-attacks-us-europe-2026-05-16/"
-      ]
-    },
-    {
-      "headline": "Taiwan Seeks Reassurance on US Arms Sales After Trump Signals Uncertainty",
-      "summary": "Taiwan pressed its case for continued US weapons sales as a cornerstone of regional peace after President Trump said he has not decided on future sales, adding uncertainty about American support for the island amid rising tensions with China.",
-      "emoji": "🇹🇼🇺🇸",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/taiwan-says-us-arms-sales-are-cornerstone-regional-peace-2026-05-16/",
-      "timestamp": "2026-05-17T05:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Japan Times",
-          "url": "https://www.japantimes.co.jp/news/2026/05/17/asia-pacific/politics/trump-taiwan-china-analysis/",
-          "angle": "Trump Taiwan policy shift signals major change in US approach",
-          "summary": "Analysis reveals significant changes in US Taiwan policy under Trump, who has warned Taipei against independence moves and called American arms deals a negotiating chip with Beijing."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Japan Times"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/taiwan-says-us-arms-sales-are-cornerstone-regional-peace-2026-05-16/",
-        "https://www.japantimes.co.jp/news/2026/05/17/asia-pacific/politics/trump-taiwan-china-analysis/"
       ]
     },
     {
@@ -2802,133 +2829,6 @@
       "source": "Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/defense-news/article-896271",
       "timestamp": "2026-05-15T14:10:00+03:00"
-    },
-    {
-      "headline": "Australia Rules Out LNG Export Controls as Gas Supply Fears Ease",
-      "summary": "Australia will not impose LNG export controls for Q3 2026 after industry assurances eased concerns about east coast gas supply, maintaining its position as a key global LNG supplier.",
-      "emoji": "🇦🇺🛢️",
-      "category": "Energy",
-      "source": "Oil Price",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Australia-Rules-Out-LNG-Export-Curbs-as-East-Coast-Gas-Supply-Fears-Ease.html",
-      "timestamp": "2026-05-15T14:10:00+03:00"
-    },
-    {
-      "headline": "Boeing Shares Drop After China Orders Just 200 Jets",
-      "summary": "China agreed to purchase 200 Boeing aircraft, far fewer than analysts expected, sending Boeing shares down 4%. The announcement came during Trump’s Beijing visit and disappointed markets hoping for a larger deal.",
-      "emoji": "✈️📉",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/china-has-agreed-to-buy-200-boeing-jets-trump-says-2026-05-14/",
-      "timestamp": "2026-05-15T14:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/china-has-agreed-to-buy-200-boeing-jets-trump-says-2026-05-14/",
-          "angle": "Boeing shares tumble as China agrees to buy only 200 jets",
-          "summary": "China agreed to purchase 200 Boeing jets during Trump-Xi talks, far fewer than analysts expected, sending Boeing shares down 4%. The deal reflects Beijing's cautious approach amid ongoing trade tensions and the Iran conflict."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/aerospace-defense/china-has-agreed-to-buy-200-boeing-jets-trump-says-2026-05-14/",
-        "https://www.reuters.com/business/aerospace-defense/china-has-agreed-to-buy-200-boeing-jets-trump-says-2026-05-14/"
-      ]
-    },
-    {
-      "headline": "Iraq Seeks IMF Financial Assistance Amid Iran War Fallout",
-      "summary": "Iraqi officials have approached the IMF about securing financial assistance as a result of the Middle East conflict. The war has disrupted trade routes and energy supplies, straining Iraq's economy.",
-      "emoji": "🇮🇶💰",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iraq-sought-financial-assistance-imf-result-iran-war-source-close-imf-says-2026-05-14/",
-      "timestamp": "2026-05-15T13:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Atlantic",
-          "url": "https://www.theatlantic.com/international/2026/05/iran-middle-east-war-trump-uae/687187/",
-          "angle": "Iran's \"Vulture's Advantage\" Explored Amid Middle East War",
-          "summary": "The Atlantic analyzes Iran's strategic calculus in the ongoing conflict, noting that Tehran's high tolerance for suffering gives it asymmetric leverage against wealthier Gulf neighbors whose economies are vulnerable to disruption."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "The Atlantic"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/iraq-sought-financial-assistance-imf-result-iran-war-source-close-imf-says-2026-05-14/",
-        "https://www.theatlantic.com/international/2026/05/iran-middle-east-war-trump-uae/687187/"
-      ]
-    },
-    {
-      "headline": "IMF Welcomes US-China Dialogue as Positive for World Economy",
-      "summary": "The International Monetary Fund welcomed constructive dialogue between Presidents Trump and Xi, saying reduced tensions between the two largest economies benefits global economic stability.",
-      "emoji": "🌐🇺🇸🇨🇳",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/imf-says-constructive-us-china-dialogue-reduced-tensions-good-world-economy-2026-05-14/",
-      "timestamp": "2026-05-15T13:03:00+03:00"
-    },
-    {
-      "headline": "Global Bonds Tumble as Inflation Fears Mount from Iran War Fallout",
-      "summary": "Global bond markets ended a bruising week as economic damage from the Iran conflict prompts investors to expect faster interest rate rises and weaker growth.",
-      "emoji": "📉💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/global-bonds-tumble-flaring-inflation-spooks-investors-2026-05-15/",
-      "timestamp": "2026-05-15T12:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/commentary/reuters-open-interest/russias-juiced-up-energy-exports-cushion-blow-iran-war-fallout-2026-05-14/",
-          "angle": "Russia ramps up energy exports to cushion global markets from Iran war fallout",
-          "summary": "Despite sanctions, Russia is playing a key role cushioning global commodity markets from the Iran war impact, increasing energy exports to stabilize markets amid Middle East supply disruptions."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/global-bonds-tumble-flaring-inflation-spooks-investors-2026-05-15/",
-        "https://www.reuters.com/commentary/reuters-open-interest/russias-juiced-up-energy-exports-cushion-blow-iran-war-fallout-2026-05-14/"
-      ]
-    },
-    {
-      "headline": "IMF Staff to Visit Ukraine for $8.1 Billion Loan Review",
-      "summary": "IMF staff will visit Ukraine in coming weeks to review progress on economic reforms and tax base expansion under an $8.1 billion loan program.",
-      "emoji": "🇺🇦🏦",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/imf-staff-heading-ukraine-review-81-billion-loan-program-coming-weeks-2026-05-14/",
-      "timestamp": "2026-05-15T12:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/imf-staff-heading-ukraine-review-81-billion-loan-program-coming-weeks-2026-05-14/",
-          "angle": "IMF Team to Review Ukraine's $8.1 Billion Loan Program",
-          "summary": "International Monetary Fund staff will visit Ukraine in coming weeks to assess reform progress and tax base expansion under the wartime loan program."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/imf-staff-heading-ukraine-review-81-billion-loan-program-coming-weeks-2026-05-14/",
-        "https://www.reuters.com/business/imf-staff-heading-ukraine-review-81-billion-loan-program-coming-weeks-2026-05-14/"
-      ]
-    },
-    {
-      "headline": "Turkey and Kazakhstan Deepen Middle Corridor Cooperation",
-      "summary": "President Erdogan oversaw the signing of new agreements during a visit to Kazakhstan, expanding the Middle Corridor trade route that bypasses Russian territory. The move strengthens Turkey's role as a logistics hub connecting Asia and Europe.",
-      "emoji": "🇹🇷🇰🇿",
-      "category": "Diplomacy",
-      "source": "Daily Sabah",
-      "url": "https://www.dailysabah.com/politics/diplomacy/turkiye-aims-for-middle-corridor-benefits-with-kazakhstan",
-      "timestamp": "2026-05-15T12:00:00+03:00"
     }
   ]
 }
