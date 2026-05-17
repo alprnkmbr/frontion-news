@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-17T05:05:55+03:00",
+  "lastUpdated": "2026-05-17T06:05:25+03:00",
   "headlines": [
+    {
+      "headline": "Trump Returns from China With Stability and Stalemate",
+      "summary": "The Beijing summit produced modest results by U.S.-China standards but highlighted China's benefit: after last year's trade war extremes, both nations have reverted to their familiar economic and strategic standoff. No breakthrough on the Strait of Hormuz.",
+      "emoji": "🇨🇳",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/trump-returns-china-with-stability-stalemate-2026-05-16/",
+      "timestamp": "2026-05-17T06:03:00+03:00"
+    },
+    {
+      "headline": "Trump's Geopolitical Brinkmanship Has Hit a Wall With Iran",
+      "summary": "Donald Trump's blustery negotiating style has won concessions from many countries, but it's not working with Iran. The approach may undermine his efforts to end the war, as Tehran resists pressure tactics that succeeded elsewhere.",
+      "emoji": "🇮🇷",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/trumps-geopolitical-brinkmanship-has-hit-wall-with-iran-2026-05-16/",
+      "timestamp": "2026-05-17T06:03:00+03:00"
+    },
+    {
+      "headline": "US Accuses Iraqi Man of Helping Iran-Backed Militia Plan Attacks",
+      "summary": "An Iraqi national accused of involvement in multiple attacks against U.S. interests in Europe has been arrested and brought to the U.S. to face six terrorism-related counts. The Justice Department says he helped Iran-backed militia plan attacks in the U.S. and Europe.",
+      "emoji": "⚖️",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/litigation/us-accuses-iraqi-man-helping-iran-backed-militias-plans-attacks-us-europe-2026-05-16/",
+      "timestamp": "2026-05-17T06:03:00+03:00"
+    },
+    {
+      "headline": "China to Host Putin Days After Trump's Beijing Visit",
+      "summary": "Russian President Vladimir Putin will visit Beijing on May 19-20 for talks with President Xi Jinping, the Kremlin confirmed. The visit comes just days after Trump's high-profile summit in the Chinese capital, underscoring the deepening Russia-China strategic partnership.",
+      "emoji": "🇷🇺",
+      "category": "Diplomacy",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/16/world/europe/putin-china-visit-trump.html",
+      "timestamp": "2026-05-17T06:03:00+03:00"
+    },
+    {
+      "headline": "Senate Strips Funding for Trump's White House Ballroom",
+      "summary": "A U.S. Senate official removed security funding that could be used for President Trump's planned $400 million White House ballroom from a massive spending package. Democratic lawmakers confirmed the ruling blocks the controversial project from the budget.",
+      "emoji": "🏛️",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/federal-funding-trumps-ballroom-jeopardy-after-senate-ruling-2026-05-17/",
+      "timestamp": "2026-05-17T06:03:00+03:00"
+    },
     {
       "headline": "China Calls Trump Trade Deals Preliminary as Beijing Summit Fails to Deliver Breakthrough",
       "summary": "China's commerce ministry described tariff and agricultural deals from the Trump-Xi summit as preliminary, tempering expectations after a high-stakes visit that produced modest results and highlighted the familiar economic standoff between the two powers.",
@@ -8,7 +53,31 @@
       "category": "US-China",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/china-says-trump-visit-deals-are-preliminary-2026-05-16/",
-      "timestamp": "2026-05-17T05:03:00+03:00"
+      "timestamp": "2026-05-17T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/finance/chinese-officials-meet-citigroup-goldman-chiefs-beijing-2026-05-16/",
+          "angle": "US CEOs Pursue Diplomacy in Beijing Following Trump Summit",
+          "summary": "American business leaders from Citigroup and Goldman Sachs meet Chinese officials, hoping political goodwill will translate into regulatory approvals and lucrative deals."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/china-renews-expired-export-licenses-us-beef-plants-chinese-customs-website-2026-05-15/",
+          "angle": "China Renews Export Licenses for 400+ US Beef Plants After Trump-Xi Summit",
+          "summary": "China renewed export licenses that had expired for more than 400 U.S. beef plants, the Chinese customs website showed, a potential sign of thawing trade relations following the Beijing summit between Presidents Trump and Xi."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/china-says-trump-visit-deals-are-preliminary-2026-05-16/",
+        "https://www.reuters.com/business/finance/chinese-officials-meet-citigroup-goldman-chiefs-beijing-2026-05-16/",
+        "https://www.reuters.com/world/asia-pacific/china-renews-expired-export-licenses-us-beef-plants-chinese-customs-website-2026-05-15/"
+      ]
     },
     {
       "headline": "Putin to Visit Beijing for Talks With Xi Just Days After Trump Summit",
@@ -17,7 +86,23 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/china-signals-tariff-cuts-advances-farm-market-access-after-trump-xi-summit-2026-05-16/",
-      "timestamp": "2026-05-17T05:03:00+03:00"
+      "timestamp": "2026-05-17T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/trump-returns-china-with-stability-stalemate-2026-05-16/",
+          "angle": "Putin to visit China days after Trump summit as Russia seeks strategic support",
+          "summary": "Russian President Vladimir Putin will meet Xi Jinping in Beijing next week, just after Trump became the first US president to visit China since 2017."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/china-signals-tariff-cuts-advances-farm-market-access-after-trump-xi-summit-2026-05-16/",
+        "https://www.reuters.com/world/china/trump-returns-china-with-stability-stalemate-2026-05-16/"
+      ]
     },
     {
       "headline": "Taiwan Seeks Reassurance on US Arms Sales After Trump Signals Uncertainty",
@@ -26,7 +111,23 @@
       "category": "US-China",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/taiwan-says-us-arms-sales-are-cornerstone-regional-peace-2026-05-16/",
-      "timestamp": "2026-05-17T05:03:00+03:00"
+      "timestamp": "2026-05-17T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/taiwan-says-us-arms-sales-are-cornerstone-regional-peace-2026-05-16/",
+          "angle": "Taiwan Presses US Arms Sales Amid Uncertainty Over Future Deals",
+          "summary": "Taiwan urged the United States to continue arms sales as a cornerstone of regional peace after President Trump said he had not decided on future weapons transfers. The comments come amid broader uncertainty about US defense commitments in the Indo-Pacific."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/taiwan-says-us-arms-sales-are-cornerstone-regional-peace-2026-05-16/",
+        "https://www.reuters.com/world/china/taiwan-says-us-arms-sales-are-cornerstone-regional-peace-2026-05-16/"
+      ]
     },
     {
       "headline": "Iraq Oil Exports Through Hormuz Drop 90 Percent Since Iran War Began",
@@ -35,7 +136,31 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/iraq-exported-10-million-barrels-oil-through-strait-hormuz-april-2026-05-16/",
-      "timestamp": "2026-05-17T05:03:00+03:00"
+      "timestamp": "2026-05-17T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/iraq-exported-10-million-barrels-oil-through-strait-hormuz-april-2026-05-16/",
+          "angle": "Iraq Oil Exports Through Hormuz Drop 90% as Strait Blockade Bites",
+          "summary": "Iraq exported just 10 million barrels of oil through the Strait of Hormuz in April, down from about 93 million barrels monthly before the Iran conflict began, the country's new oil minister said, highlighting the severe impact on global energy flows."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/india-asks-us-russian-oil-waiver-extension-iran-war-bloomberg-news-reports-2026-05-14/",
+          "angle": "India seeks US waiver extension for Russian oil imports amid Iran war",
+          "summary": "India has asked the U.S. to extend its waiver allowing purchases of Russian oil, Bloomberg reported, as the ongoing conflict in the Persian Gulf disrupts traditional energy supply routes."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/iraq-exported-10-million-barrels-oil-through-strait-hormuz-april-2026-05-16/",
+        "https://www.reuters.com/business/energy/iraq-exported-10-million-barrels-oil-through-strait-hormuz-april-2026-05-16/",
+        "https://www.reuters.com/business/energy/india-asks-us-russian-oil-waiver-extension-iran-war-bloomberg-news-reports-2026-05-14/"
+      ]
     },
     {
       "headline": "Sierra Leone Agrees to Accept Hundreds of West Africans Deported by US",
@@ -44,7 +169,23 @@
       "category": "Africa",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/africa/sierra-leone-take-hundreds-west-africans-deported-by-us-minister-says-2026-05-16/",
-      "timestamp": "2026-05-17T05:03:00+03:00"
+      "timestamp": "2026-05-17T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/africa/sierra-leone-take-hundreds-west-africans-deported-by-us-minister-says-2026-05-16/",
+          "angle": "Sierra Leone to Accept Hundreds of West Africans Deported from US",
+          "summary": "Sierra Leone agreed to take in hundreds of West African migrants being deported by the United States, its foreign minister told Reuters. The deal is part of the Trump administration's broader effort to accelerate removals amid heightened immigration enforcement."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/africa/sierra-leone-take-hundreds-west-africans-deported-by-us-minister-says-2026-05-16/",
+        "https://www.reuters.com/world/africa/sierra-leone-take-hundreds-west-africans-deported-by-us-minister-says-2026-05-16/"
+      ]
     },
     {
       "headline": "China, US, Israel Race to Dominate Laser Weapons Market",
@@ -407,56 +548,6 @@
       "timestamp": "2026-05-17T00:05:00+03:00"
     },
     {
-      "headline": "Sierra Leone to Accept Hundreds of West Africans Deported from US",
-      "summary": "Sierra Leone agreed to take in hundreds of West African migrants being deported by the United States, its foreign minister told Reuters. The deal is part of the Trump administration's broader effort to accelerate removals amid heightened immigration enforcement.",
-      "emoji": "🇸🇱🇺🇸✈️",
-      "category": "Africa",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/africa/sierra-leone-take-hundreds-west-africans-deported-by-us-minister-says-2026-05-16/",
-      "timestamp": "2026-05-17T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/africa/sierra-leone-take-hundreds-west-africans-deported-by-us-minister-2026-05-16/",
-          "angle": "Sierra Leone agrees to accept hundreds of West Africans deported by US",
-          "summary": "Sierra Leone has struck a deal with the Trump administration to accept hundreds of deported West African migrants, the latest in a series of agreements aimed at accelerating US removals."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/africa/sierra-leone-take-hundreds-west-africans-deported-by-us-minister-says-2026-05-16/",
-        "https://www.reuters.com/world/africa/sierra-leone-take-hundreds-west-africans-deported-by-us-minister-2026-05-16/"
-      ]
-    },
-    {
-      "headline": "Taiwan Presses US Arms Sales Amid Uncertainty Over Future Deals",
-      "summary": "Taiwan urged the United States to continue arms sales as a cornerstone of regional peace after President Trump said he had not decided on future weapons transfers. The comments come amid broader uncertainty about US defense commitments in the Indo-Pacific.",
-      "emoji": "🇹🇼🇺🇸🛡️",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/taiwan-says-us-arms-sales-are-cornerstone-regional-peace-2026-05-16/",
-      "timestamp": "2026-05-17T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/taiwan-says-us-arms-sales-are-cornerstone-regional-peace-2026-05-16/",
-          "angle": "Taiwan presses US for arms sales after Trump signals uncertainty",
-          "summary": "Following Trump's comments during his China visit expressing hesitation about defending Taiwan, the island's government emphasizes the importance of US arms deals for regional security."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/taiwan-says-us-arms-sales-are-cornerstone-regional-peace-2026-05-16/",
-        "https://www.reuters.com/world/china/taiwan-says-us-arms-sales-are-cornerstone-regional-peace-2026-05-16/"
-      ]
-    },
-    {
       "headline": "FIFA Officials Meet Iranian FA to Discuss World Cup Participation",
       "summary": "FIFA Secretary-General Mattias Grafstrom held constructive talks with Iran's Football Federation in Istanbul, offering reassurance about the country's participation in this year's World Cup amid concerns about Iran's status following recent regional conflicts.",
       "emoji": "🇮🇷⚽🌍",
@@ -512,39 +603,6 @@
         "https://www.reuters.com/world/latvian-president-proposes-opposition-lawmaker-next-prime-minister-2026-05-16/",
         "https://www.reuters.com/world/latvian-president-proposes-opposition-lawmaker-next-prime-minister-2026-05-16/",
         "https://www.reuters.com/world/latvian-prime-minister-silina-says-she-is-resigning-2026-05-14/"
-      ]
-    },
-    {
-      "headline": "Putin to visit China days after Trump summit as Russia seeks strategic support",
-      "summary": "Russian President Vladimir Putin will meet Xi Jinping in Beijing next week, just after Trump became the first US president to visit China since 2017.",
-      "emoji": "🇷🇺🇨🇳",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/trump-returns-china-with-stability-stalemate-2026-05-16/",
-      "timestamp": "2026-05-17T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Channel News Asia",
-          "url": "https://www.channelnewsasia.com/east-asia/russia-vladimir-putin-visit-china-xi-jinping-6125516",
-          "angle": "Putin to Visit China Days After Trump Trip",
-          "summary": "Russian President Vladimir Putin will meet Chinese leader Xi Jinping on a two-day trip to Beijing next week. The announcement comes just after Trump wrapped up the first visit to China by a US president in years."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/xi-gives-trump-rare-tour-secret-garden-heart-chinese-government-2026-05-15/",
-          "angle": "Putin to Visit China Soon as Kremlin Announces Completed Preparations",
-          "summary": "Russian President Vladimir Putin will visit Beijing very soon, the Kremlin said, with preparations complete. The visit comes days after Trump-Xi summit, raising speculation about triangular diplomacy between US, China, and Russia."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Channel News Asia",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/trump-returns-china-with-stability-stalemate-2026-05-16/",
-        "https://www.channelnewsasia.com/east-asia/russia-vladimir-putin-visit-china-xi-jinping-6125516",
-        "https://www.reuters.com/world/china/xi-gives-trump-rare-tour-secret-garden-heart-chinese-government-2026-05-15/"
       ]
     },
     {
@@ -729,47 +787,6 @@
       "source": "Haaretz",
       "url": "https://www.haaretz.com/us-news/2026-05-16/ty-article/report-u-s-and-israel-preparing-for-possible-renewal-of-strikes-on-iran/0000019e-2f57-d618-adde-3f77ed4c0000",
       "timestamp": "2026-05-16T20:05:00+03:00"
-    },
-    {
-      "headline": "US CEOs Pursue Diplomacy in Beijing Following Trump Summit",
-      "summary": "American business leaders from Citigroup and Goldman Sachs meet Chinese officials, hoping political goodwill will translate into regulatory approvals and lucrative deals.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/finance/chinese-officials-meet-citigroup-goldman-chiefs-beijing-2026-05-16/",
-      "timestamp": "2026-05-16T20:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "France 24",
-          "url": "https://www.france24.com/en/asia-pacific/20260516-taiwan-says-it-is-a-sovereign-nation-with-us-security-commitment-after-trump-s-warning",
-          "angle": "Taiwan Asserts Independence After Trump Warning Post-Beijing Summit",
-          "summary": "Taiwan's foreign ministry declared the island is a 'sovereign and independent democratic nation' after President Trump warned against formal independence declarations following his summit with Xi Jinping in Beijing. Trump said he opposes Taiwan going independent and questioned why the US would fight a war 9,500 miles away."
-        },
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/trump-wraps-up-visit-with-xi-in-china/",
-          "angle": "Trump-Xi Summit Concludes With Trade Deals, Taiwan Tensions Loom",
-          "summary": "President Trump and Chinese leader Xi Jinping wrapped up their Beijing summit with promises of 'fantastic trade deals' including Chinese purchases of US oil, soybeans, and Boeing jets. However, Xi warned of 'conflicts' if the Taiwan issue is mishandled, while Trump made no commitments on arms sales to Taiwan or political prisoners."
-        },
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/live/2026/05/13/world/trump-xi-summit-china",
-          "angle": "New York Times: Xi and Trump Strike Positive Tone After Taiwan Warning",
-          "summary": "Following Xi's stark warning on Taiwan, both leaders emphasized the importance of US-China relations in their summit discussions on trade, Iran war, and bilateral cooperation."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "France 24",
-        "CBS News",
-        "New York Times"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/finance/chinese-officials-meet-citigroup-goldman-chiefs-beijing-2026-05-16/",
-        "https://www.france24.com/en/asia-pacific/20260516-taiwan-says-it-is-a-sovereign-nation-with-us-security-commitment-after-trump-s-warning",
-        "https://www.cbsnews.com/news/trump-wraps-up-visit-with-xi-in-china/",
-        "https://www.nytimes.com/live/2026/05/13/world/trump-xi-summit-china"
-      ]
     },
     {
       "headline": "Zelenskiy Warns Russia May Attack NATO from Belarus",
@@ -1123,72 +1140,6 @@
       "urls": [
         "https://www.reuters.com/world/china/trump-says-xi-agrees-iran-must-open-strait-china-says-war-shouldnt-have-started-2026-05-16/",
         "https://www.aa.com.tr/en/middle-east/so-far-78-ships-redirected-from-transiting-strait-of-hormuz-says-us-military/3939645"
-      ]
-    },
-    {
-      "headline": "China Renews Export Licenses for 400+ US Beef Plants After Trump-Xi Summit",
-      "summary": "China renewed export licenses that had expired for more than 400 U.S. beef plants, the Chinese customs website showed, a potential sign of thawing trade relations following the Beijing summit between Presidents Trump and Xi.",
-      "emoji": "🥩🇺🇸🇨🇳",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/china-renews-expired-export-licenses-us-beef-plants-chinese-customs-website-2026-05-15/",
-      "timestamp": "2026-05-16T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html",
-          "angle": "Trump-China Summit Ends With Conciliatory Tone, Few Specifics",
-          "summary": "President Trump concluded his Beijing summit with Xi Jinping, touting \"fantastic trade deals\" while shifting away from adversarial rhetoric. Details remain scarce as both sides claim progress in stabilizing relations."
-        },
-        {
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/may/15/trump-china-visit-iran-agreement-xi-jinping-elusive",
-          "angle": "Trump Leaves China With Warm Rhetoric But Few Concrete Results",
-          "summary": "Trump departed Beijing after a summit rich in pageantry but offering little tangible progress on Iran, Taiwan, or AI. Xi warned of potential conflict over Taiwan while Trump remained noncommittal on arms sales. No major breakthroughs emerged on the key issues dividing the two superpowers."
-        },
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/05/15/business/economy/trump-china-deals.html",
-          "angle": "Trump-Xi Summit Ends With Trade Deals But No Major Breakthroughs",
-          "summary": "President Trump concluded his Beijing summit with Chinese leader Xi Jinping, touting \"fantastic trade deals\" including Chinese purchases of U.S. oil, but experts say the agreements lack substance and major issues like Taiwan and Iran remain unresolved."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "New York Times",
-        "The Guardian",
-        "New York Times"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/china-renews-expired-export-licenses-us-beef-plants-chinese-customs-website-2026-05-15/",
-        "https://www.nytimes.com/2026/05/15/world/europe/trump-xi-china-summit.html",
-        "https://www.theguardian.com/world/2026/may/15/trump-china-visit-iran-agreement-xi-jinping-elusive",
-        "https://www.nytimes.com/2026/05/15/business/economy/trump-china-deals.html"
-      ]
-    },
-    {
-      "headline": "Iraq Oil Exports Through Hormuz Drop 90% as Strait Blockade Bites",
-      "summary": "Iraq exported just 10 million barrels of oil through the Strait of Hormuz in April, down from about 93 million barrels monthly before the Iran conflict began, the country's new oil minister said, highlighting the severe impact on global energy flows.",
-      "emoji": "🛢️📉",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/iraq-exported-10-million-barrels-oil-through-strait-hormuz-april-2026-05-16/",
-      "timestamp": "2026-05-16T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/uae-accelerate-oil-pipeline-project-help-bypass-hormuz-2026-05-15/",
-          "angle": "UAE Accelerates Pipeline to Double Oil Exports Bypassing Hormuz",
-          "summary": "The UAE announced it will accelerate construction of a new oil pipeline to double export capacity through Fujairah by 2027, significantly expanding its ability to bypass the Strait of Hormuz amid Iran tensions."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/iraq-exported-10-million-barrels-oil-through-strait-hormuz-april-2026-05-16/",
-        "https://www.reuters.com/business/energy/uae-accelerate-oil-pipeline-project-help-bypass-hormuz-2026-05-15/"
       ]
     },
     {
@@ -2655,31 +2606,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/india-says-emerging-nations-eye-brics-grouping-stability-2026-05-14/",
       "timestamp": "2026-05-15T03:03:00+03:00"
-    },
-    {
-      "headline": "India seeks US waiver extension for Russian oil imports amid Iran war",
-      "summary": "India has asked the U.S. to extend its waiver allowing purchases of Russian oil, Bloomberg reported, as the ongoing conflict in the Persian Gulf disrupts traditional energy supply routes.",
-      "emoji": "🇮🇳",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/india-asks-us-russian-oil-waiver-extension-iran-war-bloomberg-news-reports-2026-05-14/",
-      "timestamp": "2026-05-15T02:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/us-waiver-permitting-russian-oil-purchases-expires/",
-          "angle": "US waiver for Russian oil purchases expires without renewal",
-          "summary": "A US waiver that allowed purchases of Russian oil stranded at sea has expired as of May 16, potentially affecting global energy markets amid ongoing Iran conflict."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/india-asks-us-russian-oil-waiver-extension-iran-war-bloomberg-news-reports-2026-05-14/",
-        "https://kyivindependent.com/us-waiver-permitting-russian-oil-purchases-expires/"
-      ]
     },
     {
       "headline": "Pope Leo criticizes surge in European military spending as diplomacy betrayal",
