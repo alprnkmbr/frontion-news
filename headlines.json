@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-17T19:10:27+03:00",
+  "lastUpdated": "2026-05-17T20:05:32+03:00",
   "headlines": [
+    {
+      "headline": "Train crash kills 8 in Bangkok, driver charged with negligence",
+      "summary": "A freight train collided with a public bus at a rail crossing in central Bangkok, killing eight people and injuring 32. Thai police have charged the train driver with negligence as investigations continue.",
+      "emoji": "🇹🇭",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/train-driver-charged-after-deadly-crash-thailand-2026-05-17/",
+      "timestamp": "2026-05-17T20:05:00+03:00"
+    },
+    {
+      "headline": "Islamist attack on Nigerian military school kills 17 police trainees",
+      "summary": "Suspected Islamist militants attacked a specialized military school in Yobe state, killing at least 17 police officers in training. The attack marks a major escalation in northeast Nigeria's ongoing insurgency.",
+      "emoji": "🇳🇬",
+      "category": "Africa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/africa/islamist-attack-nigerian-military-school-kills-17-police-trainees-2026-05-17/",
+      "timestamp": "2026-05-17T20:05:00+03:00"
+    },
+    {
+      "headline": "New York's largest commuter rail system shuts down in first strike since 1994",
+      "summary": "The Long Island Rail Road ceased operations as five unions walked off the job after months of stalled contract negotiations. Governor Hochul pleaded with unions to resume talks before Monday's rush hour, as 250,000 daily commuters face disruption.",
+      "emoji": "🇺🇸",
+      "category": "US Politics",
+      "source": "AP News",
+      "url": "https://apnews.com/article/lirr-long-island-train-strike-c3e05bd1593e41f736dfca74d03e234b",
+      "timestamp": "2026-05-17T20:05:00+03:00"
+    },
+    {
+      "headline": "Peru electoral body pledges to fix voting flaws before June presidential runoff",
+      "summary": "Peru's top electoral authority acknowledged flaws that delayed April's first-round results by a month. The runoff between Keiko Fujimori and Roberto Sánchez is scheduled for June 7, following weeks of political uncertainty.",
+      "emoji": "🇵🇪",
+      "category": "Latin America",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/americas/peru-electoral-body-pledges-fix-voting-flaws-ahead-june-presidential-runoff-2026-05-17/",
+      "timestamp": "2026-05-17T20:05:00+03:00"
+    },
     {
       "headline": "USS Ford Aircraft Carrier Returns Home After 11-Month Iran War Deployment",
       "summary": "The USS Ford aircraft carrier has returned to its home port after an 11-month deployment that supported operations related to the Iran conflict and the capture of Venezuelan leader Maduro. The carrier was one of the longest deployments for a US aircraft carrier in recent years.",
@@ -8,16 +44,23 @@
       "category": "Military",
       "source": "AP News",
       "url": "https://apnews.com/article/uss-ford-aircraft-carrier-deployment-iran-maduro-ecb685f08110eec315a1dddb13e2bca4",
-      "timestamp": "2026-05-17T19:09:00+03:00"
-    },
-    {
-      "headline": "Senate Parliamentarian Rejects  Billion White House Security Funding Proposal",
-      "summary": "The Senate parliamentarian has dealt a blow to a Republican proposal to allocate  billion in federal funding for White House security upgrades, including a new ballroom. The ruling could force Republicans to find alternative ways to fund the project.",
-      "emoji": "🏛️",
-      "category": "US Politics",
-      "source": "AP News",
-      "url": "https://apnews.com/article/white-house-ballroom-funding-senate-parliamentarian-republicans-042dc61b41d1163e08ee095e7ffb2e48",
-      "timestamp": "2026-05-17T19:09:00+03:00"
+      "timestamp": "2026-05-17T19:09:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/uss-ford-aircraft-carrier-deployment-iran-maduro-ecb685f08110eec315a1dddb13e2bca4",
+          "angle": "USS Gerald R. Ford Returns After Record 11-Month Deployment Supporting Iran War and Venezuela Operation",
+          "summary": "The worlds largest aircraft carrier returned to Virginia after 326 days at sea, the longest deployment since Vietnam War, having supported combat operations against Iran and the capture of Venezuelas Maduro. The crew received the Presidential Unit Citation for outstanding performance in combat."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "AP News"
+      ],
+      "urls": [
+        "https://apnews.com/article/uss-ford-aircraft-carrier-deployment-iran-maduro-ecb685f08110eec315a1dddb13e2bca4",
+        "https://apnews.com/article/uss-ford-aircraft-carrier-deployment-iran-maduro-ecb685f08110eec315a1dddb13e2bca4"
+      ]
     },
     {
       "headline": "Taiwan Insists It Is Independent After Trump Warning From Beijing Summit",
@@ -44,7 +87,23 @@
       "category": "Africa",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c202vrxlwqgo",
-      "timestamp": "2026-05-17T19:09:00+03:00"
+      "timestamp": "2026-05-17T19:09:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c202vrxlwqgo",
+          "angle": "Over 50 Schoolchildren Including Toddlers Kidnapped in Nigeria",
+          "summary": "Gunmen abducted more than 50 children, many aged 2-5 years old, from three schools in Mussa, Borno state. Attackers used children as human shields while fleeing on motorbikes. No group has claimed responsibility, though the attack bears hallmarks of Boko Haram activity in the region."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/c202vrxlwqgo",
+        "https://www.bbc.com/news/articles/c202vrxlwqgo"
+      ]
     },
     {
       "headline": "US Navy plans Trump-class nuclear battleships to counter China",
@@ -606,6 +665,31 @@
       "timestamp": "2026-05-17T10:06:00+03:00"
     },
     {
+      "headline": "Senate Removes Funding for Trump White House Ballroom From Spending Package",
+      "summary": "A U.S. Senate official stripped security funding that could be used for President Trump's planned White House ballroom from a massive spending package, imperiling Republican efforts to use taxpayer money for the project.",
+      "emoji": "🏛️",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/federal-funding-trumps-ballroom-jeopardy-after-senate-ruling-2026-05-17/",
+      "timestamp": "2026-05-17T10:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/white-house-ballroom-funding-senate-parliamentarian-republicans-042dc61b41d1163e08ee095e7ffb2e48",
+          "angle": "Senate Parliamentarian Rejects  Billion White House Security Funding Proposal",
+          "summary": "The Senate parliamentarian has dealt a blow to a Republican proposal to allocate  billion in federal funding for White House security upgrades, including a new ballroom. The ruling could force Republicans to find alternative ways to fund the project."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/us/federal-funding-trumps-ballroom-jeopardy-after-senate-ruling-2026-05-17/",
+        "https://apnews.com/article/white-house-ballroom-funding-senate-parliamentarian-republicans-042dc61b41d1163e08ee095e7ffb2e48"
+      ]
+    },
+    {
       "headline": "North Korean Soccer Club Arrives in South Korea for Asian Champions League",
       "summary": "Naegohyang FC became the first North Korean athletes to visit South Korea in eight years, arriving for an Asian Women's Champions League semi-final amid strained inter-Korean relations.",
       "emoji": "🇰🇵",
@@ -628,56 +712,6 @@
       "urls": [
         "https://www.reuters.com/sports/soccer/north-korean-womens-soccer-club-arrives-south-amid-strained-ties-2026-05-17/",
         "https://apnews.com/article/north-korea-launch-south-korea-098ca1f60e71fe6aa25539d8a9e14c96"
-      ]
-    },
-    {
-      "headline": "Senate Removes Funding for Trump White House Ballroom From Spending Package",
-      "summary": "A U.S. Senate official stripped security funding that could be used for President Trump's planned White House ballroom from a massive spending package, imperiling Republican efforts to use taxpayer money for the project.",
-      "emoji": "🏛️",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us/federal-funding-trumps-ballroom-jeopardy-after-senate-ruling-2026-05-17/",
-      "timestamp": "2026-05-17T10:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/us/federal-funding-trumps-ballroom-jeopardy-after-senate-ruling-2026-05-17/",
-          "angle": "Senate Strips Funding for Trump's White House Ballroom",
-          "summary": "A U.S. Senate official removed security funding that could be used for President Trump's planned $400 million White House ballroom from a massive spending package. Democratic lawmakers confirmed the ruling blocks the controversial project from the budget."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/us/federal-funding-trumps-ballroom-jeopardy-after-senate-ruling-2026-05-17/",
-        "https://www.reuters.com/world/us/federal-funding-trumps-ballroom-jeopardy-after-senate-ruling-2026-05-17/"
-      ]
-    },
-    {
-      "headline": "USS Gerald R. Ford Returns After Record 11-Month Deployment Supporting Iran War and Venezuela Operation",
-      "summary": "The worlds largest aircraft carrier returned to Virginia after 326 days at sea, the longest deployment since Vietnam War, having supported combat operations against Iran and the capture of Venezuelas Maduro. The crew received the Presidential Unit Citation for outstanding performance in combat.",
-      "emoji": "⚓🇺🇸",
-      "category": "Military",
-      "source": "AP News",
-      "url": "https://apnews.com/article/uss-ford-aircraft-carrier-deployment-iran-maduro-ecb685f08110eec315a1dddb13e2bca4",
-      "timestamp": "2026-05-17T09:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Defense News",
-          "url": "https://www.defensenews.com/news/your-navy/2026/05/15/uss-gerald-r-ford-to-return-from-11-month-deployment-on-saturday/",
-          "angle": "USS Gerald R Ford carrier returning after historic 11-month deployment",
-          "summary": "The world's largest aircraft carrier is returning home after an 11-month deployment that etched its name into Navy history books, marking a significant period of operations amid global tensions."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "Defense News"
-      ],
-      "urls": [
-        "https://apnews.com/article/uss-ford-aircraft-carrier-deployment-iran-maduro-ecb685f08110eec315a1dddb13e2bca4",
-        "https://www.defensenews.com/news/your-navy/2026/05/15/uss-gerald-r-ford-to-return-from-11-month-deployment-on-saturday/"
       ]
     },
     {
@@ -1372,15 +1406,6 @@
       "source": "Al Jazeera",
       "url": "https://saharareporters.com/2026/05/16/iran-moves-charge-fees-ships-passing-through-strait-hormuz-amid-tension-us-israel",
       "timestamp": "2026-05-16T22:07:00+03:00"
-    },
-    {
-      "headline": "Over 50 Schoolchildren Including Toddlers Kidnapped in Nigeria",
-      "summary": "Gunmen abducted more than 50 children, many aged 2-5 years old, from three schools in Mussa, Borno state. Attackers used children as human shields while fleeing on motorbikes. No group has claimed responsibility, though the attack bears hallmarks of Boko Haram activity in the region.",
-      "emoji": "🇳🇬",
-      "category": "Africa",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c202vrxlwqgo",
-      "timestamp": "2026-05-16T22:03:00+03:00"
     },
     {
       "headline": "Israel Threatens Defamation Lawsuit Against NYT Over Sexual Abuse Report",
@@ -2843,24 +2868,6 @@
         "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html",
         "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html"
       ]
-    },
-    {
-      "headline": "Pope Leo Condemns AI Warfare as Path to \"Spiral of Annihilation\"",
-      "summary": "Pope Leo XIV denounced investments in AI-driven weaponry, warning they lead humanity toward destruction and criticized Europe's military buildup as a betrayal of diplomacy.",
-      "emoji": "⛪⚠️",
-      "category": "Europe",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/business/2026/05/14/pope-ai-artificial-intelligence-iran-mideast-gaza/106e6250-4f91-11f1-97e7-22c6c29ff0d8_story.html",
-      "timestamp": "2026-05-15T11:03:00+03:00"
-    },
-    {
-      "headline": "US Abruptly Cancels 4,000-Troop Deployment to Poland",
-      "summary": "The Pentagon canceled plans to send 4,000 troops to Poland, raising fresh concerns about US commitment to NATO amid broader discussions about reducing American forces in Europe.",
-      "emoji": "🇺🇸🇵🇱🪖",
-      "category": "NATO",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/14/us/politics/us-army-poland-troops-hegseth-trump.html",
-      "timestamp": "2026-05-15T11:03:00+03:00"
     }
   ]
 }
