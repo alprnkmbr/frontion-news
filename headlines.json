@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-17T09:05:11+03:00",
+  "lastUpdated": "2026-05-17T10:04:59+03:00",
   "headlines": [
+    {
+      "headline": "WHO Declares Ebola Outbreak in Congo and Uganda International Emergency",
+      "summary": "The World Health Organization declared the Ebola outbreak caused by the Bundibugyo virus in DRC and Uganda a public health emergency of international concern, signaling heightened global health risk.",
+      "emoji": "🦠",
+      "category": "Africa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17/",
+      "timestamp": "2026-05-17T10:03:00+03:00"
+    },
+    {
+      "headline": "Ukrainian Drone Attack Kills Four in Russia, Moscow Faces Largest Assault in Over a Year",
+      "summary": "A major Ukrainian drone attack killed at least four people across Russian regions, with Moscow experiencing its largest aerial assault in more than a year as the war intensifies.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/least-three-died-ukraine-drone-attack-moscow-region-governor-says-2026-05-17/",
+      "timestamp": "2026-05-17T10:03:00+03:00"
+    },
+    {
+      "headline": "North Korean Soccer Club Arrives in South Korea for Asian Champions League",
+      "summary": "Naegohyang FC became the first North Korean athletes to visit South Korea in eight years, arriving for an Asian Women's Champions League semi-final amid strained inter-Korean relations.",
+      "emoji": "🇰🇵",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sports/soccer/north-korean-womens-soccer-club-arrives-south-amid-strained-ties-2026-05-17/",
+      "timestamp": "2026-05-17T10:03:00+03:00"
+    },
+    {
+      "headline": "Senate Removes Funding for Trump White House Ballroom From Spending Package",
+      "summary": "A U.S. Senate official stripped security funding that could be used for President Trump's planned White House ballroom from a massive spending package, imperiling Republican efforts to use taxpayer money for the project.",
+      "emoji": "🏛️",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/federal-funding-trumps-ballroom-jeopardy-after-senate-ruling-2026-05-17/",
+      "timestamp": "2026-05-17T10:03:00+03:00"
+    },
+    {
+      "headline": "South Korea Vows All Options to Prevent Samsung Strike",
+      "summary": "South Korea's prime minister said the government will pursue all options including emergency arbitration to avoid a labor strike at Samsung Electronics, the country's largest employer.",
+      "emoji": "🇰🇷",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/world-at-work/south-korea-says-it-will-pursue-all-options-avoid-samsung-strike-2026-05-17/",
+      "timestamp": "2026-05-17T10:03:00+03:00"
+    },
     {
       "headline": "USS Gerald R. Ford Returns After Record 11-Month Deployment Supporting Iran War and Venezuela Operation",
       "summary": "The worlds largest aircraft carrier returned to Virginia after 326 days at sea, the longest deployment since Vietnam War, having supported combat operations against Iran and the capture of Venezuelas Maduro. The crew received the Presidential Unit Citation for outstanding performance in combat.",
@@ -20,15 +65,6 @@
       "timestamp": "2026-05-17T09:03:00+03:00"
     },
     {
-      "headline": "Trump Hesitates on Taiwan Arms Sales After Xi Warning During Beijing Summit",
-      "summary": "Following his three-day China visit, Trump said he has not decided whether to proceed with a  billion Taiwan arms package after hearing Xi Jinping warn that Taiwanese independence would mean confrontation. The summit produced a new US-China framework of strategic stability focused on managed competition.",
-      "emoji": "🇨🇳🇺🇸🇹🇼",
-      "category": "US-China",
-      "source": "AP News",
-      "url": "https://apnews.com/article/trump-xi-china-trade-iran-taiwan-f6c59000412653e445acbf9672ac7f47",
-      "timestamp": "2026-05-17T09:03:00+03:00"
-    },
-    {
       "headline": "Russia Launches Largest Drone Assault Since War Began, Flattens Kyiv Apartment Building",
       "summary": "Russia fired over 1,560 drones and missiles across Ukraine in three days, killing at least 9 in Kyiv when a nine-story apartment building collapsed. The massive strikes came during Trumps Beijing summit and followed a brief ceasefire, with Ukraine saying air defenses intercepted over 93 percent of incoming targets.",
       "emoji": "🇺🇦⚔️🇷🇺",
@@ -44,7 +80,23 @@
       "category": "Europe",
       "source": "Washington Post",
       "url": "https://www.washingtonpost.com/national-security/2026/05/14/pentagon-abruptly-cancels-troop-deployment-europe-amid-frustrations-with-nato/",
-      "timestamp": "2026-05-17T09:03:00+03:00"
+      "timestamp": "2026-05-17T09:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Politico EU",
+          "url": "https://www.politico.eu/article/iran-europe-war-us-national-security-adviser-john-bolton/",
+          "angle": "John Bolton: Iran is Europe's War Too",
+          "summary": "Former US National Security Adviser John Bolton criticized European nations like Spain for staying out of the Iran conflict, arguing that the war directly affects European security and energy interests."
+        }
+      ],
+      "sources": [
+        "Washington Post",
+        "Politico EU"
+      ],
+      "urls": [
+        "https://www.washingtonpost.com/national-security/2026/05/14/pentagon-abruptly-cancels-troop-deployment-europe-amid-frustrations-with-nato/",
+        "https://www.politico.eu/article/iran-europe-war-us-national-security-adviser-john-bolton/"
+      ]
     },
     {
       "headline": "UAE clarifies OPEC exit was strategic, not political",
@@ -280,19 +332,27 @@
       "timestamp": "2026-05-17T05:03:00+03:00",
       "perspectives": [
         {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/05/16/world/asia/trump-taiwan-arms-bargaining-chip-china.html",
-          "angle": "Trump says Taiwan arms deal is bargaining chip for China talks",
-          "summary": "President Trump described a potential arms deal for Taiwan as a very good negotiating chip in discussions with Beijing, raising questions about the steadfastness of US support for the island amid ongoing tensions."
+          "source": "AP News",
+          "url": "https://apnews.com/article/trump-xi-china-trade-iran-taiwan-f6c59000412653e445acbf9672ac7f47",
+          "angle": "Trump Hesitates on Taiwan Arms Sales After Xi Warning During Beijing Summit",
+          "summary": "Following his three-day China visit, Trump said he has not decided whether to proceed with a  billion Taiwan arms package after hearing Xi Jinping warn that Taiwanese independence would mean confrontation. The summit produced a new US-China framework of strategic stability focused on managed competition."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/china-says-trump-visit-deals-are-preliminary-2026-05-16/",
+          "angle": "China Calls Trump Trade Deals Preliminary as Beijing Summit Fails to Deliver Breakthrough",
+          "summary": "China's commerce ministry described tariff and agricultural deals from the Trump-Xi summit as preliminary, tempering expectations after a high-stakes visit that produced modest results and highlighted the familiar economic standoff between the two powers."
         }
       ],
       "sources": [
         "Reuters",
-        "New York Times"
+        "AP News",
+        "Reuters"
       ],
       "urls": [
         "https://www.reuters.com/world/china/taiwan-says-us-arms-sales-are-cornerstone-regional-peace-2026-05-16/",
-        "https://www.nytimes.com/2026/05/16/world/asia/trump-taiwan-arms-bargaining-chip-china.html"
+        "https://apnews.com/article/trump-xi-china-trade-iran-taiwan-f6c59000412653e445acbf9672ac7f47",
+        "https://www.reuters.com/world/china/china-says-trump-visit-deals-are-preliminary-2026-05-16/"
       ]
     },
     {
@@ -318,39 +378,6 @@
       "urls": [
         "https://www.reuters.com/world/china/china-signals-tariff-cuts-advances-farm-market-access-after-trump-xi-summit-2026-05-16/",
         "https://www.nytimes.com/2026/05/16/world/europe/putin-china-visit-trump.html"
-      ]
-    },
-    {
-      "headline": "China Calls Trump Trade Deals Preliminary as Beijing Summit Fails to Deliver Breakthrough",
-      "summary": "China's commerce ministry described tariff and agricultural deals from the Trump-Xi summit as preliminary, tempering expectations after a high-stakes visit that produced modest results and highlighted the familiar economic standoff between the two powers.",
-      "emoji": "🇨🇳🇺🇸",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/china-says-trump-visit-deals-are-preliminary-2026-05-16/",
-      "timestamp": "2026-05-17T05:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/finance/chinese-officials-meet-citigroup-goldman-chiefs-beijing-2026-05-16/",
-          "angle": "US CEOs Pursue Diplomacy in Beijing Following Trump Summit",
-          "summary": "American business leaders from Citigroup and Goldman Sachs meet Chinese officials, hoping political goodwill will translate into regulatory approvals and lucrative deals."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/china-renews-expired-export-licenses-us-beef-plants-chinese-customs-website-2026-05-15/",
-          "angle": "China Renews Export Licenses for 400+ US Beef Plants After Trump-Xi Summit",
-          "summary": "China renewed export licenses that had expired for more than 400 U.S. beef plants, the Chinese customs website showed, a potential sign of thawing trade relations following the Beijing summit between Presidents Trump and Xi."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/china-says-trump-visit-deals-are-preliminary-2026-05-16/",
-        "https://www.reuters.com/business/finance/chinese-officials-meet-citigroup-goldman-chiefs-beijing-2026-05-16/",
-        "https://www.reuters.com/world/asia-pacific/china-renews-expired-export-licenses-us-beef-plants-chinese-customs-website-2026-05-15/"
       ]
     },
     {
@@ -2287,15 +2314,6 @@
       "timestamp": "2026-05-15T12:00:00+03:00"
     },
     {
-      "headline": "John Bolton: Iran is Europe's War Too",
-      "summary": "Former US National Security Adviser John Bolton criticized European nations like Spain for staying out of the Iran conflict, arguing that the war directly affects European security and energy interests.",
-      "emoji": "🇪🇺🇮🇷",
-      "category": "Europe",
-      "source": "Politico EU",
-      "url": "https://www.politico.eu/article/iran-europe-war-us-national-security-adviser-john-bolton/",
-      "timestamp": "2026-05-15T12:00:00+03:00"
-    },
-    {
       "headline": "Korean Peninsula Sidelined at US-China Summit",
       "summary": "The Korean Peninsula was conspicuously absent from the Trump-Xi summit agenda, signaling Pyongyang's diminishing priority as the US focuses on Iran and trade disputes. Analysts note the shift reflects changing global priorities.",
       "emoji": "🇰🇷🇰🇵",
@@ -2755,48 +2773,6 @@
       "source": "Times of Israel",
       "url": "https://www.timesofisrael.com/chants-of-death-to-arabs-at-jerusalem-day-march-as-ben-gvir-flies-israeli-flag-on-temple-mount/",
       "timestamp": "2026-05-15T02:04:00+03:00"
-    },
-    {
-      "headline": "Nasdaq and S&P 500 hit record highs as geopolitical tensions persist",
-      "summary": "US stock markets continued their rally with the Nasdaq and S&P 500 reaching new record highs, defying Iran war tensions and Gulf shipping disruptions. Tech stocks led the gains despite global uncertainty.",
-      "emoji": "📈💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/global-markets-trading-day-graphic-2026-05-14/",
-      "timestamp": "2026-05-15T01:08:00+03:00"
-    },
-    {
-      "headline": "Gold falls as oil prices and dollar rise ahead of Trump-Xi summit",
-      "summary": "Gold prices declined as rising oil prices and a stronger dollar pressured markets, with investors awaiting signals from the Trump-Xi meeting. The vessel seizure in the Gulf added to market uncertainty.",
-      "emoji": "💰🛢️",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/gold-edges-up-weaker-dollar-ahead-trump-xi-talks-2026-05-14/",
-      "timestamp": "2026-05-15T01:06:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/global-markets-wrapup-1pix-2026-05-14/",
-          "angle": "Global stocks rise on tech rally, oil eases amid Trump-Xi summit",
-          "summary": "Strong demand for technology stocks lifted equity indexes worldwide, while oil prices edged down as ships moved through the Strait of Hormuz and investors awaited the outcome of the US-China summit."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/chinas-yuan-hits-3-year-high-stocks-dip-trump-xi-summit-begins-2026-05-14/",
-          "angle": "Chinese yuan hits 3-year high ahead of Trump-Xi summit",
-          "summary": "China's yuan edged up to a three-year high against the dollar, while stock indexes dipped, as investors awaited the outcome of the summit between Trump and Xi."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/gold-edges-up-weaker-dollar-ahead-trump-xi-talks-2026-05-14/",
-        "https://www.reuters.com/world/china/global-markets-wrapup-1pix-2026-05-14/",
-        "https://www.reuters.com/world/asia-pacific/chinas-yuan-hits-3-year-high-stocks-dip-trump-xi-summit-begins-2026-05-14/"
-      ]
     }
   ]
 }
