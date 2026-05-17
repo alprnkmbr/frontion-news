@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-17T23:05:23+03:00",
+  "lastUpdated": "2026-05-18T00:06:16+03:00",
   "headlines": [
+    {
+      "headline": "Ukraine Launches Largest Drone Attack on Moscow in Over a Year",
+      "summary": "At least four people were killed after Ukraine launched its biggest overnight drone attack on the Russian capital in more than a year, striking targets over 300 miles from the border despite dense Russian air defenses.",
+      "emoji": "🇺🇦🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/ukraine/ukraine-drones-kill-four-russia-moscow-faces-biggest-attack-year-rcna345529",
+      "timestamp": "2026-05-18T00:03:00+03:00"
+    },
+    {
+      "headline": "Moldova Condemns Russian Offer of Citizenship to Separatist Region",
+      "summary": "Moldovan leaders denounced Russian President Vladimir Putin's offer of simplified Russian citizenship for the pro-Russian Transdniestria separatist enclave as a threat, contemplating measures to counteract it.",
+      "emoji": "🇲🇩🇷🇺",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/moldovan-leaders-decry-russian-move-citizenship-separatist-region-2026-05-17/",
+      "timestamp": "2026-05-18T00:03:00+03:00"
+    },
     {
       "headline": "WHO Declares Ebola Outbreak Global Health Emergency",
       "summary": "The World Health Organization declared an Ebola outbreak in Congo and Uganda a public health emergency of international concern. The rare Bundibugyo strain has no approved vaccine and has killed nearly 90 people.",
@@ -8,7 +26,23 @@
       "category": "Africa",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17/",
-      "timestamp": "2026-05-17T23:03:00+03:00"
+      "timestamp": "2026-05-17T23:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17/",
+          "angle": "WHO Declares Ebola Outbreak in Congo-Uganda Global Health Emergency",
+          "summary": "The World Health Organization designated the Ebola outbreak caused by the Bundibugyo virus spreading across Congo and Uganda as a public health emergency of international concern, signaling the need for coordinated global response."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17/",
+        "https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17/"
+      ]
     },
     {
       "headline": "Israel to Build Defense Offices in Former UNRWA Jerusalem Compound",
@@ -17,15 +51,6 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/israel-establish-defence-offices-former-unrwa-east-jerusalem-compound-2026-05-17/",
-      "timestamp": "2026-05-17T23:03:00+03:00"
-    },
-    {
-      "headline": "Wave of Ukrainian Drone Strikes Kills Four in Russia",
-      "summary": "Ukraine launched its largest drone attack on Moscow in over a year, with over 550 drones intercepted across a dozen Russian regions. Four people were killed including three in the Moscow region.",
-      "emoji": "🇺🇦⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/17/world/europe/russia-ukraine-strikes-moscow.html",
       "timestamp": "2026-05-17T23:03:00+03:00"
     },
     {
@@ -384,31 +409,6 @@
       ]
     },
     {
-      "headline": "WHO Declares Ebola Outbreak in Congo-Uganda Global Health Emergency",
-      "summary": "The World Health Organization designated the Ebola outbreak caused by the Bundibugyo virus spreading across Congo and Uganda as a public health emergency of international concern, signaling the need for coordinated global response.",
-      "emoji": "🦠",
-      "category": "Africa",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17/",
-      "timestamp": "2026-05-17T18:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/what-do-we-know-about-ebola-outbreak-congo-uganda-2026-05-17/",
-          "angle": "WHO Declares Ebola Outbreak in Congo-Uganda a Global Health Emergency",
-          "summary": "The World Health Organization declared the Ebola outbreak spreading between Democratic Republic of Congo and Uganda a public health emergency of international concern, with at least 88 suspected deaths. No approved vaccines exist for this strain."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17/",
-        "https://www.reuters.com/business/healthcare-pharmaceuticals/what-do-we-know-about-ebola-outbreak-congo-uganda-2026-05-17/"
-      ]
-    },
-    {
       "headline": "Ukrainian Drone Attack Kills Four in Russia, Moscow Hit in Largest Strike in Over a Year",
       "summary": "At least four people were killed in a major Ukrainian drone attack on Russian regions, with Moscow facing its largest assault in more than a year, marking an escalation in cross-border strikes.",
       "emoji": "🇺🇦",
@@ -418,19 +418,19 @@
       "timestamp": "2026-05-17T18:03:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/least-three-died-ukraine-drone-attack-moscow-region-governor-says-2026-05-17/",
-          "angle": "Ukraine launches massive drone attack on Moscow region",
-          "summary": "Russia says it intercepted over 500 Ukrainian drones in one of the largest attacks of the war, killing at least three in the Moscow region as Ukraine escalates strikes deep inside Russian territory."
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/05/17/world/europe/russia-ukraine-strikes-moscow.html",
+          "angle": "Wave of Ukrainian Drone Strikes Kills Four in Russia",
+          "summary": "Ukraine launched its largest drone attack on Moscow in over a year, with over 550 drones intercepted across a dozen Russian regions. Four people were killed including three in the Moscow region."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "New York Times"
       ],
       "urls": [
         "https://www.reuters.com/world/europe/least-three-died-ukraine-drone-attack-moscow-region-governor-says-2026-05-17/",
-        "https://www.reuters.com/world/europe/least-three-died-ukraine-drone-attack-moscow-region-governor-says-2026-05-17/"
+        "https://www.nytimes.com/2026/05/17/world/europe/russia-ukraine-strikes-moscow.html"
       ]
     },
     {
@@ -2786,49 +2786,6 @@
         "https://kyivindependent.com/zelensky-releases-footage-of-ukrainian-strikes-on-russian-aircraft-other-targets-deep-behind-enemy-lines/",
         "https://www.bbc.com/news/articles/cq5p8yygq94o"
       ]
-    },
-    {
-      "headline": "Trump Reaffirms Ironclad US-Japan Alliance After China Summit",
-      "summary": "Japanese PM Takaichi confirmed that Trump reaffirmed the ironclad bilateral alliance in a phone call after his Beijing visit, signaling continued US commitment to Asian allies despite Trump-Xi talks.",
-      "emoji": "🇯🇵",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/trump-reaffirmed-ironclad-us-japan-alliance-after-china-trip-japans-takaichi-2026-05-15/",
-      "timestamp": "2026-05-15T15:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/politics/international-relations/japan-s-hopes-for-a-trump-stop-in-tokyo-before-beijing-fall-through",
-          "angle": "Japan fails to secure Trump stop in Tokyo before Beijing summit",
-          "summary": "Japanese government plans to invite President Trump to Japan ahead of his China visit fell through. The diplomatic setback comes as Trump arrives in Beijing for a high-stakes summit with Xi Jinping."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Nikkei Asia"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/trump-reaffirmed-ironclad-us-japan-alliance-after-china-trip-japans-takaichi-2026-05-15/",
-        "https://asia.nikkei.com/politics/international-relations/japan-s-hopes-for-a-trump-stop-in-tokyo-before-beijing-fall-through"
-      ]
-    },
-    {
-      "headline": "India Trade Deficit Widens as Mideast War Drives Oil Imports",
-      "summary": "India merchandise trade deficit expanded to $28.38 billion in April as crude imports surged to a six-month high, with Middle East conflict disrupting supplies and raising oil prices.",
-      "emoji": "🇮🇳",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/india/indias-april-merchandise-trade-deficit-2838-billion-reuters-calculation-shows-2026-05-15/",
-      "timestamp": "2026-05-15T15:03:00+03:00"
-    },
-    {
-      "headline": "Israel Adopts Rubble Doctrine in Southern Lebanon Security Policy",
-      "summary": "A profound shift in Israeli military thinking after October 7 has led to a new security doctrine focused on denying enemy positions in southern Lebanon through systematic destruction, as seen in El-Khiam.",
-      "emoji": "🇮🇱⚔️",
-      "category": "Middle East",
-      "source": "Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-896271",
-      "timestamp": "2026-05-15T14:10:00+03:00"
     }
   ]
 }
