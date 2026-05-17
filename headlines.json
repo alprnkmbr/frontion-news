@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-17T16:09:56+03:00",
+  "lastUpdated": "2026-05-17T17:05:28+03:00",
   "headlines": [
+    {
+      "headline": "WHO Declares Ebola Outbreak in Congo-Uganda a Global Health Emergency",
+      "summary": "The World Health Organization declared the Ebola outbreak spreading between Democratic Republic of Congo and Uganda a public health emergency of international concern, with at least 88 suspected deaths. No approved vaccines exist for this strain.",
+      "emoji": "🦠",
+      "category": "Africa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/what-do-we-know-about-ebola-outbreak-congo-uganda-2026-05-17/",
+      "timestamp": "2026-05-17T17:03:00+03:00"
+    },
+    {
+      "headline": "Ukraine Launches Massive Drone Attack on Moscow, Killing Four",
+      "summary": "Ukraine launched around 600 drones at Russia in one of the largest attacks on Moscow since the war began, killing at least four people including an Indian worker. Zelenskyy called it a justified response to Russian attacks on Ukrainian cities.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/ukraine/ukraine-drones-kill-four-russia-moscow-faces-biggest-attack-year-rcna345529",
+      "timestamp": "2026-05-17T17:03:00+03:00"
+    },
+    {
+      "headline": "Hamas Gaza Commander Killed by Israel, Testing Ceasefire",
+      "summary": "Israel assassinated Hamas top commander Izz al-Din al-Haddad in Gaza. The group pledged to adapt operations following the killing, which comes amid ongoing ceasefire negotiations.",
+      "emoji": "⚔️",
+      "category": "Middle East",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/17/how-will-izz-al-din-al-haddads-assassination-impact-hamas-gaza-operations",
+      "timestamp": "2026-05-17T17:03:00+03:00"
+    },
+    {
+      "headline": "Bond Markets Signal New Era of Elevated Yields Amid War-Driven Inflation",
+      "summary": "US bond traders see a potential shift toward sustained higher borrowing costs as war-driven inflation fears intensify. The trend marks a departure from decades of declining yields.",
+      "emoji": "📈",
+      "category": "Economy",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-17/bond-traders-see-tipping-point-toward-new-era-of-higher-yields",
+      "timestamp": "2026-05-17T17:03:00+03:00"
+    },
+    {
+      "headline": "US to Weigh Action Against China Over Industrial Overcapacity",
+      "summary": "US Trade Ambassador says President Trump will be presented with options if investigations determine Chinese industrial overcapacity harms American interests, as trade tensions persist.",
+      "emoji": "🇨🇳",
+      "category": "US-China",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-17/us-to-mull-action-if-china-overcapacity-found-trade-envoy-says",
+      "timestamp": "2026-05-17T17:03:00+03:00"
+    },
     {
       "headline": "Indonesia Pushes Back Against Chinese Business Complaints Over New Rules",
       "summary": "Chinese businesses issued a blunt warning to President Prabowo that tougher regulations are hurting investor confidence, revealing tensions between Jakarta push for resource control and foreign capital.",
@@ -17,7 +62,23 @@
       "category": "Ukraine-Russia War",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/at-least-2-killed-41-injured-in-russian-attacks-across-ukraine-over-past-day/",
-      "timestamp": "2026-05-17T16:08:00+03:00"
+      "timestamp": "2026-05-17T16:08:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russias-expanding-drone-forces-passes-100-000-personnel-copies-ukrainian-example-magyar-says/",
+          "angle": "Russian drone force passes 100,000 personnel, copying Ukraine model",
+          "summary": "Russia has expanded its drone forces from 86,000 to over 114,000 personnel and is on track to reach 168,000 by year-end, effectively copying Ukraine's Unmanned Systems Forces structure, according to Ukrainian commander Robert \"Magyar\" Brovdi."
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://kyivindependent.com/at-least-2-killed-41-injured-in-russian-attacks-across-ukraine-over-past-day/",
+        "https://kyivindependent.com/russias-expanding-drone-forces-passes-100-000-personnel-copies-ukrainian-example-magyar-says/"
+      ]
     },
     {
       "headline": "White House to Host Mass Prayer Event Promoting Christian Origins of US",
@@ -2217,15 +2278,6 @@
       ]
     },
     {
-      "headline": "Russian drone force passes 100,000 personnel, copying Ukraine model",
-      "summary": "Russia has expanded its drone forces from 86,000 to over 114,000 personnel and is on track to reach 168,000 by year-end, effectively copying Ukraine's Unmanned Systems Forces structure, according to Ukrainian commander Robert \"Magyar\" Brovdi.",
-      "emoji": "🛸",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russias-expanding-drone-forces-passes-100-000-personnel-copies-ukrainian-example-magyar-says/",
-      "timestamp": "2026-05-15T20:08:00+03:00"
-    },
-    {
       "headline": "UAE rejects Iranian accusations of war involvement",
       "summary": "The UAE Foreign Ministry rejected Iranian claims that Abu Dhabi was an \"active partner\" in the US-Israel war, calling them attempts to justify Iranian attacks on the Gulf nation. Iran had accused the UAE of involvement after the BRICS meeting in New Delhi.",
       "emoji": "🇦🇪",
@@ -2809,58 +2861,6 @@
       "source": "The Diplomat",
       "url": "https://thediplomat.com/2026/05/can-the-npt-survive-amid-global-disorder/",
       "timestamp": "2026-05-15T10:04:00+03:00"
-    },
-    {
-      "headline": "Taiwan Defense Expert Urges Civilian Drone Production",
-      "summary": "A defense researcher called for opening military drone specifications to private manufacturers to reduce costs and enable mass production, after the legislature removed drone procurement from a special defense budget.",
-      "emoji": "🇹🇼",
-      "category": "Defense Industry",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/05/15/2003857374",
-      "timestamp": "2026-05-15T10:04:00+03:00"
-    },
-    {
-      "headline": "China wants Strait of Hormuz open without restrictions, USTR Greer confirms",
-      "summary": "U.S. Trade Representative Jamieson Greer told Bloomberg that China wants the Strait of Hormuz reopened without curbs or tolls, and that Washington is confident Beijing will limit material support for Iran amid ongoing conflict.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/china-wants-strait-hormuz-open-without-restrictions-ustr-greer-tells-bloomberg-2026-05-15/",
-      "timestamp": "2026-05-15T09:03:00+03:00"
-    },
-    {
-      "headline": "Macron acknowledges France outpaced in Africa by China, Turkey and US",
-      "summary": "French President Emmanuel Macron acknowledged that France has lost competitive ground in Africa to China, Turkey and the United States, as European influence on the continent continues to decline.",
-      "emoji": "🇫🇷",
-      "category": "Africa",
-      "source": "Anadolu",
-      "url": "https://www.aa.com.tr/en/politics/macron-says-france-outpaced-in-africa-by-china-turkiye-us/3937994",
-      "timestamp": "2026-05-15T08:10:00+03:00"
-    },
-    {
-      "headline": "Solomon Islands elects former China critic Matthew Wale as prime minister",
-      "summary": "Parliament elected opposition leader Matthew Wale as prime minister after incumbent Jeremiah Manele was ousted in a no-confidence vote, potentially shifting the Pacific nation's stance on China relations.",
-      "emoji": "🇸🇧🇨🇳",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/solomon-islands-elects-former-china-critic-wale-prime-minister-2026-05-15/",
-      "timestamp": "2026-05-15T08:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/politics/solomon-island-lawmakers-pick-china-cautious-matthew-wale-as-new-pm",
-          "angle": "Solomon Islands Elects China-Cautious Opposition Leader Matthew Wale as PM",
-          "summary": "The Solomon Islands elected Matthew Wale as its new prime minister. Wale has been a critic of the security deal signed with China and has called for it to be made public."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Nikkei Asia"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/solomon-islands-elects-former-china-critic-wale-prime-minister-2026-05-15/",
-        "https://asia.nikkei.com/politics/solomon-island-lawmakers-pick-china-cautious-matthew-wale-as-new-pm"
-      ]
     }
   ]
 }
