@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-17T20:07:15+03:00",
+  "lastUpdated": "2026-05-17T22:05:05+03:00",
   "headlines": [
+    {
+      "headline": "US Intelligence Warns of Cuban Drone Threat to Guantanamo Bay",
+      "summary": "Classified intelligence reports Cuba has acquired over 300 military drones and discussed plans to attack the US base at Guantanamo Bay, US naval vessels, and potentially Key West, Florida.",
+      "emoji": "🇨🇺",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/americas/us-assesses-drone-threat-cuba-axios-reports-2026-05-17/",
+      "timestamp": "2026-05-17T22:03:00+03:00"
+    },
+    {
+      "headline": "Taiwan President Rejects Being \"Sacrificed,\" Defends US Arms Sales",
+      "summary": "President Lai Ching-te said Taiwan will not be traded away and US arms sales represent a security commitment, responding to Trump comments urging both sides to cool down.",
+      "emoji": "🇹🇼",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/taiwan-independence-means-we-dont-belong-beijing-president-says-2026-05-17/",
+      "timestamp": "2026-05-17T22:03:00+03:00"
+    },
+    {
+      "headline": "Israel Economy Contracts in Q1 as Iran War Takes Toll",
+      "summary": "Israels economy shrank at an annualized 3.3% in the first quarter, hit by the war with Iran, but growth is expected to recover if the conflict does not reignite.",
+      "emoji": "🇮🇱",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israel-q1-gdp-shrinks-33-annualised-iran-war-weighs-2026-05-17/",
+      "timestamp": "2026-05-17T22:03:00+03:00"
+    },
+    {
+      "headline": "China Commits to B Annual US Agricultural Purchases Through 2028",
+      "summary": "China has agreed to purchase at least  billion of US agricultural products annually through 2028, the White House announced, offering stability to American farmers after Phase One trade deal.",
+      "emoji": "🇺🇸🇨🇳",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/china-buy-least-17-billion-us-agricultural-products-annually-white-house-says-2026-05-17/",
+      "timestamp": "2026-05-17T22:03:00+03:00"
+    },
+    {
+      "headline": "Trump to Hold Situation Room Meeting Tuesday on Iran Military Options",
+      "summary": "President Trump is expected to meet with top national security advisers on Tuesday to discuss military options regarding Iran, as ceasefire negotiations remain stalled.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/trump-meet-us-security-advisers-tuesday-axios-reports-2026-05-17/",
+      "timestamp": "2026-05-17T22:03:00+03:00"
+    },
     {
       "headline": "Ukraine Commander Vows Relentless Strikes Into Russia",
       "summary": "Ukrainian unmanned forces commander \"Madyar\" says Kyiv will continue targeting Russian defense industry and oil facilities across all of Russia, from the Urals to Siberia, to deprive Moscow of war funding. The statement came before Ukraine launched nearly 600 drones over Russia.",
@@ -53,7 +98,23 @@
       "category": "US Politics",
       "source": "AP News",
       "url": "https://apnews.com/article/lirr-long-island-train-strike-c3e05bd1593e41f736dfca74d03e234b",
-      "timestamp": "2026-05-17T20:05:00+03:00"
+      "timestamp": "2026-05-17T20:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/americas/north-america-s-largest-commuter-rail-system-shuts-down-as-unions-launch-strike/3939974",
+          "angle": "New York's Long Island Rail Road shut down by union strike",
+          "summary": "North America's largest commuter rail system halted operations Saturday as unions launched a strike after stalled contract negotiations, disrupting travel for thousands of commuters."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "Anadolu Agency"
+      ],
+      "urls": [
+        "https://apnews.com/article/lirr-long-island-train-strike-c3e05bd1593e41f736dfca74d03e234b",
+        "https://www.aa.com.tr/en/americas/north-america-s-largest-commuter-rail-system-shuts-down-as-unions-launch-strike/3939974"
+      ]
     },
     {
       "headline": "Peru electoral body pledges to fix voting flaws before June presidential runoff",
@@ -62,7 +123,23 @@
       "category": "Latin America",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/americas/peru-electoral-body-pledges-fix-voting-flaws-ahead-june-presidential-runoff-2026-05-17/",
-      "timestamp": "2026-05-17T20:05:00+03:00"
+      "timestamp": "2026-05-17T20:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/peru-elections-results-second-round-288f3772df67d8fea900efc2cab0f1ac",
+          "angle": "Peru Confirms June 7 Presidential Runoff Between Fujimori and Sánchez",
+          "summary": "Peruvian electoral authorities officially confirmed the presidential runoff election scheduled for June 7, setting up a contest between Keiko Fujimori and Pedro Sánchez."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/americas/peru-electoral-body-pledges-fix-voting-flaws-ahead-june-presidential-runoff-2026-05-17/",
+        "https://apnews.com/article/peru-elections-results-second-round-288f3772df67d8fea900efc2cab0f1ac"
+      ]
     },
     {
       "headline": "USS Ford Aircraft Carrier Returns Home After 11-Month Iran War Deployment",
@@ -242,15 +319,6 @@
         "https://www.reuters.com/world/europe/least-three-died-ukraine-drone-attack-moscow-region-governor-says-2026-05-17/",
         "https://www.reuters.com/world/europe/least-three-died-ukraine-drone-attack-moscow-region-governor-says-2026-05-17/"
       ]
-    },
-    {
-      "headline": "Peru Confirms June 7 Presidential Runoff Between Fujimori and Sánchez",
-      "summary": "Peruvian electoral authorities officially confirmed the presidential runoff election scheduled for June 7, setting up a contest between Keiko Fujimori and Pedro Sánchez.",
-      "emoji": "🇵🇪",
-      "category": "Latin America",
-      "source": "AP News",
-      "url": "https://apnews.com/article/peru-elections-results-second-round-288f3772df67d8fea900efc2cab0f1ac",
-      "timestamp": "2026-05-17T18:03:00+03:00"
     },
     {
       "headline": "US to Weigh Action Against China Over Industrial Overcapacity",
@@ -567,15 +635,6 @@
       "category": "Technology",
       "source": "SCMP",
       "url": "https://www.scmp.com/news/asia/southeast-asia/article/3353868/how-victim-lost-us38-million-singapore-deepfake-zoom-scam-impersonating-pm-wong",
-      "timestamp": "2026-05-17T12:04:00+03:00"
-    },
-    {
-      "headline": "New York's Long Island Rail Road shut down by union strike",
-      "summary": "North America's largest commuter rail system halted operations Saturday as unions launched a strike after stalled contract negotiations, disrupting travel for thousands of commuters.",
-      "emoji": "🇺🇸",
-      "category": "US Politics",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/americas/north-america-s-largest-commuter-rail-system-shuts-down-as-unions-launch-strike/3939974",
       "timestamp": "2026-05-17T12:04:00+03:00"
     },
     {
@@ -2834,67 +2893,6 @@
       "source": "Daily Sabah",
       "url": "https://www.dailysabah.com/politics/diplomacy/turkiye-aims-for-middle-corridor-benefits-with-kazakhstan",
       "timestamp": "2026-05-15T12:00:00+03:00"
-    },
-    {
-      "headline": "Asian Markets Uneven as Trump-Xi Summit Overshadowed by Hormuz Crisis",
-      "summary": "Stock markets across Asia showed mixed performance as investors assessed the outcome of the Trump-Xi summit. The closure of the Strait of Hormuz due to the Iran conflict has sent global energy prices soaring, weighing on market sentiment.",
-      "emoji": "📈🇨🇳",
-      "category": "Economy",
-      "source": "Channel News Asia",
-      "url": "https://www.channelnewsasia.com/business/asian-stocks-market-uneven-high-stakes-trump-xi-talks-ai-rally-6120396",
-      "timestamp": "2026-05-15T12:00:00+03:00"
-    },
-    {
-      "headline": "Korean Peninsula Sidelined at US-China Summit",
-      "summary": "The Korean Peninsula was conspicuously absent from the Trump-Xi summit agenda, signaling Pyongyang's diminishing priority as the US focuses on Iran and trade disputes. Analysts note the shift reflects changing global priorities.",
-      "emoji": "🇰🇷🇰🇵",
-      "category": "Asia-Pacific",
-      "source": "Korea Times",
-      "url": "https://www.koreatimes.co.kr/foreignaffairs/20260515/korean-peninsula-sidelined-at-us-china-summit-signaling-pyongyangs-shrinking-place-on-global-agenda",
-      "timestamp": "2026-05-15T12:00:00+03:00"
-    },
-    {
-      "headline": "Analysis: Iran's Future and Its Impact on the South Caucasus",
-      "summary": "A new analysis examines three scenarios for Iran's future and how each would affect the strategic landscape of the South Caucasus. Iran borders both Central Asia and the Caucasus, making its stability crucial for regional powers including Armenia, Azerbaijan, and Russia.",
-      "emoji": "🇦🇲🇦🇿",
-      "category": "Geopolitics",
-      "source": "Armenian Weekly",
-      "url": "https://armenianweekly.com/2026/05/14/a-three-scenario-analysis-of-irans-future-and-its-impact-on-the-south-caucasus/",
-      "timestamp": "2026-05-15T12:00:00+03:00"
-    },
-    {
-      "headline": "Finland Reopens Helsinki Airport After Drone Alert",
-      "summary": "Finnish authorities cleared a drone threat in the capital region, ending a temporary shutdown of Helsinki Airport. Fighter jets were scrambled before the alert was lifted.",
-      "emoji": "🇫🇮",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/finland-warns-drone-activity-capital-region-shuts-traffic-helsinki-airport-2026-05-15/",
-      "timestamp": "2026-05-15T11:03:00+03:00"
-    },
-    {
-      "headline": "Saudi Arabia and UAE Conducted Secret Air Strikes on Iran",
-      "summary": "US officials revealed that Gulf Arab states carried out covert attacks inside Iran during the US-Israel war, seeking to deter Iran after American security guarantees proved limited.",
-      "emoji": "🇸🇦🇦🇪⚔️",
-      "category": "Middle East",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html",
-      "timestamp": "2026-05-15T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html",
-          "angle": "Saudi Arabia and UAE Carried Out Secret Attacks Inside Iran",
-          "summary": "US officials revealed that Gulf Arab states conducted covert operations in Iran, seeking to deter Iranian aggression after the war exposed limits of American security guarantees. The attacks reflect regional unease about Iranian military capabilities."
-        }
-      ],
-      "sources": [
-        "New York Times",
-        "New York Times"
-      ],
-      "urls": [
-        "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html",
-        "https://www.nytimes.com/2026/05/14/world/middleeast/saudi-arabia-uae-iran-attacks.html"
-      ]
     }
   ]
 }
