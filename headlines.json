@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-17T02:05:48+03:00",
+  "lastUpdated": "2026-05-17T03:04:46+03:00",
   "headlines": [
+    {
+      "headline": "Sierra Leone to Accept Hundreds of West Africans Deported from US",
+      "summary": "Sierra Leone agreed to take in hundreds of West African migrants being deported by the United States, its foreign minister told Reuters. The deal is part of the Trump administration's broader effort to accelerate removals amid heightened immigration enforcement.",
+      "emoji": "🇸🇱🇺🇸✈️",
+      "category": "Africa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/africa/sierra-leone-take-hundreds-west-africans-deported-by-us-minister-says-2026-05-16/",
+      "timestamp": "2026-05-17T00:03:00+03:00"
+    },
+    {
+      "headline": "Taiwan Presses US Arms Sales Amid Uncertainty Over Future Deals",
+      "summary": "Taiwan urged the United States to continue arms sales as a cornerstone of regional peace after President Trump said he had not decided on future weapons transfers. The comments come amid broader uncertainty about US defense commitments in the Indo-Pacific.",
+      "emoji": "🇹🇼🇺🇸🛡️",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/taiwan-says-us-arms-sales-are-cornerstone-regional-peace-2026-05-16/",
+      "timestamp": "2026-05-17T00:03:00+03:00"
+    },
+    {
+      "headline": "FIFA Officials Meet Iranian FA to Discuss World Cup Participation",
+      "summary": "FIFA Secretary-General Mattias Grafstrom held constructive talks with Iran's Football Federation in Istanbul, offering reassurance about the country's participation in this year's World Cup amid concerns about Iran's status following recent regional conflicts.",
+      "emoji": "🇮🇷⚽🌍",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sports/soccer/fifa-says-held-positive-talks-with-irans-fa-ahead-world-cup-2026-05-16/",
+      "timestamp": "2026-05-17T00:03:00+03:00"
+    },
+    {
+      "headline": "Latvian President Proposes Opposition Lawmaker as Next Prime Minister",
+      "summary": "Latvian President Edgars Rinkevics nominated opposition lawmaker Andris Kulbergs as the next prime minister after Evika Silina's resignation. The move comes as Baltic states strengthen defense ties amid regional security concerns.",
+      "emoji": "🇱🇻🏛️",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/latvian-president-proposes-opposition-lawmaker-next-prime-minister-2026-05-16/",
+      "timestamp": "2026-05-17T00:03:00+03:00"
+    },
+    {
+      "headline": "Trump-Targeted Senator Cassidy Faces Primary Challenge in Louisiana",
+      "summary": "Republican Senator Bill Cassidy, targeted by Trump for retribution, faces a critical primary election in Louisiana against Trump-backed and other rivals. The race is seen as a test of Trump's influence over GOP incumbents.",
+      "emoji": "🇺🇸🏛️⚖️",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/republican-cassidy-faces-trump-retribution-effort-louisiana-senate-primary-2026-05-16/",
+      "timestamp": "2026-05-17T00:03:00+03:00"
+    },
     {
       "headline": "France to develop ballistic missile defense with Ukraine",
       "summary": "President Zelensky announced France's readiness to develop ballistic missile defense capabilities with Ukraine, calling it an \"important step\" in strengthening capabilities against Russian attacks.",
@@ -8,16 +53,23 @@
       "category": "Ukraine-Russia War",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/france-ready-to-develop-ballistic-missile-defense-with-ukraine-zelensky-calls-it-important-step/",
-      "timestamp": "2026-05-17T02:04:00+03:00"
-    },
-    {
-      "headline": "US waiver for Russian oil purchases expires without renewal",
-      "summary": "A US waiver that allowed purchases of Russian oil stranded at sea has expired as of May 16, potentially affecting global energy markets amid ongoing Iran conflict.",
-      "emoji": "🛢️🇺🇸",
-      "category": "Energy",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/us-waiver-permitting-russian-oil-purchases-expires/",
-      "timestamp": "2026-05-17T02:04:00+03:00"
+      "timestamp": "2026-05-17T02:04:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/france-ready-to-develop-ballistic-missile-defense-with-ukraine-zelensky-calls-it-important-step/",
+          "angle": "France Ready to Develop Ballistic Missile Defense With Ukraine, Zelensky Says",
+          "summary": "French President discussed strengthening capabilities to repel Russian attacks, with Zelensky calling the cooperation an important step in air defense development."
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://kyivindependent.com/france-ready-to-develop-ballistic-missile-defense-with-ukraine-zelensky-calls-it-important-step/",
+        "https://kyivindependent.com/france-ready-to-develop-ballistic-missile-defense-with-ukraine-zelensky-calls-it-important-step/"
+      ]
     },
     {
       "headline": "Putin simplifies Russian citizenship for Transnistria residents",
@@ -26,7 +78,23 @@
       "category": "Ukraine-Russia War",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/putin-signs-decree-simplifying-russian-citizenship-process-for-transnistria-residents/",
-      "timestamp": "2026-05-17T02:04:00+03:00"
+      "timestamp": "2026-05-17T02:04:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://www.kyivindependent.com/",
+          "angle": "Putin Signs Decree Simplifying Russian Citizenship for Transnistria Residents",
+          "summary": "Eligible applicants in the breakaway Moldovan region can skip Russian residency requirements, history and civic tests, and need not prove proficiency in the Russian language, signaling Moscow continued influence efforts in the region."
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://kyivindependent.com/putin-signs-decree-simplifying-russian-citizenship-process-for-transnistria-residents/",
+        "https://www.kyivindependent.com/"
+      ]
     },
     {
       "headline": "Iran to announce Hormuz traffic management mechanism",
@@ -53,7 +121,23 @@
       "category": "Technology",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/autos-transportation/blackrock-weighs-multibillion-dollar-investment-spacex-ipo-information-reports-2026-05-16/",
-      "timestamp": "2026-05-17T02:03:00+03:00"
+      "timestamp": "2026-05-17T02:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/autos-transportation/blackrock-weighs-multibillion-dollar-investment-spacex-ipo-information-reports-2026-05-16/",
+          "angle": "BlackRock weighs $5-10B investment in SpaceX IPO",
+          "summary": "BlackRock is in discussions to invest billions in SpaceX upcoming initial public offering. The investment would be one of the largest pre-IPO commitments in recent market history."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/autos-transportation/blackrock-weighs-multibillion-dollar-investment-spacex-ipo-information-reports-2026-05-16/",
+        "https://www.reuters.com/business/autos-transportation/blackrock-weighs-multibillion-dollar-investment-spacex-ipo-information-reports-2026-05-16/"
+      ]
     },
     {
       "headline": "Russia captures two villages in Ukraine's Kharkiv region",
@@ -62,7 +146,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/russia-says-it-took-control-two-villages-ukraines-kharkiv-region-ria-reports-2026-05-16/",
-      "timestamp": "2026-05-17T02:03:00+03:00"
+      "timestamp": "2026-05-17T02:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/russia-says-it-took-control-two-villages-ukraines-kharkiv-region-ria-reports-2026-05-16/",
+          "angle": "Russia Captures Two Villages in Ukraine's Kharkiv Region",
+          "summary": "Russian forces have taken control of Borova and Kutkivka settlements in Kharkiv, marking continued territorial gains as Moscow presses its offensive in eastern Ukraine."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/russia-says-it-took-control-two-villages-ukraines-kharkiv-region-ria-reports-2026-05-16/",
+        "https://www.reuters.com/world/europe/russia-says-it-took-control-two-villages-ukraines-kharkiv-region-ria-reports-2026-05-16/"
+      ]
     },
     {
       "headline": "Iran's stock market to reopen Tuesday after war suspension",
@@ -80,7 +180,23 @@
       "category": "Arctic",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/canada-deepens-arctic-defense-ties-with-nordics-after-trump-threats-2026-05-16/",
-      "timestamp": "2026-05-17T02:03:00+03:00"
+      "timestamp": "2026-05-17T02:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/canada-deepens-arctic-defense-ties-with-nordics-after-trump-threats-2026-05-16/",
+          "angle": "Canada Deepens Arctic Defense Ties With Nordic Nations",
+          "summary": "Prime Minister Carney strengthens alliances with \"middle powers\" as the US becomes a less reliable partner, focusing on Arctic security amid growing geopolitical tensions."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/aerospace-defense/canada-deepens-arctic-defense-ties-with-nordics-after-trump-threats-2026-05-16/",
+        "https://www.reuters.com/business/aerospace-defense/canada-deepens-arctic-defense-ties-with-nordics-after-trump-threats-2026-05-16/"
+      ]
     },
     {
       "headline": "US charges Iraqi man in Iran-linked terror plots against Jews",
@@ -89,7 +205,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/legal/litigation/us-accuses-iraqi-man-helping-iran-backed-militias-plans-attacks-us-europe-2026-05-16/",
-      "timestamp": "2026-05-17T02:03:00+03:00"
+      "timestamp": "2026-05-17T02:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/legal/litigation/us-accuses-iraqi-man-helping-iran-backed-militias-plans-attacks-us-europe-2026-05-16/",
+          "angle": "US Accuses Iraqi Man of Helping Iran-Backed Militia Plot Attacks in US and Europe",
+          "summary": "The US Justice Department announced the arrest of an Iraqi national accused of involvement in multiple attacks against US interests in Europe and planning attacks on US soil for an Iran-backed militia."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/legal/litigation/us-accuses-iraqi-man-helping-iran-backed-militias-plans-attacks-us-europe-2026-05-16/",
+        "https://www.reuters.com/legal/litigation/us-accuses-iraqi-man-helping-iran-backed-militias-plans-attacks-us-europe-2026-05-16/"
+      ]
     },
     {
       "headline": "ISIS Deputy Leader Killed in US-Nigeria Joint Operation",
@@ -319,15 +451,6 @@
       "timestamp": "2026-05-16T21:03:00+03:00"
     },
     {
-      "headline": "BlackRock weighs $5-10B investment in SpaceX IPO",
-      "summary": "BlackRock is in discussions to invest billions in SpaceX upcoming initial public offering. The investment would be one of the largest pre-IPO commitments in recent market history.",
-      "emoji": "🚀",
-      "category": "Technology",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/autos-transportation/blackrock-weighs-multibillion-dollar-investment-spacex-ipo-information-reports-2026-05-16/",
-      "timestamp": "2026-05-16T21:03:00+03:00"
-    },
-    {
       "headline": "UK Prime Minister Starmer set to approve $24B defense spending increase",
       "summary": "British PM Keir Starmer is expected to approve an 18 billion pound increase in defense spending as he faces political pressure. The Times reports the increase comes amid global security concerns.",
       "emoji": "🇬🇧",
@@ -353,31 +476,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/africa/sierra-leone-take-hundreds-west-africans-deported-by-us-minister-2026-05-16/",
       "timestamp": "2026-05-16T21:03:00+03:00"
-    },
-    {
-      "headline": "France Ready to Develop Ballistic Missile Defense With Ukraine, Zelensky Says",
-      "summary": "French President discussed strengthening capabilities to repel Russian attacks, with Zelensky calling the cooperation an important step in air defense development.",
-      "emoji": "🇫🇷🇺🇦",
-      "category": "Defense Industry",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/france-ready-to-develop-ballistic-missile-defense-with-ukraine-zelensky-calls-it-important-step/",
-      "timestamp": "2026-05-16T20:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/france-ready-to-develop-ballistic-missile-defense-with-ukraine-zelensky-calls-it-important-step/",
-          "angle": "France to develop ballistic missile defense system with Ukraine",
-          "summary": "President Zelensky announced France's readiness to cooperate on ballistic missile defense, calling it an important step in strengthening Ukraine's ability to repel Russian attacks."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://kyivindependent.com/france-ready-to-develop-ballistic-missile-defense-with-ukraine-zelensky-calls-it-important-step/",
-        "https://kyivindependent.com/france-ready-to-develop-ballistic-missile-defense-with-ukraine-zelensky-calls-it-important-step/"
-      ]
     },
     {
       "headline": "Russians Worry More About Strikes at Home Than Front Line for First Time Since 2022",
@@ -455,31 +553,6 @@
       ]
     },
     {
-      "headline": "Russia Captures Two Villages in Ukraine's Kharkiv Region",
-      "summary": "Russian forces have taken control of Borova and Kutkivka settlements in Kharkiv, marking continued territorial gains as Moscow presses its offensive in eastern Ukraine.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/russia-says-it-took-control-two-villages-ukraines-kharkiv-region-ria-reports-2026-05-16/",
-      "timestamp": "2026-05-16T20:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/russia-says-it-took-control-two-villages-ukraines-kharkiv-region-ria-reports-2026-05-16/",
-          "angle": "Russia captures two villages in Ukraines Kharkiv region",
-          "summary": "Russian forces have taken control of Borova and Kutkivka settlements in Kharkiv, according to Russias Defence Ministry cited by RIA. The advance comes amid continued fighting in eastern Ukraine."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/russia-says-it-took-control-two-villages-ukraines-kharkiv-region-ria-reports-2026-05-16/",
-        "https://www.reuters.com/world/europe/russia-says-it-took-control-two-villages-ukraines-kharkiv-region-ria-reports-2026-05-16/"
-      ]
-    },
-    {
       "headline": "Zelenskiy Warns Russia May Attack NATO from Belarus",
       "summary": "Ukraine's president says Moscow is seeking to draw Belarus deeper into the war and weighing plans to attack Ukraine's north or a NATO country from Belarusian territory.",
       "emoji": "⚠️",
@@ -502,31 +575,6 @@
       "urls": [
         "https://www.reuters.com/world/europe/zelenskiy-says-russia-considering-plan-attack-nato-country-belarus-2026-05-15/",
         "https://www.reuters.com/world/europe/zelenskiy-says-russia-considering-plan-attack-nato-country-belarus-2026-05-15/"
-      ]
-    },
-    {
-      "headline": "Canada Deepens Arctic Defense Ties With Nordic Nations",
-      "summary": "Prime Minister Carney strengthens alliances with \"middle powers\" as the US becomes a less reliable partner, focusing on Arctic security amid growing geopolitical tensions.",
-      "emoji": "🇨🇦",
-      "category": "Arctic",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/canada-deepens-arctic-defense-ties-with-nordics-after-trump-threats-2026-05-16/",
-      "timestamp": "2026-05-16T20:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/canada-deepens-arctic-defense-ties-with-nordics-after-trump-threats-2026-05-16/",
-          "angle": "Canada Deepens Arctic Defense Ties With Nordic Countries After Trump Greenland Threats",
-          "summary": "Following Trump's threats to seize Greenland, Canadian authorities have been strengthening defense cooperation with Nordic countries. Greenland has been seeking support from its northern ally Canada."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/aerospace-defense/canada-deepens-arctic-defense-ties-with-nordics-after-trump-threats-2026-05-16/",
-        "https://www.reuters.com/business/aerospace-defense/canada-deepens-arctic-defense-ties-with-nordics-after-trump-threats-2026-05-16/"
       ]
     },
     {
@@ -795,15 +843,6 @@
       "category": "Military",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/trump-says-isis-second-command-abu-bilal-al-minuki-eliminated-2026-05-16/",
-      "timestamp": "2026-05-16T15:03:00+03:00"
-    },
-    {
-      "headline": "US Accuses Iraqi Man of Helping Iran-Backed Militia Plot Attacks in US and Europe",
-      "summary": "The US Justice Department announced the arrest of an Iraqi national accused of involvement in multiple attacks against US interests in Europe and planning attacks on US soil for an Iran-backed militia.",
-      "emoji": "🇮🇶",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/litigation/us-accuses-iraqi-man-helping-iran-backed-militias-plans-attacks-us-europe-2026-05-16/",
       "timestamp": "2026-05-16T15:03:00+03:00"
     },
     {
@@ -1331,15 +1370,6 @@
         "https://apnews.com/article/pentagon-europe-troops-poland-germany-2026-05-15/",
         "https://www.dw.com/en/us-stops-poland-troop-deployment-after-germany-pullout-order/a-77177920"
       ]
-    },
-    {
-      "headline": "Putin Signs Decree Simplifying Russian Citizenship for Transnistria Residents",
-      "summary": "Eligible applicants in the breakaway Moldovan region can skip Russian residency requirements, history and civic tests, and need not prove proficiency in the Russian language, signaling Moscow continued influence efforts in the region.",
-      "emoji": "🇷🇺",
-      "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://www.kyivindependent.com/",
-      "timestamp": "2026-05-16T02:32:00+03:00"
     },
     {
       "headline": "US Army Creates Multi-Domain Command-Pacific to Counter China Threats",
@@ -2519,19 +2549,19 @@
       "timestamp": "2026-05-15T02:05:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/india-asks-us-russian-oil-waiver-extension-iran-war-drags-bloomberg-news-reports-2026-05-14/",
-          "angle": "India Seeks Russian Oil Waiver Extension from US",
-          "summary": "India has asked the US to extend its waiver on Russian oil imports as the Iran war disrupts Persian Gulf energy supplies, Bloomberg News reported."
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/us-waiver-permitting-russian-oil-purchases-expires/",
+          "angle": "US waiver for Russian oil purchases expires without renewal",
+          "summary": "A US waiver that allowed purchases of Russian oil stranded at sea has expired as of May 16, potentially affecting global energy markets amid ongoing Iran conflict."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "Kyiv Independent"
       ],
       "urls": [
         "https://www.reuters.com/business/energy/india-asks-us-russian-oil-waiver-extension-iran-war-bloomberg-news-reports-2026-05-14/",
-        "https://www.reuters.com/business/energy/india-asks-us-russian-oil-waiver-extension-iran-war-drags-bloomberg-news-reports-2026-05-14/"
+        "https://kyivindependent.com/us-waiver-permitting-russian-oil-purchases-expires/"
       ]
     },
     {
@@ -2798,73 +2828,6 @@
       "urls": [
         "https://www.reuters.com/world/china/iran-uae-clash-brics-foreign-ministers-meeting-2026-05-14/",
         "https://www.kyivpost.com/post/76221"
-      ]
-    },
-    {
-      "headline": "Ship Seized Off UAE Coast Heading Toward Iranian Waters",
-      "summary": "A ship anchored off the UAE was seized and is being taken toward Iranian waters, the British navy reported, as Trump and Xi discussed the Iran conflict in Beijing.",
-      "emoji": "🚢⚠️",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/iran-war-overshadows-trumps-china-visit-peace-talks-stall-2026-05-14/",
-      "timestamp": "2026-05-14T21:03:00+03:00"
-    },
-    {
-      "headline": "Russia Launches Largest Drone Attack of War on Ukraine",
-      "summary": "Russia carried out its largest aerial attack over a two-day period since the war began, pounding Kyiv with hundreds of drones. An apartment building was flattened, killing at least 7 civilians as strikes continued for a third straight day.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-2026-05-14/",
-      "timestamp": "2026-05-14T20:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/5/15/russia-pounds-kyiv-as-its-war-machine-grinds-to-a-near-standstill",
-          "angle": "Russia unleashes largest sustained drone assault on Kyiv as front-line advance stalls",
-          "summary": "Russia launched over 1,400 drones and 56 missiles at Ukraine, with much targeting Kyiv. The massive attacks came as Russian territorial gains in eastern Ukraine slowed dramatically to just 2.9 sq km daily in early 2026, compared to 14.9 sq km in 2025."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-2026-05-14/",
-          "angle": "Russia unleashes largest wartime aerial assault with 1,500+ drones over two days",
-          "summary": "Russia carried out its largest aerial attack over a two-day period since the war began, pounding Kyiv and other cities with hundreds of drones. Ukrainian officials reported widespread destruction and casualties."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Jazeera",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-2026-05-14/",
-        "https://www.aljazeera.com/news/2026/5/15/russia-pounds-kyiv-as-its-war-machine-grinds-to-a-near-standstill",
-        "https://www.reuters.com/world/europe/ukrainian-capital-kyiv-under-massive-russian-attack-mayor-says-2026-05-14/"
-      ]
-    },
-    {
-      "headline": "Ship Seized Near Strait of Hormuz as Tensions Escalate",
-      "summary": "A vessel anchored off the UAE coast was seized by unauthorized personnel and is heading toward Iranian waters, according to British military reports. The incident comes as another ship was sunk in the region, raising fears of wider conflict in the critical waterway.",
-      "emoji": "🚢",
-      "category": "Middle East",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-israel-war-oil-hormuz-may-14-2026-efb53c39ee6334733e1cb22ca4a6c279",
-      "timestamp": "2026-05-14T20:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Hill",
-          "url": "https://thehill.com/policy/international/strait-of-hormuz-iran-ship-seized-another-sunk/",
-          "angle": "Ship Seized and Another Sunk Near Strait of Hormuz as Tensions Escalate",
-          "summary": "A ship anchored off the UAE was seized by Iranian personnel and taken toward Iran, while a cargo ship near Oman sank. The incidents come amid the ongoing Iran conflict and closed Strait of Hormuz."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "The Hill"
-      ],
-      "urls": [
-        "https://apnews.com/article/iran-us-israel-war-oil-hormuz-may-14-2026-efb53c39ee6334733e1cb22ca4a6c279",
-        "https://thehill.com/policy/international/strait-of-hormuz-iran-ship-seized-another-sunk/"
       ]
     }
   ]
