@@ -1,6 +1,85 @@
 {
-  "lastUpdated": "2026-05-18T18:07:59+03:00",
+  "lastUpdated": "2026-05-18T19:12:16+03:00",
   "headlines": [
+    {
+      "headline": "Russia Strikes Odesa and Dnipro in Overnight Attacks",
+      "summary": "Russian forces targeted Ukrainian cities of Odesa and Dnipro with missiles and drones, damaging residential buildings and injuring dozens, while Ukrainian drone strikes killed two in Russia.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/russia-hits-ukraines-odesa-dnipro-with-drones-missiles-overnight-officials-say-2026-05-18/",
+      "timestamp": "2026-05-18T19:10:00+03:00"
+    },
+    {
+      "headline": "Kremlin Has High Expectations for Putin's China Visit",
+      "summary": "Russia expressed serious expectations for President Putin's upcoming trip to China this week, where he will meet Xi Jinping to discuss developing their \"privileged partnership\" amid the Iran war and Ukraine conflict.",
+      "emoji": "🇷🇺🇨🇳",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/kremlin-says-it-has-serious-expectations-putins-trip-china-2026-05-18/",
+      "timestamp": "2026-05-18T19:10:00+03:00"
+    },
+    {
+      "headline": "Ukraine and Hungary to Hold Minority Rights Consultations",
+      "summary": "Kyiv and Budapest agreed to talks about Ukraine's ethnic Hungarian minority rights this week, seeking to rebuild ties following Hungary's government change.",
+      "emoji": "🇺🇦🇭🇺",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/ukraine-hungary-agree-hold-consultations-hungarian-minority-ukrainian-fm-says-2026-05-18/",
+      "timestamp": "2026-05-18T19:10:00+03:00"
+    },
+    {
+      "headline": "Putin Faces Difficult Choices as Sanctions Bite, Estonia Spy Chief Says",
+      "summary": "Estonia's foreign intelligence chief said Russia has few good options in Ukraine as Western sanctions chip away at its resources while its forces cannot advance significantly on the battlefield.",
+      "emoji": "🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/putin-faces-very-difficult-choices-ukraine-sanctions-bite-estonias-spy-chief-2026-05-18/",
+      "timestamp": "2026-05-18T19:10:00+03:00"
+    },
+    {
+      "headline": "Oil Prices Jump on Iran War Re-Escalation Fears",
+      "summary": "Oil prices rose again as diplomatic efforts to end the US-Iran war appeared to stall, with Tehran submitting a revised peace proposal while the US warned of potential renewed military action.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/",
+      "timestamp": "2026-05-18T19:10:00+03:00"
+    },
+    {
+      "headline": "Israel-Hezbollah fighting continues despite truce extension",
+      "summary": "Israel carried out airstrikes in southern Lebanon while Hezbollah announced new attacks on Israeli forces, continuing the conflict despite a U.S.-backed truce extension. Lebanon death toll nears 3,000.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israel-hezbollah-war-persists-despite-truce-extension-lebanons-death-toll-nears-2026-05-18/",
+      "timestamp": "2026-05-18T18:10:00+03:00"
+    },
+    {
+      "headline": "Dollar retreats as oil falls on report of US-Iran sanctions waiver",
+      "summary": "The dollar slipped against major currencies as oil prices fell after an Iranian news report indicated the US may waive sanctions on Iranian crude. 10-year Treasury yields withdrew from 15-month highs.",
+      "emoji": "💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/dollar-firms-oil-climbs-bond-rout-saps-risk-appetite-2026-05-18/",
+      "timestamp": "2026-05-18T18:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/us-waiver-permitting-russian-oil-purchases-expires/",
+          "angle": "US sanctions waiver for Russian oil purchases expires without renewal",
+          "summary": "The Treasury Department allowed the waiver permitting countries to purchase Russian oil cargoes stranded at sea to expire on May 16. Treasury Secretary Bessent had previously said there were no plans to renew the authorization."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/dollar-firms-oil-climbs-bond-rout-saps-risk-appetite-2026-05-18/",
+        "https://kyivindependent.com/us-waiver-permitting-russian-oil-purchases-expires/"
+      ]
+    },
     {
       "headline": "Croatia Rejects Proposed Israeli Ambassador Over Government Policies",
       "summary": "Croatian President Milanović says the nominee will not receive approval, citing actions of the current Israeli government and a diplomatic protocol dispute.",
@@ -35,7 +114,23 @@
       "category": "Middle East",
       "source": "France 24",
       "url": "https://www.france24.com/en/iran-sets-up-new-strait-of-hormuz-managing-body-amid-stalled-talks-with-us",
-      "timestamp": "2026-05-18T18:05:00+03:00"
+      "timestamp": "2026-05-18T18:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Channel News Asia",
+          "url": "https://www.channelnewsasia.com/world/iran-hormuz-strait-new-body-manage-us-war-persian-gulf-strait-authority-6127991",
+          "angle": "Iran Forms New Body to Manage Strait of Hormuz",
+          "summary": "Iran's top security council announced the formation of a new authority to manage the strategic Strait of Hormuz, the vital shipping chokepoint that has been closed during the conflict."
+        }
+      ],
+      "sources": [
+        "France 24",
+        "Channel News Asia"
+      ],
+      "urls": [
+        "https://www.france24.com/en/iran-sets-up-new-strait-of-hormuz-managing-body-amid-stalled-talks-with-us",
+        "https://www.channelnewsasia.com/world/iran-hormuz-strait-new-body-manage-us-war-persian-gulf-strait-authority-6127991"
+      ]
     },
     {
       "headline": "Greenland PM Tells US Envoy: Self-Determination Cannot Be Negotiated",
@@ -45,33 +140,6 @@
       "source": "Anadolu Agency",
       "url": "https://www.aa.com.tr/en/europe/us-special-envoy-meets-greenland-s-premier/3940931",
       "timestamp": "2026-05-18T18:05:00+03:00"
-    },
-    {
-      "headline": "Israel-Hezbollah fighting continues despite truce extension",
-      "summary": "Israel carried out airstrikes in southern Lebanon while Hezbollah announced new attacks on Israeli forces, continuing the conflict despite a U.S.-backed truce extension. Lebanon death toll nears 3,000.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israel-hezbollah-war-persists-despite-truce-extension-lebanons-death-toll-nears-2026-05-18/",
-      "timestamp": "2026-05-18T18:10:00+03:00"
-    },
-    {
-      "headline": "Dollar retreats as oil falls on report of US-Iran sanctions waiver",
-      "summary": "The dollar slipped against major currencies as oil prices fell after an Iranian news report indicated the US may waive sanctions on Iranian crude. 10-year Treasury yields withdrew from 15-month highs.",
-      "emoji": "💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/dollar-firms-oil-climbs-bond-rout-saps-risk-appetite-2026-05-18/",
-      "timestamp": "2026-05-18T18:10:00+03:00"
-    },
-    {
-      "headline": "Pope Leo XIV to release first encyclical on AI with Anthropic co-founder",
-      "summary": "Pope Leo XIV will launch his first encyclical on May 25 addressing human dignity in the AI era, joined by Anthropic co-founder. The document will tackle ethical challenges posed by artificial intelligence.",
-      "emoji": "⛪",
-      "category": "Technology",
-      "source": "PBS NewsHour",
-      "url": "https://www.pbs.org/newshour/world/pope-leo-xiv-to-launch-his-first-encylical-a-document-on-artificial-intelligence-with-anthropics-co-founder",
-      "timestamp": "2026-05-18T18:10:00+03:00"
     },
     {
       "headline": "Senior Islamic State Leader Killed in US-Nigeria Joint Operation",
@@ -194,6 +262,31 @@
       "timestamp": "2026-05-18T16:03:00+03:00"
     },
     {
+      "headline": "Pope Leo to Release First Encyclical on Artificial Intelligence May 25",
+      "summary": "Pope Leo will release his first in-depth document on May 25, expected to address the rise of artificial intelligence and challenges to workers rights. The encyclical Magnifica Humanitas will be launched with Anthropic co-founder Christopher Olah.",
+      "emoji": "⛪",
+      "category": "Technology",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/pope-leo-issue-first-major-work-addressing-ai-may-25-2026-05-18/",
+      "timestamp": "2026-05-18T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "PBS NewsHour",
+          "url": "https://www.pbs.org/newshour/world/pope-leo-xiv-to-launch-his-first-encylical-a-document-on-artificial-intelligence-with-anthropics-co-founder",
+          "angle": "Pope Leo XIV to release first encyclical on AI with Anthropic co-founder",
+          "summary": "Pope Leo XIV will launch his first encyclical on May 25 addressing human dignity in the AI era, joined by Anthropic co-founder. The document will tackle ethical challenges posed by artificial intelligence."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "PBS NewsHour"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/pope-leo-issue-first-major-work-addressing-ai-may-25-2026-05-18/",
+        "https://www.pbs.org/newshour/world/pope-leo-xiv-to-launch-his-first-encylical-a-document-on-artificial-intelligence-with-anthropics-co-founder"
+      ]
+    },
+    {
       "headline": "China Economy Slows Sharply as Industrial Output and Retail Sales Disappoint",
       "summary": "China growth lost momentum in April, with industrial output cooling and retail sales sinking to over three-year lows as the second-largest economy grapples with higher energy costs from the Iran war and persistently weak domestic demand.",
       "emoji": "🇨🇳",
@@ -269,15 +362,6 @@
       ]
     },
     {
-      "headline": "Pope Leo to Release First Encyclical on Artificial Intelligence May 25",
-      "summary": "Pope Leo will release his first in-depth document on May 25, expected to address the rise of artificial intelligence and challenges to workers rights. The encyclical Magnifica Humanitas will be launched with Anthropic co-founder Christopher Olah.",
-      "emoji": "⛪",
-      "category": "Technology",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/pope-leo-issue-first-major-work-addressing-ai-may-25-2026-05-18/",
-      "timestamp": "2026-05-18T15:03:00+03:00"
-    },
-    {
       "headline": "Hantavirus-Hit Cruise Ship Docks in Netherlands for Disinfection After Deadly Outbreak",
       "summary": "A luxury polar explorer ship arrived at Rotterdam port where authorities quarantined 27 remaining crew and planned to cremate a German passenger who died. The MV Hondius had been at the center of a deadly hantavirus outbreak during its seven-week voyage.",
       "emoji": "🚢",
@@ -285,31 +369,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/hantavirus-hit-cruise-ship-due-arrive-rotterdam-port-final-destination-2026-05-18/",
       "timestamp": "2026-05-18T15:03:00+03:00"
-    },
-    {
-      "headline": "Iran Forms New Body to Manage Strait of Hormuz",
-      "summary": "Iran's top security council announced the formation of a new authority to manage the strategic Strait of Hormuz, the vital shipping chokepoint that has been closed during the conflict.",
-      "emoji": "🇮🇷",
-      "category": "Middle East",
-      "source": "Channel News Asia",
-      "url": "https://www.channelnewsasia.com/world/iran-hormuz-strait-new-body-manage-us-war-persian-gulf-strait-authority-6127991",
-      "timestamp": "2026-05-18T14:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Firstpost",
-          "url": "https://www.firstpost.com/world/iran-israel-war-live-updates-us-china-talks-trump-middle-east-war-oil-prices-global-impact-explained-liveblog-liveblog-14011959.html",
-          "angle": "Iran Threatens to Block All Military Equipment Through Strait of Hormuz",
-          "summary": "Iran declared it will no longer allow \"enemy\" military equipment through the strategic Strait of Hormuz as tensions escalate with Israel and the US, potentially disrupting global oil shipments."
-        }
-      ],
-      "sources": [
-        "Channel News Asia",
-        "Firstpost"
-      ],
-      "urls": [
-        "https://www.channelnewsasia.com/world/iran-hormuz-strait-new-body-manage-us-war-persian-gulf-strait-authority-6127991",
-        "https://www.firstpost.com/world/iran-israel-war-live-updates-us-china-talks-trump-middle-east-war-oil-prices-global-impact-explained-liveblog-liveblog-14011959.html"
-      ]
     },
     {
       "headline": "IEA Warns Commercial Oil Inventories Depleting Rapidly",
@@ -1055,15 +1114,6 @@
       "category": "US-Iran War",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/us-intelligence-reveals-cuba-seeking-russian-drones-military-equipment-axios-reports/",
-      "timestamp": "2026-05-17T22:05:00+03:00"
-    },
-    {
-      "headline": "US sanctions waiver for Russian oil purchases expires without renewal",
-      "summary": "The Treasury Department allowed the waiver permitting countries to purchase Russian oil cargoes stranded at sea to expire on May 16. Treasury Secretary Bessent had previously said there were no plans to renew the authorization.",
-      "emoji": "🛢️🇺🇸",
-      "category": "Economy",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/us-waiver-permitting-russian-oil-purchases-expires/",
       "timestamp": "2026-05-17T22:05:00+03:00"
     },
     {
@@ -2787,67 +2837,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/news/china/science/article/3353726/have-chinese-defence-firms-broken-sniper-rifle-range-record-again",
       "timestamp": "2026-05-16T08:10:00+03:00"
-    },
-    {
-      "headline": "Russia and Ukraine exchange 205 prisoners each in latest swap",
-      "summary": "The prisoner exchange marks a continued diplomatic effort despite ongoing hostilities, with both sides bringing home service personnel from Russian and Ukrainian captivity.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/russia-ukraine-swap-205-prisoners-war-each-2026-05-15/",
-      "timestamp": "2026-05-16T08:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/news/russia-ukraine-accuse-each-other-ceasefire-violations/",
-          "angle": "Russia and Ukraine Accuse Each Other of Violating US-Brokered Ceasefire",
-          "summary": "Both sides claimed casualties from drone and artillery strikes during a three-day ceasefire announced by President Trump. Zelenskyy said Russia was \"not even particularly trying\" to observe the truce, while Ukraine pledged to retaliate against any aggression."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "CBS News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/russia-ukraine-swap-205-prisoners-war-each-2026-05-15/",
-        "https://www.cbsnews.com/news/russia-ukraine-accuse-each-other-ceasefire-violations/"
-      ]
-    },
-    {
-      "headline": "Chinese Investor Acquires 120-Year-Old German Textile Machinery Maker",
-      "summary": "Family-owned Mayer & Cie, a German circular knitting machine manufacturer with over 80,000 machines worldwide serving brands like H&M and Uniqlo, has been acquired by Chinese investor Huixing amid industry pressure from Chinese competitors.",
-      "emoji": "🇨🇳🇩🇪",
-      "category": "Economy",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/commodities/china-investor-gobbles-up-120-year-old-german-sewing-machine-maker",
-      "timestamp": "2026-05-16T08:05:00+03:00"
-    },
-    {
-      "headline": "Drone warfare becomes deadliest threat to Sudanese civilians",
-      "summary": "Armed drones account for over 80% of conflict-related civilian deaths in Sudan, with at least 880 civilians killed by drone strikes between January and April 2026.",
-      "emoji": "🇸🇩",
-      "category": "Africa",
-      "source": "AP News",
-      "url": "https://apnews.com/article/sudan-war-military-rsf-paramilitary-drones-1c0301faa15f5b57df9621a4b44aa939",
-      "timestamp": "2026-05-16T08:05:00+03:00"
-    },
-    {
-      "headline": "US and Nigerian forces kill ISIS second-in-command, Trump announces",
-      "summary": "Abu-Bilal al-Minuki, described as the global second-in-command of ISIS, was eliminated in a joint US-Nigerian military operation, according to President Trump.",
-      "emoji": "🇺🇸",
-      "category": "Middle East",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-16/trump-says-us-forces-nigeria-armed-forces-killed-isis-leader",
-      "timestamp": "2026-05-16T08:05:00+03:00"
-    },
-    {
-      "headline": "36 Countries and EU Approve Special Tribunal to Prosecute Putin for Aggression",
-      "summary": "A historic legal agreement creates a tribunal to prosecute Russia's top leadership for the crime of aggression against Ukraine, closing a legal loophole that the ICC could not address. Zelensky called it a shield for the future while standing at the site of a Kyiv residential strike that killed 24.",
-      "emoji": "⚖️🇺🇦🇪🇺",
-      "category": "Diplomacy",
-      "source": "Kyiv Post",
-      "url": "https://www.kyivpost.com/post/76248",
-      "timestamp": "2026-05-16T06:05:00+03:00"
     }
   ]
 }
