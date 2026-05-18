@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-18T20:05:03+03:00",
+  "lastUpdated": "2026-05-18T20:11:19+03:00",
   "headlines": [
+    {
+      "headline": "China Rejects Taiwan Sovereignty Claims After Leader Pledges Never to Be Sacrificed",
+      "summary": "Beijing stated Taiwan was \"never a country\" after Taiwanese leader William Lai Ching-te said the island would never be traded away, in the latest exchange over cross-strait sovereignty.",
+      "emoji": "🇨🇳🇹🇼",
+      "category": "Asia-Pacific",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/asia-pacific/china-says-taiwan-never-a-country-after-taiwan-asserts-sovereignty-independence/3941317",
+      "timestamp": "2026-05-18T20:10:00+03:00"
+    },
+    {
+      "headline": "Germany Calls for Stronger EU-Turkey Ties, Says Ankara Key to NATO Defense",
+      "summary": "German Foreign Minister Johann Wadephul said Turkey should be included as the EU develops its defense policy, citing shared security interests and Turkiye role as a critical NATO ally.",
+      "emoji": "🇩🇪🇹🇷🇪🇺",
+      "category": "Europe",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/europe/germany-pledges-stronger-eu-turkiye-ties-citing-shared-security-interests/3941320",
+      "timestamp": "2026-05-18T20:10:00+03:00"
+    },
+    {
+      "headline": "Israel Opposition Demands Knesset Dissolution, Early Elections Amid Coalition Strains",
+      "summary": "Israeli opposition leaders urged lawmakers to support a bill for preliminary vote next week to dissolve parliament, as the governing coalition faces mounting internal political pressure.",
+      "emoji": "🇮🇱🏛️",
+      "category": "Middle East",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/middle-east/israeli-opposition-calls-for-dissolution-of-knesset-early-elections/3941356",
+      "timestamp": "2026-05-18T20:10:00+03:00"
+    },
+    {
+      "headline": "France 24 Reports Belarus Nuclear Drills Include Oreshnik Hypersonic Missiles",
+      "summary": "Russia and Belarus began joint exercises practicing delivery of nuclear munitions using Oreshnik hypersonic missiles deployed to Belarus last year, Ukraine condemned the drills as an \"unprecedented challenge\" to global security.",
+      "emoji": "⚔️☢️",
+      "category": "Europe",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260518-russia-and-belarus-stage-joint-nuclear-weapons-drills",
+      "timestamp": "2026-05-18T20:10:00+03:00"
+    },
+    {
+      "headline": "SCMP Covers Belarus Nuclear Exercises Near NATO Borders",
+      "summary": "Belarus began training exercises involving Russian tactical nuclear weapons, testing military readiness to deploy nuclear arms across different regions of the country bordering three NATO states.",
+      "emoji": "⚔️☢️",
+      "category": "Europe",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3354016/belarus-holds-drills-russian-nuclear-weapons-drawing-criticism-ukraine",
+      "timestamp": "2026-05-18T20:10:00+03:00"
+    },
     {
       "headline": "Pakistan Deploys Fighter Jets and Troops to Saudi Arabia Amid Iran War",
       "summary": "Pakistan is ramping up military cooperation with Riyadh, deploying a jet squadron and thousands of troops, even as Islamabad serves as the main mediator in the Iran-US conflict.",
@@ -8,7 +53,39 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/pakistan-deploys-jet-squadron-thousands-troops-saudi-arabia-during-iran-war-2026-05-18/",
-      "timestamp": "2026-05-18T20:10:00+03:00"
+      "timestamp": "2026-05-18T20:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/abu-dhabi-says-drone-strike-caused-fire-barakah-nuclear-power-plant-no-injuries-2026-05-17/",
+          "angle": "Drone Strike Hits UAE Barakah Nuclear Plant Amid Iran War Deadlock",
+          "summary": "A drone strike caused a fire at the UAE sole nuclear power plant, with Emirati officials investigating the source and vowing response to what they called a terrorist attack."
+        },
+        {
+          "source": "Rudaw",
+          "url": "https://www.rudaw.net/english/middleeast/170520261",
+          "angle": "Saudi Arabia intercepts drones entering from Iraq amid regional tensions",
+          "summary": "Saudi Arabia announced it intercepted and destroyed three drones that entered its airspace from Iraq. The incident comes as Gulf states face escalating threats from the ongoing US-Iran conflict."
+        },
+        {
+          "source": "Israel National News",
+          "url": "https://www.israelnationalnews.com/news/427211",
+          "angle": "IDF Reports Shortage of 12,000 Troops Amid Multi-Front War",
+          "summary": "The Israeli military announced a critical manpower gap of approximately 12,000 soldiers, including 6,000-7,500 combat troops, as it operates across seven different arenas. Officials warn the shortage will worsen if mandatory service is reduced to 30 months."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Rudaw",
+        "Israel National News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/pakistan-deploys-jet-squadron-thousands-troops-saudi-arabia-during-iran-war-2026-05-18/",
+        "https://www.reuters.com/world/middle-east/abu-dhabi-says-drone-strike-caused-fire-barakah-nuclear-power-plant-no-injuries-2026-05-17/",
+        "https://www.rudaw.net/english/middleeast/170520261",
+        "https://www.israelnationalnews.com/news/427211"
+      ]
     },
     {
       "headline": "Pakistan Conveys New Iranian Peace Proposal to United States",
@@ -35,16 +112,31 @@
       "category": "US-China",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/what-do-chinas-new-us-farm-purchases-mean-global-trade-2026-05-18/",
-      "timestamp": "2026-05-18T20:10:00+03:00"
-    },
-    {
-      "headline": "Ukraine Launches Largest Drone Strike Campaign Against Russia in Over a Year",
-      "summary": "Ukraine has conducted its biggest strike campaign against Russia in over a year, using long-range drones to target Moscow and bring the war home to Russian territory.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "BBC",
-      "url": "https://www.wbur.org/hereandnow/2026/05/18/ukraine-strike-russia",
-      "timestamp": "2026-05-18T20:10:00+03:00"
+      "timestamp": "2026-05-18T20:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/china-buy-least-17-billion-us-agricultural-products-annually-white-house-says-2026-05-17/",
+          "angle": "China agrees to buy at least $17 billion in US agricultural products annually",
+          "summary": "The White House announced that China has committed to purchasing at least $17 billion in US agricultural products annually following the Beijing summit between Trump and Xi Jinping. The agreement represents a significant trade concession from Beijing amid ongoing tariff tensions."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/china-buy-least-17-billion-us-agricultural-products-annually-white-house-says-2026-05-17/",
+          "angle": "China Commits to B Annual US Agricultural Purchases Through 2028",
+          "summary": "China has agreed to purchase at least  billion of US agricultural products annually through 2028, the White House announced, offering stability to American farmers after Phase One trade deal."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/what-do-chinas-new-us-farm-purchases-mean-global-trade-2026-05-18/",
+        "https://www.reuters.com/world/china/china-buy-least-17-billion-us-agricultural-products-annually-white-house-says-2026-05-17/",
+        "https://www.reuters.com/world/china/china-buy-least-17-billion-us-agricultural-products-annually-white-house-says-2026-05-17/"
+      ]
     },
     {
       "headline": "Russia Strikes Odesa and Dnipro in Overnight Attacks",
@@ -673,31 +765,6 @@
       "timestamp": "2026-05-18T06:05:00+03:00"
     },
     {
-      "headline": "Drone Strike Hits UAE Barakah Nuclear Plant Amid Iran War Deadlock",
-      "summary": "A drone strike caused a fire at the UAE sole nuclear power plant, with Emirati officials investigating the source and vowing response to what they called a terrorist attack.",
-      "emoji": "🇦🇪",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/abu-dhabi-says-drone-strike-caused-fire-barakah-nuclear-power-plant-no-injuries-2026-05-17/",
-      "timestamp": "2026-05-18T05:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/iran-us-uae-nuclear-drones-71e7e58f45193b7dee3df28740532a7b",
-          "angle": "Drone strikes UAE nuclear plant as US and Iran signal readiness to resume war",
-          "summary": "A drone attack targeted a UAE nuclear facility amid escalating regional tensions, with both Washington and Tehran indicating they are prepared for renewed conflict."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/abu-dhabi-says-drone-strike-caused-fire-barakah-nuclear-power-plant-no-injuries-2026-05-17/",
-        "https://apnews.com/article/iran-us-uae-nuclear-drones-71e7e58f45193b7dee3df28740532a7b"
-      ]
-    },
-    {
       "headline": "G7 Finance Chiefs Convene in Paris to Tackle Trade Imbalances",
       "summary": "Finance ministers from G7 nations meet in Paris to coordinate critical raw material supplies and address global economic tensions amid geopolitical differences threatening group cohesion.",
       "emoji": "🇫🇷",
@@ -890,6 +957,31 @@
       "timestamp": "2026-05-18T02:06:00+03:00"
     },
     {
+      "headline": "Ukraine Drone Attack Kills Four in Moscow's Biggest Strike in Over a Year",
+      "summary": "At least four people were killed after Ukraine launched its largest drone attack on Moscow in more than a year, demonstrating Kyiv's ability to strike targets over 300 miles from the border despite dense Russian air defenses.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/least-three-died-ukraine-drone-attack-moscow-region-governor-says-2026-05-17/",
+      "timestamp": "2026-05-18T02:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.wbur.org/hereandnow/2026/05/18/ukraine-strike-russia",
+          "angle": "Ukraine Launches Largest Drone Strike Campaign Against Russia in Over a Year",
+          "summary": "Ukraine has conducted its biggest strike campaign against Russia in over a year, using long-range drones to target Moscow and bring the war home to Russian territory."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/least-three-died-ukraine-drone-attack-moscow-region-governor-says-2026-05-17/",
+        "https://www.wbur.org/hereandnow/2026/05/18/ukraine-strike-russia"
+      ]
+    },
+    {
       "headline": "WHO Declares Ebola Outbreak in Congo and Uganda Global Health Emergency",
       "summary": "The World Health Organization designated the Ebola outbreak in Democratic Republic of Congo and Uganda a public health emergency of international concern, with at least 80 deaths reported and no approved vaccines for this strain.",
       "emoji": "🦠",
@@ -912,39 +1004,6 @@
       "urls": [
         "https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17/",
         "https://www.bbc.com/news/articles/c2l2p0wwzzdo"
-      ]
-    },
-    {
-      "headline": "Ukraine Drone Attack Kills Four in Moscow's Biggest Strike in Over a Year",
-      "summary": "At least four people were killed after Ukraine launched its largest drone attack on Moscow in more than a year, demonstrating Kyiv's ability to strike targets over 300 miles from the border despite dense Russian air defenses.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/least-three-died-ukraine-drone-attack-moscow-region-governor-says-2026-05-17/",
-      "timestamp": "2026-05-18T02:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/world/ukraine/ukraine-drones-kill-four-russia-moscow-faces-biggest-attack-year-rcna345529",
-          "angle": "Ukraine Launches Largest Drone Attack on Moscow in Over a Year",
-          "summary": "Ukraine launched its biggest drone attack on the Russian capital in more than a year, killing at least four people including three in the Moscow region. Russia reported over 1,000 Ukrainian drones downed in 24 hours."
-        },
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/russia-ukraine-drones-moscow-strike-attack-killed-3164d723ca8331e5780ec7942245a2e6",
-          "angle": "Ukraine launches large-scale drone strikes on Russia, killing 4 and wounding dozens",
-          "summary": "A major Ukrainian drone offensive targeted multiple locations inside Russia, resulting in casualties and demonstrating Kyiv's continued capability to strike deep into enemy territory."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "NBC News",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/least-three-died-ukraine-drone-attack-moscow-region-governor-says-2026-05-17/",
-        "https://www.nbcnews.com/world/ukraine/ukraine-drones-kill-four-russia-moscow-faces-biggest-attack-year-rcna345529",
-        "https://apnews.com/article/russia-ukraine-drones-moscow-strike-attack-killed-3164d723ca8331e5780ec7942245a2e6"
       ]
     },
     {
@@ -1009,39 +1068,6 @@
       "timestamp": "2026-05-18T02:03:00+03:00"
     },
     {
-      "headline": "China agrees to buy at least $17 billion in US agricultural products annually",
-      "summary": "The White House announced that China has committed to purchasing at least $17 billion in US agricultural products annually following the Beijing summit between Trump and Xi Jinping. The agreement represents a significant trade concession from Beijing amid ongoing tariff tensions.",
-      "emoji": "🇨🇳",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/china-buy-least-17-billion-us-agricultural-products-annually-white-house-says-2026-05-17/",
-      "timestamp": "2026-05-18T01:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/trump-xi-china-farmers-trade-soybeans-beef-832bafb5ca0be21e4a1d149c5db56b58",
-          "angle": "China agrees to boost US agricultural imports after Trump-Xi summit",
-          "summary": "Beijing committed to increasing purchases of American farm products including beef and poultry following high-level talks between Chinese and US leaders."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/china-signals-tariff-cuts-advances-farm-market-access-after-trump-xi-summit-2026-05-16/",
-          "angle": "China Signals Tariff Cuts After Trump-Xi Summit",
-          "summary": "China and the US agreed to expand agricultural trade through tariff reductions and address non-tariff barriers following the Beijing summit. The agreement marks a potential de-escalation in trade tensions between the two largest economies."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/china-buy-least-17-billion-us-agricultural-products-annually-white-house-says-2026-05-17/",
-        "https://apnews.com/article/trump-xi-china-farmers-trade-soybeans-beef-832bafb5ca0be21e4a1d149c5db56b58",
-        "https://www.reuters.com/world/china/china-signals-tariff-cuts-advances-farm-market-access-after-trump-xi-summit-2026-05-16/"
-      ]
-    },
-    {
       "headline": "Trump warns 'clock is ticking' for Iran as peace negotiations stall",
       "summary": "President Trump issued a stark warning to Iran that 'the clock is ticking' as ceasefire negotiations remain deadlocked. The US and Iran remain at impasse over ending the war, with neither side agreeing to terms for a permanent peace deal.",
       "emoji": "⚠️",
@@ -1065,15 +1091,6 @@
         "https://www.reuters.com/world/middle-east/israel-q1-gdp-shrinks-33-annualised-iran-war-weighs-2026-05-17/",
         "https://www.bbc.com/news/articles/cd0p4y9y48xo"
       ]
-    },
-    {
-      "headline": "Saudi Arabia intercepts drones entering from Iraq amid regional tensions",
-      "summary": "Saudi Arabia announced it intercepted and destroyed three drones that entered its airspace from Iraq. The incident comes as Gulf states face escalating threats from the ongoing US-Iran conflict.",
-      "emoji": "🇸🇦",
-      "category": "Middle East",
-      "source": "Rudaw",
-      "url": "https://www.rudaw.net/english/middleeast/170520261",
-      "timestamp": "2026-05-18T00:07:00+03:00"
     },
     {
       "headline": "Netanyahu faces potential political downfall as Israeli government teeters",
@@ -1196,15 +1213,6 @@
       "timestamp": "2026-05-17T22:03:00+03:00"
     },
     {
-      "headline": "China Commits to B Annual US Agricultural Purchases Through 2028",
-      "summary": "China has agreed to purchase at least  billion of US agricultural products annually through 2028, the White House announced, offering stability to American farmers after Phase One trade deal.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/china-buy-least-17-billion-us-agricultural-products-annually-white-house-says-2026-05-17/",
-      "timestamp": "2026-05-17T22:03:00+03:00"
-    },
-    {
       "headline": "Trump to Hold Situation Room Meeting Tuesday on Iran Military Options",
       "summary": "President Trump is expected to meet with top national security advisers on Tuesday to discuss military options regarding Iran, as ceasefire negotiations remain stalled.",
       "emoji": "🇺🇸🇮🇷",
@@ -1212,15 +1220,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/trump-meet-us-security-advisers-tuesday-axios-reports-2026-05-17/",
       "timestamp": "2026-05-17T22:03:00+03:00"
-    },
-    {
-      "headline": "IDF Reports Shortage of 12,000 Troops Amid Multi-Front War",
-      "summary": "The Israeli military announced a critical manpower gap of approximately 12,000 soldiers, including 6,000-7,500 combat troops, as it operates across seven different arenas. Officials warn the shortage will worsen if mandatory service is reduced to 30 months.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Israel National News",
-      "url": "https://www.israelnationalnews.com/news/427211",
-      "timestamp": "2026-05-17T20:05:00+03:00"
     },
     {
       "headline": "Kremlin Signals Interest in Restoring Dialogue With Europe",
