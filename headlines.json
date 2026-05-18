@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-05-18T06:06:41+03:00",
+  "lastUpdated": "2026-05-18T07:05:10+03:00",
   "headlines": [
+    {
+      "headline": "China economic growth stalls as output and retail sales miss forecasts",
+      "summary": "Industrial output and retail sales sharply undershot expectations in April as the world second-biggest economy wrestled with higher energy costs from the Iran war and persistently weak domestic demand.",
+      "emoji": "🇨🇳",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/chinas-economy-slows-april-output-retail-sales-sharply-undershoot-forecasts-2026-05-18/",
+      "timestamp": "2026-05-18T07:05:00+03:00"
+    },
+    {
+      "headline": "Oil prices climb after drone attack on UAE nuclear plant",
+      "summary": "Oil prices extended gains as efforts to end the US-Iran conflict appeared stalled following a drone attack on a UAE nuclear power plant and President Trump prepared to discuss military options on Iran.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-rises-more-than-1-after-drone-attack-uae-nuclear-power-plant-2026-05-17/",
+      "timestamp": "2026-05-18T07:05:00+03:00"
+    },
     {
       "headline": "German prosecutors expose Russian sanctions-busting network supplying military tech",
       "summary": "A four-year investigation uncovered a Lübeck-based trading firm that routed dual-use components through Turkey into Russia, violating Western sanctions to supply the Kremlin war machine.",
@@ -27,33 +45,6 @@
       "source": "Gulf News",
       "url": "https://gulfnews.com/world/mena/xi-trump-agree-iran-must-not-get-nuclear-weapons-what-it-means-for-the-middle-east-and-the-world-1.500541207",
       "timestamp": "2026-05-18T06:10:00+03:00"
-    },
-    {
-      "headline": "Ukraine Launches Largest Drone Attack on Moscow in Over a Year",
-      "summary": "At least four people were killed as Ukraine struck the Russian capital with over 1,000 drones in 24 hours, marking the biggest aerial assault on Moscow since the war began. The attack came in retaliation for Russia's heaviest drone and missile strikes on Kyiv.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/ukraine/ukraine-drones-kill-four-russia-moscow-faces-biggest-attack-year-rcna345529",
-      "timestamp": "2026-05-18T06:05:00+03:00"
-    },
-    {
-      "headline": "Russia and Ukraine Accuse Each Other of Violating US-Brokered Ceasefire",
-      "summary": "Both sides claimed casualties from drone and artillery strikes during a three-day ceasefire announced by President Trump. Zelenskyy said Russia was \"not even particularly trying\" to observe the truce, while Ukraine pledged to retaliate against any aggression.",
-      "emoji": "⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/russia-ukraine-accuse-each-other-ceasefire-violations/",
-      "timestamp": "2026-05-18T06:05:00+03:00"
-    },
-    {
-      "headline": "US and China Reach Preliminary Deal to Lower Tariffs After Trump-Xi Summit",
-      "summary": "China agreed to billions in additional US farm purchases as both nations struck a preliminary agreement to reduce tariffs on certain goods. The deal leaves major issues unresolved as Trump races against a July deadline for agreements with other trading partners.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "US-China",
-      "source": "AP News",
-      "url": "https://apnews.com/article/trump-china-trade-tariffs-rare-earth-minerals-cbd2482bd2b3a7ce8d47030c4ff1c3d4",
-      "timestamp": "2026-05-18T06:05:00+03:00"
     },
     {
       "headline": "UAE Blames Iran for Drone Strike Near Barakah Nuclear Power Plant",
@@ -299,6 +290,31 @@
       "timestamp": "2026-05-18T02:06:00+03:00"
     },
     {
+      "headline": "Ukraine Drone Attack Kills Four in Moscow's Biggest Strike in Over a Year",
+      "summary": "At least four people were killed after Ukraine launched its largest drone attack on Moscow in more than a year, demonstrating Kyiv's ability to strike targets over 300 miles from the border despite dense Russian air defenses.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/least-three-died-ukraine-drone-attack-moscow-region-governor-says-2026-05-17/",
+      "timestamp": "2026-05-18T02:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/world/ukraine/ukraine-drones-kill-four-russia-moscow-faces-biggest-attack-year-rcna345529",
+          "angle": "Ukraine Launches Largest Drone Attack on Moscow in Over a Year",
+          "summary": "At least four people were killed as Ukraine struck the Russian capital with over 1,000 drones in 24 hours, marking the biggest aerial assault on Moscow since the war began. The attack came in retaliation for Russia's heaviest drone and missile strikes on Kyiv."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "NBC News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/least-three-died-ukraine-drone-attack-moscow-region-governor-says-2026-05-17/",
+        "https://www.nbcnews.com/world/ukraine/ukraine-drones-kill-four-russia-moscow-faces-biggest-attack-year-rcna345529"
+      ]
+    },
+    {
       "headline": "WHO Declares Ebola Outbreak in Congo and Uganda Global Health Emergency",
       "summary": "The World Health Organization designated the Ebola outbreak in Democratic Republic of Congo and Uganda a public health emergency of international concern, with at least 80 deaths reported and no approved vaccines for this strain.",
       "emoji": "🦠",
@@ -321,31 +337,6 @@
       "urls": [
         "https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17/",
         "https://www.bbc.com/news/articles/c2l2p0wwzzdo"
-      ]
-    },
-    {
-      "headline": "Ukraine Drone Attack Kills Four in Moscow's Biggest Strike in Over a Year",
-      "summary": "At least four people were killed after Ukraine launched its largest drone attack on Moscow in more than a year, demonstrating Kyiv's ability to strike targets over 300 miles from the border despite dense Russian air defenses.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/least-three-died-ukraine-drone-attack-moscow-region-governor-says-2026-05-17/",
-      "timestamp": "2026-05-18T02:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/russia-ukraine-drones-moscow-strike-attack-killed-3164d723ca8331e5780ec7942245a2e6",
-          "angle": "Ukraine launches largest drone attack on Moscow in over a year, killing 4",
-          "summary": "Ukraine conducted one of its largest drone strikes of the war, killing at least 4 people near Moscow and wounding 12 others."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/least-three-died-ukraine-drone-attack-moscow-region-governor-says-2026-05-17/",
-        "https://apnews.com/article/russia-ukraine-drones-moscow-strike-attack-killed-3164d723ca8331e5780ec7942245a2e6"
       ]
     },
     {
@@ -866,7 +857,23 @@
       "category": "US-China",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/china-signals-tariff-cuts-advances-farm-market-access-after-trump-xi-summit-2026-05-16/",
-      "timestamp": "2026-05-17T16:07:00+03:00"
+      "timestamp": "2026-05-17T16:07:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/trump-china-trade-tariffs-rare-earth-minerals-cbd2482bd2b3a7ce8d47030c4ff1c3d4",
+          "angle": "US and China Reach Preliminary Deal to Lower Tariffs After Trump-Xi Summit",
+          "summary": "China agreed to billions in additional US farm purchases as both nations struck a preliminary agreement to reduce tariffs on certain goods. The deal leaves major issues unresolved as Trump races against a July deadline for agreements with other trading partners."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/china-signals-tariff-cuts-advances-farm-market-access-after-trump-xi-summit-2026-05-16/",
+        "https://apnews.com/article/trump-china-trade-tariffs-rare-earth-minerals-cbd2482bd2b3a7ce8d47030c4ff1c3d4"
+      ]
     },
     {
       "headline": "South Korea Pursues All Options to Prevent Samsung Strike",
@@ -2383,19 +2390,19 @@
       "timestamp": "2026-05-16T08:05:00+03:00",
       "perspectives": [
         {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/breaking-205-ukrainian-pows-return-from-captivity-in-latest-exchange/",
-          "angle": "Ukraine-Russia Complete Major POW Exchange, 205 Ukrainians Return Home",
-          "summary": "President Zelensky announced 205 Ukrainian prisoners of war returned from Russian captivity in the first phase of a larger \"1,000 for 1,000\" swap agreement. Most returning soldiers had been held for nearly four years since the full-scale invasion began."
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/news/russia-ukraine-accuse-each-other-ceasefire-violations/",
+          "angle": "Russia and Ukraine Accuse Each Other of Violating US-Brokered Ceasefire",
+          "summary": "Both sides claimed casualties from drone and artillery strikes during a three-day ceasefire announced by President Trump. Zelenskyy said Russia was \"not even particularly trying\" to observe the truce, while Ukraine pledged to retaliate against any aggression."
         }
       ],
       "sources": [
         "Reuters",
-        "Kyiv Independent"
+        "CBS News"
       ],
       "urls": [
         "https://www.reuters.com/world/europe/russia-ukraine-swap-205-prisoners-war-each-2026-05-15/",
-        "https://kyivindependent.com/breaking-205-ukrainian-pows-return-from-captivity-in-latest-exchange/"
+        "https://www.cbsnews.com/news/russia-ukraine-accuse-each-other-ceasefire-violations/"
       ]
     },
     {
@@ -2763,83 +2770,6 @@
       "source": "The Hill",
       "url": "https://thehill.com/policy/national-security/5880353-monica-witt-iran-espionage-air-force-fbi-reward/",
       "timestamp": "2026-05-15T22:05:00+03:00"
-    },
-    {
-      "headline": "UN Vehicle Struck Twice by Drones in Ukraine's Kherson Region",
-      "summary": "The UN expressed alarm after a humanitarian vehicle was hit twice by drones in Kherson, calling it a serious incident. The organization is working to establish the facts and has not attributed the attack to either side.",
-      "emoji": "🇺🇳",
-      "category": "Ukraine-Russia War",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/russia-ukraine-war/un-alarmed-after-its-humanitarian-vehicle-struck-twice-by-drones-in-ukraines-kherson/3938994",
-      "timestamp": "2026-05-15T22:05:00+03:00"
-    },
-    {
-      "headline": "German Chancellor Merz Reports Good Call With Trump After Iran Spat",
-      "summary": "Friedrich Merz initiated a phone call with Trump following tensions over Iran policy. Merz, who previously expressed admiration for America, sought to smooth relations after criticizing US actions.",
-      "emoji": "🇩🇪🇺🇸",
-      "category": "Diplomacy",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/15/world/europe/merz-trump-germany-us.html",
-      "timestamp": "2026-05-15T22:03:00+03:00"
-    },
-    {
-      "headline": "US Expects Double-Digit Billions in Chinese Farm Purchases After Summit",
-      "summary": "USTR Jamieson Greer announced China will commit to massive agricultural purchases following the Trump-Xi summit. The deal aims to reduce trade imbalance between the two nations.",
-      "emoji": "🌾💰",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/",
-      "timestamp": "2026-05-15T22:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/",
-          "angle": "US Expects Massive Chinese Farm Purchases After Trump-Xi Summit",
-          "summary": "The US anticipates China will commit to buy double-digit billions worth of American agricultural goods following the Trump-Xi summit in Beijing. Trade Representative Jamieson Greer announced the expected deal as Trump concluded his two-day visit."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/",
-        "https://www.reuters.com/world/asia-pacific/us-expects-agriculture-deal-worth-double-digit-billions-after-trump-xi-summit-2026-05-15/"
-      ]
-    },
-    {
-      "headline": "China Still Slow on Rare Earth Approvals Despite Improvements",
-      "summary": "USTR Greer noted that while rare earth exports to the US are improving, Beijing continues to delay some shipments. Rare earths remain a key point of leverage in US-China trade negotiations.",
-      "emoji": "⛏️🇨🇳",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/china-still-drags-its-feet-rare-earths-sometimes-says-greer-2026-05-15/",
-      "timestamp": "2026-05-15T22:03:00+03:00"
-    },
-    {
-      "headline": "Trump Leaves Beijing With Few Wins But Warm Words for Xi",
-      "summary": "President Trump departed China after two days of talks without major breakthroughs on trade or Iran, but with praise for Xi Jinping. Key issues like Taiwan and AI remain unresolved.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/trump-xi-set-second-day-talks-after-taiwan-warning-2026-05-14/",
-      "timestamp": "2026-05-15T22:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/trump-xi-set-second-day-talks-after-taiwan-warning-2026-05-14/",
-          "angle": "Trump Leaves China With Few Wins Despite Warm Words for Xi",
-          "summary": "President Trump departed Beijing with no major breakthroughs on trade or concrete Chinese help to end the Iran war, despite two days of praising President Xi. The summit emphasized stability but produced limited tangible results."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/trump-xi-set-second-day-talks-after-taiwan-warning-2026-05-14/",
-        "https://www.reuters.com/world/china/trump-xi-set-second-day-talks-after-taiwan-warning-2026-05-14/"
-      ]
     }
   ]
 }
