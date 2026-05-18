@@ -1,19 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
-<title>Frontion News Headlines</title>
-<link>https://frontion.news</link>
-<description>Global Geopolitical News - Tier 1 Sources</description>
+<title>Frontion News - Geopolitical Headlines</title>
+<link>https://frontion.com</link>
+<description>Breaking geopolitical news from Tier 1 sources</description>
 <language>en-us</language>
-<pubDate>Mon, 18 May 2026 19:12:25 +0300</pubDate>
-<lastBuildDate>Mon, 18 May 2026 19:12:25 +0300</lastBuildDate>
+<lastBuildDate>Mon, 18 May 2026 20:05:17 +0300</lastBuildDate>
+
+<item>
+<title>🇵🇰 Pakistan Deploys Fighter Jets and Troops to Saudi Arabia Amid Iran War</title>
+<link>https://www.reuters.com/world/asia-pacific/pakistan-deploys-jet-squadron-thousands-troops-saudi-arabia-during-iran-war-2026-05-18/</link>
+<description>Pakistan is ramping up military cooperation with Riyadh, deploying a jet squadron and thousands of troops, even as Islamabad serves as the main mediator in the Iran-US conflict.</description>
+<category>Middle East</category>
+<dc:source>Reuters</dc:source>
+<pubDate>2026-05-18T20:10:00+03:00</pubDate>
+</item>
+
+<item>
+<title>🇮🇷 Pakistan Conveys New Iranian Peace Proposal to United States</title>
+<link>https://www.reuters.com/world/asia-pacific/pakistan-hands-us-revised-iranian-proposal-ending-war-2026-05-18/</link>
+<description>Iran sent a revised peace proposal to the US via Pakistani mediators with terms similar to previously rejected offers, though a senior Iranian official claims Washington has softened on some issues.</description>
+<category>Diplomacy</category>
+<dc:source>Reuters</dc:source>
+<pubDate>2026-05-18T20:10:00+03:00</pubDate>
+</item>
+
+<item>
+<title>⚠️ Belarus and Russia Conduct Joint Nuclear Weapons Drills</title>
+<link>https://www.reuters.com/world/europe/belarus-holds-nuclear-weapons-drills-defence-ministry-says-2026-05-18/</link>
+<description>Belarus launched military exercises practicing the use of Russian tactical nuclear weapons deployed on its territory, drawing strong condemnation from Ukraine.</description>
+<category>Europe</category>
+<dc:source>Reuters</dc:source>
+<pubDate>2026-05-18T20:10:00+03:00</pubDate>
+</item>
+
+<item>
+<title>🇺🇸🇨🇳 China Commits to $17 Billion in Annual US Agricultural Purchases</title>
+<link>https://www.reuters.com/world/china/what-do-chinas-new-us-farm-purchases-mean-global-trade-2026-05-18/</link>
+<description>Following the Trump-Xi summit in Beijing, China agreed to buy at least $17 billion annually in US farm products for three years, marking a significant trade commitment amid broader diplomatic engagement.</description>
+<category>US-China</category>
+<dc:source>Reuters</dc:source>
+<pubDate>2026-05-18T20:10:00+03:00</pubDate>
+</item>
+
+<item>
+<title>🇺🇦 Ukraine Launches Largest Drone Strike Campaign Against Russia in Over a Year</title>
+<link>https://www.wbur.org/hereandnow/2026/05/18/ukraine-strike-russia</link>
+<description>Ukraine has conducted its biggest strike campaign against Russia in over a year, using long-range drones to target Moscow and bring the war home to Russian territory.</description>
+<category>Ukraine-Russia War</category>
+<dc:source>BBC</dc:source>
+<pubDate>2026-05-18T20:10:00+03:00</pubDate>
+</item>
 
 <item>
 <title>🇺🇦 Russia Strikes Odesa and Dnipro in Overnight Attacks</title>
 <link>https://www.reuters.com/world/europe/russia-hits-ukraines-odesa-dnipro-with-drones-missiles-overnight-officials-say-2026-05-18/</link>
 <description>Russian forces targeted Ukrainian cities of Odesa and Dnipro with missiles and drones, damaging residential buildings and injuring dozens, while Ukrainian drone strikes killed two in Russia.</description>
-<source url="https://www.reuters.com/world/europe/russia-hits-ukraines-odesa-dnipro-with-drones-missiles-overnight-officials-say-2026-05-18/">Reuters</source>
 <category>Ukraine-Russia War</category>
+<dc:source>Reuters</dc:source>
 <pubDate>2026-05-18T19:10:00+03:00</pubDate>
 </item>
 
@@ -21,8 +65,8 @@
 <title>🇷🇺🇨🇳 Kremlin Has High Expectations for Putin's China Visit</title>
 <link>https://www.reuters.com/world/china/kremlin-says-it-has-serious-expectations-putins-trip-china-2026-05-18/</link>
 <description>Russia expressed serious expectations for President Putin's upcoming trip to China this week, where he will meet Xi Jinping to discuss developing their "privileged partnership" amid the Iran war and Ukraine conflict.</description>
-<source url="https://www.reuters.com/world/china/kremlin-says-it-has-serious-expectations-putins-trip-china-2026-05-18/">Reuters</source>
 <category>Diplomacy</category>
+<dc:source>Reuters</dc:source>
 <pubDate>2026-05-18T19:10:00+03:00</pubDate>
 </item>
 
@@ -30,8 +74,8 @@
 <title>🇺🇦🇭🇺 Ukraine and Hungary to Hold Minority Rights Consultations</title>
 <link>https://www.reuters.com/world/ukraine-hungary-agree-hold-consultations-hungarian-minority-ukrainian-fm-says-2026-05-18/</link>
 <description>Kyiv and Budapest agreed to talks about Ukraine's ethnic Hungarian minority rights this week, seeking to rebuild ties following Hungary's government change.</description>
-<source url="https://www.reuters.com/world/ukraine-hungary-agree-hold-consultations-hungarian-minority-ukrainian-fm-says-2026-05-18/">Reuters</source>
 <category>Europe</category>
+<dc:source>Reuters</dc:source>
 <pubDate>2026-05-18T19:10:00+03:00</pubDate>
 </item>
 
@@ -39,17 +83,8 @@
 <title>🇷🇺 Putin Faces Difficult Choices as Sanctions Bite, Estonia Spy Chief Says</title>
 <link>https://www.reuters.com/business/aerospace-defense/putin-faces-very-difficult-choices-ukraine-sanctions-bite-estonias-spy-chief-2026-05-18/</link>
 <description>Estonia's foreign intelligence chief said Russia has few good options in Ukraine as Western sanctions chip away at its resources while its forces cannot advance significantly on the battlefield.</description>
-<source url="https://www.reuters.com/business/aerospace-defense/putin-faces-very-difficult-choices-ukraine-sanctions-bite-estonias-spy-chief-2026-05-18/">Reuters</source>
 <category>Ukraine-Russia War</category>
-<pubDate>2026-05-18T19:10:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🛢️ Oil Prices Jump on Iran War Re-Escalation Fears</title>
-<link>https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/</link>
-<description>Oil prices rose again as diplomatic efforts to end the US-Iran war appeared to stall, with Tehran submitting a revised peace proposal while the US warned of potential renewed military action.</description>
-<source url="https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/">CBS News</source>
-<category>Energy</category>
+<dc:source>Reuters</dc:source>
 <pubDate>2026-05-18T19:10:00+03:00</pubDate>
 </item>
 
@@ -57,8 +92,8 @@
 <title>🇱🇧 Israel-Hezbollah fighting continues despite truce extension</title>
 <link>https://www.reuters.com/world/middle-east/israel-hezbollah-war-persists-despite-truce-extension-lebanons-death-toll-nears-2026-05-18/</link>
 <description>Israel carried out airstrikes in southern Lebanon while Hezbollah announced new attacks on Israeli forces, continuing the conflict despite a U.S.-backed truce extension. Lebanon death toll nears 3,000.</description>
-<source url="https://www.reuters.com/world/middle-east/israel-hezbollah-war-persists-despite-truce-extension-lebanons-death-toll-nears-2026-05-18/">Reuters</source>
 <category>Middle East</category>
+<dc:source>Reuters</dc:source>
 <pubDate>2026-05-18T18:10:00+03:00</pubDate>
 </item>
 
@@ -66,8 +101,8 @@
 <title>💰 Dollar retreats as oil falls on report of US-Iran sanctions waiver</title>
 <link>https://www.reuters.com/world/asia-pacific/dollar-firms-oil-climbs-bond-rout-saps-risk-appetite-2026-05-18/</link>
 <description>The dollar slipped against major currencies as oil prices fell after an Iranian news report indicated the US may waive sanctions on Iranian crude. 10-year Treasury yields withdrew from 15-month highs.</description>
-<source url="https://www.reuters.com/world/asia-pacific/dollar-firms-oil-climbs-bond-rout-saps-risk-appetite-2026-05-18/">Reuters</source>
 <category>Economy</category>
+<dc:source>Reuters</dc:source>
 <pubDate>2026-05-18T18:10:00+03:00</pubDate>
 </item>
 
@@ -75,8 +110,8 @@
 <title>🇭🇷 Croatia Rejects Proposed Israeli Ambassador Over Government Policies</title>
 <link>https://www.aa.com.tr/en/europe/croatian-president-rejects-proposed-israeli-ambassador-over-government-policies/3941221</link>
 <description>Croatian President Milanović says the nominee will not receive approval, citing actions of the current Israeli government and a diplomatic protocol dispute.</description>
-<source url="https://www.aa.com.tr/en/europe/croatian-president-rejects-proposed-israeli-ambassador-over-government-policies/3941221">Anadolu Agency</source>
 <category>Europe</category>
+<dc:source>Anadolu Agency</dc:source>
 <pubDate>2026-05-18T18:05:00+03:00</pubDate>
 </item>
 
@@ -84,8 +119,8 @@
 <title>🇩🇪 Merkel Criticizes EU for Not Talking to Russia on Ukraine</title>
 <link>https://www.politico.eu/article/germany-angela-merkel-eu-russia-ukraine-war/</link>
 <description>Former German Chancellor Angela Merkel said the EU should maintain dialogue with Russia, though she declined to lead such talks herself, in a rare political intervention.</description>
-<source url="https://www.politico.eu/article/germany-angela-merkel-eu-russia-ukraine-war/">Politico</source>
 <category>Europe</category>
+<dc:source>Politico</dc:source>
 <pubDate>2026-05-18T18:05:00+03:00</pubDate>
 </item>
 
@@ -93,8 +128,8 @@
 <title>🇸🇾 Syria Joins G7 Finance Sessions in Paris in Sign of Legitimization</title>
 <link>https://www.jpost.com/middle-east/article-896586</link>
 <description>Syria will participate in closed-door G7 finance minister meetings in Paris, a sign of its growing international status less than two years after the fall of Assad.</description>
-<source url="https://www.jpost.com/middle-east/article-896586">Jerusalem Post</source>
 <category>Diplomacy</category>
+<dc:source>Jerusalem Post</dc:source>
 <pubDate>2026-05-18T18:05:00+03:00</pubDate>
 </item>
 
@@ -102,8 +137,8 @@
 <title>🇮🇷 Iran Establishes New Body to Manage Strait of Hormuz Amid Stalled Talks</title>
 <link>https://www.france24.com/en/iran-sets-up-new-strait-of-hormuz-managing-body-amid-stalled-talks-with-us</link>
 <description>Iran formed the Persian Gulf Strait Authority (PGSA) to manage the vital shipping route as peace negotiations with the US remained deadlocked.</description>
-<source url="https://www.france24.com/en/iran-sets-up-new-strait-of-hormuz-managing-body-amid-stalled-talks-with-us">France 24</source>
 <category>Middle East</category>
+<dc:source>France 24</dc:source>
 <pubDate>2026-05-18T18:05:00+03:00</pubDate>
 </item>
 
@@ -111,8 +146,8 @@
 <title>🇬🇱 Greenland PM Tells US Envoy: Self-Determination Cannot Be Negotiated</title>
 <link>https://www.aa.com.tr/en/europe/us-special-envoy-meets-greenland-s-premier/3940931</link>
 <description>Greenland Prime Minister Jens-Frederik Nielsen met with US special envoy Jeff Landry and reaffirmed that Greenland self-determination is not for negotiation.</description>
-<source url="https://www.aa.com.tr/en/europe/us-special-envoy-meets-greenland-s-premier/3940931">Anadolu Agency</source>
 <category>Arctic</category>
+<dc:source>Anadolu Agency</dc:source>
 <pubDate>2026-05-18T18:05:00+03:00</pubDate>
 </item>
 
@@ -120,8 +155,8 @@
 <title>⚔️ Senior Islamic State Leader Killed in US-Nigeria Joint Operation</title>
 <link>https://www.bbc.co.uk/news/articles/cy72p2kpd03o</link>
 <description>Abu-Bilal al-Minuki, a senior Islamic State leader and head of the General Directorate of States, was killed along with several lieutenants in a strike on his compound in Lake Chad Basin. He was linked to the 2018 Dapchi schoolgirls kidnapping.</description>
-<source url="https://www.bbc.co.uk/news/articles/cy72p2kpd03o">BBC</source>
 <category>Africa</category>
+<dc:source>BBC</dc:source>
 <pubDate>2026-05-18T17:08:00+03:00</pubDate>
 </item>
 
@@ -129,8 +164,8 @@
 <title>🌍 USAID Cuts Linked to Surge in Violence Across Africa, Study Finds</title>
 <link>https://apnews.com/article/africa-usaid-conflict-crisis-0d49ccd215724e783b920bb5e7e92285</link>
 <description>A study published in Science journal found that the abrupt dissolution of USAID last year was followed by a significant increase in violence in African countries that had historically received the most support from the agency.</description>
-<source url="https://apnews.com/article/africa-usaid-conflict-crisis-0d49ccd215724e783b920bb5e7e92285">AP News</source>
 <category>Africa</category>
+<dc:source>AP News</dc:source>
 <pubDate>2026-05-18T17:08:00+03:00</pubDate>
 </item>
 
@@ -138,8 +173,8 @@
 <title>🇨🇳🚢 Russian Drone Strikes Chinese-Linked Cargo Ship Near Odesa</title>
 <link>https://kyivindependent.com/terrible-mistake-as-putin-heads-to-china-russia-hits-chinese-linked-cargo-ship-near-odesa/</link>
 <description>A Russian Shahed drone hit a Chinese-owned bulk carrier in the Black Sea near Odesa, injuring no one but damaging two civilian vessels. The incident comes just before Putin's visit to Beijing to deepen ties with China.</description>
-<source url="https://kyivindependent.com/terrible-mistake-as-putin-heads-to-china-russia-hits-chinese-linked-cargo-ship-near-odesa/">Kyiv Independent</source>
 <category>Ukraine-Russia War</category>
+<dc:source>Kyiv Independent</dc:source>
 <pubDate>2026-05-18T16:12:00+03:00</pubDate>
 </item>
 
@@ -147,8 +182,8 @@
 <title>🇺🇦⚔️ Ukrainian Troops Nearly Cut Off in Northern Pokrovsk</title>
 <link>https://kyivindependent.com/ukrainian-troops-in-northern-pokrovsk-almost-cut-off-as-russian-drones-dominate-logistics-routes-military-says/</link>
 <description>Ukrainian forces in northern Pokrovsk are "almost cut off" as Russian drones dominate logistics routes, making resupply, evacuations, and troop rotations nearly impossible, according to Ukraine's 7th Rapid Response Corps.</description>
-<source url="https://kyivindependent.com/ukrainian-troops-in-northern-pokrovsk-almost-cut-off-as-russian-drones-dominate-logistics-routes-military-says/">Kyiv Independent</source>
 <category>Ukraine-Russia War</category>
+<dc:source>Kyiv Independent</dc:source>
 <pubDate>2026-05-18T16:12:00+03:00</pubDate>
 </item>
 
@@ -156,8 +191,8 @@
 <title>🇺🇦💰 Zelensky's Former Chief of Staff Released on $3 Million Bail</title>
 <link>https://kyivindependent.com/zelenskys-ex-chief-of-staff-released-on-over-3-million-bail-amid-major-corruption-probe/</link>
 <description>Andriy Yermak, former head of Ukraine's presidential office, was released on $3.1 million bail amid a major corruption probe involving money laundering tied to the construction of a luxury cottage complex near Kyiv.</description>
-<source url="https://kyivindependent.com/zelenskys-ex-chief-of-staff-released-on-over-3-million-bail-amid-major-corruption-probe/">Kyiv Independent</source>
 <category>Ukraine-Russia War</category>
+<dc:source>Kyiv Independent</dc:source>
 <pubDate>2026-05-18T16:12:00+03:00</pubDate>
 </item>
 
@@ -165,8 +200,8 @@
 <title>💥 Drone Strike Hits UAE Nuclear Plant as Iran Ceasefire Teeters</title>
 <link>https://fortune.com/2026/05/17/drone-strike-fire-uae-barakah-nuclear-power-plant-iran-war-ceasefire/</link>
 <description>A drone strike targeted the United Arab Emirates Barakah nuclear power plant, sparking a fire on its perimeter. The attack comes as diplomatic efforts to extend the fragile ceasefire between the US and Iran face mounting challenges.</description>
-<source url="https://fortune.com/2026/05/17/drone-strike-fire-uae-barakah-nuclear-power-plant-iran-war-ceasefire/">AP News</source>
 <category>US-Iran War</category>
+<dc:source>AP News</dc:source>
 <pubDate>2026-05-18T16:03:00+03:00</pubDate>
 </item>
 
@@ -174,8 +209,8 @@
 <title>📈 Oil Prices Fall, Wall Street Hits Record as Iran Reopens Strait of Hormuz</title>
 <link>https://apnews.com/article/stock-markets-trump-oil-iran-war-50e10bf2aa9b0b658c51e17db3eb3b13</link>
 <description>Oil prices dropped sharply and US stocks surged to record highs after Iran announced the Strait of Hormuz was open again for commercial tankers. The S&P 500 jumped 1.2% as markets rallied on hopes for de-escalation.</description>
-<source url="https://apnews.com/article/stock-markets-trump-oil-iran-war-50e10bf2aa9b0b658c51e17db3eb3b13">AP News</source>
 <category>Economy</category>
+<dc:source>AP News</dc:source>
 <pubDate>2026-05-18T16:03:00+03:00</pubDate>
 </item>
 
@@ -183,8 +218,8 @@
 <title>🇫🇷 Macron in Kenya for Africa Summit as France Seeks New Continental Partnership</title>
 <link>https://apnews.com/article/kenya-africa-summit-france-macron-ruto-d07479573f56ba6e02ac424cb855f000</link>
 <description>French President Emmanuel Macron kicked off a visit to Kenya for the Africa Forward Summit, showcasing France shift from colonial-era dominance toward partnership with African nations. The summit comes amid Frances withdrawal of troops from West Africa.</description>
-<source url="https://apnews.com/article/kenya-africa-summit-france-macron-ruto-d07479573f56ba6e02ac424cb855f000">AP News</source>
 <category>Diplomacy</category>
+<dc:source>AP News</dc:source>
 <pubDate>2026-05-18T16:03:00+03:00</pubDate>
 </item>
 
@@ -192,44 +227,8 @@
 <title>⛪ Pope Leo to Release First Encyclical on Artificial Intelligence May 25</title>
 <link>https://www.reuters.com/world/europe/pope-leo-issue-first-major-work-addressing-ai-may-25-2026-05-18/</link>
 <description>Pope Leo will release his first in-depth document on May 25, expected to address the rise of artificial intelligence and challenges to workers rights. The encyclical Magnifica Humanitas will be launched with Anthropic co-founder Christopher Olah.</description>
-<source url="https://www.reuters.com/world/europe/pope-leo-issue-first-major-work-addressing-ai-may-25-2026-05-18/">Reuters</source>
 <category>Technology</category>
-<pubDate>2026-05-18T15:03:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🇨🇳 China Economy Slows Sharply as Industrial Output and Retail Sales Disappoint</title>
-<link>https://www.reuters.com/world/china/chinas-economy-slows-april-output-retail-sales-sharply-undershoot-forecasts-2026-05-18/</link>
-<description>China growth lost momentum in April, with industrial output cooling and retail sales sinking to over three-year lows as the second-largest economy grapples with higher energy costs from the Iran war and persistently weak domestic demand.</description>
-<source url="https://www.reuters.com/world/china/chinas-economy-slows-april-output-retail-sales-sharply-undershoot-forecasts-2026-05-18/">Reuters</source>
-<category>Economy</category>
-<pubDate>2026-05-18T15:03:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🇰🇪 Kenya Paralyzed by Nationwide Fuel Protests as Iran War Drives Price Surge</title>
-<link>https://www.reuters.com/world/africa/protests-erupt-over-kenya-fuel-price-hikes-strike-strands-commuters-2026-05-18/</link>
-<description>Protests over fuel price hikes erupted in Kenyan towns, with a nationwide public transport strike stranding commuters and forcing many to walk to work. Demonstrators lit bonfires and barricaded roads amid anger over record fuel costs.</description>
-<source url="https://www.reuters.com/world/africa/protests-erupt-over-kenya-fuel-price-hikes-strike-strands-commuters-2026-05-18/">Reuters</source>
-<category>Africa</category>
-<pubDate>2026-05-18T15:03:00+03:00</pubDate>
-</item>
-
-<item>
-<title>📉 Global Bond Rout Deepens as Iran War Stokes Worldwide Inflation Fears</title>
-<link>https://www.reuters.com/world/europe/global-bond-rout-deepens-inflation-fears-mount-2026-05-18/</link>
-<description>Government bonds from Tokyo to New York extended losses as rising energy prices from the Iran conflict fanned inflation fears and stoked investor wagers on rate hikes from central banks around the world.</description>
-<source url="https://www.reuters.com/world/europe/global-bond-rout-deepens-inflation-fears-mount-2026-05-18/">Reuters</source>
-<category>Economy</category>
-<pubDate>2026-05-18T15:03:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🚢 Hantavirus-Hit Cruise Ship Docks in Netherlands for Disinfection After Deadly Outbreak</title>
-<link>https://www.reuters.com/business/healthcare-pharmaceuticals/hantavirus-hit-cruise-ship-due-arrive-rotterdam-port-final-destination-2026-05-18/</link>
-<description>A luxury polar explorer ship arrived at Rotterdam port where authorities quarantined 27 remaining crew and planned to cremate a German passenger who died. The MV Hondius had been at the center of a deadly hantavirus outbreak during its seven-week voyage.</description>
-<source url="https://www.reuters.com/business/healthcare-pharmaceuticals/hantavirus-hit-cruise-ship-due-arrive-rotterdam-port-final-destination-2026-05-18/">Reuters</source>
-<category>Europe</category>
+<dc:source>Reuters</dc:source>
 <pubDate>2026-05-18T15:03:00+03:00</pubDate>
 </item>
 
