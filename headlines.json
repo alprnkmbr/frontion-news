@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-18T10:05:59+03:00",
+  "lastUpdated": "2026-05-18T10:13:13+03:00",
   "headlines": [
+    {
+      "headline": "Chinese scientists land on disputed Sandy Cay reef as Philippines tensions escalate",
+      "summary": "Beijing researchers landed on the uninhabited South China Sea sandbank over the weekend in the latest assertion of sovereignty claims, amid ongoing territorial disputes with Manila.",
+      "emoji": "🇨🇳",
+      "category": "South China Sea",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3353947/chinese-scientists-land-sandy-cay-reef-tensions-philippines-escalate-once-again",
+      "timestamp": "2026-05-18T10:10:00+03:00"
+    },
+    {
+      "headline": "Report reveals Israel operated second military base in Iraqi desert during Iran war",
+      "summary": "Haaretz reports Israel ran covert outposts in Iraq during the conflict with Iran, expanding its regional military footprint beyond acknowledged operations.",
+      "emoji": "🇮🇱",
+      "category": "Middle East",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-18/ty-article/report-israel-operated-covert-outposts-in-iraq-during-war-with-iran/0000019e-38ea-dc14-a39e-b8fbfad70000",
+      "timestamp": "2026-05-18T10:10:00+03:00"
+    },
+    {
+      "headline": "Austrian jets intercept US military aircraft two days in a row amid airspace tensions",
+      "summary": "Austria scrambled fighter jets to intercept US military planes for the second consecutive day, highlighting growing friction over military flight operations in European airspace.",
+      "emoji": "🇦🇹",
+      "category": "Europe",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/global/europe/2026/05/17/austrian-jets-intercept-us-military-planes-two-days-in-a-row/",
+      "timestamp": "2026-05-18T10:10:00+03:00"
+    },
+    {
+      "headline": "Israels F-35s to get external fuel tanks after extensive Iran combat operations",
+      "summary": "Fresh off combat operations against Iran, Israel is boosting the F-35I Adirs endurance with external fuel tanks to reduce dependence on tanker aircraft for long-range missions.",
+      "emoji": "✈️",
+      "category": "Defense Industry",
+      "source": "The War Zone",
+      "url": "https://www.twz.com/air/israels-f-35s-are-getting-external-fuel-tanks",
+      "timestamp": "2026-05-18T10:10:00+03:00"
+    },
+    {
+      "headline": "Middle East oil crisis has already cost global businesses 25 billion dollars",
+      "summary": "The economic impact of disrupted Hormuz shipments is mounting rapidly, with Brent crude above 111 and companies worldwide scrambling to secure alternative supply chains.",
+      "emoji": "💰",
+      "category": "Energy",
+      "source": "Oil Price",
+      "url": "https://oilprice.com/Energy/Energy-General/The-Middle-East-Oil-Crisis-Has-Already-Cost-Global-Businesses-25-Billion.html",
+      "timestamp": "2026-05-18T10:10:00+03:00"
+    },
     {
       "headline": "WHO Declares Ebola Global Health Emergency in Congo-Uganda Outbreak",
       "summary": "The World Health Organization declared the Ebola outbreak in Democratic Republic of Congo and Uganda a public health emergency of international concern after more than 300 suspected cases and 88 deaths. The CDC confirmed Americans are among those affected.",
@@ -8,7 +53,23 @@
       "category": "Health",
       "source": "AP News",
       "url": "https://apnews.com/article/congo-ebola-uganda-who-africa-emergency-6f93a87ff28107bdda8990599bbcd52d",
-      "timestamp": "2026-05-18T10:03:00+03:00"
+      "timestamp": "2026-05-18T10:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/congo-ebola-uganda-who-africa-emergency-6f93a87ff28107bdda8990599bbcd52d",
+          "angle": "WHO Declares Ebola Outbreak in Congo and Uganda a Global Health Emergency",
+          "summary": "The World Health Organization declared a public health emergency of international concern after over 300 suspected cases and 88 deaths from the Bundibugyo virus variant, which has no approved treatments or vaccines. Cases have spread from Congo to Ugandas capital Kampala."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "AP News"
+      ],
+      "urls": [
+        "https://apnews.com/article/congo-ebola-uganda-who-africa-emergency-6f93a87ff28107bdda8990599bbcd52d",
+        "https://apnews.com/article/congo-ebola-uganda-who-africa-emergency-6f93a87ff28107bdda8990599bbcd52d"
+      ]
     },
     {
       "headline": "China Earthquake Kills Two, Forces Thousands to Evacuate",
@@ -26,25 +87,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/global-bond-rout-deepens-inflation-fears-mount-2026-05-18/",
-      "timestamp": "2026-05-18T10:03:00+03:00"
-    },
-    {
-      "headline": "Iran War Costs Global Companies $25 Billion and Counting",
-      "summary": "A review of corporate statements since the start of the conflict by companies listed in the United States, Europe and Asia reveals the sobering financial fallout, with losses mounting as the war disrupts supply chains and energy markets.",
-      "emoji": "💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/iran-war-saddles-global-companies-with-25-billion-bill-counting-2026-05-18/",
-      "timestamp": "2026-05-18T10:03:00+03:00"
-    },
-    {
-      "headline": "Taiwan President Defends US Arms Purchases After Trump Questions Support",
-      "summary": "Taiwan's president says arms purchases from the United States are crucial for regional stability, after President Donald Trump questioned continued U.S. support for Taiwan following his visit to China.",
-      "emoji": "🇹🇼",
-      "category": "US-China",
-      "source": "AP News",
-      "url": "https://apnews.com/article/taiwan-us-arms-china-trump-9b281ac90e9bcb71aee8011435dec0c2",
-      "timestamp": "2026-05-18T10:03:00+03:00"
+      "timestamp": "2026-05-18T10:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/iran-war-saddles-global-companies-with-25-billion-bill-counting-2026-05-18/",
+          "angle": "Iran War Costs Global Companies $25 Billion and Counting",
+          "summary": "A review of corporate statements since the start of the conflict by companies listed in the United States, Europe and Asia reveals the sobering financial fallout, with losses mounting as the war disrupts supply chains and energy markets."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/global-bond-rout-deepens-inflation-fears-mount-2026-05-18/",
+        "https://www.reuters.com/world/europe/iran-war-saddles-global-companies-with-25-billion-bill-counting-2026-05-18/"
+      ]
     },
     {
       "headline": "Cuba Seeks Russian Drones, Eyes Guantanamo Attack",
@@ -295,6 +354,31 @@
       "timestamp": "2026-05-18T04:03:00+03:00"
     },
     {
+      "headline": "Taiwan President responds to Trump summit: 'We will not be sacrificed'",
+      "summary": "Taiwan President Lai Ching-te pushed back after Trump raised doubts about US arms sales and willingness to defend the island following his Beijing summit with Xi Jinping.",
+      "emoji": "🇹🇼",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/taiwan-independence-means-we-dont-belong-beijing-president-says-2026-05-17/",
+      "timestamp": "2026-05-18T03:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/taiwan-us-arms-china-trump-9b281ac90e9bcb71aee8011435dec0c2",
+          "angle": "Taiwan President Defends US Arms Purchases After Trump Questions Support",
+          "summary": "Taiwan's president says arms purchases from the United States are crucial for regional stability, after President Donald Trump questioned continued U.S. support for Taiwan following his visit to China."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/taiwan-independence-means-we-dont-belong-beijing-president-says-2026-05-17/",
+        "https://apnews.com/article/taiwan-us-arms-china-trump-9b281ac90e9bcb71aee8011435dec0c2"
+      ]
+    },
+    {
       "headline": "Senate parliamentarian blocks $1 billion White House security funding",
       "summary": "The Senate parliamentarian ruled that Republican efforts to allocate funding for Trump's proposed White House ballroom project cannot proceed through budget reconciliation.",
       "emoji": "🏛️",
@@ -317,39 +401,6 @@
       "urls": [
         "https://www.reuters.com/world/us/federal-funding-trumps-ballroom-jeopardy-after-senate-ruling-2026-05-17/",
         "https://apnews.com/article/white-house-ballroom-funding-senate-parliamentarian-republicans-042dc61b41d1163e08ee095e7ffb2e48"
-      ]
-    },
-    {
-      "headline": "Taiwan President responds to Trump summit: 'We will not be sacrificed'",
-      "summary": "Taiwan President Lai Ching-te pushed back after Trump raised doubts about US arms sales and willingness to defend the island following his Beijing summit with Xi Jinping.",
-      "emoji": "🇹🇼",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/taiwan-independence-means-we-dont-belong-beijing-president-says-2026-05-17/",
-      "timestamp": "2026-05-18T03:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/taiwan-independence-means-we-dont-belong-beijing-president-says-2026-05-17/",
-          "angle": "Taiwan President Rejects Being \"Sacrificed,\" Defends US Arms Sales",
-          "summary": "President Lai Ching-te said Taiwan will not be traded away and US arms sales represent a security commitment, responding to Trump comments urging both sides to cool down."
-        },
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cx2132w81jqo",
-          "angle": "Taiwan Insists It Is Independent After Trump Warning From Beijing Summit",
-          "summary": "Taiwan has reaffirmed its independent status after President Trump, fresh from his summit with Chinese leader Xi Jinping in Beijing, warned against a formal declaration of independence by the island. The statement comes amid heightened US-China tensions."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/taiwan-independence-means-we-dont-belong-beijing-president-says-2026-05-17/",
-        "https://www.reuters.com/world/china/taiwan-independence-means-we-dont-belong-beijing-president-says-2026-05-17/",
-        "https://www.bbc.com/news/articles/cx2132w81jqo"
       ]
     },
     {
@@ -1315,15 +1366,6 @@
         "https://www.reuters.com/sports/soccer/north-korean-womens-soccer-club-arrives-south-amid-strained-ties-2026-05-17/",
         "https://www.scmp.com/news/asia/east-asia/article/3353876/north-korean-footballers-arrive-south-match-tickets-sell-out"
       ]
-    },
-    {
-      "headline": "WHO Declares Ebola Outbreak in Congo and Uganda a Global Health Emergency",
-      "summary": "The World Health Organization declared a public health emergency of international concern after over 300 suspected cases and 88 deaths from the Bundibugyo virus variant, which has no approved treatments or vaccines. Cases have spread from Congo to Ugandas capital Kampala.",
-      "emoji": "🦠🌍",
-      "category": "Health",
-      "source": "AP News",
-      "url": "https://apnews.com/article/congo-ebola-uganda-who-africa-emergency-6f93a87ff28107bdda8990599bbcd52d",
-      "timestamp": "2026-05-17T09:03:00+03:00"
     },
     {
       "headline": "Pentagon Cancels Europe Troop Deployment Amid Frustrations With NATO Over Iran War",
@@ -2763,24 +2805,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/greek-operated-tanker-is-among-few-oil-vessels-cross-strait-hormuz-2026-05-15/",
       "timestamp": "2026-05-16T01:05:00+03:00"
-    },
-    {
-      "headline": "India-UAE Sign Strategic Defense Partnership",
-      "summary": "India and the UAE agreed on a strategic defence partnership framework as PM Modi visited Abu Dhabi, deepening ties amid the Iran war with agreements on defence and petroleum cooperation.",
-      "emoji": "🇮🇳🇦🇪",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/india/india-signs-pacts-with-uae-defence-petroleum-during-modis-visit-2026-05-15/",
-      "timestamp": "2026-05-16T01:05:00+03:00"
-    },
-    {
-      "headline": "US Arrests Iraqi Kataib Hezbollah Commander for Plotting Attacks on Jewish Targets",
-      "summary": "The US Justice Department arrested Mohammad Baqer Saad Dawood Al-Saadi, an Iraqi national and Kataib Hezbollah commander, for terrorism on behalf of Iran. He allegedly planned attacks against Jewish sites and US interests.",
-      "emoji": "🇺🇸🇮🇶",
-      "category": "US-Iran War",
-      "source": "Jerusalem Post",
-      "url": "https://www.jpost.com/international/article-896335",
-      "timestamp": "2026-05-16T00:05:00+03:00"
     }
   ]
 }
