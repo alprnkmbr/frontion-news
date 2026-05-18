@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-18T14:07:43+03:00",
+  "lastUpdated": "2026-05-18T15:07:29+03:00",
   "headlines": [
+    {
+      "headline": "China Economy Slows Sharply as Industrial Output and Retail Sales Disappoint",
+      "summary": "China growth lost momentum in April, with industrial output cooling and retail sales sinking to over three-year lows as the second-largest economy grapples with higher energy costs from the Iran war and persistently weak domestic demand.",
+      "emoji": "🇨🇳",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/chinas-economy-slows-april-output-retail-sales-sharply-undershoot-forecasts-2026-05-18/",
+      "timestamp": "2026-05-18T15:03:00+03:00"
+    },
+    {
+      "headline": "Kenya Paralyzed by Nationwide Fuel Protests as Iran War Drives Price Surge",
+      "summary": "Protests over fuel price hikes erupted in Kenyan towns, with a nationwide public transport strike stranding commuters and forcing many to walk to work. Demonstrators lit bonfires and barricaded roads amid anger over record fuel costs.",
+      "emoji": "🇰🇪",
+      "category": "Africa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/africa/protests-erupt-over-kenya-fuel-price-hikes-strike-strands-commuters-2026-05-18/",
+      "timestamp": "2026-05-18T15:03:00+03:00"
+    },
+    {
+      "headline": "Global Bond Rout Deepens as Iran War Stokes Worldwide Inflation Fears",
+      "summary": "Government bonds from Tokyo to New York extended losses as rising energy prices from the Iran conflict fanned inflation fears and stoked investor wagers on rate hikes from central banks around the world.",
+      "emoji": "📉",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/global-bond-rout-deepens-inflation-fears-mount-2026-05-18/",
+      "timestamp": "2026-05-18T15:03:00+03:00"
+    },
+    {
+      "headline": "Pope Leo to Release First Encyclical on Artificial Intelligence May 25",
+      "summary": "Pope Leo will release his first in-depth document on May 25, expected to address the rise of artificial intelligence and challenges to workers rights. The encyclical Magnifica Humanitas will be launched with Anthropic co-founder Christopher Olah.",
+      "emoji": "⛪",
+      "category": "Technology",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/pope-leo-issue-first-major-work-addressing-ai-may-25-2026-05-18/",
+      "timestamp": "2026-05-18T15:03:00+03:00"
+    },
+    {
+      "headline": "Hantavirus-Hit Cruise Ship Docks in Netherlands for Disinfection After Deadly Outbreak",
+      "summary": "A luxury polar explorer ship arrived at Rotterdam port where authorities quarantined 27 remaining crew and planned to cremate a German passenger who died. The MV Hondius had been at the center of a deadly hantavirus outbreak during its seven-week voyage.",
+      "emoji": "🚢",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/hantavirus-hit-cruise-ship-due-arrive-rotterdam-port-final-destination-2026-05-18/",
+      "timestamp": "2026-05-18T15:03:00+03:00"
+    },
     {
       "headline": "Iran Forms New Body to Manage Strait of Hormuz",
       "summary": "Iran's top security council announced the formation of a new authority to manage the strategic Strait of Hormuz, the vital shipping chokepoint that has been closed during the conflict.",
@@ -8,7 +53,23 @@
       "category": "Middle East",
       "source": "Channel News Asia",
       "url": "https://www.channelnewsasia.com/world/iran-hormuz-strait-new-body-manage-us-war-persian-gulf-strait-authority-6127991",
-      "timestamp": "2026-05-18T14:05:00+03:00"
+      "timestamp": "2026-05-18T14:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Firstpost",
+          "url": "https://www.firstpost.com/world/iran-israel-war-live-updates-us-china-talks-trump-middle-east-war-oil-prices-global-impact-explained-liveblog-liveblog-14011959.html",
+          "angle": "Iran Threatens to Block All Military Equipment Through Strait of Hormuz",
+          "summary": "Iran declared it will no longer allow \"enemy\" military equipment through the strategic Strait of Hormuz as tensions escalate with Israel and the US, potentially disrupting global oil shipments."
+        }
+      ],
+      "sources": [
+        "Channel News Asia",
+        "Firstpost"
+      ],
+      "urls": [
+        "https://www.channelnewsasia.com/world/iran-hormuz-strait-new-body-manage-us-war-persian-gulf-strait-authority-6127991",
+        "https://www.firstpost.com/world/iran-israel-war-live-updates-us-china-talks-trump-middle-east-war-oil-prices-global-impact-explained-liveblog-liveblog-14011959.html"
+      ]
     },
     {
       "headline": "IEA Warns Commercial Oil Inventories Depleting Rapidly",
@@ -38,40 +99,29 @@
       "timestamp": "2026-05-18T14:05:00+03:00"
     },
     {
-      "headline": "Drone strikes UAE nuclear plant as US and Iran signal readiness to resume war",
-      "summary": "A drone attack targeted a UAE nuclear facility amid escalating regional tensions, with both Washington and Tehran indicating they are prepared for renewed conflict.",
-      "emoji": "🇦🇪⚔️",
-      "category": "Middle East",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-uae-nuclear-drones-71e7e58f45193b7dee3df28740532a7b",
-      "timestamp": "2026-05-18T14:03:00+03:00"
-    },
-    {
       "headline": "Ukraine launches large-scale drone strikes on Russia, killing 4 and wounding dozens",
       "summary": "A major Ukrainian drone offensive targeted multiple locations inside Russia, resulting in casualties and demonstrating Kyiv's continued capability to strike deep into enemy territory.",
       "emoji": "🇺🇦💥",
       "category": "Ukraine-Russia War",
       "source": "AP News",
       "url": "https://apnews.com/article/russia-ukraine-drones-moscow-strike-attack-killed-3164d723ca8331e5780ec7942245a2e6",
-      "timestamp": "2026-05-18T14:03:00+03:00"
-    },
-    {
-      "headline": "Taiwan president defends US arms purchases after Trump calls them a bargaining chip",
-      "summary": "Taiwan's leader pushed back against criticism from former President Trump, defending the island's military purchases from the US as essential for deterrence against China.",
-      "emoji": "🇹🇼🇺🇸",
-      "category": "US-China",
-      "source": "AP News",
-      "url": "https://apnews.com/article/taiwan-us-arms-china-trump-9b281ac90e9bcb71aee8011435dec0c2",
-      "timestamp": "2026-05-18T14:03:00+03:00"
-    },
-    {
-      "headline": "China agrees to boost US agricultural imports after Trump-Xi summit",
-      "summary": "Beijing committed to increasing purchases of American farm products including beef and poultry following high-level talks between Chinese and US leaders.",
-      "emoji": "🇨🇳🇺🇸💰",
-      "category": "US-China",
-      "source": "AP News",
-      "url": "https://apnews.com/article/trump-xi-china-farmers-trade-soybeans-beef-832bafb5ca0be21e4a1d149c5db56b58",
-      "timestamp": "2026-05-18T14:03:00+03:00"
+      "timestamp": "2026-05-18T14:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "France 24",
+          "url": "https://www.france24.com/en/live-news/20260517-fight-relentlessly-ukraine-commander-vows-strikes-into-russia",
+          "angle": "Ukraine Commander Vows Relentless Strikes Into Russia",
+          "summary": "Ukrainian unmanned forces commander \"Madyar\" says Kyiv will continue targeting Russian defense industry and oil facilities across all of Russia, from the Urals to Siberia, to deprive Moscow of war funding. The statement came before Ukraine launched nearly 600 drones over Russia."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "France 24"
+      ],
+      "urls": [
+        "https://apnews.com/article/russia-ukraine-drones-moscow-strike-attack-killed-3164d723ca8331e5780ec7942245a2e6",
+        "https://www.france24.com/en/live-news/20260517-fight-relentlessly-ukraine-commander-vows-strikes-into-russia"
+      ]
     },
     {
       "headline": "Stocks fall and oil rises after Trump warns Iran that clock is ticking",
@@ -384,8 +434,8 @@
         {
           "source": "AP News",
           "url": "https://apnews.com/article/iran-us-uae-nuclear-drones-71e7e58f45193b7dee3df28740532a7b",
-          "angle": "Drone Strikes UAE Nuclear Plant as US and Iran Signal Readiness to Resume War",
-          "summary": "A drone attack targeted the Barakah nuclear power plant in Abu Dhabi, with UAE authorities blaming Iran or its proxies. The incident comes as both the US and Iran have signaled willingness to return to negotiations amid heightened tensions in the Strait of Hormuz."
+          "angle": "Drone strikes UAE nuclear plant as US and Iran signal readiness to resume war",
+          "summary": "A drone attack targeted a UAE nuclear facility amid escalating regional tensions, with both Washington and Tehran indicating they are prepared for renewed conflict."
         }
       ],
       "sources": [
@@ -513,19 +563,19 @@
       "timestamp": "2026-05-18T03:03:00+03:00",
       "perspectives": [
         {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c7591gq10qko",
-          "angle": "Taiwan President Defends Sovereignty After Trump-Xi Summit",
-          "summary": "President Lai Ching-te stated Taiwan will not provoke conflict nor give up sovereignty, responding to discussions about Taiwan independence during the Trump-Xi meeting in Beijing."
+          "source": "AP News",
+          "url": "https://apnews.com/article/taiwan-us-arms-china-trump-9b281ac90e9bcb71aee8011435dec0c2",
+          "angle": "Taiwan president defends US arms purchases after Trump calls them a bargaining chip",
+          "summary": "Taiwan's leader pushed back against criticism from former President Trump, defending the island's military purchases from the US as essential for deterrence against China."
         }
       ],
       "sources": [
         "Reuters",
-        "BBC"
+        "AP News"
       ],
       "urls": [
         "https://www.reuters.com/world/china/taiwan-independence-means-we-dont-belong-beijing-president-says-2026-05-17/",
-        "https://www.bbc.com/news/articles/c7591gq10qko"
+        "https://apnews.com/article/taiwan-us-arms-china-trump-9b281ac90e9bcb71aee8011435dec0c2"
       ]
     },
     {
@@ -709,6 +759,39 @@
       "timestamp": "2026-05-18T02:03:00+03:00"
     },
     {
+      "headline": "China agrees to buy at least $17 billion in US agricultural products annually",
+      "summary": "The White House announced that China has committed to purchasing at least $17 billion in US agricultural products annually following the Beijing summit between Trump and Xi Jinping. The agreement represents a significant trade concession from Beijing amid ongoing tariff tensions.",
+      "emoji": "🇨🇳",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/china-buy-least-17-billion-us-agricultural-products-annually-white-house-says-2026-05-17/",
+      "timestamp": "2026-05-18T01:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/trump-xi-china-farmers-trade-soybeans-beef-832bafb5ca0be21e4a1d149c5db56b58",
+          "angle": "China agrees to boost US agricultural imports after Trump-Xi summit",
+          "summary": "Beijing committed to increasing purchases of American farm products including beef and poultry following high-level talks between Chinese and US leaders."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/china-signals-tariff-cuts-advances-farm-market-access-after-trump-xi-summit-2026-05-16/",
+          "angle": "China Signals Tariff Cuts After Trump-Xi Summit",
+          "summary": "China and the US agreed to expand agricultural trade through tariff reductions and address non-tariff barriers following the Beijing summit. The agreement marks a potential de-escalation in trade tensions between the two largest economies."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/china-buy-least-17-billion-us-agricultural-products-annually-white-house-says-2026-05-17/",
+        "https://apnews.com/article/trump-xi-china-farmers-trade-soybeans-beef-832bafb5ca0be21e4a1d149c5db56b58",
+        "https://www.reuters.com/world/china/china-signals-tariff-cuts-advances-farm-market-access-after-trump-xi-summit-2026-05-16/"
+      ]
+    },
+    {
       "headline": "Trump warns 'clock is ticking' for Iran as peace negotiations stall",
       "summary": "President Trump issued a stark warning to Iran that 'the clock is ticking' as ceasefire negotiations remain deadlocked. The US and Iran remain at impasse over ending the war, with neither side agreeing to terms for a permanent peace deal.",
       "emoji": "⚠️",
@@ -731,31 +814,6 @@
       "urls": [
         "https://www.reuters.com/world/middle-east/israel-q1-gdp-shrinks-33-annualised-iran-war-weighs-2026-05-17/",
         "https://www.bbc.com/news/articles/cd0p4y9y48xo"
-      ]
-    },
-    {
-      "headline": "China agrees to buy at least $17 billion in US agricultural products annually",
-      "summary": "The White House announced that China has committed to purchasing at least $17 billion in US agricultural products annually following the Beijing summit between Trump and Xi Jinping. The agreement represents a significant trade concession from Beijing amid ongoing tariff tensions.",
-      "emoji": "🇨🇳",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/china-buy-least-17-billion-us-agricultural-products-annually-white-house-says-2026-05-17/",
-      "timestamp": "2026-05-18T01:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks",
-          "angle": "China to Buy Billions in US Agricultural Products After Trump-Xi Talks",
-          "summary": "China agreed to purchase at least $17 billion annually in US agricultural products including beef and poultry following the Trump-Xi summit, marking a trade breakthrough amid broader tensions."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/china-buy-least-17-billion-us-agricultural-products-annually-white-house-says-2026-05-17/",
-        "https://www.aljazeera.com/economy/2026/5/18/us-says-china-to-buy-billions-in-agricultural-goods-after-trump-xi-talks"
       ]
     },
     {
@@ -897,15 +955,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/trump-meet-us-security-advisers-tuesday-axios-reports-2026-05-17/",
       "timestamp": "2026-05-17T22:03:00+03:00"
-    },
-    {
-      "headline": "Ukraine Commander Vows Relentless Strikes Into Russia",
-      "summary": "Ukrainian unmanned forces commander \"Madyar\" says Kyiv will continue targeting Russian defense industry and oil facilities across all of Russia, from the Urals to Siberia, to deprive Moscow of war funding. The statement came before Ukraine launched nearly 600 drones over Russia.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/live-news/20260517-fight-relentlessly-ukraine-commander-vows-strikes-into-russia",
-      "timestamp": "2026-05-17T20:05:00+03:00"
     },
     {
       "headline": "IDF Reports Shortage of 12,000 Troops Amid Multi-Front War",
@@ -1173,31 +1222,6 @@
       "source": "Al Arabiya",
       "url": "https://english.alarabiya.net/News/world/2026/05/17/us-assesses-drone-threat-from-cuba-report-",
       "timestamp": "2026-05-17T16:08:00+03:00"
-    },
-    {
-      "headline": "China Signals Tariff Cuts After Trump-Xi Summit",
-      "summary": "China and the US agreed to expand agricultural trade through tariff reductions and address non-tariff barriers following the Beijing summit. The agreement marks a potential de-escalation in trade tensions between the two largest economies.",
-      "emoji": "🇨🇳🇺🇸",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/china-signals-tariff-cuts-advances-farm-market-access-after-trump-xi-summit-2026-05-16/",
-      "timestamp": "2026-05-17T16:07:00+03:00",
-      "perspectives": [
-        {
-          "source": "CNBC",
-          "url": "https://www.cnbc.com/2026/05/16/china-signals-tariff-cuts-advances-in-farm-market-access-after-trump-xi-summit.html",
-          "angle": "China signals tariff cuts and farm market access after Trump-Xi summit",
-          "summary": "China and the US agreed to expand agricultural trade through tariff reductions and address non-tariff barriers, with China granting five-year registration extensions to 425 US beef plants and signaling potential 10% cuts in soybean tariffs following the Beijing summit."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "CNBC"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/china-signals-tariff-cuts-advances-farm-market-access-after-trump-xi-summit-2026-05-16/",
-        "https://www.cnbc.com/2026/05/16/china-signals-tariff-cuts-advances-in-farm-market-access-after-trump-xi-summit.html"
-      ]
     },
     {
       "headline": "South Korea Pursues All Options to Prevent Samsung Strike",
@@ -1470,15 +1494,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/kyiv-russia-attack-couple-killed-8283434fbf298047fd9bb973244cfd94",
       "timestamp": "2026-05-17T11:03:00+03:00"
-    },
-    {
-      "headline": "Iran Threatens to Block All Military Equipment Through Strait of Hormuz",
-      "summary": "Iran declared it will no longer allow \"enemy\" military equipment through the strategic Strait of Hormuz as tensions escalate with Israel and the US, potentially disrupting global oil shipments.",
-      "emoji": "🇮🇷",
-      "category": "Middle East",
-      "source": "Firstpost",
-      "url": "https://www.firstpost.com/world/iran-israel-war-live-updates-us-china-talks-trump-middle-east-war-oil-prices-global-impact-explained-liveblog-liveblog-14011959.html",
-      "timestamp": "2026-05-17T10:06:00+03:00"
     },
     {
       "headline": "India Raises CNG Prices for Second Day Amid Iran War Economic Fallout",
@@ -2798,49 +2813,6 @@
       "source": "DW",
       "url": "https://www.dw.com/en/latvia-prime-minister-evika-silina-resigns-over-handling-of-drone-incidents-after-coalition-allys-withdrawal/a-77159518",
       "timestamp": "2026-05-16T05:03:00+03:00"
-    },
-    {
-      "headline": "Putin declares Ukraine conflict coming to an end after scaled-back Victory Day",
-      "summary": "Russian President Vladimir Putin suggested the war in Ukraine could be ending, speaking after a muted Victory Day parade that lacked military hardware due to fears of Ukrainian attacks. He said he would only meet Zelenskyy once a lasting peace deal is agreed.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cn8p4j2jzwwo",
-      "timestamp": "2026-05-16T05:03:00+03:00"
-    },
-    {
-      "headline": "Europe faces defense industry hurdles despite new political will on spending",
-      "summary": "European NATO allies are finding that boosting defense spending is easier said than done. Decades of reliance on US equipment and fragmented national defense industries pose major obstacles to achieving military self-sufficiency.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://apnews.com/article/europe-nato-defense-trump-war-russia-ukraine-b8d2097ab505e8e98ba08183bd181811",
-      "timestamp": "2026-05-16T05:03:00+03:00"
-    },
-    {
-      "headline": "Pentagon Halts Troop Deployments to Poland and Germany",
-      "summary": "The Pentagon is drawing down thousands of troops in Europe by canceling planned deployments to Poland and Germany. The move has drawn bipartisan criticism from US lawmakers concerned about signaling weakness to Russia.",
-      "emoji": "🇺🇸",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://apnews.com/article/pentagon-europe-troops-poland-germany-2026-05-15/",
-      "timestamp": "2026-05-16T04:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/us-stops-poland-troop-deployment-after-germany-pullout-order/a-77177920",
-          "angle": "US Halts Poland Troop Deployment After Germany Withdrawal Order",
-          "summary": "The Pentagon has stopped the deployment of 4,000 troops to Poland following Trump administration orders to pull thousands of soldiers from Germany. The move comes amid tensions over Chancellor Merz comments on US handling of Iran."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "DW"
-      ],
-      "urls": [
-        "https://apnews.com/article/pentagon-europe-troops-poland-germany-2026-05-15/",
-        "https://www.dw.com/en/us-stops-poland-troop-deployment-after-germany-pullout-order/a-77177920"
-      ]
     }
   ]
 }
