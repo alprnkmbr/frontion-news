@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-18T21:06:56+03:00",
+  "lastUpdated": "2026-05-18T22:05:14+03:00",
   "headlines": [
+    {
+      "headline": "Bolivia faces largest protests in decades as Evo Morales supporters join movement",
+      "summary": "Followers of former President Evo Morales have joined massive protests against President Rodrigo Paz, marking the biggest challenge to Bolivia's first conservative leader after nearly two decades of socialist rule. The protests are fueled by the nation's worst economic crisis in a generation.",
+      "emoji": "🇧🇴",
+      "category": "Latin America",
+      "source": "AP News",
+      "url": "https://apnews.com/article/bolivia-evo-morales-rodrigo-paz-protests-road-blocks-argentina-b314f835b1c074efa8073921c2f04360",
+      "timestamp": "2026-05-18T22:03:00+03:00"
+    },
+    {
+      "headline": "US demands major role in Greenland through closed-door negotiations",
+      "summary": "Confidential talks between the US, Greenland, and Denmark reveal American demands for indefinite military presence and veto power over major investment deals in Greenland, aimed at countering Russian and Chinese influence in the Arctic. Greenlandic officials fear the demands would compromise their sovereignty for generations.",
+      "emoji": "🇬🇱",
+      "category": "Arctic",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/18/world/europe/in-closed-door-talks-us-demands-a-major-role-in-greenland.html",
+      "timestamp": "2026-05-18T22:03:00+03:00"
+    },
+    {
+      "headline": "Iran threatens permit system for internet cables through Strait of Hormuz",
+      "summary": "Iran's Revolutionary Guard announced that fiber-optic internet cables passing through the Strait of Hormuz could be brought under a permit system as Tehran tightens control over the strategic waterway, further escalating tensions in the ongoing conflict with the US and Israel.",
+      "emoji": "🇮🇷",
+      "category": "US-Iran War",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/",
+      "timestamp": "2026-05-18T22:03:00+03:00"
+    },
+    {
+      "headline": "Drone strike targets UAE nuclear power plant amid Iran conflict tensions",
+      "summary": "A drone strike hit the Barakah nuclear power plant in the UAE, setting an electrical generator on fire. No one claimed responsibility, but suspicion fell on Iran as regional tensions remain high. Nuclear safety experts warn that nuclear facilities must not be targets in conflicts.",
+      "emoji": "🇦🇪",
+      "category": "Middle East",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/",
+      "timestamp": "2026-05-18T22:03:00+03:00"
+    },
     {
       "headline": "US-Iran Standoff Deepens as Neither Side Bends",
       "summary": "Three months after the US-Israel attack on Iran, a US blockade and Tehran's grip on the Strait of Hormuz have created a deadlock with neither side willing to compromise, raising the risk of renewed war.",
@@ -8,15 +44,6 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/no-deal-no-exit-how-us-iran-standoff-risks-fresh-conflict-2026-05-18/",
-      "timestamp": "2026-05-18T21:03:00+03:00"
-    },
-    {
-      "headline": "US and Israel Prepare for Possible Renewal of War with Iran",
-      "summary": "US military cargo planes and aerial refueling jets have been visible over Tel Aviv daily since the ceasefire, as both nations prepare for potential resumption of full-scale conflict with Iran.",
-      "emoji": "⚔️",
-      "category": "US-Iran War",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/18/g-s1-122596/the-u-s-and-israel-are-preparing-for-possible-renewal-of-full-scale-war-with-iran",
       "timestamp": "2026-05-18T21:03:00+03:00"
     },
     {
@@ -584,7 +611,31 @@
       "category": "US-Iran War",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html",
-      "timestamp": "2026-05-18T13:03:00+03:00"
+      "timestamp": "2026-05-18T13:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/05/18/g-s1-122596/the-u-s-and-israel-are-preparing-for-possible-renewal-of-full-scale-war-with-iran",
+          "angle": "US and Israel Prepare for Possible Renewal of War with Iran",
+          "summary": "US military cargo planes and aerial refueling jets have been visible over Tel Aviv daily since the ceasefire, as both nations prepare for potential resumption of full-scale conflict with Iran."
+        },
+        {
+          "source": "Haaretz",
+          "url": "https://www.haaretz.com/us-news/2026-05-16/ty-article/report-u-s-and-israel-preparing-for-possible-renewal-of-strikes-on-iran/0000019e-2f57-d618-adde-3f77ed4c0000",
+          "angle": "US-Israel Preparing for Possible Renewal of Strikes on Iran, Report Says",
+          "summary": "Haaretz reports preparations underway for potential new strikes against Iranian targets as diplomatic negotiations remain stalled."
+        }
+      ],
+      "sources": [
+        "New York Times",
+        "NPR",
+        "Haaretz"
+      ],
+      "urls": [
+        "https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html",
+        "https://www.npr.org/2026/05/18/g-s1-122596/the-u-s-and-israel-are-preparing-for-possible-renewal-of-full-scale-war-with-iran",
+        "https://www.haaretz.com/us-news/2026-05-16/ty-article/report-u-s-and-israel-preparing-for-possible-renewal-of-strikes-on-iran/0000019e-2f57-d618-adde-3f77ed4c0000"
+      ]
     },
     {
       "headline": "Israeli Navy Intercepts Gaza-Bound Flotilla in International Waters",
@@ -2533,15 +2584,6 @@
       ]
     },
     {
-      "headline": "US-Israel Preparing for Possible Renewal of Strikes on Iran, Report Says",
-      "summary": "Haaretz reports preparations underway for potential new strikes against Iranian targets as diplomatic negotiations remain stalled.",
-      "emoji": "🇺🇸🇮🇱🇮🇷",
-      "category": "US-Iran War",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/us-news/2026-05-16/ty-article/report-u-s-and-israel-preparing-for-possible-renewal-of-strikes-on-iran/0000019e-2f57-d618-adde-3f77ed4c0000",
-      "timestamp": "2026-05-16T20:05:00+03:00"
-    },
-    {
       "headline": "Zelenskiy Warns Russia May Attack NATO from Belarus",
       "summary": "Ukraine's president says Moscow is seeking to draw Belarus deeper into the war and weighing plans to attack Ukraine's north or a NATO country from Belarusian territory.",
       "emoji": "⚠️",
@@ -2810,57 +2852,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/finance/chinese-officials-meet-citigroup-goldman-chiefs-beijing-2026-05-16/",
       "timestamp": "2026-05-16T11:03:00+03:00"
-    },
-    {
-      "headline": "Sarmat ICBM Has No Analogues, Can Penetrate Any Defense System",
-      "summary": "Russian Deputy Foreign Minister Sergey Ryabkov stated that the Sarmat missile system can penetrate both existing and any missile defense systems still in development.",
-      "emoji": "⚔️🇷🇺",
-      "category": "Defense Industry",
-      "source": "TASS",
-      "url": "https://tass.com/politics/2131757",
-      "timestamp": "2026-05-16T11:00:00+03:00"
-    },
-    {
-      "headline": "Kurdish Groups Reject Syrias Allocation of Only 4 Parliament Seats",
-      "summary": "Syrian Kurdish groups rejected the allocation of only four seats for Kurds in Syrias 210-member parliament, calling the representation inadequate.",
-      "emoji": "🇸🇾",
-      "category": "Middle East",
-      "source": "Asharq Al-Awsat",
-      "url": "https://english.aawsat.com/arab-world/5273780-kurdish-groups-reject-allocation-only-4-seats-them-syria-parliament",
-      "timestamp": "2026-05-16T10:30:00+03:00"
-    },
-    {
-      "headline": "Iran FM Says Trust Is Main Obstacle in Nuclear Talks With US",
-      "summary": "Iran's foreign minister Abbas Araghchi said a lack of trust is the biggest obstacle in negotiations to end the war with the US, expressing openness to diplomatic help from China. He acknowledged that enriched uranium discussions have hit a deadlock.",
-      "emoji": "🇮🇷⚖️",
-      "category": "US-Iran War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-israel-war-trump-oil-hormuz-5a1d5142470e0de7349c409e2d566fce",
-      "timestamp": "2026-05-16T10:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/iran-us-israel-war-trump-oil-hormuz-5a1d5142470e0de7349c409e2d566fce",
-          "angle": "Iran FM says trust deficit main obstacle in US negotiations",
-          "summary": "Iranian Foreign Minister Abbas Araghchi stated that Tehran cannot trust the US and would only negotiate if Washington shows seriousness, during a press conference in New Delhi following a BRICS meeting."
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/5/15/araghchi_iran_doubts_us_seriousness_about_talks_amid_nuclear_deadlock",
-          "angle": "Iran doubts US seriousness about nuclear talks amid deadlock",
-          "summary": "Iran Foreign Minister Abbas Araghchi expressed distrust of US intentions regarding war negotiations, saying enriched uranium remains a point of deadlock in any potential talks."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "AP News",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://apnews.com/article/iran-us-israel-war-trump-oil-hormuz-5a1d5142470e0de7349c409e2d566fce",
-        "https://apnews.com/article/iran-us-israel-war-trump-oil-hormuz-5a1d5142470e0de7349c409e2d566fce",
-        "https://www.aljazeera.com/news/2026/5/15/araghchi_iran_doubts_us_seriousness_about_talks_amid_nuclear_deadlock"
-      ]
     }
   ]
 }
