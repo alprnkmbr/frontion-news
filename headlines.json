@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-18T10:13:13+03:00",
+  "lastUpdated": "2026-05-18T11:05:50+03:00",
   "headlines": [
+    {
+      "headline": "Major Media Outlets Demand Israel Allow Independent Journalists Into Gaza",
+      "summary": "Leaders of major media organizations are urging Israel to lift a ban preventing foreign journalists from independently entering Gaza, citing press freedom and public's right to know.",
+      "emoji": "📰",
+      "category": "Middle East",
+      "source": "AP News",
+      "url": "https://apnews.com/article/gaza-israel-journalists-coverage-access-war-zone-0b3e72a7d73e211944fb5ff1c9d5d645",
+      "timestamp": "2026-05-18T11:03:00+03:00"
+    },
+    {
+      "headline": "Ukrainian Drone Strike Kills At Least 4 in Russia, One of Largest Attacks Since War Began",
+      "summary": "Russian defenses shot down 81 drones headed for Moscow overnight, in one of the largest Ukrainian drone strikes on Russian territory since the conflict started. At least 4 people were killed.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/ukrainian-drone-strikes-russia-deaths/",
+      "timestamp": "2026-05-18T11:03:00+03:00"
+    },
+    {
+      "headline": "Taiwan President Defends US Arms Purchases After Trump Questions Support",
+      "summary": "Taiwan's president stated that arms purchases from the United States are crucial for regional stability, responding to President Donald Trump's questioning of continued US support following his visit to China.",
+      "emoji": "🇹🇼",
+      "category": "US-China",
+      "source": "AP News",
+      "url": "https://apnews.com/article/taiwan-us-arms-china-trump-9b281ac90e9bcb71aee8011435dec0c2",
+      "timestamp": "2026-05-18T11:03:00+03:00"
+    },
+    {
+      "headline": "Australian Workers to Strike at Inpex LNG Facility Amid Global Energy Crisis",
+      "summary": "A union in Australia announced workers will strike at Inpex's Ichthys LNG facility from May 27, a move that could worsen already tight global energy supplies as Middle East tensions continue.",
+      "emoji": "🇦🇺",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/world-at-work/australia-union-says-workers-strike-inpex-lng-facility-may-27-2026-05-18/",
+      "timestamp": "2026-05-18T11:03:00+03:00"
+    },
+    {
+      "headline": "Global Bond Markets Hit by Stagflationary Shock Fears Over Soaring Oil Prices",
+      "summary": "Bond markets are selling off as investors fear a \"stagflationary shock\" from higher oil prices driven by the Iran conflict, with yields rising across major economies.",
+      "emoji": "📈",
+      "category": "Economy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/live/2026/may/18/bond-market-rout-inflation-fears-gilts-yields-burnham-imf-reeves-live-updates?filterKeyEvents=false",
+      "timestamp": "2026-05-18T11:03:00+03:00"
+    },
     {
       "headline": "Chinese scientists land on disputed Sandy Cay reef as Philippines tensions escalate",
       "summary": "Beijing researchers landed on the uninhabited South China Sea sandbank over the weekend in the latest assertion of sovereignty claims, amid ongoing territorial disputes with Manila.",
@@ -8,15 +53,6 @@
       "category": "South China Sea",
       "source": "SCMP",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3353947/chinese-scientists-land-sandy-cay-reef-tensions-philippines-escalate-once-again",
-      "timestamp": "2026-05-18T10:10:00+03:00"
-    },
-    {
-      "headline": "Report reveals Israel operated second military base in Iraqi desert during Iran war",
-      "summary": "Haaretz reports Israel ran covert outposts in Iraq during the conflict with Iran, expanding its regional military footprint beyond acknowledged operations.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-18/ty-article/report-israel-operated-covert-outposts-in-iraq-during-war-with-iran/0000019e-38ea-dc14-a39e-b8fbfad70000",
       "timestamp": "2026-05-18T10:10:00+03:00"
     },
     {
@@ -44,7 +80,23 @@
       "category": "Energy",
       "source": "Oil Price",
       "url": "https://oilprice.com/Energy/Energy-General/The-Middle-East-Oil-Crisis-Has-Already-Cost-Global-Businesses-25-Billion.html",
-      "timestamp": "2026-05-18T10:10:00+03:00"
+      "timestamp": "2026-05-18T10:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Oil Price",
+          "url": "https://oilprice.com/Energy/Oil-Prices/200-Oil-No-Longer-Crazy-Idea-as-Middle-East-Supply-Collapses.html",
+          "angle": "$200 Oil No Longer Unthinkable as Middle East Supply Collapses",
+          "summary": "Middle East oil exports have fallen by 7-10 million bpd, creating severe physical shortages. Analysts warn prices could surge to $150-$200+ per barrel if disruptions persist, with recovery expected to be slow even if conflict ends."
+        }
+      ],
+      "sources": [
+        "Oil Price",
+        "Oil Price"
+      ],
+      "urls": [
+        "https://oilprice.com/Energy/Energy-General/The-Middle-East-Oil-Crisis-Has-Already-Cost-Global-Businesses-25-Billion.html",
+        "https://oilprice.com/Energy/Oil-Prices/200-Oil-No-Longer-Crazy-Idea-as-Middle-East-Supply-Collapses.html"
+      ]
     },
     {
       "headline": "WHO Declares Ebola Global Health Emergency in Congo-Uganda Outbreak",
@@ -689,21 +741,37 @@
       "timestamp": "2026-05-17T22:05:00+03:00"
     },
     {
-      "headline": "US Intelligence Warns of Cuban Drone Threat to Guantanamo Bay",
-      "summary": "Classified intelligence reports Cuba has acquired over 300 military drones and discussed plans to attack the US base at Guantanamo Bay, US naval vessels, and potentially Key West, Florida.",
-      "emoji": "🇨🇺",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/americas/us-assesses-drone-threat-cuba-axios-reports-2026-05-17/",
-      "timestamp": "2026-05-17T22:03:00+03:00"
-    },
-    {
       "headline": "Israel Economy Contracts in Q1 as Iran War Takes Toll",
       "summary": "Israels economy shrank at an annualized 3.3% in the first quarter, hit by the war with Iran, but growth is expected to recover if the conflict does not reignite.",
       "emoji": "🇮🇱",
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/israel-q1-gdp-shrinks-33-annualised-iran-war-weighs-2026-05-17/",
+      "timestamp": "2026-05-17T22:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Haaretz",
+          "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-18/ty-article/report-israel-operated-covert-outposts-in-iraq-during-war-with-iran/0000019e-38ea-dc14-a39e-b8fbfad70000",
+          "angle": "Report reveals Israel operated second military base in Iraqi desert during Iran war",
+          "summary": "Haaretz reports Israel ran covert outposts in Iraq during the conflict with Iran, expanding its regional military footprint beyond acknowledged operations."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Haaretz"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/israel-q1-gdp-shrinks-33-annualised-iran-war-weighs-2026-05-17/",
+        "https://www.haaretz.com/israel-news/israel-security/2026-05-18/ty-article/report-israel-operated-covert-outposts-in-iraq-during-war-with-iran/0000019e-38ea-dc14-a39e-b8fbfad70000"
+      ]
+    },
+    {
+      "headline": "US Intelligence Warns of Cuban Drone Threat to Guantanamo Bay",
+      "summary": "Classified intelligence reports Cuba has acquired over 300 military drones and discussed plans to attack the US base at Guantanamo Bay, US naval vessels, and potentially Key West, Florida.",
+      "emoji": "🇨🇺",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/americas/us-assesses-drone-threat-cuba-axios-reports-2026-05-17/",
       "timestamp": "2026-05-17T22:03:00+03:00"
     },
     {
@@ -1622,15 +1690,6 @@
       "category": "US Politics",
       "source": "France 24",
       "url": "https://www.france24.com/en/live-news/20260516-israel-could-wean-itself-off-us-defence-aid-but-not-yet",
-      "timestamp": "2026-05-17T04:05:00+03:00"
-    },
-    {
-      "headline": "$200 Oil No Longer Unthinkable as Middle East Supply Collapses",
-      "summary": "Middle East oil exports have fallen by 7-10 million bpd, creating severe physical shortages. Analysts warn prices could surge to $150-$200+ per barrel if disruptions persist, with recovery expected to be slow even if conflict ends.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Oil Price",
-      "url": "https://oilprice.com/Energy/Oil-Prices/200-Oil-No-Longer-Crazy-Idea-as-Middle-East-Supply-Collapses.html",
       "timestamp": "2026-05-17T04:05:00+03:00"
     },
     {
@@ -2762,49 +2821,6 @@
         "https://www.reuters.com/world/middle-east/oil-rises-fears-ship-attacks-seizures-persist-2026-05-15/",
         "https://www.reuters.com/world/middle-east/oil-rises-fears-ship-attacks-seizures-persist-2026-05-15/"
       ]
-    },
-    {
-      "headline": "Venezuela launches massive sovereign debt restructuring",
-      "summary": "Venezuela began a comprehensive public debt restructuring, one of the largest and most complex sovereign reworks on record. The country still faces major hurdles to complete the process after years of economic crisis and sanctions.",
-      "emoji": "🇻🇪",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/finance/venezuela-starts-giant-debt-rework-hurdles-remain-2026-05-15/",
-      "timestamp": "2026-05-16T02:05:00+03:00"
-    },
-    {
-      "headline": "Merz: Would Advise Children Against Living in US",
-      "summary": "German Chancellor Friedrich Merz said he would advise his children against living or studying in the United States, citing a rapidly changing social climate and limited opportunities even for the highly educated.",
-      "emoji": "🇩🇪🇺🇸",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/germanys-merz-i-wouldnt-advise-my-children-live-us-2026-05-15/",
-      "timestamp": "2026-05-16T01:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/may/15/friedrich-merz-germany-children-study-work-us-politics",
-          "angle": "German Chancellor Merz Would Not Advise Children to Go to US",
-          "summary": "Chancellor Friedrich Merz said he would not advise his children to study or work in the United States, no longer viewing the country as a land of opportunity amid its polarized political climate."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "The Guardian"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/germanys-merz-i-wouldnt-advise-my-children-live-us-2026-05-15/",
-        "https://www.theguardian.com/world/2026/may/15/friedrich-merz-germany-children-study-work-us-politics"
-      ]
-    },
-    {
-      "headline": "Greek Tanker Crosses Hormuz Amid Gulf Shipping Disruption",
-      "summary": "A Greek-operated tanker sailed from the Gulf to India, one of the few crude sailings through the Strait of Hormuz this week as most shipping remains disrupted by the Iran conflict.",
-      "emoji": "🛢️🚢",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/greek-operated-tanker-is-among-few-oil-vessels-cross-strait-hormuz-2026-05-15/",
-      "timestamp": "2026-05-16T01:05:00+03:00"
     }
   ]
 }
