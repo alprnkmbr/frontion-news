@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-18T16:08:53+03:00",
+  "lastUpdated": "2026-05-18T16:12:59+03:00",
   "headlines": [
     {
-      "headline": "WHO Declares Ebola Outbreak in Congo-Uganda a Global Health Emergency",
-      "summary": "The World Health Organization declared the Ebola outbreak in Democratic Republic of Congo and Uganda a public health emergency of international concern. Over 300 suspected cases and 88 deaths have been reported, with confirmed cases spreading to major cities including Kinshasa and Goma.",
-      "emoji": "🦠",
-      "category": "Africa",
-      "source": "AP News",
-      "url": "https://apnews.com/article/congo-ebola-uganda-who-africa-emergency-6f93a87ff28107bdda8990599bbcd52d",
-      "timestamp": "2026-05-18T16:03:00+03:00"
+      "headline": "Russian Drone Strikes Chinese-Linked Cargo Ship Near Odesa",
+      "summary": "A Russian Shahed drone hit a Chinese-owned bulk carrier in the Black Sea near Odesa, injuring no one but damaging two civilian vessels. The incident comes just before Putin's visit to Beijing to deepen ties with China.",
+      "emoji": "🇨🇳🚢",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/terrible-mistake-as-putin-heads-to-china-russia-hits-chinese-linked-cargo-ship-near-odesa/",
+      "timestamp": "2026-05-18T16:12:00+03:00"
+    },
+    {
+      "headline": "Ukrainian Troops Nearly Cut Off in Northern Pokrovsk",
+      "summary": "Ukrainian forces in northern Pokrovsk are \"almost cut off\" as Russian drones dominate logistics routes, making resupply, evacuations, and troop rotations nearly impossible, according to Ukraine's 7th Rapid Response Corps.",
+      "emoji": "🇺🇦⚔️",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/ukrainian-troops-in-northern-pokrovsk-almost-cut-off-as-russian-drones-dominate-logistics-routes-military-says/",
+      "timestamp": "2026-05-18T16:12:00+03:00"
+    },
+    {
+      "headline": "Zelensky's Former Chief of Staff Released on $3 Million Bail",
+      "summary": "Andriy Yermak, former head of Ukraine's presidential office, was released on $3.1 million bail amid a major corruption probe involving money laundering tied to the construction of a luxury cottage complex near Kyiv.",
+      "emoji": "🇺🇦💰",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/zelenskys-ex-chief-of-staff-released-on-over-3-million-bail-amid-major-corruption-probe/",
+      "timestamp": "2026-05-18T16:12:00+03:00"
+    },
+    {
+      "headline": "US Navy Growler Jets Collide During Idaho Air Show",
+      "summary": "Two EA-18G Growler electronic warfare jets collided during an air show in Idaho, with all four crew members ejecting safely as the aircraft plummeted to the ground.",
+      "emoji": "✈️💥",
+      "category": "Military",
+      "source": "The War Zone",
+      "url": "https://www.twz.com/air/navy-e-a-18g-growlers-collide-at-idaho-air-show",
+      "timestamp": "2026-05-18T16:12:00+03:00"
+    },
+    {
+      "headline": "Ukraine Breaches Moscow Air Defenses in Largest Drone Attack",
+      "summary": "Ukraine launched over 1,300 drones at Russia in its biggest attack on Moscow in over a year, penetrating the capital's heavy air defenses and signaling a shift in battlefield momentum.",
+      "emoji": "🇺🇦🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "Politico",
+      "url": "https://www.politico.eu/article/ukraine-breaches-russia-strongest-air-defenses-drone-attack-hits-moscow/",
+      "timestamp": "2026-05-18T16:12:00+03:00"
     },
     {
       "headline": "Drone Strike Hits UAE Nuclear Plant as Iran Ceasefire Teeters",
@@ -17,7 +53,23 @@
       "category": "US-Iran War",
       "source": "AP News",
       "url": "https://fortune.com/2026/05/17/drone-strike-fire-uae-barakah-nuclear-power-plant-iran-war-ceasefire/",
-      "timestamp": "2026-05-18T16:03:00+03:00"
+      "timestamp": "2026-05-18T16:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/may/17/uae-blames-iran-or-its-proxies-for-drone-strike-fire-near-nuclear-plant",
+          "angle": "UAE Blames Iran for Drone Strike Near Barakah Nuclear Power Plant",
+          "summary": "The United Arab Emirates accused Iran or its proxies of launching a drone that sparked a fire just outside the Barakah nuclear facility. No radiation leaks were reported, but the incident marks a dangerous escalation as Iran war ceasefire talks remain stalled."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "The Guardian"
+      ],
+      "urls": [
+        "https://fortune.com/2026/05/17/drone-strike-fire-uae-barakah-nuclear-power-plant-iran-war-ceasefire/",
+        "https://www.theguardian.com/world/2026/may/17/uae-blames-iran-or-its-proxies-for-drone-strike-fire-near-nuclear-plant"
+      ]
     },
     {
       "headline": "Oil Prices Fall, Wall Street Hits Record as Iran Reopens Strait of Hormuz",
@@ -26,7 +78,23 @@
       "category": "Economy",
       "source": "AP News",
       "url": "https://apnews.com/article/stock-markets-trump-oil-iran-war-50e10bf2aa9b0b658c51e17db3eb3b13",
-      "timestamp": "2026-05-18T16:03:00+03:00"
+      "timestamp": "2026-05-18T16:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/stocks-markets-china-trump-iran-e7b781e8e2394be6486fa5f006e5e06e",
+          "angle": "Stocks fall and oil rises after Trump warns Iran that clock is ticking",
+          "summary": "Financial markets reacted to escalating Iran tensions, with equities declining and crude prices climbing as the US president issued warnings about the Iranian situation."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "AP News"
+      ],
+      "urls": [
+        "https://apnews.com/article/stock-markets-trump-oil-iran-war-50e10bf2aa9b0b658c51e17db3eb3b13",
+        "https://apnews.com/article/stocks-markets-china-trump-iran-e7b781e8e2394be6486fa5f006e5e06e"
+      ]
     },
     {
       "headline": "Macron in Kenya for Africa Summit as France Seeks New Continental Partnership",
@@ -35,15 +103,6 @@
       "category": "Diplomacy",
       "source": "AP News",
       "url": "https://apnews.com/article/kenya-africa-summit-france-macron-ruto-d07479573f56ba6e02ac424cb855f000",
-      "timestamp": "2026-05-18T16:03:00+03:00"
-    },
-    {
-      "headline": "Russia Strikes Chinese Cargo Ship Bound for Ukraine Before Putin-Xi Summit",
-      "summary": "A Russian drone struck a Chinese vessel headed for a Ukrainian port, a move that could anger Beijing one day before Vladimir Putin and Xi Jinping were set to hold a summit. The attack follows Russias interception of over 3,000 Ukrainian drones in the past week.",
-      "emoji": "🚢",
-      "category": "Ukraine-Russia War",
-      "source": "Independent",
-      "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-drone-attack-putin-zelensky-b2978363.html",
       "timestamp": "2026-05-18T16:03:00+03:00"
     },
     {
@@ -201,29 +260,20 @@
       "timestamp": "2026-05-18T14:03:00+03:00",
       "perspectives": [
         {
-          "source": "France 24",
-          "url": "https://www.france24.com/en/live-news/20260517-fight-relentlessly-ukraine-commander-vows-strikes-into-russia",
-          "angle": "Ukraine Commander Vows Relentless Strikes Into Russia",
-          "summary": "Ukrainian unmanned forces commander \"Madyar\" says Kyiv will continue targeting Russian defense industry and oil facilities across all of Russia, from the Urals to Siberia, to deprive Moscow of war funding. The statement came before Ukraine launched nearly 600 drones over Russia."
+          "source": "Independent",
+          "url": "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-drone-attack-putin-zelensky-b2978363.html",
+          "angle": "Russia Strikes Chinese Cargo Ship Bound for Ukraine Before Putin-Xi Summit",
+          "summary": "A Russian drone struck a Chinese vessel headed for a Ukrainian port, a move that could anger Beijing one day before Vladimir Putin and Xi Jinping were set to hold a summit. The attack follows Russias interception of over 3,000 Ukrainian drones in the past week."
         }
       ],
       "sources": [
         "AP News",
-        "France 24"
+        "Independent"
       ],
       "urls": [
         "https://apnews.com/article/russia-ukraine-drones-moscow-strike-attack-killed-3164d723ca8331e5780ec7942245a2e6",
-        "https://www.france24.com/en/live-news/20260517-fight-relentlessly-ukraine-commander-vows-strikes-into-russia"
+        "https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-drone-attack-putin-zelensky-b2978363.html"
       ]
-    },
-    {
-      "headline": "Stocks fall and oil rises after Trump warns Iran that clock is ticking",
-      "summary": "Financial markets reacted to escalating Iran tensions, with equities declining and crude prices climbing as the US president issued warnings about the Iranian situation.",
-      "emoji": "📉🛢️",
-      "category": "Economy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/stocks-markets-china-trump-iran-e7b781e8e2394be6486fa5f006e5e06e",
-      "timestamp": "2026-05-18T14:03:00+03:00"
     },
     {
       "headline": "Israel Built Secret Military Bases in Iraq Before Iran War",
@@ -456,15 +506,6 @@
       "timestamp": "2026-05-18T06:10:00+03:00"
     },
     {
-      "headline": "UAE Blames Iran for Drone Strike Near Barakah Nuclear Power Plant",
-      "summary": "The United Arab Emirates accused Iran or its proxies of launching a drone that sparked a fire just outside the Barakah nuclear facility. No radiation leaks were reported, but the incident marks a dangerous escalation as Iran war ceasefire talks remain stalled.",
-      "emoji": "☢️",
-      "category": "US-Iran War",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/17/uae-blames-iran-or-its-proxies-for-drone-strike-fire-near-nuclear-plant",
-      "timestamp": "2026-05-18T06:05:00+03:00"
-    },
-    {
       "headline": "NATO Defense Ministers Meet Without US Leadership Amid Questions",
       "summary": "European allies downplayed concerns after US Defense Secretary Hegseth skipped the NATO gathering in Brussels, marking the second consecutive high-level US absence. Germany and Iceland insisted the alliance remains strong despite the unusual US no-shows.",
       "emoji": "🇪🇺",
@@ -691,6 +732,31 @@
       "timestamp": "2026-05-18T02:06:00+03:00"
     },
     {
+      "headline": "WHO Declares Ebola Outbreak in Congo and Uganda Global Health Emergency",
+      "summary": "The World Health Organization designated the Ebola outbreak in Democratic Republic of Congo and Uganda a public health emergency of international concern, with at least 80 deaths reported and no approved vaccines for this strain.",
+      "emoji": "🦠",
+      "category": "Africa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17/",
+      "timestamp": "2026-05-18T02:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/congo-ebola-uganda-who-africa-emergency-6f93a87ff28107bdda8990599bbcd52d",
+          "angle": "WHO Declares Ebola Outbreak in Congo-Uganda a Global Health Emergency",
+          "summary": "The World Health Organization declared the Ebola outbreak in Democratic Republic of Congo and Uganda a public health emergency of international concern. Over 300 suspected cases and 88 deaths have been reported, with confirmed cases spreading to major cities including Kinshasa and Goma."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17/",
+        "https://apnews.com/article/congo-ebola-uganda-who-africa-emergency-6f93a87ff28107bdda8990599bbcd52d"
+      ]
+    },
+    {
       "headline": "Ukraine Drone Attack Kills Four in Moscow's Biggest Strike in Over a Year",
       "summary": "At least four people were killed after Ukraine launched its largest drone attack on Moscow in more than a year, demonstrating Kyiv's ability to strike targets over 300 miles from the border despite dense Russian air defenses.",
       "emoji": "🇺🇦",
@@ -721,31 +787,6 @@
         "https://www.reuters.com/world/europe/least-three-died-ukraine-drone-attack-moscow-region-governor-says-2026-05-17/",
         "https://www.bbc.com/news/articles/c5ye480kxpmo",
         "https://kyivindependent.com/over-70-drones-reportedly-downed-near-moscow-russian-officials-claim/"
-      ]
-    },
-    {
-      "headline": "WHO Declares Ebola Outbreak in Congo and Uganda Global Health Emergency",
-      "summary": "The World Health Organization designated the Ebola outbreak in Democratic Republic of Congo and Uganda a public health emergency of international concern, with at least 80 deaths reported and no approved vaccines for this strain.",
-      "emoji": "🦠",
-      "category": "Africa",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17/",
-      "timestamp": "2026-05-18T02:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/5/17/who-declares-ebola-outbreak-in-dr-congo-uganda-a-global-health-emergency",
-          "angle": "WHO declares Ebola outbreak in DR Congo and Uganda a global health emergency",
-          "summary": "The World Health Organization declared the Ebola outbreak in DR Congo and Uganda a public health emergency of international concern after more than 300 suspected cases and 88 deaths, with a confirmed case in the major city of Goma raising fears of wider spread."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17/",
-        "https://www.aljazeera.com/news/2026/5/17/who-declares-ebola-outbreak-in-dr-congo-uganda-a-global-health-emergency"
       ]
     },
     {
@@ -2795,31 +2836,6 @@
       "urls": [
         "https://www.reuters.com/world/europe/zelenskiy-condemns-russia-after-strike-kyiv-apartment-bloc-kills-24-2026-05-15/",
         "https://www.theguardian.com/world/2026/may/16/ukraine-war-briefing-zelenskyy-vows-retribution-over-deadly-russian-bombardments"
-      ]
-    },
-    {
-      "headline": "BRICS Fails to Issue Joint Statement Over Iran War Divisions",
-      "summary": "Top diplomats from BRICS nations failed to issue a joint statement after a meeting in Delhi, exposing divisions over the Iran conflict. Host India released only a chair statement.",
-      "emoji": "🌍",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/india-issues-chair-statement-after-brics-meeting-amid-differences-over-gulf-2026-05-15/",
-      "timestamp": "2026-05-16T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/india-issues-chair-statement-after-brics-meeting-amid-differences-over-gulf-2026-05-15/",
-          "angle": "BRICS Foreign Ministers Fail to Agree on Joint Statement Over Iran War",
-          "summary": "Top diplomats from BRICS nations including rivals Iran and UAE could not issue a joint statement after a two-day meeting in Delhi, exposing deep divisions within the bloc over the ongoing Iran conflict. India released only a chair's statement instead."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/india-issues-chair-statement-after-brics-meeting-amid-differences-over-gulf-2026-05-15/",
-        "https://www.reuters.com/world/china/india-issues-chair-statement-after-brics-meeting-amid-differences-over-gulf-2026-05-15/"
       ]
     }
   ]
