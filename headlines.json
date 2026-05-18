@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-18T05:05:43+03:00",
+  "lastUpdated": "2026-05-18T06:05:04+03:00",
   "headlines": [
+    {
+      "headline": "Ukraine Launches Largest Drone Attack on Moscow in Over a Year",
+      "summary": "At least four people were killed as Ukraine struck the Russian capital with over 1,000 drones in 24 hours, marking the biggest aerial assault on Moscow since the war began. The attack came in retaliation for Russia's heaviest drone and missile strikes on Kyiv.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/ukraine/ukraine-drones-kill-four-russia-moscow-faces-biggest-attack-year-rcna345529",
+      "timestamp": "2026-05-18T06:05:00+03:00"
+    },
+    {
+      "headline": "Russia and Ukraine Accuse Each Other of Violating US-Brokered Ceasefire",
+      "summary": "Both sides claimed casualties from drone and artillery strikes during a three-day ceasefire announced by President Trump. Zelenskyy said Russia was \"not even particularly trying\" to observe the truce, while Ukraine pledged to retaliate against any aggression.",
+      "emoji": "⚔️",
+      "category": "Ukraine-Russia War",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/russia-ukraine-accuse-each-other-ceasefire-violations/",
+      "timestamp": "2026-05-18T06:05:00+03:00"
+    },
+    {
+      "headline": "US and China Reach Preliminary Deal to Lower Tariffs After Trump-Xi Summit",
+      "summary": "China agreed to billions in additional US farm purchases as both nations struck a preliminary agreement to reduce tariffs on certain goods. The deal leaves major issues unresolved as Trump races against a July deadline for agreements with other trading partners.",
+      "emoji": "🇺🇸🇨🇳",
+      "category": "US-China",
+      "source": "AP News",
+      "url": "https://apnews.com/article/trump-china-trade-tariffs-rare-earth-minerals-cbd2482bd2b3a7ce8d47030c4ff1c3d4",
+      "timestamp": "2026-05-18T06:05:00+03:00"
+    },
+    {
+      "headline": "UAE Blames Iran for Drone Strike Near Barakah Nuclear Power Plant",
+      "summary": "The United Arab Emirates accused Iran or its proxies of launching a drone that sparked a fire just outside the Barakah nuclear facility. No radiation leaks were reported, but the incident marks a dangerous escalation as Iran war ceasefire talks remain stalled.",
+      "emoji": "☢️",
+      "category": "US-Iran War",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/17/uae-blames-iran-or-its-proxies-for-drone-strike-fire-near-nuclear-plant",
+      "timestamp": "2026-05-18T06:05:00+03:00"
+    },
+    {
+      "headline": "NATO Defense Ministers Meet Without US Leadership Amid Questions",
+      "summary": "European allies downplayed concerns after US Defense Secretary Hegseth skipped the NATO gathering in Brussels, marking the second consecutive high-level US absence. Germany and Iceland insisted the alliance remains strong despite the unusual US no-shows.",
+      "emoji": "🇪🇺",
+      "category": "Europe",
+      "source": "AP News",
+      "url": "https://apnews.com/article/nato-europe-us-trump-leadership-ukraine-security-92ebda5a785423a9ef72d96dc1117ca6",
+      "timestamp": "2026-05-18T06:05:00+03:00"
+    },
     {
       "headline": "G7 Finance Chiefs Convene in Paris to Tackle Trade Imbalances",
       "summary": "Finance ministers from G7 nations meet in Paris to coordinate critical raw material supplies and address global economic tensions amid geopolitical differences threatening group cohesion.",
@@ -17,7 +62,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/abu-dhabi-says-drone-strike-caused-fire-barakah-nuclear-power-plant-no-injuries-2026-05-17/",
-      "timestamp": "2026-05-18T05:03:00+03:00"
+      "timestamp": "2026-05-18T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/abu-dhabi-says-drone-strike-caused-fire-barakah-nuclear-power-plant-no-injuries-2026-05-17/",
+          "angle": "Drone strike hits UAE nuclear power plant as Iran war deadlock persists",
+          "summary": "A drone strike caused a fire at the Barakah nuclear power plant in the United Arab Emirates, with Emirati officials investigating the source. The incident comes as US-Iran negotiations remain stalled and tensions remain high across the Gulf region."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/abu-dhabi-says-drone-strike-caused-fire-barakah-nuclear-power-plant-no-injuries-2026-05-17/",
+        "https://www.reuters.com/world/middle-east/abu-dhabi-says-drone-strike-caused-fire-barakah-nuclear-power-plant-no-injuries-2026-05-17/"
+      ]
     },
     {
       "headline": "Israel to Establish Defense Offices in Former UNRWA East Jerusalem Compound",
@@ -26,16 +87,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/israel-establish-defence-offices-former-unrwa-east-jerusalem-compound-2026-05-17/",
-      "timestamp": "2026-05-18T05:03:00+03:00"
-    },
-    {
-      "headline": "WHO Declares Ebola Outbreak in Congo-Uganda Global Health Emergency",
-      "summary": "The World Health Organization declared the Ebola outbreak in Democratic Republic of Congo and Uganda a public health emergency of international concern, with around 246 cases and 80 deaths.",
-      "emoji": "🦠",
-      "category": "Africa",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo",
-      "timestamp": "2026-05-18T05:03:00+03:00"
+      "timestamp": "2026-05-18T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/israel-establish-defence-offices-former-unrwa-east-jerusalem-compound-2026-05-17/",
+          "angle": "Israel to Build Defense Offices in Former UNRWA Jerusalem Compound",
+          "summary": "Israel cabinet approved building a defense compound on the site of recently demolished UNRWA premises in East Jerusalem. The UN had called the demolition a violation of international law."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/israel-establish-defence-offices-former-unrwa-east-jerusalem-compound-2026-05-17/",
+        "https://www.reuters.com/world/middle-east/israel-establish-defence-offices-former-unrwa-east-jerusalem-compound-2026-05-17/"
+      ]
     },
     {
       "headline": "Russia Destroyed Over 3,000 Ukrainian Drones in Past Week",
@@ -213,19 +281,19 @@
       "timestamp": "2026-05-18T02:03:00+03:00",
       "perspectives": [
         {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html",
-          "angle": "Ebola Outbreak in Congo and Uganda Declared Global Health Emergency",
-          "summary": "The World Health Organization declared the Ebola outbreak in the Democratic Republic of Congo and Uganda a public health emergency of international concern after approximately 80 people died from the virus. The rare strain has spread across borders, prompting international coordination."
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo",
+          "angle": "WHO Declares Ebola Outbreak in Congo-Uganda Global Health Emergency",
+          "summary": "The World Health Organization declared the Ebola outbreak in Democratic Republic of Congo and Uganda a public health emergency of international concern, with around 246 cases and 80 deaths."
         }
       ],
       "sources": [
         "Reuters",
-        "New York Times"
+        "BBC"
       ],
       "urls": [
         "https://www.reuters.com/business/healthcare-pharmaceuticals/who-declares-ebola-outbreak-congo-uganda-global-health-emergency-2026-05-17/",
-        "https://www.nytimes.com/2026/05/17/world/africa/what-to-know-ebola-africa.html"
+        "https://www.bbc.com/news/articles/c2l2p0wwzzdo"
       ]
     },
     {
@@ -340,31 +408,6 @@
       ]
     },
     {
-      "headline": "Drone strike hits UAE nuclear power plant as Iran war deadlock persists",
-      "summary": "A drone strike caused a fire at the Barakah nuclear power plant in the United Arab Emirates, with Emirati officials investigating the source. The incident comes as US-Iran negotiations remain stalled and tensions remain high across the Gulf region.",
-      "emoji": "🇦🇪",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/abu-dhabi-says-drone-strike-caused-fire-barakah-nuclear-power-plant-no-injuries-2026-05-17/",
-      "timestamp": "2026-05-18T01:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/abu-dhabi-says-drone-strike-caused-fire-barakah-nuclear-power-plant-no-injuries-2026-05-17/",
-          "angle": "Drone Strike Causes Fire at UAE Barakah Nuclear Plant",
-          "summary": "A drone strike targeted the Barakah Nuclear Power Plant in Abu Dhabi, causing a fire at an electrical generator outside the inner perimeter. No injuries or radiation risks were reported, and the IAEA confirmed normal radiation levels."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/abu-dhabi-says-drone-strike-caused-fire-barakah-nuclear-power-plant-no-injuries-2026-05-17/",
-        "https://www.reuters.com/world/middle-east/abu-dhabi-says-drone-strike-caused-fire-barakah-nuclear-power-plant-no-injuries-2026-05-17/"
-      ]
-    },
-    {
       "headline": "China agrees to buy at least $17 billion in US agricultural products annually",
       "summary": "The White House announced that China has committed to purchasing at least $17 billion in US agricultural products annually following the Beijing summit between Trump and Xi Jinping. The agreement represents a significant trade concession from Beijing amid ongoing tariff tensions.",
       "emoji": "🇨🇳",
@@ -431,15 +474,6 @@
         "https://english.alarabiya.net/News/gulf/2026/05/18/iran-faces-burden-of-restoring-trust-with-gcc-states-gulf-official-tells-al-arabiya",
         "https://alhurra.com/en/20671"
       ]
-    },
-    {
-      "headline": "Israel to Build Defense Offices in Former UNRWA Jerusalem Compound",
-      "summary": "Israel cabinet approved building a defense compound on the site of recently demolished UNRWA premises in East Jerusalem. The UN had called the demolition a violation of international law.",
-      "emoji": "🇮🇱🏛️",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israel-establish-defence-offices-former-unrwa-east-jerusalem-compound-2026-05-17/",
-      "timestamp": "2026-05-17T23:03:00+03:00"
     },
     {
       "headline": "Republicans Vie to Replace Defeated Senator Cassidy in Louisiana",
@@ -2778,40 +2812,6 @@
       "urls": [
         "https://www.reuters.com/world/china/trump-xi-set-second-day-talks-after-taiwan-warning-2026-05-14/",
         "https://www.reuters.com/world/china/trump-xi-set-second-day-talks-after-taiwan-warning-2026-05-14/"
-      ]
-    },
-    {
-      "headline": "UAE rejects Iranian accusations of war involvement",
-      "summary": "The UAE Foreign Ministry rejected Iranian claims that Abu Dhabi was an \"active partner\" in the US-Israel war, calling them attempts to justify Iranian attacks on the Gulf nation. Iran had accused the UAE of involvement after the BRICS meeting in New Delhi.",
-      "emoji": "🇦🇪",
-      "category": "Middle East",
-      "source": "First Post",
-      "url": "https://www.firstpost.com/world/uae-rejects-attempts-to-justify-terrorist-attacks-after-iran-accuses-abu-dhabi-of-role-in-conflict-14011697.html",
-      "timestamp": "2026-05-15T20:07:00+03:00"
-    },
-    {
-      "headline": "Trump Discussed Lifting Sanctions on Chinese Companies Buying Iranian Oil",
-      "summary": "President Trump revealed he discussed potentially lifting sanctions on Chinese companies purchasing Iranian oil during his Beijing visit, with a decision expected soon.",
-      "emoji": "🇨🇳🛢️",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/media-telecom/trump-spoke-with-xi-about-lifting-sanctions-chinese-companies-that-buy-iranian-2026-05-15/",
-      "timestamp": "2026-05-15T20:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/media-telecom/trump-spoke-with-xi-about-lifting-sanctions-chinese-companies-that-buy-iranian-2026-05-15/",
-          "angle": "Trump Discusses Lifting Sanctions on Chinese Companies Buying Iranian Oil",
-          "summary": "President Trump said he discussed lifting sanctions on Chinese companies that purchase Iranian oil with Xi Jinping and will make a decision in the coming days, signaling potential policy shift."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/media-telecom/trump-spoke-with-xi-about-lifting-sanctions-chinese-companies-that-buy-iranian-2026-05-15/",
-        "https://www.reuters.com/business/media-telecom/trump-spoke-with-xi-about-lifting-sanctions-chinese-companies-that-buy-iranian-2026-05-15/"
       ]
     }
   ]
