@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-19T18:08:25+03:00",
+  "lastUpdated": "2026-05-19T19:07:26+03:00",
   "headlines": [
     {
-      "headline": "Iran threatens to open new fronts if US resumes attacks as Trump delays strike for talks",
-      "summary": "Iran's army warned it would \"open new fronts\" against the US if attacks resume, while Trump said he held off a planned assault at Gulf allies' request. UAE said drones that attacked its Barakah nuclear plant originated from Iraqi territory.",
-      "emoji": "🇮🇷",
+      "headline": "Trump Says He Was \"An Hour Away\" From Striking Iran, Delayed Attack for Peace Talks",
+      "summary": "President Trump revealed he postponed a planned military strike on Iran by just one hour to allow negotiations to continue, saying there is a \"very good chance\" of reaching a nuclear deal with Tehran.",
+      "emoji": "🇺🇸",
       "category": "US-Iran War",
-      "source": "Al-Monitor",
-      "url": "https://www.al-monitor.com/originals/2026/05/iran-warns-against-new-us-attacks-trump-says-held-assault",
-      "timestamp": "2026-05-19T18:05:00+03:00"
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-peace-deal-attack-possible/",
+      "timestamp": "2026-05-19T19:06:00+03:00"
+    },
+    {
+      "headline": "Russians Covertly Trained by China Return to Fight in Ukraine, Intelligence Sources Say",
+      "summary": "About 200 Russian military personnel were secretly trained by Chinese armed forces late last year and have returned to fight in Ukraine, according to European intelligence agencies.",
+      "emoji": "🇨🇳",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/russians-covertly-trained-by-china-return-fight-ukraine-sources-say-2026-05-19/",
+      "timestamp": "2026-05-19T19:06:00+03:00"
+    },
+    {
+      "headline": "NATO Fighter Jet Shoots Down Ukrainian Drone Over Estonia",
+      "summary": "A NATO fighter jet intercepted and shot down a Ukrainian drone that had entered Estonian airspace, highlighting the complexity of airspace management as Ukraine defends against Russian attacks.",
+      "emoji": "🇪🇪",
+      "category": "Europe",
+      "source": "AP News",
+      "url": "https://apnews.com/article/ukraine-drone-downed-estonia-russia-war-c098579e65a2a76e1610329d57cf4b0a",
+      "timestamp": "2026-05-19T19:06:00+03:00"
+    },
+    {
+      "headline": "UAE Says Drones That Hit Near Nuclear Plant Were Launched From Iraq",
+      "summary": "The UAE confirmed six drones were launched against it from Iraq in the past 48 hours, including one that caused a fire at the Barakah nuclear power plant, amid escalating regional tensions.",
+      "emoji": "🇦🇪",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/uae-says-drone-that-hit-near-its-nuclear-plant-was-launched-iraq-2026-05-19/",
+      "timestamp": "2026-05-19T19:06:00+03:00"
+    },
+    {
+      "headline": "Taiwan Cautiously Optimistic on US Arms Sales Despite Trump Uncertainty",
+      "summary": "Taiwan Defense Minister Wellington Koo expressed cautious optimism about US arms sales as President Trump considers whether to proceed with new weapons deals to the self-governing island.",
+      "emoji": "🇹🇼",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/taiwan-cautiously-optimistic-about-us-arms-sales-defence-minister-says-2026-05-19/",
+      "timestamp": "2026-05-19T19:06:00+03:00"
     },
     {
       "headline": "Pentagon awards M contract for counter-drone tech amid Iran war demand surge",
@@ -44,7 +80,23 @@
       "category": "Europe",
       "source": "Kyiv Post",
       "url": "https://www.kyivpost.com/post/76382",
-      "timestamp": "2026-05-19T18:05:00+03:00"
+      "timestamp": "2026-05-19T18:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Politico",
+          "url": "https://www.politico.eu/article/russia-germany-sanctions-ukraine-smuggling-network/",
+          "angle": "German prosecutors expose Russian sanctions-busting network supplying military tech",
+          "summary": "A four-year investigation uncovered a Lübeck-based trading firm that routed dual-use components through Turkey into Russia, violating Western sanctions to supply the Kremlin war machine."
+        }
+      ],
+      "sources": [
+        "Kyiv Post",
+        "Politico"
+      ],
+      "urls": [
+        "https://www.kyivpost.com/post/76382",
+        "https://www.politico.eu/article/russia-germany-sanctions-ukraine-smuggling-network/"
+      ]
     },
     {
       "headline": "WHO convenes emergency meeting as rare Ebola strain kills 131 in Congo",
@@ -877,19 +929,27 @@
       "timestamp": "2026-05-19T07:05:00+03:00",
       "perspectives": [
         {
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/05/19/g-s1-122762/trump-says-hes-called-off-iran-strike",
-          "angle": "Trump calls off planned Iran strike at request of Gulf allies",
-          "summary": "President Trump said he postponed a \"very major attack\" planned for Tuesday after Qatar, Saudi Arabia, and UAE requested time for negotiations. Iran has effectively closed the Strait of Hormuz, with oil prices hovering around $107/barrel."
+          "source": "Al-Monitor",
+          "url": "https://www.al-monitor.com/originals/2026/05/iran-warns-against-new-us-attacks-trump-says-held-assault",
+          "angle": "Iran threatens to open new fronts if US resumes attacks as Trump delays strike for talks",
+          "summary": "Iran's army warned it would \"open new fronts\" against the US if attacks resume, while Trump said he held off a planned assault at Gulf allies' request. UAE said drones that attacked its Barakah nuclear plant originated from Iraqi territory."
+        },
+        {
+          "source": "The New York Times",
+          "url": "https://www.nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html",
+          "angle": "Trump Threatens Iran as Middle East Tensions Surge",
+          "summary": "President Trump has sought to force Iran to accept his terms on its nuclear program or face renewed war, as an emboldened Israel weighs its next moves. The administration is pushing for a deal while military options remain on the table."
         }
       ],
       "sources": [
         "Reuters",
-        "NPR"
+        "Al-Monitor",
+        "The New York Times"
       ],
       "urls": [
         "https://www.reuters.com/world/donald-trump-says-good-chance-iran-nuclear-deal-after-delaying-strike-2026-05-18/",
-        "https://www.npr.org/2026/05/19/g-s1-122762/trump-says-hes-called-off-iran-strike"
+        "https://www.al-monitor.com/originals/2026/05/iran-warns-against-new-us-attacks-trump-says-held-assault",
+        "https://www.nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html"
       ]
     },
     {
@@ -997,15 +1057,6 @@
       "source": "AP News",
       "url": "https://www.afr.com/world/asia/xi-told-trump-that-putin-might-regret-invasion-of-ukraine-20260519-p5zyoy",
       "timestamp": "2026-05-19T06:00:00+03:00"
-    },
-    {
-      "headline": "Trump Threatens Iran as Middle East Tensions Surge",
-      "summary": "President Trump has sought to force Iran to accept his terms on its nuclear program or face renewed war, as an emboldened Israel weighs its next moves. The administration is pushing for a deal while military options remain on the table.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "The New York Times",
-      "url": "https://www.nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html",
-      "timestamp": "2026-05-19T05:00:00+03:00"
     },
     {
       "headline": "Oil Prices Drop Over 2% After Trump Delays Iran Attack",
@@ -2104,15 +2155,6 @@
       "timestamp": "2026-05-18T08:03:00+03:00"
     },
     {
-      "headline": "German prosecutors expose Russian sanctions-busting network supplying military tech",
-      "summary": "A four-year investigation uncovered a Lübeck-based trading firm that routed dual-use components through Turkey into Russia, violating Western sanctions to supply the Kremlin war machine.",
-      "emoji": "🇩🇪",
-      "category": "Europe",
-      "source": "Politico",
-      "url": "https://www.politico.eu/article/russia-germany-sanctions-ukraine-smuggling-network/",
-      "timestamp": "2026-05-18T06:10:00+03:00"
-    },
-    {
       "headline": "Brent crude breaks $111 as Gulf drone attacks and Hormuz fears spark shortage concerns",
       "summary": "Oil prices surged in early Asian trading after drone strikes on UAE and Saudi Arabia, combined with failed Iran diplomacy, raised fears of global supply disruptions. WTI hit $108.20 while Brent climbed to $111.50.",
       "emoji": "🛢️",
@@ -2867,40 +2909,6 @@
         "https://www.reuters.com/world/india/tata-electronics-asml-partner-indias-first-semiconductor-fab-2026-05-16/",
         "https://www.aljazeera.com/news/2026/5/17/indias-tata-and-dutch-giant-asml-sign-semiconductor-deal-during-modi-visit"
       ]
-    },
-    {
-      "headline": "Live Updates: Israel Strikes Lebanon as Iran Says It Cannot Trust Americans",
-      "summary": "CBS News provides ongoing coverage of the Middle East conflict as Israel continues strikes on Lebanon and Iran declares it cannot trust the US, while FIFA officials hold constructive talks with Iranian federation about World Cup participation.",
-      "emoji": "⚔️",
-      "category": "Middle East",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-trust-americans-control/",
-      "timestamp": "2026-05-17T15:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-trust-americans-control/",
-          "angle": "Israel Strikes Lebanon as Iran Says It Cannot Trust the US",
-          "summary": "Israel continues airstrikes on southern Lebanon despite a 45-day ceasefire extension, while Irans foreign minister says Tehran cannot trust the Americans at all as diplomatic efforts to end the war struggle."
-        }
-      ],
-      "sources": [
-        "CBS News",
-        "CBS News"
-      ],
-      "urls": [
-        "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-trust-americans-control/",
-        "https://www.cbsnews.com/live-updates/iran-war-trump-strait-of-hormuz-trust-americans-control/"
-      ]
-    },
-    {
-      "headline": "NATO tests ground combat robots near Russian border in Latvia",
-      "summary": "NATO forces exercised in Latvia's dense forests this week, testing ground robots in combat scenarios near the Russian border as the alliance explores autonomous warfare capabilities.",
-      "emoji": "🤖🇱🇻",
-      "category": "Defense Industry",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/global/europe/2026/05/15/near-russian-border-nato-grapples-with-ground-robots-in-combat/",
-      "timestamp": "2026-05-17T14:10:00+03:00"
     }
   ]
 }
