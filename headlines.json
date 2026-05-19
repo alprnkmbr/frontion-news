@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-19T20:07:03+03:00",
+  "lastUpdated": "2026-05-19T20:13:31+03:00",
   "headlines": [
+    {
+      "headline": "Cuba Warns of \"Bloodbath\" if US Attacks as Washington Expands Sanctions",
+      "summary": "President Díaz-Canel stressed Cuba's right to defend itself after reports Havana obtained over 300 military drones from an unspecified source. Washington expanded sanctions amid rising tensions.",
+      "emoji": "🇨🇺",
+      "category": "Latin America",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/americas/article/3354025/cuba-warns-bloodbath-if-us-attacks-washington-adds-sanctions",
+      "timestamp": "2026-05-19T20:09:00+03:00"
+    },
+    {
+      "headline": "Putin Arrives in China Days After Trump's Visit to Strengthen Strategic Ties",
+      "summary": "Russian President Vladimir Putin made his 25th visit to China, seeking to strengthen the close bond between the nations following US President Donald Trump's earlier visit to Beijing.",
+      "emoji": "🇷🇺🇨🇳",
+      "category": "Diplomacy",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3354142/russian-leader-vladimir-putin-arrives-china-just-days-after-donald-trumps-visit",
+      "timestamp": "2026-05-19T20:09:00+03:00"
+    },
+    {
+      "headline": "Ebola Death Toll in DR Congo Rises to at Least 131",
+      "summary": "The estimated death toll from an Ebola outbreak in the Democratic Republic of Congo has risen sharply. US Secretary of State Rubio criticized the WHO for being \"late\" in identifying the outbreak.",
+      "emoji": "🇨🇩",
+      "category": "Africa",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260519-estimated-dr-congo-ebola-death-toll-rises-sharply-to-at-least-131",
+      "timestamp": "2026-05-19T20:09:00+03:00"
+    },
+    {
+      "headline": "UAE Says Drones Targeting Nuclear Plant Came From Iraq",
+      "summary": "The United Arab Emirates stated that drones which targeted its nuclear plant last week originated from Iraq, amid heightened regional tensions from the Iran-US conflict.",
+      "emoji": "🇦🇪",
+      "category": "Middle East",
+      "source": "CNA",
+      "url": "https://www.channelnewsasia.com/world/uae-iraq-nuclear-plant-drone-strike-6130521",
+      "timestamp": "2026-05-19T20:09:00+03:00"
+    },
+    {
+      "headline": "Trump Endorses Paxton in Texas Senate Race, Snubbing Cornyn",
+      "summary": "President Trump endorsed Attorney General Ken Paxton in Texas' Senate GOP primary runoff, delivering a blow to incumbent Senator John Cornyn ahead of next week's election.",
+      "emoji": "🇺🇸",
+      "category": "US Politics",
+      "source": "The Hill",
+      "url": "https://thehill.com/homenews/5779709-paxton-trump-endorsement-texas/",
+      "timestamp": "2026-05-19T20:09:00+03:00"
+    },
     {
       "headline": "Explosions on Irans Qeshm Island from enemy ammunition disposal",
       "summary": "Iranian officials report explosions on Qeshm Island were caused by neutralizing unexploded enemy ammunition, amid ongoing tensions in the Persian Gulf.",
@@ -20,13 +65,37 @@
       "timestamp": "2026-05-19T20:05:00+03:00"
     },
     {
-      "headline": "G7 economic agenda clouded by inflation fears as Iran war persists",
-      "summary": "US and Europe clash over Russan oil sanctions relief as energy shocks from Iran conflict drive inflation concerns at G7 meetings.",
-      "emoji": "🇪🇺",
+      "headline": "Canadas inflation jumps to 2.8% as Iran war drives gasoline prices higher",
+      "summary": "Annual inflation rate accelerated in April as oil price surge from Middle East conflict pushed gasoline costs up.",
+      "emoji": "🇨🇦",
       "category": "Economy",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/19/business/inflation-g7-economic-agenda-iran-war.html",
-      "timestamp": "2026-05-19T20:05:00+03:00"
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/americas/canadas-april-inflation-surges-28-iran-war-drives-gasoline-costs-up-2026-05-19/",
+      "timestamp": "2026-05-19T20:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/05/19/business/inflation-g7-economic-agenda-iran-war.html",
+          "angle": "G7 economic agenda clouded by inflation fears as Iran war persists",
+          "summary": "US and Europe clash over Russan oil sanctions relief as energy shocks from Iran conflict drive inflation concerns at G7 meetings."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/g7-finance-ministers-explore-responses-iran-war-fallout-2026-05-19/",
+          "angle": "G7 finance ministers explore responses to Iran war economic fallout",
+          "summary": "France's finance minister urged the IMF and World Bank to help countries most vulnerable to Middle East conflict fallout, as G7 finance ministers met in Paris to address rising energy prices and sanctions policy amid the US-Iran standoff."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "New York Times",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/americas/canadas-april-inflation-surges-28-iran-war-drives-gasoline-costs-up-2026-05-19/",
+        "https://www.nytimes.com/2026/05/19/business/inflation-g7-economic-agenda-iran-war.html",
+        "https://www.reuters.com/world/china/g7-finance-ministers-explore-responses-iran-war-fallout-2026-05-19/"
+      ]
     },
     {
       "headline": "Japans strong Q1 GDP faces Iran war reality check",
@@ -35,15 +104,6 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/japans-economy-grew-more-than-expected-q1-2026-05-19/",
-      "timestamp": "2026-05-19T20:05:00+03:00"
-    },
-    {
-      "headline": "Canadas inflation jumps to 2.8% as Iran war drives gasoline prices higher",
-      "summary": "Annual inflation rate accelerated in April as oil price surge from Middle East conflict pushed gasoline costs up.",
-      "emoji": "🇨🇦",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/americas/canadas-april-inflation-surges-28-iran-war-drives-gasoline-costs-up-2026-05-19/",
       "timestamp": "2026-05-19T20:05:00+03:00"
     },
     {
@@ -597,31 +657,6 @@
       "urls": [
         "https://www.reuters.com/world/asia-pacific/global-markets-global-markets-2026-05-19/",
         "https://apnews.com/article/stock-markets-trump-oil-iran-war-50e10bf2aa9b0b658c51e17db3eb3b13"
-      ]
-    },
-    {
-      "headline": "G7 finance ministers explore responses to Iran war economic fallout",
-      "summary": "France's finance minister urged the IMF and World Bank to help countries most vulnerable to Middle East conflict fallout, as G7 finance ministers met in Paris to address rising energy prices and sanctions policy amid the US-Iran standoff.",
-      "emoji": "🏦🌍",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/g7-finance-ministers-explore-responses-iran-war-fallout-2026-05-19/",
-      "timestamp": "2026-05-19T13:01:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/g7-finance-chiefs-seek-tackle-imbalances-trade-strains-unity-2026-05-18/",
-          "angle": "G7 Finance Ministers Meet in Paris Amid Trade Tensions and Iran War Fallout",
-          "summary": "Finance ministers from the Group of Seven nations convene in Paris to address global economic imbalances and coordinate critical raw material supplies. Geopolitical differences over the Iran conflict threaten to test the group's unity as the Strait of Hormuz blockade disrupts energy markets."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/g7-finance-ministers-explore-responses-iran-war-fallout-2026-05-19/",
-        "https://www.reuters.com/world/china/g7-finance-chiefs-seek-tackle-imbalances-trade-strains-unity-2026-05-18/"
       ]
     },
     {
@@ -2866,65 +2901,6 @@
       "source": "Daily Sabah",
       "url": "https://www.dailysabah.com/business/tech/asml-tata-sign-semiconductor-deal-as-modi-visits-netherlands",
       "timestamp": "2026-05-17T16:08:00+03:00"
-    },
-    {
-      "headline": "US Assesses Drone Threat From Cuba, Report Says",
-      "summary": "Cuba has acquired more than 300 military drones and is discussing plans to use them against the US base at Guantanamo Bay, according to a new assessment raising security concerns.",
-      "emoji": "🇨🇺🇺🇸🚁",
-      "category": "Military",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/world/2026/05/17/us-assesses-drone-threat-from-cuba-report-",
-      "timestamp": "2026-05-17T16:08:00+03:00"
-    },
-    {
-      "headline": "South Korea Pursues All Options to Prevent Samsung Strike",
-      "summary": "South Korea's prime minister said the government is considering all measures to prevent a potential Samsung Electronics strike that could cause unimaginable economic damage. Samsung accounts for nearly a quarter of South Korea's exports.",
-      "emoji": "🇰🇷💰",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/world-at-work/south-korea-says-it-will-pursue-all-options-avoid-samsung-strike-2026-05-17/",
-      "timestamp": "2026-05-17T16:07:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/week-asia/economics/article/3353960/south-korea-stifling-samsung-workers-us400000-bonus-strike-risks-wider-crisis",
-          "angle": "South Korea weighs emergency powers to halt Samsung worker strike",
-          "summary": "Seoul is considering using rarely invoked emergency powers to stop a Samsung workers' strike that could cost the economy $67 billion, as workers demand $400,000 bonuses."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/world-at-work/south-korea-says-it-will-pursue-all-options-avoid-samsung-strike-2026-05-17/",
-        "https://www.scmp.com/week-asia/economics/article/3353960/south-korea-stifling-samsung-workers-us400000-bonus-strike-risks-wider-crisis"
-      ]
-    },
-    {
-      "headline": "Italian PM Meloni Visits Modena After Car-Ramming Incident",
-      "summary": "Prime Minister Giorgia Meloni travelled to Modena after a driver with mental health problems rammed into pedestrians. Several people were injured, and Meloni cancelled a Cyprus meeting to visit the victims.",
-      "emoji": "🇮🇹",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/italy-pm-meloni-heads-modena-after-car-ramming-cancels-cyprus-meeting-2026-05-17/",
-      "timestamp": "2026-05-17T16:07:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/italy-pm-meloni-heads-modena-after-car-ramming-cancels-cyprus-meeting-2026-05-17/",
-          "angle": "Italy PM Meloni visits Modena after car-ramming attack injures several",
-          "summary": "Italian Prime Minister Giorgia Meloni cancelled a planned meeting with Cyprus president to travel to Modena after a car plowed into pedestrians in an incident authorities are investigating. Four bystanders tackled the knife-wielding driver after the attack."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/italy-pm-meloni-heads-modena-after-car-ramming-cancels-cyprus-meeting-2026-05-17/",
-        "https://www.reuters.com/world/italy-pm-meloni-heads-modena-after-car-ramming-cancels-cyprus-meeting-2026-05-17/"
-      ]
     }
   ]
 }
