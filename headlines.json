@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-19T19:07:26+03:00",
+  "lastUpdated": "2026-05-19T20:07:03+03:00",
   "headlines": [
     {
-      "headline": "Trump Says He Was \"An Hour Away\" From Striking Iran, Delayed Attack for Peace Talks",
-      "summary": "President Trump revealed he postponed a planned military strike on Iran by just one hour to allow negotiations to continue, saying there is a \"very good chance\" of reaching a nuclear deal with Tehran.",
-      "emoji": "🇺🇸",
-      "category": "US-Iran War",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-peace-deal-attack-possible/",
-      "timestamp": "2026-05-19T19:06:00+03:00"
+      "headline": "Explosions on Irans Qeshm Island from enemy ammunition disposal",
+      "summary": "Iranian officials report explosions on Qeshm Island were caused by neutralizing unexploded enemy ammunition, amid ongoing tensions in the Persian Gulf.",
+      "emoji": "🇮🇷",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/explosions-heard-irans-qeshm-island-due-disposal-enemy-ammunition-2026-05-19/",
+      "timestamp": "2026-05-19T20:05:00+03:00"
+    },
+    {
+      "headline": "Four US LNG vessels sailing to China after Trump-Xi summit",
+      "summary": "First direct US LNG cargoes to China during Trump second term signal potential energy cooperation despite geopolitical tensions.",
+      "emoji": "🇺🇸🇨🇳",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/four-us-lng-vessels-sailing-china-after-trump-xi-summit-2026-05-19/",
+      "timestamp": "2026-05-19T20:05:00+03:00"
+    },
+    {
+      "headline": "G7 economic agenda clouded by inflation fears as Iran war persists",
+      "summary": "US and Europe clash over Russan oil sanctions relief as energy shocks from Iran conflict drive inflation concerns at G7 meetings.",
+      "emoji": "🇪🇺",
+      "category": "Economy",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/19/business/inflation-g7-economic-agenda-iran-war.html",
+      "timestamp": "2026-05-19T20:05:00+03:00"
+    },
+    {
+      "headline": "Japans strong Q1 GDP faces Iran war reality check",
+      "summary": "Japans economy grew faster than expected in Q1, but energy shock from Iran conflict threatens momentum.",
+      "emoji": "🇯🇵",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/japans-economy-grew-more-than-expected-q1-2026-05-19/",
+      "timestamp": "2026-05-19T20:05:00+03:00"
+    },
+    {
+      "headline": "Canadas inflation jumps to 2.8% as Iran war drives gasoline prices higher",
+      "summary": "Annual inflation rate accelerated in April as oil price surge from Middle East conflict pushed gasoline costs up.",
+      "emoji": "🇨🇦",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/americas/canadas-april-inflation-surges-28-iran-war-drives-gasoline-costs-up-2026-05-19/",
+      "timestamp": "2026-05-19T20:05:00+03:00"
     },
     {
       "headline": "Russians Covertly Trained by China Return to Fight in Ukraine, Intelligence Sources Say",
@@ -17,7 +53,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/russians-covertly-trained-by-china-return-fight-ukraine-sources-say-2026-05-19/",
-      "timestamp": "2026-05-19T19:06:00+03:00"
+      "timestamp": "2026-05-19T19:06:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/russians-covertly-trained-by-china-return-to-fight-ukraine-sources-say-2026-05-19/",
+          "angle": "Chinese-trained Russian soldiers return to fight in Ukraine",
+          "summary": "European intelligence agencies report that China secretly trained around 200 Russian military personnel late last year, with some now fighting in Ukraine—a significant escalation in Beijing-Moscow military cooperation."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/aerospace-defense/russians-covertly-trained-by-china-return-fight-ukraine-sources-say-2026-05-19/",
+        "https://www.reuters.com/business/aerospace-defense/russians-covertly-trained-by-china-return-to-fight-ukraine-sources-say-2026-05-19/"
+      ]
     },
     {
       "headline": "NATO Fighter Jet Shoots Down Ukrainian Drone Over Estonia",
@@ -26,7 +78,23 @@
       "category": "Europe",
       "source": "AP News",
       "url": "https://apnews.com/article/ukraine-drone-downed-estonia-russia-war-c098579e65a2a76e1610329d57cf4b0a",
-      "timestamp": "2026-05-19T19:06:00+03:00"
+      "timestamp": "2026-05-19T19:06:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/may/19/europe-ukraine-russia-belarus-nuclear-drills-un-security-council-eu-us-hungary-peter-magyar-poland-nato-latest-news-updates",
+          "angle": "NATO Jet Shoots Down Drone Over Estonia, Baltic Security Heightened",
+          "summary": "A NATO fighter jet shot down a reported stray Ukrainian drone over Estonia, according to the Estonian defense minister. The incident highlights growing concerns about airspace security in the Baltic region amid the ongoing Russia-Ukraine conflict."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "The Guardian"
+      ],
+      "urls": [
+        "https://apnews.com/article/ukraine-drone-downed-estonia-russia-war-c098579e65a2a76e1610329d57cf4b0a",
+        "https://www.theguardian.com/world/live/2026/may/19/europe-ukraine-russia-belarus-nuclear-drills-un-security-council-eu-us-hungary-peter-magyar-poland-nato-latest-news-updates"
+      ]
     },
     {
       "headline": "UAE Says Drones That Hit Near Nuclear Plant Were Launched From Iraq",
@@ -35,7 +103,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/uae-says-drone-that-hit-near-its-nuclear-plant-was-launched-iraq-2026-05-19/",
-      "timestamp": "2026-05-19T19:06:00+03:00"
+      "timestamp": "2026-05-19T19:06:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/iran-us-uae-nuclear-drones-71e7e58f45193b7dee3df28740532a7b",
+          "angle": "UAE Nuclear Plant Struck by Drone in Attack Sparking Regional Fears",
+          "summary": "A drone strike sparked a fire at the edge of the United Arab Emirates' sole nuclear power plant at Barakah, raising fears of a dangerous new phase in the Gulf conflict. No one claimed responsibility, and UAE authorities called it an \"unprovoked terrorist attack.\""
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/uae-says-drone-that-hit-near-its-nuclear-plant-was-launched-iraq-2026-05-19/",
+        "https://apnews.com/article/iran-us-uae-nuclear-drones-71e7e58f45193b7dee3df28740532a7b"
+      ]
     },
     {
       "headline": "Taiwan Cautiously Optimistic on US Arms Sales Despite Trump Uncertainty",
@@ -278,15 +362,6 @@
       ]
     },
     {
-      "headline": "NATO Jet Shoots Down Drone Over Estonia, Baltic Security Heightened",
-      "summary": "A NATO fighter jet shot down a reported stray Ukrainian drone over Estonia, according to the Estonian defense minister. The incident highlights growing concerns about airspace security in the Baltic region amid the ongoing Russia-Ukraine conflict.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/19/europe-ukraine-russia-belarus-nuclear-drills-un-security-council-eu-us-hungary-peter-magyar-poland-nato-latest-news-updates",
-      "timestamp": "2026-05-19T16:05:00+03:00"
-    },
-    {
       "headline": "Gunmen Abduct 39 Students and 7 Teachers in Nigeria School Attacks",
       "summary": "Armed gunmen kidnapped 39 students and 7 teachers in coordinated attacks targeting a secondary school and two primary schools in Nigeria. Children aged between two and 16 were among those abducted in the latest mass kidnapping.",
       "emoji": "🇳🇬",
@@ -414,15 +489,6 @@
       "source": "Al-Monitor",
       "url": "https://www.al-monitor.com/originals/2026/05/iran-civilians-learn-assault-rifle-basics-fend-us",
       "timestamp": "2026-05-19T14:10:00+03:00"
-    },
-    {
-      "headline": "Chinese-trained Russian soldiers return to fight in Ukraine",
-      "summary": "European intelligence agencies report that China secretly trained around 200 Russian military personnel late last year, with some now fighting in Ukraine—a significant escalation in Beijing-Moscow military cooperation.",
-      "emoji": "🇨🇳🇷🇺⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/russians-covertly-trained-by-china-return-to-fight-ukraine-sources-say-2026-05-19/",
-      "timestamp": "2026-05-19T14:03:00+03:00"
     },
     {
       "headline": "Russia strikes Ukrainian Danube port as drones target Moscow",
@@ -1262,31 +1328,6 @@
       "urls": [
         "https://www.reuters.com/business/healthcare-pharmaceuticals/us-moves-curb-ebola-risk-says-immediate-risk-public-is-low-2026-05-18/",
         "https://apnews.com/article/congo-ebola-uganda-who-africa-emergency-6f93a87ff28107bdda8990599bbcd52d"
-      ]
-    },
-    {
-      "headline": "UAE Nuclear Plant Struck by Drone in Attack Sparking Regional Fears",
-      "summary": "A drone strike sparked a fire at the edge of the United Arab Emirates' sole nuclear power plant at Barakah, raising fears of a dangerous new phase in the Gulf conflict. No one claimed responsibility, and UAE authorities called it an \"unprovoked terrorist attack.\"",
-      "emoji": "🇦🇪☢️",
-      "category": "Middle East",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-uae-nuclear-drones-71e7e58f45193b7dee3df28740532a7b",
-      "timestamp": "2026-05-19T03:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "CBS News",
-          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/",
-          "angle": "Drone strike targets UAE nuclear power plant amid Iran conflict tensions",
-          "summary": "A drone strike hit the Barakah nuclear power plant in the UAE, setting an electrical generator on fire. No one claimed responsibility, but suspicion fell on Iran as regional tensions remain high. Nuclear safety experts warn that nuclear facilities must not be targets in conflicts."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "CBS News"
-      ],
-      "urls": [
-        "https://apnews.com/article/iran-us-uae-nuclear-drones-71e7e58f45193b7dee3df28740532a7b",
-        "https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/"
       ]
     },
     {
@@ -2417,19 +2458,19 @@
       "timestamp": "2026-05-18T01:03:00+03:00",
       "perspectives": [
         {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo",
-          "angle": "Trump Warns Iran \"Clock Is Ticking\" as Peace Talks Stall",
-          "summary": "President Trump issued a stern warning to Iran as peace negotiations show signs of stalling, with Iranian media reporting the US has not made concrete concessions in response to Tehran's latest proposals."
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-peace-deal-attack-possible/",
+          "angle": "Trump Says He Was \"An Hour Away\" From Striking Iran, Delayed Attack for Peace Talks",
+          "summary": "President Trump revealed he postponed a planned military strike on Iran by just one hour to allow negotiations to continue, saying there is a \"very good chance\" of reaching a nuclear deal with Tehran."
         }
       ],
       "sources": [
         "Reuters",
-        "BBC"
+        "CBS News"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/israel-q1-gdp-shrinks-33-annualised-iran-war-weighs-2026-05-17/",
-        "https://www.bbc.com/news/articles/cd0p4y9y48xo"
+        "https://www.cbsnews.com/live-updates/iran-war-trump-peace-deal-attack-possible/"
       ]
     },
     {
@@ -2883,31 +2924,6 @@
       "urls": [
         "https://www.reuters.com/world/italy-pm-meloni-heads-modena-after-car-ramming-cancels-cyprus-meeting-2026-05-17/",
         "https://www.reuters.com/world/italy-pm-meloni-heads-modena-after-car-ramming-cancels-cyprus-meeting-2026-05-17/"
-      ]
-    },
-    {
-      "headline": "Tata-ASML Partnership to Build India's First Semiconductor Fab",
-      "summary": "Tata Electronics and Dutch chip equipment maker ASML signed an agreement to build India's first front-end semiconductor fabrication plant in Gujarat, marking a major milestone in the country's push for chip manufacturing independence.",
-      "emoji": "🇮🇳",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/india/tata-electronics-asml-partner-indias-first-semiconductor-fab-2026-05-16/",
-      "timestamp": "2026-05-17T15:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/5/17/indias-tata-and-dutch-giant-asml-sign-semiconductor-deal-during-modi-visit",
-          "angle": "Tata and ASML Sign Major Semiconductor Deal During Modi Netherlands Visit",
-          "summary": "India's Tata Group and Dutch chip equipment giant ASML signed a semiconductor cooperation agreement as Prime Minister Modi visited the Netherlands, with talks also focusing on defense and security cooperation."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/india/tata-electronics-asml-partner-indias-first-semiconductor-fab-2026-05-16/",
-        "https://www.aljazeera.com/news/2026/5/17/indias-tata-and-dutch-giant-asml-sign-semiconductor-deal-during-modi-visit"
       ]
     }
   ]
