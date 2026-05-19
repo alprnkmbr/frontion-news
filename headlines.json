@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-19T05:05:43+03:00",
+  "lastUpdated": "2026-05-19T06:05:42+03:00",
   "headlines": [
+    {
+      "headline": "Russia hammers Kyiv for third straight day, flattening apartment block",
+      "summary": "Russian forces launched mass drone and missile attacks on Kyiv for the third consecutive day, damaging six districts and injuring civilians. The escalation follows Ukraine's largest drone attack on Moscow this year.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-drones-missiles-zelenskyy-putin-12b12a7694b6f7df0e1ba971068efc86",
+      "timestamp": "2026-05-19T06:00:00+03:00"
+    },
+    {
+      "headline": "US pauses WWII-era joint defense board with Canada over commitments dispute",
+      "summary": "The Pentagon announced it is pausing participation in the Permanent Joint Board on Defense with Canada, accusing Ottawa of failing to meet defense commitments. The board has coordinated continental defense since 1940.",
+      "emoji": "🇺🇸🇨🇦",
+      "category": "Defense Industry",
+      "source": "AP News",
+      "url": "https://www.bostonherald.com/2026/05/18/united-states-canada-defense/",
+      "timestamp": "2026-05-19T06:00:00+03:00"
+    },
+    {
+      "headline": "Poland seeks urgent talks with US after troop deployment halt",
+      "summary": "Poland's defense minister called for honest discussions with Washington after being blindsided by the US decision to halt troop deployments. The move raises concerns about NATO eastern flank security.",
+      "emoji": "🇵🇱",
+      "category": "Europe",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/poland-seeks-honest-talks-with-us-on-troop-levels-in-nato-ally",
+      "timestamp": "2026-05-19T06:00:00+03:00"
+    },
+    {
+      "headline": "Xi told Trump that Putin might regret Ukraine invasion",
+      "summary": "Chinese President Xi Jinping told Trump during their Beijing summit that Putin may come to regret the invasion of Ukraine, according to US assessments. The disclosure suggests growing Chinese unease over Russia's war.",
+      "emoji": "🇨🇳🇺🇸",
+      "category": "Diplomacy",
+      "source": "AP News",
+      "url": "https://www.afr.com/world/asia/xi-told-trump-that-putin-might-regret-invasion-of-ukraine-20260519-p5zyoy",
+      "timestamp": "2026-05-19T06:00:00+03:00"
+    },
     {
       "headline": "Trump Threatens Iran as Middle East Tensions Surge",
       "summary": "President Trump has sought to force Iran to accept his terms on its nuclear program or face renewed war, as an emboldened Israel weighs its next moves. The administration is pushing for a deal while military options remain on the table.",
@@ -17,7 +53,23 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/us-crude-futures-fall-over-2-trump-says-he-holds-off-scheduled-attack-iran-2026-05-18/",
-      "timestamp": "2026-05-19T05:00:00+03:00"
+      "timestamp": "2026-05-19T05:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/oil-rises-more-than-1-after-drone-attack-uae-nuclear-power-plant-2026-05-17/",
+          "angle": "Oil prices climb after drone attack on UAE nuclear plant",
+          "summary": "Oil prices extended gains as efforts to end the US-Iran conflict appeared stalled following a drone attack on a UAE nuclear power plant and President Trump prepared to discuss military options on Iran."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/us-crude-futures-fall-over-2-trump-says-he-holds-off-scheduled-attack-iran-2026-05-18/",
+        "https://www.reuters.com/business/energy/oil-rises-more-than-1-after-drone-attack-uae-nuclear-power-plant-2026-05-17/"
+      ]
     },
     {
       "headline": "Putin Visits China to Reaffirm Russia Ties as Xi Seeks Stable US Relations",
@@ -26,7 +78,23 @@
       "category": "US-China",
       "source": "AP News",
       "url": "https://apnews.com/article/china-russia-putin-xi-beijing-visit-trump-0c0086341e9694122a49fb7054b41d97",
-      "timestamp": "2026-05-19T05:00:00+03:00"
+      "timestamp": "2026-05-19T05:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3353996/unbeatable-china-beijing-global-focal-point-russia-pins-hopes-putin-xi-summit",
+          "angle": "Putin-Xi summit to advance Russia-China ties amid Iran war",
+          "summary": "Beijing becomes a global focal point as Russia pins hopes on the upcoming Putin-Xi summit, with the Power of Siberia 2 gas pipeline expected to be discussed in detail."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "SCMP"
+      ],
+      "urls": [
+        "https://apnews.com/article/china-russia-putin-xi-beijing-visit-trump-0c0086341e9694122a49fb7054b41d97",
+        "https://www.scmp.com/news/china/diplomacy/article/3353996/unbeatable-china-beijing-global-focal-point-russia-pins-hopes-putin-xi-summit"
+      ]
     },
     {
       "headline": "Trump Moves to Admit 10,000 More White South Africans as Refugees",
@@ -318,15 +386,6 @@
       "category": "Ukraine-Russia War",
       "source": "Defense News",
       "url": "https://www.defensenews.com/global/europe/2026/05/18/ukraine-declares-its-first-homegrown-guided-aerial-bomb-combat-ready/",
-      "timestamp": "2026-05-19T02:06:00+03:00"
-    },
-    {
-      "headline": "Putin-Xi summit to advance Russia-China ties amid Iran war",
-      "summary": "Beijing becomes a global focal point as Russia pins hopes on the upcoming Putin-Xi summit, with the Power of Siberia 2 gas pipeline expected to be discussed in detail.",
-      "emoji": "🇨🇳🇷🇺",
-      "category": "US-China",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3353996/unbeatable-china-beijing-global-focal-point-russia-pins-hopes-putin-xi-summit",
       "timestamp": "2026-05-19T02:06:00+03:00"
     },
     {
@@ -1278,15 +1337,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/rivers-oxygen-loss-dead-zone-global-warming-38b9116cc127f4212b1c20da08af0416",
       "timestamp": "2026-05-18T08:03:00+03:00"
-    },
-    {
-      "headline": "Oil prices climb after drone attack on UAE nuclear plant",
-      "summary": "Oil prices extended gains as efforts to end the US-Iran conflict appeared stalled following a drone attack on a UAE nuclear power plant and President Trump prepared to discuss military options on Iran.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-rises-more-than-1-after-drone-attack-uae-nuclear-power-plant-2026-05-17/",
-      "timestamp": "2026-05-18T07:05:00+03:00"
     },
     {
       "headline": "German prosecutors expose Russian sanctions-busting network supplying military tech",
@@ -2930,24 +2980,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/romania-finds-unexploded-projectile-village-near-ukraine-border-2026-05-16/",
       "timestamp": "2026-05-17T00:03:00+03:00"
-    },
-    {
-      "headline": "Iran War Worth Economic Pain, Say Rural Trump Voters",
-      "summary": "Despite rising gas prices and economic strain from the Iran conflict, rural Colorado voters remain steadfast in their support for Trump administration policies.",
-      "emoji": "🇺🇸",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/trump-says-iran-war-is-worth-economic-pain-these-rural-voters-agree-2026-05-16/",
-      "timestamp": "2026-05-16T23:03:00+03:00"
-    },
-    {
-      "headline": "Colombia Mayor Shot Dead During Election Campaign",
-      "summary": "A former mayor allied with presidential candidate Abelardo de La Espriella was assassinated in central Colombia amid escalating election violence.",
-      "emoji": "🇨🇴",
-      "category": "Latin America",
-      "source": "AP News",
-      "url": "https://apnews.com/article/colombia-mayor-shooting-election-violence-f1fb4c6e3ece4cdfaf3adc9698cdeee9",
-      "timestamp": "2026-05-16T23:03:00+03:00"
     }
   ]
 }
