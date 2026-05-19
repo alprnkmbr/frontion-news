@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-20T00:07:25+03:00",
+  "lastUpdated": "2026-05-20T00:11:53+03:00",
   "headlines": [
+    {
+      "headline": "US Charges 7 Chinese Executives in Global Container Cartel Crackdown",
+      "summary": "The US Justice Department charged executives from companies that manufacture 95% of the world's shipping containers for price-fixing. The move targets China's dominance over global logistics infrastructure.",
+      "emoji": "🇺🇸🇨🇳",
+      "category": "US-China",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/united-states-canada/article/3354151/us-charges-7-chinese-executives-and-4-shipping-firms-linked-container-cartel",
+      "timestamp": "2026-05-20T00:15:00+03:00"
+    },
+    {
+      "headline": "Iran Warns of New Fronts as US Threatens Large-Scale Assault",
+      "summary": "Tehran threatened to open new conflict fronts after Washington warned of potential large-scale military operations. Trump said he was \"an hour away\" from striking Iran before Gulf allies requested delay.",
+      "emoji": "🇮🇷⚠️",
+      "category": "Middle East",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/middle-east/20260519-iran-warns-it-could-open-up-new-fronts-in-war-after-us-threatens-large-scale-assault",
+      "timestamp": "2026-05-20T00:15:00+03:00"
+    },
+    {
+      "headline": "Israeli Strike Kills 10 in Lebanon Despite Ceasefire",
+      "summary": "An Israeli strike on southern Lebanon killed at least 10 people including three women and three children, Lebanon's Health Ministry said, violating the Israel-Hezbollah ceasefire agreement.",
+      "emoji": "🇱🇧🇮🇱",
+      "category": "Middle East",
+      "source": "Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/lebanese-health-ministry-says-israeli-strike-kills-10/",
+      "timestamp": "2026-05-20T00:15:00+03:00"
+    },
+    {
+      "headline": "UN: Over 15,800 Killed in Russia's War on Ukraine",
+      "summary": "The United Nations confirmed nearly 800 children are among the more than 15,800 people killed since Russia's full-scale invasion began in February 2022.",
+      "emoji": "🇺🇦💔",
+      "category": "Ukraine-Russia War",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un",
+      "timestamp": "2026-05-20T00:15:00+03:00"
+    },
+    {
+      "headline": "US Crude Inventories Fall 9.1 Million Barrels",
+      "summary": "API reported crude inventories fell by 9.1 million barrels, though stocks remain higher than last year. Oil prices stay above $100 as Iran conflict continues.",
+      "emoji": "🛢️💰",
+      "category": "Energy",
+      "source": "Oil Price",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Inventories-Fall-Quickly-But-Still-Up-This-Year.html",
+      "timestamp": "2026-05-20T00:15:00+03:00"
+    },
     {
       "headline": "NATO Jet Shoots Down Ukrainian Drone Over Estonia",
       "summary": "A Romanian F-16 deployed with NATO intercepted and downed a Ukrainian drone over southern Estonia. Ukraine apologized for the incident, while Russia threatened retaliation if Baltic countries allow their territory to be used for attacks.",
@@ -8,7 +53,23 @@
       "category": "Europe",
       "source": "AP News",
       "url": "https://apnews.com/article/ukraine-drone-downed-estonia-russia-war-c098579e65a2a76e1610329d57cf4b0a",
-      "timestamp": "2026-05-20T00:03:00+03:00"
+      "timestamp": "2026-05-20T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/ukraine-drone-downed-estonia-russia-war-c098579e65a2a76e1610329d57cf4b0a",
+          "angle": "NATO Fighter Jet Shoots Down Ukrainian Drone Over Estonia",
+          "summary": "A NATO fighter jet intercepted and shot down a Ukrainian drone that had entered Estonian airspace, highlighting the complexity of airspace management as Ukraine defends against Russian attacks."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "AP News"
+      ],
+      "urls": [
+        "https://apnews.com/article/ukraine-drone-downed-estonia-russia-war-c098579e65a2a76e1610329d57cf4b0a",
+        "https://apnews.com/article/ukraine-drone-downed-estonia-russia-war-c098579e65a2a76e1610329d57cf4b0a"
+      ]
     },
     {
       "headline": "US Plans to Shrink NATO Crisis Forces",
@@ -17,15 +78,6 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/us-plans-shrink-forces-available-nato-during-crises-sources-say-2026-05-19/",
-      "timestamp": "2026-05-20T00:03:00+03:00"
-    },
-    {
-      "headline": "Ebola Deaths Surge to 131 in Congo Outbreak",
-      "summary": "The Ebola outbreak in Democratic Republic of Congo has killed at least 131 people with 531 suspected infections. WHO Director-General expressed deep concern about the scale and speed of the epidemic, caused by the rare Bundibugyo strain which has no approved vaccine.",
-      "emoji": "🌍",
-      "category": "Africa",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/africa/ebola-outbreak-deaths-rise-scale-speed-concerns-who-congo-uganda-rcna345833",
       "timestamp": "2026-05-20T00:03:00+03:00"
     },
     {
@@ -142,19 +194,19 @@
       "timestamp": "2026-05-19T22:03:00+03:00",
       "perspectives": [
         {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cjwpy2qww5do",
-          "angle": "American Doctor With Ebola Evacuated to Germany as Congo Outbreak Spreads",
-          "summary": "A US surgeon working with a missionary group in DR Congo tested positive for Ebola and is being treated in isolation at a Berlin hospital. The outbreak has killed at least 131 people with over 513 suspected cases."
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/world/africa/ebola-outbreak-deaths-rise-scale-speed-concerns-who-congo-uganda-rcna345833",
+          "angle": "Ebola Deaths Surge to 131 in Congo Outbreak",
+          "summary": "The Ebola outbreak in Democratic Republic of Congo has killed at least 131 people with 531 suspected infections. WHO Director-General expressed deep concern about the scale and speed of the epidemic, caused by the rare Bundibugyo strain which has no approved vaccine."
         }
       ],
       "sources": [
         "Reuters",
-        "BBC"
+        "NBC News"
       ],
       "urls": [
         "https://www.reuters.com/world/africa/fast-spreading-ebola-outbreak-central-africa-2026-05-19/",
-        "https://www.bbc.com/news/articles/cjwpy2qww5do"
+        "https://www.nbcnews.com/world/africa/ebola-outbreak-deaths-rise-scale-speed-concerns-who-congo-uganda-rcna345833"
       ]
     },
     {
@@ -360,31 +412,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/japans-economy-grew-more-than-expected-q1-2026-05-19/",
       "timestamp": "2026-05-19T20:05:00+03:00"
-    },
-    {
-      "headline": "NATO Fighter Jet Shoots Down Ukrainian Drone Over Estonia",
-      "summary": "A NATO fighter jet intercepted and shot down a Ukrainian drone that had entered Estonian airspace, highlighting the complexity of airspace management as Ukraine defends against Russian attacks.",
-      "emoji": "🇪🇪",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://apnews.com/article/ukraine-drone-downed-estonia-russia-war-c098579e65a2a76e1610329d57cf4b0a",
-      "timestamp": "2026-05-19T19:06:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c302jy8z4vro",
-          "angle": "NATO Fighter Jet Shoots Down Drone Over Estonia, Suspects Russian Jamming",
-          "summary": "A Romanian F-16 shot down a drone in central Estonia that officials believe was a Ukrainian projectile redirected by Russian electronic warfare. Ukraine apologized for the incident, accusing Russia of deliberately redirecting drones into Baltic airspace."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "BBC"
-      ],
-      "urls": [
-        "https://apnews.com/article/ukraine-drone-downed-estonia-russia-war-c098579e65a2a76e1610329d57cf4b0a",
-        "https://www.bbc.com/news/articles/c302jy8z4vro"
-      ]
     },
     {
       "headline": "UAE Says Drones That Hit Near Nuclear Plant Were Launched From Iraq",
@@ -2906,49 +2933,6 @@
       "source": "El País",
       "url": "https://english.elpais.com/international/2026-05-17/raul-castro-the-defining-symbol-of-revolutionary-cuba-is-in-the-crosshairs-of-the-us-government.html",
       "timestamp": "2026-05-17T18:05:00+03:00"
-    },
-    {
-      "headline": "Iranian president thanks neighbors for blocking territory use against Iran",
-      "summary": "Iran President Masoud Pezeshkian praised neighboring countries for preventing \"misuse of their territory\" against Iran during a meeting with Pakistan interior minister, amid ongoing regional tensions and ceasefire negotiations.",
-      "emoji": "🇮🇷🇵🇰",
-      "category": "Middle East",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/middle-east/iranian-president-praises-neighbors-for-preventing-misuse-of-territory-against-iran/3940253",
-      "timestamp": "2026-05-17T18:05:00+03:00"
-    },
-    {
-      "headline": "AIPAC leads record spending to unseat Thomas Massie in House primary",
-      "summary": "Pro-Israel groups are pouring unprecedented funds into defeating Rep. Thomas Massie (R-KY) in what has become the most expensive House primary in history, with AIPAC and aligned super PACs spending millions on attack ads.",
-      "emoji": "🇺🇸🏛️",
-      "category": "US Politics",
-      "source": "Politico",
-      "url": "https://www.politico.com/news/2026/05/17/massie-aipac-record-spending-israel-maga-trump-primary-00925375",
-      "timestamp": "2026-05-17T18:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Haaretz",
-          "url": "https://www.haaretz.com/us-news/2026-05-15/ty-article/.premium/leading-gop-critic-of-israel-introduces-aipac-act-days-before-25m-primary/0000019e-2821-d618-adde-387300a00000",
-          "angle": "GOP Rep. Massie Introduces AIPAC Act Targeting Foreign Lobbying Days Before Primary",
-          "summary": "Rep. Thomas Massie, the harshest Republican critic of Israel in Congress, introduced legislation aimed at foreign lobbying efforts just days before his Kentucky primary. The bill targets AIPAC and similar organizations."
-        }
-      ],
-      "sources": [
-        "Politico",
-        "Haaretz"
-      ],
-      "urls": [
-        "https://www.politico.com/news/2026/05/17/massie-aipac-record-spending-israel-maga-trump-primary-00925375",
-        "https://www.haaretz.com/us-news/2026-05-15/ty-article/.premium/leading-gop-critic-of-israel-introduces-aipac-act-days-before-25m-primary/0000019e-2821-d618-adde-387300a00000"
-      ]
-    },
-    {
-      "headline": "US to Weigh Action Against China Over Industrial Overcapacity",
-      "summary": "US Trade Ambassador says President Trump will be presented with options if investigations determine Chinese industrial overcapacity harms American interests, as trade tensions persist.",
-      "emoji": "🇨🇳",
-      "category": "US-China",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-17/us-to-mull-action-if-china-overcapacity-found-trade-envoy-says",
-      "timestamp": "2026-05-17T17:03:00+03:00"
     }
   ]
 }
