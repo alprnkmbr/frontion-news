@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-19T20:13:31+03:00",
+  "lastUpdated": "2026-05-19T21:07:27+03:00",
   "headlines": [
+    {
+      "headline": "Trump Warns of More Strikes on Iran, Says Tehran Wants Deal",
+      "summary": "President Trump said he was an hour away from ordering another attack on Iran before postponing it. Tehran denies ongoing talks but Trump claims diplomatic progress.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/trump-says-us-may-need-hit-iran-again-2026-05-19/",
+      "timestamp": "2026-05-19T21:03:00+03:00"
+    },
+    {
+      "headline": "Russia Warns Latvia Over Ukraine Drone Launches, Threatens Retaliation",
+      "summary": "Moscow warned that NATO membership would not protect Baltic states if Ukraine launches drones from their territory. The threat follows a NATO jet shooting down a Ukrainian drone over Estonia.",
+      "emoji": "🇷🇺🇱🇻",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/russia-warns-latvia-against-letting-ukraine-launch-drones-threatens-retaliation-2026-05-19/",
+      "timestamp": "2026-05-19T21:03:00+03:00"
+    },
+    {
+      "headline": "G7 Finance Ministers Call for Action on Global Trade Imbalances",
+      "summary": "Finance ministers from G7 nations agreed on the need to address trade imbalances in a fragmented global economy, though concrete measures remain unspecified amid Iran war fallout.",
+      "emoji": "🌍💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/g7-finance-ministers-explore-responses-iran-war-fallout-2026-05-19/",
+      "timestamp": "2026-05-19T21:03:00+03:00"
+    },
+    {
+      "headline": "Israeli Minister Threatens West Bank Evictions Over ICC Arrest Warrant",
+      "summary": "Hard-line minister Bezalel Smotrich said he would retaliate against Palestinians for the ICC seeking his arrest, threatening to evict residents from a West Bank hamlet.",
+      "emoji": "🇮🇱⛪",
+      "category": "Middle East",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/19/world/middleeast/smotrich-icc-west-bank.html",
+      "timestamp": "2026-05-19T21:03:00+03:00"
+    },
+    {
+      "headline": "NATO Commander Downplays US Troop Withdrawals from Europe",
+      "summary": "General Alexus Grynkewich said no more than 5,000 US troops would be withdrawn in the near term, reassuring allies after Trump announced partial drawdowns.",
+      "emoji": "🇪🇺🛡️",
+      "category": "Europe",
+      "source": "Politico EU",
+      "url": "https://www.politico.eu/article/natos-top-commander-downplays-us-donald-trump-troop-withdrawals/",
+      "timestamp": "2026-05-19T21:03:00+03:00"
+    },
     {
       "headline": "Cuba Warns of \"Bloodbath\" if US Attacks as Washington Expands Sanctions",
       "summary": "President Díaz-Canel stressed Cuba's right to defend itself after reports Havana obtained over 300 military drones from an unspecified source. Washington expanded sanctions amid rising tensions.",
@@ -8,16 +53,23 @@
       "category": "Latin America",
       "source": "SCMP",
       "url": "https://www.scmp.com/news/world/americas/article/3354025/cuba-warns-bloodbath-if-us-attacks-washington-adds-sanctions",
-      "timestamp": "2026-05-19T20:09:00+03:00"
-    },
-    {
-      "headline": "Putin Arrives in China Days After Trump's Visit to Strengthen Strategic Ties",
-      "summary": "Russian President Vladimir Putin made his 25th visit to China, seeking to strengthen the close bond between the nations following US President Donald Trump's earlier visit to Beijing.",
-      "emoji": "🇷🇺🇨🇳",
-      "category": "Diplomacy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3354142/russian-leader-vladimir-putin-arrives-china-just-days-after-donald-trumps-visit",
-      "timestamp": "2026-05-19T20:09:00+03:00"
+      "timestamp": "2026-05-19T20:09:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/americas/article/3354025/cuba-warns-bloodbath-if-us-attacks-washington-adds-sanctions",
+          "angle": "Cuba warns of bloodbath if US attacks as Washington imposes sanctions",
+          "summary": "President Diaz-Canel warned of a bloodbath if the US attacks Cuba, while the US Treasury sanctioned Cuba's main intelligence agency and top leaders amid reports Havana obtained military drones from Russia and Iran."
+        }
+      ],
+      "sources": [
+        "SCMP",
+        "SCMP"
+      ],
+      "urls": [
+        "https://www.scmp.com/news/world/americas/article/3354025/cuba-warns-bloodbath-if-us-attacks-washington-adds-sanctions",
+        "https://www.scmp.com/news/world/americas/article/3354025/cuba-warns-bloodbath-if-us-attacks-washington-adds-sanctions"
+      ]
     },
     {
       "headline": "Ebola Death Toll in DR Congo Rises to at Least 131",
@@ -26,15 +78,6 @@
       "category": "Africa",
       "source": "France 24",
       "url": "https://www.france24.com/en/africa/20260519-estimated-dr-congo-ebola-death-toll-rises-sharply-to-at-least-131",
-      "timestamp": "2026-05-19T20:09:00+03:00"
-    },
-    {
-      "headline": "UAE Says Drones Targeting Nuclear Plant Came From Iraq",
-      "summary": "The United Arab Emirates stated that drones which targeted its nuclear plant last week originated from Iraq, amid heightened regional tensions from the Iran-US conflict.",
-      "emoji": "🇦🇪",
-      "category": "Middle East",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/uae-iraq-nuclear-plant-drone-strike-6130521",
       "timestamp": "2026-05-19T20:09:00+03:00"
     },
     {
@@ -74,27 +117,19 @@
       "timestamp": "2026-05-19T20:05:00+03:00",
       "perspectives": [
         {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/05/19/business/inflation-g7-economic-agenda-iran-war.html",
-          "angle": "G7 economic agenda clouded by inflation fears as Iran war persists",
-          "summary": "US and Europe clash over Russan oil sanctions relief as energy shocks from Iran conflict drive inflation concerns at G7 meetings."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/g7-finance-ministers-explore-responses-iran-war-fallout-2026-05-19/",
-          "angle": "G7 finance ministers explore responses to Iran war economic fallout",
-          "summary": "France's finance minister urged the IMF and World Bank to help countries most vulnerable to Middle East conflict fallout, as G7 finance ministers met in Paris to address rising energy prices and sanctions policy amid the US-Iran standoff."
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-05-19/uk-energy-price-cap-seen-surging-13-in-biggest-gain-since-2023",
+          "angle": "UK Energy Bills Set to Jump 13% as Iran War Drives Gas Prices",
+          "summary": "Britain's household energy price cap is expected to surge 13% this summer, the largest increase since 2023, as the conflict in Iran pushes up wholesale gas and electricity costs."
         }
       ],
       "sources": [
         "Reuters",
-        "New York Times",
-        "Reuters"
+        "Bloomberg"
       ],
       "urls": [
         "https://www.reuters.com/world/americas/canadas-april-inflation-surges-28-iran-war-drives-gasoline-costs-up-2026-05-19/",
-        "https://www.nytimes.com/2026/05/19/business/inflation-g7-economic-agenda-iran-war.html",
-        "https://www.reuters.com/world/china/g7-finance-ministers-explore-responses-iran-war-fallout-2026-05-19/"
+        "https://www.bloomberg.com/news/articles/2026-05-19/uk-energy-price-cap-seen-surging-13-in-biggest-gain-since-2023"
       ]
     },
     {
@@ -105,6 +140,31 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/japans-economy-grew-more-than-expected-q1-2026-05-19/",
       "timestamp": "2026-05-19T20:05:00+03:00"
+    },
+    {
+      "headline": "UAE Says Drones That Hit Near Nuclear Plant Were Launched From Iraq",
+      "summary": "The UAE confirmed six drones were launched against it from Iraq in the past 48 hours, including one that caused a fire at the Barakah nuclear power plant, amid escalating regional tensions.",
+      "emoji": "🇦🇪",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/uae-says-drone-that-hit-near-its-nuclear-plant-was-launched-iraq-2026-05-19/",
+      "timestamp": "2026-05-19T19:06:00+03:00",
+      "perspectives": [
+        {
+          "source": "CNA",
+          "url": "https://www.channelnewsasia.com/world/uae-iraq-nuclear-plant-drone-strike-6130521",
+          "angle": "UAE Says Drones Targeting Nuclear Plant Came From Iraq",
+          "summary": "The United Arab Emirates stated that drones which targeted its nuclear plant last week originated from Iraq, amid heightened regional tensions from the Iran-US conflict."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "CNA"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/uae-says-drone-that-hit-near-its-nuclear-plant-was-launched-iraq-2026-05-19/",
+        "https://www.channelnewsasia.com/world/uae-iraq-nuclear-plant-drone-strike-6130521"
+      ]
     },
     {
       "headline": "Russians Covertly Trained by China Return to Fight in Ukraine, Intelligence Sources Say",
@@ -154,31 +214,6 @@
       "urls": [
         "https://apnews.com/article/ukraine-drone-downed-estonia-russia-war-c098579e65a2a76e1610329d57cf4b0a",
         "https://www.theguardian.com/world/live/2026/may/19/europe-ukraine-russia-belarus-nuclear-drills-un-security-council-eu-us-hungary-peter-magyar-poland-nato-latest-news-updates"
-      ]
-    },
-    {
-      "headline": "UAE Says Drones That Hit Near Nuclear Plant Were Launched From Iraq",
-      "summary": "The UAE confirmed six drones were launched against it from Iraq in the past 48 hours, including one that caused a fire at the Barakah nuclear power plant, amid escalating regional tensions.",
-      "emoji": "🇦🇪",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/uae-says-drone-that-hit-near-its-nuclear-plant-was-launched-iraq-2026-05-19/",
-      "timestamp": "2026-05-19T19:06:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/iran-us-uae-nuclear-drones-71e7e58f45193b7dee3df28740532a7b",
-          "angle": "UAE Nuclear Plant Struck by Drone in Attack Sparking Regional Fears",
-          "summary": "A drone strike sparked a fire at the edge of the United Arab Emirates' sole nuclear power plant at Barakah, raising fears of a dangerous new phase in the Gulf conflict. No one claimed responsibility, and UAE authorities called it an \"unprovoked terrorist attack.\""
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/uae-says-drone-that-hit-near-its-nuclear-plant-was-launched-iraq-2026-05-19/",
-        "https://apnews.com/article/iran-us-uae-nuclear-drones-71e7e58f45193b7dee3df28740532a7b"
       ]
     },
     {
@@ -737,15 +772,6 @@
       "timestamp": "2026-05-19T12:03:00+03:00"
     },
     {
-      "headline": "UK Energy Bills Set to Jump 13% as Iran War Drives Gas Prices",
-      "summary": "Britain's household energy price cap is expected to surge 13% this summer, the largest increase since 2023, as the conflict in Iran pushes up wholesale gas and electricity costs.",
-      "emoji": "⚡",
-      "category": "Economy",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-19/uk-energy-price-cap-seen-surging-13-in-biggest-gain-since-2023",
-      "timestamp": "2026-05-19T11:03:00+03:00"
-    },
-    {
       "headline": "Iran Announces New Authority to \"Manage\" Strait of Hormuz",
       "summary": "Iran formed a new body to oversee the Strait of Hormuz, managing ship transits and collecting passage fees. The move comes as Tehran continues its blockade while facing a US maritime embargo on Iranian ports.",
       "emoji": "🇮🇷",
@@ -969,19 +995,27 @@
       "timestamp": "2026-05-19T08:03:00+03:00",
       "perspectives": [
         {
-          "source": "France24",
-          "url": "https://www.france24.com/en/asia-pacific/20260519-putin-seeks-to-reinforce-china-ties-after-trump-pageantry",
-          "angle": "Putin arrives in Beijing to reinforce China ties after Trump summit",
-          "summary": "The Russian president meets Xi Jinping just days after Trump's high-profile Beijing visit, as China seeks to project itself as a stable global power amid multiple crises."
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3354142/russian-leader-vladimir-putin-arrives-china-just-days-after-donald-trumps-visit",
+          "angle": "Putin Arrives in China Days After Trump's Visit to Strengthen Strategic Ties",
+          "summary": "Russian President Vladimir Putin made his 25th visit to China, seeking to strengthen the close bond between the nations following US President Donald Trump's earlier visit to Beijing."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/kremlin-says-it-has-serious-expectations-putins-trip-china-2026-05-18/",
+          "angle": "Kremlin Has High Expectations for Putin's China Visit",
+          "summary": "Russia expressed serious expectations for President Putin's upcoming trip to China this week, where he will meet Xi Jinping to discuss developing their \"privileged partnership\" amid the Iran war and Ukraine conflict."
         }
       ],
       "sources": [
         "Reuters",
-        "France24"
+        "SCMP",
+        "Reuters"
       ],
       "urls": [
         "https://www.reuters.com/world/china/xi-host-old-friend-putin-china-projects-stable-global-role-after-trump-visit-2026-05-19/",
-        "https://www.france24.com/en/asia-pacific/20260519-putin-seeks-to-reinforce-china-ties-after-trump-pageantry"
+        "https://www.scmp.com/news/china/diplomacy/article/3354142/russian-leader-vladimir-putin-arrives-china-just-days-after-donald-trumps-visit",
+        "https://www.reuters.com/world/china/kremlin-says-it-has-serious-expectations-putins-trip-china-2026-05-18/"
       ]
     },
     {
@@ -1544,15 +1578,6 @@
       "timestamp": "2026-05-19T01:05:00+03:00"
     },
     {
-      "headline": "Cuba warns of bloodbath if US attacks as Washington imposes sanctions",
-      "summary": "President Diaz-Canel warned of a bloodbath if the US attacks Cuba, while the US Treasury sanctioned Cuba's main intelligence agency and top leaders amid reports Havana obtained military drones from Russia and Iran.",
-      "emoji": "🇨🇺",
-      "category": "Latin America",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/americas/article/3354025/cuba-warns-bloodbath-if-us-attacks-washington-adds-sanctions",
-      "timestamp": "2026-05-19T00:05:00+03:00"
-    },
-    {
       "headline": "US asks Israel to keep refueling aircraft at Ben Gurion through 2026",
       "summary": "The US has requested Israel to keep its refueling aircraft at Ben Gurion Airport until the end of 2026, with reports indicating the presence of US aircraft is causing operational difficulties at the airport.",
       "emoji": "✈️",
@@ -1820,15 +1845,6 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/russia-hits-ukraines-odesa-dnipro-with-drones-missiles-overnight-officials-say-2026-05-18/",
-      "timestamp": "2026-05-18T19:10:00+03:00"
-    },
-    {
-      "headline": "Kremlin Has High Expectations for Putin's China Visit",
-      "summary": "Russia expressed serious expectations for President Putin's upcoming trip to China this week, where he will meet Xi Jinping to discuss developing their \"privileged partnership\" amid the Iran war and Ukraine conflict.",
-      "emoji": "🇷🇺🇨🇳",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/kremlin-says-it-has-serious-expectations-putins-trip-china-2026-05-18/",
       "timestamp": "2026-05-18T19:10:00+03:00"
     },
     {
