@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-19T12:09:18+03:00",
+  "lastUpdated": "2026-05-19T13:13:55+03:00",
   "headlines": [
     {
-      "headline": "Russia Launches Nationwide Nuclear Drills as Ukraine Drone War Intensifies",
-      "summary": "Moscow began nationwide nuclear exercises while both Russia and Ukraine escalated cross-border aerial strikes, marking a dangerous escalation in the conflict.",
-      "emoji": "☢️",
+      "headline": "Putin says Russia and China ready to back each other on sovereignty issues",
+      "summary": "Russian President Vladimir Putin stated ahead of his visit to Beijing that Russia and China are prepared to support each other on a wide range of issues including national unity and protection of sovereignty, in a video address released before his Tuesday summit with Xi Jinping.",
+      "emoji": "🇷🇺🇨🇳",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/putin-says-russia-china-ready-back-each-other-issues-such-protecting-sovereignty-2026-05-19/",
+      "timestamp": "2026-05-19T13:00:00+03:00"
+    },
+    {
+      "headline": "G7 finance ministers explore responses to Iran war economic fallout",
+      "summary": "France's finance minister urged the IMF and World Bank to help countries most vulnerable to Middle East conflict fallout, as G7 finance ministers met in Paris to address rising energy prices and sanctions policy amid the US-Iran standoff.",
+      "emoji": "🏦🌍",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/g7-finance-ministers-explore-responses-iran-war-fallout-2026-05-19/",
+      "timestamp": "2026-05-19T13:01:00+03:00"
+    },
+    {
+      "headline": "Global stocks and bonds steady as oil prices ease on Trump Iran comments",
+      "summary": "Global markets stabilized after President Trump paused a planned attack on Iran and said there was a good chance of reaching a nuclear deal, sending oil prices lower and calming investor concerns about escalating Middle East tensions.",
+      "emoji": "📈🛢️",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/global-markets-global-markets-2026-05-19/",
+      "timestamp": "2026-05-19T13:02:00+03:00"
+    },
+    {
+      "headline": "Russian missile and drone strikes kill four in Ukraine's northern regions",
+      "summary": "Russian ballistic missile and drone strikes killed four people and injured several others in Ukraine's northern Chernihiv and Sumy regions, according to Ukrainian officials, as attacks continued on multiple fronts.",
+      "emoji": "🇺🇦⚔️",
       "category": "Ukraine-Russia War",
-      "source": "DW",
-      "url": "https://www.dw.com/en/moscow-begins-nuclear-drills-as-russia-ukraine-drone-strikes-intensify/a-77208390",
-      "timestamp": "2026-05-19T12:07:00+03:00"
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/russian-missile-drone-strikes-kill-four-ukraines-northern-regions-officials-say-2026-05-19/",
+      "timestamp": "2026-05-19T13:03:00+03:00"
+    },
+    {
+      "headline": "Ebola deaths in eastern Congo rise to 131 as outbreak spreads",
+      "summary": "Twenty-six more suspected Ebola deaths were recorded in 24 hours in eastern Democratic Republic of Congo, bringing the death toll to 131, as the WHO chief expressed deep concern about the outbreak's speed and scale.",
+      "emoji": "🦠🇨🇩",
+      "category": "Africa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-deaths-eastern-congo-rise-131-outbreak-spreads-2026-05-19/",
+      "timestamp": "2026-05-19T13:04:00+03:00"
     },
     {
       "headline": "Turkey Arrests 110 People in Nationwide ISIS Crackdown",
@@ -62,16 +98,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/south-korea-japan-agree-boost-energy-cooperation-strengthen-security-ties-2026-05-19/",
-      "timestamp": "2026-05-19T12:03:00+03:00"
-    },
-    {
-      "headline": "Iran Proposes Peace Deal With Reparations and US Troop Withdrawal",
-      "summary": "Tehran presented a revised peace proposal to the US via Pakistan, demanding reparations for war damage and withdrawal of American forces from the region, as diplomatic efforts continue amid ongoing conflict.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/iran-says-peace-proposal-includes-reparations-war-damage-us-troop-withdrawal-2026-05-19/",
-      "timestamp": "2026-05-19T11:03:00+03:00"
+      "timestamp": "2026-05-19T12:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/05/19/japan/politics/takaichi-lee-japan-south-korea-summit/",
+          "angle": "Japan-South Korea to Agree on Oil Stockpiling Cooperation",
+          "summary": "Japanese PM Sanae Takaichi and South Korean President Lee Jae Myung are set to agree on a cooperative framework for securing crude oil supplies including joint stockpiling at their summit on Tuesday."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Japan Times"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/south-korea-japan-agree-boost-energy-cooperation-strengthen-security-ties-2026-05-19/",
+        "https://www.japantimes.co.jp/news/2026/05/19/japan/politics/takaichi-lee-japan-south-korea-summit/"
+      ]
     },
     {
       "headline": "Russia Launches Major Nuclear Drills Amid Ukraine War",
@@ -80,6 +123,31 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/russia-conducts-major-nuclear-drills-2026-05-19/",
+      "timestamp": "2026-05-19T11:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/moscow-begins-nuclear-drills-as-russia-ukraine-drone-strikes-intensify/a-77208390",
+          "angle": "Russia Launches Nationwide Nuclear Drills as Ukraine Drone War Intensifies",
+          "summary": "Moscow began nationwide nuclear exercises while both Russia and Ukraine escalated cross-border aerial strikes, marking a dangerous escalation in the conflict."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "DW"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/aerospace-defense/russia-conducts-major-nuclear-drills-2026-05-19/",
+        "https://www.dw.com/en/moscow-begins-nuclear-drills-as-russia-ukraine-drone-strikes-intensify/a-77208390"
+      ]
+    },
+    {
+      "headline": "Iran Proposes Peace Deal With Reparations and US Troop Withdrawal",
+      "summary": "Tehran presented a revised peace proposal to the US via Pakistan, demanding reparations for war damage and withdrawal of American forces from the region, as diplomatic efforts continue amid ongoing conflict.",
+      "emoji": "🇮🇷",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/iran-says-peace-proposal-includes-reparations-war-damage-us-troop-withdrawal-2026-05-19/",
       "timestamp": "2026-05-19T11:03:00+03:00"
     },
     {
@@ -363,15 +431,6 @@
         "https://www.scmp.com/news/china/diplomacy/article/3354044/marcos-sees-philippines-likely-be-involved-taiwan-conflict-due-proximity",
         "https://www.straitstimes.com/asia/se-asia/marcos-says-philippines-would-be-involved-in-any-taiwan-conflict"
       ]
-    },
-    {
-      "headline": "Japan-South Korea to Agree on Oil Stockpiling Cooperation",
-      "summary": "Japanese PM Sanae Takaichi and South Korean President Lee Jae Myung are set to agree on a cooperative framework for securing crude oil supplies including joint stockpiling at their summit on Tuesday.",
-      "emoji": "🇯🇵🇰🇷",
-      "category": "Asia-Pacific",
-      "source": "Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/05/19/japan/politics/takaichi-lee-japan-south-korea-summit/",
-      "timestamp": "2026-05-19T08:10:00+03:00"
     },
     {
       "headline": "IDF Intercepts Hezbollah Drone Over South Lebanon",
@@ -2842,51 +2901,6 @@
         "https://www.washingtonpost.com/national-security/2026/05/14/pentagon-abruptly-cancels-troop-deployment-europe-amid-frustrations-with-nato/",
         "https://www.politico.eu/article/iran-europe-war-us-national-security-adviser-john-bolton/"
       ]
-    },
-    {
-      "headline": "UAE clarifies OPEC exit was strategic, not political",
-      "summary": "UAE Energy Minister Al Mazrouei said the country's withdrawal from OPEC and OPEC+ was a sovereign decision based on long-term production policy assessment, not a political move.",
-      "emoji": "🇦🇪🛢️",
-      "category": "Energy",
-      "source": "Moneycontrol",
-      "url": "https://www.moneycontrol.com/world/not-politics-strategy-uae-explains-why-it-walked-out-of-opec-article-13921341.html",
-      "timestamp": "2026-05-17T08:10:00+03:00"
-    },
-    {
-      "headline": "RAF deploys new low-cost anti-drone missile system in Middle East",
-      "summary": "British Typhoon jets in the Middle East are being equipped with new anti-drone missile systems to cost-effectively intercept Iranian drones. The system went from testing to deployment in under two months.",
-      "emoji": "🇬🇧⚔️",
-      "category": "Defense Industry",
-      "source": "Express",
-      "url": "https://www.express.co.uk/news/politics/2206356/rafs-new-kill-system-blast",
-      "timestamp": "2026-05-17T08:10:00+03:00"
-    },
-    {
-      "headline": "US approves $25.8 billion in weapons sales to Middle East allies",
-      "summary": "Secretary of State Marco Rubio approved massive weapons sales to Middle Eastern allies affected by the Iran conflict, demonstrating continued US commitment to regional partners.",
-      "emoji": "💸⚔️",
-      "category": "Defense Industry",
-      "source": "Bloomberg",
-      "url": "https://www.msn.com/en-ca/news/world/us-secretary-of-state-approves-258-billion-in-weapons-sales-to-middle-east-allies/ar-AA23o4ax",
-      "timestamp": "2026-05-17T08:10:00+03:00"
-    },
-    {
-      "headline": "Armenia struggles in limbo after Nagorno-Karabakh loss",
-      "summary": "Nearly three years after Azerbaijan's lightning offensive reclaimed Nagorno-Karabakh, Armenia remains in geopolitical uncertainty, with citizens told to \"be ready for war\" amid ongoing regional tensions.",
-      "emoji": "🇦🇲🇦🇿",
-      "category": "South Asia",
-      "source": "Irish Times",
-      "url": "https://www.irishtimes.com/world/2026/05/17/you-have-to-be-ready-for-war-legacy-of-limbo-in-armenia-after-loss-of-nagorno-karabakh/",
-      "timestamp": "2026-05-17T08:10:00+03:00"
-    },
-    {
-      "headline": "UK to scrap planned fuel tax rise amid economic pressures",
-      "summary": "British finance minister Rachel Reeves plans to announce postponement of a fuel tax increase scheduled for September, as the government navigates economic challenges from the Iran conflict and global inflation.",
-      "emoji": "🇬🇧",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/uk-government-scrap-planned-rise-fuel-tax-sun-reports-2026-05-16/",
-      "timestamp": "2026-05-17T08:05:00+03:00"
     }
   ]
 }
