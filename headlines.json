@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-20T00:11:53+03:00",
+  "lastUpdated": "2026-05-20T01:07:55+03:00",
   "headlines": [
+    {
+      "headline": "WHO Warns of Rapidly Spreading Ebola Outbreak in Congo",
+      "summary": "WHO chief expresses concern over the scale and speed of a Bundibugyo Ebola virus outbreak in the Democratic Republic of Congo, with 134 reported deaths. Health officials are struggling to contain the spread in eastern DRC.",
+      "emoji": "🦠",
+      "category": "Africa",
+      "source": "AP News",
+      "url": "https://apnews.com/article/congo-ebola-deadly-virus-bundibugyo-health-emergency-3c97cacf44e007127df5739199f32517",
+      "timestamp": "2026-05-20T01:10:00+03:00"
+    },
+    {
+      "headline": "Putin Visits Beijing to Reaffirm China-Russia Ties After Trump Summit",
+      "summary": "Russian President Vladimir Putin traveled to China for talks with Xi Jinping, aiming to strengthen bilateral relations as both leaders navigate complex dynamics with the United States following the Trump summit.",
+      "emoji": "🇷🇺🇨🇳",
+      "category": "Diplomacy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/china-russia-putin-xi-beijing-visit-trump-0c0086341e9694122a49fb7054b41d97",
+      "timestamp": "2026-05-20T01:10:00+03:00"
+    },
+    {
+      "headline": "NATO Jet Shoots Down Drone Over Estonian Airspace",
+      "summary": "Estonia reports a NATO fighter jet shot down a drone over its territory. Officials suspect the drone was a Ukrainian projectile knocked off course by Russian electronic jamming during the ongoing conflict.",
+      "emoji": "🇪🇪⚔️",
+      "category": "Europe",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c302jy8z4vro",
+      "timestamp": "2026-05-20T01:10:00+03:00"
+    },
+    {
+      "headline": "Three Killed in San Diego Mosque Shooting by Teenage Gunmen",
+      "summary": "Two teenage gunmen opened fire on an Islamic center in San Diego, killing three men before taking their own lives. Security guard Amin Abdullah was hailed as a hero. FBI says shooters expressed hatred of multiple religions.",
+      "emoji": "🇺🇸💔",
+      "category": "US Politics",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/clyp3gkrwg9o",
+      "timestamp": "2026-05-20T01:10:00+03:00"
+    },
+    {
+      "headline": "Somaliland and Israel Announce Mutual Embassies in Historic Move",
+      "summary": "Somaliland will open an embassy in Jerusalem while Israel establishes diplomatic presence in Hargeisa. The move follows Israel official recognition of the breakaway Somali regions independence.",
+      "emoji": "🇮🇱🇸🇴",
+      "category": "Middle East",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/19/somaliland-israel-announce-mutual-embassies-in-jerusalem-and-hargeisa",
+      "timestamp": "2026-05-20T01:10:00+03:00"
+    },
     {
       "headline": "US Charges 7 Chinese Executives in Global Container Cartel Crackdown",
       "summary": "The US Justice Department charged executives from companies that manufacture 95% of the world's shipping containers for price-fixing. The move targets China's dominance over global logistics infrastructure.",
@@ -17,15 +62,6 @@
       "category": "Middle East",
       "source": "France 24",
       "url": "https://www.france24.com/en/middle-east/20260519-iran-warns-it-could-open-up-new-fronts-in-war-after-us-threatens-large-scale-assault",
-      "timestamp": "2026-05-20T00:15:00+03:00"
-    },
-    {
-      "headline": "Israeli Strike Kills 10 in Lebanon Despite Ceasefire",
-      "summary": "An Israeli strike on southern Lebanon killed at least 10 people including three women and three children, Lebanon's Health Ministry said, violating the Israel-Hezbollah ceasefire agreement.",
-      "emoji": "🇱🇧🇮🇱",
-      "category": "Middle East",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/lebanese-health-ministry-says-israeli-strike-kills-10/",
       "timestamp": "2026-05-20T00:15:00+03:00"
     },
     {
@@ -99,6 +135,31 @@
       "timestamp": "2026-05-20T00:03:00+03:00"
     },
     {
+      "headline": "At Least 22 Killed in Israeli Attacks on Lebanon Despite Ceasefire Extension",
+      "summary": "Lebanon Health Ministry reports 22 deaths in 24 hours from Israeli strikes, bringing the total death toll since March 2 to 3,042. Israel issued forced displacement orders for 12 towns in southern Lebanon.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/19/at-least-22-killed-in-israeli-attacks-on-lebanon-in-24-hours-ministry",
+      "timestamp": "2026-05-19T23:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/lebanese-health-ministry-says-israeli-strike-kills-10/",
+          "angle": "Israeli Strike Kills 10 in Lebanon Despite Ceasefire",
+          "summary": "An Israeli strike on southern Lebanon killed at least 10 people including three women and three children, Lebanon's Health Ministry said, violating the Israel-Hezbollah ceasefire agreement."
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "Times of Israel"
+      ],
+      "urls": [
+        "https://www.aljazeera.com/news/2026/5/19/at-least-22-killed-in-israeli-attacks-on-lebanon-in-24-hours-ministry",
+        "https://www.timesofisrael.com/liveblog_entry/lebanese-health-ministry-says-israeli-strike-kills-10/"
+      ]
+    },
+    {
       "headline": "Israeli Minister Smotrich Claims ICC Prosecutor Seeking Secret Arrest Warrant",
       "summary": "Far-right Finance Minister Bezalel Smotrich said the ICC prosecutor requested a secret arrest warrant against him, calling it \"a declaration of war.\" He retaliated by ordering the demolition of the Palestinian Bedouin village of Khan al-Ahmar.",
       "emoji": "🇮🇱",
@@ -122,15 +183,6 @@
         "https://www.bbc.com/news/articles/c5y9jq2r907o",
         "https://www.nytimes.com/2026/05/19/world/middleeast/smotrich-icc-west-bank.html"
       ]
-    },
-    {
-      "headline": "At Least 22 Killed in Israeli Attacks on Lebanon Despite Ceasefire Extension",
-      "summary": "Lebanon Health Ministry reports 22 deaths in 24 hours from Israeli strikes, bringing the total death toll since March 2 to 3,042. Israel issued forced displacement orders for 12 towns in southern Lebanon.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/at-least-22-killed-in-israeli-attacks-on-lebanon-in-24-hours-ministry",
-      "timestamp": "2026-05-19T23:00:00+03:00"
     },
     {
       "headline": "Russia sidelines Lavrov from Ukraine peace talks",
@@ -2865,74 +2917,6 @@
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cyv28pd4n22o",
       "timestamp": "2026-05-17T19:09:00+03:00"
-    },
-    {
-      "headline": "More Than 50 Schoolchildren Including Toddlers Kidnapped in Nigeria",
-      "summary": "Armed gunmen have kidnapped more than 50 schoolchildren, including toddlers, in an attack on a school in Borno state, Nigeria. No group has claimed responsibility for the attack, which has devastated the local community.",
-      "emoji": "🇳🇬",
-      "category": "Africa",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c202vrxlwqgo",
-      "timestamp": "2026-05-17T19:09:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c202vrxlwqgo",
-          "angle": "Over 50 Schoolchildren Including Toddlers Kidnapped in Nigeria",
-          "summary": "Gunmen abducted more than 50 children, many aged 2-5 years old, from three schools in Mussa, Borno state. Attackers used children as human shields while fleeing on motorbikes. No group has claimed responsibility, though the attack bears hallmarks of Boko Haram activity in the region."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/c202vrxlwqgo",
-        "https://www.bbc.com/news/articles/c202vrxlwqgo"
-      ]
-    },
-    {
-      "headline": "US Navy plans Trump-class nuclear battleships to counter China",
-      "summary": "The US Navy announced plans to build up to 15 nuclear-powered Trump-class battleships by 2055, dubbed the \"Golden Fleet,\" though analysts question their vulnerability to anti-ship missiles and whether the US has sufficient industrial capacity.",
-      "emoji": "🚢🇺🇸",
-      "category": "Defense Industry",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3353878/will-trump-class-battleship-really-be-able-deter-china",
-      "timestamp": "2026-05-17T18:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "The War Zone",
-          "url": "https://www.twz.com/sea/nuclear-powered-trump-class-battleships-will-reverse-one-of-the-navys-largest-mistakes-navy-boss",
-          "angle": "Nuclear-Powered Trump Class Battleships to Reverse Navy Decision",
-          "summary": "Chief of Naval Operations says abandoning nuclear-powered surface combatants was one of the worst decisions the service ever made, as the new Trump class battleships will feature nuclear propulsion."
-        }
-      ],
-      "sources": [
-        "SCMP",
-        "The War Zone"
-      ],
-      "urls": [
-        "https://www.scmp.com/news/china/military/article/3353878/will-trump-class-battleship-really-be-able-deter-china",
-        "https://www.twz.com/sea/nuclear-powered-trump-class-battleships-will-reverse-one-of-the-navys-largest-mistakes-navy-boss"
-      ]
-    },
-    {
-      "headline": "SBU strikes Moscow defense plants and Crimea airbase in coordinated drone raid",
-      "summary": "Ukrainian SBU and armed forces hit the Angstrem semiconductor plant in Zelenograd, the Moscow oil refinery, and military airfields in Crimea in one of the largest drone operations against Russian military-industrial targets.",
-      "emoji": "🇺🇦💥",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Post",
-      "url": "https://www.kyivpost.com/post/76319",
-      "timestamp": "2026-05-17T18:05:00+03:00"
-    },
-    {
-      "headline": "US to indict Raúl Castro over 1996 Brothers to the Rescue shootdown",
-      "summary": "The US Justice Department will formally charge former Cuban president Raúl Castro next Wednesday in Miami for the 1996 downing of two civilian aircraft operated by the exile group Brothers to the Rescue, which killed four volunteers.",
-      "emoji": "🇨🇺🇺🇸",
-      "category": "Latin America",
-      "source": "El País",
-      "url": "https://english.elpais.com/international/2026-05-17/raul-castro-the-defining-symbol-of-revolutionary-cuba-is-in-the-crosshairs-of-the-us-government.html",
-      "timestamp": "2026-05-17T18:05:00+03:00"
     }
   ]
 }
