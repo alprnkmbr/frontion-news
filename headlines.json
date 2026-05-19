@@ -1,6 +1,151 @@
 {
-  "lastUpdated": "2026-05-19T02:08:13+03:00",
+  "lastUpdated": "2026-05-19T03:09:45+03:00",
   "headlines": [
+    {
+      "headline": "OpenAI Defeats Elon Musk Lawsuit, Clearing Path to IPO",
+      "summary": "A U.S. jury ruled against Elon Musk in his lawsuit against OpenAI, finding the AI company not liable for allegedly straying from its original mission. Musk's lawyers said they plan to appeal the verdict.",
+      "emoji": "⚖️🤖",
+      "category": "Technology",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/government/elon-musk-loses-lawsuit-against-openai-2026-05-18/",
+      "timestamp": "2026-05-19T03:10:00+03:00"
+    },
+    {
+      "headline": "Trump Drops IRS Lawsuit in Exchange for $1.8B 'Weaponization' Fund",
+      "summary": "President Trump dismissed his $10 billion lawsuit against the IRS after the Justice Department agreed to create a fund controlled by his allies to compensate those who claim to have suffered \"weaponization or lawfare\" by the government.",
+      "emoji": "💰⚖️",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/trump-dismisses-lawsuit-against-irs-court-filing-shows-2026-05-18/",
+      "timestamp": "2026-05-19T03:10:00+03:00"
+    },
+    {
+      "headline": "TrumpRx Site to List 600 Generic Drugs as Trump Targets Lower Prices",
+      "summary": "The Trump administration will announce a dramatic expansion of TrumpRx.gov, a government-backed website offering discounted prescription drugs, as part of efforts to lower healthcare costs for Americans.",
+      "emoji": "💊🇺🇸",
+      "category": "Healthcare",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/trump-announce-discount-drug-pricing-expansion-white-house-official-says-2026-05-18/",
+      "timestamp": "2026-05-19T03:10:00+03:00"
+    },
+    {
+      "headline": "Defense Secretary Hegseth Campaigns Against Trump GOP Foe in Kentucky",
+      "summary": "Defense Secretary Pete Hegseth made a rare wartime visit to the campaign trail, urging Kentucky Republicans to defeat Rep. Thomas Massie and send Trump \"reinforcements\" who pledge to support his agenda.",
+      "emoji": "🗳️🎖️",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/hegseth-steps-away-war-duties-campaign-against-trump-foe-2026-05-18/",
+      "timestamp": "2026-05-19T03:10:00+03:00"
+    },
+    {
+      "headline": "CDC: One American Tested Positive for Ebola in Congo Outbreak",
+      "summary": "U.S. health officials announced steps to reduce Ebola risk amid concerns over a new outbreak in the Democratic Republic of Congo, where a rare strain with no approved therapeutics has killed nearly 120 people.",
+      "emoji": "🦠🇨🇩",
+      "category": "Health",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-moves-curb-ebola-risk-says-immediate-risk-public-is-low-2026-05-18/",
+      "timestamp": "2026-05-19T03:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/congo-ebola-uganda-who-africa-emergency-6f93a87ff28107bdda8990599bbcd52d",
+          "angle": "WHO Declares Ebola Global Health Emergency in Congo-Uganda Outbreak",
+          "summary": "The World Health Organization declared the Ebola outbreak in Democratic Republic of Congo and Uganda a public health emergency of international concern after more than 300 suspected cases and 88 deaths. The CDC confirmed Americans are among those affected."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/healthcare-pharmaceuticals/us-moves-curb-ebola-risk-says-immediate-risk-public-is-low-2026-05-18/",
+        "https://apnews.com/article/congo-ebola-uganda-who-africa-emergency-6f93a87ff28107bdda8990599bbcd52d"
+      ]
+    },
+    {
+      "headline": "UAE Nuclear Plant Struck by Drone in Attack Sparking Regional Fears",
+      "summary": "A drone strike sparked a fire at the edge of the United Arab Emirates' sole nuclear power plant at Barakah, raising fears of a dangerous new phase in the Gulf conflict. No one claimed responsibility, and UAE authorities called it an \"unprovoked terrorist attack.\"",
+      "emoji": "🇦🇪☢️",
+      "category": "Middle East",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-uae-nuclear-drones-71e7e58f45193b7dee3df28740532a7b",
+      "timestamp": "2026-05-19T03:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/",
+          "angle": "Drone strike targets UAE nuclear power plant amid Iran conflict tensions",
+          "summary": "A drone strike hit the Barakah nuclear power plant in the UAE, setting an electrical generator on fire. No one claimed responsibility, but suspicion fell on Iran as regional tensions remain high. Nuclear safety experts warn that nuclear facilities must not be targets in conflicts."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "CBS News"
+      ],
+      "urls": [
+        "https://apnews.com/article/iran-us-uae-nuclear-drones-71e7e58f45193b7dee3df28740532a7b",
+        "https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/"
+      ]
+    },
+    {
+      "headline": "US Pauses WWII-Era Defense Board with Canada Over Spending Dispute",
+      "summary": "The Pentagon announced it is pausing participation in the Permanent Joint Board on Defense with Canada, a bilateral forum dating back to World War II, accusing Ottawa of failing to make credible progress on defense commitments amid rising tensions over military spending.",
+      "emoji": "🇺🇸🇨🇦",
+      "category": "US Politics",
+      "source": "The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/canada/article-us-canada-defence-advisory-board/",
+      "timestamp": "2026-05-19T03:05:00+03:00"
+    },
+    {
+      "headline": "Closed-Door US-Greenland Talks Reveal Trump's Arctic Ambitions",
+      "summary": "Greenlandic officials expressed concern about the direction of negotiations with Washington as the US pushes for a major role in the Arctic territory. The island's government says progress has been made but insists Greenland will never be for sale.",
+      "emoji": "🇬🇱🇺🇸",
+      "category": "Arctic",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/18/world/europe/us-greenland-talks-trump.html",
+      "timestamp": "2026-05-19T03:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/05/18/world/europe/in-closed-door-talks-us-demands-a-major-role-in-greenland.html",
+          "angle": "US demands major role in Greenland through closed-door negotiations",
+          "summary": "Confidential talks between the US, Greenland, and Denmark reveal American demands for indefinite military presence and veto power over major investment deals in Greenland, aimed at countering Russian and Chinese influence in the Arctic. Greenlandic officials fear the demands would compromise their sovereignty for generations."
+        }
+      ],
+      "sources": [
+        "New York Times",
+        "New York Times"
+      ],
+      "urls": [
+        "https://www.nytimes.com/2026/05/18/world/europe/us-greenland-talks-trump.html",
+        "https://www.nytimes.com/2026/05/18/world/europe/in-closed-door-talks-us-demands-a-major-role-in-greenland.html"
+      ]
+    },
+    {
+      "headline": "Syria Joins G7 Finance Sessions in Paris Sign of Growing Status",
+      "summary": "Syria will participate in a closed-door session with G7 finance ministers and central bank governors in Paris, marking a significant step in its international rehabilitation less than two years after the ousting of Bashar al-Assad.",
+      "emoji": "🇸🇾🏛️",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/syria-join-g7-finance-talks-paris-sign-growing-status-2026-05-18/",
+      "timestamp": "2026-05-19T03:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Jerusalem Post",
+          "url": "https://www.jpost.com/middle-east/article-896586",
+          "angle": "Syria Joins G7 Finance Sessions in Paris in Sign of Legitimization",
+          "summary": "Syria will participate in closed-door G7 finance minister meetings in Paris, a sign of its growing international status less than two years after the fall of Assad."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Jerusalem Post"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/syria-join-g7-finance-talks-paris-sign-growing-status-2026-05-18/",
+        "https://www.jpost.com/middle-east/article-896586"
+      ]
+    },
     {
       "headline": "Ukraine develops first homegrown guided aerial bomb",
       "summary": "Ukraine has declared its domestically-produced 250kg guided aerial bomb combat-ready, reducing dependence on Western precision strike capabilities and providing an answer to Russia's daily glide-bomb attacks.",
@@ -20,24 +165,6 @@
       "timestamp": "2026-05-19T02:06:00+03:00"
     },
     {
-      "headline": "US extends Russian oil sanctions waiver to aid nations hit by Iran war",
-      "summary": "The US Treasury announced another 30-day extension of sanctions waiver allowing purchases of Russian oil, helping countries most affected by disruptions from the Iran conflict.",
-      "emoji": "🛢️🇺🇸",
-      "category": "Energy",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/us-extends-sanctions-waiver-on-russian-oil-to-aid-countries-hit-hardest-by-iran-war/",
-      "timestamp": "2026-05-19T02:06:00+03:00"
-    },
-    {
-      "headline": "South Korea weighs emergency powers to halt Samsung worker strike",
-      "summary": "Seoul is considering using rarely invoked emergency powers to stop a Samsung workers' strike that could cost the economy $67 billion, as workers demand $400,000 bonuses.",
-      "emoji": "🇰🇷💰",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/economics/article/3353960/south-korea-stifling-samsung-workers-us400000-bonus-strike-risks-wider-crisis",
-      "timestamp": "2026-05-19T02:06:00+03:00"
-    },
-    {
       "headline": "US sanctions senior Cuban officials as tensions escalate",
       "summary": "The US sanctioned 11 people including top Cuban officials, generals and intelligence officers, targeting the island's justice ministry and other key figures amid rising tensions.",
       "emoji": "🇨🇺🇺🇸",
@@ -47,13 +174,62 @@
       "timestamp": "2026-05-19T02:06:00+03:00"
     },
     {
+      "headline": "Iran War Tests Dollar-Dominated Oil Trading System",
+      "summary": "The global oil trading system centered on the U.S. dollar is being tested by the Iran war and Strait of Hormuz closure, as major consuming nations turn to increasingly opaque deals with Tehran and Gulf producers to secure supplies.",
+      "emoji": "🛢️💵",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/opaque-oil-deals-around-hormuz-test-petrodollar-2026-05-18/",
+      "timestamp": "2026-05-19T02:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/us-extends-sanctions-waiver-on-russian-oil-to-aid-countries-hit-hardest-by-iran-war/",
+          "angle": "US extends Russian oil sanctions waiver to aid nations hit by Iran war",
+          "summary": "The US Treasury announced another 30-day extension of sanctions waiver allowing purchases of Russian oil, helping countries most affected by disruptions from the Iran conflict."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/us-treasury-extend-sanction-waiver-russian-seaborne-oil-source-says-2026-05-18/",
+          "angle": "US Extends Russian Oil Sanctions Waiver Amid Iran War Disruption",
+          "summary": "The US Treasury announced a 30-day extension of sanctions waivers allowing purchases of Russian seaborne oil to help energy-vulnerable countries cope with supply disruptions caused by the Iran conflict."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Times of Israel",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/commentary/reuters-open-interest/opaque-oil-deals-around-hormuz-test-petrodollar-2026-05-18/",
+        "https://www.timesofisrael.com/liveblog_entry/us-extends-sanctions-waiver-on-russian-oil-to-aid-countries-hit-hardest-by-iran-war/",
+        "https://www.reuters.com/business/energy/us-treasury-extend-sanction-waiver-russian-seaborne-oil-source-says-2026-05-18/"
+      ]
+    },
+    {
       "headline": "Israel-Hezbollah Fighting Continues Despite Extended Truce",
       "summary": "Israel conducted airstrikes in southern Lebanon while Hezbollah announced new attacks on Israeli forces, with the death toll in Lebanon surpassing 3,000. The violence persists despite a U.S.-backed truce extension.",
       "emoji": "🇱🇧⚔️",
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/israel-hezbollah-war-persists-despite-truce-extension-lebanons-death-toll-nears-2026-05-18/",
-      "timestamp": "2026-05-19T02:03:00+03:00"
+      "timestamp": "2026-05-19T02:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/israel-hezbollah-war-persists-despite-truce-extension-lebanons-death-toll-nears-2026-05-18/",
+          "angle": "Israel-Hezbollah fighting continues despite truce extension",
+          "summary": "Israel carried out airstrikes in southern Lebanon while Hezbollah announced new attacks on Israeli forces, continuing the conflict despite a U.S.-backed truce extension. Lebanon death toll nears 3,000."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/israel-hezbollah-war-persists-despite-truce-extension-lebanons-death-toll-nears-2026-05-18/",
+        "https://www.reuters.com/world/middle-east/israel-hezbollah-war-persists-despite-truce-extension-lebanons-death-toll-nears-2026-05-18/"
+      ]
     },
     {
       "headline": "Polish PM Stresses Transatlantic Unity After U.S. Troop Deployment Cancelled",
@@ -62,24 +238,6 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/polish-pm-says-transatlantic-unity-must-survive-difficult-period-2026-05-18/",
-      "timestamp": "2026-05-19T02:03:00+03:00"
-    },
-    {
-      "headline": "Iran War Tests Dollar-Dominated Oil Trading System",
-      "summary": "The global oil trading system centered on the U.S. dollar is being tested by the Iran war and Strait of Hormuz closure, as major consuming nations turn to increasingly opaque deals with Tehran and Gulf producers to secure supplies.",
-      "emoji": "🛢️💵",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/opaque-oil-deals-around-hormuz-test-petrodollar-2026-05-18/",
-      "timestamp": "2026-05-19T02:03:00+03:00"
-    },
-    {
-      "headline": "Trump Called Off Planned Tuesday Attack on Iran, Citing Pending Deal",
-      "summary": "President Trump announced he postponed planned attacks on Iran at the request of Gulf allies. Iran said it is not intimidated by threats but talks continue to end the conflict.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/iran/trump-iran-clock-ticking-deal-drone-attacks-uae-saudi-hormuz-war-rcna345629",
       "timestamp": "2026-05-19T02:03:00+03:00"
     },
     {
@@ -122,31 +280,6 @@
         "https://www.reuters.com/world/europe/iran-war-saddles-global-companies-with-25-billion-bill-counting-2026-05-18/",
         "https://www.reuters.com/world/europe/global-bond-rout-deepens-inflation-fears-mount-2026-05-18/",
         "https://www.reuters.com/business/energy/rising-diesel-costs-iran-war-strain-us-school-budgets-2026-05-16/"
-      ]
-    },
-    {
-      "headline": "US Extends Russian Oil Sanctions Waiver Amid Iran War Disruption",
-      "summary": "The US Treasury announced a 30-day extension of sanctions waivers allowing purchases of Russian seaborne oil to help energy-vulnerable countries cope with supply disruptions caused by the Iran conflict.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/us-treasury-extend-sanction-waiver-russian-seaborne-oil-source-says-2026-05-18/",
-      "timestamp": "2026-05-19T01:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/iraq-exported-10-million-barrels-oil-through-strait-hormuz-april-2026-05-16/",
-          "angle": "Iraq Oil Exports Through Hormuz Drop 90 Percent Since Iran War Began",
-          "summary": "Iraq exported just 10 million barrels of oil through the Strait of Hormuz in April, down from about 93 million barrels monthly before the Iran war, the country's new oil minister said, highlighting the dramatic impact of the conflict on global energy flows."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/us-treasury-extend-sanction-waiver-russian-seaborne-oil-source-says-2026-05-18/",
-        "https://www.reuters.com/business/energy/iraq-exported-10-million-barrels-oil-through-strait-hormuz-april-2026-05-16/"
       ]
     },
     {
@@ -349,24 +482,6 @@
       "timestamp": "2026-05-18T22:03:00+03:00"
     },
     {
-      "headline": "US demands major role in Greenland through closed-door negotiations",
-      "summary": "Confidential talks between the US, Greenland, and Denmark reveal American demands for indefinite military presence and veto power over major investment deals in Greenland, aimed at countering Russian and Chinese influence in the Arctic. Greenlandic officials fear the demands would compromise their sovereignty for generations.",
-      "emoji": "🇬🇱",
-      "category": "Arctic",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/18/world/europe/in-closed-door-talks-us-demands-a-major-role-in-greenland.html",
-      "timestamp": "2026-05-18T22:03:00+03:00"
-    },
-    {
-      "headline": "Drone strike targets UAE nuclear power plant amid Iran conflict tensions",
-      "summary": "A drone strike hit the Barakah nuclear power plant in the UAE, setting an electrical generator on fire. No one claimed responsibility, but suspicion fell on Iran as regional tensions remain high. Nuclear safety experts warn that nuclear facilities must not be targets in conflicts.",
-      "emoji": "🇦🇪",
-      "category": "Middle East",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/",
-      "timestamp": "2026-05-18T22:03:00+03:00"
-    },
-    {
       "headline": "US-Iran Standoff Deepens as Neither Side Bends",
       "summary": "Three months after the US-Israel attack on Iran, a US blockade and Tehran's grip on the Strait of Hormuz have created a deadlock with neither side willing to compromise, raising the risk of renewed war.",
       "emoji": "🇮🇷",
@@ -542,15 +657,6 @@
       "timestamp": "2026-05-18T19:10:00+03:00"
     },
     {
-      "headline": "Israel-Hezbollah fighting continues despite truce extension",
-      "summary": "Israel carried out airstrikes in southern Lebanon while Hezbollah announced new attacks on Israeli forces, continuing the conflict despite a U.S.-backed truce extension. Lebanon death toll nears 3,000.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israel-hezbollah-war-persists-despite-truce-extension-lebanons-death-toll-nears-2026-05-18/",
-      "timestamp": "2026-05-18T18:10:00+03:00"
-    },
-    {
       "headline": "Dollar retreats as oil falls on report of US-Iran sanctions waiver",
       "summary": "The dollar slipped against major currencies as oil prices fell after an Iranian news report indicated the US may waive sanctions on Iranian crude. 10-year Treasury yields withdrew from 15-month highs.",
       "emoji": "💰",
@@ -591,15 +697,6 @@
       "category": "Europe",
       "source": "Politico",
       "url": "https://www.politico.eu/article/germany-angela-merkel-eu-russia-ukraine-war/",
-      "timestamp": "2026-05-18T18:05:00+03:00"
-    },
-    {
-      "headline": "Syria Joins G7 Finance Sessions in Paris in Sign of Legitimization",
-      "summary": "Syria will participate in closed-door G7 finance minister meetings in Paris, a sign of its growing international status less than two years after the fall of Assad.",
-      "emoji": "🇸🇾",
-      "category": "Diplomacy",
-      "source": "Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/article-896586",
       "timestamp": "2026-05-18T18:05:00+03:00"
     },
     {
@@ -998,31 +1095,6 @@
       ]
     },
     {
-      "headline": "WHO Declares Ebola Global Health Emergency in Congo-Uganda Outbreak",
-      "summary": "The World Health Organization declared the Ebola outbreak in Democratic Republic of Congo and Uganda a public health emergency of international concern after more than 300 suspected cases and 88 deaths. The CDC confirmed Americans are among those affected.",
-      "emoji": "🦠",
-      "category": "Health",
-      "source": "AP News",
-      "url": "https://apnews.com/article/congo-ebola-uganda-who-africa-emergency-6f93a87ff28107bdda8990599bbcd52d",
-      "timestamp": "2026-05-18T10:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/congo-ebola-uganda-who-africa-emergency-6f93a87ff28107bdda8990599bbcd52d",
-          "angle": "WHO Declares Ebola Outbreak in Congo and Uganda a Global Health Emergency",
-          "summary": "The World Health Organization declared a public health emergency of international concern after over 300 suspected cases and 88 deaths from the Bundibugyo virus variant, which has no approved treatments or vaccines. Cases have spread from Congo to Ugandas capital Kampala."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "AP News"
-      ],
-      "urls": [
-        "https://apnews.com/article/congo-ebola-uganda-who-africa-emergency-6f93a87ff28107bdda8990599bbcd52d",
-        "https://apnews.com/article/congo-ebola-uganda-who-africa-emergency-6f93a87ff28107bdda8990599bbcd52d"
-      ]
-    },
-    {
       "headline": "China Earthquake Kills Two, Forces Thousands to Evacuate",
       "summary": "A magnitude 5.2 earthquake in China's southwest Guangxi region killed two people and forced more than 7,000 in the city of Liuzhou to evacuate. Authorities warn of transport disruptions as search and rescue operations continue.",
       "emoji": "🇨🇳",
@@ -1198,7 +1270,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/g7-finance-chiefs-seek-tackle-imbalances-trade-strains-unity-2026-05-18/",
-      "timestamp": "2026-05-18T04:03:00+03:00"
+      "timestamp": "2026-05-18T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/05/18/business/g7-finance-ministers-meeting-iran-war-oil.html",
+          "angle": "G7 Finance Ministers Meet in Paris to Address Iran War Economic Shock",
+          "summary": "Finance ministers from the Group of Seven gathered in Paris to discuss rising energy prices, bond market volatility, and economic fallout from the Iran conflict. Top policymakers are weighing how to contain inflationary pressures and coordinate on sanctions policy."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "New York Times"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/g7-finance-chiefs-seek-tackle-imbalances-trade-strains-unity-2026-05-18/",
+        "https://www.nytimes.com/2026/05/18/business/g7-finance-ministers-meeting-iran-war-oil.html"
+      ]
     },
     {
       "headline": "German Finance Minister Calls G7 the Right Forum to End Iran Conflict",
@@ -1536,6 +1624,31 @@
       "timestamp": "2026-05-17T22:05:00+03:00"
     },
     {
+      "headline": "Trump to Hold Situation Room Meeting Tuesday on Iran Military Options",
+      "summary": "President Trump is expected to meet with top national security advisers on Tuesday to discuss military options regarding Iran, as ceasefire negotiations remain stalled.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/trump-meet-us-security-advisers-tuesday-axios-reports-2026-05-17/",
+      "timestamp": "2026-05-17T22:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/world/iran/trump-iran-clock-ticking-deal-drone-attacks-uae-saudi-hormuz-war-rcna345629",
+          "angle": "Trump Called Off Planned Tuesday Attack on Iran, Citing Pending Deal",
+          "summary": "President Trump announced he postponed planned attacks on Iran at the request of Gulf allies. Iran said it is not intimidated by threats but talks continue to end the conflict."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "NBC News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/trump-meet-us-security-advisers-tuesday-axios-reports-2026-05-17/",
+        "https://www.nbcnews.com/world/iran/trump-iran-clock-ticking-deal-drone-attacks-uae-saudi-hormuz-war-rcna345629"
+      ]
+    },
+    {
       "headline": "Israel Economy Contracts in Q1 as Iran War Takes Toll",
       "summary": "Israels economy shrank at an annualized 3.3% in the first quarter, hit by the war with Iran, but growth is expected to recover if the conflict does not reignite.",
       "emoji": "🇮🇱",
@@ -1567,15 +1680,6 @@
       "category": "US-China",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/americas/us-assesses-drone-threat-cuba-axios-reports-2026-05-17/",
-      "timestamp": "2026-05-17T22:03:00+03:00"
-    },
-    {
-      "headline": "Trump to Hold Situation Room Meeting Tuesday on Iran Military Options",
-      "summary": "President Trump is expected to meet with top national security advisers on Tuesday to discuss military options regarding Iran, as ceasefire negotiations remain stalled.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/trump-meet-us-security-advisers-tuesday-axios-reports-2026-05-17/",
       "timestamp": "2026-05-17T22:03:00+03:00"
     },
     {
@@ -1846,19 +1950,19 @@
       "timestamp": "2026-05-17T16:07:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/world-at-work/south-korea-says-it-will-pursue-all-options-avoid-samsung-strike-2026-05-17/",
-          "angle": "South Korea seeks emergency arbitration to block Samsung strike",
-          "summary": "South Korea will pursue all options including emergency arbitration to prevent a labor strike at Samsung Electronics, the country's largest employer, as the government prioritizes economic stability."
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/economics/article/3353960/south-korea-stifling-samsung-workers-us400000-bonus-strike-risks-wider-crisis",
+          "angle": "South Korea weighs emergency powers to halt Samsung worker strike",
+          "summary": "Seoul is considering using rarely invoked emergency powers to stop a Samsung workers' strike that could cost the economy $67 billion, as workers demand $400,000 bonuses."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "SCMP"
       ],
       "urls": [
         "https://www.reuters.com/business/world-at-work/south-korea-says-it-will-pursue-all-options-avoid-samsung-strike-2026-05-17/",
-        "https://www.reuters.com/business/world-at-work/south-korea-says-it-will-pursue-all-options-avoid-samsung-strike-2026-05-17/"
+        "https://www.scmp.com/week-asia/economics/article/3353960/south-korea-stifling-samsung-workers-us400000-bonus-strike-risks-wider-crisis"
       ]
     },
     {
@@ -2776,135 +2880,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/least-eight-dead-32-injured-thailand-after-freight-train-hits-bus-2026-05-16/",
       "timestamp": "2026-05-16T21:03:00+03:00"
-    },
-    {
-      "headline": "Russians Worry More About Strikes at Home Than Front Line for First Time Since 2022",
-      "summary": "A new poll shows shifting public anxiety inside Russia, with growing concern about domestic attacks versus battlefield risks as Ukrainian drone strikes intensify.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russians-worry-more-about-strikes-at-home-than-front-line-poll-shows/",
-      "timestamp": "2026-05-16T20:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russians-worry-more-about-strikes-at-home-than-front-line-poll-shows/",
-          "angle": "Poll: Russians fear strikes at home more than front line for first time since 2022",
-          "summary": "Ukrainian drone strikes deep inside Russia have shifted Russian public concern from battlefield developments to domestic security, according to a new poll."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://kyivindependent.com/russians-worry-more-about-strikes-at-home-than-front-line-poll-shows/",
-        "https://kyivindependent.com/russians-worry-more-about-strikes-at-home-than-front-line-poll-shows/"
-      ]
-    },
-    {
-      "headline": "Zelenskiy Warns Russia May Attack NATO from Belarus",
-      "summary": "Ukraine's president says Moscow is seeking to draw Belarus deeper into the war and weighing plans to attack Ukraine's north or a NATO country from Belarusian territory.",
-      "emoji": "⚠️",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/zelenskiy-says-russia-considering-plan-attack-nato-country-belarus-2026-05-15/",
-      "timestamp": "2026-05-16T20:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/zelenskiy-says-russia-considering-plan-attack-nato-country-belarus-2026-05-15/",
-          "angle": "Zelenskiy Warns Russia May Attack NATO From Belarus",
-          "summary": "Ukrainian President Volodymyr Zelenskiy stated that Russia is considering plans to attack Ukraine's north or a NATO country from Belarusian territory, drawing Belarus deeper into the war."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/zelenskiy-says-russia-considering-plan-attack-nato-country-belarus-2026-05-15/",
-        "https://www.reuters.com/world/europe/zelenskiy-says-russia-considering-plan-attack-nato-country-belarus-2026-05-15/"
-      ]
-    },
-    {
-      "headline": "Consumers Sue Amazon Over Unlawful Trump Tariff Costs",
-      "summary": "Amazon faces lawsuit from consumers seeking refunds for higher prices resulting from tariffs the Supreme Court later ruled were unlawfully imposed by President Trump.",
-      "emoji": "⚖️",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/retail-consumer/consumers-sue-amazon-not-refunding-trump-tariff-costs-2026-05-16/",
-      "timestamp": "2026-05-16T20:03:00+03:00"
-    },
-    {
-      "headline": "US and Brazil ethanol exports surge as countries seek fuel alternatives",
-      "summary": "The world's two largest ethanol producers are seeing export increases as consuming countries seek alternative fuel sources while the Strait of Hormuz crisis continues.",
-      "emoji": "⛽",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/us-brazil-see-jump-ethanol-exports-consumers-seek-boost-fuel-supplies-2026-05-15/",
-      "timestamp": "2026-05-16T19:10:00+03:00"
-    },
-    {
-      "headline": "China criticizes US Hormuz resolution at UN as timing and content questioned",
-      "summary": "China's UN ambassador criticized a proposed US-Bahraini resolution on the Strait of Hormuz, saying the content and timing were inappropriate and passing it would not be helpful.",
-      "emoji": "🇨🇳",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/chinas-un-ambassador-criticizes-us-hormuz-resolution-2026-05-15/",
-      "timestamp": "2026-05-16T19:10:00+03:00"
-    },
-    {
-      "headline": "Italy's Meloni wins European backing for third-country migrant return hubs",
-      "summary": "Italian PM Giorgia Meloni hailed a shift in European migration policy as her controversial approach to offshore migrant processing gains support across the Council of Europe.",
-      "emoji": "🇮🇹🇪🇺",
-      "category": "Europe",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/europe/italian-premier-meloni-hails-european-backing-for-third-country-migrant-return-hubs/3939646",
-      "timestamp": "2026-05-16T18:10:00+03:00"
-    },
-    {
-      "headline": "UAE States All Actions Were Defensive Measures to Protect Sovereignty",
-      "summary": "The United Arab Emirates foreign ministry issued a statement saying all actions taken by the Gulf country were defensive measures aimed at protecting its sovereignty, civilians, and vital infrastructure amid regional tensions.",
-      "emoji": "🇦🇪",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/uae-says-all-its-actions-came-under-defensive-measures-protect-sovereignty-vital-2026-05-15/",
-      "timestamp": "2026-05-16T18:05:00+03:00"
-    },
-    {
-      "headline": "Eurovision Song Contest Final Proceeds Amid Gaza Boycott",
-      "summary": "Five countries have withdrawn from the Eurovision Song Contest final over Israel participation, with the event taking place against the backdrop of ongoing Middle East tensions.",
-      "emoji": "🎤🏳️",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/eurovision-song-contest-final-takes-stage-amid-gaza-boycott-2026-05-16/",
-      "timestamp": "2026-05-16T18:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "TRT World",
-          "url": "https://www.trtworld.com/article/85c7a4834160",
-          "angle": "Spain PM backs Eurovision boycott, says silence on Gaza \"not an option\"",
-          "summary": "Spanish Prime Minister Pedro Sánchez defended Spain's boycott of Eurovision over Israel's participation, saying it puts the country \"on the right side of history\" and warning against \"double standards\" compared to Russia's exclusion."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "TRT World"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/eurovision-song-contest-final-takes-stage-amid-gaza-boycott-2026-05-16/",
-        "https://www.trtworld.com/article/85c7a4834160"
-      ]
-    },
-    {
-      "headline": "US Reportedly Preparing to Indict Former Cuban Leader Raul Castro",
-      "summary": "The US Justice Department is reportedly preparing to criminally indict former Cuban leader Raul Castro in the coming days, marking a significant development in US-Cuba relations.",
-      "emoji": "🇨🇺🇺🇸",
-      "category": "Latin America",
-      "source": "AP",
-      "url": "https://malaysia.news.yahoo.com/us-planning-criminally-indict-ex-013733170.html",
-      "timestamp": "2026-05-16T18:05:00+03:00"
     }
   ]
 }
