@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-20T09:06:18+03:00",
+  "lastUpdated": "2026-05-20T10:05:30+03:00",
   "headlines": [
+    {
+      "headline": "US Senate Advances Resolution to Limit Trump's Iran War Powers",
+      "summary": "The US Senate moved forward with a procedural vote to curb presidential authority on Iran military actions, though the resolution faces significant hurdles before becoming law.",
+      "emoji": "🇺🇸🏛️",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-senate-advances-measure-curbing-trumps-iran-war-powers-2026-05-19/",
+      "timestamp": "2026-05-20T10:03:00+03:00"
+    },
+    {
+      "headline": "Russia Conducts Major Nuclear Drills Amid Ongoing Tensions",
+      "summary": "Russia began three days of nuclear drills including ballistic and cruise missile launches, the defense ministry announced, as Moscow continues its confrontation with the West over Ukraine.",
+      "emoji": "☢️🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/russia-conducts-major-nuclear-drills-2026-05-19/",
+      "timestamp": "2026-05-20T10:03:00+03:00"
+    },
+    {
+      "headline": "NATO Commander: US Troop Cuts from Europe to Take Years",
+      "summary": "NATO's top commander said US troop withdrawals from Europe will stretch over years to give allies time to develop replacement capabilities, maintaining alliance defense posture.",
+      "emoji": "🇺🇸🇪🇺",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/us-troop-withdrawal-will-not-undermine-nato-defence-europe-top-commander-says-2026-05-19/",
+      "timestamp": "2026-05-20T10:03:00+03:00"
+    },
+    {
+      "headline": "Russia Warns Latvia Against Ukraine Drone Launches",
+      "summary": "Russia's UN ambassador claimed Ukraine plans to launch military drones from Latvia and other Baltic states, warning that NATO membership would not protect them from retaliation.",
+      "emoji": "⚠️🇱🇻",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/russia-warns-latvia-against-letting-ukraine-launch-drones-threatens-retaliation-2026-05-19/",
+      "timestamp": "2026-05-20T10:03:00+03:00"
+    },
+    {
+      "headline": "G7 Finance Ministers Address Trade Imbalances, China Concerns",
+      "summary": "G7 finance ministers agreed on the need to tackle trade imbalances in a fragmented global economy, with US Treasury Secretary Bessent calling for protections against cheap Chinese imports.",
+      "emoji": "💰🌐",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/g7-finance-ministers-explore-responses-iran-war-fallout-2026-05-19/",
+      "timestamp": "2026-05-20T10:03:00+03:00"
+    },
     {
       "headline": "Xi Hosts Putin in Beijing, Hails Ties as \"Calm Amid Chaos\"",
       "summary": "Chinese leader Xi Jinping welcomed Vladimir Putin for a state visit just days after hosting Trump, calling Russia-China relations a force of stability. Xi urged an \"early end\" to the Iran war and criticized \"unilateral hegemonic currents\" in a veiled jab at the US.",
@@ -26,16 +71,23 @@
       "category": "Economy",
       "source": "Deutsche Welle",
       "url": "https://www.dw.com/en/eu-strikes-deal-on-us-trade-pact-ahead-of-trump-tariff-deadline/a-77222972",
-      "timestamp": "2026-05-20T09:03:00+03:00"
-    },
-    {
-      "headline": "Israeli Strikes Kill 19 in Southern Lebanon Despite Ceasefire",
-      "summary": "At least 19 people including women and children were killed in Israeli airstrikes in southern Lebanon. The attacks came just days after the US announced a 45-day ceasefire extension between Israel and Hezbollah.",
-      "emoji": "🇱🇧🇮🇱",
-      "category": "Middle East",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/20/deadly-israeli-strikes-lebanon",
-      "timestamp": "2026-05-20T09:03:00+03:00"
+      "timestamp": "2026-05-20T09:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Le Monde",
+          "url": "https://www.lemonde.fr/en/economy/article/2026/05/20/tariffs-eu-agrees-to-implement-us-trade-pact_6753632_19.html",
+          "angle": "EU Finalizes Trade Pact With US Ahead of Trump Tariff Deadline",
+          "summary": "European lawmakers reached a late-night deal to implement the EU-US trade agreement, removing import duties on US goods. The compromise avoids higher tariffs threatened by Trump for July 4."
+        }
+      ],
+      "sources": [
+        "Deutsche Welle",
+        "Le Monde"
+      ],
+      "urls": [
+        "https://www.dw.com/en/eu-strikes-deal-on-us-trade-pact-ahead-of-trump-tariff-deadline/a-77222972",
+        "https://www.lemonde.fr/en/economy/article/2026/05/20/tariffs-eu-agrees-to-implement-us-trade-pact_6753632_19.html"
+      ]
     },
     {
       "headline": "UK quietly sanctions Russian oil via waivers as energy costs surge",
@@ -149,31 +201,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/us-not-hurry-extend-china-trade-truce-bessent-says-2026-05-19/",
       "timestamp": "2026-05-20T08:00:00+03:00"
-    },
-    {
-      "headline": "EU Finalizes Trade Pact With US Ahead of Trump Tariff Deadline",
-      "summary": "European lawmakers reached a late-night deal to implement the EU-US trade agreement, removing import duties on US goods. The compromise avoids higher tariffs threatened by Trump for July 4.",
-      "emoji": "🇪🇺",
-      "category": "Economy",
-      "source": "Le Monde",
-      "url": "https://www.lemonde.fr/en/economy/article/2026/05/20/tariffs-eu-agrees-to-implement-us-trade-pact_6753632_19.html",
-      "timestamp": "2026-05-20T07:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/eu-strikes-deal-on-us-trade-pact-ahead-of-trump-tariff-deadline/a-77222972",
-          "angle": "EU reaches provisional US trade deal ahead of Trump tariff deadline",
-          "summary": "The EU agreed to remove import duties on US goods, meeting Trump deadline and averting potential tariff escalation between the two economic blocs."
-        }
-      ],
-      "sources": [
-        "Le Monde",
-        "DW"
-      ],
-      "urls": [
-        "https://www.lemonde.fr/en/economy/article/2026/05/20/tariffs-eu-agrees-to-implement-us-trade-pact_6753632_19.html",
-        "https://www.dw.com/en/eu-strikes-deal-on-us-trade-pact-ahead-of-trump-tariff-deadline/a-77222972"
-      ]
     },
     {
       "headline": "Trump Was \"An Hour Away\" From Ordering Iran Strike Before Postponing",
@@ -581,6 +608,31 @@
       "timestamp": "2026-05-20T00:03:00+03:00"
     },
     {
+      "headline": "At Least 22 Killed in Israeli Attacks on Lebanon Despite Ceasefire Extension",
+      "summary": "Lebanon Health Ministry reports 22 deaths in 24 hours from Israeli strikes, bringing the total death toll since March 2 to 3,042. Israel issued forced displacement orders for 12 towns in southern Lebanon.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/19/at-least-22-killed-in-israeli-attacks-on-lebanon-in-24-hours-ministry",
+      "timestamp": "2026-05-19T23:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/may/20/deadly-israeli-strikes-lebanon",
+          "angle": "Israeli Strikes Kill 19 in Southern Lebanon Despite Ceasefire",
+          "summary": "At least 19 people including women and children were killed in Israeli airstrikes in southern Lebanon. The attacks came just days after the US announced a 45-day ceasefire extension between Israel and Hezbollah."
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "The Guardian"
+      ],
+      "urls": [
+        "https://www.aljazeera.com/news/2026/5/19/at-least-22-killed-in-israeli-attacks-on-lebanon-in-24-hours-ministry",
+        "https://www.theguardian.com/world/2026/may/20/deadly-israeli-strikes-lebanon"
+      ]
+    },
+    {
       "headline": "Israeli Minister Smotrich Claims ICC Prosecutor Seeking Secret Arrest Warrant",
       "summary": "Far-right Finance Minister Bezalel Smotrich said the ICC prosecutor requested a secret arrest warrant against him, calling it \"a declaration of war.\" He retaliated by ordering the demolition of the Palestinian Bedouin village of Khan al-Ahmar.",
       "emoji": "🇮🇱",
@@ -603,31 +655,6 @@
       "urls": [
         "https://www.bbc.com/news/articles/c5y9jq2r907o",
         "https://www.aljazeera.com/news/2026/5/19/israeli-far-right-minister-smotrich-says-icc-seeks-his-arrest"
-      ]
-    },
-    {
-      "headline": "At Least 22 Killed in Israeli Attacks on Lebanon Despite Ceasefire Extension",
-      "summary": "Lebanon Health Ministry reports 22 deaths in 24 hours from Israeli strikes, bringing the total death toll since March 2 to 3,042. Israel issued forced displacement orders for 12 towns in southern Lebanon.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/at-least-22-killed-in-israeli-attacks-on-lebanon-in-24-hours-ministry",
-      "timestamp": "2026-05-19T23:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "Times of Israel",
-          "url": "https://www.timesofisrael.com/liveblog_entry/lebanese-health-ministry-says-israeli-strike-kills-10/",
-          "angle": "Israeli Strike Kills 10 in Lebanon Despite Ceasefire",
-          "summary": "An Israeli strike on southern Lebanon killed at least 10 people including three women and three children, Lebanon's Health Ministry said, violating the Israel-Hezbollah ceasefire agreement."
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "Times of Israel"
-      ],
-      "urls": [
-        "https://www.aljazeera.com/news/2026/5/19/at-least-22-killed-in-israeli-attacks-on-lebanon-in-24-hours-ministry",
-        "https://www.timesofisrael.com/liveblog_entry/lebanese-health-ministry-says-israeli-strike-kills-10/"
       ]
     },
     {
@@ -2858,40 +2885,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/americans-congo-may-have-had-exposure-ebola-in-outbreak-stat-news-reports-2026-05-17/",
       "timestamp": "2026-05-18T04:03:00+03:00"
-    },
-    {
-      "headline": "Washington Post: CDC Readies Team to Respond to Ebola Outbreak",
-      "summary": "The CDC is preparing a response team as the WHO declares the Ebola outbreak in Congo and Uganda a public health emergency. Health officials are coordinating with international partners to contain the spread of the virus.",
-      "emoji": "🇨🇩🇺🇬🇺🇸",
-      "category": "Africa",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/health/2026/05/17/cdc-readies-team-respond-ebola-outbreak-africa/",
-      "timestamp": "2026-05-18T04:03:00+03:00"
-    },
-    {
-      "headline": "Taiwan President responds to Trump summit: 'We will not be sacrificed'",
-      "summary": "Taiwan President Lai Ching-te pushed back after Trump raised doubts about US arms sales and willingness to defend the island following his Beijing summit with Xi Jinping.",
-      "emoji": "🇹🇼",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/taiwan-independence-means-we-dont-belong-beijing-president-says-2026-05-17/",
-      "timestamp": "2026-05-18T03:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/taiwan-us-arms-china-trump-9b281ac90e9bcb71aee8011435dec0c2",
-          "angle": "Taiwan president defends US arms purchases after Trump calls them a bargaining chip",
-          "summary": "Taiwan's leader pushed back against criticism from former President Trump, defending the island's military purchases from the US as essential for deterrence against China."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/taiwan-independence-means-we-dont-belong-beijing-president-says-2026-05-17/",
-        "https://apnews.com/article/taiwan-us-arms-china-trump-9b281ac90e9bcb71aee8011435dec0c2"
-      ]
     }
   ]
 }
