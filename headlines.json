@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-20T18:09:31+03:00",
+  "lastUpdated": "2026-05-20T19:12:33+03:00",
   "headlines": [
+    {
+      "headline": "China Confirms 200 Boeing Jet Purchase After Trump-Xi Summit",
+      "summary": "China announced it will buy 200 Boeing aircraft and seek an extension of the US-China tariff truce through November, signalling a stabilization in relations between the world's two largest economies following last week's Beijing summit.",
+      "emoji": "🇨🇳🇺🇸",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/china-says-it-will-buy-200-boeing-jets-seek-extension-us-tariff-truce-2026-05-20/",
+      "timestamp": "2026-05-20T19:11:00+03:00"
+    },
+    {
+      "headline": "EU Strikes Deal to Finalize US Trade Agreement, Avert Tariffs",
+      "summary": "The European Union reached provisional agreement on legislation to remove import duties on US goods, a key part of a trade deal with Washington that would prevent higher US tariffs on EU products.",
+      "emoji": "🇪🇺🇺🇸",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/eu-paves-way-finalise-us-trade-deal-avoid-trump-tariff-hike-2026-05-20/",
+      "timestamp": "2026-05-20T19:11:00+03:00"
+    },
+    {
+      "headline": "Trump Approval Drops to 35% as Republican Support Softens",
+      "summary": "A new Reuters/Ipsos poll shows President Donald Trump's approval rating falling to 35%, with softening support among Republicans as the administration navigates the Iran crisis and domestic challenges.",
+      "emoji": "🇺🇸",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/trump-approval-drops-35-republican-support-softens-reutersipsos-poll-finds-2026-05-19/",
+      "timestamp": "2026-05-20T19:11:00+03:00"
+    },
+    {
+      "headline": "Ukraine Reinforces Northern Border Over Russian Offensive Plans",
+      "summary": "Ukraine will send reinforcements to its northern regions and step up diplomatic pressure on Belarus, citing intelligence that Russia plans a new offensive toward Kyiv from the north.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/drones-attack-industrial-areas-russias-stavropol-region-governor-says-2026-05-19/",
+      "timestamp": "2026-05-20T19:11:00+03:00"
+    },
+    {
+      "headline": "Fed Minutes Reveal Deep Divisions Over Rate Policy",
+      "summary": "The Federal Reserve's latest meeting minutes reveal significant disagreement among policymakers on interest rate direction and inflation severity, exposing the most divided Fed in a generation.",
+      "emoji": "💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/divisions-awaiting-warsh-be-display-fed-minutes-release-2026-05-20/",
+      "timestamp": "2026-05-20T19:11:00+03:00"
+    },
     {
       "headline": "France Summons Israeli Envoy Over Ben Gvir Flotilla Footage",
       "summary": "France summoned Israels ambassador after National Security Minister Ben Gvir posted a video taunting bound Gaza flotilla activists. Ireland's foreign minister also condemned the footage as appalling.",
@@ -71,7 +116,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/tankers-exit-hormuz-trump-vance-talk-up-iran-deal-prospects-2026-05-20/",
-      "timestamp": "2026-05-20T18:03:00+03:00"
+      "timestamp": "2026-05-20T18:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/",
+          "angle": "Trump Calls Off Iran Attack Amid \"Serious Negotiations\"",
+          "summary": "The president postponed planned strikes on Iran at the request of Gulf Arab states, claiming serious negotiations are underway. Iran shows no signs of budging on key demands despite threats."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "CBS News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/tankers-exit-hormuz-trump-vance-talk-up-iran-deal-prospects-2026-05-20/",
+        "https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/"
+      ]
     },
     {
       "headline": "Rubio to visit Sweden for NATO meeting on burden sharing then India",
@@ -80,7 +141,23 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/india/rubio-visit-sweden-nato-meeting-then-india-2026-05-19/",
-      "timestamp": "2026-05-20T18:03:00+03:00"
+      "timestamp": "2026-05-20T18:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Hindu",
+          "url": "https://www.thehindu.com/news/international/rubio-to-attend-nato-talks-pay-first-visit-to-india/article70999683.ece",
+          "angle": "Rubio Heads to NATO Meeting, First Visit to India",
+          "summary": "Secretary of State Marco Rubio will meet NATO foreign ministers in Sweden on Friday to discuss defense burden-sharing, then make his first visit to India. The trip follows US troop withdrawal announcements and strained ties with India over trade and diplomatic issues."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "The Hindu"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/india/rubio-visit-sweden-nato-meeting-then-india-2026-05-19/",
+        "https://www.thehindu.com/news/international/rubio-to-attend-nato-talks-pay-first-visit-to-india/article70999683.ece"
+      ]
     },
     {
       "headline": "Rubio Offers Cuba New Relationship with $100 Million in Aid",
@@ -820,31 +897,6 @@
       "timestamp": "2026-05-20T07:03:00+03:00"
     },
     {
-      "headline": "Trump Calls Off Iran Attack Amid \"Serious Negotiations\"",
-      "summary": "The president postponed planned strikes on Iran at the request of Gulf Arab states, claiming serious negotiations are underway. Iran shows no signs of budging on key demands despite threats.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/",
-      "timestamp": "2026-05-20T07:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "TIME",
-          "url": "https://time.com/article/2026/05/19/trump-us-iran-israel-war-gulf-states-attack-hormuz/",
-          "angle": "Trump Cancels Planned Iran Attack After Gulf States Request Delay",
-          "summary": "President Trump postponed military strikes on Iran after Gulf nations requested time for negotiations. Iran submitted a revised 14-point proposal via Pakistani mediators, but key disputes over nuclear enrichment and the Strait of Hormuz remain unresolved."
-        }
-      ],
-      "sources": [
-        "CBS News",
-        "TIME"
-      ],
-      "urls": [
-        "https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/",
-        "https://time.com/article/2026/05/19/trump-us-iran-israel-war-gulf-states-attack-hormuz/"
-      ]
-    },
-    {
       "headline": "Swedish defense giant Saab expands role in Japan defense buildup",
       "summary": "Swedish defense contractor Saab is positioning for a larger weapons supplier role in Japan, building on growing economic ties as Japan accelerates its military modernization.",
       "emoji": "🇯🇵",
@@ -1202,15 +1254,6 @@
       "category": "Economy",
       "source": "Channel News Asia",
       "url": "https://www.channelnewsasia.com/business/stanchart-cut-over-7000-jobs-boost-ai-replace-lower-value-human-capital-6130096",
-      "timestamp": "2026-05-20T00:03:00+03:00"
-    },
-    {
-      "headline": "Rubio Heads to NATO Meeting, First Visit to India",
-      "summary": "Secretary of State Marco Rubio will meet NATO foreign ministers in Sweden on Friday to discuss defense burden-sharing, then make his first visit to India. The trip follows US troop withdrawal announcements and strained ties with India over trade and diplomatic issues.",
-      "emoji": "🇺🇸",
-      "category": "Diplomacy",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/rubio-to-attend-nato-talks-pay-first-visit-to-india/article70999683.ece",
       "timestamp": "2026-05-20T00:03:00+03:00"
     },
     {
@@ -2874,93 +2917,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/news/world/russia-central-asia/article/3354016/belarus-holds-drills-russian-nuclear-weapons-drawing-criticism-ukraine",
       "timestamp": "2026-05-18T20:10:00+03:00"
-    },
-    {
-      "headline": "Pakistan Conveys New Iranian Peace Proposal to United States",
-      "summary": "Iran sent a revised peace proposal to the US via Pakistani mediators with terms similar to previously rejected offers, though a senior Iranian official claims Washington has softened on some issues.",
-      "emoji": "🇮🇷",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/pakistan-hands-us-revised-iranian-proposal-ending-war-2026-05-18/",
-      "timestamp": "2026-05-18T20:10:00+03:00"
-    },
-    {
-      "headline": "China Commits to $17 Billion in Annual US Agricultural Purchases",
-      "summary": "Following the Trump-Xi summit in Beijing, China agreed to buy at least $17 billion annually in US farm products for three years, marking a significant trade commitment amid broader diplomatic engagement.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/what-do-chinas-new-us-farm-purchases-mean-global-trade-2026-05-18/",
-      "timestamp": "2026-05-18T20:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/china-buy-least-17-billion-us-agricultural-products-annually-white-house-says-2026-05-17/",
-          "angle": "China agrees to buy at least $17 billion in US agricultural products annually",
-          "summary": "The White House announced that China has committed to purchasing at least $17 billion in US agricultural products annually following the Beijing summit between Trump and Xi Jinping. The agreement represents a significant trade concession from Beijing amid ongoing tariff tensions."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/china-buy-least-17-billion-us-agricultural-products-annually-white-house-says-2026-05-17/",
-          "angle": "China Commits to B Annual US Agricultural Purchases Through 2028",
-          "summary": "China has agreed to purchase at least  billion of US agricultural products annually through 2028, the White House announced, offering stability to American farmers after Phase One trade deal."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/what-do-chinas-new-us-farm-purchases-mean-global-trade-2026-05-18/",
-        "https://www.reuters.com/world/china/china-buy-least-17-billion-us-agricultural-products-annually-white-house-says-2026-05-17/",
-        "https://www.reuters.com/world/china/china-buy-least-17-billion-us-agricultural-products-annually-white-house-says-2026-05-17/"
-      ]
-    },
-    {
-      "headline": "Russia Strikes Odesa and Dnipro in Overnight Attacks",
-      "summary": "Russian forces targeted Ukrainian cities of Odesa and Dnipro with missiles and drones, damaging residential buildings and injuring dozens, while Ukrainian drone strikes killed two in Russia.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/russia-hits-ukraines-odesa-dnipro-with-drones-missiles-overnight-officials-say-2026-05-18/",
-      "timestamp": "2026-05-18T19:10:00+03:00"
-    },
-    {
-      "headline": "Ukraine and Hungary to Hold Minority Rights Consultations",
-      "summary": "Kyiv and Budapest agreed to talks about Ukraine's ethnic Hungarian minority rights this week, seeking to rebuild ties following Hungary's government change.",
-      "emoji": "🇺🇦🇭🇺",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/ukraine-hungary-agree-hold-consultations-hungarian-minority-ukrainian-fm-says-2026-05-18/",
-      "timestamp": "2026-05-18T19:10:00+03:00"
-    },
-    {
-      "headline": "Putin Faces Difficult Choices as Sanctions Bite, Estonia Spy Chief Says",
-      "summary": "Estonia's foreign intelligence chief said Russia has few good options in Ukraine as Western sanctions chip away at its resources while its forces cannot advance significantly on the battlefield.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/putin-faces-very-difficult-choices-ukraine-sanctions-bite-estonias-spy-chief-2026-05-18/",
-      "timestamp": "2026-05-18T19:10:00+03:00"
-    },
-    {
-      "headline": "Croatia Rejects Proposed Israeli Ambassador Over Government Policies",
-      "summary": "Croatian President Milanović says the nominee will not receive approval, citing actions of the current Israeli government and a diplomatic protocol dispute.",
-      "emoji": "🇭🇷",
-      "category": "Europe",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/europe/croatian-president-rejects-proposed-israeli-ambassador-over-government-policies/3941221",
-      "timestamp": "2026-05-18T18:05:00+03:00"
-    },
-    {
-      "headline": "Merkel Criticizes EU for Not Talking to Russia on Ukraine",
-      "summary": "Former German Chancellor Angela Merkel said the EU should maintain dialogue with Russia, though she declined to lead such talks herself, in a rare political intervention.",
-      "emoji": "🇩🇪",
-      "category": "Europe",
-      "source": "Politico",
-      "url": "https://www.politico.eu/article/germany-angela-merkel-eu-russia-ukraine-war/",
-      "timestamp": "2026-05-18T18:05:00+03:00"
     }
   ]
 }
