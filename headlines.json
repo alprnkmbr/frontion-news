@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-20T20:07:49+03:00",
+  "lastUpdated": "2026-05-20T21:05:48+03:00",
   "headlines": [
+    {
+      "headline": "Russia Launches Major Drone and Missile Barrage on Ukraine",
+      "summary": "Ukrainian President Zelenskyy reports Russia targeted eight regions in a nighttime attack, as long-range strikes escalate in the ongoing conflict.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-drone-missile-attacks-putin-cfdab5379fa9c68b9a494da7473445d7",
+      "timestamp": "2026-05-20T21:03:00+03:00"
+    },
+    {
+      "headline": "How China Quietly Helps Russia in Ukraine War",
+      "summary": "As Western sanctions intensify, Russia's dependence on China to sustain its war effort has steadily increased, though Beijing maintains official neutrality in the conflict.",
+      "emoji": "🇨🇳",
+      "category": "Ukraine-Russia War",
+      "source": "The Economist",
+      "url": "https://www.economist.com/china/2026/05/20/how-china-quietly-helps-russia-in-ukraine",
+      "timestamp": "2026-05-20T21:03:00+03:00"
+    },
+    {
+      "headline": "Iran Used Triangular Coercion in Gulf Strategy",
+      "summary": "Outmatched militarily, Iran attacked Gulf states and closed the Strait of Hormuz using asymmetric tactics, revealing a long-term U.S. strategic vulnerability.",
+      "emoji": "🇮🇷",
+      "category": "US-Iran War",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/20/world/middleeast/iran-strait-of-hormuz-triangular-coercion.html",
+      "timestamp": "2026-05-20T21:03:00+03:00"
+    },
+    {
+      "headline": "Iran Warns of War Beyond Gulf Region if US Attacks Again",
+      "summary": "Iran Revolutionary Guards threatens retaliation in places beyond the region if the U.S. or Israel launch new attacks, as Trump says he was an hour away from striking.",
+      "emoji": "⚠️",
+      "category": "US-Iran War",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/iran/iran-threatens-war-region-us-attacks-rcna346069",
+      "timestamp": "2026-05-20T21:03:00+03:00"
+    },
+    {
+      "headline": "Shifting Momentum in Russia-Ukraine War",
+      "summary": "After more than four years of grinding conflict without major changes in battle lines, the war may have reached a turning point as societal fatigue grows in Russia.",
+      "emoji": "⚔️",
+      "category": "Ukraine-Russia War",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/05/18/nx-s1-5826018/shifting-momentum-in-the-russia-ukraine-war",
+      "timestamp": "2026-05-20T21:03:00+03:00"
+    },
     {
       "headline": "Chinese investment in Europe surges to 7-year high despite trade tensions",
       "summary": "Chinese FDI in Europe hit a seven-year peak, but analysts warn the pipeline of new projects is drying up as investors face pressure from both Beijing and European capitals.",
@@ -17,7 +62,23 @@
       "category": "Energy",
       "source": "Nikkei Asia",
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/over-160-oil-tankers-stuck-in-gulf-as-iran-tightens-grip-on-hormuz",
-      "timestamp": "2026-05-20T20:06:00+03:00"
+      "timestamp": "2026-05-20T20:06:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/china-economy/article/3354219/china-turns-russian-oil-gulf-supply-drops-it-too-expensive",
+          "angle": "China Turns to Russian Oil as Gulf Supply Drops Amid Hormuz Crisis",
+          "summary": "Chinese customs data shows Russian crude shipments to China rose 11.3% year-on-year in April as Gulf imports plunged during the Strait of Hormuz crisis. However, the discount on Russian oil has shrunk significantly due to sanctions waivers boosting global demand for Russian barrels."
+        }
+      ],
+      "sources": [
+        "Nikkei Asia",
+        "SCMP"
+      ],
+      "urls": [
+        "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/over-160-oil-tankers-stuck-in-gulf-as-iran-tightens-grip-on-hormuz",
+        "https://www.scmp.com/economy/china-economy/article/3354219/china-turns-russian-oil-gulf-supply-drops-it-too-expensive"
+      ]
     },
     {
       "headline": "Russia arming missile warheads with depleted uranium, Ukrainian intelligence says",
@@ -44,7 +105,23 @@
       "category": "US-Iran War",
       "source": "The Hill",
       "url": "https://thehill.com/policy/defense/5887383-iran-threat-us-israel-attacks/",
-      "timestamp": "2026-05-20T20:06:00+03:00"
+      "timestamp": "2026-05-20T20:06:00+03:00",
+      "perspectives": [
+        {
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-war-trump-irgc-threatens-attacks-beyond-region/",
+          "angle": "Iran threatens to spread war beyond Middle East if US attacks",
+          "summary": "Iran's Revolutionary Guard Corps warned that any renewed US or Israeli attacks would be met with retaliation far beyond the region, after Trump said he came within an hour of restarting military operations."
+        }
+      ],
+      "sources": [
+        "The Hill",
+        "CBS News"
+      ],
+      "urls": [
+        "https://thehill.com/policy/defense/5887383-iran-threat-us-israel-attacks/",
+        "https://www.cbsnews.com/live-updates/iran-war-trump-irgc-threatens-attacks-beyond-region/"
+      ]
     },
     {
       "headline": "Iran consolidates Strait of Hormuz control with island checkpoints and passage fees",
@@ -354,15 +431,6 @@
       "timestamp": "2026-05-20T16:15:00+03:00"
     },
     {
-      "headline": "Iran threatens to spread war beyond Middle East if US attacks",
-      "summary": "Iran's Revolutionary Guard Corps warned that any renewed US or Israeli attacks would be met with retaliation far beyond the region, after Trump said he came within an hour of restarting military operations.",
-      "emoji": "⚠️",
-      "category": "US-Iran War",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-irgc-threatens-attacks-beyond-region/",
-      "timestamp": "2026-05-20T16:03:00+03:00"
-    },
-    {
       "headline": "Xi and Putin signal united front against Washington in Beijing talks",
       "summary": "Chinese leader Xi Jinping and Russian President Vladimir Putin demonstrated a united front against the US during their Beijing meeting, deepening strategic cooperation between the two powers amid tensions with Washington.",
       "emoji": "🇨🇳🇷🇺",
@@ -562,31 +630,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/20/nigeria-says-joint-us-strikes-kill-175-isil-fighters-in-countrys-northeast",
       "timestamp": "2026-05-20T13:03:00+03:00"
-    },
-    {
-      "headline": "China Turns to Russian Oil as Gulf Supply Drops Amid Hormuz Crisis",
-      "summary": "Chinese customs data shows Russian crude shipments to China rose 11.3% year-on-year in April as Gulf imports plunged during the Strait of Hormuz crisis. However, the discount on Russian oil has shrunk significantly due to sanctions waivers boosting global demand for Russian barrels.",
-      "emoji": "🛢️🇨🇳🇷🇺",
-      "category": "Energy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/economy/china-economy/article/3354219/china-turns-russian-oil-gulf-supply-drops-it-too-expensive",
-      "timestamp": "2026-05-20T12:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "OilPrice",
-          "url": "https://oilprice.com/Latest-Energy-News/World-News/European-Airlines-Say-Jet-Fuel-Supply-Is-Under-Control-for-Summer.html",
-          "angle": "European airlines confident jet fuel supply secure for summer despite Hormuz crisis",
-          "summary": "Major European airlines say they have secured sufficient jet fuel for summer operations, with refiners maximizing output and imports diversifying away from Middle Eastern sources."
-        }
-      ],
-      "sources": [
-        "SCMP",
-        "OilPrice"
-      ],
-      "urls": [
-        "https://www.scmp.com/economy/china-economy/article/3354219/china-turns-russian-oil-gulf-supply-drops-it-too-expensive",
-        "https://oilprice.com/Latest-Energy-News/World-News/European-Airlines-Say-Jet-Fuel-Supply-Is-Under-Control-for-Summer.html"
-      ]
     },
     {
       "headline": "Russia Launches Unannounced Nuclear Exercise With 65,000 Troops",
@@ -2898,33 +2941,6 @@
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/first-known-russian-recruited-from-university-dies-in-ukraine-exposing-russias-student-recruitment-campaign/",
       "timestamp": "2026-05-18T22:05:00+03:00"
-    },
-    {
-      "headline": "Australia Orders Chinese Investors to Divest From Rare Earths Company",
-      "summary": "The Australian government ordered Chinese investors to divest from Northern Minerals, a rare earths company. Analysts say the move reflects efforts to diversify supply chains away from China but risks Beijing retaliation.",
-      "emoji": "🇦🇺",
-      "category": "Geopolitics",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/economy/china-economy/article/3353989/australia-orders-chinese-investors-divest-rare-earths-company-northern-minerals",
-      "timestamp": "2026-05-18T22:05:00+03:00"
-    },
-    {
-      "headline": "Bolivia faces largest protests in decades as Evo Morales supporters join movement",
-      "summary": "Followers of former President Evo Morales have joined massive protests against President Rodrigo Paz, marking the biggest challenge to Bolivia's first conservative leader after nearly two decades of socialist rule. The protests are fueled by the nation's worst economic crisis in a generation.",
-      "emoji": "🇧🇴",
-      "category": "Latin America",
-      "source": "AP News",
-      "url": "https://apnews.com/article/bolivia-evo-morales-rodrigo-paz-protests-road-blocks-argentina-b314f835b1c074efa8073921c2f04360",
-      "timestamp": "2026-05-18T22:03:00+03:00"
-    },
-    {
-      "headline": "US-Iran Standoff Deepens as Neither Side Bends",
-      "summary": "Three months after the US-Israel attack on Iran, a US blockade and Tehran's grip on the Strait of Hormuz have created a deadlock with neither side willing to compromise, raising the risk of renewed war.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/no-deal-no-exit-how-us-iran-standoff-risks-fresh-conflict-2026-05-18/",
-      "timestamp": "2026-05-18T21:03:00+03:00"
     }
   ]
 }
