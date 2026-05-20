@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-20T07:05:35+03:00",
+  "lastUpdated": "2026-05-20T08:05:26+03:00",
   "headlines": [
     {
-      "headline": "UN Reports Over 15,800 Killed in Ukraine War Since Russian Invasion",
-      "summary": "The United Nations confirmed 15,850 people including 791 children have been killed in Ukraine since February 2022, with actual figures likely significantly higher. Peace talks have stalled as fighting continues.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un",
-      "timestamp": "2026-05-20T07:03:00+03:00"
+      "headline": "Putin declares Russia-China ties at unprecedented level, invites Xi to Moscow",
+      "summary": "President Putin told Xi Jinping that bilateral relations have reached an unprecedented level during Beijing talks, extending an invitation for Xi to visit Russia next year.",
+      "emoji": "🇷🇺🇨🇳",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/putin-says-russia-china-ties-unprecedented-level-invites-xi-russia-2026-05-20/",
+      "timestamp": "2026-05-20T08:00:00+03:00"
+    },
+    {
+      "headline": "Russia considers joint projects with US and China, says sovereign fund chief",
+      "summary": "Kirill Dmitriev, head of Russia sovereign wealth fund RDIF, indicated Moscow is exploring potential joint economic initiatives with both Washington and Beijing.",
+      "emoji": "🇷🇺💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/russia-considers-joint-projects-with-us-china-media-report-2026-05-20/",
+      "timestamp": "2026-05-20T08:00:00+03:00"
+    },
+    {
+      "headline": "Fed Chair nominee Warsh signals shift on independence, unsettling global central bankers",
+      "summary": "Kevin Warsh suggestion that Fed independence may not fully extend to crisis-fighting abroad has raised concerns among central banking peers worldwide.",
+      "emoji": "🇺🇸🏦",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/world-awaits-new-fed-chairs-vision-independence-2026-05-19/",
+      "timestamp": "2026-05-20T08:00:00+03:00"
+    },
+    {
+      "headline": "Treasury Secretary Bessent calls for stronger action against Iran financing networks",
+      "summary": "Scott Bessent urged allies to more forcefully disrupt Iran financial channels and announced a review to scrub outdated sanctions designations for better enforcement.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/bessent-urges-more-disruption-irans-financing-will-review-us-sanctions-list-2026-05-19/",
+      "timestamp": "2026-05-20T08:00:00+03:00"
+    },
+    {
+      "headline": "US not rushing to extend China tariff truce, Bessent says",
+      "summary": "Treasury Secretary indicated the administration has time to negotiate extensions before the November expiration, signaling no urgency on the critical minerals deal.",
+      "emoji": "🇺🇸🇨🇳",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/us-not-hurry-extend-china-trade-truce-bessent-says-2026-05-19/",
+      "timestamp": "2026-05-20T08:00:00+03:00"
     },
     {
       "headline": "EU Finalizes Trade Pact With US Ahead of Trump Tariff Deadline",
@@ -17,7 +53,23 @@
       "category": "Economy",
       "source": "Le Monde",
       "url": "https://www.lemonde.fr/en/economy/article/2026/05/20/tariffs-eu-agrees-to-implement-us-trade-pact_6753632_19.html",
-      "timestamp": "2026-05-20T07:03:00+03:00"
+      "timestamp": "2026-05-20T07:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "DW",
+          "url": "https://www.dw.com/en/eu-strikes-deal-on-us-trade-pact-ahead-of-trump-tariff-deadline/a-77222972",
+          "angle": "EU reaches provisional US trade deal ahead of Trump tariff deadline",
+          "summary": "The EU agreed to remove import duties on US goods, meeting Trump deadline and averting potential tariff escalation between the two economic blocs."
+        }
+      ],
+      "sources": [
+        "Le Monde",
+        "DW"
+      ],
+      "urls": [
+        "https://www.lemonde.fr/en/economy/article/2026/05/20/tariffs-eu-agrees-to-implement-us-trade-pact_6753632_19.html",
+        "https://www.dw.com/en/eu-strikes-deal-on-us-trade-pact-ahead-of-trump-tariff-deadline/a-77222972"
+      ]
     },
     {
       "headline": "Trump Was \"An Hour Away\" From Ordering Iran Strike Before Postponing",
@@ -35,25 +87,23 @@
       "category": "US-Iran War",
       "source": "CBS News",
       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/",
-      "timestamp": "2026-05-20T07:03:00+03:00"
-    },
-    {
-      "headline": "Analysis: Trump Turns to Gulf Allies as Iran Deal Proves Elusive",
-      "summary": "The president is increasingly outsourcing Iran policy to Middle Eastern allies while the White House struggles to find an exit from the war. Iran has shown no indication it will meet US demands.",
-      "emoji": "🤝",
-      "category": "US-Iran War",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/19/trump-iran-analysis",
-      "timestamp": "2026-05-20T07:03:00+03:00"
-    },
-    {
-      "headline": "EU reaches provisional US trade deal ahead of Trump tariff deadline",
-      "summary": "The EU agreed to remove import duties on US goods, meeting Trump deadline and averting potential tariff escalation between the two economic blocs.",
-      "emoji": "🇪🇺",
-      "category": "Economy",
-      "source": "DW",
-      "url": "https://www.dw.com/en/eu-strikes-deal-on-us-trade-pact-ahead-of-trump-tariff-deadline/a-77222972",
-      "timestamp": "2026-05-20T06:10:00+03:00"
+      "timestamp": "2026-05-20T07:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "TIME",
+          "url": "https://time.com/article/2026/05/19/trump-us-iran-israel-war-gulf-states-attack-hormuz/",
+          "angle": "Trump Cancels Planned Iran Attack After Gulf States Request Delay",
+          "summary": "President Trump postponed military strikes on Iran after Gulf nations requested time for negotiations. Iran submitted a revised 14-point proposal via Pakistani mediators, but key disputes over nuclear enrichment and the Strait of Hormuz remain unresolved."
+        }
+      ],
+      "sources": [
+        "CBS News",
+        "TIME"
+      ],
+      "urls": [
+        "https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/",
+        "https://time.com/article/2026/05/19/trump-us-iran-israel-war-gulf-states-attack-hormuz/"
+      ]
     },
     {
       "headline": "Swedish defense giant Saab expands role in Japan defense buildup",
@@ -203,6 +253,39 @@
       "timestamp": "2026-05-20T04:03:00+03:00"
     },
     {
+      "headline": "Chinese Military Secretly Trained Russian Forces for Ukraine War",
+      "summary": "China's armed forces covertly trained around 200 Russian military personnel late last year, with those soldiers now returning to fight in Ukraine, according to European intelligence agencies and documents seen by Reuters.",
+      "emoji": "⚔️🇨🇳",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/russians-covertly-trained-by-china-return-fight-ukraine-sources-say-2026-05-19/",
+      "timestamp": "2026-05-20T03:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un",
+          "angle": "UN Reports Over 15,800 Killed in Ukraine War Since Russian Invasion",
+          "summary": "The United Nations confirmed 15,850 people including 791 children have been killed in Ukraine since February 2022, with actual figures likely significantly higher. Peace talks have stalled as fighting continues."
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un",
+          "angle": "UN: Over 15,800 Killed in Russia's War on Ukraine",
+          "summary": "The United Nations confirmed nearly 800 children are among the more than 15,800 people killed since Russia's full-scale invasion began in February 2022."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Al Jazeera",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/aerospace-defense/russians-covertly-trained-by-china-return-fight-ukraine-sources-say-2026-05-19/",
+        "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un",
+        "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un"
+      ]
+    },
+    {
       "headline": "Putin Arrives in Beijing for Summit With Xi Following Trump Visit",
       "summary": "Russian President Vladimir Putin landed in China for a two-day state visit to meet with Xi Jinping, just days after Trump's high-profile Beijing summit, as both leaders seek to project stability amid global tensions.",
       "emoji": "🇨🇳🇷🇺",
@@ -234,15 +317,6 @@
         "https://apnews.com/article/china-russia-putin-xi-beijing-visit-trump-0c0086341e9694122a49fb7054b41d97",
         "https://www.reuters.com/world/china/putin-says-russia-china-ready-back-each-other-issues-such-protecting-sovereignty-2026-05-19/"
       ]
-    },
-    {
-      "headline": "Chinese Military Secretly Trained Russian Forces for Ukraine War",
-      "summary": "China's armed forces covertly trained around 200 Russian military personnel late last year, with those soldiers now returning to fight in Ukraine, according to European intelligence agencies and documents seen by Reuters.",
-      "emoji": "⚔️🇨🇳",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/russians-covertly-trained-by-china-return-fight-ukraine-sources-say-2026-05-19/",
-      "timestamp": "2026-05-20T03:05:00+03:00"
     },
     {
       "headline": "US Senate Advances Bill to End Iran War After Primary Defeat Flips Vote",
@@ -315,15 +389,6 @@
       "timestamp": "2026-05-20T02:06:00+03:00"
     },
     {
-      "headline": "Trump Cancels Planned Iran Attack After Gulf States Request Delay",
-      "summary": "President Trump postponed military strikes on Iran after Gulf nations requested time for negotiations. Iran submitted a revised 14-point proposal via Pakistani mediators, but key disputes over nuclear enrichment and the Strait of Hormuz remain unresolved.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "TIME",
-      "url": "https://time.com/article/2026/05/19/trump-us-iran-israel-war-gulf-states-attack-hormuz/",
-      "timestamp": "2026-05-20T02:03:00+03:00"
-    },
-    {
       "headline": "Ukraine Shifts to Strategic Neutralization Strategy Against Russia",
       "summary": "Ukraine is pursuing asymmetric warfare to degrade Russia economy and military infrastructure rather than costly territorial offensives. Deep strikes on Russian oil refineries and military facilities are disrupting Moscow war effort and challenging Russia spring offensive.",
       "emoji": "🇺🇦",
@@ -357,15 +422,6 @@
       "category": "Middle East",
       "source": "France 24",
       "url": "https://www.france24.com/en/middle-east/20260519-iran-warns-it-could-open-up-new-fronts-in-war-after-us-threatens-large-scale-assault",
-      "timestamp": "2026-05-20T00:15:00+03:00"
-    },
-    {
-      "headline": "UN: Over 15,800 Killed in Russia's War on Ukraine",
-      "summary": "The United Nations confirmed nearly 800 children are among the more than 15,800 people killed since Russia's full-scale invasion began in February 2022.",
-      "emoji": "🇺🇦💔",
-      "category": "Ukraine-Russia War",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un",
       "timestamp": "2026-05-20T00:15:00+03:00"
     },
     {
@@ -576,34 +632,18 @@
       "perspectives": [
         {
           "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel",
-          "angle": "Iran Makes New Peace Proposal as Trump Postpones Military Strikes",
-          "summary": "Iran submitted a new proposal through Pakistani mediators offering nuclear program suspension and phased Hormuz reopening. Trump delayed planned attacks after Gulf states intervened, though both sides remain deadlocked on key demands."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/iran-says-peace-proposal-includes-reparations-war-damage-us-troop-withdrawal-2026-05-19/",
-          "angle": "Iran submits peace proposal seeking war reparations and US troop withdrawal",
-          "summary": "Tehran has presented a peace proposal to the United States that includes ending hostilities across the region, withdrawal of US forces from areas near Iran, and reparations for war damage, as diplomatic efforts continue to de-escalate the conflict."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/trump-meet-us-security-advisers-tuesday-axios-reports-2026-05-17/",
-          "angle": "Trump to Hold Situation Room Meeting Tuesday on Iran Military Options",
-          "summary": "President Trump is expected to meet with top national security advisers on Tuesday to discuss military options regarding Iran, as ceasefire negotiations remain stalled."
+          "url": "https://www.theguardian.com/world/2026/may/19/trump-iran-analysis",
+          "angle": "Analysis: Trump Turns to Gulf Allies as Iran Deal Proves Elusive",
+          "summary": "The president is increasingly outsourcing Iran policy to Middle Eastern allies while the White House struggles to find an exit from the war. Iran has shown no indication it will meet US demands."
         }
       ],
       "sources": [
         "Reuters",
-        "The Guardian",
-        "Reuters",
-        "Reuters"
+        "The Guardian"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/trump-says-us-may-need-hit-iran-again-2026-05-19/",
-        "https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel",
-        "https://www.reuters.com/world/asia-pacific/iran-says-peace-proposal-includes-reparations-war-damage-us-troop-withdrawal-2026-05-19/",
-        "https://www.reuters.com/world/trump-meet-us-security-advisers-tuesday-axios-reports-2026-05-17/"
+        "https://www.theguardian.com/world/2026/may/19/trump-iran-analysis"
       ]
     },
     {
@@ -2800,67 +2840,6 @@
       "source": "BBC",
       "url": "https://www.bbc.com/news/world-middle-east-69052156",
       "timestamp": "2026-05-18T03:03:00+03:00"
-    },
-    {
-      "headline": "IDF Extends Death Penalty Law to West Bank Palestinians Convicted of Terror",
-      "summary": "Israel Defense Forces Central Command chief has applied a new death penalty law to Palestinians in the West Bank convicted of terrorism, expanding capital punishment beyond Israel proper.",
-      "emoji": "🇮🇱⚔️",
-      "category": "Middle East",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/west-bank/2026-05-17/ty-article/.premium/idf-extends-death-penalty-law-to-west-bank-palestinians-convicted-of-terror/0000019e-378e-d394-addf-ffbe082d0000",
-      "timestamp": "2026-05-18T02:06:00+03:00"
-    },
-    {
-      "headline": "Argentina Retires A-4 Fightinghawks After Six Decades",
-      "summary": "Argentina has finally stood down its A-4 Skyhawks, the type's first export operator, after 60 years of service as the country introduces its first F-16s.",
-      "emoji": "🇦🇷✈️",
-      "category": "Military",
-      "source": "The War Zone",
-      "url": "https://www.twz.com/air/argentina-retires-its-a-4-fightinghawks",
-      "timestamp": "2026-05-18T02:06:00+03:00"
-    },
-    {
-      "headline": "Norway Arrests Chinese Man for Spying",
-      "summary": "Norway's interior security service has arrested a Chinese national on suspicion of espionage, marking another case of alleged Chinese intelligence activity in Europe.",
-      "emoji": "🇳🇴🇨🇳🕵️",
-      "category": "Europe",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3353902/norway-arrests-chinese-man-spying-interior-security-service-says",
-      "timestamp": "2026-05-18T02:06:00+03:00"
-    },
-    {
-      "headline": "Cuba Accuses US of Fabricating Drone Threat Claims",
-      "summary": "Cuban Foreign Minister Bruno Rodriguez dismissed US intelligence reports about Cuban drone acquisitions from Russia and Iran as a \"fraudulent case\" designed to justify sanctions and potential military intervention.",
-      "emoji": "🇨🇺",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/americas/us-assesses-drone-threat-cuba-axios-reports-2026-05-17/",
-      "timestamp": "2026-05-18T02:03:00+03:00"
-    },
-    {
-      "headline": "Moldova Condemns Russian Offer of Citizenship to Transdniestria Separatists",
-      "summary": "Moldovan leaders denounced President Putin's offer of simplified Russian citizenship for the pro-Russian Transdniestria region as a threat to sovereignty, amid escalating tensions over the separatist enclave.",
-      "emoji": "🇲🇩",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/moldovan-leaders-decry-russian-move-citizenship-separatist-region-2026-05-17/",
-      "timestamp": "2026-05-18T02:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/moldovan-leaders-decry-russian-move-citizenship-separatist-region-2026-05-17/",
-          "angle": "Moldova Condemns Russian Offer of Citizenship to Separatist Region",
-          "summary": "Moldovan leaders denounced Russian President Vladimir Putin's offer of simplified Russian citizenship for the pro-Russian Transdniestria separatist enclave as a threat, contemplating measures to counteract it."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/moldovan-leaders-decry-russian-move-citizenship-separatist-region-2026-05-17/",
-        "https://www.reuters.com/world/moldovan-leaders-decry-russian-move-citizenship-separatist-region-2026-05-17/"
-      ]
     }
   ]
 }
