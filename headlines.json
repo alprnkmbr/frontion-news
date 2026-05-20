@@ -1,14 +1,41 @@
 {
-  "lastUpdated": "2026-05-20T08:09:52+03:00",
+  "lastUpdated": "2026-05-20T09:06:18+03:00",
   "headlines": [
     {
-      "headline": "Pentagon cuts US Army brigades in Europe from four to three",
-      "summary": "The US has reduced its Brigade Combat Teams in Europe from four to three, with a temporary delay in deploying troops to Poland. The move comes as Washington pressures European allies to invest more in their own defense.",
-      "emoji": "🇺🇸🇪🇺",
-      "category": "Europe",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/live-news/20260520-pentagon-says-it-has-reduced-brigades-in-europe-from-four-to-three",
-      "timestamp": "2026-05-20T08:08:00+03:00"
+      "headline": "Xi Hosts Putin in Beijing, Hails Ties as \"Calm Amid Chaos\"",
+      "summary": "Chinese leader Xi Jinping welcomed Vladimir Putin for a state visit just days after hosting Trump, calling Russia-China relations a force of stability. Xi urged an \"early end\" to the Iran war and criticized \"unilateral hegemonic currents\" in a veiled jab at the US.",
+      "emoji": "🇨🇳🇷🇺",
+      "category": "US-China",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/05/20/china/chinas-xi-gives-putin-a-red-carpet-welcome-and-makes-a-veiled-jab-at-the-us",
+      "timestamp": "2026-05-20T09:03:00+03:00"
+    },
+    {
+      "headline": "UN: Over 15,800 Killed in Russia-Ukraine War Since 2022",
+      "summary": "The UN reports at least 15,850 people including 791 children have been killed since Russia's full-scale invasion. The actual figures are likely significantly higher as peace talks remain stalled.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un",
+      "timestamp": "2026-05-20T09:03:00+03:00"
+    },
+    {
+      "headline": "EU Strikes Deal on US Trade Pact Ahead of Trump Tariff Deadline",
+      "summary": "The European Parliament and Council reached a late-night provisional agreement to remove import duties on US goods, keeping the bloc on track to meet the July 4 deadline and avoid higher US tariffs on European goods.",
+      "emoji": "🇪🇺🇺🇸",
+      "category": "Economy",
+      "source": "Deutsche Welle",
+      "url": "https://www.dw.com/en/eu-strikes-deal-on-us-trade-pact-ahead-of-trump-tariff-deadline/a-77222972",
+      "timestamp": "2026-05-20T09:03:00+03:00"
+    },
+    {
+      "headline": "Israeli Strikes Kill 19 in Southern Lebanon Despite Ceasefire",
+      "summary": "At least 19 people including women and children were killed in Israeli airstrikes in southern Lebanon. The attacks came just days after the US announced a 45-day ceasefire extension between Israel and Hezbollah.",
+      "emoji": "🇱🇧🇮🇱",
+      "category": "Middle East",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/20/deadly-israeli-strikes-lebanon",
+      "timestamp": "2026-05-20T09:03:00+03:00"
     },
     {
       "headline": "UK quietly sanctions Russian oil via waivers as energy costs surge",
@@ -17,7 +44,23 @@
       "category": "Europe",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/uk-quietly-issues-sanctions-waivers-on-russian-oil-products/",
-      "timestamp": "2026-05-20T08:08:00+03:00"
+      "timestamp": "2026-05-20T08:08:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/uk-quietly-issues-sanctions-waivers-on-russian-oil-products/",
+          "angle": "UK quietly issues waivers for Russian oil imports",
+          "summary": "The UK issued licenses allowing imports of diesel and jet fuel made from Russian oil if processed in third countries, plus a separate license for maritime transport of Russian LNG. The waivers come amid rising fuel costs from the Iran conflict."
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://kyivindependent.com/uk-quietly-issues-sanctions-waivers-on-russian-oil-products/",
+        "https://kyivindependent.com/uk-quietly-issues-sanctions-waivers-on-russian-oil-products/"
+      ]
     },
     {
       "headline": "Ukraine strikes Russian oil refinery and chemical plant for second time in a week",
@@ -26,7 +69,23 @@
       "category": "Ukraine-Russia War",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/ukraine-reportedly-strikes-russian-chemical-plant-for-second-time-in-a-week/",
-      "timestamp": "2026-05-20T08:08:00+03:00"
+      "timestamp": "2026-05-20T08:08:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-reportedly-strikes-russian-chemical-plant-for-second-time-in-a-week/",
+          "angle": "Ukraine strikes Russian chemical plant for second time in a week",
+          "summary": "Ukrainian forces reportedly attacked a Russian chemical plant for the second time in one week, continuing their deep-strike campaign against Russian industrial targets."
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://kyivindependent.com/ukraine-reportedly-strikes-russian-chemical-plant-for-second-time-in-a-week/",
+        "https://kyivindependent.com/ukraine-reportedly-strikes-russian-chemical-plant-for-second-time-in-a-week/"
+      ]
     },
     {
       "headline": "Czechia proposes restrictions on Ukrainian refugee benefits",
@@ -166,15 +225,6 @@
       "category": "Energy",
       "source": "Nikkei Asia",
       "url": "https://asia.nikkei.com/business/energy/india-faces-lpg-gap-of-400-000-barrels-a-day-as-energy-crisis-goes-on",
-      "timestamp": "2026-05-20T06:10:00+03:00"
-    },
-    {
-      "headline": "Ukraine strikes Russian chemical plant for second time in a week",
-      "summary": "Ukrainian forces reportedly attacked a Russian chemical plant for the second time in one week, continuing their deep-strike campaign against Russian industrial targets.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/ukraine-reportedly-strikes-russian-chemical-plant-for-second-time-in-a-week/",
       "timestamp": "2026-05-20T06:10:00+03:00"
     },
     {
@@ -400,19 +450,19 @@
       "timestamp": "2026-05-20T02:06:00+03:00",
       "perspectives": [
         {
-          "source": "France24",
-          "url": "https://www.france24.com/en/europe/20260520-us-europe-troop-brigades-reduction-pentagon",
-          "angle": "Pentagon cuts US Brigade Combat Teams in Europe from four to three",
-          "summary": "The US military reduced its Brigade Combat Teams stationed in Europe from four to three, returning troop levels to 2021 levels amid broader questions about American commitment to NATO."
+          "source": "France 24",
+          "url": "https://www.france24.com/en/live-news/20260520-pentagon-says-it-has-reduced-brigades-in-europe-from-four-to-three",
+          "angle": "Pentagon cuts US Army brigades in Europe from four to three",
+          "summary": "The US has reduced its Brigade Combat Teams in Europe from four to three, with a temporary delay in deploying troops to Poland. The move comes as Washington pressures European allies to invest more in their own defense."
         }
       ],
       "sources": [
         "Anadolu Agency",
-        "France24"
+        "France 24"
       ],
       "urls": [
         "https://www.aa.com.tr/en/europe/pentagon-cuts-us-brigade-presence-in-europe-delays-poland-deployment/3942649",
-        "https://www.france24.com/en/europe/20260520-us-europe-troop-brigades-reduction-pentagon"
+        "https://www.france24.com/en/live-news/20260520-pentagon-says-it-has-reduced-brigades-in-europe-from-four-to-three"
       ]
     },
     {
@@ -587,15 +637,6 @@
       "category": "Ukraine-Russia War",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/russias-loudest-ukraine-hardliner-no-longer-matters-in-peace-talks-officials-say/",
-      "timestamp": "2026-05-19T22:12:00+03:00"
-    },
-    {
-      "headline": "UK quietly issues waivers for Russian oil imports",
-      "summary": "The UK issued licenses allowing imports of diesel and jet fuel made from Russian oil if processed in third countries, plus a separate license for maritime transport of Russian LNG. The waivers come amid rising fuel costs from the Iran conflict.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/uk-quietly-issues-sanctions-waivers-on-russian-oil-products/",
       "timestamp": "2026-05-19T22:12:00+03:00"
     },
     {
@@ -2851,40 +2892,6 @@
         "https://www.reuters.com/world/china/taiwan-independence-means-we-dont-belong-beijing-president-says-2026-05-17/",
         "https://apnews.com/article/taiwan-us-arms-china-trump-9b281ac90e9bcb71aee8011435dec0c2"
       ]
-    },
-    {
-      "headline": "Senate parliamentarian blocks $1 billion White House security funding",
-      "summary": "The Senate parliamentarian ruled that Republican efforts to allocate funding for Trump's proposed White House ballroom project cannot proceed through budget reconciliation.",
-      "emoji": "🏛️",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us/federal-funding-trumps-ballroom-jeopardy-after-senate-ruling-2026-05-17/",
-      "timestamp": "2026-05-18T03:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/white-house-ballroom-funding-senate-parliamentarian-republicans-042dc61b41d1163e08ee095e7ffb2e48",
-          "angle": "Senate Parliamentarian Blocks $1 Billion White House Security Proposal",
-          "summary": "The Senate parliamentarian ruled that a $1 billion proposal for White House security funding, including a proposed ballroom, cannot proceed under budget reconciliation rules. The decision deals a blow to administration spending plans."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/us/federal-funding-trumps-ballroom-jeopardy-after-senate-ruling-2026-05-17/",
-        "https://apnews.com/article/white-house-ballroom-funding-senate-parliamentarian-republicans-042dc61b41d1163e08ee095e7ffb2e48"
-      ]
-    },
-    {
-      "headline": "Political executions surge in Iran since war began, UN verifies at least 32",
-      "summary": "The United Nations has verified the execution of at least 32 political prisoners in Iran since the US-Israel war began on February 28.",
-      "emoji": "🏴",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/world-middle-east-69052156",
-      "timestamp": "2026-05-18T03:03:00+03:00"
     }
   ]
 }
