@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-21T01:06:02+03:00",
+  "lastUpdated": "2026-05-21T02:04:40+03:00",
   "headlines": [
+    {
+      "headline": "US indicts former Cuban leader Raúl Castro over 1996 plane shootdown",
+      "summary": "The US Justice Department charged Castro with murder and conspiracy for ordering the downing of two civilian planes operated by Miami-based exile group Brothers to the Rescue, killing four people including three Americans. The indictment marks a sharp escalation in US pressure on Cuba's communist government.",
+      "emoji": "🇨🇺",
+      "category": "US Politics",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c3r219yxl5eo",
+      "timestamp": "2026-05-21T02:03:00+03:00"
+    },
+    {
+      "headline": "US military surveillance flights track movements near Cuba amid tensions",
+      "summary": "BBC Verify analysis shows US Navy P-8A Poseidon jets and MQ-4C Triton drones have been operating near Cuba since May 11, with some flights coming within 50 miles of the island. The public nature of the flights signals US intent to enforce the oil blockade and pressure Havana.",
+      "emoji": "✈️",
+      "category": "Military",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cjep1wx7w0ko",
+      "timestamp": "2026-05-21T02:03:00+03:00"
+    },
+    {
+      "headline": "Russian jets dangerously intercept British spy plane over Black Sea",
+      "summary": "The UK Defence Ministry said two Russian Su-35 and Su-27 aircraft repeatedly intercepted an unarmed RAF Rivet Joint surveillance aircraft in international airspace in April, coming within six metres of the plane. Britain called it the most dangerous Russian action against a UK aircraft since 2022.",
+      "emoji": "🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/20/russia-dangerously-intercepts-british-spy-plane-over-black-sea-ministry",
+      "timestamp": "2026-05-21T02:03:00+03:00"
+    },
+    {
+      "headline": "Iran reopens stock market after three-month war closure",
+      "summary": "Tehran Stock Exchange resumed trading with restrictions after being shut since February. About 36% of companies remain suspended due to war damage, while inflation exceeds 70% and the rial continues to slide against the dollar.",
+      "emoji": "📈",
+      "category": "Economy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/20/controlled-reopening-ends-irans-lengthy-stock-market-shutdown",
+      "timestamp": "2026-05-21T02:03:00+03:00"
+    },
+    {
+      "headline": "Senate advances bill to end Iran war as GOP senator flips",
+      "summary": "A 50-47 procedural vote brought Congress closer to forcing President Trump to withdraw from the Iran conflict, with Republican Senator Bill Cassidy joining Democrats after his primary loss. The House will vote on a similar war powers resolution Wednesday.",
+      "emoji": "🏛️",
+      "category": "US Politics",
+      "source": "AP News",
+      "url": "https://apnews.com/article/trump-iran-war-senate-bill-cassidy-fe89d2df981a79ac816722d0115d3080",
+      "timestamp": "2026-05-21T02:03:00+03:00"
+    },
     {
       "headline": "Trump Says Iran Talks on Borderline as Tehran Reviews US Proposal",
       "summary": "US President Donald Trump said negotiations with Iran are on the borderline between a deal and further military action, suggesting Washington could wait a few days for the right answer from Tehran.",
@@ -8,7 +53,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/trump-may-have-hit-iran-harder-or-maybe-not-2026-05-20/",
-      "timestamp": "2026-05-21T01:03:00+03:00"
+      "timestamp": "2026-05-21T01:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/trump-says-us-may-need-hit-iran-again-2026-05-19/",
+          "angle": "Trump Warns of More Strikes on Iran, Says Tehran Wants Deal",
+          "summary": "President Trump said he was an hour away from ordering another attack on Iran before postponing it. Tehran denies ongoing talks but Trump claims diplomatic progress."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/trump-may-have-hit-iran-harder-or-maybe-not-2026-05-20/",
+        "https://www.reuters.com/world/middle-east/trump-says-us-may-need-hit-iran-again-2026-05-19/"
+      ]
     },
     {
       "headline": "UK Extends Fuel Duty Cut to Ease Iran War Inflation Pressure",
@@ -17,7 +78,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/uk/uk-will-cancel-planned-rise-motor-fuel-tax-pm-says-2026-05-20/",
-      "timestamp": "2026-05-21T01:03:00+03:00"
+      "timestamp": "2026-05-21T01:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/americas/canadas-april-inflation-surges-28-iran-war-drives-gasoline-costs-up-2026-05-19/",
+          "angle": "Canadas inflation jumps to 2.8% as Iran war drives gasoline prices higher",
+          "summary": "Annual inflation rate accelerated in April as oil price surge from Middle East conflict pushed gasoline costs up."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/uk/uk-will-cancel-planned-rise-motor-fuel-tax-pm-says-2026-05-20/",
+        "https://www.reuters.com/world/americas/canadas-april-inflation-surges-28-iran-war-drives-gasoline-costs-up-2026-05-19/"
+      ]
     },
     {
       "headline": "US Doctor Exposed to Ebola Transferred to Czech Hospital from Uganda",
@@ -1778,31 +1855,6 @@
       "timestamp": "2026-05-19T22:03:00+03:00"
     },
     {
-      "headline": "Trump Warns of More Strikes on Iran, Says Tehran Wants Deal",
-      "summary": "President Trump said he was an hour away from ordering another attack on Iran before postponing it. Tehran denies ongoing talks but Trump claims diplomatic progress.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/trump-says-us-may-need-hit-iran-again-2026-05-19/",
-      "timestamp": "2026-05-19T21:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/may/19/trump-iran-analysis",
-          "angle": "Analysis: Trump Turns to Gulf Allies as Iran Deal Proves Elusive",
-          "summary": "The president is increasingly outsourcing Iran policy to Middle Eastern allies while the White House struggles to find an exit from the war. Iran has shown no indication it will meet US demands."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "The Guardian"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/trump-says-us-may-need-hit-iran-again-2026-05-19/",
-        "https://www.theguardian.com/world/2026/may/19/trump-iran-analysis"
-      ]
-    },
-    {
       "headline": "Cuba Warns of \"Bloodbath\" if US Attacks as Washington Expands Sanctions",
       "summary": "President Díaz-Canel stressed Cuba's right to defend itself after reports Havana obtained over 300 military drones from an unspecified source. Washington expanded sanctions amid rising tensions.",
       "emoji": "🇨🇺",
@@ -1844,55 +1896,6 @@
       "source": "The Hill",
       "url": "https://thehill.com/homenews/5779709-paxton-trump-endorsement-texas/",
       "timestamp": "2026-05-19T20:09:00+03:00"
-    },
-    {
-      "headline": "Canadas inflation jumps to 2.8% as Iran war drives gasoline prices higher",
-      "summary": "Annual inflation rate accelerated in April as oil price surge from Middle East conflict pushed gasoline costs up.",
-      "emoji": "🇨🇦",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/americas/canadas-april-inflation-surges-28-iran-war-drives-gasoline-costs-up-2026-05-19/",
-      "timestamp": "2026-05-19T20:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/05/19/business/bond-market-iran-war-inflation.html",
-          "angle": "Global Bond Yields Hit Highest Since 2007 Amid Iran War Inflation Fears",
-          "summary": "The 30-year US Treasury yield reached its highest level since before the global financial crisis as investors price in inflation risks from the ongoing conflict in the Middle East."
-        },
-        {
-          "source": "Channel News Asia",
-          "url": "https://www.channelnewsasia.com/business/japan-ready-act-fx-volatility-mindful-us-bond-market-impact-6129466",
-          "angle": "Japan stands ready to intervene on yen volatility amid global bond selloff",
-          "summary": "Japanese officials at G7 talks in Paris said Tokyo is prepared to act against excessive forex volatility at any time, while being mindful of the impact on US Treasury yields from any yen-buying intervention."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/iran-war-saddles-global-companies-with-25-billion-bill-counting-2026-05-18/",
-          "angle": "Iran War Costs Global Companies Over $25 Billion and Counting",
-          "summary": "Businesses worldwide are grappling with soaring energy prices, fractured supply chains, and severed trade routes as Iran maintains its chokehold on the Strait of Hormuz, with the economic toll mounting daily."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/global-bond-rout-deepens-inflation-fears-mount-2026-05-18/",
-          "angle": "Global Bond Rout Deepens as Inflation Fears Mount",
-          "summary": "Sovereign bond yields are racing to decade highs as investors wake up to the risk that the Iran war may deliver a lasting inflationary shock, threatening government, business, and household spending power worldwide."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "New York Times",
-        "Channel News Asia",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/americas/canadas-april-inflation-surges-28-iran-war-drives-gasoline-costs-up-2026-05-19/",
-        "https://www.nytimes.com/2026/05/19/business/bond-market-iran-war-inflation.html",
-        "https://www.channelnewsasia.com/business/japan-ready-act-fx-volatility-mindful-us-bond-market-impact-6129466",
-        "https://www.reuters.com/world/europe/iran-war-saddles-global-companies-with-25-billion-bill-counting-2026-05-18/",
-        "https://www.reuters.com/world/europe/global-bond-rout-deepens-inflation-fears-mount-2026-05-18/"
-      ]
     },
     {
       "headline": "Explosions on Irans Qeshm Island from enemy ammunition disposal",
@@ -2882,40 +2885,6 @@
         "https://www.nytimes.com/2026/05/18/world/europe/us-greenland-talks-trump.html",
         "https://www.nytimes.com/2026/05/18/world/europe/in-closed-door-talks-us-demands-a-major-role-in-greenland.html"
       ]
-    },
-    {
-      "headline": "Syria Joins G7 Finance Sessions in Paris Sign of Growing Status",
-      "summary": "Syria will participate in a closed-door session with G7 finance ministers and central bank governors in Paris, marking a significant step in its international rehabilitation less than two years after the ousting of Bashar al-Assad.",
-      "emoji": "🇸🇾🏛️",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/syria-join-g7-finance-talks-paris-sign-growing-status-2026-05-18/",
-      "timestamp": "2026-05-19T03:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Jerusalem Post",
-          "url": "https://www.jpost.com/middle-east/article-896586",
-          "angle": "Syria Joins G7 Finance Sessions in Paris in Sign of Legitimization",
-          "summary": "Syria will participate in closed-door G7 finance minister meetings in Paris, a sign of its growing international status less than two years after the fall of Assad."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Jerusalem Post"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/syria-join-g7-finance-talks-paris-sign-growing-status-2026-05-18/",
-        "https://www.jpost.com/middle-east/article-896586"
-      ]
-    },
-    {
-      "headline": "Ukraine develops first homegrown guided aerial bomb",
-      "summary": "Ukraine has declared its domestically-produced 250kg guided aerial bomb combat-ready, reducing dependence on Western precision strike capabilities and providing an answer to Russia's daily glide-bomb attacks.",
-      "emoji": "🇺🇦⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/global/europe/2026/05/18/ukraine-declares-its-first-homegrown-guided-aerial-bomb-combat-ready/",
-      "timestamp": "2026-05-19T02:06:00+03:00"
     }
   ]
 }
