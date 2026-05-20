@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-20T06:08:46+03:00",
+  "lastUpdated": "2026-05-20T07:05:35+03:00",
   "headlines": [
     {
-      "headline": "Pentagon cuts US Brigade Combat Teams in Europe from four to three",
-      "summary": "The US military reduced its Brigade Combat Teams stationed in Europe from four to three, returning troop levels to 2021 levels amid broader questions about American commitment to NATO.",
+      "headline": "UN Reports Over 15,800 Killed in Ukraine War Since Russian Invasion",
+      "summary": "The United Nations confirmed 15,850 people including 791 children have been killed in Ukraine since February 2022, with actual figures likely significantly higher. Peace talks have stalled as fighting continues.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un",
+      "timestamp": "2026-05-20T07:03:00+03:00"
+    },
+    {
+      "headline": "EU Finalizes Trade Pact With US Ahead of Trump Tariff Deadline",
+      "summary": "European lawmakers reached a late-night deal to implement the EU-US trade agreement, removing import duties on US goods. The compromise avoids higher tariffs threatened by Trump for July 4.",
       "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "France24",
-      "url": "https://www.france24.com/en/europe/20260520-us-europe-troop-brigades-reduction-pentagon",
-      "timestamp": "2026-05-20T06:10:00+03:00"
+      "category": "Economy",
+      "source": "Le Monde",
+      "url": "https://www.lemonde.fr/en/economy/article/2026/05/20/tariffs-eu-agrees-to-implement-us-trade-pact_6753632_19.html",
+      "timestamp": "2026-05-20T07:03:00+03:00"
+    },
+    {
+      "headline": "Trump Was \"An Hour Away\" From Ordering Iran Strike Before Postponing",
+      "summary": "President Trump said he had made the decision to attack Iran before Gulf allies requested a delay. He gave Iran \"two or three days\" to reach a deal, keeping military options ready.",
+      "emoji": "⚔️",
+      "category": "US-Iran War",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/19/trump-iran-war-strike-postponed.html",
+      "timestamp": "2026-05-20T07:03:00+03:00"
+    },
+    {
+      "headline": "Trump Calls Off Iran Attack Amid \"Serious Negotiations\"",
+      "summary": "The president postponed planned strikes on Iran at the request of Gulf Arab states, claiming serious negotiations are underway. Iran shows no signs of budging on key demands despite threats.",
+      "emoji": "🇮🇷",
+      "category": "US-Iran War",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/live-updates/iran-war-trump-warning-oil-stock-prices-futures-ceasefire-diplomacy/",
+      "timestamp": "2026-05-20T07:03:00+03:00"
+    },
+    {
+      "headline": "Analysis: Trump Turns to Gulf Allies as Iran Deal Proves Elusive",
+      "summary": "The president is increasingly outsourcing Iran policy to Middle Eastern allies while the White House struggles to find an exit from the war. Iran has shown no indication it will meet US demands.",
+      "emoji": "🤝",
+      "category": "US-Iran War",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/19/trump-iran-analysis",
+      "timestamp": "2026-05-20T07:03:00+03:00"
     },
     {
       "headline": "EU reaches provisional US trade deal ahead of Trump tariff deadline",
@@ -242,7 +278,23 @@
       "category": "Europe",
       "source": "Anadolu Agency",
       "url": "https://www.aa.com.tr/en/europe/pentagon-cuts-us-brigade-presence-in-europe-delays-poland-deployment/3942649",
-      "timestamp": "2026-05-20T02:06:00+03:00"
+      "timestamp": "2026-05-20T02:06:00+03:00",
+      "perspectives": [
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/europe/20260520-us-europe-troop-brigades-reduction-pentagon",
+          "angle": "Pentagon cuts US Brigade Combat Teams in Europe from four to three",
+          "summary": "The US military reduced its Brigade Combat Teams stationed in Europe from four to three, returning troop levels to 2021 levels amid broader questions about American commitment to NATO."
+        }
+      ],
+      "sources": [
+        "Anadolu Agency",
+        "France24"
+      ],
+      "urls": [
+        "https://www.aa.com.tr/en/europe/pentagon-cuts-us-brigade-presence-in-europe-delays-poland-deployment/3942649",
+        "https://www.france24.com/en/europe/20260520-us-europe-troop-brigades-reduction-pentagon"
+      ]
     },
     {
       "headline": "Iran rejects US school strike claim as baseless fabrication",
@@ -2809,33 +2861,6 @@
         "https://www.reuters.com/world/moldovan-leaders-decry-russian-move-citizenship-separatist-region-2026-05-17/",
         "https://www.reuters.com/world/moldovan-leaders-decry-russian-move-citizenship-separatist-region-2026-05-17/"
       ]
-    },
-    {
-      "headline": "Iran Excludes Star Forward Azmoun from Preliminary World Cup Squad",
-      "summary": "Iran's national team left out attacking talisman Sardar Azmoun from its preliminary World Cup squad as the team prepares for the tournament amid ongoing diplomatic tensions over participation.",
-      "emoji": "⚽",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/sports/soccer/azmoun-left-out-preliminary-iran-world-cup-squad-2026-05-17/",
-      "timestamp": "2026-05-18T02:03:00+03:00"
-    },
-    {
-      "headline": "Air Show Collision Under Investigation at Idaho Air Force Base",
-      "summary": "Mountain Home Air Force Base in Idaho is investigating an aircraft collision during an air show performance, with no immediate reports of casualties.",
-      "emoji": "✈️",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/mountain-home-air-force-base-investigating-aircraft-collision-idaho-2026-05-17/",
-      "timestamp": "2026-05-18T02:03:00+03:00"
-    },
-    {
-      "headline": "Bond Yield Spike Poses Risk to Unprepared Equities Market",
-      "summary": "Rising benchmark yields threaten equity valuations as companies and consumers face higher borrowing costs, with investors warning that markets may be underestimating the impact on growth and corporate profits.",
-      "emoji": "📈",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/bond-yield-spike-is-risk-unprepared-equities-market-investors-warn-2026-05-17/",
-      "timestamp": "2026-05-18T02:03:00+03:00"
     }
   ]
 }
