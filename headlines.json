@@ -1,6 +1,31 @@
 {
-  "lastUpdated": "2026-05-20T05:08:47+03:00",
+  "lastUpdated": "2026-05-20T06:05:56+03:00",
   "headlines": [
+    {
+      "headline": "Trump-Backed Challenger Defeats Rep. Thomas Massie in Kentucky Primary",
+      "summary": "Rep. Thomas Massie lost his Republican primary to Trump-endorsed Ed Gallrein, the latest GOP lawmaker to fall after opposing the president. Massie had criticized the Iran war and pushed for release of the Epstein files.",
+      "emoji": "🇺🇸",
+      "category": "US Politics",
+      "source": "AP News",
+      "url": "https://apnews.com/article/massie-gallrein-trump-kentucky-republican-primary-03a658b1a45593ad04ebf6283a3fdb47",
+      "timestamp": "2026-05-20T06:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Politico",
+          "url": "https://www.politico.com/news/2026/05/19/raffensperger-loses-georgia-governor-primary-00929036",
+          "angle": "Raffensperger Loses Georgia GOP Primary as Trump-Backed Candidates Advance",
+          "summary": "Georgia Secretary of State Brad Raffensperger lost his Republican primary, while Lt. Gov. Burt Jones and billionaire Rick Jackson advanced to a runoff in the race for governor."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "Politico"
+      ],
+      "urls": [
+        "https://apnews.com/article/massie-gallrein-trump-kentucky-republican-primary-03a658b1a45593ad04ebf6283a3fdb47",
+        "https://www.politico.com/news/2026/05/19/raffensperger-loses-georgia-governor-primary-00929036"
+      ]
+    },
     {
       "headline": "Thailand Cuts Visa-Free Stay for Over 90 Countries",
       "summary": "Thailand has announced it will revoke the 60-day visa-free exemption for citizens of 93 countries, citing security concerns. Nationals from the UK, Australia, US, China and others will now need to apply for visas for stays longer than 30 days.",
@@ -26,16 +51,23 @@
       "category": "Middle East",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/19/us-imposes-sanctions-on-gaza-flotilla-organisers-amid-israeli-crackdown",
-      "timestamp": "2026-05-20T05:08:00+03:00"
-    },
-    {
-      "headline": "ICC Seeks Arrest Warrant for Israeli Minister Smotrich",
-      "summary": "Israeli far-right Finance Minister Bezalel Smotrich announced the International Criminal Court has requested a warrant for his arrest, making him the third Israeli official targeted after Netanyahu and Gallant.",
-      "emoji": "⚖️",
-      "category": "Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/israeli-far-right-minister-smotrich-says-icc-seeks-his-arrest",
-      "timestamp": "2026-05-20T05:08:00+03:00"
+      "timestamp": "2026-05-20T05:08:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/19/gaza-aid-flotilla-organisers-say-41-boats-intercepted-10-still-sailing",
+          "angle": "Gaza aid flotilla organizers say 41 boats intercepted, 10 still sailing",
+          "summary": "Israeli forces raided dozens of vessels in international waters off Cyprus. Ten countries condemned the action as a \"blatant violation of international law\" and demanded release of detained activists including Irish President's sister."
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://www.aljazeera.com/news/2026/5/19/us-imposes-sanctions-on-gaza-flotilla-organisers-amid-israeli-crackdown",
+        "https://www.aljazeera.com/news/2026/5/19/gaza-aid-flotilla-organisers-say-41-boats-intercepted-10-still-sailing"
+      ]
     },
     {
       "headline": "Aluminium Supply Crunch Threatens Asia Clean Energy Push as Iran War Hits Gulf Plants",
@@ -44,15 +76,6 @@
       "category": "Energy",
       "source": "SCMP",
       "url": "https://www.scmp.com/week-asia/economics/article/3354128/aluminium-supply-crunch-threatens-asias-clean-energy-push-amid-iran-war",
-      "timestamp": "2026-05-20T04:06:00+03:00"
-    },
-    {
-      "headline": "Raffensperger Loses Georgia GOP Primary as Trump-Backed Candidates Advance",
-      "summary": "Georgia Secretary of State Brad Raffensperger lost his Republican primary, while Lt. Gov. Burt Jones and billionaire Rick Jackson advanced to a runoff in the race for governor.",
-      "emoji": "🇺🇸",
-      "category": "US Politics",
-      "source": "Politico",
-      "url": "https://www.politico.com/news/2026/05/19/raffensperger-loses-georgia-governor-primary-00929036",
       "timestamp": "2026-05-20T04:06:00+03:00"
     },
     {
@@ -74,19 +97,19 @@
       "timestamp": "2026-05-20T04:03:00+03:00",
       "perspectives": [
         {
-          "source": "DW",
-          "url": "https://www.dw.com/en/us-senate-advances-measure-to-limit-trumps-iran-war-powers/a-77222612",
-          "angle": "US Senate Advances Measure to Limit Trump Iran War Powers",
-          "summary": "A bipartisan Senate vote advanced legislation to curb presidential authority on Iran military action, with four Republicans joining Democrats in a symbolic but notable rebuke to Trump."
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/may/19/senate-war-powers-resolution-trump",
+          "angle": "US Senate Advances Resolution to Curb Trump Iran War Powers",
+          "summary": "The Senate voted 50-47 to advance a war powers resolution forcing Trump to seek congressional authorization for the Iran conflict. Four Republicans joined Democrats in the vote, marking the first time the chamber has advanced such a bill."
         }
       ],
       "sources": [
         "Reuters",
-        "DW"
+        "The Guardian"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/us-senate-advances-measure-curbing-trumps-iran-war-powers-2026-05-19/",
-        "https://www.dw.com/en/us-senate-advances-measure-to-limit-trumps-iran-war-powers/a-77222612"
+        "https://www.theguardian.com/us-news/2026/may/19/senate-war-powers-resolution-trump"
       ]
     },
     {
@@ -105,7 +128,31 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/xi-putin-meet-beijing-tea-diplomacy-after-trump-visit-2026-05-19/",
-      "timestamp": "2026-05-20T03:05:00+03:00"
+      "timestamp": "2026-05-20T03:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/china-russia-putin-xi-beijing-visit-trump-0c0086341e9694122a49fb7054b41d97",
+          "angle": "Putin Visits Beijing to Reaffirm Russia-China Ties After Trump Summit",
+          "summary": "Russian President Vladimir Putin arrived in China for talks with Xi Jinping, just days after Trump visited Beijing. The two leaders call each other \"friend\" as China balances relations with both Russia and the US amid the Iran conflict."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/putin-says-russia-china-ready-back-each-other-issues-such-protecting-sovereignty-2026-05-19/",
+          "angle": "Putin says Russia and China ready to back each other on sovereignty issues",
+          "summary": "Russian President Vladimir Putin stated ahead of his visit to Beijing that Russia and China are prepared to support each other on a wide range of issues including national unity and protection of sovereignty, in a video address released before his Tuesday summit with Xi Jinping."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/xi-putin-meet-beijing-tea-diplomacy-after-trump-visit-2026-05-19/",
+        "https://apnews.com/article/china-russia-putin-xi-beijing-visit-trump-0c0086341e9694122a49fb7054b41d97",
+        "https://www.reuters.com/world/china/putin-says-russia-china-ready-back-each-other-issues-such-protecting-sovereignty-2026-05-19/"
+      ]
     },
     {
       "headline": "Chinese Military Secretly Trained Russian Forces for Ukraine War",
@@ -295,19 +342,19 @@
       "timestamp": "2026-05-19T23:00:00+03:00",
       "perspectives": [
         {
-          "source": "France 24",
-          "url": "https://www.france24.com/en/middle-east/20260519-israel-far-right-finance-minister-icc-arrest-warrant",
-          "angle": "ICC prosecutor seeks arrest warrant for Israeli Finance Minister Smotrich",
-          "summary": "Israel's far-right Finance Minister Bezalel Smotrich announced that the ICC prosecutor is seeking a confidential arrest warrant against him, and he vowed to retaliate by waging \"war\" on the Palestinian Authority, ordering the eviction of a West Bank Palestinian village."
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/19/israeli-far-right-minister-smotrich-says-icc-seeks-his-arrest",
+          "angle": "ICC Seeks Arrest Warrant for Israeli Minister Smotrich",
+          "summary": "Israeli far-right Finance Minister Bezalel Smotrich announced the International Criminal Court has requested a warrant for his arrest, making him the third Israeli official targeted after Netanyahu and Gallant."
         }
       ],
       "sources": [
         "BBC",
-        "France 24"
+        "Al Jazeera"
       ],
       "urls": [
         "https://www.bbc.com/news/articles/c5y9jq2r907o",
-        "https://www.france24.com/en/middle-east/20260519-israel-far-right-finance-minister-icc-arrest-warrant"
+        "https://www.aljazeera.com/news/2026/5/19/israeli-far-right-minister-smotrich-says-icc-seeks-his-arrest"
       ]
     },
     {
@@ -399,8 +446,8 @@
         {
           "source": "AP News",
           "url": "https://apnews.com/article/congo-ebola-deadly-virus-bundibugyo-health-emergency-3c97cacf44e007127df5739199f32517",
-          "angle": "WHO Warns of Rapidly Spreading Ebola Outbreak in Congo",
-          "summary": "WHO chief expresses concern over the scale and speed of a Bundibugyo Ebola virus outbreak in the Democratic Republic of Congo, with 134 reported deaths. Health officials are struggling to contain the spread in eastern DRC."
+          "angle": "WHO Declares Ebola Emergency as Congo Outbreak Spreads",
+          "summary": "The World Health Organization declared the Ebola outbreak in eastern DR Congo a public health emergency of international concern. At least 136 people have died from the Bundibugyo strain, which spread undetected for weeks due to false negative tests."
         }
       ],
       "sources": [
@@ -736,15 +783,6 @@
       ]
     },
     {
-      "headline": "Gaza aid flotilla organizers say 41 boats intercepted, 10 still sailing",
-      "summary": "Israeli forces raided dozens of vessels in international waters off Cyprus. Ten countries condemned the action as a \"blatant violation of international law\" and demanded release of detained activists including Irish President's sister.",
-      "emoji": "🚢",
-      "category": "Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/gaza-aid-flotilla-organisers-say-41-boats-intercepted-10-still-sailing",
-      "timestamp": "2026-05-19T18:03:00+03:00"
-    },
-    {
       "headline": "At least 10 killed as heavy rains drench southern and central China",
       "summary": "Torrential rain triggered widespread flooding across more than 1,000km of southern and central China, closing schools, businesses and disrupting transport. Chinese meteorologists warned of continued severe weather.",
       "emoji": "🌧️",
@@ -1065,39 +1103,6 @@
       "urls": [
         "https://www.reuters.com/world/asia-pacific/global-markets-global-markets-2026-05-19/",
         "https://apnews.com/article/stock-markets-trump-oil-iran-war-50e10bf2aa9b0b658c51e17db3eb3b13"
-      ]
-    },
-    {
-      "headline": "Putin says Russia and China ready to back each other on sovereignty issues",
-      "summary": "Russian President Vladimir Putin stated ahead of his visit to Beijing that Russia and China are prepared to support each other on a wide range of issues including national unity and protection of sovereignty, in a video address released before his Tuesday summit with Xi Jinping.",
-      "emoji": "🇷🇺🇨🇳",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/putin-says-russia-china-ready-back-each-other-issues-such-protecting-sovereignty-2026-05-19/",
-      "timestamp": "2026-05-19T13:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/china-russia-putin-xi-beijing-visit-trump-0c0086341e9694122a49fb7054b41d97",
-          "angle": "Putin Visits Beijing to Reaffirm China-Russia Ties After Trump Summit",
-          "summary": "Russian President Vladimir Putin traveled to China for talks with Xi Jinping, aiming to strengthen bilateral relations as both leaders navigate complex dynamics with the United States following the Trump summit."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/xi-host-old-friend-putin-china-projects-stable-global-role-after-trump-visit-2026-05-19/",
-          "angle": "Xi to Host Putin in Beijing Days After Trump Visit",
-          "summary": "Chinese leader Xi Jinping is set to host Vladimir Putin less than a week after Donald Trump visited Beijing, as China seeks to project itself as a stable global power amid war and energy crisis. The visit underscores Beijing balancing act between Russia and US."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/putin-says-russia-china-ready-back-each-other-issues-such-protecting-sovereignty-2026-05-19/",
-        "https://apnews.com/article/china-russia-putin-xi-beijing-visit-trump-0c0086341e9694122a49fb7054b41d97",
-        "https://www.reuters.com/world/china/xi-host-old-friend-putin-china-projects-stable-global-role-after-trump-visit-2026-05-19/"
       ]
     },
     {
@@ -2786,40 +2791,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/bond-yield-spike-is-risk-unprepared-equities-market-investors-warn-2026-05-17/",
       "timestamp": "2026-05-18T02:03:00+03:00"
-    },
-    {
-      "headline": "Netanyahu faces potential political downfall as Israeli government teeters",
-      "summary": "Israeli Prime Minister Binyamin Netanyahu may be facing his final days in power as political pressures mount. The Economist analyzes whether the long-serving leader can survive the current crisis.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "The Economist",
-      "url": "https://www.economist.com/middle-east-and-africa/2026/05/17/is-binyamin-netanyahu-facing-his-last-stand",
-      "timestamp": "2026-05-18T00:07:00+03:00"
-    },
-    {
-      "headline": "Gulf states push to restore maritime navigation as Iran faces trust deficit",
-      "summary": "A Gulf official told Al Arabiya that Iran must work to restore trust with GCC states. Regional powers are stepping up efforts to secure freedom of navigation in the Strait of Hormuz amid ongoing tensions.",
-      "emoji": "🌊",
-      "category": "Middle East",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/gulf/2026/05/18/iran-faces-burden-of-restoring-trust-with-gcc-states-gulf-official-tells-al-arabiya",
-      "timestamp": "2026-05-18T00:07:00+03:00",
-      "perspectives": [
-        {
-          "source": "Alhurra",
-          "url": "https://alhurra.com/en/20671",
-          "angle": "Gulf States Edge Closer to Direct Confrontation with Iran",
-          "summary": "Saudi Arabia and UAE have conducted military strikes inside Iran in retaliation for Iranian attacks, marking a shift from proxy conflicts to direct engagement. Kuwait also arrested IRGC members plotting attacks on Bubiyan Island."
-        }
-      ],
-      "sources": [
-        "Al Arabiya",
-        "Alhurra"
-      ],
-      "urls": [
-        "https://english.alarabiya.net/News/gulf/2026/05/18/iran-faces-burden-of-restoring-trust-with-gcc-states-gulf-official-tells-al-arabiya",
-        "https://alhurra.com/en/20671"
-      ]
     }
   ]
 }
