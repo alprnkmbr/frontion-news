@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2026-05-20T19:12:33+03:00",
+  "lastUpdated": "2026-05-20T20:06:24+03:00",
   "headlines": [
+    {
+      "headline": "Iran consolidates Strait of Hormuz control with island checkpoints and passage fees",
+      "summary": "A Reuters investigation reveals Iran has established a multi-tiered system for clearing vessels through the Strait of Hormuz, including government-to-government arrangements and transit fees, as nations seek to replenish dwindling energy supplies throttled by the war.",
+      "emoji": "🇮🇷🚢",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/investigations/iran-is-consolidating-control-hormuz-with-island-checkpoints-diplomatic-deals-2026-05-20/",
+      "timestamp": "2026-05-20T20:03:00+03:00"
+    },
+    {
+      "headline": "Rubio heads to NATO meeting amid European concerns over US reliability",
+      "summary": "Secretary of State Marco Rubio will attend NATO foreign ministers meeting in Sweden this week, where US plans to reduce troop levels in Europe and Trump policy inconsistency have raised anxiety about American commitment to the alliance.",
+      "emoji": "🇺🇸🇪🇺",
+      "category": "Europe",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/05/19/nato-rubio-sweden-india/4bec540a-53af-11f1-9c40-7a0a12d9e745_story.html",
+      "timestamp": "2026-05-20T20:03:00+03:00"
+    },
+    {
+      "headline": "China and US reach limited trade agreements on Boeing jets and beef",
+      "summary": "China agreed to purchase 200 Boeing aircraft and resume imports of some US beef products, marking one of the clearest signs yet of easing trade tensions between the two countries following Trump Beijing summit.",
+      "emoji": "🇨🇳🇺🇸",
+      "category": "Economy",
+      "source": "Wall Street Journal",
+      "url": "https://www.wsj.com/economy/trade/china-u-s-reach-limited-trade-agreements-on-boeing-jets-beef-imports-d219f894",
+      "timestamp": "2026-05-20T20:03:00+03:00"
+    },
+    {
+      "headline": "EU reaches deal on US trade pact ahead of Trump tariff deadline",
+      "summary": "EU lawmakers and member states reached agreement to implement the trade pact with the United States, ending months of wrangling and likely averting higher US tariffs threatened by President Trump for July 4.",
+      "emoji": "🇪🇺🇺🇸",
+      "category": "Economy",
+      "source": "France24",
+      "url": "https://www.france24.com/en/europe/20260520-eu-reaches-deal-us-trade-pact-trump-threatens-new-tariffs-july-4",
+      "timestamp": "2026-05-20T20:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Deutsche Welle",
+          "url": "https://www.dw.com/en/eu-strikes-deal-on-us-trade-pact-ahead-of-trump-tariff-deadline/a-77222972",
+          "angle": "EU Strikes Deal on US Trade Pact Ahead of Trump Tariff Deadline",
+          "summary": "The European Parliament and Council reached a late-night provisional agreement to remove import duties on US goods, keeping the bloc on track to meet the July 4 deadline and avoid higher US tariffs on European goods."
+        }
+      ],
+      "sources": [
+        "France24",
+        "Deutsche Welle"
+      ],
+      "urls": [
+        "https://www.france24.com/en/europe/20260520-eu-reaches-deal-us-trade-pact-trump-threatens-new-tariffs-july-4",
+        "https://www.dw.com/en/eu-strikes-deal-on-us-trade-pact-ahead-of-trump-tariff-deadline/a-77222972"
+      ]
+    },
     {
       "headline": "China Confirms 200 Boeing Jet Purchase After Trump-Xi Summit",
       "summary": "China announced it will buy 200 Boeing aircraft and seek an extension of the US-China tariff truce through November, signalling a stabilization in relations between the world's two largest economies following last week's Beijing summit.",
@@ -26,7 +78,23 @@
       "category": "US Politics",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/us/trump-approval-drops-35-republican-support-softens-reutersipsos-poll-finds-2026-05-19/",
-      "timestamp": "2026-05-20T19:11:00+03:00"
+      "timestamp": "2026-05-20T19:11:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/us/trump-approval-drops-35-republican-support-softens-reutersipsos-poll-finds-2026-05-19/",
+          "angle": "Trump Approval Drops to 35% Amid Softening Republican Support",
+          "summary": "President Trump's approval rating fell to 35% in a Reuters/Ipsos poll, just above the 34% low of his presidency seen last month, as Republican support continues to soften."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/us/trump-approval-drops-35-republican-support-softens-reutersipsos-poll-finds-2026-05-19/",
+        "https://www.reuters.com/world/us/trump-approval-drops-35-republican-support-softens-reutersipsos-poll-finds-2026-05-19/"
+      ]
     },
     {
       "headline": "Ukraine Reinforces Northern Border Over Russian Offensive Plans",
@@ -750,31 +818,6 @@
       "timestamp": "2026-05-20T09:03:00+03:00"
     },
     {
-      "headline": "EU Strikes Deal on US Trade Pact Ahead of Trump Tariff Deadline",
-      "summary": "The European Parliament and Council reached a late-night provisional agreement to remove import duties on US goods, keeping the bloc on track to meet the July 4 deadline and avoid higher US tariffs on European goods.",
-      "emoji": "🇪🇺🇺🇸",
-      "category": "Economy",
-      "source": "Deutsche Welle",
-      "url": "https://www.dw.com/en/eu-strikes-deal-on-us-trade-pact-ahead-of-trump-tariff-deadline/a-77222972",
-      "timestamp": "2026-05-20T09:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Le Monde",
-          "url": "https://www.lemonde.fr/en/economy/article/2026/05/20/tariffs-eu-agrees-to-implement-us-trade-pact_6753632_19.html",
-          "angle": "EU Finalizes Trade Pact With US Ahead of Trump Tariff Deadline",
-          "summary": "European lawmakers reached a late-night deal to implement the EU-US trade agreement, removing import duties on US goods. The compromise avoids higher tariffs threatened by Trump for July 4."
-        }
-      ],
-      "sources": [
-        "Deutsche Welle",
-        "Le Monde"
-      ],
-      "urls": [
-        "https://www.dw.com/en/eu-strikes-deal-on-us-trade-pact-ahead-of-trump-tariff-deadline/a-77222972",
-        "https://www.lemonde.fr/en/economy/article/2026/05/20/tariffs-eu-agrees-to-implement-us-trade-pact_6753632_19.html"
-      ]
-    },
-    {
       "headline": "UK quietly sanctions Russian oil via waivers as energy costs surge",
       "summary": "Britain issued licenses allowing imports of diesel and jet fuel made from Russian crude processed in third countries, and maritime transport of Russian LNG. The move follows similar US waivers as fuel prices spike during the Iran conflict.",
       "emoji": "🇬🇧⛽",
@@ -1035,6 +1078,31 @@
       "timestamp": "2026-05-20T04:03:00+03:00"
     },
     {
+      "headline": "Putin Arrives in Beijing for Summit With Xi Following Trump Visit",
+      "summary": "Russian President Vladimir Putin landed in China for a two-day state visit to meet with Xi Jinping, just days after Trump's high-profile Beijing summit, as both leaders seek to project stability amid global tensions.",
+      "emoji": "🇨🇳🇷🇺",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/xi-putin-meet-beijing-tea-diplomacy-after-trump-visit-2026-05-19/",
+      "timestamp": "2026-05-20T03:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c8r8me3nlllo",
+          "angle": "Putin and Xi fail to clinch gas pipeline deal in Beijing summit",
+          "summary": "Russia and China showed solidarity against US missile defense plans and nuclear policy, but the summit ended without agreement on a major gas pipeline project. The meeting came days after Xi hosted Trump in Beijing."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/xi-putin-meet-beijing-tea-diplomacy-after-trump-visit-2026-05-19/",
+        "https://www.bbc.com/news/articles/c8r8me3nlllo"
+      ]
+    },
+    {
       "headline": "Federal Reserve to Hold Rates Steady as War-Driven Inflation Persists",
       "summary": "Most economists polled by Reuters expect the Fed to avoid cutting interest rates this year, pushing rate reduction expectations into 2026 as the Iran conflict continues to pressure global energy prices and inflation.",
       "emoji": "💰📉",
@@ -1091,48 +1159,6 @@
         "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un",
         "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un"
       ]
-    },
-    {
-      "headline": "Putin Arrives in Beijing for Summit With Xi Following Trump Visit",
-      "summary": "Russian President Vladimir Putin landed in China for a two-day state visit to meet with Xi Jinping, just days after Trump's high-profile Beijing summit, as both leaders seek to project stability amid global tensions.",
-      "emoji": "🇨🇳🇷🇺",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/xi-putin-meet-beijing-tea-diplomacy-after-trump-visit-2026-05-19/",
-      "timestamp": "2026-05-20T03:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/china-russia-putin-xi-beijing-visit-trump-0c0086341e9694122a49fb7054b41d97",
-          "angle": "Putin Visits Beijing to Reaffirm Russia-China Ties After Trump Summit",
-          "summary": "Russian President Vladimir Putin arrived in China for talks with Xi Jinping, just days after Trump visited Beijing. The two leaders call each other \"friend\" as China balances relations with both Russia and the US amid the Iran conflict."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/putin-says-russia-china-ready-back-each-other-issues-such-protecting-sovereignty-2026-05-19/",
-          "angle": "Putin says Russia and China ready to back each other on sovereignty issues",
-          "summary": "Russian President Vladimir Putin stated ahead of his visit to Beijing that Russia and China are prepared to support each other on a wide range of issues including national unity and protection of sovereignty, in a video address released before his Tuesday summit with Xi Jinping."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/xi-putin-meet-beijing-tea-diplomacy-after-trump-visit-2026-05-19/",
-        "https://apnews.com/article/china-russia-putin-xi-beijing-visit-trump-0c0086341e9694122a49fb7054b41d97",
-        "https://www.reuters.com/world/china/putin-says-russia-china-ready-back-each-other-issues-such-protecting-sovereignty-2026-05-19/"
-      ]
-    },
-    {
-      "headline": "Trump Approval Drops to 35% Amid Softening Republican Support",
-      "summary": "President Trump's approval rating fell to 35% in a Reuters/Ipsos poll, just above the 34% low of his presidency seen last month, as Republican support continues to soften.",
-      "emoji": "📊🇺🇸",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us/trump-approval-drops-35-republican-support-softens-reutersipsos-poll-finds-2026-05-19/",
-      "timestamp": "2026-05-20T03:05:00+03:00"
     },
     {
       "headline": "Pentagon cuts US brigade presence in Europe, delays Poland deployment",
@@ -2854,69 +2880,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/no-deal-no-exit-how-us-iran-standoff-risks-fresh-conflict-2026-05-18/",
       "timestamp": "2026-05-18T21:03:00+03:00"
-    },
-    {
-      "headline": "Opaque Oil Deals Around Hormuz Test the Petrodollar",
-      "summary": "The US dollar-dominated global oil trading system is being tested by the Iran war and Strait of Hormuz closure, as governments turn to increasingly opaque deals with Tehran and Gulf producers to secure supplies.",
-      "emoji": "💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/commentary/reuters-open-interest/opaque-oil-deals-around-hormuz-test-the-petrodollar-2026-05-18/",
-      "timestamp": "2026-05-18T21:03:00+03:00"
-    },
-    {
-      "headline": "India's Cooking Fuel Shortage Driving Up California Gas Prices",
-      "summary": "A cooking gas shortage in India and $6 per gallon gasoline in California are both symptoms of the worst-ever energy supply disruption caused by the Iran war, demonstrating the global interconnectedness of fuel markets.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/how-indias-cooking-fuel-shortage-is-driving-up-californias-gas-prices-2026-05-18/",
-      "timestamp": "2026-05-18T21:03:00+03:00"
-    },
-    {
-      "headline": "Indonesian Rupiah Hits Record Low Despite Central Bank Intervention",
-      "summary": "The Indonesian rupiah slid to another record low despite central bank interventions, as global oil prices surged to two-week highs, though President Prabowo downplayed the impact on citizens.",
-      "emoji": "🇮🇩",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/indonesia-rupiah-hits-new-record-low-president-downplays-day-to-day-impact-2026-05-18/",
-      "timestamp": "2026-05-18T21:03:00+03:00"
-    },
-    {
-      "headline": "China Rejects Taiwan Sovereignty Claims After Leader Pledges Never to Be Sacrificed",
-      "summary": "Beijing stated Taiwan was \"never a country\" after Taiwanese leader William Lai Ching-te said the island would never be traded away, in the latest exchange over cross-strait sovereignty.",
-      "emoji": "🇨🇳🇹🇼",
-      "category": "Asia-Pacific",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/asia-pacific/china-says-taiwan-never-a-country-after-taiwan-asserts-sovereignty-independence/3941317",
-      "timestamp": "2026-05-18T20:10:00+03:00"
-    },
-    {
-      "headline": "Germany Calls for Stronger EU-Turkey Ties, Says Ankara Key to NATO Defense",
-      "summary": "German Foreign Minister Johann Wadephul said Turkey should be included as the EU develops its defense policy, citing shared security interests and Turkiye role as a critical NATO ally.",
-      "emoji": "🇩🇪🇹🇷🇪🇺",
-      "category": "Europe",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/europe/germany-pledges-stronger-eu-turkiye-ties-citing-shared-security-interests/3941320",
-      "timestamp": "2026-05-18T20:10:00+03:00"
-    },
-    {
-      "headline": "Israel Opposition Demands Knesset Dissolution, Early Elections Amid Coalition Strains",
-      "summary": "Israeli opposition leaders urged lawmakers to support a bill for preliminary vote next week to dissolve parliament, as the governing coalition faces mounting internal political pressure.",
-      "emoji": "🇮🇱🏛️",
-      "category": "Middle East",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/middle-east/israeli-opposition-calls-for-dissolution-of-knesset-early-elections/3941356",
-      "timestamp": "2026-05-18T20:10:00+03:00"
-    },
-    {
-      "headline": "SCMP Covers Belarus Nuclear Exercises Near NATO Borders",
-      "summary": "Belarus began training exercises involving Russian tactical nuclear weapons, testing military readiness to deploy nuclear arms across different regions of the country bordering three NATO states.",
-      "emoji": "⚔️☢️",
-      "category": "Europe",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/russia-central-asia/article/3354016/belarus-holds-drills-russian-nuclear-weapons-drawing-criticism-ukraine",
-      "timestamp": "2026-05-18T20:10:00+03:00"
     }
   ]
 }
