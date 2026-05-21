@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-21T05:04:54+03:00",
+  "lastUpdated": "2026-05-21T06:05:10+03:00",
   "headlines": [
+    {
+      "headline": "US Gasoline Prices to Rise as Iran War Disrupts Summer Travel",
+      "summary": "High gasoline prices fueled by supply disruptions from the Iran conflict are set to add financial strain for US motorists during the Memorial Day weekend, kicking off a costlier summer travel season.",
+      "emoji": "⛽",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/more-gasoline-price-shocks-might-hit-us-drivers-this-summer-travel-season-2026-05-20/",
+      "timestamp": "2026-05-21T06:03:00+03:00"
+    },
+    {
+      "headline": "US Racing to Develop Ebola Treatment for Congo Outbreak",
+      "summary": "The US government is working with a small biotech firm on an experimental treatment for the Bundibugyo Ebola strain causing the deadly outbreak in Congo, for which no approved vaccine exists.",
+      "emoji": "🦠",
+      "category": "Africa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/litigation/us-working-with-small-biotech-firm-experimental-ebola-treatment-bloomberg-news-2026-05-20/",
+      "timestamp": "2026-05-21T06:03:00+03:00"
+    },
+    {
+      "headline": "Xi and Putin Wrap Beijing Talks with No Deal on Key Gas Pipeline",
+      "summary": "Russian President Vladimir Putin left Beijing with no breakthrough on a major natural gas pipeline project, though the two leaders signed over 40 cooperation agreements and jointly criticized US policies.",
+      "emoji": "🇨🇳🇷🇺",
+      "category": "Geopolitics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/nuclear-energy-taiwan-trumps-golden-dome-key-points-xi-putin-talks-2026-05-20/",
+      "timestamp": "2026-05-21T06:03:00+03:00"
+    },
+    {
+      "headline": "UK Inflation Cools More Than Expected in April",
+      "summary": "British inflation fell more than expected in April, but the slowdown offers only temporary relief as global costs from the Iran war are expected to hit households harder later this year.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/uk/sterling-dips-after-data-shows-uk-inflation-cooled-april-2026-05-20/",
+      "timestamp": "2026-05-21T06:03:00+03:00"
+    },
     {
       "headline": "Trump Plans Unprecedented Call With Taiwan President, Risking China Tensions",
       "summary": "US President Donald Trump announced he would speak with Taiwan President Lai Ching-te, a move unprecedented for a US leader that could significantly strain US-China relations. The statement came days after Trump met with Chinese leader Xi Jinping.",
@@ -17,25 +53,23 @@
       "category": "US Politics",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/americas/us-expected-unveil-criminal-charges-against-cubas-raul-castro-2026-05-20/",
-      "timestamp": "2026-05-21T05:03:00+03:00"
-    },
-    {
-      "headline": "Putin and Xi Declare Ties at Unprecedented High in Beijing Summit",
-      "summary": "Russian President Vladimir Putin met Chinese leader Xi Jinping in Beijing, declaring bilateral ties at an unprecedented level just days after Xi hosted US President Trump. The summit underscored deepening Sino-Russian cooperation amid Western pressure.",
-      "emoji": "🇷🇺🇨🇳",
-      "category": "Diplomacy",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/asia/china-russia-putin-xi-say-ties-are-unprecedented-high-summit-trump-rcna346042",
-      "timestamp": "2026-05-21T05:03:00+03:00"
-    },
-    {
-      "headline": "Zelenskyy Warns of Russian Offensive Threat From Belarus Front",
-      "summary": "Ukrainian President Volodymyr Zelenskyy warned of five attack scenarios Russia has drawn up for a potential northern offensive targeting Kyiv from Belarus, as Ukraine increases forces in the north.",
-      "emoji": "🇺🇦⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/21/ukraine-war-briefing-fresh-threat-of-attack-from-belarus-front-warns-zelenskyy",
-      "timestamp": "2026-05-21T05:03:00+03:00"
+      "timestamp": "2026-05-21T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c3r219yxl5eo",
+          "angle": "US indicts former Cuban leader Raúl Castro over 1996 plane shootdown",
+          "summary": "The US Justice Department charged Castro with murder and conspiracy for ordering the downing of two civilian planes operated by Miami-based exile group Brothers to the Rescue, killing four people including three Americans. The indictment marks a sharp escalation in US pressure on Cuba's communist government."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/americas/us-expected-unveil-criminal-charges-against-cubas-raul-castro-2026-05-20/",
+        "https://www.bbc.com/news/articles/c3r219yxl5eo"
+      ]
     },
     {
       "headline": "NATO Chief Rutte Says US Troop Withdrawal From Europe Will Not Harm Defense",
@@ -44,7 +78,23 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.politico.eu/article/mark-rutte-nato-us-military-presence-europe/",
-      "timestamp": "2026-05-21T05:03:00+03:00"
+      "timestamp": "2026-05-21T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/us-troop-withdrawal-will-not-undermine-nato-defence-europe-top-commander-says-2026-05-19/",
+          "angle": "NATO Commander: US Troop Cuts from Europe to Take Years",
+          "summary": "NATO's top commander said US troop withdrawals from Europe will stretch over years to give allies time to develop replacement capabilities, maintaining alliance defense posture."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.politico.eu/article/mark-rutte-nato-us-military-presence-europe/",
+        "https://www.reuters.com/business/aerospace-defense/us-troop-withdrawal-will-not-undermine-nato-defence-europe-top-commander-says-2026-05-19/"
+      ]
     },
     {
       "headline": "Rutte dismisses US military drawdown in Europe as expected",
@@ -278,15 +328,6 @@
       "source": "TRT World",
       "url": "https://www.trtworld.com/article/12727830",
       "timestamp": "2026-05-21T02:06:00+03:00"
-    },
-    {
-      "headline": "US indicts former Cuban leader Raúl Castro over 1996 plane shootdown",
-      "summary": "The US Justice Department charged Castro with murder and conspiracy for ordering the downing of two civilian planes operated by Miami-based exile group Brothers to the Rescue, killing four people including three Americans. The indictment marks a sharp escalation in US pressure on Cuba's communist government.",
-      "emoji": "🇨🇺",
-      "category": "US Politics",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c3r219yxl5eo",
-      "timestamp": "2026-05-21T02:03:00+03:00"
     },
     {
       "headline": "US military surveillance flights track movements near Cuba amid tensions",
@@ -1397,31 +1438,6 @@
       "timestamp": "2026-05-20T10:03:00+03:00"
     },
     {
-      "headline": "NATO Commander: US Troop Cuts from Europe to Take Years",
-      "summary": "NATO's top commander said US troop withdrawals from Europe will stretch over years to give allies time to develop replacement capabilities, maintaining alliance defense posture.",
-      "emoji": "🇺🇸🇪🇺",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/us-troop-withdrawal-will-not-undermine-nato-defence-europe-top-commander-says-2026-05-19/",
-      "timestamp": "2026-05-20T10:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Politico EU",
-          "url": "https://www.politico.eu/article/natos-top-commander-downplays-us-donald-trump-troop-withdrawals/",
-          "angle": "NATO Commander Downplays US Troop Withdrawals from Europe",
-          "summary": "General Alexus Grynkewich said no more than 5,000 US troops would be withdrawn in the near term, reassuring allies after Trump announced partial drawdowns."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Politico EU"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/aerospace-defense/us-troop-withdrawal-will-not-undermine-nato-defence-europe-top-commander-says-2026-05-19/",
-        "https://www.politico.eu/article/natos-top-commander-downplays-us-donald-trump-troop-withdrawals/"
-      ]
-    },
-    {
       "headline": "G7 Finance Ministers Address Trade Imbalances, China Concerns",
       "summary": "G7 finance ministers agreed on the need to tackle trade imbalances in a fragmented global economy, with US Treasury Secretary Bessent calling for protections against cheap Chinese imports.",
       "emoji": "💰🌐",
@@ -1554,7 +1570,31 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/putin-says-russia-china-ties-unprecedented-level-invites-xi-russia-2026-05-20/",
-      "timestamp": "2026-05-20T08:00:00+03:00"
+      "timestamp": "2026-05-20T08:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/world/asia/china-russia-putin-xi-say-ties-are-unprecedented-high-summit-trump-rcna346042",
+          "angle": "Putin and Xi Declare Ties at Unprecedented High in Beijing Summit",
+          "summary": "Russian President Vladimir Putin met Chinese leader Xi Jinping in Beijing, declaring bilateral ties at an unprecedented level just days after Xi hosted US President Trump. The summit underscored deepening Sino-Russian cooperation amid Western pressure."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/xi-putin-meet-beijing-tea-diplomacy-after-trump-visit-2026-05-19/",
+          "angle": "Putin Arrives in Beijing for Summit With Xi Following Trump Visit",
+          "summary": "Russian President Vladimir Putin landed in China for a two-day state visit to meet with Xi Jinping, just days after Trump's high-profile Beijing summit, as both leaders seek to project stability amid global tensions."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "NBC News",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/putin-says-russia-china-ties-unprecedented-level-invites-xi-russia-2026-05-20/",
+        "https://www.nbcnews.com/world/asia/china-russia-putin-xi-say-ties-are-unprecedented-high-summit-trump-rcna346042",
+        "https://www.reuters.com/world/china/xi-putin-meet-beijing-tea-diplomacy-after-trump-visit-2026-05-19/"
+      ]
     },
     {
       "headline": "Russia considers joint projects with US and China, says sovereign fund chief",
@@ -1738,31 +1778,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/russia-warns-latvia-against-letting-ukraine-launch-drones-threatens-retaliation-2026-05-19/",
       "timestamp": "2026-05-20T04:03:00+03:00"
-    },
-    {
-      "headline": "Putin Arrives in Beijing for Summit With Xi Following Trump Visit",
-      "summary": "Russian President Vladimir Putin landed in China for a two-day state visit to meet with Xi Jinping, just days after Trump's high-profile Beijing summit, as both leaders seek to project stability amid global tensions.",
-      "emoji": "🇨🇳🇷🇺",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/xi-putin-meet-beijing-tea-diplomacy-after-trump-visit-2026-05-19/",
-      "timestamp": "2026-05-20T03:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/china-russia-putin-xi-5b7304bc1604cbb7135cb96f217b8b3e",
-          "angle": "Xi and Putin Meet in Beijing Days After Trump Visit, Sign 40 Cooperation Agreements",
-          "summary": "Chinese and Russian leaders hailed their strategic ties and growing energy trade, signing over 40 agreements in technology, trade, and media. Xi called ties \"the highest level in history\" but no progress was made on the Power of Siberia 2 gas pipeline Russia had pushed for."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/xi-putin-meet-beijing-tea-diplomacy-after-trump-visit-2026-05-19/",
-        "https://apnews.com/article/china-russia-putin-xi-5b7304bc1604cbb7135cb96f217b8b3e"
-      ]
     },
     {
       "headline": "Federal Reserve to Hold Rates Steady as War-Driven Inflation Persists",
@@ -2646,6 +2661,31 @@
       "timestamp": "2026-05-19T10:05:00+03:00"
     },
     {
+      "headline": "Kremlin dismisses Zelenskiy warning about Russian threat to NATO from Belarus",
+      "summary": "Moscow rejected Kyiv's assertion that Russia was considering an attack on NATO countries from Belarusian territory, calling the claim unworthy of response.",
+      "emoji": "🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/kremlin-dismisses-zelenskiy-warning-russian-threat-nato-belarus-2026-05-18/",
+      "timestamp": "2026-05-19T09:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/may/21/ukraine-war-briefing-fresh-threat-of-attack-from-belarus-front-warns-zelenskyy",
+          "angle": "Zelenskyy Warns of Russian Offensive Threat From Belarus Front",
+          "summary": "Ukrainian President Volodymyr Zelenskyy warned of five attack scenarios Russia has drawn up for a potential northern offensive targeting Kyiv from Belarus, as Ukraine increases forces in the north."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "The Guardian"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/kremlin-dismisses-zelenskiy-warning-russian-threat-nato-belarus-2026-05-18/",
+        "https://www.theguardian.com/world/2026/may/21/ukraine-war-briefing-fresh-threat-of-attack-from-belarus-front-warns-zelenskyy"
+      ]
+    },
+    {
       "headline": "Japan economy grows faster than expected in Q1 despite Iran war headwinds",
       "summary": "Japan posted stronger-than-expected GDP growth in the first quarter driven by solid exports and consumption, though economists warn the Iran war energy shock will test momentum.",
       "emoji": "🇯🇵",
@@ -2661,15 +2701,6 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/uk/imf-raises-uk-outlook-warns-political-turmoil-could-hurt-growth-2026-05-18/",
-      "timestamp": "2026-05-19T09:03:00+03:00"
-    },
-    {
-      "headline": "Kremlin dismisses Zelenskiy warning about Russian threat to NATO from Belarus",
-      "summary": "Moscow rejected Kyiv's assertion that Russia was considering an attack on NATO countries from Belarusian territory, calling the claim unworthy of response.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/kremlin-dismisses-zelenskiy-warning-russian-threat-nato-belarus-2026-05-18/",
       "timestamp": "2026-05-19T09:03:00+03:00"
     },
     {
