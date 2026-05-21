@@ -1,6 +1,83 @@
 {
-  "lastUpdated": "2026-05-21T03:05:52+03:00",
+  "lastUpdated": "2026-05-21T04:06:46+03:00",
   "headlines": [
+    {
+      "headline": "China blocks Pentagon official visit over Taiwan arms package",
+      "summary": "Beijing refused to approve a visit by Pentagon Under-Secretary Elbridge Colby in protest of a $14 billion US weapons package for Taiwan, escalating US-China tensions.",
+      "emoji": "🇨🇳🇺🇸",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/pentagon-officials-beijing-visit-doubt-over-14-billion-us-arms-package-taiwan-ft-2026-05-20/",
+      "timestamp": "2026-05-21T04:03:00+03:00"
+    },
+    {
+      "headline": "UK inflation cools as Iran war costs loom",
+      "summary": "British inflation fell more than expected to 2.8% in April, but the relief may be temporary as economic impacts from the Iran conflict are expected to hit households later this year.",
+      "emoji": "🇬🇧💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/uk/uk-inflation-slows-28-april-2026-05-20/",
+      "timestamp": "2026-05-21T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/uk/uk-will-cancel-planned-rise-motor-fuel-tax-pm-says-2026-05-20/",
+          "angle": "UK Extends Fuel Duty Cut to Ease Iran War Inflation Pressure",
+          "summary": "Britain will extend a cut in motor fuel duty until the end of the year as the government seeks to ease cost-of-living pressures heightened by the Middle East conflict and rising global energy costs."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/uk/uk-inflation-slows-28-april-2026-05-20/",
+        "https://www.reuters.com/world/uk/uk-will-cancel-planned-rise-motor-fuel-tax-pm-says-2026-05-20/"
+      ]
+    },
+    {
+      "headline": "US charges Raúl Castro with murder over 1996 plane shootdown",
+      "summary": "The Justice Department unsealed an indictment charging former Cuban President Raúl Castro with murder for the 1996 downing of two civilian planes operated by Cuban exiles, amid escalating US pressure on Cuba.",
+      "emoji": "🇺🇸🇨🇺",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/americas/us-expected-unveil-criminal-charges-against-cubas-raul-castro-2026-05-20/",
+      "timestamp": "2026-05-21T04:03:00+03:00"
+    },
+    {
+      "headline": "UK reports dangerous Russian jet intercept over Black Sea",
+      "summary": "Britain defense ministry said two Russian jets dangerously intercepted a RAF surveillance plane over the Black Sea last month, raising concerns about potential NATO-Russia escalation.",
+      "emoji": "⚔️🇷🇺",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/uk-says-surveillance-plane-dangerously-intercepted-by-russian-jets-last-month-2026-05-20/",
+      "timestamp": "2026-05-21T04:03:00+03:00"
+    },
+    {
+      "headline": "WHO warns Ebola outbreak growing in Congo",
+      "summary": "The World Health Organization reports 139 suspected deaths and 600 cases from a rare Bundibugyo Ebola strain in DRC, with no approved vaccine and outbreak expected to expand.",
+      "emoji": "🇨🇩🦠",
+      "category": "Africa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-139-suspected-ebola-deaths-congo-outbreak-numbers-expected-rise-2026-05-20/",
+      "timestamp": "2026-05-21T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/africa/fast-spreading-ebola-outbreak-central-africa-2026-05-19/",
+          "angle": "WHO Declares Ebola Outbreak in Congo a Global Health Emergency",
+          "summary": "A rare Bundibugyo strain of Ebola has killed at least 131 people in eastern Congo, prompting the WHO to declare a public health emergency of international concern as cases spread to Uganda."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-139-suspected-ebola-deaths-congo-outbreak-numbers-expected-rise-2026-05-20/",
+        "https://www.reuters.com/world/africa/fast-spreading-ebola-outbreak-central-africa-2026-05-19/"
+      ]
+    },
     {
       "headline": "Iran Displays Weapons at Public Events as Tehran Readies for Potential War Resumption",
       "summary": "Iranian Revolutionary Guard members are conducting public weapons training in Tehran, with ballistic missiles displayed at mass weddings. The demonstrations aim to project strength and motivate hardliners amid economic hardship and war uncertainty.",
@@ -155,31 +232,6 @@
       "urls": [
         "https://www.reuters.com/world/trump-may-have-hit-iran-harder-or-maybe-not-2026-05-20/",
         "https://www.reuters.com/world/middle-east/trump-says-us-may-need-hit-iran-again-2026-05-19/"
-      ]
-    },
-    {
-      "headline": "UK Extends Fuel Duty Cut to Ease Iran War Inflation Pressure",
-      "summary": "Britain will extend a cut in motor fuel duty until the end of the year as the government seeks to ease cost-of-living pressures heightened by the Middle East conflict and rising global energy costs.",
-      "emoji": "🇬🇧⛽",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/uk/uk-will-cancel-planned-rise-motor-fuel-tax-pm-says-2026-05-20/",
-      "timestamp": "2026-05-21T01:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/americas/canadas-april-inflation-surges-28-iran-war-drives-gasoline-costs-up-2026-05-19/",
-          "angle": "Canadas inflation jumps to 2.8% as Iran war drives gasoline prices higher",
-          "summary": "Annual inflation rate accelerated in April as oil price surge from Middle East conflict pushed gasoline costs up."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/uk/uk-will-cancel-planned-rise-motor-fuel-tax-pm-says-2026-05-20/",
-        "https://www.reuters.com/world/americas/canadas-april-inflation-surges-28-iran-war-drives-gasoline-costs-up-2026-05-19/"
       ]
     },
     {
@@ -1889,31 +1941,6 @@
       "timestamp": "2026-05-19T22:12:00+03:00"
     },
     {
-      "headline": "WHO Declares Ebola Outbreak in Congo a Global Health Emergency",
-      "summary": "A rare Bundibugyo strain of Ebola has killed at least 131 people in eastern Congo, prompting the WHO to declare a public health emergency of international concern as cases spread to Uganda.",
-      "emoji": "🦠",
-      "category": "Africa",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/africa/fast-spreading-ebola-outbreak-central-africa-2026-05-19/",
-      "timestamp": "2026-05-19T22:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/congo-ebola-deadly-virus-bundibugyo-health-emergency-3c97cacf44e007127df5739199f32517",
-          "angle": "WHO Chief Alarmed by Ebola Outbreak in Congo With 134 Dead",
-          "summary": "The WHO Director-General expressed serious concern over the \"scale and speed\" of a Bundibugyo Ebola outbreak in the Democratic Republic of Congo that has killed 134 people."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/africa/fast-spreading-ebola-outbreak-central-africa-2026-05-19/",
-        "https://apnews.com/article/congo-ebola-deadly-virus-bundibugyo-health-emergency-3c97cacf44e007127df5739199f32517"
-      ]
-    },
-    {
       "headline": "Europe Considers Secret Military Alliance to Replace NATO Dependence",
       "summary": "The Economist reports European officials are quietly developing contingency plans for collective defense without US involvement, amid growing concerns about American commitment to the alliance.",
       "emoji": "🇪🇺",
@@ -2780,33 +2807,6 @@
       "category": "Asia-Pacific",
       "source": "UPI",
       "url": "https://www.upi.com/Top_News/World-News/2026/05/18/japan-deploying-unmanned-aircraft-equipped-with-airborne/8161779148574/",
-      "timestamp": "2026-05-19T04:10:00+03:00"
-    },
-    {
-      "headline": "Hegseth campaigns for congressional candidate, breaks Pentagon neutrality",
-      "summary": "Defense Secretary Pete Hegseth campaigned for a congressional challenger endorsed by President Trump, breaking with the traditional Pentagon stance of political neutrality.",
-      "emoji": "🏛️",
-      "category": "US Politics",
-      "source": "Army Times",
-      "url": "https://www.armytimes.com/news/your-military/2026/05/19/hegseth-campaigns-for-congressional-race-breaking-with-pentagon-neutrality/",
-      "timestamp": "2026-05-19T04:10:00+03:00"
-    },
-    {
-      "headline": "Indonesia receives new armaments to defend sovereignty",
-      "summary": "President Prabowo Subianto handed over replica keys to new military armaments, emphasizing the equipment aims to defend Indonesian sovereignty and strengthen national defense.",
-      "emoji": "🇮🇩",
-      "category": "Asia-Pacific",
-      "source": "Jakarta Post",
-      "url": "https://www.thejakartapost.com/indonesia/2026/05/19/new-armaments-aim-to-defend-sovereignty-says-prabowo.html",
-      "timestamp": "2026-05-19T04:10:00+03:00"
-    },
-    {
-      "headline": "US pauses WWII-era joint defense board with Canada amid tensions",
-      "summary": "The United States suspended participation in a long-standing joint defense forum with Canada that dates to World War II, citing concerns amid growing bilateral tensions.",
-      "emoji": "🇺🇸🇨🇦",
-      "category": "Diplomacy",
-      "source": "Firstpost",
-      "url": "https://www.firstpost.com/world/us-pulls-back-from-joint-defence-board-with-canada-amid-growing-tensions-14012589.html",
       "timestamp": "2026-05-19T04:10:00+03:00"
     }
   ]
