@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-21T06:05:10+03:00",
+  "lastUpdated": "2026-05-21T06:06:53+03:00",
   "headlines": [
+    {
+      "headline": "Xi Jinping Expected to Visit North Korea as Early as Next Week",
+      "summary": "Chinese President Xi Jinping may visit North Korea within days, marking his first trip to Pyongyang in seven years. The visit comes amid shifting regional dynamics and could signal renewed diplomatic engagement.",
+      "emoji": "🇨🇳🇰🇵",
+      "category": "Asia-Pacific",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3354299/chinas-xi-jinping-expected-visit-north-korea-early-next-week",
+      "timestamp": "2026-05-21T06:10:00+03:00"
+    },
+    {
+      "headline": "Hezbollah Conducts 24 Operations Against Israeli Forces in 24 Hours",
+      "summary": "The group claims attacks included drone swarms, Merkava tank strikes, and direct confrontations with Israeli troops, escalating border conflict intensity.",
+      "emoji": "🇱🇧🇮🇱",
+      "category": "Middle East",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/middle-east/hezbollah-says-it-conducted-24-operations-against-israeli-forces/3944083",
+      "timestamp": "2026-05-21T06:10:00+03:00"
+    },
+    {
+      "headline": "Putin's Trolls Weakening Merkel's Successor to Boost Russia-Friendly Far Right",
+      "summary": "As German Chancellor Merz struggles domestically and the AfD rises ahead of key elections, Russian disinformation campaigns are intensifying to influence German politics.",
+      "emoji": "🇩🇪🇷🇺",
+      "category": "Europe",
+      "source": "Politico EU",
+      "url": "https://www.politico.eu/article/friedrich-merz-vladimir-putin-boost-russia-far-right/",
+      "timestamp": "2026-05-21T06:10:00+03:00"
+    },
+    {
+      "headline": "Australia to Begin Construction on Major Rare Earth Project in September",
+      "summary": "Arafura Resources, backed by Gina Rinehart and the federal government, will build Australia's first ore-to-oxide rare earth processing facility, reducing Western dependence on Chinese supply chains.",
+      "emoji": "🇦🇺⛏️",
+      "category": "Energy",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/commodities/australia-s-arafura-rare-earth-project-to-start-construction-in-september",
+      "timestamp": "2026-05-21T06:10:00+03:00"
+    },
+    {
+      "headline": "Australian Court Upholds $465,000 Fine Against Musk's X Over Child Safety",
+      "summary": "X Corp admitted violating Australian law by failing to provide information about child protection measures, ending a three-year legal battle with the eSafety commissioner.",
+      "emoji": "🇦🇺⚖️",
+      "category": "Technology",
+      "source": "France24",
+      "url": "https://www.france24.com/en/live-news/20260521-australian-court-upholds-465-000-fine-against-elon-musk-s-x",
+      "timestamp": "2026-05-21T06:10:00+03:00"
+    },
     {
       "headline": "US Gasoline Prices to Rise as Iran War Disrupts Summer Travel",
       "summary": "High gasoline prices fueled by supply disruptions from the Iran conflict are set to add financial strain for US motorists during the Memorial Day weekend, kicking off a costlier summer travel season.",
@@ -17,7 +62,23 @@
       "category": "Africa",
       "source": "Reuters",
       "url": "https://www.reuters.com/legal/litigation/us-working-with-small-biotech-firm-experimental-ebola-treatment-bloomberg-news-2026-05-20/",
-      "timestamp": "2026-05-21T06:03:00+03:00"
+      "timestamp": "2026-05-21T06:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-139-suspected-ebola-deaths-congo-outbreak-numbers-expected-rise-2026-05-20/",
+          "angle": "WHO warns Ebola outbreak growing in Congo",
+          "summary": "The World Health Organization reports 139 suspected deaths and 600 cases from a rare Bundibugyo Ebola strain in DRC, with no approved vaccine and outbreak expected to expand."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/legal/litigation/us-working-with-small-biotech-firm-experimental-ebola-treatment-bloomberg-news-2026-05-20/",
+        "https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-139-suspected-ebola-deaths-congo-outbreak-numbers-expected-rise-2026-05-20/"
+      ]
     },
     {
       "headline": "Xi and Putin Wrap Beijing Talks with No Deal on Key Gas Pipeline",
@@ -208,31 +269,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/uk-says-surveillance-plane-dangerously-intercepted-by-russian-jets-last-month-2026-05-20/",
       "timestamp": "2026-05-21T04:03:00+03:00"
-    },
-    {
-      "headline": "WHO warns Ebola outbreak growing in Congo",
-      "summary": "The World Health Organization reports 139 suspected deaths and 600 cases from a rare Bundibugyo Ebola strain in DRC, with no approved vaccine and outbreak expected to expand.",
-      "emoji": "🇨🇩🦠",
-      "category": "Africa",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-139-suspected-ebola-deaths-congo-outbreak-numbers-expected-rise-2026-05-20/",
-      "timestamp": "2026-05-21T04:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/africa/fast-spreading-ebola-outbreak-central-africa-2026-05-19/",
-          "angle": "WHO Declares Ebola Outbreak in Congo a Global Health Emergency",
-          "summary": "A rare Bundibugyo strain of Ebola has killed at least 131 people in eastern Congo, prompting the WHO to declare a public health emergency of international concern as cases spread to Uganda."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/healthcare-pharmaceuticals/who-says-139-suspected-ebola-deaths-congo-outbreak-numbers-expected-rise-2026-05-20/",
-        "https://www.reuters.com/world/africa/fast-spreading-ebola-outbreak-central-africa-2026-05-19/"
-      ]
     },
     {
       "headline": "Iran Displays Weapons at Public Events as Tehran Readies for Potential War Resumption",
@@ -2873,33 +2909,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/trump-iran-pressure-campaign-strait-hormuz-de-8166b4d513523ee8b73ff058210dc581",
       "timestamp": "2026-05-19T07:05:00+03:00"
-    },
-    {
-      "headline": "Middle East war crushes tourism as Europe becomes alternative destination",
-      "summary": "The Iran conflict has led to sharp drops in tourist visits to Middle East destinations including Jordan's Petra and Tunisia's Djerba island, with European destinations benefiting as travelers stay closer to home.",
-      "emoji": "✈️",
-      "category": "Middle East",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/live-news/20260518-middle-east-tourism-pain-is-europe-s-gain",
-      "timestamp": "2026-05-19T06:10:00+03:00"
-    },
-    {
-      "headline": "Erdogan warns Iran conflict devastating global economy like a tsunami",
-      "summary": "Turkish President Recep Tayyip Erdogan said the Iran conflict is crushing the global economy with shockwaves spreading worldwide, creating speculative volatility that makes accurate damage assessment impossible.",
-      "emoji": "🇹🇷",
-      "category": "Economy",
-      "source": "TASS",
-      "url": "https://tass.com/economy/2132633",
-      "timestamp": "2026-05-19T06:10:00+03:00"
-    },
-    {
-      "headline": "Russia hammers Kyiv for third straight day, flattening apartment block",
-      "summary": "Russian forces launched mass drone and missile attacks on Kyiv for the third consecutive day, damaging six districts and injuring civilians. The escalation follows Ukraine's largest drone attack on Moscow this year.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/russia-ukraine-drones-missiles-zelenskyy-putin-12b12a7694b6f7df0e1ba971068efc86",
-      "timestamp": "2026-05-19T06:00:00+03:00"
     }
   ]
 }
