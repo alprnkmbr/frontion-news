@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-21T16:04:46+03:00",
+  "lastUpdated": "2026-05-21T16:07:19+03:00",
   "headlines": [
+    {
+      "headline": "NATO jets scramble as drone breaches Latvian airspace for third consecutive day",
+      "summary": "An unidentified drone entered Latvian airspace on May 21, prompting air alerts and NATO fighter jet deployment. This marks the third straight day of drone-related alerts in Latvia, amid concerns Russia is jamming Ukrainian drones and redirecting them toward NATO territory.",
+      "emoji": "🇱🇻",
+      "category": "Europe",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/unidentified-drone-breaches-latvian-airspace-for-3rd-day-in-a-row/",
+      "timestamp": "2026-05-21T16:10:00+03:00"
+    },
+    {
+      "headline": "Ukraine develops low-cost interceptor missiles to counter Russian Shahed drones",
+      "summary": "Defense Minister Mykhailo Fedorov announced Ukraine is developing low-cost interceptor missiles with prototypes already in testing. Ukraine plans to increase production tenfold and build stockpiles for fall and winter, following Russian strikes that caused widespread power outages.",
+      "emoji": "🛡️",
+      "category": "Defense Industry",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/ukraine-developing-low-cost-missiles-to-intercept-russian-shahed-type-drones-fedorov-says/",
+      "timestamp": "2026-05-21T16:07:00+03:00"
+    },
+    {
+      "headline": "Hungary announces new ban on Ukrainian agricultural imports despite EU law concerns",
+      "summary": "Hungary's new agriculture minister announced a fresh ban on Ukrainian produce, saying they will not allow imports that endanger Hungarian farmers. The move potentially breaches EU law, as trade policy is controlled by Brussels, not national capitals.",
+      "emoji": "🇭🇺",
+      "category": "Europe",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/hungary-doubles-down-on-orban-era-ban-of-ukrainian-agriculture/",
+      "timestamp": "2026-05-21T16:05:00+03:00"
+    },
+    {
+      "headline": "China breaks ground on $5 billion aviation complex in UAE despite Iran war risks",
+      "summary": "China Railway Construction Corporation has begun building the world's largest aircraft maintenance complex in Dubai, worth over $5 billion. The project signals continued Chinese confidence in Middle East investment despite regional instability from the Iran conflict.",
+      "emoji": "🇨🇳",
+      "category": "Economy",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/economy/global-economy/article/3354372/china-breaks-ground-us5b-aviation-complex-uae-iran-war-risks-linger",
+      "timestamp": "2026-05-21T16:00:00+03:00"
+    },
     {
       "headline": "Poland Seeks Ban on Israel's Ben-Gvir After Gaza Flotilla Activists Detained",
       "summary": "Poland's foreign ministry requested a ban on Israeli far-right minister Itamar Ben-Gvir from entering the country following outrage over the detention of Gaza flotilla activists. Warsaw summoned Israel's envoy demanding release and apology.",
@@ -17,7 +53,31 @@
       "category": "Military",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/russia-delivers-nuclear-munitions-belarus-part-nuclear-drills-2026-05-21/",
-      "timestamp": "2026-05-21T16:03:00+03:00"
+      "timestamp": "2026-05-21T16:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/russia-delivers-nuclear-munitions-belarus-part-nuclear-drills-2026-05-21/",
+          "angle": "Russia Delivers Nuclear Munitions to Belarus for Drills",
+          "summary": "Russia has delivered nuclear munitions to field storage facilities in Belarus as part of major nuclear exercises, escalating tensions with the West over Ukraine."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/nato-jet-shoots-down-drone-estonia-news-website-delfi-reports-2026-05-19/",
+          "angle": "NATO Jet Shoots Down Suspected Drone in Estonia Amid Regional Tensions",
+          "summary": "A NATO aircraft shot down a suspected drone in Estonia, the latest in a series of airspace violations in the region amid frequent Ukrainian attacks on Russia."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/russia-delivers-nuclear-munitions-belarus-part-nuclear-drills-2026-05-21/",
+        "https://www.reuters.com/world/europe/russia-delivers-nuclear-munitions-belarus-part-nuclear-drills-2026-05-21/",
+        "https://www.reuters.com/business/aerospace-defense/nato-jet-shoots-down-drone-estonia-news-website-delfi-reports-2026-05-19/"
+      ]
     },
     {
       "headline": "Germany's Merz Proposes Associate EU Membership for Ukraine",
@@ -26,7 +86,31 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/germanys-merz-pitches-associate-eu-membership-ukraine-2026-05-21/",
-      "timestamp": "2026-05-21T16:03:00+03:00"
+      "timestamp": "2026-05-21T16:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/germanys-merz-proposes-radical-shakeup-of-eu-membership-to-give-hope-to-ukraine-moldova-balkans/",
+          "angle": "Merz proposes radical EU membership shakeup for Ukraine, Moldova",
+          "summary": "German Chancellor Friedrich Merz says the EU enlargement process takes too long and creates frustration, proposing a new framework to accelerate membership for Ukraine, Moldova, and Western Balkans."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/germanys-merz-pitches-associate-eu-membership-ukraine-2026-05-21/",
+          "angle": "Germany Proposes Associate EU Membership for Ukraine",
+          "summary": "Chancellor Friedrich Merz has proposed giving Ukraine a direct role in EU structures as an interim step toward full membership, potentially helping facilitate a deal to end the war with Russia."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Kyiv Independent",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/germanys-merz-pitches-associate-eu-membership-ukraine-2026-05-21/",
+        "https://kyivindependent.com/germanys-merz-proposes-radical-shakeup-of-eu-membership-to-give-hope-to-ukraine-moldova-balkans/",
+        "https://www.reuters.com/world/europe/germanys-merz-pitches-associate-eu-membership-ukraine-2026-05-21/"
+      ]
     },
     {
       "headline": "Trump Plans Call with Taiwan President, Risking China Tensions",
@@ -35,7 +119,23 @@
       "category": "US-China",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/trump-says-he-will-speak-with-taiwans-president-2026-05-20/",
-      "timestamp": "2026-05-21T16:03:00+03:00"
+      "timestamp": "2026-05-21T16:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/trump-says-he-will-speak-with-taiwans-president-2026-05-20/",
+          "angle": "Trump Plans Unprecedented Call With Taiwan President, Risking China Tensions",
+          "summary": "US President Donald Trump announced he would speak with Taiwan President Lai Ching-te, a move unprecedented for a US leader that could significantly strain US-China relations. The statement came days after Trump met with Chinese leader Xi Jinping."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/trump-says-he-will-speak-with-taiwans-president-2026-05-20/",
+        "https://www.reuters.com/world/china/trump-says-he-will-speak-with-taiwans-president-2026-05-20/"
+      ]
     },
     {
       "headline": "Kremlin Denies China Covertly Trained Russian Soldiers for Ukraine",
@@ -44,7 +144,31 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/media-telecom/kremlin-dismisses-report-that-china-covertly-trained-russian-soldiers-ukraine-2026-05-21/",
-      "timestamp": "2026-05-21T16:03:00+03:00"
+      "timestamp": "2026-05-21T16:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/russians-covertly-trained-by-china-return-fight-ukraine-sources-say-2026-05-19/",
+          "angle": "Chinese Military Secretly Trained Russian Forces for Ukraine War",
+          "summary": "China's armed forces covertly trained around 200 Russian military personnel late last year, with those soldiers now returning to fight in Ukraine, according to European intelligence agencies and documents seen by Reuters."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/russians-covertly-trained-by-china-return-fight-ukraine-sources-say-2026-05-19/",
+          "angle": "Russians Covertly Trained by China Return to Fight in Ukraine, Intelligence Sources Say",
+          "summary": "About 200 Russian military personnel were secretly trained by Chinese armed forces late last year and have returned to fight in Ukraine, according to European intelligence agencies."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/media-telecom/kremlin-dismisses-report-that-china-covertly-trained-russian-soldiers-ukraine-2026-05-21/",
+        "https://www.reuters.com/business/aerospace-defense/russians-covertly-trained-by-china-return-fight-ukraine-sources-say-2026-05-19/",
+        "https://www.reuters.com/business/aerospace-defense/russians-covertly-trained-by-china-return-fight-ukraine-sources-say-2026-05-19/"
+      ]
     },
     {
       "headline": "STI Cases Hit Record Levels Across Europe",
@@ -221,15 +345,6 @@
       "timestamp": "2026-05-21T12:03:00+03:00"
     },
     {
-      "headline": "Merz proposes radical EU membership shakeup for Ukraine, Moldova",
-      "summary": "German Chancellor Friedrich Merz says the EU enlargement process takes too long and creates frustration, proposing a new framework to accelerate membership for Ukraine, Moldova, and Western Balkans.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/germanys-merz-proposes-radical-shakeup-of-eu-membership-to-give-hope-to-ukraine-moldova-balkans/",
-      "timestamp": "2026-05-21T12:03:00+03:00"
-    },
-    {
       "headline": "Wes Streeting pledges wealth tax in Labour leadership challenge",
       "summary": "UK Health Secretary Wes Streeting pledges to introduce a wealth tax if elected Labour leader, directly challenging PM Keir Starmer as pressure mounts on the prime minister.",
       "emoji": "🇬🇧",
@@ -384,56 +499,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/bojs-koeda-calls-rate-hike-appropriate-pace-2026-05-21/",
       "timestamp": "2026-05-21T10:03:00+03:00"
-    },
-    {
-      "headline": "Russia Delivers Nuclear Munitions to Belarus for Drills",
-      "summary": "Russia has delivered nuclear munitions to field storage facilities in Belarus as part of major nuclear exercises, escalating tensions with the West over Ukraine.",
-      "emoji": "⚔️☢️",
-      "category": "Military",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/russia-delivers-nuclear-munitions-belarus-part-nuclear-drills-2026-05-21/",
-      "timestamp": "2026-05-21T09:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Arabiya",
-          "url": "https://english.alarabiya.net/News/world/2026/05/21/russia-delivers-nuclear-munitions-in-belarus-as-part-of-nuclear-drills",
-          "angle": "Russia Delivers Nuclear Munitions to Belarus for Drills",
-          "summary": "Russian forces delivered nuclear warheads to storage facilities in Belarus as part of major nuclear exercises. The deployment comes amid heightened tensions with the West over Ukraine."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Arabiya"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/russia-delivers-nuclear-munitions-belarus-part-nuclear-drills-2026-05-21/",
-        "https://english.alarabiya.net/News/world/2026/05/21/russia-delivers-nuclear-munitions-in-belarus-as-part-of-nuclear-drills"
-      ]
-    },
-    {
-      "headline": "Germany Proposes Associate EU Membership for Ukraine",
-      "summary": "Chancellor Friedrich Merz has proposed giving Ukraine a direct role in EU structures as an interim step toward full membership, potentially helping facilitate a deal to end the war with Russia.",
-      "emoji": "🇺🇦🇩🇪",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/germanys-merz-pitches-associate-eu-membership-ukraine-2026-05-21/",
-      "timestamp": "2026-05-21T09:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Arabiya",
-          "url": "https://english.alarabiya.net/News/world/2026/05/21/germany-s-merz-pitches-making-ukraine-eu-associate-member-",
-          "angle": "Merz Proposes Associate EU Membership for Ukraine",
-          "summary": "German Chancellor Friedrich Merz has proposed granting Ukraine associate member status in the EU without voting rights, as an interim step toward full membership. The proposal aims to integrate Kyiv into EU structures while facilitating war resolution talks."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Arabiya"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/germanys-merz-pitches-associate-eu-membership-ukraine-2026-05-21/",
-        "https://english.alarabiya.net/News/world/2026/05/21/germany-s-merz-pitches-making-ukraine-eu-associate-member-"
-      ]
     },
     {
       "headline": "Iran Reviewing US Peace Proposal as Trump Warns of Further Strikes",
@@ -684,31 +749,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/uk/sterling-dips-after-data-shows-uk-inflation-cooled-april-2026-05-20/",
       "timestamp": "2026-05-21T06:03:00+03:00"
-    },
-    {
-      "headline": "Trump Plans Unprecedented Call With Taiwan President, Risking China Tensions",
-      "summary": "US President Donald Trump announced he would speak with Taiwan President Lai Ching-te, a move unprecedented for a US leader that could significantly strain US-China relations. The statement came days after Trump met with Chinese leader Xi Jinping.",
-      "emoji": "🇺🇸🇹🇼",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/trump-says-he-will-speak-with-taiwans-president-2026-05-20/",
-      "timestamp": "2026-05-21T05:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3354379/beijing-warns-us-taiwan-ties-after-trump-signals-openness-talking-lai",
-          "angle": "Beijing Warns US on Taiwan After Trump Signals Openness to Lai Call",
-          "summary": "China reiterated opposition to US-Taiwan official exchanges following reports Trump may speak with Taiwan President Lai Ching-te, calling American position on Taiwan \"consistent and clear.\""
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/trump-says-he-will-speak-with-taiwans-president-2026-05-20/",
-        "https://www.scmp.com/news/china/diplomacy/article/3354379/beijing-warns-us-taiwan-ties-after-trump-signals-openness-talking-lai"
-      ]
     },
     {
       "headline": "US Indicts Former Cuban President Raúl Castro Over 1996 Plane Shootdown",
@@ -2272,39 +2312,6 @@
       ]
     },
     {
-      "headline": "Chinese Military Secretly Trained Russian Forces for Ukraine War",
-      "summary": "China's armed forces covertly trained around 200 Russian military personnel late last year, with those soldiers now returning to fight in Ukraine, according to European intelligence agencies and documents seen by Reuters.",
-      "emoji": "⚔️🇨🇳",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/russians-covertly-trained-by-china-return-fight-ukraine-sources-say-2026-05-19/",
-      "timestamp": "2026-05-20T03:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un",
-          "angle": "UN Reports Over 15,800 Killed in Ukraine War Since Russian Invasion",
-          "summary": "The United Nations confirmed 15,850 people including 791 children have been killed in Ukraine since February 2022, with actual figures likely significantly higher. Peace talks have stalled as fighting continues."
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un",
-          "angle": "UN: Over 15,800 Killed in Russia's War on Ukraine",
-          "summary": "The United Nations confirmed nearly 800 children are among the more than 15,800 people killed since Russia's full-scale invasion began in February 2022."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Jazeera",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/aerospace-defense/russians-covertly-trained-by-china-return-fight-ukraine-sources-say-2026-05-19/",
-        "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un",
-        "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un"
-      ]
-    },
-    {
       "headline": "Pentagon cuts US brigade presence in Europe, delays Poland deployment",
       "summary": "The US is reducing its brigade presence in Europe and delaying a planned deployment to Poland, marking a significant shift in US military posture on the continent amid ongoing questions about American commitment to NATO allies.",
       "emoji": "🇺🇸🇪🇺",
@@ -2606,31 +2613,6 @@
       ]
     },
     {
-      "headline": "Russians Covertly Trained by China Return to Fight in Ukraine, Intelligence Sources Say",
-      "summary": "About 200 Russian military personnel were secretly trained by Chinese armed forces late last year and have returned to fight in Ukraine, according to European intelligence agencies.",
-      "emoji": "🇨🇳",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/russians-covertly-trained-by-china-return-fight-ukraine-sources-say-2026-05-19/",
-      "timestamp": "2026-05-19T19:06:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/russians-covertly-trained-by-china-return-to-fight-ukraine-sources-say-2026-05-19/",
-          "angle": "Chinese-trained Russian soldiers return to fight in Ukraine",
-          "summary": "European intelligence agencies report that China secretly trained around 200 Russian military personnel late last year, with some now fighting in Ukraine—a significant escalation in Beijing-Moscow military cooperation."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/aerospace-defense/russians-covertly-trained-by-china-return-fight-ukraine-sources-say-2026-05-19/",
-        "https://www.reuters.com/business/aerospace-defense/russians-covertly-trained-by-china-return-to-fight-ukraine-sources-say-2026-05-19/"
-      ]
-    },
-    {
       "headline": "Taiwan Cautiously Optimistic on US Arms Sales Despite Trump Uncertainty",
       "summary": "Taiwan Defense Minister Wellington Koo expressed cautious optimism about US arms sales as President Trump considers whether to proceed with new weapons deals to the self-governing island.",
       "emoji": "🇹🇼",
@@ -2810,15 +2792,6 @@
         "https://www.reuters.com/business/aerospace-defense/sweden-plans-buy-navy-frigates-france-2026-05-19/",
         "https://www.france24.com/en/sweden-to-buy-four-frigates-from-france-s-naval-group"
       ]
-    },
-    {
-      "headline": "NATO Jet Shoots Down Suspected Drone in Estonia Amid Regional Tensions",
-      "summary": "A NATO aircraft shot down a suspected drone in Estonia, the latest in a series of airspace violations in the region amid frequent Ukrainian attacks on Russia.",
-      "emoji": "🇪🇪✈️",
-      "category": "Military",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/nato-jet-shoots-down-drone-estonia-news-website-delfi-reports-2026-05-19/",
-      "timestamp": "2026-05-19T15:03:00+03:00"
     },
     {
       "headline": "Zaporizhzhia Nuclear Plant Reaching Point of No Return, Rosatom Head Warns",
