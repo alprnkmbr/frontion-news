@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-22T16:05:08+03:00",
+  "lastUpdated": "2026-05-22T16:08:46+03:00",
   "headlines": [
+    {
+      "headline": "Russia Falters in Ukraine as Economy Weakens and Casualties Mount",
+      "summary": "Independent estimates suggest Russia economy is faltering under war costs, while Kyiv claims 83,000 Russian casualties so far in 2026. Top Ukrainian officials say Moscows woes are growing.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/22/russia-falters-in-ukraine",
+      "timestamp": "2026-05-22T16:05:00+03:00"
+    },
+    {
+      "headline": "India Opens $9 Billion Island Megaport Near Strait of Malacca",
+      "summary": "The Great Nicobar project will allow India to monitor activities near the Strait of Malacca, sharpening Chinas Malacca dilemma as regional maritime competition intensifies.",
+      "emoji": "🇮🇳",
+      "category": "Asia-Pacific",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/politics/article/3354565/indias-us9-billion-island-megaport-sharpens-chinas-malacca-dilemma",
+      "timestamp": "2026-05-22T16:05:00+03:00"
+    },
+    {
+      "headline": "Turkish Court Removes Opposition Leader in Major Blow to Democracy",
+      "summary": "A Turkish court issued a ruling that effectively removed the head of the main opposition CHP party, deepening Turkeys political crisis as opposition vows resistance.",
+      "emoji": "🇹🇷",
+      "category": "Europe",
+      "source": "Daily Sabah",
+      "url": "https://www.dailysabah.com/politics/turkish-oppositions-chp-seeks-way-out-after-nullification-verdict/news",
+      "timestamp": "2026-05-22T16:05:00+03:00"
+    },
+    {
+      "headline": "Netherlands Bans Imports from Israeli Settlements",
+      "summary": "The Dutch government agreed to ban imports of goods produced in Jewish settlements in Israeli-occupied territories, marking a significant European policy shift.",
+      "emoji": "🇳🇱🇮🇱",
+      "category": "Middle East",
+      "source": "Al Arabiya",
+      "url": "https://english.alarabiya.net/News/middle-east/2026/05/22/netherlands-to-ban-imports-from-israel-s-jewish-settlements",
+      "timestamp": "2026-05-22T16:05:00+03:00"
+    },
+    {
+      "headline": "Japan Core Inflation Hits 4-Year Low Before Energy Shock",
+      "summary": "Japans annual core inflation slowed to a four-year low in April due to fuel subsidies, though analysts expect surging costs from the Middle East war to accelerate price growth in coming months.",
+      "emoji": "🇯🇵",
+      "category": "Economy",
+      "source": "Channel News Asia",
+      "url": "https://www.channelnewsasia.com/business/japans-core-inflation-hits-4-year-low-rebound-eyed-energy-shock-6135721",
+      "timestamp": "2026-05-22T16:05:00+03:00"
+    },
     {
       "headline": "Israel Deports 37 French Gaza Flotilla Activists to Turkey",
       "summary": "Israel is deporting 37 French nationals who were part of a Gaza-bound aid flotilla to Turkey, according to Frances Foreign Ministry. The activists were among a group intercepted while attempting to breach the Gaza blockade.",
@@ -8,16 +53,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/israel-deports-37-french-nationals-gaza-flotilla-turkey-france-says-2026-05-21/",
-      "timestamp": "2026-05-22T16:00:00+03:00"
-    },
-    {
-      "headline": "WHO Upgrades Congo Ebola Risk to Very High as Outbreak Spreads",
-      "summary": "The World Health Organization raised its risk assessment for the Ebola outbreak in Congo to \"very high\" at the national level, with 82 confirmed cases and 7 confirmed deaths. Nearly 750 suspected cases and 177 suspected deaths have been reported. The UN released $60 million from its emergency fund to accelerate the response.",
-      "emoji": "🦠🇨🇩",
-      "category": "Africa",
-      "source": "AP News",
-      "url": "https://apnews.com/article/congo-ebola-outbreak-who-4e08d8df6d9c34039a9e0b8bad7a8954",
-      "timestamp": "2026-05-22T16:00:00+03:00"
+      "timestamp": "2026-05-22T16:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "CNA",
+          "url": "https://www.channelnewsasia.com/world/israel-deports-all-foreign-activists-gaza-flotilla-6132246",
+          "angle": "Israel Deports All Foreign Activists from Gaza Flotilla",
+          "summary": "Israel deported all foreign activists seized from a Gaza-bound aid flotilla after Israeli forces intercepted the vessel. The move follows international condemnation after an Israeli minister mocked the detained activists."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "CNA"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/israel-deports-37-french-nationals-gaza-flotilla-turkey-france-says-2026-05-21/",
+        "https://www.channelnewsasia.com/world/israel-deports-all-foreign-activists-gaza-flotilla-6132246"
+      ]
     },
     {
       "headline": "China Denies Forcing Tech Firms to Reject Foreign Investment",
@@ -45,6 +97,47 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/legal/government/texas-sues-meta-whatsapp-over-encryption-privacy-claims-2026-05-21/",
       "timestamp": "2026-05-22T16:00:00+03:00"
+    },
+    {
+      "headline": "WHO Africa Head Warns Ebola Outbreak Risk Should Not Be Underestimated",
+      "summary": "The WHO regional director for Africa cautioned that just one case could spread the Ebola virus beyond the Democratic Republic of Congo and Uganda, urging heightened vigilance as no vaccine exists for the Bundibugyo strain.",
+      "emoji": "🦠🌍",
+      "category": "Africa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-africa-head-warns-against-underestimating-risk-ebola-spread-2026-05-22/",
+      "timestamp": "2026-05-22T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/congo-ebola-outbreak-who-4e08d8df6d9c34039a9e0b8bad7a8954",
+          "angle": "WHO Upgrades Congo Ebola Risk to Very High as Outbreak Spreads",
+          "summary": "The World Health Organization raised its risk assessment for the Ebola outbreak in Congo to \"very high\" at the national level, with 82 confirmed cases and 7 confirmed deaths. Nearly 750 suspected cases and 177 suspected deaths have been reported. The UN released $60 million from its emergency fund to accelerate the response."
+        },
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/congo-ebola-who-spread-bunia-bundibugyo-6b0bd445b991dd381ae8a585a9b6179a",
+          "angle": "Rare Ebola strain spreads rapidly in eastern Congo as health workers struggle",
+          "summary": "The Bundibugyo virus, a rare type of Ebola, has spread undetected for weeks in eastern Congo, with 139 suspected deaths and 600 cases. WHO says cases may exceed 1,000, with a vaccine months away amid conflict zones and underfunded health systems."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/legal/litigation/us-working-with-small-biotech-firm-experimental-ebola-treatment-bloomberg-news-2026-05-20/",
+          "angle": "US Racing to Develop Ebola Treatment for Congo Outbreak",
+          "summary": "The US government is working with a small biotech firm on an experimental treatment for the Bundibugyo Ebola strain causing the deadly outbreak in Congo, for which no approved vaccine exists."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News",
+        "AP News",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/healthcare-pharmaceuticals/who-africa-head-warns-against-underestimating-risk-ebola-spread-2026-05-22/",
+        "https://apnews.com/article/congo-ebola-outbreak-who-4e08d8df6d9c34039a9e0b8bad7a8954",
+        "https://apnews.com/article/congo-ebola-who-spread-bunia-bundibugyo-6b0bd445b991dd381ae8a585a9b6179a",
+        "https://www.reuters.com/legal/litigation/us-working-with-small-biotech-firm-experimental-ebola-treatment-bloomberg-news-2026-05-20/"
+      ]
     },
     {
       "headline": "UAE Considered Leaving OPEC for Three Years Over Oil Strategy",
@@ -78,15 +171,6 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/un-refugee-agency-says-1-million-worth-aid-lost-russian-strike-ukraine-2026-05-22/",
-      "timestamp": "2026-05-22T15:03:00+03:00"
-    },
-    {
-      "headline": "WHO Africa Head Warns Ebola Outbreak Risk Should Not Be Underestimated",
-      "summary": "The WHO regional director for Africa cautioned that just one case could spread the Ebola virus beyond the Democratic Republic of Congo and Uganda, urging heightened vigilance as no vaccine exists for the Bundibugyo strain.",
-      "emoji": "🦠🌍",
-      "category": "Africa",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-africa-head-warns-against-underestimating-risk-ebola-spread-2026-05-22/",
       "timestamp": "2026-05-22T15:03:00+03:00"
     },
     {
@@ -756,31 +840,6 @@
       "urls": [
         "https://www.bbc.com/news/articles/ckgpzwkn5jko",
         "https://www.bbc.com/news/articles/ckgpzwkn5jko"
-      ]
-    },
-    {
-      "headline": "Israel Deports All Foreign Activists from Gaza Flotilla",
-      "summary": "Israel deported all foreign activists seized from a Gaza-bound aid flotilla after Israeli forces intercepted the vessel. The move follows international condemnation after an Israeli minister mocked the detained activists.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "CNA",
-      "url": "https://www.channelnewsasia.com/world/israel-deports-all-foreign-activists-gaza-flotilla-6132246",
-      "timestamp": "2026-05-22T06:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "Times of Israel",
-          "url": "https://www.timesofisrael.com/israel-deports-some-430-foreign-flotilla-activists-holds-one-israeli-participant/",
-          "angle": "Israel Deports 430 Foreign Flotilla Activists After Ben Gvir Controversy",
-          "summary": "Israel has deported all 430 foreign activists from the Gaza-bound flotilla, with Turkey sending planes to collect them. Italy has requested EU sanctions on far-right minister Itamar Ben Gvir over his handling of detained activists, while Poland considers banning him."
-        }
-      ],
-      "sources": [
-        "CNA",
-        "Times of Israel"
-      ],
-      "urls": [
-        "https://www.channelnewsasia.com/world/israel-deports-all-foreign-activists-gaza-flotilla-6132246",
-        "https://www.timesofisrael.com/israel-deports-some-430-foreign-flotilla-activists-holds-one-israeli-participant/"
       ]
     },
     {
@@ -1906,31 +1965,6 @@
       "timestamp": "2026-05-21T08:10:00+03:00"
     },
     {
-      "headline": "Rare Ebola strain spreads rapidly in eastern Congo as health workers struggle",
-      "summary": "The Bundibugyo virus, a rare type of Ebola, has spread undetected for weeks in eastern Congo, with 139 suspected deaths and 600 cases. WHO says cases may exceed 1,000, with a vaccine months away amid conflict zones and underfunded health systems.",
-      "emoji": "🇨🇩🦠",
-      "category": "Africa",
-      "source": "AP News",
-      "url": "https://apnews.com/article/congo-ebola-who-spread-bunia-bundibugyo-6b0bd445b991dd381ae8a585a9b6179a",
-      "timestamp": "2026-05-21T08:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/congo-ebola-who-spread-bunia-bundibugyo-6b0bd445b991dd381ae8a585a9b6179a",
-          "angle": "Rare Ebola strain spreads rapidly in eastern Congo as health workers struggle",
-          "summary": "The Bundibugyo virus, a rare type of Ebola, has spread undetected for weeks in eastern Congo, with 139 suspected deaths and 600 cases. WHO says cases may exceed 1,000, with a vaccine months away amid conflict zones and underfunded health systems."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "AP News"
-      ],
-      "urls": [
-        "https://apnews.com/article/congo-ebola-who-spread-bunia-bundibugyo-6b0bd445b991dd381ae8a585a9b6179a",
-        "https://apnews.com/article/congo-ebola-who-spread-bunia-bundibugyo-6b0bd445b991dd381ae8a585a9b6179a"
-      ]
-    },
-    {
       "headline": "US military surveillance flights track near Cuba as tensions mount",
       "summary": "BBC Verify analysis shows at least five US Navy P-8A Poseidon jets and three MQ-4C Triton drones have operated near Cuba since May 11, with flights as close as 50 miles from the island. Experts say the visible flight transponders are likely a deliberate signal to enforce the oil blockade and deter Venezuela.",
       "emoji": "🇺🇸🔍",
@@ -2017,31 +2051,6 @@
       "source": "France24",
       "url": "https://www.france24.com/en/live-news/20260521-australian-court-upholds-465-000-fine-against-elon-musk-s-x",
       "timestamp": "2026-05-21T06:10:00+03:00"
-    },
-    {
-      "headline": "US Racing to Develop Ebola Treatment for Congo Outbreak",
-      "summary": "The US government is working with a small biotech firm on an experimental treatment for the Bundibugyo Ebola strain causing the deadly outbreak in Congo, for which no approved vaccine exists.",
-      "emoji": "🦠",
-      "category": "Africa",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/litigation/us-working-with-small-biotech-firm-experimental-ebola-treatment-bloomberg-news-2026-05-20/",
-      "timestamp": "2026-05-21T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/congo-ebola-outbreak-who-spread-response-18537353976a958687e55f95434c918c",
-          "angle": "Angry Mob Burns Ebola Treatment Center in DR Congo",
-          "summary": "Locals set fire to a treatment facility in Rwampara after being barred from retrieving a suspected Ebola victim's body. The outbreak has killed 160 people and spread to South Kivu province, with no vaccine available for the Bundibugyo strain."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/legal/litigation/us-working-with-small-biotech-firm-experimental-ebola-treatment-bloomberg-news-2026-05-20/",
-        "https://apnews.com/article/congo-ebola-outbreak-who-spread-response-18537353976a958687e55f95434c918c"
-      ]
     },
     {
       "headline": "Xi and Putin Wrap Beijing Talks with No Deal on Key Gas Pipeline",
@@ -2819,15 +2828,6 @@
       "category": "Middle East",
       "source": "Haaretz",
       "url": "https://www.haaretz.com/israel-news/israel-politics/2026-05-20/ty-article/somaliland-says-it-will-open-an-embassy-in-jerusalem-israel-to-reciprocate/0000019e-4110-d0ff-afbe-4350f2120000",
-      "timestamp": "2026-05-20T16:15:00+03:00"
-    },
-    {
-      "headline": "US seizes Iran-linked oil tanker in Indian Ocean carrying over one million barrels",
-      "summary": "The US seized a sanctioned Iranian oil tanker in the Indian Ocean, the Wall Street Journal reported. The vessel had loaded crude at Iran's Kharg Island in February.",
-      "emoji": "🛢️",
-      "category": "US-Iran War",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-20/ty-article-live/u-s-senate-passes-symbolic-war-powers-resolution-as-trump-vows-very-quick-end/0000019e-4301-d55f-a5bf-43c5523b0000",
       "timestamp": "2026-05-20T16:15:00+03:00"
     }
   ]
