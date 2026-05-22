@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-22T10:05:02+03:00",
+  "lastUpdated": "2026-05-22T10:06:46+03:00",
   "headlines": [
+    {
+      "headline": "Taiwan Denies Knowledge of US Arms Pause Despite Navy Secretary Statement",
+      "summary": "Taiwan presidential office says it has not received any notification of changes to military sales after Acting Navy Secretary Hung Cao said the US was pausing a $14 billion arms package to ensure munitions for the Iran operation.",
+      "emoji": "🇹🇼🇺🇸",
+      "category": "US-China",
+      "source": "Al-Monitor",
+      "url": "https://www.al-monitor.com/originals/2026/05/taiwan-says-it-has-not-been-told-us-changes-military-sales",
+      "timestamp": "2026-05-22T10:10:00+03:00"
+    },
+    {
+      "headline": "Netanyahu Leaked Secret UAE Wartime Visit to Boost Domestic Standing",
+      "summary": "Analysis reveals Israeli PM Netanyahu deliberately disclosed his clandestine March meeting with UAE President MBZ to portray himself as a regional statesman ahead of elections, drawing Emirati anger and potentially undermining Gulf balancing act.",
+      "emoji": "🇮🇱🇦🇪",
+      "category": "Middle East",
+      "source": "Middle East Eye",
+      "url": "https://www.middleeasteye.net/opinion/why-netanyahu-leaked-israels-secret-wartime-visit-uae",
+      "timestamp": "2026-05-22T10:10:00+03:00"
+    },
+    {
+      "headline": "Injured Palestinian Girls Arrive in Boston for Medical Treatment",
+      "summary": "Three Palestinian children from Gaza, including a double amputee and burn victims, arrived in the US for urgent medical care as part of HEAL Palestine evacuation efforts, highlighting Gaza healthcare collapse.",
+      "emoji": "🇵🇸🏥",
+      "category": "Middle East",
+      "source": "TRT World",
+      "url": "https://www.trtworld.com/article/d75f8c87127a",
+      "timestamp": "2026-05-22T10:10:00+03:00"
+    },
+    {
+      "headline": "UK Refuses to Revoke Hong Kong Trade Office Privileges After Spy Case",
+      "summary": "British government says Hong Kong Economic and Trade Office can continue legitimate activity despite conviction of two men linked to the office for spying on activists, resisting political pressure to revoke diplomatic privileges.",
+      "emoji": "🇬🇧🇭🇰",
+      "category": "Diplomacy",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/hong-kong/politics/article/3354483/hong-kong-trade-office-can-continue-legitimate-activity-uk-official-tells-critical-mps",
+      "timestamp": "2026-05-22T10:10:00+03:00"
+    },
     {
       "headline": "Pakistan mediates US-Iran peace talks as uranium dispute persists",
       "summary": "Iran's foreign minister met his Pakistani counterpart to discuss proposals to end the US-Israeli war. Tehran and Washington remain at odds over uranium stockpile and Strait of Hormuz controls.",
@@ -8,7 +44,31 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/pakistan-seeks-breakthrough-us-iran-peace-talks-2026-05-22/",
-      "timestamp": "2026-05-22T10:03:00+03:00"
+      "timestamp": "2026-05-22T10:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/supreme-leader-says-enriched-uranium-must-stay-iran-iranian-sources-say-2026-05-21/",
+          "angle": "Supreme Leader orders Iran keep enriched uranium, hardening stance in talks",
+          "summary": "Ayatollah Khamenei issued a directive that Irans near-weapons-grade uranium should not be sent abroad, according to senior Iranian sources. This directly counters a key US demand in ongoing peace negotiations."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/tehran-reviewing-latest-us-response-trump-suggests-he-can-wait-2026-05-21/",
+          "angle": "Pakistan Mediates as Iran Hardens Stance on Uranium in Peace Talks",
+          "summary": "Pakistan intensified diplomacy to advance US-Iran peace negotiations, but Tehran appeared to harden its position on nuclear materials. Trump warned of military action if he does not get the right answers, while Iran reviews the latest US proposal."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/pakistan-seeks-breakthrough-us-iran-peace-talks-2026-05-22/",
+        "https://www.reuters.com/world/asia-pacific/supreme-leader-says-enriched-uranium-must-stay-iran-iranian-sources-say-2026-05-21/",
+        "https://www.reuters.com/world/asia-pacific/tehran-reviewing-latest-us-response-trump-suggests-he-can-wait-2026-05-21/"
+      ]
     },
     {
       "headline": "Quad foreign ministers to meet in Delhi amid China tensions",
@@ -26,7 +86,23 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/turkey-court-annuls-main-opposition-partys-2023-congress-latest-blow-2026-05-21/",
-      "timestamp": "2026-05-22T10:03:00+03:00"
+      "timestamp": "2026-05-22T10:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al-Monitor",
+          "url": "https://www.al-monitor.com/originals/2026/05/turkey-court-annuls-main-opposition-partys-2023-congress-latest-blow",
+          "angle": "Turkish court annuls main opposition party congress in blow to CHP",
+          "summary": "An Ankara court suspended the leadership of Turkey's main opposition CHP, which defeated Erdogan's AKP in 2024 local elections. The ruling removes the party that won major victories in Istanbul and Ankara from power."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Al-Monitor"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/turkey-court-annuls-main-opposition-partys-2023-congress-latest-blow-2026-05-21/",
+        "https://www.al-monitor.com/originals/2026/05/turkey-court-annuls-main-opposition-partys-2023-congress-latest-blow"
+      ]
     },
     {
       "headline": "China's Hengli petrochemical empire faces US sanctions chill",
@@ -283,31 +359,6 @@
       "source": "EuroMaidan Press",
       "url": "https://euromaidanpress.com/2026/05/22/czech-president-to-europe-ukraine-isnt-a-charity-case-its-your-defense-laboratory/",
       "timestamp": "2026-05-22T06:10:00+03:00"
-    },
-    {
-      "headline": "Supreme Leader orders Iran keep enriched uranium, hardening stance in talks",
-      "summary": "Ayatollah Khamenei issued a directive that Irans near-weapons-grade uranium should not be sent abroad, according to senior Iranian sources. This directly counters a key US demand in ongoing peace negotiations.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/supreme-leader-says-enriched-uranium-must-stay-iran-iranian-sources-say-2026-05-21/",
-      "timestamp": "2026-05-22T05:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/supreme-leader-says-enriched-uranium-must-stay-iran-iranian-sources-say-2026-05-21/",
-          "angle": "Iran Supreme Leader orders uranium to remain in country",
-          "summary": "Ayatollah Khamenei issued a directive that Iran's near-weapons-grade uranium must not be sent abroad, hardening Tehran's stance against a key U.S. demand in peace talks."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/supreme-leader-says-enriched-uranium-must-stay-iran-iranian-sources-say-2026-05-21/",
-        "https://www.reuters.com/world/asia-pacific/supreme-leader-says-enriched-uranium-must-stay-iran-iranian-sources-say-2026-05-21/"
-      ]
     },
     {
       "headline": "Trump vows US will retrieve Irans enriched uranium despite rejection",
@@ -1037,15 +1088,6 @@
       ]
     },
     {
-      "headline": "Turkish court annuls main opposition party congress in blow to CHP",
-      "summary": "An Ankara court suspended the leadership of Turkey's main opposition CHP, which defeated Erdogan's AKP in 2024 local elections. The ruling removes the party that won major victories in Istanbul and Ankara from power.",
-      "emoji": "🇹🇷",
-      "category": "Europe",
-      "source": "Al-Monitor",
-      "url": "https://www.al-monitor.com/originals/2026/05/turkey-court-annuls-main-opposition-partys-2023-congress-latest-blow",
-      "timestamp": "2026-05-21T20:10:00+03:00"
-    },
-    {
       "headline": "Malaysia demands TikTok explain AI deepfake account insulting king",
       "summary": "Malaysia's government summoned TikTok over a fake account using AI to create offensive content about the king, including false claims about eating pork and images with his face on animal bodies.",
       "emoji": "🇲🇾",
@@ -1095,31 +1137,6 @@
       "urls": [
         "https://kyivindependent.com/nato-jet-downs-suspected-stray-ukrainian-drone-over-estonia/",
         "https://kyivindependent.com/nato-jet-downs-suspected-stray-ukrainian-drone-over-estonia/"
-      ]
-    },
-    {
-      "headline": "Pakistan Mediates as Iran Hardens Stance on Uranium in Peace Talks",
-      "summary": "Pakistan intensified diplomacy to advance US-Iran peace negotiations, but Tehran appeared to harden its position on nuclear materials. Trump warned of military action if he does not get the right answers, while Iran reviews the latest US proposal.",
-      "emoji": "🇵🇰",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/tehran-reviewing-latest-us-response-trump-suggests-he-can-wait-2026-05-21/",
-      "timestamp": "2026-05-21T20:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "Free Malaysia Today",
-          "url": "https://www.freemalaysiatoday.com/category/world/2026/05/21/pakistans-pm-to-visit-china-for-talks-overshadowed-by-iran-war",
-          "angle": "Pakistan PM to Visit China as Iran War Overshadows Talks",
-          "summary": "Islamabad and Beijing both seek to mediate in the Middle East conflict as Pakistani Prime Minister heads to China for discussions complicated by ongoing Iran war."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Free Malaysia Today"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/tehran-reviewing-latest-us-response-trump-suggests-he-can-wait-2026-05-21/",
-        "https://www.freemalaysiatoday.com/category/world/2026/05/21/pakistans-pm-to-visit-china-for-talks-overshadowed-by-iran-war"
       ]
     },
     {
@@ -2783,92 +2800,6 @@
       "source": "Janes",
       "url": "https://www.janes.com/defence-intelligence-insights/defence-news/defence/taiwan-unveils-unmanned-ground-reconnaissance-vehicle",
       "timestamp": "2026-05-20T12:05:00+03:00"
-    },
-    {
-      "headline": "Japan secures alternative oil supplies to replace Middle East crude for summer",
-      "summary": "Japanese oil refiners will be able to secure sufficient substitute crude and petroleum products to replace Middle East supplies for summer, as the Iran conflict disrupts traditional supply chains.",
-      "emoji": "🇯🇵🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/japan-oil-refiners-expect-secure-enough-supply-replace-middle-east-crude-summer-2026-05-20/",
-      "timestamp": "2026-05-20T12:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/business/energy/japan-s-oil-imports-from-middle-east-plunge-to-record-low-in-april",
-          "angle": "Japan's Middle East Oil Imports Plunge 67% to Record Low",
-          "summary": "Japan's crude oil imports from the Middle East dropped over 67% in April, the lowest on record, as the Strait of Hormuz closure disrupted supply chains. Japan is now accelerating procurement from the US and other alternative sources."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Nikkei Asia"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/japan-oil-refiners-expect-secure-enough-supply-replace-middle-east-crude-summer-2026-05-20/",
-        "https://asia.nikkei.com/business/energy/japan-s-oil-imports-from-middle-east-plunge-to-record-low-in-april"
-      ]
-    },
-    {
-      "headline": "US asks Ukraine to ease Belarus potash restrictions amid food security concerns",
-      "summary": "The United States is urging Ukraine to relax restrictions on potash fertilizer imports from Belarus and press European allies to follow suit, Bloomberg News reported.",
-      "emoji": "🇺🇸🇧🇾",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us-wants-ukraine-help-ease-restrictions-belarus-potash-bloomberg-news-reports-2026-05-20/",
-      "timestamp": "2026-05-20T12:00:00+03:00"
-    },
-    {
-      "headline": "Russian attacks kill two in Ukraine as Kyiv drones strike central Russia",
-      "summary": "Two people were killed and 19 injured in Russian attacks on Ukraine overnight, while Ukraine sent drones to strike industrial areas in central Russia including the Stavropol region.",
-      "emoji": "🇺🇦🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/drones-attack-industrial-areas-russias-stavropol-region-governor-says-2026-05-19/",
-      "timestamp": "2026-05-20T12:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/russia-hits-ukraines-odesa-dnipro-with-drones-missiles-overnight-officials-say-2026-05-18/",
-          "angle": "Russian Forces Strike Odesa and Dnipro With Missiles and Drones",
-          "summary": "Russia attacked the Ukrainian cities of Odesa and Dnipro with missiles and drones, damaging residential buildings and injuring dozens, while Ukrainian forces struck the Belgorod region, killing two people according to Russian officials."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/drones-attack-industrial-areas-russias-stavropol-region-governor-says-2026-05-19/",
-        "https://www.reuters.com/world/europe/russia-hits-ukraines-odesa-dnipro-with-drones-missiles-overnight-officials-say-2026-05-18/"
-      ]
-    },
-    {
-      "headline": "Taiwan President says China undermining peace, warns against annexation",
-      "summary": "President Lai Ching-te stated Taiwan would never accept annexation by China, saying the island's future cannot be decided by external forces. The comments drew an angry reaction from Beijing.",
-      "emoji": "🇹🇼",
-      "category": "China-Taiwan",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/taiwans-future-cannot-be-decided-by-external-forces-president-says-2026-05-20/",
-      "timestamp": "2026-05-20T11:03:00+03:00"
-    },
-    {
-      "headline": "Chinese supertankers exit Hormuz as Trump and Vance signal Iran deal progress",
-      "summary": "Two Chinese supertankers carrying 4 million barrels of crude exited the Strait of Hormuz after waiting two months, as US officials expressed optimism about negotiations with Tehran.",
-      "emoji": "🛢️",
-      "category": "Iran Conflict",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/20/chinese-supertankers-exit-hormuz-as-trump-vance-talk-up-iran-deal",
-      "timestamp": "2026-05-20T11:03:00+03:00"
-    },
-    {
-      "headline": "Russia displays nuclear warhead transfers in major military exercise",
-      "summary": "Russia released footage of troops delivering nuclear warheads to mobile Iskander-M launch systems and moving them undetected to launch sites as part of a major military exercise.",
-      "emoji": "⚔️",
-      "category": "Military",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/russia-shows-troops-moving-nuclear-warheads-major-exercise-2026-05-20/",
-      "timestamp": "2026-05-20T11:03:00+03:00"
     }
   ]
 }
