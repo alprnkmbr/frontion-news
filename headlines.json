@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-22T06:07:18+03:00",
+  "lastUpdated": "2026-05-22T07:04:32+03:00",
   "headlines": [
+    {
+      "headline": "Iran Claims Military Control Over Strait of Hormuz",
+      "summary": "Iran published a map claiming \"armed forces oversight\" across 22,000 sq km of the strategic waterway, extending into UAE and Omani waters. The UAE rejected the claims as \"fragments of dreams,\" while the US directed 94 ships to alter course since the blockade began.",
+      "emoji": "🇮🇷⚔️",
+      "category": "US-Iran War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cq5py64gvwzo",
+      "timestamp": "2026-05-22T07:00:00+03:00"
+    },
+    {
+      "headline": "Greenlanders Protest Outside New US Consulate in Nuuk",
+      "summary": "Hundreds gathered in the capital chanting \"Greenland is for Greenlanders\" as the US opened a new consulate amid Trump's push for control over the territory. Prime Minister Jens-Frederik Nielsen boycotted the opening ceremony.",
+      "emoji": "🇬🇱🇺🇸",
+      "category": "Arctic",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cwy2gxvnq1zo",
+      "timestamp": "2026-05-22T07:00:00+03:00"
+    },
+    {
+      "headline": "Alberta to Hold Referendum on Separating from Canada",
+      "summary": "The oil-rich province will vote October 19 on whether to remain in Canada or begin a binding independence process. Premier Danielle Smith said she will vote to stay, but separatists gathered over 300,000 signatures demanding the vote.",
+      "emoji": "🇨🇦",
+      "category": "Geopolitics",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cvgze8n5dxko",
+      "timestamp": "2026-05-22T07:00:00+03:00"
+    },
+    {
+      "headline": "Angry Mob Burns Ebola Treatment Center in DR Congo",
+      "summary": "Locals set fire to a treatment facility in Rwampara after being barred from retrieving a suspected Ebola victim's body. The outbreak has killed 160 people and spread to South Kivu province, with no vaccine available for the Bundibugyo strain.",
+      "emoji": "🇨🇩⚠️",
+      "category": "Africa",
+      "source": "AP News",
+      "url": "https://apnews.com/article/congo-ebola-outbreak-who-spread-response-18537353976a958687e55f95434c918c",
+      "timestamp": "2026-05-22T07:00:00+03:00"
+    },
+    {
+      "headline": "Rubio Declares Cuba National Security Threat After Castro Indictment",
+      "summary": "The US Secretary of State called Cuba a \"leading sponsor of terrorism\" and said diplomatic resolution was unlikely. Cuba's foreign minister accused Rubio of trying to \"instigate military aggression\" as tensions escalate following the indictment of former President Raúl Castro.",
+      "emoji": "🇨🇺🇺🇸",
+      "category": "Americas",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko",
+      "timestamp": "2026-05-22T07:00:00+03:00"
+    },
     {
       "headline": "Israel Deports All Foreign Activists from Gaza Flotilla",
       "summary": "Israel deported all foreign activists seized from a Gaza-bound aid flotilla after Israeli forces intercepted the vessel. The move follows international condemnation after an Israeli minister mocked the detained activists.",
@@ -8,25 +53,23 @@
       "category": "Middle East",
       "source": "CNA",
       "url": "https://www.channelnewsasia.com/world/israel-deports-all-foreign-activists-gaza-flotilla-6132246",
-      "timestamp": "2026-05-22T06:10:00+03:00"
-    },
-    {
-      "headline": "Oil Prices Rise as Traders Grow Skeptical of US-Iran Deal",
-      "summary": "Oil prices climbed as markets doubt that US-Iran negotiations will quickly reopen the Strait of Hormuz and ease the global supply crunch. The standoff continues to weigh on energy markets.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "OilPrice",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rise-as-Traders-Grow-Skeptical-of-US-Iran-Deal.html",
-      "timestamp": "2026-05-22T06:10:00+03:00"
-    },
-    {
-      "headline": "Ukraine Has Struck Russian Oil Refineries Over 150 Times Since War Began",
-      "summary": "Ukraine first began conducting regular strikes on Russian oil refineries in 2023, with attacks growing in both magnitude and frequency. The sustained campaign has degraded Russia's refining capacity.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/ukraine-struck-russian-oil-refineries-over-150-times-since-start-of-war-media-reports/",
-      "timestamp": "2026-05-22T06:10:00+03:00"
+      "timestamp": "2026-05-22T06:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Times of Israel",
+          "url": "https://www.timesofisrael.com/israel-deports-some-430-foreign-flotilla-activists-holds-one-israeli-participant/",
+          "angle": "Israel Deports 430 Foreign Flotilla Activists After Ben Gvir Controversy",
+          "summary": "Israel has deported all 430 foreign activists from the Gaza-bound flotilla, with Turkey sending planes to collect them. Italy has requested EU sanctions on far-right minister Itamar Ben Gvir over his handling of detained activists, while Poland considers banning him."
+        }
+      ],
+      "sources": [
+        "CNA",
+        "Times of Israel"
+      ],
+      "urls": [
+        "https://www.channelnewsasia.com/world/israel-deports-all-foreign-activists-gaza-flotilla-6132246",
+        "https://www.timesofisrael.com/israel-deports-some-430-foreign-flotilla-activists-holds-one-israeli-participant/"
+      ]
     },
     {
       "headline": "Czech President Warns Europe: Ukraine Is Not a Charity Case",
@@ -62,7 +105,31 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/latvia-issues-drone-alert-2026-05-21/",
-      "timestamp": "2026-05-22T06:05:00+03:00"
+      "timestamp": "2026-05-22T06:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/latvia-issues-drone-alert-2026-05-21/",
+          "angle": "NATO jets scramble as Baltic states detect drones",
+          "summary": "Latvia and Lithuania detected drones in their airspace and urged residents to seek shelter while NATO fighter jets scrambled to intercept, the latest security incidents in the Baltics."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/latvia-issues-drone-alert-2026-05-21/",
+          "angle": "Latvia Scrambles NATO Jets as Drone Detected in Airspace",
+          "summary": "Latvia detected at least one drone in its airspace and scrambled NATO fighter jets in response, the latest in a series of security incidents in the Baltic region linked to the Ukraine war."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/aerospace-defense/latvia-issues-drone-alert-2026-05-21/",
+        "https://www.reuters.com/business/aerospace-defense/latvia-issues-drone-alert-2026-05-21/",
+        "https://www.reuters.com/business/aerospace-defense/latvia-issues-drone-alert-2026-05-21/"
+      ]
     },
     {
       "headline": "Supreme Leader orders Iran keep enriched uranium, hardening stance in talks",
@@ -287,6 +354,31 @@
       "timestamp": "2026-05-22T04:03:00+03:00"
     },
     {
+      "headline": "US Oil Prices Rise as Investors Doubt Breakthrough in Iran Peace Talks",
+      "summary": "U.S. crude futures rose over $1 as investors doubt prospects for a breakthrough in U.S.-Iran peace talks, with both sides stuck on uranium stockpile and Strait of Hormuz controls.",
+      "emoji": "🛢️💰",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/us-oil-prices-rise-investors-doubt-breakthrough-us-iran-peace-talks-2026-05-21/",
+      "timestamp": "2026-05-22T03:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "OilPrice",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rise-as-Traders-Grow-Skeptical-of-US-Iran-Deal.html",
+          "angle": "Oil Prices Rise as Traders Grow Skeptical of US-Iran Deal",
+          "summary": "Oil prices climbed as markets doubt that US-Iran negotiations will quickly reopen the Strait of Hormuz and ease the global supply crunch. The standoff continues to weigh on energy markets."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "OilPrice"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/us-oil-prices-rise-investors-doubt-breakthrough-us-iran-peace-talks-2026-05-21/",
+        "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Rise-as-Traders-Grow-Skeptical-of-US-Iran-Deal.html"
+      ]
+    },
+    {
       "headline": "Kremlin Dismisses Report China Trained Russian Soldiers for Ukraine War",
       "summary": "The Kremlin called false a Reuters report that China secretly trained about 200 Russian soldiers in China late last year, some of whom went on to fight in Ukraine.",
       "emoji": "🇷🇺🇨🇳",
@@ -296,19 +388,27 @@
       "timestamp": "2026-05-22T03:05:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/media-telecom/kremlin-dismisses-report-that-china-covertly-trained-russian-soldiers-ukraine-2026-05-21/",
-          "angle": "Kremlin Dismisses Report of China Training Russian Soldiers for Ukraine",
-          "summary": "The Kremlin rejected as false a Reuters report that China's army secretly trained about 200 Russian soldiers in China late last year, some of whom went on to fight in Ukraine. The accusation adds to Western concerns about deepening China-Russia military ties."
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-struck-russian-oil-refineries-over-150-times-since-start-of-war-media-reports/",
+          "angle": "Ukraine Has Struck Russian Oil Refineries Over 150 Times Since War Began",
+          "summary": "Ukraine first began conducting regular strikes on Russian oil refineries in 2023, with attacks growing in both magnitude and frequency. The sustained campaign has degraded Russia's refining capacity."
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un",
+          "angle": "UN: Over 15,800 Killed in Russia-Ukraine War Since 2022",
+          "summary": "The UN reports at least 15,850 people including 791 children have been killed since Russia's full-scale invasion. The actual figures are likely significantly higher as peace talks remain stalled."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "Kyiv Independent",
+        "Al Jazeera"
       ],
       "urls": [
         "https://www.reuters.com/business/media-telecom/kremlin-dismisses-report-that-china-covertly-trained-russian-soldiers-ukraine-2026-05-21/",
-        "https://www.reuters.com/business/media-telecom/kremlin-dismisses-report-that-china-covertly-trained-russian-soldiers-ukraine-2026-05-21/"
+        "https://kyivindependent.com/ukraine-struck-russian-oil-refineries-over-150-times-since-start-of-war-media-reports/",
+        "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un"
       ]
     },
     {
@@ -384,39 +484,6 @@
       "urls": [
         "https://www.reuters.com/world/middle-east/iran-rebuilding-military-industrial-base-faster-than-expected-cnn-reports-2026-05-21/",
         "https://www.reuters.com/world/middle-east/iran-rebuilding-military-industrial-base-faster-than-expected-cnn-reports-2026-05-21/"
-      ]
-    },
-    {
-      "headline": "US Oil Prices Rise as Investors Doubt Breakthrough in Iran Peace Talks",
-      "summary": "U.S. crude futures rose over $1 as investors doubt prospects for a breakthrough in U.S.-Iran peace talks, with both sides stuck on uranium stockpile and Strait of Hormuz controls.",
-      "emoji": "🛢️💰",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/us-oil-prices-rise-investors-doubt-breakthrough-us-iran-peace-talks-2026-05-21/",
-      "timestamp": "2026-05-22T03:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/more-gasoline-price-shocks-might-hit-us-drivers-this-summer-travel-season-2026-05-20/",
-          "angle": "US Gasoline Prices to Rise as Iran War Disrupts Summer Travel",
-          "summary": "High gasoline prices fueled by supply disruptions from the Iran conflict are set to add financial strain for US motorists during the Memorial Day weekend, kicking off a costlier summer travel season."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/oil-prices-ease-after-trump-says-us-will-end-iran-war-very-quickly-2026-05-20/",
-          "angle": "Oil prices fall 6% as Trump says Iran negotiations in final stages",
-          "summary": "Crude oil dropped sharply after President Trump announced that peace talks with Iran were nearing completion, though markets remain cautious about the outcome."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/us-oil-prices-rise-investors-doubt-breakthrough-us-iran-peace-talks-2026-05-21/",
-        "https://www.reuters.com/business/energy/more-gasoline-price-shocks-might-hit-us-drivers-this-summer-travel-season-2026-05-20/",
-        "https://www.reuters.com/business/energy/oil-prices-ease-after-trump-says-us-will-end-iran-war-very-quickly-2026-05-20/"
       ]
     },
     {
@@ -787,15 +854,6 @@
       "timestamp": "2026-05-21T22:03:00+03:00"
     },
     {
-      "headline": "NATO jets scramble as Baltic states detect drones",
-      "summary": "Latvia and Lithuania detected drones in their airspace and urged residents to seek shelter while NATO fighter jets scrambled to intercept, the latest security incidents in the Baltics.",
-      "emoji": "✈️",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/latvia-issues-drone-alert-2026-05-21/",
-      "timestamp": "2026-05-21T21:03:00+03:00"
-    },
-    {
       "headline": "Bank of Japan policymaker calls for rate hike citing war-driven inflation",
       "summary": "BOJ board member Junko Koeda said the central bank should raise interest rates as Middle East war price pressures may push inflation above the 2% target, strengthening the case for a June hike.",
       "emoji": "🇯🇵",
@@ -984,15 +1042,6 @@
       "timestamp": "2026-05-21T19:10:00+03:00"
     },
     {
-      "headline": "Israel Deports 430 Foreign Flotilla Activists After Ben Gvir Controversy",
-      "summary": "Israel has deported all 430 foreign activists from the Gaza-bound flotilla, with Turkey sending planes to collect them. Italy has requested EU sanctions on far-right minister Itamar Ben Gvir over his handling of detained activists, while Poland considers banning him.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/israel-deports-some-430-foreign-flotilla-activists-holds-one-israeli-participant/",
-      "timestamp": "2026-05-21T18:06:00+03:00"
-    },
-    {
       "headline": "Chinese Supertankers Exit Hormuz as Iran Conflict Shows Signs of Thaw",
       "summary": "Two Chinese supertankers were among a group of vessels transiting the Strait of Hormuz on Wednesday, suggesting a possible de-escalation in the US-Iran standoff that has disrupted global oil shipments.",
       "emoji": "🇨🇳",
@@ -1054,31 +1103,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/no-full-hormuz-flows-until-first-half-2027-uaes-oil-giant-says-2026-05-21/",
       "timestamp": "2026-05-21T17:03:00+03:00"
-    },
-    {
-      "headline": "Latvia Scrambles NATO Jets as Drone Detected in Airspace",
-      "summary": "Latvia detected at least one drone in its airspace and scrambled NATO fighter jets in response, the latest in a series of security incidents in the Baltic region linked to the Ukraine war.",
-      "emoji": "🇱🇻",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/latvia-issues-drone-alert-2026-05-21/",
-      "timestamp": "2026-05-21T17:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/unidentified-drone-breaches-latvian-airspace-for-3rd-day-in-a-row/",
-          "angle": "NATO jets scramble as drone breaches Latvian airspace for third consecutive day",
-          "summary": "An unidentified drone entered Latvian airspace on May 21, prompting air alerts and NATO fighter jet deployment. This marks the third straight day of drone-related alerts in Latvia, amid concerns Russia is jamming Ukrainian drones and redirecting them toward NATO territory."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/aerospace-defense/latvia-issues-drone-alert-2026-05-21/",
-        "https://kyivindependent.com/unidentified-drone-breaches-latvian-airspace-for-3rd-day-in-a-row/"
-      ]
     },
     {
       "headline": "Ukraine develops low-cost interceptor missiles to counter Russian Shahed drones",
@@ -2749,31 +2773,6 @@
       ]
     },
     {
-      "headline": "UN: Over 15,800 Killed in Russia-Ukraine War Since 2022",
-      "summary": "The UN reports at least 15,850 people including 791 children have been killed since Russia's full-scale invasion. The actual figures are likely significantly higher as peace talks remain stalled.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un",
-      "timestamp": "2026-05-20T09:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/05/18/nx-s1-5826018/shifting-momentum-in-the-russia-ukraine-war",
-          "angle": "Russia-Ukraine War May Be Reaching a Turning Point After Four Years",
-          "summary": "After more than four years of grinding conflict with few major changes in battle lines, the Russia-Ukraine war may have reached a turning point. Ukraine has reportedly recaptured some territory, offering Kyiv a glimmer of optimism."
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "NPR"
-      ],
-      "urls": [
-        "https://www.aljazeera.com/news/2026/5/19/more-than-15800-people-killed-in-russias-all-out-war-on-ukraine-un",
-        "https://www.npr.org/2026/05/18/nx-s1-5826018/shifting-momentum-in-the-russia-ukraine-war"
-      ]
-    },
-    {
       "headline": "UK quietly sanctions Russian oil via waivers as energy costs surge",
       "summary": "Britain issued licenses allowing imports of diesel and jet fuel made from Russian crude processed in third countries, and maritime transport of Russian LNG. The move follows similar US waivers as fuel prices spike during the Iran conflict.",
       "emoji": "🇬🇧⛽",
@@ -2805,15 +2804,6 @@
       "category": "Europe",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/czechia-adds-to-eu-wide-uncertainty-for-ukrainian-refugees/",
-      "timestamp": "2026-05-20T08:08:00+03:00"
-    },
-    {
-      "headline": "Vance says US not planning to send Iranian uranium to Russia",
-      "summary": "VP Vance dismissed reports that the US would allow Russia to take possession of Iran enriched uranium as part of a peace deal, saying it was not the current plan. Tehran reportedly offered to transfer 400kg of enriched uranium to Russia in leaked settlement details.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/us-not-planning-to-send-irans-enriched-uranium-to-russia-as-part-of-peace-deal-vance-says/",
       "timestamp": "2026-05-20T08:08:00+03:00"
     }
   ]
