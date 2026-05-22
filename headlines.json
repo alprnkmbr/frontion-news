@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-22T18:09:27+03:00",
+  "lastUpdated": "2026-05-22T19:11:01+03:00",
   "headlines": [
+    {
+      "headline": "Rubio Reports Progress in Iran Talks but Says Deal Not Yet Finalized",
+      "summary": "US Secretary of State Marco Rubio said Friday there has been \"some progress\" toward a deal with Iran but emphasized that more work is required, as diplomatic efforts intensify to end the conflict that has roiled the global economy.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/pakistan-seeks-breakthrough-us-iran-peace-talks-2026-05-22/",
+      "timestamp": "2026-05-22T19:09:00+03:00"
+    },
+    {
+      "headline": "Trump Announces Additional 5,000 US Troops for Poland in NATO Reversal",
+      "summary": "President Donald Trump announced the US will send an additional 5,000 troops to Poland, a reversal from previous statements about reducing forces in Europe that has left NATO allies both relieved and confused about Washington's long-term commitments.",
+      "emoji": "🇺🇸🇵🇱",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/trump-says-us-will-send-additional-5000-troops-poland-2026-05-21/",
+      "timestamp": "2026-05-22T19:09:00+03:00"
+    },
+    {
+      "headline": "China Cuts Off Japan From Rare Earths in Taiwan-Linked Dispute",
+      "summary": "China has blocked Japan's access to several heavy rare earths for at least four months, coinciding with tensions over Taiwan, in a move reminiscent of Beijing's 2010 export restrictions that highlights the strategic weaponization of critical mineral supply chains.",
+      "emoji": "🇨🇳🇯🇵",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/china-squeezes-japan-over-rare-earths-repeat-2010-showdown-2026-05-22/",
+      "timestamp": "2026-05-22T19:09:00+03:00"
+    },
+    {
+      "headline": "UAE Left OPEC to Maximize Oil Revenues Before Hydrocarbon Age Ends",
+      "summary": "The UAE's decision to leave OPEC was three years in the making and reflects its view that the world is near the \"autumn of the hydrocarbon age,\" meaning the country needs to maximize oil revenues while demand remains strong, a senior presidential adviser said.",
+      "emoji": "🇦🇪🛢️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/uae-considered-leaving-opec-over-three-years-presidential-adviser-says-2026-05-22/",
+      "timestamp": "2026-05-22T19:09:00+03:00"
+    },
+    {
+      "headline": "Gaza Flotilla Activists Allege Israeli Abuse Including Sexual Assault",
+      "summary": "Activists released from Israeli custody after being detained on a Gaza aid flotilla reported being subjected to abuse, with several hospitalized and at least 15 reporting sexual assaults, allegations that have drawn international condemnation.",
+      "emoji": "🇮🇱🚢",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/freed-gaza-flotilla-activists-allege-israeli-abuse-including-rape-2026-05-22/",
+      "timestamp": "2026-05-22T19:09:00+03:00"
+    },
     {
       "headline": "China Think Tank Maps Path to US Peaceful Coexistence",
       "summary": "A Chinese state think tank published a detailed roadmap for peaceful US-China coexistence, warning Washington's Taiwan stance remains a catastrophic risk as both powers remain locked in strategic stalemate.",
@@ -26,15 +71,6 @@
       "category": "Ukraine-Russia War",
       "source": "WTOP/AP",
       "url": "https://wtop.com/russia-ukraine-war-news/2026/05/ukrainian-protesters-in-kyiv-urge-veto-of-a-bill-families-fear-could-declare-missing-soldiers-dead/",
-      "timestamp": "2026-05-22T18:06:00+03:00"
-    },
-    {
-      "headline": "EU Observer: Ukraine Fears Belarus Attack as Russia Eyes Southern Offensive",
-      "summary": "Ukraine monitors northern border for signs of Belarus-based Russian attack, while intelligence suggests Russia may be preparing for Ukrainian offensive in south. Land route to Crimea increasingly unsafe for Russian forces.",
-      "emoji": "🇺🇦⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "EU Observer",
-      "url": "https://euobserver.com/218240/ukraine-fears-attack-from-belarus-in-north-as-russia-fears-ukraine-offensive-from-the-south-ukraine-battlefield-update-day-1548/",
       "timestamp": "2026-05-22T18:06:00+03:00"
     },
     {
@@ -378,21 +414,37 @@
       "timestamp": "2026-05-22T14:03:00+03:00"
     },
     {
-      "headline": "Taiwan denies receiving US military sales changes notification",
-      "summary": "Taiwan presidential office says no information about US adjusting military sales after acting US Navy Secretary suggests pause due to Iran war needs.",
-      "emoji": "🇹🇼🇺🇸",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/taiwan-says-it-has-not-been-told-by-us-changes-military-sales-2026-05-22/",
-      "timestamp": "2026-05-22T13:03:00+03:00"
-    },
-    {
       "headline": "Belarus pledges not to join Ukraine war but will defend with Russia",
       "summary": "President Lukashenko says Belarus will not be dragged into Ukraine conflict but will jointly defend against aggression with Russia after nuclear drills end.",
       "emoji": "🇧🇾🇷🇺",
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/lukashenko-says-belarus-will-not-be-dragged-into-ukraine-war-will-defend-itself-2026-05-21/",
+      "timestamp": "2026-05-22T13:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "EU Observer",
+          "url": "https://euobserver.com/218240/ukraine-fears-attack-from-belarus-in-north-as-russia-fears-ukraine-offensive-from-the-south-ukraine-battlefield-update-day-1548/",
+          "angle": "EU Observer: Ukraine Fears Belarus Attack as Russia Eyes Southern Offensive",
+          "summary": "Ukraine monitors northern border for signs of Belarus-based Russian attack, while intelligence suggests Russia may be preparing for Ukrainian offensive in south. Land route to Crimea increasingly unsafe for Russian forces."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "EU Observer"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/lukashenko-says-belarus-will-not-be-dragged-into-ukraine-war-will-defend-itself-2026-05-21/",
+        "https://euobserver.com/218240/ukraine-fears-attack-from-belarus-in-north-as-russia-fears-ukraine-offensive-from-the-south-ukraine-battlefield-update-day-1548/"
+      ]
+    },
+    {
+      "headline": "Taiwan denies receiving US military sales changes notification",
+      "summary": "Taiwan presidential office says no information about US adjusting military sales after acting US Navy Secretary suggests pause due to Iran war needs.",
+      "emoji": "🇹🇼🇺🇸",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/taiwan-says-it-has-not-been-told-by-us-changes-military-sales-2026-05-22/",
       "timestamp": "2026-05-22T13:03:00+03:00"
     },
     {
@@ -2761,33 +2813,6 @@
         "https://www.reuters.com/world/us/trump-approval-drops-35-republican-support-softens-reutersipsos-poll-finds-2026-05-19/",
         "https://www.reuters.com/world/us/trump-approval-drops-35-republican-support-softens-reutersipsos-poll-finds-2026-05-19/"
       ]
-    },
-    {
-      "headline": "Fed Minutes Reveal Deep Divisions Over Rate Policy",
-      "summary": "The Federal Reserve's latest meeting minutes reveal significant disagreement among policymakers on interest rate direction and inflation severity, exposing the most divided Fed in a generation.",
-      "emoji": "💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us/divisions-awaiting-warsh-be-display-fed-minutes-release-2026-05-20/",
-      "timestamp": "2026-05-20T19:11:00+03:00"
-    },
-    {
-      "headline": "Israeli Minister Calls Turkey an Enemy State",
-      "summary": "Israels culture minister said Turkey should be treated as an enemy state, warning it could become the next Iran or Qatar. The comments further strain already tense Israel-Turkey relations.",
-      "emoji": "🇮🇱🇹🇷",
-      "category": "Middle East",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/news/israel-needs-treat-turkey-enemy-state-culture-minister-says",
-      "timestamp": "2026-05-20T18:07:00+03:00"
-    },
-    {
-      "headline": "Baltic Lawmakers Press EU for Firm Support Against Russian Strike Threats",
-      "summary": "Lithuanian and Baltic lawmakers are urging the EU to provide firm backing as Moscow threatens strikes in response to comments about attacking the Russian exclave of Kaliningrad.",
-      "emoji": "🇪🇺🇱🇹",
-      "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/baltic-lawmakers-press-eu-for-firm-support-amid-moscow-threats-of-strikes/",
-      "timestamp": "2026-05-20T18:07:00+03:00"
     }
   ]
 }
