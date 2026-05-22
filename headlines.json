@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-23T00:08:49+03:00",
+  "lastUpdated": "2026-05-23T01:05:07+03:00",
   "headlines": [
+    {
+      "headline": "Tulsi Gabbard Resigns as US Director of National Intelligence",
+      "summary": "Tulsi Gabbard resigned as Director of National Intelligence, citing her husband's cancer diagnosis. Aaron Lukas will serve as acting director. Her departure comes amid reports of friction within the administration over Iran policy.",
+      "emoji": "🇺🇸",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/gabbard-resigns-trumps-national-intelligence-director-fox-news-digital-reports-2026-05-22/",
+      "timestamp": "2026-05-23T01:05:00+03:00"
+    },
+    {
+      "headline": "Kevin Warsh Sworn In as New Federal Reserve Chair",
+      "summary": "Kevin Warsh was sworn in as Federal Reserve Chair at a White House ceremony, replacing Jerome Powell. Warsh takes office amid rising inflation and falling consumer sentiment, with markets watching closely for signals on rate policy.",
+      "emoji": "🏛️",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/warsh-takes-over-fed-with-policy-problem-already-view-2026-05-22/",
+      "timestamp": "2026-05-23T01:05:00+03:00"
+    },
+    {
+      "headline": "Bolivia Faces Political Crisis as Protests Escalate",
+      "summary": "President Rodrigo Paz faces mounting protests demanding his resignation just six months after taking office. Highway blockades and social unrest are threatening stability in the South American nation.",
+      "emoji": "🇧🇴",
+      "category": "Latin America",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/22/bolivia-in-crisis-social-unrest-demands-for-president-to-resign-escalate",
+      "timestamp": "2026-05-23T01:05:00+03:00"
+    },
+    {
+      "headline": "Judge Dismisses Case Against Wrongfully Deported Kilmar Abrego Garcia",
+      "summary": "A federal judge dismissed the criminal case against Kilmar Abrego Garcia, the Maryland man wrongfully deported to El Salvador in 2025, ruling the prosecution was politically motivated.",
+      "emoji": "⚖️",
+      "category": "US Politics",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx21r04wg8qo",
+      "timestamp": "2026-05-23T01:05:00+03:00"
+    },
+    {
+      "headline": "NATO Allies Seek Clarity on US Troop Deployments in Europe",
+      "summary": "European allies expressed confusion after President Trump announced 5,000 additional troops for Poland while sending mixed signals about broader US military presence in Europe. Secretary of State Rubio sought to reassure NATO partners.",
+      "emoji": "🇪🇺",
+      "category": "Europe",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/programmes/l0058bv1",
+      "timestamp": "2026-05-23T01:05:00+03:00"
+    },
     {
       "headline": "All-female Senate delegation heads to Arctic amid growing military tensions",
       "summary": "A bipartisan group of female US senators is traveling to Greenland and Arctic nations for briefings on Arctic defense and strategic competition, highlighting growing concerns about military activity in the High North.",
@@ -26,7 +71,23 @@
       "category": "Asia-Pacific",
       "source": "SCMP",
       "url": "https://www.scmp.com/week-asia/politics/article/3354565/indias-us9-billion-island-megaport-sharpens-chinas-malacca-dilemma",
-      "timestamp": "2026-05-23T00:07:00+03:00"
+      "timestamp": "2026-05-23T00:07:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/week-asia/politics/article/3354565/indias-us9-billion-island-megaport-sharpens-chinas-malacca-dilemma",
+          "angle": "India Opens $9 Billion Island Megaport Near Strait of Malacca",
+          "summary": "The Great Nicobar project will allow India to monitor activities near the Strait of Malacca, sharpening Chinas Malacca dilemma as regional maritime competition intensifies."
+        }
+      ],
+      "sources": [
+        "SCMP",
+        "SCMP"
+      ],
+      "urls": [
+        "https://www.scmp.com/week-asia/politics/article/3354565/indias-us9-billion-island-megaport-sharpens-chinas-malacca-dilemma",
+        "https://www.scmp.com/week-asia/politics/article/3354565/indias-us9-billion-island-megaport-sharpens-chinas-malacca-dilemma"
+      ]
     },
     {
       "headline": "NATO allies welcome Trump reversal on Poland troops, call for better coordination",
@@ -521,15 +582,6 @@
       "category": "Ukraine-Russia War",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/22/russia-falters-in-ukraine",
-      "timestamp": "2026-05-22T16:05:00+03:00"
-    },
-    {
-      "headline": "India Opens $9 Billion Island Megaport Near Strait of Malacca",
-      "summary": "The Great Nicobar project will allow India to monitor activities near the Strait of Malacca, sharpening Chinas Malacca dilemma as regional maritime competition intensifies.",
-      "emoji": "🇮🇳",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/politics/article/3354565/indias-us9-billion-island-megaport-sharpens-chinas-malacca-dilemma",
       "timestamp": "2026-05-22T16:05:00+03:00"
     },
     {
@@ -2713,40 +2765,6 @@
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/05/20/world/middleeast/iran-strait-of-hormuz-triangular-coercion.html",
       "timestamp": "2026-05-20T21:03:00+03:00"
-    },
-    {
-      "headline": "Iran Warns of War Beyond Gulf Region if US Attacks Again",
-      "summary": "Iran Revolutionary Guards threatens retaliation in places beyond the region if the U.S. or Israel launch new attacks, as Trump says he was an hour away from striking.",
-      "emoji": "⚠️",
-      "category": "US-Iran War",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/iran/iran-threatens-war-region-us-attacks-rcna346069",
-      "timestamp": "2026-05-20T21:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Hill",
-          "url": "https://thehill.com/policy/defense/5887383-iran-threat-us-israel-attacks/",
-          "angle": "Iran threatens to expand war beyond Middle East if US launches new attacks",
-          "summary": "The IRGC warned that any new US or Israeli strikes on Tehran would trigger retaliation in places we cannot even imagine, as diplomatic efforts to finalize a ceasefire deal continue."
-        }
-      ],
-      "sources": [
-        "NBC News",
-        "The Hill"
-      ],
-      "urls": [
-        "https://www.nbcnews.com/world/iran/iran-threatens-war-region-us-attacks-rcna346069",
-        "https://thehill.com/policy/defense/5887383-iran-threat-us-israel-attacks/"
-      ]
-    },
-    {
-      "headline": "Chinese investment in Europe surges to 7-year high despite trade tensions",
-      "summary": "Chinese FDI in Europe hit a seven-year peak, but analysts warn the pipeline of new projects is drying up as investors face pressure from both Beijing and European capitals.",
-      "emoji": "🇨🇳🇪🇺",
-      "category": "Economy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/economy/china-economy/article/3354235/chinese-investment-europe-surges-7-year-high-despite-rising-trade-tensions",
-      "timestamp": "2026-05-20T20:06:00+03:00"
     }
   ]
 }
