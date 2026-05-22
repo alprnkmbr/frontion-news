@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-23T01:05:07+03:00",
+  "lastUpdated": "2026-05-23T02:05:56+03:00",
   "headlines": [
+    {
+      "headline": "US Prepares Fresh Military Strikes on Iran as Diplomacy Continues",
+      "summary": "The Trump administration was preparing for a new round of military strikes against Iran even as Tehran reviews a US peace proposal. Pakistan is mediating between the two sides, with a response expected imminently.",
+      "emoji": "🇺🇸",
+      "category": "US-Iran War",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/us-prepares-new-military-strikes-against-iran/",
+      "timestamp": "2026-05-23T02:05:00+03:00"
+    },
+    {
+      "headline": "Pakistan Army Chief Arrives in Tehran to Push Iran-US Peace Deal",
+      "summary": "Pakistans powerful army chief visited Tehran as Iran weighed a new US peace proposal. Qatari negotiators also met Iranian officials, though deep divisions remain between Washington and Tehran.",
+      "emoji": "🇵🇰",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/pakistan-seeks-breakthrough-us-iran-peace-talks-2026-05-22/",
+      "timestamp": "2026-05-23T02:05:00+03:00"
+    },
+    {
+      "headline": "Rubio Warns NATO Allies US Troop Presence in Europe Will Shrink",
+      "summary": "US Secretary of State Marco Rubio told NATO allies in Sweden that Washingtons military footprint on the continent will shrink over time, even as he insisted US commitment to collective defense remains intact. The comments came amid confusion over contradictory Trump statements on European troop deployments.",
+      "emoji": "🇺🇸",
+      "category": "NATO",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/nato-alliance-has-be-good-all-involved-rubio-says-2026-05-22/",
+      "timestamp": "2026-05-23T02:05:00+03:00"
+    },
+    {
+      "headline": "Switzerland Expands Sanctions on Russia and Belarus With EU Measures",
+      "summary": "Switzerland expanded its sanctions lists against Russia and Belarus, adopting parts of the European Unions latest package of measures over Moscows war in Ukraine.",
+      "emoji": "🇨🇭",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/swiss-widen-sanctions-against-russia-belarus-line-with-eu-measures-2026-05-22/",
+      "timestamp": "2026-05-23T02:05:00+03:00"
+    },
+    {
+      "headline": "Xis Contrasting Treatment of Trump and Putin Reveals Chinas Priorities",
+      "summary": "Chinese President Xi Jinping hosted Russian President Vladimir Putin in Beijing just days after Donald Trumps visit. The contrasting reception styles reveal much about Beijings strategic priorities in the current geopolitical landscape.",
+      "emoji": "🇨🇳",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/tale-two-visits-xis-contrasting-ties-with-trump-putin-2026-05-22/",
+      "timestamp": "2026-05-23T02:05:00+03:00"
+    },
     {
       "headline": "Tulsi Gabbard Resigns as US Director of National Intelligence",
       "summary": "Tulsi Gabbard resigned as Director of National Intelligence, citing her husband's cancer diagnosis. Aaron Lukas will serve as acting director. Her departure comes amid reports of friction within the administration over Iran policy.",
@@ -8,7 +53,23 @@
       "category": "US Politics",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/us/gabbard-resigns-trumps-national-intelligence-director-fox-news-digital-reports-2026-05-22/",
-      "timestamp": "2026-05-23T01:05:00+03:00"
+      "timestamp": "2026-05-23T01:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cvgj2gkv1x1o",
+          "angle": "Tulsi Gabbard resigns as US Director of National Intelligence",
+          "summary": "Gabbard announced she will step down on June 30 to help care for her husband, who was diagnosed with bone cancer. Trump named Aaron Lukas as acting DNI chief."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/us/gabbard-resigns-trumps-national-intelligence-director-fox-news-digital-reports-2026-05-22/",
+        "https://www.bbc.com/news/articles/cvgj2gkv1x1o"
+      ]
     },
     {
       "headline": "Kevin Warsh Sworn In as New Federal Reserve Chair",
@@ -17,7 +78,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/warsh-takes-over-fed-with-policy-problem-already-view-2026-05-22/",
-      "timestamp": "2026-05-23T01:05:00+03:00"
+      "timestamp": "2026-05-23T01:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/trump-will-swear-warsh-friday-lead-us-federal-reserve-2026-05-21/",
+          "angle": "Kevin Warsh Sworn In as Federal Reserve Chair Amid Rising Inflation",
+          "summary": "Kevin Warsh was sworn in as the new Federal Reserve Chair at a pivotal moment for the US economy, facing persistent inflation and market volatility. Analysts expect no rate cuts in 2026 as inflation risks linger."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/warsh-takes-over-fed-with-policy-problem-already-view-2026-05-22/",
+        "https://www.reuters.com/business/trump-will-swear-warsh-friday-lead-us-federal-reserve-2026-05-21/"
+      ]
     },
     {
       "headline": "Bolivia Faces Political Crisis as Protests Escalate",
@@ -35,15 +112,6 @@
       "category": "US Politics",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cx21r04wg8qo",
-      "timestamp": "2026-05-23T01:05:00+03:00"
-    },
-    {
-      "headline": "NATO Allies Seek Clarity on US Troop Deployments in Europe",
-      "summary": "European allies expressed confusion after President Trump announced 5,000 additional troops for Poland while sending mixed signals about broader US military presence in Europe. Secretary of State Rubio sought to reassure NATO partners.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/programmes/l0058bv1",
       "timestamp": "2026-05-23T01:05:00+03:00"
     },
     {
@@ -205,28 +273,36 @@
       "timestamp": "2026-05-22T22:07:00+03:00"
     },
     {
-      "headline": "Kevin Warsh Sworn In as Federal Reserve Chair Amid Rising Inflation",
-      "summary": "Kevin Warsh was sworn in as the new Federal Reserve Chair at a pivotal moment for the US economy, facing persistent inflation and market volatility. Analysts expect no rate cuts in 2026 as inflation risks linger.",
-      "emoji": "🏛️",
-      "category": "Economy",
+      "headline": "NATO Allies Bewildered by Trumps Sudden Troop Deployment Reversals",
+      "summary": "NATO allies expressed confusion over President Trumps contradictory announcements on US troop movements in Europe, first ordering withdrawals then reversing course. Secretary Rubio is working to reassure allies during meetings in Sweden.",
+      "emoji": "🇪🇺",
+      "category": "Europe",
       "source": "Reuters",
-      "url": "https://www.reuters.com/business/trump-will-swear-warsh-friday-lead-us-federal-reserve-2026-05-21/",
+      "url": "https://www.reuters.com/world/europe/trump-says-us-will-send-additional-5000-troops-poland-2026-05-21/",
       "timestamp": "2026-05-22T22:05:00+03:00",
       "perspectives": [
         {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/05/22/us/politics/kevin-warsh-federal-reserve-swearing-in.html",
-          "angle": "Warsh Takes Charge of Federal Reserve Facing Rising Inflation Threat",
-          "summary": "Kevin Warsh was sworn in as Federal Reserve Chair at a pivotal moment, inheriting an economic backdrop that does not call for the interest rate cuts many had anticipated. The former Fed governor faces persistent inflation and market uncertainty."
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/programmes/l0058bv1",
+          "angle": "NATO Allies Seek Clarity on US Troop Deployments in Europe",
+          "summary": "European allies expressed confusion after President Trump announced 5,000 additional troops for Poland while sending mixed signals about broader US military presence in Europe. Secretary of State Rubio sought to reassure NATO partners."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.politico.eu/article/mark-rutte-nato-us-military-presence-europe/",
+          "angle": "NATO Chief Rutte Says US Troop Withdrawal From Europe Will Not Harm Defense",
+          "summary": "NATO Secretary General Mark Rutte stated that planned US troop withdrawals from Europe will unfold gradually in a structured way and will not impact NATO defense plans, as Europe moves to strengthen its own defense capabilities."
         }
       ],
       "sources": [
         "Reuters",
-        "New York Times"
+        "BBC",
+        "Reuters"
       ],
       "urls": [
-        "https://www.reuters.com/business/trump-will-swear-warsh-friday-lead-us-federal-reserve-2026-05-21/",
-        "https://www.nytimes.com/2026/05/22/us/politics/kevin-warsh-federal-reserve-swearing-in.html"
+        "https://www.reuters.com/world/europe/trump-says-us-will-send-additional-5000-troops-poland-2026-05-21/",
+        "https://www.bbc.co.uk/programmes/l0058bv1",
+        "https://www.politico.eu/article/mark-rutte-nato-us-military-presence-europe/"
       ]
     },
     {
@@ -246,56 +322,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/swiss-widen-sanctions-against-russia-belarus-line-with-eu-measures-2026-05-22/",
       "timestamp": "2026-05-22T22:05:00+03:00"
-    },
-    {
-      "headline": "NATO Allies Bewildered by Trumps Sudden Troop Deployment Reversals",
-      "summary": "NATO allies expressed confusion over President Trumps contradictory announcements on US troop movements in Europe, first ordering withdrawals then reversing course. Secretary Rubio is working to reassure allies during meetings in Sweden.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/trump-says-us-will-send-additional-5000-troops-poland-2026-05-21/",
-      "timestamp": "2026-05-22T22:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/nato-trump-troops-europe-poland-confusion-5ee39c29238cdee76c1780233cb6fddc",
-          "angle": "NATO Allies Confused by Trump Sudden Shift on European Troop Deployments",
-          "summary": "NATO allies and defense officials expressed bewilderment at Trump announcement about potential US troop movements in Europe, creating uncertainty about American commitment to the alliance."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/trump-says-us-will-send-additional-5000-troops-poland-2026-05-21/",
-        "https://apnews.com/article/nato-trump-troops-europe-poland-confusion-5ee39c29238cdee76c1780233cb6fddc"
-      ]
-    },
-    {
-      "headline": "Tulsi Gabbard resigns as US Director of National Intelligence",
-      "summary": "Gabbard announced she will step down on June 30 to help care for her husband, who was diagnosed with bone cancer. Trump named Aaron Lukas as acting DNI chief.",
-      "emoji": "🇺🇸",
-      "category": "US Politics",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cvgj2gkv1x1o",
-      "timestamp": "2026-05-22T21:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Deutsche Welle",
-          "url": "https://www.dw.com/en/us-tulsi-gabbard-resigns-as-trumps-intelligence-chief/a-77269234",
-          "angle": "Tulsi Gabbard Resigns as US Director of National Intelligence",
-          "summary": "Gabbard stepped down citing her husband's cancer diagnosis, ending a tenure marked by tensions over the Iran war. Her cautious stance on US military action had put her at odds with Trump's decision to attack Iran."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "Deutsche Welle"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/cvgj2gkv1x1o",
-        "https://www.dw.com/en/us-tulsi-gabbard-resigns-as-trumps-intelligence-chief/a-77269234"
-      ]
     },
     {
       "headline": "Alberta to hold referendum on independence from Canada",
@@ -2387,47 +2413,6 @@
       ]
     },
     {
-      "headline": "NATO Chief Rutte Says US Troop Withdrawal From Europe Will Not Harm Defense",
-      "summary": "NATO Secretary General Mark Rutte stated that planned US troop withdrawals from Europe will unfold gradually in a structured way and will not impact NATO defense plans, as Europe moves to strengthen its own defense capabilities.",
-      "emoji": "🇪🇺🛡️",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.politico.eu/article/mark-rutte-nato-us-military-presence-europe/",
-      "timestamp": "2026-05-21T05:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Washington Post",
-          "url": "https://www.washingtonpost.com/world/2026/05/19/nato-us-troops-redeployment-trump-germany/4a09b6b2-53a2-11f1-9c40-7a0a12d9e745_story.html",
-          "angle": "NATO Military Chief Says No More US Troop Drawdowns Expected From Europe",
-          "summary": "NATO's top military officer said he doesn't expect additional US troop reductions from Europe beyond the 5,000 already announced by Trump. The announcement comes amid European concerns about US commitment to the alliance."
-        },
-        {
-          "source": "Politico",
-          "url": "https://www.politico.eu/article/mark-rutte-nato-us-military-presence-europe/",
-          "angle": "Rutte dismisses US military drawdown in Europe as expected",
-          "summary": "NATO Secretary General Mark Rutte said reduced US military presence in Europe is normal as Trump administration shifts focus. European allies debate scaling up defense capabilities independently."
-        },
-        {
-          "source": "The Economist",
-          "url": "https://www.economist.com/europe/2026/05/19/europes-secret-plan-b-to-replace-nato",
-          "angle": "Europe Considers Secret Military Alliance to Replace NATO Dependence",
-          "summary": "The Economist reports European officials are quietly developing contingency plans for collective defense without US involvement, amid growing concerns about American commitment to the alliance."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Washington Post",
-        "Politico",
-        "The Economist"
-      ],
-      "urls": [
-        "https://www.politico.eu/article/mark-rutte-nato-us-military-presence-europe/",
-        "https://www.washingtonpost.com/world/2026/05/19/nato-us-troops-redeployment-trump-germany/4a09b6b2-53a2-11f1-9c40-7a0a12d9e745_story.html",
-        "https://www.politico.eu/article/mark-rutte-nato-us-military-presence-europe/",
-        "https://www.economist.com/europe/2026/05/19/europes-secret-plan-b-to-replace-nato"
-      ]
-    },
-    {
       "headline": "Taiwan president warns foreign forces cannot decide island future",
       "summary": "President Lai Ching-te stated that foreign powers cannot determine Taiwan future following Trump comments on arms sales to the island. China continues pressure campaign on the self-governing democracy.",
       "emoji": "🇹🇼",
@@ -2756,15 +2741,6 @@
         "https://www.reuters.com/business/aerospace-defense/kremlin-says-lithuanian-ministers-comments-about-attacking-russian-exclave-verge-of-2026-05-20/",
         "https://www.reuters.com/business/aerospace-defense/kremlin-says-lithuanian-ministers-comments-about-attacking-russian-exclave-verge-2026-05-20/"
       ]
-    },
-    {
-      "headline": "Iran Used Triangular Coercion in Gulf Strategy",
-      "summary": "Outmatched militarily, Iran attacked Gulf states and closed the Strait of Hormuz using asymmetric tactics, revealing a long-term U.S. strategic vulnerability.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/20/world/middleeast/iran-strait-of-hormuz-triangular-coercion.html",
-      "timestamp": "2026-05-20T21:03:00+03:00"
     }
   ]
 }
