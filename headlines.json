@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-22T15:04:45+03:00",
+  "lastUpdated": "2026-05-22T16:05:08+03:00",
   "headlines": [
+    {
+      "headline": "Israel Deports 37 French Gaza Flotilla Activists to Turkey",
+      "summary": "Israel is deporting 37 French nationals who were part of a Gaza-bound aid flotilla to Turkey, according to Frances Foreign Ministry. The activists were among a group intercepted while attempting to breach the Gaza blockade.",
+      "emoji": "🇮🇱🇫🇷",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israel-deports-37-french-nationals-gaza-flotilla-turkey-france-says-2026-05-21/",
+      "timestamp": "2026-05-22T16:00:00+03:00"
+    },
+    {
+      "headline": "WHO Upgrades Congo Ebola Risk to Very High as Outbreak Spreads",
+      "summary": "The World Health Organization raised its risk assessment for the Ebola outbreak in Congo to \"very high\" at the national level, with 82 confirmed cases and 7 confirmed deaths. Nearly 750 suspected cases and 177 suspected deaths have been reported. The UN released $60 million from its emergency fund to accelerate the response.",
+      "emoji": "🦠🇨🇩",
+      "category": "Africa",
+      "source": "AP News",
+      "url": "https://apnews.com/article/congo-ebola-outbreak-who-4e08d8df6d9c34039a9e0b8bad7a8954",
+      "timestamp": "2026-05-22T16:00:00+03:00"
+    },
+    {
+      "headline": "China Denies Forcing Tech Firms to Reject Foreign Investment",
+      "summary": "Chinas powerful state planner NDRC said the government has never required Chinese technology companies to reject foreign investment, responding to questions about whether Beijing plans to ask firms to refuse US capital amid ongoing technology tensions.",
+      "emoji": "🇨🇳💰",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/china-does-not-make-tech-firms-reject-foreign-investment-ndrc-says-2026-05-22/",
+      "timestamp": "2026-05-22T16:00:00+03:00"
+    },
+    {
+      "headline": "Greek Terror Group Leader Released at 82 After Decades in Prison",
+      "summary": "The head of Greeces far-left November 17 militant group, which killed four American officials and 19 others, has been released from a maximum-security prison at age 82. The group was active from 1975 to 2002, targeting US military personnel, diplomats, and Greek figures.",
+      "emoji": "🇬🇷⚖️",
+      "category": "Europe",
+      "source": "AP News",
+      "url": "https://apnews.com/article/greece-us-armed-group-november-17-terrorism-9bb7a55843ab9ae03a778d06bba59c6a",
+      "timestamp": "2026-05-22T16:00:00+03:00"
+    },
+    {
+      "headline": "Texas Sues Meta and WhatsApp Over Encryption Privacy Claims",
+      "summary": "The Texas Attorney Generals Office sued WhatsApp and Meta Platforms alleging they misled consumers about the strength and scope of WhatsApps encryption measures. Meta denied the allegations, calling them baseless.",
+      "emoji": "🔒⚖️",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/government/texas-sues-meta-whatsapp-over-encryption-privacy-claims-2026-05-21/",
+      "timestamp": "2026-05-22T16:00:00+03:00"
+    },
     {
       "headline": "UAE Considered Leaving OPEC for Three Years Over Oil Strategy",
       "summary": "A senior UAE presidential adviser revealed the country contemplated leaving OPEC for three years, believing the world is nearing the \"autumn of the hydrocarbon age\" and needs to maximize oil revenues while possible.",
@@ -8,7 +53,23 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/uae-considered-leaving-opec-over-three-years-presidential-adviser-says-2026-05-22/",
-      "timestamp": "2026-05-22T15:03:00+03:00"
+      "timestamp": "2026-05-22T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Economic Times",
+          "url": "https://economictimes.indiatimes.com/news/international/world-news/why-uae-left-opec-and-what-it-means-for-global-oil-prices-and-supply/articleshow/130582493.cms",
+          "angle": "UAE departure from OPEC reshapes global oil dynamics",
+          "summary": "UAE exit from OPEC raises questions about future oil pricing and supply coordination. The move could shift production strategy for one of the worlds largest oil exporters."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Economic Times"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/uae-considered-leaving-opec-over-three-years-presidential-adviser-says-2026-05-22/",
+        "https://economictimes.indiatimes.com/news/international/world-news/why-uae-left-opec-and-what-it-means-for-global-oil-prices-and-supply/articleshow/130582493.cms"
+      ]
     },
     {
       "headline": "UN Refugee Agency Loses  Million in Aid After Russian Strike on Ukraine Warehouse",
@@ -2085,15 +2146,6 @@
       "timestamp": "2026-05-21T04:07:00+03:00"
     },
     {
-      "headline": "UAE departure from OPEC reshapes global oil dynamics",
-      "summary": "UAE exit from OPEC raises questions about future oil pricing and supply coordination. The move could shift production strategy for one of the worlds largest oil exporters.",
-      "emoji": "🇦🇪",
-      "category": "Energy",
-      "source": "Economic Times",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/why-uae-left-opec-and-what-it-means-for-global-oil-prices-and-supply/articleshow/130582493.cms",
-      "timestamp": "2026-05-21T04:07:00+03:00"
-    },
-    {
       "headline": "Iran warns renewed US-Israel attack would expand conflict beyond region",
       "summary": "IRGC says Tehran has not yet used all of its capabilities against adversaries. Warning comes amid fragile ceasefire and ongoing tensions in the Strait of Hormuz.",
       "emoji": "🇮🇷",
@@ -2777,58 +2829,6 @@
       "source": "Haaretz",
       "url": "https://www.haaretz.com/israel-news/israel-security/2026-05-20/ty-article-live/u-s-senate-passes-symbolic-war-powers-resolution-as-trump-vows-very-quick-end/0000019e-4301-d55f-a5bf-43c5523b0000",
       "timestamp": "2026-05-20T16:15:00+03:00"
-    },
-    {
-      "headline": "Handful of tankers still crossing Hormuz despite conflict, using transponder tricks",
-      "summary": "About 19 non-Iranian tankers have successfully transited the Strait of Hormuz since March, with Greek firm Dynacom using tactics like disabling transponders and sailing at night to avoid attacks.",
-      "emoji": "🚢",
-      "category": "Energy",
-      "source": "OilPrice",
-      "url": "https://oilprice.com/Energy/Energy-General/A-Handful-of-Tankers-Are-Still-Crossing-the-Strait-of-Hormuz.html",
-      "timestamp": "2026-05-20T16:15:00+03:00"
-    },
-    {
-      "headline": "US expected to announce criminal charges against Cuba's Raul Castro",
-      "summary": "The Trump administration is expected to announce criminal charges against former Cuban President Raul Castro as part of an intensified pressure campaign against the communist government.",
-      "emoji": "🇨🇺",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/americas/us-expected-unveil-criminal-charges-against-cubas-raul-castro-2026-05-20/",
-      "timestamp": "2026-05-20T16:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/china/diplomacy/article/3354392/china-condemns-us-big-stick-over-castro-charges-and-unauthorised-sanctions-cuba",
-          "angle": "China Condemns US Charges Against Raul Castro, Vows Support for Cuba",
-          "summary": "Beijing criticized US \"big stick\" diplomacy after Washington indicted former Cuban leader Raul Castro on murder charges, expressing solidarity with Havana and defending Cuba sovereignty."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/americas/us-expected-unveil-criminal-charges-against-cubas-raul-castro-2026-05-20/",
-        "https://www.scmp.com/news/china/diplomacy/article/3354392/china-condemns-us-big-stick-over-castro-charges-and-unauthorised-sanctions-cuba"
-      ]
-    },
-    {
-      "headline": "Xi and Putin signal united front against Washington in Beijing talks",
-      "summary": "Chinese leader Xi Jinping and Russian President Vladimir Putin demonstrated a united front against the US during their Beijing meeting, deepening strategic cooperation between the two powers amid tensions with Washington.",
-      "emoji": "🇨🇳🇷🇺",
-      "category": "US-China",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/20/chinas-xi-jinping-and-russian-president-vladimir-putin-meet-in-beijing",
-      "timestamp": "2026-05-20T16:03:00+03:00"
-    },
-    {
-      "headline": "Indonesia unveils plan to centralise control of commodity exports",
-      "summary": "Indonesia announced a sweeping plan to centralise exports of key commodities like palm oil and coal through a state agency, aiming to boost government revenue through tighter control of natural resource sales.",
-      "emoji": "🇮🇩🛢️",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/indonesia-plans-centralise-commodity-exports-through-state-agency-sources-say-2026-05-20/",
-      "timestamp": "2026-05-20T16:03:00+03:00"
     }
   ]
 }
