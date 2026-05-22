@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-22T07:04:32+03:00",
+  "lastUpdated": "2026-05-22T08:04:20+03:00",
   "headlines": [
+    {
+      "headline": "Trump Postpones AI Executive Order Citing China Competition",
+      "summary": "President Donald Trump postponed signing an executive order on artificial intelligence, stating he did not like certain aspects and did not want to take steps that might undermine the US position in its AI competition with China.",
+      "emoji": "🇺🇸🇨🇳",
+      "category": "Technology",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/white-house-postpones-trumps-ai-signing-ceremony-says-axios-2026-05-21/",
+      "timestamp": "2026-05-22T08:05:00+03:00"
+    },
     {
       "headline": "Iran Claims Military Control Over Strait of Hormuz",
       "summary": "Iran published a map claiming \"armed forces oversight\" across 22,000 sq km of the strategic waterway, extending into UAE and Omani waters. The UAE rejected the claims as \"fragments of dreams,\" while the US directed 94 ships to alter course since the blockade began.",
@@ -29,22 +38,29 @@
       "timestamp": "2026-05-22T07:00:00+03:00"
     },
     {
-      "headline": "Angry Mob Burns Ebola Treatment Center in DR Congo",
-      "summary": "Locals set fire to a treatment facility in Rwampara after being barred from retrieving a suspected Ebola victim's body. The outbreak has killed 160 people and spread to South Kivu province, with no vaccine available for the Bundibugyo strain.",
-      "emoji": "🇨🇩⚠️",
-      "category": "Africa",
-      "source": "AP News",
-      "url": "https://apnews.com/article/congo-ebola-outbreak-who-spread-response-18537353976a958687e55f95434c918c",
-      "timestamp": "2026-05-22T07:00:00+03:00"
-    },
-    {
       "headline": "Rubio Declares Cuba National Security Threat After Castro Indictment",
       "summary": "The US Secretary of State called Cuba a \"leading sponsor of terrorism\" and said diplomatic resolution was unlikely. Cuba's foreign minister accused Rubio of trying to \"instigate military aggression\" as tensions escalate following the indictment of former President Raúl Castro.",
       "emoji": "🇨🇺🇺🇸",
       "category": "Americas",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko",
-      "timestamp": "2026-05-22T07:00:00+03:00"
+      "timestamp": "2026-05-22T07:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko",
+          "angle": "US Designates Cuba as National Security Threat as Rubio Accuses Castro Regime",
+          "summary": "Secretary of State Marco Rubio declared Cuba a national security threat, with Cuba's foreign minister accusing the US of trying to \"instigate a military aggression\" amid heightened tensions following the indictment of Raúl Castro."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/ckgpzwkn5jko",
+        "https://www.bbc.com/news/articles/ckgpzwkn5jko"
+      ]
     },
     {
       "headline": "Israel Deports All Foreign Activists from Gaza Flotilla",
@@ -590,15 +606,6 @@
       "category": "Europe",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
-      "timestamp": "2026-05-22T01:03:00+03:00"
-    },
-    {
-      "headline": "US Designates Cuba as National Security Threat as Rubio Accuses Castro Regime",
-      "summary": "Secretary of State Marco Rubio declared Cuba a national security threat, with Cuba's foreign minister accusing the US of trying to \"instigate a military aggression\" amid heightened tensions following the indictment of Raúl Castro.",
-      "emoji": "🇨🇺",
-      "category": "Americas",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko",
       "timestamp": "2026-05-22T01:03:00+03:00"
     },
     {
@@ -1581,19 +1588,19 @@
       "timestamp": "2026-05-21T06:03:00+03:00",
       "perspectives": [
         {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/05/21/world/africa/uganda-congo-ebola-outbreak.html",
-          "angle": "Uganda Restricts Travel with Congo Over Ebola Outbreak",
-          "summary": "Uganda has suspended flights to and from the Democratic Republic of Congo as an Ebola outbreak spreads to a rebel-controlled province, with 139 suspected deaths reported."
+          "source": "AP News",
+          "url": "https://apnews.com/article/congo-ebola-outbreak-who-spread-response-18537353976a958687e55f95434c918c",
+          "angle": "Angry Mob Burns Ebola Treatment Center in DR Congo",
+          "summary": "Locals set fire to a treatment facility in Rwampara after being barred from retrieving a suspected Ebola victim's body. The outbreak has killed 160 people and spread to South Kivu province, with no vaccine available for the Bundibugyo strain."
         }
       ],
       "sources": [
         "Reuters",
-        "New York Times"
+        "AP News"
       ],
       "urls": [
         "https://www.reuters.com/legal/litigation/us-working-with-small-biotech-firm-experimental-ebola-treatment-bloomberg-news-2026-05-20/",
-        "https://www.nytimes.com/2026/05/21/world/africa/uganda-congo-ebola-outbreak.html"
+        "https://apnews.com/article/congo-ebola-outbreak-who-spread-response-18537353976a958687e55f95434c918c"
       ]
     },
     {
@@ -2746,65 +2753,6 @@
       "source": "The Hindu",
       "url": "https://www.thehindu.com/news/international/israeli-strikes-on-southern-lebanon-kill-19-including-children-and-women-officials-say/article71000866.ece",
       "timestamp": "2026-05-20T10:06:00+03:00"
-    },
-    {
-      "headline": "G7 Finance Ministers Address Trade Imbalances, China Concerns",
-      "summary": "G7 finance ministers agreed on the need to tackle trade imbalances in a fragmented global economy, with US Treasury Secretary Bessent calling for protections against cheap Chinese imports.",
-      "emoji": "💰🌐",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/g7-finance-ministers-explore-responses-iran-war-fallout-2026-05-19/",
-      "timestamp": "2026-05-20T10:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/g7-finance-ministers-explore-responses-iran-war-fallout-2026-05-19/",
-          "angle": "G7 Finance Ministers Call for Action on Global Trade Imbalances",
-          "summary": "Finance ministers from G7 nations agreed on the need to address trade imbalances in a fragmented global economy, though concrete measures remain unspecified amid Iran war fallout."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/g7-finance-ministers-explore-responses-iran-war-fallout-2026-05-19/",
-        "https://www.reuters.com/world/china/g7-finance-ministers-explore-responses-iran-war-fallout-2026-05-19/"
-      ]
-    },
-    {
-      "headline": "UK quietly sanctions Russian oil via waivers as energy costs surge",
-      "summary": "Britain issued licenses allowing imports of diesel and jet fuel made from Russian crude processed in third countries, and maritime transport of Russian LNG. The move follows similar US waivers as fuel prices spike during the Iran conflict.",
-      "emoji": "🇬🇧⛽",
-      "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/uk-quietly-issues-sanctions-waivers-on-russian-oil-products/",
-      "timestamp": "2026-05-20T08:08:00+03:00",
-      "perspectives": [
-        {
-          "source": "Politico",
-          "url": "https://www.politico.eu/article/starmer-criticized-easing-russia-sanctions-uk-labour-leadership/",
-          "angle": "UK eases sanctions on Russian oil imports as fuel prices soar",
-          "summary": "The UK government moved to ease sanctions on Russian oil imports by allowing crude oil refined in third countries like India and Türkiye, drawing criticism from opposition while fuel prices remain elevated."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "Politico"
-      ],
-      "urls": [
-        "https://kyivindependent.com/uk-quietly-issues-sanctions-waivers-on-russian-oil-products/",
-        "https://www.politico.eu/article/starmer-criticized-easing-russia-sanctions-uk-labour-leadership/"
-      ]
-    },
-    {
-      "headline": "Czechia proposes restrictions on Ukrainian refugee benefits",
-      "summary": "The Czech Interior Ministry proposed legal changes requiring refugees not to leave Schengen for more than 30 days, be economically active to receive benefits, and register vehicles. EU discussions on long-term protections continue amid uncertainty.",
-      "emoji": "🇨🇿🇪🇺",
-      "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/czechia-adds-to-eu-wide-uncertainty-for-ukrainian-refugees/",
-      "timestamp": "2026-05-20T08:08:00+03:00"
     }
   ]
 }
