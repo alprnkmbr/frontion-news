@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-05-22T18:06:32+03:00",
+  "lastUpdated": "2026-05-22T18:09:27+03:00",
   "headlines": [
+    {
+      "headline": "China Think Tank Maps Path to US Peaceful Coexistence",
+      "summary": "A Chinese state think tank published a detailed roadmap for peaceful US-China coexistence, warning Washington's Taiwan stance remains a catastrophic risk as both powers remain locked in strategic stalemate.",
+      "emoji": "🇨🇳🇺🇸",
+      "category": "US-China",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3354576/how-china-and-us-can-coexist-peacefully-while-locked-strategic-stalemate",
+      "timestamp": "2026-05-22T18:06:00+03:00"
+    },
+    {
+      "headline": "Foreign Affairs: Hormuz Crisis a Warning for Indo-Pacific Waterways",
+      "summary": "The Strait of Hormuz closure offers lessons for Asia-Pacific security, where similar chokepoint tactics could be used to control critical waterways like the Malacca Strait and South China Sea routes.",
+      "emoji": "🌏⚔️",
+      "category": "Geopolitics",
+      "source": "Foreign Affairs",
+      "url": "https://www.foreignaffairs.com/china/hormuz-warning-indo-pacific",
+      "timestamp": "2026-05-22T18:06:00+03:00"
+    },
+    {
+      "headline": "Ukraine Protests Bill That Could Declare Missing Soldiers Dead",
+      "summary": "Hundreds of Ukrainians marched in Kyiv demanding the government veto a bill they fear could prematurely declare over 90,000 missing soldiers legally dead before their fate is confirmed.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "WTOP/AP",
+      "url": "https://wtop.com/russia-ukraine-war-news/2026/05/ukrainian-protesters-in-kyiv-urge-veto-of-a-bill-families-fear-could-declare-missing-soldiers-dead/",
+      "timestamp": "2026-05-22T18:06:00+03:00"
+    },
+    {
+      "headline": "EU Observer: Ukraine Fears Belarus Attack as Russia Eyes Southern Offensive",
+      "summary": "Ukraine monitors northern border for signs of Belarus-based Russian attack, while intelligence suggests Russia may be preparing for Ukrainian offensive in south. Land route to Crimea increasingly unsafe for Russian forces.",
+      "emoji": "🇺🇦⚔️",
+      "category": "Ukraine-Russia War",
+      "source": "EU Observer",
+      "url": "https://euobserver.com/218240/ukraine-fears-attack-from-belarus-in-north-as-russia-fears-ukraine-offensive-from-the-south-ukraine-battlefield-update-day-1548/",
+      "timestamp": "2026-05-22T18:06:00+03:00"
+    },
     {
       "headline": "Ukraine Strikes Russian Oil Refinery 700 km from Border",
       "summary": "Ukrainian forces attacked a Russian oil refinery in Yaroslavl, some 700 km from the Ukrainian border, President Zelenskiy said Friday, in the latest of Kyiv’s strikes on Russian oil facilities.",
@@ -8,7 +44,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/ukraine-attacked-russian-oil-refinery-yaroslavl-zelenskiy-says-2026-05-22/",
-      "timestamp": "2026-05-22T18:04:00+03:00"
+      "timestamp": "2026-05-22T18:04:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/ukraine-attacked-russian-oil-refinery-yaroslavl-zelenskiy-says-2026-05-22/",
+          "angle": "Ukraine Strikes Russian Oil Refinery 700 km from Border",
+          "summary": "President Zelenskiy announced Ukrainian forces attacked a Russian oil refinery in Yaroslavl, marking another long-range strike on Russian energy infrastructure as the war continues."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/ukraine-attacked-russian-oil-refinery-yaroslavl-zelenskiy-says-2026-05-22/",
+        "https://www.reuters.com/business/energy/ukraine-attacked-russian-oil-refinery-yaroslavl-zelenskiy-says-2026-05-22/"
+      ]
     },
     {
       "headline": "UAE Presidential Advisor: 50-50 Chance of US-Iran Deal",
@@ -26,15 +78,6 @@
       "category": "Africa",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/volunteers-go-door-to-door-congo-tackle-ebola-rumors-aid-network-says-2026-05-22/",
-      "timestamp": "2026-05-22T18:04:00+03:00"
-    },
-    {
-      "headline": "Freed Gaza Flotilla Activists Allege Israeli Abuse",
-      "summary": "Activists released from Israeli custody after being detained on a flotilla trying to bring aid to Gaza alleged they were subjected to abuse including sexual violence, organizers said Friday.",
-      "emoji": "🇵🇸",
-      "category": "Middle East",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/middle-east/2026/05/22/freed-gaza-flotilla-activists-allege-israeli-abuse-including-rape",
       "timestamp": "2026-05-22T18:04:00+03:00"
     },
     {
@@ -137,19 +180,27 @@
       "timestamp": "2026-05-22T16:00:00+03:00",
       "perspectives": [
         {
-          "source": "CNA",
-          "url": "https://www.channelnewsasia.com/world/israel-deports-all-foreign-activists-gaza-flotilla-6132246",
-          "angle": "Israel Deports All Foreign Activists from Gaza Flotilla",
-          "summary": "Israel deported all foreign activists seized from a Gaza-bound aid flotilla after Israeli forces intercepted the vessel. The move follows international condemnation after an Israeli minister mocked the detained activists."
+          "source": "Al Arabiya",
+          "url": "https://english.alarabiya.net/News/middle-east/2026/05/22/freed-gaza-flotilla-activists-allege-israeli-abuse-including-rape",
+          "angle": "Freed Gaza Flotilla Activists Allege Israeli Abuse",
+          "summary": "Activists released from Israeli custody after being detained on a flotilla trying to bring aid to Gaza alleged they were subjected to abuse including sexual violence, organizers said Friday."
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo",
+          "angle": "UK Summons Israeli Diplomat Over Gaza Flotilla Activist Treatment",
+          "summary": "The UK summoned Israel's top diplomat after far-right minister Ben Gvir posted a video taunting detained pro-Palestinian activists. Hundreds of flotilla activists have been deported following international backlash over their treatment."
         }
       ],
       "sources": [
         "Reuters",
-        "CNA"
+        "Al Arabiya",
+        "BBC"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/israel-deports-37-french-nationals-gaza-flotilla-turkey-france-says-2026-05-21/",
-        "https://www.channelnewsasia.com/world/israel-deports-all-foreign-activists-gaza-flotilla-6132246"
+        "https://english.alarabiya.net/News/middle-east/2026/05/22/freed-gaza-flotilla-activists-allege-israeli-abuse-including-rape",
+        "https://www.bbc.com/news/articles/c9d3v2d6p1eo"
       ]
     },
     {
@@ -446,15 +497,6 @@
         "https://cyprus-mail.com/2026/05/22/turkish-court-ousts-opposition-leader-deepening-political-crisis",
         "https://www.reuters.com/world/middle-east/turkey-court-annuls-main-opposition-partys-2023-congress-latest-blow-2026-05-21/"
       ]
-    },
-    {
-      "headline": "Ukraine Strikes Russian Oil Refinery 700 km from Border",
-      "summary": "President Zelenskiy announced Ukrainian forces attacked a Russian oil refinery in Yaroslavl, marking another long-range strike on Russian energy infrastructure as the war continues.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/ukraine-attacked-russian-oil-refinery-yaroslavl-zelenskiy-says-2026-05-22/",
-      "timestamp": "2026-05-22T12:05:00+03:00"
     },
     {
       "headline": "Oil Prices Rise as Investors Doubt US-Iran Breakthrough",
@@ -1594,39 +1636,6 @@
       "source": "Al-Monitor",
       "url": "https://www.al-monitor.com/originals/2026/05/ethiopia-accuses-egypt-obstructing-red-sea-access-bid-what-know",
       "timestamp": "2026-05-21T19:10:00+03:00"
-    },
-    {
-      "headline": "UK Summons Israeli Diplomat Over Gaza Flotilla Activist Treatment",
-      "summary": "The UK summoned Israel's top diplomat after far-right minister Ben Gvir posted a video taunting detained pro-Palestinian activists. Hundreds of flotilla activists have been deported following international backlash over their treatment.",
-      "emoji": "🇬🇧🇮🇱⚓",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo",
-      "timestamp": "2026-05-21T19:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/clyp32weyn8o",
-          "angle": "Israeli Minister Condemned for Taunting Detained Gaza Flotilla Activists",
-          "summary": "Far-right minister Itamar Ben-Gvir posted a video taunting handcuffed pro-Palestinian activists from a Gaza-bound aid flotilla intercepted by Israeli forces, drawing criticism from France, Italy, and even Prime Minister Netanyahu."
-        },
-        {
-          "source": "Al Arabiya English",
-          "url": "https://english.aawsat.com/world/5275563-trump-envoy-us-needs-put-its-footprint-back-greenland",
-          "angle": "Multiple Nations Summon Israeli Envoys Over Flotilla Activist Treatment",
-          "summary": "France, Netherlands, Canada, Ireland, Spain, Italy, Germany, Greece, Britain, Turkey and New Zealand summoned Israeli ambassadors over National Security Minister Ben-Gvir's video showing detained Gaza flotilla activists kneeling and tied. Netanyahu criticized the minister's actions."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC",
-        "Al Arabiya English"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/c9d3v2d6p1eo",
-        "https://www.bbc.com/news/articles/clyp32weyn8o",
-        "https://english.aawsat.com/world/5275563-trump-envoy-us-needs-put-its-footprint-back-greenland"
-      ]
     },
     {
       "headline": "US Supreme Court Rules for Cuban Property Owners in Castro-Era Case",
@@ -2778,24 +2787,6 @@
       "category": "Europe",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/baltic-lawmakers-press-eu-for-firm-support-amid-moscow-threats-of-strikes/",
-      "timestamp": "2026-05-20T18:07:00+03:00"
-    },
-    {
-      "headline": "UK Eases Russian Oil Sanctions as Fuel Prices Soar",
-      "summary": "Britain has waived sanctions on diesel and jet fuel processed from Russian crude in third countries, citing energy supply security as domestic fuel prices continue to rise.",
-      "emoji": "🇬🇧🛢️",
-      "category": "Energy",
-      "source": "Oil Price",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/UK-Eases-Some-Russian-Oil-Sanctions-as-Fuel-Prices-Soar.html",
-      "timestamp": "2026-05-20T18:07:00+03:00"
-    },
-    {
-      "headline": "IDF Brigade Commander Seriously Wounded in Lebanon Drone Strike",
-      "summary": "The commander of the IDF's 401st Armored Brigade was seriously wounded when an explosive-laden drone struck his position in south Lebanon, amid ongoing cross-border hostilities.",
-      "emoji": "🇮🇱⚔️",
-      "category": "Military",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/commander-of-idfs-401st-brigade-seriously-wounded-in-south-lebanon-drone-strike/",
       "timestamp": "2026-05-20T18:07:00+03:00"
     }
   ]
