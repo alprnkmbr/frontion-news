@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-23T02:07:46+03:00",
+  "lastUpdated": "2026-05-23T03:04:28+03:00",
   "headlines": [
     {
-      "headline": "Pakistan Army Chief Arrives in Tehran as Iran Weighs US Peace Proposal",
-      "summary": "Field Marshal Asim Munir visited Tehran as part of mediation efforts with Iran weighing a US peace proposal while warning that deep divisions remain over the Strait of Hormuz and uranium enrichment.",
-      "emoji": "🇵🇰",
-      "category": "Diplomacy",
-      "source": "Al-Monitor",
-      "url": "https://www.al-monitor.com/originals/2026/05/pakistan-army-chief-tehran-iran-weighs-us-peace-offer",
-      "timestamp": "2026-05-23T02:10:00+03:00"
+      "headline": "UN Refugee Agency Loses $1 Million in Aid After Russian Strike on Ukraine Warehouse",
+      "summary": "The UN refugee agency reported losing $1 million worth of humanitarian aid after a Russian missile struck its warehouse in Dnipro, eastern Ukraine. The attack highlights growing risks to civilian relief operations in the conflict zone.",
+      "emoji": "🇺🇳",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/un-refugee-agency-says-1-million-worth-aid-lost-russian-strike-ukraine-2026-05-22/",
+      "timestamp": "2026-05-23T03:03:00+03:00"
+    },
+    {
+      "headline": "UK Transforms Disused London Tube Station Into NATO War Game Headquarters",
+      "summary": "A disused platform at Charing Cross station became a temporary military command center for a NATO wargame exercise involving hundreds of US, UK, French and Italian personnel. The drill highlights creative approaches to urban warfare training.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/uk-runs-nato-war-drill-disused-london-tube-stop-2026-05-22/",
+      "timestamp": "2026-05-23T03:03:00+03:00"
+    },
+    {
+      "headline": "APEC Trade Envoys Gather in China to Discuss Supply Chain Resilience",
+      "summary": "Asia-Pacific trade representatives meeting in China are discussing multilateral cooperation and supply chain resilience amid global shocks including the US-Iran conflict. The talks come as regional economies grapple with trade imbalances.",
+      "emoji": "🌏",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/apec-trade-envoys-gather-china-discuss-trade-imbalances-supply-chain-resilience-2026-05-22/",
+      "timestamp": "2026-05-23T03:03:00+03:00"
+    },
+    {
+      "headline": "EU Proposes Sanctions Reprieve for Dealings With Chinese Chips Firm",
+      "summary": "The European Commission proposed a nine-month exemption allowing dealings with a Chinese semiconductor company that was newly listed in the EU's 20th Russia sanctions package. The move reflects ongoing tensions between enforcement and economic interests.",
+      "emoji": "🇪🇺",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/european-commission-proposes-russia-sanctions-reprieve-dealings-with-chinese-2026-05-22/",
+      "timestamp": "2026-05-23T03:03:00+03:00"
+    },
+    {
+      "headline": "Trump Official Pushed Plan to Ban Half of US Voting Machines Over Conspiracy Theories",
+      "summary": "White House adviser Kurt Olsen pushed a plan to target Dominion Voting Systems machines, promoting widely debunked election-rigging conspiracy theories. The revelation raises new concerns about efforts to undermine electoral infrastructure.",
+      "emoji": "🇺🇸",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/litigation/trump-officials-tried-ban-half-us-voting-machines-citing-conspiracy-theories-2026-05-22/",
+      "timestamp": "2026-05-23T03:03:00+03:00"
     },
     {
       "headline": "Rubio Warns NATO: US Troop Presence in Europe Will Shrink Over Time",
@@ -38,21 +74,37 @@
       "timestamp": "2026-05-23T02:10:00+03:00"
     },
     {
-      "headline": "US Prepares Fresh Military Strikes on Iran as Diplomacy Continues",
-      "summary": "The Trump administration was preparing for a new round of military strikes against Iran even as Tehran reviews a US peace proposal. Pakistan is mediating between the two sides, with a response expected imminently.",
-      "emoji": "🇺🇸",
-      "category": "US-Iran War",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/us-prepares-new-military-strikes-against-iran/",
-      "timestamp": "2026-05-23T02:05:00+03:00"
-    },
-    {
       "headline": "Pakistan Army Chief Arrives in Tehran to Push Iran-US Peace Deal",
       "summary": "Pakistans powerful army chief visited Tehran as Iran weighed a new US peace proposal. Qatari negotiators also met Iranian officials, though deep divisions remain between Washington and Tehran.",
       "emoji": "🇵🇰",
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/pakistan-seeks-breakthrough-us-iran-peace-talks-2026-05-22/",
+      "timestamp": "2026-05-23T02:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al-Monitor",
+          "url": "https://www.al-monitor.com/originals/2026/05/pakistan-army-chief-tehran-iran-weighs-us-peace-offer",
+          "angle": "Pakistan Army Chief Arrives in Tehran as Iran Weighs US Peace Proposal",
+          "summary": "Field Marshal Asim Munir visited Tehran as part of mediation efforts with Iran weighing a US peace proposal while warning that deep divisions remain over the Strait of Hormuz and uranium enrichment."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Al-Monitor"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/pakistan-seeks-breakthrough-us-iran-peace-talks-2026-05-22/",
+        "https://www.al-monitor.com/originals/2026/05/pakistan-army-chief-tehran-iran-weighs-us-peace-offer"
+      ]
+    },
+    {
+      "headline": "US Prepares Fresh Military Strikes on Iran as Diplomacy Continues",
+      "summary": "The Trump administration was preparing for a new round of military strikes against Iran even as Tehran reviews a US peace proposal. Pakistan is mediating between the two sides, with a response expected imminently.",
+      "emoji": "🇺🇸",
+      "category": "US-Iran War",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/us-prepares-new-military-strikes-against-iran/",
       "timestamp": "2026-05-23T02:05:00+03:00"
     },
     {
@@ -71,7 +123,23 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/swiss-widen-sanctions-against-russia-belarus-line-with-eu-measures-2026-05-22/",
-      "timestamp": "2026-05-23T02:05:00+03:00"
+      "timestamp": "2026-05-23T02:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/swiss-widen-sanctions-against-russia-belarus-line-with-eu-measures-2026-05-22/",
+          "angle": "Switzerland Expands Sanctions Against Russia and Belarus",
+          "summary": "Switzerland widened its sanctions lists against Russia and Belarus, aligning with the EUs latest measures over the war in Ukraine. The move strengthens European economic pressure on Moscow."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/swiss-widen-sanctions-against-russia-belarus-line-with-eu-measures-2026-05-22/",
+        "https://www.reuters.com/world/china/swiss-widen-sanctions-against-russia-belarus-line-with-eu-measures-2026-05-22/"
+      ]
     },
     {
       "headline": "Xis Contrasting Treatment of Trump and Putin Reveals Chinas Priorities",
@@ -348,15 +416,6 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/lukashenko-says-belarus-will-not-be-dragged-into-ukraine-war-will-defend-itself-2026-05-21/",
-      "timestamp": "2026-05-22T22:05:00+03:00"
-    },
-    {
-      "headline": "Switzerland Expands Sanctions Against Russia and Belarus",
-      "summary": "Switzerland widened its sanctions lists against Russia and Belarus, aligning with the EUs latest measures over the war in Ukraine. The move strengthens European economic pressure on Moscow.",
-      "emoji": "🇨🇭",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/swiss-widen-sanctions-against-russia-belarus-line-with-eu-measures-2026-05-22/",
       "timestamp": "2026-05-22T22:05:00+03:00"
     },
     {
@@ -2697,85 +2756,6 @@
       "urls": [
         "https://www.reuters.com/business/energy/saudi-arabia-march-crude-exports-drop-lowest-record-jodi-says-2026-05-20/",
         "https://www.republicworld.com/business/india-oil-imports-venezuela-third-largest-crude-supplier-may-2026-2026-05-22-125318"
-      ]
-    },
-    {
-      "headline": "Ebola Outbreak Response Hindered by US Aid Cuts Under Trump",
-      "summary": "Aid cuts by the Trump administration have shut down crucial disease surveillance networks and medical supply chains in East Africa, potentially hampering efforts to contain the Ebola outbreak in the Democratic Republic of Congo.",
-      "emoji": "🦠",
-      "category": "Africa",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/20/health/ebola-congo-united-states-trump.html",
-      "timestamp": "2026-05-21T00:03:00+03:00"
-    },
-    {
-      "headline": "US indicts former Cuban president Raúl Castro over 1996 plane downing",
-      "summary": "The US Justice Department charged the 94-year-old former Cuban leader with conspiracy to kill US nationals and murder for the 1996 shooting down of two humanitarian planes that killed four people.",
-      "emoji": "🇨🇺",
-      "category": "Latin America",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/live/czr24nr681gt",
-      "timestamp": "2026-05-20T23:05:00+03:00"
-    },
-    {
-      "headline": "US Marines Test Fire Rocket System Near Mount Fuji in Rapid Drill",
-      "summary": "US Marines test fired a dozen rockets from a mobile launcher at a range in Japan's foothills near Mount Fuji, demonstrating \"shoot and scoot\" capabilities.",
-      "emoji": "🇯🇵",
-      "category": "Asia-Pacific",
-      "source": "Taipei Times",
-      "url": "https://www.taipeitimes.com/News/front/archives/2026/05/21/2003857699",
-      "timestamp": "2026-05-20T22:06:00+03:00"
-    },
-    {
-      "headline": "Germany Plans 260,000-Strong Bundeswehr as US Pullout Accelerates European Rearmament",
-      "summary": "Defense Minister Boris Pistorius called for expanding the Bundeswehr to 260,000 soldiers, reversing 30 years of force reductions as the US military withdrawal from Europe spurs unprecedented defense buildup.",
-      "emoji": "🇩🇪",
-      "category": "Europe",
-      "source": "MSN",
-      "url": "https://www.msn.com/en-us/politics/government/germany-s-defense-minister-wants-the-us-pullout-to-speed-europe-s-push-to-a-260-000-strong-bundeswehr-reversing-30-years-of-shrinking-forces/ar-AA23FsRI",
-      "timestamp": "2026-05-20T22:06:00+03:00"
-    },
-    {
-      "headline": "Zelensky Marks Seven Years in Office as War Defines Legacy",
-      "summary": "Seven years after taking office as a showman turned wartime leader, Zelensky's legacy is now inextricably tied to the ongoing conflict with Russia.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/seven-years-in-zelensky-balances-wartime-strains-at-home/",
-      "timestamp": "2026-05-20T22:06:00+03:00"
-    },
-    {
-      "headline": "Russia conducts nuclear warhead transport exercise amid tensions with West",
-      "summary": "Russian forces demonstrated movement of nuclear warheads in a three-day exercise, showcasing capability at a time when Moscow describes itself in an existential struggle with the West over Ukraine.",
-      "emoji": "🇷🇺☢️",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/russia-shows-troops-moving-nuclear-warheads-major-exercise-2026-05-20/",
-      "timestamp": "2026-05-20T22:03:00+03:00"
-    },
-    {
-      "headline": "Kremlin calls Lithuanian minister Kaliningrad comments verging on insanity",
-      "summary": "Russia sharply criticized Lithuania after its foreign minister said NATO should demonstrate capability to penetrate the Russian exclave of Kaliningrad, calling the remarks \"verging on insanity.\"",
-      "emoji": "🇷🇺🇱🇹",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/kremlin-says-lithuanian-ministers-comments-about-attacking-russian-exclave-verge-of-2026-05-20/",
-      "timestamp": "2026-05-20T22:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/kremlin-says-lithuanian-ministers-comments-about-attacking-russian-exclave-verge-2026-05-20/",
-          "angle": "Kremlin Slams Lithuania Minister Comments on Kaliningrad as Insane",
-          "summary": "The Kremlin called remarks by Lithuanias foreign minister \"verging on insanity\" after he said NATO should show Moscow it was capable of penetrating the Russian exclave of Kaliningrad."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/aerospace-defense/kremlin-says-lithuanian-ministers-comments-about-attacking-russian-exclave-verge-of-2026-05-20/",
-        "https://www.reuters.com/business/aerospace-defense/kremlin-says-lithuanian-ministers-comments-about-attacking-russian-exclave-verge-2026-05-20/"
       ]
     }
   ]
