@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-30T23:05:44+03:00",
+  "lastUpdated": "2026-05-31T00:04:00+03:00",
   "headlines": [
+    {
+      "headline": "Russian Drone Strikes Residential Building in NATO Member Romania",
+      "summary": "A Russian drone hit an apartment block in eastern Romania, causing a fire and injuring two people. The incident marks a significant escalation as Russia directly affects NATO territory amid ongoing Ukraine conflict.",
+      "emoji": "🇷🇴🇷🇺",
+      "category": "Europe",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/world",
+      "timestamp": "2026-05-31T00:03:00+03:00"
+    },
+    {
+      "headline": "Colombia Heads to Polls in Presidential Election Shadowed by Political Violence",
+      "summary": "Colombians vote Sunday in a presidential contest between left and right candidates, with security concerns and decades-long armed conflict dominating the political agenda.",
+      "emoji": "🇨🇴🗳️",
+      "category": "Latin America",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/",
+      "timestamp": "2026-05-31T00:03:00+03:00"
+    },
+    {
+      "headline": "US UK Australia Sign Underwater Drone Technology Deal Under AUKUS Pact",
+      "summary": "The three nations agreed to develop underwater drone technology aimed at protecting undersea cables and boosting naval defense capabilities in the Indo-Pacific region.",
+      "emoji": "🇺🇸🇬🇧🇦🇺",
+      "category": "Defense Industry",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/world",
+      "timestamp": "2026-05-31T00:03:00+03:00"
+    },
+    {
+      "headline": "US Strikes Commercial Ship Attempting to Breach Blockade and Reach Iran",
+      "summary": "The United States military struck a commercial vessel that was trying to breach the naval blockade and reach Iran, according to AP News.",
+      "emoji": "🚢💥",
+      "category": "US-Iran War",
+      "source": "AP News",
+      "url": "https://apnews.com/world-news",
+      "timestamp": "2026-05-31T00:03:00+03:00"
+    },
+    {
+      "headline": "Israeli Forces Reach Nabatieh One of Southern Lebanons Largest Cities",
+      "summary": "Israeli military has advanced beyond Lebanons Litani River for the first time since 2006, reaching one of southern Lebanons largest cities amid ongoing ceasefire tensions.",
+      "emoji": "🇮🇱🇱🇧",
+      "category": "Middle East",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/",
+      "timestamp": "2026-05-31T00:03:00+03:00"
+    },
     {
       "headline": "Ukrainian drones strike Russian oil refinery and port",
       "summary": "Ukrainian drone strikes hit Russia's oil infrastructure overnight, damaging a tanker and an oil refinery in Taganrog and striking an oil depot in Armavir, regional officials said.",
@@ -8,7 +53,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/ukrainian-drones-strike-port-oil-depot-southern-russia-authorities-say-2026-05-30/",
-      "timestamp": "2026-05-30T23:03:00+03:00"
+      "timestamp": "2026-05-30T23:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cdjp0n7rn41o",
+          "angle": "Ukraine uses AI-enabled drones to strike Russian supply convoys deep behind front lines",
+          "summary": "Ukrainian forces are deploying AI-powered Hornet drones to attack Russian logistics vehicles up to 100km from the front, forcing Russia to shorten convoys. The technology marks a shift in the war's dynamics, allowing Ukraine to target critical supply routes with greater precision."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/ukrainian-drones-strike-port-oil-depot-southern-russia-authorities-say-2026-05-30/",
+        "https://www.bbc.com/news/articles/cdjp0n7rn41o"
+      ]
     },
     {
       "headline": "Russia claims Ukrainian drone struck Zaporizhzhia nuclear plant",
@@ -26,7 +87,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/pentagon-chief-urges-allies-boost-defence-spending-amid-alarm-over-chinas-2026-05-30/",
-      "timestamp": "2026-05-30T23:03:00+03:00"
+      "timestamp": "2026-05-30T23:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/world-asia-20260530-hegseth-singapore",
+          "angle": "US Defense Secretary Hegseth: US Not Turning Back on Asia Allies, But Expects Defense Boost",
+          "summary": "At a Singapore security summit, Defense Secretary Pete Hegseth reaffirmed US commitment to Asian allies while pressing them to increase their own defense spending and arms purchases."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/pentagon-chief-urges-allies-boost-defence-spending-amid-alarm-over-chinas-2026-05-30/",
+        "https://www.bbc.com/news/world-asia-20260530-hegseth-singapore"
+      ]
     },
     {
       "headline": "India warns inflation may rise from Middle East conflict and weak monsoon",
@@ -417,31 +494,6 @@
       "timestamp": "2026-05-30T17:08:00+03:00"
     },
     {
-      "headline": "US Defense Secretary Hegseth: US Not Turning Back on Asia Allies, But Expects Defense Boost",
-      "summary": "At a Singapore security summit, Defense Secretary Pete Hegseth reaffirmed US commitment to Asian allies while pressing them to increase their own defense spending and arms purchases.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "Asia-Pacific",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/world-asia-20260530-hegseth-singapore",
-      "timestamp": "2026-05-30T16:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cx4n86leqjpo",
-          "angle": "US Defense Secretary Hegseth Tells Asian Allies to Do More for US Support",
-          "summary": "At Shangri-La Dialogue in Singapore, Pete Hegseth signaled US commitment to Asia remains strong but expects allies to increase defense spending and capability investments to get priority access to American weapons."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/world-asia-20260530-hegseth-singapore",
-        "https://www.bbc.com/news/articles/cx4n86leqjpo"
-      ]
-    },
-    {
       "headline": "Hegseth tells Asian allies to boost defence spending for US support",
       "summary": "US Defense Secretary Pete Hegseth said Asian partners must do more to get more from Washington, telling the Shangri-La Dialogue that countries wanting US assistance should increase their own defense spending.",
       "emoji": "🇺🇸🇨🇳🌏",
@@ -585,31 +637,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/news/china/science/article/3355232/chinese-scientists-create-kill-them-all-algorithm-drone-warfare",
       "timestamp": "2026-05-30T13:10:00+03:00"
-    },
-    {
-      "headline": "Ukraine uses AI-enabled drones to strike Russian supply convoys deep behind front lines",
-      "summary": "Ukrainian forces are deploying AI-powered Hornet drones to attack Russian logistics vehicles up to 100km from the front, forcing Russia to shorten convoys. The technology marks a shift in the war's dynamics, allowing Ukraine to target critical supply routes with greater precision.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cdjp0n7rn41o",
-      "timestamp": "2026-05-30T13:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/5/30/ukraine-drones-strike-russian-oil-facility",
-          "angle": "Ukraine Drones Strike Russian Oil Facility",
-          "summary": "Ukrainian drones attacked a Russian oil facility as Kyiv and Moscow traded drone attacks. More than 13,000 residents in Zaporizhzhia were left without power as Russia and Ukraine exchanged strikes."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/cdjp0n7rn41o",
-        "https://www.aljazeera.com/news/2026/5/30/ukraine-drones-strike-russian-oil-facility"
-      ]
     },
     {
       "headline": "Trump weighs Iran ceasefire deal as Tehran insists no final agreement reached",
