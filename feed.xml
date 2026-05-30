@@ -1,195 +1,236 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
 <channel>
 <title>Frontion News Headlines</title>
 <link>https://frontion.com</link>
-<description>Geopolitical news headlines curated by Frontion</description>
+<description>Geopolitical news headlines from Tier 1 sources</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 30 May 2026 07:50:49 +0300</lastBuildDate>
+<lastBuildDate>Sat, 30 May 2026 08:09:15 +0300</lastBuildDate>
+
+<item>
+<title>🇺🇸🇮🇷 No Deal After Trump Meeting on Iran Nuclear Framework</title>
+<link>https://www.bbc.com/news/articles/c0r2d40r91qo</link>
+<description>President Trump met with advisers but no final determination was announced on the Iran nuclear deal framework. Officials confirmed the US and Iran have agreed to a framework of a deal.</description>
+<dc:source>BBC</dc:source>
+<dc:date>2026-05-30T08:00:00+03:00</dc:date>
+<category>US-Iran War</category>
+</item>
+
+<item>
+<title>🇮🇱🇺🇳 Israel Added to UN Sexual Violence in Warzones Blacklist</title>
+<link>https://www.bbc.com/news/articles/cx21le869n1o</link>
+<description>Israel has been placed on the UN blacklist for sexual violence in conflict zones for the first time. Israel rejects the allegations in the report by the UN secretary general.</description>
+<dc:source>BBC</dc:source>
+<dc:date>2026-05-30T08:00:00+03:00</dc:date>
+<category>Middle East</category>
+</item>
+
+<item>
+<title>🇷🇴🇺🇦 Russian Drone Hits Romanian Apartment Building, Injuring Two</title>
+<link>https://apnews.com/article/russia-ukraine-war-romania-drone-aa90986c237b8fa1d9116685c8c32f95</link>
+<description>A Russian drone targeting Ukraine struck a residential building in Romania, injuring two people. Romania says the drone was likely hit over Ukraine by its air defenses.</description>
+<dc:source>AP News</dc:source>
+<dc:date>2026-05-30T08:00:00+03:00</dc:date>
+<category>Ukraine-Russia War</category>
+</item>
+
+<item>
+<title>🇷🇺⚔️ Putin Ready to Escalate Ukraine War Amid Stalemate and Domestic Discontent</title>
+<link>https://apnews.com/article/russia-putin-ukraine-war-zelenskyy-0c31bbbf0d06c457c00d046bc7ba99f7</link>
+<description>With a stalemate on the battlefield and growing discontent at home, Putin appears ready to escalate the war in Ukraine, according to AP analysis.</description>
+<dc:source>AP News</dc:source>
+<dc:date>2026-05-30T08:00:00+03:00</dc:date>
+<category>Ukraine-Russia War</category>
+</item>
+
+<item>
+<title>🇪🇸🏛️ Spain PM Fights for Political Survival Amid Wave of Scandals</title>
+<link>https://www.bbc.com/news/articles/c1w21gn340xo</link>
+<description>Spanish Prime Minister Sánchez faces corruption probes targeting colleagues and relatives, putting his eight-year premiership at risk.</description>
+<dc:source>BBC</dc:source>
+<dc:date>2026-05-30T08:00:00+03:00</dc:date>
+<category>Europe</category>
+</item>
 
 <item>
 <title>🇺🇸 Trump Declares He Is Lifting Naval Blockade on Iran</title>
 <link>https://www.twz.com/trump-declares-he-is-lifting-the-naval-blockade-on-iran</link>
 <description>President Trump announced he is lifting the naval blockade on Iran, though the rationale without a signed deal remains unclear and Iranian media is pushing back against his claims.</description>
+<dc:source>The War Zone</dc:source>
+<dc:date>2026-05-30T07:50:00+03:00</dc:date>
 <category>US-Iran War</category>
-<source url="https://www.twz.com/trump-declares-he-is-lifting-the-naval-blockade-on-iran">The War Zone</source>
-<pubDate>2026-05-30T07:50:00+03:00</pubDate>
 </item>
-<item>
-<title>🇷🇺 Nearly 500,000 Russian Soldiers Killed in Ukraine, Top UK Intel Chief Says</title>
-<link>https://www.defensenews.com/global/europe/2026/05/30/nearly-500000-russian-soldiers-killed-ukraine-top-uk-intel-chief/</link>
-<description>The figure hardens a growing consensus among Western officials that Russia is on its heels for the first time since the Kremlin launched its invasion in 2022.</description>
-<category>Ukraine-Russia War</category>
-<source url="https://www.defensenews.com/global/europe/2026/05/30/nearly-500000-russian-soldiers-killed-ukraine-top-uk-intel-chief/">Defense News</source>
-<pubDate>2026-05-30T07:50:00+03:00</pubDate>
-</item>
+
 <item>
 <title>🇨🇳 China Building Launch Pads Near Its Nuclear Missile Silos</title>
 <link>https://www.defensenews.com/global/asia-pacific/2026/05/30/china-building-launch-pads-near-nuclear-missile-silos/</link>
 <description>China nuclear missiles can reach any U.S. city. New satellite images show Beijing is building a sprawling web of military sites near its nuclear silos.</description>
+<dc:source>Defense News</dc:source>
+<dc:date>2026-05-30T07:50:00+03:00</dc:date>
 <category>Defense Industry</category>
-<source url="https://www.defensenews.com/global/asia-pacific/2026/05/30/china-building-launch-pads-near-nuclear-missile-silos/">Defense News</source>
-<pubDate>2026-05-30T07:50:00+03:00</pubDate>
 </item>
+
 <item>
 <title>🇸🇪 Russias Suspected Spy Church Near Swedish Airport Raises Alarm</title>
 <link>https://www.france24.com/en/europe/20260530-russian-orthodox-church-near-swedish-airport-suspected-spy-platform</link>
 <description>Swedish intelligence services warn that Moscow is likely using a Russian Orthodox church near Vasteras airport as a platform for espionage and hostile hybrid activities threatening Swedens national security.</description>
+<dc:source>France 24</dc:source>
+<dc:date>2026-05-30T07:50:00+03:00</dc:date>
 <category>Europe</category>
-<source url="https://www.france24.com/en/europe/20260530-russian-orthodox-church-near-swedish-airport-suspected-spy-platform">France 24</source>
-<pubDate>2026-05-30T07:50:00+03:00</pubDate>
 </item>
+
 <item>
 <title>🇭🇹 Macron Offers Truth Commission on Haitis Independence Ransom</title>
 <link>https://www.france24.com/en/americas/20260530-macron-haiti-independence-ransom-truth-commission-reparations</link>
 <description>French President Emmanuel Macron announced a joint commission of French and Haitian historians to investigate the legacy of the crippling indemnity France extracted from Haiti for its independence, though he made no mention of Haitian demands for reparations.</description>
+<dc:source>France 24</dc:source>
+<dc:date>2026-05-30T07:50:00+03:00</dc:date>
 <category>Diplomacy</category>
-<source url="https://www.france24.com/en/americas/20260530-macron-haiti-independence-ransom-truth-commission-reparations">France 24</source>
-<pubDate>2026-05-30T07:50:00+03:00</pubDate>
 </item>
-<item>
-<title>🇷🇴🇷🇺 Russian Drone Strikes Romanian Apartment Building, Injuring Two</title>
-<link>https://apnews.com/article/russia-ukraine-war-romania-drone-aa90986c237b8fa1d9116685c8c32f95</link>
-<description>A Russian drone targeting Ukraine crashed into a residential building in the Romanian city of Galati, wounding two people and prompting NATO condemnation. Romania expelled the Russian consul and called the incident the worst violation of its territory since the war began.</description>
-<category>Europe</category>
-<source url="https://apnews.com/article/russia-ukraine-war-romania-drone-aa90986c237b8fa1d9116685c8c32f95">AP News</source>
-<pubDate>2026-05-30T07:48:00+03:00</pubDate>
-</item>
-<item>
-<title>🇷🇺🇺🇦 Putin Signals Escalation as Russian Forces Stall in Ukraine</title>
-<link>https://apnews.com/article/russia-putin-ukraine-war-zelenskyy-0c31bbbf0d06c457c00d046bc7ba99f7</link>
-<description>With battlefield advances grinding to a halt and war fatigue growing at home, Putin appears ready to escalate aerial attacks on Kyiv. Russian losses have nearly tripled compared to last year, and Ukraine has retaken territory around Dnipropetrovsk.</description>
-<category>Ukraine-Russia War</category>
-<source url="https://apnews.com/article/russia-putin-ukraine-war-zelenskyy-0c31bbbf0d06c457c00d046bc7ba99f7">AP News</source>
-<pubDate>2026-05-30T07:48:00+03:00</pubDate>
-</item>
-<item>
-<title>🇪🇸 Spanish PM Sánchez Faces Political Crisis After Eight Years in Power</title>
-<link>https://www.bbc.com/news/articles/c1w21gn340xo</link>
-<description>Pedro Sánchez marks eight years as prime minister amid a wave of corruption investigations targeting allies and family members. The opposition has called for his resignation, though he insists he will complete his term.</description>
-<category>Europe</category>
-<source url="https://www.bbc.com/news/articles/c1w21gn340xo">BBC</source>
-<pubDate>2026-05-30T07:48:00+03:00</pubDate>
-</item>
+
 <item>
 <title>🇷🇺🇺🇦 Russian Combat Losses in Ukraine Nearly Triple This Year</title>
 <link>https://www.aljazeera.com/news/2026/5/29/russian-rate-of-losses-in-ukraine-almost-triples-in-one-year</link>
 <description>Ukrainian officials report 145,000 Russian casualties in 2026, with losses of 179 per square kilometer of advance—far exceeding replacement capacity. Russia has also sold 27.9 tonnes of gold reserves to fund its war effort.</description>
+<dc:source>Al Jazeera</dc:source>
+<dc:date>2026-05-30T07:48:00+03:00</dc:date>
 <category>Ukraine-Russia War</category>
-<source url="https://www.aljazeera.com/news/2026/5/29/russian-rate-of-losses-in-ukraine-almost-triples-in-one-year">Al Jazeera</source>
-<pubDate>2026-05-30T07:48:00+03:00</pubDate>
 </item>
+
 <item>
-<title>🇺🇸🇮🇷 Trump Meets Advisers on Iran Deal as Tehran Signals No Agreement Yet</title>
-<link>https://www.aljazeera.com/news/2026/5/29/trump-says-final-determination-to-be-made-on-possible-iran-deal</link>
-<description>The US president held a Situation Room meeting to make a "final determination" on a potential Iran deal, but Iran's foreign ministry says no final agreement has been reached. Deep mistrust remains between Washington and Tehran.</description>
-<category>US-Iran War</category>
-<source url="https://www.aljazeera.com/news/2026/5/29/trump-says-final-determination-to-be-made-on-possible-iran-deal">Al Jazeera</source>
-<pubDate>2026-05-30T07:48:00+03:00</pubDate>
+<title>🇷🇴🇷🇺 Russian Drone Strikes Romanian Apartment Building, Injuring Two</title>
+<link>https://apnews.com/article/russia-ukraine-war-romania-drone-aa90986c237b8fa1d9116685c8c32f95</link>
+<description>A Russian drone targeting Ukraine crashed into a residential building in the Romanian city of Galati, wounding two people and prompting NATO condemnation. Romania expelled the Russian consul and called the incident the worst violation of its territory since the war began.</description>
+<dc:source>AP News</dc:source>
+<dc:date>2026-05-30T07:48:00+03:00</dc:date>
+<category>Europe</category>
 </item>
+
 <item>
-<title>🇷🇴🇷🇺 Russian drone hits Romanian apartment block, NATO and EU condemn</title>
-<link>https://www.bbc.com/news/articles/c93x4nxlkjeo</link>
-<description>A Russian drone targeting Ukraine struck a residential building in Romania, injuring two people. Romanian air defenses hit the drone over Ukraine, altering its trajectory. NATO and EU condemned Russia.</description>
+<title>🇷🇺🇺🇦 Putin Signals Escalation as Russian Forces Stall in Ukraine</title>
+<link>https://apnews.com/article/russia-putin-ukraine-war-zelenskyy-0c31bbbf0d06c457c00d046bc7ba99f7</link>
+<description>With battlefield advances grinding to a halt and war fatigue growing at home, Putin appears ready to escalate aerial attacks on Kyiv. Russian losses have nearly tripled compared to last year, and Ukraine has retaken territory around Dnipropetrovsk.</description>
+<dc:source>AP News</dc:source>
+<dc:date>2026-05-30T07:48:00+03:00</dc:date>
 <category>Ukraine-Russia War</category>
-<source url="https://www.bbc.com/news/articles/c93x4nxlkjeo">BBC</source>
-<pubDate>2026-05-30T07:45:00+03:00</pubDate>
 </item>
+
 <item>
-<title>🇮🇱⛪ Israel added to UN sexual violence blacklist for first time</title>
-<link>https://www.bbc.com/news/articles/cx21le869n1o</link>
-<description>The UN Secretary-General's annual report added Israel to the blacklist of parties credibly suspected of committing conflict-related sexual violence. Israel rejected the allegations.</description>
-<category>Middle East</category>
-<source url="https://www.bbc.com/news/articles/cx21le869n1o">BBC</source>
-<pubDate>2026-05-30T07:45:00+03:00</pubDate>
+<title>🇪🇸 Spanish PM Sánchez Faces Political Crisis After Eight Years in Power</title>
+<link>https://www.bbc.com/news/articles/c1w21gn340xo</link>
+<description>Pedro Sánchez marks eight years as prime minister amid a wave of corruption investigations targeting allies and family members. The opposition has called for his resignation, though he insists he will complete his term.</description>
+<dc:source>BBC</dc:source>
+<dc:date>2026-05-30T07:48:00+03:00</dc:date>
+<category>Europe</category>
 </item>
+
 <item>
 <title>🇺🇸🇮🇷 Trump holds meeting on Iran deal but no final agreement announced</title>
 <link>https://www.bbc.com/news/articles/c0r2d40r91qo</link>
 <description>US President Trump met with advisers to make a "final determination" on a potential Iran deal. Officials confirmed a framework was agreed, but deep mistrust remains between Washington and Tehran.</description>
+<dc:source>BBC</dc:source>
+<dc:date>2026-05-30T07:45:00+03:00</dc:date>
 <category>US-Iran War</category>
-<source url="https://www.bbc.com/news/articles/c0r2d40r91qo">BBC</source>
-<pubDate>2026-05-30T07:45:00+03:00</pubDate>
 </item>
+
+<item>
+<title>🇷🇴🇷🇺 Russian drone hits Romanian apartment block, NATO and EU condemn</title>
+<link>https://www.bbc.com/news/articles/c93x4nxlkjeo</link>
+<description>A Russian drone targeting Ukraine struck a residential building in Romania, injuring two people. Romanian air defenses hit the drone over Ukraine, altering its trajectory. NATO and EU condemned Russia.</description>
+<dc:source>BBC</dc:source>
+<dc:date>2026-05-30T07:45:00+03:00</dc:date>
+<category>Ukraine-Russia War</category>
+</item>
+
+<item>
+<title>🇮🇱⛪ Israel added to UN sexual violence blacklist for first time</title>
+<link>https://www.bbc.com/news/articles/cx21le869n1o</link>
+<description>The UN Secretary-General's annual report added Israel to the blacklist of parties credibly suspected of committing conflict-related sexual violence. Israel rejected the allegations.</description>
+<dc:source>BBC</dc:source>
+<dc:date>2026-05-30T07:45:00+03:00</dc:date>
+<category>Middle East</category>
+</item>
+
 <item>
 <title>🇬🇭 Ghana parliament passes strict anti-LGBTQ+ bill</title>
 <link>https://www.bbc.com/news/articles/c5yedendprko</link>
 <description>Ghana's parliament passed a bill making same-sex acts punishable by jail terms. The legislation targets those identifying as gay, lesbian, or transgender.</description>
+<dc:source>BBC</dc:source>
+<dc:date>2026-05-30T07:45:00+03:00</dc:date>
 <category>Africa</category>
-<source url="https://www.bbc.com/news/articles/c5yedendprko">BBC</source>
-<pubDate>2026-05-30T07:45:00+03:00</pubDate>
 </item>
+
 <item>
 <title>🇪🇺🇭🇺 EU to release billions in frozen funds for Hungary amid reforms</title>
 <link>https://www.aljazeera.com/news/2026/5/29/eu-to-release-billions-in-frozen-funds-for-hungary-amid-magyar-reform</link>
 <description>The EU agreed to release billions in frozen funds after Hungary's new government under PM Peter Magyar implemented reforms. Magyar called it a "historic" breakthrough.</description>
+<dc:source>Al Jazeera</dc:source>
+<dc:date>2026-05-30T07:45:00+03:00</dc:date>
 <category>Europe</category>
-<source url="https://www.aljazeera.com/news/2026/5/29/eu-to-release-billions-in-frozen-funds-for-hungary-amid-magyar-reform">Al Jazeera</source>
-<pubDate>2026-05-30T07:45:00+03:00</pubDate>
 </item>
+
 <item>
 <title>🇺🇦 Ukraine Strikes Oil Infrastructure and Tanker in Western Russia and Occupied Crimea</title>
 <link>https://kyivindependent.com/ukraine-reportedly-strikes-oil-infrastructure-tanker-in-occupied-crimea-western-russia/</link>
 <description>Ukrainian forces carried out coordinated strikes on oil infrastructure across Russian and Russian-held territories overnight May 30, according to Russian Telegram channels. The attacks targeted fuel storage and transport facilities.</description>
+<dc:source>Kyiv Independent</dc:source>
+<dc:date>2026-05-30T07:44:00+03:00</dc:date>
 <category>Ukraine-Russia War</category>
-<source url="https://kyivindependent.com/ukraine-reportedly-strikes-oil-infrastructure-tanker-in-occupied-crimea-western-russia/">Kyiv Independent</source>
-<pubDate>2026-05-30T07:44:00+03:00</pubDate>
 </item>
+
 <item>
 <title>🇯🇵🇺🇦 Japan Purchases  Million in Military Equipment for Ukraine Under NATO Program</title>
 <link>https://kyivindependent.com/japan-buys-over-14-million-in-military-equipment-for-ukraine-under-nato-weapons-program/</link>
 <description>Japan has contributed over $14 million in non-lethal military aid to Ukraine through the NATO Prioritized Ukraine Requirements List (PURL) initiative, marking Tokyo's expanding role in supporting Kyiv's defense.</description>
+<dc:source>Kyiv Independent</dc:source>
+<dc:date>2026-05-30T07:44:00+03:00</dc:date>
 <category>Diplomacy</category>
-<source url="https://kyivindependent.com/japan-buys-over-14-million-in-military-equipment-for-ukraine-under-nato-weapons-program/">Kyiv Independent</source>
-<pubDate>2026-05-30T07:44:00+03:00</pubDate>
 </item>
+
 <item>
 <title>🇵🇱🇺🇦 Zelensky's Decision to Honor WWII-Era Ukrainian Insurgent Army Sparks Outrage in Poland</title>
 <link>https://kyivindependent.com/zelenskys-decision-to-name-military-unit-after-wwii-era-ukrainian-insurgent-heroes-sparks-outrage-in-poland/</link>
 <description>A presidential decree naming a Ukrainian military unit after the WWII-era Ukrainian Insurgent Army (UPA) has drawn sharp criticism from Poland, highlighting ongoing historical tensions between the two allies.</description>
+<dc:source>Kyiv Independent</dc:source>
+<dc:date>2026-05-30T07:44:00+03:00</dc:date>
 <category>Europe</category>
-<source url="https://kyivindependent.com/zelenskys-decision-to-name-military-unit-after-wwii-era-ukrainian-insurgent-heroes-sparks-outrage-in-poland/">Kyiv Independent</source>
-<pubDate>2026-05-30T07:44:00+03:00</pubDate>
 </item>
+
 <item>
 <title>🇪🇺🇨🇳 EU Agrees on Tougher China Trade Policy as Beijing Vows Retaliation</title>
 <link>https://www.scmp.com/news/china/diplomacy/article/3355380/brussels-fires-starting-gun-tougher-china-trade-policy-beijing-vows-retaliation</link>
 <description>The European Union's six largest economies have agreed on stronger trade defense measures against China, with Brussels warning of a new "China shock" to European industries. Beijing has promised countermeasures.</description>
+<dc:source>SCMP</dc:source>
+<dc:date>2026-05-30T07:44:00+03:00</dc:date>
 <category>Economy</category>
-<source url="https://www.scmp.com/news/china/diplomacy/article/3355380/brussels-fires-starting-gun-tougher-china-trade-policy-beijing-vows-retaliation">SCMP</source>
-<pubDate>2026-05-30T07:44:00+03:00</pubDate>
 </item>
+
 <item>
 <title>🛰️ Pentagon Accelerates Global Aircraft Tracking with $4 Billion SpaceX Satellite Deal</title>
 <link>https://www.twz.com/space/pentagons-plans-to-track-aircraft-from-orbit-accelerated-with-new-4b-spacex-deal</link>
 <description>A new $4 billion contract with SpaceX aims to deploy a satellite network capable of tracking aircraft from orbit, potentially making traditional airborne early warning aircraft redundant and offering unprecedented global surveillance.</description>
+<dc:source>The War Zone</dc:source>
+<dc:date>2026-05-30T07:44:00+03:00</dc:date>
 <category>Defense Industry</category>
-<source url="https://www.twz.com/space/pentagons-plans-to-track-aircraft-from-orbit-accelerated-with-new-4b-spacex-deal">The War Zone</source>
-<pubDate>2026-05-30T07:44:00+03:00</pubDate>
 </item>
+
 <item>
 <title>🇺🇳 UN Blacklists Russian Forces Over Sexual Violence Against Ukrainian POWs</title>
 <link>https://www.aljazeera.com/news/2026/5/29/israel-russia-un-conflict-related-sexual-violence-report</link>
 <description>A new UN report adds Russian forces to the sexual violence "blacklist" for crimes against Ukrainian prisoners of war and civilian detainees, documenting nearly 10,000 cases of conflict-related sexual violence worldwide.</description>
+<dc:source>Al Jazeera</dc:source>
+<dc:date>2026-05-30T07:30:00+03:00</dc:date>
 <category>Ukraine-Russia War</category>
-<source url="https://www.aljazeera.com/news/2026/5/29/israel-russia-un-conflict-related-sexual-violence-report">Al Jazeera</source>
-<pubDate>2026-05-30T07:30:00+03:00</pubDate>
 </item>
+
 <item>
 <title>🇦🇪🇮🇷 UAE Conducted Dozens of Airstrikes on Iran Using US and Israeli Intelligence</title>
 <link>https://www.jpost.com/middle-east/article-897771</link>
 <description>The Wall Street Journal reports that the UAE carried out multiple strikes on Iranian targets, including the Asaluyeh petrochemical complex, using intelligence provided by the US and Israel during the Iran conflict.</description>
+<dc:source>Jerusalem Post</dc:source>
+<dc:date>2026-05-30T07:30:00+03:00</dc:date>
 <category>US-Iran War</category>
-<source url="https://www.jpost.com/middle-east/article-897771">Jerusalem Post</source>
-<pubDate>2026-05-30T07:30:00+03:00</pubDate>
 </item>
-<item>
-<title>🇱🇧 Lebanese Army Unable to Disarm Hezbollah, Israeli Army Sources Say</title>
-<link>https://www.haaretz.com/israel-news/israel-security/2026-05-28/ty-article/.premium/lebanese-army-unable-to-disarm-hezbollah-israeli-army-sources-say/0000019e-6f7d-dc57-a7be-ff7d7cd90000</link>
-<description>Israeli military officials assess that the Lebanese Armed Forces lack the capability to disarm Hezbollah, raising concerns about the implementation of any ceasefire agreement in Lebanon.</description>
-<category>Middle East</category>
-<source url="https://www.haaretz.com/israel-news/israel-security/2026-05-28/ty-article/.premium/lebanese-army-unable-to-disarm-hezbollah-israeli-army-sources-say/0000019e-6f7d-dc57-a7be-ff7d7cd90000">Haaretz</source>
-<pubDate>2026-05-30T07:30:00+03:00</pubDate>
-</item>
+
 </channel>
 </rss>

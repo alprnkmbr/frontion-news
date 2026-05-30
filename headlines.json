@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-30T07:50:42+03:00",
+  "lastUpdated": "2026-05-30T08:09:07+03:00",
   "headlines": [
+    {
+      "headline": "No Deal After Trump Meeting on Iran Nuclear Framework",
+      "summary": "President Trump met with advisers but no final determination was announced on the Iran nuclear deal framework. Officials confirmed the US and Iran have agreed to a framework of a deal.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "US-Iran War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c0r2d40r91qo",
+      "timestamp": "2026-05-30T08:00:00+03:00"
+    },
+    {
+      "headline": "Israel Added to UN Sexual Violence in Warzones Blacklist",
+      "summary": "Israel has been placed on the UN blacklist for sexual violence in conflict zones for the first time. Israel rejects the allegations in the report by the UN secretary general.",
+      "emoji": "🇮🇱🇺🇳",
+      "category": "Middle East",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx21le869n1o",
+      "timestamp": "2026-05-30T08:00:00+03:00"
+    },
+    {
+      "headline": "Russian Drone Hits Romanian Apartment Building, Injuring Two",
+      "summary": "A Russian drone targeting Ukraine struck a residential building in Romania, injuring two people. Romania says the drone was likely hit over Ukraine by its air defenses.",
+      "emoji": "🇷🇴🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-romania-drone-aa90986c237b8fa1d9116685c8c32f95",
+      "timestamp": "2026-05-30T08:00:00+03:00"
+    },
+    {
+      "headline": "Putin Ready to Escalate Ukraine War Amid Stalemate and Domestic Discontent",
+      "summary": "With a stalemate on the battlefield and growing discontent at home, Putin appears ready to escalate the war in Ukraine, according to AP analysis.",
+      "emoji": "🇷🇺⚔️",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-putin-ukraine-war-zelenskyy-0c31bbbf0d06c457c00d046bc7ba99f7",
+      "timestamp": "2026-05-30T08:00:00+03:00"
+    },
+    {
+      "headline": "Spain PM Fights for Political Survival Amid Wave of Scandals",
+      "summary": "Spanish Prime Minister Sánchez faces corruption probes targeting colleagues and relatives, putting his eight-year premiership at risk.",
+      "emoji": "🇪🇸🏛️",
+      "category": "Europe",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c1w21gn340xo",
+      "timestamp": "2026-05-30T08:00:00+03:00"
+    },
     {
       "headline": "Trump Declares He Is Lifting Naval Blockade on Iran",
       "summary": "President Trump announced he is lifting the naval blockade on Iran, though the rationale without a signed deal remains unclear and Iranian media is pushing back against his claims.",
@@ -8,15 +53,6 @@
       "category": "US-Iran War",
       "source": "The War Zone",
       "url": "https://www.twz.com/trump-declares-he-is-lifting-the-naval-blockade-on-iran",
-      "timestamp": "2026-05-30T07:50:00+03:00"
-    },
-    {
-      "headline": "Nearly 500,000 Russian Soldiers Killed in Ukraine, Top UK Intel Chief Says",
-      "summary": "The figure hardens a growing consensus among Western officials that Russia is on its heels for the first time since the Kremlin launched its invasion in 2022.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/global/europe/2026/05/30/nearly-500000-russian-soldiers-killed-ukraine-top-uk-intel-chief/",
       "timestamp": "2026-05-30T07:50:00+03:00"
     },
     {
@@ -47,6 +83,31 @@
       "timestamp": "2026-05-30T07:50:00+03:00"
     },
     {
+      "headline": "Russian Combat Losses in Ukraine Nearly Triple This Year",
+      "summary": "Ukrainian officials report 145,000 Russian casualties in 2026, with losses of 179 per square kilometer of advance—far exceeding replacement capacity. Russia has also sold 27.9 tonnes of gold reserves to fund its war effort.",
+      "emoji": "🇷🇺🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/29/russian-rate-of-losses-in-ukraine-almost-triples-in-one-year",
+      "timestamp": "2026-05-30T07:48:00+03:00",
+      "perspectives": [
+        {
+          "source": "Defense News",
+          "url": "https://www.defensenews.com/global/europe/2026/05/30/nearly-500000-russian-soldiers-killed-ukraine-top-uk-intel-chief/",
+          "angle": "Nearly 500,000 Russian Soldiers Killed in Ukraine, Top UK Intel Chief Says",
+          "summary": "The figure hardens a growing consensus among Western officials that Russia is on its heels for the first time since the Kremlin launched its invasion in 2022."
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "Defense News"
+      ],
+      "urls": [
+        "https://www.aljazeera.com/news/2026/5/29/russian-rate-of-losses-in-ukraine-almost-triples-in-one-year",
+        "https://www.defensenews.com/global/europe/2026/05/30/nearly-500000-russian-soldiers-killed-ukraine-top-uk-intel-chief/"
+      ]
+    },
+    {
       "headline": "Russian Drone Strikes Romanian Apartment Building, Injuring Two",
       "summary": "A Russian drone targeting Ukraine crashed into a residential building in the Romanian city of Galati, wounding two people and prompting NATO condemnation. Romania expelled the Russian consul and called the incident the worst violation of its territory since the war began.",
       "emoji": "🇷🇴🇷🇺",
@@ -74,22 +135,29 @@
       "timestamp": "2026-05-30T07:48:00+03:00"
     },
     {
-      "headline": "Russian Combat Losses in Ukraine Nearly Triple This Year",
-      "summary": "Ukrainian officials report 145,000 Russian casualties in 2026, with losses of 179 per square kilometer of advance—far exceeding replacement capacity. Russia has also sold 27.9 tonnes of gold reserves to fund its war effort.",
-      "emoji": "🇷🇺🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/29/russian-rate-of-losses-in-ukraine-almost-triples-in-one-year",
-      "timestamp": "2026-05-30T07:48:00+03:00"
-    },
-    {
-      "headline": "Trump Meets Advisers on Iran Deal as Tehran Signals No Agreement Yet",
-      "summary": "The US president held a Situation Room meeting to make a \"final determination\" on a potential Iran deal, but Iran's foreign ministry says no final agreement has been reached. Deep mistrust remains between Washington and Tehran.",
+      "headline": "Trump holds meeting on Iran deal but no final agreement announced",
+      "summary": "US President Trump met with advisers to make a \"final determination\" on a potential Iran deal. Officials confirmed a framework was agreed, but deep mistrust remains between Washington and Tehran.",
       "emoji": "🇺🇸🇮🇷",
       "category": "US-Iran War",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/29/trump-says-final-determination-to-be-made-on-possible-iran-deal",
-      "timestamp": "2026-05-30T07:48:00+03:00"
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c0r2d40r91qo",
+      "timestamp": "2026-05-30T07:45:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/29/trump-says-final-determination-to-be-made-on-possible-iran-deal",
+          "angle": "Trump Meets Advisers on Iran Deal as Tehran Signals No Agreement Yet",
+          "summary": "The US president held a Situation Room meeting to make a \"final determination\" on a potential Iran deal, but Iran's foreign ministry says no final agreement has been reached. Deep mistrust remains between Washington and Tehran."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/c0r2d40r91qo",
+        "https://www.aljazeera.com/news/2026/5/29/trump-says-final-determination-to-be-made-on-possible-iran-deal"
+      ]
     },
     {
       "headline": "Russian drone hits Romanian apartment block, NATO and EU condemn",
@@ -107,15 +175,6 @@
       "category": "Middle East",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cx21le869n1o",
-      "timestamp": "2026-05-30T07:45:00+03:00"
-    },
-    {
-      "headline": "Trump holds meeting on Iran deal but no final agreement announced",
-      "summary": "US President Trump met with advisers to make a \"final determination\" on a potential Iran deal. Officials confirmed a framework was agreed, but deep mistrust remains between Washington and Tehran.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0r2d40r91qo",
       "timestamp": "2026-05-30T07:45:00+03:00"
     },
     {
