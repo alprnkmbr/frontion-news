@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-30T21:04:29+03:00",
+  "lastUpdated": "2026-05-30T22:07:26+03:00",
   "headlines": [
     {
-      "headline": "Russian Drone Strike Hits Romanian Apartment Building",
-      "summary": "A Russian Geran-2 drone crossed into Romanian airspace and struck an apartment building in Galati, damaging the roof and sparking fires. Residents describe growing fear as the Ukraine war spills across borders.",
-      "emoji": "🇷🇴",
+      "headline": "US Disables Ship in Gulf During Iran Blockade",
+      "summary": "The US military struck a commercial ship attempting to breach the blockade and reach Iran with a Hellfire missile. The incident highlights continued tensions in the Gulf despite ongoing ceasefire negotiations between Washington and Tehran.",
+      "emoji": "🚢💥",
+      "category": "US-Iran War",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/30/us-disables-ship-hellfire-missile-gulf-iran-blockade",
+      "timestamp": "2026-05-30T22:05:00+03:00"
+    },
+    {
+      "headline": "Ukraine Drones Strike Russian Oil Facility",
+      "summary": "Ukrainian drones attacked a Russian oil facility as Kyiv and Moscow traded drone attacks. More than 13,000 residents in Zaporizhzhia were left without power as Russia and Ukraine exchanged strikes.",
+      "emoji": "🇺🇦🛢️",
+      "category": "Ukraine-Russia War",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/30/ukraine-drones-strike-russian-oil-facility",
+      "timestamp": "2026-05-30T22:05:00+03:00"
+    },
+    {
+      "headline": "Hegseth Addresses Shangri-La Dialogue on US Foreign Policy",
+      "summary": "US Defense Secretary Pete Hegseth outlined Americas geopolitical goals at the Shangri-La Dialogue in Singapore, addressing defense leaders amid questions about US commitment to Asian allies and ongoing global conflicts.",
+      "emoji": "🇺🇸🌏",
+      "category": "Asia-Pacific",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/30/hegseth-shangri-la-dialogue-us-foreign-policy",
+      "timestamp": "2026-05-30T22:05:00+03:00"
+    },
+    {
+      "headline": "Macron Faces Backlash After Interrupting Africa Summit Panel",
+      "summary": "French President Emmanuel Macron faced criticism after he stormed the stage at the Africa Forward Summit in Kenya to demand silence from the audience. The incident comes as France attempts to reshape its relationship with African nations as a partnership of equals rather than a former colonial power.",
+      "emoji": "🇫🇷🇰🇪",
+      "category": "Diplomacy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/africa-macron-summit-kenya-interruption-5186f15010ec1854ff31d725c904b42e",
+      "timestamp": "2026-05-30T22:05:00+03:00"
+    },
+    {
+      "headline": "Russian Drone Hits Romanian Apartment Block",
+      "summary": "A Russian drone struck a block of flats in Romania near the Ukrainian border, causing a fire and injuring two people. Residents expressed fear as Ukraine-related attacks spill over into NATO territory.",
+      "emoji": "🇷🇴🚁",
       "category": "Europe",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cvgzyp93jq1o",
-      "timestamp": "2026-05-30T21:03:00+03:00"
+      "url": "https://www.bbc.com/news/articles/cn0dl7mnj0po",
+      "timestamp": "2026-05-30T22:05:00+03:00"
     },
     {
       "headline": "Russia Recalls Ambassador to Armenia Over EU Rapprochement",
@@ -26,7 +62,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/myanmars-junta-chief-turned-president-heads-india-with-an-eye-china-2026-05-30/",
-      "timestamp": "2026-05-30T21:03:00+03:00"
+      "timestamp": "2026-05-30T21:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/05/30/nx-s1-5838637/myanmar-hlaing-india-tour",
+          "angle": "Myanmars Min Aung Hlaing Makes First Foreign Visit as Leader to India",
+          "summary": "Myanmar junta chief Min Aung Hlaing embarked on his first foreign tour since seizing power, visiting India in a significant diplomatic move as the military government seeks international legitimacy."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "NPR"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/myanmars-junta-chief-turned-president-heads-india-with-an-eye-china-2026-05-30/",
+        "https://www.npr.org/2026/05/30/nx-s1-5838637/myanmar-hlaing-india-tour"
+      ]
     },
     {
       "headline": "Israel Added to UN Sexual Violence Blacklist for First Time",
@@ -85,15 +137,6 @@
       "category": "Middle East",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/30/israeli-soldiers-reach-nabatieh-one-of-southern-lebanons-biggest-cities",
-      "timestamp": "2026-05-30T20:05:00+03:00"
-    },
-    {
-      "headline": "Myanmars Min Aung Hlaing Makes First Foreign Visit as Leader to India",
-      "summary": "Myanmar junta chief Min Aung Hlaing embarked on his first foreign tour since seizing power, visiting India in a significant diplomatic move as the military government seeks international legitimacy.",
-      "emoji": "🇲🇲🇮🇳",
-      "category": "Asia-Pacific",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/05/30/nx-s1-5838637/myanmar-hlaing-india-tour",
       "timestamp": "2026-05-30T20:05:00+03:00"
     },
     {
@@ -302,15 +345,6 @@
       "source": "NBC News",
       "url": "https://www.nbcnews.com/world/spain/spain-legalizing-half-million-immigrants-unlike-united-states-rcna347405",
       "timestamp": "2026-05-30T17:08:00+03:00"
-    },
-    {
-      "headline": "NATO Condemns Russia After Drone Hits Romanian Residential Building",
-      "summary": "A Russian drone likely hit over Ukraine by air defenses crashed into a residential block in Romania, marking a significant escalation as Russian attacks on NATO territory continue. NATO and EU both condemned the incident.",
-      "emoji": "🇷🇴",
-      "category": "Europe",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/world-europe-20260530-romania-drone",
-      "timestamp": "2026-05-30T16:03:00+03:00"
     },
     {
       "headline": "US Defense Secretary Hegseth: US Not Turning Back on Asia Allies, But Expects Defense Boost",
@@ -769,18 +803,26 @@
       "perspectives": [
         {
           "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo",
-          "angle": "Russian drone hits Romanian apartment block, NATO condemns escalation",
-          "summary": "A Russian drone struck a residential building in eastern Romania, injuring two people. NATO and the EU condemned the incident as an \"irresponsible escalation\" by Moscow amid ongoing attacks on Ukraine."
+          "url": "https://www.bbc.com/news/articles/cvgzyp93jq1o",
+          "angle": "Russian Drone Strike Hits Romanian Apartment Building",
+          "summary": "A Russian Geran-2 drone crossed into Romanian airspace and struck an apartment building in Galati, damaging the roof and sparking fires. Residents describe growing fear as the Ukraine war spills across borders."
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/world-europe-20260530-romania-drone",
+          "angle": "NATO Condemns Russia After Drone Hits Romanian Residential Building",
+          "summary": "A Russian drone likely hit over Ukraine by air defenses crashed into a residential block in Romania, marking a significant escalation as Russian attacks on NATO territory continue. NATO and EU both condemned the incident."
         }
       ],
       "sources": [
         "AP News",
+        "BBC",
         "BBC"
       ],
       "urls": [
         "https://apnews.com/article/russia-ukraine-war-romania-drone-aa90986c237b8fa1d9116685c8c32f95",
-        "https://www.bbc.com/news/articles/c93x4nxlkjeo"
+        "https://www.bbc.com/news/articles/cvgzyp93jq1o",
+        "https://www.bbc.com/news/world-europe-20260530-romania-drone"
       ]
     },
     {
