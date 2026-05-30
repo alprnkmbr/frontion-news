@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-31T01:04:46+03:00",
+  "lastUpdated": "2026-05-31T02:04:28+03:00",
   "headlines": [
+    {
+      "headline": "Ousted Turkish opposition leader Özel draws thousands in Ankara protest",
+      "summary": "Özgür Özel, removed from office by court ruling, demonstrated strong support with a major rally in Ankara, challenging President Erdoğan's grip on power ahead of elections.",
+      "emoji": "🇹🇷",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/ousted-turkish-opposition-leader-ozel-draws-thousands-ankara-protest-2026-05-30/",
+      "timestamp": "2026-05-31T02:03:00+03:00"
+    },
+    {
+      "headline": "China expands digital yuan with lottery draws and fiscal spending trials",
+      "summary": "Beijing is accelerating the rollout of its central bank digital currency through expanded pilot programs, positioning the digital yuan as a potential rival to the US dollar in global finance.",
+      "emoji": "🇨🇳",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/lottery-draws-fiscal-spending-china-broadens-digital-yuan-footprint-2026-05-30/",
+      "timestamp": "2026-05-31T02:03:00+03:00"
+    },
+    {
+      "headline": "WHO chief visits Ebola epicenter in Congo as outbreak outpaces response",
+      "summary": "WHO Director-General Tedros Adhanom Ghebreyesus arrived in Bunia to rally community response as the Ebola outbreak in eastern Congo strains global health resources.",
+      "emoji": "🌍",
+      "category": "Africa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-chief-rallies-community-congos-ebola-response-calls-more-funding-2026-05-30/",
+      "timestamp": "2026-05-31T02:03:00+03:00"
+    },
+    {
+      "headline": "Zambia clears suspected Ebola cases, steps up border screening",
+      "summary": "Zambia investigated and cleared two suspected Ebola cases while intensifying surveillance at its border with the Democratic Republic of Congo amid regional health concerns.",
+      "emoji": "🇿🇲",
+      "category": "Africa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/zambia-says-two-suspected-ebola-cases-test-negative-steps-up-screening-2026-05-30/",
+      "timestamp": "2026-05-31T02:03:00+03:00"
+    },
+    {
+      "headline": "Colombia accuses Ecuador of election interference ahead of presidential vote",
+      "summary": "Colombia's foreign ministry condemned Ecuador's decision to lift tariffs after talks with a Colombian presidential candidate, calling it \"deliberate interference\" days before the election.",
+      "emoji": "🇨🇴",
+      "category": "Latin America",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/americas/colombia-accuses-ecuador-deliberate-interference-presidential-election-amid-2026-05-30/",
+      "timestamp": "2026-05-31T02:03:00+03:00"
+    },
     {
       "headline": "US Warns It Can Resume War With Iran as Ceasefire Deal Stalls",
       "summary": "The United States warned it is 'more than capable' of resuming military operations against Iran if a ceasefire agreement cannot be reached, amid ongoing tensions over shipping in the Strait of Hormuz.",
@@ -8,7 +53,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/us-military-says-it-turned-away-blockade-runner-trying-reach-iranian-port-2026-05-30/",
-      "timestamp": "2026-05-31T01:03:00+03:00"
+      "timestamp": "2026-05-31T01:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/iran-us-war-ceasefire-nuclear-talks-cac5206df0f0c7b79fe9321c08d63096",
+          "angle": "Trump weighs Iran ceasefire deal as Tehran insists no final agreement reached",
+          "summary": "President Trump held a White House Situation Room meeting with advisers on extending the Iran ceasefire but has not made a final decision. Iran says the deal to reopen the Strait of Hormuz and extend the truce has not been finalized, demanding actions not words from Washington."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/us-military-says-it-turned-away-blockade-runner-trying-reach-iranian-port-2026-05-30/",
+        "https://apnews.com/article/iran-us-war-ceasefire-nuclear-talks-cac5206df0f0c7b79fe9321c08d63096"
+      ]
     },
     {
       "headline": "Russia Recalls Ambassador to Armenia Over EU Rapprochement",
@@ -17,7 +78,23 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/russia-recalls-envoy-armenia-over-eu-ties-ahead-vote-2026-05-30/",
-      "timestamp": "2026-05-31T01:03:00+03:00"
+      "timestamp": "2026-05-31T01:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/russia-recalls-envoy-armenia-over-eu-ties-ahead-vote-2026-05-30/",
+          "angle": "Russia Recalls Ambassador to Armenia Over EU Rapprochement",
+          "summary": "Moscow recalled its envoy to Yerevan for consultations in protest of Armenia's deepening ties with the European Union ahead of a June 7 election, signaling growing tensions in Russia's traditional sphere of influence."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/russia-recalls-envoy-armenia-over-eu-ties-ahead-vote-2026-05-30/",
+        "https://www.reuters.com/world/russia-recalls-envoy-armenia-over-eu-ties-ahead-vote-2026-05-30/"
+      ]
     },
     {
       "headline": "Philippines Defense Minister Warns China Threat Persists Despite Trump-Xi Summit",
@@ -35,7 +112,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/myanmars-junta-chief-turned-president-heads-india-with-an-eye-china-2026-05-30/",
-      "timestamp": "2026-05-31T01:03:00+03:00"
+      "timestamp": "2026-05-31T01:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/myanmars-junta-chief-turned-president-heads-india-with-an-eye-china-2026-05-30/",
+          "angle": "Myanmar Junta Chief Makes First Foreign Visit to India",
+          "summary": "Min Aung Hlaing, who recently transitioned from junta chief to president, is visiting India in his first overseas trip since taking the civilian role, seeking regional legitimacy while continuing a brutal civil war."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/myanmars-junta-chief-turned-president-heads-india-with-an-eye-china-2026-05-30/",
+        "https://www.reuters.com/world/china/myanmars-junta-chief-turned-president-heads-india-with-an-eye-china-2026-05-30/"
+      ]
     },
     {
       "headline": "Pentagon Chief Sounds Alarm Over China Buildup, Urges Allies to Boost Defense Spending",
@@ -319,40 +412,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/africa-macron-summit-kenya-interruption-5186f15010ec1854ff31d725c904b42e",
       "timestamp": "2026-05-30T22:05:00+03:00"
-    },
-    {
-      "headline": "Russia Recalls Ambassador to Armenia Over EU Rapprochement",
-      "summary": "Moscow recalled its envoy to Yerevan for consultations in protest of Armenia's deepening ties with the European Union ahead of a June 7 election, signaling growing tensions in Russia's traditional sphere of influence.",
-      "emoji": "🇦🇲🇷🇺",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/russia-recalls-envoy-armenia-over-eu-ties-ahead-vote-2026-05-30/",
-      "timestamp": "2026-05-30T21:03:00+03:00"
-    },
-    {
-      "headline": "Myanmar Junta Chief Makes First Foreign Visit to India",
-      "summary": "Min Aung Hlaing, who recently transitioned from junta chief to president, is visiting India in his first overseas trip since taking the civilian role, seeking regional legitimacy while continuing a brutal civil war.",
-      "emoji": "🇲🇲🇮🇳",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/myanmars-junta-chief-turned-president-heads-india-with-an-eye-china-2026-05-30/",
-      "timestamp": "2026-05-30T21:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/05/30/nx-s1-5838637/myanmar-hlaing-india-tour",
-          "angle": "Myanmars Min Aung Hlaing Makes First Foreign Visit as Leader to India",
-          "summary": "Myanmar junta chief Min Aung Hlaing embarked on his first foreign tour since seizing power, visiting India in a significant diplomatic move as the military government seeks international legitimacy."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "NPR"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/myanmars-junta-chief-turned-president-heads-india-with-an-eye-china-2026-05-30/",
-        "https://www.npr.org/2026/05/30/nx-s1-5838637/myanmar-hlaing-india-tour"
-      ]
     },
     {
       "headline": "Israel Added to UN Sexual Violence Blacklist for First Time",
@@ -737,39 +796,6 @@
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/zelensky-says-russia-preparing-new-large-scale-attack/",
       "timestamp": "2026-05-30T13:10:00+03:00"
-    },
-    {
-      "headline": "Trump weighs Iran ceasefire deal as Tehran insists no final agreement reached",
-      "summary": "President Trump held a White House Situation Room meeting with advisers on extending the Iran ceasefire but has not made a final decision. Iran says the deal to reopen the Strait of Hormuz and extend the truce has not been finalized, demanding actions not words from Washington.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-war-ceasefire-nuclear-talks-cac5206df0f0c7b79fe9321c08d63096",
-      "timestamp": "2026-05-30T13:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "The War Zone",
-          "url": "https://www.twz.com/trump-declares-he-is-lifting-the-naval-blockade-on-iran",
-          "angle": "Trump Lifts Naval Blockade on Iran Without Signed Deal",
-          "summary": "President Trump announced lifting the naval blockade on Iran without a formal signed agreement, while Iranian media disputes the claims. The reasons for lifting the blockade remain unclear."
-        },
-        {
-          "source": "The War Zone",
-          "url": "https://www.twz.com/trump-declares-he-is-lifting-the-naval-blockade-on-iran",
-          "angle": "Trump Declares He Is Lifting Naval Blockade on Iran",
-          "summary": "President Trump announced he is lifting the naval blockade on Iran, though the rationale without a signed deal remains unclear and Iranian media is pushing back against his claims."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "The War Zone",
-        "The War Zone"
-      ],
-      "urls": [
-        "https://apnews.com/article/iran-us-war-ceasefire-nuclear-talks-cac5206df0f0c7b79fe9321c08d63096",
-        "https://www.twz.com/trump-declares-he-is-lifting-the-naval-blockade-on-iran",
-        "https://www.twz.com/trump-declares-he-is-lifting-the-naval-blockade-on-iran"
-      ]
     },
     {
       "headline": "Blue Origin New Glenn rocket explodes during test firing at Cape Canaveral",
