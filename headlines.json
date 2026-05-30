@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-30T13:04:19+03:00",
+  "lastUpdated": "2026-05-30T14:04:33+03:00",
   "headlines": [
+    {
+      "headline": "Ghana Passes Anti-LGBTQ+ Bill Criminalizing Same-Sex Relationships",
+      "summary": "Ghana parliament approved legislation imposing jail terms for same-sex acts and for identifying as LGBTQ+, joining other African nations with restrictive laws amid Western criticism.",
+      "emoji": "🇬🇭",
+      "category": "Africa",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cqj785n7vqjo",
+      "timestamp": "2026-05-30T14:03:00+03:00"
+    },
+    {
+      "headline": "Russian Drone Strikes Residential Building in NATO Member Romania",
+      "summary": "A Russian drone hit an apartment block in eastern Romania, killing one and injuring others, prompting NATO condemnation and raising questions about alliance air defense capabilities along Ukraine border.",
+      "emoji": "🇷🇴🇷🇺",
+      "category": "Europe",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/05/29/russian-drone-romania-nato/",
+      "timestamp": "2026-05-30T14:03:00+03:00"
+    },
+    {
+      "headline": "US Defense Secretary Hegseth Tells Asian Allies to Do More for US Support",
+      "summary": "At Shangri-La Dialogue in Singapore, Pete Hegseth signaled US commitment to Asia remains strong but expects allies to increase defense spending and capability investments to get priority access to American weapons.",
+      "emoji": "🌏🇺🇸",
+      "category": "Asia-Pacific",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx4n86leqjpo",
+      "timestamp": "2026-05-30T14:03:00+03:00"
+    },
+    {
+      "headline": "Israel Added to UN Sexual Violence in Conflict Blacklist for First Time",
+      "summary": "The UN Secretary-General added Israel to the list of parties credibly suspected of sexual violence in conflict zones, drawing Israeli rejection and diplomatic tensions.",
+      "emoji": "🇮🇱🇺🇳",
+      "category": "Middle East",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c7j86kkmrn1o",
+      "timestamp": "2026-05-30T14:03:00+03:00"
+    },
+    {
+      "headline": "Kenyan Court Blocks US Plan for Ebola Quarantine Facility",
+      "summary": "A Kenyan court suspended construction of a US military-built facility designed to isolate Americans exposed to Ebola, amid local opposition and concerns about hosting foreign disease containment operations.",
+      "emoji": "🇰🇪🦠",
+      "category": "Africa",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/05/29/kenya-court-us-ebola/",
+      "timestamp": "2026-05-30T14:03:00+03:00"
+    },
     {
       "headline": "Blue Origin New Glenn rocket explodes during test firing at Cape Canaveral",
       "summary": "Jeff Bezos' Blue Origin suffered a major setback when its New Glenn rocket exploded during a static test fire, destroying part of the launch pad. The explosion creates uncertainty for NASA's Artemis moon program, which relies on Blue Origin landers for upcoming lunar missions.",
@@ -8,7 +53,23 @@
       "category": "Technology",
       "source": "AP News",
       "url": "https://apnews.com/article/blue-origin-new-glenn-rocket-explosion-a69e249784c277b0d08ac8c246b21a6d",
-      "timestamp": "2026-05-30T13:03:00+03:00"
+      "timestamp": "2026-05-30T13:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/blue-origin-new-glenn-rocket-explosion-a69e249784c277b0d08ac8c246b21a6d",
+          "angle": "Blue Origin New Glenn rocket explodes during test, damaging launch pad",
+          "summary": "Jeff Bezos' Blue Origin suffered a major setback when its 321-foot New Glenn rocket exploded during a test firing at Cape Canaveral. The explosion damaged the launch pad and casts doubt on NASA's Artemis moon program timeline, which relies on Blue Origin landers."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "AP News"
+      ],
+      "urls": [
+        "https://apnews.com/article/blue-origin-new-glenn-rocket-explosion-a69e249784c277b0d08ac8c246b21a6d",
+        "https://apnews.com/article/blue-origin-new-glenn-rocket-explosion-a69e249784c277b0d08ac8c246b21a6d"
+      ]
     },
     {
       "headline": "Trump weighs Iran ceasefire deal as Tehran insists no final agreement reached",
@@ -17,7 +78,23 @@
       "category": "US-Iran War",
       "source": "AP News",
       "url": "https://apnews.com/article/iran-us-war-ceasefire-nuclear-talks-cac5206df0f0c7b79fe9321c08d63096",
-      "timestamp": "2026-05-30T13:03:00+03:00"
+      "timestamp": "2026-05-30T13:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/iran-us-war-ceasefire-nuclear-talks-cac5206df0f0c7b79fe9321c08d63096",
+          "angle": "Trump holds Situation Room meeting on Iran deal but no decision announced",
+          "summary": "President Trump met with advisers for two hours but made no final decision on extending the Iran ceasefire. The framework deal would extend the truce 60 days, reopen the Strait of Hormuz, and launch nuclear talks. Iran insists no agreement is finalized yet."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "AP News"
+      ],
+      "urls": [
+        "https://apnews.com/article/iran-us-war-ceasefire-nuclear-talks-cac5206df0f0c7b79fe9321c08d63096",
+        "https://apnews.com/article/iran-us-war-ceasefire-nuclear-talks-cac5206df0f0c7b79fe9321c08d63096"
+      ]
     },
     {
       "headline": "Ukraine uses AI-enabled drones to strike Russian supply convoys deep behind front lines",
@@ -26,7 +103,23 @@
       "category": "Ukraine-Russia War",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cdjp0n7rn41o",
-      "timestamp": "2026-05-30T13:03:00+03:00"
+      "timestamp": "2026-05-30T13:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cdjp0n7rn41o",
+          "angle": "Ukraine deploys AI-powered drones to strike Russian supply lines deep behind front",
+          "summary": "Ukraine's new Hornet drones use AI targeting trained on years of combat footage and can strike vehicles over 100km from the front line via Starlink. BBC Verify confirmed at least 14 strikes on Russian supply convoys, forcing Russia to shorten convoys and restrict civilian traffic."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cdjp0n7rn41o",
+        "https://www.bbc.com/news/articles/cdjp0n7rn41o"
+      ]
     },
     {
       "headline": "Rwanda signs nuclear cooperation agreement with Russia amid shifting Africa alliances",
@@ -35,7 +128,23 @@
       "category": "Africa",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/30/rwanda-russia-nuclear-deal-underscores-africas-shifting-power-balance",
-      "timestamp": "2026-05-30T13:03:00+03:00"
+      "timestamp": "2026-05-30T13:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/30/rwanda-russia-nuclear-deal-underscores-africas-shifting-power-balance",
+          "angle": "Rwanda Signs Nuclear Deal With Russia as Africa Shifts Power Balance",
+          "summary": "Rwanda has turned to Russia for nuclear training and research, advancing its ambitions in technology, healthcare and diplomacy while underscoring Africa changing geopolitical alignments."
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://www.aljazeera.com/news/2026/5/30/rwanda-russia-nuclear-deal-underscores-africas-shifting-power-balance",
+        "https://www.aljazeera.com/news/2026/5/30/rwanda-russia-nuclear-deal-underscores-africas-shifting-power-balance"
+      ]
     },
     {
       "headline": "Japan buys $14 million in military equipment for Ukraine under NATO program",
@@ -88,49 +197,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/29/polish-president-threatens-to-strip-ukraines-zelenskyy-of-top-state-honour",
       "timestamp": "2026-05-30T12:03:00+03:00"
-    },
-    {
-      "headline": "Ukraine deploys AI-powered drones to strike Russian supply lines deep behind front",
-      "summary": "Ukraine's new Hornet drones use AI targeting trained on years of combat footage and can strike vehicles over 100km from the front line via Starlink. BBC Verify confirmed at least 14 strikes on Russian supply convoys, forcing Russia to shorten convoys and restrict civilian traffic.",
-      "emoji": "🤖",
-      "category": "Ukraine-Russia War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cdjp0n7rn41o",
-      "timestamp": "2026-05-30T12:03:00+03:00"
-    },
-    {
-      "headline": "Blue Origin New Glenn rocket explodes during test, damaging launch pad",
-      "summary": "Jeff Bezos' Blue Origin suffered a major setback when its 321-foot New Glenn rocket exploded during a test firing at Cape Canaveral. The explosion damaged the launch pad and casts doubt on NASA's Artemis moon program timeline, which relies on Blue Origin landers.",
-      "emoji": "🚀",
-      "category": "Technology",
-      "source": "AP News",
-      "url": "https://apnews.com/article/blue-origin-new-glenn-rocket-explosion-a69e249784c277b0d08ac8c246b21a6d",
-      "timestamp": "2026-05-30T12:03:00+03:00"
-    },
-    {
-      "headline": "Trump holds Situation Room meeting on Iran deal but no decision announced",
-      "summary": "President Trump met with advisers for two hours but made no final decision on extending the Iran ceasefire. The framework deal would extend the truce 60 days, reopen the Strait of Hormuz, and launch nuclear talks. Iran insists no agreement is finalized yet.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-war-ceasefire-nuclear-talks-cac5206df0f0c7b79fe9321c08d63096",
-      "timestamp": "2026-05-30T12:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c0r2d40r91qo",
-          "angle": "Trump Holds Situation Room Meeting on Iran Ceasefire Deal",
-          "summary": "US President Trump met with top aides to make a final determination on extending the ceasefire with Iran, but the meeting concluded without clarity. Iran insists it is not negotiating on its nuclear program while the US demands Iran never possess nuclear weapons."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "BBC"
-      ],
-      "urls": [
-        "https://apnews.com/article/iran-us-war-ceasefire-nuclear-talks-cac5206df0f0c7b79fe9321c08d63096",
-        "https://www.bbc.com/news/articles/c0r2d40r91qo"
-      ]
     },
     {
       "headline": "UN Adds Israel and Russia to Sexual Violence Blacklist",
@@ -270,15 +336,6 @@
       "category": "Asia-Pacific",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/05/30/world/asia/japan-immigration-curry-shops.html",
-      "timestamp": "2026-05-30T10:03:00+03:00"
-    },
-    {
-      "headline": "Rwanda Signs Nuclear Deal With Russia as Africa Shifts Power Balance",
-      "summary": "Rwanda has turned to Russia for nuclear training and research, advancing its ambitions in technology, healthcare and diplomacy while underscoring Africa changing geopolitical alignments.",
-      "emoji": "🇷🇼🇷🇺",
-      "category": "Africa",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/rwanda-russia-nuclear-deal-underscores-africas-shifting-power-balance",
       "timestamp": "2026-05-30T10:03:00+03:00"
     },
     {
