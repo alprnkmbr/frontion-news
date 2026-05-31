@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-31T19:11:18+03:00",
+  "lastUpdated": "2026-05-31T20:08:02+03:00",
   "headlines": [
     {
-      "headline": "Colombia Votes in Pivotal Presidential Election",
-      "summary": "Colombians head to the polls in a high-stakes presidential election pitting outgoing President Gustavo Petro's leftist allies against right-wing and pro-Trump candidates, a decade after the historic FARC peace deal.",
-      "emoji": "🇨🇴",
-      "category": "Latin America",
-      "source": "AP News",
-      "url": "https://apnews.com/article/colombia-president-election-petro-trump-c8b2170044646266ccdfce0e8bfb1bfb",
-      "timestamp": "2026-05-31T19:09:00+03:00"
+      "headline": "Israel raises flag on Beaufort Castle, expands Lebanon invasion across Litani River",
+      "summary": "Israeli forces captured the strategic Beaufort Castle in southern Lebanon and issued evacuation orders for areas south of the Zahrani River, about 40km from the border. The IDF says it has crossed the Litani River as part of expanded operations against Hezbollah.",
+      "emoji": "🇮🇱",
+      "category": "Middle East",
+      "source": "Daily Sabah",
+      "url": "https://www.dailysabah.com/world/mid-east/israel-raises-flag-on-medieval-castle-stepping-up-lebanon-invasion",
+      "timestamp": "2026-05-31T20:10:00+03:00"
+    },
+    {
+      "headline": "Ukrainian drones strike key Russian Saratov oil refinery, pipeline facilities",
+      "summary": "Ukraines military confirmed strikes on the Saratov oil refinery (7M tons/year capacity), the Lazarevo pipeline station in Kirov Oblast 1,200km from Ukraine, and a fuel depot in Rostov Oblast. Russia reported intercepting 216 drones across 10 regions.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/russias-saratov-oil-refinery-reportedly-struck-by-ukrainian-drones/",
+      "timestamp": "2026-05-31T20:10:00+03:00"
+    },
+    {
+      "headline": "Germany delivers new IRIS-T air defense system to Ukraine amid Russian attack surge",
+      "summary": "President Zelensky announced Ukraine received a new IRIS-T system from Germany as Russian forces launched over 2,300 drones, 1,560 guided bombs, and 108 missiles in the past week. Ukraine faces critical shortages of air defense missiles.",
+      "emoji": "🇩🇪",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/germany-sends-new-iris-t-system-to-ukraine-as-kyiv-braces-for-next-russian-mass-attack/",
+      "timestamp": "2026-05-31T20:10:00+03:00"
+    },
+    {
+      "headline": "Lukashenko warns Belarus has major target in Ukraine amid escalating tensions",
+      "summary": "Belarusian leader Alexander Lukashenko said Minsk has one major target with precise coordinates near Belarus, dismissing Ukrainian troops as cannon fodder. The remarks follow joint Belarusian-Russian nuclear drills and Kyivs identification of 500 potential targets in Belarus.",
+      "emoji": "🇧🇾",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/lukashenko-hints-belarus-has-major-target-in-ukraine-near-border/",
+      "timestamp": "2026-05-31T20:10:00+03:00"
+    },
+    {
+      "headline": "Trump claims Iran agreed not to develop nuclear weapons, sends revised deal proposal",
+      "summary": "President Trump said Iran has guaranteed it wont develop nuclear weapons, while reports indicate Washington sent Tehran a revised peace proposal with tougher terms. Iran maintains it requires release of $12 billion in frozen assets before substantive talks.",
+      "emoji": "🇺🇸",
+      "category": "US-Iran War",
+      "source": "Daily Sabah",
+      "url": "https://www.dailysabah.com/world/mid-east/trump-claims-iran-guarantees-it-wont-develop-nuclear-weapons",
+      "timestamp": "2026-05-31T20:10:00+03:00"
     },
     {
       "headline": "US Blasts European NATO Allies Over Defense Spending",
@@ -17,7 +53,23 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/us-castigates-europe-over-defence-spend-nato-reassures-asia-2026-05-31/",
-      "timestamp": "2026-05-31T19:09:00+03:00"
+      "timestamp": "2026-05-31T19:09:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/czech-republic-likely-miss-nato-defence-spending-target-pm-tells-ft-2026-05-31/",
+          "angle": "Czech Republic to Miss NATO Defense Spending Target",
+          "summary": "Czech Prime Minister Andrej Babis said the country will \"probably\" miss NATO's 2% GDP defense spending target this year, highlighting ongoing challenges for European allies in meeting military commitments amid US pressure."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/aerospace-defense/us-castigates-europe-over-defence-spend-nato-reassures-asia-2026-05-31/",
+        "https://www.reuters.com/world/europe/czech-republic-likely-miss-nato-defence-spending-target-pm-tells-ft-2026-05-31/"
+      ]
     },
     {
       "headline": "Iran Partially Restores Internet After Three-Month Shutdown",
@@ -197,6 +249,31 @@
       ]
     },
     {
+      "headline": "Colombia Votes in High-Stakes Presidential Election",
+      "summary": "Colombians cast ballots in a presidential election choosing between a leftist reformer, a security-focused businessman, and a right-wing senator. The outcome could reshape the country's approach to violence, inequality, and relations with the US.",
+      "emoji": "🇨🇴",
+      "category": "Latin America",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/americas/colombians-weigh-leftist-reforms-against-right-wing-crackdowns-presidential-vote-2026-05-31/",
+      "timestamp": "2026-05-31T17:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/colombia-president-election-petro-trump-c8b2170044646266ccdfce0e8bfb1bfb",
+          "angle": "Colombia Votes in Pivotal Presidential Election",
+          "summary": "Colombians head to the polls in a high-stakes presidential election pitting outgoing President Gustavo Petro's leftist allies against right-wing and pro-Trump candidates, a decade after the historic FARC peace deal."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/americas/colombians-weigh-leftist-reforms-against-right-wing-crackdowns-presidential-vote-2026-05-31/",
+        "https://apnews.com/article/colombia-president-election-petro-trump-c8b2170044646266ccdfce0e8bfb1bfb"
+      ]
+    },
+    {
       "headline": "UK Foreign Minister to Visit China and India for Strategic Talks",
       "summary": "British Foreign Secretary Yvette Cooper will travel to China on Monday and then to India, focusing on the Strait of Hormuz crisis, the Russia-Ukraine war, and the Ebola outbreak. The diplomatic mission comes as the UK seeks to maintain relations with key global powers amid shifting geopolitical dynamics.",
       "emoji": "🇬🇧",
@@ -219,56 +296,6 @@
       "urls": [
         "https://www.reuters.com/world/china/uk-foreign-minister-due-visit-china-india-discuss-global-issues-2026-05-30/",
         "https://www.reuters.com/world/china/uk-foreign-minister-due-visit-china-india-discuss-global-issues-2026-05-30/"
-      ]
-    },
-    {
-      "headline": "Colombia Votes in High-Stakes Presidential Election",
-      "summary": "Colombians cast ballots in a presidential election choosing between a leftist reformer, a security-focused businessman, and a right-wing senator. The outcome could reshape the country's approach to violence, inequality, and relations with the US.",
-      "emoji": "🇨🇴",
-      "category": "Latin America",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/americas/colombians-weigh-leftist-reforms-against-right-wing-crackdowns-presidential-vote-2026-05-31/",
-      "timestamp": "2026-05-31T17:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/americas/colombia-accuses-ecuador-deliberate-interference-presidential-election-amid-2026-05-30/",
-          "angle": "Colombia accuses Ecuador of election interference ahead of presidential vote",
-          "summary": "Colombia's foreign ministry condemned Ecuador's decision to lift tariffs after talks with a Colombian presidential candidate, calling it \"deliberate interference\" days before the election."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/americas/colombians-weigh-leftist-reforms-against-right-wing-crackdowns-presidential-vote-2026-05-31/",
-        "https://www.reuters.com/world/americas/colombia-accuses-ecuador-deliberate-interference-presidential-election-amid-2026-05-30/"
-      ]
-    },
-    {
-      "headline": "Czech Republic to Miss NATO Defense Spending Target",
-      "summary": "Czech Prime Minister Andrej Babis said the country will \"probably\" miss NATO's 2% GDP defense spending target this year, highlighting ongoing challenges for European allies in meeting military commitments amid US pressure.",
-      "emoji": "🇨🇿",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/czech-republic-likely-miss-nato-defence-spending-target-pm-tells-ft-2026-05-31/",
-      "timestamp": "2026-05-31T17:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/czech-republic-likely-miss-nato-defence-spending-target-pm-tells-ft-2026-05-31/",
-          "angle": "Czech Republic likely to miss NATO defense spending target",
-          "summary": "The Czech Republic will probably miss NATO target of 2% GDP military spending this year, Prime Minister Andrej Babis said in an interview, amid broader European defense concerns."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/czech-republic-likely-miss-nato-defence-spending-target-pm-tells-ft-2026-05-31/",
-        "https://www.reuters.com/world/europe/czech-republic-likely-miss-nato-defence-spending-target-pm-tells-ft-2026-05-31/"
       ]
     },
     {
