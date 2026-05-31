@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-05-31T13:04:47+03:00",
+  "lastUpdated": "2026-05-31T14:06:09+03:00",
   "headlines": [
+    {
+      "headline": "China Factory Activity Stalls as Demand Weakens",
+      "summary": "Chinese manufacturing activity flatlined in May as new export orders contracted and input costs rose, official data showed, raising concerns about the world's second-largest economy losing momentum.",
+      "emoji": "🇨🇳",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/china-factory-activity-stalls-may-demand-weakens-2026-05-31/",
+      "timestamp": "2026-05-31T14:03:00+03:00"
+    },
     {
       "headline": "US rebukes NATO allies over defense spending at Singapore summit",
       "summary": "The US criticized European NATO members for insufficient defense contributions while the alliance sought to reassure Asian partners. Western European officials insisted the alliance remains resilient despite tensions.",
@@ -8,7 +17,23 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/us-castigates-europe-over-defence-spend-nato-reassures-asia-2026-05-31/",
-      "timestamp": "2026-05-31T13:05:00+03:00"
+      "timestamp": "2026-05-31T13:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/koizumi-hegseth-marles-singapore-defense-conference-990438940784f4290849963060b3960",
+          "angle": "US Allies Call for Unity at Singapore Defense Summit",
+          "summary": "American allies emphasized the need for global cooperation to address cross-regional security threats, even as the Trump administration criticizes traditional partners over burden-sharing."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/aerospace-defense/us-castigates-europe-over-defence-spend-nato-reassures-asia-2026-05-31/",
+        "https://apnews.com/article/koizumi-hegseth-marles-singapore-defense-conference-990438940784f4290849963060b3960"
+      ]
     },
     {
       "headline": "Rights groups sue over conditions at largest US immigration detention center",
@@ -26,15 +51,6 @@
       "category": "US Politics",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/us/new-jersey-governor-links-rising-tension-around-immigrant-detention-center-out-2026-05-31/",
-      "timestamp": "2026-05-31T13:05:00+03:00"
-    },
-    {
-      "headline": "Ukraine strikes Russian energy sites, denies hitting Zaporizhzhia nuclear plant",
-      "summary": "Ukrainian drones attacked fuel storage and refinery facilities in Rostov and Saratov regions. Kyiv rejected Russian claims that a Ukrainian drone struck the Kremlin-occupied Zaporizhzhia nuclear plant.",
-      "emoji": "🇺🇦⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/russia-ukraine-war-drones-nuclear-plant-4168345770d6d3a3808ba9dcb9dc3305",
       "timestamp": "2026-05-31T13:05:00+03:00"
     },
     {
@@ -362,15 +378,6 @@
       ]
     },
     {
-      "headline": "US Allies Call for Unity at Singapore Defense Summit",
-      "summary": "American allies emphasized the need for global cooperation to address cross-regional security threats, even as the Trump administration criticizes traditional partners over burden-sharing.",
-      "emoji": "🌏🛡️",
-      "category": "Diplomacy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/koizumi-hegseth-marles-singapore-defense-conference-990438940784f4290849963060b3960",
-      "timestamp": "2026-05-31T08:05:00+03:00"
-    },
-    {
       "headline": "Philippines Defense Chief Warns China Threat Persists Despite US-China Thaw",
       "summary": "Manilas defense minister said the Philippines remains under severe threat from China despite the recent Trump-Xi summit that eased tensions between Washington and Beijing.",
       "emoji": "🇵🇭🇨🇳",
@@ -510,19 +517,19 @@
       "timestamp": "2026-05-31T05:00:00+03:00",
       "perspectives": [
         {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/kyiv-denies-russias-claims-of-ukrainian-drone-strike-on-zaporizhzhia-nuclear-plant/",
-          "angle": "Kyiv Denies Russian Claims of Drone Strike on Zaporizhzhia Nuclear Plant",
-          "summary": "The Ukrainian military denied Russia's claim that a Ukrainian drone struck a power unit at the Zaporizhzhia Nuclear Power Plant, calling Moscow's allegations baseless."
+          "source": "AP News",
+          "url": "https://apnews.com/article/russia-ukraine-war-drones-nuclear-plant-4168345770d6d3a3808ba9dcb9dc3305",
+          "angle": "Ukraine strikes Russian energy sites, denies hitting Zaporizhzhia nuclear plant",
+          "summary": "Ukrainian drones attacked fuel storage and refinery facilities in Rostov and Saratov regions. Kyiv rejected Russian claims that a Ukrainian drone struck the Kremlin-occupied Zaporizhzhia nuclear plant."
         }
       ],
       "sources": [
         "Reuters",
-        "Kyiv Independent"
+        "AP News"
       ],
       "urls": [
         "https://www.reuters.com/world/europe/russias-rosatom-says-ukrainian-drone-struck-zaporizhzhia-nuclear-plant-2026-05-30/",
-        "https://kyivindependent.com/kyiv-denies-russias-claims-of-ukrainian-drone-strike-on-zaporizhzhia-nuclear-plant/"
+        "https://apnews.com/article/russia-ukraine-war-drones-nuclear-plant-4168345770d6d3a3808ba9dcb9dc3305"
       ]
     },
     {
