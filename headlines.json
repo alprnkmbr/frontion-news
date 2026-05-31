@@ -1,32 +1,50 @@
 {
-  "lastUpdated": "2026-05-31T14:08:18+03:00",
+  "lastUpdated": "2026-05-31T15:05:58+03:00",
   "headlines": [
     {
-      "headline": "British Foreign Secretary to Visit China as UK Ties Show Signs of Thaw",
-      "summary": "Yvette Cooper will meet with Chinese counterpart Wang Yi and Vice-President Han Zheng to discuss the Strait of Hormuz, Russia-Ukraine war, and Ebola outbreak in Africa, signaling further easing of tensions following earlier summit.",
-      "emoji": "🇬🇧🇨🇳",
-      "category": "Diplomacy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3355463/sign-easing-uk-china-ties-british-foreign-secretary-set-talks-tech-hub-visit",
-      "timestamp": "2026-05-31T14:10:00+03:00"
+      "headline": "Israel captures strategic Beaufort Castle in deepest Lebanon incursion in 26 years",
+      "summary": "Israeli forces seized the Crusader-era Beaufort Castle in southern Lebanon, marking a significant tactical advance as Defense Minister Israel Katz announced plans to expand the ground invasion. Lebanese Prime Minister Nawaf Salam accused Israel of pursuing a scorched-earth policy.",
+      "emoji": "🇱🇧⚔️",
+      "category": "Middle East",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/31/iran-war-day-93-trump-wont-rush-deal-israel-expands-lebanon-invasion",
+      "timestamp": "2026-05-31T15:10:00+03:00"
     },
     {
-      "headline": "Japan Rejects New Militarism Accusations at Shangri-La Dialogue",
-      "summary": "Defense Minister Shinjiro Koizumi defended Japans military buildup at the Singapore forum, calling it strange that Japan is labeled militaristic despite having no nuclear weapons or strategic bombers.",
-      "emoji": "🇯🇵",
+      "headline": "Trump tightens Iran deal terms, says no rush for agreement as war enters day 93",
+      "summary": "President Trump told Fox News he is in \"no hurry\" for a deal with Iran while US media reported he asked for amendments to toughen terms of the preliminary agreement. Iran accused the US of betraying diplomacy by continuing its naval blockade.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "US-Iran War",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/us-israel-war-on-iran",
+      "timestamp": "2026-05-31T15:10:00+03:00"
+    },
+    {
+      "headline": "Russian drone hits residential building in Romania, NATO member on edge",
+      "summary": "A Russian Geran-2 (Shahed) drone struck an apartment building in the Romanian city of Galati near the Ukrainian border, injuring civilians and heightening concerns about spillover from the Ukraine war. Residents expressed fear about inadequate air defenses.",
+      "emoji": "🇷🇴🇷🇺",
+      "category": "Europe",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cvgzyp93jq1o",
+      "timestamp": "2026-05-31T15:10:00+03:00"
+    },
+    {
+      "headline": "US, UK and Australia announce underwater drone project to protect undersea cables",
+      "summary": "Defense ministers from the three AUKUS partners unveiled a new underwater drone technology initiative at the Shangri-La Dialogue in Singapore. The project aims to protect critical undersea infrastructure, with the UK contributing £150m. The technology is expected to be ready by next year.",
+      "emoji": "🇺🇸🇬🇧🇦🇺",
       "category": "Asia-Pacific",
-      "source": "Straits Times",
-      "url": "https://www.straitstimes.com/asia/japan-says-it-remains-open-to-dialogue-with-china-rejects-new-militarism-label",
-      "timestamp": "2026-05-31T14:10:00+03:00"
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo",
+      "timestamp": "2026-05-31T15:10:00+03:00"
     },
     {
-      "headline": "Colombia Votes in Presidential Election Amid Resurgent Violence",
-      "summary": "First-round voting underway in election seen as referendum on President Gustavo Petro, with candidates offering divergent visions 10 years after historic FARC peace deal. Campaign marred by drone strikes and armed attacks.",
-      "emoji": "🇨🇴",
-      "category": "Latin America",
-      "source": "France24",
-      "url": "https://www.france24.com/en/americas/20260531-colombia-presidential-election-pits-petro-allies-against-pro-trump-candidates",
-      "timestamp": "2026-05-31T14:10:00+03:00"
+      "headline": "Europe's sustainable jet fuel sector sees opportunity in Iran war disruption",
+      "summary": "The Iran war and Strait of Hormuz closure are boosting interest in e-SAF (electro-Sustainable Aviation Fuel) as Europe seeks energy independence. Germany's armed forces tested domestic e-SAF, and governments see strategic value in reducing reliance on Middle Eastern oil.",
+      "emoji": "✈️🇪🇺",
+      "category": "Economy",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/live-news/20260531-europe-s-green-jet-fuels-see-upside-in-iran-war",
+      "timestamp": "2026-05-31T15:10:00+03:00"
     },
     {
       "headline": "Typhoon Jangmi to Bring Heavy Rain to Japan This Week",
@@ -429,7 +447,23 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/uk-foreign-minister-due-visit-china-india-discuss-global-issues-2026-05-30/",
-      "timestamp": "2026-05-31T07:03:00+03:00"
+      "timestamp": "2026-05-31T07:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/china/diplomacy/article/3355463/sign-easing-uk-china-ties-british-foreign-secretary-set-talks-tech-hub-visit",
+          "angle": "British Foreign Secretary to Visit China as UK Ties Show Signs of Thaw",
+          "summary": "Yvette Cooper will meet with Chinese counterpart Wang Yi and Vice-President Han Zheng to discuss the Strait of Hormuz, Russia-Ukraine war, and Ebola outbreak in Africa, signaling further easing of tensions following earlier summit."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "SCMP"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/uk-foreign-minister-due-visit-china-india-discuss-global-issues-2026-05-30/",
+        "https://www.scmp.com/news/china/diplomacy/article/3355463/sign-easing-uk-china-ties-british-foreign-secretary-set-talks-tech-hub-visit"
+      ]
     },
     {
       "headline": "Austrian Protesters Block Key Alpine Motorway Connecting Germany and Italy",
@@ -477,19 +511,19 @@
       "timestamp": "2026-05-31T06:03:00+03:00",
       "perspectives": [
         {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo",
-          "angle": "Japan's defense minister criticizes China's 'huge arsenal' as military buildup continues",
-          "summary": "Japanese Defense Minister Shinjiro Koizumi made pointed remarks rejecting 'new militarism' accusations while stressing Japan remains open to dialogue with China despite Beijing's military expansion."
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/asia/japan-says-it-remains-open-to-dialogue-with-china-rejects-new-militarism-label",
+          "angle": "Japan Rejects New Militarism Accusations at Shangri-La Dialogue",
+          "summary": "Defense Minister Shinjiro Koizumi defended Japans military buildup at the Singapore forum, calling it strange that Japan is labeled militaristic despite having no nuclear weapons or strategic bombers."
         }
       ],
       "sources": [
         "Reuters",
-        "BBC"
+        "Straits Times"
       ],
       "urls": [
         "https://www.reuters.com/world/china/japan-pushes-back-against-accusations-new-militarism-2026-05-31/",
-        "https://www.bbc.com/news/articles/cp8p4ejy8ppo"
+        "https://www.straitstimes.com/asia/japan-says-it-remains-open-to-dialogue-with-china-rejects-new-militarism-label"
       ]
     },
     {
@@ -707,19 +741,19 @@
       "timestamp": "2026-05-31T02:03:00+03:00",
       "perspectives": [
         {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/czx2zndk7elo",
-          "angle": "Ecuador Accused of Meddling in Colombian Presidential Election",
-          "summary": "Colombias foreign ministry accused Ecuadorian President Daniel Noboa of deliberate interference after he promised right-wing candidate Abelardo de la Espriella he would lift tariffs, ahead of Sundays polarized presidential election."
+          "source": "France24",
+          "url": "https://www.france24.com/en/americas/20260531-colombia-presidential-election-pits-petro-allies-against-pro-trump-candidates",
+          "angle": "Colombia Votes in Presidential Election Amid Resurgent Violence",
+          "summary": "First-round voting underway in election seen as referendum on President Gustavo Petro, with candidates offering divergent visions 10 years after historic FARC peace deal. Campaign marred by drone strikes and armed attacks."
         }
       ],
       "sources": [
         "Reuters",
-        "BBC"
+        "France24"
       ],
       "urls": [
         "https://www.reuters.com/world/americas/colombia-accuses-ecuador-deliberate-interference-presidential-election-amid-2026-05-30/",
-        "https://www.bbc.com/news/articles/czx2zndk7elo"
+        "https://www.france24.com/en/americas/20260531-colombia-presidential-election-pits-petro-allies-against-pro-trump-candidates"
       ]
     },
     {
