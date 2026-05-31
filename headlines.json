@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-05-31T15:05:58+03:00",
+  "lastUpdated": "2026-05-31T16:04:44+03:00",
   "headlines": [
     {
-      "headline": "Israel captures strategic Beaufort Castle in deepest Lebanon incursion in 26 years",
-      "summary": "Israeli forces seized the Crusader-era Beaufort Castle in southern Lebanon, marking a significant tactical advance as Defense Minister Israel Katz announced plans to expand the ground invasion. Lebanese Prime Minister Nawaf Salam accused Israel of pursuing a scorched-earth policy.",
-      "emoji": "🇱🇧⚔️",
-      "category": "Middle East",
+      "headline": "Japan Defence Minister Slams China's \"Huge Arsenal\" at Singapore Summit",
+      "summary": "Shinjiro Koizumi rebuffed Beijing's accusations of \"new militarism,\" arguing China's nuclear arsenal and lack of transparency are the real threat to regional stability. The comments at the Shangri-La Dialogue mark Japan's most pointed response yet to Chinese criticism of its defence build-up.",
+      "emoji": "🇯🇵",
+      "category": "Asia-Pacific",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo",
+      "timestamp": "2026-05-31T16:00:00+03:00"
+    },
+    {
+      "headline": "US Stops Another Merchant Ship in Iran Port Blockade",
+      "summary": "The US military fired a missile into the engine room of a Gambia-flagged cargo ship that ignored 20+ warnings trying to enter an Iranian port. Six ships have now been stopped under the blockade launched in response to Iran's closure of the Strait of Hormuz.",
+      "emoji": "🇺🇸",
+      "category": "US-Iran War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-united-states-war-hormuz-ceasefire-aeea91e1d1682e7e22321512e6e4aa35",
+      "timestamp": "2026-05-31T16:00:00+03:00"
+    },
+    {
+      "headline": "Colombia Votes in Polarizing Presidential Election",
+      "summary": "Colombians head to polls in an election that could redefine relations with the US. Left-wing candidate Iván Cepeda, backed by outgoing President Petro, faces right-wing rivals promising to restore close security ties with Washington.",
+      "emoji": "🇨🇴",
+      "category": "Latin America",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c2027g423glo",
+      "timestamp": "2026-05-31T16:00:00+03:00"
+    },
+    {
+      "headline": "France Arrests 780 After Champions League Final Riots",
+      "summary": "Nearly 800 people were arrested and 219 injured—including 57 police—after PSG's Champions League victory sparked violent clashes across France. One person was found dead near the Paris ring road.",
+      "emoji": "🇫🇷",
+      "category": "Europe",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo",
+      "timestamp": "2026-05-31T16:00:00+03:00"
+    },
+    {
+      "headline": "US Congress Advances Bill to Integrate Israeli Military Industry",
+      "summary": "A provision in the 2027 defence authorization act would bind US and Israeli weapons industries closer than ever, creating a single coordinator for joint research, production, and military systems.",
+      "emoji": "🏛️",
+      "category": "Defense Industry",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/31/iran-war-day-93-trump-wont-rush-deal-israel-expands-lebanon-invasion",
-      "timestamp": "2026-05-31T15:10:00+03:00"
+      "url": "https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan",
+      "timestamp": "2026-05-31T16:00:00+03:00"
     },
     {
       "headline": "Trump tightens Iran deal terms, says no rush for agreement as war enters day 93",
@@ -17,7 +53,23 @@
       "category": "US-Iran War",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/us-israel-war-on-iran",
-      "timestamp": "2026-05-31T15:10:00+03:00"
+      "timestamp": "2026-05-31T15:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Jerusalem Post",
+          "url": "https://www.jpost.com/middle-east/iran-news/article-897822",
+          "angle": "Trump Seeks Amendments to US-Iran Deal on Enriched Uranium",
+          "summary": "Axios reports President Trump requested tougher terms on Irans enriched uranium in the draft peace agreement during Friday Situation Room meeting. Iran says no deal unless its rights are secured."
+        }
+      ],
+      "sources": [
+        "The Guardian",
+        "Jerusalem Post"
+      ],
+      "urls": [
+        "https://www.theguardian.com/world/us-israel-war-on-iran",
+        "https://www.jpost.com/middle-east/iran-news/article-897822"
+      ]
     },
     {
       "headline": "Russian drone hits residential building in Romania, NATO member on edge",
@@ -26,7 +78,23 @@
       "category": "Europe",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cvgzyp93jq1o",
-      "timestamp": "2026-05-31T15:10:00+03:00"
+      "timestamp": "2026-05-31T15:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cvgzyp93jq1o",
+          "angle": "Russian Drone Strikes Romanian Apartment Building Near Ukraine Border",
+          "summary": "A Russian Geran-2 drone crashed into an apartment block in Galati, Romania, injuring two people. The incident marks the most serious NATO territory strike since the Ukraine war began. Romania's president confirmed it was a Russian Shahed drone that veered off course."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cvgzyp93jq1o",
+        "https://www.bbc.com/news/articles/cvgzyp93jq1o"
+      ]
     },
     {
       "headline": "US, UK and Australia announce underwater drone project to protect undersea cables",
@@ -35,7 +103,23 @@
       "category": "Asia-Pacific",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo",
-      "timestamp": "2026-05-31T15:10:00+03:00"
+      "timestamp": "2026-05-31T15:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo",
+          "angle": "AUKUS Partners Announce Underwater Drone Technology Project",
+          "summary": "The US, UK and Australia unveiled a new uncrewed underwater vehicle project to protect undersea cables and enhance naval defense, with the UK contributing £150 million—the first major deliverable under AUKUS Pillar Two as the alliance seeks to counter Chinese maritime expansion."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/c5y8wjvd1ypo",
+        "https://www.bbc.com/news/articles/c5y8wjvd1ypo"
+      ]
     },
     {
       "headline": "Europe's sustainable jet fuel sector sees opportunity in Iran war disruption",
@@ -53,15 +137,6 @@
       "category": "Asia-Pacific",
       "source": "Straits Times",
       "url": "https://www.straitstimes.com/asia/east-asia/typhoon-jangmi-expected-to-bring-heavy-rain-to-western-eastern-japan",
-      "timestamp": "2026-05-31T14:10:00+03:00"
-    },
-    {
-      "headline": "Trump Seeks Amendments to US-Iran Deal on Enriched Uranium",
-      "summary": "Axios reports President Trump requested tougher terms on Irans enriched uranium in the draft peace agreement during Friday Situation Room meeting. Iran says no deal unless its rights are secured.",
-      "emoji": "🇮🇷🇺🇸",
-      "category": "US-Iran War",
-      "source": "Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/article-897822",
       "timestamp": "2026-05-31T14:10:00+03:00"
     },
     {
@@ -176,19 +251,27 @@
       "timestamp": "2026-05-31T12:00:00+03:00",
       "perspectives": [
         {
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/world/middle-east/israeli-troops-push-deeper-lebanon-two-sides-start-military-talks-pent-rcna347635",
-          "angle": "Israeli troops push deeper into Lebanon as Pentagon talks begin",
-          "summary": "Israeli forces entered the southern Lebanese village of Dibbine near Marjayoun as Lebanese and Israeli military officials held their first direct talks at the Pentagon in decades. The violence continues despite a nominal ceasefire that began in April."
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/5/31/iran-war-day-93-trump-wont-rush-deal-israel-expands-lebanon-invasion",
+          "angle": "Israel captures strategic Beaufort Castle in deepest Lebanon incursion in 26 years",
+          "summary": "Israeli forces seized the Crusader-era Beaufort Castle in southern Lebanon, marking a significant tactical advance as Defense Minister Israel Katz announced plans to expand the ground invasion. Lebanese Prime Minister Nawaf Salam accused Israel of pursuing a scorched-earth policy."
+        },
+        {
+          "source": "Israel National News",
+          "url": "https://www.israelnationalnews.com/news/427853",
+          "angle": "Israel expands Lebanon offensive, takes control of Beaufort Ridge",
+          "summary": "The IDF launched an operation in Beaufort Ridge and Wadi al-Saluki to remove Hezbollah terrorist infrastructure, marking a significant expansion of Israel's Lebanon operations."
         }
       ],
       "sources": [
         "Reuters",
-        "NBC News"
+        "Al Jazeera",
+        "Israel National News"
       ],
       "urls": [
         "https://www.reuters.com/business/aerospace-defense/israel-troops-capture-beaufort-castle-southern-lebanon-push-against-hezbollah-2026-05-31/",
-        "https://www.nbcnews.com/world/middle-east/israeli-troops-push-deeper-lebanon-two-sides-start-military-talks-pent-rcna347635"
+        "https://www.aljazeera.com/news/2026/5/31/iran-war-day-93-trump-wont-rush-deal-israel-expands-lebanon-invasion",
+        "https://www.israelnationalnews.com/news/427853"
       ]
     },
     {
@@ -346,31 +429,6 @@
       ]
     },
     {
-      "headline": "Russian Drone Strikes Romanian Apartment Building Near Ukraine Border",
-      "summary": "A Russian Geran-2 drone crashed into an apartment block in Galati, Romania, injuring two people. The incident marks the most serious NATO territory strike since the Ukraine war began. Romania's president confirmed it was a Russian Shahed drone that veered off course.",
-      "emoji": "🇷🇴🇷🇺⚔️",
-      "category": "Europe",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cvgzyp93jq1o",
-      "timestamp": "2026-05-31T09:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/estonia-installed-first-stationery-systems-for-detecting-drones-on-russian-border/",
-          "angle": "Estonia Deploys Drone Detection Systems on Russian Border",
-          "summary": "First stationary anti-drone systems installed along the Estonia-Russia border, marking a significant upgrade to Baltic NATO defenses."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/cvgzyp93jq1o",
-        "https://kyivindependent.com/estonia-installed-first-stationery-systems-for-detecting-drones-on-russian-border/"
-      ]
-    },
-    {
       "headline": "Israeli Soldiers Describe Ongoing Killings in Gaza Despite Ceasefire",
       "summary": "AP interviews with Israeli reservists reveal continued shooting of Palestinians near the 'yellow line' dividing Gaza. Over 900 people have been killed since October's ceasefire, with soldiers describing permissive rules of engagement and orders to 'shoot to kill' anyone crossing the line.",
       "emoji": "🇮🇱🇵🇸",
@@ -378,15 +436,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/gaza-war-yellow-line-israeli-soldiers-8a6cb8e91ba454ddc80a6335e7466451",
       "timestamp": "2026-05-31T09:05:00+03:00"
-    },
-    {
-      "headline": "Israel expands Lebanon offensive, takes control of Beaufort Ridge",
-      "summary": "The IDF launched an operation in Beaufort Ridge and Wadi al-Saluki to remove Hezbollah terrorist infrastructure, marking a significant expansion of Israel's Lebanon operations.",
-      "emoji": "🇮🇱🇱🇧",
-      "category": "Middle East",
-      "source": "Israel National News",
-      "url": "https://www.israelnationalnews.com/news/427853",
-      "timestamp": "2026-05-31T08:10:00+03:00"
     },
     {
       "headline": "US plans Coast Guard cutter transfer to Philippines amid South China Sea tensions",
@@ -686,31 +735,6 @@
       "urls": [
         "https://kyivindependent.com/russian-region-establishes-new-drone-defense-ministry-as-ukrainian-strikes-change-balance-of-war/",
         "https://kyivindependent.com/russian-region-establishes-new-drone-defense-ministry-as-ukrainian-strikes-change-balance-of-war/"
-      ]
-    },
-    {
-      "headline": "AUKUS Partners Announce Underwater Drone Technology Project",
-      "summary": "The US, UK and Australia unveiled a new uncrewed underwater vehicle project to protect undersea cables and enhance naval defense, with the UK contributing £150 million—the first major deliverable under AUKUS Pillar Two as the alliance seeks to counter Chinese maritime expansion.",
-      "emoji": "🇦🇺",
-      "category": "Asia-Pacific",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo",
-      "timestamp": "2026-05-31T03:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo",
-          "angle": "US, UK and Australia to Develop Underwater Drone Technology Under AUKUS Pact",
-          "summary": "The three nations announced plans to jointly develop underwater drone technology to protect undersea cables and boost naval defense capabilities. The initiative is part of the AUKUS military partnership aimed at countering China's growing influence in the Indo-Pacific region."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/c5y8wjvd1ypo",
-        "https://www.bbc.com/news/articles/c5y8wjvd1ypo"
       ]
     },
     {
