@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-31T04:04:34+03:00",
+  "lastUpdated": "2026-05-31T04:07:33+03:00",
   "headlines": [
+    {
+      "headline": "Russian Region Creates New Drone Defense Ministry After Ukrainian Strikes",
+      "summary": "Russia's Nizhny Novgorod Oblast has established a new ministry dedicated to protecting against Ukrainian drone strikes, reflecting how Kyiv's attacks have changed the balance of the war.",
+      "emoji": "🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/russian-region-establishes-new-drone-defense-ministry-as-ukrainian-strikes-change-balance-of-war/",
+      "timestamp": "2026-05-31T04:00:00+03:00"
+    },
+    {
+      "headline": "Russia's 64th Motorized Rifle Brigade Hit by Ukrainian Drone Strike",
+      "summary": "Ukrainian forces struck a training ground used by Russia's 64th Separate Motorized Rifle brigade, one of the units responsible for the Bucha massacre during the early days of the full-scale invasion.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/russian-brigade-that-committed-war-crimes-in-bucha-hit-by-ukrainian-drone-strike-military-says/",
+      "timestamp": "2026-05-31T04:01:00+03:00"
+    },
+    {
+      "headline": "US General Holds Rare Meeting With Cuban Military Officials Near Guantanamo",
+      "summary": "US Southern Command commander met with Cuban military officials in the first such high-level meeting in recent memory, amid Cuban concerns about possible US military action.",
+      "emoji": "🇨🇺",
+      "category": "Latin America",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/news/your-military/2026/05/30/us-general-holds-rare-meeting-with-cuban-military-officials-near-guantanamo-bay/",
+      "timestamp": "2026-05-31T04:02:00+03:00"
+    },
+    {
+      "headline": "China Building Launch Pads Near Nuclear Missile Silos",
+      "summary": "Satellite images reveal Beijing is building a web of military sites near its nuclear silos, with launch pads that could enhance China's strategic capabilities as its missiles can reach any US city.",
+      "emoji": "🇨🇳",
+      "category": "Asia-Pacific",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/global/asia-pacific/2026/05/29/china-is-building-launch-pads-near-its-nuclear-missile-silos/",
+      "timestamp": "2026-05-31T04:03:00+03:00"
+    },
+    {
+      "headline": "SoftBank Plans $88 Billion AI Data Hub in France",
+      "summary": "SoftBank founder Masayoshi Son announced the massive investment after meeting President Macron, with France's status as an energy exporter playing a key role in the decision.",
+      "emoji": "🇫🇷",
+      "category": "Economy",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/softbank/softbank-plans-88bn-ai-data-hub-in-france-as-it-expands-beyond-us/",
+      "timestamp": "2026-05-31T04:04:00+03:00"
+    },
     {
       "headline": "AUKUS Partners Announce Underwater Drone Project to Protect Sea Cables",
       "summary": "The US, UK and Australia unveiled plans to develop underwater drone technology under their AUKUS military pact, aimed at protecting undersea cables and boosting naval defense capabilities. UK will contribute £150m with the technology expected ready by next year.",
@@ -8,34 +53,23 @@
       "category": "Defense Industry",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo",
-      "timestamp": "2026-05-31T04:03:00+03:00"
-    },
-    {
-      "headline": "Russian Drone Strikes Romanian Apartment Building, Injures Two",
-      "summary": "A Russian Shahed drone hit a residential building in Galati, Romania near the Ukrainian border, injuring a woman and her teenage son. Romania confirmed it was a Russian Geran-2 drone and closed a Russian consulate in response, calling the incident reckless.",
-      "emoji": "🇷🇴🇷🇺",
-      "category": "Europe",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cvgzyp93jq1o",
-      "timestamp": "2026-05-31T04:03:00+03:00"
-    },
-    {
-      "headline": "Ecuador Accused of Meddling in Colombian Presidential Election",
-      "summary": "Colombias foreign ministry accused Ecuadorian President Daniel Noboa of deliberate interference after he promised right-wing candidate Abelardo de la Espriella he would lift tariffs, ahead of Sundays polarized presidential election.",
-      "emoji": "🇪🇨🇨🇴",
-      "category": "Latin America",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/czx2zndk7elo",
-      "timestamp": "2026-05-31T04:03:00+03:00"
-    },
-    {
-      "headline": "US Defense Chief Hegseth Reassures Asia Allies, Calls for Defense Spending",
-      "summary": "US Defense Secretary Pete Hegseth told the Shangri-La Dialogue that America is not turning its back on Asia despite the Iran war, calling on regional allies to spend 3.5% of GDP on defense while avoiding needless confrontation with China.",
-      "emoji": "🇺🇸🌏",
-      "category": "Asia-Pacific",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5ye34k7yejo",
-      "timestamp": "2026-05-31T04:03:00+03:00"
+      "timestamp": "2026-05-31T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/world",
+          "angle": "US UK Australia Sign Underwater Drone Technology Deal Under AUKUS Pact",
+          "summary": "The three nations agreed to develop underwater drone technology aimed at protecting undersea cables and boosting naval defense capabilities in the Indo-Pacific region."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/c5y8wjvd1ypo",
+        "https://www.bbc.com/news/world"
+      ]
     },
     {
       "headline": "Trump Holds Iran Deal Meeting as US Stops Another Blockade Runner",
@@ -90,6 +124,31 @@
       "timestamp": "2026-05-31T02:04:00+03:00"
     },
     {
+      "headline": "Colombia accuses Ecuador of election interference ahead of presidential vote",
+      "summary": "Colombia's foreign ministry condemned Ecuador's decision to lift tariffs after talks with a Colombian presidential candidate, calling it \"deliberate interference\" days before the election.",
+      "emoji": "🇨🇴",
+      "category": "Latin America",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/americas/colombia-accuses-ecuador-deliberate-interference-presidential-election-amid-2026-05-30/",
+      "timestamp": "2026-05-31T02:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/czx2zndk7elo",
+          "angle": "Ecuador Accused of Meddling in Colombian Presidential Election",
+          "summary": "Colombias foreign ministry accused Ecuadorian President Daniel Noboa of deliberate interference after he promised right-wing candidate Abelardo de la Espriella he would lift tariffs, ahead of Sundays polarized presidential election."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/americas/colombia-accuses-ecuador-deliberate-interference-presidential-election-amid-2026-05-30/",
+        "https://www.bbc.com/news/articles/czx2zndk7elo"
+      ]
+    },
+    {
       "headline": "WHO chief visits Ebola epicenter in Congo as outbreak outpaces response",
       "summary": "WHO Director-General Tedros Adhanom Ghebreyesus arrived in Bunia to rally community response as the Ebola outbreak in eastern Congo strains global health resources.",
       "emoji": "🌍",
@@ -140,31 +199,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/zambia-says-two-suspected-ebola-cases-test-negative-steps-up-screening-2026-05-30/",
       "timestamp": "2026-05-31T02:03:00+03:00"
-    },
-    {
-      "headline": "Colombia accuses Ecuador of election interference ahead of presidential vote",
-      "summary": "Colombia's foreign ministry condemned Ecuador's decision to lift tariffs after talks with a Colombian presidential candidate, calling it \"deliberate interference\" days before the election.",
-      "emoji": "🇨🇴",
-      "category": "Latin America",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/americas/colombia-accuses-ecuador-deliberate-interference-presidential-election-amid-2026-05-30/",
-      "timestamp": "2026-05-31T02:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/",
-          "angle": "Colombia Heads to Polls in Presidential Election Shadowed by Political Violence",
-          "summary": "Colombians vote Sunday in a presidential contest between left and right candidates, with security concerns and decades-long armed conflict dominating the political agenda."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/americas/colombia-accuses-ecuador-deliberate-interference-presidential-election-amid-2026-05-30/",
-        "https://www.aljazeera.com/news/"
-      ]
     },
     {
       "headline": "Turkey sees strong potential for drone development cooperation with Japan",
@@ -346,40 +380,6 @@
       ]
     },
     {
-      "headline": "Russian Drone Strikes Residential Building in NATO Member Romania",
-      "summary": "A Russian drone hit an apartment block in eastern Romania, causing a fire and injuring two people. The incident marks a significant escalation as Russia directly affects NATO territory amid ongoing Ukraine conflict.",
-      "emoji": "🇷🇴🇷🇺",
-      "category": "Europe",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/world",
-      "timestamp": "2026-05-31T00:03:00+03:00"
-    },
-    {
-      "headline": "US UK Australia Sign Underwater Drone Technology Deal Under AUKUS Pact",
-      "summary": "The three nations agreed to develop underwater drone technology aimed at protecting undersea cables and boosting naval defense capabilities in the Indo-Pacific region.",
-      "emoji": "🇺🇸🇬🇧🇦🇺",
-      "category": "Defense Industry",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/world",
-      "timestamp": "2026-05-31T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Telegraph",
-          "url": "https://www.telegraph.co.uk/news/2026/05/30/britain-signs-underwater-drone-deal-us-australia/",
-          "angle": "Britain Signs Underwater Drone Deal with US and Australia",
-          "summary": "The UK, Australia and US signed an agreement to develop cutting-edge underwater military drone technology under AUKUS, expanding defense cooperation amid growing concerns about Chinese naval activity in the Indo-Pacific."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "Telegraph"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/world",
-        "https://www.telegraph.co.uk/news/2026/05/30/britain-signs-underwater-drone-deal-us-australia/"
-      ]
-    },
-    {
       "headline": "US Strikes Commercial Ship Attempting to Breach Blockade and Reach Iran",
       "summary": "The United States military struck a commercial vessel that was trying to breach the naval blockade and reach Iran, according to AP News.",
       "emoji": "🚢💥",
@@ -439,6 +439,31 @@
       "timestamp": "2026-05-31T00:01:00+03:00"
     },
     {
+      "headline": "Pentagon chief urges allies to boost defense spending over China alarm",
+      "summary": "Defense Secretary Pete Hegseth urged allies to increase defense spending to counter China's growing dominance in the region during the Shangri-La Dialogue in Singapore.",
+      "emoji": "🇺🇸",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/pentagon-chief-urges-allies-boost-defence-spending-amid-alarm-over-chinas-2026-05-30/",
+      "timestamp": "2026-05-30T23:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c5ye34k7yejo",
+          "angle": "US Defense Chief Hegseth Reassures Asia Allies, Calls for Defense Spending",
+          "summary": "US Defense Secretary Pete Hegseth told the Shangri-La Dialogue that America is not turning its back on Asia despite the Iran war, calling on regional allies to spend 3.5% of GDP on defense while avoiding needless confrontation with China."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/pentagon-chief-urges-allies-boost-defence-spending-amid-alarm-over-chinas-2026-05-30/",
+        "https://www.bbc.com/news/articles/c5ye34k7yejo"
+      ]
+    },
+    {
       "headline": "Ukrainian drones strike Russian oil refinery and port",
       "summary": "Ukrainian drone strikes hit Russia's oil infrastructure overnight, damaging a tanker and an oil refinery in Taganrog and striking an oil depot in Armavir, regional officials said.",
       "emoji": "🇺🇦",
@@ -471,31 +496,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/russias-rosatom-says-ukrainian-drone-struck-zaporizhzhia-nuclear-plant-2026-05-30/",
       "timestamp": "2026-05-30T23:03:00+03:00"
-    },
-    {
-      "headline": "Pentagon chief urges allies to boost defense spending over China alarm",
-      "summary": "Defense Secretary Pete Hegseth urged allies to increase defense spending to counter China's growing dominance in the region during the Shangri-La Dialogue in Singapore.",
-      "emoji": "🇺🇸",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/pentagon-chief-urges-allies-boost-defence-spending-amid-alarm-over-chinas-2026-05-30/",
-      "timestamp": "2026-05-30T23:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/world-asia-20260530-hegseth-singapore",
-          "angle": "US Defense Secretary Hegseth: US Not Turning Back on Asia Allies, But Expects Defense Boost",
-          "summary": "At a Singapore security summit, Defense Secretary Pete Hegseth reaffirmed US commitment to Asian allies while pressing them to increase their own defense spending and arms purchases."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/pentagon-chief-urges-allies-boost-defence-spending-amid-alarm-over-chinas-2026-05-30/",
-        "https://www.bbc.com/news/world-asia-20260530-hegseth-singapore"
-      ]
     },
     {
       "headline": "India warns inflation may rise from Middle East conflict and weak monsoon",
@@ -1173,17 +1173,25 @@
         {
           "source": "BBC",
           "url": "https://www.bbc.com/news/articles/cvgzyp93jq1o",
-          "angle": "Russian Drone Hits Romanian Apartment Building, Injuring Two",
-          "summary": "A Russian Geran-2 drone struck a residential building in the Romanian city of Galati near the Ukrainian border, injuring a woman and teenager—marking the most serious NATO territory incident since the Ukraine war began, though allies stopped short of invoking collective defense."
+          "angle": "Russian Drone Strikes Romanian Apartment Building, Injures Two",
+          "summary": "A Russian Shahed drone hit a residential building in Galati, Romania near the Ukrainian border, injuring a woman and her teenage son. Romania confirmed it was a Russian Geran-2 drone and closed a Russian consulate in response, calling the incident reckless."
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/world",
+          "angle": "Russian Drone Strikes Residential Building in NATO Member Romania",
+          "summary": "A Russian drone hit an apartment block in eastern Romania, causing a fire and injuring two people. The incident marks a significant escalation as Russia directly affects NATO territory amid ongoing Ukraine conflict."
         }
       ],
       "sources": [
         "AP News",
+        "BBC",
         "BBC"
       ],
       "urls": [
         "https://apnews.com/article/russia-ukraine-war-romania-drone-aa90986c237b8fa1d9116685c8c32f95",
-        "https://www.bbc.com/news/articles/cvgzyp93jq1o"
+        "https://www.bbc.com/news/articles/cvgzyp93jq1o",
+        "https://www.bbc.com/news/world"
       ]
     },
     {
