@@ -1,211 +1,236 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Frontion News Headlines</title>
     <link>https://frontion.com</link>
-    <description>Breaking geopolitical news from Tier 1 sources</description>
+    <description>Global geopolitics headlines curated from Tier 1 sources</description>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 May 2026 05:04:58 +0300</lastBuildDate>
-    <atom:link href="https://frontion.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <lastBuildDate>Sat, 31 May 2026 03:04:52 +0000</lastBuildDate>
+    <generator>Frontion Headlines Curator</generator>
+    <item>
+      <title>🇺🇸 US Military Fires on Blockade Runner Attempting to Reach Iranian Port</title>
+      <link>https://www.reuters.com/world/middle-east/us-military-says-it-turned-away-blockade-runner-trying-reach-iranian-port-2026-05-30/</link>
+      <description>U.S. Central Command disabled a Gambia-flagged vessel with a Hellfire missile after it ignored warnings while attempting to breach the American blockade of Iranian ports, marking an escalation in enforcement of the Strait of Hormuz closure.</description>
+      <category>US-Iran War</category>
+      <dc:source>Reuters</dc:source>
+      <pubDate>Sat, 31 May 2026 03:03:00 +0000</pubDate>
+      <guid>https://www.reuters.com/world/middle-east/us-military-says-it-turned-away-blockade-runner-trying-reach-iranian-port-2026-05-30/</guid>
+    </item>
+    <item>
+      <title>🇪🇺 US Planning Accelerated Troop Withdrawal from Europe</title>
+      <link>https://www.reuters.com/world/us-planning-faster-troop-withdrawal-europe-newspaper-says-2026-05-30/</link>
+      <description>The Pentagon plans to speed up the withdrawal of troops from European bases and will present proposals to NATO allies next month, according to German newspaper Welt am Sonntag citing a Pentagon source.</description>
+      <category>Europe</category>
+      <dc:source>Reuters</dc:source>
+      <pubDate>Sat, 31 May 2026 03:03:00 +0000</pubDate>
+      <guid>https://www.reuters.com/world/us-planning-faster-troop-withdrawal-europe-newspaper-says-2026-05-30/</guid>
+    </item>
+    <item>
+      <title>🇯🇵 Japan Refutes New Militarism Accusations, Criticizes China Military Buildup</title>
+      <link>https://www.reuters.com/world/china/japan-pushes-back-against-accusations-new-militarism-2026-05-31/</link>
+      <description>Defense Minister Shinjiro Koizumi pushed back against claims of Japanese militarism while criticizing China for rapidly expanding military capabilities without transparency, underscoring deepening tensions between the two nations.</description>
+      <category>Asia-Pacific</category>
+      <dc:source>Reuters</dc:source>
+      <pubDate>Sat, 31 May 2026 03:03:00 +0000</pubDate>
+      <guid>https://www.reuters.com/world/china/japan-pushes-back-against-accusations-new-militarism-2026-05-31/</guid>
+    </item>
+    <item>
+      <title>🇨🇳 China Absent from Shangri-La Defense Forum as Delegates Ask Where is China</title>
+      <link>https://www.reuters.com/world/china/where-is-china-ask-delegates-asian-defence-forum-2026-05-30/</link>
+      <description>Chinese Defense Minister Dong Jun skipped the annual Asian security summit again this year, sending only a low-profile delegation of PLA experts and scholars as Beijing maintains its absence from key regional defense dialogues.</description>
+      <category>Diplomacy</category>
+      <dc:source>Reuters</dc:source>
+      <pubDate>Sat, 31 May 2026 03:03:00 +0000</pubDate>
+      <guid>https://www.reuters.com/world/china/where-is-china-ask-delegates-asian-defence-forum-2026-05-30/</guid>
+    </item>
+    <item>
+      <title>🇻🇳 Vietnam Leader Emphasizes Importance of Strong China Ties for Regional Peace</title>
+      <link>https://www.reuters.com/world/china/better-china-ties-can-help-regional-peace-security-vietnams-top-leader-says-2026-05-30/</link>
+      <description>Vietnam top leader stated that strong relations with China would benefit regional peace and security, while also noting the importance of U.S. ties, as Vietnam navigates its position between the two rival powers.</description>
+      <category>Asia-Pacific</category>
+      <dc:source>Reuters</dc:source>
+      <pubDate>Sat, 31 May 2026 03:03:00 +0000</pubDate>
+      <guid>https://www.reuters.com/world/china/better-china-ties-can-help-regional-peace-security-vietnams-top-leader-says-2026-05-30/</guid>
+    </item>
     <item>
       <title>🇺🇦 Ukrainian Drones Strike Russian Port and Oil Refinery in Overnight Attack</title>
-      <description>Ukrainian drone strikes damaged an oil tanker and refinery in Taganrog, and hit an oil depot in Armavir, marking an escalation in Kyiv's campaign against Russian energy infrastructure.</description>
-      <category>Ukraine-Russia War</category>
       <link>https://www.reuters.com/world/ukrainian-drones-strike-port-oil-depot-southern-russia-authorities-say-2026-05-30/</link>
-      <pubDate>2026-05-31T05:00:00+03:00</pubDate>
-      <source>Reuters</source>
+      <description>Ukrainian drones targeted a port and oil depot in southern Russia, continuing Kyiv's campaign against Russian energy infrastructure as Ukrainian forces maintain pressure on Moscow's war economy.</description>
+      <category>Ukraine-Russia War</category>
+      <dc:source>Reuters</dc:source>
+      <pubDate>Fri, 30 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.reuters.com/world/ukrainian-drones-strike-port-oil-depot-southern-russia-authorities-say-2026-05-30/</guid>
     </item>
     <item>
-      <title>☢️ Drone Strike Hits Zaporizhzhia Nuclear Plant, Russia and Ukraine Trade Blame</title>
-      <description>Russia's state nuclear agency said a Ukrainian drone struck a turbine hall at the Zaporizhzhia nuclear plant, leaving a hole in the wall. Kyiv denied responsibility.</description>
-      <category>Ukraine-Russia War</category>
+      <title>☢️ Ukrainian Drone Struck Zaporizhzhia Nuclear Plant, Says Russia's Rosatom</title>
       <link>https://www.reuters.com/world/europe/russias-rosatom-says-ukrainian-drone-struck-zaporizhzhia-nuclear-plant-2026-05-30/</link>
-      <pubDate>2026-05-31T05:00:00+03:00</pubDate>
-      <source>Reuters</source>
+      <description>Russia's state nuclear agency Rosatom reported that a Ukrainian drone struck the Zaporizhzhia nuclear power plant, raising safety concerns at Europe's largest nuclear facility which has been under Russian control since 2022.</description>
+      <category>Ukraine-Russia War</category>
+      <dc:source>Reuters</dc:source>
+      <pubDate>Fri, 30 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.reuters.com/world/europe/russias-rosatom-says-ukrainian-drone-struck-zaporizhzhia-nuclear-plant-2026-05-30/</guid>
     </item>
     <item>
-      <title>⚔️ Pentagon Chief Warns US Ready to Resume Iran Strikes If Peace Deal Fails</title>
-      <description>Defense Secretary Pete Hegseth said the US military is prepared to restart strikes on Iran if negotiations collapse, speaking at the Shangri-La defense forum in Singapore.</description>
-      <category>US-Iran War</category>
+      <title>🇺🇸 Pentagon Chief Says US Ready to Restart Strikes on Iran If No Deal</title>
       <link>https://www.reuters.com/world/asia-pacific/pentagon-chief-says-us-ready-restart-strikes-iran-if-no-deal-2026-05-30/</link>
-      <pubDate>2026-05-31T05:00:00+03:00</pubDate>
-      <source>Reuters</source>
-    </item>
-    <item>
-      <title>🦠 Congo Ebola Outbreak Surpasses 260 Confirmed Cases as Spread Accelerates</title>
-      <description>The Ebola outbreak in Democratic Republic of Congo has grown to 260 confirmed cases, with WHO and MSF warning the virus is spreading faster than the global response.</description>
-      <category>Africa</category>
-      <link>https://www.bloomberg.com/news/articles/2026-05-31/confirmed-ebola-cases-in-congo-rise-as-who-msf-warn-of-further-spread</link>
-      <pubDate>2026-05-31T05:00:00+03:00</pubDate>
-      <source>Bloomberg</source>
-    </item>
-    <item>
-      <title>🇮🇷 Iran Accuses Trump of Stalling Talks With Excessive Demands</title>
-      <description>An Iranian official said Trump is making excessive demands that stall peace negotiations, as oil prices dip on reports a deal could be close but remains uncertain.</description>
+      <description>Defense Secretary Pete Hegseth stated the U.S. is prepared to resume military strikes on Iran if negotiations fail, as talks continue over extending the ceasefire and reopening the Strait of Hormuz.</description>
       <category>US-Iran War</category>
+      <dc:source>Reuters</dc:source>
+      <pubDate>Fri, 30 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.reuters.com/world/asia-pacific/pentagon-chief-says-us-ready-restart-strikes-iran-if-no-deal-2026-05-30/</guid>
+    </item>
+    <item>
+      <title>🇮🇷 Wait for Iran Deal Continues as Trump Weighs Final Determination</title>
       <link>https://www.nbcnews.com/world/iran/wait-iran-deal-continues-trump-final-determination-rcna347659</link>
-      <pubDate>2026-05-31T05:00:00+03:00</pubDate>
-      <source>NBC News</source>
+      <description>Negotiations between Washington and Tehran continue as President Trump weighs whether to accept a framework deal that would extend the ceasefire and reopen the Strait of Hormuz, with nuclear issues remaining a key sticking point.</description>
+      <category>US-Iran War</category>
+      <dc:source>NBC News</dc:source>
+      <pubDate>Fri, 30 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.nbcnews.com/world/iran/wait-iran-deal-continues-trump-final-determination-rcna347659</guid>
     </item>
     <item>
-      <title>🇫🇷 SoftBank Plans $88 Billion AI Data Hub in France</title>
-      <description>SoftBank founder Masayoshi Son announced the massive investment after meeting President Macron, with France's status as an energy exporter playing a key role in the decision.</description>
-      <category>Economy</category>
+      <title>💾 SoftBank Plans \$88 Billion AI Data Hub in France</title>
       <link>https://asia.nikkei.com/business/softbank/softbank-plans-88bn-ai-data-hub-in-france-as-it-expands-beyond-us/</link>
-      <pubDate>2026-05-31T04:04:00+03:00</pubDate>
-      <source>Nikkei Asia</source>
+      <description>SoftBank announced plans to invest €80 billion in a massive AI data center in France, marking the Japanese conglomerate's push to expand its artificial intelligence infrastructure beyond the United States.</description>
+      <category>Economy</category>
+      <dc:source>Nikkei Asia</dc:source>
+      <pubDate>Thu, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://asia.nikkei.com/business/softbank/softbank-plans-88bn-ai-data-hub-in-france-as-it-expands-beyond-us/</guid>
     </item>
     <item>
-      <title>🇨🇳 China Building Launch Pads Near Nuclear Missile Silos</title>
-      <description>Satellite images reveal Beijing is building a web of military sites near its nuclear silos, with launch pads that could enhance China's strategic capabilities as its missiles can reach any US city.</description>
-      <category>Asia-Pacific</category>
+      <title>🚀 China Building Launch Pads Near Nuclear Missile Silos</title>
       <link>https://www.defensenews.com/global/asia-pacific/2026/05/29/china-is-building-launch-pads-near-its-nuclear-missile-silos/</link>
-      <pubDate>2026-05-31T04:03:00+03:00</pubDate>
-      <source>Defense News</source>
+      <description>Satellite imagery reveals China is constructing new launch facilities near its nuclear missile silo fields, potentially expanding its strategic weapons capability and raising concerns about nuclear escalation in the Indo-Pacific.</description>
+      <category>Military</category>
+      <dc:source>Defense News</dc:source>
+      <pubDate>Thu, 29 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.defensenews.com/global/asia-pacific/2026/05/29/china-is-building-launch-pads-near-its-nuclear-missile-silos/</guid>
     </item>
     <item>
-      <title>🇺🇸🇬🇧🇦🇺 AUKUS Partners Announce Underwater Drone Project to Protect Sea Cables</title>
-      <description>The US, UK and Australia unveiled plans to develop underwater drone technology under their AUKUS military pact, aimed at protecting undersea cables and boosting naval defense capabilities. UK will contribute £150m with the technology expected ready by next year.</description>
-      <category>Defense Industry</category>
+      <title>⚔️ Iran Says It Shot Down US Drone Over Territorial Waters</title>
       <link>https://www.bbc.com/news/articles/c5y8wjvd1ypo</link>
-      <pubDate>2026-05-31T04:03:00+03:00</pubDate>
-      <source>BBC</source>
-    </item>
-    <item>
-      <title>🇨🇺 US General Holds Rare Meeting With Cuban Military Officials Near Guantanamo</title>
-      <description>US Southern Command commander met with Cuban military officials in the first such high-level meeting in recent memory, amid Cuban concerns about possible US military action.</description>
-      <category>Latin America</category>
-      <link>https://www.defensenews.com/news/your-military/2026/05/30/us-general-holds-rare-meeting-with-cuban-military-officials-near-guantanamo-bay/</link>
-      <pubDate>2026-05-31T04:02:00+03:00</pubDate>
-      <source>Defense News</source>
-    </item>
-    <item>
-      <title>🇷🇺 Russian Region Creates New Drone Defense Ministry After Ukrainian Strikes</title>
-      <description>Russia's Nizhny Novgorod Oblast has established a new ministry dedicated to protecting against Ukrainian drone strikes, reflecting how Kyiv's attacks have changed the balance of the war.</description>
-      <category>Ukraine-Russia War</category>
-      <link>https://kyivindependent.com/russian-region-establishes-new-drone-defense-ministry-as-ukrainian-strikes-change-balance-of-war/</link>
-      <pubDate>2026-05-31T04:00:00+03:00</pubDate>
-      <source>Kyiv Independent</source>
-    </item>
-    <item>
-      <title>🇺🇸 Trump Holds Iran Deal Meeting as US Stops Another Blockade Runner</title>
-      <description>President Trump met with top aides in the White House Situation Room to decide on extending the Iran ceasefire, while US Central Command reported stopping a Gambian-flagged cargo ship attempting to breach the Iranian port blockade—the sixth ship interdicted since April.</description>
+      <description>Iran claimed it shot down a U.S. military drone over its territorial waters amid escalating tensions in the Persian Gulf, though U.S. Central Command has not confirmed the incident.</description>
       <category>US-Iran War</category>
-      <link>https://apnews.com/article/iran-united-states-war-hormuz-ceasefire-aeea91e1d1682e7e22321512e6e4aa35</link>
-      <pubDate>2026-05-31T03:03:00+03:00</pubDate>
-      <source>AP News</source>
+      <dc:source>BBC</dc:source>
+      <pubDate>Fri, 30 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.bbc.com/news/articles/c5y8wjvd1ypo</guid>
     </item>
     <item>
-      <title>🇦🇺 AUKUS Partners Announce Underwater Drone Technology Project</title>
-      <description>The US, UK and Australia unveiled a new uncrewed underwater vehicle project to protect undersea cables and enhance naval defense, with the UK contributing £150 million—the first major deliverable under AUKUS Pillar Two as the alliance seeks to counter Chinese maritime expansion.</description>
-      <category>Asia-Pacific</category>
-      <link>https://www.bbc.com/news/articles/c5y8wjvd1ypo</link>
-      <pubDate>2026-05-31T03:03:00+03:00</pubDate>
-      <source>BBC</source>
-    </item>
-    <item>
-      <title>🇺🇸🇨🇳🇹🇼 Trump roils waters on Taiwan independence after Beijing summit</title>
-      <description>Debate over US president's China trip reveals varied interpretations of his stance on Taiwan, with Trump saying the US is "not looking to have somebody say, let's go independent."</description>
-      <category>US-China</category>
-      <link>https://asia.nikkei.com/politics/international-relations/taiwan-tensions/trump-roils-waters-on-taiwan-independence-4-things-to-know</link>
-      <pubDate>2026-05-31T02:04:00+03:00</pubDate>
-      <source>Nikkei Asia</source>
-    </item>
-    <item>
-      <title>🇺🇸🇨🇺 US general holds rare meeting with Cuban military officials near Guantanamo</title>
-      <description>The first meeting in recent memory between a US Southern Command head and Cuban military officials comes amid growing concerns in Cuba about possible US military action.</description>
-      <category>Americas</category>
+      <title>🇨🇺 US General Holds Rare Meeting with Cuban Military Officials Near Guantanamo</title>
       <link>https://www.defensenews.com/news/your-military/2026/05/30/us-general-holds-rare-meeting-with-cuban-military-officials-near-guantanamo-bay/</link>
-      <pubDate>2026-05-31T02:04:00+03:00</pubDate>
-      <source>Defense News</source>
-    </item>
-    <item>
-      <title>🇨🇴 Colombia accuses Ecuador of election interference ahead of presidential vote</title>
-      <description>Colombia's foreign ministry condemned Ecuador's decision to lift tariffs after talks with a Colombian presidential candidate, calling it "deliberate interference" days before the election.</description>
-      <category>Latin America</category>
-      <link>https://www.reuters.com/world/americas/colombia-accuses-ecuador-deliberate-interference-presidential-election-amid-2026-05-30/</link>
-      <pubDate>2026-05-31T02:03:00+03:00</pubDate>
-      <source>Reuters</source>
-    </item>
-    <item>
-      <title>🌍 WHO chief visits Ebola epicenter in Congo as outbreak outpaces response</title>
-      <description>WHO Director-General Tedros Adhanom Ghebreyesus arrived in Bunia to rally community response as the Ebola outbreak in eastern Congo strains global health resources.</description>
-      <category>Africa</category>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/who-chief-rallies-community-congos-ebola-response-calls-more-funding-2026-05-30/</link>
-      <pubDate>2026-05-31T02:03:00+03:00</pubDate>
-      <source>Reuters</source>
-    </item>
-    <item>
-      <title>🇹🇷 Ousted Turkish opposition leader Özel draws thousands in Ankara protest</title>
-      <description>Özgür Özel, removed from office by court ruling, demonstrated strong support with a major rally in Ankara, challenging President Erdoğan's grip on power ahead of elections.</description>
-      <category>Europe</category>
-      <link>https://www.reuters.com/world/middle-east/ousted-turkish-opposition-leader-ozel-draws-thousands-ankara-protest-2026-05-30/</link>
-      <pubDate>2026-05-31T02:03:00+03:00</pubDate>
-      <source>Reuters</source>
-    </item>
-    <item>
-      <title>🇨🇳 China expands digital yuan with lottery draws and fiscal spending trials</title>
-      <description>Beijing is accelerating the rollout of its central bank digital currency through expanded pilot programs, positioning the digital yuan as a potential rival to the US dollar in global finance.</description>
-      <category>Asia-Pacific</category>
-      <link>https://www.reuters.com/business/finance/lottery-draws-fiscal-spending-china-broadens-digital-yuan-footprint-2026-05-30/</link>
-      <pubDate>2026-05-31T02:03:00+03:00</pubDate>
-      <source>Reuters</source>
-    </item>
-    <item>
-      <title>🇿🇲 Zambia clears suspected Ebola cases, steps up border screening</title>
-      <description>Zambia investigated and cleared two suspected Ebola cases while intensifying surveillance at its border with the Democratic Republic of Congo amid regional health concerns.</description>
-      <category>Africa</category>
-      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/zambia-says-two-suspected-ebola-cases-test-negative-steps-up-screening-2026-05-30/</link>
-      <pubDate>2026-05-31T02:03:00+03:00</pubDate>
-      <source>Reuters</source>
-    </item>
-    <item>
-      <title>🇹🇷🇯🇵 Turkey sees strong potential for drone development cooperation with Japan</title>
-      <description>Turkish Foreign Minister Hakan Fidan tells Nikkei Asia that Turkey is eager to cooperate with Japan on unmanned aerial systems, including joint development and co-production of drones.</description>
-      <category>Defense Industry</category>
-      <link>https://asia.nikkei.com/editor-s-picks/interview/turkey-sees-strong-potential-for-drone-development-with-japan</link>
-      <pubDate>2026-05-31T02:00:00+03:00</pubDate>
-      <source>Nikkei Asia</source>
-    </item>
-    <item>
-      <title>🇺🇸🇺🇦 Hegseth promises US will find way to help Ukraine amid air defense shortage</title>
-      <description>US Defense Secretary Pete Hegseth told reporters the US will "find a way" to help Ukraine defend itself after Zelensky sent an urgent letter to the White House about worsening air defense shortages.</description>
-      <category>Ukraine-Russia War</category>
-      <link>https://kyivindependent.com/hegseth-letter/</link>
-      <pubDate>2026-05-31T01:47:00+03:00</pubDate>
-      <source>Kyiv Independent</source>
-    </item>
-    <item>
-      <title>🇺🇸🇮🇷⚔️ US Warns It Can Resume War With Iran as Ceasefire Deal Stalls</title>
-      <description>The United States warned it is 'more than capable' of resuming military operations against Iran if a ceasefire agreement cannot be reached, amid ongoing tensions over shipping in the Strait of Hormuz.</description>
-      <category>US-Iran War</category>
-      <link>https://www.reuters.com/world/middle-east/us-military-says-it-turned-away-blockade-runner-trying-reach-iranian-port-2026-05-30/</link>
-      <pubDate>2026-05-31T01:03:00+03:00</pubDate>
-      <source>Reuters</source>
-    </item>
-    <item>
-      <title>🇷🇺🇦🇲🇪🇺 Russia Recalls Ambassador to Armenia Over EU Rapprochement</title>
-      <description>Russia recalled its ambassador to Armenia for consultations in protest at Yerevan's deepening ties with the European Union ahead of a crucial June 7 election, signaling mounting tensions in the South Caucasus.</description>
+      <description>A U.S. general held a rare meeting with Cuban military officials near Guantanamo Bay, marking an unusual diplomatic engagement between the two nations amid ongoing tensions.</description>
       <category>Diplomacy</category>
-      <link>https://www.reuters.com/world/russia-recalls-envoy-armenia-over-eu-ties-ahead-vote-2026-05-30/</link>
-      <pubDate>2026-05-31T01:03:00+03:00</pubDate>
-      <source>Reuters</source>
+      <dc:source>Defense News</dc:source>
+      <pubDate>Fri, 30 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.defensenews.com/news/your-military/2026/05/30/us-general-holds-rare-meeting-with-cuban-military-officials-near-guantanamo-bay/</guid>
     </item>
     <item>
-      <title>🇵🇭🇨🇳⚠️ Philippines Defense Minister Warns China Threat Persists Despite Trump-Xi Summit</title>
-      <description>The Philippines remains under 'severe threat' from China, Defense Minister said Saturday, despite recent U.S.-China tensions easing after the Trump-Xi summit earlier this month.</description>
-      <category>South Asia</category>
-      <link>https://www.reuters.com/world/china/philippines-remains-under-threat-china-despite-trump-xi-summit-minister-says-2026-05-30/</link>
-      <pubDate>2026-05-31T01:03:00+03:00</pubDate>
-      <source>Reuters</source>
+      <title>🇷🇺 Russian Region Establishes New Drone Defense Ministry</title>
+      <link>https://kyivindependent.com/russian-region-establishes-new-drone-defense-ministry-as-ukrainian-strikes-change-balance-of-war/</link>
+      <description>A Russian region has created a new ministry dedicated to drone defense as Ukrainian strikes increasingly challenge Moscow's military capabilities and force organizational changes in Russia's war effort.</description>
+      <category>Ukraine-Russia War</category>
+      <dc:source>Kyiv Independent</dc:source>
+      <pubDate>Fri, 30 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://kyivindependent.com/russian-region-establishes-new-drone-defense-ministry-as-ukrainian-strikes-change-balance-of-war/</guid>
     </item>
     <item>
-      <title>🇲🇲🇮🇳🇨🇳 Myanmar Junta Chief Turned President Makes First Foreign Visit to India</title>
-      <description>Min Aung Hlaing, who transitioned from junta chief to president less than two months ago, will visit India on Saturday in his first overseas trip, with analysts noting his focus on balancing China's influence.</description>
-      <category>Asia-Pacific</category>
-      <link>https://www.reuters.com/world/china/myanmars-junta-chief-turned-president-heads-india-with-an-eye-china-2026-05-30/</link>
-      <pubDate>2026-05-31T01:03:00+03:00</pubDate>
-      <source>Reuters</source>
+      <title>🇮🇷 AP Analysis: Iran-US War Stalemate and Ceasefire Prospects</title>
+      <link>https://apnews.com/article/iran-united-states-war-hormuz-ceasefire-aeea91e1d1682e7e22321512e6e4aa35</link>
+      <description>An Associated Press analysis examines the current state of the Iran-U.S. conflict, the challenges in negotiating a ceasefire, and the strategic calculations shaping both sides' positions.</description>
+      <category>US-Iran War</category>
+      <dc:source>AP News</dc:source>
+      <pubDate>Fri, 30 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://apnews.com/article/iran-united-states-war-hormuz-ceasefire-aeea91e1d1682e7e22321512e6e4aa35</guid>
+    </item>
+    <item>
+      <title>🇹🇼 Trump Roils Waters on Taiwan Independence</title>
+      <link>https://asia.nikkei.com/politics/international-relations/taiwan-tensions/trump-roils-waters-on-taiwan-independence-4-things-to-know</link>
+      <description>President Trump's recent statements on Taiwan have created uncertainty about U.S. policy toward the island, with implications for cross-strait relations and regional security.</description>
+      <category>US-China</category>
+      <dc:source>Nikkei Asia</dc:source>
+      <pubDate>Fri, 30 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://asia.nikkei.com/politics/international-relations/taiwan-tensions/trump-roils-waters-on-taiwan-independence-4-things-to-know</guid>
+    </item>
+    <item>
+      <title>🇨🇩 WHO Chief Rallies Community Support for Congo Ebola Response</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/who-chief-rallies-community-congos-ebola-response-calls-more-funding-2026-05-30/</link>
+      <description>WHO Director-General Tedros Adhanom Ghebreyesus visited the epicenter of the Ebola outbreak in Congo, calling for more funding and community engagement as the outbreak continues to spread.</description>
+      <category>Africa</category>
+      <dc:source>Reuters</dc:source>
+      <pubDate>Fri, 30 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/who-chief-rallies-community-congos-ebola-response-calls-more-funding-2026-05-30/</guid>
+    </item>
+    <item>
+      <title>🇨🇴 Colombia Accuses Ecuador of Interference in Presidential Election</title>
+      <link>https://www.reuters.com/world/americas/colombia-accuses-ecuador-deliberate-interference-presidential-election-amid-2026-05-30/</link>
+      <description>Colombia has accused Ecuador of deliberate interference in its presidential election, straining diplomatic relations between the two South American nations.</description>
+      <category>Latin America</category>
+      <dc:source>Reuters</dc:source>
+      <pubDate>Fri, 30 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.reuters.com/world/americas/colombia-accuses-ecuador-deliberate-interference-presidential-election-amid-2026-05-30/</guid>
+    </item>
+    <item>
+      <title>🇹🇷 Ousted Turkish Opposition Leader Draws Thousands in Ankara Protest</title>
+      <link>https://www.reuters.com/world/middle-east/ousted-turkish-opposition-leader-ozel-draws-thousands-ankara-protest-2026-05-30/</link>
+      <description>Thousands gathered in Ankara to support ousted opposition leader Ozgur Ozel, demonstrating ongoing political tensions in Turkey following government actions against opposition figures.</description>
+      <category>Middle East</category>
+      <dc:source>Reuters</dc:source>
+      <pubDate>Fri, 30 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.reuters.com/world/middle-east/ousted-turkish-opposition-leader-ozel-draws-thousands-ankara-protest-2026-05-30/</guid>
+    </item>
+    <item>
+      <title>🇨🇳 China Broadens Digital Yuan Footprint</title>
+      <link>https://www.reuters.com/business/finance/lottery-draws-fiscal-spending-china-broadens-digital-yuan-footprint-2026-05-30/</link>
+      <description>China continues to expand its digital yuan currency program, using lottery distributions and fiscal spending initiatives to increase adoption of the central bank digital currency.</description>
+      <category>Economy</category>
+      <dc:source>Reuters</dc:source>
+      <pubDate>Fri, 30 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.reuters.com/business/finance/lottery-draws-fiscal-spending-china-broadens-digital-yuan-footprint-2026-05-30/</guid>
+    </item>
+    <item>
+      <title>🇿🇲 Zambia Clears Suspected Ebola Cases, Steps Up Screening</title>
+      <link>https://www.reuters.com/business/healthcare-pharmaceuticals/zambia-says-two-suspected-ebola-cases-test-negative-steps-up-screening-2026-05-30/</link>
+      <description>Zambia reported two suspected Ebola cases tested negative while stepping up screening measures in response to the outbreak in neighboring Democratic Republic of Congo.</description>
+      <category>Africa</category>
+      <dc:source>Reuters</dc:source>
+      <pubDate>Fri, 30 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.reuters.com/business/healthcare-pharmaceuticals/zambia-says-two-suspected-ebola-cases-test-negative-steps-up-screening-2026-05-30/</guid>
+    </item>
+    <item>
+      <title>🇹🇷 Turkey Sees Potential for Drone Development with Japan</title>
+      <link>https://asia.nikkei.com/editor-s-picks/interview/turkey-sees-strong-potential-for-drone-development-with-japan</link>
+      <description>Turkey's defense industry sees strong potential for collaboration with Japan on drone development, as Ankara seeks to expand its defense partnerships in the Indo-Pacific region.</description>
+      <category>Defense Industry</category>
+      <dc:source>Nikkei Asia</dc:source>
+      <pubDate>Fri, 30 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://asia.nikkei.com/editor-s-picks/interview/turkey-sees-strong-potential-for-drone-development-with-japan</guid>
+    </item>
+    <item>
+      <title>🇺🇸 Hegseth Letter: US Military Policy Updates</title>
+      <link>https://kyivindependent.com/hegseth-letter/</link>
+      <description>Recent communications from Defense Secretary Pete Hegseth outline policy updates and strategic priorities for U.S. military operations amid ongoing global conflicts.</description>
+      <category>Military</category>
+      <dc:source>Kyiv Independent</dc:source>
+      <pubDate>Fri, 30 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://kyivindependent.com/hegseth-letter/</guid>
+    </item>
+    <item>
+      <title>🇮🇱 Lebanon PM Accuses Israel of Scorched-Earth Policy in South</title>
+      <link>https://www.firstpost.com/world/lebanon-pm-accuses-israel-of-conducting-scorched-earth-policy-as-fresh-strikes-rock-countrys-south-14017065.html</link>
+      <description>Lebanon's prime minister accused Israel of pursuing a scorched-earth policy in southern Lebanon as Israeli airstrikes continued, calling for an end to the fighting.</description>
+      <category>Middle East</category>
+      <dc:source>First Post</dc:source>
+      <pubDate>Sat, 31 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.firstpost.com/world/lebanon-pm-accuses-israel-of-conducting-scorched-earth-policy-as-fresh-strikes-rock-countrys-south-14017065.html</guid>
+    </item>
+    <item>
+      <title>💰 Exxon and Chevron Warn Oil Could Hit \$160 as Iran War Strains Stockpiles</title>
+      <link>https://www.livemint.com/news/world/total-world-latest-news-on-may-31-2026-live-updates-11780186014796.html</link>
+      <description>Major oil companies Exxon and Chevron warned that crude prices could surge to \$160 per barrel as the Iran conflict depletes global oil stockpiles to critically low levels.</description>
+      <category>Energy</category>
+      <dc:source>Livemint</dc:source>
+      <pubDate>Sat, 31 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://www.livemint.com/news/world/total-world-latest-news-on-may-31-2026-live-updates-11780186014796.html</guid>
     </item>
   </channel>
 </rss>
