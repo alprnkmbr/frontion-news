@@ -1,14 +1,41 @@
 {
-  "lastUpdated": "2026-05-31T18:07:30+03:00",
+  "lastUpdated": "2026-05-31T19:11:18+03:00",
   "headlines": [
     {
-      "headline": "Israel captures Beaufort Castle and pushes past Litani River in deepest Lebanon incursion in 25 years",
-      "summary": "Israeli forces seized the strategic Crusader-era Beaufort Castle and crossed the Litani River, with Netanyahu vowing to expand the offensive. The move marks a dramatic shift in Israel's Lebanon campaign and could reshape the security landscape.",
-      "emoji": "🇮🇱🇱🇧",
+      "headline": "Colombia Votes in Pivotal Presidential Election",
+      "summary": "Colombians head to the polls in a high-stakes presidential election pitting outgoing President Gustavo Petro's leftist allies against right-wing and pro-Trump candidates, a decade after the historic FARC peace deal.",
+      "emoji": "🇨🇴",
+      "category": "Latin America",
+      "source": "AP News",
+      "url": "https://apnews.com/article/colombia-president-election-petro-trump-c8b2170044646266ccdfce0e8bfb1bfb",
+      "timestamp": "2026-05-31T19:09:00+03:00"
+    },
+    {
+      "headline": "US Blasts European NATO Allies Over Defense Spending",
+      "summary": "The United States criticized NATO allies at a Singapore summit over inadequate defense contributions, while European officials insisted the alliance remains resilient amid growing transatlantic tensions.",
+      "emoji": "🇺🇸🇪🇺",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/us-castigates-europe-over-defence-spend-nato-reassures-asia-2026-05-31/",
+      "timestamp": "2026-05-31T19:09:00+03:00"
+    },
+    {
+      "headline": "Iran Partially Restores Internet After Three-Month Shutdown",
+      "summary": "Iranian authorities have reinstated limited internet access three months after cutting off the country at the start of the war with the US and Israel, though significant restrictions remain in place.",
+      "emoji": "🇮🇷",
       "category": "Middle East",
-      "source": "Al-Monitor",
-      "url": "https://www.al-monitor.com/originals/2026/05/israel-pm-says-capturing-beaufort-dramatic-shift-lebanon-offensive",
-      "timestamp": "2026-05-31T18:10:00+03:00"
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/31/iran-reinstates-some-internet-access-but-restrictions-remain-for-most",
+      "timestamp": "2026-05-31T19:09:00+03:00"
+    },
+    {
+      "headline": "Trump Ukraine Aid Cuts Undermine Russian War Crimes Investigations",
+      "summary": "US aid reductions are hampering efforts to document and prosecute Russian war crimes in Ukraine, as investigators face challenges gathering evidence amid ongoing conflict.",
+      "emoji": "🇺🇦⚖️",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/how-trumps-ukraine-aid-cuts-undermine-justice-russian-war-crimes-2026-05-31/",
+      "timestamp": "2026-05-31T19:09:00+03:00"
     },
     {
       "headline": "IRGC attacks separatist groups in northern Iraq amid regional tensions",
@@ -17,24 +44,6 @@
       "category": "Middle East",
       "source": "Al Arabiya",
       "url": "https://english.alarabiya.net/News/middle-east/2026/05/31/iran-s-irgc-attacks-separatist-groups-in-northern-iraq",
-      "timestamp": "2026-05-31T18:10:00+03:00"
-    },
-    {
-      "headline": "Ebola outbreak in Congo and Uganda reaches 263 confirmed cases with 43 deaths",
-      "summary": "A rare strain of Ebola has spread across the Democratic Republic of Congo and Uganda, with cases outpacing the response. Africa CDC reports 263 confirmed cases as health authorities struggle to contain the outbreak.",
-      "emoji": "🦠🇨🇩🇺🇬",
-      "category": "Africa",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/world/2026/05/31/congo-and-uganda-report-263-confirmed-ebola-cases-with-43-deaths-africa-cdc-says-",
-      "timestamp": "2026-05-31T18:10:00+03:00"
-    },
-    {
-      "headline": "Ukraine receives new IRIS-T air defense system from Germany amid Russian drone threat",
-      "summary": "Ukrainian President Zelensky announced the arrival of a new IRIS-T launcher as Kyiv braces for Russian mass attacks. Germany continues air defense support amid intensified Russian drone and missile strikes.",
-      "emoji": "🇺🇦🇩🇪",
-      "category": "Ukraine-Russia War",
-      "source": "Iz.ru",
-      "url": "https://iz.ru/en/node/2106729",
       "timestamp": "2026-05-31T18:10:00+03:00"
     },
     {
@@ -53,7 +62,31 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/israel-troops-capture-beaufort-castle-southern-lebanon-push-against-hezbollah-2026-05-31/",
-      "timestamp": "2026-05-31T18:05:00+03:00"
+      "timestamp": "2026-05-31T18:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al-Monitor",
+          "url": "https://www.al-monitor.com/originals/2026/05/israel-pm-says-capturing-beaufort-dramatic-shift-lebanon-offensive",
+          "angle": "Israel captures Beaufort Castle and pushes past Litani River in deepest Lebanon incursion in 25 years",
+          "summary": "Israeli forces seized the strategic Crusader-era Beaufort Castle and crossed the Litani River, with Netanyahu vowing to expand the offensive. The move marks a dramatic shift in Israel's Lebanon campaign and could reshape the security landscape."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/israel-troops-capture-beaufort-castle-southern-lebanon-push-against-hezbollah-2026-05-31/",
+          "angle": "Israeli troops capture strategic Beaufort Castle in southern Lebanon",
+          "summary": "Israeli forces seized the 900-year-old Beaufort Castle and its strategic ridge in southern Lebanon, marking a major advance against Hezbollah despite a ceasefire announced over six weeks ago."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Al-Monitor",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/aerospace-defense/israel-troops-capture-beaufort-castle-southern-lebanon-push-against-hezbollah-2026-05-31/",
+        "https://www.al-monitor.com/originals/2026/05/israel-pm-says-capturing-beaufort-dramatic-shift-lebanon-offensive",
+        "https://www.reuters.com/business/aerospace-defense/israel-troops-capture-beaufort-castle-southern-lebanon-push-against-hezbollah-2026-05-31/"
+      ]
     },
     {
       "headline": "Japan rejects Chinese accusations of new militarism, cites Beijings rapid arms buildup",
@@ -62,7 +95,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/japan-pushes-back-against-accusations-new-militarism-2026-05-31/",
-      "timestamp": "2026-05-31T18:05:00+03:00"
+      "timestamp": "2026-05-31T18:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/japan-pushes-back-against-accusations-new-militarism-2026-05-31/",
+          "angle": "Japan Refutes New Militarism Accusations, Criticizes China Military Buildup",
+          "summary": "Defense Minister Shinjiro Koizumi pushed back against claims of Japanese militarism while criticizing China for rapidly expanding military capabilities without transparency, underscoring deepening tensions between the two nations."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/japan-pushes-back-against-accusations-new-militarism-2026-05-31/",
+        "https://www.reuters.com/world/china/japan-pushes-back-against-accusations-new-militarism-2026-05-31/"
+      ]
     },
     {
       "headline": "China patrols Scarborough Shoal after Philippines warns of maritime threat",
@@ -71,7 +120,31 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/china-patrols-scarborough-shoal-after-philippines-warns-threat-2026-05-31/",
-      "timestamp": "2026-05-31T18:05:00+03:00"
+      "timestamp": "2026-05-31T18:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/china-patrols-scarborough-shoal-after-philippines-warns-threat-2026-05-31/",
+          "angle": "China conducts combat patrols near Scarborough Shoal amid South China Sea tensions",
+          "summary": "China's military and coast guard carried out patrols near disputed Scarborough Shoal on Sunday, a day after the Philippines warned it remains under \"severe threat\" from Beijing despite recent US-China tensions easing."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/philippines-remains-under-threat-china-despite-trump-xi-summit-minister-says-2026-05-30/",
+          "angle": "Philippines Warns of Ongoing China Threat Despite Trump-Xi Summit",
+          "summary": "Defense Secretary Gilberto Teodoro Jr. stated the Philippines remains under “severe threat” from China despite recent US-China diplomatic thaw, highlighting ongoing regional tensions."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/china-patrols-scarborough-shoal-after-philippines-warns-threat-2026-05-31/",
+        "https://www.reuters.com/world/china/china-patrols-scarborough-shoal-after-philippines-warns-threat-2026-05-31/",
+        "https://www.reuters.com/world/china/philippines-remains-under-threat-china-despite-trump-xi-summit-minister-says-2026-05-30/"
+      ]
     },
     {
       "headline": "Ukrainian drones strike pipeline, refinery and fuel depot across multiple Russian regions",
@@ -80,7 +153,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/ukrainian-drones-hit-targets-across-several-russian-regions-2026-05-31/",
-      "timestamp": "2026-05-31T18:05:00+03:00"
+      "timestamp": "2026-05-31T18:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/ukrainian-drones-hit-targets-across-several-russian-regions-2026-05-31/",
+          "angle": "Ukrainian drones strike targets across multiple Russian regions",
+          "summary": "Ukrainian drones hit energy and industrial targets across several Russian regions overnight, in an escalating campaign of strikes against infrastructure."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/ukrainian-drones-hit-targets-across-several-russian-regions-2026-05-31/",
+        "https://www.reuters.com/world/europe/ukrainian-drones-hit-targets-across-several-russian-regions-2026-05-31/"
+      ]
     },
     {
       "headline": "Trump sends tougher terms to Iran for peace framework as negotiations continue",
@@ -89,7 +178,23 @@
       "category": "US-Iran War",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/05/30/us/politics/trump-iran-peace-framework.html",
-      "timestamp": "2026-05-31T18:05:00+03:00"
+      "timestamp": "2026-05-31T18:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/us-israel-war-on-iran",
+          "angle": "Trump tightens Iran deal terms, says no rush for agreement as war enters day 93",
+          "summary": "President Trump told Fox News he is in \"no hurry\" for a deal with Iran while US media reported he asked for amendments to toughen terms of the preliminary agreement. Iran accused the US of betraying diplomacy by continuing its naval blockade."
+        }
+      ],
+      "sources": [
+        "New York Times",
+        "The Guardian"
+      ],
+      "urls": [
+        "https://www.nytimes.com/2026/05/30/us/politics/trump-iran-peace-framework.html",
+        "https://www.theguardian.com/world/us-israel-war-on-iran"
+      ]
     },
     {
       "headline": "UK Foreign Minister to Visit China and India for Strategic Talks",
@@ -191,7 +296,39 @@
       "category": "Ukraine-Russia War",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/germany-sends-new-iris-t-system-to-ukraine-as-kyiv-braces-for-next-russian-mass-attack/",
-      "timestamp": "2026-05-31T16:05:00+03:00"
+      "timestamp": "2026-05-31T16:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Iz.ru",
+          "url": "https://iz.ru/en/node/2106729",
+          "angle": "Ukraine receives new IRIS-T air defense system from Germany amid Russian drone threat",
+          "summary": "Ukrainian President Zelensky announced the arrival of a new IRIS-T launcher as Kyiv braces for Russian mass attacks. Germany continues air defense support amid intensified Russian drone and missile strikes."
+        },
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russian-region-establishes-new-drone-defense-ministry-as-ukrainian-strikes-change-balance-of-war/",
+          "angle": "Russian Region Creates Drone Defense Ministry as Ukrainian Strikes Reshape War",
+          "summary": "Nizhny Novgorod Oblast established a new ministry dedicated to defending against Ukrainian drone strikes, highlighting how Russian regions are adapting to the growing threat of Ukrainian attacks deep inside Russia."
+        },
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/hegseth-letter/",
+          "angle": "Hegseth promises US will find way to help Ukraine amid air defense shortage",
+          "summary": "US Defense Secretary Pete Hegseth told reporters the US will \"find a way\" to help Ukraine defend itself after Zelensky sent an urgent letter to the White House about worsening air defense shortages."
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "Iz.ru",
+        "Kyiv Independent",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://kyivindependent.com/germany-sends-new-iris-t-system-to-ukraine-as-kyiv-braces-for-next-russian-mass-attack/",
+        "https://iz.ru/en/node/2106729",
+        "https://kyivindependent.com/russian-region-establishes-new-drone-defense-ministry-as-ukrainian-strikes-change-balance-of-war/",
+        "https://kyivindependent.com/hegseth-letter/"
+      ]
     },
     {
       "headline": "China Building Launch Pads Near Nuclear Missile Silos",
@@ -216,31 +353,6 @@
       "urls": [
         "https://www.defensenews.com/global/asia-pacific/2026/05/29/china-is-building-launch-pads-near-its-nuclear-missile-silos/",
         "https://www.defensenews.com/global/china-is-building-launch-pads-near-its-nuclear-missile-silos"
-      ]
-    },
-    {
-      "headline": "Russian Region Creates Drone Defense Ministry as Ukrainian Strikes Reshape War",
-      "summary": "Nizhny Novgorod Oblast established a new ministry dedicated to defending against Ukrainian drone strikes, highlighting how Russian regions are adapting to the growing threat of Ukrainian attacks deep inside Russia.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russian-region-establishes-new-drone-defense-ministry-as-ukrainian-strikes-change-balance-of-war/",
-      "timestamp": "2026-05-31T16:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russian-region-establishes-new-drone-defense-ministry-as-ukrainian-strikes-change-balance-of-war/",
-          "angle": "Russian Region Creates New Drone Defense Ministry After Ukrainian Strikes",
-          "summary": "Russia's Nizhny Novgorod Oblast has established a new ministry dedicated to protecting against Ukrainian drone strikes, reflecting how Kyiv's attacks have changed the balance of the war."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://kyivindependent.com/russian-region-establishes-new-drone-defense-ministry-as-ukrainian-strikes-change-balance-of-war/",
-        "https://kyivindependent.com/russian-region-establishes-new-drone-defense-ministry-as-ukrainian-strikes-change-balance-of-war/"
       ]
     },
     {
@@ -303,31 +415,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/30/us-congress-advances-american-israeli-military-integration-plan",
       "timestamp": "2026-05-31T16:00:00+03:00"
-    },
-    {
-      "headline": "Trump tightens Iran deal terms, says no rush for agreement as war enters day 93",
-      "summary": "President Trump told Fox News he is in \"no hurry\" for a deal with Iran while US media reported he asked for amendments to toughen terms of the preliminary agreement. Iran accused the US of betraying diplomacy by continuing its naval blockade.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/us-israel-war-on-iran",
-      "timestamp": "2026-05-31T15:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "Jerusalem Post",
-          "url": "https://www.jpost.com/middle-east/iran-news/article-897822",
-          "angle": "Trump Seeks Amendments to US-Iran Deal on Enriched Uranium",
-          "summary": "Axios reports President Trump requested tougher terms on Irans enriched uranium in the draft peace agreement during Friday Situation Room meeting. Iran says no deal unless its rights are secured."
-        }
-      ],
-      "sources": [
-        "The Guardian",
-        "Jerusalem Post"
-      ],
-      "urls": [
-        "https://www.theguardian.com/world/us-israel-war-on-iran",
-        "https://www.jpost.com/middle-east/iran-news/article-897822"
-      ]
     },
     {
       "headline": "Russian drone hits residential building in Romania, NATO member on edge",
@@ -500,64 +587,6 @@
       ]
     },
     {
-      "headline": "Israeli troops capture strategic Beaufort Castle in southern Lebanon",
-      "summary": "Israeli forces seized the 900-year-old Beaufort Castle and its strategic ridge in southern Lebanon, marking a major advance against Hezbollah despite a ceasefire announced over six weeks ago.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/israel-troops-capture-beaufort-castle-southern-lebanon-push-against-hezbollah-2026-05-31/",
-      "timestamp": "2026-05-31T12:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/5/31/iran-war-day-93-trump-wont-rush-deal-israel-expands-lebanon-invasion",
-          "angle": "Israel captures strategic Beaufort Castle in deepest Lebanon incursion in 26 years",
-          "summary": "Israeli forces seized the Crusader-era Beaufort Castle in southern Lebanon, marking a significant tactical advance as Defense Minister Israel Katz announced plans to expand the ground invasion. Lebanese Prime Minister Nawaf Salam accused Israel of pursuing a scorched-earth policy."
-        },
-        {
-          "source": "Israel National News",
-          "url": "https://www.israelnationalnews.com/news/427853",
-          "angle": "Israel expands Lebanon offensive, takes control of Beaufort Ridge",
-          "summary": "The IDF launched an operation in Beaufort Ridge and Wadi al-Saluki to remove Hezbollah terrorist infrastructure, marking a significant expansion of Israel's Lebanon operations."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Jazeera",
-        "Israel National News"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/aerospace-defense/israel-troops-capture-beaufort-castle-southern-lebanon-push-against-hezbollah-2026-05-31/",
-        "https://www.aljazeera.com/news/2026/5/31/iran-war-day-93-trump-wont-rush-deal-israel-expands-lebanon-invasion",
-        "https://www.israelnationalnews.com/news/427853"
-      ]
-    },
-    {
-      "headline": "Ukrainian drones strike targets across multiple Russian regions",
-      "summary": "Ukrainian drones hit energy and industrial targets across several Russian regions overnight, in an escalating campaign of strikes against infrastructure.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/ukrainian-drones-hit-targets-across-several-russian-regions-2026-05-31/",
-      "timestamp": "2026-05-31T12:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/ukrainian-drones-strike-port-oil-depot-southern-russia-authorities-say-2026-05-30/",
-          "angle": "Ukrainian Drones Strike Russian Port and Oil Refinery in Overnight Attack",
-          "summary": "Ukrainian drone strikes damaged an oil tanker and refinery in Taganrog, and hit an oil depot in Armavir, marking an escalation in Kyiv's campaign against Russian energy infrastructure."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/ukrainian-drones-hit-targets-across-several-russian-regions-2026-05-31/",
-        "https://www.reuters.com/world/ukrainian-drones-strike-port-oil-depot-southern-russia-authorities-say-2026-05-30/"
-      ]
-    },
-    {
       "headline": "Indo-Pacific nations deepen defense ties amid US reliability doubts",
       "summary": "Caught between China rapid military rise and growing doubts about US focus, Indo-Pacific nations are racing to arm themselves and establish deeper mutual defense partnerships.",
       "emoji": "🌏",
@@ -565,31 +594,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/great-indo-pacific-hedge-deeper-defence-ties-us-doubts-grow-china-ascends-2026-05-31/",
       "timestamp": "2026-05-31T12:00:00+03:00"
-    },
-    {
-      "headline": "China conducts combat patrols near Scarborough Shoal amid South China Sea tensions",
-      "summary": "China's military and coast guard carried out patrols near disputed Scarborough Shoal on Sunday, a day after the Philippines warned it remains under \"severe threat\" from Beijing despite recent US-China tensions easing.",
-      "emoji": "🇨🇳",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/china-patrols-scarborough-shoal-after-philippines-warns-threat-2026-05-31/",
-      "timestamp": "2026-05-31T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/china-patrols-scarborough-shoal-after-philippines-warns-threat-2026-05-31/",
-          "angle": "China Conducts Patrols Near Scarborough Shoal Amid South China Sea Tensions",
-          "summary": "China's military and coast guard carried out patrols near the disputed Scarborough Shoal, a day after the Philippine defense minister warned Manila remains under threat from Beijing despite recent U.S.-China tensions easing."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/china-patrols-scarborough-shoal-after-philippines-warns-threat-2026-05-31/",
-        "https://www.reuters.com/world/china/china-patrols-scarborough-shoal-after-philippines-warns-threat-2026-05-31/"
-      ]
     },
     {
       "headline": "South Korea, Japan discuss military logistics pact amid regional security concerns",
@@ -714,19 +718,19 @@
       "timestamp": "2026-05-31T08:05:00+03:00",
       "perspectives": [
         {
-          "source": "Deutsche Welle",
-          "url": "https://www.dw.com/en/who-chief-visits-ebola-epicenter-in-eastern-dr-congo/a-77355201",
-          "angle": "WHO Chief Visits Ebola Epicenter in DR Congo Amid Outbreak",
-          "summary": "WHO Director-General Tedros Adhanom Ghebreyesus visited Ituri province where a Bundibugyo strain Ebola outbreak has killed at least 246 people. No approved vaccines exist for this strain."
+          "source": "Al Arabiya",
+          "url": "https://english.alarabiya.net/News/world/2026/05/31/congo-and-uganda-report-263-confirmed-ebola-cases-with-43-deaths-africa-cdc-says-",
+          "angle": "Ebola outbreak in Congo and Uganda reaches 263 confirmed cases with 43 deaths",
+          "summary": "A rare strain of Ebola has spread across the Democratic Republic of Congo and Uganda, with cases outpacing the response. Africa CDC reports 263 confirmed cases as health authorities struggle to contain the outbreak."
         }
       ],
       "sources": [
         "Reuters",
-        "Deutsche Welle"
+        "Al Arabiya"
       ],
       "urls": [
         "https://www.reuters.com/business/healthcare-pharmaceuticals/who-chief-rallies-community-congos-ebola-response-calls-more-funding-2026-05-30/",
-        "https://www.dw.com/en/who-chief-visits-ebola-epicenter-in-eastern-dr-congo/a-77355201"
+        "https://english.alarabiya.net/News/world/2026/05/31/congo-and-uganda-report-263-confirmed-ebola-cases-with-43-deaths-africa-cdc-says-"
       ]
     },
     {
@@ -773,31 +777,6 @@
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/euphrates-flooding-displaces-thousands-eastern-syrias-deir-ezzor",
       "timestamp": "2026-05-31T06:05:00+03:00"
-    },
-    {
-      "headline": "Japan Refutes New Militarism Accusations, Criticizes China Military Buildup",
-      "summary": "Defense Minister Shinjiro Koizumi pushed back against claims of Japanese militarism while criticizing China for rapidly expanding military capabilities without transparency, underscoring deepening tensions between the two nations.",
-      "emoji": "🇯🇵",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/japan-pushes-back-against-accusations-new-militarism-2026-05-31/",
-      "timestamp": "2026-05-31T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/politics/defense/japan-rejects-new-militarism-accuses-china-of-rapidly-arming",
-          "angle": "Japan Rejects New Militarism Claims, Accuses China of Rapid Arms Buildup",
-          "summary": "Japan pushed back against accusations of remilitarization while highlighting China rapid military expansion, as tensions rise at the Shangri-La Dialogue over burden-sharing in Asian security."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Nikkei Asia"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/japan-pushes-back-against-accusations-new-militarism-2026-05-31/",
-        "https://asia.nikkei.com/politics/defense/japan-rejects-new-militarism-accuses-china-of-rapidly-arming"
-      ]
     },
     {
       "headline": "US Military Fires on Blockade Runner Attempting to Reach Iranian Port",
@@ -1005,15 +984,6 @@
         "https://asia.nikkei.com/editor-s-picks/interview/turkey-sees-strong-potential-for-drone-development-with-japan",
         "https://asia.nikkei.com/editor-s-picks/interview/turkey-sees-strong-potential-for-drone-development-with-japan"
       ]
-    },
-    {
-      "headline": "Hegseth promises US will find way to help Ukraine amid air defense shortage",
-      "summary": "US Defense Secretary Pete Hegseth told reporters the US will \"find a way\" to help Ukraine defend itself after Zelensky sent an urgent letter to the White House about worsening air defense shortages.",
-      "emoji": "🇺🇸🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/hegseth-letter/",
-      "timestamp": "2026-05-31T01:47:00+03:00"
     },
     {
       "headline": "Russia Recalls Ambassador to Armenia Over EU Rapprochement",
@@ -1298,15 +1268,6 @@
       "category": "US-China",
       "source": "AP News",
       "url": "https://apnews.com/article/hegseth-trump-singapore-china-us-taiwan-pacific-iran-d6cf2b964940f47a83f0a6f587c7e0c3",
-      "timestamp": "2026-05-30T19:07:00+03:00"
-    },
-    {
-      "headline": "Philippines Warns of Ongoing China Threat Despite Trump-Xi Summit",
-      "summary": "Defense Secretary Gilberto Teodoro Jr. stated the Philippines remains under “severe threat” from China despite recent US-China diplomatic thaw, highlighting ongoing regional tensions.",
-      "emoji": "🇵🇭🇨🇳",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/philippines-remains-under-threat-china-despite-trump-xi-summit-minister-says-2026-05-30/",
       "timestamp": "2026-05-30T19:07:00+03:00"
     },
     {
