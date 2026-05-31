@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-05-31T14:06:09+03:00",
+  "lastUpdated": "2026-05-31T14:08:18+03:00",
   "headlines": [
+    {
+      "headline": "British Foreign Secretary to Visit China as UK Ties Show Signs of Thaw",
+      "summary": "Yvette Cooper will meet with Chinese counterpart Wang Yi and Vice-President Han Zheng to discuss the Strait of Hormuz, Russia-Ukraine war, and Ebola outbreak in Africa, signaling further easing of tensions following earlier summit.",
+      "emoji": "🇬🇧🇨🇳",
+      "category": "Diplomacy",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3355463/sign-easing-uk-china-ties-british-foreign-secretary-set-talks-tech-hub-visit",
+      "timestamp": "2026-05-31T14:10:00+03:00"
+    },
+    {
+      "headline": "Japan Rejects New Militarism Accusations at Shangri-La Dialogue",
+      "summary": "Defense Minister Shinjiro Koizumi defended Japans military buildup at the Singapore forum, calling it strange that Japan is labeled militaristic despite having no nuclear weapons or strategic bombers.",
+      "emoji": "🇯🇵",
+      "category": "Asia-Pacific",
+      "source": "Straits Times",
+      "url": "https://www.straitstimes.com/asia/japan-says-it-remains-open-to-dialogue-with-china-rejects-new-militarism-label",
+      "timestamp": "2026-05-31T14:10:00+03:00"
+    },
+    {
+      "headline": "Colombia Votes in Presidential Election Amid Resurgent Violence",
+      "summary": "First-round voting underway in election seen as referendum on President Gustavo Petro, with candidates offering divergent visions 10 years after historic FARC peace deal. Campaign marred by drone strikes and armed attacks.",
+      "emoji": "🇨🇴",
+      "category": "Latin America",
+      "source": "France24",
+      "url": "https://www.france24.com/en/americas/20260531-colombia-presidential-election-pits-petro-allies-against-pro-trump-candidates",
+      "timestamp": "2026-05-31T14:10:00+03:00"
+    },
+    {
+      "headline": "Typhoon Jangmi to Bring Heavy Rain to Japan This Week",
+      "summary": "Japan Meteorological Agency warns of warning-level rainfall up to 300mm along Pacific coast through June 3. Airlines cancel flights to Okinawa as typhoon approaches southern islands.",
+      "emoji": "🌀",
+      "category": "Asia-Pacific",
+      "source": "Straits Times",
+      "url": "https://www.straitstimes.com/asia/east-asia/typhoon-jangmi-expected-to-bring-heavy-rain-to-western-eastern-japan",
+      "timestamp": "2026-05-31T14:10:00+03:00"
+    },
+    {
+      "headline": "Trump Seeks Amendments to US-Iran Deal on Enriched Uranium",
+      "summary": "Axios reports President Trump requested tougher terms on Irans enriched uranium in the draft peace agreement during Friday Situation Room meeting. Iran says no deal unless its rights are secured.",
+      "emoji": "🇮🇷🇺🇸",
+      "category": "US-Iran War",
+      "source": "Jerusalem Post",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-897822",
+      "timestamp": "2026-05-31T14:10:00+03:00"
+    },
     {
       "headline": "China Factory Activity Stalls as Demand Weakens",
       "summary": "Chinese manufacturing activity flatlined in May as new export orders contracted and input costs rose, official data showed, raising concerns about the world's second-largest economy losing momentum.",
@@ -8,7 +53,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/china-factory-activity-stalls-may-demand-weakens-2026-05-31/",
-      "timestamp": "2026-05-31T14:03:00+03:00"
+      "timestamp": "2026-05-31T14:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/chinas-factory-activity-flat-may-pmi-shows-2026-05-31/",
+          "angle": "China Factory Activity Stalls in May as Demand Weakens",
+          "summary": "Chinas manufacturing sector showed signs of strain in May as factory activity flatlined, with new export orders contracting and input costs rising, raising concerns about the worlds second-largest economy."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/china-factory-activity-stalls-may-demand-weakens-2026-05-31/",
+        "https://www.reuters.com/world/asia-pacific/chinas-factory-activity-flat-may-pmi-shows-2026-05-31/"
+      ]
     },
     {
       "headline": "US rebukes NATO allies over defense spending at Singapore summit",
@@ -350,31 +411,6 @@
       "urls": [
         "https://www.reuters.com/business/healthcare-pharmaceuticals/who-chief-rallies-community-congos-ebola-response-calls-more-funding-2026-05-30/",
         "https://www.dw.com/en/who-chief-visits-ebola-epicenter-in-eastern-dr-congo/a-77355201"
-      ]
-    },
-    {
-      "headline": "China Factory Activity Stalls in May as Demand Weakens",
-      "summary": "Chinas manufacturing sector showed signs of strain in May as factory activity flatlined, with new export orders contracting and input costs rising, raising concerns about the worlds second-largest economy.",
-      "emoji": "🇨🇳",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/chinas-factory-activity-flat-may-pmi-shows-2026-05-31/",
-      "timestamp": "2026-05-31T08:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/china-factory-activity-stalls-may-demand-weakens-2026-05-31/",
-          "angle": "China's Factory Activity Stalls as Demand Weakens",
-          "summary": "China's manufacturing activity stalled in May as new export orders contracted and input costs kept rising, an official survey showed, adding to concerns about the world's second-largest economy losing momentum."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/chinas-factory-activity-flat-may-pmi-shows-2026-05-31/",
-        "https://www.reuters.com/world/china/china-factory-activity-stalls-may-demand-weakens-2026-05-31/"
       ]
     },
     {
