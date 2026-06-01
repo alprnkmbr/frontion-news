@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-01T19:12:40+03:00",
+  "lastUpdated": "2026-06-01T20:04:31+03:00",
   "headlines": [
+    {
+      "headline": "Israel Orders Strikes on Beirut Suburbs as Hezbollah Conflict Escalates",
+      "summary": "Israeli PM Benjamin Netanyahu ordered strikes on Beirut's southern suburbs in response to Hezbollah attacks. Thousands fled the Hezbollah stronghold of Dahieh as tensions rise amid broader regional conflict.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c4g419e2xlvo",
+      "timestamp": "2026-06-01T20:03:00+03:00"
+    },
+    {
+      "headline": "Iran Warns Israeli Attacks in Lebanon Threaten US Ceasefire",
+      "summary": "Iran stated that Israeli attacks in Lebanon threaten the ceasefire agreement with the US. The warning comes as Iran continues to signal it wants any ceasefire to apply across all regional fronts.",
+      "emoji": "⚠️",
+      "category": "US-Iran War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c202rxp1z15o",
+      "timestamp": "2026-06-01T20:03:00+03:00"
+    },
+    {
+      "headline": "US Strikes Iranian Radar Sites as Iran Targets Forces in Kuwait",
+      "summary": "The US military struck Iranian radar sites around the Strait of Hormuz. Iran simultaneously targeted American forces in Kuwait, with Kuwait condemning repeated Iranian attacks.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "US-Iran War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o",
+      "timestamp": "2026-06-01T20:03:00+03:00"
+    },
+    {
+      "headline": "France Seizes Sanctioned Russian Oil Tanker with UK Help",
+      "summary": "France seized a sanctioned Russian oil tanker with British helicopter support. UK Ministry of Defence confirmed the operation, marking continued enforcement of sanctions on Russian energy exports.",
+      "emoji": "🇫🇷🇬🇧",
+      "category": "Europe",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cn8pwgej1gxo",
+      "timestamp": "2026-06-01T20:03:00+03:00"
+    },
+    {
+      "headline": "Iran Attacks Have Damaged 20 US Military Sites, Satellite Images Show",
+      "summary": "Analysts told BBC Verify that Tehran's strikes on US military positions were more extensive than publicly acknowledged. Satellite imagery reveals damage across multiple sites.",
+      "emoji": "🛰️",
+      "category": "US-Iran War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c2l2yl7r8r2o",
+      "timestamp": "2026-06-01T20:03:00+03:00"
+    },
     {
       "headline": "Iran seeks limited interim deal with US to ease economic pressure",
       "summary": "Iran is pushing for a limited interim agreement with the United States to ease mounting economic pressure and stabilize the domestic situation, while avoiding major concessions on its nuclear program, according to sources and analysts.",
@@ -17,7 +62,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/russia-bans-aviation-fuel-exports-until-november-30-2026-06-01/",
-      "timestamp": "2026-06-01T19:10:00+03:00"
+      "timestamp": "2026-06-01T19:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/russia-bans-aviation-fuel-exports-until-november-30-2026-06-01/",
+          "angle": "Russia Bans Aviation Fuel Exports as Ukrainian Strikes on Refineries Continue",
+          "summary": "The Russian government banned aviation fuel exports until November 30, as Ukrainian drone strikes on Russian energy infrastructure continue to impact domestic supply."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/russia-bans-aviation-fuel-exports-until-november-30-2026-06-01/",
+        "https://www.reuters.com/business/energy/russia-bans-aviation-fuel-exports-until-november-30-2026-06-01/"
+      ]
     },
     {
       "headline": "Deadly explosion at Myanmar village kills dozens",
@@ -26,7 +87,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/witnesses-tell-devastation-myanmar-village-explosion-that-killed-dozens-2026-06-01/",
-      "timestamp": "2026-06-01T19:10:00+03:00"
+      "timestamp": "2026-06-01T19:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/witnesses-tell-devastation-myanmar-village-explosion-that-killed-dozens-2026-06-01/",
+          "angle": "Myanmar Village Explosion Kills at Least 55 as Rebel Army Site Detonates",
+          "summary": "At least 55 people were killed when explosives stored by a rebel army detonated in a Myanmar village, with witnesses describing widespread devastation as search efforts continue."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/witnesses-tell-devastation-myanmar-village-explosion-that-killed-dozens-2026-06-01/",
+        "https://www.reuters.com/world/asia-pacific/witnesses-tell-devastation-myanmar-village-explosion-that-killed-dozens-2026-06-01/"
+      ]
     },
     {
       "headline": "BP begins commercial gas production at Azerbaijan's ACG field",
@@ -565,40 +642,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/european-cloud-providers-back-eu-push-cut-reliance-us-tech-2026-06-01/",
       "timestamp": "2026-06-01T11:03:00+03:00"
-    },
-    {
-      "headline": "Russia Bans Aviation Fuel Exports as Ukrainian Strikes on Refineries Continue",
-      "summary": "The Russian government banned aviation fuel exports until November 30, as Ukrainian drone strikes on Russian energy infrastructure continue to impact domestic supply.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/russia-bans-aviation-fuel-exports-until-november-30-2026-06-01/",
-      "timestamp": "2026-06-01T11:03:00+03:00"
-    },
-    {
-      "headline": "Myanmar Village Explosion Kills at Least 55 as Rebel Army Site Detonates",
-      "summary": "At least 55 people were killed when explosives stored by a rebel army detonated in a Myanmar village, with witnesses describing widespread devastation as search efforts continue.",
-      "emoji": "🇲🇲",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/witnesses-tell-devastation-myanmar-village-explosion-that-killed-dozens-2026-06-01/",
-      "timestamp": "2026-06-01T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/explosion-kills-least-55-myanmar-bbc-reports-2026-05-31/",
-          "angle": "Myanmar Village Explosion Kills at Least 55 People",
-          "summary": "A blast in Kaungtup village in northern Myanmar killed at least 55 and injured dozens more. A rebel army said it was caused by accidental explosion of mining materials."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/witnesses-tell-devastation-myanmar-village-explosion-that-killed-dozens-2026-06-01/",
-        "https://www.reuters.com/world/asia-pacific/explosion-kills-least-55-myanmar-bbc-reports-2026-05-31/"
-      ]
     },
     {
       "headline": "Netanyahu Orders Israeli Military to Strike Hezbollah Stronghold in Beirut",
@@ -2794,33 +2837,6 @@
         "https://apnews.com/article/russia-ukraine-war-romania-drone-aa90986c237b8fa1d9116685c8c32f95",
         "https://www.bbc.com/news/articles/cvgzyp93jq1o"
       ]
-    },
-    {
-      "headline": "Spain PM Fights for Political Survival Amid Wave of Scandals",
-      "summary": "Spanish Prime Minister Sánchez faces corruption probes targeting colleagues and relatives, putting his eight-year premiership at risk.",
-      "emoji": "🇪🇸🏛️",
-      "category": "Europe",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c1w21gn340xo",
-      "timestamp": "2026-05-30T08:00:00+03:00"
-    },
-    {
-      "headline": "Russias Suspected Spy Church Near Swedish Airport Raises Alarm",
-      "summary": "Swedish intelligence services warn that Moscow is likely using a Russian Orthodox church near Vasteras airport as a platform for espionage and hostile hybrid activities threatening Swedens national security.",
-      "emoji": "🇸🇪",
-      "category": "Europe",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260530-russian-orthodox-church-near-swedish-airport-suspected-spy-platform",
-      "timestamp": "2026-05-30T07:50:00+03:00"
-    },
-    {
-      "headline": "Macron Offers Truth Commission on Haitis Independence Ransom",
-      "summary": "French President Emmanuel Macron announced a joint commission of French and Haitian historians to investigate the legacy of the crippling indemnity France extracted from Haiti for its independence, though he made no mention of Haitian demands for reparations.",
-      "emoji": "🇭🇹",
-      "category": "Diplomacy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260530-macron-haiti-independence-ransom-truth-commission-reparations",
-      "timestamp": "2026-05-30T07:50:00+03:00"
     }
   ]
 }
