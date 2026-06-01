@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-01T09:04:58+03:00",
+  "lastUpdated": "2026-06-01T10:05:20+03:00",
   "headlines": [
+    {
+      "headline": "German Retail Sales Fall Less Than Expected in April",
+      "summary": "German retail sales decreased 0.3% month-on-month in April, beating analyst expectations of a 0.5% decline. The data suggests continued resilience in Europes largest economy despite global market uncertainty.",
+      "emoji": "🇩🇪",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/german-retail-sales-fall-less-than-expected-april-2026-06-01/",
+      "timestamp": "2026-06-01T10:03:00+03:00"
+    },
+    {
+      "headline": "US Gasoline Market Faces Test After Near-Record Stock Draws",
+      "summary": "A near-record run of US gasoline inventory drawdowns signals shrinking buffers as seasonal demand peaks. The tightening supply comes amid ongoing Iran-related tensions affecting global energy markets.",
+      "emoji": "⛽",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/commodities/us-gasoline-market-set-fresh-test-after-near-record-stock-draws-2026-06-01/",
+      "timestamp": "2026-06-01T10:03:00+03:00"
+    },
+    {
+      "headline": "Philippine Senator Faces Second Arrest Order Over Graft Scandal",
+      "summary": "A Philippine court ordered the arrest of Senator Jinggoy Estrada on plunder and graft charges, days after he posted bail for a separate case. The move escalates political tensions in Manila.",
+      "emoji": "🇵🇭",
+      "category": "Asia-Pacific",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-01/philippine-senator-faces-second-arrest-order-over-graft-scandal",
+      "timestamp": "2026-06-01T10:03:00+03:00"
+    },
+    {
+      "headline": "Markets Rise as US-Iran Exchange Fire But Keep Negotiating",
+      "summary": "Oil prices climbed as investors weighed renewed US-Iran military strikes against signs both sides remain engaged in negotiations. Markets view continued diplomacy positively despite escalation.",
+      "emoji": "📈",
+      "category": "Economy",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/01/business/oil-gas-price-iran.html",
+      "timestamp": "2026-06-01T10:03:00+03:00"
+    },
+    {
+      "headline": "Right-Wing Outsider Leads Colombia Presidential Race",
+      "summary": "Tough-on-crime outsider Aberaldo de la Espriella took the lead in Colombias presidential race, setting up a runoff that could shift the countrys political direction away from outgoing President Petros policies.",
+      "emoji": "🇨🇴",
+      "category": "Latin America",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/01/nx-s1-5842833/first-round-colombia-presidential-vote",
+      "timestamp": "2026-06-01T10:03:00+03:00"
+    },
     {
       "headline": "Trump Says Iran 'Really Wants' a Deal as Both Sides Exchange Fresh Strikes",
       "summary": "President Trump expressed optimism about reaching an agreement with Iran, saying Tehran 'really wants to make a deal' that would be good for the US and its allies. Meanwhile, both sides continued to exchange strikes, with Iran targeting a US base in Kuwait and the US hitting Iranian military sites.",
@@ -8,7 +53,31 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/trump-says-iran-really-wants-make-deal-with-us-2026-06-01/",
-      "timestamp": "2026-06-01T09:05:00+03:00"
+      "timestamp": "2026-06-01T09:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c1w2xve315do",
+          "angle": "Trump Seeks Edits to US-Iran Deal, Demands Tougher Terms",
+          "summary": "President Trump requested changes to the proposed Iran ceasefire deal related to the Strait of Hormuz and uranium removal. Iran says talks continue but no deal is final until Iranian rights are secured."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/pentagon-chief-says-us-ready-restart-strikes-iran-if-no-deal-2026-05-30/",
+          "angle": "Pentagon Chief Warns US Ready to Resume Iran Strikes If Peace Deal Fails",
+          "summary": "Defense Secretary Pete Hegseth said the US military is prepared to restart strikes on Iran if negotiations collapse, speaking at the Shangri-La defense forum in Singapore."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/trump-says-iran-really-wants-make-deal-with-us-2026-06-01/",
+        "https://www.bbc.com/news/articles/c1w2xve315do",
+        "https://www.reuters.com/world/asia-pacific/pentagon-chief-says-us-ready-restart-strikes-iran-if-no-deal-2026-05-30/"
+      ]
     },
     {
       "headline": "US Proposes New Israel-Lebanon De-escalation Plan Amid Fighting",
@@ -20,22 +89,29 @@
       "timestamp": "2026-06-01T09:05:00+03:00"
     },
     {
-      "headline": "Iran Strikes US Base in Kuwait After American Attacks on Military Sites",
-      "summary": "Iran's Revolutionary Guard targeted a US base in Kuwait in retaliation for US strikes on Iranian radar and drone control sites. Air defenses in Kuwait intercepted missiles and drones as sirens sounded across the country.",
-      "emoji": "🇰🇼⚔️",
-      "category": "US-Iran War",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/01/iran-strikes-us-military-base-kuwait-iranian-air-defences",
-      "timestamp": "2026-06-01T09:05:00+03:00"
-    },
-    {
       "headline": "Five Killed in Explosion at Hanwha Aerospace Defense Plant in South Korea",
       "summary": "An explosion at a Hanwha Aerospace factory in Daejeon killed five people and injured two others. The plant is a major facility for South Korea's defense industry, producing rockets and other military hardware.",
       "emoji": "🇰🇷💥",
       "category": "Defense Industry",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/reports-an-explosion-hanwha-aerospace-factory-south-korea-official-says-2026-06-01/",
-      "timestamp": "2026-06-01T09:05:00+03:00"
+      "timestamp": "2026-06-01T09:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3355514/explosion-kills-5-hanwha-aerospace-factory-south-korea",
+          "angle": "Explosion at Hanwha Aerospace plant kills 5 in South Korea",
+          "summary": "An explosion at Hanwha Aerospace's Daejeon facility killed five and injured two. The plant produces large propulsion engines and handles rocket propellants for South Korea's defense sector."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "SCMP"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/reports-an-explosion-hanwha-aerospace-factory-south-korea-official-says-2026-06-01/",
+        "https://www.scmp.com/news/asia/east-asia/article/3355514/explosion-kills-5-hanwha-aerospace-factory-south-korea"
+      ]
     },
     {
       "headline": "Pro-Trump Outsider Wins First Round of Colombian Presidential Election",
@@ -45,15 +121,6 @@
       "source": "NBC News",
       "url": "https://www.nbcnews.com/world/latin-america/colombia-presidential-election-petro-doubt-rcna347785",
       "timestamp": "2026-06-01T09:05:00+03:00"
-    },
-    {
-      "headline": "Explosion at Hanwha Aerospace plant kills 5 in South Korea",
-      "summary": "An explosion at Hanwha Aerospace's Daejeon facility killed five and injured two. The plant produces large propulsion engines and handles rocket propellants for South Korea's defense sector.",
-      "emoji": "🇰🇷",
-      "category": "Defense Industry",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3355514/explosion-kills-5-hanwha-aerospace-factory-south-korea",
-      "timestamp": "2026-06-01T08:10:00+03:00"
     },
     {
       "headline": "Nepal PM proposes dialogue to resolve India border dispute",
@@ -80,7 +147,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/us-says-it-struck-iranian-military-sites-tehran-responds-with-air-base-attack-2026-06-01/",
-      "timestamp": "2026-06-01T08:03:00+03:00"
+      "timestamp": "2026-06-01T08:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jun/01/iran-strikes-us-military-base-kuwait-iranian-air-defences",
+          "angle": "Iran Strikes US Base in Kuwait After American Attacks on Military Sites",
+          "summary": "Iran's Revolutionary Guard targeted a US base in Kuwait in retaliation for US strikes on Iranian radar and drone control sites. Air defenses in Kuwait intercepted missiles and drones as sirens sounded across the country."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "The Guardian"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/aerospace-defense/us-says-it-struck-iranian-military-sites-tehran-responds-with-air-base-attack-2026-06-01/",
+        "https://www.theguardian.com/world/2026/jun/01/iran-strikes-us-military-base-kuwait-iranian-air-defences"
+      ]
     },
     {
       "headline": "Israel Captures Strategic Beaufort Castle in Deeper Lebanon Incursion",
@@ -210,47 +293,6 @@
       "source": "Israel National News",
       "url": "https://www.israelnationalnews.com/news/427910",
       "timestamp": "2026-06-01T06:10:00+03:00"
-    },
-    {
-      "headline": "Trump Seeks Edits to US-Iran Deal, Demands Tougher Terms",
-      "summary": "President Trump requested changes to the proposed Iran ceasefire deal related to the Strait of Hormuz and uranium removal. Iran says talks continue but no deal is final until Iranian rights are secured.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c1w2xve315do",
-      "timestamp": "2026-06-01T06:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c1w2xve315do",
-          "angle": "Trump Seeks Changes to US-Iran Ceasefire Deal",
-          "summary": "President Trump has requested amendments to the proposed US-Iran ceasefire agreement, including modifications related to the Strait of Hormuz and removal of highly enriched uranium. The deal includes a 60-day cessation of violence and potential sanctions relief for Iran."
-        },
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/05/30/us/politics/trump-iran-peace-framework.html",
-          "angle": "Trump sends tougher terms to Iran for peace framework as negotiations continue",
-          "summary": "The US president revised the proposed deal text with stricter conditions, aiming to pressure Iran into accepting the current framework to end the war."
-        },
-        {
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/world/iran/wait-iran-deal-continues-trump-final-determination-rcna347659",
-          "angle": "Iran Accuses Trump of Stalling Talks With Excessive Demands",
-          "summary": "An Iranian official said Trump is making excessive demands that stall peace negotiations, as oil prices dip on reports a deal could be close but remains uncertain."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC",
-        "New York Times",
-        "NBC News"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/c1w2xve315do",
-        "https://www.bbc.com/news/articles/c1w2xve315do",
-        "https://www.nytimes.com/2026/05/30/us/politics/trump-iran-peace-framework.html",
-        "https://www.nbcnews.com/world/iran/wait-iran-deal-continues-trump-final-determination-rcna347659"
-      ]
     },
     {
       "headline": "Analysis: Trump Iran War Could Eclipse Vietnam as Geopolitical Turning Point",
@@ -1346,31 +1388,6 @@
       "urls": [
         "https://www.reuters.com/world/europe/russias-rosatom-says-ukrainian-drone-struck-zaporizhzhia-nuclear-plant-2026-05-30/",
         "https://apnews.com/article/russia-ukraine-war-drones-nuclear-plant-4168345770d6d3a3808ba9dcb9dc3305"
-      ]
-    },
-    {
-      "headline": "Pentagon Chief Warns US Ready to Resume Iran Strikes If Peace Deal Fails",
-      "summary": "Defense Secretary Pete Hegseth said the US military is prepared to restart strikes on Iran if negotiations collapse, speaking at the Shangri-La defense forum in Singapore.",
-      "emoji": "⚔️",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/pentagon-chief-says-us-ready-restart-strikes-iran-if-no-deal-2026-05-30/",
-      "timestamp": "2026-05-31T05:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/us-military-says-it-turned-away-blockade-runner-trying-reach-iranian-port-2026-05-30/",
-          "angle": "US Warns It Can Resume War With Iran as Ceasefire Deal Stalls",
-          "summary": "The United States warned it is 'more than capable' of resuming military operations against Iran if a ceasefire agreement cannot be reached, amid ongoing tensions over shipping in the Strait of Hormuz."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/pentagon-chief-says-us-ready-restart-strikes-iran-if-no-deal-2026-05-30/",
-        "https://www.reuters.com/world/middle-east/us-military-says-it-turned-away-blockade-runner-trying-reach-iranian-port-2026-05-30/"
       ]
     },
     {
