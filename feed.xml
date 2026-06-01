@@ -1,235 +1,261 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Frontion News - Geopolitical Headlines</title>
-<link>https://frontion.news</link>
-<description>Breaking geopolitical news from Tier 1 sources</description>
+<title>Frontion News Headlines</title>
+<link>https://frontion.com</link>
+<description>Curated geopolitical news headlines</description>
 <language>en-us</language>
-<lastBuildDate>Mon, 01 Jun 2026 16:06:55 +0300</lastBuildDate>
+<lastBuildDate>Mon, 01 Jun 2026 16:08:32 +0300</lastBuildDate>
+<atom:link href="https://frontion.com/feed.xml" rel="self" type="application/rss+xml"/>
+
+<item>
+<title>🇱🇧 Israel Orders New Strikes on Beirut Ahead of UN Meeting</title>
+<link>https://www.al-monitor.com/originals/2026/06/israel-orders-strikes-beirut-ahead-un-meeting</link>
+<description>Israel announced it would target Beiruts southern suburbs, a Hezbollah stronghold that had been mostly spared from heavy attacks, ahead of a UN Security Council meeting on the conflict.</description>
+<dc:creator>Al-Monitor</dc:creator>
+<category>Middle East</category>
+<pubDate>Mon, 01 Jun 2026 16:10:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.al-monitor.com/originals/2026/06/israel-orders-strikes-beirut-ahead-un-meeting</guid>
+</item>
+
+<item>
+<title>🇰🇷 Explosion at South Korean Defense Factory Kills 5</title>
+<link>https://www.scmp.com/news/asia/east-asia/article/3355514/explosion-kills-5-hanwha-aerospace-factory-south-korea</link>
+<description>At least five people were killed and two injured in a suspected propellant explosion at a Hanwha Aerospace defense plant in Daejeon, one of South Koreas largest defense contractors.</description>
+<dc:creator>SCMP</dc:creator>
+<category>Defense Industry</category>
+<pubDate>Mon, 01 Jun 2026 16:10:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.scmp.com/news/asia/east-asia/article/3355514/explosion-kills-5-hanwha-aerospace-factory-south-korea</guid>
+</item>
+
+<item>
+<title>🇦🇺 AUKUS Partners Advance Nuclear Submarine and Drone Programs</title>
+<link>https://www.janes.com/defence-intelligence-insights/defence-news/c4isr/aukus-partners-advance-ssn-and-uuv-programmes</link>
+<description>Australia, the UK, and the US jointly announced progress on Pillar 1 and Pillar 2 initiatives under the AUKUS trilateral security partnership, including nuclear submarine and underwater vehicle programs.</description>
+<dc:creator>Janes</dc:creator>
+<category>Defense Industry</category>
+<pubDate>Mon, 01 Jun 2026 16:10:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.janes.com/defence-intelligence-insights/defence-news/c4isr/aukus-partners-advance-ssn-and-uuv-programmes</guid>
+</item>
+
+<item>
+<title>🇰🇼 US Intercepts Iranian Missiles Targeting American Forces in Kuwait</title>
+<link>https://www.aa.com.tr/en/world/us-says-it-intercepts-2-iranian-missiles-targeting-us-forces-in-kuwait/3953163</link>
+<description>US forces intercepted two Iranian ballistic missiles targeting American forces in Kuwait late Sunday, with no casualties reported, amid ongoing US-Iran tensions.</description>
+<dc:creator>Anadolu Agency</dc:creator>
+<category>US-Iran War</category>
+<pubDate>Mon, 01 Jun 2026 16:10:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.aa.com.tr/en/world/us-says-it-intercepts-2-iranian-missiles-targeting-us-forces-in-kuwait/3953163</guid>
+</item>
+
+<item>
+<title>🇺🇦 EU Officials Dodge Questions on Ukraine Reforms Amid Membership Talks</title>
+<link>https://kyivindependent.com/eu-officials-keep-dodging-questions-on-ukraines-reforms/</link>
+<description>EU officials are avoiding commenting on Ukraines reform progress, raising questions about transparency as membership negotiations continue.</description>
+<dc:creator>Kyiv Independent</dc:creator>
+<category>Europe</category>
+<pubDate>Mon, 01 Jun 2026 16:10:00 +0300</pubDate>
+<guid isPermaLink="true">https://kyivindependent.com/eu-officials-keep-dodging-questions-on-ukraines-reforms/</guid>
+</item>
 
 <item>
 <title>🇫🇷 France Seizes Russia-Linked Oil Tanker in Atlantic with UK Support</title>
 <link>https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/</link>
 <description>French navy intercepted a sanctioned tanker in the Atlantic, ordering it to head to France. Russia condemned the move as international piracy. The UK provided helicopter support.</description>
+<dc:creator>Reuters</dc:creator>
 <category>Europe</category>
-<source url="https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/">Reuters</source>
-<pubDate>2026-06-01T16:03:00+03:00</pubDate>
+<pubDate>Mon, 01 Jun 2026 16:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/</guid>
 </item>
 
 <item>
 <title>🇨🇴 Pro-Trump Candidate De la Espriella Leads Colombia Presidential Race</title>
 <link>https://apnews.com/article/aberaldo-de-la-espriella-trump-colombia-petro-cepeda-election-crime-bukele-643a808af732c35e240949d69171d65f</link>
 <description>Abelardo de la Espriella won nearly 44% in the first round, capitalizing on voter appetite for hardline crime policies. He will face progressive Sen. Ivan Cepeda in a June 21 runoff.</description>
+<dc:creator>AP News</dc:creator>
 <category>Latin America</category>
-<source url="https://apnews.com/article/aberaldo-de-la-espriella-trump-colombia-petro-cepeda-election-crime-bukele-643a808af732c35e240949d69171d65f">AP News</source>
-<pubDate>2026-06-01T16:03:00+03:00</pubDate>
+<pubDate>Mon, 01 Jun 2026 16:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://apnews.com/article/aberaldo-de-la-espriella-trump-colombia-petro-cepeda-election-crime-bukele-643a808af732c35e240949d69171d65f</guid>
 </item>
 
 <item>
 <title>🇮🇷 US Bombs Iranian Sites as Kuwait Intercepts Iranian Missiles and Drones</title>
 <link>https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d</link>
 <description>US Central Command struck Iranian radar and drone sites after Iran downed a US MQ-1 drone. Iran responded by targeting US forces in Kuwait, with Kuwaiti and US air defenses intercepting the attacks.</description>
+<dc:creator>AP News</dc:creator>
 <category>US-Iran War</category>
-<source url="https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d">AP News</source>
-<pubDate>2026-06-01T16:03:00+03:00</pubDate>
+<pubDate>Mon, 01 Jun 2026 16:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d</guid>
 </item>
 
 <item>
 <title>🇵🇭🇻🇳 Philippines and Vietnam Elevate Ties to Counter China in South China Sea</title>
 <link>https://www.reuters.com/world/asia-pacific/philippines-vietnam-elevate-ties-enhanced-strategic-partnership-2026-06-01/</link>
 <description>The Philippines and Vietnam upgraded their relationship to an enhanced strategic partnership, declaring peace in the South China Sea "non-negotiable" during Vietnamese leader To Lam's state visit to Manila. The move comes as China conducts coast guard patrols east of Taiwan in response to Japan-Philippines maritime border talks.</description>
+<dc:creator>Reuters</dc:creator>
 <category>Asia-Pacific</category>
-<source url="https://www.reuters.com/world/asia-pacific/philippines-vietnam-elevate-ties-enhanced-strategic-partnership-2026-06-01/">Reuters</source>
-<pubDate>2026-06-01T15:10:00+03:00</pubDate>
+<pubDate>Mon, 01 Jun 2026 15:10:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/philippines-vietnam-elevate-ties-enhanced-strategic-partnership-2026-06-01/</guid>
 </item>
 
 <item>
 <title>🇨🇳 Chinese aircraft carrier Liaoning conducts drills east of Philippines</title>
 <link>https://www.straitstimes.com/asia/chinese-aircraft-carrier-held-drills-in-east-of-philippines-japan-says</link>
 <description>Japan confirms Chinese carrier battle group operated near Philippines with 170 flight operations. Shows expanding Chinese naval reach as US-Philippines ties deepen.</description>
+<dc:creator>Straits Times</dc:creator>
 <category>Asia-Pacific</category>
-<source url="https://www.straitstimes.com/asia/chinese-aircraft-carrier-held-drills-in-east-of-philippines-japan-says">Straits Times</source>
-<pubDate>2026-06-01T14:05:00+03:00</pubDate>
+<pubDate>Mon, 01 Jun 2026 14:05:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.straitstimes.com/asia/chinese-aircraft-carrier-held-drills-in-east-of-philippines-japan-says</guid>
 </item>
 
 <item>
 <title>🇪🇺 EU foreign policy chief Kallas urges continued US-Iran negotiations</title>
 <link>https://www.aa.com.tr/en/europe/eus-kallas-urges-continuation-of-us-iran-talks-praises-pakistans-mediation-role/3952939</link>
 <description>EU calls for sustained dialogue between Washington and Tehran while acknowledging Pakistan mediation role. Diplomacy continues alongside ongoing military exchanges.</description>
+<dc:creator>Anadolu Agency</dc:creator>
 <category>Diplomacy</category>
-<source url="https://www.aa.com.tr/en/europe/eus-kallas-urges-continuation-of-us-iran-talks-praises-pakistans-mediation-role/3952939">Anadolu Agency</source>
-<pubDate>2026-06-01T14:05:00+03:00</pubDate>
+<pubDate>Mon, 01 Jun 2026 14:05:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.aa.com.tr/en/europe/eus-kallas-urges-continuation-of-us-iran-talks-praises-pakistans-mediation-role/3952939</guid>
 </item>
 
 <item>
 <title>🌏 US-China strategic reset reshapes Quad into secondary role</title>
 <link>https://www.thejakartapost.com/opinion/2026/06/01/how-the-us-china-reset-recasts-the-quad.html</link>
 <description>Analysis: Trump-Xi acknowledgment of strategic parity sidelines Quad as US focuses on direct China management. India relegated to back-office role for US tech firms.</description>
+<dc:creator>Jakarta Post</dc:creator>
 <category>Geopolitics</category>
-<source url="https://www.thejakartapost.com/opinion/2026/06/01/how-the-us-china-reset-recasts-the-quad.html">Jakarta Post</source>
-<pubDate>2026-06-01T14:05:00+03:00</pubDate>
+<pubDate>Mon, 01 Jun 2026 14:05:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.thejakartapost.com/opinion/2026/06/01/how-the-us-china-reset-recasts-the-quad.html</guid>
 </item>
 
 <item>
 <title>🇫🇷 French Navy intercepts Russian-linked oil tanker in Atlantic</title>
 <link>https://www.france24.com/en/france/20260601-france-and-allies-intercept-sanctioned-russian-oil-tanker-in-atlantic</link>
 <description>France intercepts third sanctioned Russian oil tanker with UK support. Moscow condemns seizure as international terrorism amid ongoing sanctions enforcement.</description>
+<dc:creator>France 24</dc:creator>
 <category>Europe</category>
-<source url="https://www.france24.com/en/france/20260601-france-and-allies-intercept-sanctioned-russian-oil-tanker-in-atlantic">France 24</source>
-<pubDate>2026-06-01T14:05:00+03:00</pubDate>
+<pubDate>Mon, 01 Jun 2026 14:05:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.france24.com/en/france/20260601-france-and-allies-intercept-sanctioned-russian-oil-tanker-in-atlantic</guid>
 </item>
 
 <item>
 <title>🇦🇫 African Development Bank to become top shareholder in continental guarantee platform</title>
 <link>https://www.reuters.com/world/africa/afdb-become-top-shareholder-africa-guarantee-platform-boost-derisking-push-2026-06-01/</link>
 <description>The AfDB will become the largest shareholder of ATIDI, tripling annual guarantee volumes to boost de-risking efforts across Africa. The move aims to accelerate investment and economic development on the continent.</description>
+<dc:creator>Reuters</dc:creator>
 <category>Africa</category>
-<source url="https://www.reuters.com/world/africa/afdb-become-top-shareholder-africa-guarantee-platform-boost-derisking-push-2026-06-01/">Reuters</source>
-<pubDate>2026-06-01T14:03:00+03:00</pubDate>
+<pubDate>Mon, 01 Jun 2026 14:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.reuters.com/world/africa/afdb-become-top-shareholder-africa-guarantee-platform-boost-derisking-push-2026-06-01/</guid>
 </item>
 
 <item>
 <title>🇺🇦 Ukraine steps up attacks on Russian energy facilities as peace talks stall</title>
 <link>https://www.reuters.com/business/energy/ukraine-attacks-russian-energy-sites-what-has-been-hit-2026-06-01/</link>
 <description>Kyiv has intensified strikes on Russian energy sites in recent months as peace negotiations have failed to produce progress. Ukraine is targeting key oil and gas infrastructure to weaken Russia's war economy.</description>
+<dc:creator>Reuters</dc:creator>
 <category>Ukraine-Russia War</category>
-<source url="https://www.reuters.com/business/energy/ukraine-attacks-russian-energy-sites-what-has-been-hit-2026-06-01/">Reuters</source>
-<pubDate>2026-06-01T14:03:00+03:00</pubDate>
+<pubDate>Mon, 01 Jun 2026 14:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.reuters.com/business/energy/ukraine-attacks-russian-energy-sites-what-has-been-hit-2026-06-01/</guid>
 </item>
 
 <item>
 <title>🇺🇦 Zelenskiy seeks peace progress before winter as Ukraine improves strategic position</title>
 <link>https://www.reuters.com/business/aerospace-defense/ukraines-zelenskiy-seeks-progress-peace-talks-before-winter-2026-05-31/</link>
 <description>The Ukrainian president wants to advance peace talks with Russia before winter, citing Kyiv's improved military position. Ukraine has strengthened its negotiating stance through battlefield gains and Western support.</description>
+<dc:creator>Reuters</dc:creator>
 <category>Ukraine-Russia War</category>
-<source url="https://www.reuters.com/business/aerospace-defense/ukraines-zelenskiy-seeks-progress-peace-talks-before-winter-2026-05-31/">Reuters</source>
-<pubDate>2026-06-01T14:03:00+03:00</pubDate>
+<pubDate>Mon, 01 Jun 2026 14:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.reuters.com/business/aerospace-defense/ukraines-zelenskiy-seeks-progress-peace-talks-before-winter-2026-05-31/</guid>
 </item>
 
 <item>
 <title>🇹🇼 Taiwan opposition leader expresses willingness to meet Trump during US visit</title>
 <link>https://www.reuters.com/world/china/taiwan-opposition-leader-would-be-very-willing-meet-trump-us-trip-2026-06-01/</link>
 <description>Taiwan opposition figure Cheng Li-wun said she would be "very willing" to meet President Trump during her upcoming US visit. The statement comes amid heightened cross-strait tensions and shifting US-Taiwan dynamics.</description>
+<dc:creator>Reuters</dc:creator>
 <category>US-China</category>
-<source url="https://www.reuters.com/world/china/taiwan-opposition-leader-would-be-very-willing-meet-trump-us-trip-2026-06-01/">Reuters</source>
-<pubDate>2026-06-01T14:03:00+03:00</pubDate>
+<pubDate>Mon, 01 Jun 2026 14:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.reuters.com/world/china/taiwan-opposition-leader-would-be-very-willing-meet-trump-us-trip-2026-06-01/</guid>
 </item>
 
 <item>
 <title>📈 Japan and South Korea stocks hit record highs as oil rises on Iran war uncertainty</title>
 <link>https://apnews.com/article/stocks-markets-oil-iran-trump-hormuz-5045f5cc9eed81f1dec2006234e1337c</link>
 <description>Equity markets in Tokyo and Seoul reached fresh records as investors reacted to potential developments in the US-Iran conflict. Oil prices gained on concerns about Hormuz Strait disruptions despite tentative ceasefire talks.</description>
+<dc:creator>AP News</dc:creator>
 <category>Economy</category>
-<source url="https://apnews.com/article/stocks-markets-oil-iran-trump-hormuz-5045f5cc9eed81f1dec2006234e1337c">AP News</source>
-<pubDate>2026-06-01T14:03:00+03:00</pubDate>
+<pubDate>Mon, 01 Jun 2026 14:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://apnews.com/article/stocks-markets-oil-iran-trump-hormuz-5045f5cc9eed81f1dec2006234e1337c</guid>
 </item>
 
 <item>
 <title>🇫🇷🇷🇺🚢 France Intercepts Russian Shadow Fleet Tanker in Atlantic</title>
 <link>https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/</link>
 <description>French Navy boarded a sanctioned Russia-linked oil tanker in international waters with UK support, marking intensified enforcement of sanctions against Russian oil exports.</description>
+<dc:creator>Reuters</dc:creator>
 <category>Ukraine-Russia War</category>
-<source url="https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/">Reuters</source>
-<pubDate>2026-06-01T13:03:00+03:00</pubDate>
+<pubDate>Mon, 01 Jun 2026 13:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/</guid>
 </item>
 
 <item>
 <title>🇺🇸🇱🇧🇮🇱 US Proposes Israel-Lebanon Ceasefire Plan as Fighting Escalates</title>
 <link>https://www.reuters.com/world/middle-east/us-pushes-lebanon-israel-new-ceasefire-plan-official-says-2026-06-01/</link>
 <description>Secretary of State Rubio presented a gradual de-escalation plan to both Lebanon and Israel, while Netanyahu ordered strikes on Beirut suburbs and Hezbollah continued rocket attacks.</description>
+<dc:creator>Reuters</dc:creator>
 <category>Middle East</category>
-<source url="https://www.reuters.com/world/middle-east/us-pushes-lebanon-israel-new-ceasefire-plan-official-says-2026-06-01/">Reuters</source>
-<pubDate>2026-06-01T13:03:00+03:00</pubDate>
+<pubDate>Mon, 01 Jun 2026 13:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.reuters.com/world/middle-east/us-pushes-lebanon-israel-new-ceasefire-plan-official-says-2026-06-01/</guid>
 </item>
 
 <item>
 <title>🇮🇷🇺🇸⚔️ Iran Blames US Contradictions for Diplomatic Stalemate</title>
 <link>https://www.reuters.com/world/middle-east/iran-says-contradictory-us-positions-israeli-attacks-lebanon-delaying-diplomacy-2026-06-01/</link>
 <description>Tehran cited lack of trust and continued Israeli attacks on Lebanon as obstacles to progress in negotiations with Washington, while reiterating Lebanon ceasefire as condition for any peace deal.</description>
+<dc:creator>Reuters</dc:creator>
 <category>US-Iran War</category>
-<source url="https://www.reuters.com/world/middle-east/iran-says-contradictory-us-positions-israeli-attacks-lebanon-delaying-diplomacy-2026-06-01/">Reuters</source>
-<pubDate>2026-06-01T13:03:00+03:00</pubDate>
+<pubDate>Mon, 01 Jun 2026 13:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.reuters.com/world/middle-east/iran-says-contradictory-us-positions-israeli-attacks-lebanon-delaying-diplomacy-2026-06-01/</guid>
 </item>
 
 <item>
 <title>🇨🇳🇹🇼🇯🇵 China Coast Guard Patrols East of Taiwan After Japan-Philippines Agreement</title>
 <link>https://www.reuters.com/world/china/china-patrols-waters-east-taiwan-response-japan-philippine-maritime-border-talks-2026-06-01/</link>
 <description>Beijing conducted law enforcement patrols in waters east of Taiwan in response to Tokyo and Manila launching maritime boundary delimitation talks.</description>
+<dc:creator>Reuters</dc:creator>
 <category>Asia-Pacific</category>
-<source url="https://www.reuters.com/world/china/china-patrols-waters-east-taiwan-response-japan-philippine-maritime-border-talks-2026-06-01/">Reuters</source>
-<pubDate>2026-06-01T13:03:00+03:00</pubDate>
+<pubDate>Mon, 01 Jun 2026 13:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.reuters.com/world/china/china-patrols-waters-east-taiwan-response-japan-philippine-maritime-border-talks-2026-06-01/</guid>
 </item>
 
 <item>
 <title>🇷🇺🏛️⚔️ Putin Hosts Wartime Economic Summit Amid Ukraine Drone Strikes</title>
 <link>https://www.reuters.com/business/short-growth-ideas-putin-hosts-fifth-wartime-russian-davos-2026-06-01/</link>
 <description>Russia held its fifth St. Petersburg economic forum since the war began, with Moscow struggling for growth strategy as Ukrainian attacks on infrastructure continue.</description>
+<dc:creator>Reuters</dc:creator>
 <category>Ukraine-Russia War</category>
-<source url="https://www.reuters.com/business/short-growth-ideas-putin-hosts-fifth-wartime-russian-davos-2026-06-01/">Reuters</source>
-<pubDate>2026-06-01T13:03:00+03:00</pubDate>
+<pubDate>Mon, 01 Jun 2026 13:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.reuters.com/business/short-growth-ideas-putin-hosts-fifth-wartime-russian-davos-2026-06-01/</guid>
 </item>
 
 <item>
 <title>🇻🇪 Venezuela ruling party fractures after Maduro capture</title>
 <link>https://apnews.com/article/venezuela-chavez-maduro-rodriguez-chavismo-us-trump-a8d96666a51289f0c88efcd89a9413bc</link>
 <description>Chavismo loyalists are openly criticizing acting President Delcy Rodriguez for her warming relationship with Washington. The deportation of a former minister to the US and authorization for US military exercises in Caracas have exposed deep internal divisions.</description>
+<dc:creator>AP News</dc:creator>
 <category>Latin America</category>
-<source url="https://apnews.com/article/venezuela-chavez-maduro-rodriguez-chavismo-us-trump-a8d96666a51289f0c88efcd89a9413bc">AP News</source>
-<pubDate>2026-06-01T12:03:00+03:00</pubDate>
+<pubDate>Mon, 01 Jun 2026 12:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://apnews.com/article/venezuela-chavez-maduro-rodriguez-chavismo-us-trump-a8d96666a51289f0c88efcd89a9413bc</guid>
 </item>
 
 <item>
 <title>🕯️ Holocaust survivor Tomi Reichental dies aged 90</title>
 <link>https://www.bbc.co.uk/news/articles/cz625lwq170o</link>
 <description>The Slovakian-born Holocaust survivor, who lost 35 family members in Bergen-Belsen and later became a prominent educator in Ireland, dedicated his life to sharing his testimony with future generations.</description>
+<dc:creator>BBC</dc:creator>
 <category>Europe</category>
-<source url="https://www.bbc.co.uk/news/articles/cz625lwq170o">BBC</source>
-<pubDate>2026-06-01T12:03:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🇨🇳 China condemns political suppression of Xinhua reporter in US</title>
-<link>https://www.reuters.com/world/china/china-opposes-political-suppression-xinhua-reporter-us-2026-06-01/</link>
-<description>Beijing has accused Washington of political suppression following the expulsion of a Chinese state media reporter, marking the latest escalation in media disputes between the two powers.</description>
-<category>US-China</category>
-<source url="https://www.reuters.com/world/china/china-opposes-political-suppression-xinhua-reporter-us-2026-06-01/">Reuters</source>
-<pubDate>2026-06-01T12:03:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🛢️ Norway oil workers threaten strike from June 5</title>
-<link>https://www.reuters.com/business/world-at-work/norway-oil-sector-workers-threaten-strike-june-5-2026-06-01/</link>
-<description>Nearly 8% of Norway oil sector workers have threatened to strike from June 5, potentially disrupting production from one of Europe largest oil and gas suppliers amid tight global energy markets.</description>
-<category>Energy</category>
-<source url="https://www.reuters.com/business/world-at-work/norway-oil-sector-workers-threaten-strike-june-5-2026-06-01/">Reuters</source>
-<pubDate>2026-06-01T12:03:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🇯🇵 Japan risks stagnation without early rate hike, ex-BOJ official warns</title>
-<link>https://www.reuters.com/world/asia-pacific/japan-risks-return-stagnation-without-early-rate-hike-ex-boj-policymaker-says-2026-06-01/</link>
-<description>A former Bank of Japan policymaker has warned that Japan risks returning to economic stagnation if it does not implement an early interest rate hike, as the country navigates global monetary uncertainty.</description>
-<category>Asia-Pacific</category>
-<source url="https://www.reuters.com/world/asia-pacific/japan-risks-return-stagnation-without-early-rate-hike-ex-boj-policymaker-says-2026-06-01/">Reuters</source>
-<pubDate>2026-06-01T12:03:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🇸🇾🇺🇸 Syrian President Sharaa holds phone call with Trump, discusses sanctions relief</title>
-<link>https://www.scmp.com/news/world/middle-east/article/3355491/syrias-sharaa-holds-phone-call-trump-syrian-presidency-says</link>
-<description>Syria's new president held his first reported call with Trump, discussing US sanctions relief as essential for economic recovery. This marks a potential shift in US-Syria relations after the fall of Assad.</description>
-<category>Diplomacy</category>
-<source url="https://www.scmp.com/news/world/middle-east/article/3355491/syrias-sharaa-holds-phone-call-trump-syrian-presidency-says">SCMP</source>
-<pubDate>2026-06-01T12:00:00+03:00</pubDate>
-</item>
-
-<item>
-<title>🇮🇳🇲🇲 India welcomes Myanmar's military leader Min Aung Hlaing in strategic outreach</title>
-<link>https://www.scmp.com/week-asia/politics/article/3355552/india-rolls-out-welcome-mat-myanmars-min-aung-hlaing</link>
-<description>Myanmar's junta chief made his first presidential trip to India, signaling New Delhi's pragmatic engagement to counter China's influence. A significant regional diplomatic development.</description>
-<category>Asia-Pacific</category>
-<source url="https://www.scmp.com/week-asia/politics/article/3355552/india-rolls-out-welcome-mat-myanmars-min-aung-hlaing">SCMP</source>
-<pubDate>2026-06-01T12:00:00+03:00</pubDate>
+<pubDate>Mon, 01 Jun 2026 12:03:00 +0300</pubDate>
+<guid isPermaLink="true">https://www.bbc.co.uk/news/articles/cz625lwq170o</guid>
 </item>
 
 </channel>

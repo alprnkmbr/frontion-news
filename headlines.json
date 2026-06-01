@@ -1,23 +1,32 @@
 {
-  "lastUpdated": "2026-06-01T16:05:58+03:00",
+  "lastUpdated": "2026-06-01T16:08:19+03:00",
   "headlines": [
     {
-      "headline": "France Seizes Russia-Linked Oil Tanker in Atlantic with UK Support",
-      "summary": "French navy intercepted a sanctioned tanker in the Atlantic, ordering it to head to France. Russia condemned the move as international piracy. The UK provided helicopter support.",
-      "emoji": "🇫🇷",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/",
-      "timestamp": "2026-06-01T16:03:00+03:00"
+      "headline": "Israel Orders New Strikes on Beirut Ahead of UN Meeting",
+      "summary": "Israel announced it would target Beiruts southern suburbs, a Hezbollah stronghold that had been mostly spared from heavy attacks, ahead of a UN Security Council meeting on the conflict.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "Al-Monitor",
+      "url": "https://www.al-monitor.com/originals/2026/06/israel-orders-strikes-beirut-ahead-un-meeting",
+      "timestamp": "2026-06-01T16:10:00+03:00"
     },
     {
-      "headline": "Pro-Trump Candidate De la Espriella Leads Colombia Presidential Race",
-      "summary": "Abelardo de la Espriella won nearly 44% in the first round, capitalizing on voter appetite for hardline crime policies. He will face progressive Sen. Ivan Cepeda in a June 21 runoff.",
-      "emoji": "🇨🇴",
-      "category": "Latin America",
-      "source": "AP News",
-      "url": "https://apnews.com/article/aberaldo-de-la-espriella-trump-colombia-petro-cepeda-election-crime-bukele-643a808af732c35e240949d69171d65f",
-      "timestamp": "2026-06-01T16:03:00+03:00"
+      "headline": "AUKUS Partners Advance Nuclear Submarine and Drone Programs",
+      "summary": "Australia, the UK, and the US jointly announced progress on Pillar 1 and Pillar 2 initiatives under the AUKUS trilateral security partnership, including nuclear submarine and underwater vehicle programs.",
+      "emoji": "🇦🇺",
+      "category": "Defense Industry",
+      "source": "Janes",
+      "url": "https://www.janes.com/defence-intelligence-insights/defence-news/c4isr/aukus-partners-advance-ssn-and-uuv-programmes",
+      "timestamp": "2026-06-01T16:10:00+03:00"
+    },
+    {
+      "headline": "EU Officials Dodge Questions on Ukraine Reforms Amid Membership Talks",
+      "summary": "EU officials are avoiding commenting on Ukraines reform progress, raising questions about transparency as membership negotiations continue.",
+      "emoji": "🇺🇦",
+      "category": "Europe",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/eu-officials-keep-dodging-questions-on-ukraines-reforms/",
+      "timestamp": "2026-06-01T16:10:00+03:00"
     },
     {
       "headline": "US Bombs Iranian Sites as Kuwait Intercepts Iranian Missiles and Drones",
@@ -26,7 +35,81 @@
       "category": "US-Iran War",
       "source": "AP News",
       "url": "https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d",
-      "timestamp": "2026-06-01T16:03:00+03:00"
+      "timestamp": "2026-06-01T16:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/world/us-says-it-intercepts-2-iranian-missiles-targeting-us-forces-in-kuwait/3953163",
+          "angle": "US Intercepts Iranian Missiles Targeting American Forces in Kuwait",
+          "summary": "US forces intercepted two Iranian ballistic missiles targeting American forces in Kuwait late Sunday, with no casualties reported, amid ongoing US-Iran tensions."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "Anadolu Agency"
+      ],
+      "urls": [
+        "https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d",
+        "https://www.aa.com.tr/en/world/us-says-it-intercepts-2-iranian-missiles-targeting-us-forces-in-kuwait/3953163"
+      ]
+    },
+    {
+      "headline": "France Seizes Russia-Linked Oil Tanker in Atlantic with UK Support",
+      "summary": "French navy intercepted a sanctioned tanker in the Atlantic, ordering it to head to France. Russia condemned the move as international piracy. The UK provided helicopter support.",
+      "emoji": "🇫🇷",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/",
+      "timestamp": "2026-06-01T16:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "France 24",
+          "url": "https://www.france24.com/en/france/20260601-france-and-allies-intercept-sanctioned-russian-oil-tanker-in-atlantic",
+          "angle": "French Navy intercepts Russian-linked oil tanker in Atlantic",
+          "summary": "France intercepts third sanctioned Russian oil tanker with UK support. Moscow condemns seizure as international terrorism amid ongoing sanctions enforcement."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "France 24"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/",
+        "https://www.france24.com/en/france/20260601-france-and-allies-intercept-sanctioned-russian-oil-tanker-in-atlantic"
+      ]
+    },
+    {
+      "headline": "Pro-Trump Candidate De la Espriella Leads Colombia Presidential Race",
+      "summary": "Abelardo de la Espriella won nearly 44% in the first round, capitalizing on voter appetite for hardline crime policies. He will face progressive Sen. Ivan Cepeda in a June 21 runoff.",
+      "emoji": "🇨🇴",
+      "category": "Latin America",
+      "source": "AP News",
+      "url": "https://apnews.com/article/aberaldo-de-la-espriella-trump-colombia-petro-cepeda-election-crime-bukele-643a808af732c35e240949d69171d65f",
+      "timestamp": "2026-06-01T16:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/06/01/nx-s1-5842833/first-round-colombia-presidential-vote",
+          "angle": "Right-Wing Outsider Leads Colombia Presidential Race",
+          "summary": "Tough-on-crime outsider Aberaldo de la Espriella took the lead in Colombias presidential race, setting up a runoff that could shift the countrys political direction away from outgoing President Petros policies."
+        },
+        {
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/world/latin-america/colombia-presidential-election-petro-doubt-rcna347785",
+          "angle": "Pro-Trump Outsider Wins First Round of Colombian Presidential Election",
+          "summary": "Far-right candidate Abelardo de la Espriella won the first round of Colombia's presidential election with 43.7% of the vote. He will face leftist Ivan Cepeda in a runoff that could reshape Colombia's relations with the United States."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "NPR",
+        "NBC News"
+      ],
+      "urls": [
+        "https://apnews.com/article/aberaldo-de-la-espriella-trump-colombia-petro-cepeda-election-crime-bukele-643a808af732c35e240949d69171d65f",
+        "https://www.npr.org/2026/06/01/nx-s1-5842833/first-round-colombia-presidential-vote",
+        "https://www.nbcnews.com/world/latin-america/colombia-presidential-election-petro-doubt-rcna347785"
+      ]
     },
     {
       "headline": "Philippines and Vietnam Elevate Ties to Counter China in South China Sea",
@@ -78,15 +161,6 @@
       "category": "Geopolitics",
       "source": "Jakarta Post",
       "url": "https://www.thejakartapost.com/opinion/2026/06/01/how-the-us-china-reset-recasts-the-quad.html",
-      "timestamp": "2026-06-01T14:05:00+03:00"
-    },
-    {
-      "headline": "French Navy intercepts Russian-linked oil tanker in Atlantic",
-      "summary": "France intercepts third sanctioned Russian oil tanker with UK support. Moscow condemns seizure as international terrorism amid ongoing sanctions enforcement.",
-      "emoji": "🇫🇷",
-      "category": "Europe",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/france/20260601-france-and-allies-intercept-sanctioned-russian-oil-tanker-in-atlantic",
       "timestamp": "2026-06-01T14:05:00+03:00"
     },
     {
@@ -455,15 +529,6 @@
       "timestamp": "2026-06-01T10:03:00+03:00"
     },
     {
-      "headline": "Right-Wing Outsider Leads Colombia Presidential Race",
-      "summary": "Tough-on-crime outsider Aberaldo de la Espriella took the lead in Colombias presidential race, setting up a runoff that could shift the countrys political direction away from outgoing President Petros policies.",
-      "emoji": "🇨🇴",
-      "category": "Latin America",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/01/nx-s1-5842833/first-round-colombia-presidential-vote",
-      "timestamp": "2026-06-01T10:03:00+03:00"
-    },
-    {
       "headline": "Five Killed in Explosion at Hanwha Aerospace Defense Plant in South Korea",
       "summary": "An explosion at a Hanwha Aerospace factory in Daejeon killed five people and injured two others. The plant is a major facility for South Korea's defense industry, producing rockets and other military hardware.",
       "emoji": "🇰🇷💥",
@@ -473,19 +538,19 @@
       "timestamp": "2026-06-01T09:05:00+03:00",
       "perspectives": [
         {
-          "source": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/business/aerospace-defense-industries/hanwha-aerospace-factory-explosion-kills-5-in-central-south-korea",
-          "angle": "Hanwha Aerospace factory explosion kills 5 in South Korea",
-          "summary": "Five workers died in an explosion at a Hanwha Aerospace defense factory in central South Korea. Hanwha is a major defense contractor supplying weapons domestically and internationally."
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3355514/explosion-kills-5-hanwha-aerospace-factory-south-korea",
+          "angle": "Explosion at South Korean Defense Factory Kills 5",
+          "summary": "At least five people were killed and two injured in a suspected propellant explosion at a Hanwha Aerospace defense plant in Daejeon, one of South Koreas largest defense contractors."
         }
       ],
       "sources": [
         "Reuters",
-        "Nikkei Asia"
+        "SCMP"
       ],
       "urls": [
         "https://www.reuters.com/world/asia-pacific/reports-an-explosion-hanwha-aerospace-factory-south-korea-official-says-2026-06-01/",
-        "https://asia.nikkei.com/business/aerospace-defense-industries/hanwha-aerospace-factory-explosion-kills-5-in-central-south-korea"
+        "https://www.scmp.com/news/asia/east-asia/article/3355514/explosion-kills-5-hanwha-aerospace-factory-south-korea"
       ]
     },
     {
@@ -520,15 +585,6 @@
         "https://www.bbc.com/news/articles/c1w2xve315do",
         "https://www.reuters.com/world/asia-pacific/pentagon-chief-says-us-ready-restart-strikes-iran-if-no-deal-2026-05-30/"
       ]
-    },
-    {
-      "headline": "Pro-Trump Outsider Wins First Round of Colombian Presidential Election",
-      "summary": "Far-right candidate Abelardo de la Espriella won the first round of Colombia's presidential election with 43.7% of the vote. He will face leftist Ivan Cepeda in a runoff that could reshape Colombia's relations with the United States.",
-      "emoji": "🇨🇴🏛️",
-      "category": "Latin America",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/latin-america/colombia-presidential-election-petro-doubt-rcna347785",
-      "timestamp": "2026-06-01T09:05:00+03:00"
     },
     {
       "headline": "Nepal PM proposes dialogue to resolve India border dispute",
