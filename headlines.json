@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-01T02:06:40+03:00",
+  "lastUpdated": "2026-06-01T03:06:49+03:00",
   "headlines": [
+    {
+      "headline": "Moldova Orthodox Church Patriarch Resigns Amid Geopolitical Divide",
+      "summary": "The patriarch of one of Moldova's two competing Orthodox churches resigned, a split that exposes the country's divisions between pro-European and pro-Russian orientations. A successor is to be appointed later this week.",
+      "emoji": "🇲🇩",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/patriarch-one-moldovas-two-competing-churches-steps-down-2026-05-31/",
+      "timestamp": "2026-06-01T03:00:00+03:00"
+    },
+    {
+      "headline": "Child Killed in Ukrainian Drone Strike on Russian-Held Kherson",
+      "summary": "A Russian-appointed official reported a Ukrainian drone struck an apartment building in the Russian-held part of Kherson region, killing a child and injuring 11 people.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/russia-appointed-official-says-child-killed-11-injured-drone-attack-russian-held-2026-05-31/",
+      "timestamp": "2026-06-01T03:00:00+03:00"
+    },
+    {
+      "headline": "UK Businesses Remain Downbeat on Economic Outlook",
+      "summary": "British businesses remain pessimistic about the economic outlook despite recent government efforts, according to CBI and Institute of Directors surveys. Smaller firms showed somewhat less negative sentiment.",
+      "emoji": "🇬🇧",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/uk-businesses-stay-downbeat-about-economy-surveys-show-2026-05-31/",
+      "timestamp": "2026-06-01T03:00:00+03:00"
+    },
+    {
+      "headline": "Asia's AI Chip Boom Could Spark Regional Economic Renaissance",
+      "summary": "Investors are piling into South Korea and Taiwan for semiconductor stocks, but the AI boom is powering a broader economic resurgence across North Asia through stronger household consumption, rising investment and widening tax coffers.",
+      "emoji": "🌏",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/asias-ai-chip-boom-could-spark-regional-economic-renaissance-2026-05-31/",
+      "timestamp": "2026-06-01T03:00:00+03:00"
+    },
     {
       "headline": "Netanyahu appoints Arrow-3 innovator Shmuel Ben Ezra as national security adviser",
       "summary": "Ben Ezra, a key figure in developing Israel's Arrow 3 missile defense system, takes over the crucial role left vacant since Tzachi Hanegbi's ouster in October 2025.",
@@ -17,16 +53,23 @@
       "category": "US-China",
       "source": "USNI News",
       "url": "https://news.usni.org/2026/05/31/u-s-coast-guard-patrols-near-scarborough-shoal-with-philippine-forces-amid-concerns-of-potential-chinese-build-up",
-      "timestamp": "2026-06-01T02:04:00+03:00"
-    },
-    {
-      "headline": "Colombia heads to presidential runoff between far-right De la Espriella and leftist Cepeda",
-      "summary": "Far-right outsider Abelardo de la Espriella led with over 10 million votes in the first round but fell short of a majority, setting up a June 21 runoff against leftist candidate Ivan Cepeda in a polarizing election.",
-      "emoji": "🇨🇴",
-      "category": "Latin America",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260531-colombia-presidential-election-live-follow-the-first-round",
-      "timestamp": "2026-06-01T02:04:00+03:00"
+      "timestamp": "2026-06-01T02:04:00+03:00",
+      "perspectives": [
+        {
+          "source": "Manila Bulletin",
+          "url": "https://mb.com.ph/2026/05/31/us-eyes-transfer-of-coast-guard-cutter-to-ph",
+          "angle": "US plans Coast Guard cutter transfer to Philippines amid South China Sea tensions",
+          "summary": "The United States announced plans to transfer a Coast Guard cutter to the Philippines to strengthen Manila's maritime security capabilities in the contested South China Sea."
+        }
+      ],
+      "sources": [
+        "USNI News",
+        "Manila Bulletin"
+      ],
+      "urls": [
+        "https://news.usni.org/2026/05/31/u-s-coast-guard-patrols-near-scarborough-shoal-with-philippine-forces-amid-concerns-of-potential-chinese-build-up",
+        "https://mb.com.ph/2026/05/31/us-eyes-transfer-of-coast-guard-cutter-to-ph"
+      ]
     },
     {
       "headline": "China's crackdown on offshore brokerages closes popular route to overseas markets",
@@ -35,15 +78,6 @@
       "category": "Asia-Pacific",
       "source": "Channel News Asia",
       "url": "https://www.channelnewsasia.com/east-asia/china-overseas-brokerage-investors-trading-crackdown-6149496",
-      "timestamp": "2026-06-01T02:04:00+03:00"
-    },
-    {
-      "headline": "Explosion in Myanmar village kills over 45 near Chinese border",
-      "summary": "A massive blast at a mining explosives storage facility in Kaungtup village, controlled by the Ta'ang National Liberation Army, killed at least 46 people including children and injured 74 others near the Chinese border.",
-      "emoji": "💥",
-      "category": "Asia-Pacific",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/world/asia/myanmar-explosion-deaths-kaungtup-village-b2986843.html",
       "timestamp": "2026-06-01T02:04:00+03:00"
     },
     {
@@ -56,40 +90,29 @@
       "timestamp": "2026-06-01T02:03:00+03:00"
     },
     {
-      "headline": "Israeli Forces Capture Strategic Beaufort Castle in Lebanon",
-      "summary": "Israeli troops seized the historic Beaufort Castle in southern Lebanon in the deepest incursion into the country in over 25 years. PM Netanyahu called it a \"decisive shift\" as European governments criticize the escalation.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cdep04kzz5wo",
-      "timestamp": "2026-06-01T02:03:00+03:00"
-    },
-    {
       "headline": "Japan Defense Minister Criticizes China Military Buildup",
       "summary": "Japan Defense Minister Shinjiro Koizumi rejected Beijing claims of \"new militarism\" and criticized China for its \"huge arsenal\" and lack of transparency. The exchange occurred at the Shangri-la Dialogue defense summit in Singapore.",
       "emoji": "🇯🇵",
       "category": "Asia-Pacific",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo",
-      "timestamp": "2026-06-01T02:03:00+03:00"
-    },
-    {
-      "headline": "Explosion Kills 55 in Myanmar Rebel-Held Village",
-      "summary": "At least 55 people were killed and dozens wounded when mining explosives detonated accidentally in a village in Myanmar's Shan State near the Chinese border. The TNLA, which controls the area, said explosives used for quarrying caused the blast.",
-      "emoji": "🇲🇲",
-      "category": "Asia-Pacific",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cglp7p787njo",
-      "timestamp": "2026-06-01T02:03:00+03:00"
-    },
-    {
-      "headline": "Colombia Presidential Election Heads to Runoff",
-      "summary": "Colombia's presidential election will go to a runoff between right-wing outsider Abelardo de la Espriella and leftist senator Iván Cepeda, after months of tension between President Petro and the Trump administration over drug policy and regional relations.",
-      "emoji": "🇨🇴",
-      "category": "Latin America",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c2027g423glo",
-      "timestamp": "2026-06-01T02:03:00+03:00"
+      "timestamp": "2026-06-01T02:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo",
+          "angle": "Japan Defence Minister Slams China's \"Huge Arsenal\" at Singapore Summit",
+          "summary": "Shinjiro Koizumi rebuffed Beijing's accusations of \"new militarism,\" arguing China's nuclear arsenal and lack of transparency are the real threat to regional stability. The comments at the Shangri-La Dialogue mark Japan's most pointed response yet to Chinese criticism of its defence build-up."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cp8p4ejy8ppo",
+        "https://www.bbc.com/news/articles/cp8p4ejy8ppo"
+      ]
     },
     {
       "headline": "Belarus Emerges as Potential New Launchpad for Russian Offensive Against Ukraine",
@@ -275,19 +298,35 @@
       "timestamp": "2026-05-31T21:03:00+03:00",
       "perspectives": [
         {
+          "source": "The Independent",
+          "url": "https://www.independent.co.uk/news/world/asia/myanmar-explosion-deaths-kaungtup-village-b2986843.html",
+          "angle": "Explosion in Myanmar village kills over 45 near Chinese border",
+          "summary": "A massive blast at a mining explosives storage facility in Kaungtup village, controlled by the Ta'ang National Liberation Army, killed at least 46 people including children and injured 74 others near the Chinese border."
+        },
+        {
           "source": "BBC",
           "url": "https://www.bbc.com/news/articles/cglp7p787njo",
-          "angle": "Myanmar Village Blast Kills at Least 55 in Rebel-Held Territory",
-          "summary": "A massive explosion at an explosives depot in Kaung Tat village in Shan State killed at least 55 people and wounded dozens. The TNLA rebel group, which controls the area, said the blast was caused by mining explosives."
+          "angle": "Explosion Kills 55 in Myanmar Rebel-Held Village",
+          "summary": "At least 55 people were killed and dozens wounded when mining explosives detonated accidentally in a village in Myanmar's Shan State near the Chinese border. The TNLA, which controls the area, said explosives used for quarrying caused the blast."
+        },
+        {
+          "source": "Asharq Al-Awsat",
+          "url": "https://english.aawsat.com/world/5278992-rescuers-say-blast-building-storing-explosives-myanmar-has-killed-more-45-people",
+          "angle": "Myanmar explosion kills over 45 at mining explosives storage facility near China border",
+          "summary": "A deadly blast at a building storing explosives for mining in northeastern Myanmar killed more than 45 people and injured dozens. The explosion occurred in Namhkam township near the China border."
         }
       ],
       "sources": [
         "Reuters",
-        "BBC"
+        "The Independent",
+        "BBC",
+        "Asharq Al-Awsat"
       ],
       "urls": [
         "https://www.reuters.com/world/asia-pacific/explosion-kills-least-55-myanmar-bbc-reports-2026-05-31/",
-        "https://www.bbc.com/news/articles/cglp7p787njo"
+        "https://www.independent.co.uk/news/world/asia/myanmar-explosion-deaths-kaungtup-village-b2986843.html",
+        "https://www.bbc.com/news/articles/cglp7p787njo",
+        "https://english.aawsat.com/world/5278992-rescuers-say-blast-building-storing-explosives-myanmar-has-killed-more-45-people"
       ]
     },
     {
@@ -420,15 +459,6 @@
       "timestamp": "2026-05-31T18:10:00+03:00"
     },
     {
-      "headline": "Myanmar explosion kills over 45 at mining explosives storage facility near China border",
-      "summary": "A deadly blast at a building storing explosives for mining in northeastern Myanmar killed more than 45 people and injured dozens. The explosion occurred in Namhkam township near the China border.",
-      "emoji": "🇲🇲💥",
-      "category": "Asia-Pacific",
-      "source": "Asharq Al-Awsat",
-      "url": "https://english.aawsat.com/world/5278992-rescuers-say-blast-building-storing-explosives-myanmar-has-killed-more-45-people",
-      "timestamp": "2026-05-31T18:10:00+03:00"
-    },
-    {
       "headline": "Israeli forces capture strategic Beaufort Castle in deepest Lebanon incursion in 25 years",
       "summary": "Israeli troops seized the Crusader-era castle overlooking southern Lebanon, marking a significant escalation despite a ceasefire agreement. Forces now occupy nearly one-fifth of Lebanese territory.",
       "emoji": "🇮🇱",
@@ -438,19 +468,19 @@
       "timestamp": "2026-05-31T18:05:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/lebanon-israel-capture-castle-beaufort-206c3d6c4dc9a139007f043556a0019b",
-          "angle": "Israel Captures Strategic Beaufort Castle in Deepest Lebanon Incursion Since 2000",
-          "summary": "Israeli troops seized the Crusader-built Beaufort Castle near Nabatiyeh, crossing the Litani River in what PM Netanyahu called a \"decisive shift\" in the war against Hezbollah. France requested an emergency UN Security Council meeting as Israel expands operations toward the Zahrani River."
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cdep04kzz5wo",
+          "angle": "Israeli Forces Capture Strategic Beaufort Castle in Lebanon",
+          "summary": "Israeli troops seized the historic Beaufort Castle in southern Lebanon in the deepest incursion into the country in over 25 years. PM Netanyahu called it a \"decisive shift\" as European governments criticize the escalation."
         }
       ],
       "sources": [
         "Reuters",
-        "AP News"
+        "BBC"
       ],
       "urls": [
         "https://www.reuters.com/business/aerospace-defense/israel-troops-capture-beaufort-castle-southern-lebanon-push-against-hezbollah-2026-05-31/",
-        "https://apnews.com/article/lebanon-israel-capture-castle-beaufort-206c3d6c4dc9a139007f043556a0019b"
+        "https://www.bbc.com/news/articles/cdep04kzz5wo"
       ]
     },
     {
@@ -573,8 +603,8 @@
         {
           "source": "BBC",
           "url": "https://www.bbc.com/news/articles/c2027g423glo",
-          "angle": "Colombia Votes in Presidential Election That May Reshape US Relations",
-          "summary": "Polls closed in Colombia's presidential election, a contest largely between a left-wing senator, a businessman, and a right-wing lawmaker to succeed President Gustavo Petro amid tensions with the Trump administration."
+          "angle": "Colombia Presidential Election Heads to Runoff",
+          "summary": "Colombia's presidential election will go to a runoff between right-wing outsider Abelardo de la Espriella and leftist senator Iván Cepeda, after months of tension between President Petro and the Trump administration over drug policy and regional relations."
         }
       ],
       "sources": [
@@ -703,15 +733,6 @@
         "https://www.bbc.com/news/articles/c0r2ejg1w9xo",
         "https://www.theguardian.com/world/2026/may/31/french-police-arrest-780-after-violent-clashes-as-psg-fans-celebrate-champions-league-win"
       ]
-    },
-    {
-      "headline": "Japan Defence Minister Slams China's \"Huge Arsenal\" at Singapore Summit",
-      "summary": "Shinjiro Koizumi rebuffed Beijing's accusations of \"new militarism,\" arguing China's nuclear arsenal and lack of transparency are the real threat to regional stability. The comments at the Shangri-La Dialogue mark Japan's most pointed response yet to Chinese criticism of its defence build-up.",
-      "emoji": "🇯🇵",
-      "category": "Asia-Pacific",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo",
-      "timestamp": "2026-05-31T16:00:00+03:00"
     },
     {
       "headline": "US Stops Another Merchant Ship in Iran Port Blockade",
@@ -936,15 +957,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/gaza-war-yellow-line-israeli-soldiers-8a6cb8e91ba454ddc80a6335e7466451",
       "timestamp": "2026-05-31T09:05:00+03:00"
-    },
-    {
-      "headline": "US plans Coast Guard cutter transfer to Philippines amid South China Sea tensions",
-      "summary": "The United States announced plans to transfer a Coast Guard cutter to the Philippines to strengthen Manila's maritime security capabilities in the contested South China Sea.",
-      "emoji": "🇺🇸🇵🇭",
-      "category": "US-China",
-      "source": "Manila Bulletin",
-      "url": "https://mb.com.ph/2026/05/31/us-eyes-transfer-of-coast-guard-cutter-to-ph",
-      "timestamp": "2026-05-31T08:10:00+03:00"
     },
     {
       "headline": "Malaysia questions Norway's apology over cancelled missile deal",
