@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-02T11:04:40+03:00",
+  "lastUpdated": "2026-06-02T12:07:21+03:00",
   "headlines": [
+    {
+      "headline": "Russia Launches Major Attack on Ukraine, Killing at Least 11",
+      "summary": "Russia launched one of its largest air assaults on Kyiv and other Ukrainian cities in months, firing 73 missiles and 656 drones. At least 11 people were killed and over 100 wounded in the overnight strikes, which Russia called a response to Kyivs terrorist acts inside Russia.",
+      "emoji": "🇺🇦⚔️",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/russia-says-its-overnight-ukraine-strike-was-response-kyivs-terrorist-acts-2026-06-02/",
+      "timestamp": "2026-06-02T12:03:00+03:00"
+    },
+    {
+      "headline": "Ukrainian Drone Attack Sets Russian Oil Refinery on Fire",
+      "summary": "Ukraine continued its campaign against Russian energy infrastructure as the Ilsky oil refinery in Russias Krasnodar region caught fire after an overnight drone attack. Kyiv has been systematically targeting Russian oil facilities to starve Moscow of war revenue.",
+      "emoji": "🇺🇦🛢️🔥",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/russias-ilsky-oil-refinery-on-fire-after-overnight-ukrainian-drone-attack-2026-06-02/",
+      "timestamp": "2026-06-02T12:03:00+03:00"
+    },
+    {
+      "headline": "EU Agrees Major Migration Overhaul with Offshore Return Centers",
+      "summary": "The European Union has advanced a sweeping migration policy reform that would increase deportations and establish detention centers abroad. The deal represents a significant shift toward tougher border controls as the bloc responds to political pressure over migration.",
+      "emoji": "🇪🇺🏛️",
+      "category": "Europe",
+      "source": "AP News",
+      "url": "https://apnews.com/article/migration-brussels-deportation-detention-27f04759acf5f9f4df73862c561a609b",
+      "timestamp": "2026-06-02T12:03:00+03:00"
+    },
+    {
+      "headline": "Russia Increases Pressure on Armenia Ahead of Election",
+      "summary": "Russia is intensifying pressure on Armenia ahead of a June 7 election as the once-close ally pursues deeper ties with Brussels and Washington. The move reflects Moscows efforts to maintain influence in its traditional sphere amid Armenias Western pivot.",
+      "emoji": "🇷🇺🇦🇲",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/russia-ups-pressure-armenia-ahead-sundays-election-2026-06-01/",
+      "timestamp": "2026-06-02T12:03:00+03:00"
+    },
+    {
+      "headline": "Motorola Solutions Buys Israeli Drone Defense Startup for .5 Billion",
+      "summary": "Motorola Solutions announced it will acquire Israeli startup D-Fend Solutions for .5 billion, highlighting growing demand for counter-drone technology as governments and critical infrastructure operators worldwide face increasing threats from rogue drones.",
+      "emoji": "🛡️💰",
+      "category": "Defense Industry",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/motorola-solutions-buy-d-fend-solutions-15-billion-2026-06-01/",
+      "timestamp": "2026-06-02T12:03:00+03:00"
+    },
     {
       "headline": "US in talks to expand nuclear weapons deployments in Europe",
       "summary": "The US is discussing whether to deploy nuclear weapons in additional European NATO states, the Financial Times reported. The discussions come amid heightened tensions with Russia and growing concerns about European security.",
@@ -8,16 +53,23 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/us-talks-expand-nuclear-weapons-deployments-europe-ft-says-2026-06-02/",
-      "timestamp": "2026-06-02T11:05:00+03:00"
-    },
-    {
-      "headline": "Russian missile and drone barrage kills at least 12 across Ukraine",
-      "summary": "Russia launched massive missile and drone strikes on Kyiv and Dnipro, killing at least 12 people and wounding over 100. The attacks come amid continued diplomatic deadlock and fierce fighting on multiple fronts.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/02/world/europe/ukraine-war-russia-kyiv-attack.html",
-      "timestamp": "2026-06-02T11:05:00+03:00"
+      "timestamp": "2026-06-02T11:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Arabiya",
+          "url": "https://english.alarabiya.net/News/world/2026/06/02/us-in-talks-to-expand-nuclear-weapons-deployments-in-europe-report",
+          "angle": "US in talks to expand nuclear weapons deployments in Europe",
+          "summary": "The US is discussing expanding nuclear weapons deployments to additional NATO member states beyond the current six countries, with Poland and Baltic states under consideration for hosting dual-capable aircraft as talks continue through NATO channels."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Al Arabiya"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/aerospace-defense/us-talks-expand-nuclear-weapons-deployments-europe-ft-says-2026-06-02/",
+        "https://english.alarabiya.net/News/world/2026/06/02/us-in-talks-to-expand-nuclear-weapons-deployments-in-europe-report"
+      ]
     },
     {
       "headline": "US crude exports hit record 5.6 million barrels per day in May",
@@ -26,7 +78,23 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/us-crude-exports-hit-record-high-may-iran-war-tightens-global-oil-supplies-2026-06-01/",
-      "timestamp": "2026-06-02T11:05:00+03:00"
+      "timestamp": "2026-06-02T11:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/us-crude-exports-hit-record-high-may-iran-war-tightens-global-oil-supplies-2026-06-01/",
+          "angle": "US Crude Exports Hit Record 5.6 Million Barrels Per Day",
+          "summary": "American oil exports reached unprecedented levels in May as Middle East supply disruptions from the Iran war drove demand from Asian and European refiners."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/us-crude-exports-hit-record-high-may-iran-war-tightens-global-oil-supplies-2026-06-01/",
+        "https://www.reuters.com/business/energy/us-crude-exports-hit-record-high-may-iran-war-tightens-global-oil-supplies-2026-06-01/"
+      ]
     },
     {
       "headline": "Israeli forces seize 900-year-old Crusader castle in Lebanon",
@@ -36,15 +104,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/lebanon-crusader-castle-seized-by-israel-symbol-bloody-history-2026-06-01/",
       "timestamp": "2026-06-02T11:05:00+03:00"
-    },
-    {
-      "headline": "US in talks to expand nuclear weapons deployments in Europe",
-      "summary": "The US is discussing expanding nuclear weapons deployments to additional NATO member states beyond the current six countries, with Poland and Baltic states under consideration for hosting dual-capable aircraft as talks continue through NATO channels.",
-      "emoji": "🇺🇸🇪🇺☢️",
-      "category": "Europe",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/world/2026/06/02/us-in-talks-to-expand-nuclear-weapons-deployments-in-europe-report",
-      "timestamp": "2026-06-02T10:05:00+03:00"
     },
     {
       "headline": "French winemakers embrace vitiforestry to combat climate change",
@@ -325,35 +384,19 @@
       "timestamp": "2026-06-02T06:05:00+03:00",
       "perspectives": [
         {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo",
-          "angle": "Massive Russian Strike Kills at Least Ten Across Ukraine",
-          "summary": "Russia launched one of its largest missile and drone attacks in months, hitting apartment buildings in Kyiv, Dnipro, and Kharkiv. At least ten people were killed and dozens injured, including children. The assault came after Moscow warned of \"systematic strikes\" in response to a Ukrainian drone attack on Luhansk."
-        },
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo",
-          "angle": "Russia launches massive strikes across Ukraine killing at least nine",
-          "summary": "Ballistic missiles and drones hit Kyiv and Dnipro, destroying apartment buildings. Moscow warned of systematic strikes after a drone attack in Luhansk killed 21."
-        },
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/explosions-rock-kyiv-amid-intelligence-warnings-of-russian-mass-attack/",
-          "angle": "Massive Russian missile and drone attack on Kyiv kills 6, injures 55",
-          "summary": "Russia launched a large-scale aerial attack against Ukraine overnight, targeting Kyiv with missiles and drones. Residential buildings were damaged in Kyiv and Dnipro as air defenses engaged multiple threats."
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/06/02/world/europe/ukraine-war-russia-kyiv-attack.html",
+          "angle": "Russian missile and drone barrage kills at least 12 across Ukraine",
+          "summary": "Russia launched massive missile and drone strikes on Kyiv and Dnipro, killing at least 12 people and wounding over 100. The attacks come amid continued diplomatic deadlock and fierce fighting on multiple fronts."
         }
       ],
       "sources": [
         "Reuters",
-        "BBC",
-        "BBC",
-        "Kyiv Independent"
+        "New York Times"
       ],
       "urls": [
         "https://www.reuters.com/world/large-pillar-smoke-seen-kyiv-after-air-raid-alert-issued-reuters-witness-reports-2026-06-01/",
-        "https://www.bbc.com/news/articles/c5y8nq8ljqwo",
-        "https://www.bbc.com/news/articles/c5y8nq8ljqwo",
-        "https://kyivindependent.com/explosions-rock-kyiv-amid-intelligence-warnings-of-russian-mass-attack/"
+        "https://www.nytimes.com/2026/06/02/world/europe/ukraine-war-russia-kyiv-attack.html"
       ]
     },
     {
@@ -876,15 +919,6 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/trump-says-iran-really-wants-make-deal-with-us-2026-06-01/",
-      "timestamp": "2026-06-02T01:03:00+03:00"
-    },
-    {
-      "headline": "US Crude Exports Hit Record 5.6 Million Barrels Per Day",
-      "summary": "American oil exports reached unprecedented levels in May as Middle East supply disruptions from the Iran war drove demand from Asian and European refiners.",
-      "emoji": "🇺🇸🛢️💰",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/us-crude-exports-hit-record-high-may-iran-war-tightens-global-oil-supplies-2026-06-01/",
       "timestamp": "2026-06-02T01:03:00+03:00"
     },
     {
@@ -2987,31 +3021,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/news/china/military/article/3355425/china-dials-down-rhetoric-regional-risks-persist-shangri-la-dialogue",
       "timestamp": "2026-05-30T21:30:00+03:00"
-    },
-    {
-      "headline": "Israel Added to UN Sexual Violence Blacklist for First Time",
-      "summary": "The United Nations has added Israel to its blacklist of parties responsible for sexual violence in conflict zones, marking an unprecedented diplomatic blow for the country amid ongoing international scrutiny of its military operations.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cx21le869n1o",
-      "timestamp": "2026-05-30T20:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c7j86kkmrn1o",
-          "angle": "Israel Added to UN Sexual Violence in Conflict Blacklist for First Time",
-          "summary": "The UN Secretary-General added Israel to the list of parties credibly suspected of sexual violence in conflict zones, drawing Israeli rejection and diplomatic tensions."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/cx21le869n1o",
-        "https://www.bbc.com/news/articles/c7j86kkmrn1o"
-      ]
     }
   ]
 }
