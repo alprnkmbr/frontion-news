@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-02T12:07:21+03:00",
+  "lastUpdated": "2026-06-02T12:09:30+03:00",
   "headlines": [
+    {
+      "headline": "Israel-Hezbollah Exchange Fire Despite Trump Ceasefire Announcement",
+      "summary": "Israel conducted strikes on south Lebanon and Hezbollah fired into northern Israel after Trump announced a ceasefire agreement that neither side has publicly accepted. The violence threatens to derail US-Iran peace negotiations as Tehran said it was no longer engaging in talks due to Israels offensive.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "Al-Monitor",
+      "url": "https://www.al-monitor.com/originals/2026/06/israel-hezbollah-exchange-fire-after-trump-announcement",
+      "timestamp": "2026-06-02T12:08:00+03:00"
+    },
+    {
+      "headline": "Philippine Senate Deadlock Deepens After Estrada Arrest",
+      "summary": "Senator Jinggoy Estradas arrest on corruption charges has left the Senate split between two 11-member blocs, raising risks of legislative paralysis and complicating Vice-President Sara Dutertes impeachment trial. The standoff follows Senator Dela Rosas disappearance after an ICC arrest warrant.",
+      "emoji": "🇵🇭",
+      "category": "Asia-Pacific",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/politics/article/3355679/philippine-senate-deadlock-deepens-after-estrada-arrest-complicating-sara-dutertes-trial",
+      "timestamp": "2026-06-02T12:08:00+03:00"
+    },
+    {
+      "headline": "Boeing Validates MQ-28 Ghost Bat Stealth Performance in RCS Testing",
+      "summary": "Boeing confirmed the MQ-28 Ghost Bat collaborative combat aircrafts stealth capabilities through radar cross section testing, validating design and material choices that minimize radar detection. The aircraft has completed over 150 flights and is designed for surveillance, electronic warfare, and force multiplication.",
+      "emoji": "✈️",
+      "category": "Defense Industry",
+      "source": "Janes",
+      "url": "https://www.janes.com/defence-intelligence-insights/defence-news/defence/boeing-tests-mq-28-ghost-bats-stealth-characteristics",
+      "timestamp": "2026-06-02T12:08:00+03:00"
+    },
+    {
+      "headline": "Russian Attacks Kill 13 Across Ukraine in Major Overnight Strike",
+      "summary": "Russia launched 656 drones and 73 missiles at Ukrainian cities including Kyiv, Dnipro, and Kharkiv, killing at least 13 and wounding over 100. The attack included eight Zircon hypersonic missiles, likely the largest number used in a single strike during the war.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/europe/20260602-russian-attacks-kill-at-least-five-and-injure-dozens-across-ukraine",
+      "timestamp": "2026-06-02T12:08:00+03:00"
+    },
     {
       "headline": "Russia Launches Major Attack on Ukraine, Killing at Least 11",
       "summary": "Russia launched one of its largest air assaults on Kyiv and other Ukrainian cities in months, firing 73 missiles and 656 drones. At least 11 people were killed and over 100 wounded in the overnight strikes, which Russia called a response to Kyivs terrorist acts inside Russia.",
@@ -8,7 +44,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/russia-says-its-overnight-ukraine-strike-was-response-kyivs-terrorist-acts-2026-06-02/",
-      "timestamp": "2026-06-02T12:03:00+03:00"
+      "timestamp": "2026-06-02T12:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/explosions-rock-kyiv-amid-intelligence-warnings-of-russian-mass-attack/",
+          "angle": "Explosions Rock Kyiv as Russia Launches Large-Scale Aerial Attack",
+          "summary": "Russia launched a large-scale aerial attack against Ukraine overnight on June 2, targeting Kyiv and cities across the country with missiles and drones amid intelligence warnings of a mass attack."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/aerospace-defense/russia-says-its-overnight-ukraine-strike-was-response-kyivs-terrorist-acts-2026-06-02/",
+        "https://kyivindependent.com/explosions-rock-kyiv-amid-intelligence-warnings-of-russian-mass-attack/"
+      ]
     },
     {
       "headline": "Ukrainian Drone Attack Sets Russian Oil Refinery on Fire",
@@ -17,7 +69,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/russias-ilsky-oil-refinery-on-fire-after-overnight-ukrainian-drone-attack-2026-06-02/",
-      "timestamp": "2026-06-02T12:03:00+03:00"
+      "timestamp": "2026-06-02T12:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/ukrainian-drones-hit-targets-across-several-russian-regions-2026-05-31/",
+          "angle": "Ukrainian Drones Strike Russian Oil Pipeline, Refinery and Fuel Depot",
+          "summary": "Ukrainian drones targeted energy infrastructure across multiple Russian regions overnight, hitting an oil pipeline pumping station, a refinery and a fuel depot in an escalating campaign against Russian energy assets."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/russias-ilsky-oil-refinery-on-fire-after-overnight-ukrainian-drone-attack-2026-06-02/",
+        "https://www.reuters.com/world/europe/ukrainian-drones-hit-targets-across-several-russian-regions-2026-05-31/"
+      ]
     },
     {
       "headline": "EU Agrees Major Migration Overhaul with Offshore Return Centers",
@@ -802,31 +870,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/south-korea-export-growth-hits-four-decade-high-chip-sales-hit-record-ai-boom-2026-06-01/",
       "timestamp": "2026-06-02T02:03:00+03:00"
-    },
-    {
-      "headline": "Explosions Rock Kyiv as Russia Launches Large-Scale Aerial Attack",
-      "summary": "Russia launched a large-scale aerial attack against Ukraine overnight on June 2, targeting Kyiv and cities across the country with missiles and drones amid intelligence warnings of a mass attack.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/explosions-rock-kyiv-amid-intelligence-warnings-of-russian-mass-attack/",
-      "timestamp": "2026-06-02T02:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/zelensky-says-russia-preparing-new-large-scale-attack/",
-          "angle": "Zelensky warns Russia preparing new large-scale attack on Ukraine",
-          "summary": "Ukrainian President Volodymyr Zelensky stated on May 29 that Ukrainian intelligence has information indicating Russia is preparing a new large-scale attack on Ukraine, amid ongoing ceasefire negotiations in the Iran-US conflict."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://kyivindependent.com/explosions-rock-kyiv-amid-intelligence-warnings-of-russian-mass-attack/",
-        "https://kyivindependent.com/zelensky-says-russia-preparing-new-large-scale-attack/"
-      ]
     },
     {
       "headline": "EU Aiming to Advance Ukraine Membership Faster Than Planned",
@@ -1698,31 +1741,6 @@
       "urls": [
         "https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d",
         "https://www.aa.com.tr/en/middle-east/kuwait-strongly-condemns-iranian-attacks-on-its-territory/3952867"
-      ]
-    },
-    {
-      "headline": "Ukrainian Drones Strike Russian Oil Pipeline, Refinery and Fuel Depot",
-      "summary": "Ukrainian drones targeted energy infrastructure across multiple Russian regions overnight, hitting an oil pipeline pumping station, a refinery and a fuel depot in an escalating campaign against Russian energy assets.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/ukrainian-drones-hit-targets-across-several-russian-regions-2026-05-31/",
-      "timestamp": "2026-06-01T08:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/russia-appointed-official-says-child-killed-11-injured-drone-attack-russian-held-2026-05-31/",
-          "angle": "Child Killed in Ukrainian Drone Strike on Russian-Held Kherson",
-          "summary": "A Russian-appointed official reported a Ukrainian drone struck an apartment building in the Russian-held part of Kherson region, killing a child and injuring 11 people."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/ukrainian-drones-hit-targets-across-several-russian-regions-2026-05-31/",
-        "https://www.reuters.com/world/russia-appointed-official-says-child-killed-11-injured-drone-attack-russian-held-2026-05-31/"
       ]
     },
     {
@@ -2994,33 +3012,6 @@
       "source": "Straits Times",
       "url": "https://www.straitstimes.com/world/europe/france-warns-that-strong-storms-could-end-deadly-heatwave",
       "timestamp": "2026-05-30T22:07:00+03:00"
-    },
-    {
-      "headline": "Hegseth Addresses Shangri-La Dialogue on US Foreign Policy",
-      "summary": "US Defense Secretary Pete Hegseth outlined Americas geopolitical goals at the Shangri-La Dialogue in Singapore, addressing defense leaders amid questions about US commitment to Asian allies and ongoing global conflicts.",
-      "emoji": "🇺🇸🌏",
-      "category": "Asia-Pacific",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/hegseth-shangri-la-dialogue-us-foreign-policy",
-      "timestamp": "2026-05-30T22:05:00+03:00"
-    },
-    {
-      "headline": "Macron Faces Backlash After Interrupting Africa Summit Panel",
-      "summary": "French President Emmanuel Macron faced criticism after he stormed the stage at the Africa Forward Summit in Kenya to demand silence from the audience. The incident comes as France attempts to reshape its relationship with African nations as a partnership of equals rather than a former colonial power.",
-      "emoji": "🇫🇷🇰🇪",
-      "category": "Diplomacy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/africa-macron-summit-kenya-interruption-5186f15010ec1854ff31d725c904b42e",
-      "timestamp": "2026-05-30T22:05:00+03:00"
-    },
-    {
-      "headline": "China dials down rhetoric but regional risks persist at Shangri-La Dialogue",
-      "summary": "Chinese delegation avoids sharp criticism of US following Xi-Trump summit, but warns of challenges from \"hegemonism\" and \"bloc confrontation\" without directly naming Washington.",
-      "emoji": "🇨🇳🗣️",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3355425/china-dials-down-rhetoric-regional-risks-persist-shangri-la-dialogue",
-      "timestamp": "2026-05-30T21:30:00+03:00"
     }
   ]
 }
