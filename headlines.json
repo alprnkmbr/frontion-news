@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-02T03:04:34+03:00",
+  "lastUpdated": "2026-06-02T04:04:57+03:00",
   "headlines": [
+    {
+      "headline": "US Gasoline Market Faces Fresh Test After Near-Record Inventory Drawdowns",
+      "summary": "A near-record run of US gasoline inventory drawdowns signals fuel markets are losing their buffer just as seasonal demand peaks, raising concerns about supply constraints.",
+      "emoji": "⛽",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/commodities/us-gasoline-market-set-fresh-test-after-near-record-stock-draws-2026-06-01/",
+      "timestamp": "2026-06-02T04:03:00+03:00"
+    },
+    {
+      "headline": "Putin Hosts Fifth Wartime Economic Conference as Russia Struggles for Growth Strategy",
+      "summary": "Russian President Vladimir Putin convenes his fifth wartime economic summit in St. Petersburg, grappling with a growth strategy as Ukrainian drone attacks strain the economy.",
+      "emoji": "🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/short-growth-ideas-putin-hosts-fifth-wartime-russian-davos-2026-06-01/",
+      "timestamp": "2026-06-02T04:03:00+03:00"
+    },
+    {
+      "headline": "US to Drastically Slash African Embassy Visa Processing",
+      "summary": "The State Department plans to cut by more than half the number of US embassies and consulates in Africa that can process visas, significantly reducing access for African travelers.",
+      "emoji": "🌍",
+      "category": "Diplomacy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/trump-africa-visas-embassies-cutbacks-973e4458cc0770a0a7e83acf51e74df0",
+      "timestamp": "2026-06-02T04:03:00+03:00"
+    },
+    {
+      "headline": "South Korea Surpasses India as Worlds Sixth-Largest Stock Market",
+      "summary": "South Koreas equity market has overtaken Indias as the worlds sixth largest, driven by a surge in chip stocks amid global AI demand.",
+      "emoji": "🇰🇷",
+      "category": "Economy",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-02/s-korea-surpasses-india-as-world-s-sixth-largest-stock-market",
+      "timestamp": "2026-06-02T04:03:00+03:00"
+    },
+    {
+      "headline": "Israel and Iran Step Back From Threats After Day of Tension",
+      "summary": "President Trump announced Israel and Hezbollah agreed not to attack each other, though Netanyahu later distanced himself from cease-fire talks in Lebanon.",
+      "emoji": "🇮🇱🇮🇷",
+      "category": "US-Iran War",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon",
+      "timestamp": "2026-06-02T04:03:00+03:00"
+    },
     {
       "headline": "Hezbollah Agrees to Halt Attacks on Israel, Lebanon Says",
       "summary": "Lebanon announces Hezbollah has accepted a US-backed reciprocal ceasefire with Israel. Israeli PM Netanyahu warns strikes on Beirut will continue if Hezbollah violates the agreement.",
@@ -8,16 +53,23 @@
       "category": "Middle East",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c202rxp1z15o",
-      "timestamp": "2026-06-02T03:03:00+03:00"
-    },
-    {
-      "headline": "France Seizes Russian-Linked Oil Tanker in Atlantic with UK Support",
-      "summary": "French Navy boarded a sanctioned Russian oil tanker with British helicopter assistance, Macron announced. The operation marks continued enforcement of sanctions on Russian energy exports.",
-      "emoji": "🇫🇷",
-      "category": "Europe",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cn8pwgej1gxo",
-      "timestamp": "2026-06-02T03:03:00+03:00"
+      "timestamp": "2026-06-02T03:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/live/2026/jun/01/iran-war-live-news-updates-kuwait-missile-drone-attack-us-strikes-iran-radar-sites",
+          "angle": "Hezbollah Agrees to US Ceasefire Proposal with Israel",
+          "summary": "Lebanon's US embassy confirms Hezbollah accepted a US proposal for reciprocal cessation of attacks. The agreement would halt Israeli strikes on Beirut's southern suburbs in exchange for Hezbollah stopping attacks against Israel, with the framework to expand to all Lebanese territories."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "The Guardian"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/c202rxp1z15o",
+        "https://www.theguardian.com/world/live/2026/jun/01/iran-war-live-news-updates-kuwait-missile-drone-attack-us-strikes-iran-radar-sites"
+      ]
     },
     {
       "headline": "Hungarian PM Threatens to Oust President in Constitutional Clash",
@@ -44,7 +96,23 @@
       "category": "Latin America",
       "source": "AP News",
       "url": "https://apnews.com/article/venezuela-chavez-maduro-rodriguez-chavismo-us-trump-a8d96666a51289f0c88efcd89a9413bc",
-      "timestamp": "2026-06-02T03:03:00+03:00"
+      "timestamp": "2026-06-02T03:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/venezuela-chavez-maduro-rodriguez-chavismo-us-trump-a8d96666a51289f0c88efcd89a9413bc",
+          "angle": "Venezuela ruling party fractures after Maduro capture",
+          "summary": "Chavismo loyalists are openly criticizing acting President Delcy Rodriguez for her warming relationship with Washington. The deportation of a former minister to the US and authorization for US military exercises in Caracas have exposed deep internal divisions."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "AP News"
+      ],
+      "urls": [
+        "https://apnews.com/article/venezuela-chavez-maduro-rodriguez-chavismo-us-trump-a8d96666a51289f0c88efcd89a9413bc",
+        "https://apnews.com/article/venezuela-chavez-maduro-rodriguez-chavismo-us-trump-a8d96666a51289f0c88efcd89a9413bc"
+      ]
     },
     {
       "headline": "Iran Seeks Limited Interim Deal With US to Ease Economic Pressure",
@@ -248,6 +316,31 @@
       ]
     },
     {
+      "headline": "France Intercepts Second Russian Shadow Fleet Oil Tanker",
+      "summary": "The French navy boarded a sanctioned vessel linked to Russian oil trade in the Atlantic, with President Macron announcing the operation backed by UK support. Moscow condemned the action as international piracy.",
+      "emoji": "🇫🇷🇷🇺🛳️",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/",
+      "timestamp": "2026-06-02T01:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cn8pwgej1gxo",
+          "angle": "France Seizes Russian-Linked Oil Tanker in Atlantic with UK Support",
+          "summary": "French Navy boarded a sanctioned Russian oil tanker with British helicopter assistance, Macron announced. The operation marks continued enforcement of sanctions on Russian energy exports."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/",
+        "https://www.bbc.com/news/articles/cn8pwgej1gxo"
+      ]
+    },
+    {
       "headline": "Iran Suspends US Message Exchanges, Threatens Strait of Hormuz Closure",
       "summary": "Tehran halted indirect negotiations with Washington over Israeli operations in Lebanon, with state media warning Iran may block the critical oil shipping chokepoint.",
       "emoji": "🇮🇷🛢️",
@@ -313,39 +406,6 @@
       "urls": [
         "https://www.reuters.com/world/europe/zelenskiys-top-aide-says-peace-deal-by-winter-is-realistic-2026-06-01/",
         "https://www.reuters.com/business/aerospace-defense/ukraines-zelenskiy-seeks-progress-peace-talks-before-winter-2026-05-31/"
-      ]
-    },
-    {
-      "headline": "France Intercepts Second Russian Shadow Fleet Oil Tanker",
-      "summary": "The French navy boarded a sanctioned vessel linked to Russian oil trade in the Atlantic, with President Macron announcing the operation backed by UK support. Moscow condemned the action as international piracy.",
-      "emoji": "🇫🇷🇷🇺🛳️",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/",
-      "timestamp": "2026-06-02T01:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/",
-          "angle": "France Seizes Russia-Linked Oil Tanker in Atlantic with UK Support",
-          "summary": "French navy intercepted a sanctioned tanker in the Atlantic, ordering it to head to France. Russia condemned the move as international piracy. The UK provided helicopter support."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/",
-          "angle": "France Intercepts Russian Shadow Fleet Tanker in Atlantic",
-          "summary": "French Navy boarded a sanctioned Russia-linked oil tanker in international waters with UK support, marking intensified enforcement of sanctions against Russian oil exports."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/",
-        "https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/",
-        "https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/"
       ]
     },
     {
@@ -435,15 +495,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/drivers-russian-controlled-crimea-grapple-with-gasoline-shortages-2026-06-01/",
       "timestamp": "2026-06-02T00:03:00+03:00"
-    },
-    {
-      "headline": "Hezbollah Agrees to US Ceasefire Proposal with Israel",
-      "summary": "Lebanon's US embassy confirms Hezbollah accepted a US proposal for reciprocal cessation of attacks. The agreement would halt Israeli strikes on Beirut's southern suburbs in exchange for Hezbollah stopping attacks against Israel, with the framework to expand to all Lebanese territories.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jun/01/iran-war-live-news-updates-kuwait-missile-drone-attack-us-strikes-iran-radar-sites",
-      "timestamp": "2026-06-01T23:03:00+03:00"
     },
     {
       "headline": "US-China hold maritime military safety talks in Hawaii",
@@ -929,15 +980,6 @@
         "https://www.reuters.com/business/short-growth-ideas-putin-hosts-fifth-wartime-russian-davos-2026-06-01/",
         "https://apnews.com/article/russia-putin-ukraine-war-zelenskyy-0c31bbbf0d06c457c00d046bc7ba99f7"
       ]
-    },
-    {
-      "headline": "Venezuela ruling party fractures after Maduro capture",
-      "summary": "Chavismo loyalists are openly criticizing acting President Delcy Rodriguez for her warming relationship with Washington. The deportation of a former minister to the US and authorization for US military exercises in Caracas have exposed deep internal divisions.",
-      "emoji": "🇻🇪",
-      "category": "Latin America",
-      "source": "AP News",
-      "url": "https://apnews.com/article/venezuela-chavez-maduro-rodriguez-chavismo-us-trump-a8d96666a51289f0c88efcd89a9413bc",
-      "timestamp": "2026-06-01T12:03:00+03:00"
     },
     {
       "headline": "Holocaust survivor Tomi Reichental dies aged 90",
@@ -2882,56 +2924,6 @@
       "urls": [
         "https://www.nytimes.com/2026/05/30/world/europe/germany-lithuania-military-deployment.html",
         "https://www.nytimes.com/2026/05/30/world/europe/germany-lithuania-military-deployment.html"
-      ]
-    },
-    {
-      "headline": "Japan purchases $14 million in military equipment for Ukraine under NATO program",
-      "summary": "Japan contributed non-lethal aid to Ukraine through the Prioritized Ukraine Requirements List initiative, marking a significant expansion of Tokyo's support for Kyiv amid the ongoing conflict with Russia.",
-      "emoji": "🇯🇵🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/japan-buys-over-14-million-in-military-equipment-for-ukraine-under-nato-weapons-program/",
-      "timestamp": "2026-05-30T14:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://www.kyivindependent.com/",
-          "angle": "Japan buys $14 million in military equipment for Ukraine under NATO program",
-          "summary": "Japan contributes non-lethal military aid to Ukraine through the NATO Prioritized Ukraine Requirements List initiative, expanding Asian support for Kyiv."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://kyivindependent.com/japan-buys-over-14-million-in-military-equipment-for-ukraine-under-nato-weapons-program/",
-        "https://www.kyivindependent.com/"
-      ]
-    },
-    {
-      "headline": "Ghana Passes Anti-LGBTQ+ Bill Criminalizing Same-Sex Relationships",
-      "summary": "Ghana parliament approved legislation imposing jail terms for same-sex acts and for identifying as LGBTQ+, joining other African nations with restrictive laws amid Western criticism.",
-      "emoji": "🇬🇭",
-      "category": "Africa",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cqj785n7vqjo",
-      "timestamp": "2026-05-30T14:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c5yedendprko",
-          "angle": "Ghana Parliament Passes Bill Criminalizing LGBTQ+ Identity",
-          "summary": "Ghana parliament approved legislation punishing same-sex acts with up to 3 years in prison. Bill introduces duty to report prohibited acts to police, awaiting presidential ratification."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/cqj785n7vqjo",
-        "https://www.bbc.com/news/articles/c5yedendprko"
       ]
     }
   ]
