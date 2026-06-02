@@ -1,14 +1,41 @@
 {
-  "lastUpdated": "2026-06-02T09:04:34+03:00",
+  "lastUpdated": "2026-06-02T10:04:55+03:00",
   "headlines": [
     {
-      "headline": "Massive Russian Strike Kills at Least Ten Across Ukraine",
-      "summary": "Russia launched one of its largest missile and drone attacks in months, hitting apartment buildings in Kyiv, Dnipro, and Kharkiv. At least ten people were killed and dozens injured, including children. The assault came after Moscow warned of \"systematic strikes\" in response to a Ukrainian drone attack on Luhansk.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo",
-      "timestamp": "2026-06-02T09:03:00+03:00"
+      "headline": "Iran Suspends US Negotiations Over Israeli Attacks in Lebanon",
+      "summary": "Iran stops diplomatic message exchanges with the US through mediators, citing continued Israeli attacks in Lebanon. Tehran warns it may block the Strait of Hormuz as the three-month conflict continues.",
+      "emoji": "🇮🇷⚠️",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-is-stopping-message-exchanges-with-us-may-block-hormuz-tasnim-news-agency-2026-06-01/",
+      "timestamp": "2026-06-02T10:03:00+03:00"
+    },
+    {
+      "headline": "Taiwan Develops Robot Patrol Dogs for South China Sea Islands",
+      "summary": "Taiwan's military weapons institute reveals robot patrol dogs for potential deployment on disputed South China Sea islands, as Chinese coast guard patrols intensify near Taiwanese-held territories.",
+      "emoji": "🇹🇼🤖",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/robot-patrol-dogs-could-be-coming-taiwans-south-china-sea-islands-2026-06-02/",
+      "timestamp": "2026-06-02T10:03:00+03:00"
+    },
+    {
+      "headline": "China and US Hold Constructive Military Talks in Hawaii",
+      "summary": "Chinese and US military officials met in Hawaii for candid discussions on air and maritime safety, agreeing that improved communication could reduce miscalculations and enhance professionalism amid regional tensions.",
+      "emoji": "🇨🇳🇺🇸",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/chinese-us-militaries-met-hawaii-stressed-communication-chinese-navy-says-2026-06-01/",
+      "timestamp": "2026-06-02T10:03:00+03:00"
+    },
+    {
+      "headline": "France Secures €93 Billion in Foreign Investments at Choose France Summit",
+      "summary": "France announces 71 foreign investment projects worth €93 billion ($108.3 billion) at its annual business summit, creating over 15,600 jobs as Macron courts global investors.",
+      "emoji": "🇫🇷💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/major-investment-pledges-choose-france-summit-2026-06-01/",
+      "timestamp": "2026-06-02T10:03:00+03:00"
     },
     {
       "headline": "Hezbollah Agrees to Ceasefire With Israel, Trump Announces",
@@ -17,7 +44,23 @@
       "category": "Middle East",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c202rxp1z15o",
-      "timestamp": "2026-06-02T09:03:00+03:00"
+      "timestamp": "2026-06-02T09:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c202rxp1z15o",
+          "angle": "Hezbollah agrees to halt attacks on Israel in US-brokered deal",
+          "summary": "Lebanon confirmed Hezbollah accepted a mutual cessation of attacks, but Israel said it would continue operations in southern Lebanon. Iran warned violations would breach the US-Iran ceasefire."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/c202rxp1z15o",
+        "https://www.bbc.com/news/articles/c202rxp1z15o"
+      ]
     },
     {
       "headline": "Iran Suspends Ceasefire Talks Citing Israeli Attacks on Lebanon",
@@ -26,15 +69,6 @@
       "category": "US-Iran War",
       "source": "Washington Post",
       "url": "https://www.washingtonpost.com/world/2026/06/01/iran-us-trade-strikes-deal-end-war-remains-elusive/",
-      "timestamp": "2026-06-02T09:03:00+03:00"
-    },
-    {
-      "headline": "Russian Drone Hits Apartment Building in NATO Member Romania",
-      "summary": "A Russian drone crashed into an apartment building in the eastern Romanian city of Galati, roughly 10 miles from the Ukrainian border, injuring two people. The incident threatens to heighten tensions between Russia and NATO.",
-      "emoji": "🇷🇴",
-      "category": "Europe",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/05/29/russian-drone-hits-residential-building-romania-posing-test-nato/",
       "timestamp": "2026-06-02T09:03:00+03:00"
     },
     {
@@ -97,40 +131,6 @@
       "source": "DefenseOne",
       "url": "https://www.defenseone.com/technology/2026/06/ukraine-robots-winning/413902/",
       "timestamp": "2026-06-02T08:10:00+03:00"
-    },
-    {
-      "headline": "Russia launches massive strikes across Ukraine killing at least nine",
-      "summary": "Ballistic missiles and drones hit Kyiv and Dnipro, destroying apartment buildings. Moscow warned of systematic strikes after a drone attack in Luhansk killed 21.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo",
-      "timestamp": "2026-06-02T08:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/russian-attacks-kill-5-injure-40-across-ukraine-over-past-day-destroys-train-station-in-sumy-oblast/",
-          "angle": "Russia Destroys Sumy Train Station, Kills 5 in Ukraine-Wide Strikes",
-          "summary": "Russian forces destroyed a civilian train station in Shostka, Sumy Oblast with kamikaze drones and launched 290 drones plus missiles across Ukraine, killing 5 and injuring 40. The station served hundreds of residents daily before being targeted."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/c5y8nq8ljqwo",
-        "https://kyivindependent.com/russian-attacks-kill-5-injure-40-across-ukraine-over-past-day-destroys-train-station-in-sumy-oblast/"
-      ]
-    },
-    {
-      "headline": "Hezbollah agrees to halt attacks on Israel in US-brokered deal",
-      "summary": "Lebanon confirmed Hezbollah accepted a mutual cessation of attacks, but Israel said it would continue operations in southern Lebanon. Iran warned violations would breach the US-Iran ceasefire.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c202rxp1z15o",
-      "timestamp": "2026-06-02T08:03:00+03:00"
     },
     {
       "headline": "Pope Leo XIV makes historic apology for Vatican role in slavery",
@@ -203,15 +203,6 @@
       "timestamp": "2026-06-02T07:00:00+03:00"
     },
     {
-      "headline": "Massive Russian missile and drone attack on Kyiv kills 6, injures 55",
-      "summary": "Russia launched a large-scale aerial attack against Ukraine overnight, targeting Kyiv with missiles and drones. Residential buildings were damaged in Kyiv and Dnipro as air defenses engaged multiple threats.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/explosions-rock-kyiv-amid-intelligence-warnings-of-russian-mass-attack/",
-      "timestamp": "2026-06-02T06:10:00+03:00"
-    },
-    {
       "headline": "Hegseth vows Supreme Court appeal after transgender military ban ruling",
       "summary": "Defense Secretary Pete Hegseth indicated he will take the transgender troops ban case to the Supreme Court after a federal appeals court ruled the Trump administration illegally banned active transgender service members.",
       "emoji": "⚔️",
@@ -228,6 +219,47 @@
       "source": "Straits Times",
       "url": "https://www.straitstimes.com/asia/east-asia/taiwan-says-2-dead-in-military-training-plane-crash",
       "timestamp": "2026-06-02T06:10:00+03:00"
+    },
+    {
+      "headline": "Russian Airstrikes Kill Five in Major Attack Across Ukraine",
+      "summary": "Russian missile and drone attacks on Kyiv, Dnipro, and Kharkiv killed at least five and wounded dozens. The assault followed days of warnings about a planned major offensive.",
+      "emoji": "🇺🇦⚔️",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/large-pillar-smoke-seen-kyiv-after-air-raid-alert-issued-reuters-witness-reports-2026-06-01/",
+      "timestamp": "2026-06-02T06:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo",
+          "angle": "Massive Russian Strike Kills at Least Ten Across Ukraine",
+          "summary": "Russia launched one of its largest missile and drone attacks in months, hitting apartment buildings in Kyiv, Dnipro, and Kharkiv. At least ten people were killed and dozens injured, including children. The assault came after Moscow warned of \"systematic strikes\" in response to a Ukrainian drone attack on Luhansk."
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo",
+          "angle": "Russia launches massive strikes across Ukraine killing at least nine",
+          "summary": "Ballistic missiles and drones hit Kyiv and Dnipro, destroying apartment buildings. Moscow warned of systematic strikes after a drone attack in Luhansk killed 21."
+        },
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/explosions-rock-kyiv-amid-intelligence-warnings-of-russian-mass-attack/",
+          "angle": "Massive Russian missile and drone attack on Kyiv kills 6, injures 55",
+          "summary": "Russia launched a large-scale aerial attack against Ukraine overnight, targeting Kyiv with missiles and drones. Residential buildings were damaged in Kyiv and Dnipro as air defenses engaged multiple threats."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC",
+        "BBC",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/large-pillar-smoke-seen-kyiv-after-air-raid-alert-issued-reuters-witness-reports-2026-06-01/",
+        "https://www.bbc.com/news/articles/c5y8nq8ljqwo",
+        "https://www.bbc.com/news/articles/c5y8nq8ljqwo",
+        "https://kyivindependent.com/explosions-rock-kyiv-amid-intelligence-warnings-of-russian-mass-attack/"
+      ]
     },
     {
       "headline": "French Navy Intercepts Russian Shadow Fleet Tanker in Atlantic",
@@ -262,39 +294,6 @@
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/06/01/world/middleeast/un-security-council-lebanon.html",
       "timestamp": "2026-06-02T06:05:00+03:00"
-    },
-    {
-      "headline": "Russian Airstrikes Kill Five in Major Attack Across Ukraine",
-      "summary": "Russian missile and drone attacks on Kyiv, Dnipro, and Kharkiv killed at least five and wounded dozens. The assault followed days of warnings about a planned major offensive.",
-      "emoji": "🇺🇦⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/large-pillar-smoke-seen-kyiv-after-air-raid-alert-issued-reuters-witness-reports-2026-06-01/",
-      "timestamp": "2026-06-02T06:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/russian-strikes-ukraine-kyiv",
-          "angle": "Four Dead After Massive Russian Strikes Across Ukraine",
-          "summary": "Thousands of Kyiv residents sought shelter after ballistic missile strikes hit the city center. The attacks mark an escalation in Russian bombardment as Ukraine continues to lose territory."
-        },
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/germany-sends-new-iris-t-system-to-ukraine-as-kyiv-braces-for-next-russian-mass-attack/",
-          "angle": "Germany delivers new IRIS-T air defense system to Ukraine amid Russian attack surge",
-          "summary": "President Zelensky announced Ukraine received a new IRIS-T system from Germany as Russian forces launched over 2,300 drones, 1,560 guided bombs, and 108 missiles in the past week. Ukraine faces critical shortages of air defense missiles."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "BBC",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/large-pillar-smoke-seen-kyiv-after-air-raid-alert-issued-reuters-witness-reports-2026-06-01/",
-        "https://www.bbc.com/news/articles/russian-strikes-ukraine-kyiv",
-        "https://kyivindependent.com/germany-sends-new-iris-t-system-to-ukraine-as-kyiv-braces-for-next-russian-mass-attack/"
-      ]
     },
     {
       "headline": "Zelenskiy Aide Sees Realistic Chance of Peace Deal by Winter",
@@ -2309,19 +2308,19 @@
       "timestamp": "2026-05-31T15:10:00+03:00",
       "perspectives": [
         {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/romanian-defense-ministry-confirms-russian-shahed-drone-behind-residential-building-strike/",
-          "angle": "Romania confirms Russian Shahed drone struck residential building",
-          "summary": "Romania Defense Ministry confirmed debris from a Russian Shahed-type drone struck a residential building, marking the latest incident of Russian attacks affecting NATO territory."
+          "source": "Washington Post",
+          "url": "https://www.washingtonpost.com/world/2026/05/29/russian-drone-hits-residential-building-romania-posing-test-nato/",
+          "angle": "Russian Drone Hits Apartment Building in NATO Member Romania",
+          "summary": "A Russian drone crashed into an apartment building in the eastern Romanian city of Galati, roughly 10 miles from the Ukrainian border, injuring two people. The incident threatens to heighten tensions between Russia and NATO."
         }
       ],
       "sources": [
         "BBC",
-        "Kyiv Independent"
+        "Washington Post"
       ],
       "urls": [
         "https://www.bbc.com/news/articles/cvgzyp93jq1o",
-        "https://kyivindependent.com/romanian-defense-ministry-confirms-russian-shahed-drone-behind-residential-building-strike/"
+        "https://www.washingtonpost.com/world/2026/05/29/russian-drone-hits-residential-building-romania-posing-test-nato/"
       ]
     },
     {

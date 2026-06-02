@@ -3,209 +3,235 @@
   <channel>
     <title>Frontion News Headlines</title>
     <link>https://frontion.news</link>
-    <description>Breaking geopolitical news from Tier 1 sources worldwide</description>
+    <description>Breaking Geopolitical News - Tier 1 Sources</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Jun 2026 09:04:53 +0300</lastBuildDate>
+    <lastBuildDate>{build_date}</lastBuildDate>
     <atom:link href="https://frontion.news/feed.xml" rel="self" type="application/rss+xml"/>
+
     <item>
-      <title>🇺🇦 Massive Russian Strike Kills at Least Ten Across Ukraine</title>
-      <description>Russia launched one of its largest missile and drone attacks in months, hitting apartment buildings in Kyiv, Dnipro, and Kharkiv. At least ten people were killed and dozens injured, including children. The assault came after Moscow warned of "systematic strikes" in response to a Ukrainian drone attack on Luhansk.</description>
-      <category>Ukraine-Russia War</category>
-      <source url="https://www.bbc.com/news/articles/c5y8nq8ljqwo">BBC</source>
-      <link>https://www.bbc.com/news/articles/c5y8nq8ljqwo</link>
-      <pubDate>2026-06-02T09:03:00+03:00</pubDate>
+      <title>Iran Suspends US Negotiations Over Israeli Attacks in Lebanon</title>
+      <link>https://www.reuters.com/world/middle-east/iran-is-stopping-message-exchanges-with-us-may-block-hormuz-tasnim-news-agency-2026-06-01/</link>
+      <description>Iran stops diplomatic message exchanges with the US through mediators, citing continued Israeli attacks in Lebanon. Tehran warns it may block the Strait of Hormuz as the three-month conflict continues.</description>
+      <category>US-Iran War</category>
+      <pubDate>2026-06-02T10:03:00+03:00</pubDate>
+      <source url="https://www.reuters.com/world/middle-east/iran-is-stopping-message-exchanges-with-us-may-block-hormuz-tasnim-news-agency-2026-06-01/">Reuters</source>
     </item>
+
     <item>
-      <title>🇱🇧 Hezbollah Agrees to Ceasefire With Israel, Trump Announces</title>
+      <title>Taiwan Develops Robot Patrol Dogs for South China Sea Islands</title>
+      <link>https://www.reuters.com/world/china/robot-patrol-dogs-could-be-coming-taiwans-south-china-sea-islands-2026-06-02/</link>
+      <description>Taiwan's military weapons institute reveals robot patrol dogs for potential deployment on disputed South China Sea islands, as Chinese coast guard patrols intensify near Taiwanese-held territories.</description>
+      <category>Asia-Pacific</category>
+      <pubDate>2026-06-02T10:03:00+03:00</pubDate>
+      <source url="https://www.reuters.com/world/china/robot-patrol-dogs-could-be-coming-taiwans-south-china-sea-islands-2026-06-02/">Reuters</source>
+    </item>
+
+    <item>
+      <title>China and US Hold Constructive Military Talks in Hawaii</title>
+      <link>https://www.reuters.com/world/china/chinese-us-militaries-met-hawaii-stressed-communication-chinese-navy-says-2026-06-01/</link>
+      <description>Chinese and US military officials met in Hawaii for candid discussions on air and maritime safety, agreeing that improved communication could reduce miscalculations and enhance professionalism amid regional tensions.</description>
+      <category>Diplomacy</category>
+      <pubDate>2026-06-02T10:03:00+03:00</pubDate>
+      <source url="https://www.reuters.com/world/china/chinese-us-militaries-met-hawaii-stressed-communication-chinese-navy-says-2026-06-01/">Reuters</source>
+    </item>
+
+    <item>
+      <title>France Secures €93 Billion in Foreign Investments at Choose France Summit</title>
+      <link>https://www.reuters.com/business/retail-consumer/major-investment-pledges-choose-france-summit-2026-06-01/</link>
+      <description>France announces 71 foreign investment projects worth €93 billion ($108.3 billion) at its annual business summit, creating over 15,600 jobs as Macron courts global investors.</description>
+      <category>Economy</category>
+      <pubDate>2026-06-02T10:03:00+03:00</pubDate>
+      <source url="https://www.reuters.com/business/retail-consumer/major-investment-pledges-choose-france-summit-2026-06-01/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Hezbollah Agrees to Ceasefire With Israel, Trump Announces</title>
+      <link>https://www.bbc.com/news/articles/c202rxp1z15o</link>
       <description>Lebanon confirmed Hezbollah accepted a US proposal for a mutual cessation of attacks, with Israel agreeing not to strike Beirut. However, clashes continued hours after the announcement, with Hezbollah launching attacks on Israeli tanks. Iran warned that violations in Lebanon would breach the broader US-Iran ceasefire.</description>
       <category>Middle East</category>
-      <source url="https://www.bbc.com/news/articles/c202rxp1z15o">BBC</source>
-      <link>https://www.bbc.com/news/articles/c202rxp1z15o</link>
       <pubDate>2026-06-02T09:03:00+03:00</pubDate>
+      <source url="https://www.bbc.com/news/articles/c202rxp1z15o">BBC</source>
     </item>
+
     <item>
-      <title>🇮🇷 Iran Suspends Ceasefire Talks Citing Israeli Attacks on Lebanon</title>
+      <title>Iran Suspends Ceasefire Talks Citing Israeli Attacks on Lebanon</title>
+      <link>https://www.washingtonpost.com/world/2026/06/01/iran-us-trade-strikes-deal-end-war-remains-elusive/</link>
       <description>Iran suspended negotiations with the United States after Israel intensified attacks in Lebanon, according to Iranian state media. The move threatens to derail efforts to extend the shaky ceasefire and end the three-month war.</description>
       <category>US-Iran War</category>
+      <pubDate>2026-06-02T09:03:00+03:00</pubDate>
       <source url="https://www.washingtonpost.com/world/2026/06/01/iran-us-trade-strikes-deal-end-war-remains-elusive/">Washington Post</source>
-      <link>https://www.washingtonpost.com/world/2026/06/01/iran-us-trade-strikes-deal-end-war-remains-elusive/</link>
-      <pubDate>2026-06-02T09:03:00+03:00</pubDate>
     </item>
+
     <item>
-      <title>🇷🇴 Russian Drone Hits Apartment Building in NATO Member Romania</title>
-      <description>A Russian drone crashed into an apartment building in the eastern Romanian city of Galati, roughly 10 miles from the Ukrainian border, injuring two people. The incident threatens to heighten tensions between Russia and NATO.</description>
-      <category>Europe</category>
-      <source url="https://www.washingtonpost.com/world/2026/05/29/russian-drone-hits-residential-building-romania-posing-test-nato/">Washington Post</source>
-      <link>https://www.washingtonpost.com/world/2026/05/29/russian-drone-hits-residential-building-romania-posing-test-nato/</link>
-      <pubDate>2026-06-02T09:03:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇨🇳 Macau joins China cross-border digital currency platform as 11 banks sign up</title>
+      <title>Macau joins China cross-border digital currency platform as 11 banks sign up</title>
+      <link>https://www.scmp.com/economy/china-economy/article/3355633/11-macau-banks-sign-project-mbridge-city-joins-digital-currency-platform</link>
       <description>Macau has joined Project mBridge, a multi-country central bank digital currency settlement platform alongside China, Hong Kong, Thailand, UAE and Saudi Arabia. The move advances Beijing's push to create alternatives to US dollar-centric payment networks amid heightened tensions.</description>
       <category>Economy</category>
-      <source url="https://www.scmp.com/economy/china-economy/article/3355633/11-macau-banks-sign-project-mbridge-city-joins-digital-currency-platform">SCMP</source>
-      <link>https://www.scmp.com/economy/china-economy/article/3355633/11-macau-banks-sign-project-mbridge-city-joins-digital-currency-platform</link>
       <pubDate>2026-06-02T08:10:00+03:00</pubDate>
+      <source url="https://www.scmp.com/economy/china-economy/article/3355633/11-macau-banks-sign-project-mbridge-city-joins-digital-currency-platform">SCMP</source>
     </item>
+
     <item>
-      <title>🇪🇺 Chinese automaker SAIC to build first EU car plant in Spain</title>
+      <title>Chinese automaker SAIC to build first EU car plant in Spain</title>
+      <link>https://www.scmp.com/news/world/europe/article/3355613/chinas-saic-plans-build-first-eu-car-plant-spains-galicia</link>
       <description>SAIC Motor plans to establish its first European Union production facility in Spain's Galicia region with a €200 million initial investment. The MG brand owner aims to start construction in 2027 and begin operations by 2028, creating approximately 1,000 direct jobs.</description>
       <category>Economy</category>
-      <source url="https://www.scmp.com/news/world/europe/article/3355613/chinas-saic-plans-build-first-eu-car-plant-spains-galicia">SCMP</source>
-      <link>https://www.scmp.com/news/world/europe/article/3355613/chinas-saic-plans-build-first-eu-car-plant-spains-galicia</link>
       <pubDate>2026-06-02T08:10:00+03:00</pubDate>
+      <source url="https://www.scmp.com/news/world/europe/article/3355613/chinas-saic-plans-build-first-eu-car-plant-spains-galicia">SCMP</source>
     </item>
+
     <item>
-      <title>🇩🇰 Denmark's Frederiksen secures third term amid Greenland tensions with Trump</title>
+      <title>Denmark's Frederiksen secures third term amid Greenland tensions with Trump</title>
+      <link>https://www.scmp.com/news/world/europe/article/3355638/denmarks-prime-minister-secures-third-term-after-marathon-talks</link>
       <description>Danish PM Mette Frederiksen formed a center-left minority coalition government after more than two months of negotiations following March elections. She maintains power during a diplomatic crisis with the US over the future of Greenland.</description>
       <category>Europe</category>
-      <source url="https://www.scmp.com/news/world/europe/article/3355638/denmarks-prime-minister-secures-third-term-after-marathon-talks">SCMP</source>
-      <link>https://www.scmp.com/news/world/europe/article/3355638/denmarks-prime-minister-secures-third-term-after-marathon-talks</link>
       <pubDate>2026-06-02T08:10:00+03:00</pubDate>
+      <source url="https://www.scmp.com/news/world/europe/article/3355638/denmarks-prime-minister-secures-third-term-after-marathon-talks">SCMP</source>
     </item>
+
     <item>
-      <title>🚢 China advances fourth aircraft carrier as powers invest despite drone threat</title>
+      <title>China advances fourth aircraft carrier as powers invest despite drone threat</title>
+      <link>https://www.scmp.com/news/china/military/article/3355589/why-do-china-and-other-powers-still-want-aircraft-carriers</link>
       <description>Satellite images show China's fourth aircraft carrier, the nuclear-powered Type 004, taking shape at Dalian shipyard with electromagnetic catapults. Despite growing drone and submarine threats to large surface vessels, major powers including France, Turkey, India and Japan continue investing in carriers as symbols of military might.</description>
       <category>Defense Industry</category>
-      <source url="https://www.scmp.com/news/china/military/article/3355589/why-do-china-and-other-powers-still-want-aircraft-carriers">SCMP</source>
-      <link>https://www.scmp.com/news/china/military/article/3355589/why-do-china-and-other-powers-still-want-aircraft-carriers</link>
       <pubDate>2026-06-02T08:10:00+03:00</pubDate>
+      <source url="https://www.scmp.com/news/china/military/article/3355589/why-do-china-and-other-powers-still-want-aircraft-carriers">SCMP</source>
     </item>
+
     <item>
-      <title>🤖 AI and robotics shift Ukraine toward victory prospects, analysts say</title>
+      <title>AI and robotics shift Ukraine toward victory prospects, analysts say</title>
+      <link>https://www.defenseone.com/technology/2026/06/ukraine-robots-winning/413902/</link>
       <description>European officials increasingly see Ukraine as potentially on a path to victory, crediting advances in AI-guided drones and ground robots that can hold territory. Ukraine has developed systems like the TFL-1 autonomous targeting module, achieving interception rates around 90% against Russian attacks.</description>
       <category>Military</category>
-      <source url="https://www.defenseone.com/technology/2026/06/ukraine-robots-winning/413902/">DefenseOne</source>
-      <link>https://www.defenseone.com/technology/2026/06/ukraine-robots-winning/413902/</link>
       <pubDate>2026-06-02T08:10:00+03:00</pubDate>
+      <source url="https://www.defenseone.com/technology/2026/06/ukraine-robots-winning/413902/">DefenseOne</source>
     </item>
+
     <item>
-      <title>🇺🇦 Russia launches massive strikes across Ukraine killing at least nine</title>
-      <description>Ballistic missiles and drones hit Kyiv and Dnipro, destroying apartment buildings. Moscow warned of systematic strikes after a drone attack in Luhansk killed 21.</description>
-      <category>Ukraine-Russia War</category>
-      <source url="https://www.bbc.com/news/articles/c5y8nq8ljqwo">BBC</source>
-      <link>https://www.bbc.com/news/articles/c5y8nq8ljqwo</link>
-      <pubDate>2026-06-02T08:03:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇱🇧 Hezbollah agrees to halt attacks on Israel in US-brokered deal</title>
-      <description>Lebanon confirmed Hezbollah accepted a mutual cessation of attacks, but Israel said it would continue operations in southern Lebanon. Iran warned violations would breach the US-Iran ceasefire.</description>
-      <category>Middle East</category>
-      <source url="https://www.bbc.com/news/articles/c202rxp1z15o">BBC</source>
-      <link>https://www.bbc.com/news/articles/c202rxp1z15o</link>
-      <pubDate>2026-06-02T08:03:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>⛪ Pope Leo XIV makes historic apology for Vatican role in slavery</title>
+      <title>Pope Leo XIV makes historic apology for Vatican role in slavery</title>
+      <link>https://apnews.com/article/pope-apologizes-slavery-role-holy-see-vatican-78df993c5604eb098b19f255b89b3155</link>
       <description>First US-born pope issued encyclical acknowledging papal bulls that legitimized slavery for centuries. Called it a wound in Christian memory.</description>
       <category>Diplomacy</category>
-      <source url="https://apnews.com/article/pope-apologizes-slavery-role-holy-see-vatican-78df993c5604eb098b19f255b89b3155">AP News</source>
-      <link>https://apnews.com/article/pope-apologizes-slavery-role-holy-see-vatican-78df993c5604eb098b19f255b89b3155</link>
       <pubDate>2026-06-02T08:03:00+03:00</pubDate>
+      <source url="https://apnews.com/article/pope-apologizes-slavery-role-holy-see-vatican-78df993c5604eb098b19f255b89b3155">AP News</source>
     </item>
+
     <item>
-      <title>💰 Bond market sends inflation warning to Trump ahead of midterms</title>
+      <title>Bond market sends inflation warning to Trump ahead of midterms</title>
+      <link>https://apnews.com/article/trump-interest-rates-debt-deficit-8deb3ed0c013a9c43a58e857ad1d615d</link>
       <description>Rising Treasury yields driven by deficit concerns and Iran war costs are pushing mortgage rates to 9-month highs, creating economic vulnerability for Republicans.</description>
       <category>Economy</category>
-      <source url="https://apnews.com/article/trump-interest-rates-debt-deficit-8deb3ed0c013a9c43a58e857ad1d615d">AP News</source>
-      <link>https://apnews.com/article/trump-interest-rates-debt-deficit-8deb3ed0c013a9c43a58e857ad1d615d</link>
       <pubDate>2026-06-02T08:03:00+03:00</pubDate>
+      <source url="https://apnews.com/article/trump-interest-rates-debt-deficit-8deb3ed0c013a9c43a58e857ad1d615d">AP News</source>
     </item>
+
     <item>
-      <title>🇮🇱 Trump berates Netanyahu over Lebanon strikes in heated call</title>
+      <title>Trump berates Netanyahu over Lebanon strikes in heated call</title>
+      <link>https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-ceasefire-israel-netanyahu-call-b2987645.html</link>
       <description>US president reportedly told Israeli PM everyone hates Israel over its bombardment of Lebanon. Hezbollah agreed to halt attacks after the call.</description>
       <category>US-Iran War</category>
-      <source url="https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-ceasefire-israel-netanyahu-call-b2987645.html">The Independent</source>
-      <link>https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-ceasefire-israel-netanyahu-call-b2987645.html</link>
       <pubDate>2026-06-02T08:03:00+03:00</pubDate>
+      <source url="https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-ceasefire-israel-netanyahu-call-b2987645.html">The Independent</source>
     </item>
+
     <item>
-      <title>⛽ Goldman Sachs Warns Fuel Margins to Stay Elevated Through 2026</title>
+      <title>Goldman Sachs Warns Fuel Margins to Stay Elevated Through 2026</title>
+      <link>https://www.reuters.com/business/energy/goldman-sachs-expects-elevated-refined-fuel-margins-through-2026-hormuz-2026-06-02/</link>
       <description>Refined fuel margins will remain sharply elevated through 2026 due to Strait of Hormuz disruptions tightening product markets more than crude, Goldman Sachs said in a research note. The analysis highlights lasting impacts from Middle East conflict on global energy markets.</description>
       <category>Energy</category>
-      <source url="https://www.reuters.com/business/energy/goldman-sachs-expects-elevated-refined-fuel-margins-through-2026-hormuz-2026-06-02/">Reuters</source>
-      <link>https://www.reuters.com/business/energy/goldman-sachs-expects-elevated-refined-fuel-margins-through-2026-hormuz-2026-06-02/</link>
       <pubDate>2026-06-02T07:00:00+03:00</pubDate>
+      <source url="https://www.reuters.com/business/energy/goldman-sachs-expects-elevated-refined-fuel-margins-through-2026-hormuz-2026-06-02/">Reuters</source>
     </item>
+
     <item>
-      <title>🇳🇴 Norway Oil Workers Threaten Strike from June 5</title>
+      <title>Norway Oil Workers Threaten Strike from June 5</title>
+      <link>https://www.reuters.com/business/world-at-work/norway-oil-sector-workers-threaten-strike-june-5-2026-06-01/</link>
       <description>Nearly 8% of Norwegian offshore oil and gas workers plan to strike from June 5 if state-brokered wage mediation fails, labor union data showed. The action could impact output from Western Europe's top oil and gas producer.</description>
       <category>Energy</category>
-      <source url="https://www.reuters.com/business/world-at-work/norway-oil-sector-workers-threaten-strike-june-5-2026-06-01/">Reuters</source>
-      <link>https://www.reuters.com/business/world-at-work/norway-oil-sector-workers-threaten-strike-june-5-2026-06-01/</link>
       <pubDate>2026-06-02T07:00:00+03:00</pubDate>
+      <source url="https://www.reuters.com/business/world-at-work/norway-oil-sector-workers-threaten-strike-june-5-2026-06-01/">Reuters</source>
     </item>
+
     <item>
-      <title>🇰🇷 Kakao Union Announces June 10 Strike Over Job Security</title>
+      <title>Kakao Union Announces June 10 Strike Over Job Security</title>
+      <link>https://www.reuters.com/world/asia-pacific/union-south-koreas-kakao-hold-partial-strike-june-10-2026-06-01/</link>
       <description>South Korea's Kakao Corp union will stage a four-hour strike on June 10 seeking job security amid restructuring concerns. The action threatens service disruptions for KakaoTalk, South Korea's dominant messaging platform with 45 million users.</description>
       <category>Asia-Pacific</category>
-      <source url="https://www.reuters.com/world/asia-pacific/union-south-koreas-kakao-hold-partial-strike-june-10-2026-06-01/">Reuters</source>
-      <link>https://www.reuters.com/world/asia-pacific/union-south-koreas-kakao-hold-partial-strike-june-10-2026-06-01/</link>
       <pubDate>2026-06-02T07:00:00+03:00</pubDate>
+      <source url="https://www.reuters.com/world/asia-pacific/union-south-koreas-kakao-hold-partial-strike-june-10-2026-06-01/">Reuters</source>
     </item>
+
     <item>
-      <title>🇺🇦 Massive Russian missile and drone attack on Kyiv kills 6, injures 55</title>
-      <description>Russia launched a large-scale aerial attack against Ukraine overnight, targeting Kyiv with missiles and drones. Residential buildings were damaged in Kyiv and Dnipro as air defenses engaged multiple threats.</description>
-      <category>Ukraine-Russia War</category>
-      <source url="https://kyivindependent.com/explosions-rock-kyiv-amid-intelligence-warnings-of-russian-mass-attack/">Kyiv Independent</source>
-      <link>https://kyivindependent.com/explosions-rock-kyiv-amid-intelligence-warnings-of-russian-mass-attack/</link>
-      <pubDate>2026-06-02T06:10:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>⚔️ Hegseth vows Supreme Court appeal after transgender military ban ruling</title>
+      <title>Hegseth vows Supreme Court appeal after transgender military ban ruling</title>
+      <link>https://thehill.com/policy/defense/5905031-defense-secretary-transgender-ban-appeal/</link>
       <description>Defense Secretary Pete Hegseth indicated he will take the transgender troops ban case to the Supreme Court after a federal appeals court ruled the Trump administration illegally banned active transgender service members.</description>
       <category>US Politics</category>
-      <source url="https://thehill.com/policy/defense/5905031-defense-secretary-transgender-ban-appeal/">The Hill</source>
-      <link>https://thehill.com/policy/defense/5905031-defense-secretary-transgender-ban-appeal/</link>
       <pubDate>2026-06-02T06:10:00+03:00</pubDate>
+      <source url="https://thehill.com/policy/defense/5905031-defense-secretary-transgender-ban-appeal/">The Hill</source>
     </item>
+
     <item>
-      <title>🇹🇼 Two dead in Taiwan military training plane crash at Kaohsiung air base</title>
+      <title>Two dead in Taiwan military training plane crash at Kaohsiung air base</title>
+      <link>https://www.straitstimes.com/asia/east-asia/taiwan-says-2-dead-in-military-training-plane-crash</link>
       <description>A T-34 military training plane crashed at Gangshan Air Base in Kaohsiung, killing two personnel. The incident comes amid heightened regional tensions and increased military activity around Taiwan.</description>
       <category>Asia-Pacific</category>
-      <source url="https://www.straitstimes.com/asia/east-asia/taiwan-says-2-dead-in-military-training-plane-crash">Straits Times</source>
-      <link>https://www.straitstimes.com/asia/east-asia/taiwan-says-2-dead-in-military-training-plane-crash</link>
       <pubDate>2026-06-02T06:10:00+03:00</pubDate>
+      <source url="https://www.straitstimes.com/asia/east-asia/taiwan-says-2-dead-in-military-training-plane-crash">Straits Times</source>
     </item>
+
     <item>
-      <title>🇫🇷🇷🇺 French Navy Intercepts Russian Shadow Fleet Tanker in Atlantic</title>
-      <description>France boarded a sanctioned tanker linked to Russian oil trade and redirected it to French territory. Russia condemned the move as "international piracy" amid ongoing tensions over sanctions enforcement.</description>
-      <category>Europe</category>
-      <source url="https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/">Reuters</source>
-      <link>https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/</link>
-      <pubDate>2026-06-02T06:05:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇱🇧🇮🇱🇺🇳 UN Security Council Demands Israeli Withdrawal From Southern Lebanon</title>
-      <description>Council members called for Israel to pull out of southern Lebanon after Israel threatened to attack southern Beirut. Trump announced a limited ceasefire between Hezbollah and Israel.</description>
-      <category>Middle East</category>
-      <source url="https://www.nytimes.com/2026/06/01/world/middleeast/un-security-council-lebanon.html">New York Times</source>
-      <link>https://www.nytimes.com/2026/06/01/world/middleeast/un-security-council-lebanon.html</link>
-      <pubDate>2026-06-02T06:05:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇺🇦⚔️ Russian Airstrikes Kill Five in Major Attack Across Ukraine</title>
+      <title>Russian Airstrikes Kill Five in Major Attack Across Ukraine</title>
+      <link>https://www.reuters.com/world/large-pillar-smoke-seen-kyiv-after-air-raid-alert-issued-reuters-witness-reports-2026-06-01/</link>
       <description>Russian missile and drone attacks on Kyiv, Dnipro, and Kharkiv killed at least five and wounded dozens. The assault followed days of warnings about a planned major offensive.</description>
       <category>Ukraine-Russia War</category>
-      <source url="https://www.reuters.com/world/large-pillar-smoke-seen-kyiv-after-air-raid-alert-issued-reuters-witness-reports-2026-06-01/">Reuters</source>
-      <link>https://www.reuters.com/world/large-pillar-smoke-seen-kyiv-after-air-raid-alert-issued-reuters-witness-reports-2026-06-01/</link>
       <pubDate>2026-06-02T06:05:00+03:00</pubDate>
+      <source url="https://www.reuters.com/world/large-pillar-smoke-seen-kyiv-after-air-raid-alert-issued-reuters-witness-reports-2026-06-01/">Reuters</source>
     </item>
+
     <item>
-      <title>🇺🇦🤝 Zelenskiy Aide Sees Realistic Chance of Peace Deal by Winter</title>
+      <title>French Navy Intercepts Russian Shadow Fleet Tanker in Atlantic</title>
+      <link>https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/</link>
+      <description>France boarded a sanctioned tanker linked to Russian oil trade and redirected it to French territory. Russia condemned the move as "international piracy" amid ongoing tensions over sanctions enforcement.</description>
+      <category>Europe</category>
+      <pubDate>2026-06-02T06:05:00+03:00</pubDate>
+      <source url="https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/">Reuters</source>
+    </item>
+
+    <item>
+      <title>UN Security Council Demands Israeli Withdrawal From Southern Lebanon</title>
+      <link>https://www.nytimes.com/2026/06/01/world/middleeast/un-security-council-lebanon.html</link>
+      <description>Council members called for Israel to pull out of southern Lebanon after Israel threatened to attack southern Beirut. Trump announced a limited ceasefire between Hezbollah and Israel.</description>
+      <category>Middle East</category>
+      <pubDate>2026-06-02T06:05:00+03:00</pubDate>
+      <source url="https://www.nytimes.com/2026/06/01/world/middleeast/un-security-council-lebanon.html">New York Times</source>
+    </item>
+
+    <item>
+      <title>Zelenskiy Aide Sees Realistic Chance of Peace Deal by Winter</title>
+      <link>https://www.reuters.com/world/europe/zelenskiys-top-aide-says-peace-deal-by-winter-is-realistic-2026-06-01/</link>
       <description>Chief of staff Kyrylo Budanov said a winter peace deal is realistic as peace talks continue. Ukraine has stepped up attacks on Russian energy facilities amid stalled negotiations.</description>
       <category>Ukraine-Russia War</category>
-      <source url="https://www.reuters.com/world/europe/zelenskiys-top-aide-says-peace-deal-by-winter-is-realistic-2026-06-01/">Reuters</source>
-      <link>https://www.reuters.com/world/europe/zelenskiys-top-aide-says-peace-deal-by-winter-is-realistic-2026-06-01/</link>
       <pubDate>2026-06-02T06:05:00+03:00</pubDate>
+      <source url="https://www.reuters.com/world/europe/zelenskiys-top-aide-says-peace-deal-by-winter-is-realistic-2026-06-01/">Reuters</source>
     </item>
+
     <item>
-      <title>🇹🇼🇺🇸 Taiwan Opposition Leader Seeks Trump Meeting on US Visit</title>
+      <title>Taiwan Opposition Leader Seeks Trump Meeting on US Visit</title>
+      <link>https://www.reuters.com/world/china/taiwan-opposition-leader-would-be-very-willing-meet-trump-us-trip-2026-06-01/</link>
       <description>KMT leader Cheng Li-wun said she would be "very willing" to meet Trump during her US trip this month, amid scrutiny of her party defense policy positions.</description>
       <category>US-China</category>
-      <source url="https://www.reuters.com/world/china/taiwan-opposition-leader-would-be-very-willing-meet-trump-us-trip-2026-06-01/">Reuters</source>
-      <link>https://www.reuters.com/world/china/taiwan-opposition-leader-would-be-very-willing-meet-trump-us-trip-2026-06-01/</link>
       <pubDate>2026-06-02T06:05:00+03:00</pubDate>
+      <source url="https://www.reuters.com/world/china/taiwan-opposition-leader-would-be-very-willing-meet-trump-us-trip-2026-06-01/">Reuters</source>
     </item>
+
+    <item>
+      <title>Appeals Court Rules Trump Policy Illegally Banned Transgender Troops</title>
+      <link>https://apnews.com/article/trump-transgender-military-ban-appeals-court</link>
+      <description>A federal appeals court found that the Trump administration illegally banned transgender people from serving in the military, ruling the policy discriminatory.</description>
+      <category>US Politics</category>
+      <pubDate>2026-06-02T05:03:00+03:00</pubDate>
+      <source url="https://apnews.com/article/trump-transgender-military-ban-appeals-court">AP News</source>
+    </item>
+
   </channel>
 </rss>
