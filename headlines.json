@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-02T08:08:17+03:00",
+  "lastUpdated": "2026-06-02T09:04:34+03:00",
   "headlines": [
+    {
+      "headline": "Massive Russian Strike Kills at Least Ten Across Ukraine",
+      "summary": "Russia launched one of its largest missile and drone attacks in months, hitting apartment buildings in Kyiv, Dnipro, and Kharkiv. At least ten people were killed and dozens injured, including children. The assault came after Moscow warned of \"systematic strikes\" in response to a Ukrainian drone attack on Luhansk.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo",
+      "timestamp": "2026-06-02T09:03:00+03:00"
+    },
+    {
+      "headline": "Hezbollah Agrees to Ceasefire With Israel, Trump Announces",
+      "summary": "Lebanon confirmed Hezbollah accepted a US proposal for a mutual cessation of attacks, with Israel agreeing not to strike Beirut. However, clashes continued hours after the announcement, with Hezbollah launching attacks on Israeli tanks. Iran warned that violations in Lebanon would breach the broader US-Iran ceasefire.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c202rxp1z15o",
+      "timestamp": "2026-06-02T09:03:00+03:00"
+    },
+    {
+      "headline": "Iran Suspends Ceasefire Talks Citing Israeli Attacks on Lebanon",
+      "summary": "Iran suspended negotiations with the United States after Israel intensified attacks in Lebanon, according to Iranian state media. The move threatens to derail efforts to extend the shaky ceasefire and end the three-month war.",
+      "emoji": "🇮🇷",
+      "category": "US-Iran War",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/06/01/iran-us-trade-strikes-deal-end-war-remains-elusive/",
+      "timestamp": "2026-06-02T09:03:00+03:00"
+    },
+    {
+      "headline": "Russian Drone Hits Apartment Building in NATO Member Romania",
+      "summary": "A Russian drone crashed into an apartment building in the eastern Romanian city of Galati, roughly 10 miles from the Ukrainian border, injuring two people. The incident threatens to heighten tensions between Russia and NATO.",
+      "emoji": "🇷🇴",
+      "category": "Europe",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/05/29/russian-drone-hits-residential-building-romania-posing-test-nato/",
+      "timestamp": "2026-06-02T09:03:00+03:00"
+    },
     {
       "headline": "Macau joins China cross-border digital currency platform as 11 banks sign up",
       "summary": "Macau has joined Project mBridge, a multi-country central bank digital currency settlement platform alongside China, Hong Kong, Thailand, UAE and Saudi Arabia. The move advances Beijing's push to create alternatives to US dollar-centric payment networks amid heightened tensions.",
@@ -26,7 +62,23 @@
       "category": "Europe",
       "source": "SCMP",
       "url": "https://www.scmp.com/news/world/europe/article/3355638/denmarks-prime-minister-secures-third-term-after-marathon-talks",
-      "timestamp": "2026-06-02T08:10:00+03:00"
+      "timestamp": "2026-06-02T08:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jun/01/denmarks-mette-frederiksen-agrees-centre-left-coalition-after-months-of-uncertainty",
+          "angle": "Denmark Forms Centre-Left Coalition Amid Greenland Tensions with US",
+          "summary": "Mette Frederiksen secures third consecutive term as prime minister with a centre-left coalition, facing ongoing diplomatic crisis with the United States over Greenland."
+        }
+      ],
+      "sources": [
+        "SCMP",
+        "The Guardian"
+      ],
+      "urls": [
+        "https://www.scmp.com/news/world/europe/article/3355638/denmarks-prime-minister-secures-third-term-after-marathon-talks",
+        "https://www.theguardian.com/world/2026/jun/01/denmarks-mette-frederiksen-agrees-centre-left-coalition-after-months-of-uncertainty"
+      ]
     },
     {
       "headline": "China advances fourth aircraft carrier as powers invest despite drone threat",
@@ -53,7 +105,23 @@
       "category": "Ukraine-Russia War",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo",
-      "timestamp": "2026-06-02T08:03:00+03:00"
+      "timestamp": "2026-06-02T08:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russian-attacks-kill-5-injure-40-across-ukraine-over-past-day-destroys-train-station-in-sumy-oblast/",
+          "angle": "Russia Destroys Sumy Train Station, Kills 5 in Ukraine-Wide Strikes",
+          "summary": "Russian forces destroyed a civilian train station in Shostka, Sumy Oblast with kamikaze drones and launched 290 drones plus missiles across Ukraine, killing 5 and injuring 40. The station served hundreds of residents daily before being targeted."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/c5y8nq8ljqwo",
+        "https://kyivindependent.com/russian-attacks-kill-5-injure-40-across-ukraine-over-past-day-destroys-train-station-in-sumy-oblast/"
+      ]
     },
     {
       "headline": "Hezbollah agrees to halt attacks on Israel in US-brokered deal",
@@ -455,15 +523,6 @@
       "source": "New York Times",
       "url": "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon",
       "timestamp": "2026-06-02T04:03:00+03:00"
-    },
-    {
-      "headline": "Denmark Forms Centre-Left Coalition Amid Greenland Tensions with US",
-      "summary": "Mette Frederiksen secures third consecutive term as prime minister with a centre-left coalition, facing ongoing diplomatic crisis with the United States over Greenland.",
-      "emoji": "🇩🇰",
-      "category": "Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/01/denmarks-mette-frederiksen-agrees-centre-left-coalition-after-months-of-uncertainty",
-      "timestamp": "2026-06-02T03:03:00+03:00"
     },
     {
       "headline": "Venezuelan Ruling Party Unity Fractures as Delcy Rodríguez Shifts Policy",
@@ -2824,31 +2883,6 @@
       "timestamp": "2026-05-30T23:03:00+03:00"
     },
     {
-      "headline": "Russia Destroys Sumy Train Station, Kills 5 in Ukraine-Wide Strikes",
-      "summary": "Russian forces destroyed a civilian train station in Shostka, Sumy Oblast with kamikaze drones and launched 290 drones plus missiles across Ukraine, killing 5 and injuring 40. The station served hundreds of residents daily before being targeted.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russian-attacks-kill-5-injure-40-across-ukraine-over-past-day-destroys-train-station-in-sumy-oblast/",
-      "timestamp": "2026-05-30T22:07:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/ukraine-reportedly-strikes-oil-infrastructure-tanker-in-occupied-crimea-western-russia/",
-          "angle": "Ukraine Strikes Oil Infrastructure and Tanker in Western Russia and Occupied Crimea",
-          "summary": "Ukrainian forces carried out coordinated strikes on oil infrastructure across Russian and Russian-held territories overnight May 30, according to Russian Telegram channels. The attacks targeted fuel storage and transport facilities."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://kyivindependent.com/russian-attacks-kill-5-injure-40-across-ukraine-over-past-day-destroys-train-station-in-sumy-oblast/",
-        "https://kyivindependent.com/ukraine-reportedly-strikes-oil-infrastructure-tanker-in-occupied-crimea-western-russia/"
-      ]
-    },
-    {
       "headline": "Japan PM Vows Breakthrough on North Korea Abduction Issue",
       "summary": "Prime Minister Sanae Takaichi pledged to resolve the decades-old abduction issue with North Korea, including considering summit talks. Japan lists 17 citizens abducted in the 1970s-80s, with only 5 returned in 2002.",
       "emoji": "🇯🇵",
@@ -2962,78 +2996,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/hegseth-trump-singapore-china-us-taiwan-pacific-iran-d6cf2b964940f47a83f0a6f587c7e0c3",
       "timestamp": "2026-05-30T19:07:00+03:00"
-    },
-    {
-      "headline": "IMF, World Bank, IEA Chiefs Warn of Summer Fuel Scarcity from Hormuz Crisis",
-      "summary": "Heads of major international economic institutions warned that prolonged closure of the Strait of Hormuz could cause severe fuel shortages during peak summer demand, straining global energy supplies.",
-      "emoji": "⛽🌍",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/imf-world-bank-others-warn-middle-east-war-is-straining-energy-supplies-2026-05-29/",
-      "timestamp": "2026-05-30T19:07:00+03:00"
-    },
-    {
-      "headline": "US General holds rare meeting with Cuban military officials near Guantanamo Bay",
-      "summary": "The head of US Southern Command met with Cuban military officials for the first time in recent memory amid growing concerns in Cuba about possible US military action.",
-      "emoji": "🇺🇸🇨🇺",
-      "category": "Diplomacy",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/news/your-military/2026/05/30/us-general-holds-rare-meeting-with-cuban-military-officials-near-guantanamo-bay/",
-      "timestamp": "2026-05-30T18:05:00+03:00"
-    },
-    {
-      "headline": "China creates autonomous drone warfare algorithm for jamming environments",
-      "summary": "Chinese scientists developed a smart web algorithm that identifies objects as friend, foe or terrain, enabling drone swarms to operate when communication is jammed and vision is blocked.",
-      "emoji": "🇨🇳⚔️",
-      "category": "Technology",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/science/article/3355232/chinese-scientists-create-kill-them-all-algorithm-drone-warfare",
-      "timestamp": "2026-05-30T18:05:00+03:00"
-    },
-    {
-      "headline": "17 nations launch pact to protect undersea cables without US and China",
-      "summary": "Singapore announced a new pact with 17 nations to collaborate on protecting vital undersea cables, with both the US and China notably absent from the agreement.",
-      "emoji": "🌐🔌",
-      "category": "Diplomacy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/politics/article/3355411/17-nations-launch-pact-protect-vital-undersea-cables-amid-us-china-absence",
-      "timestamp": "2026-05-30T18:05:00+03:00"
-    },
-    {
-      "headline": "US softens tone on China at Shangri-La Dialogue after Xi-Trump summit",
-      "summary": "Defense Secretary Hegseth avoided directly describing Beijing as a threat at the regional security forum, in contrast to previous years, following the recent Trump-Xi summit.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "Diplomacy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/military/article/3355401/how-us-defence-chief-hegseth-softened-his-tone-towards-china-after-trump-xi-meeting",
-      "timestamp": "2026-05-30T18:05:00+03:00"
-    },
-    {
-      "headline": "Lula Slams US Designation of Brazilian Gangs as Terrorist Organizations",
-      "summary": "Brazil's President Lula da Silva said Brazil will not be treated as a 'tinpot country' after the US designated the PCC and Red Command cartels as foreign terrorist organizations. The move is seen as a boost for Lula's far-right challenger Flavio Bolsonaro in October's presidential election.",
-      "emoji": "🇧🇷🇺🇸",
-      "category": "Latin America",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/29/brazil-gangs-terrorist-rubio",
-      "timestamp": "2026-05-30T18:03:00+03:00"
-    },
-    {
-      "headline": "EU Set to Release 16 Billion Euros to Hungary After Orban's Defeat",
-      "summary": "The European Union is preparing to release 16 billion euros in previously withheld funds to Hungary after the defeat of Viktor Orban's government. The funds were frozen due to rule of law and anti-corruption concerns, and will now be released as Hungary enacts required reforms.",
-      "emoji": "🇭🇺🇪🇺",
-      "category": "Europe",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/29/world/europe/eu-hungary-funds.html",
-      "timestamp": "2026-05-30T18:03:00+03:00"
-    },
-    {
-      "headline": "Mexico Senate Passes Bill Allowing Election Annulment for Foreign Interference",
-      "summary": "Mexico's senate approved a constitutional amendment that would allow election results to be annulled for 'foreign interference,' defined to include illicit financing, propaganda, misinformation and digital manipulation. Critics say the bill could give the ruling party power to overturn opposition victories.",
-      "emoji": "🇲🇽",
-      "category": "Latin America",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/29/mexico-senate-election-constitutional-amendment",
-      "timestamp": "2026-05-30T18:03:00+03:00"
     }
   ]
 }
