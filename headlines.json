@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-06-02T04:06:46+03:00",
+  "lastUpdated": "2026-06-02T05:06:29+03:00",
   "headlines": [
     {
-      "headline": "Hegseth warns of China military buildup, urges Asian allies to spend more on defense",
-      "summary": "US Defense Secretary Pete Hegseth at Shangri-La Dialogue called on Asian allies to increase defense spending to 3.5% of GDP, warning of \"rightful alarm\" over China's rapid military expansion. He also stated the US stands ready to resume strikes on Iran if diplomacy fails.",
-      "emoji": "🇨🇳🇺🇸",
-      "category": "Asia-Pacific",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/news/pentagon-congress/2026/06/01/pentagon-chief-sounds-alarm-over-chinas-buildup-urges-allies-to-boost-defense-spending/",
-      "timestamp": "2026-06-02T04:05:00+03:00"
+      "headline": "US Bombs Iranian Military Sites, Downs Missiles Fired at Troops in Kuwait",
+      "summary": "The US struck radar and drone sites in Iran after Tehran shot down an American drone. Iran then fired missiles at US troops in Kuwait, which were intercepted. Fighting continues despite ongoing ceasefire negotiations.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "US-Iran War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-irael-war-kuwait-strikes-88daa9f90b48baaa7beb18e35515c59d",
+      "timestamp": "2026-06-02T05:03:00+03:00"
+    },
+    {
+      "headline": "Lebanon Says Hezbollah Agrees Reciprocal Halt to Attacks on Israel",
+      "summary": "Hours after the pause was announced, the Israeli military said it intercepted projectiles fired from Lebanon. The ceasefire aims to reduce tensions as Iran-US negotiations continue.",
+      "emoji": "🇱🇧🇮🇱",
+      "category": "Middle East",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/hezbollah-israel-lebanon-halt",
+      "timestamp": "2026-06-02T05:03:00+03:00"
+    },
+    {
+      "headline": "Four Dead After Massive Russian Strikes Across Ukraine",
+      "summary": "Thousands of Kyiv residents sought shelter after ballistic missile strikes hit the city center. The attacks mark an escalation in Russian bombardment as Ukraine continues to lose territory.",
+      "emoji": "🇺🇦🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/russian-strikes-ukraine-kyiv",
+      "timestamp": "2026-06-02T05:03:00+03:00"
+    },
+    {
+      "headline": "Appeals Court Rules Trump Policy Illegally Banned Transgender Troops",
+      "summary": "A federal appeals court found that the Trump administration illegally banned transgender people from serving in the military, ruling the policy discriminatory.",
+      "emoji": "⚖️🇺🇸",
+      "category": "US Politics",
+      "source": "AP News",
+      "url": "https://apnews.com/article/trump-transgender-military-ban-appeals-court",
+      "timestamp": "2026-06-02T05:03:00+03:00"
+    },
+    {
+      "headline": "Hungarian PM Threatens to Remove Orbán-Era President",
+      "summary": "Péter Magyar pledged to remove President Tamás Sulyok after his landslide election victory. The stand-off creates a constitutional clash with remnants of Viktor Orbán's regime.",
+      "emoji": "🇭🇺",
+      "category": "Europe",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c3w2vdd6jj3o",
+      "timestamp": "2026-06-02T05:03:00+03:00"
     },
     {
       "headline": "Russia loses more territory than it gained in May for first time since 2023",
@@ -17,16 +53,23 @@
       "category": "Ukraine-Russia War",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/ukraine-war-latest-russias-territorial-gains-slipped-into-red-in-may-deepstate-reports/",
-      "timestamp": "2026-06-02T04:05:00+03:00"
-    },
-    {
-      "headline": "Hezbollah agrees to halt attacks on Israel in Lebanon ceasefire deal",
-      "summary": "The Lebanese government announced Hezbollah accepted a US proposal to cease attacks on Israel in exchange for Israel stopping strikes on Beirut's southern suburbs. Trump said both sides agreed to de-escalate, though Netanyahu stressed Israel would continue operations in southern Lebanon.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "DW",
-      "url": "https://www.dw.com/en/iran-halts-talks-with-us-complicating-peace-efforts-tasnim-says/live-77369317",
-      "timestamp": "2026-06-02T04:05:00+03:00"
+      "timestamp": "2026-06-02T04:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russian-monthly-territorial-gains-slip-into-negative-for-first-time-since-2023-deepstate-reports/",
+          "angle": "Russian Territorial Gains Turn Negative for First Time Since 2023",
+          "summary": "Russian monthly territorial gains slipped into negative territory in May 2025 for the first time since 2023, according to DeepState monitoring, signaling potential momentum shift in the Ukraine war despite reported Russian advances."
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://kyivindependent.com/ukraine-war-latest-russias-territorial-gains-slipped-into-red-in-may-deepstate-reports/",
+        "https://kyivindependent.com/russian-monthly-territorial-gains-slip-into-negative-for-first-time-since-2023-deepstate-reports/"
+      ]
     },
     {
       "headline": "Oil prices fall as Middle East tensions ease after Trump remarks",
@@ -53,7 +96,23 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/markets/commodities/us-gasoline-market-set-fresh-test-after-near-record-stock-draws-2026-06-01/",
-      "timestamp": "2026-06-02T04:03:00+03:00"
+      "timestamp": "2026-06-02T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/markets/commodities/us-gasoline-market-set-fresh-test-after-near-record-stock-draws-2026-06-01/",
+          "angle": "US Gasoline Market Faces Test After Near-Record Stock Draws",
+          "summary": "A near-record run of US gasoline inventory drawdowns signals shrinking buffers as seasonal demand peaks. The tightening supply comes amid ongoing Iran-related tensions affecting global energy markets."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/markets/commodities/us-gasoline-market-set-fresh-test-after-near-record-stock-draws-2026-06-01/",
+        "https://www.reuters.com/markets/commodities/us-gasoline-market-set-fresh-test-after-near-record-stock-draws-2026-06-01/"
+      ]
     },
     {
       "headline": "Putin Hosts Fifth Wartime Economic Conference as Russia Struggles for Growth Strategy",
@@ -62,7 +121,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/short-growth-ideas-putin-hosts-fifth-wartime-russian-davos-2026-06-01/",
-      "timestamp": "2026-06-02T04:03:00+03:00"
+      "timestamp": "2026-06-02T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/short-growth-ideas-putin-hosts-fifth-wartime-russian-davos-2026-06-01/",
+          "angle": "Putin Hosts Wartime Economic Summit Amid Ukraine Drone Strikes",
+          "summary": "Russia held its fifth St. Petersburg economic forum since the war began, with Moscow struggling for growth strategy as Ukrainian attacks on infrastructure continue."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/short-growth-ideas-putin-hosts-fifth-wartime-russian-davos-2026-06-01/",
+        "https://www.reuters.com/business/short-growth-ideas-putin-hosts-fifth-wartime-russian-davos-2026-06-01/"
+      ]
     },
     {
       "headline": "US to Drastically Slash African Embassy Visa Processing",
@@ -90,31 +165,6 @@
       "source": "New York Times",
       "url": "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon",
       "timestamp": "2026-06-02T04:03:00+03:00"
-    },
-    {
-      "headline": "Hezbollah Agrees to Halt Attacks on Israel, Lebanon Says",
-      "summary": "Lebanon announces Hezbollah has accepted a US-backed reciprocal ceasefire with Israel. Israeli PM Netanyahu warns strikes on Beirut will continue if Hezbollah violates the agreement.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c202rxp1z15o",
-      "timestamp": "2026-06-02T03:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/live/2026/jun/01/iran-war-live-news-updates-kuwait-missile-drone-attack-us-strikes-iran-radar-sites",
-          "angle": "Hezbollah Agrees to US Ceasefire Proposal with Israel",
-          "summary": "Lebanon's US embassy confirms Hezbollah accepted a US proposal for reciprocal cessation of attacks. The agreement would halt Israeli strikes on Beirut's southern suburbs in exchange for Hezbollah stopping attacks against Israel, with the framework to expand to all Lebanese territories."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "The Guardian"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/c202rxp1z15o",
-        "https://www.theguardian.com/world/live/2026/jun/01/iran-war-live-news-updates-kuwait-missile-drone-attack-us-strikes-iran-radar-sites"
-      ]
     },
     {
       "headline": "Hungarian PM Threatens to Oust President in Constitutional Clash",
@@ -639,15 +689,6 @@
       "timestamp": "2026-06-01T21:03:00+03:00"
     },
     {
-      "headline": "Russian Territorial Gains Turn Negative for First Time Since 2023",
-      "summary": "Russian monthly territorial gains slipped into negative territory in May 2025 for the first time since 2023, according to DeepState monitoring, signaling potential momentum shift in the Ukraine war despite reported Russian advances.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russian-monthly-territorial-gains-slip-into-negative-for-first-time-since-2023-deepstate-reports/",
-      "timestamp": "2026-06-01T20:10:00+03:00"
-    },
-    {
       "headline": "Iran Warns Northern Israel Residents to Evacuate Amid Beirut Tensions",
       "summary": "Iran's Khatam al-Anbiya Central Headquarters warned residents of northern Israel to evacuate, threatening escalation if Israel continues attacks on Beirut, as diplomatic exchanges with the US appear to stall.",
       "emoji": "🇮🇷",
@@ -986,44 +1027,27 @@
       "timestamp": "2026-06-01T13:03:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/us-pushes-lebanon-israel-new-ceasefire-plan-official-says-2026-06-01/",
-          "angle": "US Proposes New Israel-Lebanon De-escalation Plan Amid Fighting",
-          "summary": "Secretary of State Marco Rubio spoke with leaders from both countries and proposed a plan for 'gradual de-escalation' as Israeli troops continue to push into southern Lebanon. The fighting has become the broadest spillover of the Iran war."
+          "source": "DW",
+          "url": "https://www.dw.com/en/iran-halts-talks-with-us-complicating-peace-efforts-tasnim-says/live-77369317",
+          "angle": "Hezbollah agrees to halt attacks on Israel in Lebanon ceasefire deal",
+          "summary": "The Lebanese government announced Hezbollah accepted a US proposal to cease attacks on Israel in exchange for Israel stopping strikes on Beirut's southern suburbs. Trump said both sides agreed to de-escalate, though Netanyahu stressed Israel would continue operations in southern Lebanon."
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c202rxp1z15o",
+          "angle": "Hezbollah Agrees to Halt Attacks on Israel, Lebanon Says",
+          "summary": "Lebanon announces Hezbollah has accepted a US-backed reciprocal ceasefire with Israel. Israeli PM Netanyahu warns strikes on Beirut will continue if Hezbollah violates the agreement."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "DW",
+        "BBC"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/us-pushes-lebanon-israel-new-ceasefire-plan-official-says-2026-06-01/",
-        "https://www.reuters.com/world/middle-east/us-pushes-lebanon-israel-new-ceasefire-plan-official-says-2026-06-01/"
-      ]
-    },
-    {
-      "headline": "Putin Hosts Wartime Economic Summit Amid Ukraine Drone Strikes",
-      "summary": "Russia held its fifth St. Petersburg economic forum since the war began, with Moscow struggling for growth strategy as Ukrainian attacks on infrastructure continue.",
-      "emoji": "🇷🇺🏛️⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/short-growth-ideas-putin-hosts-fifth-wartime-russian-davos-2026-06-01/",
-      "timestamp": "2026-06-01T13:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/russia-putin-ukraine-war-zelenskyy-0c31bbbf0d06c457c00d046bc7ba99f7",
-          "angle": "Putin Ready to Escalate Ukraine War Amid Stalemate and Domestic Discontent",
-          "summary": "With a stalemate on the battlefield and growing discontent at home, Putin appears ready to escalate the war in Ukraine, according to AP analysis."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/short-growth-ideas-putin-hosts-fifth-wartime-russian-davos-2026-06-01/",
-        "https://apnews.com/article/russia-putin-ukraine-war-zelenskyy-0c31bbbf0d06c457c00d046bc7ba99f7"
+        "https://www.dw.com/en/iran-halts-talks-with-us-complicating-peace-efforts-tasnim-says/live-77369317",
+        "https://www.bbc.com/news/articles/c202rxp1z15o"
       ]
     },
     {
@@ -1156,15 +1180,6 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/retail-consumer/german-retail-sales-fall-less-than-expected-april-2026-06-01/",
-      "timestamp": "2026-06-01T10:03:00+03:00"
-    },
-    {
-      "headline": "US Gasoline Market Faces Test After Near-Record Stock Draws",
-      "summary": "A near-record run of US gasoline inventory drawdowns signals shrinking buffers as seasonal demand peaks. The tightening supply comes amid ongoing Iran-related tensions affecting global energy markets.",
-      "emoji": "⛽",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/markets/commodities/us-gasoline-market-set-fresh-test-after-near-record-stock-draws-2026-06-01/",
       "timestamp": "2026-06-01T10:03:00+03:00"
     },
     {
@@ -1668,31 +1683,6 @@
       "source": "Channel News Asia",
       "url": "https://www.channelnewsasia.com/east-asia/china-overseas-brokerage-investors-trading-crackdown-6149496",
       "timestamp": "2026-06-01T02:04:00+03:00"
-    },
-    {
-      "headline": "Japan Defense Minister Criticizes China Military Buildup",
-      "summary": "Japan Defense Minister Shinjiro Koizumi rejected Beijing claims of \"new militarism\" and criticized China for its \"huge arsenal\" and lack of transparency. The exchange occurred at the Shangri-la Dialogue defense summit in Singapore.",
-      "emoji": "🇯🇵",
-      "category": "Asia-Pacific",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo",
-      "timestamp": "2026-06-01T02:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo",
-          "angle": "Japan Defence Minister Slams China's \"Huge Arsenal\" at Singapore Summit",
-          "summary": "Shinjiro Koizumi rebuffed Beijing's accusations of \"new militarism,\" arguing China's nuclear arsenal and lack of transparency are the real threat to regional stability. The comments at the Shangri-La Dialogue mark Japan's most pointed response yet to Chinese criticism of its defence build-up."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/cp8p4ejy8ppo",
-        "https://www.bbc.com/news/articles/cp8p4ejy8ppo"
-      ]
     },
     {
       "headline": "Belarus Emerges as Potential New Launchpad for Russian Offensive Against Ukraine",
@@ -2632,19 +2622,35 @@
       "timestamp": "2026-05-30T23:03:00+03:00",
       "perspectives": [
         {
+          "source": "Defense News",
+          "url": "https://www.defensenews.com/news/pentagon-congress/2026/06/01/pentagon-chief-sounds-alarm-over-chinas-buildup-urges-allies-to-boost-defense-spending/",
+          "angle": "Hegseth warns of China military buildup, urges Asian allies to spend more on defense",
+          "summary": "US Defense Secretary Pete Hegseth at Shangri-La Dialogue called on Asian allies to increase defense spending to 3.5% of GDP, warning of \"rightful alarm\" over China's rapid military expansion. He also stated the US stands ready to resume strikes on Iran if diplomacy fails."
+        },
+        {
           "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c5ye34k7yejo",
-          "angle": "US Defense Chief Hegseth Reassures Asia Allies, Calls for Defense Spending",
-          "summary": "US Defense Secretary Pete Hegseth told the Shangri-La Dialogue that America is not turning its back on Asia despite the Iran war, calling on regional allies to spend 3.5% of GDP on defense while avoiding needless confrontation with China."
+          "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo",
+          "angle": "Japan Defense Minister Criticizes China Military Buildup",
+          "summary": "Japan Defense Minister Shinjiro Koizumi rejected Beijing claims of \"new militarism\" and criticized China for its \"huge arsenal\" and lack of transparency. The exchange occurred at the Shangri-la Dialogue defense summit in Singapore."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/where-is-china-ask-delegates-asian-defence-forum-2026-05-30/",
+          "angle": "Delegates ask \"Where is China?\" at Asian defense forum",
+          "summary": "Chinese Defense Minister Dong Jun skipped the Shangri-La Dialogue again this year. Beijing sent a low-profile delegation of PLA \"experts and scholars\" instead."
         }
       ],
       "sources": [
         "Reuters",
-        "BBC"
+        "Defense News",
+        "BBC",
+        "Reuters"
       ],
       "urls": [
         "https://www.reuters.com/world/china/pentagon-chief-urges-allies-boost-defence-spending-amid-alarm-over-chinas-2026-05-30/",
-        "https://www.bbc.com/news/articles/c5ye34k7yejo"
+        "https://www.defensenews.com/news/pentagon-congress/2026/06/01/pentagon-chief-sounds-alarm-over-chinas-buildup-urges-allies-to-boost-defense-spending/",
+        "https://www.bbc.com/news/articles/cp8p4ejy8ppo",
+        "https://www.reuters.com/world/china/where-is-china-ask-delegates-asian-defence-forum-2026-05-30/"
       ]
     },
     {
@@ -2654,15 +2660,6 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/india/india-says-retail-inflation-may-accelerate-weak-monsoon-fuel-price-rise-2026-05-30/",
-      "timestamp": "2026-05-30T23:03:00+03:00"
-    },
-    {
-      "headline": "Delegates ask \"Where is China?\" at Asian defense forum",
-      "summary": "Chinese Defense Minister Dong Jun skipped the Shangri-La Dialogue again this year. Beijing sent a low-profile delegation of PLA \"experts and scholars\" instead.",
-      "emoji": "🇨🇳",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/where-is-china-ask-delegates-asian-defence-forum-2026-05-30/",
       "timestamp": "2026-05-30T23:03:00+03:00"
     },
     {
@@ -2912,64 +2909,6 @@
       "source": "NBC News",
       "url": "https://www.nbcnews.com/world/spain/spain-legalizing-half-million-immigrants-unlike-united-states-rcna347405",
       "timestamp": "2026-05-30T17:08:00+03:00"
-    },
-    {
-      "headline": "Hegseth tells Asian allies to boost defence spending for US support",
-      "summary": "US Defense Secretary Pete Hegseth said Asian partners must do more to get more from Washington, telling the Shangri-La Dialogue that countries wanting US assistance should increase their own defense spending.",
-      "emoji": "🇺🇸🇨🇳🌏",
-      "category": "US-China",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5ye34k7yejo",
-      "timestamp": "2026-05-30T15:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Wall Street Journal",
-          "url": "https://www.wsj.com/politics/national-security/hegseth-says-u-s-needs-more-from-asian-allies-to-secure-balance-against-china-2026-06-01",
-          "angle": "Hegseth Calls for More From Asian Allies to Counter China While Softening Tone on Beijing",
-          "summary": "Defense Secretary Pete Hegseth said the U.S. needs greater contributions from Asian allies to secure the regional balance against China, but adopted a softer tone on Beijing in a speech to partners concerned about American security commitments."
-        },
-        {
-          "source": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/politics/defense/us-seeks-stable-equilibrium-against-china-hegemony-hegseth-says",
-          "angle": "Hegseth Calls for Stable Equilibrium Against China Hegemony at Shangri-La",
-          "summary": "The US Defense Secretary emphasized Taiwan arms sales remain decoupled from Iran war decisions, outlining America strategic posture in the Indo-Pacific."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "Wall Street Journal",
-        "Nikkei Asia"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/c5ye34k7yejo",
-        "https://www.wsj.com/politics/national-security/hegseth-says-u-s-needs-more-from-asian-allies-to-secure-balance-against-china-2026-06-01",
-        "https://asia.nikkei.com/politics/defense/us-seeks-stable-equilibrium-against-china-hegemony-hegseth-says"
-      ]
-    },
-    {
-      "headline": "Germany deploys troops to Lithuania in historic NATO defense move",
-      "summary": "Berlin has deployed forces to protect the Baltic country amid fears of increased Russian aggression in Europe. German troops returned to Lithuania 80 years after Nazi occupation, this time welcomed as defenders.",
-      "emoji": "🇩🇪🇱🇹🛡️",
-      "category": "Europe",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/30/world/europe/germany-lithuania-military-deployment.html",
-      "timestamp": "2026-05-30T15:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/05/30/world/europe/germany-lithuania-military-deployment.html",
-          "angle": "German Troops Return to Lithuania as NATO Shield Against Russia",
-          "summary": "Germany has deployed forces to protect Lithuania amid fears of increased Russian aggression, marking a historic return of German troops to a country they once occupied. This time, they were welcomed."
-        }
-      ],
-      "sources": [
-        "New York Times",
-        "New York Times"
-      ],
-      "urls": [
-        "https://www.nytimes.com/2026/05/30/world/europe/germany-lithuania-military-deployment.html",
-        "https://www.nytimes.com/2026/05/30/world/europe/germany-lithuania-military-deployment.html"
-      ]
     }
   ]
 }
