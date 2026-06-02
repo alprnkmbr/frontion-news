@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-02T10:07:30+03:00",
+  "lastUpdated": "2026-06-02T11:04:40+03:00",
   "headlines": [
+    {
+      "headline": "US in talks to expand nuclear weapons deployments in Europe",
+      "summary": "The US is discussing whether to deploy nuclear weapons in additional European NATO states, the Financial Times reported. The discussions come amid heightened tensions with Russia and growing concerns about European security.",
+      "emoji": "☢️",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/us-talks-expand-nuclear-weapons-deployments-europe-ft-says-2026-06-02/",
+      "timestamp": "2026-06-02T11:05:00+03:00"
+    },
+    {
+      "headline": "Russian missile and drone barrage kills at least 12 across Ukraine",
+      "summary": "Russia launched massive missile and drone strikes on Kyiv and Dnipro, killing at least 12 people and wounding over 100. The attacks come amid continued diplomatic deadlock and fierce fighting on multiple fronts.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/02/world/europe/ukraine-war-russia-kyiv-attack.html",
+      "timestamp": "2026-06-02T11:05:00+03:00"
+    },
+    {
+      "headline": "US crude exports hit record 5.6 million barrels per day in May",
+      "summary": "US crude exports climbed to a record high as the Middle East crisis pushed up demand from Asian and European refiners. The surge reflects global supply disruptions from the Strait of Hormuz blockade.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/us-crude-exports-hit-record-high-may-iran-war-tightens-global-oil-supplies-2026-06-01/",
+      "timestamp": "2026-06-02T11:05:00+03:00"
+    },
+    {
+      "headline": "Israeli forces seize 900-year-old Crusader castle in Lebanon",
+      "summary": "Israeli troops entered a medieval stronghold built by Crusaders in southern Lebanon, capturing a site with deep historical significance. The move is part of Israel's ongoing operations against Hezbollah positions.",
+      "emoji": "🏰",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/lebanon-crusader-castle-seized-by-israel-symbol-bloody-history-2026-06-01/",
+      "timestamp": "2026-06-02T11:05:00+03:00"
+    },
     {
       "headline": "US in talks to expand nuclear weapons deployments in Europe",
       "summary": "The US is discussing expanding nuclear weapons deployments to additional NATO member states beyond the current six countries, with Poland and Baltic states under consideration for hosting dual-capable aircraft as talks continue through NATO channels.",
@@ -8,15 +44,6 @@
       "category": "Europe",
       "source": "Al Arabiya",
       "url": "https://english.alarabiya.net/News/world/2026/06/02/us-in-talks-to-expand-nuclear-weapons-deployments-in-europe-report",
-      "timestamp": "2026-06-02T10:05:00+03:00"
-    },
-    {
-      "headline": "Trump blasts Netanyahu over Lebanon escalation, blocks Beirut strike",
-      "summary": "US President Donald Trump sharply criticized Israeli Prime Minister Benjamin Netanyahu over Israel's military escalation in Lebanon and blocked a planned strike on Beirut, according to Al Arabiya. The report comes amid heightened regional tensions as ceasefire negotiations continue.",
-      "emoji": "🇺🇸🇮🇱⚠️",
-      "category": "Middle East",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/middle-east/2026/06/02/trump-blasts-netanyahu-over-lebanon-escalation-blocks-beirut-strike-report",
       "timestamp": "2026-06-02T10:05:00+03:00"
     },
     {
@@ -53,7 +80,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/iran-is-stopping-message-exchanges-with-us-may-block-hormuz-tasnim-news-agency-2026-06-01/",
-      "timestamp": "2026-06-02T10:03:00+03:00"
+      "timestamp": "2026-06-02T10:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Washington Post",
+          "url": "https://www.washingtonpost.com/world/2026/06/01/iran-us-trade-strikes-deal-end-war-remains-elusive/",
+          "angle": "Iran Suspends Ceasefire Talks Citing Israeli Attacks on Lebanon",
+          "summary": "Iran suspended negotiations with the United States after Israel intensified attacks in Lebanon, according to Iranian state media. The move threatens to derail efforts to extend the shaky ceasefire and end the three-month war."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Washington Post"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/iran-is-stopping-message-exchanges-with-us-may-block-hormuz-tasnim-news-agency-2026-06-01/",
+        "https://www.washingtonpost.com/world/2026/06/01/iran-us-trade-strikes-deal-end-war-remains-elusive/"
+      ]
     },
     {
       "headline": "Taiwan Develops Robot Patrol Dogs for South China Sea Islands",
@@ -62,7 +105,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/robot-patrol-dogs-could-be-coming-taiwans-south-china-sea-islands-2026-06-02/",
-      "timestamp": "2026-06-02T10:03:00+03:00"
+      "timestamp": "2026-06-02T10:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/philippines-vietnam-elevate-ties-enhanced-strategic-partnership-2026-06-01/",
+          "angle": "Philippines and Vietnam Elevate Ties to Counter China in South China Sea",
+          "summary": "The Philippines and Vietnam upgraded their relationship to an enhanced strategic partnership, declaring peace in the South China Sea \"non-negotiable\" during Vietnamese leader To Lam's state visit to Manila. The move comes as China conducts coast guard patrols east of Taiwan in response to Japan-Philippines maritime border talks."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/robot-patrol-dogs-could-be-coming-taiwans-south-china-sea-islands-2026-06-02/",
+        "https://www.reuters.com/world/asia-pacific/philippines-vietnam-elevate-ties-enhanced-strategic-partnership-2026-06-01/"
+      ]
     },
     {
       "headline": "China and US Hold Constructive Military Talks in Hawaii",
@@ -106,15 +165,6 @@
         "https://www.bbc.com/news/articles/c202rxp1z15o",
         "https://www.bbc.com/news/articles/c202rxp1z15o"
       ]
-    },
-    {
-      "headline": "Iran Suspends Ceasefire Talks Citing Israeli Attacks on Lebanon",
-      "summary": "Iran suspended negotiations with the United States after Israel intensified attacks in Lebanon, according to Iranian state media. The move threatens to derail efforts to extend the shaky ceasefire and end the three-month war.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/06/01/iran-us-trade-strikes-deal-end-war-remains-elusive/",
-      "timestamp": "2026-06-02T09:03:00+03:00"
     },
     {
       "headline": "Macau joins China cross-border digital currency platform as 11 banks sign up",
@@ -1255,31 +1305,6 @@
       ]
     },
     {
-      "headline": "Philippines and Vietnam Elevate Ties to Counter China in South China Sea",
-      "summary": "The Philippines and Vietnam upgraded their relationship to an enhanced strategic partnership, declaring peace in the South China Sea \"non-negotiable\" during Vietnamese leader To Lam's state visit to Manila. The move comes as China conducts coast guard patrols east of Taiwan in response to Japan-Philippines maritime border talks.",
-      "emoji": "🇵🇭🇻🇳",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/philippines-vietnam-elevate-ties-enhanced-strategic-partnership-2026-06-01/",
-      "timestamp": "2026-06-01T15:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/better-china-ties-can-help-regional-peace-security-vietnams-top-leader-says-2026-05-30/",
-          "angle": "Vietnam Leader Emphasizes Importance of Strong China Ties for Regional Peace",
-          "summary": "Vietnam top leader stated that strong relations with China would benefit regional peace and security, while also noting the importance of U.S. ties, as Vietnam navigates its position between the two rival powers."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/philippines-vietnam-elevate-ties-enhanced-strategic-partnership-2026-06-01/",
-        "https://www.reuters.com/world/china/better-china-ties-can-help-regional-peace-security-vietnams-top-leader-says-2026-05-30/"
-      ]
-    },
-    {
       "headline": "Chinese aircraft carrier Liaoning conducts drills east of Philippines",
       "summary": "Japan confirms Chinese carrier battle group operated near Philippines with 170 flight operations. Shows expanding Chinese naval reach as US-Philippines ties deepen.",
       "emoji": "🇨🇳",
@@ -1412,27 +1437,19 @@
       "timestamp": "2026-06-01T11:03:00+03:00",
       "perspectives": [
         {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c4g419e2xlvo",
-          "angle": "Israel Orders Strikes on Beirut Suburbs as Hezbollah Conflict Escalates",
-          "summary": "Israeli PM Benjamin Netanyahu ordered strikes on Beirut's southern suburbs in response to Hezbollah attacks. Thousands fled the Hezbollah stronghold of Dahieh as tensions rise amid broader regional conflict."
-        },
-        {
-          "source": "Al-Monitor",
-          "url": "https://www.al-monitor.com/originals/2026/06/israel-orders-strikes-beirut-ahead-un-meeting",
-          "angle": "Israel Orders New Strikes on Beirut Ahead of UN Meeting",
-          "summary": "Israel announced it would target Beiruts southern suburbs, a Hezbollah stronghold that had been mostly spared from heavy attacks, ahead of a UN Security Council meeting on the conflict."
+          "source": "Al Arabiya",
+          "url": "https://english.alarabiya.net/News/middle-east/2026/06/02/trump-blasts-netanyahu-over-lebanon-escalation-blocks-beirut-strike-report",
+          "angle": "Trump blasts Netanyahu over Lebanon escalation, blocks Beirut strike",
+          "summary": "US President Donald Trump sharply criticized Israeli Prime Minister Benjamin Netanyahu over Israel's military escalation in Lebanon and blocked a planned strike on Beirut, according to Al Arabiya. The report comes amid heightened regional tensions as ceasefire negotiations continue."
         }
       ],
       "sources": [
         "Reuters",
-        "BBC",
-        "Al-Monitor"
+        "Al Arabiya"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/israels-netanyahu-ordered-military-attack-targets-beirut-southern-suburbs-2026-06-01/",
-        "https://www.bbc.com/news/articles/c4g419e2xlvo",
-        "https://www.al-monitor.com/originals/2026/06/israel-orders-strikes-beirut-ahead-un-meeting"
+        "https://english.alarabiya.net/News/middle-east/2026/06/02/trump-blasts-netanyahu-over-lebanon-escalation-blocks-beirut-strike-report"
       ]
     },
     {
@@ -2995,51 +3012,6 @@
         "https://www.bbc.com/news/articles/cx21le869n1o",
         "https://www.bbc.com/news/articles/c7j86kkmrn1o"
       ]
-    },
-    {
-      "headline": "Iran Accuses Trump of Betraying Diplomacy as Hormuz Blockade Continues",
-      "summary": "An adviser to Iran Supreme Leader warned that Trump is betraying diplomacy for the third time by maintaining the naval blockade in the Strait of Hormuz, demanding authorization for all commercial vessels transiting the strategic waterway.",
-      "emoji": "🇮🇷",
-      "category": "Middle East",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260530-middle-east-live-pentagon-chief-says-us-more-than-capable-of-restarting-war-with-iran",
-      "timestamp": "2026-05-30T20:04:00+03:00"
-    },
-    {
-      "headline": "Russia Recalls Ambassador to Armenia Over EU Pivot",
-      "summary": "Russia recalled its ambassador from Armenia a day after Putin warned Yerevan against seeking EU membership, referencing the Ukrainian scenario. Armenia has been pivoting away from Russia toward the West amid regional tensions.",
-      "emoji": "🇦🇲🇷🇺",
-      "category": "Europe",
-      "source": "DW",
-      "url": "https://www.dw.com/en/russia-recalls-armenia-ambassador-over-eu-ties/a-77354081",
-      "timestamp": "2026-05-30T20:04:00+03:00"
-    },
-    {
-      "headline": "India Signs BrahMos Missile Deal with Vietnam, Nears Pact with Indonesia",
-      "summary": "India signed a defense agreement with Vietnam for BrahMos missiles and is close to finalizing a similar deal with Indonesia, as New Delhi deepens military partnerships with ASEAN nations amid regional tensions.",
-      "emoji": "🇮🇳🇻🇳",
-      "category": "Asia-Pacific",
-      "source": "MSN",
-      "url": "https://www.msn.com/en-in/news/India/india-signs-brahmos-missile-deal-with-vietnam-nears-pact-with-indonesia/ar-AA24qSaD?ocid=BingNewsVerp",
-      "timestamp": "2026-05-30T20:04:00+03:00"
-    },
-    {
-      "headline": "Nigeria Puts 21 States on Ebola Alert as Regional Outbreak Spreads",
-      "summary": "Nigerian health authorities placed 21 states on alert for Ebola virus importation as neighboring DRC battles a growing outbreak. The WHO confirmed cases have nearly doubled in days, with regional spread concerns mounting.",
-      "emoji": "🇳🇬",
-      "category": "Africa",
-      "source": "Daijiworld",
-      "url": "https://www.daijiworld.com/news/newsDisplay?newsID=1315881",
-      "timestamp": "2026-05-30T20:04:00+03:00"
-    },
-    {
-      "headline": "US Defense Secretary Hegseth Tones Down China Rhetoric at Singapore Forum",
-      "summary": "At the Shangri-La defense forum, Pentagon chief Pete Hegseth assured Pacific allies of US commitment to the region while softening previous warnings about China, following Trump’s recent Beijing summit with Xi Jinping.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "US-China",
-      "source": "AP News",
-      "url": "https://apnews.com/article/hegseth-trump-singapore-china-us-taiwan-pacific-iran-d6cf2b964940f47a83f0a6f587c7e0c3",
-      "timestamp": "2026-05-30T19:07:00+03:00"
     }
   ]
 }
