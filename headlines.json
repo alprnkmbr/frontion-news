@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2026-06-02T06:06:23+03:00",
+  "lastUpdated": "2026-06-02T07:05:16+03:00",
   "headlines": [
     {
-      "headline": "US says Israel and Hezbollah agree to dial back fighting as Lebanon tensions escalate",
-      "summary": "The US announced that Israel and Hezbollah have agreed to reduce hostilities after days of intensified cross-border attacks. The agreement comes amid global alarm over Israels expanding invasion of Lebanon.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/middle-east/20260602-us-says-israel-and-hezbollah-agree-to-dial-back-fighting-as-tensions-escalate",
-      "timestamp": "2026-06-02T06:10:00+03:00"
+      "headline": "Goldman Sachs Warns Fuel Margins to Stay Elevated Through 2026",
+      "summary": "Refined fuel margins will remain sharply elevated through 2026 due to Strait of Hormuz disruptions tightening product markets more than crude, Goldman Sachs said in a research note. The analysis highlights lasting impacts from Middle East conflict on global energy markets.",
+      "emoji": "⛽",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/goldman-sachs-expects-elevated-refined-fuel-margins-through-2026-hormuz-2026-06-02/",
+      "timestamp": "2026-06-02T07:00:00+03:00"
+    },
+    {
+      "headline": "Norway Oil Workers Threaten Strike from June 5",
+      "summary": "Nearly 8% of Norwegian offshore oil and gas workers plan to strike from June 5 if state-brokered wage mediation fails, labor union data showed. The action could impact output from Western Europe's top oil and gas producer.",
+      "emoji": "🇳🇴",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/world-at-work/norway-oil-sector-workers-threaten-strike-june-5-2026-06-01/",
+      "timestamp": "2026-06-02T07:00:00+03:00"
+    },
+    {
+      "headline": "Kakao Union Announces June 10 Strike Over Job Security",
+      "summary": "South Korea's Kakao Corp union will stage a four-hour strike on June 10 seeking job security amid restructuring concerns. The action threatens service disruptions for KakaoTalk, South Korea's dominant messaging platform with 45 million users.",
+      "emoji": "🇰🇷",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/union-south-koreas-kakao-hold-partial-strike-june-10-2026-06-01/",
+      "timestamp": "2026-06-02T07:00:00+03:00"
     },
     {
       "headline": "Massive Russian missile and drone attack on Kyiv kills 6, injures 55",
@@ -17,15 +35,6 @@
       "category": "Ukraine-Russia War",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/explosions-rock-kyiv-amid-intelligence-warnings-of-russian-mass-attack/",
-      "timestamp": "2026-06-02T06:10:00+03:00"
-    },
-    {
-      "headline": "Trump fumes at Netanyahu in heated phone call over Lebanon escalation",
-      "summary": "US President Donald Trump reportedly lashed out at Israeli Prime Minister Benjamin Netanyahu over Israels military aggression in Lebanon during a tense phone call, highlighting US frustration with the escalation.",
-      "emoji": "🇺🇸🇮🇱",
-      "category": "Middle East",
-      "source": "TRT World",
-      "url": "https://www.trtworld.com/article/7522071bb426",
       "timestamp": "2026-06-02T06:10:00+03:00"
     },
     {
@@ -53,7 +62,23 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/",
-      "timestamp": "2026-06-02T06:05:00+03:00"
+      "timestamp": "2026-06-02T06:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/",
+          "angle": "France Intercepts Second Russian Shadow Fleet Oil Tanker",
+          "summary": "The French navy boarded a sanctioned vessel linked to Russian oil trade in the Atlantic, with President Macron announcing the operation backed by UK support. Moscow condemned the action as international piracy."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/",
+        "https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/"
+      ]
     },
     {
       "headline": "UN Security Council Demands Israeli Withdrawal From Southern Lebanon",
@@ -71,7 +96,31 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/large-pillar-smoke-seen-kyiv-after-air-raid-alert-issued-reuters-witness-reports-2026-06-01/",
-      "timestamp": "2026-06-02T06:05:00+03:00"
+      "timestamp": "2026-06-02T06:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/russian-strikes-ukraine-kyiv",
+          "angle": "Four Dead After Massive Russian Strikes Across Ukraine",
+          "summary": "Thousands of Kyiv residents sought shelter after ballistic missile strikes hit the city center. The attacks mark an escalation in Russian bombardment as Ukraine continues to lose territory."
+        },
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/germany-sends-new-iris-t-system-to-ukraine-as-kyiv-braces-for-next-russian-mass-attack/",
+          "angle": "Germany delivers new IRIS-T air defense system to Ukraine amid Russian attack surge",
+          "summary": "President Zelensky announced Ukraine received a new IRIS-T system from Germany as Russian forces launched over 2,300 drones, 1,560 guided bombs, and 108 missiles in the past week. Ukraine faces critical shortages of air defense missiles."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/large-pillar-smoke-seen-kyiv-after-air-raid-alert-issued-reuters-witness-reports-2026-06-01/",
+        "https://www.bbc.com/news/articles/russian-strikes-ukraine-kyiv",
+        "https://kyivindependent.com/germany-sends-new-iris-t-system-to-ukraine-as-kyiv-braces-for-next-russian-mass-attack/"
+      ]
     },
     {
       "headline": "Zelenskiy Aide Sees Realistic Chance of Peace Deal by Winter",
@@ -80,7 +129,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/zelenskiys-top-aide-says-peace-deal-by-winter-is-realistic-2026-06-01/",
-      "timestamp": "2026-06-02T06:05:00+03:00"
+      "timestamp": "2026-06-02T06:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/zelenskiys-top-aide-says-peace-deal-by-winter-is-realistic-2026-06-01/",
+          "angle": "Zelenskiy Chief of Staff Sees Realistic Chance for Peace Deal by Winter",
+          "summary": "Ukrainian presidential chief of staff Kyrylo Budanov expressed optimism about reaching a peace agreement with Russia by winter, as Ukrainian drone attacks continue to disrupt Russian logistics."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/zelenskiys-top-aide-says-peace-deal-by-winter-is-realistic-2026-06-01/",
+        "https://www.reuters.com/world/europe/zelenskiys-top-aide-says-peace-deal-by-winter-is-realistic-2026-06-01/"
+      ]
     },
     {
       "headline": "Taiwan Opposition Leader Seeks Trump Meeting on US Visit",
@@ -89,40 +154,22 @@
       "category": "US-China",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/taiwan-opposition-leader-would-be-very-willing-meet-trump-us-trip-2026-06-01/",
-      "timestamp": "2026-06-02T06:05:00+03:00"
-    },
-    {
-      "headline": "Lebanon Says Hezbollah Agrees Reciprocal Halt to Attacks on Israel",
-      "summary": "Hours after the pause was announced, the Israeli military said it intercepted projectiles fired from Lebanon. The ceasefire aims to reduce tensions as Iran-US negotiations continue.",
-      "emoji": "🇱🇧🇮🇱",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/hezbollah-israel-lebanon-halt",
-      "timestamp": "2026-06-02T05:03:00+03:00"
-    },
-    {
-      "headline": "Four Dead After Massive Russian Strikes Across Ukraine",
-      "summary": "Thousands of Kyiv residents sought shelter after ballistic missile strikes hit the city center. The attacks mark an escalation in Russian bombardment as Ukraine continues to lose territory.",
-      "emoji": "🇺🇦🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/russian-strikes-ukraine-kyiv",
-      "timestamp": "2026-06-02T05:03:00+03:00",
+      "timestamp": "2026-06-02T06:05:00+03:00",
       "perspectives": [
         {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/ukrainian-military-strikes-key-logistics-hubs-in-occupied-donetsk-oblast/",
-          "angle": "Ukraine Strikes Key Russian Logistics Hubs in Occupied Donetsk",
-          "summary": "Ukrainian drone units hit military warehouses at key rail and road junctions near Novoselivka and Dokuchayevsk, disrupting Russian supply lines for ongoing offensives."
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/taiwan-opposition-leader-would-be-very-willing-meet-trump-us-trip-2026-06-01/",
+          "angle": "Taiwan opposition leader expresses willingness to meet Trump during US visit",
+          "summary": "Taiwan opposition figure Cheng Li-wun said she would be \"very willing\" to meet President Trump during her upcoming US visit. The statement comes amid heightened cross-strait tensions and shifting US-Taiwan dynamics."
         }
       ],
       "sources": [
-        "BBC",
-        "Kyiv Independent"
+        "Reuters",
+        "Reuters"
       ],
       "urls": [
-        "https://www.bbc.com/news/articles/russian-strikes-ukraine-kyiv",
-        "https://kyivindependent.com/ukrainian-military-strikes-key-logistics-hubs-in-occupied-donetsk-oblast/"
+        "https://www.reuters.com/world/china/taiwan-opposition-leader-would-be-very-willing-meet-trump-us-trip-2026-06-01/",
+        "https://www.reuters.com/world/china/taiwan-opposition-leader-would-be-very-willing-meet-trump-us-trip-2026-06-01/"
       ]
     },
     {
@@ -539,31 +586,6 @@
       ]
     },
     {
-      "headline": "France Intercepts Second Russian Shadow Fleet Oil Tanker",
-      "summary": "The French navy boarded a sanctioned vessel linked to Russian oil trade in the Atlantic, with President Macron announcing the operation backed by UK support. Moscow condemned the action as international piracy.",
-      "emoji": "🇫🇷🇷🇺🛳️",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/",
-      "timestamp": "2026-06-02T01:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cn8pwgej1gxo",
-          "angle": "France Seizes Russian-Linked Oil Tanker in Atlantic with UK Support",
-          "summary": "French Navy boarded a sanctioned Russian oil tanker with British helicopter assistance, Macron announced. The operation marks continued enforcement of sanctions on Russian energy exports."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/",
-        "https://www.bbc.com/news/articles/cn8pwgej1gxo"
-      ]
-    },
-    {
       "headline": "Iran Suspends US Message Exchanges, Threatens Strait of Hormuz Closure",
       "summary": "Tehran halted indirect negotiations with Washington over Israeli operations in Lebanon, with state media warning Iran may block the critical oil shipping chokepoint.",
       "emoji": "🇮🇷🛢️",
@@ -605,31 +627,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/us-crude-exports-hit-record-high-may-iran-war-tightens-global-oil-supplies-2026-06-01/",
       "timestamp": "2026-06-02T01:03:00+03:00"
-    },
-    {
-      "headline": "Zelenskiy Chief of Staff Sees Realistic Chance for Peace Deal by Winter",
-      "summary": "Ukrainian presidential chief of staff Kyrylo Budanov expressed optimism about reaching a peace agreement with Russia by winter, as Ukrainian drone attacks continue to disrupt Russian logistics.",
-      "emoji": "🇺🇦⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/zelenskiys-top-aide-says-peace-deal-by-winter-is-realistic-2026-06-01/",
-      "timestamp": "2026-06-02T01:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/ukraines-zelenskiy-seeks-progress-peace-talks-before-winter-2026-05-31/",
-          "angle": "Zelenskiy seeks peace progress before winter as Ukraine improves strategic position",
-          "summary": "The Ukrainian president wants to advance peace talks with Russia before winter, citing Kyiv's improved military position. Ukraine has strengthened its negotiating stance through battlefield gains and Western support."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/zelenskiys-top-aide-says-peace-deal-by-winter-is-realistic-2026-06-01/",
-        "https://www.reuters.com/business/aerospace-defense/ukraines-zelenskiy-seeks-progress-peace-talks-before-winter-2026-05-31/"
-      ]
     },
     {
       "headline": "Chinas SAIC to Build First EU Car Plant in Spains Galicia",
@@ -1110,15 +1107,6 @@
       "timestamp": "2026-06-01T14:03:00+03:00"
     },
     {
-      "headline": "Taiwan opposition leader expresses willingness to meet Trump during US visit",
-      "summary": "Taiwan opposition figure Cheng Li-wun said she would be \"very willing\" to meet President Trump during her upcoming US visit. The statement comes amid heightened cross-strait tensions and shifting US-Taiwan dynamics.",
-      "emoji": "🇹🇼",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/taiwan-opposition-leader-would-be-very-willing-meet-trump-us-trip-2026-06-01/",
-      "timestamp": "2026-06-01T14:03:00+03:00"
-    },
-    {
       "headline": "Japan and South Korea stocks hit record highs as oil rises on Iran war uncertainty",
       "summary": "Equity markets in Tokyo and Seoul reached fresh records as investors reacted to potential developments in the US-Iran conflict. Oil prices gained on concerns about Hormuz Strait disruptions despite tentative ceasefire talks.",
       "emoji": "📈",
@@ -1137,27 +1125,27 @@
       "timestamp": "2026-06-01T13:03:00+03:00",
       "perspectives": [
         {
-          "source": "DW",
-          "url": "https://www.dw.com/en/iran-halts-talks-with-us-complicating-peace-efforts-tasnim-says/live-77369317",
-          "angle": "Hezbollah agrees to halt attacks on Israel in Lebanon ceasefire deal",
-          "summary": "The Lebanese government announced Hezbollah accepted a US proposal to cease attacks on Israel in exchange for Israel stopping strikes on Beirut's southern suburbs. Trump said both sides agreed to de-escalate, though Netanyahu stressed Israel would continue operations in southern Lebanon."
+          "source": "France 24",
+          "url": "https://www.france24.com/en/middle-east/20260602-us-says-israel-and-hezbollah-agree-to-dial-back-fighting-as-tensions-escalate",
+          "angle": "US says Israel and Hezbollah agree to dial back fighting as Lebanon tensions escalate",
+          "summary": "The US announced that Israel and Hezbollah have agreed to reduce hostilities after days of intensified cross-border attacks. The agreement comes amid global alarm over Israels expanding invasion of Lebanon."
         },
         {
           "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c202rxp1z15o",
-          "angle": "Hezbollah Agrees to Halt Attacks on Israel, Lebanon Says",
-          "summary": "Lebanon announces Hezbollah has accepted a US-backed reciprocal ceasefire with Israel. Israeli PM Netanyahu warns strikes on Beirut will continue if Hezbollah violates the agreement."
+          "url": "https://www.bbc.com/news/articles/hezbollah-israel-lebanon-halt",
+          "angle": "Lebanon Says Hezbollah Agrees Reciprocal Halt to Attacks on Israel",
+          "summary": "Hours after the pause was announced, the Israeli military said it intercepted projectiles fired from Lebanon. The ceasefire aims to reduce tensions as Iran-US negotiations continue."
         }
       ],
       "sources": [
         "Reuters",
-        "DW",
+        "France 24",
         "BBC"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/us-pushes-lebanon-israel-new-ceasefire-plan-official-says-2026-06-01/",
-        "https://www.dw.com/en/iran-halts-talks-with-us-complicating-peace-efforts-tasnim-says/live-77369317",
-        "https://www.bbc.com/news/articles/c202rxp1z15o"
+        "https://www.france24.com/en/middle-east/20260602-us-says-israel-and-hezbollah-agree-to-dial-back-fighting-as-tensions-escalate",
+        "https://www.bbc.com/news/articles/hezbollah-israel-lebanon-halt"
       ]
     },
     {
@@ -1650,6 +1638,31 @@
       "timestamp": "2026-06-01T04:05:00+03:00"
     },
     {
+      "headline": "Syrias Sharaa holds phone call with Trump, presidency says",
+      "summary": "Syrias interim leader Ahmed al-Sharaa spoke by phone with President Donald Trump, according to the Syrian presidency, in a rare direct contact between the two countries.",
+      "emoji": "🇸🇾🇺🇸",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/syrias-sharaa-holds-phone-call-with-trump-syrian-presidency-says-2026-05-31/",
+      "timestamp": "2026-06-01T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "TRT World",
+          "url": "https://www.trtworld.com/article/7522071bb426",
+          "angle": "Trump fumes at Netanyahu in heated phone call over Lebanon escalation",
+          "summary": "US President Donald Trump reportedly lashed out at Israeli Prime Minister Benjamin Netanyahu over Israels military aggression in Lebanon during a tense phone call, highlighting US frustration with the escalation."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "TRT World"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/syrias-sharaa-holds-phone-call-with-trump-syrian-presidency-says-2026-05-31/",
+        "https://www.trtworld.com/article/7522071bb426"
+      ]
+    },
+    {
       "headline": "Japan rejects Chinese accusations of new militarism",
       "summary": "Defense Minister Shinjiro Koizumi pushed back against Chinas criticism of Japans defense buildup, saying Tokyo is not pursuing militarism while Beijing rapidly arms itself.",
       "emoji": "🇯🇵🇨🇳",
@@ -1697,31 +1710,6 @@
       "urls": [
         "https://www.reuters.com/world/asia-pacific/south-korea-japan-discuss-military-logistics-support-deal-seoul-says-2026-05-31/",
         "https://www.reuters.com/world/asia-pacific/south-korea-japan-discuss-military-logistics-support-deal-seoul-says-2026-05-31/"
-      ]
-    },
-    {
-      "headline": "Syrias Sharaa holds phone call with Trump, presidency says",
-      "summary": "Syrias interim leader Ahmed al-Sharaa spoke by phone with President Donald Trump, according to the Syrian presidency, in a rare direct contact between the two countries.",
-      "emoji": "🇸🇾🇺🇸",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/syrias-sharaa-holds-phone-call-with-trump-syrian-presidency-says-2026-05-31/",
-      "timestamp": "2026-06-01T04:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/syrias-sharaa-holds-phone-call-with-trump-syrian-presidency-says-2026-05-31/",
-          "angle": "Syrias Sharaa Holds Phone Call With Trump",
-          "summary": "Syrias de facto leader Ahmad al-Sharaa held a phone call with US President Donald Trump to discuss sanctions relief and Syrias reconstruction, marking a significant diplomatic engagement between the new Syrian government and the United States."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/syrias-sharaa-holds-phone-call-with-trump-syrian-presidency-says-2026-05-31/",
-        "https://www.reuters.com/world/middle-east/syrias-sharaa-holds-phone-call-with-trump-syrian-presidency-says-2026-05-31/"
       ]
     },
     {
@@ -1958,31 +1946,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/americas/nicaraguan-indigenous-leader-brooklyn-rivera-dies-after-three-years-jail-2026-05-31/",
       "timestamp": "2026-05-31T21:03:00+03:00"
-    },
-    {
-      "headline": "Germany delivers new IRIS-T air defense system to Ukraine amid Russian attack surge",
-      "summary": "President Zelensky announced Ukraine received a new IRIS-T system from Germany as Russian forces launched over 2,300 drones, 1,560 guided bombs, and 108 missiles in the past week. Ukraine faces critical shortages of air defense missiles.",
-      "emoji": "🇩🇪",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/germany-sends-new-iris-t-system-to-ukraine-as-kyiv-braces-for-next-russian-mass-attack/",
-      "timestamp": "2026-05-31T20:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/germany-sends-new-iris-t-system-to-ukraine-as-kyiv-braces-for-next-russian-mass-attack/",
-          "angle": "Germany Sends New IRIS-T System to Ukraine as Russian Attacks Intensify",
-          "summary": "Germany dispatched a new IRIS-T air defense system as Ukraine faces escalating Russian drone and missile attacks, with over 2,300 attack drones and 108 missiles launched in the past week alone."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://kyivindependent.com/germany-sends-new-iris-t-system-to-ukraine-as-kyiv-braces-for-next-russian-mass-attack/",
-        "https://kyivindependent.com/germany-sends-new-iris-t-system-to-ukraine-as-kyiv-braces-for-next-russian-mass-attack/"
-      ]
     },
     {
       "headline": "Lukashenko warns Belarus has major target in Ukraine amid escalating tensions",
@@ -2991,24 +2954,6 @@
       "category": "Europe",
       "source": "NBC News",
       "url": "https://www.nbcnews.com/world/italy/italy-bans-kanye-west-travis-scott-concerts-security-concerns-rcna347666",
-      "timestamp": "2026-05-30T17:08:00+03:00"
-    },
-    {
-      "headline": "Truck crash kills 22 Afghan refugees returning from Pakistan",
-      "summary": "A truck carrying Afghan refugees returning from Pakistan overturned in eastern Afghanistan, killing at least 22 people including 10 children. The crash comes as millions of Afghans have returned from Pakistan and Iran following crackdowns on migrants.",
-      "emoji": "🇦🇫",
-      "category": "South Asia",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/pakistan/truck-carrying-returning-refugees-crashes-eastern-afghanistan-killing-rcna347665",
-      "timestamp": "2026-05-30T17:08:00+03:00"
-    },
-    {
-      "headline": "Spain legalizes over 500,000 undocumented immigrants in regularization program",
-      "summary": "Spain is processing over 549,000 applications to regularize undocumented immigrants by June 30, a stark contrast to US deportation policies. Prime Minister Sánchez called it an act of normalization for people already part of Spanish daily life.",
-      "emoji": "🇪🇸",
-      "category": "Europe",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/spain/spain-legalizing-half-million-immigrants-unlike-united-states-rcna347405",
       "timestamp": "2026-05-30T17:08:00+03:00"
     }
   ]
