@@ -1,210 +1,237 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frontion News Headlines</title>
-    <link>https://frontion.net</link>
-    <description>Curated geopolitical news headlines from Tier 1 and Tier 2 sources</description>
-    <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 00:05:50 +0300</lastBuildDate>
+    <link>https://frontion.news</link>
+    <description>Breaking geopolitical news from Tier 1 sources</description>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Jun 2026 22:04:31 GMT</lastBuildDate>
+    <atom:link href="https://frontion.news/feed.xml" rel="self" type="application/rss+xml"/>
+
     <item>
-      <title>🌍 UN Warns World to Brace for El Niño Extreme Weather</title>
-      <description>The World Meteorological Organization says there is an 80% chance of El Niño forming by August, with extreme weather impacts including drought, heatwaves, and hurricanes expected to hit even harder this year.</description>
-      <link>https://www.aljazeera.com/news/2026/6/2/un-tells-world-to-brace-for-extreme-weather-as-el-nino-looms</link>
-      <category>Climate</category>
-      <source url="https://www.aljazeera.com/news/2026/6/2/un-tells-world-to-brace-for-extreme-weather-as-el-nino-looms">Al Jazeera</source>
-      <pubDate>2026-06-03T00:05:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇺🇸 White House Correspondents Dinner Rescheduled After Shooting Incident</title>
-      <description>President Trump will attend the rescheduled dinner on July 24 at the Waldorf Astoria, with significantly enhanced security measures after a gunman stormed the security checkpoint at the original April event.</description>
-      <link>https://www.scmp.com/news/world/united-states-canada/article/3355749/white-house-correspondents-dinner-gets-new-date-wake-shooting-incident</link>
-      <category>US Politics</category>
-      <source url="https://www.scmp.com/news/world/united-states-canada/article/3355749/white-house-correspondents-dinner-gets-new-date-wake-shooting-incident">SCMP</source>
-      <pubDate>2026-06-03T00:05:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇧🇷 US Proposes 25% Tariff to Punish Brazil Over Trade Practices</title>
-      <description>The US plans new 25% tariffs on Brazilian imports citing issues including deforestation and digital trade practices, as Brazil seeks stable fertilizer supply amid the US-Iran conflict.</description>
-      <link>https://www.scmp.com/news/world/americas/article/3355750/us-proposes-25-percent-tariff-brazil-trade-practices</link>
-      <category>Economy</category>
-      <source url="https://www.scmp.com/news/world/americas/article/3355750/us-proposes-25-percent-tariff-brazil-trade-practices">SCMP</source>
-      <pubDate>2026-06-03T00:05:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇸🇪 Sweden Prepares Prisons for 13-Year-Old Gang Killers</title>
-      <description>Swedish authorities are adapting prison systems as gangs increasingly recruit teenagers, some as young as 11, to commit murders and bombings across the Nordic region.</description>
-      <link>https://www.scmp.com/news/world/europe/article/3355696/sweden-prepares-prisons-13-year-old-gang-killers</link>
-      <category>Europe</category>
-      <source url="https://www.scmp.com/news/world/europe/article/3355696/sweden-prepares-prisons-13-year-old-gang-killers">SCMP</source>
-      <pubDate>2026-06-03T00:05:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇨🇳 China Urges Brazil to Repel External Challenges as Ties Deepen</title>
-      <description>Chinese Foreign Minister Wang Yi met Brazilian counterpart Mauro Vieira as Brazil seeks key stable fertilizer supply amid the US-Iran conflict and potential new US tariffs.</description>
-      <link>https://www.scmp.com/news/china/diplomacy/article/3355615/china-urges-brazil-jointly-repel-external-challenges-ties-deepen-beijing</link>
-      <category>Diplomacy</category>
-      <source url="https://www.scmp.com/news/china/diplomacy/article/3355615/china-urges-brazil-jointly-repel-external-challenges-ties-deepen-beijing">SCMP</source>
-      <pubDate>2026-06-03T00:05:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇩🇰 Denmark's Frederiksen to form minority government after coalition talks</title>
-      <description>Social Democratic leader Mette Frederiksen secures third term as prime minister, forming a center-left minority government after months of negotiations.</description>
-      <link>https://www.bbc.com/news/articles/cn7p3e34x5no</link>
-      <category>Europe</category>
-      <source url="https://www.bbc.com/news/articles/cn7p3e34x5no">BBC</source>
-      <pubDate>2026-06-03T00:03:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇨🇦 Canada requests 16-year renewal of USMCA trade agreement</title>
-      <description>Canada formally requests a 16-year extension of the North American free trade pact, calling for all three countries to renew the USMCA trade deal.</description>
-      <link>https://www.bbc.com/news/articles/cn9prr3w9nlo</link>
-      <category>Economy</category>
-      <source url="https://www.bbc.com/news/articles/cn9prr3w9nlo">BBC</source>
-      <pubDate>2026-06-03T00:03:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇬🇭 Ghana parliament passes sweeping anti-LGBTQ+ law with prison terms</title>
-      <description>Ghana's parliament approves bill criminalizing LGBTQ+ identification and advocacy, with sentences of 3-10 years. President Mahama says the bill will be scrutinized before approval.</description>
-      <link>https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity</link>
-      <category>Africa</category>
-      <source url="https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity">The Guardian</source>
-      <pubDate>2026-06-03T00:03:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇲🇿 Mozambique confirms five citizens killed in South Africa xenophobic attacks</title>
-      <description>Mozambique reports five nationals killed amid anti-immigrant violence in South Africa. South African police confirm two deaths in Mossel Bay as protests sweep the country.</description>
-      <link>https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa</link>
-      <category>Africa</category>
-      <source url="https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa">The Guardian</source>
-      <pubDate>2026-06-03T00:03:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇰🇪 Two shot dead in Kenya protests against US Ebola quarantine center</title>
-      <description>Two people killed during demonstrations against US plans to build an Ebola quarantine facility for American citizens at Laikipia Air Base. Locals fear exposure to the virus.</description>
-      <link>https://www.bbc.com/news/articles/cvgz7zny3pzo</link>
-      <category>Africa</category>
-      <source url="https://www.bbc.com/news/articles/cvgz7zny3pzo">BBC</source>
-      <pubDate>2026-06-03T00:03:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇨🇳🇺🇸 US-China Tech Truce Remains Fragile Amid Deep Differences</title>
-      <description>Secretary of State Rubio emphasizes continued dialogue with Beijing despite unresolved tensions over chip exports and technology restrictions.</description>
-      <link>https://www.ft.com/content/china-us-tech-truce-fragile-2026-06-02</link>
-      <category>US-China</category>
-      <source url="https://www.ft.com/content/china-us-tech-truce-fragile-2026-06-02">Financial Times</source>
-      <pubDate>2026-06-02T23:06:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🔬 China Faces Growing Tech Wall as US Export Controls Tighten</title>
-      <description>Beijing struggles to advance semiconductor ambitions as Washington admits challenges enforcing AI export restrictions, while bipartisan lawmakers propose new biotech limits.</description>
-      <link>https://www.wsj.com/technology/china-chip-ambitions-tech-wall-2026-06-02/</link>
-      <category>US-China</category>
-      <source url="https://www.wsj.com/technology/china-chip-ambitions-tech-wall-2026-06-02/">Wall Street Journal</source>
-      <pubDate>2026-06-02T23:06:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇧🇩 Bangladesh Foreign Minister Elected President of UN General Assembly</title>
-      <description>Khalilur Rahman was elected president of the 81st UN General Assembly session in a vote at UN Headquarters, with India and Russia expressing support for stronger cooperation.</description>
-      <link>https://www.aa.com.tr/en/world/un-general-assembly-presidency-win-strong-testament-of-trust-in-bangladesh-dhaka/3954586</link>
-      <category>Diplomacy</category>
-      <source url="https://www.aa.com.tr/en/world/un-general-assembly-presidency-win-strong-testament-of-trust-in-bangladesh-dhaka/3954586">Anadolu Agency</source>
-      <pubDate>2026-06-02T22:05:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇨🇳🇦🇺 China to Impose 55% Tariff on Australian Beef as Imports Exceed Quota</title>
-      <description>Chinese imports of Australian beef are about to surpass a safeguard quota Beijing introduced to protect domestic farmers, triggering the tariff increase.</description>
-      <link>https://www.scmp.com/economy/china-economy/article/3355698/australian-beef-will-soon-be-hit-by-55-tariff-china-ministry-says</link>
-      <category>Economy</category>
-      <source url="https://www.scmp.com/economy/china-economy/article/3355698/australian-beef-will-soon-be-hit-by-55-tariff-china-ministry-says">SCMP</source>
-      <pubDate>2026-06-02T22:05:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇸🇴 Somalia Security Operations Kill 28 al-Shabaab Militants</title>
-      <description>Coordinated operations in Hiran and Middle Shabelle regions targeted gathering places of the terrorist group, continuing efforts against the Islamist insurgency.</description>
-      <link>https://www.aa.com.tr/en/africa/somalia-security-operations-kill-at-least-28-al-shabaab-terrorists/3954559</link>
-      <category>Africa</category>
-      <source url="https://www.aa.com.tr/en/africa/somalia-security-operations-kill-at-least-28-al-shabaab-terrorists/3954559">Anadolu Agency</source>
-      <pubDate>2026-06-02T22:05:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🧬🇺🇸🇨🇳 Biotech Emerging as New US-China Tech Battleground</title>
-      <description>China's biotech industry is rapidly moving up the value chain, prompting fears in Washington and calls for tighter controls in what analysts see as the next frontier of tech competition.</description>
-      <link>https://www.scmp.com/economy/global-economy/article/3355700/next-tech-war-why-biotech-may-become-new-us-china-battleground</link>
-      <category>US-China</category>
-      <source url="https://www.scmp.com/economy/global-economy/article/3355700/next-tech-war-why-biotech-may-become-new-us-china-battleground">SCMP</source>
-      <pubDate>2026-06-02T22:05:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇸🇳 Senegal's New Government Strengthens President Against Sacked Prime Minister</title>
-      <description>President Bassirou Diomaye Faye formed a new government in defiance of his powerful sacked prime minister Ousmane Sonko, whose party pulled out, raising political tensions amid a debt crisis.</description>
-      <link>https://www.france24.com/en/live-news/20260602-senegal-s-new-government-strengthens-president-against-rival-analysts</link>
-      <category>Africa</category>
-      <source url="https://www.france24.com/en/live-news/20260602-senegal-s-new-government-strengthens-president-against-rival-analysts">France 24</source>
-      <pubDate>2026-06-02T22:05:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇮🇷🇺🇸 Iran Reviews US Proposal to Halt War as Trump Says Talks Continue</title>
-      <description>Iran is reviewing a proposed agreement with the US to halt their conflict but has not communicated with Washington for days, while Trump insists negotiations are ongoing. The war has reached a stalemate after three months.</description>
-      <link>https://www.reuters.com/world/middle-east/iran-studying-deal-halt-war-stalemate-persists-2026-06-02/</link>
+      <title>Iran halts talks with mediators while Trump insists negotiations continue</title>
+      <link>https://apnews.com/article/iran-us-israel-war-2-june-2026-9bde9a3425d4b9ff70f157bdae0fb982</link>
+      <description>Iran has stopped communicating with ceasefire mediators according to Iranian reports, but Trump claims talks are still ongoing as the conflict enters its fourth month.</description>
       <category>US-Iran War</category>
-      <source url="https://www.reuters.com/world/middle-east/iran-studying-deal-halt-war-stalemate-persists-2026-06-02/">Reuters</source>
-      <pubDate>2026-06-02T22:03:00+03:00</pubDate>
+      <pubDate>Tue, 02 Jun 2026 22:03:00 GMT</pubDate>
+      <source url="https://apnews.com/article/iran-us-israel-war-2-june-2026-9bde9a3425d4b9ff70f157bdae0fb982">AP News</source>
     </item>
+
     <item>
-      <title>🇺🇦🇷🇺 Russia Launches Massive Strike on Ukraine, Kremlin Warns of New Paradigm</title>
-      <description>Russia attacked Ukraine with hundreds of drones and missiles overnight, killing at least 22 people. The Kremlin declared the war had entered a "different paradigm" due to what it called Ukrainian "terrorist acts."</description>
-      <link>https://www.reuters.com/world/europe/kremlin-talks-new-paradigm-ukraine-war-accusing-kyiv-acts-terror-2026-06-02/</link>
-      <category>Ukraine-Russia War</category>
-      <source url="https://www.reuters.com/world/europe/kremlin-talks-new-paradigm-ukraine-war-accusing-kyiv-acts-terror-2026-06-02/">Reuters</source>
-      <pubDate>2026-06-02T22:03:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>☢️🇪🇺 US Discussing Expanding Nuclear Weapons Deployments in Europe</title>
-      <description>The US is considering deploying nuclear weapons in additional European NATO states, the Financial Times reported. The discussions come as NATO allies reassess defense posture amid ongoing geopolitical tensions.</description>
-      <link>https://www.reuters.com/business/aerospace-defense/us-talks-expand-nuclear-weapons-deployments-europe-ft-says-2026-06-02/</link>
-      <category>Europe</category>
-      <source url="https://www.reuters.com/business/aerospace-defense/us-talks-expand-nuclear-weapons-deployments-europe-ft-says-2026-06-02/">Reuters</source>
-      <pubDate>2026-06-02T22:03:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇺🇸🇮🇷 Rubio Says No Sanctions Relief for Iran Without Nuclear Concessions</title>
-      <description>Secretary of State Marco Rubio told Congress that the US has not offered Iran sanctions relief to reopen the Strait of Hormuz, insisting any relief would be contingent on Tehran giving up its nuclear program.</description>
-      <link>https://www.reuters.com/world/us/us-lawmakers-grill-rubio-iran-war-enters-fourth-month-2026-06-02/</link>
-      <category>Diplomacy</category>
-      <source url="https://www.reuters.com/world/us/us-lawmakers-grill-rubio-iran-war-enters-fourth-month-2026-06-02/">Reuters</source>
-      <pubDate>2026-06-02T22:03:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇱🇹🇺🇸 US Troop Presence in Lithuania Under Review as Baltic States Watch Closely</title>
-      <description>Lithuania defense minister said the future US troop presence is "under review," with Washington assuring new rotations but no clarity on timing or strength. The announcement comes amid broader questions about US commitment to European allies.</description>
-      <link>https://www.reuters.com/business/aerospace-defense/future-presence-us-troops-lithuania-is-under-review-says-minister-2026-06-02/</link>
-      <category>Europe</category>
-      <source url="https://www.reuters.com/business/aerospace-defense/future-presence-us-troops-lithuania-is-under-review-says-minister-2026-06-02/">Reuters</source>
-      <pubDate>2026-06-02T22:03:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>🇬🇧🇮🇷 British couple lose Iran jail sentence appeal</title>
-      <description>Lindsay and Craig Foreman, arrested in January 2025 during a global motorbike journey, have lost their appeal against their prison sentences in Iran.</description>
-      <link>https://www.bbc.com/news/world-middle-east-68890145</link>
+      <title>Iran-backed militias in Iraq agree to hand over weapons to authorities</title>
+      <link>https://apnews.com/article/iraq-iran-us-shiite-militia-asaib-ahl-alhaq-0f1747e05dc1384ab988da4d8eb74008</link>
+      <description>Powerful Iranian-backed Shiite militias in Iraq announce they will begin surrendering weapons to government authorities, a significant development in regional dynamics.</description>
       <category>Middle East</category>
-      <source url="https://www.bbc.com/news/world-middle-east-68890145">BBC</source>
-      <pubDate>2026-06-02T21:03:00+03:00</pubDate>
+      <pubDate>Tue, 02 Jun 2026 22:03:00 GMT</pubDate>
+      <source url="https://apnews.com/article/iraq-iran-us-shiite-militia-asaib-ahl-alhaq-0f1747e05dc1384ab988da4d8eb74008">AP News</source>
     </item>
+
     <item>
-      <title>🇺🇦⚔️ Patriot missile shortage creates window of vulnerability Russia is exploiting</title>
-      <description>A shortage of Patriot missiles has created a critical vulnerability that Russia is exploiting in Ukraine, as Kyiv asks Trump to send more missiles following deadly strikes.</description>
-      <link>https://www.theguardian.com/world/2026/jun/02/patriot-missile-shortage-ukraine-russia</link>
-      <category>Ukraine-Russia War</category>
-      <source url="https://www.theguardian.com/world/2026/jun/02/patriot-missile-shortage-ukraine-russia">The Guardian</source>
-      <pubDate>2026-06-02T21:03:00+03:00</pubDate>
+      <title>US military fires missile at Iran-bound oil tanker after warnings ignored</title>
+      <link>https://www.bbc.com/news/articles/c5yx135yg53o</link>
+      <description>US Central Command struck the engine room of a vessel heading toward Iran after the crew ignored repeated warnings, escalating tensions in the Gulf.</description>
+      <category>US-Iran War</category>
+      <pubDate>Tue, 02 Jun 2026 22:03:00 GMT</pubDate>
+      <source url="https://www.bbc.com/news/articles/c5yx135yg53o">BBC</source>
     </item>
+
     <item>
-      <title>🇪🇺 EU accused of creating ICE-style immigration enforcement system</title>
-      <description>European officials say a new law will improve migration management by allowing more deportations of undocumented people, drawing comparisons to US Immigration and Customs Enforcement.</description>
-      <link>https://www.theguardian.com/world/2026/jun/02/eu-ice-style-immigration-enforcement-system</link>
+      <title>British couple jailed in Iran lose appeal against convictions</title>
+      <link>https://www.bbc.com/news/articles/cjrpwxe82ypo</link>
+      <description>Lindsay and Craig Foreman, arrested during a global motorbike journey in January 2025, have lost their appeal against prison sentences in Iran.</description>
+      <category>Diplomacy</category>
+      <pubDate>Tue, 02 Jun 2026 22:03:00 GMT</pubDate>
+      <source url="https://www.bbc.com/news/articles/cjrpwxe82ypo">BBC</source>
+    </item>
+
+    <item>
+      <title>Israel strikes southern Lebanon despite US ceasefire efforts</title>
+      <link>https://www.theguardian.com/world/2026/jun/02/israel-strikes-southern-lebanon-despite-trump-ceasefire</link>
+      <description>Israeli forces continue operations in southern Lebanon despite a partial truce announced by the US, though strikes on Beirut have reportedly stopped.</description>
+      <category>Middle East</category>
+      <pubDate>Tue, 02 Jun 2026 22:03:00 GMT</pubDate>
+      <source url="https://www.theguardian.com/world/2026/jun/02/israel-strikes-southern-lebanon-despite-trump-ceasefire">The Guardian</source>
+    </item>
+
+    <item>
+      <title>UN Warns World to Brace for El Niño Extreme Weather</title>
+      <link>https://www.aljazeera.com/news/2026/6/2/un-tells-world-to-brace-for-extreme-weather-as-el-nino-looms</link>
+      <description>The World Meteorological Organization says there is an 80% chance of El Niño forming by August, with extreme weather impacts including drought, heatwaves, and hurricanes expected to hit even harder this year.</description>
+      <category>Climate</category>
+      <pubDate>Tue, 02 Jun 2026 21:05:00 GMT</pubDate>
+      <source url="https://www.aljazeera.com/news/2026/6/2/un-tells-world-to-brace-for-extreme-weather-as-el-nino-looms">Al Jazeera</source>
+    </item>
+
+    <item>
+      <title>White House Correspondents Dinner Rescheduled After Shooting Incident</title>
+      <link>https://www.scmp.com/news/world/united-states-canada/article/3355749/white-house-correspondents-dinner-gets-new-date-wake-shooting-incident</link>
+      <description>President Trump will attend the rescheduled dinner on July 24 at the Waldorf Astoria, with significantly enhanced security measures after a gunman stormed the security checkpoint at the original April event.</description>
+      <category>US Politics</category>
+      <pubDate>Tue, 02 Jun 2026 21:05:00 GMT</pubDate>
+      <source url="https://www.scmp.com/news/world/united-states-canada/article/3355749/white-house-correspondents-dinner-gets-new-date-wake-shooting-incident">SCMP</source>
+    </item>
+
+    <item>
+      <title>Sweden Prepares Prisons for 13-Year-Old Gang Killers</title>
+      <link>https://www.scmp.com/news/world/europe/article/3355696/sweden-prepares-prisons-13-year-old-gang-killers</link>
+      <description>Swedish authorities are adapting prison systems as gangs increasingly recruit teenagers, some as young as 11, to commit murders and bombings across the Nordic region.</description>
       <category>Europe</category>
-      <source url="https://www.theguardian.com/world/2026/jun/02/eu-ice-style-immigration-enforcement-system">The Guardian</source>
-      <pubDate>2026-06-02T21:03:00+03:00</pubDate>
+      <pubDate>Tue, 02 Jun 2026 21:05:00 GMT</pubDate>
+      <source url="https://www.scmp.com/news/world/europe/article/3355696/sweden-prepares-prisons-13-year-old-gang-killers">SCMP</source>
     </item>
+
+    <item>
+      <title>China Urges Brazil to Repel External Challenges as Ties Deepen</title>
+      <link>https://www.scmp.com/news/china/diplomacy/article/3355615/china-urges-brazil-jointly-repel-external-challenges-ties-deepen-beijing</link>
+      <description>Chinese Foreign Minister Wang Yi met Brazilian counterpart Mauro Vieira as Brazil seeks key stable fertilizer supply amid the US-Iran conflict and potential new US tariffs.</description>
+      <category>Diplomacy</category>
+      <pubDate>Tue, 02 Jun 2026 21:05:00 GMT</pubDate>
+      <source url="https://www.scmp.com/news/china/diplomacy/article/3355615/china-urges-brazil-jointly-repel-external-challenges-ties-deepen-beijing">SCMP</source>
+    </item>
+
+    <item>
+      <title>Denmark's Frederiksen to form minority government after coalition talks</title>
+      <link>https://www.bbc.com/news/articles/cn7p3e34x5no</link>
+      <description>Social Democratic leader Mette Frederiksen secures third term as prime minister, forming a center-left minority government after months of negotiations.</description>
+      <category>Europe</category>
+      <pubDate>Tue, 02 Jun 2026 21:03:00 GMT</pubDate>
+      <source url="https://www.bbc.com/news/articles/cn7p3e34x5no">BBC</source>
+    </item>
+
+    <item>
+      <title>Canada requests 16-year renewal of USMCA trade agreement</title>
+      <link>https://www.bbc.com/news/articles/cn9prr3w9nlo</link>
+      <description>Canada formally requests a 16-year extension of the North American free trade pact, calling for all three countries to renew the USMCA trade deal.</description>
+      <category>Economy</category>
+      <pubDate>Tue, 02 Jun 2026 21:03:00 GMT</pubDate>
+      <source url="https://www.bbc.com/news/articles/cn9prr3w9nlo">BBC</source>
+    </item>
+
+    <item>
+      <title>Ghana parliament passes sweeping anti-LGBTQ+ law with prison terms</title>
+      <link>https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity</link>
+      <description>Ghana's parliament approves bill criminalizing LGBTQ+ identification and advocacy, with sentences of 3-10 years. President Mahama says the bill will be scrutinized before approval.</description>
+      <category>Africa</category>
+      <pubDate>Tue, 02 Jun 2026 21:03:00 GMT</pubDate>
+      <source url="https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity">The Guardian</source>
+    </item>
+
+    <item>
+      <title>Mozambique confirms five citizens killed in South Africa xenophobic attacks</title>
+      <link>https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa</link>
+      <description>Mozambique reports five nationals killed amid anti-immigrant violence in South Africa. South African police confirm two deaths in Mossel Bay as protests sweep the country.</description>
+      <category>Africa</category>
+      <pubDate>Tue, 02 Jun 2026 21:03:00 GMT</pubDate>
+      <source url="https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa">The Guardian</source>
+    </item>
+
+    <item>
+      <title>US-China Tech Truce Remains Fragile Amid Deep Differences</title>
+      <link>https://www.ft.com/content/china-us-tech-truce-fragile-2026-06-02</link>
+      <description>Secretary of State Rubio emphasizes continued dialogue with Beijing despite unresolved tensions over chip exports and technology restrictions.</description>
+      <category>US-China</category>
+      <pubDate>Tue, 02 Jun 2026 20:06:00 GMT</pubDate>
+      <source url="https://www.ft.com/content/china-us-tech-truce-fragile-2026-06-02">Financial Times</source>
+    </item>
+
+    <item>
+      <title>China Faces Growing Tech Wall as US Export Controls Tighten</title>
+      <link>https://www.wsj.com/technology/china-chip-ambitions-tech-wall-2026-06-02/</link>
+      <description>Beijing struggles to advance semiconductor ambitions as Washington admits challenges enforcing AI export restrictions, while bipartisan lawmakers propose new biotech limits.</description>
+      <category>US-China</category>
+      <pubDate>Tue, 02 Jun 2026 20:06:00 GMT</pubDate>
+      <source url="https://www.wsj.com/technology/china-chip-ambitions-tech-wall-2026-06-02/">Wall Street Journal</source>
+    </item>
+
+    <item>
+      <title>Bangladesh Foreign Minister Elected President of UN General Assembly</title>
+      <link>https://www.aa.com.tr/en/world/un-general-assembly-presidency-win-strong-testament-of-trust-in-bangladesh-dhaka/3954586</link>
+      <description>Khalilur Rahman was elected president of the 81st UN General Assembly session in a vote at UN Headquarters, with India and Russia expressing support for stronger cooperation.</description>
+      <category>Diplomacy</category>
+      <pubDate>Tue, 02 Jun 2026 19:05:00 GMT</pubDate>
+      <source url="https://www.aa.com.tr/en/world/un-general-assembly-presidency-win-strong-testament-of-trust-in-bangladesh-dhaka/3954586">Anadolu Agency</source>
+    </item>
+
+    <item>
+      <title>China to Impose 55% Tariff on Australian Beef as Imports Exceed Quota</title>
+      <link>https://www.scmp.com/economy/china-economy/article/3355698/australian-beef-will-soon-be-hit-by-55-tariff-china-ministry-says</link>
+      <description>Chinese imports of Australian beef are about to surpass a safeguard quota Beijing introduced to protect domestic farmers, triggering the tariff increase.</description>
+      <category>Economy</category>
+      <pubDate>Tue, 02 Jun 2026 19:05:00 GMT</pubDate>
+      <source url="https://www.scmp.com/economy/china-economy/article/3355698/australian-beef-will-soon-be-hit-by-55-tariff-china-ministry-says">SCMP</source>
+    </item>
+
+    <item>
+      <title>Somalia Security Operations Kill 28 al-Shabaab Militants</title>
+      <link>https://www.aa.com.tr/en/africa/somalia-security-operations-kill-at-least-28-al-shabaab-terrorists/3954559</link>
+      <description>Coordinated operations in Hiran and Middle Shabelle regions targeted gathering places of the terrorist group, continuing efforts against the Islamist insurgency.</description>
+      <category>Africa</category>
+      <pubDate>Tue, 02 Jun 2026 19:05:00 GMT</pubDate>
+      <source url="https://www.aa.com.tr/en/africa/somalia-security-operations-kill-at-least-28-al-shabaab-terrorists/3954559">Anadolu Agency</source>
+    </item>
+
+    <item>
+      <title>Biotech Emerging as New US-China Tech Battleground</title>
+      <link>https://www.scmp.com/economy/global-economy/article/3355700/next-tech-war-why-biotech-may-become-new-us-china-battleground</link>
+      <description>China's biotech industry is rapidly moving up the value chain, prompting fears in Washington and calls for tighter controls in what analysts see as the next frontier of tech competition.</description>
+      <category>US-China</category>
+      <pubDate>Tue, 02 Jun 2026 19:05:00 GMT</pubDate>
+      <source url="https://www.scmp.com/economy/global-economy/article/3355700/next-tech-war-why-biotech-may-become-new-us-china-battleground">SCMP</source>
+    </item>
+
+    <item>
+      <title>Senegal's New Government Strengthens President Against Sacked Prime Minister</title>
+      <link>https://www.france24.com/en/live-news/20260602-senegal-s-new-government-strengthens-president-against-rival-analysts</link>
+      <description>President Bassirou Diomaye Faye formed a new government in defiance of his powerful sacked prime minister Ousmane Sonko, whose party pulled out, raising political tensions amid a debt crisis.</description>
+      <category>Africa</category>
+      <pubDate>Tue, 02 Jun 2026 19:05:00 GMT</pubDate>
+      <source url="https://www.france24.com/en/live-news/20260602-senegal-s-new-government-strengthens-president-against-rival-analysts">France 24</source>
+    </item>
+
+    <item>
+      <title>Iran Reviews US Proposal to Halt War as Trump Says Talks Continue</title>
+      <link>https://www.reuters.com/world/middle-east/iran-studying-deal-halt-war-stalemate-persists-2026-06-02/</link>
+      <description>Iran is reviewing a proposed agreement with the US to halt their conflict but has not communicated with Washington for days, while Trump insists negotiations are ongoing. The war has reached a stalemate after three months.</description>
+      <category>US-Iran War</category>
+      <pubDate>Tue, 02 Jun 2026 19:03:00 GMT</pubDate>
+      <source url="https://www.reuters.com/world/middle-east/iran-studying-deal-halt-war-stalemate-persists-2026-06-02/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Russia Launches Massive Strike on Ukraine, Kremlin Warns of New Paradigm</title>
+      <link>https://www.reuters.com/world/europe/kremlin-talks-new-paradigm-ukraine-war-accusing-kyiv-acts-terror-2026-06-02/</link>
+      <description>Russia attacked Ukraine with hundreds of drones and missiles overnight, killing at least 22 people. The Kremlin declared the war had entered a "different paradigm" due to what it called Ukrainian "terrorist acts."</description>
+      <category>Ukraine-Russia War</category>
+      <pubDate>Tue, 02 Jun 2026 19:03:00 GMT</pubDate>
+      <source url="https://www.reuters.com/world/europe/kremlin-talks-new-paradigm-ukraine-war-accusing-kyiv-acts-terror-2026-06-02/">Reuters</source>
+    </item>
+
+    <item>
+      <title>US Discussing Expanding Nuclear Weapons Deployments in Europe</title>
+      <link>https://www.reuters.com/business/aerospace-defense/us-talks-expand-nuclear-weapons-deployments-europe-ft-says-2026-06-02/</link>
+      <description>The US is considering deploying nuclear weapons in additional European NATO states, the Financial Times reported. The discussions come as NATO allies reassess defense posture amid ongoing geopolitical tensions.</description>
+      <category>Europe</category>
+      <pubDate>Tue, 02 Jun 2026 19:03:00 GMT</pubDate>
+      <source url="https://www.reuters.com/business/aerospace-defense/us-talks-expand-nuclear-weapons-deployments-europe-ft-says-2026-06-02/">Reuters</source>
+    </item>
+
+    <item>
+      <title>Rubio Says No Sanctions Relief for Iran Without Nuclear Concessions</title>
+      <link>https://www.reuters.com/world/us/us-lawmakers-grill-rubio-iran-war-enters-fourth-month-2026-06-02/</link>
+      <description>Secretary of State Marco Rubio told Congress that the US has not offered Iran sanctions relief to reopen the Strait of Hormuz, insisting any relief would be contingent on Tehran giving up its nuclear program.</description>
+      <category>Diplomacy</category>
+      <pubDate>Tue, 02 Jun 2026 19:03:00 GMT</pubDate>
+      <source url="https://www.reuters.com/world/us/us-lawmakers-grill-rubio-iran-war-enters-fourth-month-2026-06-02/">Reuters</source>
+    </item>
+
+    <item>
+      <title>US Troop Presence in Lithuania Under Review as Baltic States Watch Closely</title>
+      <link>https://www.reuters.com/business/aerospace-defense/future-presence-us-troops-lithuania-is-under-review-says-minister-2026-06-02/</link>
+      <description>Lithuania defense minister said the future US troop presence is "under review," with Washington assuring new rotations but no clarity on timing or strength. The announcement comes amid broader questions about US commitment to European allies.</description>
+      <category>Europe</category>
+      <pubDate>Tue, 02 Jun 2026 19:03:00 GMT</pubDate>
+      <source url="https://www.reuters.com/business/aerospace-defense/future-presence-us-troops-lithuania-is-under-review-says-minister-2026-06-02/">Reuters</source>
+    </item>
+
   </channel>
 </rss>
