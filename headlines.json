@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-06-02T12:09:30+03:00",
+  "lastUpdated": "2026-06-02T13:06:14+03:00",
   "headlines": [
     {
-      "headline": "Israel-Hezbollah Exchange Fire Despite Trump Ceasefire Announcement",
-      "summary": "Israel conducted strikes on south Lebanon and Hezbollah fired into northern Israel after Trump announced a ceasefire agreement that neither side has publicly accepted. The violence threatens to derail US-Iran peace negotiations as Tehran said it was no longer engaging in talks due to Israels offensive.",
-      "emoji": "🇱🇧",
+      "headline": "Russia Launches Massive Airstrike on Ukraine, Killing at Least 14",
+      "summary": "Russia fired hundreds of drones and dozens of missiles at Kyiv and other Ukrainian cities overnight in one of the largest attacks in months. At least 14 people were killed and over 100 wounded as rescuers searched rubble for survivors.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo",
+      "timestamp": "2026-06-02T13:00:00+03:00"
+    },
+    {
+      "headline": "US in Talks to Deploy Nuclear Weapons in Additional NATO Countries",
+      "summary": "Washington is discussing whether to station nuclear weapons in more European NATO states as the alliance grapples with heightened Russian threats. The Financial Times reports Poland and Baltic states are under consideration.",
+      "emoji": "☢️",
+      "category": "Defense Industry",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/us-talks-expand-nuclear-weapons-deployments-europe-ft-says-2026-06-02/",
+      "timestamp": "2026-06-02T12:30:00+03:00"
+    },
+    {
+      "headline": "Russian Drone Strike in Romania Raises NATO Alarm",
+      "summary": "A Russian Shahed drone struck a residential building in Galați, Romania, near the Ukrainian border, injuring two civilians. NATO faces pressure to respond as Moscow demands access to the investigation.",
+      "emoji": "🇷🇴",
+      "category": "Europe",
+      "source": "El Pais",
+      "url": "https://english.elpais.com/international/2026-06-02/fear-grips-the-border-between-romania-and-ukraine-we-feel-something-much-worse-will-happen.html",
+      "timestamp": "2026-06-02T12:00:00+03:00"
+    },
+    {
+      "headline": "Iran War Puts India Central Bank in Policy Bind",
+      "summary": "The Reserve Bank of India faces a critical interest rate decision as Middle East energy shocks, a slumping rupee, and weak monsoon threaten both growth and inflation. Oil remains above $90 per barrel.",
+      "emoji": "🇮🇳",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/iran-war-puts-rbi-razor-edge-policy-bind-over-inflation-growth-rupee-2026-06-02/",
+      "timestamp": "2026-06-02T11:30:00+03:00"
+    },
+    {
+      "headline": "Israeli Fire Kills Three Palestinians in Gaza",
+      "summary": "Israeli forces killed at least three Palestinians in separate incidents across the Gaza Strip, as the conflict continues amid broader regional tensions involving Iran and Lebanon.",
+      "emoji": "🇵🇸",
       "category": "Middle East",
-      "source": "Al-Monitor",
-      "url": "https://www.al-monitor.com/originals/2026/06/israel-hezbollah-exchange-fire-after-trump-announcement",
-      "timestamp": "2026-06-02T12:08:00+03:00"
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israeli-fire-kills-three-people-gaza-medics-say-2026-06-02/",
+      "timestamp": "2026-06-02T10:30:00+03:00"
     },
     {
       "headline": "Philippine Senate Deadlock Deepens After Estrada Arrest",
@@ -26,15 +62,6 @@
       "category": "Defense Industry",
       "source": "Janes",
       "url": "https://www.janes.com/defence-intelligence-insights/defence-news/defence/boeing-tests-mq-28-ghost-bats-stealth-characteristics",
-      "timestamp": "2026-06-02T12:08:00+03:00"
-    },
-    {
-      "headline": "Russian Attacks Kill 13 Across Ukraine in Major Overnight Strike",
-      "summary": "Russia launched 656 drones and 73 missiles at Ukrainian cities including Kyiv, Dnipro, and Kharkiv, killing at least 13 and wounding over 100. The attack included eight Zircon hypersonic missiles, likely the largest number used in a single strike during the war.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260602-russian-attacks-kill-at-least-five-and-injure-dozens-across-ukraine",
       "timestamp": "2026-06-02T12:08:00+03:00"
     },
     {
@@ -278,19 +305,19 @@
       "timestamp": "2026-06-02T09:03:00+03:00",
       "perspectives": [
         {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c202rxp1z15o",
-          "angle": "Hezbollah agrees to halt attacks on Israel in US-brokered deal",
-          "summary": "Lebanon confirmed Hezbollah accepted a mutual cessation of attacks, but Israel said it would continue operations in southern Lebanon. Iran warned violations would breach the US-Iran ceasefire."
+          "source": "Al-Monitor",
+          "url": "https://www.al-monitor.com/originals/2026/06/israel-hezbollah-exchange-fire-after-trump-announcement",
+          "angle": "Israel-Hezbollah Exchange Fire Despite Trump Ceasefire Announcement",
+          "summary": "Israel conducted strikes on south Lebanon and Hezbollah fired into northern Israel after Trump announced a ceasefire agreement that neither side has publicly accepted. The violence threatens to derail US-Iran peace negotiations as Tehran said it was no longer engaging in talks due to Israels offensive."
         }
       ],
       "sources": [
         "BBC",
-        "BBC"
+        "Al-Monitor"
       ],
       "urls": [
         "https://www.bbc.com/news/articles/c202rxp1z15o",
-        "https://www.bbc.com/news/articles/c202rxp1z15o"
+        "https://www.al-monitor.com/originals/2026/06/israel-hezbollah-exchange-fire-after-trump-announcement"
       ]
     },
     {
@@ -452,19 +479,27 @@
       "timestamp": "2026-06-02T06:05:00+03:00",
       "perspectives": [
         {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/06/02/world/europe/ukraine-war-russia-kyiv-attack.html",
-          "angle": "Russian missile and drone barrage kills at least 12 across Ukraine",
-          "summary": "Russia launched massive missile and drone strikes on Kyiv and Dnipro, killing at least 12 people and wounding over 100. The attacks come amid continued diplomatic deadlock and fierce fighting on multiple fronts."
+          "source": "France 24",
+          "url": "https://www.france24.com/en/europe/20260602-russian-attacks-kill-at-least-five-and-injure-dozens-across-ukraine",
+          "angle": "Russian Attacks Kill 13 Across Ukraine in Major Overnight Strike",
+          "summary": "Russia launched 656 drones and 73 missiles at Ukrainian cities including Kyiv, Dnipro, and Kharkiv, killing at least 13 and wounding over 100. The attack included eight Zircon hypersonic missiles, likely the largest number used in a single strike during the war."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/ukraine-attacks-russian-energy-sites-what-has-been-hit-2026-06-01/",
+          "angle": "Ukraine Steps Up Attacks on Russian Energy Infrastructure",
+          "summary": "Kyiv has intensified attacks on Russian energy facilities as peace talks have failed to produce progress, targeting refineries and oil infrastructure across Russia."
         }
       ],
       "sources": [
         "Reuters",
-        "New York Times"
+        "France 24",
+        "Reuters"
       ],
       "urls": [
         "https://www.reuters.com/world/large-pillar-smoke-seen-kyiv-after-air-raid-alert-issued-reuters-witness-reports-2026-06-01/",
-        "https://www.nytimes.com/2026/06/02/world/europe/ukraine-war-russia-kyiv-attack.html"
+        "https://www.france24.com/en/europe/20260602-russian-attacks-kill-at-least-five-and-injure-dozens-across-ukraine",
+        "https://www.reuters.com/business/energy/ukraine-attacks-russian-energy-sites-what-has-been-hit-2026-06-01/"
       ]
     },
     {
@@ -810,31 +845,6 @@
         "https://www.reuters.com/world/middle-east/iran-says-contradictory-us-positions-israeli-attacks-lebanon-delaying-diplomacy-2026-06-01/",
         "https://www.reuters.com/world/middle-east/iran-says-contradictory-us-positions-israeli-attacks-lebanon-delaying-diplomacy-2026-06-01/",
         "https://www.reuters.com/world/middle-east/iran-says-contradictory-us-positions-israeli-attacks-lebanon-delaying-diplomacy-2026-06-01/"
-      ]
-    },
-    {
-      "headline": "Ukraine Steps Up Attacks on Russian Energy Infrastructure",
-      "summary": "Kyiv has intensified attacks on Russian energy facilities as peace talks have failed to produce progress, targeting refineries and oil infrastructure across Russia.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/ukraine-attacks-russian-energy-sites-what-has-been-hit-2026-06-01/",
-      "timestamp": "2026-06-02T02:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/ukraine-attacks-russian-energy-sites-what-has-been-hit-2026-06-01/",
-          "angle": "Ukraine steps up attacks on Russian energy facilities as peace talks stall",
-          "summary": "Kyiv has intensified strikes on Russian energy sites in recent months as peace negotiations have failed to produce progress. Ukraine is targeting key oil and gas infrastructure to weaken Russia's war economy."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/ukraine-attacks-russian-energy-sites-what-has-been-hit-2026-06-01/",
-        "https://www.reuters.com/business/energy/ukraine-attacks-russian-energy-sites-what-has-been-hit-2026-06-01/"
       ]
     },
     {
@@ -3002,15 +3012,6 @@
       "category": "Asia-Pacific",
       "source": "SCMP",
       "url": "https://www.scmp.com/news/asia/east-asia/article/3355417/japan-pm-vows-breakthrough-north-korea-abduction-issue",
-      "timestamp": "2026-05-30T22:07:00+03:00"
-    },
-    {
-      "headline": "Record-Breaking Heatwave Hits Europe, Multiple Deaths Reported",
-      "summary": "France, Britain and Portugal all recorded their hottest May days ever, with temperatures exceeding 37°C in parts of France. Several heat-related deaths reported across northern Europe as storms approach to break the heat.",
-      "emoji": "🌡️",
-      "category": "Europe",
-      "source": "Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/france-warns-that-strong-storms-could-end-deadly-heatwave",
       "timestamp": "2026-05-30T22:07:00+03:00"
     }
   ]
