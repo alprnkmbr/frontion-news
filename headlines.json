@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-02T18:07:04+03:00",
+  "lastUpdated": "2026-06-02T19:15:38+03:00",
   "headlines": [
+    {
+      "headline": "Iran Halts Mediator Communications Over Israel-Hezbollah Fighting",
+      "summary": "Iran stopped communicating with mediators after Israel threatened to bomb Beirut while continuing its campaign against Hezbollah in southern Lebanon, complicating diplomatic efforts to end the three-month-old war.",
+      "emoji": "🇮🇷",
+      "category": "US-Iran War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-israel-war-2-june-2026-9bde9a3425d4b9ff70f157bdae0fb982",
+      "timestamp": "2026-06-02T19:15:00+03:00"
+    },
+    {
+      "headline": "Russia Shows Signs of Weakness in Ukraine, Responds With Harder Strikes",
+      "summary": "Despite recent battleground losses and mounting casualties for the Kremlin, Russia has intensified its attacks on Ukrainian cities in what analysts see as an attempt to project strength amid setbacks.",
+      "emoji": "🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/02/world/europe/ukraine-russia-war-strikes.html",
+      "timestamp": "2026-06-02T19:15:00+03:00"
+    },
+    {
+      "headline": "US Proposes 25% Tariffs on Brazil Over Unfair Trade Practices",
+      "summary": "The Trump administration proposed 25% tariffs on Brazilian imports after an investigation found the South American country engages in unfair trade practices, escalating trade tensions with Latin America's largest economy.",
+      "emoji": "🇧🇷",
+      "category": "Economy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/eeuu-brasil-aranceles-27437d9bd39fc111631b7fd9fe18d043",
+      "timestamp": "2026-06-02T19:15:00+03:00"
+    },
+    {
+      "headline": "Ceasefires Announced Across Middle East But Fighting Worsens",
+      "summary": "Despite high-profile ceasefire announcements in Gaza, Lebanon and Iran, fighting continues to intensify across multiple fronts, raising questions about the viability of diplomatic agreements in the region.",
+      "emoji": "⚔️",
+      "category": "Middle East",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-israel-gaza-lebanon-hamas-hezbollah-fighting-ceasefire-3338e5a13a57333ca2a56b89041360ae",
+      "timestamp": "2026-06-02T19:15:00+03:00"
+    },
+    {
+      "headline": "Rubio Testifies Before Senate on Iran War as Senators Press for Endgame",
+      "summary": "Secretary of State Marco Rubio faced questions from senators about the administration's Iran strategy, nuclear talks prospects, and plans to end the three-month conflict, offering optimism but no guarantees.",
+      "emoji": "🏛️",
+      "category": "US-Iran War",
+      "source": "USA Today",
+      "url": "https://www.usatoday.com/story/news/world/2026/06/02/iran-war-trump-netanyahu-rubio--live/90368296007/",
+      "timestamp": "2026-06-02T19:15:00+03:00"
+    },
     {
       "headline": "Desert E-Bike Race Tests Military Vehicle AI at Baja 1000",
       "summary": "Pilot Racing team will use AI technology at the Baja 1000 desert race to test when riders should switch bikes, technology that could apply to military vehicle operations in harsh environments.",
@@ -26,7 +71,23 @@
       "category": "Asia-Pacific",
       "source": "SCMP",
       "url": "https://www.scmp.com/news/asia/southeast-asia/article/3355656/malaysia-tells-norway-hasten-scrapped-missile-deal-refund",
-      "timestamp": "2026-06-02T18:05:00+03:00"
+      "timestamp": "2026-06-02T18:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3355656/malaysia-tells-norway-hasten-scrapped-missile-deal-refund",
+          "angle": "Malaysia demands Norway expedite refund for cancelled missile deal",
+          "summary": "Malaysia's Defense Minister urged Norway to speed up the refund for a cancelled Naval Strike Missile system after Norway refused to approve the export licence. Malaysia is now exploring alternatives from Italy, France and South Korea."
+        }
+      ],
+      "sources": [
+        "SCMP",
+        "SCMP"
+      ],
+      "urls": [
+        "https://www.scmp.com/news/asia/southeast-asia/article/3355656/malaysia-tells-norway-hasten-scrapped-missile-deal-refund",
+        "https://www.scmp.com/news/asia/southeast-asia/article/3355656/malaysia-tells-norway-hasten-scrapped-missile-deal-refund"
+      ]
     },
     {
       "headline": "US Navy Selects Companies for At-Sea Medium Unmanned Surface Vehicle Prototype Testing",
@@ -45,33 +106,6 @@
       "source": "Oil Price",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Global-Oil-Stocks-on-Track-for-Historical-Lows-Ahead-of-Summer-Peak.html",
       "timestamp": "2026-06-02T18:05:00+03:00"
-    },
-    {
-      "headline": "Russian strikes kill 21 in Ukraine as rescuers pull bodies from rubble",
-      "summary": "At least 21 people killed including an 8-year-old boy after Russian strikes hit Ukrainian apartment buildings, with rescuers working to free survivors from debris.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/world",
-      "timestamp": "2026-06-02T18:00:00+03:00"
-    },
-    {
-      "headline": "Kenya protests turn deadly over US Ebola quarantine facility plan",
-      "summary": "Two people shot dead during protests against US-backed Ebola quarantine facility at Kenyan military base, after High Court temporarily suspended the plan.",
-      "emoji": "🇰🇪",
-      "category": "Africa",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/world/africa",
-      "timestamp": "2026-06-02T18:00:00+03:00"
-    },
-    {
-      "headline": "Lebanon clashes continue despite Israel-Hezbollah ceasefire acceptance",
-      "summary": "Fighting persists in Lebanon after both Israel and Hezbollah accepted US partial ceasefire plan, seen as crucial to broader Iran peace process.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/world/middle_east",
-      "timestamp": "2026-06-02T18:00:00+03:00"
     },
     {
       "headline": "US Lawmakers to Question Rubio as Iran War Enters Fourth Month",
@@ -244,15 +278,6 @@
       ]
     },
     {
-      "headline": "Britain Sets 87% Emissions Reduction Target by 2040",
-      "summary": "The UK announced a target to cut emissions by approximately 87% from 1990 levels by 2040, strengthening its net zero commitments, though specific implementation plans remain unclear.",
-      "emoji": "🇬🇧",
-      "category": "Climate",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/britain-sets-87-emissions-reduction-target-2038-2042-period-2026-06-02/",
-      "timestamp": "2026-06-02T15:03:00+03:00"
-    },
-    {
       "headline": "Kenya Court Blocks US-Backed Ebola Quarantine Facility After Deadly Protests",
       "summary": "Two people were killed during protests against a proposed US-funded Ebola quarantine center at a Kenyan air force base. The facility was intended for Americans exposed to the virus in DRC or Uganda.",
       "emoji": "🇰🇪",
@@ -262,20 +287,29 @@
       "timestamp": "2026-06-02T15:03:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/hundreds-protest-against-planned-us-ebola-quarantine-facility-kenya-2026-06-01/",
-          "angle": "Kenya protests US Ebola quarantine facility at military base",
-          "summary": "Hundreds protested in central Kenya against a US plan to set up an Ebola quarantine facility at a military base, after the High Court ordered a temporary suspension. The facility has drawn local opposition over safety concerns."
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/world/africa",
+          "angle": "Kenya protests turn deadly over US Ebola quarantine facility plan",
+          "summary": "Two people shot dead during protests against US-backed Ebola quarantine facility at Kenyan military base, after High Court temporarily suspended the plan."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "BBC"
       ],
       "urls": [
         "https://www.reuters.com/business/healthcare-pharmaceuticals/kenyas-president-defends-planned-us-backed-ebola-quarantine-facility-2026-06-02/",
-        "https://www.reuters.com/business/healthcare-pharmaceuticals/hundreds-protest-against-planned-us-ebola-quarantine-facility-kenya-2026-06-01/"
+        "https://www.bbc.com/news/world/africa"
       ]
+    },
+    {
+      "headline": "Britain Sets 87% Emissions Reduction Target by 2040",
+      "summary": "The UK announced a target to cut emissions by approximately 87% from 1990 levels by 2040, strengthening its net zero commitments, though specific implementation plans remain unclear.",
+      "emoji": "🇬🇧",
+      "category": "Climate",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/britain-sets-87-emissions-reduction-target-2038-2042-period-2026-06-02/",
+      "timestamp": "2026-06-02T15:03:00+03:00"
     },
     {
       "headline": "Australia Raises Minimum Wage by 4.75% Amid Inflation Pressures",
@@ -553,15 +587,6 @@
       "timestamp": "2026-06-02T10:05:00+03:00"
     },
     {
-      "headline": "Malaysia demands Norway expedite refund for cancelled missile deal",
-      "summary": "Malaysia's Defense Minister urged Norway to speed up the refund for a cancelled Naval Strike Missile system after Norway refused to approve the export licence. Malaysia is now exploring alternatives from Italy, France and South Korea.",
-      "emoji": "🇲🇾🇳🇴🚀",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3355656/malaysia-tells-norway-hasten-scrapped-missile-deal-refund",
-      "timestamp": "2026-06-02T10:05:00+03:00"
-    },
-    {
       "headline": "Philippine President Marcos approval rating hits record low",
       "summary": "Ferdinand Marcos Jr's net satisfaction rating fell to minus 15, the worst of his presidency, as inflation driven by the Iran war and economic anxieties continue to bite. His rating collapsed across all regions, with Mindanao hitting minus 40.",
       "emoji": "🇵🇭📉",
@@ -796,27 +821,19 @@
       "timestamp": "2026-06-02T06:05:00+03:00",
       "perspectives": [
         {
-          "source": "France 24",
-          "url": "https://www.france24.com/en/europe/20260602-russian-attacks-kill-at-least-five-and-injure-dozens-across-ukraine",
-          "angle": "Russian Attacks Kill 13 Across Ukraine in Major Overnight Strike",
-          "summary": "Russia launched 656 drones and 73 missiles at Ukrainian cities including Kyiv, Dnipro, and Kharkiv, killing at least 13 and wounding over 100. The attack included eight Zircon hypersonic missiles, likely the largest number used in a single strike during the war."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/ukraine-attacks-russian-energy-sites-what-has-been-hit-2026-06-01/",
-          "angle": "Ukraine Steps Up Attacks on Russian Energy Infrastructure",
-          "summary": "Kyiv has intensified attacks on Russian energy facilities as peace talks have failed to produce progress, targeting refineries and oil infrastructure across Russia."
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/world",
+          "angle": "Russian strikes kill 21 in Ukraine as rescuers pull bodies from rubble",
+          "summary": "At least 21 people killed including an 8-year-old boy after Russian strikes hit Ukrainian apartment buildings, with rescuers working to free survivors from debris."
         }
       ],
       "sources": [
         "Reuters",
-        "France 24",
-        "Reuters"
+        "BBC"
       ],
       "urls": [
         "https://www.reuters.com/world/large-pillar-smoke-seen-kyiv-after-air-raid-alert-issued-reuters-witness-reports-2026-06-01/",
-        "https://www.france24.com/en/europe/20260602-russian-attacks-kill-at-least-five-and-injure-dozens-across-ukraine",
-        "https://www.reuters.com/business/energy/ukraine-attacks-russian-energy-sites-what-has-been-hit-2026-06-01/"
+        "https://www.bbc.com/news/world"
       ]
     },
     {
@@ -1702,27 +1719,19 @@
       "timestamp": "2026-06-01T13:03:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/lebanon-israel-hezbollah-trump-talks-airstrikes-beirut-9fe4fc031a64e079c84f42ea28718aa9",
-          "angle": "Israel kills 8 in Lebanon despite Trump-backed ceasefire push",
-          "summary": "Israeli drone strikes in southern Lebanon killed eight people, including a father and two children, as fighting with Hezbollah continued despite US diplomatic efforts to de-escalate."
-        },
-        {
           "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c202rxp1z15o",
-          "angle": "Hezbollah Agrees to Ceasefire With Israel, Trump Announces",
-          "summary": "Lebanon confirmed Hezbollah accepted a US proposal for a mutual cessation of attacks, with Israel agreeing not to strike Beirut. However, clashes continued hours after the announcement, with Hezbollah launching attacks on Israeli tanks. Iran warned that violations in Lebanon would breach the broader US-Iran ceasefire."
+          "url": "https://www.bbc.com/news/world/middle_east",
+          "angle": "Lebanon clashes continue despite Israel-Hezbollah ceasefire acceptance",
+          "summary": "Fighting persists in Lebanon after both Israel and Hezbollah accepted US partial ceasefire plan, seen as crucial to broader Iran peace process."
         }
       ],
       "sources": [
         "Reuters",
-        "AP News",
         "BBC"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/us-pushes-lebanon-israel-new-ceasefire-plan-official-says-2026-06-01/",
-        "https://apnews.com/article/lebanon-israel-hezbollah-trump-talks-airstrikes-beirut-9fe4fc031a64e079c84f42ea28718aa9",
-        "https://www.bbc.com/news/articles/c202rxp1z15o"
+        "https://www.bbc.com/news/world/middle_east"
       ]
     },
     {
@@ -2988,33 +2997,6 @@
       "source": "Defense News",
       "url": "https://www.defensenews.com/global/asia-pacific/2026/05/29/china-is-building-launch-pads-near-its-nuclear-missile-silos/",
       "timestamp": "2026-05-31T04:03:00+03:00"
-    },
-    {
-      "headline": "US General Holds Rare Meeting With Cuban Military Officials Near Guantanamo",
-      "summary": "US Southern Command commander met with Cuban military officials in the first such high-level meeting in recent memory, amid Cuban concerns about possible US military action.",
-      "emoji": "🇨🇺",
-      "category": "Latin America",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/news/your-military/2026/05/30/us-general-holds-rare-meeting-with-cuban-military-officials-near-guantanamo-bay/",
-      "timestamp": "2026-05-31T04:02:00+03:00"
-    },
-    {
-      "headline": "Trump roils waters on Taiwan independence after Beijing summit",
-      "summary": "Debate over US president's China trip reveals varied interpretations of his stance on Taiwan, with Trump saying the US is \"not looking to have somebody say, let's go independent.\"",
-      "emoji": "🇺🇸🇨🇳🇹🇼",
-      "category": "US-China",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/trump-roils-waters-on-taiwan-independence-4-things-to-know",
-      "timestamp": "2026-05-31T02:04:00+03:00"
-    },
-    {
-      "headline": "US general holds rare meeting with Cuban military officials near Guantanamo",
-      "summary": "The first meeting in recent memory between a US Southern Command head and Cuban military officials comes amid growing concerns in Cuba about possible US military action.",
-      "emoji": "🇺🇸🇨🇺",
-      "category": "Americas",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/news/your-military/2026/05/30/us-general-holds-rare-meeting-with-cuban-military-officials-near-guantanamo-bay/",
-      "timestamp": "2026-05-31T02:04:00+03:00"
     }
   ]
 }
