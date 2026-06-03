@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-06-04T01:04:18+03:00",
+  "lastUpdated": "2026-06-04T02:04:37+03:00",
   "headlines": [
     {
-      "headline": "Iranian drones strike Kuwait airport, killing one and wounding dozens",
-      "summary": "Iran launched drone attacks on Kuwait international airport, killing one person and injuring 63 others. Kuwait condemned the attack as Iran claimed it was retaliation for earlier US strikes on an Iranian oil tanker and island.",
-      "emoji": "🇮🇷🇰🇼⚔️",
+      "headline": "US House Approves War Powers Resolution to Halt Iran Military Action",
+      "summary": "The House voted 215-208 to rein in presidential war powers on Iran, with four Republicans joining Democrats. The vote represents a significant congressional rebuke to Trump over the ongoing conflict.",
+      "emoji": "🇺🇸",
+      "category": "US Politics",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536",
+      "timestamp": "2026-06-04T02:03:00+03:00"
+    },
+    {
+      "headline": "Trump Confirms Calling Netanyahu 'Crazy', Says Israel Complicating Iran Peace",
+      "summary": "Trump acknowledged his harsh criticism of the Israeli prime minister over Lebanon attacks, revealing strains in the US-Israel relationship as ceasefire negotiations with Iran continue.",
+      "emoji": "🇺🇸🇮🇱",
       "category": "US-Iran War",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5yx135yg53o",
-      "timestamp": "2026-06-04T01:03:00+03:00"
+      "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o",
+      "timestamp": "2026-06-04T02:03:00+03:00"
+    },
+    {
+      "headline": "South China Sea Tensions Rise as Nations Race to Build Artificial Islands",
+      "summary": "After years of watching China create land features to back expansive claims, regional powers are now engaging in similar reclamation activities, dramatically escalating maritime disputes.",
+      "emoji": "🌏",
+      "category": "Asia-Pacific",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cy823n3ln29o",
+      "timestamp": "2026-06-04T02:03:00+03:00"
+    },
+    {
+      "headline": "US Announces New Tariffs Over Forced Labour Concerns",
+      "summary": "The US Trade Representative proposed new tariffs following a Section 301 investigation into forced labour practices, escalating trade tensions as the administration seeks to rebuild tariff policies.",
+      "emoji": "💰",
+      "category": "Economy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/3/us-cites-forced-labour-concerns-as-grounds-for-new-tariffs",
+      "timestamp": "2026-06-04T02:03:00+03:00"
+    },
+    {
+      "headline": "Bangladesh's Top Diplomat Elected UN General Assembly President",
+      "summary": "Khalilur Rahman won a tight race with 99 votes to become president of the 81st UNGA session, marking a significant diplomatic achievement for Bangladesh on the world stage.",
+      "emoji": "🇧🇩🇺🇳",
+      "category": "Diplomacy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/3/bangladeshs-rahman-elected-un-general-assembly-president-in-tight-race",
+      "timestamp": "2026-06-04T02:03:00+03:00"
     },
     {
       "headline": "Trump confirms calling Netanyahu \"crazy\" as Israel complicates Iran peace talks",
@@ -17,7 +53,23 @@
       "category": "Diplomacy",
       "source": "AP News",
       "url": "https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97",
-      "timestamp": "2026-06-04T01:03:00+03:00"
+      "timestamp": "2026-06-04T01:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/world-news",
+          "angle": "Iran Stops Talking to Mediators but Trump Says Talks Continue",
+          "summary": "Iranian reports suggest Tehran has halted communication with mediators, while Trump administration officials insist diplomatic channels remain open amid ongoing regional tensions."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "AP News"
+      ],
+      "urls": [
+        "https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97",
+        "https://apnews.com/world-news"
+      ]
     },
     {
       "headline": "At least 21 killed in Delhi fire including foreign nationals",
@@ -26,7 +78,23 @@
       "category": "Asia",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/czd29327qzvo",
-      "timestamp": "2026-06-04T01:03:00+03:00"
+      "timestamp": "2026-06-04T01:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/czd29327qzvo",
+          "angle": "Delhi Hotel Fire Kills at Least 21, Many Foreign Nationals Among Victims",
+          "summary": "A fire at a hotel in New Delhi killed at least 21 people, including many foreign nationals who had travelled to India for medical treatment or to accompany relatives."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/czd29327qzvo",
+        "https://www.bbc.com/news/articles/czd29327qzvo"
+      ]
     },
     {
       "headline": "MI5 warns Chinese spies using LinkedIn to target UK government officials",
@@ -253,6 +321,31 @@
       "timestamp": "2026-06-03T22:00:00+03:00"
     },
     {
+      "headline": "Iran Strikes Kuwait Airport, Killing One as Ceasefire Tested",
+      "summary": "Iran launched drone strikes on Kuwait's main airport, killing one person and injuring dozens. Tehran said the attack was retaliation for earlier US strikes on an Iranian oil tanker and island, as Trump stated ceasefire talks are ongoing.",
+      "emoji": "🇮🇷🇰🇼",
+      "category": "US-Iran War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-israel-lebanon-war-kuwait-ceasefire-3-june-2026-de2d1814c0f38252bf0383be859c870b",
+      "timestamp": "2026-06-03T21:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c5yx135yg53o",
+          "angle": "Iranian drones strike Kuwait airport, killing one and wounding dozens",
+          "summary": "Iran launched drone attacks on Kuwait international airport, killing one person and injuring 63 others. Kuwait condemned the attack as Iran claimed it was retaliation for earlier US strikes on an Iranian oil tanker and island."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "BBC"
+      ],
+      "urls": [
+        "https://apnews.com/article/iran-us-israel-lebanon-war-kuwait-ceasefire-3-june-2026-de2d1814c0f38252bf0383be859c870b",
+        "https://www.bbc.com/news/articles/c5yx135yg53o"
+      ]
+    },
+    {
       "headline": "Ukrainian Drones Hit St Petersburg Oil Terminal Ahead of Economic Forum",
       "summary": "Ukrainian drones struck oil storage facilities near St Petersburg as Putin's flagship economic forum was set to open. The attack comes days before the Russian president is scheduled to address the event.",
       "emoji": "🇺🇦🇷🇺",
@@ -275,31 +368,6 @@
       "urls": [
         "https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3",
         "https://www.bbc.com/news/articles/c0e2vqd3j1vo"
-      ]
-    },
-    {
-      "headline": "Iran Strikes Kuwait Airport, Killing One as Ceasefire Tested",
-      "summary": "Iran launched drone strikes on Kuwait's main airport, killing one person and injuring dozens. Tehran said the attack was retaliation for earlier US strikes on an Iranian oil tanker and island, as Trump stated ceasefire talks are ongoing.",
-      "emoji": "🇮🇷🇰🇼",
-      "category": "US-Iran War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-israel-lebanon-war-kuwait-ceasefire-3-june-2026-de2d1814c0f38252bf0383be859c870b",
-      "timestamp": "2026-06-03T21:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c5yx135yg53o",
-          "angle": "Iran Strikes Kuwait Airport as US Hits Qeshm Island in Latest Escalation",
-          "summary": "Iranian drones attacked Kuwait International Airport killing one person, while US forces struck Irans Qeshm Island facility. The escalation comes as diplomatic efforts between Washington and Tehran show little progress."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "BBC"
-      ],
-      "urls": [
-        "https://apnews.com/article/iran-us-israel-lebanon-war-kuwait-ceasefire-3-june-2026-de2d1814c0f38252bf0383be859c870b",
-        "https://www.bbc.com/news/articles/c5yx135yg53o"
       ]
     },
     {
@@ -479,31 +547,6 @@
       "urls": [
         "https://www.bbc.com/news/articles/cdrp8v7407ro",
         "https://www.bbc.com/news/articles/cdrp8v7407ro"
-      ]
-    },
-    {
-      "headline": "Delhi Hotel Fire Kills at Least 21, Many Foreign Nationals Among Victims",
-      "summary": "A fire at a hotel in New Delhi killed at least 21 people, including many foreign nationals who had travelled to India for medical treatment or to accompany relatives.",
-      "emoji": "🔥",
-      "category": "Asia",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/czd29327qzvo",
-      "timestamp": "2026-06-03T19:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/czd29327qzvo",
-          "angle": "Foreign Nationals Among 21 Killed in Delhi Hospital Fire",
-          "summary": "A devastating fire at a hospital in Delhi killed at least 21 people, including foreign nationals who had traveled to India for medical treatment. The fire broke out in a commercial building housing medical facilities."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/czd29327qzvo",
-        "https://www.bbc.com/news/articles/czd29327qzvo"
       ]
     },
     {
@@ -1115,39 +1158,6 @@
       "source": "Defense News",
       "url": "https://www.defensenews.com/naval/2026/06/01/south-korea-goes-full-steam-ahead-on-nuclear-powered-submarines/",
       "timestamp": "2026-06-03T04:05:00+03:00"
-    },
-    {
-      "headline": "Iran Stops Talking to Mediators but Trump Says Talks Continue",
-      "summary": "Iranian reports suggest Tehran has halted communication with mediators, while Trump administration officials insist diplomatic channels remain open amid ongoing regional tensions.",
-      "emoji": "🇮🇷🇺🇸💬",
-      "category": "Diplomacy",
-      "source": "AP News",
-      "url": "https://apnews.com/world-news",
-      "timestamp": "2026-06-03T04:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU1BXWkhqeGRkRDRmQURFZW02aWM",
-          "angle": "Iran Stops Talking to Mediators as Peace Talks Stall",
-          "summary": "Iranian state media reports Tehran suspended negotiations with US mediators, contradicting Trump administration claims that talks continue. Secretary of State Rubio says Iran remains open to nuclear discussions despite conflicting signals."
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXFGMHdpRHZKbHFzUzZvdWItb0k",
-          "angle": "Rubio Says Iran Supreme Leader Active as Talks Continue",
-          "summary": "Secretary of State Marco Rubio told reporters that Iran's supreme leader appears more engaged in ongoing peace negotiations, contradicting Iranian media reports that talks had been suspended."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "AP News",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://apnews.com/world-news",
-        "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU1BXWkhqeGRkRDRmQURFZW02aWM",
-        "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeXFGMHdpRHZKbHFzUzZvdWItb0k"
-      ]
     },
     {
       "headline": "China-Kazakhstan Launch Joint Grain Trading Platform",
@@ -2955,24 +2965,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/bp-starts-commercial-non-associated-gas-production-azerbaijans-acg-field-2026-06-01/",
       "timestamp": "2026-06-01T19:10:00+03:00"
-    },
-    {
-      "headline": "India GDP growth likely eased to 7.2% in first quarter",
-      "summary": "India's economic growth likely slowed to 7.2% in the January-March quarter, according to a Reuters poll, as weakening external demand and softer industrial activity offset strong government spending.",
-      "emoji": "🇮🇳",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/india/india-gdp-growth-likely-eased-january-march-quarter-softer-external-demand-2026-06-01/",
-      "timestamp": "2026-06-01T19:10:00+03:00"
-    },
-    {
-      "headline": "France bans Israeli officials from major defense expo",
-      "summary": "Israel's Defence Ministry said France banned Israeli government representatives from attending the Eurosatory defense exhibition, highlighting diplomatic tensions as Israel continues operations in Lebanon.",
-      "emoji": "🇫🇷",
-      "category": "Diplomacy",
-      "source": "Al-Monitor",
-      "url": "https://www.al-monitor.com/originals/2026/06/israels-defence-ministry-says-france-bans-israeli-officials-defence-show",
-      "timestamp": "2026-06-01T18:06:00+03:00"
     }
   ]
 }
