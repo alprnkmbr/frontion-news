@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-03T07:04:20+03:00",
+  "lastUpdated": "2026-06-03T08:05:31+03:00",
   "headlines": [
+    {
+      "headline": "Solomon Islands New PM Vows to Review Secretive China Security Pact",
+      "summary": "Newly elected Prime Minister Jeremiah Manele announced his government will review a controversial security agreement with China, signaling potential shift in Pacific alliances amid US-China competition.",
+      "emoji": "🇸🇧🇨🇳",
+      "category": "Asia-Pacific",
+      "source": "AP News",
+      "url": "https://apnews.com/article/solomon-islands-china-security-pact-review-manele-6c1a8b0e4f9d",
+      "timestamp": "2026-06-03T08:03:00+03:00"
+    },
+    {
+      "headline": "British Couple Lose Iran Jail Sentence Appeal, Family Says",
+      "summary": "Lindsay and Craig Foreman, arrested in January 2025 during a global motorbike journey, have lost their appeal against convictions in Iran, according to their family.",
+      "emoji": "🇬🇧🇮🇷",
+      "category": "Middle East",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c936zvne0l6o",
+      "timestamp": "2026-06-03T08:03:00+03:00"
+    },
+    {
+      "headline": "Trump Proposes 25% Tariffs on Brazil Despite US Trade Surplus",
+      "summary": "The Trump administration claims Brazil engages in unreasonable trade practices that restrict US commerce, proposing significant tariffs despite the US maintaining a trade surplus with Brazil.",
+      "emoji": "🇺🇸🇧🇷💰",
+      "category": "Economy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jun/02/trump-tariffs-brazil-trade-surplus",
+      "timestamp": "2026-06-03T08:03:00+03:00"
+    },
+    {
+      "headline": "Mozambique Reports Five Citizens Killed in Xenophobic Attacks in South Africa",
+      "summary": "Mozambique government says five of its citizens were killed in xenophobic violence in neighboring South Africa, amid rising tensions over immigration and economic competition.",
+      "emoji": "🇲🇿🇿🇦",
+      "category": "Africa",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa",
+      "timestamp": "2026-06-03T08:03:00+03:00"
+    },
+    {
+      "headline": "Pope Leo Opens Paris Memorial Honoring Rwanda Genocide Victims",
+      "summary": "President Macron opened a monument in Paris acknowledging France responsibility in the Rwanda genocide, calling it a reconciliation milestone with victims memorial.",
+      "emoji": "🇫🇷🇷🇼⛪",
+      "category": "Europe",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/3/macron-opens-paris-memorial-honoring-rwanda-genocide-victims",
+      "timestamp": "2026-06-03T08:03:00+03:00"
+    },
     {
       "headline": "Tunisian Opposition Leader Ghannouchi Sentenced to Life in Prison",
       "summary": "A Tunisian court sentenced Ennahdha leader Rached Ghannouchi to life imprisonment for \"forming a terrorist alliance,\" along with dozens of other defendants receiving lengthy prison terms. The crackdown marks a major escalation against opposition figures in Tunisia.",
@@ -8,15 +53,6 @@
       "category": "Middle East",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/3/tunisian-court-sentences-ennahdha-leader-rached-ghannouchi-to-life-in-prison",
-      "timestamp": "2026-06-03T07:05:00+03:00"
-    },
-    {
-      "headline": "US Strikes Qeshm Island as Iran Targets Kuwait and Bahrain",
-      "summary": "The US military conducted \"self-defense\" strikes on Iran's Qeshm Island while Tehran launched attacks targeting Kuwait and Bahrain, which were either shot down or failed. The escalation comes as ceasefire negotiations remain stalled.",
-      "emoji": "⚔️",
-      "category": "US-Iran War",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain",
       "timestamp": "2026-06-03T07:05:00+03:00"
     },
     {
@@ -114,7 +150,31 @@
       "category": "US-Iran War",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c5yx135yg53o",
-      "timestamp": "2026-06-03T05:03:00+03:00"
+      "timestamp": "2026-06-03T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain",
+          "angle": "US Strikes Qeshm Island as Iran Targets Kuwait and Bahrain",
+          "summary": "The US military conducted \"self-defense\" strikes on Iran's Qeshm Island while Tehran launched attacks targeting Kuwait and Bahrain, which were either shot down or failed. The escalation comes as ceasefire negotiations remain stalled."
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/world",
+          "angle": "US Strikes Qeshm Island as Iran-Israel Tensions Escalate",
+          "summary": "The US military conducted strikes on Irans Qeshm Island in the Strait of Hormuz, while defending Kuwait and Bahrain from Iranian missile attacks amid stalled ceasefire negotiations."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "Al Jazeera",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/c5yx135yg53o",
+        "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain",
+        "https://www.bbc.com/news/world"
+      ]
     },
     {
       "headline": "Iranian Inflation Reaches 77%, Highest Since World War II",
@@ -169,15 +229,6 @@
       "source": "Defense News",
       "url": "https://www.defensenews.com/naval/2026/06/01/south-korea-goes-full-steam-ahead-on-nuclear-powered-submarines/",
       "timestamp": "2026-06-03T04:05:00+03:00"
-    },
-    {
-      "headline": "US Strikes Qeshm Island as Iran-Israel Tensions Escalate",
-      "summary": "The US military conducted strikes on Irans Qeshm Island in the Strait of Hormuz, while defending Kuwait and Bahrain from Iranian missile attacks amid stalled ceasefire negotiations.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/world",
-      "timestamp": "2026-06-03T04:03:00+03:00"
     },
     {
       "headline": "British Couple Loses Appeal in Iran Jail Case",
@@ -2857,15 +2908,6 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/patriarch-one-moldovas-two-competing-churches-steps-down-2026-05-31/",
-      "timestamp": "2026-06-01T03:00:00+03:00"
-    },
-    {
-      "headline": "UK Businesses Remain Downbeat on Economic Outlook",
-      "summary": "British businesses remain pessimistic about the economic outlook despite recent government efforts, according to CBI and Institute of Directors surveys. Smaller firms showed somewhat less negative sentiment.",
-      "emoji": "🇬🇧",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/uk-businesses-stay-downbeat-about-economy-surveys-show-2026-05-31/",
       "timestamp": "2026-06-01T03:00:00+03:00"
     }
   ]
