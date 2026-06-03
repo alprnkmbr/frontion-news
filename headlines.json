@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-03T23:04:32+03:00",
+  "lastUpdated": "2026-06-04T00:07:07+03:00",
   "headlines": [
+    {
+      "headline": "US Marine Corps Retires Harrier Jump Jet After 50 Years",
+      "summary": "The USMC held a Sundown ceremony marking the end of Harrier operations. The iconic jump jet, a transatlantic success story, paved the way for the F-35B.",
+      "emoji": "🇺🇸✈️",
+      "category": "Defense Industry",
+      "source": "The War Zone",
+      "url": "https://www.twz.com/air/usmc-av-8b-harrier-sunset-ceremony",
+      "timestamp": "2026-06-04T00:10:00+03:00"
+    },
+    {
+      "headline": "Chinese Mystery Submarine With Unique Feature Spotted By Satellite",
+      "summary": "A new nuclear fast attack-sized submarine with an unusual design feature was caught on satellite imagery. Analysts suggest it could be China's answer to a high-speed interceptor boat.",
+      "emoji": "🇨🇳🚢",
+      "category": "Defense Industry",
+      "source": "The War Zone",
+      "url": "https://www.twz.com/navy/new-large-chinese-submarine-caught-on-satellite",
+      "timestamp": "2026-06-04T00:10:00+03:00"
+    },
+    {
+      "headline": "Greece Protests to Ukraine Over Naval Drone in Its Waters",
+      "summary": "Greece filed formal diplomatic protests after an explosives-laden Ukrainian naval drone was discovered in Greek waters last month.",
+      "emoji": "🇬🇷🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/greece-issues-formal-protest-with-ukraine-over-naval-drone-incident/",
+      "timestamp": "2026-06-04T00:10:00+03:00"
+    },
+    {
+      "headline": "China, EU Slam Proposed US Tariffs, Reject Forced Labor Claims",
+      "summary": "Beijing and Brussels pushed back against Trump administration threats of up to 12.5% tariffs on imports from 60 economies over alleged forced labor concerns.",
+      "emoji": "🇨🇳🇪🇺🇺🇸",
+      "category": "US-China",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/diplomacy/article/3355882/china-eu-slam-proposed-us-tariffs-reject-forced-labour-allegations",
+      "timestamp": "2026-06-04T00:10:00+03:00"
+    },
+    {
+      "headline": "Russia's Baltic Fleet Base Struck by Ukrainian Drones",
+      "summary": "Ukrainian drones attacked the Russian Baltic Fleet base, setting a warship ablaze. Once considered a sanctuary for Russian naval power, the Baltic is now within Ukraine's strike range.",
+      "emoji": "🇺🇦🚢💥",
+      "category": "Ukraine-Russia War",
+      "source": "The War Zone",
+      "url": "https://www.twz.com/air/russian-baltic-fleet-attacked-ukrainian-drones",
+      "timestamp": "2026-06-04T00:10:00+03:00"
+    },
     {
       "headline": "Iran Attacks Kuwait and Bahrain, Straining Ceasefire",
       "summary": "Iran launched missiles and drones at Kuwait and Bahrain just as Secretary of State Marco Rubio told lawmakers the Iran war was \"concluded.\" One person was killed and 63 wounded at Kuwait airport.",
@@ -8,25 +53,23 @@
       "category": "Middle East",
       "source": "New York Times",
       "url": "https://www.nytimes.com/live/2026/06/03/world/iran-war-trump-israel-lebanon",
-      "timestamp": "2026-06-03T23:03:00+03:00"
-    },
-    {
-      "headline": "Ukraine Strikes St. Petersburg Oil Terminal as Putin's Economic Forum Opens",
-      "summary": "Ukrainian drones hit oil storage facilities near St. Petersburg hours before Vladimir Putin was due to address Russia's flagship economic forum, demonstrating Ukraine's ability to strike deep into Russian territory.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo",
-      "timestamp": "2026-06-03T23:03:00+03:00"
-    },
-    {
-      "headline": "Trump Confirms He Called Netanyahu 'Crazy' Over Iran Peace Talks",
-      "summary": "President Trump acknowledged a heated call with Israeli Prime Minister Benjamin Netanyahu, saying Israel is complicating peace negotiations with Iran and expressing hope to meet with Iran's supreme leader.",
-      "emoji": "🇺🇸🇮🇱",
-      "category": "US-Iran War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97",
-      "timestamp": "2026-06-03T23:03:00+03:00"
+      "timestamp": "2026-06-03T23:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "The War Zone",
+          "url": "https://www.twz.com/iran-launches-new-attacks-on-kuwait-bahrain",
+          "angle": "Iran Launches New Attacks on Kuwait and Bahrain",
+          "summary": "Iran conducted fresh drone and missile attacks targeting Kuwait and Bahrain as US Central Command conducted self-defense strikes on an Iranian military ground control station on Qeshm Island."
+        }
+      ],
+      "sources": [
+        "New York Times",
+        "The War Zone"
+      ],
+      "urls": [
+        "https://www.nytimes.com/live/2026/06/03/world/iran-war-trump-israel-lebanon",
+        "https://www.twz.com/iran-launches-new-attacks-on-kuwait-bahrain"
+      ]
     },
     {
       "headline": "One Killed in Iranian Drone Strike on Kuwait Airport",
@@ -35,7 +78,23 @@
       "category": "Middle East",
       "source": "Al Jazeera",
       "url": "https://www.bbc.com/news/articles/c5yx135yg53o",
-      "timestamp": "2026-06-03T23:03:00+03:00"
+      "timestamp": "2026-06-03T23:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/3/iran-says-deadly-attack-on-kuwait-should-serve-as-a-lesson-for-us",
+          "angle": "One killed, dozens wounded in Iranian attack on Kuwait International Airport",
+          "summary": "Iranian drone and missile strikes hit Kuwait's international airport, killing one person and wounding more than 60 others, as regional conflict escalates despite ceasefire negotiations."
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/c5yx135yg53o",
+        "https://www.aljazeera.com/news/2026/6/3/iran-says-deadly-attack-on-kuwait-should-serve-as-a-lesson-for-us"
+      ]
     },
     {
       "headline": "Four Migrant Workers Burned Alive in Car Attack in Italy",
@@ -44,7 +103,23 @@
       "category": "Europe",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jun/03/migrant-workers-burned-alive-in-car-in-italy",
-      "timestamp": "2026-06-03T23:03:00+03:00"
+      "timestamp": "2026-06-03T23:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jun/03/migrant-workers-burned-alive-in-car-in-italy",
+          "angle": "Four Migrant Workers Burned Alive in Italy Car Attack",
+          "summary": "Four migrant workers were reportedly burned alive in their car in Calabria, Italy, in an attack that highlights the widespread exploitation of foreign farm laborers in southern Europe."
+        }
+      ],
+      "sources": [
+        "The Guardian",
+        "The Guardian"
+      ],
+      "urls": [
+        "https://www.theguardian.com/world/2026/jun/03/migrant-workers-burned-alive-in-car-in-italy",
+        "https://www.theguardian.com/world/2026/jun/03/migrant-workers-burned-alive-in-car-in-italy"
+      ]
     },
     {
       "headline": "NATO Chief Arrives in Kyiv After Massive Russian Strike Kills 20+",
@@ -142,6 +217,31 @@
       "timestamp": "2026-06-03T22:00:00+03:00"
     },
     {
+      "headline": "Ukrainian Drones Hit St Petersburg Oil Terminal Ahead of Economic Forum",
+      "summary": "Ukrainian drones struck oil storage facilities near St Petersburg as Putin's flagship economic forum was set to open. The attack comes days before the Russian president is scheduled to address the event.",
+      "emoji": "🇺🇦🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3",
+      "timestamp": "2026-06-03T21:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo",
+          "angle": "Ukraine Strikes St. Petersburg Oil Terminal as Putin's Economic Forum Opens",
+          "summary": "Ukrainian drones hit oil storage facilities near St. Petersburg hours before Vladimir Putin was due to address Russia's flagship economic forum, demonstrating Ukraine's ability to strike deep into Russian territory."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "BBC"
+      ],
+      "urls": [
+        "https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3",
+        "https://www.bbc.com/news/articles/c0e2vqd3j1vo"
+      ]
+    },
+    {
       "headline": "Iran Strikes Kuwait Airport, Killing One as Ceasefire Tested",
       "summary": "Iran launched drone strikes on Kuwait's main airport, killing one person and injuring dozens. Tehran said the attack was retaliation for earlier US strikes on an Iranian oil tanker and island, as Trump stated ceasefire talks are ongoing.",
       "emoji": "🇮🇷🇰🇼",
@@ -164,31 +264,6 @@
       "urls": [
         "https://apnews.com/article/iran-us-israel-lebanon-war-kuwait-ceasefire-3-june-2026-de2d1814c0f38252bf0383be859c870b",
         "https://www.bbc.com/news/articles/c5yx135yg53o"
-      ]
-    },
-    {
-      "headline": "Ukrainian Drones Hit St Petersburg Oil Terminal Ahead of Economic Forum",
-      "summary": "Ukrainian drones struck oil storage facilities near St Petersburg as Putin's flagship economic forum was set to open. The attack comes days before the Russian president is scheduled to address the event.",
-      "emoji": "🇺🇦🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3",
-      "timestamp": "2026-06-03T21:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo",
-          "angle": "Ukrainian Drones Strike St Petersburg Oil Terminal During Putin Economic Forum",
-          "summary": "Ukrainian drones struck oil facilities in St Petersburg, setting an oil terminal ablaze as the city hosts an annual economic forum that Putin is scheduled to address. The attack disrupts Russia's flagship business event."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "BBC"
-      ],
-      "urls": [
-        "https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3",
-        "https://www.bbc.com/news/articles/c0e2vqd3j1vo"
       ]
     },
     {
@@ -471,31 +546,6 @@
       ]
     },
     {
-      "headline": "One killed, dozens wounded in Iranian attack on Kuwait International Airport",
-      "summary": "Iranian drone and missile strikes hit Kuwait's international airport, killing one person and wounding more than 60 others, as regional conflict escalates despite ceasefire negotiations.",
-      "emoji": "🇰🇼",
-      "category": "Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/3/iran-says-deadly-attack-on-kuwait-should-serve-as-a-lesson-for-us",
-      "timestamp": "2026-06-03T18:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3355840/kuwait-airport-hit-iranian-attack",
-          "angle": "Kuwait Airport Hit by Iranian Attack One Killed Dozens Wounded",
-          "summary": "Kuwait reported one person killed and 63 injured after Iranian drone and missile attack damaged airport facilities, forcing flight suspensions amid escalating US-Iran tensions in the Gulf."
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.aljazeera.com/news/2026/6/3/iran-says-deadly-attack-on-kuwait-should-serve-as-a-lesson-for-us",
-        "https://www.scmp.com/news/world/middle-east/article/3355840/kuwait-airport-hit-iranian-attack"
-      ]
-    },
-    {
       "headline": "Ghana passes sweeping law criminalizing LGBTQ+ activity amid public panic",
       "summary": "Ghana has passed a sweeping law criminalizing LGBTQ+ activity, with people panicking over the new restrictions in the West African nation.",
       "emoji": "🇬🇭",
@@ -546,15 +596,6 @@
       ]
     },
     {
-      "headline": "Four Migrant Workers Burned Alive in Italy Car Attack",
-      "summary": "Four migrant workers were reportedly burned alive in their car in Calabria, Italy, in an attack that highlights the widespread exploitation of foreign farm laborers in southern Europe.",
-      "emoji": "🇮🇹",
-      "category": "Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/03/migrant-workers-burned-alive-in-car-in-italy",
-      "timestamp": "2026-06-03T17:03:00+03:00"
-    },
-    {
       "headline": "UK Protests Over Murder Case Turn Violent, 11 Officers Wounded",
       "summary": "Eleven police officers were wounded in Southampton as demonstrators pelted them with rocks and garbage cans during protests over a murder case. British leaders urged calm.",
       "emoji": "🇬🇧",
@@ -571,15 +612,6 @@
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/viktor-orban-ordered-seizure-of-ukrainian-gold-shipment/",
       "timestamp": "2026-06-03T16:00:00+03:00"
-    },
-    {
-      "headline": "Iran Launches New Attacks on Kuwait and Bahrain",
-      "summary": "Iran conducted fresh drone and missile attacks targeting Kuwait and Bahrain as US Central Command conducted self-defense strikes on an Iranian military ground control station on Qeshm Island.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "The War Zone",
-      "url": "https://www.twz.com/iran-launches-new-attacks-on-kuwait-bahrain",
-      "timestamp": "2026-06-03T15:45:00+03:00"
     },
     {
       "headline": "Denmark Gets First Government With Majority Women Ministers",
@@ -1233,6 +1265,31 @@
       "timestamp": "2026-06-02T22:05:00+03:00"
     },
     {
+      "headline": "Iran Reviews US Proposal to Halt War as Trump Says Talks Continue",
+      "summary": "Iran is reviewing a proposed agreement with the US to halt their conflict but has not communicated with Washington for days, while Trump insists negotiations are ongoing. The war has reached a stalemate after three months.",
+      "emoji": "🇮🇷🇺🇸",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-studying-deal-halt-war-stalemate-persists-2026-06-02/",
+      "timestamp": "2026-06-02T22:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97",
+          "angle": "Trump Confirms He Called Netanyahu 'Crazy' Over Iran Peace Talks",
+          "summary": "President Trump acknowledged a heated call with Israeli Prime Minister Benjamin Netanyahu, saying Israel is complicating peace negotiations with Iran and expressing hope to meet with Iran's supreme leader."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/iran-studying-deal-halt-war-stalemate-persists-2026-06-02/",
+        "https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97"
+      ]
+    },
+    {
       "headline": "US Troop Presence in Lithuania Under Review as Baltic States Watch Closely",
       "summary": "Lithuania defense minister said the future US troop presence is \"under review,\" with Washington assuring new rotations but no clarity on timing or strength. The announcement comes amid broader questions about US commitment to European allies.",
       "emoji": "🇱🇹🇺🇸",
@@ -1255,31 +1312,6 @@
       "urls": [
         "https://www.reuters.com/business/aerospace-defense/future-presence-us-troops-lithuania-is-under-review-says-minister-2026-06-02/",
         "https://www.defensenews.com/global/europe/2026/06/02/future-presence-of-us-troops-in-lithuania-is-under-review-says-minister/"
-      ]
-    },
-    {
-      "headline": "Iran Reviews US Proposal to Halt War as Trump Says Talks Continue",
-      "summary": "Iran is reviewing a proposed agreement with the US to halt their conflict but has not communicated with Washington for days, while Trump insists negotiations are ongoing. The war has reached a stalemate after three months.",
-      "emoji": "🇮🇷🇺🇸",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-studying-deal-halt-war-stalemate-persists-2026-06-02/",
-      "timestamp": "2026-06-02T22:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/2/irans-supreme-leader-appears-more-active-as-talks-continue-uss-rubio",
-          "angle": "Iran supreme leader appears more active as nuclear talks continue",
-          "summary": "Secretary of State Marco Rubio told lawmakers that Tehran has agreed to discuss previously off-limits aspects of its nuclear program. The development signals potential progress in stalled negotiations."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/iran-studying-deal-halt-war-stalemate-persists-2026-06-02/",
-        "https://www.aljazeera.com/news/2026/6/2/irans-supreme-leader-appears-more-active-as-talks-continue-uss-rubio"
       ]
     },
     {
