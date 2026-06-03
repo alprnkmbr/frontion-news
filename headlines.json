@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-03T21:04:16+03:00",
+  "lastUpdated": "2026-06-03T22:05:04+03:00",
   "headlines": [
+    {
+      "headline": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
+      "summary": "At least nine people were killed in Israeli strikes on southern Lebanon, including two paramedics whose ambulance was hit, as Hezbollah fired rockets into northern Israel. The violence tests a partial ceasefire agreed on Monday that aimed to halt attacks on Beirut in exchange for Hezbollah refraining from cross-border strikes.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
+      "timestamp": "2026-06-03T22:00:00+03:00"
+    },
+    {
+      "headline": "Trump appoints Bill Pulte as acting US intelligence chief",
+      "summary": "President Donald Trump has appointed businessman and federal housing regulator Bill Pulte as acting Director of National Intelligence, replacing Tulsi Gabbard. Pulte, who has no intelligence experience, faces skepticism from both Republican and Democratic lawmakers over his qualifications for overseeing 18 intelligence agencies including the CIA and NSA.",
+      "emoji": "🇺🇸",
+      "category": "US Politics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/3/doesnt-seem-qualified-who-is-bill-pulte-acting-us-intelligence-chief",
+      "timestamp": "2026-06-03T22:00:00+03:00"
+    },
+    {
+      "headline": "FBI fatally shoots hostage-taker after 12-hour California standoff",
+      "summary": "FBI agents shot and killed a man who had been holding 10 hostages inside a building in Bakersfield, California, ending a 12-hour standoff. All hostages were rescued unharmed. The incident began with a bomb threat at an office housing a bank branch and school district office.",
+      "emoji": "🇺🇸",
+      "category": "US",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/3/fbi-agents-fatally-shoot-alleged-hostage-taker-in-california",
+      "timestamp": "2026-06-03T22:00:00+03:00"
+    },
+    {
+      "headline": "Turkey and Indonesia discuss $10bn trade goal amid defence cooperation",
+      "summary": "Turkish Foreign Minister Hakan Fidan met Indonesian President Prabowo Subianto in Jakarta to discuss expanding cooperation in defence, energy, transportation and halal food sectors. The two countries are working toward a bilateral trade volume target of $10 billion, following an agreement reached in April 2025.",
+      "emoji": "🇹🇷🇮🇩",
+      "category": "Diplomacy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/3/defence-energy-halal-sectors-top-agenda-in-turkiye-indonesia-talks",
+      "timestamp": "2026-06-03T22:00:00+03:00"
+    },
+    {
+      "headline": "US announces new tariffs over forced labour concerns",
+      "summary": "The US announced new tariffs affecting multiple trading partners over forced labour concerns. The move comes after the Supreme Court struck down many of President Trump's previous duties in February.",
+      "emoji": "💰",
+      "category": "Economy",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cq6pe7nvldmo",
+      "timestamp": "2026-06-03T22:00:00+03:00"
+    },
     {
       "headline": "Iran Strikes Kuwait Airport, Killing One as Ceasefire Tested",
       "summary": "Iran launched drone strikes on Kuwait's main airport, killing one person and injuring dozens. Tehran said the attack was retaliation for earlier US strikes on an Iranian oil tanker and island, as Trump stated ceasefire talks are ongoing.",
@@ -8,7 +53,23 @@
       "category": "US-Iran War",
       "source": "AP News",
       "url": "https://apnews.com/article/iran-us-israel-lebanon-war-kuwait-ceasefire-3-june-2026-de2d1814c0f38252bf0383be859c870b",
-      "timestamp": "2026-06-03T21:00:00+03:00"
+      "timestamp": "2026-06-03T21:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c5yx135yg53o",
+          "angle": "Iran Strikes Kuwait Airport as US Hits Qeshm Island in Latest Escalation",
+          "summary": "Iranian drones attacked Kuwait International Airport killing one person, while US forces struck Irans Qeshm Island facility. The escalation comes as diplomatic efforts between Washington and Tehran show little progress."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "BBC"
+      ],
+      "urls": [
+        "https://apnews.com/article/iran-us-israel-lebanon-war-kuwait-ceasefire-3-june-2026-de2d1814c0f38252bf0383be859c870b",
+        "https://www.bbc.com/news/articles/c5yx135yg53o"
+      ]
     },
     {
       "headline": "Ukrainian Drones Hit St Petersburg Oil Terminal Ahead of Economic Forum",
@@ -17,7 +78,23 @@
       "category": "Ukraine-Russia War",
       "source": "AP News",
       "url": "https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3",
-      "timestamp": "2026-06-03T21:00:00+03:00"
+      "timestamp": "2026-06-03T21:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo",
+          "angle": "Ukrainian Drones Strike St Petersburg Oil Terminal During Putin Economic Forum",
+          "summary": "Ukrainian drones struck oil facilities in St Petersburg, setting an oil terminal ablaze as the city hosts an annual economic forum that Putin is scheduled to address. The attack disrupts Russia's flagship business event."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "BBC"
+      ],
+      "urls": [
+        "https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3",
+        "https://www.bbc.com/news/articles/c0e2vqd3j1vo"
+      ]
     },
     {
       "headline": "Three British Navy Personnel Killed in Helicopter Crash During Training",
@@ -44,7 +121,23 @@
       "category": "Africa",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jun/03/mozambique-five-citizens-killed-xenophobic-attacks-south-africa",
-      "timestamp": "2026-06-03T21:00:00+03:00"
+      "timestamp": "2026-06-03T21:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa",
+          "angle": "Mozambique Reports Five Citizens Killed in Xenophobic Attacks in South Africa",
+          "summary": "Mozambique government says five of its citizens were killed in xenophobic violence in neighboring South Africa, amid rising tensions over immigration and economic competition."
+        }
+      ],
+      "sources": [
+        "The Guardian",
+        "The Guardian"
+      ],
+      "urls": [
+        "https://www.theguardian.com/world/2026/jun/03/mozambique-five-citizens-killed-xenophobic-attacks-south-africa",
+        "https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa"
+      ]
     },
     {
       "headline": "China lifts Brazilian beef ban but imposes 55% surtax quota",
@@ -369,31 +462,6 @@
       "timestamp": "2026-06-03T17:03:00+03:00"
     },
     {
-      "headline": "Ukrainian Drones Strike St Petersburg Oil Terminal During Putin Economic Forum",
-      "summary": "Ukrainian drones struck oil facilities in St Petersburg, setting an oil terminal ablaze as the city hosts an annual economic forum that Putin is scheduled to address. The attack disrupts Russia's flagship business event.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo",
-      "timestamp": "2026-06-03T16:04:00+03:00",
-      "perspectives": [
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/06/03/world/europe/ukraine-russia-attack-st-petersburg-putin.html",
-          "angle": "Ukraine Drones Strike St. Petersburg as Putin Opens Economic Forum",
-          "summary": "Ukrainian long-range drones targeted oil storage facilities near Russia's second-largest city on the opening day of Vladimir Putin's flagship St. Petersburg International Economic Forum. The strike came as Zelensky said Ukraine had hit a navy base and oil terminal."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "New York Times"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/c0e2vqd3j1vo",
-        "https://www.nytimes.com/2026/06/03/world/europe/ukraine-russia-attack-st-petersburg-putin.html"
-      ]
-    },
-    {
       "headline": "Orban Ordered Seizure of Ukrainian Gold Shipment",
       "summary": "Hungarian PM Viktor Orban personally ordered the seizure of a Ukrainian bank convoy in retaliation for the suspension of oil transit through the Druzhba pipeline, according to Hungarian media reports.",
       "emoji": "🇭🇺",
@@ -555,31 +623,6 @@
       "source": "Haaretz",
       "url": "https://www.haaretz.com/israel-news/2026-06-03/ty-article-live/trump-netanyahu-lebanon-iran",
       "timestamp": "2026-06-03T14:05:00+03:00"
-    },
-    {
-      "headline": "Iran Strikes Kuwait Airport as US Hits Qeshm Island in Latest Escalation",
-      "summary": "Iranian drones attacked Kuwait International Airport killing one person, while US forces struck Irans Qeshm Island facility. The escalation comes as diplomatic efforts between Washington and Tehran show little progress.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5yx135yg53o",
-      "timestamp": "2026-06-03T14:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c5yx135yg53o",
-          "angle": "US Strikes Iranian Island After Missile Attacks on Kuwait and Bahrain",
-          "summary": "US Central Command launched strikes on Qeshm Island in the Strait of Hormuz after Iran fired missiles at Kuwait and Bahrain. Iranian missiles aimed at Kuwait failed mid-flight while those targeting Bahrain were intercepted. The escalation comes as ceasefire negotiations between the US and Iran have reportedly stalled."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/c5yx135yg53o",
-        "https://www.bbc.com/news/articles/c5yx135yg53o"
-      ]
     },
     {
       "headline": "Far-Right Praise for Shahs Secret Police Puts Reza Pahlavi in Difficult Position",
@@ -760,31 +803,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/solomon-islands-china-security-pact-review-manele-6c1a8b0e4f9d",
       "timestamp": "2026-06-03T08:03:00+03:00"
-    },
-    {
-      "headline": "Mozambique Reports Five Citizens Killed in Xenophobic Attacks in South Africa",
-      "summary": "Mozambique government says five of its citizens were killed in xenophobic violence in neighboring South Africa, amid rising tensions over immigration and economic competition.",
-      "emoji": "🇲🇿🇿🇦",
-      "category": "Africa",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa",
-      "timestamp": "2026-06-03T08:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa",
-          "angle": "Mozambique confirms five citizens killed in South Africa xenophobic attacks",
-          "summary": "Mozambique reports five nationals killed amid anti-immigrant violence in South Africa. South African police confirm two deaths in Mossel Bay as protests sweep the country."
-        }
-      ],
-      "sources": [
-        "The Guardian",
-        "The Guardian"
-      ],
-      "urls": [
-        "https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa",
-        "https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa"
-      ]
     },
     {
       "headline": "Pope Leo Opens Paris Memorial Honoring Rwanda Genocide Victims",
@@ -2875,48 +2893,6 @@
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/eu-officials-keep-dodging-questions-on-ukraines-reforms/",
       "timestamp": "2026-06-01T16:10:00+03:00"
-    },
-    {
-      "headline": "Pro-Trump Candidate De la Espriella Leads Colombia Presidential Race",
-      "summary": "Abelardo de la Espriella won nearly 44% in the first round, capitalizing on voter appetite for hardline crime policies. He will face progressive Sen. Ivan Cepeda in a June 21 runoff.",
-      "emoji": "🇨🇴",
-      "category": "Latin America",
-      "source": "AP News",
-      "url": "https://apnews.com/article/aberaldo-de-la-espriella-trump-colombia-petro-cepeda-election-crime-bukele-643a808af732c35e240949d69171d65f",
-      "timestamp": "2026-06-01T16:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/06/01/nx-s1-5842833/first-round-colombia-presidential-vote",
-          "angle": "Right-Wing Outsider Leads Colombia Presidential Race",
-          "summary": "Tough-on-crime outsider Aberaldo de la Espriella took the lead in Colombias presidential race, setting up a runoff that could shift the countrys political direction away from outgoing President Petros policies."
-        },
-        {
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/world/latin-america/colombia-presidential-election-petro-doubt-rcna347785",
-          "angle": "Pro-Trump Outsider Wins First Round of Colombian Presidential Election",
-          "summary": "Far-right candidate Abelardo de la Espriella won the first round of Colombia's presidential election with 43.7% of the vote. He will face leftist Ivan Cepeda in a runoff that could reshape Colombia's relations with the United States."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "NPR",
-        "NBC News"
-      ],
-      "urls": [
-        "https://apnews.com/article/aberaldo-de-la-espriella-trump-colombia-petro-cepeda-election-crime-bukele-643a808af732c35e240949d69171d65f",
-        "https://www.npr.org/2026/06/01/nx-s1-5842833/first-round-colombia-presidential-vote",
-        "https://www.nbcnews.com/world/latin-america/colombia-presidential-election-petro-doubt-rcna347785"
-      ]
-    },
-    {
-      "headline": "Chinese aircraft carrier Liaoning conducts drills east of Philippines",
-      "summary": "Japan confirms Chinese carrier battle group operated near Philippines with 170 flight operations. Shows expanding Chinese naval reach as US-Philippines ties deepen.",
-      "emoji": "🇨🇳",
-      "category": "Asia-Pacific",
-      "source": "Straits Times",
-      "url": "https://www.straitstimes.com/asia/chinese-aircraft-carrier-held-drills-in-east-of-philippines-japan-says",
-      "timestamp": "2026-06-01T14:05:00+03:00"
     }
   ]
 }
