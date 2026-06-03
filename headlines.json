@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-03T08:05:31+03:00",
+  "lastUpdated": "2026-06-03T08:08:21+03:00",
   "headlines": [
+    {
+      "headline": "St. Petersburg Oil Terminal Hit in Major Ukrainian Drone Attack",
+      "summary": "Ukrainian drones struck one of Russia's largest fuel storage facilities on the same day Putin opened his flagship economic forum, with witnesses reporting massive fires at the port terminal handling 12.5 million tons annually.",
+      "emoji": "🇺🇦💥🛢️",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/st-petersburg-oil-terminal-hit-in-major-ukrainian-attack-day-after-russias-mass-strike-on-kyiv/",
+      "timestamp": "2026-06-03T08:10:00+03:00"
+    },
+    {
+      "headline": "World's Largest Shipping Firm MSC Invests in Ukrainian Port Near Odesa",
+      "summary": "Mediterranean Shipping Company, controlling roughly a fifth of global container traffic, acquired a majority stake in Ukraine's busiest cargo port despite ongoing war risks and proximity to Russian-occupied territories.",
+      "emoji": "🇺🇦🚢💰",
+      "category": "Economy",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/worlds-largest-shipping-firm-invests-in-ukrainian-port-near-odesa-despite-war-risks/",
+      "timestamp": "2026-06-03T08:10:00+03:00"
+    },
+    {
+      "headline": "Israel Opens First Embassy in Fiji, Expanding Pacific Diplomatic Presence",
+      "summary": "Israel established its first embassy in Fiji as part of broader efforts to expand diplomatic footprint in the Pacific region, amid growing competition for influence in the area.",
+      "emoji": "🇮🇱🇫🇯",
+      "category": "Diplomacy",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-06-02/ty-article/.premium/israel-opens-first-embassy-in-fiji-expanding-diplomatic-footprint-in-pacific/0000019e-87c3-d126-a99e-e7c730b50000",
+      "timestamp": "2026-06-03T08:10:00+03:00"
+    },
+    {
+      "headline": "Ethiopia Goes Electric Following Gas Car Ban",
+      "summary": "Ethiopia banned gasoline-powered vehicles, pushing for widespread adoption of electric cars as the African nation seeks to reduce fuel imports and modernize its transportation sector.",
+      "emoji": "🇪🇹⚡🚗",
+      "category": "Africa",
+      "source": "DW",
+      "url": "https://www.dw.com/en/ethiopia-goes-electric-following-gas-car-ban/a-77350158",
+      "timestamp": "2026-06-03T08:10:00+03:00"
+    },
+    {
+      "headline": "India's Cockroach Movement Gives Voice to Angry Youth",
+      "summary": "A grassroots movement in India is channeling youth frustration over unemployment and economic inequality, with protesters adopting the cockroach as a symbol of resilience against systemic corruption.",
+      "emoji": "🇮🇳🐜",
+      "category": "South Asia",
+      "source": "DW",
+      "url": "https://www.dw.com/en/cockroach-movement-gives-voice-to-indias-angry-youth/a-77391629",
+      "timestamp": "2026-06-03T08:10:00+03:00"
+    },
     {
       "headline": "Solomon Islands New PM Vows to Review Secretive China Security Pact",
       "summary": "Newly elected Prime Minister Jeremiah Manele announced his government will review a controversial security agreement with China, signaling potential shift in Pacific alliances amid US-China competition.",
@@ -20,22 +65,29 @@
       "timestamp": "2026-06-03T08:03:00+03:00"
     },
     {
-      "headline": "Trump Proposes 25% Tariffs on Brazil Despite US Trade Surplus",
-      "summary": "The Trump administration claims Brazil engages in unreasonable trade practices that restrict US commerce, proposing significant tariffs despite the US maintaining a trade surplus with Brazil.",
-      "emoji": "🇺🇸🇧🇷💰",
-      "category": "Economy",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jun/02/trump-tariffs-brazil-trade-surplus",
-      "timestamp": "2026-06-03T08:03:00+03:00"
-    },
-    {
       "headline": "Mozambique Reports Five Citizens Killed in Xenophobic Attacks in South Africa",
       "summary": "Mozambique government says five of its citizens were killed in xenophobic violence in neighboring South Africa, amid rising tensions over immigration and economic competition.",
       "emoji": "🇲🇿🇿🇦",
       "category": "Africa",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa",
-      "timestamp": "2026-06-03T08:03:00+03:00"
+      "timestamp": "2026-06-03T08:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa",
+          "angle": "Mozambique confirms five citizens killed in South Africa xenophobic attacks",
+          "summary": "Mozambique reports five nationals killed amid anti-immigrant violence in South Africa. South African police confirm two deaths in Mossel Bay as protests sweep the country."
+        }
+      ],
+      "sources": [
+        "The Guardian",
+        "The Guardian"
+      ],
+      "urls": [
+        "https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa",
+        "https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa"
+      ]
     },
     {
       "headline": "Pope Leo Opens Paris Memorial Honoring Rwanda Genocide Victims",
@@ -431,15 +483,6 @@
       "timestamp": "2026-06-03T00:03:00+03:00"
     },
     {
-      "headline": "Mozambique confirms five citizens killed in South Africa xenophobic attacks",
-      "summary": "Mozambique reports five nationals killed amid anti-immigrant violence in South Africa. South African police confirm two deaths in Mossel Bay as protests sweep the country.",
-      "emoji": "🇲🇿",
-      "category": "Africa",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/02/mozambique-citizens-killed-xenophobic-attacks-south-africa",
-      "timestamp": "2026-06-03T00:03:00+03:00"
-    },
-    {
       "headline": "US-China Tech Truce Remains Fragile Amid Deep Differences",
       "summary": "Secretary of State Rubio emphasizes continued dialogue with Beijing despite unresolved tensions over chip exports and technology restrictions.",
       "emoji": "🇨🇳🇺🇸",
@@ -777,19 +820,19 @@
       "timestamp": "2026-06-02T19:15:00+03:00",
       "perspectives": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/americas/article/3355750/us-proposes-25-percent-tariff-brazil-trade-practices",
-          "angle": "US Proposes 25% Tariff to Punish Brazil Over Trade Practices",
-          "summary": "The US plans new 25% tariffs on Brazilian imports citing issues including deforestation and digital trade practices, as Brazil seeks stable fertilizer supply amid the US-Iran conflict."
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/jun/02/trump-tariffs-brazil-trade-surplus",
+          "angle": "Trump Proposes 25% Tariffs on Brazil Despite US Trade Surplus",
+          "summary": "The Trump administration claims Brazil engages in unreasonable trade practices that restrict US commerce, proposing significant tariffs despite the US maintaining a trade surplus with Brazil."
         }
       ],
       "sources": [
         "AP News",
-        "SCMP"
+        "The Guardian"
       ],
       "urls": [
         "https://apnews.com/article/eeuu-brasil-aranceles-27437d9bd39fc111631b7fd9fe18d043",
-        "https://www.scmp.com/news/world/americas/article/3355750/us-proposes-25-percent-tariff-brazil-trade-practices"
+        "https://www.theguardian.com/us-news/2026/jun/02/trump-tariffs-brazil-trade-surplus"
       ]
     },
     {
@@ -2850,65 +2893,6 @@
         "https://www.reuters.com/world/middle-east/syrias-sharaa-holds-phone-call-with-trump-syrian-presidency-says-2026-05-31/",
         "https://www.trtworld.com/article/7522071bb426"
       ]
-    },
-    {
-      "headline": "Japan rejects Chinese accusations of new militarism",
-      "summary": "Defense Minister Shinjiro Koizumi pushed back against Chinas criticism of Japans defense buildup, saying Tokyo is not pursuing militarism while Beijing rapidly arms itself.",
-      "emoji": "🇯🇵🇨🇳",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/japan-pushes-back-against-accusations-new-militarism-2026-05-31/",
-      "timestamp": "2026-06-01T04:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/japan-pushes-back-against-accusations-new-militarism-2026-05-31/",
-          "angle": "Japan rejects Chinese accusations of new militarism, cites Beijings rapid arms buildup",
-          "summary": "Tokyo pushed back against Chinese criticism of its defense policies, accusing China of being the true driver of military expansion in Asia-Pacific."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/japan-pushes-back-against-accusations-new-militarism-2026-05-31/",
-        "https://www.reuters.com/world/china/japan-pushes-back-against-accusations-new-militarism-2026-05-31/"
-      ]
-    },
-    {
-      "headline": "South Korea and Japan discuss military logistics support deal",
-      "summary": "Seoul confirmed ongoing discussions with Tokyo about a potential military logistics support agreement as both US allies deepen defense cooperation amid regional security concerns.",
-      "emoji": "🇰🇷🇯🇵",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/south-korea-japan-discuss-military-logistics-support-deal-seoul-says-2026-05-31/",
-      "timestamp": "2026-06-01T04:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/south-korea-japan-discuss-military-logistics-support-deal-seoul-says-2026-05-31/",
-          "angle": "South Korea and Japan Discuss Military Logistics Support Agreement",
-          "summary": "South Korea and Japan discussed a potential military-logistics support agreement at the Shangri-La Dialogue, though Seoul remains cautious about the politically sensitive pact."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/south-korea-japan-discuss-military-logistics-support-deal-seoul-says-2026-05-31/",
-        "https://www.reuters.com/world/asia-pacific/south-korea-japan-discuss-military-logistics-support-deal-seoul-says-2026-05-31/"
-      ]
-    },
-    {
-      "headline": "Moldova Orthodox Church Patriarch Resigns Amid Geopolitical Divide",
-      "summary": "The patriarch of one of Moldova's two competing Orthodox churches resigned, a split that exposes the country's divisions between pro-European and pro-Russian orientations. A successor is to be appointed later this week.",
-      "emoji": "🇲🇩",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/patriarch-one-moldovas-two-competing-churches-steps-down-2026-05-31/",
-      "timestamp": "2026-06-01T03:00:00+03:00"
     }
   ]
 }
