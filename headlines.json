@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-06-03T20:04:55+03:00",
+  "lastUpdated": "2026-06-03T21:04:16+03:00",
   "headlines": [
     {
-      "headline": "Kenya to proceed with US Ebola quarantine center despite protests",
-      "summary": "Kenya health minister confirms the US-funded Ebola quarantine center will move forward amid local opposition. The facility is part of broader US-Kenya health security cooperation.",
-      "emoji": "🇰🇪",
+      "headline": "Iran Strikes Kuwait Airport, Killing One as Ceasefire Tested",
+      "summary": "Iran launched drone strikes on Kuwait's main airport, killing one person and injuring dozens. Tehran said the attack was retaliation for earlier US strikes on an Iranian oil tanker and island, as Trump stated ceasefire talks are ongoing.",
+      "emoji": "🇮🇷🇰🇼",
+      "category": "US-Iran War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-israel-lebanon-war-kuwait-ceasefire-3-june-2026-de2d1814c0f38252bf0383be859c870b",
+      "timestamp": "2026-06-03T21:00:00+03:00"
+    },
+    {
+      "headline": "Ukrainian Drones Hit St Petersburg Oil Terminal Ahead of Economic Forum",
+      "summary": "Ukrainian drones struck oil storage facilities near St Petersburg as Putin's flagship economic forum was set to open. The attack comes days before the Russian president is scheduled to address the event.",
+      "emoji": "🇺🇦🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3",
+      "timestamp": "2026-06-03T21:00:00+03:00"
+    },
+    {
+      "headline": "Three British Navy Personnel Killed in Helicopter Crash During Training",
+      "summary": "An investigation is underway after three British navy personnel died in a helicopter crash during a training exercise near Sourton in Devon, England.",
+      "emoji": "🇬🇧✈️",
+      "category": "Europe",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/3/three-british-navy-personnel-killed-in-helicopter-crash-in-england",
+      "timestamp": "2026-06-03T21:00:00+03:00"
+    },
+    {
+      "headline": "DRC Ebola Outbreak May Have Started as Early as January, WHO Says",
+      "summary": "WHO chief Tedros Adhanom Ghebreyesus said the Ebola virus 'had a big head start' in the Democratic Republic of Congo, with the outbreak potentially beginning months ago. The virus is spreading across borders.",
+      "emoji": "🦠🇨🇩",
       "category": "Africa",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/africa/article/3355870/kenya-health-minister-says-us-ebola-quarantine-centre-will-proceed",
-      "timestamp": "2026-06-03T20:04:00+03:00"
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says",
+      "timestamp": "2026-06-03T21:00:00+03:00"
+    },
+    {
+      "headline": "Mozambique Says Five Citizens Killed in Xenophobic Attacks in South Africa",
+      "summary": "Mozambique reported that five of its citizens were killed in xenophobic attacks in South Africa, highlighting ongoing regional tensions over migration and violence.",
+      "emoji": "🇲🇿🇿🇦",
+      "category": "Africa",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/03/mozambique-five-citizens-killed-xenophobic-attacks-south-africa",
+      "timestamp": "2026-06-03T21:00:00+03:00"
     },
     {
       "headline": "China lifts Brazilian beef ban but imposes 55% surtax quota",
@@ -17,7 +53,23 @@
       "category": "Economy",
       "source": "SCMP",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3355752/china-clears-brazilian-beef-foot-and-mouth-disease-quota-limits-profits",
-      "timestamp": "2026-06-03T20:04:00+03:00"
+      "timestamp": "2026-06-03T20:04:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/china-economy/article/3355698/australian-beef-will-soon-be-hit-by-55-tariff-china-ministry-says",
+          "angle": "China to Impose 55% Tariff on Australian Beef as Imports Exceed Quota",
+          "summary": "Chinese imports of Australian beef are about to surpass a safeguard quota Beijing introduced to protect domestic farmers, triggering the tariff increase."
+        }
+      ],
+      "sources": [
+        "SCMP",
+        "SCMP"
+      ],
+      "urls": [
+        "https://www.scmp.com/news/china/diplomacy/article/3355752/china-clears-brazilian-beef-foot-and-mouth-disease-quota-limits-profits",
+        "https://www.scmp.com/economy/china-economy/article/3355698/australian-beef-will-soon-be-hit-by-55-tariff-china-ministry-says"
+      ]
     },
     {
       "headline": "US urges Europe and Canada to strengthen NATO air and naval forces",
@@ -1018,15 +1070,6 @@
       "timestamp": "2026-06-02T22:05:00+03:00"
     },
     {
-      "headline": "China to Impose 55% Tariff on Australian Beef as Imports Exceed Quota",
-      "summary": "Chinese imports of Australian beef are about to surpass a safeguard quota Beijing introduced to protect domestic farmers, triggering the tariff increase.",
-      "emoji": "🇨🇳🇦🇺",
-      "category": "Economy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/economy/china-economy/article/3355698/australian-beef-will-soon-be-hit-by-55-tariff-china-ministry-says",
-      "timestamp": "2026-06-02T22:05:00+03:00"
-    },
-    {
       "headline": "Somalia Security Operations Kill 28 al-Shabaab Militants",
       "summary": "Coordinated operations in Hiran and Middle Shabelle regions targeted gathering places of the terrorist group, continuing efforts against the Islamist insurgency.",
       "emoji": "🇸🇴",
@@ -1542,19 +1585,19 @@
       "timestamp": "2026-06-02T15:03:00+03:00",
       "perspectives": [
         {
-          "source": "Washington Post",
-          "url": "https://www.washingtonpost.com/world/2026/06/02/kenya-ebola-us-hospital-court/",
-          "angle": "Kenya court extends order blocking US Ebola quarantine facility",
-          "summary": "A Kenyan court extended for seven days its order stopping the opening of a US field hospital intended to isolate Americans exposed to Ebola. Residents protested the facility in a country with no known Ebola cases."
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/africa/article/3355870/kenya-health-minister-says-us-ebola-quarantine-centre-will-proceed",
+          "angle": "Kenya to proceed with US Ebola quarantine center despite protests",
+          "summary": "Kenya health minister confirms the US-funded Ebola quarantine center will move forward amid local opposition. The facility is part of broader US-Kenya health security cooperation."
         }
       ],
       "sources": [
         "Reuters",
-        "Washington Post"
+        "SCMP"
       ],
       "urls": [
         "https://www.reuters.com/business/healthcare-pharmaceuticals/kenyas-president-defends-planned-us-backed-ebola-quarantine-facility-2026-06-02/",
-        "https://www.washingtonpost.com/world/2026/06/02/kenya-ebola-us-hospital-court/"
+        "https://www.scmp.com/news/world/africa/article/3355870/kenya-health-minister-says-us-ebola-quarantine-centre-will-proceed"
       ]
     },
     {
@@ -2874,33 +2917,6 @@
       "source": "Straits Times",
       "url": "https://www.straitstimes.com/asia/chinese-aircraft-carrier-held-drills-in-east-of-philippines-japan-says",
       "timestamp": "2026-06-01T14:05:00+03:00"
-    },
-    {
-      "headline": "EU foreign policy chief Kallas urges continued US-Iran negotiations",
-      "summary": "EU calls for sustained dialogue between Washington and Tehran while acknowledging Pakistan mediation role. Diplomacy continues alongside ongoing military exchanges.",
-      "emoji": "🇪🇺",
-      "category": "Diplomacy",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/europe/eus-kallas-urges-continuation-of-us-iran-talks-praises-pakistans-mediation-role/3952939",
-      "timestamp": "2026-06-01T14:05:00+03:00"
-    },
-    {
-      "headline": "US-China strategic reset reshapes Quad into secondary role",
-      "summary": "Analysis: Trump-Xi acknowledgment of strategic parity sidelines Quad as US focuses on direct China management. India relegated to back-office role for US tech firms.",
-      "emoji": "🌏",
-      "category": "Geopolitics",
-      "source": "Jakarta Post",
-      "url": "https://www.thejakartapost.com/opinion/2026/06/01/how-the-us-china-reset-recasts-the-quad.html",
-      "timestamp": "2026-06-01T14:05:00+03:00"
-    },
-    {
-      "headline": "African Development Bank to become top shareholder in continental guarantee platform",
-      "summary": "The AfDB will become the largest shareholder of ATIDI, tripling annual guarantee volumes to boost de-risking efforts across Africa. The move aims to accelerate investment and economic development on the continent.",
-      "emoji": "🇦🇫",
-      "category": "Africa",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/africa/afdb-become-top-shareholder-africa-guarantee-platform-boost-derisking-push-2026-06-01/",
-      "timestamp": "2026-06-01T14:03:00+03:00"
     }
   ]
 }
