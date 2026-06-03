@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-03T16:04:47+03:00",
+  "lastUpdated": "2026-06-03T16:08:17+03:00",
   "headlines": [
+    {
+      "headline": "Orban Ordered Seizure of Ukrainian Gold Shipment",
+      "summary": "Hungarian PM Viktor Orban personally ordered the seizure of a Ukrainian bank convoy in retaliation for the suspension of oil transit through the Druzhba pipeline, according to Hungarian media reports.",
+      "emoji": "🇭🇺",
+      "category": "Europe",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/viktor-orban-ordered-seizure-of-ukrainian-gold-shipment/",
+      "timestamp": "2026-06-03T16:00:00+03:00"
+    },
+    {
+      "headline": "Iran Launches New Attacks on Kuwait and Bahrain",
+      "summary": "Iran conducted fresh drone and missile attacks targeting Kuwait and Bahrain as US Central Command conducted self-defense strikes on an Iranian military ground control station on Qeshm Island.",
+      "emoji": "🇮🇷",
+      "category": "US-Iran War",
+      "source": "The War Zone",
+      "url": "https://www.twz.com/iran-launches-new-attacks-on-kuwait-bahrain",
+      "timestamp": "2026-06-03T15:45:00+03:00"
+    },
+    {
+      "headline": "Denmark Gets First Government With Majority Women Ministers",
+      "summary": "For the first time in Danish history, the new cabinet will consist of more women than men as the PM presents a new government coalition.",
+      "emoji": "🇩🇰",
+      "category": "Europe",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/europe/article/3355836/denmark-pm-presents-new-government-majority-women",
+      "timestamp": "2026-06-03T15:30:00+03:00"
+    },
+    {
+      "headline": "US May Consider Placing Nuclear Weapons in Poland and Baltic States",
+      "summary": "While discussions are ongoing, an agreement to expand US nuclear hosting was not imminent, according to an unnamed source cited by the Financial Times.",
+      "emoji": "☢️",
+      "category": "Defense Industry",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/global/europe/2026/06/02/us-may-consider-placing-nukes-in-poland-baltic-states/",
+      "timestamp": "2026-06-03T15:15:00+03:00"
+    },
+    {
+      "headline": "Ukraine Strikes Russian Warship at Baltic Fleet Base",
+      "summary": "Ukraines Unmanned Systems Forces released footage of drones striking a Russian warship armed with guided missiles at the Kronstadt naval base near St Petersburg.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/ukraine-strikes-russian-warship-baltic-fleet/",
+      "timestamp": "2026-06-03T15:00:00+03:00"
+    },
     {
       "headline": "Ukrainian Drones Strike St Petersburg Oil Terminal During Putin Economic Forum",
       "summary": "Ukrainian drones struck oil facilities in St Petersburg, setting an oil terminal ablaze as the city hosts an annual economic forum that Putin is scheduled to address. The attack disrupts Russia's flagship business event.",
@@ -8,7 +53,23 @@
       "category": "Ukraine-Russia War",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo",
-      "timestamp": "2026-06-03T16:04:00+03:00"
+      "timestamp": "2026-06-03T16:04:00+03:00",
+      "perspectives": [
+        {
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/06/03/world/europe/ukraine-russia-attack-st-petersburg-putin.html",
+          "angle": "Ukraine Strikes St Petersburg During Putin Economic Forum",
+          "summary": "Ukrainian drones targeted energy and military sites in St Petersburg on the opening day of Russias flagship economic forum. Zelenskyy said Ukraine hit a navy base and oil terminal near Russias second-largest city."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "New York Times"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/c0e2vqd3j1vo",
+        "https://www.nytimes.com/2026/06/03/world/europe/ukraine-russia-attack-st-petersburg-putin.html"
+      ]
     },
     {
       "headline": "Israeli Airstrikes Hit Southern Lebanon Despite Partial Ceasefire With Hezbollah",
@@ -17,16 +78,31 @@
       "category": "Middle East",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c936zvne0l6o",
-      "timestamp": "2026-06-03T16:04:00+03:00"
-    },
-    {
-      "headline": "Trump Appoints Bill Pulte as Acting US Intelligence Chief",
-      "summary": "President Trump named Bill Pulte, head of the Federal Housing Finance Agency who pushed for criminal charges against Trump's opponents, as acting Director of National Intelligence. The appointment raises concerns about politicization of intelligence.",
-      "emoji": "🇺🇸",
-      "category": "US Politics",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cyv2dpyz3dpo",
-      "timestamp": "2026-06-03T16:04:00+03:00"
+      "timestamp": "2026-06-03T16:04:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c936zvne0l6o",
+          "angle": "Israel Strikes Southern Lebanon Despite Partial Hezbollah Truce",
+          "summary": "Israel continues military operations in southern Lebanon though a partial ceasefire brokered by the US appears to be holding in Beirut. The conflict enters its third month with no clear diplomatic resolution in sight."
+        },
+        {
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/06/01/world/middleeast/un-security-council-lebanon.html",
+          "angle": "UN Security Council Demands Israeli Withdrawal From Southern Lebanon",
+          "summary": "Council members called for Israel to pull out of southern Lebanon after Israel threatened to attack southern Beirut. Trump announced a limited ceasefire between Hezbollah and Israel."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC",
+        "New York Times"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/c936zvne0l6o",
+        "https://www.bbc.com/news/articles/c936zvne0l6o",
+        "https://www.nytimes.com/2026/06/01/world/middleeast/un-security-council-lebanon.html"
+      ]
     },
     {
       "headline": "Seven Killed as Drone Strikes Bus in Russian-Controlled Crimea",
@@ -199,31 +275,6 @@
       ]
     },
     {
-      "headline": "Ukraine Strikes St Petersburg During Putin Economic Forum",
-      "summary": "Ukrainian drones targeted energy and military sites in St Petersburg on the opening day of Russias flagship economic forum. Zelenskyy said Ukraine hit a navy base and oil terminal near Russias second-largest city.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/03/world/europe/ukraine-russia-attack-st-petersburg-putin.html",
-      "timestamp": "2026-06-03T14:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/st-petersburg-oil-terminal-hit-in-major-ukrainian-attack-day-after-russias-mass-strike-on-kyiv/",
-          "angle": "Ukraine Strikes St. Petersburg Oil Terminal on Putin Economic Forum Opening Day",
-          "summary": "Ukrainian forces attacked a major oil terminal in St. Petersburg, coinciding with the opening of Putin's International Economic Forum, demonstrating Ukraine's ability to strike deep into Russian territory."
-        }
-      ],
-      "sources": [
-        "New York Times",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://www.nytimes.com/2026/06/03/world/europe/ukraine-russia-attack-st-petersburg-putin.html",
-        "https://kyivindependent.com/st-petersburg-oil-terminal-hit-in-major-ukrainian-attack-day-after-russias-mass-strike-on-kyiv/"
-      ]
-    },
-    {
       "headline": "Far-Right Praise for Shahs Secret Police Puts Reza Pahlavi in Difficult Position",
       "summary": "The son of Irans deposed shah is being forced to distance himself from the once-dreaded Savak secret police as some of his supporters glorify it. The issue highlights tensions within Irans opposition movement.",
       "emoji": "🇮🇷",
@@ -389,31 +440,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/6/3/is-the-great-nicobar-island-indias-hormuz-like-chokepoint-against-china",
       "timestamp": "2026-06-03T12:03:00+03:00"
-    },
-    {
-      "headline": "Israel Strikes Southern Lebanon Despite Partial Hezbollah Truce",
-      "summary": "Israel continues military operations in southern Lebanon though a partial ceasefire brokered by the US appears to be holding in Beirut. The conflict enters its third month with no clear diplomatic resolution in sight.",
-      "emoji": "🇮🇱🇱🇧",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c936zvne0l6o",
-      "timestamp": "2026-06-03T11:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c936zvne0l6o",
-          "angle": "Israel strikes southern Lebanon but partial truce with Hezbollah holds",
-          "summary": "Israel continued operations in southern Lebanon but refrained from striking Beirut after the US announced a partial ceasefire deal. The fragile truce comes amid ongoing tensions between Israel and Hezbollah."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/c936zvne0l6o",
-        "https://www.bbc.com/news/articles/c936zvne0l6o"
-      ]
     },
     {
       "headline": "US May Place Nuclear Weapons in Poland or Baltic States, Report Says",
@@ -1072,19 +1098,19 @@
       "timestamp": "2026-06-02T20:03:00+03:00",
       "perspectives": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/us/diplomacy/article/3355746/trump-taps-housing-regulator-bill-pulte-acting-intelligence-chief",
-          "angle": "Trump appoints housing regulator Bill Pulte as acting US intelligence chief",
-          "summary": "President Trump named Bill Pulte, head of the Federal Housing Finance Agency, as acting director overseeing 18 intelligence agencies. Pulte has no known intelligence experience."
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cyv2dpyz3dpo",
+          "angle": "Trump Appoints Bill Pulte as Acting US Intelligence Chief",
+          "summary": "President Trump named Bill Pulte, head of the Federal Housing Finance Agency who pushed for criminal charges against Trump's opponents, as acting Director of National Intelligence. The appointment raises concerns about politicization of intelligence."
         }
       ],
       "sources": [
         "AP News",
-        "SCMP"
+        "BBC"
       ],
       "urls": [
         "https://apnews.com/article/trump-pulte-gabbard-national-intelligence-281fd6ba9992487dc701768803f9c475",
-        "https://www.scmp.com/news/us/diplomacy/article/3355746/trump-taps-housing-regulator-bill-pulte-acting-intelligence-chief"
+        "https://www.bbc.com/news/articles/cyv2dpyz3dpo"
       ]
     },
     {
@@ -1851,15 +1877,6 @@
         "https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/",
         "https://www.reuters.com/world/frances-macron-says-french-navy-boarded-russia-linked-oil-tanker-2026-06-01/"
       ]
-    },
-    {
-      "headline": "UN Security Council Demands Israeli Withdrawal From Southern Lebanon",
-      "summary": "Council members called for Israel to pull out of southern Lebanon after Israel threatened to attack southern Beirut. Trump announced a limited ceasefire between Hezbollah and Israel.",
-      "emoji": "🇱🇧🇮🇱🇺🇳",
-      "category": "Middle East",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/01/world/middleeast/un-security-council-lebanon.html",
-      "timestamp": "2026-06-02T06:05:00+03:00"
     },
     {
       "headline": "Zelenskiy Aide Sees Realistic Chance of Peace Deal by Winter",
