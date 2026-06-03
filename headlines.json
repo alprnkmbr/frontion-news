@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-03T14:05:01+03:00",
+  "lastUpdated": "2026-06-03T14:06:54+03:00",
   "headlines": [
+    {
+      "headline": "US Troop Presence in Lithuania Under Review as Defense Minister Questions Commitment",
+      "summary": "Lithuanian Defense Minister Robertas Kaunas said the next scheduled US troop deployment remains under review amid changing US force posture in Europe, raising concerns about regional security commitments.",
+      "emoji": "🇱🇹🇺🇸",
+      "category": "Europe",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/global/europe/2026/06/02/future-presence-of-us-troops-in-lithuania-is-under-review-says-minister/",
+      "timestamp": "2026-06-03T14:05:00+03:00"
+    },
+    {
+      "headline": "France Restricts Israeli Presence at Europes Biggest Defense Show Amid Lebanon Tensions",
+      "summary": "France imposed restrictions on Israeli participation at Eurosatory defense exhibition, the largest in Europe, amid strained relations over Israels military operations in Lebanon.",
+      "emoji": "🇫🇷🇮🇱",
+      "category": "Defense Industry",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/global/europe/2026/06/02/france-restricts-israeli-presence-at-europes-biggest-defense-show/",
+      "timestamp": "2026-06-03T14:05:00+03:00"
+    },
+    {
+      "headline": "Kuwait Airport Hit by Iranian Attack One Killed Dozens Wounded",
+      "summary": "Kuwait reported one person killed and 63 injured after Iranian drone and missile attack damaged airport facilities, forcing flight suspensions amid escalating US-Iran tensions in the Gulf.",
+      "emoji": "🇰🇼🇮🇷",
+      "category": "Middle East",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/world/middle-east/article/3355840/kuwait-airport-hit-iranian-attack",
+      "timestamp": "2026-06-03T14:05:00+03:00"
+    },
+    {
+      "headline": "Trump Called Netanyahu Fucking Crazy in Heated Lebanon Phone Call",
+      "summary": "US President Donald Trump confirmed he called Israeli Prime Minister Benjamin Netanyahu \"fucking crazy\" during a heated phone conversation over Lebanon policy, exposing growing strain between the allies.",
+      "emoji": "🇺🇸🇮🇱",
+      "category": "US Politics",
+      "source": "Haaretz",
+      "url": "https://www.haaretz.com/israel-news/2026-06-03/ty-article-live/trump-netanyahu-lebanon-iran",
+      "timestamp": "2026-06-03T14:05:00+03:00"
+    },
+    {
+      "headline": "Norway Joins French Nuclear Deterrence Program as Trust in US Falters",
+      "summary": "Norway became the ninth country to sign up for French nuclear deterrence consultations, reflecting growing European concerns about reliability of US security commitments amid geopolitical shifts.",
+      "emoji": "🇳🇴🇫🇷",
+      "category": "Europe",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/global/europe/2026/06/01/norway-joins-french-nuclear-deterrence/",
+      "timestamp": "2026-06-03T14:05:00+03:00"
+    },
     {
       "headline": "Iran Strikes Kuwait Airport as US Hits Qeshm Island in Latest Escalation",
       "summary": "Iranian drones attacked Kuwait International Airport killing one person, while US forces struck Irans Qeshm Island facility. The escalation comes as diplomatic efforts between Washington and Tehran show little progress.",
@@ -8,7 +53,23 @@
       "category": "US-Iran War",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c5yx135yg53o",
-      "timestamp": "2026-06-03T14:03:00+03:00"
+      "timestamp": "2026-06-03T14:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c5yx135yg53o",
+          "angle": "US Strikes Iranian Island After Missile Attacks on Kuwait and Bahrain",
+          "summary": "US Central Command launched strikes on Qeshm Island in the Strait of Hormuz after Iran fired missiles at Kuwait and Bahrain. Iranian missiles aimed at Kuwait failed mid-flight while those targeting Bahrain were intercepted. The escalation comes as ceasefire negotiations between the US and Iran have reportedly stalled."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/c5yx135yg53o",
+        "https://www.bbc.com/news/articles/c5yx135yg53o"
+      ]
     },
     {
       "headline": "Ukraine Strikes St Petersburg During Putin Economic Forum",
@@ -17,7 +78,23 @@
       "category": "Ukraine-Russia War",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/06/03/world/europe/ukraine-russia-attack-st-petersburg-putin.html",
-      "timestamp": "2026-06-03T14:03:00+03:00"
+      "timestamp": "2026-06-03T14:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/st-petersburg-oil-terminal-hit-in-major-ukrainian-attack-day-after-russias-mass-strike-on-kyiv/",
+          "angle": "Ukraine Strikes St. Petersburg Oil Terminal on Putin Economic Forum Opening Day",
+          "summary": "Ukrainian forces attacked a major oil terminal in St. Petersburg, coinciding with the opening of Putin's International Economic Forum, demonstrating Ukraine's ability to strike deep into Russian territory."
+        }
+      ],
+      "sources": [
+        "New York Times",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://www.nytimes.com/2026/06/03/world/europe/ukraine-russia-attack-st-petersburg-putin.html",
+        "https://kyivindependent.com/st-petersburg-oil-terminal-hit-in-major-ukrainian-attack-day-after-russias-mass-strike-on-kyiv/"
+      ]
     },
     {
       "headline": "Far-Right Praise for Shahs Secret Police Puts Reza Pahlavi in Difficult Position",
@@ -242,31 +319,6 @@
         "https://www.bbc.com/news/articles/cp3peyykxd5o",
         "https://www.bbc.com/news/articles/cy7v9y5vxv0o",
         "https://www.nytimes.com/2026/06/02/world/europe/ukraine-russia-war-strikes.html"
-      ]
-    },
-    {
-      "headline": "Ukraine Strikes St. Petersburg Oil Terminal on Putin Economic Forum Opening Day",
-      "summary": "Ukrainian forces attacked a major oil terminal in St. Petersburg, coinciding with the opening of Putin's International Economic Forum, demonstrating Ukraine's ability to strike deep into Russian territory.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/st-petersburg-oil-terminal-hit-in-major-ukrainian-attack-day-after-russias-mass-strike-on-kyiv/",
-      "timestamp": "2026-06-03T10:06:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/ukraine-strikes-russias-ilsky-oil-refinery-for-at-least-16th-time-since-start-of-full-scale-war/",
-          "angle": "Ukraine Strikes Russias Ilsky Oil Refinery for 16th Time",
-          "summary": "Ukrainian forces have struck the Ilsky oil refinery in southern Russia, one of the largest in the region located 500km from Ukrainian-controlled territory, as part of ongoing campaign targeting Russian energy infrastructure."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://kyivindependent.com/st-petersburg-oil-terminal-hit-in-major-ukrainian-attack-day-after-russias-mass-strike-on-kyiv/",
-        "https://kyivindependent.com/ukraine-strikes-russias-ilsky-oil-refinery-for-at-least-16th-time-since-start-of-full-scale-war/"
       ]
     },
     {
@@ -513,39 +565,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/trump-ai-executive-order-e41af74f7b0865482f07d10fe7a50fe3",
       "timestamp": "2026-06-03T06:05:00+03:00"
-    },
-    {
-      "headline": "US Strikes Iranian Island After Missile Attacks on Kuwait and Bahrain",
-      "summary": "US Central Command launched strikes on Qeshm Island in the Strait of Hormuz after Iran fired missiles at Kuwait and Bahrain. Iranian missiles aimed at Kuwait failed mid-flight while those targeting Bahrain were intercepted. The escalation comes as ceasefire negotiations between the US and Iran have reportedly stalled.",
-      "emoji": "⚔️",
-      "category": "US-Iran War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5yx135yg53o",
-      "timestamp": "2026-06-03T05:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain",
-          "angle": "US Strikes Qeshm Island as Iran Targets Kuwait and Bahrain",
-          "summary": "The US military conducted \"self-defense\" strikes on Iran's Qeshm Island while Tehran launched attacks targeting Kuwait and Bahrain, which were either shot down or failed. The escalation comes as ceasefire negotiations remain stalled."
-        },
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/world",
-          "angle": "US Strikes Qeshm Island as Iran-Israel Tensions Escalate",
-          "summary": "The US military conducted strikes on Irans Qeshm Island in the Strait of Hormuz, while defending Kuwait and Bahrain from Iranian missile attacks amid stalled ceasefire negotiations."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "Al Jazeera",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/c5yx135yg53o",
-        "https://www.aljazeera.com/video/newsfeed/2026/6/3/us-says-it-attacked-irans-qeshm-island-tehran-targets-kuwait-bahrain",
-        "https://www.bbc.com/news/world"
-      ]
     },
     {
       "headline": "Iranian Inflation Reaches 77%, Highest Since World War II",
@@ -2802,65 +2821,6 @@
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-06-01/philippine-senator-faces-second-arrest-order-over-graft-scandal",
       "timestamp": "2026-06-01T10:03:00+03:00"
-    },
-    {
-      "headline": "Markets Rise as US-Iran Exchange Fire But Keep Negotiating",
-      "summary": "Oil prices climbed as investors weighed renewed US-Iran military strikes against signs both sides remain engaged in negotiations. Markets view continued diplomacy positively despite escalation.",
-      "emoji": "📈",
-      "category": "Economy",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/01/business/oil-gas-price-iran.html",
-      "timestamp": "2026-06-01T10:03:00+03:00"
-    },
-    {
-      "headline": "Trump Says Iran 'Really Wants' a Deal as Both Sides Exchange Fresh Strikes",
-      "summary": "President Trump expressed optimism about reaching an agreement with Iran, saying Tehran 'really wants to make a deal' that would be good for the US and its allies. Meanwhile, both sides continued to exchange strikes, with Iran targeting a US base in Kuwait and the US hitting Iranian military sites.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/trump-says-iran-really-wants-make-deal-with-us-2026-06-01/",
-      "timestamp": "2026-06-01T09:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c936zvne0l6o",
-          "angle": "US and Iran Exchange New Strikes as Ceasefire Talks Stall",
-          "summary": "The US military struck an oil tanker and sites on Irans Qeshm Island while defending Kuwait and Bahrain from missile attacks. Tehran declared peace talks over as Washington insisted on reopening the Strait of Hormuz as a precondition."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/trump-says-iran-really-wants-make-deal-with-us-2026-06-01/",
-        "https://www.bbc.com/news/articles/c936zvne0l6o"
-      ]
-    },
-    {
-      "headline": "Five Killed in Explosion at Hanwha Aerospace Defense Plant in South Korea",
-      "summary": "An explosion at a Hanwha Aerospace factory in Daejeon killed five people and injured two others. The plant is a major facility for South Korea's defense industry, producing rockets and other military hardware.",
-      "emoji": "🇰🇷💥",
-      "category": "Defense Industry",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/reports-an-explosion-hanwha-aerospace-factory-south-korea-official-says-2026-06-01/",
-      "timestamp": "2026-06-01T09:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/east-asia/article/3355514/explosion-kills-5-hanwha-aerospace-factory-south-korea",
-          "angle": "Explosion at South Korean defense factory kills five",
-          "summary": "At least five people were killed in a suspected propellant explosion at Hanwha Aerospace's plant in Daejeon, one of South Korea's largest defense contractors."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/reports-an-explosion-hanwha-aerospace-factory-south-korea-official-says-2026-06-01/",
-        "https://www.scmp.com/news/asia/east-asia/article/3355514/explosion-kills-5-hanwha-aerospace-factory-south-korea"
-      ]
     }
   ]
 }
