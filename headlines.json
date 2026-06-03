@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-03T12:04:45+03:00",
+  "lastUpdated": "2026-06-03T12:06:40+03:00",
   "headlines": [
+    {
+      "headline": "Ukrainian Mirage 2000s spotted flying air-to-ground strike missions",
+      "summary": "A low-level flight profile followed by a steep climb suggests French-supplied Mirage 2000s are now conducting ground-attack operations, expanding their combat role beyond air defense.",
+      "emoji": "🇺🇦✈️",
+      "category": "Ukraine-Russia War",
+      "source": "The War Zone",
+      "url": "https://www.twz.com/air/are-ukrainian-mirage-2000s-now-flying-air-to-ground-strike-missions",
+      "timestamp": "2026-06-03T12:05:00+03:00"
+    },
+    {
+      "headline": "Russian trucks receive dazzle paint to confuse AI-powered drones",
+      "summary": "Russian forces are applying disruptive paint schemes to military vehicles designed to confuse machine-vision targeting systems as autonomous drones become an increasing threat on the battlefield.",
+      "emoji": "🇷🇺🤖",
+      "category": "Military",
+      "source": "The War Zone",
+      "url": "https://www.twz.com/news-features/russian-trucks-get-dazzle-paint-to-throw-off-ai-enabled-drones",
+      "timestamp": "2026-06-03T12:05:00+03:00"
+    },
+    {
+      "headline": "Turkey's secretive HAVA SOJ electronic warfare jet appears in new imagery",
+      "summary": "The long-delayed Turkish Air Force electronic warfare aircraft, designed to blind enemy air defenses from outside contested airspace, has been spotted in new imagery, signaling progress on the indigenous program.",
+      "emoji": "🇹🇷📡",
+      "category": "Defense Industry",
+      "source": "The War Zone",
+      "url": "https://www.twz.com/air/turkeys-secretive-hava-soj-electronic-warfare-jet-appears-in-new-imagery",
+      "timestamp": "2026-06-03T12:05:00+03:00"
+    },
+    {
+      "headline": "SOCOM seeks new flyweight machine guns and rifles for special operations",
+      "summary": "U.S. Special Operations Command is searching for a new 5.56mm flyweight assault machine gun to replace lightweight M249 variants, as part of a broader push to modernize small arms for special forces.",
+      "emoji": "🔫🇺🇸",
+      "category": "Defense Industry",
+      "source": "The War Zone",
+      "url": "https://www.twz.com/land/search-for-new-5-56mm-flyweight-special-operations-machine-gun-to-kick-off-soon",
+      "timestamp": "2026-06-03T12:05:00+03:00"
+    },
+    {
+      "headline": "MQ-28 Ghost Bat drone now flying over Pacific from U.S. Navy base",
+      "summary": "Boeing's Australian-born MQ-28 Ghost Bat autonomous combat drone is conducting test flights from a U.S. Navy base in California, demonstrating maturity and promoting potential Pentagon sales.",
+      "emoji": "🇺🇸🤖",
+      "category": "Defense Industry",
+      "source": "The War Zone",
+      "url": "https://www.twz.com/air/mq-28-ghost-bat-now-flying-over-the-pacific-from-u-s-navy-base",
+      "timestamp": "2026-06-03T12:05:00+03:00"
+    },
     {
       "headline": "Shell Continued Operating Polluting Pipeline in Nigeria Despite Knowing Environmental Damage",
       "summary": "Documents reveal Shell pumped oil through a Nigerian pipeline for years despite evidence of pollution, according to a BBC investigation. The oil giant says the documents ignore the complex operating context.",
@@ -8,7 +53,23 @@
       "category": "Africa",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cdrp8v7407ro",
-      "timestamp": "2026-06-03T12:03:00+03:00"
+      "timestamp": "2026-06-03T12:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c0qy57v4lkko",
+          "angle": "Shell Pumped Oil Through Nigeria Pipeline Despite Pollution Evidence",
+          "summary": "Documents reveal Shell continued pumping oil through a Nigerian pipeline for years despite internal evidence of significant pollution, raising serious environmental and corporate accountability concerns."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cdrp8v7407ro",
+        "https://www.bbc.com/news/articles/c0qy57v4lkko"
+      ]
     },
     {
       "headline": "Trump Administration Abandons $1.8 Billion Anti-Weaponization Fund",
@@ -20,22 +81,29 @@
       "timestamp": "2026-06-03T12:03:00+03:00"
     },
     {
-      "headline": "Kenyan Court Blocks US Ebola Quarantine Unit Plan for American Citizens",
-      "summary": "A Kenyan court further delayed the Trump administration proposed quarantine facility for Americans exposed to Ebola, sparking protests in Nanyuki. Critics say it exposes locals to unnecessary risk.",
-      "emoji": "🇰🇪🇺🇸⚕️",
-      "category": "Africa",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/02/world/africa/kenya-ebola-us-quarantine-unit-court.html",
-      "timestamp": "2026-06-03T12:03:00+03:00"
-    },
-    {
       "headline": "Ghana Passes Sweeping Law Criminalizing LGBTQ Activity",
       "summary": "Community groups report people are panicking as Ghana enacts broad legislation criminalizing LGBTQ activity. The new law significantly expands existing restrictions.",
       "emoji": "🇬🇭⚖️",
       "category": "Africa",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity",
-      "timestamp": "2026-06-03T12:03:00+03:00"
+      "timestamp": "2026-06-03T12:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity",
+          "angle": "Ghana parliament passes sweeping anti-LGBTQ+ law with prison terms",
+          "summary": "Ghana's parliament approves bill criminalizing LGBTQ+ identification and advocacy, with sentences of 3-10 years. President Mahama says the bill will be scrutinized before approval."
+        }
+      ],
+      "sources": [
+        "The Guardian",
+        "The Guardian"
+      ],
+      "urls": [
+        "https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity",
+        "https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity"
+      ]
     },
     {
       "headline": "India Develops Great Nicobar Island as Strategic Chokepoint Against China",
@@ -163,15 +231,6 @@
       "category": "Asia-Pacific",
       "source": "Defense News",
       "url": "https://www.defensenews.com/naval/2026/06/01/south-korea-goes-full-steam-ahead-on-nuclear-powered-submarines/",
-      "timestamp": "2026-06-03T10:06:00+03:00"
-    },
-    {
-      "headline": "Shell Pumped Oil Through Nigeria Pipeline Despite Pollution Evidence",
-      "summary": "Documents reveal Shell continued pumping oil through a Nigerian pipeline for years despite internal evidence of significant pollution, raising serious environmental and corporate accountability concerns.",
-      "emoji": "🇳🇬",
-      "category": "Africa",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0qy57v4lkko",
       "timestamp": "2026-06-03T10:06:00+03:00"
     },
     {
@@ -616,15 +675,6 @@
       "category": "Economy",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cn9prr3w9nlo",
-      "timestamp": "2026-06-03T00:03:00+03:00"
-    },
-    {
-      "headline": "Ghana parliament passes sweeping anti-LGBTQ+ law with prison terms",
-      "summary": "Ghana's parliament approves bill criminalizing LGBTQ+ identification and advocacy, with sentences of 3-10 years. President Mahama says the bill will be scrutinized before approval.",
-      "emoji": "🇬🇭",
-      "category": "Africa",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/jun/01/ghana-new-law-criminalising-lgbtq-activity",
       "timestamp": "2026-06-03T00:03:00+03:00"
     },
     {
@@ -1181,8 +1231,8 @@
         {
           "source": "New York Times",
           "url": "https://www.nytimes.com/2026/06/02/world/africa/kenya-ebola-us-quarantine-unit-court.html",
-          "angle": "Kenya Court Deals New Setback to US Ebola Quarantine Unit Plan",
-          "summary": "A Kenyan court has further delayed the Trump administration's proposed Ebola quarantine facility for Americans exposed to the virus. The plan has sparked angry protests among Kenyans who fear exposure to the disease."
+          "angle": "Kenyan Court Blocks US Ebola Quarantine Unit Plan for American Citizens",
+          "summary": "A Kenyan court further delayed the Trump administration proposed quarantine facility for Americans exposed to Ebola, sparking protests in Nanyuki. Critics say it exposes locals to unnecessary risk."
         }
       ],
       "sources": [
@@ -2851,15 +2901,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/markets/commodities/chinas-crude-oil-imports-slump-its-economics-not-altruism-2026-06-01/",
       "timestamp": "2026-06-01T07:03:00+03:00"
-    },
-    {
-      "headline": "Macron demands quick US-Iran deal, unconditional reopening of Strait of Hormuz",
-      "summary": "French President Emmanuel Macron launched a major diplomatic push in the Middle East, demanding that Washington and Tehran quickly conclude an agreement and unconditionally reopen the Strait of Hormuz.",
-      "emoji": "🇫🇷🇮🇷",
-      "category": "Diplomacy",
-      "source": "Israel National News",
-      "url": "https://www.israelnationalnews.com/news/427910",
-      "timestamp": "2026-06-01T06:10:00+03:00"
     }
   ]
 }
