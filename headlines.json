@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2026-06-04T09:04:41+03:00",
+  "lastUpdated": "2026-06-04T10:05:44+03:00",
   "headlines": [
     {
-      "headline": "US House passes war powers resolution to curb Trump authority on Iran",
-      "summary": "The House voted 215-208 to rein in presidential war powers, with four Republicans joining Democrats. The measure aims to limit military action against Iran without congressional approval.",
+      "headline": "US House votes to curb Trump's Iran war powers in rebuke",
+      "summary": "The House passed a war powers resolution with a 215-208 vote, with four Republicans joining Democrats. The measure aims to limit presidential military authority over Iran.",
       "emoji": "🏛️",
       "category": "US Politics",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536",
+      "timestamp": "2026-06-04T10:05:00+03:00"
+    },
+    {
+      "headline": "South China Sea: Vietnam joins land reclamation race as tensions rise",
+      "summary": "After years of watching China build islands, Vietnam and other claimants are now dredging reefs in the disputed South China Sea, escalating territorial disputes.",
+      "emoji": "🌏",
+      "category": "Asia-Pacific",
       "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cj6pldg39deo",
-      "timestamp": "2026-06-04T09:03:00+03:00"
+      "url": "https://www.bbc.com/news/articles/cy823n3ln29o",
+      "timestamp": "2026-06-04T10:00:00+03:00"
     },
     {
       "headline": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
@@ -17,7 +26,23 @@
       "category": "Middle East",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
-      "timestamp": "2026-06-04T09:03:00+03:00"
+      "timestamp": "2026-06-04T09:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cq6peqrnzpro",
+          "angle": "Israel and Lebanon agree to implement ceasefire if Hezbollah halts attacks",
+          "summary": "US-mediated deal requires Hezbollah to cease strikes; both nations reject any actor holding Lebanon hostage. State Department announces agreement as regional tensions persist."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/c5y01pdqvkgo",
+        "https://www.bbc.com/news/articles/cq6peqrnzpro"
+      ]
     },
     {
       "headline": "Iranian drones strike Kuwait airport killing one, testing ceasefire",
@@ -26,7 +51,23 @@
       "category": "Middle East",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c5yx135yg53o",
-      "timestamp": "2026-06-04T09:03:00+03:00"
+      "timestamp": "2026-06-04T09:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cq6peqrnzpro",
+          "angle": "Iranian drone strike kills one at Kuwait International Airport",
+          "summary": "Iran struck Kuwait's main airport with drones, killing one person and injuring dozens, marking a major escalation as the US-Iran ceasefire is tested. The attack damaged the airport terminal and disrupted flights across the Gulf region."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/c5yx135yg53o",
+        "https://www.bbc.com/news/articles/cq6peqrnzpro"
+      ]
     },
     {
       "headline": "Oman resists US pressure to break ties with Iran over Hormuz Strait",
@@ -133,31 +174,6 @@
       ]
     },
     {
-      "headline": "Iranian drone strike kills one at Kuwait International Airport",
-      "summary": "Iran struck Kuwait's main airport with drones, killing one person and injuring dozens, marking a major escalation as the US-Iran ceasefire is tested. The attack damaged the airport terminal and disrupted flights across the Gulf region.",
-      "emoji": "🇰🇼",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cq6peqrnzpro",
-      "timestamp": "2026-06-04T07:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
-          "angle": "Iranian drone strike on Kuwait airport kills one, wounds dozens",
-          "summary": "Iran claims retaliation for earlier US strikes on its oil facilities. Attack tests regional ceasefire agreements as tensions escalate in Persian Gulf."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/cq6peqrnzpro",
-        "https://www.bbc.com/news/articles/c5y01pdqvkgo"
-      ]
-    },
-    {
       "headline": "Trump acknowledges calling Netanyahu \"crazy\" amid Iran ceasefire tensions",
       "summary": "President Trump confirmed he called Israeli Prime Minister Netanyahu \"crazy\" and said Israel is complicating peace talks with Iran, in a rare public rift between the US and Israeli leaders.",
       "emoji": "🇺🇸🇮🇱",
@@ -241,39 +257,6 @@
       "urls": [
         "https://kyivindependent.com/nato-chief-arrives-in-kyiv-day-after-mass-russian-strike/",
         "https://kyivindependent.com/nato-chief-arrives-in-kyiv-day-after-mass-russian-strike/"
-      ]
-    },
-    {
-      "headline": "Israel and Lebanon agree to implement ceasefire if Hezbollah halts attacks",
-      "summary": "US-mediated deal requires Hezbollah to cease strikes; both nations reject any actor holding Lebanon hostage. State Department announces agreement as regional tensions persist.",
-      "emoji": "🇱🇧🇮🇱",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cq6peqrnzpro",
-      "timestamp": "2026-06-04T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/middle-east/article/3355889/israel-and-lebanon-agree-renew-fragile-ceasefire-create-hezbollah-free-zones",
-          "angle": "Israel and Lebanon Agree to Renew Ceasefire with New Security Zones",
-          "summary": "Israel and Lebanon have agreed to renew their fragile ceasefire and create pilot security zones after US-led negotiations. The deal aims to reduce Hezbollah presence near the border."
-        },
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
-          "angle": "Israel and Lebanon agree to ceasefire contingent on Hezbollah stopping attacks",
-          "summary": "US-brokered agreement requires complete cessation of Hezbollah fire and evacuation of operatives from areas south of Litani River. Lebanese army to take control of pilot security zones."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "SCMP",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/cq6peqrnzpro",
-        "https://www.scmp.com/news/world/middle-east/article/3355889/israel-and-lebanon-agree-renew-fragile-ceasefire-create-hezbollah-free-zones",
-        "https://www.bbc.com/news/articles/c5y01pdqvkgo"
       ]
     },
     {
@@ -469,7 +452,23 @@
       "category": "US Politics",
       "source": "AP News",
       "url": "https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536",
-      "timestamp": "2026-06-04T02:03:00+03:00"
+      "timestamp": "2026-06-04T02:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cj6pldg39deo",
+          "angle": "US House passes war powers resolution to curb Trump authority on Iran",
+          "summary": "The House voted 215-208 to rein in presidential war powers, with four Republicans joining Democrats. The measure aims to limit military action against Iran without congressional approval."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "BBC"
+      ],
+      "urls": [
+        "https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536",
+        "https://www.bbc.com/news/articles/cj6pldg39deo"
+      ]
     },
     {
       "headline": "Russian Oil Pipeline to Hungary and Slovakia Resumes After Months-Long Outage",
@@ -3043,40 +3042,6 @@
         "https://www.scmp.com/news/china/science/article/3355495/china-team-drafts-comprehensive-sanctions-list-targeting-us-allies-63-tech-sectors",
         "https://www.scmp.com/news/china/science/article/3355495/china-team-drafts-comprehensive-sanctions-list-targeting-us-allies-63-tech-sectors"
       ]
-    },
-    {
-      "headline": "Iran Suspends US Message Exchanges, Threatens Strait of Hormuz Closure",
-      "summary": "Tehran halted indirect negotiations with Washington over Israeli operations in Lebanon, with state media warning Iran may block the critical oil shipping chokepoint.",
-      "emoji": "🇮🇷🛢️",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-is-stopping-message-exchanges-with-us-may-block-hormuz-tasnim-news-agency-says-2026-06-01/",
-      "timestamp": "2026-06-02T01:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al-Monitor",
-          "url": "https://www.al-monitor.com/originals/2026/06/iran-stopping-message-exchanges-us-may-block-hormuz-tasnim-news-agency-says",
-          "angle": "Iran halts US diplomatic exchanges, threatens Hormuz closure",
-          "summary": "Iran's Tasnim news agency said Tehran is stopping message exchanges with Washington and may block the Strait of Hormuz, accusing the US of violating ceasefire commitments."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al-Monitor"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/iran-is-stopping-message-exchanges-with-us-may-block-hormuz-tasnim-news-agency-says-2026-06-01/",
-        "https://www.al-monitor.com/originals/2026/06/iran-stopping-message-exchanges-us-may-block-hormuz-tasnim-news-agency-says"
-      ]
-    },
-    {
-      "headline": "Trump Says Iran \"Really Wants to Make a Deal\" as Diplomacy Continues",
-      "summary": "President Trump expressed optimism about ongoing negotiations with Tehran, stating a deal would benefit Washington and its allies amid the three-month-old conflict.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/trump-says-iran-really-wants-make-deal-with-us-2026-06-01/",
-      "timestamp": "2026-06-02T01:03:00+03:00"
     }
   ]
 }
