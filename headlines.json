@@ -11,22 +11,37 @@
       "timestamp": "2026-06-04T23:03:00+03:00"
     },
     {
-      "headline": "Russia Launches Massive Aerial Attack Across Ukraine, Killing 22",
-      "summary": "Russia fired hundreds of drones and dozens of missiles at Kyiv and other Ukrainian cities overnight, killing at least 22 people and wounding dozens as Moscow pivots to air warfare amid ground losses.",
-      "emoji": "🇺🇦⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "CBC News",
-      "url": "https://www.cbc.ca/news/world/kyiv-attack-russia-ukraine-9.7219991",
-      "timestamp": "2026-06-04T23:03:00+03:00"
-    },
-    {
       "headline": "Hezbollah Rejects US-Brokered Ceasefire, Israeli Strikes Kill Eight in Lebanon",
       "summary": "Hezbollah dismissed a ceasefire agreement reached between Israel and the Lebanese government, as Israeli strikes continued in southern Lebanon killing eight people despite the Washington-announced deal.",
       "emoji": "🇱🇧🇮🇱",
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/israel-continue-operations-lebanon-now-despite-ceasefire-defence-minister-says-2026-06-04/",
-      "timestamp": "2026-06-04T23:03:00+03:00"
+      "timestamp": "2026-06-04T23:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/israel-continue-operations-lebanon-now-despite-ceasefire-defence-minister-says-2026-06-04/",
+          "angle": "Hezbollah rejects Lebanon ceasefire as Israel rules out troop withdrawal",
+          "summary": "The Iran-backed Hezbollah movement rejected a US-mediated ceasefire plan for Lebanon, while Israel stated it would continue operations in southern Lebanon despite the agreement, undermining efforts to halt fighting alongside the broader US-Iran conflict."
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
+          "angle": "Israeli Strikes Kill Nine in Lebanon as Hezbollah Fires Rockets",
+          "summary": "Israeli strikes killed nine people in Lebanon as Hezbollah fired rockets over the border, straining a partial ceasefire agreed between Israel and the Lebanese armed group."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/israel-continue-operations-lebanon-now-despite-ceasefire-defence-minister-says-2026-06-04/",
+        "https://www.reuters.com/world/middle-east/israel-continue-operations-lebanon-now-despite-ceasefire-defence-minister-says-2026-06-04/",
+        "https://www.bbc.com/news/articles/c5y01pdqvkgo"
+      ]
     },
     {
       "headline": "MI6 Spy Chief Alex Younger Dies at 60",
@@ -35,16 +50,23 @@
       "category": "Europe",
       "source": "AP News",
       "url": "https://apnews.com/article/mi6-spy-chief-alex-younger-dies-ae7760e16f412f3d02e120704a27bbd6",
-      "timestamp": "2026-06-04T23:03:00+03:00"
-    },
-    {
-      "headline": "Switzerland Deploys 4,000 Troops to Border During Frances FIFA World Cup",
-      "summary": "Switzerland is deploying 4,000 troops to secure its border with France as France hosts the FIFA World Cup, highlighting security concerns during major international sporting events.",
-      "emoji": "🇨🇭🇫🇷",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/switzerland-deploy-4000-troops-its-side-border-france-hosts-2026-06-04/",
-      "timestamp": "2026-06-04T23:03:00+03:00"
+      "timestamp": "2026-06-04T23:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/mi6-spy-chief-alex-younger-dies-ae7760e16f412f3d02e120704a27bbd6",
+          "angle": "Former MI6 Chief Alex Younger Dies at 62",
+          "summary": "The former head of Britain's Secret Intelligence Service (2014-2020) died after a cancer diagnosis. Younger was one of the first publicly named spy chiefs and was praised by Prince William and PM Keir Starmer for his dedication to protecting the UK."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "AP News"
+      ],
+      "urls": [
+        "https://apnews.com/article/mi6-spy-chief-alex-younger-dies-ae7760e16f412f3d02e120704a27bbd6",
+        "https://apnews.com/article/mi6-spy-chief-alex-younger-dies-ae7760e16f412f3d02e120704a27bbd6"
+      ]
     },
     {
       "headline": "Libyan Protesters Block UN Refugee Office Over Migrant Crisis",
@@ -78,31 +100,6 @@
       "urls": [
         "https://kyivindependent.com/sweden-seizes-vessel-suspected-of-illegally-exporting-ukrainian-grain-from-russian-occupied-territories/",
         "https://kyivindependent.com/sweden-seizes-vessel-suspected-of-illegally-exporting-ukrainian-grain-from-russian-occupied-territories/"
-      ]
-    },
-    {
-      "headline": "Hezbollah rejects Lebanon ceasefire as Israel rules out troop withdrawal",
-      "summary": "The Iran-backed Hezbollah movement rejected a US-mediated ceasefire plan for Lebanon, while Israel stated it would continue operations in southern Lebanon despite the agreement, undermining efforts to halt fighting alongside the broader US-Iran conflict.",
-      "emoji": "🇱🇧🇮🇱⚔️",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israel-continue-operations-lebanon-now-despite-ceasefire-defence-minister-says-2026-06-04/",
-      "timestamp": "2026-06-04T22:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/israel-continue-operations-lebanon-now-despite-ceasefire-defence-minister-says-2026-06-04/",
-          "angle": "Israel Says Lebanon Operations to Continue Despite Ceasefire Announcement",
-          "summary": "Israeli Defense Minister Israel Katz stated that military operations in Lebanon will continue and troops will not withdraw, despite the announcement of a renewed ceasefire agreement."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/israel-continue-operations-lebanon-now-despite-ceasefire-defence-minister-says-2026-06-04/",
-        "https://www.reuters.com/world/middle-east/israel-continue-operations-lebanon-now-despite-ceasefire-defence-minister-says-2026-06-04/"
       ]
     },
     {
@@ -284,31 +281,6 @@
       "source": "Times of Israel",
       "url": "https://www.timesofisrael.com/liveblog_entry/eu-pledges-100-million-euros-to-bolster-lebanese-army/",
       "timestamp": "2026-06-04T20:05:00+03:00"
-    },
-    {
-      "headline": "Former MI6 Chief Alex Younger Dies at 62",
-      "summary": "The former head of Britain's Secret Intelligence Service (2014-2020) died after a cancer diagnosis. Younger was one of the first publicly named spy chiefs and was praised by Prince William and PM Keir Starmer for his dedication to protecting the UK.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://apnews.com/article/mi6-spy-chief-alex-younger-dies-ae7760e16f412f3d02e120704a27bbd6",
-      "timestamp": "2026-06-04T20:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/uk-news/2026/jun/03/alex-younger-former-head-of-mi6-dies-aged-62",
-          "angle": "Former MI6 chief Alex Younger dies aged 62 after cancer battle",
-          "summary": "Sir Alex Younger led Britains Secret Intelligence Service from 2014 to 2020, serving as its longest-serving chief in 50 years. He played key roles in counter-terrorism work before and after 9/11."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "The Guardian"
-      ],
-      "urls": [
-        "https://apnews.com/article/mi6-spy-chief-alex-younger-dies-ae7760e16f412f3d02e120704a27bbd6",
-        "https://www.theguardian.com/uk-news/2026/jun/03/alex-younger-former-head-of-mi6-dies-aged-62"
-      ]
     },
     {
       "headline": "Switzerland Deploys 4,000 Troops for G7 Summit Security",
@@ -1115,31 +1087,6 @@
       "urls": [
         "https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says",
         "https://www.theguardian.com/world/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says"
-      ]
-    },
-    {
-      "headline": "Israeli Strikes Kill Nine in Lebanon as Hezbollah Fires Rockets",
-      "summary": "Israeli strikes killed nine people in Lebanon as Hezbollah fired rockets over the border, straining a partial ceasefire agreed between Israel and the Lebanese armed group.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
-      "timestamp": "2026-06-04T03:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
-          "angle": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
-          "summary": "At least nine people were killed in Israeli strikes on southern Lebanon, including two paramedics whose ambulance was hit, as Hezbollah fired rockets into northern Israel. The violence tests a partial ceasefire agreed on Monday that aimed to halt attacks on Beirut in exchange for Hezbollah refraining from cross-border strikes."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/c5y01pdqvkgo",
-        "https://www.bbc.com/news/articles/c5y01pdqvkgo"
       ]
     },
     {
@@ -2279,6 +2226,31 @@
       "timestamp": "2026-06-02T22:05:00+03:00"
     },
     {
+      "headline": "Russia Launches Massive Strike on Ukraine, Kremlin Warns of New Paradigm",
+      "summary": "Russia attacked Ukraine with hundreds of drones and missiles overnight, killing at least 22 people. The Kremlin declared the war had entered a \"different paradigm\" due to what it called Ukrainian \"terrorist acts.\"",
+      "emoji": "🇺🇦🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/kremlin-talks-new-paradigm-ukraine-war-accusing-kyiv-acts-terror-2026-06-02/",
+      "timestamp": "2026-06-02T22:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "CBC News",
+          "url": "https://www.cbc.ca/news/world/kyiv-attack-russia-ukraine-9.7219991",
+          "angle": "Russia Launches Massive Aerial Attack Across Ukraine, Killing 22",
+          "summary": "Russia fired hundreds of drones and dozens of missiles at Kyiv and other Ukrainian cities overnight, killing at least 22 people and wounding dozens as Moscow pivots to air warfare amid ground losses."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "CBC News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/kremlin-talks-new-paradigm-ukraine-war-accusing-kyiv-acts-terror-2026-06-02/",
+        "https://www.cbc.ca/news/world/kyiv-attack-russia-ukraine-9.7219991"
+      ]
+    },
+    {
       "headline": "Iran Reviews US Proposal to Halt War as Trump Says Talks Continue",
       "summary": "Iran is reviewing a proposed agreement with the US to halt their conflict but has not communicated with Washington for days, while Trump insists negotiations are ongoing. The war has reached a stalemate after three months.",
       "emoji": "🇮🇷🇺🇸",
@@ -2334,31 +2306,6 @@
       "urls": [
         "https://www.reuters.com/business/aerospace-defense/future-presence-us-troops-lithuania-is-under-review-says-minister-2026-06-02/",
         "https://www.defensenews.com/global/europe/2026/06/02/future-presence-of-us-troops-in-lithuania-is-under-review-says-minister/"
-      ]
-    },
-    {
-      "headline": "Russia Launches Massive Strike on Ukraine, Kremlin Warns of New Paradigm",
-      "summary": "Russia attacked Ukraine with hundreds of drones and missiles overnight, killing at least 22 people. The Kremlin declared the war had entered a \"different paradigm\" due to what it called Ukrainian \"terrorist acts.\"",
-      "emoji": "🇺🇦🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/kremlin-talks-new-paradigm-ukraine-war-accusing-kyiv-acts-terror-2026-06-02/",
-      "timestamp": "2026-06-02T22:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/world-europe-ukraine-russia-strikes-22-killed-20260602",
-          "angle": "Russia Launches Major Attack on Ukraine Killing 22 Civilians",
-          "summary": "Russian strikes killed at least 22 people and wounded dozens in Ukraine, prompting urgent pleas for help from the Trump administration as the war intensifies."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/kremlin-talks-new-paradigm-ukraine-war-accusing-kyiv-acts-terror-2026-06-02/",
-        "https://www.bbc.com/news/world-europe-ukraine-russia-strikes-22-killed-20260602"
       ]
     },
     {
