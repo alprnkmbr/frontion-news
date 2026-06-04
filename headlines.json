@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-06-04T08:06:43+03:00",
+  "lastUpdated": "2026-06-04T09:04:41+03:00",
   "headlines": [
     {
-      "headline": "US House votes to halt Iran war in bipartisan rebuke to Trump",
-      "summary": "The Republican-led House passed a resolution to end US military action against Iran, with four Republicans joining all Democrats. The vote signals growing war fatigue five months before congressional elections.",
-      "emoji": "🏛️🇺🇸",
-      "category": "US-Iran War",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3355887/us-house-votes-stop-iran-war-rebuke-trump",
-      "timestamp": "2026-06-04T08:05:00+03:00"
+      "headline": "US House passes war powers resolution to curb Trump authority on Iran",
+      "summary": "The House voted 215-208 to rein in presidential war powers, with four Republicans joining Democrats. The measure aims to limit military action against Iran without congressional approval.",
+      "emoji": "🏛️",
+      "category": "US Politics",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cj6pldg39deo",
+      "timestamp": "2026-06-04T09:03:00+03:00"
+    },
+    {
+      "headline": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+      "summary": "The US-brokered agreement would see Israel halt its offensive if Hezbollah ceases fire. Both countries reject attempts to hold Lebanon hostage to regional conflicts.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
+      "timestamp": "2026-06-04T09:03:00+03:00"
+    },
+    {
+      "headline": "Iranian drones strike Kuwait airport killing one, testing ceasefire",
+      "summary": "Iran claimed the attack was retaliation for earlier US strikes on an Iranian oil tanker and island. At least 63 people were injured in the drone strike on Kuwait international airport.",
+      "emoji": "🇰🇼",
+      "category": "Middle East",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c5yx135yg53o",
+      "timestamp": "2026-06-04T09:03:00+03:00"
+    },
+    {
+      "headline": "Oman resists US pressure to break ties with Iran over Hormuz Strait",
+      "summary": "Oman is maintaining its diplomatic relationship with Iran despite US pressure to sever ties. The Gulf sultanate has historically served as a mediator between Iran and Western powers.",
+      "emoji": "🇴🇲",
+      "category": "Diplomacy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/04/oman-resists-us-pressure-to-break-ties-with-iran-over-strait-of-hormuz",
+      "timestamp": "2026-06-04T09:03:00+03:00"
+    },
+    {
+      "headline": "Japan faces plastic shortages as Iran war disrupts naphtha supply",
+      "summary": "Japan is experiencing shortages of plastic bags, trays and gloves as the Iran conflict cuts off naphtha supplies from the Middle East, the main source for Japanese petrochemical production.",
+      "emoji": "🇯🇵",
+      "category": "Asia-Pacific",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/04/japan-naphtha-shortage-plastic-bag",
+      "timestamp": "2026-06-04T09:03:00+03:00"
     },
     {
       "headline": "Trump and Putin visits highlight China's central role in great-power diplomacy",
@@ -38,22 +74,29 @@
       "timestamp": "2026-06-04T08:05:00+03:00"
     },
     {
-      "headline": "US House passes resolution limiting Trump war powers on Iran",
-      "summary": "The House voted 215-208 to rein in presidential authority to conduct military operations against Iran, with four Republicans joining Democrats. The measure had failed three previous attempts.",
-      "emoji": "🇺🇸",
-      "category": "US-Iran War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cj6pldg39deo",
-      "timestamp": "2026-06-04T08:03:00+03:00"
-    },
-    {
       "headline": "China bans four New Zealand MPs for one year over Taiwan visit",
       "summary": "Beijing sanctioned the lawmakers after they visited Taiwan last month, barring them from China for a year in the latest diplomatic row over the self-governed island.",
       "emoji": "🇨🇳🇳🇿",
       "category": "US-China",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cx21r1y223ro",
-      "timestamp": "2026-06-04T08:03:00+03:00"
+      "timestamp": "2026-06-04T08:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c7e8k9lx2mnp",
+          "angle": "China bans four New Zealand MPs over Taiwan visit",
+          "summary": "China imposed one-year entry bans on four New Zealand lawmakers after they visited Taiwan, in what Wellington called an \"intimidation tactic.\" New Zealand's Foreign Minister Winston Peters demanded an explanation from Beijing."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cx21r1y223ro",
+        "https://www.bbc.com/news/articles/c7e8k9lx2mnp"
+      ]
     },
     {
       "headline": "Germany blames Russia after losing UN Security Council seat",
@@ -71,16 +114,23 @@
       "category": "Cyber",
       "source": "Washington Post",
       "url": "https://www.washingtonpost.com/world/2026/06/03/us-allies-say-china-is-using-job-platforms-target-security-personnel/",
-      "timestamp": "2026-06-04T08:03:00+03:00"
-    },
-    {
-      "headline": "Indonesia rupiah hits record low as Iran war energy shock spreads",
-      "summary": "The currency plunged to historic lows against the dollar as oil market disruptions from the US-Iran conflict ripple through Southeast Asian economies dependent on energy imports.",
-      "emoji": "🇮🇩💰",
-      "category": "Economy",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/4/indonesias-rupiah-falls-to-record-low-against-us-dollar",
-      "timestamp": "2026-06-04T08:03:00+03:00"
+      "timestamp": "2026-06-04T08:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3355885/us-and-five-eyes-allies-warn-linkedin-china-spying-threat",
+          "angle": "US and Five Eyes Allies Warn of Chinese Espionage via LinkedIn Recruitment",
+          "summary": "The FBI, MI5 and other Western intelligence agencies issued a joint warning that Chinese spies are using professional networking sites like LinkedIn to recruit people with access to classified information."
+        }
+      ],
+      "sources": [
+        "Washington Post",
+        "SCMP"
+      ],
+      "urls": [
+        "https://www.washingtonpost.com/world/2026/06/03/us-allies-say-china-is-using-job-platforms-target-security-personnel/",
+        "https://www.scmp.com/news/world/united-states-canada/article/3355885/us-and-five-eyes-allies-warn-linkedin-china-spying-threat"
+      ]
     },
     {
       "headline": "Iranian drone strike kills one at Kuwait International Airport",
@@ -106,15 +156,6 @@
         "https://www.bbc.com/news/articles/cq6peqrnzpro",
         "https://www.bbc.com/news/articles/c5y01pdqvkgo"
       ]
-    },
-    {
-      "headline": "China bans four New Zealand MPs over Taiwan visit",
-      "summary": "China imposed one-year entry bans on four New Zealand lawmakers after they visited Taiwan, in what Wellington called an \"intimidation tactic.\" New Zealand's Foreign Minister Winston Peters demanded an explanation from Beijing.",
-      "emoji": "🇨🇳🇳🇿",
-      "category": "US-China",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c7e8k9lx2mnp",
-      "timestamp": "2026-06-04T07:03:00+03:00"
     },
     {
       "headline": "Trump acknowledges calling Netanyahu \"crazy\" amid Iran ceasefire tensions",
@@ -410,15 +451,6 @@
       "category": "Middle East",
       "source": "Haaretz",
       "url": "https://www.haaretz.com/israel-news/israel-politics/2026-06-04/ty-article/.premium/haredi-protesters-storm-home-of-senior-israeli-judge-over-idf-draft-arrests/0000019e-8f20-db6c-adff-bffe2bff0000",
-      "timestamp": "2026-06-04T02:05:00+03:00"
-    },
-    {
-      "headline": "US and Five Eyes Allies Warn of Chinese Espionage via LinkedIn Recruitment",
-      "summary": "The FBI, MI5 and other Western intelligence agencies issued a joint warning that Chinese spies are using professional networking sites like LinkedIn to recruit people with access to classified information.",
-      "emoji": "🕵️",
-      "category": "Cyber",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/united-states-canada/article/3355885/us-and-five-eyes-allies-warn-linkedin-china-spying-threat",
       "timestamp": "2026-06-04T02:05:00+03:00"
     },
     {
@@ -1634,19 +1666,27 @@
       "timestamp": "2026-06-02T22:03:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536",
-          "angle": "US House passes war powers resolution to halt Iran military action in rebuke to Trump",
-          "summary": "The House voted 215-208 to halt US military action against Iran, with four Republicans joining Democrats. The vote reflects growing opposition to the three-month conflict that has spiked gas prices."
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/united-states-canada/article/3355887/us-house-votes-stop-iran-war-rebuke-trump",
+          "angle": "US House votes to halt Iran war in bipartisan rebuke to Trump",
+          "summary": "The Republican-led House passed a resolution to end US military action against Iran, with four Republicans joining all Democrats. The vote signals growing war fatigue five months before congressional elections."
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cj6pldg39deo",
+          "angle": "US House passes resolution limiting Trump war powers on Iran",
+          "summary": "The House voted 215-208 to rein in presidential authority to conduct military operations against Iran, with four Republicans joining Democrats. The measure had failed three previous attempts."
         }
       ],
       "sources": [
         "Reuters",
-        "AP News"
+        "SCMP",
+        "BBC"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/iran-studying-deal-halt-war-stalemate-persists-2026-06-02/",
-        "https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536"
+        "https://www.scmp.com/news/world/united-states-canada/article/3355887/us-house-votes-stop-iran-war-rebuke-trump",
+        "https://www.bbc.com/news/articles/cj6pldg39deo"
       ]
     },
     {
@@ -2045,15 +2085,6 @@
       "timestamp": "2026-06-02T16:07:00+03:00"
     },
     {
-      "headline": "UN warns funding cuts could worsen Rohingya crisis in Bangladesh",
-      "summary": "The UN refugee agency says declining humanitarian funding threatens conditions for 1.2 million Rohingya refugees in Bangladesh, one of the world's largest refugee populations.",
-      "emoji": "🇧🇩",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/un-warns-funding-cuts-could-worsen-rohingya-crisis-bangladesh-2026-06-02/",
-      "timestamp": "2026-06-02T16:00:00+03:00"
-    },
-    {
       "headline": "Euro zone firms struggle to raise prices despite Iran war shock",
       "summary": "Only a third of the euro zone's largest companies are raising prices in response to the Iran war, suggesting a weak economy is limiting pricing power despite energy disruptions.",
       "emoji": "🇪🇺",
@@ -2063,20 +2094,29 @@
       "timestamp": "2026-06-02T16:00:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/euro-zone-inflation-rises-again-reinforcing-case-ecb-hike-2026-06-02/",
-          "angle": "Euro Zone Inflation Rises to 3.2% as Iran War Drives Energy Costs Higher",
-          "summary": "Euro zone inflation accelerated to 3.2% in May, up from 3% in April, driven by energy and services costs, strengthening the case for a potential ECB rate hike later this month."
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/economy/2026/6/4/indonesias-rupiah-falls-to-record-low-against-us-dollar",
+          "angle": "Indonesia rupiah hits record low as Iran war energy shock spreads",
+          "summary": "The currency plunged to historic lows against the dollar as oil market disruptions from the US-Iran conflict ripple through Southeast Asian economies dependent on energy imports."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "Al Jazeera"
       ],
       "urls": [
         "https://www.reuters.com/business/finance/euro-zone-firms-struggle-raise-prices-despite-iran-war-shock-2026-06-02/",
-        "https://www.reuters.com/business/euro-zone-inflation-rises-again-reinforcing-case-ecb-hike-2026-06-02/"
+        "https://www.aljazeera.com/economy/2026/6/4/indonesias-rupiah-falls-to-record-low-against-us-dollar"
       ]
+    },
+    {
+      "headline": "UN warns funding cuts could worsen Rohingya crisis in Bangladesh",
+      "summary": "The UN refugee agency says declining humanitarian funding threatens conditions for 1.2 million Rohingya refugees in Bangladesh, one of the world's largest refugee populations.",
+      "emoji": "🇧🇩",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/un-warns-funding-cuts-could-worsen-rohingya-crisis-bangladesh-2026-06-02/",
+      "timestamp": "2026-06-02T16:00:00+03:00"
     },
     {
       "headline": "Goldman Sachs sees elevated fuel margins through 2026 on Hormuz disruption",
@@ -3037,42 +3077,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/trump-says-iran-really-wants-make-deal-with-us-2026-06-01/",
       "timestamp": "2026-06-02T01:03:00+03:00"
-    },
-    {
-      "headline": "Chinas SAIC to Build First EU Car Plant in Spains Galicia",
-      "summary": "Chinese automaker SAIC Motor plans to establish its first production facility in the European Union in northwestern Spain, with an initial investment of approximately €200 million. The plant in Galicia aims to create around 1,000 direct jobs and become operational by 2028.",
-      "emoji": "🇨🇳🇪🇺🚗",
-      "category": "Europe",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3355613/chinas-saic-plans-build-first-eu-car-plant-spains-galicia",
-      "timestamp": "2026-06-02T00:05:00+03:00"
-    },
-    {
-      "headline": "Senegals Ousted PM Sonko Says Party Wont Join New Government",
-      "summary": "Ousmane Sonko, Senegals recently ousted prime minister, announced his Pastef party will not participate in the new government after meeting with President Faye. The political crisis follows months of tensions amid economic challenges and an IMF program freeze over debt misreporting.",
-      "emoji": "🇸🇳🏛️",
-      "category": "Africa",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260601-senegal-s-ousted-prime-minister-says-his-party-will-not-participate-in-new-government",
-      "timestamp": "2026-06-02T00:05:00+03:00"
-    },
-    {
-      "headline": "Alleged Iran-Backed Militant Shouts Were in a War in NYC Court",
-      "summary": "An Iraqi national and alleged Kataib Hezbollah member pleaded not guilty to charges of plotting attacks on US interests in Europe and America. Mohammad Baqer Saad Dawood Al-Saadi declared in court that children are being killed by US rockets, referring to a February strike on an Iranian girls school.",
-      "emoji": "⚖️🇮🇷🇺🇸",
-      "category": "US-Iran War",
-      "source": "Al-Monitor",
-      "url": "https://www.al-monitor.com/originals/2026/06/we-are-war-alleged-iran-backed-militant-exclaims-us-court",
-      "timestamp": "2026-06-02T00:05:00+03:00"
-    },
-    {
-      "headline": "US Navy Opens New Munitions Innovation Hub in Maryland",
-      "summary": "The Navy broke ground on a new energetics innovation hub near Indian Head, Maryland to accelerate development of next-generation munitions. The facility will provide lab space for testing new explosives and propellant technologies critical to replenishing depleted weapons stockpiles.",
-      "emoji": "🇺🇸⚔️🏭",
-      "category": "Defense Industry",
-      "source": "Defense One",
-      "url": "https://www.defenseone.com/technology/2026/06/navy-munitions-innovation-hubs/413890/",
-      "timestamp": "2026-06-02T00:05:00+03:00"
     }
   ]
 }
