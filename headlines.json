@@ -1,14 +1,41 @@
 {
-  "lastUpdated": "2026-06-04T06:05:38+03:00",
+  "lastUpdated": "2026-06-04T07:07:14+03:00",
   "headlines": [
     {
-      "headline": "Israel and Lebanon Agree to Renew Ceasefire with New Security Zones",
-      "summary": "Israel and Lebanon have agreed to renew their fragile ceasefire and create pilot security zones after US-led negotiations. The deal aims to reduce Hezbollah presence near the border.",
-      "emoji": "🇮🇱🇱🇧",
+      "headline": "Iranian drone strike kills one at Kuwait International Airport",
+      "summary": "Iran struck Kuwait's main airport with drones, killing one person and injuring dozens, marking a major escalation as the US-Iran ceasefire is tested. The attack damaged the airport terminal and disrupted flights across the Gulf region.",
+      "emoji": "🇰🇼",
       "category": "Middle East",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/middle-east/article/3355889/israel-and-lebanon-agree-renew-fragile-ceasefire-create-hezbollah-free-zones",
-      "timestamp": "2026-06-04T06:05:00+03:00"
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cq6peqrnzpro",
+      "timestamp": "2026-06-04T07:03:00+03:00"
+    },
+    {
+      "headline": "China bans four New Zealand MPs over Taiwan visit",
+      "summary": "China imposed one-year entry bans on four New Zealand lawmakers after they visited Taiwan, in what Wellington called an \"intimidation tactic.\" New Zealand's Foreign Minister Winston Peters demanded an explanation from Beijing.",
+      "emoji": "🇨🇳🇳🇿",
+      "category": "US-China",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c7e8k9lx2mnp",
+      "timestamp": "2026-06-04T07:03:00+03:00"
+    },
+    {
+      "headline": "Trump acknowledges calling Netanyahu \"crazy\" amid Iran ceasefire tensions",
+      "summary": "President Trump confirmed he called Israeli Prime Minister Netanyahu \"crazy\" and said Israel is complicating peace talks with Iran, in a rare public rift between the US and Israeli leaders.",
+      "emoji": "🇺🇸🇮🇱",
+      "category": "US-Iran War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/trump-netanyahu-crazy-iran-ceasefire-israel-7f8a9b2c1d3e",
+      "timestamp": "2026-06-04T07:03:00+03:00"
+    },
+    {
+      "headline": "Gunfire erupts in Mogadishu ahead of anti-government protests",
+      "summary": "Gunfire broke out in Somalia's capital before planned anti-government protests against President Hassan Sheikh Mohamud. Former PM Mohamed Khaire accused government forces of attacking him.",
+      "emoji": "🇸🇴",
+      "category": "Africa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/4/gunfire-mogadishu-somalia-protests",
+      "timestamp": "2026-06-04T07:03:00+03:00"
     },
     {
       "headline": "Greece Issues Formal Protest to Ukraine Over Naval Drone Found in Greek Waters",
@@ -44,7 +71,23 @@
       "category": "Ukraine-Russia War",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/nato-chief-arrives-in-kyiv-day-after-mass-russian-strike/",
-      "timestamp": "2026-06-04T06:05:00+03:00"
+      "timestamp": "2026-06-04T06:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/nato-chief-arrives-in-kyiv-day-after-mass-russian-strike/",
+          "angle": "NATO Chief Arrives in Kyiv After Massive Russian Strike Kills 20+",
+          "summary": "NATO Secretary General Mark Rutte visited Kyiv one day after one of Russia heaviest attacks killed over 20 people and injured 100+ across Ukraine."
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://kyivindependent.com/nato-chief-arrives-in-kyiv-day-after-mass-russian-strike/",
+        "https://kyivindependent.com/nato-chief-arrives-in-kyiv-day-after-mass-russian-strike/"
+      ]
     },
     {
       "headline": "Israel and Lebanon agree to implement ceasefire if Hezbollah halts attacks",
@@ -53,7 +96,31 @@
       "category": "Middle East",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cq6peqrnzpro",
-      "timestamp": "2026-06-04T06:03:00+03:00"
+      "timestamp": "2026-06-04T06:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/middle-east/article/3355889/israel-and-lebanon-agree-renew-fragile-ceasefire-create-hezbollah-free-zones",
+          "angle": "Israel and Lebanon Agree to Renew Ceasefire with New Security Zones",
+          "summary": "Israel and Lebanon have agreed to renew their fragile ceasefire and create pilot security zones after US-led negotiations. The deal aims to reduce Hezbollah presence near the border."
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
+          "angle": "Israel and Lebanon agree to ceasefire contingent on Hezbollah stopping attacks",
+          "summary": "US-brokered agreement requires complete cessation of Hezbollah fire and evacuation of operatives from areas south of Litani River. Lebanese army to take control of pilot security zones."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "SCMP",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cq6peqrnzpro",
+        "https://www.scmp.com/news/world/middle-east/article/3355889/israel-and-lebanon-agree-renew-fragile-ceasefire-create-hezbollah-free-zones",
+        "https://www.bbc.com/news/articles/c5y01pdqvkgo"
+      ]
     },
     {
       "headline": "Iranian drone strike on Kuwait airport kills one, wounds dozens",
@@ -63,40 +130,6 @@
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
       "timestamp": "2026-06-04T06:03:00+03:00"
-    },
-    {
-      "headline": "Ukrainian drones strike St. Petersburg oil facilities ahead of Putin economic forum",
-      "summary": "Long-range drones hit oil storage near St. Petersburg hours before Russian President's flagship economic forum. Attack demonstrates Ukraine's continued reach into Russian territory.",
-      "emoji": "🇺🇦🇷🇺💥",
-      "category": "Ukraine-Russia War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/world-europe",
-      "timestamp": "2026-06-04T06:03:00+03:00"
-    },
-    {
-      "headline": "Israel and Lebanon agree to ceasefire contingent on Hezbollah stopping attacks",
-      "summary": "US-brokered agreement requires complete cessation of Hezbollah fire and evacuation of operatives from areas south of Litani River. Lebanese army to take control of pilot security zones.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
-      "timestamp": "2026-06-04T05:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al-Monitor",
-          "url": "https://www.al-monitor.com/originals/2026/06/israel-lebanon-agree-conditional-ceasefire",
-          "angle": "Israel and Lebanon agree to implement ceasefire with Hezbollah withdrawal",
-          "summary": "Israel and Lebanon agreed to implement a ceasefire requiring complete cessation of fire by Hezbollah and creation of pilot zones where Lebanese armed forces take exclusive control, following US-led talks in Washington."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "Al-Monitor"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/c5y01pdqvkgo",
-        "https://www.al-monitor.com/originals/2026/06/israel-lebanon-agree-conditional-ceasefire"
-      ]
     },
     {
       "headline": "MI5 warns Chinese spies using job websites to target government workers",
@@ -448,15 +481,6 @@
       ]
     },
     {
-      "headline": "NATO Chief Arrives in Kyiv After Massive Russian Strike Kills 20+",
-      "summary": "NATO Secretary General Mark Rutte visited Kyiv one day after one of Russia heaviest attacks killed over 20 people and injured 100+ across Ukraine.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/nato-chief-arrives-in-kyiv-day-after-mass-russian-strike/",
-      "timestamp": "2026-06-03T22:00:00+03:00"
-    },
-    {
       "headline": "Zelensky Threatens to Fire Officials Over Patriot Missile Delays",
       "summary": "Ukrainian President set a one-week deadline for legal groundwork on Patriot agreement, warning of serious personnel decisions if delays continue.",
       "emoji": "🇺🇦",
@@ -534,6 +558,31 @@
       "timestamp": "2026-06-03T22:00:00+03:00"
     },
     {
+      "headline": "Ukrainian Drones Hit St Petersburg Oil Terminal Ahead of Economic Forum",
+      "summary": "Ukrainian drones struck oil storage facilities near St Petersburg as Putin's flagship economic forum was set to open. The attack comes days before the Russian president is scheduled to address the event.",
+      "emoji": "🇺🇦🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3",
+      "timestamp": "2026-06-03T21:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/world-europe",
+          "angle": "Ukrainian drones strike St. Petersburg oil facilities ahead of Putin economic forum",
+          "summary": "Long-range drones hit oil storage near St. Petersburg hours before Russian President's flagship economic forum. Attack demonstrates Ukraine's continued reach into Russian territory."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "BBC"
+      ],
+      "urls": [
+        "https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3",
+        "https://www.bbc.com/news/world-europe"
+      ]
+    },
+    {
       "headline": "Iran Strikes Kuwait Airport, Killing One as Ceasefire Tested",
       "summary": "Iran launched drone strikes on Kuwait's main airport, killing one person and injuring dozens. Tehran said the attack was retaliation for earlier US strikes on an Iranian oil tanker and island, as Trump stated ceasefire talks are ongoing.",
       "emoji": "🇮🇷🇰🇼",
@@ -556,31 +605,6 @@
       "urls": [
         "https://apnews.com/article/iran-us-israel-lebanon-war-kuwait-ceasefire-3-june-2026-de2d1814c0f38252bf0383be859c870b",
         "https://www.al-monitor.com/originals/2026/06/why-iran-strikes-kuwait-pose-dilemma-us-navys-blockade"
-      ]
-    },
-    {
-      "headline": "Ukrainian Drones Hit St Petersburg Oil Terminal Ahead of Economic Forum",
-      "summary": "Ukrainian drones struck oil storage facilities near St Petersburg as Putin's flagship economic forum was set to open. The attack comes days before the Russian president is scheduled to address the event.",
-      "emoji": "🇺🇦🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3",
-      "timestamp": "2026-06-03T21:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo",
-          "angle": "Ukraine Strikes St. Petersburg Oil Terminal as Putin's Economic Forum Opens",
-          "summary": "Ukrainian drones hit oil storage facilities near St. Petersburg hours before Vladimir Putin was due to address Russia's flagship economic forum, demonstrating Ukraine's ability to strike deep into Russian territory."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "BBC"
-      ],
-      "urls": [
-        "https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3",
-        "https://www.bbc.com/news/articles/c0e2vqd3j1vo"
       ]
     },
     {
@@ -2988,42 +3012,6 @@
         "https://www.reuters.com/business/energy/drivers-russian-controlled-crimea-grapple-with-gasoline-shortages-2026-06-01/",
         "https://www.kyivpost.com/post/77354"
       ]
-    },
-    {
-      "headline": "Two explosions strike cargo vessel in Gulf off Iraq",
-      "summary": "Two explosions hit a cargo vessel about 40 nautical miles southeast of Iraqs Umm Qasr, with one confirmed as a drone attack. The incident raises concerns about maritime security in the Gulf amid ongoing regional tensions.",
-      "emoji": "🚢💥",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/two-explosions-hit-cargo-vessel-gulf-off-iraq-officials-say-2026-06-01/",
-      "timestamp": "2026-06-02T00:03:00+03:00"
-    },
-    {
-      "headline": "France bans Israeli officials from Eurosatory defence show",
-      "summary": "France barred Israeli government representatives from the Paris arms exhibition and restricted Israeli companies to displaying only air defence systems. Israel's defence ministry called it a 'disgraceful decision' that puts France 'on the wrong side of history'.",
-      "emoji": "🇫🇷🇮🇱",
-      "category": "Europe",
-      "source": "Al-Monitor",
-      "url": "https://www.al-monitor.com/originals/2026/06/israels-defence-ministry-says-france-bans-israeli-officials-defence-show",
-      "timestamp": "2026-06-01T22:05:00+03:00"
-    },
-    {
-      "headline": "Turkey emerges as Iran war winner through 'strategic ambiguity'",
-      "summary": "Turkey positioned itself as a key regional power and neutral mediator during the Iran war, benefiting from economic bridging and active non-alignment. Experts note Turkey's strategic flexibility has made it 'one of the winners' from regional turmoil.",
-      "emoji": "🇹🇷",
-      "category": "Middle East",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/china/diplomacy/article/3355554/how-strategic-ambiguity-made-turkey-winner-iran-war",
-      "timestamp": "2026-06-01T22:05:00+03:00"
-    },
-    {
-      "headline": "UN agency blocks Trump official appointment over US arrears",
-      "summary": "The International Labour Organization rescinded the appointment of Sheng Li as deputy director-general because the US owes over  million in unpaid membership contributions. The post is traditionally held by an American.",
-      "emoji": "🇺🇳",
-      "category": "Diplomacy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/live-news/20260601-un-agency-blocks-trump-official-s-appointment-over-us-arrears",
-      "timestamp": "2026-06-01T22:05:00+03:00"
     }
   ]
 }
