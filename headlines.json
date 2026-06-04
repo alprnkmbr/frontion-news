@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-04T11:06:19+03:00",
+  "lastUpdated": "2026-06-04T12:04:27+03:00",
   "headlines": [
+    {
+      "headline": "Ukrainian Drones Strike St. Petersburg Oil Terminal as Zelenskyy Vows Escalation",
+      "summary": "Ukrainian long-range drones hit an oil terminal in St. Petersburg, setting it ablaze just days before Putin's economic forum. The attack came as Russia launched its largest drone barrage on Ukraine in months, killing 23 civilians.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3",
+      "timestamp": "2026-06-04T12:03:00+03:00"
+    },
+    {
+      "headline": "Iranian Drone Attack on Kuwait Airport Kills One, Tests Fragile Ceasefire",
+      "summary": "Iranian drones heavily damaged Kuwait International Airport's passenger terminal, killing an Indian national and wounding 63. Kuwait expelled two Iranian diplomats as the four-month-old US-Iran ceasefire showed increasing strain.",
+      "emoji": "🇮🇷",
+      "category": "Middle East",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-israel-lebanon-war-kuwait-ceasefire-3-june-2026-de2d1814c0f38252bf0383be859c870b",
+      "timestamp": "2026-06-04T12:03:00+03:00"
+    },
+    {
+      "headline": "Trump Acknowledges Calling Netanyahu \"Crazy\" as Israel-Hezbollah Fighting Complicates Iran Talks",
+      "summary": "President Trump confirmed he called Netanyahu \"crazy\" in a phone call, expressing frustration that Israel's ongoing conflict with Hezbollah is holding back peace negotiations with Iran. Both leaders insisted their relationship remains solid.",
+      "emoji": "🇺🇸",
+      "category": "Diplomacy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97",
+      "timestamp": "2026-06-04T12:03:00+03:00"
+    },
+    {
+      "headline": "US Support for Same-Sex Marriage Declines for First Time in Decades, Gallup Poll Shows",
+      "summary": "A new Gallup poll reveals that US support for same-sex marriage has flattened at 65%, down from 71% in 2022-2023. The decline is driven almost entirely by dropping acceptance among Republicans, now at 37%.",
+      "emoji": "🇺🇸",
+      "category": "US Politics",
+      "source": "AP News",
+      "url": "https://apnews.com/article/gallup-poll-same-sex-marriage-morality-e12acb151446ac1b7970c0825bf1d072",
+      "timestamp": "2026-06-04T12:03:00+03:00"
+    },
     {
       "headline": "China Cuts Domestic Fuel Prices as Iran War Impacts Energy Markets",
       "summary": "China announced it will lower retail price caps on gasoline and diesel from June 5, marking the second cut since the Iran war began and reflecting constrained global energy supplies.",
@@ -17,7 +53,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/israel-continue-operations-lebanon-now-despite-ceasefire-defence-minister-says-2026-06-04/",
-      "timestamp": "2026-06-04T11:00:00+03:00"
+      "timestamp": "2026-06-04T11:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
+          "angle": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+          "summary": "The US-brokered agreement would see Israel halt its offensive if Hezbollah ceases fire. Both countries reject attempts to hold Lebanon hostage to regional conflicts."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/israel-continue-operations-lebanon-now-despite-ceasefire-defence-minister-says-2026-06-04/",
+        "https://www.bbc.com/news/articles/c5y01pdqvkgo"
+      ]
     },
     {
       "headline": "Taiwan to Expand Anti-Ship Missile Arsenal to Counter China Threat",
@@ -88,31 +140,6 @@
       "source": "MSN",
       "url": "https://www.msn.com/en-my/politics/government/indonesia-arrests-deputy-immigration-minister-on-graft-charges/ar-AA24NmYX",
       "timestamp": "2026-06-04T10:00:00+03:00"
-    },
-    {
-      "headline": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
-      "summary": "The US-brokered agreement would see Israel halt its offensive if Hezbollah ceases fire. Both countries reject attempts to hold Lebanon hostage to regional conflicts.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
-      "timestamp": "2026-06-04T09:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cq6peqrnzpro",
-          "angle": "Israel and Lebanon agree to implement ceasefire if Hezbollah halts attacks",
-          "summary": "US-mediated deal requires Hezbollah to cease strikes; both nations reject any actor holding Lebanon hostage. State Department announces agreement as regional tensions persist."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/c5y01pdqvkgo",
-        "https://www.bbc.com/news/articles/cq6peqrnzpro"
-      ]
     },
     {
       "headline": "Iranian drones strike Kuwait airport killing one, testing ceasefire",
@@ -2961,98 +2988,6 @@
         "https://apnews.com/article/venezuela-chavez-maduro-rodriguez-chavismo-us-trump-a8d96666a51289f0c88efcd89a9413bc",
         "https://apnews.com/article/venezuela-chavez-maduro-rodriguez-chavismo-us-trump-a8d96666a51289f0c88efcd89a9413bc"
       ]
-    },
-    {
-      "headline": "Iran Seeks Limited Interim Deal With US to Ease Economic Pressure",
-      "summary": "Iran is pushing for a limited interim agreement with the United States to ease mounting economic strain while avoiding major nuclear concessions, according to sources and analysts.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-eyes-limited-us-deal-relieve-economic-strain-buy-time-2026-06-01/",
-      "timestamp": "2026-06-02T02:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/iran-eyes-limited-us-deal-relieve-economic-strain-buy-time-2026-06-01/",
-          "angle": "Iran seeks limited interim deal with US to ease economic pressure",
-          "summary": "Iran is pushing for a limited interim agreement with the United States to ease mounting economic pressure and stabilize the domestic situation, while avoiding major concessions on its nuclear program, according to sources and analysts."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/iran-eyes-limited-us-deal-relieve-economic-strain-buy-time-2026-06-01/",
-        "https://www.reuters.com/world/middle-east/iran-eyes-limited-us-deal-relieve-economic-strain-buy-time-2026-06-01/"
-      ]
-    },
-    {
-      "headline": "Iran Blames US Contradictions and Israeli Strikes for Diplomatic Delays",
-      "summary": "Iran says the slow pace of diplomacy to end the US-Iran conflict is due to a lack of trust, contradictory US positions, and continued Israeli attacks in Lebanon.",
-      "emoji": "⚔️",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-says-contradictory-us-positions-israeli-attacks-lebanon-delaying-diplomacy-2026-06-01/",
-      "timestamp": "2026-06-02T02:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/iran-says-contradictory-us-positions-israeli-attacks-lebanon-delaying-diplomacy-2026-06-01/",
-          "angle": "Iran Suspends US Nuclear Talks Over Israeli Strikes in Lebanon",
-          "summary": "Iran halted indirect negotiations with the United States after Israel ordered troops to push deeper into Lebanon to battle Hezbollah, complicating diplomatic efforts to end the three-month war. Tehran cited contradictory US positions and continued Israeli attacks as obstacles to progress."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/iran-says-contradictory-us-positions-israeli-attacks-lebanon-delaying-diplomacy-2026-06-01/",
-          "angle": "Iran Blames US Contradictions for Diplomatic Stalemate",
-          "summary": "Tehran cited lack of trust and continued Israeli attacks on Lebanon as obstacles to progress in negotiations with Washington, while reiterating Lebanon ceasefire as condition for any peace deal."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/iran-says-contradictory-us-positions-israeli-attacks-lebanon-delaying-diplomacy-2026-06-01/",
-        "https://www.reuters.com/world/middle-east/iran-says-contradictory-us-positions-israeli-attacks-lebanon-delaying-diplomacy-2026-06-01/",
-        "https://www.reuters.com/world/middle-east/iran-says-contradictory-us-positions-israeli-attacks-lebanon-delaying-diplomacy-2026-06-01/"
-      ]
-    },
-    {
-      "headline": "Russia Increases Pressure on Armenia Ahead of Election",
-      "summary": "Russia is ramping up pressure on Armenia ahead of a June 7 election as the former close ally pursues deeper ties with Brussels and Washington.",
-      "emoji": "🇦🇲",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/russia-ups-pressure-armenia-ahead-sundays-election-2026-06-01/",
-      "timestamp": "2026-06-02T02:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/russia-ups-pressure-armenia-ahead-sundays-election-2026-06-01/",
-          "angle": "Russia Increases Pressure on Armenia Ahead of Parliamentary Elections",
-          "summary": "Russia is intensifying pressure on Armenia ahead of a June 7 election as the once-close ally pivots toward deeper ties with Brussels and Washington, signaling continued friction in the Caucasus region."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/russia-ups-pressure-armenia-ahead-sundays-election-2026-06-01/",
-        "https://www.reuters.com/business/russia-ups-pressure-armenia-ahead-sundays-election-2026-06-01/"
-      ]
-    },
-    {
-      "headline": "South Korea Exports Surge to Four-Decade High on AI Chip Boom",
-      "summary": "South Korea's exports grew at the strongest annual rate in over 40 years in May as a global AI investment boom drove chip sales to record levels.",
-      "emoji": "🇰🇷",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/south-korea-export-growth-hits-four-decade-high-chip-sales-hit-record-ai-boom-2026-06-01/",
-      "timestamp": "2026-06-02T02:03:00+03:00"
     }
   ]
 }
