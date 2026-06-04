@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-04T13:04:46+03:00",
+  "lastUpdated": "2026-06-04T14:04:24+03:00",
   "headlines": [
+    {
+      "headline": "Brunei Sultan appoints sons as ministers in major cabinet reshuffle",
+      "summary": "Sultan Hassanal Bolkiah announced a significant cabinet shake-up, creating new portfolios and appointing two of his younger sons as ministers in a move seen as preparing for succession.",
+      "emoji": "🇧🇳",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/bruneis-sultan-announces-cabinet-shake-up-appoints-sons-ministers-2026-06-04/",
+      "timestamp": "2026-06-04T14:03:00+03:00"
+    },
+    {
+      "headline": "Five Eyes alliance warns China targeting personnel via fake job ads",
+      "summary": "China is targeting Five Eyes intelligence alliance personnel through fake job postings on LinkedIn, Indeed and Upwork to access classified information. Chinese agents pose as HR consultants and pressure applicants to provide sensitive data.",
+      "emoji": "🕵️",
+      "category": "Cyber",
+      "source": "AP News",
+      "url": "https://apnews.com/article/china-spying-five-eyes-britain-d2d1c500dd91e4b3d15bf22edb133568",
+      "timestamp": "2026-06-04T14:03:00+03:00"
+    },
     {
       "headline": "Germany Loses UN Security Council Seat to Austria and Portugal",
       "summary": "Germany failed to secure a temporary UN Security Council seat, with its support for Ukraine and close ties to Israel potentially costing Berlin the vote. Austria and Portugal won the two available seats.",
@@ -8,7 +26,23 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/germany-puts-brave-face-un-security-council-defeat-2026-06-03/",
-      "timestamp": "2026-06-04T13:03:00+03:00"
+      "timestamp": "2026-06-04T13:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/world/europe/article/3355881/portugal-and-austria-defeat-germany-seats-un-security-council",
+          "angle": "Portugal and Austria Defeat Germany for UN Security Council Seats",
+          "summary": "Portugal and Austria won seats on the UN Security Council, defeating Germany in a vote. Kyrgyzstan also secured a seat for the first time, beating the Philippines 143-49."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "SCMP"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/germany-puts-brave-face-un-security-council-defeat-2026-06-03/",
+        "https://www.scmp.com/news/world/europe/article/3355881/portugal-and-austria-defeat-germany-seats-un-security-council"
+      ]
     },
     {
       "headline": "US House Votes to Limit Trump's Iran War Powers",
@@ -17,7 +51,23 @@
       "category": "US Politics",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/us/us-house-backs-resolution-curbing-trump-iran-war-powers-2026-06-03/",
-      "timestamp": "2026-06-04T13:03:00+03:00"
+      "timestamp": "2026-06-04T13:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536",
+          "angle": "US House votes to curb Trump's Iran war powers in rebuke",
+          "summary": "The House passed a war powers resolution with a 215-208 vote, with four Republicans joining Democrats. The measure aims to limit presidential military authority over Iran."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/us/us-house-backs-resolution-curbing-trump-iran-war-powers-2026-06-03/",
+        "https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536"
+      ]
     },
     {
       "headline": "Russia Pummels Ukrainian Cities as Battlefield Advances Stall",
@@ -35,7 +85,23 @@
       "category": "US-China",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/china-bans-four-new-zealand-lawmakers-after-taiwan-visit-media-reports-2026-06-03/",
-      "timestamp": "2026-06-04T13:03:00+03:00"
+      "timestamp": "2026-06-04T13:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cx21r1y223ro",
+          "angle": "China bans four New Zealand MPs for one year over Taiwan visit",
+          "summary": "Beijing sanctioned the lawmakers after they visited Taiwan last month, barring them from China for a year in the latest diplomatic row over the self-governed island."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/china-bans-four-new-zealand-lawmakers-after-taiwan-visit-media-reports-2026-06-03/",
+        "https://www.bbc.com/news/articles/cx21r1y223ro"
+      ]
     },
     {
       "headline": "UK Summons Russian Ambassador After Drone Strikes Romania",
@@ -228,31 +294,6 @@
       "timestamp": "2026-06-04T11:00:00+03:00"
     },
     {
-      "headline": "US House votes to curb Trump's Iran war powers in rebuke",
-      "summary": "The House passed a war powers resolution with a 215-208 vote, with four Republicans joining Democrats. The measure aims to limit presidential military authority over Iran.",
-      "emoji": "🏛️",
-      "category": "US Politics",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536",
-      "timestamp": "2026-06-04T10:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536",
-          "angle": "US House Approves War Powers Resolution to Halt Iran Military Action",
-          "summary": "The House voted 215-208 to rein in presidential war powers on Iran, with four Republicans joining Democrats. The vote represents a significant congressional rebuke to Trump over the ongoing conflict."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "AP News"
-      ],
-      "urls": [
-        "https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536",
-        "https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536"
-      ]
-    },
-    {
       "headline": "EU advances Ukraine and Moldova membership talks after Hungary drops veto",
       "summary": "All 27 EU member states have backed opening formal accession negotiations with Ukraine and Moldova after Hungary reached an agreement with Kyiv, clearing a key hurdle for EU enlargement amid ongoing war.",
       "emoji": "🇪🇺",
@@ -314,31 +355,6 @@
       "source": "DW",
       "url": "https://www.dw.com/en/saudi-arabia-and-russia-tighten-grip-on-oil-market-as-the-uae-exits-opec/a-77387950",
       "timestamp": "2026-06-04T08:05:00+03:00"
-    },
-    {
-      "headline": "China bans four New Zealand MPs for one year over Taiwan visit",
-      "summary": "Beijing sanctioned the lawmakers after they visited Taiwan last month, barring them from China for a year in the latest diplomatic row over the self-governed island.",
-      "emoji": "🇨🇳🇳🇿",
-      "category": "US-China",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cx21r1y223ro",
-      "timestamp": "2026-06-04T08:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c7e8k9lx2mnp",
-          "angle": "China bans four New Zealand MPs over Taiwan visit",
-          "summary": "China imposed one-year entry bans on four New Zealand lawmakers after they visited Taiwan, in what Wellington called an \"intimidation tactic.\" New Zealand's Foreign Minister Winston Peters demanded an explanation from Beijing."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/cx21r1y223ro",
-        "https://www.bbc.com/news/articles/c7e8k9lx2mnp"
-      ]
     },
     {
       "headline": "Germany blames Russia after losing UN Security Council seat",
@@ -635,15 +651,6 @@
       "category": "Middle East",
       "source": "Haaretz",
       "url": "https://www.haaretz.com/israel-news/israel-politics/2026-06-04/ty-article/.premium/haredi-protesters-storm-home-of-senior-israeli-judge-over-idf-draft-arrests/0000019e-8f20-db6c-adff-bffe2bff0000",
-      "timestamp": "2026-06-04T02:05:00+03:00"
-    },
-    {
-      "headline": "Portugal and Austria Defeat Germany for UN Security Council Seats",
-      "summary": "Portugal and Austria won seats on the UN Security Council, defeating Germany in a vote. Kyrgyzstan also secured a seat for the first time, beating the Philippines 143-49.",
-      "emoji": "🏛️",
-      "category": "Diplomacy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/world/europe/article/3355881/portugal-and-austria-defeat-germany-seats-un-security-council",
       "timestamp": "2026-06-04T02:05:00+03:00"
     },
     {
@@ -2914,40 +2921,6 @@
       "urls": [
         "https://kyivindependent.com/ukraine-war-latest-russias-territorial-gains-slipped-into-red-in-may-deepstate-reports/",
         "https://kyivindependent.com/russian-monthly-territorial-gains-slip-into-negative-for-first-time-since-2023-deepstate-reports/"
-      ]
-    },
-    {
-      "headline": "Taiwan KMT leader heads to US amid scrutiny of defense cuts",
-      "summary": "Kuomintang Chairman Cheng Li-wun begins a two-week US tour to shore up foreign policy credentials as Washington grows wary of her party's defense cuts and tilt toward Beijing following her meeting with Xi Jinping.",
-      "emoji": "🇹🇼🇺🇸",
-      "category": "Asia-Pacific",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-s-kmt-leader-set-for-us-trip-amid-scrutiny-of-party-s-defense-cuts",
-      "timestamp": "2026-06-02T04:05:00+03:00"
-    },
-    {
-      "headline": "Israel and Iran Step Back From Threats After Day of Tension",
-      "summary": "President Trump announced Israel and Hezbollah agreed not to attack each other, though Netanyahu later distanced himself from cease-fire talks in Lebanon.",
-      "emoji": "🇮🇱🇮🇷",
-      "category": "US-Iran War",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon",
-      "timestamp": "2026-06-02T04:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "The New York Times",
-          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0doYXZBSjJCdjlYOVhxM25obDN",
-          "angle": "Israel and Iran Step Back From Threats After Tense Day",
-          "summary": "Both sides have de-escalated immediate military threats following intense diplomatic activity, though underlying tensions remain unresolved. The de-escalation comes after a day of heightened rhetoric."
-        }
-      ],
-      "sources": [
-        "New York Times",
-        "The New York Times"
-      ],
-      "urls": [
-        "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon",
-        "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0doYXZBSjJCdjlYOVhxM25obDN"
       ]
     }
   ]
