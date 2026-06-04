@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-06-04T10:05:44+03:00",
+  "lastUpdated": "2026-06-04T10:08:52+03:00",
   "headlines": [
+    {
+      "headline": "EU advances Ukraine and Moldova membership talks after Hungary drops veto",
+      "summary": "All 27 EU member states have backed opening formal accession negotiations with Ukraine and Moldova after Hungary reached an agreement with Kyiv, clearing a key hurdle for EU enlargement amid ongoing war.",
+      "emoji": "🇪🇺",
+      "category": "Europe",
+      "source": "Firstpost",
+      "url": "https://www.firstpost.com/world/eu-ukraine-membership-moldova-european-union-russia-war-hungary-veto-14018735.html",
+      "timestamp": "2026-06-04T10:00:00+03:00"
+    },
+    {
+      "headline": "Indonesia arrests deputy immigration minister in free meals program graft scandal",
+      "summary": "Indonesian authorities detained the deputy immigration minister on corruption charges, one day after arresting the former head of an agency overseeing President Prabowo Subianto's flagship free meals initiative.",
+      "emoji": "🇮🇩",
+      "category": "Southeast Asia",
+      "source": "MSN",
+      "url": "https://www.msn.com/en-my/politics/government/indonesia-arrests-deputy-immigration-minister-on-graft-charges/ar-AA24NmYX",
+      "timestamp": "2026-06-04T10:00:00+03:00"
+    },
+    {
+      "headline": "US targets 60 economies with new tariffs over forced labor allegations",
+      "summary": "The US Trade Representative recommended 10-12.5 percent tariffs on imports from 60 major trading partners, including ASEAN nations, citing failure to ban goods made with forced labor.",
+      "emoji": "💰",
+      "category": "Economy",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/06/major-asean-economies-in-line-for-new-us-tariffs-over-forced-labor/",
+      "timestamp": "2026-06-04T10:00:00+03:00"
+    },
     {
       "headline": "US House votes to curb Trump's Iran war powers in rebuke",
       "summary": "The House passed a war powers resolution with a 215-208 vote, with four Republicans joining Democrats. The measure aims to limit presidential military authority over Iran.",
@@ -8,16 +35,23 @@
       "category": "US Politics",
       "source": "AP News",
       "url": "https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536",
-      "timestamp": "2026-06-04T10:05:00+03:00"
-    },
-    {
-      "headline": "South China Sea: Vietnam joins land reclamation race as tensions rise",
-      "summary": "After years of watching China build islands, Vietnam and other claimants are now dredging reefs in the disputed South China Sea, escalating territorial disputes.",
-      "emoji": "🌏",
-      "category": "Asia-Pacific",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cy823n3ln29o",
-      "timestamp": "2026-06-04T10:00:00+03:00"
+      "timestamp": "2026-06-04T10:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536",
+          "angle": "US House Approves War Powers Resolution to Halt Iran Military Action",
+          "summary": "The House voted 215-208 to rein in presidential war powers on Iran, with four Republicans joining Democrats. The vote represents a significant congressional rebuke to Trump over the ongoing conflict."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "AP News"
+      ],
+      "urls": [
+        "https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536",
+        "https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536"
+      ]
     },
     {
       "headline": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
@@ -444,31 +478,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/news/world/europe/article/3355881/portugal-and-austria-defeat-germany-seats-un-security-council",
       "timestamp": "2026-06-04T02:05:00+03:00"
-    },
-    {
-      "headline": "US House Approves War Powers Resolution to Halt Iran Military Action",
-      "summary": "The House voted 215-208 to rein in presidential war powers on Iran, with four Republicans joining Democrats. The vote represents a significant congressional rebuke to Trump over the ongoing conflict.",
-      "emoji": "🇺🇸",
-      "category": "US Politics",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536",
-      "timestamp": "2026-06-04T02:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cj6pldg39deo",
-          "angle": "US House passes war powers resolution to curb Trump authority on Iran",
-          "summary": "The House voted 215-208 to rein in presidential war powers, with four Republicans joining Democrats. The measure aims to limit military action against Iran without congressional approval."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "BBC"
-      ],
-      "urls": [
-        "https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536",
-        "https://www.bbc.com/news/articles/cj6pldg39deo"
-      ]
     },
     {
       "headline": "Russian Oil Pipeline to Hungary and Slovakia Resumes After Months-Long Outage",
@@ -2437,8 +2446,8 @@
         {
           "source": "BBC",
           "url": "https://www.bbc.com/news/articles/cy823n3ln29o",
-          "angle": "South China Sea tensions rise as multiple nations expand island claims",
-          "summary": "After years of watching China create artificial islands, other regional powers are now building their own facilities, escalating territorial disputes in the strategic waterway."
+          "angle": "South China Sea: Vietnam joins land reclamation race as tensions rise",
+          "summary": "After years of watching China build islands, Vietnam and other claimants are now dredging reefs in the disputed South China Sea, escalating territorial disputes."
         }
       ],
       "sources": [
