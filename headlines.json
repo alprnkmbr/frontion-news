@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-04T12:04:27+03:00",
+  "lastUpdated": "2026-06-04T12:09:36+03:00",
   "headlines": [
+    {
+      "headline": "Taliban signs weapons deal with Russia, warns Pakistan",
+      "summary": "Afghanistan's Taliban regime signed a military-technical cooperation agreement with Russia on May 27, focusing on repairing Russian-made equipment. Taliban defense minister warned Pakistan would \"soon no longer dare\" to attack Afghan territory.",
+      "emoji": "🇦🇫🇷🇺",
+      "category": "Defense Industry",
+      "source": "DW",
+      "url": "https://www.dw.com/en/taliban-russia-are-cozying-up-to-each-other-why/a-77409479",
+      "timestamp": "2026-06-04T12:10:00+03:00"
+    },
+    {
+      "headline": "US crude inventories in freefall, down 8 million barrels",
+      "summary": "US commercial crude stockpiles fell 8 million barrels to 433.7 million, now 3% below the five-year average. Brent rose to .24, WTI to .99 as supply tightens amid Middle East crisis.",
+      "emoji": "🛢️📉",
+      "category": "Energy",
+      "source": "OilPrice",
+      "url": "https://oilprice.com/Energy/Crude-Oil/US-Crude-Oil-Inventories-in-Freefall-EIA.html",
+      "timestamp": "2026-06-04T12:10:00+03:00"
+    },
+    {
+      "headline": "UAE sees opportunity in Hormuz crisis to protect global data",
+      "summary": "As Iran threatens subsea cables through the Strait of Hormuz, the UAE is positioning itself to become a critical hub for data security. Over 95% of intercontinental data traffic travels through subsea cables.",
+      "emoji": "🇦🇪💻",
+      "category": "Geopolitics",
+      "source": "The National",
+      "url": "https://www.thenationalnews.com/opinion/comment/2026/06/04/amid-the-hormuz-crisis-the-uae-has-an-opportunity-to-protect-the-worlds-data/",
+      "timestamp": "2026-06-04T12:10:00+03:00"
+    },
+    {
+      "headline": "Can Japan's Takaichi repair fractured China ties?",
+      "summary": "Japan-China relations are at their most difficult point in years. Despite PM Takaichi's hawkish reputation, analysts recall how Abe Shinzo—once viewed similarly—ultimately stabilized relations with Beijing.",
+      "emoji": "🇯🇵🇨🇳",
+      "category": "Asia-Pacific",
+      "source": "The Diplomat",
+      "url": "https://thediplomat.com/2026/06/can-a-takaichi-government-stabilize-china-japan-relations/",
+      "timestamp": "2026-06-04T12:10:00+03:00"
+    },
+    {
+      "headline": "US delaying weapons deliveries to allies, raising reliability concerns",
+      "summary": "Multiple US allies have been told their weapons deliveries are being slowed as Washington prioritizes replenishing its own stockpiles. The move has sent shockwaves through European and Asian defense communities.",
+      "emoji": "⚔️🇺🇸",
+      "category": "Defense Industry",
+      "source": "Breaking Defense",
+      "url": "https://breakingdefense.com/2026/06/the-us-is-delaying-weapon-sales-to-allies-will-there-be-long-term-impact/",
+      "timestamp": "2026-06-04T12:10:00+03:00"
+    },
     {
       "headline": "Ukrainian Drones Strike St. Petersburg Oil Terminal as Zelenskyy Vows Escalation",
       "summary": "Ukrainian long-range drones hit an oil terminal in St. Petersburg, setting it ablaze just days before Putin's economic forum. The attack came as Russia launched its largest drone barrage on Ukraine in months, killing 23 civilians.",
@@ -8,7 +53,23 @@
       "category": "Ukraine-Russia War",
       "source": "AP News",
       "url": "https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3",
-      "timestamp": "2026-06-04T12:03:00+03:00"
+      "timestamp": "2026-06-04T12:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3",
+          "angle": "Ukrainian Drones Hit St Petersburg Oil Terminal Ahead of Economic Forum",
+          "summary": "Ukrainian drones struck oil storage facilities near St Petersburg as Putin's flagship economic forum was set to open. The attack comes days before the Russian president is scheduled to address the event."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "AP News"
+      ],
+      "urls": [
+        "https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3",
+        "https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3"
+      ]
     },
     {
       "headline": "Iranian Drone Attack on Kuwait Airport Kills One, Tests Fragile Ceasefire",
@@ -17,7 +78,23 @@
       "category": "Middle East",
       "source": "AP News",
       "url": "https://apnews.com/article/iran-us-israel-lebanon-war-kuwait-ceasefire-3-june-2026-de2d1814c0f38252bf0383be859c870b",
-      "timestamp": "2026-06-04T12:03:00+03:00"
+      "timestamp": "2026-06-04T12:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c5yx135yg53o",
+          "angle": "Iranian drones strike Kuwait airport killing one, testing ceasefire",
+          "summary": "Iran claimed the attack was retaliation for earlier US strikes on an Iranian oil tanker and island. At least 63 people were injured in the drone strike on Kuwait international airport."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "BBC"
+      ],
+      "urls": [
+        "https://apnews.com/article/iran-us-israel-lebanon-war-kuwait-ceasefire-3-june-2026-de2d1814c0f38252bf0383be859c870b",
+        "https://www.bbc.com/news/articles/c5yx135yg53o"
+      ]
     },
     {
       "headline": "Trump Acknowledges Calling Netanyahu \"Crazy\" as Israel-Hezbollah Fighting Complicates Iran Talks",
@@ -26,7 +103,23 @@
       "category": "Diplomacy",
       "source": "AP News",
       "url": "https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97",
-      "timestamp": "2026-06-04T12:03:00+03:00"
+      "timestamp": "2026-06-04T12:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97",
+          "angle": "Trump confirms calling Netanyahu \"crazy\" as Israel complicates Iran peace talks",
+          "summary": "President Trump acknowledged he called Israeli Prime Minister Netanyahu \"crazy\" and accused Israel of complicating peace negotiations with Iran. The comments come amid ongoing ceasefire discussions following Iranian strikes."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "AP News"
+      ],
+      "urls": [
+        "https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97",
+        "https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97"
+      ]
     },
     {
       "headline": "US Support for Same-Sex Marriage Declines for First Time in Decades, Gallup Poll Shows",
@@ -140,31 +233,6 @@
       "source": "MSN",
       "url": "https://www.msn.com/en-my/politics/government/indonesia-arrests-deputy-immigration-minister-on-graft-charges/ar-AA24NmYX",
       "timestamp": "2026-06-04T10:00:00+03:00"
-    },
-    {
-      "headline": "Iranian drones strike Kuwait airport killing one, testing ceasefire",
-      "summary": "Iran claimed the attack was retaliation for earlier US strikes on an Iranian oil tanker and island. At least 63 people were injured in the drone strike on Kuwait international airport.",
-      "emoji": "🇰🇼",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5yx135yg53o",
-      "timestamp": "2026-06-04T09:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cq6peqrnzpro",
-          "angle": "Iranian drone strike kills one at Kuwait International Airport",
-          "summary": "Iran struck Kuwait's main airport with drones, killing one person and injuring dozens, marking a major escalation as the US-Iran ceasefire is tested. The attack damaged the airport terminal and disrupted flights across the Gulf region."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/c5yx135yg53o",
-        "https://www.bbc.com/news/articles/cq6peqrnzpro"
-      ]
     },
     {
       "headline": "Oman resists US pressure to break ties with Iran over Hormuz Strait",
@@ -552,31 +620,6 @@
       "timestamp": "2026-06-04T02:00:00+03:00"
     },
     {
-      "headline": "Trump confirms calling Netanyahu \"crazy\" as Israel complicates Iran peace talks",
-      "summary": "President Trump acknowledged he called Israeli Prime Minister Netanyahu \"crazy\" and accused Israel of complicating peace negotiations with Iran. The comments come amid ongoing ceasefire discussions following Iranian strikes.",
-      "emoji": "🇺🇸🇮🇱💬",
-      "category": "Diplomacy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97",
-      "timestamp": "2026-06-04T01:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o",
-          "angle": "Trump Confirms Calling Netanyahu 'Crazy', Says Israel Complicating Iran Peace",
-          "summary": "Trump acknowledged his harsh criticism of the Israeli prime minister over Lebanon attacks, revealing strains in the US-Israel relationship as ceasefire negotiations with Iran continue."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "BBC"
-      ],
-      "urls": [
-        "https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97",
-        "https://www.bbc.com/news/articles/cvgz21pq3g6o"
-      ]
-    },
-    {
       "headline": "At least 21 killed in Delhi fire including foreign nationals",
       "summary": "A deadly fire at a building in Delhi killed at least 21 people, including foreign nationals who had travelled to India for medical treatment. Many victims were South Asians accompanying relatives seeking healthcare.",
       "emoji": "🇮🇳🔥",
@@ -754,31 +797,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/3/defence-energy-halal-sectors-top-agenda-in-turkiye-indonesia-talks",
       "timestamp": "2026-06-03T22:00:00+03:00"
-    },
-    {
-      "headline": "Ukrainian Drones Hit St Petersburg Oil Terminal Ahead of Economic Forum",
-      "summary": "Ukrainian drones struck oil storage facilities near St Petersburg as Putin's flagship economic forum was set to open. The attack comes days before the Russian president is scheduled to address the event.",
-      "emoji": "🇺🇦🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3",
-      "timestamp": "2026-06-03T21:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/world-europe",
-          "angle": "Ukrainian drones strike St. Petersburg oil facilities ahead of Putin economic forum",
-          "summary": "Long-range drones hit oil storage near St. Petersburg hours before Russian President's flagship economic forum. Attack demonstrates Ukraine's continued reach into Russian territory."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "BBC"
-      ],
-      "urls": [
-        "https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3",
-        "https://www.bbc.com/news/world-europe"
-      ]
     },
     {
       "headline": "Iran Strikes Kuwait Airport, Killing One as Ceasefire Tested",
@@ -2963,31 +2981,6 @@
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-06-02/s-korea-surpasses-india-as-world-s-sixth-largest-stock-market",
       "timestamp": "2026-06-02T04:03:00+03:00"
-    },
-    {
-      "headline": "Venezuelan Ruling Party Unity Fractures as Delcy Rodríguez Shifts Policy",
-      "summary": "Chavismo coalition shows cracks as Delcy Rodríguez moves away from Chávez-era policies amid Venezuela complex political and economic crisis.",
-      "emoji": "🇻🇪",
-      "category": "Latin America",
-      "source": "AP News",
-      "url": "https://apnews.com/article/venezuela-chavez-maduro-rodriguez-chavismo-us-trump-a8d96666a51289f0c88efcd89a9413bc",
-      "timestamp": "2026-06-02T03:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/venezuela-chavez-maduro-rodriguez-chavismo-us-trump-a8d96666a51289f0c88efcd89a9413bc",
-          "angle": "Venezuela ruling party fractures after Maduro capture",
-          "summary": "Chavismo loyalists are openly criticizing acting President Delcy Rodriguez for her warming relationship with Washington. The deportation of a former minister to the US and authorization for US military exercises in Caracas have exposed deep internal divisions."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "AP News"
-      ],
-      "urls": [
-        "https://apnews.com/article/venezuela-chavez-maduro-rodriguez-chavismo-us-trump-a8d96666a51289f0c88efcd89a9413bc",
-        "https://apnews.com/article/venezuela-chavez-maduro-rodriguez-chavismo-us-trump-a8d96666a51289f0c88efcd89a9413bc"
-      ]
     }
   ]
 }

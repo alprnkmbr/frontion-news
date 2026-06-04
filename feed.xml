@@ -1,210 +1,262 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
 <title>Frontion News Headlines</title>
-<link>https://frontion.news</link>
-<description>Breaking geopolitical news from Tier 1 sources</description>
+<link>https://frontion.com</link>
+<description>Geopolitical news aggregator covering conflicts, diplomacy, and global affairs</description>
 <language>en-us</language>
-<lastBuildDate>Thu, 04 Jun 2026 12:04:36 +0300</lastBuildDate>
+<lastBuildDate>Thu, 04 Jun 2026 12:09:43 +0300</lastBuildDate>
+<atom:link href="https://frontion.com/feed.xml" rel="self" type="application/rss+xml"/>
+
+<item>
+<title>🇦🇫🇷🇺 Taliban signs weapons deal with Russia, warns Pakistan</title>
+<link>https://www.dw.com/en/taliban-russia-are-cozying-up-to-each-other-why/a-77409479</link>
+<description>Afghanistan's Taliban regime signed a military-technical cooperation agreement with Russia on May 27, focusing on repairing Russian-made equipment. Taliban defense minister warned Pakistan would "soon no longer dare" to attack Afghan territory.</description>
+<dc:source>DW</dc:source>
+<dc:subject>Defense Industry</dc:subject>
+<pubDate>2026-06-04T12:10:00+03:00</pubDate>
+<guid isPermaLink="true">https://www.dw.com/en/taliban-russia-are-cozying-up-to-each-other-why/a-77409479</guid>
+</item>
+
+<item>
+<title>🛢️📉 US crude inventories in freefall, down 8 million barrels</title>
+<link>https://oilprice.com/Energy/Crude-Oil/US-Crude-Oil-Inventories-in-Freefall-EIA.html</link>
+<description>US commercial crude stockpiles fell 8 million barrels to 433.7 million, now 3% below the five-year average. Brent rose to .24, WTI to .99 as supply tightens amid Middle East crisis.</description>
+<dc:source>OilPrice</dc:source>
+<dc:subject>Energy</dc:subject>
+<pubDate>2026-06-04T12:10:00+03:00</pubDate>
+<guid isPermaLink="true">https://oilprice.com/Energy/Crude-Oil/US-Crude-Oil-Inventories-in-Freefall-EIA.html</guid>
+</item>
+
+<item>
+<title>🇦🇪💻 UAE sees opportunity in Hormuz crisis to protect global data</title>
+<link>https://www.thenationalnews.com/opinion/comment/2026/06/04/amid-the-hormuz-crisis-the-uae-has-an-opportunity-to-protect-the-worlds-data/</link>
+<description>As Iran threatens subsea cables through the Strait of Hormuz, the UAE is positioning itself to become a critical hub for data security. Over 95% of intercontinental data traffic travels through subsea cables.</description>
+<dc:source>The National</dc:source>
+<dc:subject>Geopolitics</dc:subject>
+<pubDate>2026-06-04T12:10:00+03:00</pubDate>
+<guid isPermaLink="true">https://www.thenationalnews.com/opinion/comment/2026/06/04/amid-the-hormuz-crisis-the-uae-has-an-opportunity-to-protect-the-worlds-data/</guid>
+</item>
+
+<item>
+<title>🇯🇵🇨🇳 Can Japan's Takaichi repair fractured China ties?</title>
+<link>https://thediplomat.com/2026/06/can-a-takaichi-government-stabilize-china-japan-relations/</link>
+<description>Japan-China relations are at their most difficult point in years. Despite PM Takaichi's hawkish reputation, analysts recall how Abe Shinzo—once viewed similarly—ultimately stabilized relations with Beijing.</description>
+<dc:source>The Diplomat</dc:source>
+<dc:subject>Asia-Pacific</dc:subject>
+<pubDate>2026-06-04T12:10:00+03:00</pubDate>
+<guid isPermaLink="true">https://thediplomat.com/2026/06/can-a-takaichi-government-stabilize-china-japan-relations/</guid>
+</item>
+
+<item>
+<title>⚔️🇺🇸 US delaying weapons deliveries to allies, raising reliability concerns</title>
+<link>https://breakingdefense.com/2026/06/the-us-is-delaying-weapon-sales-to-allies-will-there-be-long-term-impact/</link>
+<description>Multiple US allies have been told their weapons deliveries are being slowed as Washington prioritizes replenishing its own stockpiles. The move has sent shockwaves through European and Asian defense communities.</description>
+<dc:source>Breaking Defense</dc:source>
+<dc:subject>Defense Industry</dc:subject>
+<pubDate>2026-06-04T12:10:00+03:00</pubDate>
+<guid isPermaLink="true">https://breakingdefense.com/2026/06/the-us-is-delaying-weapon-sales-to-allies-will-there-be-long-term-impact/</guid>
+</item>
+
 <item>
 <title>🇺🇦 Ukrainian Drones Strike St. Petersburg Oil Terminal as Zelenskyy Vows Escalation</title>
 <link>https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3</link>
 <description>Ukrainian long-range drones hit an oil terminal in St. Petersburg, setting it ablaze just days before Putin's economic forum. The attack came as Russia launched its largest drone barrage on Ukraine in months, killing 23 civilians.</description>
-<category>Ukraine-Russia War</category>
-<source url="https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3">AP News</source>
-<pubDate>Thu, 04 Jun 2026 12:03:00 +0300</pubDate>
+<dc:source>AP News</dc:source>
+<dc:subject>Ukraine-Russia War</dc:subject>
+<pubDate>2026-06-04T12:03:00+03:00</pubDate>
+<guid isPermaLink="true">https://apnews.com/article/russia-ukraine-petersburg-oil-terminal-putin-drone-887969921c595f3a81c3b6c0b120b5f3</guid>
 </item>
+
 <item>
 <title>🇮🇷 Iranian Drone Attack on Kuwait Airport Kills One, Tests Fragile Ceasefire</title>
 <link>https://apnews.com/article/iran-us-israel-lebanon-war-kuwait-ceasefire-3-june-2026-de2d1814c0f38252bf0383be859c870b</link>
 <description>Iranian drones heavily damaged Kuwait International Airport's passenger terminal, killing an Indian national and wounding 63. Kuwait expelled two Iranian diplomats as the four-month-old US-Iran ceasefire showed increasing strain.</description>
-<category>Middle East</category>
-<source url="https://apnews.com/article/iran-us-israel-lebanon-war-kuwait-ceasefire-3-june-2026-de2d1814c0f38252bf0383be859c870b">AP News</source>
-<pubDate>Thu, 04 Jun 2026 12:03:00 +0300</pubDate>
+<dc:source>AP News</dc:source>
+<dc:subject>Middle East</dc:subject>
+<pubDate>2026-06-04T12:03:00+03:00</pubDate>
+<guid isPermaLink="true">https://apnews.com/article/iran-us-israel-lebanon-war-kuwait-ceasefire-3-june-2026-de2d1814c0f38252bf0383be859c870b</guid>
 </item>
+
 <item>
 <title>🇺🇸 Trump Acknowledges Calling Netanyahu "Crazy" as Israel-Hezbollah Fighting Complicates Iran Talks</title>
 <link>https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97</link>
 <description>President Trump confirmed he called Netanyahu "crazy" in a phone call, expressing frustration that Israel's ongoing conflict with Hezbollah is holding back peace negotiations with Iran. Both leaders insisted their relationship remains solid.</description>
-<category>Diplomacy</category>
-<source url="https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97">AP News</source>
-<pubDate>Thu, 04 Jun 2026 12:03:00 +0300</pubDate>
+<dc:source>AP News</dc:source>
+<dc:subject>Diplomacy</dc:subject>
+<pubDate>2026-06-04T12:03:00+03:00</pubDate>
+<guid isPermaLink="true">https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97</guid>
 </item>
+
 <item>
 <title>🇺🇸 US Support for Same-Sex Marriage Declines for First Time in Decades, Gallup Poll Shows</title>
 <link>https://apnews.com/article/gallup-poll-same-sex-marriage-morality-e12acb151446ac1b7970c0825bf1d072</link>
 <description>A new Gallup poll reveals that US support for same-sex marriage has flattened at 65%, down from 71% in 2022-2023. The decline is driven almost entirely by dropping acceptance among Republicans, now at 37%.</description>
-<category>US Politics</category>
-<source url="https://apnews.com/article/gallup-poll-same-sex-marriage-morality-e12acb151446ac1b7970c0825bf1d072">AP News</source>
-<pubDate>Thu, 04 Jun 2026 12:03:00 +0300</pubDate>
+<dc:source>AP News</dc:source>
+<dc:subject>US Politics</dc:subject>
+<pubDate>2026-06-04T12:03:00+03:00</pubDate>
+<guid isPermaLink="true">https://apnews.com/article/gallup-poll-same-sex-marriage-morality-e12acb151446ac1b7970c0825bf1d072</guid>
 </item>
+
 <item>
 <title>🇨🇳 China Cuts Domestic Fuel Prices as Iran War Impacts Energy Markets</title>
 <link>https://www.reuters.com/world/asia-pacific/china-cut-domestic-retail-gasoline-diesel-prices-june-5-2026-06-04/</link>
 <description>China announced it will lower retail price caps on gasoline and diesel from June 5, marking the second cut since the Iran war began and reflecting constrained global energy supplies.</description>
-<category>Energy</category>
-<source url="https://www.reuters.com/world/asia-pacific/china-cut-domestic-retail-gasoline-diesel-prices-june-5-2026-06-04/">Reuters</source>
-<pubDate>Thu, 04 Jun 2026 11:00:00 +0300</pubDate>
+<dc:source>Reuters</dc:source>
+<dc:subject>Energy</dc:subject>
+<pubDate>2026-06-04T11:00:00+03:00</pubDate>
+<guid isPermaLink="true">https://www.reuters.com/world/asia-pacific/china-cut-domestic-retail-gasoline-diesel-prices-june-5-2026-06-04/</guid>
 </item>
+
 <item>
 <title>🇮🇱 Israel Says Lebanon Operations to Continue Despite Ceasefire Announcement</title>
 <link>https://www.reuters.com/world/middle-east/israel-continue-operations-lebanon-now-despite-ceasefire-defence-minister-says-2026-06-04/</link>
 <description>Israeli Defense Minister Israel Katz stated that military operations in Lebanon will continue and troops will not withdraw, despite the announcement of a renewed ceasefire agreement.</description>
-<category>Middle East</category>
-<source url="https://www.reuters.com/world/middle-east/israel-continue-operations-lebanon-now-despite-ceasefire-defence-minister-says-2026-06-04/">Reuters</source>
-<pubDate>Thu, 04 Jun 2026 11:00:00 +0300</pubDate>
+<dc:source>Reuters</dc:source>
+<dc:subject>Middle East</dc:subject>
+<pubDate>2026-06-04T11:00:00+03:00</pubDate>
+<guid isPermaLink="true">https://www.reuters.com/world/middle-east/israel-continue-operations-lebanon-now-despite-ceasefire-defence-minister-says-2026-06-04/</guid>
 </item>
+
 <item>
 <title>🇹🇼 Taiwan to Expand Anti-Ship Missile Arsenal to Counter China Threat</title>
 <link>https://www.reuters.com/business/aerospace-defense/taiwan-beefs-up-anti-ship-missile-arsenal-counter-threat-chinese-invasion-2026-06-04/</link>
 <description>Taiwan plans to increase its anti-ship missile arsenal to over 1,800 by early 2029, enhancing capabilities to counter potential blockade or invasion threats from China.</description>
-<category>US-China</category>
-<source url="https://www.reuters.com/business/aerospace-defense/taiwan-beefs-up-anti-ship-missile-arsenal-counter-threat-chinese-invasion-2026-06-04/">Reuters</source>
-<pubDate>Thu, 04 Jun 2026 11:00:00 +0300</pubDate>
+<dc:source>Reuters</dc:source>
+<dc:subject>US-China</dc:subject>
+<pubDate>2026-06-04T11:00:00+03:00</pubDate>
+<guid isPermaLink="true">https://www.reuters.com/business/aerospace-defense/taiwan-beefs-up-anti-ship-missile-arsenal-counter-threat-chinese-invasion-2026-06-04/</guid>
 </item>
+
 <item>
 <title>🇳🇿 China Bans Four New Zealand Lawmakers Over Taiwan Visit</title>
 <link>https://apnews.com/article/new-zealand-china-mps-banned-taiwan-beijing-3b2745d7fe9e9db7f26b56187d82b07e</link>
 <description>Beijing barred four New Zealand MPs from entering China, Hong Kong, and Macau for one year as punishment for visiting Taiwan, prompting Wellington to express concern to Beijing.</description>
-<category>Diplomacy</category>
-<source url="https://apnews.com/article/new-zealand-china-mps-banned-taiwan-beijing-3b2745d7fe9e9db7f26b56187d82b07e">AP News</source>
-<pubDate>Thu, 04 Jun 2026 11:00:00 +0300</pubDate>
+<dc:source>AP News</dc:source>
+<dc:subject>Diplomacy</dc:subject>
+<pubDate>2026-06-04T11:00:00+03:00</pubDate>
+<guid isPermaLink="true">https://apnews.com/article/new-zealand-china-mps-banned-taiwan-beijing-3b2745d7fe9e9db7f26b56187d82b07e</guid>
 </item>
+
 <item>
 <title>🇺🇸 US Tells NATO Allies to Boost Air and Naval Forces as Washington Steps Back</title>
 <link>https://www.reuters.com/business/aerospace-defense/us-tells-europe-canada-boost-nato-air-naval-forces-2026-06-03/</link>
 <description>A top US general said Washington expects European NATO allies and Canada to swiftly increase aircraft and naval contributions to alliance defense plans as the US reduces its role in these areas.</description>
-<category>Europe</category>
-<source url="https://www.reuters.com/business/aerospace-defense/us-tells-europe-canada-boost-nato-air-naval-forces-2026-06-03/">Reuters</source>
-<pubDate>Thu, 04 Jun 2026 11:00:00 +0300</pubDate>
+<dc:source>Reuters</dc:source>
+<dc:subject>Europe</dc:subject>
+<pubDate>2026-06-04T11:00:00+03:00</pubDate>
+<guid isPermaLink="true">https://www.reuters.com/business/aerospace-defense/us-tells-europe-canada-boost-nato-air-naval-forces-2026-06-03/</guid>
 </item>
+
 <item>
 <title>🏛️ US House votes to curb Trump's Iran war powers in rebuke</title>
 <link>https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536</link>
 <description>The House passed a war powers resolution with a 215-208 vote, with four Republicans joining Democrats. The measure aims to limit presidential military authority over Iran.</description>
-<category>US Politics</category>
-<source url="https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536">AP News</source>
-<pubDate>Thu, 04 Jun 2026 10:05:00 +0300</pubDate>
+<dc:source>AP News</dc:source>
+<dc:subject>US Politics</dc:subject>
+<pubDate>2026-06-04T10:05:00+03:00</pubDate>
+<guid isPermaLink="true">https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536</guid>
 </item>
+
 <item>
 <title>🇪🇺 EU advances Ukraine and Moldova membership talks after Hungary drops veto</title>
 <link>https://www.firstpost.com/world/eu-ukraine-membership-moldova-european-union-russia-war-hungary-veto-14018735.html</link>
 <description>All 27 EU member states have backed opening formal accession negotiations with Ukraine and Moldova after Hungary reached an agreement with Kyiv, clearing a key hurdle for EU enlargement amid ongoing war.</description>
-<category>Europe</category>
-<source url="https://www.firstpost.com/world/eu-ukraine-membership-moldova-european-union-russia-war-hungary-veto-14018735.html">Firstpost</source>
-<pubDate>Thu, 04 Jun 2026 10:00:00 +0300</pubDate>
+<dc:source>Firstpost</dc:source>
+<dc:subject>Europe</dc:subject>
+<pubDate>2026-06-04T10:00:00+03:00</pubDate>
+<guid isPermaLink="true">https://www.firstpost.com/world/eu-ukraine-membership-moldova-european-union-russia-war-hungary-veto-14018735.html</guid>
 </item>
+
 <item>
 <title>🇮🇩 Indonesia arrests deputy immigration minister in free meals program graft scandal</title>
 <link>https://www.msn.com/en-my/politics/government/indonesia-arrests-deputy-immigration-minister-on-graft-charges/ar-AA24NmYX</link>
 <description>Indonesian authorities detained the deputy immigration minister on corruption charges, one day after arresting the former head of an agency overseeing President Prabowo Subianto's flagship free meals initiative.</description>
-<category>Southeast Asia</category>
-<source url="https://www.msn.com/en-my/politics/government/indonesia-arrests-deputy-immigration-minister-on-graft-charges/ar-AA24NmYX">MSN</source>
-<pubDate>Thu, 04 Jun 2026 10:00:00 +0300</pubDate>
+<dc:source>MSN</dc:source>
+<dc:subject>Southeast Asia</dc:subject>
+<pubDate>2026-06-04T10:00:00+03:00</pubDate>
+<guid isPermaLink="true">https://www.msn.com/en-my/politics/government/indonesia-arrests-deputy-immigration-minister-on-graft-charges/ar-AA24NmYX</guid>
 </item>
-<item>
-<title>🇰🇼 Iranian drones strike Kuwait airport killing one, testing ceasefire</title>
-<link>https://www.bbc.com/news/articles/c5yx135yg53o</link>
-<description>Iran claimed the attack was retaliation for earlier US strikes on an Iranian oil tanker and island. At least 63 people were injured in the drone strike on Kuwait international airport.</description>
-<category>Middle East</category>
-<source url="https://www.bbc.com/news/articles/c5yx135yg53o">BBC</source>
-<pubDate>Thu, 04 Jun 2026 09:03:00 +0300</pubDate>
-</item>
+
 <item>
 <title>🇴🇲 Oman resists US pressure to break ties with Iran over Hormuz Strait</title>
 <link>https://www.theguardian.com/world/2026/jun/04/oman-resists-us-pressure-to-break-ties-with-iran-over-strait-of-hormuz</link>
 <description>Oman is maintaining its diplomatic relationship with Iran despite US pressure to sever ties. The Gulf sultanate has historically served as a mediator between Iran and Western powers.</description>
-<category>Diplomacy</category>
-<source url="https://www.theguardian.com/world/2026/jun/04/oman-resists-us-pressure-to-break-ties-with-iran-over-strait-of-hormuz">The Guardian</source>
-<pubDate>Thu, 04 Jun 2026 09:03:00 +0300</pubDate>
+<dc:source>The Guardian</dc:source>
+<dc:subject>Diplomacy</dc:subject>
+<pubDate>2026-06-04T09:03:00+03:00</pubDate>
+<guid isPermaLink="true">https://www.theguardian.com/world/2026/jun/04/oman-resists-us-pressure-to-break-ties-with-iran-over-strait-of-hormuz</guid>
 </item>
+
 <item>
 <title>🇯🇵 Japan faces plastic shortages as Iran war disrupts naphtha supply</title>
 <link>https://www.theguardian.com/world/2026/jun/04/japan-naphtha-shortage-plastic-bag</link>
 <description>Japan is experiencing shortages of plastic bags, trays and gloves as the Iran conflict cuts off naphtha supplies from the Middle East, the main source for Japanese petrochemical production.</description>
-<category>Asia-Pacific</category>
-<source url="https://www.theguardian.com/world/2026/jun/04/japan-naphtha-shortage-plastic-bag">The Guardian</source>
-<pubDate>Thu, 04 Jun 2026 09:03:00 +0300</pubDate>
+<dc:source>The Guardian</dc:source>
+<dc:subject>Asia-Pacific</dc:subject>
+<pubDate>2026-06-04T09:03:00+03:00</pubDate>
+<guid isPermaLink="true">https://www.theguardian.com/world/2026/jun/04/japan-naphtha-shortage-plastic-bag</guid>
 </item>
+
 <item>
 <title>🇨🇳🌍 Trump and Putin visits highlight China's central role in great-power diplomacy</title>
 <link>https://www.scmp.com/news/china/diplomacy/article/3355814/first-trump-then-putin-go-china-does-great-power-diplomacy-now-hinge-beijing</link>
 <description>Back-to-back summits with the US and Russian presidents underscore Beijing's growing ability to manage its two most important relationships on separate tracks, analysts say.</description>
-<category>Diplomacy</category>
-<source url="https://www.scmp.com/news/china/diplomacy/article/3355814/first-trump-then-putin-go-china-does-great-power-diplomacy-now-hinge-beijing">SCMP</source>
-<pubDate>Thu, 04 Jun 2026 08:05:00 +0300</pubDate>
+<dc:source>SCMP</dc:source>
+<dc:subject>Diplomacy</dc:subject>
+<pubDate>2026-06-04T08:05:00+03:00</pubDate>
+<guid isPermaLink="true">https://www.scmp.com/news/china/diplomacy/article/3355814/first-trump-then-putin-go-china-does-great-power-diplomacy-now-hinge-beijing</guid>
 </item>
+
 <item>
 <title>🇦🇫🇷🇺 Taliban and Russia deepen ties amid frayed Western relations</title>
 <link>https://www.dw.com/en/taliban-russia-are-cozying-up-to-each-other-why/a-77409479</link>
 <description>Tanzania's president visits Russia while the Taliban strengthens cooperation with Moscow, signaling shifting alliances as Western influence wanes in key regions.</description>
-<category>Diplomacy</category>
-<source url="https://www.dw.com/en/taliban-russia-are-cozying-up-to-each-other-why/a-77409479">DW</source>
-<pubDate>Thu, 04 Jun 2026 08:05:00 +0300</pubDate>
+<dc:source>DW</dc:source>
+<dc:subject>Diplomacy</dc:subject>
+<pubDate>2026-06-04T08:05:00+03:00</pubDate>
+<guid isPermaLink="true">https://www.dw.com/en/taliban-russia-are-cozying-up-to-each-other-why/a-77409479</guid>
 </item>
+
 <item>
 <title>🛢️🇸🇦 Saudi Arabia and Russia tighten grip on oil market as UAE exits OPEC</title>
 <link>https://www.dw.com/en/saudi-arabia-and-russia-tighten-grip-on-oil-market-as-the-uae-exits-opec/a-77387950</link>
 <description>The UAE's departure from OPEC consolidates Saudi and Russian control over global oil markets, with implications for energy prices and geopolitical alignments.</description>
-<category>Energy</category>
-<source url="https://www.dw.com/en/saudi-arabia-and-russia-tighten-grip-on-oil-market-as-the-uae-exits-opec/a-77387950">DW</source>
-<pubDate>Thu, 04 Jun 2026 08:05:00 +0300</pubDate>
+<dc:source>DW</dc:source>
+<dc:subject>Energy</dc:subject>
+<pubDate>2026-06-04T08:05:00+03:00</pubDate>
+<guid isPermaLink="true">https://www.dw.com/en/saudi-arabia-and-russia-tighten-grip-on-oil-market-as-the-uae-exits-opec/a-77387950</guid>
 </item>
+
 <item>
 <title>🇨🇳🇳🇿 China bans four New Zealand MPs for one year over Taiwan visit</title>
 <link>https://www.bbc.com/news/articles/cx21r1y223ro</link>
 <description>Beijing sanctioned the lawmakers after they visited Taiwan last month, barring them from China for a year in the latest diplomatic row over the self-governed island.</description>
-<category>US-China</category>
-<source url="https://www.bbc.com/news/articles/cx21r1y223ro">BBC</source>
-<pubDate>Thu, 04 Jun 2026 08:03:00 +0300</pubDate>
+<dc:source>BBC</dc:source>
+<dc:subject>US-China</dc:subject>
+<pubDate>2026-06-04T08:03:00+03:00</pubDate>
+<guid isPermaLink="true">https://www.bbc.com/news/articles/cx21r1y223ro</guid>
 </item>
+
 <item>
 <title>🇩🇪🇷🇺 Germany blames Russia after losing UN Security Council seat</title>
 <link>https://www.bbc.com/news/articles/cgmp3pg71edo</link>
 <description>Berlin accused Moscow of campaigning against its bid after Germany lost to Portugal and Austria for non-permanent seats. Johann Wadephul said Russia stirred opposition due to German support for Ukraine.</description>
-<category>Europe</category>
-<source url="https://www.bbc.com/news/articles/cgmp3pg71edo">BBC</source>
-<pubDate>Thu, 04 Jun 2026 08:03:00 +0300</pubDate>
+<dc:source>BBC</dc:source>
+<dc:subject>Europe</dc:subject>
+<pubDate>2026-06-04T08:03:00+03:00</pubDate>
+<guid isPermaLink="true">https://www.bbc.com/news/articles/cgmp3pg71edo</guid>
 </item>
+
 <item>
 <title>🔍🇨🇳 Five Eyes nations warn China using LinkedIn to recruit Western spies</title>
 <link>https://www.washingtonpost.com/world/2026/06/03/us-allies-say-china-is-using-job-platforms-target-security-personnel/</link>
 <description>Intelligence agencies from US, UK, Canada, Australia and New Zealand issued rare joint warning that Beijing is using fake job profiles on professional networking sites to target security personnel with access to classified information.</description>
-<category>Cyber</category>
-<source url="https://www.washingtonpost.com/world/2026/06/03/us-allies-say-china-is-using-job-platforms-target-security-personnel/">Washington Post</source>
-<pubDate>Thu, 04 Jun 2026 08:03:00 +0300</pubDate>
+<dc:source>Washington Post</dc:source>
+<dc:subject>Cyber</dc:subject>
+<pubDate>2026-06-04T08:03:00+03:00</pubDate>
+<guid isPermaLink="true">https://www.washingtonpost.com/world/2026/06/03/us-allies-say-china-is-using-job-platforms-target-security-personnel/</guid>
 </item>
-<item>
-<title>🇺🇸🇮🇱 Trump acknowledges calling Netanyahu "crazy" amid Iran ceasefire tensions</title>
-<link>https://apnews.com/article/trump-netanyahu-crazy-iran-ceasefire-israel-7f8a9b2c1d3e</link>
-<description>President Trump confirmed he called Israeli Prime Minister Netanyahu "crazy" and said Israel is complicating peace talks with Iran, in a rare public rift between the US and Israeli leaders.</description>
-<category>US-Iran War</category>
-<source url="https://apnews.com/article/trump-netanyahu-crazy-iran-ceasefire-israel-7f8a9b2c1d3e">AP News</source>
-<pubDate>Thu, 04 Jun 2026 07:03:00 +0300</pubDate>
-</item>
-<item>
-<title>🇸🇴 Gunfire erupts in Mogadishu ahead of anti-government protests</title>
-<link>https://www.aljazeera.com/news/2026/6/4/gunfire-mogadishu-somalia-protests</link>
-<description>Gunfire broke out in Somalia's capital before planned anti-government protests against President Hassan Sheikh Mohamud. Former PM Mohamed Khaire accused government forces of attacking him.</description>
-<category>Africa</category>
-<source url="https://www.aljazeera.com/news/2026/6/4/gunfire-mogadishu-somalia-protests">Al Jazeera</source>
-<pubDate>Thu, 04 Jun 2026 07:03:00 +0300</pubDate>
-</item>
-<item>
-<title>🇬🇷🇺🇦 Greece Issues Formal Protest to Ukraine Over Naval Drone Found in Greek Waters</title>
-<link>https://kyivindependent.com/greece-issues-formal-protest-ukraine-naval-drone-incident/</link>
-<description>Greece has formally protested to Ukraine after discovering an explosives-laden naval drone in its waters last month. The incident adds diplomatic strain as Ukraine faces scrutiny over maritime operations.</description>
-<category>Europe</category>
-<source url="https://kyivindependent.com/greece-issues-formal-protest-ukraine-naval-drone-incident/">Kyiv Independent</source>
-<pubDate>Thu, 04 Jun 2026 06:05:00 +0300</pubDate>
-</item>
-<item>
-<title>🇺🇸🇺🇦 US House Advances Ukraine Aid Bill Despite Trump Administration Opposition</title>
-<link>https://kyivindependent.com/us-house-advances-ukraine-aid-bill-setting-up-final-vote/</link>
-<description>The US House of Representatives has advanced the Ukraine Support Act, setting up a final vote on June 4. The bill moves forward despite opposition from the Trump administration and Republican leadership.</description>
-<category>US Politics</category>
-<source url="https://kyivindependent.com/us-house-advances-ukraine-aid-bill-setting-up-final-vote/">Kyiv Independent</source>
-<pubDate>Thu, 04 Jun 2026 06:05:00 +0300</pubDate>
-</item>
+
 </channel>
 </rss>
