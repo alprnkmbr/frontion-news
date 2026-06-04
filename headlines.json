@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-05T00:07:14+03:00",
+  "lastUpdated": "2026-06-05T01:04:57+03:00",
   "headlines": [
+    {
+      "headline": "Hezbollah rejects ceasefire deal as Israel continues Lebanon strikes",
+      "summary": "Hezbollah rejected a ceasefire agreement approved by the Lebanese and Israeli governments, while Israel said it would not withdraw from southern Lebanon, complicating U.S. efforts to end fighting.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israel-continue-operations-lebanon-now-despite-ceasefire-defence-minister-says-2026-06-04/",
+      "timestamp": "2026-06-05T01:03:00+03:00"
+    },
+    {
+      "headline": "Gold rises as Middle East ceasefire hopes pressure dollar",
+      "summary": "Gold prices gained more than 1% as oil prices slipped on optimism over a potential end to the Iran conflict, which pressured the dollar and caused bond yields to fall.",
+      "emoji": "💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/gold-rises-softer-dollar-oil-markets-weigh-us-iran-peace-optimism-2026-06-04/",
+      "timestamp": "2026-06-05T01:03:00+03:00"
+    },
+    {
+      "headline": "Oil settles 3% lower on hopes for Iran deal after Lebanon ceasefire",
+      "summary": "Oil prices fell sharply on investor hopes that an end to the U.S.-Israeli war with Iran could reopen the Strait of Hormuz, following a ceasefire deal between Israel and Lebanon.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-falls-lebanon-israel-agree-implement-ceasefire-2026-06-04/",
+      "timestamp": "2026-06-05T01:03:00+03:00"
+    },
+    {
+      "headline": "Severe El Nino threatens Asian crops as dry weather disrupts planting",
+      "summary": "Dry weather is disrupting crop planting across Asia, raising concerns about food supplies, as an expected severe El Nino weather pattern threatens more damage.",
+      "emoji": "🌾",
+      "category": "Climate",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/environment/hot-weather-hurts-asian-crops-powerful-el-nino-takes-shape-2026-06-04/",
+      "timestamp": "2026-06-05T01:03:00+03:00"
+    },
+    {
+      "headline": "Zelensky proposes face-to-face meeting with Putin in open letter",
+      "summary": "Ukrainian President Volodymyr Zelensky called for a direct meeting with Vladimir Putin in an open letter, urging the Russian leader to agree to ceasefire talks.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o",
+      "timestamp": "2026-06-05T01:03:00+03:00"
+    },
     {
       "headline": "US explores major expansion of Lebanese army support as key to Hezbollah disarmament",
       "summary": "The United States is considering significantly expanding support for the Lebanese Armed Forces as part of a broader strategy to facilitate Hezbollah disarmament, marking a potential shift in US approach to the Lebanon conflict.",
@@ -53,7 +98,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/lebanon-ceasefire-raises-hopes-progess-iran-deal-2026-06-04/",
-      "timestamp": "2026-06-05T00:03:00+03:00"
+      "timestamp": "2026-06-05T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/israel-continue-operations-lebanon-now-despite-ceasefire-defence-minister-says-2026-06-04/",
+          "angle": "Hezbollah Rejects US-Brokered Ceasefire, Israeli Strikes Kill Eight in Lebanon",
+          "summary": "Hezbollah dismissed a ceasefire agreement reached between Israel and the Lebanese government, as Israeli strikes continued in southern Lebanon killing eight people despite the Washington-announced deal."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/lebanon-ceasefire-raises-hopes-progess-iran-deal-2026-06-04/",
+        "https://www.reuters.com/world/middle-east/israel-continue-operations-lebanon-now-despite-ceasefire-defence-minister-says-2026-06-04/"
+      ]
     },
     {
       "headline": "Iranian oil exports collapse to six-year low under US naval blockade",
@@ -89,7 +150,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/unifil-says-one-peacekeeper-killed-two-wounded-shelling-south-lebanon-2026-06-04/",
-      "timestamp": "2026-06-05T00:03:00+03:00"
+      "timestamp": "2026-06-05T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Haaretz",
+          "url": "https://www.haaretz.com/israel-news/israel-security/2026-06-04/ty-article-live/israel-and-lebanon-agree-to-renew-cease-fire-will-create-pilot-security-zones/0000019e-9058-db6c-adff-b8fec9f70000?liveBlogItemId=500888478#500888478",
+          "angle": "UNIFIL Peacekeeper Killed in Lebanon After Attack",
+          "summary": "A UN peacekeeper was killed after a UNIFIL position in southern Lebanon was attacked amid ongoing ceasefire negotiations between Israel and Hezbollah."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Haaretz"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/unifil-says-one-peacekeeper-killed-two-wounded-shelling-south-lebanon-2026-06-04/",
+        "https://www.haaretz.com/israel-news/israel-security/2026-06-04/ty-article-live/israel-and-lebanon-agree-to-renew-cease-fire-will-create-pilot-security-zones/0000019e-9058-db6c-adff-b8fec9f70000?liveBlogItemId=500888478#500888478"
+      ]
     },
     {
       "headline": "Pentagon Likely to Cancel Missile Sale to Germany Over Russia Fears",
@@ -99,39 +176,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/us/pentagon-cancel-missile-sale-germany-russia-fears-2026-06-04/",
       "timestamp": "2026-06-04T23:03:00+03:00"
-    },
-    {
-      "headline": "Hezbollah Rejects US-Brokered Ceasefire, Israeli Strikes Kill Eight in Lebanon",
-      "summary": "Hezbollah dismissed a ceasefire agreement reached between Israel and the Lebanese government, as Israeli strikes continued in southern Lebanon killing eight people despite the Washington-announced deal.",
-      "emoji": "🇱🇧🇮🇱",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israel-continue-operations-lebanon-now-despite-ceasefire-defence-minister-says-2026-06-04/",
-      "timestamp": "2026-06-04T23:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/israel-continue-operations-lebanon-now-despite-ceasefire-defence-minister-says-2026-06-04/",
-          "angle": "Hezbollah rejects Lebanon ceasefire as Israel rules out troop withdrawal",
-          "summary": "The Iran-backed Hezbollah movement rejected a US-mediated ceasefire plan for Lebanon, while Israel stated it would continue operations in southern Lebanon despite the agreement, undermining efforts to halt fighting alongside the broader US-Iran conflict."
-        },
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
-          "angle": "Israeli Strikes Kill Nine in Lebanon as Hezbollah Fires Rockets",
-          "summary": "Israeli strikes killed nine people in Lebanon as Hezbollah fired rockets over the border, straining a partial ceasefire agreed between Israel and the Lebanese armed group."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/israel-continue-operations-lebanon-now-despite-ceasefire-defence-minister-says-2026-06-04/",
-        "https://www.reuters.com/world/middle-east/israel-continue-operations-lebanon-now-despite-ceasefire-defence-minister-says-2026-06-04/",
-        "https://www.bbc.com/news/articles/c5y01pdqvkgo"
-      ]
     },
     {
       "headline": "MI6 Spy Chief Alex Younger Dies at 60",
@@ -547,15 +591,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/us-will-uphold-tariff-caps-deals-with-eu-japan-others-us-trade-chief-says-2026-06-04/",
       "timestamp": "2026-06-04T17:03:00+03:00"
-    },
-    {
-      "headline": "UNIFIL Peacekeeper Killed in Lebanon After Attack",
-      "summary": "A UN peacekeeper was killed after a UNIFIL position in southern Lebanon was attacked amid ongoing ceasefire negotiations between Israel and Hezbollah.",
-      "emoji": "⚔️",
-      "category": "Middle East",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/israel-news/israel-security/2026-06-04/ty-article-live/israel-and-lebanon-agree-to-renew-cease-fire-will-create-pilot-security-zones/0000019e-9058-db6c-adff-b8fec9f70000?liveBlogItemId=500888478#500888478",
-      "timestamp": "2026-06-04T16:00:00+03:00"
     },
     {
       "headline": "Gaza Death Toll Since Ceasefire Nears 1,000",
@@ -2690,133 +2725,6 @@
       "source": "Oil Price",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/IEA-Global-Oil-Stocks-on-Track-for-Historical-Lows-Ahead-of-Summer-Peak.html",
       "timestamp": "2026-06-02T18:05:00+03:00"
-    },
-    {
-      "headline": "Israeli Fire Kills Three Palestinians in Gaza",
-      "summary": "Israeli forces killed three people in Gaza according to local medics, as the broader regional conflict involving Israel, Hezbollah, and Iran continues.",
-      "emoji": "🇵🇸",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israeli-fire-kills-three-people-gaza-medics-say-2026-06-02/",
-      "timestamp": "2026-06-02T17:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/israeli-fire-kills-three-people-gaza-medics-say-2026-06-02/",
-          "angle": "Israeli Fire Kills Three Palestinians in Gaza",
-          "summary": "Israeli forces killed at least three Palestinians in separate incidents across the Gaza Strip, as the conflict continues amid broader regional tensions involving Iran and Lebanon."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/israeli-fire-kills-three-people-gaza-medics-say-2026-06-02/",
-        "https://www.reuters.com/world/middle-east/israeli-fire-kills-three-people-gaza-medics-say-2026-06-02/"
-      ]
-    },
-    {
-      "headline": "Trump Berates Netanyahu in Furious Call: \"Everyone Hates You and Israel\"",
-      "summary": "During a heated call about Lebanon ceasefire negotiations, Trump reportedly told Netanyahu \"You'd be in prison if it weren't for me\" and \"Everybody hates Israel because of this.\" Israeli opposition accuses Netanyahu of losing control of sovereignty.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-ceasefire-israel-netanyahu-call-b2987645.html",
-      "timestamp": "2026-06-02T16:07:00+03:00"
-    },
-    {
-      "headline": "Bahrain Bans Citizens from Traveling to Iran and Iraq Over Security Concerns",
-      "summary": "Bahrain's interior ministry announced an indefinite travel ban to Iran and Iraq citing regional security concerns. The Gulf state, ruled by a Sunni family with a majority Shia population, has faced attacks from Iran-aligned groups.",
-      "emoji": "🇧🇭",
-      "category": "Middle East",
-      "source": "The Independent",
-      "url": "https://www.independent.co.uk/news/world/middle-east/iran-us-war-live-trump-deal-ceasefire-strait-of-hormuz-b2986344.html",
-      "timestamp": "2026-06-02T16:07:00+03:00"
-    },
-    {
-      "headline": "Euro zone firms struggle to raise prices despite Iran war shock",
-      "summary": "Only a third of the euro zone's largest companies are raising prices in response to the Iran war, suggesting a weak economy is limiting pricing power despite energy disruptions.",
-      "emoji": "🇪🇺",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/finance/euro-zone-firms-struggle-raise-prices-despite-iran-war-shock-2026-06-02/",
-      "timestamp": "2026-06-02T16:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/economy/2026/6/4/indonesias-rupiah-falls-to-record-low-against-us-dollar",
-          "angle": "Indonesia rupiah hits record low as Iran war energy shock spreads",
-          "summary": "The currency plunged to historic lows against the dollar as oil market disruptions from the US-Iran conflict ripple through Southeast Asian economies dependent on energy imports."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/finance/euro-zone-firms-struggle-raise-prices-despite-iran-war-shock-2026-06-02/",
-        "https://www.aljazeera.com/economy/2026/6/4/indonesias-rupiah-falls-to-record-low-against-us-dollar"
-      ]
-    },
-    {
-      "headline": "UN warns funding cuts could worsen Rohingya crisis in Bangladesh",
-      "summary": "The UN refugee agency says declining humanitarian funding threatens conditions for 1.2 million Rohingya refugees in Bangladesh, one of the world's largest refugee populations.",
-      "emoji": "🇧🇩",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/un-warns-funding-cuts-could-worsen-rohingya-crisis-bangladesh-2026-06-02/",
-      "timestamp": "2026-06-02T16:00:00+03:00"
-    },
-    {
-      "headline": "Goldman Sachs sees elevated fuel margins through 2026 on Hormuz disruption",
-      "summary": "Goldman Sachs expects refined fuel margins to remain sharply elevated through 2026 after Strait of Hormuz disruptions tightened global supplies.",
-      "emoji": "⛽",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/goldman-sachs-expects-elevated-refined-fuel-margins-through-2026-hormuz-2026-06-02/",
-      "timestamp": "2026-06-02T16:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/goldman-sachs-expects-elevated-refined-fuel-margins-through-2026-hormuz-2026-06-02/",
-          "angle": "Goldman Sachs Warns Fuel Margins to Stay Elevated Through 2026",
-          "summary": "Refined fuel margins will remain sharply elevated through 2026 due to Strait of Hormuz disruptions tightening product markets more than crude, Goldman Sachs said in a research note. The analysis highlights lasting impacts from Middle East conflict on global energy markets."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/goldman-sachs-expects-elevated-refined-fuel-margins-through-2026-hormuz-2026-06-02/",
-        "https://www.reuters.com/business/energy/goldman-sachs-expects-elevated-refined-fuel-margins-through-2026-hormuz-2026-06-02/"
-      ]
-    },
-    {
-      "headline": "Kenya Court Blocks US-Backed Ebola Quarantine Facility After Deadly Protests",
-      "summary": "Two people were killed during protests against a proposed US-funded Ebola quarantine center at a Kenyan air force base. The facility was intended for Americans exposed to the virus in DRC or Uganda.",
-      "emoji": "🇰🇪",
-      "category": "Africa",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/kenyas-president-defends-planned-us-backed-ebola-quarantine-facility-2026-06-02/",
-      "timestamp": "2026-06-02T15:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/africa/article/3355870/kenya-health-minister-says-us-ebola-quarantine-centre-will-proceed",
-          "angle": "Kenya to proceed with US Ebola quarantine center despite protests",
-          "summary": "Kenya health minister confirms the US-funded Ebola quarantine center will move forward amid local opposition. The facility is part of broader US-Kenya health security cooperation."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/healthcare-pharmaceuticals/kenyas-president-defends-planned-us-backed-ebola-quarantine-facility-2026-06-02/",
-        "https://www.scmp.com/news/world/africa/article/3355870/kenya-health-minister-says-us-ebola-quarantine-centre-will-proceed"
-      ]
     }
   ]
 }
