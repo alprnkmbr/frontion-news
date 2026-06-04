@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2026-06-04T05:04:33+03:00",
+  "lastUpdated": "2026-06-04T06:04:14+03:00",
   "headlines": [
     {
-      "headline": "US House passes war powers resolution to halt Iran military action in rebuke to Trump",
-      "summary": "The House voted 215-208 to halt US military action against Iran, with four Republicans joining Democrats. The vote reflects growing opposition to the three-month conflict that has spiked gas prices.",
-      "emoji": "🇺🇸",
-      "category": "US-Iran War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536",
-      "timestamp": "2026-06-04T05:03:00+03:00"
+      "headline": "Israel and Lebanon agree to implement ceasefire if Hezbollah halts attacks",
+      "summary": "US-mediated deal requires Hezbollah to cease strikes; both nations reject any actor holding Lebanon hostage. State Department announces agreement as regional tensions persist.",
+      "emoji": "🇱🇧🇮🇱",
+      "category": "Middle East",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cq6peqrnzpro",
+      "timestamp": "2026-06-04T06:03:00+03:00"
+    },
+    {
+      "headline": "Iranian drone strike on Kuwait airport kills one, wounds dozens",
+      "summary": "Iran claims retaliation for earlier US strikes on its oil facilities. Attack tests regional ceasefire agreements as tensions escalate in Persian Gulf.",
+      "emoji": "🇰🇼🇮🇷⚔️",
+      "category": "Middle East",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
+      "timestamp": "2026-06-04T06:03:00+03:00"
+    },
+    {
+      "headline": "Ukrainian drones strike St. Petersburg oil facilities ahead of Putin economic forum",
+      "summary": "Long-range drones hit oil storage near St. Petersburg hours before Russian President's flagship economic forum. Attack demonstrates Ukraine's continued reach into Russian territory.",
+      "emoji": "🇺🇦🇷🇺💥",
+      "category": "Ukraine-Russia War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/world-europe",
+      "timestamp": "2026-06-04T06:03:00+03:00"
     },
     {
       "headline": "Israel and Lebanon agree to ceasefire contingent on Hezbollah stopping attacks",
@@ -17,7 +35,23 @@
       "category": "Middle East",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
-      "timestamp": "2026-06-04T05:03:00+03:00"
+      "timestamp": "2026-06-04T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al-Monitor",
+          "url": "https://www.al-monitor.com/originals/2026/06/israel-lebanon-agree-conditional-ceasefire",
+          "angle": "Israel and Lebanon agree to implement ceasefire with Hezbollah withdrawal",
+          "summary": "Israel and Lebanon agreed to implement a ceasefire requiring complete cessation of fire by Hezbollah and creation of pilot zones where Lebanese armed forces take exclusive control, following US-led talks in Washington."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "Al-Monitor"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/c5y01pdqvkgo",
+        "https://www.al-monitor.com/originals/2026/06/israel-lebanon-agree-conditional-ceasefire"
+      ]
     },
     {
       "headline": "MI5 warns Chinese spies using job websites to target government workers",
@@ -26,7 +60,23 @@
       "category": "Cyber",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cq6peqrnzpro",
-      "timestamp": "2026-06-04T05:03:00+03:00"
+      "timestamp": "2026-06-04T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cq6peqrnzpro",
+          "angle": "MI5 Warns Chinese Spies Using Job Websites to Target UK Government Staff",
+          "summary": "British intelligence agency MI5 warned that Chinese spies are using fake job recruiters on job websites to identify and target government staff for potential recruitment."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cq6peqrnzpro",
+        "https://www.bbc.com/news/articles/cq6peqrnzpro"
+      ]
     },
     {
       "headline": "Former MI6 chief Alex Younger dies aged 62 after cancer battle",
@@ -35,7 +85,23 @@
       "category": "Europe",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/jun/03/alex-younger-former-head-of-mi6-dies-aged-62",
-      "timestamp": "2026-06-04T05:03:00+03:00"
+      "timestamp": "2026-06-04T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/uk-news/2026/jun/03/alex-younger-former-head-of-mi6-dies-aged-62",
+          "angle": "Former MI6 chief Alex Younger dies at age 62",
+          "summary": "Alex Younger, who served as chief of the British Secret Intelligence Service (MI6) from 2014 to 2020, has died at the age of 62. Younger led the agency during a period of significant global challenges."
+        }
+      ],
+      "sources": [
+        "The Guardian",
+        "The Guardian"
+      ],
+      "urls": [
+        "https://www.theguardian.com/uk-news/2026/jun/03/alex-younger-former-head-of-mi6-dies-aged-62",
+        "https://www.theguardian.com/uk-news/2026/jun/03/alex-younger-former-head-of-mi6-dies-aged-62"
+      ]
     },
     {
       "headline": "Bangladeshs Khalilur Rahman elected UN General Assembly president in tight race",
@@ -44,16 +110,23 @@
       "category": "Diplomacy",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/3/bangladeshs-rahman-elected-un-general-assembly-president-in-tight-race",
-      "timestamp": "2026-06-04T05:03:00+03:00"
-    },
-    {
-      "headline": "Israel and Lebanon agree to implement ceasefire with Hezbollah withdrawal",
-      "summary": "Israel and Lebanon agreed to implement a ceasefire requiring complete cessation of fire by Hezbollah and creation of pilot zones where Lebanese armed forces take exclusive control, following US-led talks in Washington.",
-      "emoji": "🇮🇱🇱🇧",
-      "category": "Middle East",
-      "source": "Al-Monitor",
-      "url": "https://www.al-monitor.com/originals/2026/06/israel-lebanon-agree-conditional-ceasefire",
-      "timestamp": "2026-06-04T04:15:00+03:00"
+      "timestamp": "2026-06-04T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/3/bangladeshs-rahman-elected-un-general-assembly-president-in-tight-race",
+          "angle": "Bangladesh's Top Diplomat Elected UN General Assembly President",
+          "summary": "Khalilur Rahman won a tight race with 99 votes to become president of the 81st UNGA session, marking a significant diplomatic achievement for Bangladesh on the world stage."
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://www.aljazeera.com/news/2026/6/3/bangladeshs-rahman-elected-un-general-assembly-president-in-tight-race",
+        "https://www.aljazeera.com/news/2026/6/3/bangladeshs-rahman-elected-un-general-assembly-president-in-tight-race"
+      ]
     },
     {
       "headline": "Chinese sailless submarine caught on satellite imagery at Shanghai shipyard",
@@ -149,31 +222,6 @@
       ]
     },
     {
-      "headline": "MI5 Warns Chinese Spies Using Job Websites to Target UK Government Staff",
-      "summary": "British intelligence agency MI5 warned that Chinese spies are using fake job recruiters on job websites to identify and target government staff for potential recruitment.",
-      "emoji": "🇬🇧",
-      "category": "Cyber",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cq6peqrnzpro",
-      "timestamp": "2026-06-04T03:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cq6peqrnzpro",
-          "angle": "MI5 warns Chinese spies using LinkedIn to target UK government officials",
-          "summary": "British intelligence agency MI5 issued a warning that Chinese undercover agents are posing as fake job recruiters on professional networking sites to identify and target government staff with access to classified information."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/cq6peqrnzpro",
-        "https://www.bbc.com/news/articles/cq6peqrnzpro"
-      ]
-    },
-    {
       "headline": "Ukraine-Hungary Minority Rights Agreement Clears Path for EU Accession",
       "summary": "Hungarian Prime Minister Peter Magyar announced an agreement with Ukraine over the rights of the Hungarian-speaking minority, removing a key obstacle to Ukraine's EU accession negotiations.",
       "emoji": "🇪🇺",
@@ -217,31 +265,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536",
       "timestamp": "2026-06-04T02:03:00+03:00"
-    },
-    {
-      "headline": "Bangladesh's Top Diplomat Elected UN General Assembly President",
-      "summary": "Khalilur Rahman won a tight race with 99 votes to become president of the 81st UNGA session, marking a significant diplomatic achievement for Bangladesh on the world stage.",
-      "emoji": "🇧🇩🇺🇳",
-      "category": "Diplomacy",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/3/bangladeshs-rahman-elected-un-general-assembly-president-in-tight-race",
-      "timestamp": "2026-06-04T02:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Anadolu Agency",
-          "url": "https://www.aa.com.tr/en/world/un-general-assembly-presidency-win-strong-testament-of-trust-in-bangladesh-dhaka/3954586",
-          "angle": "Bangladesh Foreign Minister Elected President of UN General Assembly",
-          "summary": "Khalilur Rahman was elected president of the 81st UN General Assembly session in a vote at UN Headquarters, with India and Russia expressing support for stronger cooperation."
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "Anadolu Agency"
-      ],
-      "urls": [
-        "https://www.aljazeera.com/news/2026/6/3/bangladeshs-rahman-elected-un-general-assembly-president-in-tight-race",
-        "https://www.aa.com.tr/en/world/un-general-assembly-presidency-win-strong-testament-of-trust-in-bangladesh-dhaka/3954586"
-      ]
     },
     {
       "headline": "Russian Oil Pipeline to Hungary and Slovakia Resumes After Months-Long Outage",
@@ -301,15 +324,6 @@
         "https://www.bbc.com/news/articles/czd29327qzvo",
         "https://www.bbc.com/news/articles/czd29327qzvo"
       ]
-    },
-    {
-      "headline": "Former MI6 chief Alex Younger dies at age 62",
-      "summary": "Alex Younger, who served as chief of the British Secret Intelligence Service (MI6) from 2014 to 2020, has died at the age of 62. Younger led the agency during a period of significant global challenges.",
-      "emoji": "🇬🇧💀",
-      "category": "Europe",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/03/alex-younger-former-head-of-mi6-dies-aged-62",
-      "timestamp": "2026-06-04T01:03:00+03:00"
     },
     {
       "headline": "US Marine Corps Retires Harrier Jump Jet After 50 Years",
@@ -1456,27 +1470,19 @@
       "timestamp": "2026-06-02T22:03:00+03:00",
       "perspectives": [
         {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cj6pldg39deo",
-          "angle": "US House passes Iran war powers resolution in rebuke to Trump",
-          "summary": "The House voted 215-208 to limit presidential war powers on Iran, with four Republicans joining Democrats. The measure faces likely presidential veto."
-        },
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o",
-          "angle": "Trump-Netanyahu phone call complicates Iran war negotiations",
-          "summary": "Israel's prime minister laughed off reports of friction with Trump, but the difficult call has raised questions about coordination between the allies as the US pursues separate talks on Lebanon and Iran."
+          "source": "AP News",
+          "url": "https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536",
+          "angle": "US House passes war powers resolution to halt Iran military action in rebuke to Trump",
+          "summary": "The House voted 215-208 to halt US military action against Iran, with four Republicans joining Democrats. The vote reflects growing opposition to the three-month conflict that has spiked gas prices."
         }
       ],
       "sources": [
         "Reuters",
-        "BBC",
-        "BBC"
+        "AP News"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/iran-studying-deal-halt-war-stalemate-persists-2026-06-02/",
-        "https://www.bbc.com/news/articles/cj6pldg39deo",
-        "https://www.bbc.com/news/articles/cvgz21pq3g6o"
+        "https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536"
       ]
     },
     {
