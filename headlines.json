@@ -1,23 +1,50 @@
 {
-  "lastUpdated": "2026-06-04T03:04:26+03:00",
+  "lastUpdated": "2026-06-04T04:04:12+03:00",
   "headlines": [
     {
-      "headline": "US House Votes to Limit Iran War Powers in Rebuke to Trump",
-      "summary": "The House passed a 215-208 war powers resolution to halt military action against Iran, with four Republicans joining Democrats. The vote represents a significant congressional challenge to presidential war authority.",
+      "headline": "US House passes Iran war powers resolution in rebuke to Trump",
+      "summary": "The House voted 215-208 to limit presidential war powers on Iran, with four Republicans joining Democrats. The measure faces likely presidential veto.",
       "emoji": "🇺🇸",
       "category": "US-Iran War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-war-powers-vote-house-9aaadea35f9523c818802286a6553536",
-      "timestamp": "2026-06-04T03:03:00+03:00"
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cj6pldg39deo",
+      "timestamp": "2026-06-04T04:03:00+03:00"
     },
     {
-      "headline": "Kuwait Reports Iranian Drone Strike Killed One at Airport",
-      "summary": "Iranian drone strikes hit Kuwait airport, killing one person and injuring dozens. Iran said the attack was retaliation for earlier US strikes on an Iranian oil tanker and island.",
+      "headline": "Iran strikes Kuwait International Airport, killing one",
+      "summary": "Iran claimed the drone attack on Kuwait airport was retaliation for earlier US strikes on an Iranian oil tanker and island. Kuwait condemned it as \"heinous aggression.\"",
       "emoji": "🇰🇼",
       "category": "US-Iran War",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c5yx135yg53o",
-      "timestamp": "2026-06-04T03:03:00+03:00"
+      "timestamp": "2026-06-04T04:03:00+03:00"
+    },
+    {
+      "headline": "South China Sea tensions rise as multiple nations expand island claims",
+      "summary": "After years of watching China create artificial islands, other regional powers are now building their own facilities, escalating territorial disputes in the strategic waterway.",
+      "emoji": "🌏",
+      "category": "Asia-Pacific",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cy823n3ln29o",
+      "timestamp": "2026-06-04T04:03:00+03:00"
+    },
+    {
+      "headline": "Trump-Netanyahu phone call complicates Iran war negotiations",
+      "summary": "Israel's prime minister laughed off reports of friction with Trump, but the difficult call has raised questions about coordination between the allies as the US pursues separate talks on Lebanon and Iran.",
+      "emoji": "🇮🇱",
+      "category": "US-Iran War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o",
+      "timestamp": "2026-06-04T04:03:00+03:00"
+    },
+    {
+      "headline": "DRC Ebola outbreak may have started as early as January, WHO says",
+      "summary": "The WHO chief warned that the virus \"had a big head start\" and that response efforts are being hindered by travel restrictions and community mistrust.",
+      "emoji": "🦠",
+      "category": "Africa",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says",
+      "timestamp": "2026-06-04T04:03:00+03:00"
     },
     {
       "headline": "Israeli Strikes Kill Nine in Lebanon as Hezbollah Fires Rockets",
@@ -26,16 +53,23 @@
       "category": "Middle East",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
-      "timestamp": "2026-06-04T03:03:00+03:00"
-    },
-    {
-      "headline": "Trump Called Netanyahu \"Crazy\" in Phone Call Complicating Iran Talks",
-      "summary": "President Trump acknowledged calling Israeli Prime Minister Netanyahu \"crazy\" and said Israel is complicating peace talks with Iran. Netanyahu laughed off reports of friction.",
-      "emoji": "🇺🇸",
-      "category": "US-Iran War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97",
-      "timestamp": "2026-06-04T03:03:00+03:00"
+      "timestamp": "2026-06-04T03:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
+          "angle": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
+          "summary": "At least nine people were killed in Israeli strikes on southern Lebanon, including two paramedics whose ambulance was hit, as Hezbollah fired rockets into northern Israel. The violence tests a partial ceasefire agreed on Monday that aimed to halt attacks on Beirut in exchange for Hezbollah refraining from cross-border strikes."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/c5y01pdqvkgo",
+        "https://www.bbc.com/news/articles/c5y01pdqvkgo"
+      ]
     },
     {
       "headline": "MI5 Warns Chinese Spies Using Job Websites to Target UK Government Staff",
@@ -44,7 +78,23 @@
       "category": "Cyber",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cq6peqrnzpro",
-      "timestamp": "2026-06-04T03:03:00+03:00"
+      "timestamp": "2026-06-04T03:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cq6peqrnzpro",
+          "angle": "MI5 warns Chinese spies using LinkedIn to target UK government officials",
+          "summary": "British intelligence agency MI5 issued a warning that Chinese undercover agents are posing as fake job recruiters on professional networking sites to identify and target government staff with access to classified information."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cq6peqrnzpro",
+        "https://www.bbc.com/news/articles/cq6peqrnzpro"
+      ]
     },
     {
       "headline": "Ukraine-Hungary Minority Rights Agreement Clears Path for EU Accession",
@@ -176,15 +226,6 @@
       ]
     },
     {
-      "headline": "MI5 warns Chinese spies using LinkedIn to target UK government officials",
-      "summary": "British intelligence agency MI5 issued a warning that Chinese undercover agents are posing as fake job recruiters on professional networking sites to identify and target government staff with access to classified information.",
-      "emoji": "🇬🇧🇨🇳🕵️",
-      "category": "Cyber",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cq6peqrnzpro",
-      "timestamp": "2026-06-04T01:03:00+03:00"
-    },
-    {
       "headline": "Former MI6 chief Alex Younger dies at age 62",
       "summary": "Alex Younger, who served as chief of the British Secret Intelligence Service (MI6) from 2014 to 2020, has died at the age of 62. Younger led the agency during a period of significant global challenges.",
       "emoji": "🇬🇧💀",
@@ -252,31 +293,6 @@
       "urls": [
         "https://www.nytimes.com/live/2026/06/03/world/iran-war-trump-israel-lebanon",
         "https://www.twz.com/iran-launches-new-attacks-on-kuwait-bahrain"
-      ]
-    },
-    {
-      "headline": "One Killed in Iranian Drone Strike on Kuwait Airport",
-      "summary": "Iran launched a drone attack on Kuwait's airport, killing one person and wounding 63. Iran said the strike was retaliation for US attacks on an Iranian oil tanker and island.",
-      "emoji": "🇰🇼",
-      "category": "Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.bbc.com/news/articles/c5yx135yg53o",
-      "timestamp": "2026-06-03T23:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/3/iran-says-deadly-attack-on-kuwait-should-serve-as-a-lesson-for-us",
-          "angle": "One killed, dozens wounded in Iranian attack on Kuwait International Airport",
-          "summary": "Iranian drone and missile strikes hit Kuwait's international airport, killing one person and wounding more than 60 others, as regional conflict escalates despite ceasefire negotiations."
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/c5yx135yg53o",
-        "https://www.aljazeera.com/news/2026/6/3/iran-says-deadly-attack-on-kuwait-should-serve-as-a-lesson-for-us"
       ]
     },
     {
@@ -373,15 +389,6 @@
       ]
     },
     {
-      "headline": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
-      "summary": "At least nine people were killed in Israeli strikes on southern Lebanon, including two paramedics whose ambulance was hit, as Hezbollah fired rockets into northern Israel. The violence tests a partial ceasefire agreed on Monday that aimed to halt attacks on Beirut in exchange for Hezbollah refraining from cross-border strikes.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
-      "timestamp": "2026-06-03T22:00:00+03:00"
-    },
-    {
       "headline": "FBI fatally shoots hostage-taker after 12-hour California standoff",
       "summary": "FBI agents shot and killed a man who had been holding 10 hostages inside a building in Bakersfield, California, ending a 12-hour standoff. All hostages were rescued unharmed. The incident began with a bomb threat at an office housing a bank branch and school district office.",
       "emoji": "🇺🇸",
@@ -411,16 +418,24 @@
         {
           "source": "BBC",
           "url": "https://www.bbc.com/news/articles/c5yx135yg53o",
-          "angle": "Iranian drones strike Kuwait airport, killing one and wounding dozens",
-          "summary": "Iran launched drone attacks on Kuwait international airport, killing one person and injuring 63 others. Kuwait condemned the attack as Iran claimed it was retaliation for earlier US strikes on an Iranian oil tanker and island."
+          "angle": "Kuwait Reports Iranian Drone Strike Killed One at Airport",
+          "summary": "Iranian drone strikes hit Kuwait airport, killing one person and injuring dozens. Iran said the attack was retaliation for earlier US strikes on an Iranian oil tanker and island."
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.bbc.com/news/articles/c5yx135yg53o",
+          "angle": "One Killed in Iranian Drone Strike on Kuwait Airport",
+          "summary": "Iran launched a drone attack on Kuwait's airport, killing one person and wounding 63. Iran said the strike was retaliation for US attacks on an Iranian oil tanker and island."
         }
       ],
       "sources": [
         "AP News",
-        "BBC"
+        "BBC",
+        "Al Jazeera"
       ],
       "urls": [
         "https://apnews.com/article/iran-us-israel-lebanon-war-kuwait-ceasefire-3-june-2026-de2d1814c0f38252bf0383be859c870b",
+        "https://www.bbc.com/news/articles/c5yx135yg53o",
         "https://www.bbc.com/news/articles/c5yx135yg53o"
       ]
     },
@@ -1392,8 +1407,8 @@
         {
           "source": "AP News",
           "url": "https://apnews.com/article/lebanon-hezbollah-israel-tyre-khaldeh-beirut-b8e36e6248adcb00bc979f2b95514f97",
-          "angle": "Trump Confirms He Called Netanyahu 'Crazy' Over Iran Peace Talks",
-          "summary": "President Trump acknowledged a heated call with Israeli Prime Minister Benjamin Netanyahu, saying Israel is complicating peace negotiations with Iran and expressing hope to meet with Iran's supreme leader."
+          "angle": "Trump Called Netanyahu \"Crazy\" in Phone Call Complicating Iran Talks",
+          "summary": "President Trump acknowledged calling Israeli Prime Minister Netanyahu \"crazy\" and said Israel is complicating peace talks with Iran. Netanyahu laughed off reports of friction."
         }
       ],
       "sources": [
