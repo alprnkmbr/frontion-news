@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-04T07:07:14+03:00",
+  "lastUpdated": "2026-06-04T08:04:28+03:00",
   "headlines": [
+    {
+      "headline": "US House passes resolution limiting Trump war powers on Iran",
+      "summary": "The House voted 215-208 to rein in presidential authority to conduct military operations against Iran, with four Republicans joining Democrats. The measure had failed three previous attempts.",
+      "emoji": "🇺🇸",
+      "category": "US-Iran War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cj6pldg39deo",
+      "timestamp": "2026-06-04T08:03:00+03:00"
+    },
+    {
+      "headline": "China bans four New Zealand MPs for one year over Taiwan visit",
+      "summary": "Beijing sanctioned the lawmakers after they visited Taiwan last month, barring them from China for a year in the latest diplomatic row over the self-governed island.",
+      "emoji": "🇨🇳🇳🇿",
+      "category": "US-China",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cx21r1y223ro",
+      "timestamp": "2026-06-04T08:03:00+03:00"
+    },
+    {
+      "headline": "Germany blames Russia after losing UN Security Council seat",
+      "summary": "Berlin accused Moscow of campaigning against its bid after Germany lost to Portugal and Austria for non-permanent seats. Johann Wadephul said Russia stirred opposition due to German support for Ukraine.",
+      "emoji": "🇩🇪🇷🇺",
+      "category": "Europe",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cgmp3pg71edo",
+      "timestamp": "2026-06-04T08:03:00+03:00"
+    },
+    {
+      "headline": "Five Eyes nations warn China using LinkedIn to recruit Western spies",
+      "summary": "Intelligence agencies from US, UK, Canada, Australia and New Zealand issued rare joint warning that Beijing is using fake job profiles on professional networking sites to target security personnel with access to classified information.",
+      "emoji": "🔍🇨🇳",
+      "category": "Cyber",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/06/03/us-allies-say-china-is-using-job-platforms-target-security-personnel/",
+      "timestamp": "2026-06-04T08:03:00+03:00"
+    },
+    {
+      "headline": "Indonesia rupiah hits record low as Iran war energy shock spreads",
+      "summary": "The currency plunged to historic lows against the dollar as oil market disruptions from the US-Iran conflict ripple through Southeast Asian economies dependent on energy imports.",
+      "emoji": "🇮🇩💰",
+      "category": "Economy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/4/indonesias-rupiah-falls-to-record-low-against-us-dollar",
+      "timestamp": "2026-06-04T08:03:00+03:00"
+    },
     {
       "headline": "Iranian drone strike kills one at Kuwait International Airport",
       "summary": "Iran struck Kuwait's main airport with drones, killing one person and injuring dozens, marking a major escalation as the US-Iran ceasefire is tested. The attack damaged the airport terminal and disrupted flights across the Gulf region.",
@@ -8,7 +53,23 @@
       "category": "Middle East",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cq6peqrnzpro",
-      "timestamp": "2026-06-04T07:03:00+03:00"
+      "timestamp": "2026-06-04T07:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
+          "angle": "Iranian drone strike on Kuwait airport kills one, wounds dozens",
+          "summary": "Iran claims retaliation for earlier US strikes on its oil facilities. Attack tests regional ceasefire agreements as tensions escalate in Persian Gulf."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cq6peqrnzpro",
+        "https://www.bbc.com/news/articles/c5y01pdqvkgo"
+      ]
     },
     {
       "headline": "China bans four New Zealand MPs over Taiwan visit",
@@ -26,7 +87,23 @@
       "category": "US-Iran War",
       "source": "AP News",
       "url": "https://apnews.com/article/trump-netanyahu-crazy-iran-ceasefire-israel-7f8a9b2c1d3e",
-      "timestamp": "2026-06-04T07:03:00+03:00"
+      "timestamp": "2026-06-04T07:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Middle East Eye",
+          "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-considers-ending-ceasefire-iran-if-american-troops-killed-report",
+          "angle": "Trump privately told aides he would end Iran ceasefire if US troops killed",
+          "summary": "US President Donald Trump has told aides privately that he would consider ending the truce deal with Iran if it killed American troops, the Wall Street Journal reported citing US officials."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "Middle East Eye"
+      ],
+      "urls": [
+        "https://apnews.com/article/trump-netanyahu-crazy-iran-ceasefire-israel-7f8a9b2c1d3e",
+        "https://www.middleeasteye.net/live-blog/live-blog-update/trump-considers-ending-ceasefire-iran-if-american-troops-killed-report"
+      ]
     },
     {
       "headline": "Gunfire erupts in Mogadishu ahead of anti-government protests",
@@ -121,15 +198,6 @@
         "https://www.scmp.com/news/world/middle-east/article/3355889/israel-and-lebanon-agree-renew-fragile-ceasefire-create-hezbollah-free-zones",
         "https://www.bbc.com/news/articles/c5y01pdqvkgo"
       ]
-    },
-    {
-      "headline": "Iranian drone strike on Kuwait airport kills one, wounds dozens",
-      "summary": "Iran claims retaliation for earlier US strikes on its oil facilities. Attack tests regional ceasefire agreements as tensions escalate in Persian Gulf.",
-      "emoji": "🇰🇼🇮🇷⚔️",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo",
-      "timestamp": "2026-06-04T06:03:00+03:00"
     },
     {
       "headline": "MI5 warns Chinese spies using job websites to target government workers",
@@ -230,15 +298,6 @@
         "https://www.twz.com/sea/new-large-chinese-submarine-with-very-unique-feature-just-caught-on-satellite-imagery",
         "https://www.twz.com/navy/new-large-chinese-submarine-caught-on-satellite"
       ]
-    },
-    {
-      "headline": "Trump privately told aides he would end Iran ceasefire if US troops killed",
-      "summary": "US President Donald Trump has told aides privately that he would consider ending the truce deal with Iran if it killed American troops, the Wall Street Journal reported citing US officials.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "Middle East Eye",
-      "url": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-considers-ending-ceasefire-iran-if-american-troops-killed-report",
-      "timestamp": "2026-06-04T04:15:00+03:00"
     },
     {
       "headline": "Israeli forces advance into southwestern Syria, shell areas near Daraa",
@@ -2978,40 +3037,6 @@
       "source": "Defense One",
       "url": "https://www.defenseone.com/technology/2026/06/navy-munitions-innovation-hubs/413890/",
       "timestamp": "2026-06-02T00:05:00+03:00"
-    },
-    {
-      "headline": "GAO Slams Pentagon for Cutting 78,000 Civilians Without Analysis",
-      "summary": "A congressional watchdog report found the Defense Department shed 78,000 civilian employees in 2025 through resignations and layoffs with no consistent impact analysis and no plan to assess lessons learned. Morale among DOD employees has tanked during the current administration.",
-      "emoji": "🏛️🇺🇸📊",
-      "category": "US Politics",
-      "source": "Defense One",
-      "url": "https://www.defenseone.com/policy/2026/06/ready-fire-aim-pentagon-cut-workforce-little-analysis-or-gao-finds/413892/",
-      "timestamp": "2026-06-02T00:05:00+03:00"
-    },
-    {
-      "headline": "Crimea faces gasoline shortages after Ukrainian drone attacks",
-      "summary": "Drivers in Russian-controlled Crimea are grappling with gasoline rationing after Ukrainian drone attacks disrupted road supplies across southeastern Ukraine, affecting fuel distribution in the occupied peninsula.",
-      "emoji": "⛽🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/drivers-russian-controlled-crimea-grapple-with-gasoline-shortages-2026-06-01/",
-      "timestamp": "2026-06-02T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Post",
-          "url": "https://www.kyivpost.com/post/77354",
-          "angle": "Crimea Faces Severe Fuel Shortages as Ukrainian Drone Campaign Strangles Supply Lines",
-          "summary": "Ukrainian drone strikes targeting rail and road supply routes have left 80% of Crimean fuel stations dry, with tourists facing multi-day waits and black market prices hitting $4/liter. Moscow-appointed officials call it \"temporary.\""
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Kyiv Post"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/drivers-russian-controlled-crimea-grapple-with-gasoline-shortages-2026-06-01/",
-        "https://www.kyivpost.com/post/77354"
-      ]
     }
   ]
 }
