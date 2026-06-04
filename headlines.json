@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-04T12:09:36+03:00",
+  "lastUpdated": "2026-06-04T13:04:46+03:00",
   "headlines": [
+    {
+      "headline": "Germany Loses UN Security Council Seat to Austria and Portugal",
+      "summary": "Germany failed to secure a temporary UN Security Council seat, with its support for Ukraine and close ties to Israel potentially costing Berlin the vote. Austria and Portugal won the two available seats.",
+      "emoji": "🇩🇪",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/germany-puts-brave-face-un-security-council-defeat-2026-06-03/",
+      "timestamp": "2026-06-04T13:03:00+03:00"
+    },
+    {
+      "headline": "US House Votes to Limit Trump's Iran War Powers",
+      "summary": "The House passed a war powers resolution 215-208, with four Republicans joining Democrats in a rare rebuke of President Trump's handling of the Iran conflict.",
+      "emoji": "🏛️",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/us-house-backs-resolution-curbing-trump-iran-war-powers-2026-06-03/",
+      "timestamp": "2026-06-04T13:03:00+03:00"
+    },
+    {
+      "headline": "Russia Pummels Ukrainian Cities as Battlefield Advances Stall",
+      "summary": "Russia is intensifying air attacks on Ukrainian cities to compensate for a sputtering ground campaign, with advances slowing to a near halt over the past month.",
+      "emoji": "⚔️",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/russia-bets-air-war-it-stumbles-battlefield-2026-06-03/",
+      "timestamp": "2026-06-04T13:03:00+03:00"
+    },
+    {
+      "headline": "China Bans New Zealand Lawmakers Over Taiwan Visit",
+      "summary": "China barred four New Zealand MPs from entering mainland China, Hong Kong, and Macau for one year after they visited Taiwan. Wellington said it would express concerns to Beijing.",
+      "emoji": "🇨🇳🇳🇿",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/china-bans-four-new-zealand-lawmakers-after-taiwan-visit-media-reports-2026-06-03/",
+      "timestamp": "2026-06-04T13:03:00+03:00"
+    },
+    {
+      "headline": "UK Summons Russian Ambassador After Drone Strikes Romania",
+      "summary": "Britain summoned Russia's ambassador after a Russian drone struck a residential building in NATO member Romania, calling the attack unacceptable.",
+      "emoji": "🇬🇧🇷🇴",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/uk-appalled-by-russias-ban-several-journalists-2026-06-03/",
+      "timestamp": "2026-06-04T13:03:00+03:00"
+    },
     {
       "headline": "Taliban signs weapons deal with Russia, warns Pakistan",
       "summary": "Afghanistan's Taliban regime signed a military-technical cooperation agreement with Russia on May 27, focusing on repairing Russian-made equipment. Taliban defense minister warned Pakistan would \"soon no longer dare\" to attack Afghan territory.",
@@ -8,15 +53,6 @@
       "category": "Defense Industry",
       "source": "DW",
       "url": "https://www.dw.com/en/taliban-russia-are-cozying-up-to-each-other-why/a-77409479",
-      "timestamp": "2026-06-04T12:10:00+03:00"
-    },
-    {
-      "headline": "US crude inventories in freefall, down 8 million barrels",
-      "summary": "US commercial crude stockpiles fell 8 million barrels to 433.7 million, now 3% below the five-year average. Brent rose to .24, WTI to .99 as supply tightens amid Middle East crisis.",
-      "emoji": "🛢️📉",
-      "category": "Energy",
-      "source": "OilPrice",
-      "url": "https://oilprice.com/Energy/Crude-Oil/US-Crude-Oil-Inventories-in-Freefall-EIA.html",
       "timestamp": "2026-06-04T12:10:00+03:00"
     },
     {
@@ -2440,6 +2476,31 @@
       ]
     },
     {
+      "headline": "US crude exports hit record 5.6 million barrels per day in May",
+      "summary": "US crude exports climbed to a record high as the Middle East crisis pushed up demand from Asian and European refiners. The surge reflects global supply disruptions from the Strait of Hormuz blockade.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/us-crude-exports-hit-record-high-may-iran-war-tightens-global-oil-supplies-2026-06-01/",
+      "timestamp": "2026-06-02T11:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "OilPrice",
+          "url": "https://oilprice.com/Energy/Crude-Oil/US-Crude-Oil-Inventories-in-Freefall-EIA.html",
+          "angle": "US crude inventories in freefall, down 8 million barrels",
+          "summary": "US commercial crude stockpiles fell 8 million barrels to 433.7 million, now 3% below the five-year average. Brent rose to .24, WTI to .99 as supply tightens amid Middle East crisis."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "OilPrice"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/us-crude-exports-hit-record-high-may-iran-war-tightens-global-oil-supplies-2026-06-01/",
+        "https://oilprice.com/Energy/Crude-Oil/US-Crude-Oil-Inventories-in-Freefall-EIA.html"
+      ]
+    },
+    {
       "headline": "Israeli forces seize 900-year-old Crusader castle in Lebanon",
       "summary": "Israeli troops entered a medieval stronghold built by Crusaders in southern Lebanon, capturing a site with deep historical significance. The move is part of Israel's ongoing operations against Hezbollah positions.",
       "emoji": "🏰",
@@ -2470,31 +2531,6 @@
         "https://www.reuters.com/world/middle-east/lebanon-crusader-castle-seized-by-israel-symbol-bloody-history-2026-06-01/",
         "https://www.aljazeera.com/news/2026/6/3/hezbollah-video-shows-attack-on-israeli-troops-at-lebanons-beaufort-castle",
         "https://www.bbc.com/news/articles/c936zvne0l6o"
-      ]
-    },
-    {
-      "headline": "US crude exports hit record 5.6 million barrels per day in May",
-      "summary": "US crude exports climbed to a record high as the Middle East crisis pushed up demand from Asian and European refiners. The surge reflects global supply disruptions from the Strait of Hormuz blockade.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/us-crude-exports-hit-record-high-may-iran-war-tightens-global-oil-supplies-2026-06-01/",
-      "timestamp": "2026-06-02T11:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/us-crude-exports-hit-record-high-may-iran-war-tightens-global-oil-supplies-2026-06-01/",
-          "angle": "US Crude Exports Hit Record 5.6 Million Barrels Per Day",
-          "summary": "American oil exports reached unprecedented levels in May as Middle East supply disruptions from the Iran war drove demand from Asian and European refiners."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/us-crude-exports-hit-record-high-may-iran-war-tightens-global-oil-supplies-2026-06-01/",
-        "https://www.reuters.com/business/energy/us-crude-exports-hit-record-high-may-iran-war-tightens-global-oil-supplies-2026-06-01/"
       ]
     },
     {
@@ -2913,74 +2949,6 @@
         "https://www.nytimes.com/live/2026/06/01/world/iran-war-us-trump-israel-lebanon",
         "https://news.google.com/rss/articles/CBMihAFBVV95cUxPS0doYXZBSjJCdjlYOVhxM25obDN"
       ]
-    },
-    {
-      "headline": "US Gasoline Market Faces Fresh Test After Near-Record Inventory Drawdowns",
-      "summary": "A near-record run of US gasoline inventory drawdowns signals fuel markets are losing their buffer just as seasonal demand peaks, raising concerns about supply constraints.",
-      "emoji": "⛽",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/markets/commodities/us-gasoline-market-set-fresh-test-after-near-record-stock-draws-2026-06-01/",
-      "timestamp": "2026-06-02T04:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/markets/commodities/us-gasoline-market-set-fresh-test-after-near-record-stock-draws-2026-06-01/",
-          "angle": "US Gasoline Market Faces Test After Near-Record Stock Draws",
-          "summary": "A near-record run of US gasoline inventory drawdowns signals shrinking buffers as seasonal demand peaks. The tightening supply comes amid ongoing Iran-related tensions affecting global energy markets."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/markets/commodities/us-gasoline-market-set-fresh-test-after-near-record-stock-draws-2026-06-01/",
-        "https://www.reuters.com/markets/commodities/us-gasoline-market-set-fresh-test-after-near-record-stock-draws-2026-06-01/"
-      ]
-    },
-    {
-      "headline": "Putin Hosts Fifth Wartime Economic Conference as Russia Struggles for Growth Strategy",
-      "summary": "Russian President Vladimir Putin convenes his fifth wartime economic summit in St. Petersburg, grappling with a growth strategy as Ukrainian drone attacks strain the economy.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/short-growth-ideas-putin-hosts-fifth-wartime-russian-davos-2026-06-01/",
-      "timestamp": "2026-06-02T04:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/short-growth-ideas-putin-hosts-fifth-wartime-russian-davos-2026-06-01/",
-          "angle": "Putin Hosts Wartime Economic Summit Amid Ukraine Drone Strikes",
-          "summary": "Russia held its fifth St. Petersburg economic forum since the war began, with Moscow struggling for growth strategy as Ukrainian attacks on infrastructure continue."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/short-growth-ideas-putin-hosts-fifth-wartime-russian-davos-2026-06-01/",
-        "https://www.reuters.com/business/short-growth-ideas-putin-hosts-fifth-wartime-russian-davos-2026-06-01/"
-      ]
-    },
-    {
-      "headline": "US to Drastically Slash African Embassy Visa Processing",
-      "summary": "The State Department plans to cut by more than half the number of US embassies and consulates in Africa that can process visas, significantly reducing access for African travelers.",
-      "emoji": "🌍",
-      "category": "Diplomacy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/trump-africa-visas-embassies-cutbacks-973e4458cc0770a0a7e83acf51e74df0",
-      "timestamp": "2026-06-02T04:03:00+03:00"
-    },
-    {
-      "headline": "South Korea Surpasses India as Worlds Sixth-Largest Stock Market",
-      "summary": "South Koreas equity market has overtaken Indias as the worlds sixth largest, driven by a surge in chip stocks amid global AI demand.",
-      "emoji": "🇰🇷",
-      "category": "Economy",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-02/s-korea-surpasses-india-as-world-s-sixth-largest-stock-market",
-      "timestamp": "2026-06-02T04:03:00+03:00"
     }
   ]
 }
