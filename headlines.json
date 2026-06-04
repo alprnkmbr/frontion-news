@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-04T21:05:18+03:00",
+  "lastUpdated": "2026-06-04T22:04:40+03:00",
   "headlines": [
+    {
+      "headline": "French jets scramble 11 times in a week to intercept Russian aircraft over Baltics",
+      "summary": "French warplanes were scrambled 11 times as part of NATO's Baltic Air Policing Mission, with France's armed forces spokesperson describing a higher-than-usual number of Russian \"provocations\" in the region.",
+      "emoji": "🇫🇷🇷🇺",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/french-jets-intercepted-russian-aircraft-11-times-over-week-baltics-2026-06-04/",
+      "timestamp": "2026-06-04T22:03:00+03:00"
+    },
+    {
+      "headline": "Former Trump adviser John Bolton to plead guilty in classified documents case",
+      "summary": "John Bolton, who served as Trump's national security adviser and became a prominent critic, plans to plead guilty to mishandling classified documents and will pay a $2.25 million fine as part of a plea deal with federal prosecutors.",
+      "emoji": "⚖️🏛️",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/former-trump-adviser-bolton-reaches-plea-deal-over-mishandling-classified-2026-06-04/",
+      "timestamp": "2026-06-04T22:03:00+03:00"
+    },
+    {
+      "headline": "California tech CEO arrested for smuggling equipment to Iran's nuclear and military programs",
+      "summary": "US officials arrested dual US-Iranian citizen Jamshid Ghomi, accusing him of using his technology company to smuggle hundreds of tonnes of sophisticated computer equipment to Iran, including to the regime's nuclear and military establishment, violating US sanctions.",
+      "emoji": "🇺🇸🇮🇷⚖️",
+      "category": "US-Iran War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cwy20ppvqg9o",
+      "timestamp": "2026-06-04T22:03:00+03:00"
+    },
+    {
+      "headline": "Hezbollah rejects Lebanon ceasefire as Israel rules out troop withdrawal",
+      "summary": "The Iran-backed Hezbollah movement rejected a US-mediated ceasefire plan for Lebanon, while Israel stated it would continue operations in southern Lebanon despite the agreement, undermining efforts to halt fighting alongside the broader US-Iran conflict.",
+      "emoji": "🇱🇧🇮🇱⚔️",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israel-continue-operations-lebanon-now-despite-ceasefire-defence-minister-says-2026-06-04/",
+      "timestamp": "2026-06-04T22:03:00+03:00"
+    },
+    {
+      "headline": "Putin says Russia will defeat Ukraine, signals readiness for peace compromises",
+      "summary": "Russian President Vladimir Putin declared Russia would defeat Ukraine while speaking at the St. Petersburg International Economic Forum, but also indicated readiness to make compromises for a Ukraine peace deal if Trump requests, showing dual messaging on the war's trajectory.",
+      "emoji": "🇷🇺🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/putin-ukraine-war-prospects-peace-2026-06-04/",
+      "timestamp": "2026-06-04T22:03:00+03:00"
+    },
     {
       "headline": "Sweden's Gripen fighter jet faces combat test as Ukraine makes it backbone of air force",
       "summary": "Ukraine's decision to make the Swedish Gripen the backbone of its air force puts the fighter jet to its ultimate test: confronting Russia in actual combat, the role it was designed for during the Cold War.",
@@ -17,7 +62,31 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/russian-held-crimea-tightens-fuel-curbs-after-ukrainian-strikes-cause-shortages-2026-06-04/",
-      "timestamp": "2026-06-04T21:05:00+03:00"
+      "timestamp": "2026-06-04T21:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c0r2klj0nyxo",
+          "angle": "Ukraine strikes kill four in occupied Crimea, fuel shortages spread",
+          "summary": "Russian-backed officials report four killed in Ukrainian attacks on Simferopol and a commuter train near Kerch. Ukraine's drone campaign has caused fuel rationing across the peninsula, with strikes also hitting near St Petersburg."
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cp3peyykxd5o",
+          "angle": "Seven Killed as Drone Strikes Bus in Russian-Controlled Crimea",
+          "summary": "A bus traveling between Moscow and Simferopol in Russian-occupied Crimea was hit by a drone attack, killing seven people. The strike highlights the expanding scope of drone warfare in the Ukraine conflict."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/russian-held-crimea-tightens-fuel-curbs-after-ukrainian-strikes-cause-shortages-2026-06-04/",
+        "https://www.bbc.com/news/articles/c0r2klj0nyxo",
+        "https://www.bbc.com/news/articles/cp3peyykxd5o"
+      ]
     },
     {
       "headline": "Trump-arranged ceasefires failing to stop violence across Middle East",
@@ -26,7 +95,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/how-trumps-ceasefires-are-failing-stop-middle-east-violence-2026-06-04/",
-      "timestamp": "2026-06-04T21:05:00+03:00"
+      "timestamp": "2026-06-04T21:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/iran-us-israel-gaza-lebanon-hamas-hezbollah-fighting-ceasefire-3338e5a13a57333ca2a56b89041360ae",
+          "angle": "Ceasefires Announced Across Middle East But Fighting Worsens",
+          "summary": "Despite high-profile ceasefire announcements in Gaza, Lebanon and Iran, fighting continues to intensify across multiple fronts, raising questions about the viability of diplomatic agreements in the region."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/how-trumps-ceasefires-are-failing-stop-middle-east-violence-2026-06-04/",
+        "https://apnews.com/article/iran-us-israel-gaza-lebanon-hamas-hezbollah-fighting-ceasefire-3338e5a13a57333ca2a56b89041360ae"
+      ]
     },
     {
       "headline": "Nearly 100 Jan. 6 rioters granted clemency by Trump accused of new crimes",
@@ -221,15 +306,6 @@
       "source": "Jerusalem Post",
       "url": "https://www.jpost.com/israel-news/defense-news/article-898372",
       "timestamp": "2026-06-04T18:05:00+03:00"
-    },
-    {
-      "headline": "Ukraine strikes kill four in occupied Crimea, fuel shortages spread",
-      "summary": "Russian-backed officials report four killed in Ukrainian attacks on Simferopol and a commuter train near Kerch. Ukraine's drone campaign has caused fuel rationing across the peninsula, with strikes also hitting near St Petersburg.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0r2klj0nyxo",
-      "timestamp": "2026-06-04T18:03:00+03:00"
     },
     {
       "headline": "Heavy gunfire in Mogadishu as Somalia election dispute escalates",
@@ -1604,31 +1680,6 @@
       ]
     },
     {
-      "headline": "Seven Killed as Drone Strikes Bus in Russian-Controlled Crimea",
-      "summary": "A bus traveling between Moscow and Simferopol in Russian-occupied Crimea was hit by a drone attack, killing seven people. The strike highlights the expanding scope of drone warfare in the Ukraine conflict.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cp3peyykxd5o",
-      "timestamp": "2026-06-03T15:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cp3peyykxd5o",
-          "angle": "Seven Civilians Killed as Drone Strikes Bus in Russia-Controlled Ukraine",
-          "summary": "A bus traveling between Moscow and Simferopol in Russian-occupied Crimea was hit by a drone attack, killing seven people. The incident underscores the ongoing dangers to civilian infrastructure on both sides of the conflict."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/cp3peyykxd5o",
-        "https://www.bbc.com/news/articles/cp3peyykxd5o"
-      ]
-    },
-    {
       "headline": "British Couple Loses Iran Jail Sentence Appeal",
       "summary": "Lindsay and Craig Foreman, arrested in January 2025 during a global motorbike journey, have lost their appeal against jail sentences in Iran. The case adds to tensions over detained foreign nationals.",
       "emoji": "🇬🇧",
@@ -2485,15 +2536,6 @@
       "timestamp": "2026-06-02T19:15:00+03:00"
     },
     {
-      "headline": "Ceasefires Announced Across Middle East But Fighting Worsens",
-      "summary": "Despite high-profile ceasefire announcements in Gaza, Lebanon and Iran, fighting continues to intensify across multiple fronts, raising questions about the viability of diplomatic agreements in the region.",
-      "emoji": "⚔️",
-      "category": "Middle East",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-israel-gaza-lebanon-hamas-hezbollah-fighting-ceasefire-3338e5a13a57333ca2a56b89041360ae",
-      "timestamp": "2026-06-02T19:15:00+03:00"
-    },
-    {
       "headline": "Desert E-Bike Race Tests Military Vehicle AI at Baja 1000",
       "summary": "Pilot Racing team will use AI technology at the Baja 1000 desert race to test when riders should switch bikes, technology that could apply to military vehicle operations in harsh environments.",
       "emoji": "🏍️",
@@ -2706,24 +2748,6 @@
       "category": "Middle East",
       "source": "Middle East Eye",
       "url": "https://www.middleeasteye.net/news/shias-lucknow-mourn-khamenei-while-modi-maintains-close-ties-israel",
-      "timestamp": "2026-06-02T14:10:00+03:00"
-    },
-    {
-      "headline": "Zelensky Says Ukraine Can Strike All Russian Military Logistics in Occupied Territories",
-      "summary": "President Zelensky announced that Ukrainian forces now have the capability to strike Russian military logistics across virtually the entire depth of occupied territories, with 15 oil refineries hit so far.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/ukraine-capable-of-striking-all-of-russias-military-logistics-in-occupied-territories-zelensky-says/",
-      "timestamp": "2026-06-02T14:10:00+03:00"
-    },
-    {
-      "headline": "Indonesian Tech Mogul Faces Graft Charges Over Chromebook Procurement",
-      "summary": "Nadiem Makarim, former education minister and founder of Indonesian ride-hailing giant Gojek, dismisses corruption charges related to Chromebook procurement as an illusion of law.",
-      "emoji": "🇮🇩",
-      "category": "Asia-Pacific",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/indonesia-s-goto-cofounder-calls-chromebook-graft-charges-illusion-of-law",
       "timestamp": "2026-06-02T14:10:00+03:00"
     }
   ]
