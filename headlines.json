@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-06-05T07:04:47+03:00",
+  "lastUpdated": "2026-06-05T08:05:27+03:00",
   "headlines": [
+    {
+      "headline": "UK Military Chief Warns of \"Most Dangerous Period\" Amid Russian Incursions",
+      "summary": "Chief of the Defence Staff Sir Richard Knighton told the BBC that Russian incursions into UK defenses risk crossing a line, describing the current security environment as the most dangerous period he has known.",
+      "emoji": "🇬🇧⚠️",
+      "category": "Europe",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c1m2mryg0k7o",
+      "timestamp": "2026-06-05T08:03:00+03:00"
+    },
+    {
+      "headline": "Taiwan Forges Thicker Silicon Shield as AI Demand Boosts Defense Spending",
+      "summary": "As Nvidia and Intel leaders praise Taiwan's role in global supply chains, the island's importance grows with AI moving from cloud to local devices. With GDP set to expand 10%, Taipei can boost defense spending amid rising tensions.",
+      "emoji": "🇹🇼💾",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/commentary/breakingviews/taiwan-forges-thicker-silicon-shield-2026-06-05/",
+      "timestamp": "2026-06-05T08:03:00+03:00"
+    },
+    {
+      "headline": "Oil Prices Rise on US-Iran Deal Uncertainty and Oman Terminal Suspension",
+      "summary": "Oil prices rebounded after Hezbollah rejected a Lebanon ceasefire proposal and Oman's Mina al Fahal terminal suspended oil loadings following an explosion, raising supply concerns amid stalled US-Iran peace talks.",
+      "emoji": "🛢️📈",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-little-changed-uncertainty-over-us-iran-peace-deal-2026-06-05/",
+      "timestamp": "2026-06-05T08:03:00+03:00"
+    },
     {
       "headline": "Xi Jinping to Visit North Korea for First Time Since 2019",
       "summary": "Chinese President Xi Jinping will visit North Korea from June 8-9, marking his first trip to Pyongyang in nearly seven years as Beijing seeks to strengthen ties with its isolated neighbor amid shifting regional dynamics.",
@@ -17,7 +44,31 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/putin-says-russia-will-defeat-ukraine-2026-06-04/",
-      "timestamp": "2026-06-05T07:05:00+03:00"
+      "timestamp": "2026-06-05T07:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/zelenskiy-open-letter-invites-putin-talks-end-war-2026-06-04/",
+          "angle": "Zelenskiy Proposes Face-to-Face Peace Talks with Putin in Open Letter",
+          "summary": "Ukrainian President Volodymyr Zelenskiy published an open letter to Vladimir Putin proposing direct negotiations to end the war, warning Kyiv stands ready to fight on if talks fail."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/putin-ukraine-war-prospects-peace-2026-06-04/",
+          "angle": "Putin says Russia will defeat Ukraine, signals readiness for peace compromises",
+          "summary": "Russian President Vladimir Putin declared Russia would defeat Ukraine while speaking at the St. Petersburg International Economic Forum, but also indicated readiness to make compromises for a Ukraine peace deal if Trump requests, showing dual messaging on the war's trajectory."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/putin-says-russia-will-defeat-ukraine-2026-06-04/",
+        "https://www.reuters.com/world/europe/zelenskiy-open-letter-invites-putin-talks-end-war-2026-06-04/",
+        "https://www.reuters.com/world/putin-ukraine-war-prospects-peace-2026-06-04/"
+      ]
     },
     {
       "headline": "Xi Jinping to visit North Korea for first time since 2019",
@@ -303,31 +354,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/trump-cuba-sanctions-diazcanel-1cd7096822e8397dbfeffaf8e70aa536",
       "timestamp": "2026-06-05T03:10:00+03:00"
-    },
-    {
-      "headline": "Zelenskiy Proposes Face-to-Face Peace Talks with Putin in Open Letter",
-      "summary": "Ukrainian President Volodymyr Zelenskiy published an open letter to Vladimir Putin proposing direct negotiations to end the war, warning Kyiv stands ready to fight on if talks fail.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/zelenskiy-open-letter-invites-putin-talks-end-war-2026-06-04/",
-      "timestamp": "2026-06-05T02:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/06/04/world/europe/zelensky-putin-letter.html",
-          "angle": "Zelensky Challenges Putin to Direct Meeting in Open Letter",
-          "summary": "Ukrainian President Volodymyr Zelensky wrote an open letter to Vladimir Putin proposing direct talks to end the war, mixing taunts about the Russian leader's age with a peace overture. The letter marks a significant diplomatic shift as Ukraine seeks to break the stalemate."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "New York Times"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/zelenskiy-open-letter-invites-putin-talks-end-war-2026-06-04/",
-        "https://www.nytimes.com/2026/06/04/world/europe/zelensky-putin-letter.html"
-      ]
     },
     {
       "headline": "China Releases Satellite Images of Nvidia and Apple HQs",
@@ -653,15 +679,6 @@
       "category": "US-Iran War",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cwy20ppvqg9o",
-      "timestamp": "2026-06-04T22:03:00+03:00"
-    },
-    {
-      "headline": "Putin says Russia will defeat Ukraine, signals readiness for peace compromises",
-      "summary": "Russian President Vladimir Putin declared Russia would defeat Ukraine while speaking at the St. Petersburg International Economic Forum, but also indicated readiness to make compromises for a Ukraine peace deal if Trump requests, showing dual messaging on the war's trajectory.",
-      "emoji": "🇷🇺🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/putin-ukraine-war-prospects-peace-2026-06-04/",
       "timestamp": "2026-06-04T22:03:00+03:00"
     },
     {
