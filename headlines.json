@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-05T13:04:48+03:00",
+  "lastUpdated": "2026-06-05T14:05:48+03:00",
   "headlines": [
+    {
+      "headline": "Xi Jinping to Visit North Korea in First Trip Since 2019",
+      "summary": "Chinese President Xi Jinping will travel to North Korea on June 8-9, marking his first visit in nearly seven years as Beijing seeks to reassert ties with its only formal treaty ally amid Kim Jong Un expanding nuclear ambitions.",
+      "emoji": "🇨🇳🇰🇵",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/chinas-xi-visit-north-korea-beijing-seeks-cosier-ties-with-pyongyang-2026-06-05/",
+      "timestamp": "2026-06-05T14:03:00+03:00"
+    },
+    {
+      "headline": "Marine Drone Self-Detonates at Romanian Black Sea Port",
+      "summary": "A maritime drone of the type used in the Russia-Ukraine war exploded near the Romanian port of Constanta, with the defense ministry saying it self-detonated near an oil terminal without causing casualties.",
+      "emoji": "🇷🇴💥",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/marine-drone-self-detonates-romanian-black-sea-port-defence-ministry-says-2026-06-05/",
+      "timestamp": "2026-06-05T14:03:00+03:00"
+    },
+    {
+      "headline": "Russian Drone Strike Kills Four in Kyiv Region",
+      "summary": "A Russian drone attack on a dairy factory in the Kyiv region killed four people and injured seven others, Ukrainian officials said, as Russia continues aerial assaults on Ukraine.",
+      "emoji": "🇺🇦⚔️",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/russian-drone-attack-kills-four-ukraines-kyiv-region-officials-say-2026-06-05/",
+      "timestamp": "2026-06-05T14:03:00+03:00"
+    },
+    {
+      "headline": "UN Doubles Lebanon Aid Appeal as War Drives Humanitarian Surge",
+      "summary": "The United Nations doubled its funding appeal for Lebanon as the Middle East conflict enters its fourth month, warning of surging humanitarian needs from rising costs and displacement.",
+      "emoji": "🇱🇧🆘",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/un-doubles-lebanon-aid-appeal-war-drives-surge-humanitarian-needs-2026-06-05/",
+      "timestamp": "2026-06-05T14:03:00+03:00"
+    },
+    {
+      "headline": "Ebola Burial Team Attacked in Congo as Outbreak Spreads",
+      "summary": "Residents attacked an Ebola burial team in South Kivu province, forcing responders to abandon a coffin and raising fears of further transmission as Congo battles a growing outbreak.",
+      "emoji": "🇨🇩🦠",
+      "category": "Africa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/congo-reports-attack-ebola-burial-team-cases-rise-2026-06-04/",
+      "timestamp": "2026-06-05T14:03:00+03:00"
+    },
     {
       "headline": "Zelensky Appeals Directly to Putin in Open Letter Calling for Face-to-Face Peace Talks",
       "summary": "Ukrainian President Volodymyr Zelensky published an unprecedented open letter to Vladimir Putin, proposing direct negotiations in a neutral country to end the war. The letter comes as Ukraine reports gaining more territory than it lost for the third consecutive month.",
@@ -8,7 +53,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/zelenskiy-open-letter-invites-putin-talks-end-war-2026-06-04/",
-      "timestamp": "2026-06-05T13:03:00+03:00"
+      "timestamp": "2026-06-05T13:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/putin-says-russia-will-defeat-ukraine-2026-06-04/",
+          "angle": "Putin Maintains Hardline Stance on Ukraine While Open to Trump Peace Ideas",
+          "summary": "Russian President Vladimir Putin reiterated his commitment to defeating Ukraine while acknowledging that Donald Trump's proposals could potentially bring peace, as Zelenskyy published an open letter proposing direct negotiations."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/zelenskiy-open-letter-invites-putin-talks-end-war-2026-06-04/",
+        "https://www.reuters.com/world/europe/putin-says-russia-will-defeat-ukraine-2026-06-04/"
+      ]
     },
     {
       "headline": "Sweden's Gripen Fighter Jets Face Combat Debut as Ukraine Names Them Backbone of Air Force",
@@ -458,39 +519,6 @@
       "urls": [
         "https://www.reuters.com/business/energy/oil-little-changed-uncertainty-over-us-iran-peace-deal-2026-06-05/",
         "https://www.reuters.com/business/energy/oil-little-changed-uncertainty-over-us-iran-peace-deal-2026-06-05/"
-      ]
-    },
-    {
-      "headline": "Putin Maintains Hardline Stance on Ukraine While Open to Trump Peace Ideas",
-      "summary": "Russian President Vladimir Putin reiterated his commitment to defeating Ukraine while acknowledging that Donald Trump's proposals could potentially bring peace, as Zelenskyy published an open letter proposing direct negotiations.",
-      "emoji": "🇷🇺🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/putin-says-russia-will-defeat-ukraine-2026-06-04/",
-      "timestamp": "2026-06-05T07:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/zelenskiy-open-letter-invites-putin-talks-end-war-2026-06-04/",
-          "angle": "Zelenskiy Proposes Face-to-Face Peace Talks with Putin in Open Letter",
-          "summary": "Ukrainian President Volodymyr Zelenskiy published an open letter to Vladimir Putin proposing direct negotiations to end the war, warning Kyiv stands ready to fight on if talks fail."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/putin-ukraine-war-prospects-peace-2026-06-04/",
-          "angle": "Putin says Russia will defeat Ukraine, signals readiness for peace compromises",
-          "summary": "Russian President Vladimir Putin declared Russia would defeat Ukraine while speaking at the St. Petersburg International Economic Forum, but also indicated readiness to make compromises for a Ukraine peace deal if Trump requests, showing dual messaging on the war's trajectory."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/putin-says-russia-will-defeat-ukraine-2026-06-04/",
-        "https://www.reuters.com/world/europe/zelenskiy-open-letter-invites-putin-talks-end-war-2026-06-04/",
-        "https://www.reuters.com/world/putin-ukraine-war-prospects-peace-2026-06-04/"
       ]
     },
     {
@@ -2761,42 +2789,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3355732/china-uk-ties-thaw-wang-yi-urges-they-further-communicate-and-align-our-positions",
       "timestamp": "2026-06-03T06:05:00+03:00"
-    },
-    {
-      "headline": "Notre Dame cathedral excavation unearths 1,700 years of history",
-      "summary": "Archaeologists discovered extraordinary treasures beneath Notre Dame during post-fire restoration, including medieval sculptures and Roman-era remains. The \"dig of the century\" reveals Paris's history from antiquity through the medieval period.",
-      "emoji": "⛪",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://apnews.com/article/notre-dame-dig-treasures-paris-archaeology-roman-dae41f792c1402faf32a87c154cc9a77",
-      "timestamp": "2026-06-03T06:05:00+03:00"
-    },
-    {
-      "headline": "Trump signs executive order to vet AI models for national security risks",
-      "summary": "President Trump signed an order inviting security reviews of top AI models to assess national security threats. The move comes as competition intensifies with China over advanced artificial intelligence development.",
-      "emoji": "🤖",
-      "category": "US-China",
-      "source": "AP News",
-      "url": "https://apnews.com/article/trump-ai-executive-order-e41af74f7b0865482f07d10fe7a50fe3",
-      "timestamp": "2026-06-03T06:05:00+03:00"
-    },
-    {
-      "headline": "Iranian Inflation Reaches 77%, Highest Since World War II",
-      "summary": "Iran Central Bank reported year-on-year inflation hit 77.2% in May, described by economists as unprecedented since World War II. The economic crisis adds pressure on negotiations as Iran faces a US naval blockade and ongoing conflict. Daily necessities like medicine and food saw 113.8% price increases.",
-      "emoji": "💰",
-      "category": "Economy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-israel-war-2-june-2026-9bde9a3425d4b9ff70f157bdae0fb982",
-      "timestamp": "2026-06-03T05:03:00+03:00"
-    },
-    {
-      "headline": "Zelensky Plans to Attend G7 Summit in France",
-      "summary": "President Volodymyr Zelensky is expected to join G7 leaders at the June 15-17 summit in Evian-les-Bains, France, as Ukraine continues to seek Western support amid the ongoing war with Russia.",
-      "emoji": "🇺🇦",
-      "category": "Diplomacy",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/zelensky-to-attend-g7-summit-in-france-politico-reports/",
-      "timestamp": "2026-06-03T04:05:00+03:00"
     }
   ]
 }
