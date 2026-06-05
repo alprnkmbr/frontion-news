@@ -1,14 +1,23 @@
 {
-  "lastUpdated": "2026-06-05T03:04:42+03:00",
+  "lastUpdated": "2026-06-05T04:04:38+03:00",
   "headlines": [
     {
-      "headline": "Zelensky Challenges Putin to Direct Meeting in Open Letter",
-      "summary": "Ukrainian President Volodymyr Zelensky wrote an open letter to Vladimir Putin proposing direct talks to end the war, mixing taunts about the Russian leader's age with a peace overture. The letter marks a significant diplomatic shift as Ukraine seeks to break the stalemate.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/04/world/europe/zelensky-putin-letter.html",
-      "timestamp": "2026-06-05T03:10:00+03:00"
+      "headline": "French jets scrambled 11 times in a week to intercept Russian aircraft over Baltics",
+      "summary": "French warplanes were scrambled 11 times in the past week as part of NATOs Baltic Air Policing Mission, with Frances armed forces describing the incursions as a higher-than-usual number of provocations by Russia.",
+      "emoji": "🇫🇷🇷🇺✈️",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/french-jets-intercepted-russian-aircraft-11-times-over-week-baltics-2026-06-04/",
+      "timestamp": "2026-06-05T04:03:00+03:00"
+    },
+    {
+      "headline": "US imposes sanctions on Cuban President Diaz-Canel and family members",
+      "summary": "The United States has imposed sanctions on Cuban President Miguel Diaz-Canel, his wife and several senior figures, escalating pressure on the communist regime amid Cubas ongoing economic and energy crisis.",
+      "emoji": "🇺🇸🇨🇺🏛️",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/americas/us-imposes-sanctions-cuban-president-treasury-website-shows-2026-06-04/",
+      "timestamp": "2026-06-05T04:03:00+03:00"
     },
     {
       "headline": "Ukraine Launches Drone Attacks on Zaporizhzhia Nuclear Plant Area",
@@ -38,6 +47,31 @@
       "timestamp": "2026-06-05T03:10:00+03:00"
     },
     {
+      "headline": "Zelenskiy Proposes Face-to-Face Peace Talks with Putin in Open Letter",
+      "summary": "Ukrainian President Volodymyr Zelenskiy published an open letter to Vladimir Putin proposing direct negotiations to end the war, warning Kyiv stands ready to fight on if talks fail.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/zelenskiy-open-letter-invites-putin-talks-end-war-2026-06-04/",
+      "timestamp": "2026-06-05T02:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/06/04/world/europe/zelensky-putin-letter.html",
+          "angle": "Zelensky Challenges Putin to Direct Meeting in Open Letter",
+          "summary": "Ukrainian President Volodymyr Zelensky wrote an open letter to Vladimir Putin proposing direct talks to end the war, mixing taunts about the Russian leader's age with a peace overture. The letter marks a significant diplomatic shift as Ukraine seeks to break the stalemate."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "New York Times"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/zelenskiy-open-letter-invites-putin-talks-end-war-2026-06-04/",
+        "https://www.nytimes.com/2026/06/04/world/europe/zelensky-putin-letter.html"
+      ]
+    },
+    {
       "headline": "China Releases Satellite Images of Nvidia and Apple HQs",
       "summary": "A Chinese satellite company published bird's-eye photos of Nvidia and Apple headquarters, showcasing routine satellite news capabilities despite being under sanctions.",
       "emoji": "🛰️",
@@ -63,31 +97,6 @@
       "source": "Taipei Times",
       "url": "https://www.taipeitimes.com/News/front/archives/2026/06/05/2003858556",
       "timestamp": "2026-06-05T02:05:00+03:00"
-    },
-    {
-      "headline": "Zelenskiy Proposes Face-to-Face Peace Talks with Putin in Open Letter",
-      "summary": "Ukrainian President Volodymyr Zelenskiy published an open letter to Vladimir Putin proposing direct negotiations to end the war, warning Kyiv stands ready to fight on if talks fail.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/zelenskiy-open-letter-invites-putin-talks-end-war-2026-06-04/",
-      "timestamp": "2026-06-05T02:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o",
-          "angle": "Zelensky proposes face-to-face meeting with Putin in open letter",
-          "summary": "Ukrainian President Volodymyr Zelensky called for a direct meeting with Vladimir Putin in an open letter, urging the Russian leader to agree to ceasefire talks."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/zelenskiy-open-letter-invites-putin-talks-end-war-2026-06-04/",
-        "https://www.bbc.com/news/articles/cwy2ypyp4x4o"
-      ]
     },
     {
       "headline": "Russia-US Energy and Economy Talks Continue Despite Ukraine Pause",
@@ -2729,57 +2738,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/adnoc-trading-chief-flags-august-tipping-point-oil-prices-2026-06-02/",
       "timestamp": "2026-06-02T20:03:00+03:00"
-    },
-    {
-      "headline": "Vitol Executive Says Oil Market Underpricing Iran War Risks",
-      "summary": "The oil market is underpricing some risks from the Iran war, global commodity trading house Vitol managing director for Bahrain Tom Baker said on Tuesday, warning of potential supply disruptions.",
-      "emoji": "💰",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-market-could-be-underpricing-risks-vitols-bahrain-chief-says-2026-06-02/",
-      "timestamp": "2026-06-02T20:03:00+03:00"
-    },
-    {
-      "headline": "Canada Calls for US-Mexico Free Trade Agreement Renewal for 16 Years",
-      "summary": "Canada is calling on the United States and Mexico to renew the free trade agreement between the countries for another 16 years amid ongoing trade tensions and uncertainty over US tariff policy.",
-      "emoji": "🇨🇦",
-      "category": "Diplomacy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/canada-us-mexico-free-trade-agreement-mexico-trump-467fdce809801d2f078af55a1111cdf9",
-      "timestamp": "2026-06-02T20:03:00+03:00"
-    },
-    {
-      "headline": "US Proposes 25% Tariffs on Brazil Over Unfair Trade Practices",
-      "summary": "The Trump administration proposed 25% tariffs on Brazilian imports after an investigation found the South American country engages in unfair trade practices, escalating trade tensions with Latin America's largest economy.",
-      "emoji": "🇧🇷",
-      "category": "Economy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/eeuu-brasil-aranceles-27437d9bd39fc111631b7fd9fe18d043",
-      "timestamp": "2026-06-02T19:15:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jun/03/trump-tariffs-brazil-us-trade",
-          "angle": "Trump Administration Proposes 25 Percent Tariffs on Brazil",
-          "summary": "The US claims the worlds 10th-biggest economy engages in unreasonable trade practices that restrict US commerce, despite the US running a trade surplus with Brazil."
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/",
-          "angle": "US Targets Brazil with 25 Percent Tariffs",
-          "summary": "The Trump administration has proposed new 25 percent tariffs on Brazilian imports, citing deforestation concerns and digital trade practices despite the US maintaining a trade surplus with Brazil."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "The Guardian",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://apnews.com/article/eeuu-brasil-aranceles-27437d9bd39fc111631b7fd9fe18d043",
-        "https://www.theguardian.com/world/2026/jun/03/trump-tariffs-brazil-us-trade",
-        "https://www.aljazeera.com/news/"
-      ]
     }
   ]
 }
