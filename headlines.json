@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-05T15:06:41+03:00",
+  "lastUpdated": "2026-06-05T16:04:16+03:00",
   "headlines": [
+    {
+      "headline": "Ukraine and Russia Exchange 185 Prisoners of War Each",
+      "summary": "Both countries completed another POW swap on Friday, exchanging 185 service personnel each. The exchange continues a series of prisoner swaps amid the ongoing conflict.",
+      "emoji": "🇺🇦🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/ukraine-russia-exchange-185-prisoners-war-each-swap-2026-06-05/",
+      "timestamp": "2026-06-05T16:03:00+03:00"
+    },
+    {
+      "headline": "US House Passes Russia Sanctions and Ukraine Aid Bill",
+      "summary": "The House voted 226-195 for the Ukraine Support Act, with Republicans joining Democrats to force the vote. The bill had languished for months before reaching the floor.",
+      "emoji": "🇺🇸🇺🇦",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/us-house-backs-russia-sanctions-ukraine-aid-latest-blow-trump-2026-06-05/",
+      "timestamp": "2026-06-05T16:03:00+03:00"
+    },
+    {
+      "headline": "Russia Accuses Ukraine of Killing Azerbaijani Crew in Ship Attack",
+      "summary": "Russia accused Ukraine of killing Azerbaijani crew members in a drone attack on two cargo vessels headed for a Russian port. Baku confirmed at least five of its citizens were killed.",
+      "emoji": "🇦🇿⚔️",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/azerbaijan-says-five-its-citizens-killed-attacks-vessels-sea-azov-2026-06-05/",
+      "timestamp": "2026-06-05T16:03:00+03:00"
+    },
+    {
+      "headline": "Swedish Court Rules Seized Cargo Ship Can Go to Ukraine",
+      "summary": "A Swedish court ruled that a cargo vessel seized in the Baltic Sea can be handed to Ukraine. The ship is suspected of illegally transporting grain from Russian-occupied territory.",
+      "emoji": "🇸🇪🇺🇦",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/swedish-court-rules-seized-cargo-ship-can-be-handed-over-ukraine-2026-06-05/",
+      "timestamp": "2026-06-05T16:03:00+03:00"
+    },
+    {
+      "headline": "Ukraine Strikes Cargo Ships in Sea of Azov",
+      "summary": "Ukraine said it struck five ships carrying illegal cargo in the Sea of Azov and coastal waters of Russian-occupied territory. The attacks come as Putin prepares for a key speech.",
+      "emoji": "🇺🇦🚢",
+      "category": "Ukraine-Russia War",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c707098wkzpo",
+      "timestamp": "2026-06-05T16:03:00+03:00"
+    },
     {
       "headline": "Turkish Inflation Exceeds Expectations Amid Regional Conflict",
       "summary": "Turkish consumer prices rose 1.7% monthly and 32.6% annually in May, slightly above forecasts. The data highlights economic fallout from the US-Iran conflict and raises questions about monetary policy direction.",
@@ -26,7 +71,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/iran-declares-support-hezbollah-with-wider-peace-deal-doubt-2026-06-05/",
-      "timestamp": "2026-06-05T15:03:00+03:00"
+      "timestamp": "2026-06-05T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/lebanon-ceasefire-raises-hopes-progess-iran-deal-2026-06-04/",
+          "angle": "Hezbollah Rejects Lebanon Ceasefire, Undermining Iran Peace Efforts",
+          "summary": "The Iran-backed Hezbollah militia rejected a new ceasefire in Lebanon, and Israel said it would not withdraw troops, undermining U.S. President Trump's efforts to halt fighting and forge peace with Tehran."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/iran-declares-support-hezbollah-with-wider-peace-deal-doubt-2026-06-05/",
+        "https://www.reuters.com/world/middle-east/lebanon-ceasefire-raises-hopes-progess-iran-deal-2026-06-04/"
+      ]
     },
     {
       "headline": "Lebanon Ceasefire Hopes Dim as Fighting Continues",
@@ -322,31 +383,6 @@
       "urls": [
         "https://www.reuters.com/world/putin-envoy-says-russia-us-talks-energy-economy-continue-2026-06-04/",
         "https://www.reuters.com/world/putin-envoy-says-russia-us-talks-energy-economy-continue-2026-06-04/"
-      ]
-    },
-    {
-      "headline": "Hezbollah Rejects Lebanon Ceasefire, Undermining Iran Peace Efforts",
-      "summary": "The Iran-backed Hezbollah militia rejected a new ceasefire in Lebanon, and Israel said it would not withdraw troops, undermining U.S. President Trump's efforts to halt fighting and forge peace with Tehran.",
-      "emoji": "🇱🇧⚠️",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/lebanon-ceasefire-raises-hopes-progess-iran-deal-2026-06-04/",
-      "timestamp": "2026-06-05T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/oil-little-changed-uncertainty-over-us-iran-peace-deal-2026-06-05/",
-          "angle": "Hezbollah Rejects Lebanon Ceasefire, Oman Oil Terminal Suspends Loadings After Explosion",
-          "summary": "Hezbollah rejected a new Lebanon ceasefire proposal as Oman's Mina al Fahal terminal suspended oil loadings following an explosion, raising tensions and oil prices."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/lebanon-ceasefire-raises-hopes-progess-iran-deal-2026-06-04/",
-        "https://www.reuters.com/business/energy/oil-little-changed-uncertainty-over-us-iran-peace-deal-2026-06-05/"
       ]
     },
     {
@@ -2752,33 +2788,6 @@
       "category": "Economy",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/worlds-largest-shipping-firm-invests-in-ukrainian-port-near-odesa-despite-war-risks/",
-      "timestamp": "2026-06-03T08:10:00+03:00"
-    },
-    {
-      "headline": "Israel Opens First Embassy in Fiji, Expanding Pacific Diplomatic Presence",
-      "summary": "Israel established its first embassy in Fiji as part of broader efforts to expand diplomatic footprint in the Pacific region, amid growing competition for influence in the area.",
-      "emoji": "🇮🇱🇫🇯",
-      "category": "Diplomacy",
-      "source": "Haaretz",
-      "url": "https://www.haaretz.com/israel-news/israel-politics/2026-06-02/ty-article/.premium/israel-opens-first-embassy-in-fiji-expanding-diplomatic-footprint-in-pacific/0000019e-87c3-d126-a99e-e7c730b50000",
-      "timestamp": "2026-06-03T08:10:00+03:00"
-    },
-    {
-      "headline": "Ethiopia Goes Electric Following Gas Car Ban",
-      "summary": "Ethiopia banned gasoline-powered vehicles, pushing for widespread adoption of electric cars as the African nation seeks to reduce fuel imports and modernize its transportation sector.",
-      "emoji": "🇪🇹⚡🚗",
-      "category": "Africa",
-      "source": "DW",
-      "url": "https://www.dw.com/en/ethiopia-goes-electric-following-gas-car-ban/a-77350158",
-      "timestamp": "2026-06-03T08:10:00+03:00"
-    },
-    {
-      "headline": "India's Cockroach Movement Gives Voice to Angry Youth",
-      "summary": "A grassroots movement in India is channeling youth frustration over unemployment and economic inequality, with protesters adopting the cockroach as a symbol of resilience against systemic corruption.",
-      "emoji": "🇮🇳🐜",
-      "category": "South Asia",
-      "source": "DW",
-      "url": "https://www.dw.com/en/cockroach-movement-gives-voice-to-indias-angry-youth/a-77391629",
       "timestamp": "2026-06-03T08:10:00+03:00"
     }
   ]
