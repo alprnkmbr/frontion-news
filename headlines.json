@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-06T20:06:59+03:00",
+  "lastUpdated": "2026-06-06T21:04:59+03:00",
   "headlines": [
+    {
+      "headline": "US Strikes Iranian Radar Sites After Drone Launch Toward Strait of Hormuz",
+      "summary": "US forces struck Iranian coastal radar sites after Iran launched four attack drones toward the Strait of Hormuz. The US military shot down all drones, calling the strike a defensive action amid fragile ceasefire negotiations.",
+      "emoji": "🇮🇷",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-strikes-iran-radar-sites-after-iranian-drone-launch-2026-06-05/",
+      "timestamp": "2026-06-06T21:05:00+03:00"
+    },
+    {
+      "headline": "Iran Launches Ballistic Missiles Toward Gulf Allies as US Intercepts",
+      "summary": "Iran fired ballistic missiles toward Kuwait and Bahrain, with US forces intercepting most of them. The attack marks another escalation in the ongoing US-Iran conflict despite ceasefire talks.",
+      "emoji": "⚔️",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-attacks-iranian-coastal-sites-after-iran-launches-drones-latest-flare-up-2026-06-06/",
+      "timestamp": "2026-06-06T21:06:00+03:00"
+    },
+    {
+      "headline": "100 Days Into Iran War, Trump Struggles to Rally Domestic Support",
+      "summary": "As the US-Iran conflict reaches the 100-day mark, analysts note growing war weariness among Americans. The unpopularity of the conflict may impact Republican electoral prospects and US policy decisions.",
+      "emoji": "🇺🇸",
+      "category": "US-Iran War",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support",
+      "timestamp": "2026-06-06T21:07:00+03:00"
+    },
+    {
+      "headline": "US Stocks Tumble After Strong Jobs Data Signals Higher Rates",
+      "summary": "The S&P 500 fell more than 2.6% on Friday, its worst one-day drop of the year. An unexpectedly strong May jobs report bolstered bets that US interest rates are poised to rise, knocking tech stocks lower.",
+      "emoji": "📉",
+      "category": "Economy",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/05/business/stock-market-jobs-report.html",
+      "timestamp": "2026-06-06T21:08:00+03:00"
+    },
+    {
+      "headline": "Defense Secretary Hegseth Links Immigration to Invasion in D-Day Speech",
+      "summary": "US Defense Secretary Pete Hegseth used a D-Day anniversary speech in France to draw parallels between WWII and current immigration challenges, calling immigration by sea an invasion that threatens nations.",
+      "emoji": "🏛️",
+      "category": "US Politics",
+      "source": "AP News",
+      "url": "https://www.wral.com/news/ap/7c1fd-hegseth-invokes-immigration-and-invasion-in-d-day-speech-in-france/",
+      "timestamp": "2026-06-06T21:09:00+03:00"
+    },
     {
       "headline": "Pakistani Interior Minister Arrives in Tehran for Iran-US Mediation Efforts",
       "summary": "Pakistan's interior minister traveled to Tehran amid ongoing diplomatic efforts to mediate between Iran and the United States as tensions continue to escalate in the Gulf region.",
@@ -44,7 +89,23 @@
       "category": "Asia-Pacific",
       "source": "SCMP",
       "url": "https://www.scmp.com/news/asia/southeast-asia/article/3356202/singapore-orders-social-media-platforms-block-foreign-posts-targeting-indian-community",
-      "timestamp": "2026-06-06T20:05:00+03:00"
+      "timestamp": "2026-06-06T20:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3356202/singapore-orders-social-media-platforms-block-foreign-posts-targeting-indian-community",
+          "angle": "Singapore orders social media platforms to block posts targeting Indian community",
+          "summary": "Authorities directed YouTube, Facebook, and X to block 14 foreign posts that targeted the Indian community. Officials said the content undermined social cohesion."
+        }
+      ],
+      "sources": [
+        "SCMP",
+        "SCMP"
+      ],
+      "urls": [
+        "https://www.scmp.com/news/asia/southeast-asia/article/3356202/singapore-orders-social-media-platforms-block-foreign-posts-targeting-indian-community",
+        "https://www.scmp.com/news/asia/southeast-asia/article/3356202/singapore-orders-social-media-platforms-block-foreign-posts-targeting-indian-community"
+      ]
     },
     {
       "headline": "US Strikes Iranian Radar Sites After Drone Launch Near Strait of Hormuz",
@@ -53,7 +114,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/us-strikes-iran-radar-sites-after-iranian-drone-launch-2026-06-05/",
-      "timestamp": "2026-06-06T20:03:00+03:00"
+      "timestamp": "2026-06-06T20:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/us-attacks-iranian-coastal-sites-after-iran-launches-drones-latest-flare-up-2026-06-06/",
+          "angle": "US Strikes Iranian Radar Sites After Drone Launch Toward Strait of Hormuz",
+          "summary": "US forces attacked Iranian coastal radar installations on Saturday after intercepting drones launched by Iran toward the strategic Strait of Hormuz, marking the latest escalation in the ongoing conflict."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/us-strikes-iran-radar-sites-after-iranian-drone-launch-2026-06-05/",
+        "https://www.reuters.com/world/middle-east/us-attacks-iranian-coastal-sites-after-iran-launches-drones-latest-flare-up-2026-06-06/"
+      ]
     },
     {
       "headline": "Taiwan Accuses China of Coordinated Operation Near Strategic South China Sea Islands",
@@ -62,7 +139,31 @@
       "category": "US-China",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/taiwan-says-chinese-coast-guard-research-ships-near-key-s-china-sea-islands-2026-06-06/",
-      "timestamp": "2026-06-06T20:03:00+03:00"
+      "timestamp": "2026-06-06T20:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "National Herald India",
+          "url": "https://www.nationalheraldindia.com/international/taiwan-accuses-china-of-coordinated-operation-near-strategic-south-china-sea-outpost",
+          "angle": "Taiwan accuses China of coordinated operation near South China Sea outpost",
+          "summary": "Taiwan's coast guard accused China of attempting to create a 'false illusion' of jurisdiction over waters surrounding a strategic South China Sea outpost, as a Chinese coast guard ship and survey vessel carried out coordinated operations."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/taiwan-says-chinese-coast-guard-research-ships-near-key-s-china-sea-islands-2026-06-06/",
+          "angle": "Taiwan Says Chinese Coast Guard, Research Ships Near Pratas Islands",
+          "summary": "Taiwan said a Chinese coast guard ship and a survey ship carried out the first coordinated operation to \"provoke\" Taiwan in waters around strategically located islands in the South China Sea, signaling increased pressure on the Taiwan-controlled Pratas Islands."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "National Herald India",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/taiwan-says-chinese-coast-guard-research-ships-near-key-s-china-sea-islands-2026-06-06/",
+        "https://www.nationalheraldindia.com/international/taiwan-accuses-china-of-coordinated-operation-near-strategic-south-china-sea-outpost",
+        "https://www.reuters.com/world/china/taiwan-says-chinese-coast-guard-research-ships-near-key-s-china-sea-islands-2026-06-06/"
+      ]
     },
     {
       "headline": "White House AI Policy Adviser Krishnan to Leave Position",
@@ -89,7 +190,23 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/russias-sechin-says-us-companies-benefit-closure-strait-hormuz-2026-06-06/",
-      "timestamp": "2026-06-06T20:03:00+03:00"
+      "timestamp": "2026-06-06T20:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/world/us-companies-benefit-from-strait-of-hormuz-disruptions-rosneft-chief-says/3958627",
+          "angle": "US Companies Benefit From Strait of Hormuz Disruptions, Rosneft Chief Says",
+          "summary": "Igor Sechin claimed American energy companies are profiting from disruptions to the key shipping route, while China is better prepared than other nations for potential supply interruptions."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Anadolu Agency"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/russias-sechin-says-us-companies-benefit-closure-strait-hormuz-2026-06-06/",
+        "https://www.aa.com.tr/en/world/us-companies-benefit-from-strait-of-hormuz-disruptions-rosneft-chief-says/3958627"
+      ]
     },
     {
       "headline": "Zaporizhzhia Nuclear Plant Restores Power Supply After Outage",
@@ -237,15 +354,6 @@
       "timestamp": "2026-06-06T18:04:00+03:00"
     },
     {
-      "headline": "US Companies Benefit From Strait of Hormuz Disruptions, Rosneft Chief Says",
-      "summary": "Igor Sechin claimed American energy companies are profiting from disruptions to the key shipping route, while China is better prepared than other nations for potential supply interruptions.",
-      "emoji": "🛢️💰",
-      "category": "Energy",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/world/us-companies-benefit-from-strait-of-hormuz-disruptions-rosneft-chief-says/3958627",
-      "timestamp": "2026-06-06T18:04:00+03:00"
-    },
-    {
       "headline": "Hamas Says Cairo Talks Begin on Gaza Ceasefire Implementation",
       "summary": "Hamas announced that talks in Cairo are focusing on ending Israeli violations, opening crossings, delivering aid, and completing the first phase of the ceasefire agreement.",
       "emoji": "🇵🇸🏛️",
@@ -296,15 +404,6 @@
         "https://www.aljazeera.com/news/2026/6/5/at-least-49-people-die-of-thirst-after-truck-breakdown-in-niger-desert",
         "https://www.france24.com/en/africa/20260605-nearly-50-die-of-thirst-in-niger-after-truck-breaks-down-in-remote-sahara-desert"
       ]
-    },
-    {
-      "headline": "Taiwan accuses China of coordinated operation near South China Sea outpost",
-      "summary": "Taiwan's coast guard accused China of attempting to create a 'false illusion' of jurisdiction over waters surrounding a strategic South China Sea outpost, as a Chinese coast guard ship and survey vessel carried out coordinated operations.",
-      "emoji": "🇹🇼🇨🇳🌊",
-      "category": "US-China",
-      "source": "National Herald India",
-      "url": "https://www.nationalheraldindia.com/international/taiwan-accuses-china-of-coordinated-operation-near-strategic-south-china-sea-outpost",
-      "timestamp": "2026-06-06T16:05:00+03:00"
     },
     {
       "headline": "Major fire breaks out at one of Russias biggest oil refineries",
@@ -492,31 +591,6 @@
       ]
     },
     {
-      "headline": "US Strikes Iranian Radar Sites After Drone Launch Toward Strait of Hormuz",
-      "summary": "US forces attacked Iranian coastal radar installations on Saturday after intercepting drones launched by Iran toward the strategic Strait of Hormuz, marking the latest escalation in the ongoing conflict.",
-      "emoji": "⚔️",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-attacks-iranian-coastal-sites-after-iran-launches-drones-latest-flare-up-2026-06-06/",
-      "timestamp": "2026-06-06T14:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/us-attacks-iranian-coastal-sites-after-iran-launches-drones-latest-flare-up-2026-06-06/",
-          "angle": "US Strikes Iranian Radar Sites After Drone Launches in Gulf",
-          "summary": "US forces struck Iranian coastal radar sites after shooting down drones launched by Iran toward the Strait of Hormuz, the US military said, in the latest escalation complicating efforts to end the war between the two countries."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/us-attacks-iranian-coastal-sites-after-iran-launches-drones-latest-flare-up-2026-06-06/",
-        "https://www.reuters.com/world/middle-east/us-attacks-iranian-coastal-sites-after-iran-launches-drones-latest-flare-up-2026-06-06/"
-      ]
-    },
-    {
       "headline": "Ukraine and Russia Exchange 185 Prisoners Each in Latest POW Swap",
       "summary": "Ukraine and Russia each exchanged 185 service personnel on Friday in the latest prisoner of war swap, continuing a pattern of exchanges amid the ongoing conflict.",
       "emoji": "🇺🇦🤝",
@@ -592,31 +666,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/us-says-it-has-issued-new-iran-related-sanctions-2026-06-05/",
       "timestamp": "2026-06-06T13:03:00+03:00"
-    },
-    {
-      "headline": "Singapore orders social media platforms to block posts targeting Indian community",
-      "summary": "Authorities directed YouTube, Facebook, and X to block 14 foreign posts that targeted the Indian community. Officials said the content undermined social cohesion.",
-      "emoji": "🇸🇬",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3356202/singapore-orders-social-media-platforms-block-foreign-posts-targeting-indian-community",
-      "timestamp": "2026-06-06T12:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "Channel News Asia",
-          "url": "https://www.channelnewsasia.com/watch/singapore-blocks-access-posts-targeting-indian-community-racial-harmony-6166506",
-          "angle": "Singapore Blocks Posts Targeting Indian Community Over Racial Harmony",
-          "summary": "Singapore blocked access to 14 social media posts containing inflammatory claims against its Indian community, citing concerns over racial harmony and social cohesion."
-        }
-      ],
-      "sources": [
-        "SCMP",
-        "Channel News Asia"
-      ],
-      "urls": [
-        "https://www.scmp.com/news/asia/southeast-asia/article/3356202/singapore-orders-social-media-platforms-block-foreign-posts-targeting-indian-community",
-        "https://www.channelnewsasia.com/watch/singapore-blocks-access-posts-targeting-indian-community-racial-harmony-6166506"
-      ]
     },
     {
       "headline": "Pentagon flags Israel as highest counterintelligence risk amid spying concerns",
@@ -737,15 +786,6 @@
         "https://www.reuters.com/world/zelenskiys-letter-putin-was-intended-other-ears-2026-06-05/",
         "https://www.reuters.com/world/europe/zelenskiy-open-letter-invites-putin-talks-end-war-2026-06-04/"
       ]
-    },
-    {
-      "headline": "Taiwan Says Chinese Coast Guard, Research Ships Near Pratas Islands",
-      "summary": "Taiwan said a Chinese coast guard ship and a survey ship carried out the first coordinated operation to \"provoke\" Taiwan in waters around strategically located islands in the South China Sea, signaling increased pressure on the Taiwan-controlled Pratas Islands.",
-      "emoji": "🇹🇼🇨🇳",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/taiwan-says-chinese-coast-guard-research-ships-near-key-s-china-sea-islands-2026-06-06/",
-      "timestamp": "2026-06-06T11:03:00+03:00"
     },
     {
       "headline": "US Preparing IAEA Resolution Condemning Iran",
@@ -2901,83 +2941,6 @@
       "source": "The Guardian",
       "url": "https://www.theguardian.com/news/2026/jun/04/cuba-first-independent-magazine-sneeze-troubles-began-state-security",
       "timestamp": "2026-06-04T19:10:00+03:00"
-    },
-    {
-      "headline": "Dutch Combat Robot Plant Opens New Supply Pipeline for Ukraine",
-      "summary": "A new Dutch facility producing THeMIS unmanned ground vehicles for combat zones has delivered its first unit, with over 100 vehicles planned to support Ukrainian forces.",
-      "emoji": "🇳🇱🇺🇦⚔️",
-      "category": "Defense Industry",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/global/europe/2026/06/04/dutch-plant-for-combat-zone-robots-offers-fresh-supply-pipeline-for-ukraine/",
-      "timestamp": "2026-06-04T18:05:00+03:00"
-    },
-    {
-      "headline": "Russia Admits Oil Output Falling as Ukrainian Drone Strikes Hit Refineries",
-      "summary": "Deputy PM Novak confirmed declining crude production citing unscheduled repairs at refineries damaged by Ukrainian drone attacks, acknowledging sanctions and drone warfare impact.",
-      "emoji": "🇷🇺🛢️💥",
-      "category": "Energy",
-      "source": "Oil Price",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Russia-Admits-Oil-Output-Is-Falling-as-Ukrainian-Drone-Strikes-Hit-Refineries.html",
-      "timestamp": "2026-06-04T18:05:00+03:00"
-    },
-    {
-      "headline": "Hezbollah Drone Struck IDF Northern Commander's Car in Lebanon Visit",
-      "summary": "A Hezbollah drone attack targeted IDF Northern Commander Rafi Milo's vehicle during a recent Lebanon visit, an attack that would have been a major strategic victory if successful.",
-      "emoji": "🇱🇧🇮🇱⚔️",
-      "category": "Middle East",
-      "source": "Jerusalem Post",
-      "url": "https://www.jpost.com/israel-news/defense-news/article-898372",
-      "timestamp": "2026-06-04T18:05:00+03:00"
-    },
-    {
-      "headline": "Israel approves 2,162 new settlement homes in occupied West Bank",
-      "summary": "Far-right Finance Minister Smotrich announced the expansion, saying it would prevent a Palestinian state. The move was condemned by the Palestinian Authority and is illegal under international law.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/4/israels-smotrich-announces-plan-for-2162-homes-in-occupied-west-bank",
-      "timestamp": "2026-06-04T18:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Daily Sabah",
-          "url": "https://www.dailysabah.com/politics/diplomacy/turkiye-condemns-israels-approval-of-new-illegal-settlements-in-w-bank",
-          "angle": "Türkiye Condemns Israeli Settlement Expansion in West Bank",
-          "summary": "Turkey condemned Israel's approval of new settlement units in the occupied West Bank, calling them illegal under international law amid ongoing regional tensions."
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "Daily Sabah"
-      ],
-      "urls": [
-        "https://www.aljazeera.com/news/2026/6/4/israels-smotrich-announces-plan-for-2162-homes-in-occupied-west-bank",
-        "https://www.dailysabah.com/politics/diplomacy/turkiye-condemns-israels-approval-of-new-illegal-settlements-in-w-bank"
-      ]
-    },
-    {
-      "headline": "Heavy gunfire in Mogadishu as Somalia election dispute escalates",
-      "summary": "Government forces and opposition fighters exchanged fire in the capital after the president extended his term by one year. The opposition called the extension unconstitutional and protesters were met with violence.",
-      "emoji": "🇸🇴",
-      "category": "Africa",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cpdpwgxl1qzo",
-      "timestamp": "2026-06-04T18:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cp9lvvvnvl7o",
-          "angle": "Heavy gunfire in Mogadishu as Somalia election dispute escalates",
-          "summary": "Somali troops and opposition-allied militias exchanged fire in the capital after the president extended his term by a year, with opposition calling for protests and civilians fleeing the city."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/cpdpwgxl1qzo",
-        "https://www.bbc.com/news/articles/cp9lvvvnvl7o"
-      ]
     }
   ]
 }
