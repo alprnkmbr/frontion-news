@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-06-06T05:04:26+03:00",
+  "lastUpdated": "2026-06-06T06:04:04+03:00",
   "headlines": [
+    {
+      "headline": "US and Iran Exchange Strikes in Gulf as Ceasefire Efforts Stall",
+      "summary": "US forces struck Iranian coastal radar sites after shooting down drones near the Strait of Hormuz, while Iran targeted US bases in Kuwait and Bahrain in a new escalation complicating peace efforts.",
+      "emoji": "⚔️",
+      "category": "US-Iran War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo",
+      "timestamp": "2026-06-06T06:03:00+03:00"
+    },
+    {
+      "headline": "UAE Stock Markets Rally Despite Stalled US-Iran Peace Talks",
+      "summary": "Dubai markets outperformed regional peers on Friday, with investors appearing to brush aside fading hopes for a diplomatic breakthrough in the US-Iran conflict.",
+      "emoji": "📈",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/uae-markets-gain-despite-stalled-us-iran-peace-talks-2026-06-05/",
+      "timestamp": "2026-06-06T06:03:00+03:00"
+    },
+    {
+      "headline": "China Invests $162 Million in AI to Promote Xi Jinping Ideology",
+      "summary": "Xinhuanet plans to invest over 1.1 billion yuan on an authoritative AI agent to help promote President Xi Jinping political thinking, according to Shanghai Stock Exchange filings.",
+      "emoji": "🇨🇳",
+      "category": "China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/china-bets-ai-promote-president-xi-jinpings-thinking-2026-06-05/",
+      "timestamp": "2026-06-06T06:03:00+03:00"
+    },
     {
       "headline": "US Strikes Iranian Radar Sites After Drone Launches Near Strait of Hormuz",
       "summary": "US forces struck Iranian coastal radar sites on Qeshm Island after shooting down drones launched by Iran toward the Strait of Hormuz, CENTCOM said. The escalation complicates ongoing diplomatic efforts to end the conflict.",
@@ -8,7 +35,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/us-attacks-iranian-coastal-sites-after-iran-launches-drones-latest-flare-up-2026-06-06/",
-      "timestamp": "2026-06-06T05:03:00+03:00"
+      "timestamp": "2026-06-06T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "ABC",
+          "url": "https://www.abc.net.au/news/2026-06-06/us-and-iran-trade-fire-near-strait-of-hormuz/106767478",
+          "angle": "US and Iran Trade Fire Near Strait of Hormuz",
+          "summary": "US forces shot down four Iranian drones launched toward the Strait of Hormuz and struck Iranian coastal radar sites on Qeshm Island and Goruk, marking the latest escalation in the ongoing conflict between Washington and Tehran."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "ABC"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/us-attacks-iranian-coastal-sites-after-iran-launches-drones-latest-flare-up-2026-06-06/",
+        "https://www.abc.net.au/news/2026-06-06/us-and-iran-trade-fire-near-strait-of-hormuz/106767478"
+      ]
     },
     {
       "headline": "Ukraine and Russia Exchange 185 Prisoners Each in Latest POW Swap",
@@ -17,7 +60,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/ukraine-russia-exchange-185-prisoners-war-each-swap-2026-06-05/",
-      "timestamp": "2026-06-06T05:03:00+03:00"
+      "timestamp": "2026-06-06T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/ukraine-russia-exchange-185-prisoners-war-each-swap-2026-06-05/",
+          "angle": "Ukraine-Russia Exchange 185 POWs Each in Latest Prisoner Swap",
+          "summary": "Ukraine and Russia conducted another prisoner exchange, each releasing 185 service personnel in the latest swap between the warring nations."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/ukraine-russia-exchange-185-prisoners-war-each-swap-2026-06-05/",
+        "https://www.reuters.com/world/europe/ukraine-russia-exchange-185-prisoners-war-each-swap-2026-06-05/"
+      ]
     },
     {
       "headline": "China's Xi Jinping to Visit North Korea in First Trip in Nearly 7 Years",
@@ -26,7 +85,23 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/chinas-xi-visit-north-korea-beijing-seeks-cosier-ties-with-pyongyang-2026-06-05/",
-      "timestamp": "2026-06-06T05:03:00+03:00"
+      "timestamp": "2026-06-06T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/china-xi-north-korea-kim-4def48720a7cb66f820d3efc256a941c",
+          "angle": "Xi Jinping to visit North Korea next week in first trip since 2019",
+          "summary": "Chinese leader Xi Jinping will travel to North Korea next week, both countries announced Friday, in what will be his first visit since 2019. The meeting comes amid shifting regional dynamics and US-China tensions."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/chinas-xi-visit-north-korea-beijing-seeks-cosier-ties-with-pyongyang-2026-06-05/",
+        "https://apnews.com/article/china-xi-north-korea-kim-4def48720a7cb66f820d3efc256a941c"
+      ]
     },
     {
       "headline": "Iran World Cup Players Granted US Visas Despite Ongoing Conflict",
@@ -36,24 +111,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/iran-world-cup-players-granted-visas-enter-us-says-white-house-official-2026-06-05/",
       "timestamp": "2026-06-06T05:03:00+03:00"
-    },
-    {
-      "headline": "North Korea's Kim Showcases New Warship Ahead of Xi Jinping Visit",
-      "summary": "North Korean leader Kim Jong Un observed sea trials of a new warship repaired after a failed launch last year and vowed to strengthen the navy, state media reported, days before Chinese President Xi Jinping's visit.",
-      "emoji": "🇰🇵",
-      "category": "Asia-Pacific",
-      "source": "AP News",
-      "url": "https://apnews.com/article/north-korea-kim-jong-un-xi-destroyer-5cac2d190fbddceb7d9fd5d1905d867b",
-      "timestamp": "2026-06-06T05:03:00+03:00"
-    },
-    {
-      "headline": "US and Iran Trade Fire Near Strait of Hormuz",
-      "summary": "US forces shot down four Iranian drones launched toward the Strait of Hormuz and struck Iranian coastal radar sites on Qeshm Island and Goruk, marking the latest escalation in the ongoing conflict between Washington and Tehran.",
-      "emoji": "⚔️",
-      "category": "US-Iran War",
-      "source": "ABC",
-      "url": "https://www.abc.net.au/news/2026-06-06/us-and-iran-trade-fire-near-strait-of-hormuz/106767478",
-      "timestamp": "2026-06-06T04:05:00+03:00"
     },
     {
       "headline": "Lebanese President Aoun Thanks Saudi Crown Prince for Support",
@@ -397,31 +454,6 @@
       ]
     },
     {
-      "headline": "Ukraine-Russia Exchange 185 POWs Each in Latest Prisoner Swap",
-      "summary": "Ukraine and Russia conducted another prisoner exchange, each releasing 185 service personnel in the latest swap between the warring nations.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/ukraine-russia-exchange-185-prisoners-war-each-swap-2026-06-05/",
-      "timestamp": "2026-06-06T01:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/ukraine-russia-exchange-185-prisoners-war-each-swap-2026-06-05/",
-          "angle": "Ukraine and Russia Exchange 185 Prisoners Each in Latest Swap",
-          "summary": "Ukraine and Russia each exchanged 185 service personnel in the latest prisoner of war swap on Friday. The exchange marks a continued diplomatic channel between the warring nations despite ongoing hostilities."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/ukraine-russia-exchange-185-prisoners-war-each-swap-2026-06-05/",
-        "https://www.reuters.com/world/europe/ukraine-russia-exchange-185-prisoners-war-each-swap-2026-06-05/"
-      ]
-    },
-    {
       "headline": "China Tracks Dutch Frigate Through Taiwan Strait",
       "summary": "China's military dispatched naval and air assets to monitor the Dutch frigate De Ruyter during its transit through the Taiwan Strait, highlighting continued tensions in the region.",
       "emoji": "🇨🇳",
@@ -576,6 +608,31 @@
       ]
     },
     {
+      "headline": "Chinas Xi Jinping to Visit North Korea for First Time in Nearly Seven Years",
+      "summary": "Beijing announced President Xis two-day visit to Pyongyang starting June 8, signaling Chinas intent to strengthen ties with its only formal treaty ally amid shifting regional dynamics.",
+      "emoji": "🇨🇳🇰🇵",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/chinas-xi-visit-north-korea-beijing-seeks-cosier-ties-with-pyongyang-2026-06-05/",
+      "timestamp": "2026-06-05T23:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/north-korea-kim-jong-un-xi-destroyer-5cac2d190fbddceb7d9fd5d1905d867b",
+          "angle": "North Korea's Kim Showcases New Warship Ahead of Xi Jinping Visit",
+          "summary": "North Korean leader Kim Jong Un observed sea trials of a new warship repaired after a failed launch last year and vowed to strengthen the navy, state media reported, days before Chinese President Xi Jinping's visit."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/chinas-xi-visit-north-korea-beijing-seeks-cosier-ties-with-pyongyang-2026-06-05/",
+        "https://apnews.com/article/north-korea-kim-jong-un-xi-destroyer-5cac2d190fbddceb7d9fd5d1905d867b"
+      ]
+    },
+    {
       "headline": "US-Iran Peace Deal Hangs on Frozen Assets, Sanctions, and Nuclear Inspections",
       "summary": "Reuters outlines the key obstacles to a US-Iran peace agreement, including  billion in frozen Iranian assets, the status of Irans nuclear program, and demands from Tehrans allies like Hezbollah that complicate negotiations.",
       "emoji": "🇮🇷",
@@ -606,31 +663,6 @@
         "https://www.reuters.com/world/middle-east/what-issues-do-us-iran-need-resolve-any-peace-deal-2026-06-05/",
         "https://www.aa.com.tr/en/americas/trump-envoys-hold-meeting-with-nuclear-experts-for-deal-with-iran-report/3958134",
         "https://www.axios.com/2026/06/05/iran-oak-ridge-nuclear-witkoff-kushner"
-      ]
-    },
-    {
-      "headline": "Chinas Xi Jinping to Visit North Korea for First Time in Nearly Seven Years",
-      "summary": "Beijing announced President Xis two-day visit to Pyongyang starting June 8, signaling Chinas intent to strengthen ties with its only formal treaty ally amid shifting regional dynamics.",
-      "emoji": "🇨🇳🇰🇵",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/chinas-xi-visit-north-korea-beijing-seeks-cosier-ties-with-pyongyang-2026-06-05/",
-      "timestamp": "2026-06-05T23:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/chinas-xi-visit-north-korea-beijing-seeks-cosier-ties-with-pyongyang-2026-06-05/",
-          "angle": "Xi Jinping to Visit North Korea in First Trip Since 2019",
-          "summary": "Chinese President Xi Jinping will travel to North Korea on June 8-9, marking his first visit in nearly seven years as Beijing seeks to reassert ties with its only formal treaty ally amid Kim Jong Un expanding nuclear ambitions."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/chinas-xi-visit-north-korea-beijing-seeks-cosier-ties-with-pyongyang-2026-06-05/",
-        "https://www.reuters.com/world/china/chinas-xi-visit-north-korea-beijing-seeks-cosier-ties-with-pyongyang-2026-06-05/"
       ]
     },
     {
@@ -854,31 +886,6 @@
       "source": "The Hill",
       "url": "https://thehill.com/policy/defense/5912143-democrats-oppose-house-ndaa/",
       "timestamp": "2026-06-05T20:04:00+03:00"
-    },
-    {
-      "headline": "Xi Jinping to visit North Korea next week in first trip since 2019",
-      "summary": "Chinese leader Xi Jinping will travel to North Korea next week, both countries announced Friday, in what will be his first visit since 2019. The meeting comes amid shifting regional dynamics and US-China tensions.",
-      "emoji": "🇨🇳🇰🇵",
-      "category": "Diplomacy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/china-xi-north-korea-kim-4def48720a7cb66f820d3efc256a941c",
-      "timestamp": "2026-06-05T20:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Star",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/06/xi-to-visit-north-korea-next-week",
-          "angle": "Xi Jinping to Visit North Korea Next Week",
-          "summary": "Chinese President Xi Jinping will visit North Korea for a two-day trip starting June 8, his first visit in nearly seven years, as Beijing seeks to strengthen ties with Pyongyang amid shifting regional dynamics."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "The Star"
-      ],
-      "urls": [
-        "https://apnews.com/article/china-xi-north-korea-kim-4def48720a7cb66f820d3efc256a941c",
-        "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/06/xi-to-visit-north-korea-next-week"
-      ]
     },
     {
       "headline": "Hong Kong shares of HSBC, Standard Chartered fall on China capital controls",
@@ -2860,15 +2867,6 @@
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/ukraine-hungary-agreement-on-minorities-clears-way-for-eu-accession-next-steps/",
       "timestamp": "2026-06-04T02:05:00+03:00"
-    },
-    {
-      "headline": "Russian Oil Pipeline to Hungary and Slovakia Resumes After Months-Long Outage",
-      "summary": "Russian oil exports to Hungary and Slovakia via the Druzhba pipeline have returned to normal after a months-long outage that had fueled tensions between Ukraine and the Central European countries.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russian-oil-hungary-slovakia-druzhba-pipeline-return-to-normal/",
-      "timestamp": "2026-06-04T02:00:00+03:00"
     }
   ]
 }
