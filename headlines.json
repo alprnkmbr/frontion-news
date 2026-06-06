@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-06T23:04:58+03:00",
+  "lastUpdated": "2026-06-07T00:05:12+03:00",
   "headlines": [
+    {
+      "headline": "Russia Claims Interception of 339 Ukrainian Drones Over 13 Hours",
+      "summary": "Russian Defence Ministry reports its air defenses intercepted and destroyed 339 Ukrainian drones across multiple regions including Moscow in a 13-hour period, marking one of the largest drone attacks on Russian territory.",
+      "emoji": "🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/russian-defence-ministry-anti-aircraft-units-intercepted-339-ukrainian-drones-2026-06-06/",
+      "timestamp": "2026-06-07T00:03:00+03:00"
+    },
+    {
+      "headline": "Israeli Strikes in Lebanon Kill 12 Including Senior Military Officers",
+      "summary": "Israeli attacks in Lebanon killed 12 people including a brigadier general and captain, escalating tensions along the Israel-Lebanon border amid ongoing regional conflict.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers",
+      "timestamp": "2026-06-07T00:03:00+03:00"
+    },
+    {
+      "headline": "US Energy Secretary: Lower Gas Prices Require Resolution With Iran",
+      "summary": "Energy Secretary Chris Wright stated that lowering pump prices will ultimately require a resolution with Iran to restore oil flows through the Strait of Hormuz, linking domestic energy costs to the ongoing conflict.",
+      "emoji": "⛽",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/us-energy-secretary-says-lower-gas-prices-will-ultimately-take-resolution-with-2026-06-05/",
+      "timestamp": "2026-06-07T00:03:00+03:00"
+    },
+    {
+      "headline": "Cuba's Raul Castro Makes First Public Appearance Since US Indictment",
+      "summary": "Former Cuban leader Raul Castro appeared at an Interior Ministry event in Havana, his first public appearance since being indicted on murder charges in the United States last month.",
+      "emoji": "🇨🇺",
+      "category": "Americas",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/americas/cubas-raul-castro-wanted-by-us-appears-an-event-state-television-2026-06-06/",
+      "timestamp": "2026-06-07T00:03:00+03:00"
+    },
+    {
+      "headline": "US Approves .5 Billion Seahawk Helicopter Sale to New Zealand",
+      "summary": "The United States approved the sale of five maritime helicopters to New Zealand worth .5 billion, as Wellington moves to nearly double its military spending amid growing regional security concerns.",
+      "emoji": "🇳🇿",
+      "category": "Defense Industry",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/us-approves-15-bln-sale-maritime-helicopters-new-zealand-2026-06-06/",
+      "timestamp": "2026-06-07T00:03:00+03:00"
+    },
     {
       "headline": "Zaporizhzhia nuclear plant restores power after outage",
       "summary": "The Russian-controlled Zaporizhzhia nuclear power plant in Ukraine restored its power supply on Saturday after an outage raised safety concerns, according to the facility's Russian-installed management.",
@@ -8,7 +53,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/russian-run-zaporizhzhia-nuclear-plant-says-power-supply-has-been-restored-2026-06-06/",
-      "timestamp": "2026-06-06T23:03:00+03:00"
+      "timestamp": "2026-06-06T23:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/russian-run-zaporizhzhia-nuclear-plant-says-power-supply-has-been-restored-2026-06-06/",
+          "angle": "Zaporizhzhia Nuclear Plant Restores Power Supply After Outage",
+          "summary": "The Russian-controlled Zaporizhzhia nuclear power plant in Ukraine restored its Ferrosplavnaya-1 power line on Saturday, securing electricity supply to the facility amid ongoing conflict in the region."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/russian-run-zaporizhzhia-nuclear-plant-says-power-supply-has-been-restored-2026-06-06/",
+        "https://www.reuters.com/business/energy/russian-run-zaporizhzhia-nuclear-plant-says-power-supply-has-been-restored-2026-06-06/"
+      ]
     },
     {
       "headline": "Putin signals openness to new U.S. relationship amid Ukraine stalemate",
@@ -26,7 +87,23 @@
       "category": "Middle East",
       "source": "AP News",
       "url": "https://apnews.com/video/funeral-of-baby-killed-by-israeli-forces-in-west-bank-faa3b95806644b08918f2115b55fe6cc",
-      "timestamp": "2026-06-06T23:03:00+03:00"
+      "timestamp": "2026-06-06T23:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank",
+          "angle": "Israeli forces kill Palestinian infant in West Bank shooting",
+          "summary": "A seven-month-old Palestinian baby was killed and his parents wounded when Israeli soldiers opened fire on their vehicle in Hebron. The Israeli military said the incident is under review and those injured were uninvolved civilians."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://apnews.com/video/funeral-of-baby-killed-by-israeli-forces-in-west-bank-faa3b95806644b08918f2115b55fe6cc",
+        "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank"
+      ]
     },
     {
       "headline": "Iranian students protest nationwide over exam changes, arrests reported",
@@ -354,31 +431,6 @@
       ]
     },
     {
-      "headline": "Zaporizhzhia Nuclear Plant Restores Power Supply After Outage",
-      "summary": "The Russian-controlled Zaporizhzhia nuclear power plant in Ukraine restored its Ferrosplavnaya-1 power line on Saturday, securing electricity supply to the facility amid ongoing conflict in the region.",
-      "emoji": "☢️",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/russian-run-zaporizhzhia-nuclear-plant-says-power-supply-has-been-restored-2026-06-06/",
-      "timestamp": "2026-06-06T19:06:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/iaea-brokers-local-ceasefire-help-repair-power-line-zaporizhzhia-nuclear-plant-2026-06-05/",
-          "angle": "Ukrainian drone injures engineers at Zaporizhzhia nuclear plant",
-          "summary": "Russia's Rosatom said a Ukrainian drone deliberately struck engineers demining areas around the Zaporizhzhia nuclear power station, injuring at least three people."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/russian-run-zaporizhzhia-nuclear-plant-says-power-supply-has-been-restored-2026-06-06/",
-        "https://www.reuters.com/world/iaea-brokers-local-ceasefire-help-repair-power-line-zaporizhzhia-nuclear-plant-2026-06-05/"
-      ]
-    },
-    {
       "headline": "Five Civilians Killed in Russian Attacks on Kherson Region",
       "summary": "Russian forces killed five people in three separate attacks on Ukraine's southern Kherson region on Friday, according to the regional governor, as fighting continues in the occupied territories.",
       "emoji": "🇺🇦",
@@ -506,15 +558,6 @@
       "source": "Anadolu Agency",
       "url": "https://www.aa.com.tr/en/middle-east/hamas-says-cairo-talks-begin-on-gaza-ceasefire-implementation/3958631",
       "timestamp": "2026-06-06T18:04:00+03:00"
-    },
-    {
-      "headline": "Israeli forces kill Palestinian infant in West Bank shooting",
-      "summary": "A seven-month-old Palestinian baby was killed and his parents wounded when Israeli soldiers opened fire on their vehicle in Hebron. The Israeli military said the incident is under review and those injured were uninvolved civilians.",
-      "emoji": "🇵🇸🇮🇱",
-      "category": "Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank",
-      "timestamp": "2026-06-06T17:10:00+03:00"
     },
     {
       "headline": "Explosion at Myanmar building storing mining explosives kills over 45",
@@ -2946,31 +2989,6 @@
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/06/04/us/politics/jan-6-new-crimes.html",
       "timestamp": "2026-06-04T21:05:00+03:00"
-    },
-    {
-      "headline": "Russians panic as Ukraine strikes St. Petersburg",
-      "summary": "Ukrainian drone strikes on St. Petersburg have caused panic among Russia's business elite, who now directly witness how the Defense Ministry's actions affect their interests.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/what-should-we-do-russians-in-panic-after-ukraine-strikes-st-petersburg/",
-      "timestamp": "2026-06-04T20:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "UPI",
-          "url": "https://www.upi.com/Top_News/World-News/2026/06/06/ukraine-strikes-st-petersburg/4131780770005/",
-          "angle": "Ukraine strikes St. Petersburg as Putin hosts flagship economic forum",
-          "summary": "Ukrainian drones targeted areas near St. Petersburg overnight while President Putin attended the St. Petersburg International Economic Forum, demonstrating Kyiv continued ability to strike deep into Russian territory."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "UPI"
-      ],
-      "urls": [
-        "https://kyivindependent.com/what-should-we-do-russians-in-panic-after-ukraine-strikes-st-petersburg/",
-        "https://www.upi.com/Top_News/World-News/2026/06/06/ukraine-strikes-st-petersburg/4131780770005/"
-      ]
     }
   ]
 }
