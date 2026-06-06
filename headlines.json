@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-06T11:05:08+03:00",
+  "lastUpdated": "2026-06-06T12:04:06+03:00",
   "headlines": [
+    {
+      "headline": "Iran Reaffirms Support for Hezbollah as Broader Peace Deal Falters",
+      "summary": "Iran declared continued backing for Hezbollah and demanded Israeli withdrawal from southern Lebanon, complicating interim negotiations between Washington and Tehran.",
+      "emoji": "🇮🇷",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-declares-support-hezbollah-with-wider-peace-deal-doubt-2026-06-05/",
+      "timestamp": "2026-06-06T12:03:00+03:00"
+    },
+    {
+      "headline": "Putin Holds Friendly Meeting With Former German Chancellor Schröder",
+      "summary": "Russian President Vladimir Putin met one-on-one with Gerhard Schröder in what the Kremlin described as a good and friendly encounter, amid ongoing tensions with the West.",
+      "emoji": "🇷🇺🇩🇪",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/putin-held-friendly-one-on-one-meeting-with-germanys-schroeder-kremlin-says-2026-06-05/",
+      "timestamp": "2026-06-06T12:03:00+03:00"
+    },
+    {
+      "headline": "Zelenskiy Open Letter to Putin Aimed at Wider Audience Beyond Moscow",
+      "summary": "Ukraines president offered face-to-face peace talks in an open letter that analysts say was designed to resonate at the St. Petersburg investment forum and beyond.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/zelenskiys-letter-putin-was-intended-other-ears-2026-06-05/",
+      "timestamp": "2026-06-06T12:03:00+03:00"
+    },
+    {
+      "headline": "Iran World Cup Players Granted US Visas, Some Staff Still Waiting",
+      "summary": "Irans World Cup soccer players received visas to enter the United States days before their first match, though some administrative staff remain without visas.",
+      "emoji": "🇮🇷⚽",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-world-cup-players-granted-visas-enter-us-says-white-house-official-2026-06-05/",
+      "timestamp": "2026-06-06T12:03:00+03:00"
+    },
     {
       "headline": "US Strikes Iranian Radar Sites After Drone Launches in Gulf",
       "summary": "US forces struck Iranian coastal radar sites after shooting down drones launched by Iran toward the Strait of Hormuz, the US military said, in the latest escalation complicating efforts to end the war between the two countries.",
@@ -8,7 +44,31 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/us-attacks-iranian-coastal-sites-after-iran-launches-drones-latest-flare-up-2026-06-06/",
-      "timestamp": "2026-06-06T11:03:00+03:00"
+      "timestamp": "2026-06-06T11:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Khaleej Times",
+          "url": "https://www.khaleejtimes.com/world/americas/us-attacks-iranian-radar-sites-tehran-launches-drones-gulf",
+          "angle": "US Strikes Iranian Radar Sites After Gulf Drone Attacks",
+          "summary": "US forces attacked radar installations on Iran's southern coast at Goruk and Qeshm Island after Iran launched drones near the Strait of Hormuz. The strikes represent the latest flare-up in the ongoing US-Iran conflict."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/us-attacks-iranian-coastal-sites-after-iran-launches-drones-latest-flare-up-2026-06-06/",
+          "angle": "US strikes Iranian radar sites after shooting down drones near Strait of Hormuz",
+          "summary": "US forces struck Iranian coastal radar sites after shooting down drones launched toward the Strait of Hormuz, in the latest escalation complicating efforts to end the war between Washington and Tehran."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Khaleej Times",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/us-attacks-iranian-coastal-sites-after-iran-launches-drones-latest-flare-up-2026-06-06/",
+        "https://www.khaleejtimes.com/world/americas/us-attacks-iranian-radar-sites-tehran-launches-drones-gulf",
+        "https://www.reuters.com/world/middle-east/us-attacks-iranian-coastal-sites-after-iran-launches-drones-latest-flare-up-2026-06-06/"
+      ]
     },
     {
       "headline": "Taiwan Says Chinese Coast Guard, Research Ships Near Pratas Islands",
@@ -35,7 +95,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/iran-using-lebanon-bargaining-chip-us-talks-lebanese-president-says-2026-06-05/",
-      "timestamp": "2026-06-06T11:03:00+03:00"
+      "timestamp": "2026-06-06T11:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/iran-using-lebanon-bargaining-chip-us-talks-lebanese-president-says-2026-06-05/",
+          "angle": "Lebanon President Accuses Iran of Using Country as Bargaining Chip in US Talks",
+          "summary": "Lebanese President Joseph Aoun delivered sharp criticism of Tehran, stating Iran is using Lebanon as leverage in negotiations with the United States amid ongoing conflict with Israel."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/iran-using-lebanon-bargaining-chip-us-talks-lebanese-president-says-2026-06-05/",
+        "https://www.reuters.com/world/middle-east/iran-using-lebanon-bargaining-chip-us-talks-lebanese-president-says-2026-06-05/"
+      ]
     },
     {
       "headline": "US Preparing IAEA Resolution Condemning Iran",
@@ -44,7 +120,23 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/us-preparing-draft-resolution-condemning-iran-iaea-diplomats-say-2026-06-05/",
-      "timestamp": "2026-06-06T11:03:00+03:00"
+      "timestamp": "2026-06-06T11:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/us-preparing-draft-resolution-condemning-iran-iaea-diplomats-say-2026-06-05/",
+          "angle": "US preparing IAEA resolution condemning Iran",
+          "summary": "The United States is drafting a resolution to condemn Iran ahead of next week's IAEA Board of Governors meeting, a move that could complicate ongoing US-Iran talks as the conflict nears 100 days."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/us-preparing-draft-resolution-condemning-iran-iaea-diplomats-say-2026-06-05/",
+        "https://www.reuters.com/world/europe/us-preparing-draft-resolution-condemning-iran-iaea-diplomats-say-2026-06-05/"
+      ]
     },
     {
       "headline": "Kuwait and Bahrain Activate Air Defenses Against Iranian Threats",
@@ -71,15 +163,6 @@
       "category": "Defense Industry",
       "source": "Defense News",
       "url": "https://www.defensenews.com/global/europe/2026/06/06/france-to-test-its-own-ai-powered-battlefield-command-in-june-nato-exercise/",
-      "timestamp": "2026-06-06T10:06:00+03:00"
-    },
-    {
-      "headline": "US Strikes Iranian Radar Sites After Gulf Drone Attacks",
-      "summary": "US forces attacked radar installations on Iran's southern coast at Goruk and Qeshm Island after Iran launched drones near the Strait of Hormuz. The strikes represent the latest flare-up in the ongoing US-Iran conflict.",
-      "emoji": "💥🇮🇷",
-      "category": "Middle East",
-      "source": "Khaleej Times",
-      "url": "https://www.khaleejtimes.com/world/americas/us-attacks-iranian-radar-sites-tehran-launches-drones-gulf",
       "timestamp": "2026-06-06T10:06:00+03:00"
     },
     {
@@ -174,31 +257,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/markets/europe/european-shares-slip-mideast-tensions-linger-tech-stocks-pause-rally-2026-06-05/",
       "timestamp": "2026-06-06T10:03:00+03:00"
-    },
-    {
-      "headline": "US strikes Iranian radar sites after shooting down drones near Strait of Hormuz",
-      "summary": "US forces struck Iranian coastal radar sites after shooting down drones launched toward the Strait of Hormuz, in the latest escalation complicating efforts to end the war between Washington and Tehran.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-attacks-iranian-coastal-sites-after-iran-launches-drones-latest-flare-up-2026-06-06/",
-      "timestamp": "2026-06-06T09:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/us-attacks-iranian-coastal-sites-after-iran-launches-drones-latest-flare-up-2026-06-06/",
-          "angle": "US Strikes Iranian Radar Sites After Drone Launches Near Strait of Hormuz",
-          "summary": "US forces struck Iranian coastal radar sites on Qeshm Island after shooting down drones launched by Iran toward the Strait of Hormuz, CENTCOM said. The escalation complicates ongoing diplomatic efforts to end the conflict."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/us-attacks-iranian-coastal-sites-after-iran-launches-drones-latest-flare-up-2026-06-06/",
-        "https://www.reuters.com/world/middle-east/us-attacks-iranian-coastal-sites-after-iran-launches-drones-latest-flare-up-2026-06-06/"
-      ]
     },
     {
       "headline": "Ukraine and Russia exchange 185 prisoners each in latest swap",
@@ -596,15 +654,6 @@
       "timestamp": "2026-06-06T04:05:00+03:00"
     },
     {
-      "headline": "US preparing IAEA resolution condemning Iran",
-      "summary": "The United States is drafting a resolution to condemn Iran ahead of next week's IAEA Board of Governors meeting, a move that could complicate ongoing US-Iran talks as the conflict nears 100 days.",
-      "emoji": "🇺🇸🇮🇷⚛️",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/us-preparing-draft-resolution-condemning-iran-iaea-diplomats-say-2026-06-05/",
-      "timestamp": "2026-06-06T04:03:00+03:00"
-    },
-    {
       "headline": "Ukrainian drone damages Romanian Black Sea port terminal",
       "summary": "A Ukrainian maritime drone self-detonated near an oil terminal in Romania's Constanta port after Russia jammed the vessel, causing it to drift off course. No casualties reported.",
       "emoji": "🇺🇦🇷🇴💥",
@@ -833,31 +882,6 @@
       "urls": [
         "https://www.reuters.com/world/us/us-house-backs-russia-sanctions-ukraine-aid-latest-blow-trump-2026-06-05/",
         "https://www.reuters.com/world/us/us-house-backs-russia-sanctions-ukraine-aid-latest-blow-trump-2026-06-05/"
-      ]
-    },
-    {
-      "headline": "Lebanon President Accuses Iran of Using Country as Bargaining Chip in US Talks",
-      "summary": "Lebanese President Joseph Aoun delivered sharp criticism of Tehran, stating Iran is using Lebanon as leverage in negotiations with the United States amid ongoing conflict with Israel.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-using-lebanon-bargaining-chip-us-talks-lebanese-president-says-2026-06-05/",
-      "timestamp": "2026-06-06T01:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/iran-using-lebanon-bargaining-chip-us-talks-lebanese-president-says-2026-06-05/",
-          "angle": "Lebanese President Blasts Iran for Using Lebanon as US Negotiation Bargaining Chip",
-          "summary": "President Joseph Aoun accused Iran of using Lebanon as leverage in US-Iran talks, issuing sharp criticism of Tehran and Hezbollah as Iran continues supporting its Lebanese ally amid regional tensions."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/iran-using-lebanon-bargaining-chip-us-talks-lebanese-president-says-2026-06-05/",
-        "https://www.reuters.com/world/middle-east/iran-using-lebanon-bargaining-chip-us-talks-lebanese-president-says-2026-06-05/"
       ]
     },
     {
@@ -2811,15 +2835,6 @@
       "category": "Asia-Pacific",
       "source": "The Diplomat",
       "url": "https://thediplomat.com/2026/06/can-a-takaichi-government-stabilize-china-japan-relations/",
-      "timestamp": "2026-06-04T12:10:00+03:00"
-    },
-    {
-      "headline": "US delaying weapons deliveries to allies, raising reliability concerns",
-      "summary": "Multiple US allies have been told their weapons deliveries are being slowed as Washington prioritizes replenishing its own stockpiles. The move has sent shockwaves through European and Asian defense communities.",
-      "emoji": "⚔️🇺🇸",
-      "category": "Defense Industry",
-      "source": "Breaking Defense",
-      "url": "https://breakingdefense.com/2026/06/the-us-is-delaying-weapon-sales-to-allies-will-there-be-long-term-impact/",
       "timestamp": "2026-06-04T12:10:00+03:00"
     }
   ]
