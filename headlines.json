@@ -1,23 +1,50 @@
 {
-  "lastUpdated": "2026-06-06T17:06:47+03:00",
+  "lastUpdated": "2026-06-06T18:04:31+03:00",
   "headlines": [
     {
-      "headline": "US and Iran exchange strikes in Gulf as ceasefire negotiations stall",
-      "summary": "US Central Command intercepted seven Iranian ballistic missiles fired at Kuwait and Bahrain, while striking Iranian coastal radar sites. The IRGC said it targeted US bases in retaliation, warning that US aggression in the region will not go unanswered.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
+      "headline": "Israeli Strike Kills Five at Wedding in Gaza",
+      "summary": "At least five people were killed and others wounded when Israeli forces bombed a wedding tent in Gaza City. The attack comes amid ongoing conflict in the region.",
+      "emoji": "🇵🇸",
+      "category": "Middle East",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon",
-      "timestamp": "2026-06-06T17:10:00+03:00"
+      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza",
+      "timestamp": "2026-06-06T18:05:00+03:00"
     },
     {
-      "headline": "Ukraine launches unprecedented drone attack on St Petersburg during economic forum",
-      "summary": "Russia says it shot down 376 Ukrainian drones overnight, including 86 over the Leningrad region. Zelenskyy said Ukrainian drones struck naval arsenals and a base in Kronstadt, reaching about 1,000 km into Russian territory.",
-      "emoji": "🇺🇦🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/russia-says-hundreds-of-ukrainian-drones-downed-as-economic-forum-ends",
-      "timestamp": "2026-06-06T17:10:00+03:00"
+      "headline": "Jamaica Experiences Island-Wide Power Blackout",
+      "summary": "Jamaica is experiencing a nationwide power outage, with the energy minister confirming the blackout on social media. No cause has been given yet.",
+      "emoji": "🇯🇲",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/jamaica-facing-nationwide-power-outage-energy-minister-says-2026-06-06/",
+      "timestamp": "2026-06-06T18:05:00+03:00"
+    },
+    {
+      "headline": "US Job Market Rebounds Despite Iran War Costs",
+      "summary": "US employers added 172,000 jobs in May as the labor market showed resilience despite rising costs from the Iran conflict. The labor market continues to recover.",
+      "emoji": "🇺🇸",
+      "category": "Economy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/inflation-economy-iran-trump-mortgage-unemployment-fc64949d24de1b557179db3a91d8abf9",
+      "timestamp": "2026-06-06T18:05:00+03:00"
+    },
+    {
+      "headline": "Trump Urges Firing of Intelligence Community Employees",
+      "summary": "President Trump told the Wall Street Journal he wants the acting director of national intelligence to begin firing large numbers of employees as part of a shake-up of the US intelligence community.",
+      "emoji": "🇺🇸",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/trump-urges-pulte-fire-intelligence-community-employees-wsj-reports-2026-06-05/",
+      "timestamp": "2026-06-06T18:05:00+03:00"
+    },
+    {
+      "headline": "Meta Considers Major Stock Offering for AI Infrastructure",
+      "summary": "Meta is weighing raising tens of billions of dollars in a stock offering to fund AI infrastructure ambitions, according to Financial Times. The move comes as tech giants race to expand AI capabilities.",
+      "emoji": "🤖",
+      "category": "Technology",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/meta-weighs-big-equity-raising-finance-ai-infrastructure-ft-reports-2026-06-05/",
+      "timestamp": "2026-06-06T18:05:00+03:00"
     },
     {
       "headline": "Israeli forces kill Palestinian infant in West Bank shooting",
@@ -44,7 +71,23 @@
       "category": "Africa",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/5/at-least-49-people-die-of-thirst-after-truck-breakdown-in-niger-desert",
-      "timestamp": "2026-06-06T17:10:00+03:00"
+      "timestamp": "2026-06-06T17:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "France 24",
+          "url": "https://www.france24.com/en/africa/20260605-nearly-50-die-of-thirst-in-niger-after-truck-breaks-down-in-remote-sahara-desert",
+          "angle": "49 Migrants Die of Thirst in Niger After Truck Breaks Down in Sahara Desert",
+          "summary": "Forty-nine people died of thirst when a truck broke down in a remote part of Niger's Sahara desert, highlighting the deadly risks faced by migrants crossing the region."
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "France 24"
+      ],
+      "urls": [
+        "https://www.aljazeera.com/news/2026/6/5/at-least-49-people-die-of-thirst-after-truck-breakdown-in-niger-desert",
+        "https://www.france24.com/en/africa/20260605-nearly-50-die-of-thirst-in-niger-after-truck-breaks-down-in-remote-sahara-desert"
+      ]
     },
     {
       "headline": "Taiwan accuses China of coordinated operation near South China Sea outpost",
@@ -765,7 +808,23 @@
       "category": "US-Iran War",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo",
-      "timestamp": "2026-06-06T06:03:00+03:00"
+      "timestamp": "2026-06-06T06:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon",
+          "angle": "US and Iran exchange strikes in Gulf as ceasefire negotiations stall",
+          "summary": "US Central Command intercepted seven Iranian ballistic missiles fired at Kuwait and Bahrain, while striking Iranian coastal radar sites. The IRGC said it targeted US bases in retaliation, warning that US aggression in the region will not go unanswered."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cvgzgyjk2weo",
+        "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon"
+      ]
     },
     {
       "headline": "UAE Stock Markets Rally Despite Stalled US-Iran Peace Talks",
@@ -1468,27 +1527,19 @@
       "timestamp": "2026-06-05T19:10:00+03:00",
       "perspectives": [
         {
-          "source": "NV Ukraine",
-          "url": "https://english.nv.ua/nation/fire-reported-at-antipinsky-refinery-after-major-accident-caused-by-technical-violations-50613912.html",
-          "angle": "Ukraine launches unprecedented drone attack on St Petersburg",
-          "summary": "Russian authorities say Ukraine has launched an unprecedented drone attack on and around St Petersburg as the city hosts an international forum, with residents told to shelter indoors."
-        },
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cg7498kz808o",
-          "angle": "Ukraine Launches Unprecedented Drone Attack on St Petersburg During Economic Forum",
-          "summary": "More than 140 Ukrainian drones targeted the St. Petersburg region as Putin hosted the SPIEF economic summit, marking a significant escalation. Residents were ordered to shelter indoors after Putin rejected Zelenskiy's offer for direct peace talks."
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/6/russia-says-hundreds-of-ukrainian-drones-downed-as-economic-forum-ends",
+          "angle": "Ukraine launches unprecedented drone attack on St Petersburg during economic forum",
+          "summary": "Russia says it shot down 376 Ukrainian drones overnight, including 86 over the Leningrad region. Zelenskyy said Ukrainian drones struck naval arsenals and a base in Kronstadt, reaching about 1,000 km into Russian territory."
         }
       ],
       "sources": [
         "Reuters",
-        "NV Ukraine",
-        "BBC"
+        "Al Jazeera"
       ],
       "urls": [
         "https://www.reuters.com/world/europe/azerbaijan-says-five-its-citizens-killed-attacks-vessels-sea-azov-2026-06-05/",
-        "https://english.nv.ua/nation/fire-reported-at-antipinsky-refinery-after-major-accident-caused-by-technical-violations-50613912.html",
-        "https://www.bbc.com/news/articles/cg7498kz808o"
+        "https://www.aljazeera.com/news/2026/6/6/russia-says-hundreds-of-ukrainian-drones-downed-as-economic-forum-ends"
       ]
     },
     {
@@ -1769,15 +1820,6 @@
       "category": "Economy",
       "source": "Nikkei Asia",
       "url": "https://asia.nikkei.com/economy/china-pulled-into-public-debate-over-subsidies-by-oecd-report",
-      "timestamp": "2026-06-05T12:10:00+03:00"
-    },
-    {
-      "headline": "49 Migrants Die of Thirst in Niger After Truck Breaks Down in Sahara Desert",
-      "summary": "Forty-nine people died of thirst when a truck broke down in a remote part of Niger's Sahara desert, highlighting the deadly risks faced by migrants crossing the region.",
-      "emoji": "🇳🇪💀",
-      "category": "Africa",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/africa/20260605-nearly-50-die-of-thirst-in-niger-after-truck-breaks-down-in-remote-sahara-desert",
       "timestamp": "2026-06-05T12:10:00+03:00"
     },
     {
@@ -2827,24 +2869,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/4/nepali-mount-everest-guide-found-alive-after-being-missing-for-six-days",
       "timestamp": "2026-06-04T15:03:00+03:00"
-    },
-    {
-      "headline": "Ex-Merkel Advisor Links German UN Security Council Loss to Israel Stance",
-      "summary": "A former advisor to Angela Merkel said Germany's steadfast support for Israel may have contributed to its failed bid for a UN Security Council seat, citing accusations of double standards from the international community.",
-      "emoji": "🇩🇪",
-      "category": "Diplomacy",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/europe/ex-merkel-advisor-links-german-support-for-israel-to-berlin-s-failed-bid-for-un-security-council-seat/3956357",
-      "timestamp": "2026-06-04T14:04:00+03:00"
-    },
-    {
-      "headline": "EU Council Chief: Western Balkans Enlargement Is Key Geopolitical Investment",
-      "summary": "European Council President Antonio Costa called EU enlargement to the Western Balkans the bloc's most important geopolitical investment, signaling continued commitment to regional integration despite ongoing challenges.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/world/eu-council-chief-calls-western-balkans-enlargement-most-important-geopolitical-investment/3956382",
-      "timestamp": "2026-06-04T14:04:00+03:00"
     }
   ]
 }
