@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-07T05:06:04+03:00",
+  "lastUpdated": "2026-06-07T06:08:14+03:00",
   "headlines": [
+    {
+      "headline": "North Korea declares nuclear status irreversible ahead of Xi Jinping visit",
+      "summary": "Kim Yo Jong stated North Korea will never give up nuclear weapons, calling the program absolutely non-negotiable as China's Xi Jinping begins a two-day visit.",
+      "emoji": "🇰🇵",
+      "category": "Asia-Pacific",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/live-news/20260607-north-korea-nuclear-programme-absolutely-non-negotiable-leader-s-sister",
+      "timestamp": "2026-06-07T06:10:00+03:00"
+    },
+    {
+      "headline": "Turkish trawler sinks in Black Sea after apparent attack",
+      "summary": "A Turkish-flagged fishing vessel sank in the Black Sea following an apparent attack, leaving one crew member dead amid rising regional tensions.",
+      "emoji": "🇹🇷",
+      "category": "Europe",
+      "source": "MSN",
+      "url": "https://www.msn.com/en-xl/asia/pakistan/turkish-trawler-sunk-in-black-sea-attackpublished-on-june-7-2026-229-am/ar-AA2505fB?ocid=BingNewsVerp",
+      "timestamp": "2026-06-07T06:10:00+03:00"
+    },
+    {
+      "headline": "Global airline chiefs grapple with fuel shock at Rio summit",
+      "summary": "Airline executives at their annual IATA summit in Rio face mounting pressure from Middle East conflict-driven fuel price spikes and potential fare increases.",
+      "emoji": "✈️",
+      "category": "Economy",
+      "source": "Bangkok Post",
+      "url": "https://www.bangkokpost.com/business/general/3267234/airline-chiefs-grapple-with-fuel-shock-fare-test-at-rio-summit",
+      "timestamp": "2026-06-07T06:10:00+03:00"
+    },
+    {
+      "headline": "Hormuz crisis exposes global trade vulnerability",
+      "summary": "Iran's closure of the Strait of Hormuz demonstrated how a single chokepoint can be weaponized to disrupt global energy supplies and trade flows.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "LiveMint",
+      "url": "https://www.livemint.com/economy/hormuz-crisis-exposes-a-global-flaw-that-will-take-years-to-fix/amp-11780798351176.html",
+      "timestamp": "2026-06-07T06:10:00+03:00"
+    },
+    {
+      "headline": "Armenia election under spotlight amid Russia interference concerns",
+      "summary": "US and Europe closely monitor Armenia's elections, watching for Russian interference tactics as the country navigates its geopolitical orientation.",
+      "emoji": "🇦🇲",
+      "category": "Europe",
+      "source": "Cleveland Jewish News",
+      "url": "https://www.clevelandjewishnews.com/jns/all-eyes-on-armenia-elections/article_a1f75b9f-3409-5be3-8cb0-88148ad28ed4.html",
+      "timestamp": "2026-06-07T06:10:00+03:00"
+    },
     {
       "headline": "Taiwan reports first coordinated Chinese coast guard and survey ship operation near South China Sea islands",
       "summary": "Taiwan accused China of carrying out its first coordinated coast guard and survey ship operation near strategically located islands in the South China Sea, calling it a provocation.",
@@ -26,16 +71,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/russian-run-zaporizhzhia-nuclear-plant-says-power-supply-has-been-restored-2026-06-06/",
-      "timestamp": "2026-06-07T05:03:00+03:00"
-    },
-    {
-      "headline": "North Korea reaffirms nuclear status ahead of Xi Jinping visit",
-      "summary": "Kim Yo Jong, sister of North Korean leader Kim Jong Un, declared that North Korea will never retreat from its nuclear status, calling US denuclearization demands \"anachronistic dreams\" ahead of Chinese President Xi Jinping's visit.",
-      "emoji": "🇰🇵🇨🇳",
-      "category": "Asia-Pacific",
-      "source": "AP News",
-      "url": "https://apnews.com/article/north-korea-kim-sister-nuclear-us-china-69ec6a91d30e069eac41d60350507b74",
-      "timestamp": "2026-06-07T05:03:00+03:00"
+      "timestamp": "2026-06-07T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/russian-run-zaporizhzhia-nuclear-plant-says-power-supply-has-been-restored-2026-06-06/",
+          "angle": "Zaporizhzhia nuclear plant restores power after outage",
+          "summary": "The Russian-controlled Zaporizhzhia nuclear power plant in Ukraine restored its power supply on Saturday after an outage raised safety concerns, according to the facility's Russian-installed management."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/russian-run-zaporizhzhia-nuclear-plant-says-power-supply-has-been-restored-2026-06-06/",
+        "https://www.reuters.com/business/energy/russian-run-zaporizhzhia-nuclear-plant-says-power-supply-has-been-restored-2026-06-06/"
+      ]
     },
     {
       "headline": "Missing American student found dead near Kyoto, Japan",
@@ -44,7 +96,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/us/missing-us-student-found-dead-near-kyoto-japan-mother-says-2026-06-06/",
-      "timestamp": "2026-06-07T05:03:00+03:00"
+      "timestamp": "2026-06-07T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3356229/missing-us-student-found-dead-japan",
+          "angle": "Missing US Student Found Dead in Japan",
+          "summary": "The body of James Higginbotham, 20, was discovered in a mountainous area near Kyoto after he disappeared while on a family trip to Japan. Local authorities are investigating the circumstances of his death."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "SCMP"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/us/missing-us-student-found-dead-near-kyoto-japan-mother-says-2026-06-06/",
+        "https://www.scmp.com/news/asia/east-asia/article/3356229/missing-us-student-found-dead-japan"
+      ]
     },
     {
       "headline": "Israel struck 150 Hezbollah targets in south Lebanon in 48 hours",
@@ -311,19 +379,19 @@
       "timestamp": "2026-06-07T01:03:00+03:00",
       "perspectives": [
         {
-          "source": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/spotlight/north-korea-tensions/north-korea-reaffirms-nuclear-status-a-day-before-xi-jinping-s-visit",
+          "source": "AP News",
+          "url": "https://apnews.com/article/north-korea-kim-sister-nuclear-us-china-69ec6a91d30e069eac41d60350507b74",
           "angle": "North Korea reaffirms nuclear status ahead of Xi Jinping visit",
-          "summary": "Kim Jong Uns sister declares North Korea will not retreat from nuclear status just before Chinese leaders visit."
+          "summary": "Kim Yo Jong, sister of North Korean leader Kim Jong Un, declared that North Korea will never retreat from its nuclear status, calling US denuclearization demands \"anachronistic dreams\" ahead of Chinese President Xi Jinping's visit."
         }
       ],
       "sources": [
         "Reuters",
-        "Nikkei Asia"
+        "AP News"
       ],
       "urls": [
         "https://www.reuters.com/world/china/north-korea-will-not-retreat-nuclear-status-kim-jong-uns-sister-says-2026-06-06/",
-        "https://asia.nikkei.com/spotlight/north-korea-tensions/north-korea-reaffirms-nuclear-status-a-day-before-xi-jinping-s-visit"
+        "https://apnews.com/article/north-korea-kim-sister-nuclear-us-china-69ec6a91d30e069eac41d60350507b74"
       ]
     },
     {
@@ -413,15 +481,6 @@
       ]
     },
     {
-      "headline": "Missing US Student Found Dead in Japan",
-      "summary": "The body of James Higginbotham, 20, was discovered in a mountainous area near Kyoto after he disappeared while on a family trip to Japan. Local authorities are investigating the circumstances of his death.",
-      "emoji": "🇯🇵",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3356229/missing-us-student-found-dead-japan",
-      "timestamp": "2026-06-07T00:06:00+03:00"
-    },
-    {
       "headline": "Russia Claims Interception of 339 Ukrainian Drones Over 13 Hours",
       "summary": "Russian Defence Ministry reports its air defenses intercepted and destroyed 339 Ukrainian drones across multiple regions including Moscow in a 13-hour period, marking one of the largest drone attacks on Russian territory.",
       "emoji": "🇷🇺",
@@ -471,31 +530,6 @@
       "urls": [
         "https://www.reuters.com/business/aerospace-defense/us-approves-15-bln-sale-maritime-helicopters-new-zealand-2026-06-06/",
         "https://www.reuters.com/business/aerospace-defense/us-approves-15-bln-sale-maritime-helicopters-new-zealand-2026-06-06/"
-      ]
-    },
-    {
-      "headline": "Zaporizhzhia nuclear plant restores power after outage",
-      "summary": "The Russian-controlled Zaporizhzhia nuclear power plant in Ukraine restored its power supply on Saturday after an outage raised safety concerns, according to the facility's Russian-installed management.",
-      "emoji": "☢️",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/russian-run-zaporizhzhia-nuclear-plant-says-power-supply-has-been-restored-2026-06-06/",
-      "timestamp": "2026-06-06T23:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/russian-run-zaporizhzhia-nuclear-plant-says-power-supply-has-been-restored-2026-06-06/",
-          "angle": "Zaporizhzhia Nuclear Plant Restores Power Supply After Outage",
-          "summary": "The Russian-controlled Zaporizhzhia nuclear power plant in Ukraine restored its Ferrosplavnaya-1 power line on Saturday, securing electricity supply to the facility amid ongoing conflict in the region."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/russian-run-zaporizhzhia-nuclear-plant-says-power-supply-has-been-restored-2026-06-06/",
-        "https://www.reuters.com/business/energy/russian-run-zaporizhzhia-nuclear-plant-says-power-supply-has-been-restored-2026-06-06/"
       ]
     },
     {
@@ -2971,40 +3005,6 @@
         "https://www.reuters.com/business/aerospace-defense/taiwan-beefs-up-anti-ship-arsenal-counter-threat-chinese-invasion-2026-06-04/",
         "https://www.reuters.com/business/aerospace-defense/taiwan-beefs-up-anti-ship-missile-arsenal-counter-threat-chinese-invasion-2026-06-04/"
       ]
-    },
-    {
-      "headline": "Trump Ceasefires Fail to Stop Violence Across Middle East",
-      "summary": "Residents in Gaza, southern Lebanon, northern Israel, and Kuwait faced ongoing attacks this week despite multiple US-arranged ceasefires supposedly in effect.",
-      "emoji": "⚔️",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/how-trumps-ceasefires-are-failing-stop-middle-east-violence-2026-06-04/",
-      "timestamp": "2026-06-05T02:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/how-trumps-ceasefires-are-failing-stop-middle-east-violence-2026-06-04/",
-          "angle": "Trump-arranged ceasefires failing to stop violence across Middle East",
-          "summary": "Residents of Gaza, south Lebanon, northern Israel and Kuwait all came under fire this week despite U.S.-arranged ceasefires supposedly in force, highlighting the fragility of American peace efforts in the region."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/how-trumps-ceasefires-are-failing-stop-middle-east-violence-2026-06-04/",
-        "https://www.reuters.com/world/asia-pacific/how-trumps-ceasefires-are-failing-stop-middle-east-violence-2026-06-04/"
-      ]
-    },
-    {
-      "headline": "Putin Faces Competing Visions of War and Peace at Russia Investment Forum",
-      "summary": "At Russia's premier annual investment conference in St. Petersburg, Vladimir Putin confronted rival outlines of Russia's future as the Ukraine war continues.",
-      "emoji": "🇷🇺",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/putin-faces-rival-visions-war-peace-russias-davos-2026-06-04/",
-      "timestamp": "2026-06-05T02:05:00+03:00"
     }
   ]
 }
