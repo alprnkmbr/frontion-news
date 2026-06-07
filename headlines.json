@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-07T04:05:57+03:00",
+  "lastUpdated": "2026-06-07T04:09:52+03:00",
   "headlines": [
+    {
+      "headline": "Lebanon army chief visits Pakistan as US-Iran mediator",
+      "summary": "Lebanon military chief traveled to Pakistan for talks as Islamabad mediates between Washington and Tehran in the ongoing conflict.",
+      "emoji": "🇱🇧🇵🇰",
+      "category": "Diplomacy",
+      "source": "Al Arabiya",
+      "url": "https://english.alarabiya.net/News/middle-east/2026/06/06/lebanon-army-chief-visits-usiran-mediator-pakistan-military",
+      "timestamp": "2026-06-07T04:10:00+03:00"
+    },
+    {
+      "headline": "Saudi Arabia condemns Israeli aggression against Lebanon",
+      "summary": "Riyadh issued a strong condemnation of Israeli military operations in Lebanon amid escalating regional tensions.",
+      "emoji": "🇸🇦🇱🇧",
+      "category": "Middle East",
+      "source": "Al Arabiya",
+      "url": "https://english.alarabiya.net/News/saudi-arabia/2026/06/06/saudi-arabia-condemns-israeli-aggression-against-lebanon",
+      "timestamp": "2026-06-07T04:12:00+03:00"
+    },
+    {
+      "headline": "Israel struck 150 Hezbollah targets in south Lebanon in 48 hours",
+      "summary": "Israeli military reports intensive strikes on Hezbollah positions as cross-border fighting intensifies.",
+      "emoji": "🇮🇱⚔️",
+      "category": "Middle East",
+      "source": "Al Arabiya",
+      "url": "https://english.alarabiya.net/News/middle-east/2026/06/06/israel-military-says-struck-150-hezbollah-targets-in-south-lebanon-in-48h",
+      "timestamp": "2026-06-07T04:14:00+03:00"
+    },
+    {
+      "headline": "North Korea reaffirms nuclear status ahead of Xi Jinping visit",
+      "summary": "Kim Jong Uns sister declares North Korea will not retreat from nuclear status just before Chinese leaders visit.",
+      "emoji": "🇰🇵🇨🇳",
+      "category": "Asia-Pacific",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/north-korea-tensions/north-korea-reaffirms-nuclear-status-a-day-before-xi-jinping-s-visit",
+      "timestamp": "2026-06-07T04:16:00+03:00"
+    },
+    {
+      "headline": "Japan warns of rising tension over China military drills near Taiwan",
+      "summary": "Tokyo raises concerns as Beijing conducts military exercises near Taiwan amid heightened regional security anxieties.",
+      "emoji": "🇯🇵🇨🇳🇹🇼",
+      "category": "Asia-Pacific",
+      "source": "Asahi",
+      "url": "https://www.asahi.com/ajw/articles/15343475",
+      "timestamp": "2026-06-07T04:18:00+03:00"
+    },
     {
       "headline": "Israeli Strike Kills Three Lebanese Soldiers Including Two Officers",
       "summary": "An Israeli strike on a military vehicle in southern Lebanon killed two Lebanese army officers and one soldier, with the Israeli military saying it is investigating the incident amid ongoing regional tensions.",
@@ -8,7 +53,31 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/two-lebanese-officers-one-soldier-killed-israeli-strike-southern-lebanon-2026-06-06/",
-      "timestamp": "2026-06-07T04:05:00+03:00"
+      "timestamp": "2026-06-07T04:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers",
+          "angle": "Israeli Strikes in Lebanon Kill 12 Including Senior Military Officers",
+          "summary": "Israeli attacks in Lebanon killed 12 people including a brigadier general and captain, escalating tensions along the Israel-Lebanon border amid ongoing regional conflict."
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza",
+          "angle": "Israeli Strike Kills Five at Wedding in Gaza",
+          "summary": "At least five people were killed and others wounded when Israeli forces bombed a wedding tent in Gaza City. The attack comes amid ongoing conflict in the region."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Al Jazeera",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/two-lebanese-officers-one-soldier-killed-israeli-strike-southern-lebanon-2026-06-06/",
+        "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers",
+        "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza"
+      ]
     },
     {
       "headline": "Global Airlines Grapple With Fuel Price Spike at Rio Summit",
@@ -44,7 +113,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/legal/transactional/musks-spacex-ipo-jolts-life-back-into-european-retail-investing-2026-06-06/",
-      "timestamp": "2026-06-07T04:05:00+03:00"
+      "timestamp": "2026-06-07T04:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/finance/spacex-ipo-running-two-times-oversubscribed-sources-say-2026-06-05/",
+          "angle": "SpaceX IPO draws $150 billion in demand, twice the offering size",
+          "summary": "Investor demand for SpaceX's $75 billion IPO has reached approximately $150 billion, making it roughly two times oversubscribed ahead of the highly anticipated market debut."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/legal/transactional/musks-spacex-ipo-jolts-life-back-into-european-retail-investing-2026-06-06/",
+        "https://www.reuters.com/business/finance/spacex-ipo-running-two-times-oversubscribed-sources-say-2026-06-05/"
+      ]
     },
     {
       "headline": "Five Killed in Russian Attacks on Southern Kherson Region",
@@ -268,15 +353,6 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/russian-defence-ministry-anti-aircraft-units-intercepted-339-ukrainian-drones-2026-06-06/",
-      "timestamp": "2026-06-07T00:03:00+03:00"
-    },
-    {
-      "headline": "Israeli Strikes in Lebanon Kill 12 Including Senior Military Officers",
-      "summary": "Israeli attacks in Lebanon killed 12 people including a brigadier general and captain, escalating tensions along the Israel-Lebanon border amid ongoing regional conflict.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers",
       "timestamp": "2026-06-07T00:03:00+03:00"
     },
     {
@@ -647,15 +723,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/south-korean-protesters-keep-calling-re-run-election-after-ballot-shortage-2026-06-06/",
       "timestamp": "2026-06-06T19:06:00+03:00"
-    },
-    {
-      "headline": "Israeli Strike Kills Five at Wedding in Gaza",
-      "summary": "At least five people were killed and others wounded when Israeli forces bombed a wedding tent in Gaza City. The attack comes amid ongoing conflict in the region.",
-      "emoji": "🇵🇸",
-      "category": "Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza",
-      "timestamp": "2026-06-06T18:05:00+03:00"
     },
     {
       "headline": "Jamaica Experiences Island-Wide Power Blackout",
@@ -1602,15 +1669,6 @@
         "https://www.reuters.com/world/us/trump-campaigns-wisconsin-district-targeted-by-democrats-2026-06-05/",
         "https://www.reuters.com/world/us/us-house-backs-resolution-curbing-trump-iran-war-powers-2026-06-03/"
       ]
-    },
-    {
-      "headline": "SpaceX IPO draws $150 billion in demand, twice the offering size",
-      "summary": "Investor demand for SpaceX's $75 billion IPO has reached approximately $150 billion, making it roughly two times oversubscribed ahead of the highly anticipated market debut.",
-      "emoji": "🚀",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/finance/spacex-ipo-running-two-times-oversubscribed-sources-say-2026-06-05/",
-      "timestamp": "2026-06-06T03:03:00+03:00"
     },
     {
       "headline": "SpaceX locks in Google cloud deal ahead of IPO",
@@ -2931,24 +2989,6 @@
         "https://www.reuters.com/business/gold-rises-softer-dollar-oil-markets-weigh-us-iran-peace-optimism-2026-06-04/",
         "https://www.reuters.com/business/new-york-fed-finds-elevated-global-supply-chain-pressure-may-2026-06-04/"
       ]
-    },
-    {
-      "headline": "Severe El Nino threatens Asian crops as dry weather disrupts planting",
-      "summary": "Dry weather is disrupting crop planting across Asia, raising concerns about food supplies, as an expected severe El Nino weather pattern threatens more damage.",
-      "emoji": "🌾",
-      "category": "Climate",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/environment/hot-weather-hurts-asian-crops-powerful-el-nino-takes-shape-2026-06-04/",
-      "timestamp": "2026-06-05T01:03:00+03:00"
-    },
-    {
-      "headline": "US explores major expansion of Lebanese army support as key to Hezbollah disarmament",
-      "summary": "The United States is considering significantly expanding support for the Lebanese Armed Forces as part of a broader strategy to facilitate Hezbollah disarmament, marking a potential shift in US approach to the Lebanon conflict.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/middle-east/2026/06/05/usled-effort-to-boost-lebanon-s-army-emerges-as-key-pillar-of-hezbollah-disarmament",
-      "timestamp": "2026-06-05T00:06:00+03:00"
     }
   ]
 }
