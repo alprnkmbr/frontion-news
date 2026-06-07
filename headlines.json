@@ -1,6 +1,49 @@
 {
-  "lastUpdated": "2026-06-07T12:07:34+03:00",
+  "lastUpdated": "2026-06-07T13:04:48+03:00",
   "headlines": [
+    {
+      "headline": "European leaders gather in London to coordinate Ukraine support",
+      "summary": "British PM Keir Starmer hosts Zelenskyy, Macron, and Merz for talks on continued backing for Ukraine as the war enters its fifth year with no end in sight.",
+      "emoji": "🇪🇺",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-starmer-merz-macron-zelenskyy-ce1713304c7578f039fcbdb8d655f6d7",
+      "timestamp": "2026-06-07T13:03:00+03:00"
+    },
+    {
+      "headline": "Nigerian military rescues 360 hostages from Borno mountain hideout",
+      "summary": "Security forces freed 360 men, women, and children held by kidnappers in a mountain enclave in Borno state, in a major operation against militant groups.",
+      "emoji": "🇳🇬",
+      "category": "Africa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/africa/nigerias-military-rescues-360-hostages-borno-state-2026-06-07/",
+      "timestamp": "2026-06-07T13:03:00+03:00"
+    },
+    {
+      "headline": "Greek police arrest Palestinian man on Crete over Hamas-linked terror plot",
+      "summary": "A 37-year-old Palestinian was detained on suspicion of planning terrorist attacks and receiving training abroad, linked to four similar arrests in Cyprus.",
+      "emoji": "🇬🇷",
+      "category": "Middle East",
+      "source": "AP News",
+      "url": "https://apnews.com/article/greece-palestinian-arrest-hamas-terrorism-d1cf35b0268602b56d3be5ba31478a56",
+      "timestamp": "2026-06-07T13:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Greek City Times",
+          "url": "https://greekcitytimes.com/2026/06/07/crete-37-year-old-palestinian-hamas-confession-indonesia-training/",
+          "angle": "Arrested Palestinian in Crete Confesses Hamas Membership, Training in Indonesia",
+          "summary": "Greek counter-terrorism officers obtained a full confession from the 37-year-old Palestinian arrested on Crete, who admitted to Hamas membership and training in Indonesia."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "Greek City Times"
+      ],
+      "urls": [
+        "https://apnews.com/article/greece-palestinian-arrest-hamas-terrorism-d1cf35b0268602b56d3be5ba31478a56",
+        "https://greekcitytimes.com/2026/06/07/crete-37-year-old-palestinian-hamas-confession-indonesia-training/"
+      ]
+    },
     {
       "headline": "One Dead, Four Wounded in Suspected Terror Shooting in Central Israel",
       "summary": "A shooting attack in Kochav Ya'ir area left one person dead and at least four wounded; Israeli security forces captured one suspect and are searching for another.",
@@ -8,42 +51,6 @@
       "category": "Middle East",
       "source": "Times of Israel",
       "url": "https://www.timesofisrael.com/liveblog_entry/one-person-dead-in-suspected-terror-shooting-in-kochav-yair/",
-      "timestamp": "2026-06-07T12:10:00+03:00"
-    },
-    {
-      "headline": "US Shoots Down Iranian Drones Threatening Strait of Hormuz Shipping",
-      "summary": "The US military intercepted two Iranian attack drones over the Strait of Hormuz amid escalating tensions, as ceasefire efforts remain fragile.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "The Hindu",
-      "url": "https://www.thehindu.com/news/international/west-asia-conflict-iran-us-israel-war-strait-of-hormuz-live-updates-june-7-2026/article71072180.ece",
-      "timestamp": "2026-06-07T12:10:00+03:00"
-    },
-    {
-      "headline": "Iran Fires Missiles at Bahrain and Kuwait After US Strikes",
-      "summary": "Iran launched ballistic missiles and drones toward Bahrain and Kuwait in retaliation for fresh American strikes, testing the fragile ceasefire.",
-      "emoji": "🇮🇷🇧🇭🇰🇼",
-      "category": "US-Iran War",
-      "source": "Business Mirror",
-      "url": "https://businessmirror.com.ph/2026/06/07/a-new-exchange-of-fire-with-iran-in-gulf-tests-the-fragile-ceasefire/",
-      "timestamp": "2026-06-07T12:10:00+03:00"
-    },
-    {
-      "headline": "Arrested Palestinian in Crete Confesses Hamas Membership, Training in Indonesia",
-      "summary": "Greek counter-terrorism officers obtained a full confession from the 37-year-old Palestinian arrested on Crete, who admitted to Hamas membership and training in Indonesia.",
-      "emoji": "🇬🇷🇵🇸",
-      "category": "Middle East",
-      "source": "Greek City Times",
-      "url": "https://greekcitytimes.com/2026/06/07/crete-37-year-old-palestinian-hamas-confession-indonesia-training/",
-      "timestamp": "2026-06-07T12:10:00+03:00"
-    },
-    {
-      "headline": "100 Days of Iran War: More Ceasefire Days Than Combat",
-      "summary": "Newsweek analyzes the first 100 days of the Iran conflict by numbers, showing more days of ceasefire than active fighting even as tensions persist.",
-      "emoji": "📊",
-      "category": "US-Iran War",
-      "source": "Newsweek",
-      "url": "https://www.newsweek.com/100-days-of-the-iran-war-in-numbers-12033272",
       "timestamp": "2026-06-07T12:10:00+03:00"
     },
     {
@@ -307,31 +314,6 @@
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/06/07/opinion/russia-turkey-putin-erdogan-ukraine.html",
       "timestamp": "2026-06-07T09:10:00+03:00"
-    },
-    {
-      "headline": "US shoots down two Iranian drones threatening Hormuz shipping",
-      "summary": "The US military destroyed two Iranian attack drones over the Strait of Hormuz early Sunday, accusing Tehran of threatening regional maritime traffic in the latest escalation of the US-Iran conflict.",
-      "emoji": "🇺🇸",
-      "category": "US-Iran War",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/middle-east/2026/06/07/us-says-it-destroyed-two-iran-drones-targeting-hormuz-shipping",
-      "timestamp": "2026-06-07T08:06:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Arabiya",
-          "url": "https://english.alarabiya.net/News/middle-east/2026/06/07/us-says-it-destroyed-two-iran-drones-targeting-hormuz-shipping",
-          "angle": "US military destroys two Iranian drones threatening Hormuz shipping",
-          "summary": "US Central Command said American forces shot down two Iranian attack drones that posed an immediate threat to maritime traffic in the Strait of Hormuz, the latest escalation in the conflict."
-        }
-      ],
-      "sources": [
-        "Al Arabiya",
-        "Al Arabiya"
-      ],
-      "urls": [
-        "https://english.alarabiya.net/News/middle-east/2026/06/07/us-says-it-destroyed-two-iran-drones-targeting-hormuz-shipping",
-        "https://english.alarabiya.net/News/middle-east/2026/06/07/us-says-it-destroyed-two-iran-drones-targeting-hormuz-shipping"
-      ]
     },
     {
       "headline": "Ukrainian drones strike railway infrastructure in occupied Luhansk and Donetsk",
@@ -743,19 +725,19 @@
       "timestamp": "2026-06-07T01:03:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/us-strikes-iran-radar-sites-after-iranian-drone-launch-2026-06-05/",
-          "angle": "US Strikes Iranian Radar Sites After Drone Launch Toward Strait of Hormuz",
-          "summary": "US forces struck Iranian coastal radar sites after Iran launched four attack drones toward the Strait of Hormuz. The US military shot down all drones, calling the strike a defensive action amid fragile ceasefire negotiations."
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war",
+          "angle": "US shoots down Iranian drones over Strait of Hormuz as conflict enters 100th day",
+          "summary": "American forces intercepted Iranian drones threatening international shipping in the strategic waterway, while Israeli strikes in Lebanon killed three high-ranking Lebanese soldiers."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "Al Jazeera"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/us-attacks-iranian-coastal-sites-after-iran-launches-drones-latest-flare-up-2026-06-06/",
-        "https://www.reuters.com/world/middle-east/us-strikes-iran-radar-sites-after-iranian-drone-launch-2026-06-05/"
+        "https://www.aljazeera.com/news/liveblog/2026/6/7/iran-war-live-israel-kills-lebanon-general-pakistan-urges-end-to-war"
       ]
     },
     {
@@ -998,7 +980,23 @@
       "category": "US-Iran War",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support",
-      "timestamp": "2026-06-06T21:07:00+03:00"
+      "timestamp": "2026-06-06T21:07:00+03:00",
+      "perspectives": [
+        {
+          "source": "Newsweek",
+          "url": "https://www.newsweek.com/100-days-of-the-iran-war-in-numbers-12033272",
+          "angle": "100 Days of Iran War: More Ceasefire Days Than Combat",
+          "summary": "Newsweek analyzes the first 100 days of the Iran conflict by numbers, showing more days of ceasefire than active fighting even as tensions persist."
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "Newsweek"
+      ],
+      "urls": [
+        "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support",
+        "https://www.newsweek.com/100-days-of-the-iran-war-in-numbers-12033272"
+      ]
     },
     {
       "headline": "Iran Launches Ballistic Missiles Toward Gulf Allies as US Intercepts",
@@ -1317,19 +1315,19 @@
       "timestamp": "2026-06-06T14:03:00+03:00",
       "perspectives": [
         {
-          "source": "Newstalk ZB",
-          "url": "https://www.newstalkzb.co.nz/news/world/iran-targets-bahrain-and-kuwait-after-us-strikes-in-dangerous-escalation-of-war/",
-          "angle": "Iran Fires Missiles at Bahrain and Kuwait",
-          "summary": "Iran launched seven ballistic missiles at Bahrain and Kuwait after US strikes, with six intercepted and one falling short. The attacks targeted US allies hosting American military bases, drawing condemnation from Gulf states."
+          "source": "Business Mirror",
+          "url": "https://businessmirror.com.ph/2026/06/07/a-new-exchange-of-fire-with-iran-in-gulf-tests-the-fragile-ceasefire/",
+          "angle": "Iran Fires Missiles at Bahrain and Kuwait After US Strikes",
+          "summary": "Iran launched ballistic missiles and drones toward Bahrain and Kuwait in retaliation for fresh American strikes, testing the fragile ceasefire."
         }
       ],
       "sources": [
         "AP News",
-        "Newstalk ZB"
+        "Business Mirror"
       ],
       "urls": [
         "https://apnews.com/video/iranian-drone-attacks-on-kuwait-and-bahrain-after-us-attacks-on-iran-e0787b3a3d14423ebd21e8e50687b960",
-        "https://www.newstalkzb.co.nz/news/world/iran-targets-bahrain-and-kuwait-after-us-strikes-in-dangerous-escalation-of-war/"
+        "https://businessmirror.com.ph/2026/06/07/a-new-exchange-of-fire-with-iran-in-gulf-tests-the-fragile-ceasefire/"
       ]
     },
     {
@@ -2914,166 +2912,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/germany-france-pitch-swifter-benefits-eu-hopefuls-balkans-moldova-2026-06-04/",
       "timestamp": "2026-06-05T10:03:00+03:00"
-    },
-    {
-      "headline": "EU and Balkan Leaders Meet in Montenegro as Enlargement Gains Urgency",
-      "summary": "European Union and Balkan leaders convened in Montenegro for talks on expanding the bloc, underscoring the strategic importance of the region for EU integration.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://apnews.com/article/eu-summit-balkans-montenegro-ceb66b7192c3c0f6fda10933b5c20fc1",
-      "timestamp": "2026-06-05T09:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "France 24",
-          "url": "https://www.france24.com/en/live-news/20260605-eu-leaders-push-faster-expansion-at-balkan-summit",
-          "angle": "EU Leaders Push Faster Expansion at Balkan Summit in Montenegro",
-          "summary": "European leaders used a summit in Montenegro to accelerate EU membership prospects for Balkan nations as enlargement gains strategic urgency."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "France 24"
-      ],
-      "urls": [
-        "https://apnews.com/article/eu-summit-balkans-montenegro-ceb66b7192c3c0f6fda10933b5c20fc1",
-        "https://www.france24.com/en/live-news/20260605-eu-leaders-push-faster-expansion-at-balkan-summit"
-      ]
-    },
-    {
-      "headline": "Bank of Japan Set to Raise Rates in June Unless Middle East Escalation Disrupts Markets",
-      "summary": "The BOJ is expected to raise interest rates this month unless the Middle East conflict sharply escalates, as rising fuel costs add to price pressures in the economy.",
-      "emoji": "🇯🇵",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/boj-expected-raise-interest-rates-june-sources-say-2026-06-04/",
-      "timestamp": "2026-06-05T09:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Nikkei Asia",
-          "url": "https://www.reuters.com/world/asia-pacific/boj-expected-raise-interest-rates-june-sources-say-2026-06-04/",
-          "angle": "Bank of Japan Expected to Raise Rates in June",
-          "summary": "The BOJ is expected to raise interest rates this month unless a sharp escalation in the Middle East conflict upends markets. Rising fuel costs from the energy shock are adding to inflation pressure."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Nikkei Asia"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/boj-expected-raise-interest-rates-june-sources-say-2026-06-04/",
-        "https://www.reuters.com/world/asia-pacific/boj-expected-raise-interest-rates-june-sources-say-2026-06-04/"
-      ]
-    },
-    {
-      "headline": "UK Construction Activity Shrinks at Fastest Pace in Six Years on Iran War Uncertainty",
-      "summary": "Britain's construction sector contracted at the sharpest pace since 2020 as economic uncertainty and inflation from the Iran conflict triggered a steep decline in new work.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/uk/uk-construction-activity-shrinks-fastest-pace-since-2020-pmi-shows-2026-06-04/",
-      "timestamp": "2026-06-05T09:03:00+03:00"
-    },
-    {
-      "headline": "Brunei Sultan Appoints Sons as Ministers in Major Cabinet Reshuffle",
-      "summary": "Brunei's ruler announced a significant cabinet reshuffle, appointing two younger sons as ministers in a sign of potential succession planning in the oil-rich sultanate.",
-      "emoji": "🇧🇳",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/bruneis-sultan-announces-cabinet-shake-up-appoints-sons-ministers-2026-06-04/",
-      "timestamp": "2026-06-05T09:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/bruneis-sultan-announces-cabinet-shake-up-appoints-sons-ministers-2026-06-04/",
-          "angle": "Brunei Sultan appoints sons as ministers in major cabinet reshuffle",
-          "summary": "Sultan Hassanal Bolkiah announced a significant cabinet shake-up, creating new portfolios and appointing two of his younger sons as ministers in a move seen as preparing for succession."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/bruneis-sultan-announces-cabinet-shake-up-appoints-sons-ministers-2026-06-04/",
-        "https://www.reuters.com/world/asia-pacific/bruneis-sultan-announces-cabinet-shake-up-appoints-sons-ministers-2026-06-04/"
-      ]
-    },
-    {
-      "headline": "Ukraine Weighs Ending 'Hot Phase' of War Before Winter",
-      "summary": "Kyiv officials see a realistic opportunity to end active fighting before winter 2026, citing stalled Russian offensives and expanding Ukrainian long-range strikes, though air defense shortages remain a concern.",
-      "emoji": "🇺🇦⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/why-ukraine-is-talking-about-ending-hot-phase-of-russias-war-before-winter/",
-      "timestamp": "2026-06-05T08:10:00+03:00"
-    },
-    {
-      "headline": "UK Military Chief Warns of \"Most Dangerous Period\" Amid Russian Incursions",
-      "summary": "Chief of the Defence Staff Sir Richard Knighton told the BBC that Russian incursions into UK defenses risk crossing a line, describing the current security environment as the most dangerous period he has known.",
-      "emoji": "🇬🇧⚠️",
-      "category": "Europe",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c1m2mryg0k7o",
-      "timestamp": "2026-06-05T08:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Anadolu Agency",
-          "url": "https://www.aa.com.tr/en/europe/germany-vows-to-accelerate-military-buildup-amid-russian-threat/3958696",
-          "angle": "Germany Vows to Accelerate Military Buildup Amid Russian Threat",
-          "summary": "German Defense Minister pledges to speed up military procurement and strengthen the Bundeswehr deterrence capabilities in response to the ongoing Russian threat."
-        },
-        {
-          "source": "Anadolu Agency",
-          "url": "https://www.aa.com.tr/en/europe/germany-vows-to-accelerate-military-buildup-amid-russian-threat/3958696",
-          "angle": "Germany Vows to Accelerate Military Buildup Citing Russian Threat",
-          "summary": "Germany pledged to speed up its military expansion efforts, citing ongoing security concerns related to Russia as the driving factor behind the accelerated defense spending."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "Anadolu Agency",
-        "Anadolu Agency"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/c1m2mryg0k7o",
-        "https://www.aa.com.tr/en/europe/germany-vows-to-accelerate-military-buildup-amid-russian-threat/3958696",
-        "https://www.aa.com.tr/en/europe/germany-vows-to-accelerate-military-buildup-amid-russian-threat/3958696"
-      ]
-    },
-    {
-      "headline": "Taiwan Forges Thicker Silicon Shield as AI Demand Boosts Defense Spending",
-      "summary": "As Nvidia and Intel leaders praise Taiwan's role in global supply chains, the island's importance grows with AI moving from cloud to local devices. With GDP set to expand 10%, Taipei can boost defense spending amid rising tensions.",
-      "emoji": "🇹🇼💾",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/commentary/breakingviews/taiwan-forges-thicker-silicon-shield-2026-06-05/",
-      "timestamp": "2026-06-05T08:03:00+03:00"
-    },
-    {
-      "headline": "Seven detained as Hong Kong police tighten security at Tiananmen vigil site",
-      "summary": "Hong Kong police detained seven people near the former site of the annual Tiananmen vigil as authorities ramped up patrols ahead of the June 4 anniversary. The vigil has been banned since 2020.",
-      "emoji": "🇭🇰⛪",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/politics/article/3356009/7-taken-away-police-ramp-patrols-around-former-site-tiananmen-vigil",
-      "timestamp": "2026-06-05T06:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "Hong Kong FP",
-          "url": "https://hongkongfp.com/2026/06/04/in-pictures-for-4th-year-patriotic-carnival-held-on-former-site-of-hong-kongs-tiananmen-crackdown-vigils/",
-          "angle": "Hong Kong Holds Patriotic Carnival on Former Tiananmen Vigil Site",
-          "summary": "For the fourth consecutive year, a patriotic food carnival replaced the traditional candlelit vigil in Victoria Park on the 37th anniversary of the Tiananmen crackdown, requiring security checks for visitors."
-        }
-      ],
-      "sources": [
-        "SCMP",
-        "Hong Kong FP"
-      ],
-      "urls": [
-        "https://www.scmp.com/news/hong-kong/politics/article/3356009/7-taken-away-police-ramp-patrols-around-former-site-tiananmen-vigil",
-        "https://hongkongfp.com/2026/06/04/in-pictures-for-4th-year-patriotic-carnival-held-on-former-site-of-hong-kongs-tiananmen-crackdown-vigils/"
-      ]
     }
   ]
 }
