@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-06-07T18:07:36+03:00",
+  "lastUpdated": "2026-06-07T19:10:17+03:00",
   "headlines": [
     {
-      "headline": "Taiwan coast guard expels Chinese ships from restricted waters",
-      "summary": "Taiwan's coast guard said it \"expelled\" four Chinese government ships that entered restricted waters around Taiwan, marking another escalation in maritime tensions in the Taiwan Strait.",
-      "emoji": "🇹🇼🇨🇳",
-      "category": "Asia-Pacific",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-coast-guard-expels-chinese-ships-from-restricted-waters",
-      "timestamp": "2026-06-07T18:06:00+03:00"
+      "headline": "Israel strikes Beirut suburbs days after US-brokered ceasefire with Hezbollah",
+      "summary": "Israeli warplanes bombed Beirut's southern suburbs just days after a ceasefire agreement was signed in Washington, raising fears of renewed escalation in the three-month-old conflict.",
+      "emoji": "🇱🇧💥",
+      "category": "Middle East",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/iran/israel-strikes-beiruts-southern-suburbs-days-ceasefire-agreement-rcna348847",
+      "timestamp": "2026-06-07T19:08:00+03:00"
+    },
+    {
+      "headline": "Ukraine pivots to Europe as US steps back from peace mediation role",
+      "summary": "President Zelensky met with British, German, and French leaders in London as Ukraine seeks European leadership in peace negotiations with Russia amid waning US involvement.",
+      "emoji": "🇺🇦🇪🇺",
+      "category": "Ukraine-Russia War",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/07/world/europe/ukraine-europe-russia-us-peace-talks.html",
+      "timestamp": "2026-06-07T19:08:00+03:00"
+    },
+    {
+      "headline": "France and allies prepare coordinated sanctions on Israel over West Bank violence",
+      "summary": "France is working with several European countries to impose national sanctions on individuals linked to settler violence in the West Bank, stepping up pressure amid escalating tensions.",
+      "emoji": "🇫🇷🏛️",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/france-allies-eye-national-measures-pressure-israel-over-west-bank-diplomats-say-2026-06-06/",
+      "timestamp": "2026-06-07T19:08:00+03:00"
+    },
+    {
+      "headline": "Iran's World Cup squad arrives in Mexico amid US visa controversy",
+      "summary": "Iran's World Cup delegation reached their base camp in Mexico after several team members were denied US visas, highlighting geopolitical tensions affecting international sports.",
+      "emoji": "⚽🇮🇷",
+      "category": "Geopolitics",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/7/irans-world-cup-squad-lands-in-mexico-amid-us-visa-row",
+      "timestamp": "2026-06-07T19:08:00+03:00"
+    },
+    {
+      "headline": "Nigerian army frees 360 abductees from Boko Haram in Borno state",
+      "summary": "The Nigerian military rescued 360 people held captive by Boko Haram in the Mandara mountains, though two infants died from harsh conditions during captivity.",
+      "emoji": "🇳🇬🛡️",
+      "category": "Africa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/7/army-frees-360-abductees-after-clashes-with-boko-haram-in-nigerias-borno",
+      "timestamp": "2026-06-07T19:08:00+03:00"
     },
     {
       "headline": "Beijing sends largest patrol ship east of Taiwan after Japan-Philippine boundary talks",
@@ -53,16 +89,39 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/global-airlines-slash-2026-profit-forecast-fuel-shock-iran-war-2026-06-07/",
-      "timestamp": "2026-06-07T18:05:00+03:00"
-    },
-    {
-      "headline": "Xi Jinping heads to North Korea with nuclear weapons off the agenda",
-      "summary": "Chinese President Xi Jinping visits Pyongyang for the first time in nearly seven years, signaling a strategic focus on North Korea as a regional partner. Kim Jong Un projects confidence with nuclear capabilities and Russian alliance, showing little appetite for Washington engagement.",
-      "emoji": "🇨🇳🇰🇵",
-      "category": "Asia-Pacific",
-      "source": "The Economist",
-      "url": "https://www.economist.com/china/2026/06/07/nukes-are-off-the-agenda-as-xi-jinping-heads-to-north-korea",
-      "timestamp": "2026-06-07T18:05:00+03:00"
+      "timestamp": "2026-06-07T18:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/americas/brazilian-airline-azul-plans-further-frequency-cuts-fuel-shock-bites-2026-06-06/",
+          "angle": "Brazilian airline Azul cuts flights as Iran war drives fuel prices higher",
+          "summary": "Brazilian carrier Azul announced further capacity cuts as rising jet fuel prices linked to the Iran conflict squeeze airline margins globally, with CEO John Rodgerson saying the airline will continue trimming flights to protect cash."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/airline-chiefs-grapple-fuel-shock-fare-test-rio-summit-2026-06-06/",
+          "angle": "Global Airlines Grapple With Fuel Price Spike at Rio Summit",
+          "summary": "Airline chiefs meeting in Rio de Janeiro are dealing with higher fuel costs from the Iran war by raising fares and tightening capacity, as the industry faces uncertainty over energy prices."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/embraer-sees-airlines-delay-option-decisions-iran-war-clouds-industry-2026-06-06/",
+          "angle": "Embraer Sees Airlines Delaying Plane Purchase Options Amid Iran War",
+          "summary": "Some airlines are delaying decisions on aircraft purchase options due to uncertainties from the Iran war, which has pushed up jet fuel prices, Embraer CEO Francisco Gomes Neto told Reuters."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/aerospace-defense/global-airlines-slash-2026-profit-forecast-fuel-shock-iran-war-2026-06-07/",
+        "https://www.reuters.com/world/americas/brazilian-airline-azul-plans-further-frequency-cuts-fuel-shock-bites-2026-06-06/",
+        "https://www.reuters.com/business/energy/airline-chiefs-grapple-fuel-shock-fare-test-rio-summit-2026-06-06/",
+        "https://www.reuters.com/business/aerospace-defense/embraer-sees-airlines-delay-option-decisions-iran-war-clouds-industry-2026-06-06/"
+      ]
     },
     {
       "headline": "Iran national soccer team arrives in Mexico for World Cup training",
@@ -80,7 +139,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/trump-says-he-would-not-unfreeze-irans-assets-ahead-before-deal-is-done-2026-06-07/",
-      "timestamp": "2026-06-07T18:05:00+03:00"
+      "timestamp": "2026-06-07T18:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Channel NewsAsia",
+          "url": "https://www.channelnewsasia.com/world/iran-frozen-funds-peace-deal-us-6166376",
+          "angle": "Iran demands $24 billion in frozen assets as condition for US peace deal progress",
+          "summary": "Iranian military adviser Mohsen Rezaei said negotiations with the US have reached a deadlock, tying progress to the release of $24 billion in frozen Iranian assets. Tensions remain high following US strikes on Iranian coastal sites."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Channel NewsAsia"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/trump-says-he-would-not-unfreeze-irans-assets-ahead-before-deal-is-done-2026-06-07/",
+        "https://www.channelnewsasia.com/world/iran-frozen-funds-peace-deal-us-6166376"
+      ]
     },
     {
       "headline": "Israel Strikes Beirut Suburbs Despite Ceasefire",
@@ -285,19 +360,27 @@
       "timestamp": "2026-06-07T15:05:00+03:00",
       "perspectives": [
         {
-          "source": "Business Standard",
-          "url": "https://www.business-standard.com/world-news/xi-jinping-visits-north-korea-to-reassert-influence-over-emboldened-kim-126060700408_1.html",
-          "angle": "Xi Jinping Visits North Korea for First Time in Seven Years",
-          "summary": "China's leader travels to Pyongyang to reassert influence over Kim Jong Un as North Korea's nuclear arsenal expands and its alliance with Russia deepens, signaling Beijing's continued role as Pyongyang's key patron."
+          "source": "The Economist",
+          "url": "https://www.economist.com/china/2026/06/07/nukes-are-off-the-agenda-as-xi-jinping-heads-to-north-korea",
+          "angle": "Xi Jinping heads to North Korea with nuclear weapons off the agenda",
+          "summary": "Chinese President Xi Jinping visits Pyongyang for the first time in nearly seven years, signaling a strategic focus on North Korea as a regional partner. Kim Jong Un projects confidence with nuclear capabilities and Russian alliance, showing little appetite for Washington engagement."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/north-korean-leader-kim-jong-un-visits-naval-vessel-rodong-sinmun-says-2026-06-05/",
+          "angle": "North Korea Plans 10,000-Ton Destroyer and Secret Underwater Weapons",
+          "summary": "State media announced plans for a large destroyer and nuclear-armed naval fleet ahead of Chinese President Xi Jinping's visit. Kim Jong Un vowed to accelerate development of naval nuclear capabilities."
         }
       ],
       "sources": [
         "Reuters",
-        "Business Standard"
+        "The Economist",
+        "Reuters"
       ],
       "urls": [
         "https://www.reuters.com/world/china/with-chinas-xi-north-korea-kim-project-confidence-defiance-2026-06-07/",
-        "https://www.business-standard.com/world-news/xi-jinping-visits-north-korea-to-reassert-influence-over-emboldened-kim-126060700408_1.html"
+        "https://www.economist.com/china/2026/06/07/nukes-are-off-the-agenda-as-xi-jinping-heads-to-north-korea",
+        "https://www.reuters.com/business/aerospace-defense/north-korean-leader-kim-jong-un-visits-naval-vessel-rodong-sinmun-says-2026-06-05/"
       ]
     },
     {
@@ -721,31 +804,6 @@
       ]
     },
     {
-      "headline": "Brazilian airline Azul cuts flights as Iran war drives fuel prices higher",
-      "summary": "Brazilian carrier Azul announced further capacity cuts as rising jet fuel prices linked to the Iran conflict squeeze airline margins globally, with CEO John Rodgerson saying the airline will continue trimming flights to protect cash.",
-      "emoji": "🇧🇷✈️",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/americas/brazilian-airline-azul-plans-further-frequency-cuts-fuel-shock-bites-2026-06-06/",
-      "timestamp": "2026-06-07T07:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/iran-war-consumer-economy-retailers-3fb28b7dfc4ba21689e6c7068a32c70e",
-          "angle": "US consumers cut spending as Iran war drives fuel prices higher",
-          "summary": "American consumers haven stopped spending since the Iran war drove up fuel prices, with retailers reporting fewer frills and unfilled gas tanks as inflationary pressures bite."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/americas/brazilian-airline-azul-plans-further-frequency-cuts-fuel-shock-bites-2026-06-06/",
-        "https://apnews.com/article/iran-war-consumer-economy-retailers-3fb28b7dfc4ba21689e6c7068a32c70e"
-      ]
-    },
-    {
       "headline": "France leads Western allies in preparing sanctions on Israel over West Bank",
       "summary": "France is coordinating with several nations to impose targeted sanctions on individuals linked to violence in the West Bank, stepping up international pressure on Israel amid concerns about settlement expansion.",
       "emoji": "🇫🇷🇮🇱",
@@ -889,48 +947,6 @@
       "source": "Al Arabiya",
       "url": "https://english.alarabiya.net/News/middle-east/2026/06/06/lebanon-army-chief-visits-usiran-mediator-pakistan-military",
       "timestamp": "2026-06-07T04:10:00+03:00"
-    },
-    {
-      "headline": "Global Airlines Grapple With Fuel Price Spike at Rio Summit",
-      "summary": "Airline chiefs meeting in Rio de Janeiro are dealing with higher fuel costs from the Iran war by raising fares and tightening capacity, as the industry faces uncertainty over energy prices.",
-      "emoji": "✈️",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/airline-chiefs-grapple-fuel-shock-fare-test-rio-summit-2026-06-06/",
-      "timestamp": "2026-06-07T04:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Bangkok Post",
-          "url": "https://www.bangkokpost.com/business/general/3267234/airline-chiefs-grapple-with-fuel-shock-fare-test-at-rio-summit",
-          "angle": "Global airline chiefs grapple with fuel shock at Rio summit",
-          "summary": "Airline executives at their annual IATA summit in Rio face mounting pressure from Middle East conflict-driven fuel price spikes and potential fare increases."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/americas/brazilian-airline-azul-plans-further-frequency-cuts-fuel-shock-bites-2026-06-06/",
-          "angle": "Brazilian Airline Azul Cuts Flights Amid Fuel Shock From Iran Conflict",
-          "summary": "Brazil's Azul airline announced further capacity cuts due to soaring jet fuel prices linked to the Iran war, as the aviation industry worldwide grapples with energy costs driven by Middle East tensions."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Bangkok Post",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/airline-chiefs-grapple-fuel-shock-fare-test-rio-summit-2026-06-06/",
-        "https://www.bangkokpost.com/business/general/3267234/airline-chiefs-grapple-with-fuel-shock-fare-test-at-rio-summit",
-        "https://www.reuters.com/world/americas/brazilian-airline-azul-plans-further-frequency-cuts-fuel-shock-bites-2026-06-06/"
-      ]
-    },
-    {
-      "headline": "Embraer Sees Airlines Delaying Plane Purchase Options Amid Iran War",
-      "summary": "Some airlines are delaying decisions on aircraft purchase options due to uncertainties from the Iran war, which has pushed up jet fuel prices, Embraer CEO Francisco Gomes Neto told Reuters.",
-      "emoji": "✈️",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/embraer-sees-airlines-delay-option-decisions-iran-war-clouds-industry-2026-06-06/",
-      "timestamp": "2026-06-07T04:05:00+03:00"
     },
     {
       "headline": "Airbus Nearing Widebody Order From Scandinavian Airlines",
@@ -1524,31 +1540,6 @@
       ]
     },
     {
-      "headline": "North Korea Plans 10,000-Ton Destroyer and Secret Underwater Weapons",
-      "summary": "State media announced plans for a large destroyer and nuclear-armed naval fleet ahead of Chinese President Xi Jinping's visit. Kim Jong Un vowed to accelerate development of naval nuclear capabilities.",
-      "emoji": "🇰🇵",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/north-korean-leader-kim-jong-un-visits-naval-vessel-rodong-sinmun-says-2026-06-05/",
-      "timestamp": "2026-06-06T16:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/north-korean-leader-kim-jong-un-visits-naval-vessel-rodong-sinmun-says-2026-06-05/",
-          "angle": "North Korea announces 10,000-ton destroyer and secret underwater weapons ahead of Xi visit",
-          "summary": "State media announced major naval expansion plans including a destroyer and underwater weapons development, just ahead of Chinese President Xi Jinping's visit to Pyongyang."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/aerospace-defense/north-korean-leader-kim-jong-un-visits-naval-vessel-rodong-sinmun-says-2026-06-05/",
-        "https://www.reuters.com/business/aerospace-defense/north-korean-leader-kim-jong-un-visits-naval-vessel-rodong-sinmun-says-2026-06-05/"
-      ]
-    },
-    {
       "headline": "Macron, Starmer, Merz to Meet Zelenskiy in London for War Talks",
       "summary": "French President Emmanuel Macron, British Prime Minister Keir Starmer, and German Chancellor Friedrich Merz will hold talks with Ukraine's President Volodymyr Zelenskiy on Sunday, June 7, as European leaders seek to support Ukraine amid stalled peace efforts.",
       "emoji": "🇪🇺",
@@ -1589,15 +1580,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/science/international-space-station-astronauts-evacuation-mode-russia-attempts-fix-2026-06-05/",
       "timestamp": "2026-06-06T16:03:00+03:00"
-    },
-    {
-      "headline": "Iran demands $24 billion in frozen assets as condition for US peace deal progress",
-      "summary": "Iranian military adviser Mohsen Rezaei said negotiations with the US have reached a deadlock, tying progress to the release of $24 billion in frozen Iranian assets. Tensions remain high following US strikes on Iranian coastal sites.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "Channel NewsAsia",
-      "url": "https://www.channelnewsasia.com/world/iran-frozen-funds-peace-deal-us-6166376",
-      "timestamp": "2026-06-06T15:03:00+03:00"
     },
     {
       "headline": "Taipei Zoo Welcomes First Red Pandas From China in Over a Decade",
@@ -2560,19 +2542,19 @@
       "timestamp": "2026-06-05T21:03:00+03:00",
       "perspectives": [
         {
-          "source": "New Indian Express",
-          "url": "https://www.newindianexpress.com/world/2026/Jun/07/taiwan-coast-guard-says-deploys-vessels-in-response-to-china-operation",
-          "angle": "Taiwan coast guard deploys vessels in response to Chinese operation",
-          "summary": "Taiwan deployed coast guard vessels Sunday to respond to a Chinese operation in waters east of the island democracy, amid heightened tensions in the Taiwan Strait and South China Sea."
+          "source": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-coast-guard-expels-chinese-ships-from-restricted-waters",
+          "angle": "Taiwan coast guard expels Chinese ships from restricted waters",
+          "summary": "Taiwan's coast guard said it \"expelled\" four Chinese government ships that entered restricted waters around Taiwan, marking another escalation in maritime tensions in the Taiwan Strait."
         }
       ],
       "sources": [
         "Reuters",
-        "New Indian Express"
+        "Nikkei Asia"
       ],
       "urls": [
         "https://www.reuters.com/world/china/taiwan-china-coast-guards-renewed-standoff-top-south-china-sea-2026-06-05/",
-        "https://www.newindianexpress.com/world/2026/Jun/07/taiwan-coast-guard-says-deploys-vessels-in-response-to-china-operation"
+        "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/taiwan-coast-guard-expels-chinese-ships-from-restricted-waters"
       ]
     },
     {
@@ -3094,24 +3076,6 @@
       "category": "US-China",
       "source": "Telegraph",
       "url": "https://www.telegraph.co.uk/business/2026/06/05/china-tightens-leash-on-beijing-tech-bros-to-combat-west/",
-      "timestamp": "2026-06-05T10:05:00+03:00"
-    },
-    {
-      "headline": "Global Tech Stocks Plunge Amid AI Bubble Fears",
-      "summary": "Technology shares fall sharply worldwide over concerns that AI company valuations have surged too high, triggering broad market sell-off across major exchanges.",
-      "emoji": "📉💻",
-      "category": "Economy",
-      "source": "Telegraph",
-      "url": "https://www.telegraph.co.uk/business/2026/06/05/ai-bubble-tech-stocks-us-jobs-payrolls-ftse-100-markets/",
-      "timestamp": "2026-06-05T10:05:00+03:00"
-    },
-    {
-      "headline": "Mali Junta Offers $3.5 Million Reward for Sahel al-Qaeda Leader",
-      "summary": "Military government offers bounty for information leading to arrest or killing of Iyad Ag Ghaly, head of al-Qaeda Sahel branch, as it battles insurgencies across the region.",
-      "emoji": "🇲🇱💰",
-      "category": "Africa",
-      "source": "Asharq Al-Awsat",
-      "url": "https://english.aawsat.com/world/5280640-mali-offers-35-million-reward-sahel-al-qaeda-chief",
       "timestamp": "2026-06-05T10:05:00+03:00"
     }
   ]
