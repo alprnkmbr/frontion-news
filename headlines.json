@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-07T16:06:52+03:00",
+  "lastUpdated": "2026-06-07T17:05:26+03:00",
   "headlines": [
+    {
+      "headline": "Israel Strikes Beirut Suburbs Despite Ceasefire",
+      "summary": "Israel attacked Beirut's southern suburbs days after a US-brokered ceasefire, risking renewed regional escalation as Iran warned strikes on Beirut could restart full-scale war across the Middle East.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-28d80744e192ae0d5cce73a5a08af906",
+      "timestamp": "2026-06-07T17:05:00+03:00"
+    },
+    {
+      "headline": "Russian Drone Strikes Nuclear Fuel Facility Near Chernobyl",
+      "summary": "A Russian Shahed drone hit a nuclear fuel storage facility near Chernobyl, causing a fire and significant damage. Ukraine reported no radiation spike, but the IAEA called the attack deeply concerning.",
+      "emoji": "☢️",
+      "category": "Ukraine-Russia War",
+      "source": "The Hill",
+      "url": "https://thehill.com/policy/international/5913657-ukrainian-nuclear-facility-drone-strike/",
+      "timestamp": "2026-06-07T17:05:00+03:00"
+    },
+    {
+      "headline": "US Approves $1.98 Billion Counter-Drone Defense Sale to Kuwait",
+      "summary": "The State Department approved a potential $1.98 billion arms sale to Kuwait for counter-UAV systems including Roadrunner-Munition and Anvil-Kinetic interceptors, strengthening Gulf defenses against drone threats.",
+      "emoji": "🇰🇼",
+      "category": "Defense Industry",
+      "source": "The Media Line",
+      "url": "https://themedialine.org/headlines/us-approves-potential-1-98-billion-counter-drone-defense-sale-to-kuwait/",
+      "timestamp": "2026-06-07T17:05:00+03:00"
+    },
+    {
+      "headline": "Nigerian Army Rescues 360 Hostages from Boko Haram Stronghold",
+      "summary": "Nigerian forces freed 360 kidnapped victims from a Boko Haram enclave in the Mandara Mountains after weeks of intelligence-gathering and surveillance operations.",
+      "emoji": "🇳🇬",
+      "category": "Africa",
+      "source": "Nairametrics",
+      "url": "https://nairametrics.com/2026/06/07/nigerian-army-rescues-360-hostages-from-boko-haram-stronghold-in-borno/",
+      "timestamp": "2026-06-07T17:05:00+03:00"
+    },
+    {
+      "headline": "Xi Jinping Visits North Korea for First Time in Seven Years",
+      "summary": "China's leader travels to Pyongyang to reassert influence over Kim Jong Un as North Korea's nuclear arsenal expands and its alliance with Russia deepens, signaling Beijing's continued role as Pyongyang's key patron.",
+      "emoji": "🇨🇳",
+      "category": "Asia-Pacific",
+      "source": "Business Standard",
+      "url": "https://www.business-standard.com/world-news/xi-jinping-visits-north-korea-to-reassert-influence-over-emboldened-kim-126060700408_1.html",
+      "timestamp": "2026-06-07T17:05:00+03:00"
+    },
     {
       "headline": "One killed, five wounded in central Israel terror shooting spree",
       "summary": "A terrorist attack in communities bordering the West Bank north of Tel Aviv left one person dead and five wounded, with two in serious condition. One perpetrator was shot during the rampage.",
@@ -8,25 +53,23 @@
       "category": "Middle East",
       "source": "Times of Israel",
       "url": "https://www.timesofisrael.com/terrorist-kills-one-wounds-five-in-central-israel-shooting-spree/",
-      "timestamp": "2026-06-07T16:05:00+03:00"
-    },
-    {
-      "headline": "US resolution at IAEA demands Iran provide information on bombed nuclear sites",
-      "summary": "A US-prepared draft resolution for the UN nuclear watchdog board demands Iran provide \"precise information\" on its bombed nuclear sites and enriched uranium stocks ahead of a meeting this week.",
-      "emoji": "☢️",
-      "category": "Diplomacy",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/middle-east/2026/06/07/us-resolution-text-at-iaea-demands-iran-open-up-on-sites-uranium-stocks",
-      "timestamp": "2026-06-07T16:05:00+03:00"
-    },
-    {
-      "headline": "North Korea nuclear program \"absolutely non-negotiable\" before Xi visit",
-      "summary": "Kim Yo Jong, sister of North Korean leader Kim Jong Un, reaffirmed that North Korea will never back down on its nuclear status, issuing the statement a day before Chinese President Xi Jinping's visit.",
-      "emoji": "🇰🇵",
-      "category": "Asia-Pacific",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/world/2026/06/07/north-korea-reaffirms-nuclear-status-a-day-before-chinese-president-s-visit",
-      "timestamp": "2026-06-07T16:05:00+03:00"
+      "timestamp": "2026-06-07T16:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/one-person-dead-in-suspected-terror-shooting-in-kochav-yair/",
+          "angle": "One Dead, Four Wounded in Suspected Terror Shooting in Central Israel",
+          "summary": "A shooting attack in Kochav Ya'ir area left one person dead and at least four wounded; Israeli security forces captured one suspect and are searching for another."
+        }
+      ],
+      "sources": [
+        "Times of Israel",
+        "Times of Israel"
+      ],
+      "urls": [
+        "https://www.timesofisrael.com/terrorist-kills-one-wounds-five-in-central-israel-shooting-spree/",
+        "https://www.timesofisrael.com/liveblog_entry/one-person-dead-in-suspected-terror-shooting-in-kochav-yair/"
+      ]
     },
     {
       "headline": "Bridge linking Crimea to southern Ukraine damaged in drone strike",
@@ -53,7 +96,31 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/us-resolution-text-iaea-demands-iran-open-up-sites-uranium-stocks-2026-06-07/",
-      "timestamp": "2026-06-07T16:03:00+03:00"
+      "timestamp": "2026-06-07T16:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Arabiya",
+          "url": "https://english.alarabiya.net/News/middle-east/2026/06/07/us-resolution-text-at-iaea-demands-iran-open-up-on-sites-uranium-stocks",
+          "angle": "US resolution at IAEA demands Iran provide information on bombed nuclear sites",
+          "summary": "A US-prepared draft resolution for the UN nuclear watchdog board demands Iran provide \"precise information\" on its bombed nuclear sites and enriched uranium stocks ahead of a meeting this week."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/us-preparing-draft-resolution-condemning-iran-iaea-diplomats-say-2026-06-05/",
+          "angle": "US Preparing IAEA Resolution Condemning Iran",
+          "summary": "The United States is preparing a draft resolution condemning Iran ahead of next week meeting of the UN nuclear watchdog Board of Governors, diplomats said, a step that could complicate wider talks between the US and Iran."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Al Arabiya",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/us-resolution-text-iaea-demands-iran-open-up-sites-uranium-stocks-2026-06-07/",
+        "https://english.alarabiya.net/News/middle-east/2026/06/07/us-resolution-text-at-iaea-demands-iran-open-up-on-sites-uranium-stocks",
+        "https://www.reuters.com/world/europe/us-preparing-draft-resolution-condemning-iran-iaea-diplomats-say-2026-06-05/"
+      ]
     },
     {
       "headline": "Russian Drone Strike Hits Nuclear Fuel Storage Near Chornobyl",
@@ -80,7 +147,31 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/armenians-vote-with-peace-efforts-russia-focus-2026-06-07/",
-      "timestamp": "2026-06-07T16:03:00+03:00"
+      "timestamp": "2026-06-07T16:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/world/europe/armenians-polls-russian-pressure-aimed-preventing-drift-west-rcna348838",
+          "angle": "Armenians vote under Russian pressure to prevent Western drift",
+          "summary": "Prime Minister Nikol Pashinyan faces opposition from pro-Russian parties in a parliamentary election that tests Armenia's efforts to forge peace with Azerbaijan and move away from Moscow's orbit after its 2023 military defeat."
+        },
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/live-news/20260607-armenia-votes-in-test-of-pm-s-pivot-away-from-russia",
+          "angle": "Armenia Votes in Pivotal Election Testing Westward Pivot",
+          "summary": "Armenians cast ballots in parliamentary elections that will determine whether Prime Minister Pashinyan can continue his push toward European integration despite Russian pressure to maintain Moscow ties."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "NBC News",
+        "France24"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/armenians-vote-with-peace-efforts-russia-focus-2026-06-07/",
+        "https://www.nbcnews.com/world/europe/armenians-polls-russian-pressure-aimed-preventing-drift-west-rcna348838",
+        "https://www.france24.com/en/live-news/20260607-armenia-votes-in-test-of-pm-s-pivot-away-from-russia"
+      ]
     },
     {
       "headline": "Pakistan's Interior Minister in Tehran to Mediate Iran-US Talks",
@@ -89,7 +180,48 @@
       "category": "Diplomacy",
       "source": "AP News",
       "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-28d80744e192ae0d5cce73a5a08af906",
-      "timestamp": "2026-06-07T16:03:00+03:00"
+      "timestamp": "2026-06-07T16:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/middle-east/pakistani-interior-minister-arrives-in-tehran-amid-mediation-efforts-between-iran-us/3958701",
+          "angle": "Pakistani Interior Minister Arrives in Tehran for Iran-US Mediation Efforts",
+          "summary": "Pakistan's interior minister traveled to Tehran amid ongoing diplomatic efforts to mediate between Iran and the United States as tensions continue to escalate in the Gulf region."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "Anadolu Agency"
+      ],
+      "urls": [
+        "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-28d80744e192ae0d5cce73a5a08af906",
+        "https://www.aa.com.tr/en/middle-east/pakistani-interior-minister-arrives-in-tehran-amid-mediation-efforts-between-iran-us/3958701"
+      ]
+    },
+    {
+      "headline": "Xi Jinping makes rare state visit to North Korea for first time in nearly seven years",
+      "summary": "Chinese President Xi Jinping will visit Pyongyang for talks with Kim Jong Un, projecting confidence and defiance as North Korea maintains its nuclear arsenal and alliance with Russia while showing little interest in engaging Washington.",
+      "emoji": "🇨🇳",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/with-chinas-xi-north-korea-kim-project-confidence-defiance-2026-06-07/",
+      "timestamp": "2026-06-07T15:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Arabiya",
+          "url": "https://english.alarabiya.net/News/world/2026/06/07/north-korea-reaffirms-nuclear-status-a-day-before-chinese-president-s-visit",
+          "angle": "North Korea nuclear program \"absolutely non-negotiable\" before Xi visit",
+          "summary": "Kim Yo Jong, sister of North Korean leader Kim Jong Un, reaffirmed that North Korea will never back down on its nuclear status, issuing the statement a day before Chinese President Xi Jinping's visit."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Al Arabiya"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/with-chinas-xi-north-korea-kim-project-confidence-defiance-2026-06-07/",
+        "https://english.alarabiya.net/News/world/2026/06/07/north-korea-reaffirms-nuclear-status-a-day-before-chinese-president-s-visit"
+      ]
     },
     {
       "headline": "US considers redirecting frozen Iranian assets to Gulf allies for reconstruction",
@@ -114,31 +246,6 @@
       "urls": [
         "https://www.reuters.com/world/asia-pacific/us-eyes-iranian-assets-gulf-allies-reconstruction-source-says-2026-06-06/",
         "https://www.reuters.com/world/asia-pacific/us-eyes-iranian-assets-gulf-allies-reconstruction-source-says-2026-06-06/"
-      ]
-    },
-    {
-      "headline": "Xi Jinping makes rare state visit to North Korea for first time in nearly seven years",
-      "summary": "Chinese President Xi Jinping will visit Pyongyang for talks with Kim Jong Un, projecting confidence and defiance as North Korea maintains its nuclear arsenal and alliance with Russia while showing little interest in engaging Washington.",
-      "emoji": "🇨🇳",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/with-chinas-xi-north-korea-kim-project-confidence-defiance-2026-06-07/",
-      "timestamp": "2026-06-07T15:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/with-chinas-xi-north-korea-kim-project-confidence-defiance-2026-06-07/",
-          "angle": "Xi Jinping Visits North Korea as Kim Projects Strength",
-          "summary": "Chinese President Xi Jinping arrives in Pyongyang for a rare meeting with Kim Jong Un, as North Korea showcases its nuclear arsenal and deepening ties with Russia amid stalled US engagement."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/with-chinas-xi-north-korea-kim-project-confidence-defiance-2026-06-07/",
-        "https://www.reuters.com/world/china/with-chinas-xi-north-korea-kim-project-confidence-defiance-2026-06-07/"
       ]
     },
     {
@@ -269,15 +376,6 @@
       ]
     },
     {
-      "headline": "One Dead, Four Wounded in Suspected Terror Shooting in Central Israel",
-      "summary": "A shooting attack in Kochav Ya'ir area left one person dead and at least four wounded; Israeli security forces captured one suspect and are searching for another.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/one-person-dead-in-suspected-terror-shooting-in-kochav-yair/",
-      "timestamp": "2026-06-07T12:10:00+03:00"
-    },
-    {
       "headline": "Over one million gather in Madrid for Pope Leo XIV Mass",
       "summary": "More than a million people filled Madrid streets and Plaza de Cibeles for Pope Leo XIV's main open-air Mass during his first papal visit to Spain, in what officials called the largest event of his week-long trip.",
       "emoji": "⛪",
@@ -320,15 +418,6 @@
       "timestamp": "2026-06-07T12:03:00+03:00"
     },
     {
-      "headline": "Armenians vote under Russian pressure to prevent Western drift",
-      "summary": "Prime Minister Nikol Pashinyan faces opposition from pro-Russian parties in a parliamentary election that tests Armenia's efforts to forge peace with Azerbaijan and move away from Moscow's orbit after its 2023 military defeat.",
-      "emoji": "🇦🇲",
-      "category": "Europe",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/world/europe/armenians-polls-russian-pressure-aimed-preventing-drift-west-rcna348838",
-      "timestamp": "2026-06-07T12:03:00+03:00"
-    },
-    {
       "headline": "Pakistan delivers special letter to Iran's supreme leader",
       "summary": "Pakistan's Interior Minister Mohsin Naqvi traveled to Tehran with messages from the prime minister and army chief as diplomatic efforts intensify to end the US-Iran conflict and prevent further escalation in the Gulf.",
       "emoji": "🇵🇰🇮🇷",
@@ -345,15 +434,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/greece-palestinian-arrest-hamas-terrorism-d1cf35b0268602b56d3be5ba31478a56",
       "timestamp": "2026-06-07T12:03:00+03:00"
-    },
-    {
-      "headline": "Armenia Votes in Pivotal Election Testing Westward Pivot",
-      "summary": "Armenians cast ballots in parliamentary elections that will determine whether Prime Minister Pashinyan can continue his push toward European integration despite Russian pressure to maintain Moscow ties.",
-      "emoji": "🇦🇲🇪🇺",
-      "category": "Europe",
-      "source": "France24",
-      "url": "https://www.france24.com/en/live-news/20260607-armenia-votes-in-test-of-pm-s-pivot-away-from-russia",
-      "timestamp": "2026-06-07T11:03:00+03:00"
     },
     {
       "headline": "European Central Bank Begins Interest Rate Hikes",
@@ -1163,15 +1243,6 @@
       ]
     },
     {
-      "headline": "Pakistani Interior Minister Arrives in Tehran for Iran-US Mediation Efforts",
-      "summary": "Pakistan's interior minister traveled to Tehran amid ongoing diplomatic efforts to mediate between Iran and the United States as tensions continue to escalate in the Gulf region.",
-      "emoji": "🇵🇰",
-      "category": "Diplomacy",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/middle-east/pakistani-interior-minister-arrives-in-tehran-amid-mediation-efforts-between-iran-us/3958701",
-      "timestamp": "2026-06-06T20:05:00+03:00"
-    },
-    {
       "headline": "Albanians Protest Jared Kushner-Backed Luxury Resort on Nature Reserve",
       "summary": "Thousands of Albanians protested plans for a luxury resort backed by Jared Kushner on the country's coast, raising concerns about environmental impact on protected areas.",
       "emoji": "🇦🇱",
@@ -1655,31 +1726,6 @@
       "urls": [
         "https://www.reuters.com/world/zelenskiys-letter-putin-was-intended-other-ears-2026-06-05/",
         "https://www.reuters.com/world/europe/zelenskiy-open-letter-invites-putin-talks-end-war-2026-06-04/"
-      ]
-    },
-    {
-      "headline": "US Preparing IAEA Resolution Condemning Iran",
-      "summary": "The United States is preparing a draft resolution condemning Iran ahead of next week meeting of the UN nuclear watchdog Board of Governors, diplomats said, a step that could complicate wider talks between the US and Iran.",
-      "emoji": "🇺🇸⚛️",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/us-preparing-draft-resolution-condemning-iran-iaea-diplomats-say-2026-06-05/",
-      "timestamp": "2026-06-06T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/us-preparing-draft-resolution-condemning-iran-iaea-diplomats-say-2026-06-05/",
-          "angle": "US preparing IAEA resolution condemning Iran",
-          "summary": "The United States is drafting a resolution to condemn Iran ahead of next week's IAEA Board of Governors meeting, a move that could complicate ongoing US-Iran talks as the conflict nears 100 days."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/us-preparing-draft-resolution-condemning-iran-iaea-diplomats-say-2026-06-05/",
-        "https://www.reuters.com/world/europe/us-preparing-draft-resolution-condemning-iran-iaea-diplomats-say-2026-06-05/"
       ]
     },
     {
@@ -2983,40 +3029,6 @@
       "source": "Asharq Al-Awsat",
       "url": "https://english.aawsat.com/world/5280640-mali-offers-35-million-reward-sahel-al-qaeda-chief",
       "timestamp": "2026-06-05T10:05:00+03:00"
-    },
-    {
-      "headline": "US imposes sanctions on Cuban President Miguel Díaz-Canel",
-      "summary": "The US Treasury Department sanctioned Cuban President Miguel Díaz-Canel, his wife, and other individuals affiliated with the Cuban government in the latest move to pressure the islands leadership.",
-      "emoji": "🇨🇺",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/americas/us-imposes-sanctions-cuban-president-treasury-website-shows-2026-06-04/",
-      "timestamp": "2026-06-05T10:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/trump-cuba-sanctions-diazcanel-1cd7096822e8397dbfeffaf8e70aa536",
-          "angle": "US Sanctions Cuban President Miguel Díaz-Canel",
-          "summary": "The United States imposed sanctions on Cuban President Miguel Díaz-Canel and four other individuals in the latest move to pressure the island's leadership. The measures come amid ongoing tensions between Washington and Havana."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/americas/us-imposes-sanctions-cuban-president-treasury-website-shows-2026-06-04/",
-        "https://apnews.com/article/trump-cuba-sanctions-diazcanel-1cd7096822e8397dbfeffaf8e70aa536"
-      ]
-    },
-    {
-      "headline": "Oman suspends oil loading at Mina al Fahal after explosion",
-      "summary": "Omans key Mina al Fahal oil export terminal suspended loading operations following an explosion near its mooring berths, with reports suggesting a suspected drone attack. Operations have since resumed.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/oman-suspends-oil-loading-mina-al-fahal-terminal-following-explosion-sources-say-2026-06-05/",
-      "timestamp": "2026-06-05T10:03:00+03:00"
     }
   ]
 }
