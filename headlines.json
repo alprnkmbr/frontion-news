@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-07T03:05:04+03:00",
+  "lastUpdated": "2026-06-07T04:05:57+03:00",
   "headlines": [
+    {
+      "headline": "Israeli Strike Kills Three Lebanese Soldiers Including Two Officers",
+      "summary": "An Israeli strike on a military vehicle in southern Lebanon killed two Lebanese army officers and one soldier, with the Israeli military saying it is investigating the incident amid ongoing regional tensions.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/two-lebanese-officers-one-soldier-killed-israeli-strike-southern-lebanon-2026-06-06/",
+      "timestamp": "2026-06-07T04:05:00+03:00"
+    },
+    {
+      "headline": "Global Airlines Grapple With Fuel Price Spike at Rio Summit",
+      "summary": "Airline chiefs meeting in Rio de Janeiro are dealing with higher fuel costs from the Iran war by raising fares and tightening capacity, as the industry faces uncertainty over energy prices.",
+      "emoji": "✈️",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/airline-chiefs-grapple-fuel-shock-fare-test-rio-summit-2026-06-06/",
+      "timestamp": "2026-06-07T04:05:00+03:00"
+    },
+    {
+      "headline": "Embraer Sees Airlines Delaying Plane Purchase Options Amid Iran War",
+      "summary": "Some airlines are delaying decisions on aircraft purchase options due to uncertainties from the Iran war, which has pushed up jet fuel prices, Embraer CEO Francisco Gomes Neto told Reuters.",
+      "emoji": "✈️",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/embraer-sees-airlines-delay-option-decisions-iran-war-clouds-industry-2026-06-06/",
+      "timestamp": "2026-06-07T04:05:00+03:00"
+    },
+    {
+      "headline": "Airbus Nearing Widebody Order From Scandinavian Airlines",
+      "summary": "Airbus is close to a widebody order from SAS AB including A330neo and A350 aircraft, with 15-20 planes under consideration, Bloomberg News reported on Saturday.",
+      "emoji": "✈️",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/airbus-closing-widebody-order-scandinavian-airline-bloomberg-news-reports-2026-06-06/",
+      "timestamp": "2026-06-07T04:05:00+03:00"
+    },
+    {
+      "headline": "Musk SpaceX IPO Draws European Retail Investor Interest",
+      "summary": "European retail investors are among those jockeying for a piece of the anticipated SpaceX initial public offering, though observers warn the deal could prove bumpy for those without institutional resources.",
+      "emoji": "🚀",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/transactional/musks-spacex-ipo-jolts-life-back-into-european-retail-investing-2026-06-06/",
+      "timestamp": "2026-06-07T04:05:00+03:00"
+    },
     {
       "headline": "Five Killed in Russian Attacks on Southern Kherson Region",
       "summary": "Russian forces killed five civilians in three separate attacks on Ukraine southern Kherson region on Friday, as fighting continues despite ongoing ceasefire discussions.",
@@ -8,7 +53,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/five-dead-russian-attacks-ukraines-southern-kherson-region-2026-06-06/",
-      "timestamp": "2026-06-07T03:03:00+03:00"
+      "timestamp": "2026-06-07T03:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/five-dead-russian-attacks-ukraines-southern-kherson-region-2026-06-06/",
+          "angle": "Five Civilians Killed in Russian Attacks on Kherson Region",
+          "summary": "Russian forces killed five people in three separate attacks on Ukraine's southern Kherson region on Friday, according to the regional governor, as fighting continues in the occupied territories."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/five-dead-russian-attacks-ukraines-southern-kherson-region-2026-06-06/",
+        "https://www.reuters.com/world/five-dead-russian-attacks-ukraines-southern-kherson-region-2026-06-06/"
+      ]
     },
     {
       "headline": "Trump Faces Growing Republican Resistance as Midterm Pressures Mount",
@@ -17,16 +78,23 @@
       "category": "US Politics",
       "source": "Reuters",
       "url": "https://www.reuters.com/legal/government/trump-faces-new-republican-resistance-congress-midterm-pressures-build-2026-06-06/",
-      "timestamp": "2026-06-07T03:03:00+03:00"
-    },
-    {
-      "headline": "Iran Accuses US of Ceasefire Violations as Both Sides Exchange Strikes",
-      "summary": "Iran accused the US of violating ceasefire terms after American forces shot down Iranian drones headed toward the Strait of Hormuz and intercepted ballistic missiles targeting Kuwait and Bahrain.",
-      "emoji": "⚔️",
-      "category": "US-Iran War",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/live-updates/iran-us-war-israel-hezbollah-fighting-ceasefire-efforts/",
-      "timestamp": "2026-06-07T03:03:00+03:00"
+      "timestamp": "2026-06-07T03:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/legal/government/trump-faces-new-republican-resistance-congress-midterm-pressures-build-2026-06-06/",
+          "angle": "Trump Faces Growing Republican Resistance in Congress",
+          "summary": "Republicans and Democrats express skepticism about a revolt against Trump, but greater willingness to break with him could threaten his ambitious initiatives before the midterms."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/legal/government/trump-faces-new-republican-resistance-congress-midterm-pressures-build-2026-06-06/",
+        "https://www.reuters.com/legal/government/trump-faces-new-republican-resistance-congress-midterm-pressures-build-2026-06-06/"
+      ]
     },
     {
       "headline": "Maine Senate Candidate Platner Faces Intimidation Allegations",
@@ -400,31 +468,6 @@
       ]
     },
     {
-      "headline": "Trump Faces Growing Republican Resistance in Congress",
-      "summary": "Republicans and Democrats express skepticism about a revolt against Trump, but greater willingness to break with him could threaten his ambitious initiatives before the midterms.",
-      "emoji": "🏛️",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/government/trump-faces-new-republican-resistance-congress-midterm-pressures-build-2026-06-06/",
-      "timestamp": "2026-06-06T22:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/us/losing-streak-2026-06-04/",
-          "angle": "Trump faces rare run of setbacks as courts and Congress push back",
-          "summary": "President Trump is heading into summer confronting a series of political defeats in courts, on Capitol Hill, and at the ballot box, marking an unusual stretch of resistance to his agenda."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/legal/government/trump-faces-new-republican-resistance-congress-midterm-pressures-build-2026-06-06/",
-        "https://www.reuters.com/world/us/losing-streak-2026-06-04/"
-      ]
-    },
-    {
       "headline": "White House AI Policy Adviser Krishnan to Leave Position",
       "summary": "White House AI policy adviser Krishnan is leaving his position, according to information reports, at a time of increasing focus on artificial intelligence policy.",
       "emoji": "🤖",
@@ -595,31 +638,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/us/white-house-ai-policy-adviser-krishnan-leave-position-information-reports-2026-06-06/",
       "timestamp": "2026-06-06T20:03:00+03:00"
-    },
-    {
-      "headline": "Five Civilians Killed in Russian Attacks on Kherson Region",
-      "summary": "Russian forces killed five people in three separate attacks on Ukraine's southern Kherson region on Friday, according to the regional governor, as fighting continues in the occupied territories.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/five-dead-russian-attacks-ukraines-southern-kherson-region-2026-06-06/",
-      "timestamp": "2026-06-06T19:06:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/five-dead-russian-attacks-ukraines-southern-kherson-region-2026-06-06/",
-          "angle": "Five civilians killed in Russian attacks on Ukraine's Kherson region",
-          "summary": "Russian attacks killed five people in Ukraine's southern Kherson region in three separate incidents on Friday, according to the regional governor, as fighting continues along the front lines."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/five-dead-russian-attacks-ukraines-southern-kherson-region-2026-06-06/",
-        "https://www.reuters.com/world/five-dead-russian-attacks-ukraines-southern-kherson-region-2026-06-06/"
-      ]
     },
     {
       "headline": "South Korean Protesters Demand Election Re-Run After Ballot Shortage",
@@ -1377,19 +1395,19 @@
       "timestamp": "2026-06-06T06:03:00+03:00",
       "perspectives": [
         {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon",
-          "angle": "US and Iran exchange strikes in Gulf as ceasefire negotiations stall",
-          "summary": "US Central Command intercepted seven Iranian ballistic missiles fired at Kuwait and Bahrain, while striking Iranian coastal radar sites. The IRGC said it targeted US bases in retaliation, warning that US aggression in the region will not go unanswered."
+          "source": "CBS News",
+          "url": "https://www.cbsnews.com/live-updates/iran-us-war-israel-hezbollah-fighting-ceasefire-efforts/",
+          "angle": "Iran Accuses US of Ceasefire Violations as Both Sides Exchange Strikes",
+          "summary": "Iran accused the US of violating ceasefire terms after American forces shot down Iranian drones headed toward the Strait of Hormuz and intercepted ballistic missiles targeting Kuwait and Bahrain."
         }
       ],
       "sources": [
         "BBC",
-        "Al Jazeera"
+        "CBS News"
       ],
       "urls": [
         "https://www.bbc.com/news/articles/cvgzgyjk2weo",
-        "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon"
+        "https://www.cbsnews.com/live-updates/iran-us-war-israel-hezbollah-fighting-ceasefire-efforts/"
       ]
     },
     {
