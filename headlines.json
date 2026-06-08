@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-08T13:05:19+03:00",
+  "lastUpdated": "2026-06-08T14:04:51+03:00",
   "headlines": [
+    {
+      "headline": "Pope Leo XIV and Spain's Sánchez unite against Trump policies",
+      "summary": "Pope Leo XIV met with Spanish Prime Minister Pedro Sánchez in Rome on Monday, discussing shared opposition to President Trump's policies. The meeting highlights growing international coordination against US trade and diplomatic moves.",
+      "emoji": "🇻🇦🇪🇸",
+      "category": "Diplomacy",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/08/world/europe/pope-leo-sanchez-trump.html",
+      "timestamp": "2026-06-08T14:03:00+03:00"
+    },
     {
       "headline": "Meta sues Israeli spyware firm NSO Group for violating WhatsApp injunction",
       "summary": "Meta filed a federal court contempt order against NSO Group for violating a permanent injunction that barred the firm from targeting WhatsApp and its users.",
@@ -35,7 +44,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/legal/government/amnesty-says-cambodia-scam-centres-still-operating-despite-crackdowns-2026-06-08/",
-      "timestamp": "2026-06-08T13:10:00+03:00"
+      "timestamp": "2026-06-08T13:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/spotlight/society/crime/cambodia-s-war-on-scam-centers-misses-targets-victims-amnesty",
+          "angle": "Cambodia's scam center crackdown fails to dismantle industry, Amnesty reports",
+          "summary": "A year-long Cambodian crackdown on online scam centers has failed to dismantle much of the industry and may have harmed victims, according to a new Amnesty International investigation."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Nikkei Asia"
+      ],
+      "urls": [
+        "https://www.reuters.com/legal/government/amnesty-says-cambodia-scam-centres-still-operating-despite-crackdowns-2026-06-08/",
+        "https://asia.nikkei.com/spotlight/society/crime/cambodia-s-war-on-scam-centers-misses-targets-victims-amnesty"
+      ]
     },
     {
       "headline": "Gold prices hit over two-month low as strong US jobs data fuels rate-hike bets",
@@ -44,7 +69,31 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/india/gold-extends-losses-us-interest-rate-hike-fears-2026-06-08/",
-      "timestamp": "2026-06-08T13:10:00+03:00"
+      "timestamp": "2026-06-08T13:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/dollar-climbs-two-month-peak-fed-hike-bets-ramp-up-2026-06-08/",
+          "angle": "Dollar climbs to two-month peak as Fed rate hike bets ramp up",
+          "summary": "The US dollar reached a two-month high after a strong jobs report sent traders increasing bets on a Federal Reserve rate hike this year, while the yen weakened further toward intervention territory."
+        },
+        {
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/06/05/business/stock-market-jobs-report.html",
+          "angle": "US Stocks Tumble After Strong Jobs Data Signals Higher Rates",
+          "summary": "The S&P 500 fell more than 2.6% on Friday, its worst one-day drop of the year. An unexpectedly strong May jobs report bolstered bets that US interest rates are poised to rise, knocking tech stocks lower."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "New York Times"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/india/gold-extends-losses-us-interest-rate-hike-fears-2026-06-08/",
+        "https://www.reuters.com/world/asia-pacific/dollar-climbs-two-month-peak-fed-hike-bets-ramp-up-2026-06-08/",
+        "https://www.nytimes.com/2026/06/05/business/stock-market-jobs-report.html"
+      ]
     },
     {
       "headline": "Iran blames US for latest exchanges of fire with Israel",
@@ -319,40 +368,6 @@
       "category": "Asia-Pacific",
       "source": "Korea Herald",
       "url": "https://www.koreaherald.com/article/10766073",
-      "timestamp": "2026-06-08T08:05:00+03:00"
-    },
-    {
-      "headline": "Cambodia's scam center crackdown fails to dismantle industry, Amnesty reports",
-      "summary": "A year-long Cambodian crackdown on online scam centers has failed to dismantle much of the industry and may have harmed victims, according to a new Amnesty International investigation.",
-      "emoji": "🇰🇭⚠️",
-      "category": "Asia-Pacific",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/society/crime/cambodia-s-war-on-scam-centers-misses-targets-victims-amnesty",
-      "timestamp": "2026-06-08T08:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3356291/cambodias-performative-crackdowns-fail-stop-scam-centres-amnesty",
-          "angle": "Cambodia Crackdowns Fail to Stop Growing Scam Centers: Amnesty",
-          "summary": "Amnesty International identified 86 scam compounds operating across Cambodia as of April 2026, up from 53 a year earlier, saying government crackdowns are merely performative."
-        }
-      ],
-      "sources": [
-        "Nikkei Asia",
-        "SCMP"
-      ],
-      "urls": [
-        "https://asia.nikkei.com/spotlight/society/crime/cambodia-s-war-on-scam-centers-misses-targets-victims-amnesty",
-        "https://www.scmp.com/news/asia/southeast-asia/article/3356291/cambodias-performative-crackdowns-fail-stop-scam-centres-amnesty"
-      ]
-    },
-    {
-      "headline": "Dollar climbs to two-month peak as Fed rate hike bets ramp up",
-      "summary": "The US dollar reached a two-month high after a strong jobs report sent traders increasing bets on a Federal Reserve rate hike this year, while the yen weakened further toward intervention territory.",
-      "emoji": "💵📈",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/dollar-climbs-two-month-peak-fed-hike-bets-ramp-up-2026-06-08/",
       "timestamp": "2026-06-08T08:05:00+03:00"
     },
     {
@@ -2076,15 +2091,6 @@
       "timestamp": "2026-06-06T21:09:00+03:00"
     },
     {
-      "headline": "US Stocks Tumble After Strong Jobs Data Signals Higher Rates",
-      "summary": "The S&P 500 fell more than 2.6% on Friday, its worst one-day drop of the year. An unexpectedly strong May jobs report bolstered bets that US interest rates are poised to rise, knocking tech stocks lower.",
-      "emoji": "📉",
-      "category": "Economy",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/05/business/stock-market-jobs-report.html",
-      "timestamp": "2026-06-06T21:08:00+03:00"
-    },
-    {
       "headline": "100 Days Into Iran War, Trump Struggles to Rally Domestic Support",
       "summary": "As the US-Iran conflict reaches the 100-day mark, analysts note growing war weariness among Americans. The unpopularity of the conflict may impact Republican electoral prospects and US policy decisions.",
       "emoji": "🇺🇸",
@@ -3035,40 +3041,6 @@
       "source": "Anadolu Agency",
       "url": "https://www.aa.com.tr/en/eurasia/russias-federal-budget-deficit-doubles-to-814b/3958104",
       "timestamp": "2026-06-06T00:05:00+03:00"
-    },
-    {
-      "headline": "ISS Astronauts Briefly Ordered to Prepare for Evacuation",
-      "summary": "NASA ordered five astronauts to shelter in docked SpaceX Dragon spacecraft for two hours as a Russian crew attempted to fix a worsening air leak in the Zvezda service module. Operations have since returned to normal.",
-      "emoji": "🛸⚠️",
-      "category": "Technology",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/science/international-space-station-astronauts-evacuation-mode-russia-attempts-fix-2026-06-05/",
-      "timestamp": "2026-06-06T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/international-space-station-leak-ccc50acb3fbe2ab190dde3f1a7a26478",
-          "angle": "ISS astronauts briefly take shelter during leak repair on Russian side",
-          "summary": "NASA ordered astronauts to shelter in a SpaceX capsule while Russian cosmonauts worked to fix a fresh leak aboard the International Space Station. The crew returned to normal operations after repairs were paused."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/science/international-space-station-astronauts-evacuation-mode-russia-attempts-fix-2026-06-05/",
-        "https://apnews.com/article/international-space-station-leak-ccc50acb3fbe2ab190dde3f1a7a26478"
-      ]
-    },
-    {
-      "headline": "SpaceX IPO Bars China and Hong Kong Investors",
-      "summary": "SpaceX underwriters have barred investors in China and Hong Kong from participating in the IPO, with the company seeking to raise $75 billion in what could be one of the largest public offerings ever.",
-      "emoji": "🚀🇺🇸🇨🇳",
-      "category": "Technology",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/government/spacex-ipo-bars-investors-china-hong-kong-bloomberg-news-reports-2026-06-05/",
-      "timestamp": "2026-06-06T00:03:00+03:00"
     }
   ]
 }
