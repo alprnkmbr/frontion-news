@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-06-08T15:05:36+03:00",
+  "lastUpdated": "2026-06-08T16:05:24+03:00",
   "headlines": [
+    {
+      "headline": "Ukraine Recaptures 600+ sq km of Territory in 2026",
+      "summary": "Ukrainian forces have retaken over 600 square kilometers this year, according to military chief Syrskyi, signaling a potential shift in momentum after years of Russian advances.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/ukraine-recaptures-more-than-600-square-km-territory-2026-military-chief-says-2026-06-08/",
+      "timestamp": "2026-06-08T16:03:00+03:00"
+    },
+    {
+      "headline": "IMF Chief Warns World Unprepared for Mounting Crises",
+      "summary": "IMF Managing Director Kristalina Georgieva warned that after years of consecutive crises, the global economy remains vulnerable to accumulating shocks, from geopolitical conflicts to economic instability.",
+      "emoji": "🏛️",
+      "category": "Economy",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/news/economy/imf-world-isnt-ready-shocks-piling-up",
+      "timestamp": "2026-06-08T16:03:00+03:00"
+    },
+    {
+      "headline": "European Stocks Hit Two-Week Low on Middle East Tensions",
+      "summary": "Europe STOXX 600 fell to a two-week low as Middle East escalation and AI stock selloffs weighed on markets, while Italian bank Monte dei Paschi surged on takeover news.",
+      "emoji": "📉",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/europe/europes-stoxx-600-hits-two-week-low-mideast-escalation-ai-jitters-2026-06-08/",
+      "timestamp": "2026-06-08T16:03:00+03:00"
+    },
     {
       "headline": "European Leaders Back Ukraine-Russia Ceasefire Talks",
       "summary": "Britain, Germany and France expressed support for direct talks between Zelenskiy and Putin to secure a ceasefire, marking a significant diplomatic push as European leaders coordinate their stance on ending the conflict.",
@@ -8,7 +35,39 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/zelenskiy-uk-talks-with-starmer-macron-merz-2026-06-07/",
-      "timestamp": "2026-06-08T15:03:00+03:00"
+      "timestamp": "2026-06-08T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/8/ukraine-russia-trade-fire-as-zelenskyy-allies-back-call-for-direct-talks",
+          "angle": "Ukraine and Russia Trade Air Attacks as Zelenskyy Pushes for Direct Talks",
+          "summary": "Russia and Ukraine exchanged deadly air attacks hours after President Zelenskyy met with European leaders to push for direct negotiations. The Ukrainian leader expressed willingness to freeze current battle lines to end the war."
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo",
+          "angle": "Zelensky's European allies set five conditions for peace talks with Russia",
+          "summary": "Britain, Germany and France outlined five conditions for Ukraine-Russia peace negotiations following talks with President Zelensky. The conditions come as Zelensky signaled willingness to freeze current battle lines to achieve peace."
+        },
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/russia-ukraine-starmer-merz-macron-zelenskyy-ce1713304c7578f039fcbdb8d655f6d7",
+          "angle": "European Leaders Support Ukraine Ceasefire Talks, Bolster Missile Defenses",
+          "summary": "British PM Starmer hosted Zelensky, Macron, and Merz to discuss ceasefire negotiations with Russia. The leaders emphasized urgent need to strengthen Ukraine's ballistic missile defenses."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Al Jazeera",
+        "BBC",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/zelenskiy-uk-talks-with-starmer-macron-merz-2026-06-07/",
+        "https://www.aljazeera.com/news/2026/6/8/ukraine-russia-trade-fire-as-zelenskyy-allies-back-call-for-direct-talks",
+        "https://www.bbc.com/news/articles/cr7xr1g3nvvo",
+        "https://apnews.com/article/russia-ukraine-starmer-merz-macron-zelenskyy-ce1713304c7578f039fcbdb8d655f6d7"
+      ]
     },
     {
       "headline": "Xi Vows Unwavering Support for North Korea in Rare Summit",
@@ -17,7 +76,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/chinas-xi-says-he-will-work-with-north-korea-fight-hegemony-north-korean-media-2026-06-07/",
-      "timestamp": "2026-06-08T15:03:00+03:00"
+      "timestamp": "2026-06-08T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/chinas-xi-says-he-will-work-with-north-korea-fight-hegemony-north-korean-media-2026-06-07/",
+          "angle": "Xi Jinping hails new era in China-North Korea ties ahead of Pyongyang summit",
+          "summary": "Chinese President Xi Jinping said ties with North Korea are at a \"new historical starting point\" before his arrival in Pyongyang for a rare summit with Kim Jong Un, aiming to counter US influence."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/chinas-xi-says-he-will-work-with-north-korea-fight-hegemony-north-korean-media-2026-06-07/",
+        "https://www.reuters.com/world/china/chinas-xi-says-he-will-work-with-north-korea-fight-hegemony-north-korean-media-2026-06-07/"
+      ]
     },
     {
       "headline": "Pope Leo Warns World in Profound Crisis in Address to Spain Parliament",
@@ -213,15 +288,6 @@
       "timestamp": "2026-06-08T12:10:00+03:00"
     },
     {
-      "headline": "Ukraine and Russia Trade Air Attacks as Zelenskyy Pushes for Direct Talks",
-      "summary": "Russia and Ukraine exchanged deadly air attacks hours after President Zelenskyy met with European leaders to push for direct negotiations. The Ukrainian leader expressed willingness to freeze current battle lines to end the war.",
-      "emoji": "🇺🇦🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/8/ukraine-russia-trade-fire-as-zelenskyy-allies-back-call-for-direct-talks",
-      "timestamp": "2026-06-08T12:10:00+03:00"
-    },
-    {
       "headline": "Japanese Yen Lingers Above ¥160 to Dollar as BOJ Meeting Approaches",
       "summary": "The yen traded back above ¥160 to the dollar, testing levels not seen in decades as markets await the Bank of Japan policy meeting. The currency remains under pressure from widening US-Japan interest rate differentials.",
       "emoji": "🇯🇵💴",
@@ -263,31 +329,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/latvias-military-issues-alert-over-drone-incursion-2026-06-08/",
       "timestamp": "2026-06-08T11:03:00+03:00"
-    },
-    {
-      "headline": "Zelensky's European allies set five conditions for peace talks with Russia",
-      "summary": "Britain, Germany and France outlined five conditions for Ukraine-Russia peace negotiations following talks with President Zelensky. The conditions come as Zelensky signaled willingness to freeze current battle lines to achieve peace.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo",
-      "timestamp": "2026-06-08T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/zelensky-arrives-in-london-for-bilateral-e3-talks/",
-          "angle": "Zelensky and European Leaders Set Five Conditions for Just Peace With Russia",
-          "summary": "Ukraines president met with UK, French, and German leaders in London to outline five conditions for a just and lasting peace with Russia. The talks come amid reports Zelensky is willing to freeze current battle lines to end the war."
-        }
-      ],
-      "sources": [
-        "BBC",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://www.bbc.com/news/articles/cr7xr1g3nvvo",
-        "https://kyivindependent.com/zelensky-arrives-in-london-for-bilateral-e3-talks/"
-      ]
     },
     {
       "headline": "Oil prices surge more than $4 as Israel-Iran strikes threaten ceasefire",
@@ -397,31 +438,6 @@
         "https://kyivindependent.com/drone-strike-damages-bridge-linking-occupied-crimea-to-southern-ukraine/",
         "https://www.reuters.com/world/europe/russian-drone-hit-nuclear-fuel-storage-facility-near-chornobyl-ukraine-says-2026-06-07/",
         "https://www.reuters.com/world/europe/russian-drone-attack-kills-four-ukraines-kyiv-region-officials-say-2026-06-05/"
-      ]
-    },
-    {
-      "headline": "Xi Jinping hails new era in China-North Korea ties ahead of Pyongyang summit",
-      "summary": "Chinese President Xi Jinping said ties with North Korea are at a \"new historical starting point\" before his arrival in Pyongyang for a rare summit with Kim Jong Un, aiming to counter US influence.",
-      "emoji": "🇨🇳",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/chinas-xi-says-he-will-work-with-north-korea-fight-hegemony-north-korean-media-2026-06-07/",
-      "timestamp": "2026-06-08T09:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/with-chinas-xi-north-korea-kim-project-confidence-defiance-2026-06-07/",
-          "angle": "Xi Jinping Visits North Korea for First Time in Seven Years to Strengthen Ties",
-          "summary": "Chinese President Xi Jinping arrives in Pyongyang on Monday for a rare summit with Kim Jong Un, seeking to reinforce strategic ties amid North Korea's deepening partnership with Russia and stalled nuclear talks."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/chinas-xi-says-he-will-work-with-north-korea-fight-hegemony-north-korean-media-2026-06-07/",
-        "https://www.reuters.com/world/china/with-chinas-xi-north-korea-kim-project-confidence-defiance-2026-06-07/"
       ]
     },
     {
@@ -562,31 +578,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/armenias-ruling-party-leads-parliamentary-vote-with-57-early-results-2026-06-07/",
       "timestamp": "2026-06-08T05:03:00+03:00"
-    },
-    {
-      "headline": "European Leaders Support Ukraine Ceasefire Talks, Bolster Missile Defenses",
-      "summary": "British PM Starmer hosted Zelensky, Macron, and Merz to discuss ceasefire negotiations with Russia. The leaders emphasized urgent need to strengthen Ukraine's ballistic missile defenses.",
-      "emoji": "🇺🇦🇪🇺",
-      "category": "Ukraine-Russia War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/russia-ukraine-starmer-merz-macron-zelenskyy-ce1713304c7578f039fcbdb8d655f6d7",
-      "timestamp": "2026-06-08T05:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/russia-ukraine-starmer-merz-macron-zelenskyy-ce1713304c7578f039fcbdb8d655f6d7",
-          "angle": "European Leaders Urge Urgent Action to Bolster Ukraine's Missile Defenses",
-          "summary": "The leaders of the UK, France, Germany and Ukraine met to discuss ramping up weapons production to counter Russian ballistic missiles, as Zelensky warned Ukraine is close to developing its own ballistic missile capability."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "AP News"
-      ],
-      "urls": [
-        "https://apnews.com/article/russia-ukraine-starmer-merz-macron-zelenskyy-ce1713304c7578f039fcbdb8d655f6d7",
-        "https://apnews.com/article/russia-ukraine-starmer-merz-macron-zelenskyy-ce1713304c7578f039fcbdb8d655f6d7"
-      ]
     },
     {
       "headline": "South Korea Halts Trading as KOSPI Plunges Over 8% in Tech-Led Selloff",
@@ -3035,15 +3026,6 @@
       "category": "US Politics",
       "source": "AP News",
       "url": "https://apnews.com/article/trump-settlement-fund-ice-border-patrol-vote-93b9f5b487997b629d87bf59a046d7ec",
-      "timestamp": "2026-06-06T02:05:00+03:00"
-    },
-    {
-      "headline": "Half of Latin Americans deported from US to Congo have returned home",
-      "summary": "More than half of the 15 Latin Americans deported to Congo under Trump's third-country deportation policy have returned to their countries of origin, even though US judges ruled they likely face persecution at home.",
-      "emoji": "🌍",
-      "category": "US Politics",
-      "source": "AP News",
-      "url": "https://apnews.com/article/congo-us-latin-deportations-trump-e8ab8fd45e3f9a2e5fafabade053cfe8",
       "timestamp": "2026-06-06T02:05:00+03:00"
     }
   ]
