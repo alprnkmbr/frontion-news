@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-06-08T08:06:59+03:00",
+  "lastUpdated": "2026-06-08T09:05:29+03:00",
   "headlines": [
     {
-      "headline": "Xi Jinping visits North Korea for rare summit with Kim Jong Un",
-      "summary": "Chinese President Xi Jinping arrived in Pyongyang for his first visit in seven years, aiming to reassert Beijing's influence over an emboldened North Korea amid shifting regional dynamics.",
-      "emoji": "🇨🇳🇰🇵",
+      "headline": "Ukrainian drone strike kills one in Russian-annexed Crimea",
+      "summary": "A Ukrainian drone struck a train in Crimea, killing its assistant driver and injuring the driver. The attack highlights ongoing Ukrainian strikes deep in Russian-occupied territories.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/ukrainian-drone-kills-one-russia-annexed-crimea-moscow-installed-governor-says-2026-06-08/",
+      "timestamp": "2026-06-08T09:03:00+03:00"
+    },
+    {
+      "headline": "Xi Jinping hails new era in China-North Korea ties ahead of Pyongyang summit",
+      "summary": "Chinese President Xi Jinping said ties with North Korea are at a \"new historical starting point\" before his arrival in Pyongyang for a rare summit with Kim Jong Un, aiming to counter US influence.",
+      "emoji": "🇨🇳",
       "category": "Asia-Pacific",
-      "source": "Korea Herald",
-      "url": "https://www.koreaherald.com/article/10766059",
-      "timestamp": "2026-06-08T08:05:00+03:00"
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/chinas-xi-says-he-will-work-with-north-korea-fight-hegemony-north-korean-media-2026-06-07/",
+      "timestamp": "2026-06-08T09:03:00+03:00"
+    },
+    {
+      "headline": "Chinese warships shadow global executives at Taiwan AI tech summit",
+      "summary": "As Nvidia, Intel and other tech leaders gathered for Taiwan's Computex, Chinese military vessels conducted operations nearby, underscoring tensions over the island that hosts the world's most advanced chip production.",
+      "emoji": "🛡️",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/chinese-military-hovered-global-executives-flocked-taiwan-tech-show-2026-06-08/",
+      "timestamp": "2026-06-08T09:03:00+03:00"
+    },
+    {
+      "headline": "Iran says Hormuz Strait will reopen with transit fees",
+      "summary": "Iran's ambassador to Moscow said the strategic Strait of Hormuz will be open but under new conditions set by Iran and Oman, including transit fees, as the conflict with the US continues.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/hormuz-strait-will-be-open-with-transit-fees-iran-envoy-moscow-quoted-2026-06-08/",
+      "timestamp": "2026-06-08T09:03:00+03:00"
+    },
+    {
+      "headline": "Israel and Iran trade strikes as regional tensions escalate",
+      "summary": "Israel launched airstrikes targeting central and western Iran after Tehran fired missiles at Israel. The exchange threatens to derail fragile ceasefire negotiations.",
+      "emoji": "⚔️",
+      "category": "Middle East",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-c16dc4917512f7436a3921a4b044b98b",
+      "timestamp": "2026-06-08T09:03:00+03:00"
     },
     {
       "headline": "South Korean President Lee rules out nuclear armament, affirms denuclearization goal",
@@ -26,7 +62,23 @@
       "category": "Asia-Pacific",
       "source": "Nikkei Asia",
       "url": "https://asia.nikkei.com/spotlight/society/crime/cambodia-s-war-on-scam-centers-misses-targets-victims-amnesty",
-      "timestamp": "2026-06-08T08:05:00+03:00"
+      "timestamp": "2026-06-08T08:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3356291/cambodias-performative-crackdowns-fail-stop-scam-centres-amnesty",
+          "angle": "Cambodia Crackdowns Fail to Stop Growing Scam Centers: Amnesty",
+          "summary": "Amnesty International identified 86 scam compounds operating across Cambodia as of April 2026, up from 53 a year earlier, saying government crackdowns are merely performative."
+        }
+      ],
+      "sources": [
+        "Nikkei Asia",
+        "SCMP"
+      ],
+      "urls": [
+        "https://asia.nikkei.com/spotlight/society/crime/cambodia-s-war-on-scam-centers-misses-targets-victims-amnesty",
+        "https://www.scmp.com/news/asia/southeast-asia/article/3356291/cambodias-performative-crackdowns-fail-stop-scam-centres-amnesty"
+      ]
     },
     {
       "headline": "Israel launches airstrikes on Iran after missile fire, marking 100th day of war",
@@ -101,15 +153,6 @@
       "timestamp": "2026-06-08T06:04:00+03:00"
     },
     {
-      "headline": "Cambodia Crackdowns Fail to Stop Growing Scam Centers: Amnesty",
-      "summary": "Amnesty International identified 86 scam compounds operating across Cambodia as of April 2026, up from 53 a year earlier, saying government crackdowns are merely performative.",
-      "emoji": "🇰🇭💰",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/southeast-asia/article/3356291/cambodias-performative-crackdowns-fail-stop-scam-centres-amnesty",
-      "timestamp": "2026-06-08T06:04:00+03:00"
-    },
-    {
       "headline": "Philippines Verifying at Least Five Deaths After 7.8 Magnitude Quake",
       "summary": "Authorities are confirming casualties in General Santos city after a powerful 7.8 earthquake struck off Mindanao island, triggering tsunami warnings across the Pacific region.",
       "emoji": "🇵🇭",
@@ -128,27 +171,19 @@
       "timestamp": "2026-06-08T05:03:00+03:00",
       "perspectives": [
         {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/live/cdepg4kw985t",
-          "angle": "Xi Jinping Arrives in North Korea for Rare Summit with Kim Jong Un",
-          "summary": "Chinese President Xi Jinping traveled to Pyongyang for his first official visit since 2019, seeking to reinforce strategic ties amid stalled denuclearization talks and North Korea's deepening partnership with Russia."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/with-chinas-xi-north-korea-kim-project-confidence-defiance-2026-06-07/",
-          "angle": "Xi Jinping arrives in Pyongyang for summit with Kim Jong Un",
-          "summary": "Chinese President Xi Jinping visits North Korea as Kim Jong Un projects confidence with firm Russian ties and nuclear arsenal, showing little appetite for engagement with Washington."
+          "source": "Korea Herald",
+          "url": "https://www.koreaherald.com/article/10766059",
+          "angle": "Xi Jinping visits North Korea for rare summit with Kim Jong Un",
+          "summary": "Chinese President Xi Jinping arrived in Pyongyang for his first visit in seven years, aiming to reassert Beijing's influence over an emboldened North Korea amid shifting regional dynamics."
         }
       ],
       "sources": [
         "Reuters",
-        "BBC",
-        "Reuters"
+        "Korea Herald"
       ],
       "urls": [
         "https://www.reuters.com/world/china/with-chinas-xi-north-korea-kim-project-confidence-defiance-2026-06-07/",
-        "https://www.bbc.com/news/live/cdepg4kw985t",
-        "https://www.reuters.com/world/china/with-chinas-xi-north-korea-kim-project-confidence-defiance-2026-06-07/"
+        "https://www.koreaherald.com/article/10766059"
       ]
     },
     {
@@ -3050,31 +3085,6 @@
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/06/05/world/europe/russia-satellites-gps-interference-europe.html",
       "timestamp": "2026-06-05T21:03:00+03:00"
-    },
-    {
-      "headline": "Turkey Targets Defense Sales Surge as West Rearms",
-      "summary": "Two decades of state investment have transformed Turkey into a major drone and military equipment exporter, and the NATO member is now seeking to capitalize on Western rearmament and shifting security alliances.",
-      "emoji": "🇹🇷",
-      "category": "Defense Industry",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/turkey-targets-more-defence-sales-west-rearms-alliances-shift-2026-06-05/",
-      "timestamp": "2026-06-05T21:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/turkey-targets-more-defence-sales-west-rearms-alliances-shift-2026-06-05/",
-          "angle": "Turkey Expands Defense Exports as NATO Rearms and Alliances Shift",
-          "summary": "Two decades of state investment have transformed Turkey into a major drone and military equipment exporter, with the NATO member now looking to capitalize on Western rearmament efforts and changing security partnerships."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/aerospace-defense/turkey-targets-more-defence-sales-west-rearms-alliances-shift-2026-06-05/",
-        "https://www.reuters.com/business/aerospace-defense/turkey-targets-more-defence-sales-west-rearms-alliances-shift-2026-06-05/"
-      ]
     }
   ]
 }
