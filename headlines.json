@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-08T17:06:47+03:00",
+  "lastUpdated": "2026-06-08T18:06:32+03:00",
   "headlines": [
+    {
+      "headline": "French NATO jet shoots down drone in Latvian airspace",
+      "summary": "A French Rafale on NATO duty downed a drone that entered from Russia, the latest security incident along Europe's eastern border as Ukraine war intensifies.",
+      "emoji": "🇫🇷🇱🇻",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/latvias-military-issues-alert-over-drone-incursion-2026-06-08/",
+      "timestamp": "2026-06-08T18:05:00+03:00"
+    },
+    {
+      "headline": "Pashinyan claims victory in Armenian election seen as test of Russia influence",
+      "summary": "Armenia's pro-Western PM won the parliamentary election despite what observers called blatant Russian interference, paving the way for faster pivot away from Moscow.",
+      "emoji": "🇦🇲🇷🇺",
+      "category": "South Asia",
+      "source": "AP News",
+      "url": "https://apnews.com/article/armenia-election-pashinyan-6e73e44ff1fea62aecf20c8d7bfabe2c",
+      "timestamp": "2026-06-08T18:05:00+03:00"
+    },
+    {
+      "headline": "Houthis threaten Israeli shipping in Red Sea after Iran strikes resume",
+      "summary": "Yemen's Iran-aligned Houthis banned Israeli-linked vessels from the Red Sea, raising new risks for global shipping and oil markets as the Iran conflict flares.",
+      "emoji": "🚢⚠️",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/yemens-iran-backed-houthis-threaten-israeli-shipping-red-sea-2026-06-08/",
+      "timestamp": "2026-06-08T18:05:00+03:00"
+    },
+    {
+      "headline": "Pope Leo warns Spain's parliament world is in profound crisis",
+      "summary": "In the first papal address to Spain's legislature, Pope Leo condemned war as a \"painful defeat\" and called for respect for migrants and international law.",
+      "emoji": "⛪🇪🇸",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/pope-leo-warns-spains-parliament-world-is-profound-crisis-2026-06-08/",
+      "timestamp": "2026-06-08T18:05:00+03:00"
+    },
+    {
+      "headline": "China exports set for strong May on front-loaded orders and chip demand",
+      "summary": "Export growth likely strengthened as firms rushed orders before Gulf war energy impacts, while global semiconductor and AI component demand remained robust.",
+      "emoji": "🇨🇳📦",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/china-exports-set-strong-may-front-loaded-orders-chip-demand-2026-06-08/",
+      "timestamp": "2026-06-08T18:05:00+03:00"
+    },
     {
       "headline": "Pakistan-Administered Kashmir Clashes Kill 11 Ahead of Protest Rally",
       "summary": "At least 11 people were killed and more than 70 injured in clashes between protesters and security forces in Pakistan-administered Kashmir ahead of a Tuesday rally called by the banned Joint Awami Action Committee.",
@@ -8,16 +53,23 @@
       "category": "South Asia",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/clashes-pakistan-administered-kashmir-kill-11-ahead-protest-2026-06-08/",
-      "timestamp": "2026-06-08T17:03:00+03:00"
-    },
-    {
-      "headline": "Fed Rate Hike Expectations Rise as Job Market Stays Strong",
-      "summary": "The bar for a Federal Reserve rate hike is falling as the job market remains robust in the face of stubborn price pressures, with markets increasingly pricing in tighter monetary policy.",
-      "emoji": "🇺🇸💰",
-      "category": "Economy",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-08/fed-seen-with-case-to-hike-right-now-as-bar-to-act-gets-lower",
-      "timestamp": "2026-06-08T17:03:00+03:00"
+      "timestamp": "2026-06-08T17:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/pakistan-kashmir-court-refugee-seats-upcoming-elections-9dafaae025057b018f3afe7b30bb96d6",
+          "angle": "Pakistan-Administered Kashmir Court Clears Path for Refugee Elections",
+          "summary": "The top court in Pakistan-administered Kashmir upheld 12 legislative seats reserved for Kashmiri refugees, clearing the way for upcoming elections in the disputed territory."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/clashes-pakistan-administered-kashmir-kill-11-ahead-protest-2026-06-08/",
+        "https://apnews.com/article/pakistan-kashmir-court-refugee-seats-upcoming-elections-9dafaae025057b018f3afe7b30bb96d6"
+      ]
     },
     {
       "headline": "Amazon Signs Multi-Billion Dollar Deal With Corning for US Fiber Optics Production",
@@ -1170,31 +1222,6 @@
       "urls": [
         "https://www.reuters.com/world/china/taiwan-coast-guard-expels-chinese-ships-restricted-waters-2026-06-07/",
         "https://www.japantimes.co.jp/news/2026/06/08/asia-pacific/politics/taiwan-china-coast-guard/"
-      ]
-    },
-    {
-      "headline": "Pakistan-Administered Kashmir Court Clears Path for Refugee Elections",
-      "summary": "The top court in Pakistan-administered Kashmir upheld 12 legislative seats reserved for Kashmiri refugees, clearing the way for upcoming elections in the disputed territory.",
-      "emoji": "🇵🇰",
-      "category": "South Asia",
-      "source": "AP News",
-      "url": "https://apnews.com/article/pakistan-kashmir-court-refugee-seats-upcoming-elections-9dafaae025057b018f3afe7b30bb96d6",
-      "timestamp": "2026-06-07T21:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/politics/banned-group-s-supporters-arrested-in-pakistan-administered-kashmir",
-          "angle": "Dozens arrested in Pakistan-administered Kashmir crackdown on banned group",
-          "summary": "Pakistani police arrested dozens of supporters of an outlawed group in Pakistan-administered Kashmir on Saturday, part of a broader regional security crackdown."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "Nikkei Asia"
-      ],
-      "urls": [
-        "https://apnews.com/article/pakistan-kashmir-court-refugee-seats-upcoming-elections-9dafaae025057b018f3afe7b30bb96d6",
-        "https://asia.nikkei.com/politics/banned-group-s-supporters-arrested-in-pakistan-administered-kashmir"
       ]
     },
     {
@@ -2775,6 +2802,31 @@
       "timestamp": "2026-06-06T08:03:00+03:00"
     },
     {
+      "headline": "Canada reports strong job growth with unemployment rate falling to 6.6%",
+      "summary": "Canada's economy added 87,800 jobs in May with unemployment falling to 6.6%, defying expectations and showing economic resilience despite signs of slower growth.",
+      "emoji": "🇨🇦💼",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/world-at-work/canada-adds-87800-jobs-jobless-rate-down-66-beating-may-estimates-2026-06-05/",
+      "timestamp": "2026-06-06T07:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-08/fed-seen-with-case-to-hike-right-now-as-bar-to-act-gets-lower",
+          "angle": "Fed Rate Hike Expectations Rise as Job Market Stays Strong",
+          "summary": "The bar for a Federal Reserve rate hike is falling as the job market remains robust in the face of stubborn price pressures, with markets increasingly pricing in tighter monetary policy."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Bloomberg"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/world-at-work/canada-adds-87800-jobs-jobless-rate-down-66-beating-may-estimates-2026-06-05/",
+        "https://www.bloomberg.com/news/articles/2026-06-08/fed-seen-with-case-to-hike-right-now-as-bar-to-act-gets-lower"
+      ]
+    },
+    {
       "headline": "Turkish fishing boat attacked in Black Sea, one sailor killed",
       "summary": "A Turkish-flagged fishing boat was attacked and sank off the northern Black Sea coast, leaving one sailor dead and four wounded. The Turkish Coast Guard is investigating the incident.",
       "emoji": "🇹🇷⚓",
@@ -2806,15 +2858,6 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/putin-held-friendly-one-on-one-meeting-with-germanys-schroeder-kremlin-says-2026-06-05/",
-      "timestamp": "2026-06-06T07:03:00+03:00"
-    },
-    {
-      "headline": "Canada reports strong job growth with unemployment rate falling to 6.6%",
-      "summary": "Canada's economy added 87,800 jobs in May with unemployment falling to 6.6%, defying expectations and showing economic resilience despite signs of slower growth.",
-      "emoji": "🇨🇦💼",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/world-at-work/canada-adds-87800-jobs-jobless-rate-down-66-beating-may-estimates-2026-06-05/",
       "timestamp": "2026-06-06T07:03:00+03:00"
     },
     {
@@ -3018,15 +3061,6 @@
         "https://www.reuters.com/world/us/trump-campaigns-wisconsin-district-targeted-by-democrats-2026-06-05/",
         "https://www.reuters.com/world/us/us-house-backs-resolution-curbing-trump-iran-war-powers-2026-06-03/"
       ]
-    },
-    {
-      "headline": "SpaceX locks in Google cloud deal ahead of IPO",
-      "summary": "SpaceX signed a multi-year cloud services agreement with Google for computing capacity, securing additional revenue streams ahead of its stock market debut next week.",
-      "emoji": "☁️",
-      "category": "Technology",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/media-telecom/spacex-signs-cloud-deal-with-google-2026-06-05/",
-      "timestamp": "2026-06-06T03:03:00+03:00"
     }
   ]
 }
