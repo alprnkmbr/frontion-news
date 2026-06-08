@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-08T11:05:05+03:00",
+  "lastUpdated": "2026-06-08T12:06:59+03:00",
   "headlines": [
+    {
+      "headline": "Magnitude 7.8 Earthquake Strikes Philippines, Tsunami Warnings Issued",
+      "summary": "A powerful 7.8 magnitude earthquake hit off the southern Philippines island of Mindanao, killing at least 19 people and triggering tsunami warnings across the Pacific. Waves of up to 1 meter were observed in the Philippines, Indonesia, and Japan.",
+      "emoji": "🇵🇭🌊",
+      "category": "Asia-Pacific",
+      "source": "CNN",
+      "url": "https://edition.cnn.com/2026/06/07/asia/southern-philippines-mindanao-earthquake-intl-hnk?Profile=CNN%2CCNN+International",
+      "timestamp": "2026-06-08T12:10:00+03:00"
+    },
+    {
+      "headline": "SIPRI: All Nine Nuclear-Armed States Expanding Arsenals Amid Global Tensions",
+      "summary": "The Stockholm International Peace Research Institute reports that all nine nuclear-armed states are modernizing and expanding their arsenals. India increased its stockpile to 190 warheads, extending its lead over Pakistan which holds 170.",
+      "emoji": "☢️⚔️",
+      "category": "Military",
+      "source": "Yahoo News",
+      "url": "https://www.yahoo.com/news/politics/articles/nuclear-arsenals-growing-worldwide-researchers-082523283.html",
+      "timestamp": "2026-06-08T12:10:00+03:00"
+    },
+    {
+      "headline": "Ukraine and Russia Trade Air Attacks as Zelenskyy Pushes for Direct Talks",
+      "summary": "Russia and Ukraine exchanged deadly air attacks hours after President Zelenskyy met with European leaders to push for direct negotiations. The Ukrainian leader expressed willingness to freeze current battle lines to end the war.",
+      "emoji": "🇺🇦🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/8/ukraine-russia-trade-fire-as-zelenskyy-allies-back-call-for-direct-talks",
+      "timestamp": "2026-06-08T12:10:00+03:00"
+    },
+    {
+      "headline": "Japanese Yen Lingers Above ¥160 to Dollar as BOJ Meeting Approaches",
+      "summary": "The yen traded back above ¥160 to the dollar, testing levels not seen in decades as markets await the Bank of Japan policy meeting. The currency remains under pressure from widening US-Japan interest rate differentials.",
+      "emoji": "🇯🇵💴",
+      "category": "Economy",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/06/08/markets/yen-dollar-160/",
+      "timestamp": "2026-06-08T12:10:00+03:00"
+    },
+    {
+      "headline": "OPEC+ Approves Fourth Oil Output Hike Since Hormuz Closure",
+      "summary": "OPEC+ approved another modest increase in oil output targets for July, marking the fourth hike since the Strait of Hormuz was disrupted. The move comes despite ongoing supply concerns from the Iran-Israel conflict.",
+      "emoji": "🛢️⛽",
+      "category": "Energy",
+      "source": "MSN",
+      "url": "https://www.msn.com/en-au/news/other/opec-approves-fourth-oil-output-hike-since-hormuz-closure/ar-AA255O0c?ocid=BingNewsVerp",
+      "timestamp": "2026-06-08T12:10:00+03:00"
+    },
     {
       "headline": "NATO shoots down drone entering Latvia from Russia",
       "summary": "NATO fighter jets shot down a drone that entered Latvian airspace from Russia, the latest in a series of security incidents along Europe's eastern border. The incident highlights ongoing tensions between Russia and NATO allies.",
@@ -11,22 +56,29 @@
       "timestamp": "2026-06-08T11:03:00+03:00"
     },
     {
-      "headline": "Powerful 7.8 magnitude earthquake kills at least 16 in Philippines",
-      "summary": "A magnitude 7.8 earthquake struck off the southern Philippines island of Mindanao, killing at least 16 people, destroying buildings, and triggering tsunami warnings across the Pacific region. Waves were reported in several coastal areas.",
-      "emoji": "🇵🇭",
-      "category": "Asia-Pacific",
-      "source": "AP News",
-      "url": "https://apnews.com/article/philippines-earthquake-mindanao-6e489739402863eaf40cbfd30a1b1cc7",
-      "timestamp": "2026-06-08T11:03:00+03:00"
-    },
-    {
       "headline": "Zelensky's European allies set five conditions for peace talks with Russia",
       "summary": "Britain, Germany and France outlined five conditions for Ukraine-Russia peace negotiations following talks with President Zelensky. The conditions come as Zelensky signaled willingness to freeze current battle lines to achieve peace.",
       "emoji": "🇺🇦",
       "category": "Ukraine-Russia War",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo",
-      "timestamp": "2026-06-08T11:03:00+03:00"
+      "timestamp": "2026-06-08T11:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/zelensky-arrives-in-london-for-bilateral-e3-talks/",
+          "angle": "Zelensky and European Leaders Set Five Conditions for Just Peace With Russia",
+          "summary": "Ukraines president met with UK, French, and German leaders in London to outline five conditions for a just and lasting peace with Russia. The talks come amid reports Zelensky is willing to freeze current battle lines to end the war."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cr7xr1g3nvvo",
+        "https://kyivindependent.com/zelensky-arrives-in-london-for-bilateral-e3-talks/"
+      ]
     },
     {
       "headline": "Armenian PM Pashinyan claims victory in parliamentary election",
@@ -44,7 +96,31 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/oil-prices-rise-more-than-2-israel-strikes-lebanon-2026-06-07/",
-      "timestamp": "2026-06-08T11:03:00+03:00"
+      "timestamp": "2026-06-08T11:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.co.uk/news/articles/c78yd5g9qx0o",
+          "angle": "Oil Prices Jump More Than $2 on Israel Strikes in Lebanon",
+          "summary": "Oil prices surged more than $2 per barrel after Israel struck Beirut, with US crude futures hitting $93.11. The escalation threatens the fragile ceasefire between Iran and the US, keeping markets on edge amid ongoing Hormuz Strait disruptions."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/oil-little-changed-uncertainty-over-us-iran-peace-deal-2026-06-05/",
+          "angle": "Oil prices fall on mounting hopes for US-Iran de-escalation",
+          "summary": "Crude prices dropped as traders gained confidence that renewed conflict between the US and Iran was becoming less likely, with peace negotiations showing signs of progress."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/oil-prices-rise-more-than-2-israel-strikes-lebanon-2026-06-07/",
+        "https://www.bbc.co.uk/news/articles/c78yd5g9qx0o",
+        "https://www.reuters.com/business/energy/oil-little-changed-uncertainty-over-us-iran-peace-deal-2026-06-05/"
+      ]
     },
     {
       "headline": "France Expands Nuclear Deterrence Pact to Scandinavia as Norway Opens Talks",
@@ -237,15 +313,6 @@
       "timestamp": "2026-06-08T07:03:00+03:00"
     },
     {
-      "headline": "Zelensky and European Leaders Set Five Conditions for Just Peace With Russia",
-      "summary": "Ukraines president met with UK, French, and German leaders in London to outline five conditions for a just and lasting peace with Russia. The talks come amid reports Zelensky is willing to freeze current battle lines to end the war.",
-      "emoji": "🇺🇦🇪🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/zelensky-arrives-in-london-for-bilateral-e3-talks/",
-      "timestamp": "2026-06-08T07:03:00+03:00"
-    },
-    {
       "headline": "IRGC Claims Israel Used Air-Launched Ballistic Missiles in Iran Attack",
       "summary": "Iran's Islamic Revolutionary Guard Corps stated that Israel employed air-launched ballistic missiles to strike targets inside Iran, marking a significant escalation in military capabilities used in the conflict.",
       "emoji": "🚀⚔️🇮🇷",
@@ -275,17 +342,25 @@
         {
           "source": "AP News",
           "url": "https://apnews.com/article/philippines-earthquake-mindanao-6e489739402863eaf40cbfd30a1b1cc7",
-          "angle": "7.8 Magnitude Quake Kills at Least 12 in Philippines",
-          "summary": "A powerful offshore earthquake struck Mindanao, killing at least 12 people, injuring 200+, and triggering a 1-meter tsunami. The strongest quake to hit the Philippines this year caused building collapses in General Santos city."
+          "angle": "Powerful 7.8 magnitude earthquake kills at least 16 in Philippines",
+          "summary": "A magnitude 7.8 earthquake struck off the southern Philippines island of Mindanao, killing at least 16 people, destroying buildings, and triggering tsunami warnings across the Pacific region. Waves were reported in several coastal areas."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/environment/earthquake-magnitude-73-strikes-mindanao-philippines-gfz-says-2026-06-07/",
+          "angle": "Philippines Hit by 7.8 Magnitude Earthquake, Tsunami Warnings Issued",
+          "summary": "A powerful 7.8 magnitude earthquake struck off Mindanao in the southern Philippines, triggering tsunami warnings for the Philippines, Indonesia, Taiwan, and other Pacific islands. The German Research Centre for Geosciences (GFZ) reported the quake struck at a shallow depth."
         }
       ],
       "sources": [
         "Reuters",
-        "AP News"
+        "AP News",
+        "Reuters"
       ],
       "urls": [
         "https://www.reuters.com/business/environment/philippines-verifying-reports-least-five-deaths-after-magnitude-78-quake-2026-06-08/",
-        "https://apnews.com/article/philippines-earthquake-mindanao-6e489739402863eaf40cbfd30a1b1cc7"
+        "https://apnews.com/article/philippines-earthquake-mindanao-6e489739402863eaf40cbfd30a1b1cc7",
+        "https://www.reuters.com/business/environment/earthquake-magnitude-73-strikes-mindanao-philippines-gfz-says-2026-06-07/"
       ]
     },
     {
@@ -366,46 +441,12 @@
       "timestamp": "2026-06-08T04:05:00+03:00"
     },
     {
-      "headline": "Philippines Hit by 7.8 Magnitude Earthquake, Tsunami Warnings Issued",
-      "summary": "A powerful 7.8 magnitude earthquake struck off Mindanao in the southern Philippines, triggering tsunami warnings for the Philippines, Indonesia, Taiwan, and other Pacific islands. The German Research Centre for Geosciences (GFZ) reported the quake struck at a shallow depth.",
-      "emoji": "🇵🇭🌊",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/environment/earthquake-magnitude-73-strikes-mindanao-philippines-gfz-says-2026-06-07/",
-      "timestamp": "2026-06-08T04:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/06/07/world/asia/hilippines-earthquake-tsunai-warning.html",
-          "angle": "Powerful 7.8 Magnitude Earthquake Strikes Philippines, Tsunami Warnings Issued",
-          "summary": "A magnitude 7.8 earthquake struck off the southern Philippine island of Mindanao, toppling buildings and prompting tsunami warnings across the Philippines, Japan, Malaysia, and Indonesia. Authorities are assessing damage as residents evacuate coastal areas."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "New York Times"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/environment/earthquake-magnitude-73-strikes-mindanao-philippines-gfz-says-2026-06-07/",
-        "https://www.nytimes.com/2026/06/07/world/asia/hilippines-earthquake-tsunai-warning.html"
-      ]
-    },
-    {
       "headline": "Japan Economy Loses Momentum in Q1 as Capital Expenditure Slumps",
       "summary": "Japan's economy lost momentum in the January-March quarter as sluggish capital expenditure pointed to challenges ahead from the Middle East conflict. Revised GDP data showed annualized growth of 1.8%, below initial estimates, as the Iran war impact weighs on the export-dependent economy.",
       "emoji": "🇯🇵📉",
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/japan-revises-q1-gdp-down-annualised-18-expansion-2026-06-08/",
-      "timestamp": "2026-06-08T04:03:00+03:00"
-    },
-    {
-      "headline": "Oil Prices Jump More Than $2 on Israel Strikes in Lebanon",
-      "summary": "Oil prices surged more than $2 per barrel after Israel struck Beirut, with US crude futures hitting $93.11. The escalation threatens the fragile ceasefire between Iran and the US, keeping markets on edge amid ongoing Hormuz Strait disruptions.",
-      "emoji": "🛢️💰",
-      "category": "Energy",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/news/articles/c78yd5g9qx0o",
       "timestamp": "2026-06-08T04:03:00+03:00"
     },
     {
@@ -2724,31 +2765,6 @@
       "urls": [
         "https://www.reuters.com/business/aerospace-defense/marine-drone-self-detonates-romanian-black-sea-port-defence-ministry-says-2026-06-05/",
         "https://www.reuters.com/business/aerospace-defense/marine-drone-self-detonates-romanian-black-sea-port-defence-ministry-says-2026-06-05/"
-      ]
-    },
-    {
-      "headline": "Oil prices fall on mounting hopes for US-Iran de-escalation",
-      "summary": "Crude prices dropped as traders gained confidence that renewed conflict between the US and Iran was becoming less likely, with peace negotiations showing signs of progress.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-little-changed-uncertainty-over-us-iran-peace-deal-2026-06-05/",
-      "timestamp": "2026-06-06T03:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/oil-little-changed-uncertainty-over-us-iran-peace-deal-2026-06-05/",
-          "angle": "Oil Prices Rise on US-Iran Deal Uncertainty and Oman Terminal Suspension",
-          "summary": "Oil prices rebounded after Hezbollah rejected a Lebanon ceasefire proposal and Oman's Mina al Fahal terminal suspended oil loadings following an explosion, raising supply concerns amid stalled US-Iran peace talks."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/oil-little-changed-uncertainty-over-us-iran-peace-deal-2026-06-05/",
-        "https://www.reuters.com/business/energy/oil-little-changed-uncertainty-over-us-iran-peace-deal-2026-06-05/"
       ]
     },
     {
