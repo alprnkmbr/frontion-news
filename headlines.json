@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-08T09:05:29+03:00",
+  "lastUpdated": "2026-06-08T10:04:58+03:00",
   "headlines": [
     {
       "headline": "Ukrainian drone strike kills one in Russian-annexed Crimea",
@@ -8,7 +8,39 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/ukrainian-drone-kills-one-russia-annexed-crimea-moscow-installed-governor-says-2026-06-08/",
-      "timestamp": "2026-06-08T09:03:00+03:00"
+      "timestamp": "2026-06-08T09:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/drone-strike-damages-bridge-linking-occupied-crimea-to-southern-ukraine/",
+          "angle": "Bridge linking Crimea to southern Ukraine damaged in drone strike",
+          "summary": "A drone strike damaged a bridge near the village of Chonhar connecting occupied Crimea with Russian-controlled parts of southern Ukraine, impacting a key logistics route for Russian forces."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/russian-drone-hit-nuclear-fuel-storage-facility-near-chornobyl-ukraine-says-2026-06-07/",
+          "angle": "Russian Drone Strike Hits Nuclear Fuel Storage Near Chornobyl",
+          "summary": "A Russian drone damaged a storage facility for spent nuclear fuel near the Chornobyl plant, Zelensky condemned as \"extremely vile.\" The IAEA confirmed the strike hit near where nuclear material is stored, with no radiation spike detected."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/russian-drone-attack-kills-four-ukraines-kyiv-region-officials-say-2026-06-05/",
+          "angle": "Russian drone attack kills four at dairy factory in Kyiv region",
+          "summary": "A Russian drone attack on a dairy factory in the Ukrainian capital region killed four people and injured seven more, Ukrainian officials said."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Kyiv Independent",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/ukrainian-drone-kills-one-russia-annexed-crimea-moscow-installed-governor-says-2026-06-08/",
+        "https://kyivindependent.com/drone-strike-damages-bridge-linking-occupied-crimea-to-southern-ukraine/",
+        "https://www.reuters.com/world/europe/russian-drone-hit-nuclear-fuel-storage-facility-near-chornobyl-ukraine-says-2026-06-07/",
+        "https://www.reuters.com/world/europe/russian-drone-attack-kills-four-ukraines-kyiv-region-officials-say-2026-06-05/"
+      ]
     },
     {
       "headline": "Xi Jinping hails new era in China-North Korea ties ahead of Pyongyang summit",
@@ -17,7 +49,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/chinas-xi-says-he-will-work-with-north-korea-fight-hegemony-north-korean-media-2026-06-07/",
-      "timestamp": "2026-06-08T09:03:00+03:00"
+      "timestamp": "2026-06-08T09:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/with-chinas-xi-north-korea-kim-project-confidence-defiance-2026-06-07/",
+          "angle": "Xi Jinping Visits North Korea for First Time in Seven Years to Strengthen Ties",
+          "summary": "Chinese President Xi Jinping arrives in Pyongyang on Monday for a rare summit with Kim Jong Un, seeking to reinforce strategic ties amid North Korea's deepening partnership with Russia and stalled nuclear talks."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/chinas-xi-says-he-will-work-with-north-korea-fight-hegemony-north-korean-media-2026-06-07/",
+        "https://www.reuters.com/world/china/with-chinas-xi-north-korea-kim-project-confidence-defiance-2026-06-07/"
+      ]
     },
     {
       "headline": "Chinese warships shadow global executives at Taiwan AI tech summit",
@@ -35,15 +83,6 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/hormuz-strait-will-be-open-with-transit-fees-iran-envoy-moscow-quoted-2026-06-08/",
-      "timestamp": "2026-06-08T09:03:00+03:00"
-    },
-    {
-      "headline": "Israel and Iran trade strikes as regional tensions escalate",
-      "summary": "Israel launched airstrikes targeting central and western Iran after Tehran fired missiles at Israel. The exchange threatens to derail fragile ceasefire negotiations.",
-      "emoji": "⚔️",
-      "category": "Middle East",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-c16dc4917512f7436a3921a4b044b98b",
       "timestamp": "2026-06-08T09:03:00+03:00"
     },
     {
@@ -79,15 +118,6 @@
         "https://asia.nikkei.com/spotlight/society/crime/cambodia-s-war-on-scam-centers-misses-targets-victims-amnesty",
         "https://www.scmp.com/news/asia/southeast-asia/article/3356291/cambodias-performative-crackdowns-fail-stop-scam-centres-amnesty"
       ]
-    },
-    {
-      "headline": "Israel launches airstrikes on Iran after missile fire, marking 100th day of war",
-      "summary": "Israel struck targets in central and western Iran early Monday in response to missile attacks from Tehran. A missile from Yemen also targeted Israel as the conflict threatens to reignite.",
-      "emoji": "🇮🇱⚔️🇮🇷",
-      "category": "Middle East",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates",
-      "timestamp": "2026-06-08T08:05:00+03:00"
     },
     {
       "headline": "Dollar climbs to two-month peak as Fed rate hike bets ramp up",
@@ -159,31 +189,22 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/environment/philippines-verifying-reports-least-five-deaths-after-magnitude-78-quake-2026-06-08/",
-      "timestamp": "2026-06-08T06:00:00+03:00"
-    },
-    {
-      "headline": "Xi Jinping Visits North Korea for First Time in Seven Years to Strengthen Ties",
-      "summary": "Chinese President Xi Jinping arrives in Pyongyang on Monday for a rare summit with Kim Jong Un, seeking to reinforce strategic ties amid North Korea's deepening partnership with Russia and stalled nuclear talks.",
-      "emoji": "🇨🇳🇰🇵",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/with-chinas-xi-north-korea-kim-project-confidence-defiance-2026-06-07/",
-      "timestamp": "2026-06-08T05:03:00+03:00",
+      "timestamp": "2026-06-08T06:00:00+03:00",
       "perspectives": [
         {
-          "source": "Korea Herald",
-          "url": "https://www.koreaherald.com/article/10766059",
-          "angle": "Xi Jinping visits North Korea for rare summit with Kim Jong Un",
-          "summary": "Chinese President Xi Jinping arrived in Pyongyang for his first visit in seven years, aiming to reassert Beijing's influence over an emboldened North Korea amid shifting regional dynamics."
+          "source": "AP News",
+          "url": "https://apnews.com/article/philippines-earthquake-mindanao-6e489739402863eaf40cbfd30a1b1cc7",
+          "angle": "7.8 Magnitude Quake Kills at Least 12 in Philippines",
+          "summary": "A powerful offshore earthquake struck Mindanao, killing at least 12 people, injuring 200+, and triggering a 1-meter tsunami. The strongest quake to hit the Philippines this year caused building collapses in General Santos city."
         }
       ],
       "sources": [
         "Reuters",
-        "Korea Herald"
+        "AP News"
       ],
       "urls": [
-        "https://www.reuters.com/world/china/with-chinas-xi-north-korea-kim-project-confidence-defiance-2026-06-07/",
-        "https://www.koreaherald.com/article/10766059"
+        "https://www.reuters.com/business/environment/philippines-verifying-reports-least-five-deaths-after-magnitude-78-quake-2026-06-08/",
+        "https://apnews.com/article/philippines-earthquake-mindanao-6e489739402863eaf40cbfd30a1b1cc7"
       ]
     },
     {
@@ -871,35 +892,35 @@
       "timestamp": "2026-06-07T20:03:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-c16dc4917512f7436a3921a4b044b98b",
-          "angle": "Israel Strikes Iran After Missile Attack, Escalation Tests Ceasefire",
-          "summary": "Israel launched airstrikes on central and western Iran in response to Iranian missiles fired toward Israel, marking the first major breach of the fragile ceasefire since April. The exchange threatens to derail ongoing US-Iran peace negotiations."
-        },
-        {
-          "source": "Times of Israel",
-          "url": "https://www.timesofisrael.com/liveblog-june-8-2026/",
-          "angle": "Israeli Military Strikes Iran Despite Trump Ceasefire Appeal",
-          "summary": "Israel conducted airstrikes on military targets in western and central Iran after Iran launched missiles at northern Israel, defying US President Donald Trump's calls for restraint. Iran reported explosions in Tehran, Tabriz, and Isfahan."
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-06-08/israel-strikes-iran-after-a-missile-attack-imperiling-ceasefire",
+          "angle": "Israel Strikes Iran After Missile Attack, Imperiling Ceasefire",
+          "summary": "Israel launched airstrikes on Iranian targets following a missile attack from Tehran, threatening to unravel the fragile ceasefire brokered by the US. The escalation marks the first major breach of the April 8 peace deal."
         },
         {
           "source": "AP News",
           "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-c16dc4917512f7436a3921a4b044b98b",
-          "angle": "Israel Launches Retaliatory Strikes on Iran After Tehran Fires Missiles",
-          "summary": "Israel carried out airstrikes on central and western Iran early Monday after Tehran launched its first missile attack on Israel since the April ceasefire, raising fears of renewed escalation."
+          "angle": "Israel and Iran trade strikes as regional tensions escalate",
+          "summary": "Israel launched airstrikes targeting central and western Iran after Tehran fired missiles at Israel. The exchange threatens to derail fragile ceasefire negotiations."
+        },
+        {
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates",
+          "angle": "Israel launches airstrikes on Iran after missile fire, marking 100th day of war",
+          "summary": "Israel struck targets in central and western Iran early Monday in response to missile attacks from Tehran. A missile from Yemen also targeted Israel as the conflict threatens to reignite."
         }
       ],
       "sources": [
         "Reuters",
+        "Bloomberg",
         "AP News",
-        "Times of Israel",
-        "AP News"
+        "NPR"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/israeli-military-says-it-intercepted-two-projectiles-that-crossed-lebanon-2026-06-07/",
+        "https://www.bloomberg.com/news/newsletters/2026-06-08/israel-strikes-iran-after-a-missile-attack-imperiling-ceasefire",
         "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-c16dc4917512f7436a3921a4b044b98b",
-        "https://www.timesofisrael.com/liveblog-june-8-2026/",
-        "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-c16dc4917512f7436a3921a4b044b98b"
+        "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates"
       ]
     },
     {
@@ -1023,15 +1044,6 @@
       ]
     },
     {
-      "headline": "Bridge linking Crimea to southern Ukraine damaged in drone strike",
-      "summary": "A drone strike damaged a bridge near the village of Chonhar connecting occupied Crimea with Russian-controlled parts of southern Ukraine, impacting a key logistics route for Russian forces.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/drone-strike-damages-bridge-linking-occupied-crimea-to-southern-ukraine/",
-      "timestamp": "2026-06-07T16:05:00+03:00"
-    },
-    {
       "headline": "Trump-Xi summit on Taiwan offered more than optics",
       "summary": "The meeting between Chinese and US presidents laid the groundwork for more predictable China-US relations, including on the Taiwan issue, beyond just symbolic photo opportunities.",
       "emoji": "🇨🇳🇺🇸",
@@ -1039,31 +1051,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/opinion/china-opinion/article/3355975/taiwan-trump-xi-summit-offered-more-optics",
       "timestamp": "2026-06-07T16:05:00+03:00"
-    },
-    {
-      "headline": "Russian Drone Strike Hits Nuclear Fuel Storage Near Chornobyl",
-      "summary": "A Russian drone damaged a storage facility for spent nuclear fuel near the Chornobyl plant, Zelensky condemned as \"extremely vile.\" The IAEA confirmed the strike hit near where nuclear material is stored, with no radiation spike detected.",
-      "emoji": "☢️🇺🇦🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/russian-drone-hit-nuclear-fuel-storage-facility-near-chornobyl-ukraine-says-2026-06-07/",
-      "timestamp": "2026-06-07T16:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "NV.ua",
-          "url": "https://english.nv.ua/russian-war/russian-strike-on-balabyne-in-zaporizhzhia-kills-three-50614077.html",
-          "angle": "Russian Strike Hits Bus Stop in Zaporizhzhia, Three Civilians Killed",
-          "summary": "A Russian strike on the settlement of Balabyne in Zaporizhzhia Oblast killed three people and injured three others. The attack targeted civilian infrastructure."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "NV.ua"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/russian-drone-hit-nuclear-fuel-storage-facility-near-chornobyl-ukraine-says-2026-06-07/",
-        "https://english.nv.ua/russian-war/russian-strike-on-balabyne-in-zaporizhzhia-kills-three-50614077.html"
-      ]
     },
     {
       "headline": "Pakistan's Interior Minister in Tehran to Mediate Iran-US Talks",
@@ -2394,31 +2381,6 @@
       "timestamp": "2026-06-06T09:03:00+03:00"
     },
     {
-      "headline": "Russian drone attack kills four at dairy factory in Kyiv region",
-      "summary": "A Russian drone attack on a dairy factory in the Ukrainian capital region killed four people and injured seven more, Ukrainian officials said.",
-      "emoji": "🇺🇦💥",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/russian-drone-attack-kills-four-ukraines-kyiv-region-officials-say-2026-06-05/",
-      "timestamp": "2026-06-06T09:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/russian-drone-attack-kills-four-ukraines-kyiv-region-officials-say-2026-06-05/",
-          "angle": "Russian drone strikes kill four at Kyiv dairy factory",
-          "summary": "A Russian drone attack on a dairy factory in the Kyiv region killed four people and injured seven others, Ukrainian officials reported."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/russian-drone-attack-kills-four-ukraines-kyiv-region-officials-say-2026-06-05/",
-        "https://www.reuters.com/world/europe/russian-drone-attack-kills-four-ukraines-kyiv-region-officials-say-2026-06-05/"
-      ]
-    },
-    {
       "headline": "Bank of Canada expected to hold rates through 2026 despite inflation risks",
       "summary": "The Bank of Canada will hold its key overnight rate at 2.25% on June 10 and for the rest of the year, according to a Reuters poll, despite rising inflation risks from conflict-driven energy prices.",
       "emoji": "🇨🇦💰",
@@ -2610,9 +2572,9 @@
       "perspectives": [
         {
           "source": "AP News",
-          "url": "https://apnews.com/article/china-xi-north-korea-kim-4def48720a7cb66f820d3efc256a941c",
-          "angle": "Xi Jinping to visit North Korea next week in first trip since 2019",
-          "summary": "Chinese leader Xi Jinping will travel to North Korea next week, both countries announced Friday, in what will be his first visit since 2019. The meeting comes amid shifting regional dynamics and US-China tensions."
+          "url": "https://apnews.com/article/china-north-korea-xi-kim-3aa60c2ed4f7a115c0c297df4dd04118",
+          "angle": "Xi Visits North Korea for First Time in 7 Years",
+          "summary": "Chinese President Xi Jinping arrived in Pyongyang for a rare state visit, his first in seven years. The summit with Kim Jong Un aims to reassert China's influence over North Korea amid separate confrontations with the US."
         }
       ],
       "sources": [
@@ -2621,7 +2583,7 @@
       ],
       "urls": [
         "https://www.reuters.com/world/china/chinas-xi-visit-north-korea-beijing-seeks-cosier-ties-with-pyongyang-2026-06-05/",
-        "https://apnews.com/article/china-xi-north-korea-kim-4def48720a7cb66f820d3efc256a941c"
+        "https://apnews.com/article/china-north-korea-xi-kim-3aa60c2ed4f7a115c0c297df4dd04118"
       ]
     },
     {
@@ -3076,15 +3038,6 @@
         "https://www.reuters.com/world/us-judge-invalidates-trump-policies-targeting-immigrants-39-countries-2026-06-05/",
         "https://apnews.com/article/trump-immigration-asylum-citizenship-10591d120e5cb13da736d9eeb06757c8"
       ]
-    },
-    {
-      "headline": "Russian Satellites Jamming GPS Across Europe",
-      "summary": "Scientists and U.S. military briefers have linked widespread GPS interference incidents across Europe to Russian satellites, revealing coordinated electronic warfare activity targeting European infrastructure.",
-      "emoji": "🛰️",
-      "category": "Europe",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/05/world/europe/russia-satellites-gps-interference-europe.html",
-      "timestamp": "2026-06-05T21:03:00+03:00"
     }
   ]
 }
