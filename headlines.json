@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-09T08:09:04+03:00",
+  "lastUpdated": "2026-06-09T09:05:03+03:00",
   "headlines": [
+    {
+      "headline": "US Army Apache Helicopter Crashes Near Strait of Hormuz, Crew Rescued",
+      "summary": "A US Army Apache gunship went down near the strategic Strait of Hormuz waterway. President Trump confirmed both pilots are safe, though the cause remains unclear amid ongoing tensions with Iran in the region.",
+      "emoji": "🚁",
+      "category": "Military",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/crew-rescued-after-us-helicopter-goes-down-near-strait-hormuz-nyt-reports-2026-06-09/",
+      "timestamp": "2026-06-09T09:03:00+03:00"
+    },
+    {
+      "headline": "Ebola Death Toll in DR Congo Climbs to 101",
+      "summary": "The Democratic Republic of Congo is fighting its 17th Ebola outbreak since the virus was first identified in 1976, with the death toll now exceeding 100 as health authorities struggle to contain the spread.",
+      "emoji": "🦠",
+      "category": "Africa",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/9/ebola-death-toll-in-dr-congo-climbs-to-101",
+      "timestamp": "2026-06-09T09:03:00+03:00"
+    },
+    {
+      "headline": "Investors See Tipping Point for Bonds After Geopolitics Shreds Old Playbooks",
+      "summary": "Bonds have failed to shield investors during the Iran-Israel conflict, but some fund managers believe debt markets may soon reclaim their safe-haven role if inflation begins to impact economic growth.",
+      "emoji": "📈",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/investors-spy-tipping-point-bonds-after-geopolitics-shreds-old-playbooks-2026-06-09/",
+      "timestamp": "2026-06-09T09:03:00+03:00"
+    },
+    {
+      "headline": "UN Urges Afghan Taliban to End Arrests of Women Over Dress Rules",
+      "summary": "The United Nations mission in Afghanistan expressed concern over the detention of women in a western province for allegedly failing to comply with dress requirements, urging Taliban authorities to treat all people equally.",
+      "emoji": "🇦🇫",
+      "category": "Asia",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/un-urges-afghan-taliban-end-arrests-women-over-dress-rules-2026-06-08/",
+      "timestamp": "2026-06-09T09:03:00+03:00"
+    },
+    {
+      "headline": "WHO Chief Urges Uganda to Reconsider Congo Border Closure Over Ebola",
+      "summary": "WHO Director-General Tedros Adhanom Ghebreyesus said Uganda should reconsider its decision to close its border with the Democratic Republic of Congo due to the ongoing Ebola outbreak.",
+      "emoji": "🏥",
+      "category": "Africa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/africa/whos-tedros-says-uganda-should-reconsider-congo-border-closure-over-ebola-2026-06-08/",
+      "timestamp": "2026-06-09T09:03:00+03:00"
+    },
     {
       "headline": "France and Germany cancel €100 billion FCAS joint fighter jet program",
       "summary": "Europe's most ambitious collaborative defense program has been scrapped after France and Germany failed to resolve disputes over intellectual property and work sharing between Airbus and Dassault Aviation. The cancellation comes as Western military leaders warn of growing threats from Russia.",
@@ -8,16 +53,23 @@
       "category": "Defense Industry",
       "source": "Simple Flying",
       "url": "https://simpleflying.com/france-germany-cancel-fcas-fighter-jet-program/",
-      "timestamp": "2026-06-09T08:10:00+03:00"
-    },
-    {
-      "headline": "Japan-Philippines maritime boundary talks exclude Taiwan from negotiations",
-      "summary": "Japan and the Philippines announced plans to delimit maritime boundaries in waters east of Taiwan, drawing protests from both Taipei and Beijing. The dispute reveals Taiwan's growing vulnerability as its interests are decided in negotiations where it has no representation.",
-      "emoji": "🇹🇼🇯🇵",
-      "category": "Asia-Pacific",
-      "source": "ABC Australia",
-      "url": "https://www.abc.net.au/news/2026-06-09/taiwan-artificial-intelligence-china-japan-nvidia/106772162",
-      "timestamp": "2026-06-09T08:10:00+03:00"
+      "timestamp": "2026-06-09T08:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Breaking Defense",
+          "url": "https://breakingdefense.com/2026/06/franco-german-spanish-fcas-fighter-program-dead-reports/",
+          "angle": "Franco-German FCAS fighter jet program reportedly cancelled",
+          "summary": "France and Germany agreed to scrap the landmark Future Combat Air System fighter jet project due to industrial rivalries, ending Europe's most ambitious defense program."
+        }
+      ],
+      "sources": [
+        "Simple Flying",
+        "Breaking Defense"
+      ],
+      "urls": [
+        "https://simpleflying.com/france-germany-cancel-fcas-fighter-jet-program/",
+        "https://breakingdefense.com/2026/06/franco-german-spanish-fcas-fighter-program-dead-reports/"
+      ]
     },
     {
       "headline": "UN report warns of deepening crisis in world's oceans",
@@ -824,15 +876,6 @@
       "category": "Middle East",
       "source": "Times of Israel",
       "url": "https://www.timesofisrael.com/liveblog_entry/knesset-passes-law-to-deduct-compensation-for-terror-victims-from-pa-tax-revenues-over-pay-for-slay-stipends/",
-      "timestamp": "2026-06-08T22:11:00+03:00"
-    },
-    {
-      "headline": "Franco-German FCAS fighter jet program reportedly cancelled",
-      "summary": "France and Germany agreed to scrap the landmark Future Combat Air System fighter jet project due to industrial rivalries, ending Europe's most ambitious defense program.",
-      "emoji": "🇫🇷🇩🇪✈️",
-      "category": "Defense Industry",
-      "source": "Breaking Defense",
-      "url": "https://breakingdefense.com/2026/06/franco-german-spanish-fcas-fighter-program-dead-reports/",
       "timestamp": "2026-06-08T22:11:00+03:00"
     },
     {
@@ -1992,7 +2035,23 @@
       "category": "Asia-Pacific",
       "source": "SCMP",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3356242/beijing-sends-largest-patrol-ship-east-of-taiwan-after-japan-philippine-boundary-talks?module=top_story&pgtype=section",
-      "timestamp": "2026-06-07T18:06:00+03:00"
+      "timestamp": "2026-06-07T18:06:00+03:00",
+      "perspectives": [
+        {
+          "source": "ABC Australia",
+          "url": "https://www.abc.net.au/news/2026-06-09/taiwan-artificial-intelligence-china-japan-nvidia/106772162",
+          "angle": "Japan-Philippines maritime boundary talks exclude Taiwan from negotiations",
+          "summary": "Japan and the Philippines announced plans to delimit maritime boundaries in waters east of Taiwan, drawing protests from both Taipei and Beijing. The dispute reveals Taiwan's growing vulnerability as its interests are decided in negotiations where it has no representation."
+        }
+      ],
+      "sources": [
+        "SCMP",
+        "ABC Australia"
+      ],
+      "urls": [
+        "https://www.scmp.com/news/china/diplomacy/article/3356242/beijing-sends-largest-patrol-ship-east-of-taiwan-after-japan-philippine-boundary-talks?module=top_story&pgtype=section",
+        "https://www.abc.net.au/news/2026-06-09/taiwan-artificial-intelligence-china-japan-nvidia/106772162"
+      ]
     },
     {
       "headline": "Finland's Stubb urges Europe to step up and lead peace talks with Russia",
@@ -3130,73 +3189,6 @@
       "source": "NV Ukraine",
       "url": "https://english.nv.ua/nation/fire-reported-at-antipinsky-refinery-after-major-accident-caused-by-technical-violations-50613912.html",
       "timestamp": "2026-06-06T16:05:00+03:00"
-    },
-    {
-      "headline": "Lebanon Accuses Iran of Using Country as Bargaining Chip in US Negotiations",
-      "summary": "Lebanese President Joseph Aoun made his toughest criticism yet of Tehran, accusing Iran of leveraging Lebanon in its talks with Washington while Hezbollah wages war with Israel. The statement highlights growing Arab frustration with Iranian interference.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-using-lebanon-bargaining-chip-us-talks-lebanese-president-says-2026-06-05/",
-      "timestamp": "2026-06-06T16:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/iran-using-lebanon-bargaining-chip-us-talks-lebanese-president-says-2026-06-05/",
-          "angle": "Lebanon President Accuses Iran of Using Country as Bargaining Chip",
-          "summary": "Lebanese President Joseph Aoun accused Iran of using Lebanon as a bargaining chip in its negotiations with the United States, in some of his toughest criticism yet of Tehran and its Lebanese ally Hezbollah."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/iran-using-lebanon-bargaining-chip-us-talks-lebanese-president-says-2026-06-05/",
-        "https://www.reuters.com/world/middle-east/iran-using-lebanon-bargaining-chip-us-talks-lebanese-president-says-2026-06-05/"
-      ]
-    },
-    {
-      "headline": "Macron, Starmer, Merz to Meet Zelenskiy in London for War Talks",
-      "summary": "French President Emmanuel Macron, British Prime Minister Keir Starmer, and German Chancellor Friedrich Merz will hold talks with Ukraine's President Volodymyr Zelenskiy on Sunday, June 7, as European leaders seek to support Ukraine amid stalled peace efforts.",
-      "emoji": "🇪🇺",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/macron-starmer-merz-meet-zelenskiy-london-june-7-elysee-says-2026-06-05/",
-      "timestamp": "2026-06-06T16:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/macron-starmer-merz-meet-zelenskiy-london-june-7-elysee-says-2026-06-05/",
-          "angle": "Macron, Starmer and Merz to meet Zelenskiy in London for Ukraine talks",
-          "summary": "French President Emmanuel Macron, British Prime Minister Keir Starmer and German Chancellor Friedrich Merz will hold talks with Ukraine's President Volodymyr Zelenskiy on Sunday, according to the French presidency."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/macron-starmer-merz-meet-zelenskiy-london-june-7-elysee-says-2026-06-05/",
-          "angle": "Macron, Starmer, Merz to Meet Zelensky in London on June 7",
-          "summary": "French President Emmanuel Macron, British Prime Minister Keir Starmer, and German Chancellor Friedrich Merz will hold talks with Ukrainian President Volodymyr Zelensky in London on Sunday. The meeting signals continued European coordination on Ukraine support."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/macron-starmer-merz-meet-zelenskiy-london-june-7-elysee-says-2026-06-05/",
-        "https://www.reuters.com/world/europe/macron-starmer-merz-meet-zelenskiy-london-june-7-elysee-says-2026-06-05/",
-        "https://www.reuters.com/world/europe/macron-starmer-merz-meet-zelenskiy-london-june-7-elysee-says-2026-06-05/"
-      ]
-    },
-    {
-      "headline": "NASA Orders ISS Astronauts to Shelter During Russian Module Air Leak Repair",
-      "summary": "Five astronauts aboard the International Space Station took shelter and prepared for evacuation as Russian cosmonauts attempted to fix a worsening crack in the Zvezda service module. NASA later reversed the evacuation order after repairs.",
-      "emoji": "🛰️",
-      "category": "Technology",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/science/international-space-station-astronauts-evacuation-mode-russia-attempts-fix-2026-06-05/",
-      "timestamp": "2026-06-06T16:03:00+03:00"
     }
   ]
 }
