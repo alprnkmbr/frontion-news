@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-09T18:05:14+03:00",
+  "lastUpdated": "2026-06-09T18:07:15+03:00",
   "headlines": [
+    {
+      "headline": "EU Approves 21st Sanctions Package Targeting Russian Economy",
+      "summary": "European Commission President Ursula von der Leyen announced the EU's 21st sanctions package, saying Russia's economy is \"slowing sharply\" as the bloc expands restrictions on Moscow's war machine.",
+      "emoji": "🇪🇺",
+      "category": "Europe",
+      "source": "Politico",
+      "url": "https://www.politico.eu/article/eu-russia-economy-soldiers-sanction-package/",
+      "timestamp": "2026-06-09T18:05:00+03:00"
+    },
+    {
+      "headline": "Estonia's President Sees Summer Window to End Ukraine War",
+      "summary": "Estonian President Alar Karis said Europe should prepare now for possible peace talks and continue pressuring Russia through sustained sanctions and military support for Ukraine.",
+      "emoji": "🇪🇪",
+      "category": "Diplomacy",
+      "source": "Kyiv Post",
+      "url": "https://www.kyivpost.com/post/77836",
+      "timestamp": "2026-06-09T18:05:00+03:00"
+    },
+    {
+      "headline": "Ukraine and Latvia Sign Drone Technology Agreement",
+      "summary": "President Zelenskyy announced a drone deal with Latvia during the Nordic-Baltic summit in Estonia, as Ukraine offers to share its drone expertise with allies.",
+      "emoji": "🇺🇦",
+      "category": "Defense Industry",
+      "source": "Al Arabiya",
+      "url": "https://english.alarabiya.net/News/world/2026/06/09/ukraine-latvia-sign-drone-deal-zelenskyy-says",
+      "timestamp": "2026-06-09T18:05:00+03:00"
+    },
+    {
+      "headline": "China and Georgia Elevate Ties to Strategic Partnership",
+      "summary": "Chinese President Xi Jinping and Georgian President Mikheil Kavelashvili exchanged messages upgrading bilateral relations to a comprehensive strategic partnership, deepening ties in the Caucasus region.",
+      "emoji": "🇨🇳",
+      "category": "Geopolitics",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/asia-pacific/china-georgia-elevate-ties-to-comprehensive-strategic-partnership/3961642",
+      "timestamp": "2026-06-09T18:05:00+03:00"
+    },
+    {
+      "headline": "One Killed in Kenya Protest Against US Ebola Quarantine Center",
+      "summary": "At least one person was killed during a demonstration against the construction of an Ebola quarantine center for US citizens in central Kenya, highlighting local opposition to the facility.",
+      "emoji": "🇰🇪",
+      "category": "Africa",
+      "source": "France 24",
+      "url": "https://www.france24.com/en/africa/20260609-at-least-one-person-killed-protesting-us-ebola-quarantine-centre-in-kenya",
+      "timestamp": "2026-06-09T18:05:00+03:00"
+    },
     {
       "headline": "Israel Strikes Historic Port of Tyre in Lebanon, Killing Eight",
       "summary": "Israeli forces struck the southern Lebanese city of Tyre, killing at least eight people in an escalation that adds strain to peace efforts in the broader Middle East conflict.",
@@ -8,15 +53,6 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/trump-says-us-helicopter-pilots-who-went-down-strait-hormuz-are-fine-2026-06-09/",
-      "timestamp": "2026-06-09T18:05:00+03:00"
-    },
-    {
-      "headline": "Germany Scraps Franco-German Fighter Jet Program in Blow to European Defense",
-      "summary": "Germany has pulled out of a joint fighter jet program with France, dealing a significant setback to European defense cooperation and raising questions about the continent's military independence.",
-      "emoji": "🇩🇪🇫🇷",
-      "category": "Europe",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/ckg02541ykpo",
       "timestamp": "2026-06-09T18:05:00+03:00"
     },
     {
@@ -35,7 +71,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/chinas-may-trade-data-beat-forecasts-exporters-rush-orders-ride-ai-wave-2026-06-09/",
-      "timestamp": "2026-06-09T18:05:00+03:00"
+      "timestamp": "2026-06-09T18:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/china-exports-set-strong-may-front-loaded-orders-chip-demand-2026-06-08/",
+          "angle": "China exports set for strong May on front-loaded orders and chip demand",
+          "summary": "Export growth likely strengthened as firms rushed orders before Gulf war energy impacts, while global semiconductor and AI component demand remained robust."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/chinas-may-trade-data-beat-forecasts-exporters-rush-orders-ride-ai-wave-2026-06-09/",
+        "https://www.reuters.com/world/china/china-exports-set-strong-may-front-loaded-orders-chip-demand-2026-06-08/"
+      ]
     },
     {
       "headline": "US Lawmakers Push Tighter Rules on Chipmakers Supplying Chinese Firms",
@@ -572,6 +624,31 @@
       ]
     },
     {
+      "headline": "France and Germany scrap $100 billion joint fighter jet program",
+      "summary": "The leaders of Germany and France have agreed to abandon the FCAS sixth-generation fighter jet project after years of industrial disputes over Europe's most ambitious defense program, marking a significant setback for European military cooperation.",
+      "emoji": "🇫🇷🇩🇪",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/german-french-leaders-unable-resolve-fcas-fighter-jet-dispute-sources-say-2026-06-08/",
+      "timestamp": "2026-06-09T11:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/ckg02541ykpo",
+          "angle": "Germany Scraps Franco-German Fighter Jet Program in Blow to European Defense",
+          "summary": "Germany has pulled out of a joint fighter jet program with France, dealing a significant setback to European defense cooperation and raising questions about the continent's military independence."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/aerospace-defense/german-french-leaders-unable-resolve-fcas-fighter-jet-dispute-sources-say-2026-06-08/",
+        "https://www.bbc.com/news/articles/ckg02541ykpo"
+      ]
+    },
+    {
       "headline": "Taiwan simulates destroying Chinese invasion force in coastal drill",
       "summary": "Taiwan's military conducted a live-fire exercise firing rockets and artillery to repel an amphibious assault, describing it as a more realistic combat scenario with reduced preparation time amid heightened tensions with Beijing.",
       "emoji": "🇹🇼",
@@ -587,15 +664,6 @@
       "category": "Africa",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/africa/kenyan-police-fire-tear-gas-during-protest-against-us-ebola-quarantine-facility-2026-06-09/",
-      "timestamp": "2026-06-09T11:03:00+03:00"
-    },
-    {
-      "headline": "France and Germany scrap $100 billion joint fighter jet program",
-      "summary": "The leaders of Germany and France have agreed to abandon the FCAS sixth-generation fighter jet project after years of industrial disputes over Europe's most ambitious defense program, marking a significant setback for European military cooperation.",
-      "emoji": "🇫🇷🇩🇪",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/german-french-leaders-unable-resolve-fcas-fighter-jet-dispute-sources-say-2026-06-08/",
       "timestamp": "2026-06-09T11:03:00+03:00"
     },
     {
@@ -1640,15 +1708,6 @@
         "https://www.reuters.com/business/aerospace-defense/latvias-military-issues-alert-over-drone-incursion-2026-06-08/",
         "https://www.aljazeera.com/news/2026/6/8/nato-jets-shoot-down-drone-over-latvia-extending-ukraine-spillover-fears"
       ]
-    },
-    {
-      "headline": "China exports set for strong May on front-loaded orders and chip demand",
-      "summary": "Export growth likely strengthened as firms rushed orders before Gulf war energy impacts, while global semiconductor and AI component demand remained robust.",
-      "emoji": "🇨🇳📦",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/china-exports-set-strong-may-front-loaded-orders-chip-demand-2026-06-08/",
-      "timestamp": "2026-06-08T18:05:00+03:00"
     },
     {
       "headline": "Pakistan-Administered Kashmir Clashes Kill 11 Ahead of Protest Rally",
@@ -2961,49 +3020,6 @@
       "urls": [
         "https://www.reuters.com/world/middle-east/israeli-strike-gaza-kills-seven-people-including-two-women-medics-say-2026-06-06/",
         "https://www.reuters.com/world/middle-east/two-lebanese-officers-one-soldier-killed-israeli-strike-southern-lebanon-2026-06-06/"
-      ]
-    },
-    {
-      "headline": "Erdogan shifts balance of power as Putin becomes increasingly dependent on Turkey",
-      "summary": "The Ukraine war has shifted the dynamic between Putin and Erdogan. Isolated by the West, Putin increasingly relies on the Turkish president who was once the junior partner.",
-      "emoji": "🇹🇷🇷🇺🇺🇦",
-      "category": "Diplomacy",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/07/opinion/russia-turkey-putin-erdogan-ukraine.html",
-      "timestamp": "2026-06-07T09:10:00+03:00"
-    },
-    {
-      "headline": "Ukrainian drones strike railway infrastructure in occupied Luhansk and Donetsk",
-      "summary": "Ukrainian forces conducted drone strikes on energy and transport infrastructure in Russian-occupied Luhansk and Donetsk oblasts overnight, targeting logistical networks supporting Russian military operations.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/railway-infrastructure-struck-by-ukrainian-drones-in-occupied-luhansk-donetsk-oblasts/",
-      "timestamp": "2026-06-07T08:06:00+03:00"
-    },
-    {
-      "headline": "Rosneft chief says US energy companies benefit from Hormuz closure",
-      "summary": "Rosneft CEO Igor Sechin said US energy companies are the main beneficiaries of the Strait of Hormuz closure, but warned continued tensions would undermine long-term oil demand.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/russias-sechin-says-us-companies-benefit-closure-strait-hormuz-2026-06-06/",
-      "timestamp": "2026-06-07T08:06:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/russias-sechin-says-us-companies-benefit-closure-strait-hormuz-2026-06-06/",
-          "angle": "Rosneft Chief: US Energy Companies Benefit Most From Hormuz Closure",
-          "summary": "Russian oil giant Rosneft's CEO Igor Sechin said US energy companies were the main beneficiaries of the Strait of Hormuz closure but warned continued tensions would undermine long-term oil demand."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/russias-sechin-says-us-companies-benefit-closure-strait-hormuz-2026-06-06/",
-        "https://www.reuters.com/business/energy/russias-sechin-says-us-companies-benefit-closure-strait-hormuz-2026-06-06/"
       ]
     }
   ]
