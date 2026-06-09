@@ -1,6 +1,64 @@
 {
-  "lastUpdated": "2026-06-09T03:06:21+03:00",
+  "lastUpdated": "2026-06-09T04:05:36+03:00",
   "headlines": [
+    {
+      "headline": "Nuclear Powers Increasingly Dependent on Atomic Weapons Amid Global Tensions",
+      "summary": "SIPRI Yearbook reports nuclear-armed states are modernizing and expanding arsenals, with China adding warheads fastest. Total global nuclear stockpile remains at around 12,100 warheads as deterrence takes center stage.",
+      "emoji": "☢️⚠️",
+      "category": "Military",
+      "source": "DW",
+      "url": "https://www.dw.com/en/sipri-with-peace-elusive-nuclear-weapons-make-a-comeback/a-77441233",
+      "timestamp": "2026-06-09T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Yahoo News",
+          "url": "https://www.yahoo.com/news/politics/articles/nuclear-arsenals-growing-worldwide-researchers-082523283.html",
+          "angle": "SIPRI: All Nine Nuclear-Armed States Expanding Arsenals Amid Global Tensions",
+          "summary": "The Stockholm International Peace Research Institute reports that all nine nuclear-armed states are modernizing and expanding their arsenals. India increased its stockpile to 190 warheads, extending its lead over Pakistan which holds 170."
+        }
+      ],
+      "sources": [
+        "DW",
+        "Yahoo News"
+      ],
+      "urls": [
+        "https://www.dw.com/en/sipri-with-peace-elusive-nuclear-weapons-make-a-comeback/a-77441233",
+        "https://www.yahoo.com/news/politics/articles/nuclear-arsenals-growing-worldwide-researchers-082523283.html"
+      ]
+    },
+    {
+      "headline": "South Korea Names First Female Prime Minister as President Lee Marks One Year",
+      "summary": "President Lee Jae-myung appointed Han Seong-sook as South Koreas first female PM in decades, as his administration focuses on AI development and pragmatic diplomacy with North Korea.",
+      "emoji": "🇰🇷👩⚖️",
+      "category": "Asia-Pacific",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/06/08/asia-pacific/south-korea-female-pm-ai/",
+      "timestamp": "2026-06-09T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/asia/east-asia/south-korean-president-lee-earns-praise-for-pragmatic-north-korea-approach-and-steady-diplomacy-hand",
+          "angle": "South Korea's Lee Jae Myung stresses pragmatic North Korea approach",
+          "summary": "President Lee Jae Myung said engagement through diplomacy must continue despite inter-Korean tensions, emphasizing a steady hand in dealing with Pyongyang."
+        },
+        {
+          "source": "Korea Herald",
+          "url": "https://www.koreaherald.com/article/10766073",
+          "angle": "South Korean President Lee rules out nuclear armament, affirms denuclearization goal",
+          "summary": "President Lee Jae Myung stated South Korea cannot abandon the goal of denuclearizing the Korean Peninsula, while also noting North Korea may have felt humiliated by Seoul's alleged drone incursion."
+        }
+      ],
+      "sources": [
+        "Japan Times",
+        "Straits Times",
+        "Korea Herald"
+      ],
+      "urls": [
+        "https://www.japantimes.co.jp/news/2026/06/08/asia-pacific/south-korea-female-pm-ai/",
+        "https://www.straitstimes.com/asia/east-asia/south-korean-president-lee-earns-praise-for-pragmatic-north-korea-approach-and-steady-diplomacy-hand",
+        "https://www.koreaherald.com/article/10766073"
+      ]
+    },
     {
       "headline": "Lebanon reports nearly 3,500 Israeli strikes during ceasefire period",
       "summary": "Lebanon's defense minister says Israel carried out nearly 3,500 airstrikes and hundreds of controlled explosions since the U.S.-announced ceasefire on April 16, highlighting continued violence despite formal truce.",
@@ -8,7 +66,31 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/lebanese-pm-says-israel-has-bombed-lebanon-nearly-3500-times-during-ceasefire-2026-06-08/",
-      "timestamp": "2026-06-09T03:03:00+03:00"
+      "timestamp": "2026-06-09T03:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/lebanese-pm-says-israel-has-bombed-lebanon-nearly-3500-times-during-ceasefire-2026-06-08/",
+          "angle": "Lebanon says Israel has bombed it nearly 3,500 times during ceasefire",
+          "summary": "Lebanon defense minister says Israel carried out nearly 3,500 airstrikes and hundreds of controlled explosions since the US-announced ceasefire on April 16."
+        },
+        {
+          "source": "Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/lebanese-pm-says-israel-has-bombed-lebanon-nearly-3500-times-during-ceasefire/",
+          "angle": "Lebanon reports 3,500 Israeli ceasefire violations",
+          "summary": "Lebanese PM states Israel has bombed Lebanon nearly 3,500 times during the ceasefire period, raising concerns about sustained violations of the truce agreement."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Times of Israel"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/lebanese-pm-says-israel-has-bombed-lebanon-nearly-3500-times-during-ceasefire-2026-06-08/",
+        "https://www.reuters.com/world/middle-east/lebanese-pm-says-israel-has-bombed-lebanon-nearly-3500-times-during-ceasefire-2026-06-08/",
+        "https://www.timesofisrael.com/liveblog_entry/lebanese-pm-says-israel-has-bombed-lebanon-nearly-3500-times-during-ceasefire/"
+      ]
     },
     {
       "headline": "Ukraine recaptures over 600 square kilometers of territory in 2026",
@@ -17,16 +99,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/ukraine-recaptures-more-than-600-square-km-territory-2026-military-chief-says-2026-06-08/",
-      "timestamp": "2026-06-09T03:03:00+03:00"
-    },
-    {
-      "headline": "Israel-Iran flare-up tests Trump's grip on Middle East diplomacy",
-      "summary": "The brief exchange of fire between Israel and Iran reveals how destabilized the region remains, with both sides testing the limits of ceasefires and U.S. pressure.",
-      "emoji": "⚔️",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cp8lm75186lo",
-      "timestamp": "2026-06-09T03:03:00+03:00"
+      "timestamp": "2026-06-09T03:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/ukraine-recaptures-more-than-600-square-km-territory-2026-military-chief-says-2026-06-08/",
+          "angle": "Ukraine Recaptures 600+ sq km of Territory in 2026",
+          "summary": "Ukrainian forces have retaken over 600 square kilometers this year, according to military chief Syrskyi, signaling a potential shift in momentum after years of Russian advances."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/ukraine-recaptures-more-than-600-square-km-territory-2026-military-chief-says-2026-06-08/",
+        "https://www.reuters.com/world/ukraine-recaptures-more-than-600-square-km-territory-2026-military-chief-says-2026-06-08/"
+      ]
     },
     {
       "headline": "Russia's fuel crisis deepens as Ukraine steps up strikes on occupied territories",
@@ -119,19 +208,19 @@
       "timestamp": "2026-06-09T01:03:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/trump-says-new-israel-iran-strikes-wont-affect-peace-deal-2026-06-08/",
-          "angle": "Israel and Iran Halt Strikes as Trump Pushes for Ceasefire",
-          "summary": "Iran and Israel paused attacks on each other after President Trump urged both sides to \"stop shooting.\" Tehran warned it would resume strikes if Israel continues hitting Hezbollah in Lebanon."
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cp8lm75186lo",
+          "angle": "Israel-Iran flare-up tests Trump's grip on Middle East diplomacy",
+          "summary": "The brief exchange of fire between Israel and Iran reveals how destabilized the region remains, with both sides testing the limits of ceasefires and U.S. pressure."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "BBC"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/trump-says-new-israel-iran-strikes-wont-affect-peace-deal-2026-06-08/",
-        "https://www.reuters.com/world/middle-east/trump-says-new-israel-iran-strikes-wont-affect-peace-deal-2026-06-08/"
+        "https://www.bbc.com/news/articles/cp8lm75186lo"
       ]
     },
     {
@@ -354,15 +443,6 @@
         "https://www.reuters.com/world/africa/whos-tedros-says-uganda-should-reconsider-congo-border-closure-over-ebola-2026-06-08/",
         "https://www.scmp.com/news/world/africa/article/3356212/who-warns-nearly-500-confirmed-ebola-cases-central-africa-outbreak"
       ]
-    },
-    {
-      "headline": "Lebanon says Israel has bombed it nearly 3,500 times during ceasefire",
-      "summary": "Lebanon defense minister says Israel carried out nearly 3,500 airstrikes and hundreds of controlled explosions since the US-announced ceasefire on April 16.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/lebanese-pm-says-israel-has-bombed-lebanon-nearly-3500-times-during-ceasefire-2026-06-08/",
-      "timestamp": "2026-06-08T23:03:00+03:00"
     },
     {
       "headline": "Taiwan calls Chinese Coast Guard patrols to its east provocative",
@@ -784,15 +864,6 @@
       "timestamp": "2026-06-08T18:06:00+03:00"
     },
     {
-      "headline": "South Korea's Lee Jae Myung stresses pragmatic North Korea approach",
-      "summary": "President Lee Jae Myung said engagement through diplomacy must continue despite inter-Korean tensions, emphasizing a steady hand in dealing with Pyongyang.",
-      "emoji": "🇰🇷🇰🇵",
-      "category": "Asia-Pacific",
-      "source": "Straits Times",
-      "url": "https://www.straitstimes.com/asia/east-asia/south-korean-president-lee-earns-praise-for-pragmatic-north-korea-approach-and-steady-diplomacy-hand",
-      "timestamp": "2026-06-08T18:06:00+03:00"
-    },
-    {
       "headline": "French NATO jet shoots down drone in Latvian airspace",
       "summary": "A French Rafale on NATO duty downed a drone that entered from Russia, the latest security incident along Europe's eastern border as Ukraine war intensifies.",
       "emoji": "🇫🇷🇱🇻",
@@ -879,15 +950,6 @@
       "timestamp": "2026-06-08T16:05:00+03:00"
     },
     {
-      "headline": "Ukraine Recaptures 600+ sq km of Territory in 2026",
-      "summary": "Ukrainian forces have retaken over 600 square kilometers this year, according to military chief Syrskyi, signaling a potential shift in momentum after years of Russian advances.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/ukraine-recaptures-more-than-600-square-km-territory-2026-military-chief-says-2026-06-08/",
-      "timestamp": "2026-06-08T16:03:00+03:00"
-    },
-    {
       "headline": "IMF Chief Warns World Unprepared for Mounting Crises",
       "summary": "IMF Managing Director Kristalina Georgieva warned that after years of consecutive crises, the global economy remains vulnerable to accumulating shocks, from geopolitical conflicts to economic instability.",
       "emoji": "🏛️",
@@ -945,15 +1007,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/japan-revises-q1-gdp-down-annualised-18-expansion-2026-06-08/",
       "timestamp": "2026-06-08T15:03:00+03:00"
-    },
-    {
-      "headline": "Lebanon reports 3,500 Israeli ceasefire violations",
-      "summary": "Lebanese PM states Israel has bombed Lebanon nearly 3,500 times during the ceasefire period, raising concerns about sustained violations of the truce agreement.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/lebanese-pm-says-israel-has-bombed-lebanon-nearly-3500-times-during-ceasefire/",
-      "timestamp": "2026-06-08T14:05:00+03:00"
     },
     {
       "headline": "Trump walks out of NBC interview on Iran strategy",
@@ -1033,15 +1086,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/un-urges-afghan-taliban-end-arrests-women-over-dress-rules-2026-06-08/",
       "timestamp": "2026-06-08T13:10:00+03:00"
-    },
-    {
-      "headline": "SIPRI: All Nine Nuclear-Armed States Expanding Arsenals Amid Global Tensions",
-      "summary": "The Stockholm International Peace Research Institute reports that all nine nuclear-armed states are modernizing and expanding their arsenals. India increased its stockpile to 190 warheads, extending its lead over Pakistan which holds 170.",
-      "emoji": "☢️⚔️",
-      "category": "Military",
-      "source": "Yahoo News",
-      "url": "https://www.yahoo.com/news/politics/articles/nuclear-arsenals-growing-worldwide-researchers-082523283.html",
-      "timestamp": "2026-06-08T12:10:00+03:00"
     },
     {
       "headline": "Japanese Yen Lingers Above ¥160 to Dollar as BOJ Meeting Approaches",
@@ -1145,15 +1189,6 @@
       "source": "Anadolu Agency",
       "url": "https://www.aa.com.tr/en/economy/reescalation-in-middle-east-tension-pushes-gold-prices-down/3959855",
       "timestamp": "2026-06-08T10:06:00+03:00"
-    },
-    {
-      "headline": "South Korean President Lee rules out nuclear armament, affirms denuclearization goal",
-      "summary": "President Lee Jae Myung stated South Korea cannot abandon the goal of denuclearizing the Korean Peninsula, while also noting North Korea may have felt humiliated by Seoul's alleged drone incursion.",
-      "emoji": "🇰🇷",
-      "category": "Asia-Pacific",
-      "source": "Korea Herald",
-      "url": "https://www.koreaherald.com/article/10766073",
-      "timestamp": "2026-06-08T08:05:00+03:00"
     },
     {
       "headline": "Israel Hits Iranian Targets Despite Trump Warning to Netanyahu",
@@ -1457,19 +1492,19 @@
       "timestamp": "2026-06-08T01:05:00+03:00",
       "perspectives": [
         {
-          "source": "TASS",
-          "url": "https://tass.com/world/2143817",
-          "angle": "Armenia Election: Pashinyan Declares Victory With 54% of Vote Counted",
-          "summary": "Armenian Prime Minister Nikol Pashinyan declared victory in parliamentary elections with early results showing his Civil Contract party leading with around 54% of the vote. The election was seen as a test of Armenia's pivot toward the West amid Russian pressure."
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/8/pm-pashinyans-party-wins-armenia-election-preliminary-results-show",
+          "angle": "Armenia Pro-Western Leader Wins Election Despite Russian Pressure",
+          "summary": "Prime Minister Nikol Pashinyan Civil Contract party won Armenias parliamentary election, securing a mandate to continue pivoting away from Russia and toward Europe despite significant opposition from Moscow-aligned forces."
         }
       ],
       "sources": [
         "Reuters",
-        "TASS"
+        "Al Jazeera"
       ],
       "urls": [
         "https://www.reuters.com/world/armenias-ruling-party-leads-parliamentary-vote-with-57-early-results-2026-06-07/",
-        "https://tass.com/world/2143817"
+        "https://www.aljazeera.com/news/2026/6/8/pm-pashinyans-party-wins-armenia-election-preliminary-results-show"
       ]
     },
     {
