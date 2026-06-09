@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-09T20:07:11+03:00",
+  "lastUpdated": "2026-06-09T21:04:55+03:00",
   "headlines": [
+    {
+      "headline": "Trump says Iran shot down US Apache helicopter near Strait of Hormuz",
+      "summary": "President Trump confirmed Iran downed a US military helicopter patrolling the strategic waterway, with both pilots rescued by an American drone boat. The incident threatens the fragile ceasefire between Israel and Iran.",
+      "emoji": "🇺🇸",
+      "category": "US-Iran War",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cze9359gglyo",
+      "timestamp": "2026-06-09T21:05:00+03:00"
+    },
+    {
+      "headline": "Israel strikes Lebanese city of Tyre despite Iranian ceasefire warning",
+      "summary": "Israeli warplanes hit the southern Lebanese city despite Iran warning that attacks on Hezbollah would end the truce. The strikes risk reigniting broader regional conflict.",
+      "emoji": "🇮🇱",
+      "category": "Middle East",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c36y16nkr5no",
+      "timestamp": "2026-06-09T21:05:00+03:00"
+    },
+    {
+      "headline": "Strongmen wrong to loathe Europe, The Economist argues",
+      "summary": "An analysis challenges the contempt of Trump, Xi, and Putin for European soft power, arguing Europe's economic and diplomatic leverage remains formidable despite their dismissive rhetoric.",
+      "emoji": "🇪🇺",
+      "category": "Europe",
+      "source": "The Economist",
+      "url": "https://www.economist.com/international/2026/06/09/why-strongmen-are-wrong-to-loathe-europe",
+      "timestamp": "2026-06-09T21:05:00+03:00"
+    },
+    {
+      "headline": "NASA names Artemis III crew for next step toward Moon landing",
+      "summary": "The space agency announced the four astronauts who will crew the Artemis III mission in 2027, marking the next major milestone in America's return to lunar exploration.",
+      "emoji": "🚀",
+      "category": "Technology",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cr5j40ezgz4o",
+      "timestamp": "2026-06-09T21:05:00+03:00"
+    },
+    {
+      "headline": "Middle East crisis live: US helicopter downed as fragile Iran-Israel truce holds",
+      "summary": "Comprehensive live coverage of escalating tensions after Iran shot down a US Apache helicopter, with evacuation orders in Lebanon and diplomatic efforts to prevent wider conflict.",
+      "emoji": "⚔️",
+      "category": "Middle East",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jun/09/middle-east-crisis-iran-israel-us-donald-trump-strait-of-hormuz-peace-deal-latest-news-updates",
+      "timestamp": "2026-06-09T21:05:00+03:00"
+    },
     {
       "headline": "Israel Uses Sound of Crying Children to Lure Civilians in South Lebanon, Report Claims",
       "summary": "Israeli drones in southern Lebanon are allegedly using recordings of crying children to lure civilians into the open, according to a Middle East Eye investigation. The tactic raises serious concerns about violations of international humanitarian law.",
@@ -11,22 +56,29 @@
       "timestamp": "2026-06-09T20:05:00+03:00"
     },
     {
-      "headline": "Ukraine Ready to Share Drone Technology With Nordic, Baltic Allies",
-      "summary": "President Zelenskyy announced Ukraine is prepared to share advanced drone technology with Nordic and Baltic countries, strengthening regional defense cooperation amid ongoing Russian aggression.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Daily Sabah",
-      "url": "https://www.dailysabah.com/world/europe/ukraine-ready-to-share-drone-technology-with-nordic-baltic-allies",
-      "timestamp": "2026-06-09T20:05:00+03:00"
-    },
-    {
       "headline": "Microsoft Cuts Hundreds of Cloud Jobs in China as Data Laws Tighten",
       "summary": "Microsoft is laying off hundreds of employees in its China cloud operations as both Beijing and Washington intensify data security regulations, signaling growing tech decoupling between the two powers.",
       "emoji": "🇨🇳",
       "category": "US-China",
       "source": "SCMP",
       "url": "https://www.scmp.com/tech/big-tech/article/3356501/microsoft-cuts-hundreds-cloud-jobs-mainland-china-us-tighten-data-laws-sources",
-      "timestamp": "2026-06-09T20:05:00+03:00"
+      "timestamp": "2026-06-09T20:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/tech/big-tech/article/3356501/microsoft-cuts-hundreds-cloud-jobs-mainland-china-us-tighten-data-laws-sources",
+          "angle": "Microsoft Cuts Hundreds of Cloud Jobs in China as Data Laws Tighten",
+          "summary": "Microsoft is laying off employees at its China cloud unit amid ongoing restrictions on cross-border data flows between Beijing and Washington, reflecting growing tech tensions."
+        }
+      ],
+      "sources": [
+        "SCMP",
+        "SCMP"
+      ],
+      "urls": [
+        "https://www.scmp.com/tech/big-tech/article/3356501/microsoft-cuts-hundreds-cloud-jobs-mainland-china-us-tighten-data-laws-sources",
+        "https://www.scmp.com/tech/big-tech/article/3356501/microsoft-cuts-hundreds-cloud-jobs-mainland-china-us-tighten-data-laws-sources"
+      ]
     },
     {
       "headline": "EU to Invest €5 Billion in North Africa, Middle East Renewables",
@@ -646,7 +698,23 @@
       "category": "Ukraine-Russia War",
       "source": "AP News",
       "url": "https://apnews.com/article/war-russia-ukraine-estonia-zelenskyy-c339c8b654796febf193ac82a4920a51",
-      "timestamp": "2026-06-09T13:03:00+03:00"
+      "timestamp": "2026-06-09T13:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Daily Sabah",
+          "url": "https://www.dailysabah.com/world/europe/ukraine-ready-to-share-drone-technology-with-nordic-baltic-allies",
+          "angle": "Ukraine Ready to Share Drone Technology With Nordic, Baltic Allies",
+          "summary": "President Zelenskyy announced Ukraine is prepared to share advanced drone technology with Nordic and Baltic countries, strengthening regional defense cooperation amid ongoing Russian aggression."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "Daily Sabah"
+      ],
+      "urls": [
+        "https://apnews.com/article/war-russia-ukraine-estonia-zelenskyy-c339c8b654796febf193ac82a4920a51",
+        "https://www.dailysabah.com/world/europe/ukraine-ready-to-share-drone-technology-with-nordic-baltic-allies"
+      ]
     },
     {
       "headline": "German exports rise unexpectedly in April despite Iran war headwinds",
@@ -681,15 +749,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/crew-rescued-after-us-helicopter-goes-down-near-strait-hormuz-nyt-reports-2026-06-09/",
       "timestamp": "2026-06-09T13:03:00+03:00"
-    },
-    {
-      "headline": "Microsoft Cuts Hundreds of Cloud Jobs in China as Data Laws Tighten",
-      "summary": "Microsoft is laying off employees at its China cloud unit amid ongoing restrictions on cross-border data flows between Beijing and Washington, reflecting growing tech tensions.",
-      "emoji": "🇨🇳🇺🇸",
-      "category": "US-China",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/tech/big-tech/article/3356501/microsoft-cuts-hundreds-cloud-jobs-mainland-china-us-tighten-data-laws-sources",
-      "timestamp": "2026-06-09T12:10:00+03:00"
     },
     {
       "headline": "China Firmly Opposes US Blacklisting of Alibaba, Baidu and Other Firms",
@@ -3010,49 +3069,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/greece-palestinian-arrest-hamas-terrorism-d1cf35b0268602b56d3be5ba31478a56",
       "timestamp": "2026-06-07T12:03:00+03:00"
-    },
-    {
-      "headline": "European Central Bank Begins Interest Rate Hikes",
-      "summary": "The ECB starts raising interest rates, marking a significant shift in European monetary policy as the continent grapples with economic pressures from ongoing geopolitical tensions.",
-      "emoji": "🇪🇺💰",
-      "category": "Economy",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/market/a-stock-trader-s-guide-to-the-start-of-ecb-interest-rate-hikes-11780816690201.html",
-      "timestamp": "2026-06-07T11:03:00+03:00"
-    },
-    {
-      "headline": "Singapore Blocks Anti-Indian Content, Traces Origin to China",
-      "summary": "Singapore authorities invoke the Online Criminal Harms Act to restrict access to posts targeting the Indian community, saying the content likely originated from China-based sources.",
-      "emoji": "🇸🇬🇮🇳",
-      "category": "Asia-Pacific",
-      "source": "FirstPost",
-      "url": "https://www.firstpost.com/world/singapore-blocks-anti-indian-content-online-says-posts-likely-originated-from-china-ws-e-14019636.html",
-      "timestamp": "2026-06-07T11:03:00+03:00"
-    },
-    {
-      "headline": "Trump Faces Growing Republican Resistance in Congress",
-      "summary": "Republican lawmakers are increasingly breaking with Trump on key policy issues including the Iran conflict as midterm election pressures mount, potentially threatening his agenda.",
-      "emoji": "🇺🇸🏛️",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/government/trump-faces-new-republican-resistance-congress-midterm-pressures-build-2026-06-06/",
-      "timestamp": "2026-06-07T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/legal/government/trump-faces-new-republican-resistance-congress-midterm-pressures-build-2026-06-06/",
-          "angle": "Trump Faces Growing Republican Resistance as Midterm Pressures Mount",
-          "summary": "Republican lawmakers are showing increased willingness to break with Trump on key initiatives as midterm election pressures intensify, with both parties skeptical of claims of an actual revolt."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/legal/government/trump-faces-new-republican-resistance-congress-midterm-pressures-build-2026-06-06/",
-        "https://www.reuters.com/legal/government/trump-faces-new-republican-resistance-congress-midterm-pressures-build-2026-06-06/"
-      ]
     }
   ]
 }
