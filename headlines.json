@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-09T07:05:20+03:00",
+  "lastUpdated": "2026-06-09T08:04:55+03:00",
   "headlines": [
+    {
+      "headline": "Iran and Israel halt military operations after 48-hour exchange of fire",
+      "summary": "Both countries called a halt to military operations after the most intense exchange of fire in months. Irans president said the country had not abandoned peace negotiations despite the escalation.",
+      "emoji": "🕊️",
+      "category": "Middle East",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d97c7243-19a2-49da-9e10-a565a2204bc0",
+      "timestamp": "2026-06-09T08:03:00+03:00"
+    },
+    {
+      "headline": "Armenias pro-Europe party wins election, cementing shift away from Russia",
+      "summary": "Prime Minister Nikol Pashinyans Civil Contract party won parliamentary elections, confirming Armenias pivot toward Europe and away from its traditional ally Russia despite Moscows pressure campaign.",
+      "emoji": "🇦🇲🇪🇺",
+      "category": "Europe",
+      "source": "AP News",
+      "url": "https://apnews.com/article/armenia-election-pashinyan-6e73e44ff1fea62aecf20c8d7bfabe2c",
+      "timestamp": "2026-06-09T08:03:00+03:00"
+    },
+    {
+      "headline": "ICC prosecutor Karim Khan suspended amid sexual misconduct investigation",
+      "summary": "The International Criminal Courts chief prosecutor has been suspended while member states consider disciplinary measures, marking a major crisis for the tribunal investigating war crimes in Ukraine and Gaza.",
+      "emoji": "⚖️",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/icc-prosecutor-suspended-pending-wider-vote-misconduct-allegations-2026-06-08/",
+      "timestamp": "2026-06-09T08:03:00+03:00"
+    },
+    {
+      "headline": "Kremlin admits fuel supply problems after Ukrainian strikes on Russian energy sites",
+      "summary": "Kremlin spokesperson Dmitry Peskov acknowledged certain problems with fuel supplies in southern Russia after a surge in Ukrainian airstrikes on Russian energy and fuel infrastructure disrupted distribution.",
+      "emoji": "⛽🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/09/ukraine-war-briefing-russias-peskov-admits-certain-problems-with-fuel-supplies-after-energy-sites-targeted",
+      "timestamp": "2026-06-09T08:03:00+03:00"
+    },
+    {
+      "headline": "Kim Jong Un hosts Xi Jinping from position of rare strength in Pyongyang summit",
+      "summary": "North Korean leader Kim Jong Un gave Chinas Xi Jinping a grand welcome at a rare summit in Pyongyang, projecting unity while Xi sought to remind Kim that China remains the senior partner in their relationship.",
+      "emoji": "🇨🇳🇰🇵",
+      "category": "Asia-Pacific",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/world/asia/kim-jong-un-xi-jinping-north-korea-china-rcna348930",
+      "timestamp": "2026-06-09T08:03:00+03:00"
+    },
     {
       "headline": "Israel and Iran Halt Strikes After Trump Warning",
       "summary": "Israel and Iran paused military strikes following a direct appeal from US President Donald Trump, who warned Netanyahu that Israel would be \"on your own\" if it resumed attacks. The temporary ceasefire comes after months of conflict that has disrupted global oil markets.",
@@ -8,7 +53,31 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/defying-trump-with-brief-iran-fight-israel-seeks-sway-over-peace-talks-2026-06-08/",
-      "timestamp": "2026-06-09T07:00:00+03:00"
+      "timestamp": "2026-06-09T07:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/trump-says-new-israel-iran-strikes-wont-affect-peace-deal-2026-06-08/",
+          "angle": "Iran and Israel Halt Strikes After Trump Appeal",
+          "summary": "Iran and Israel said they halted attacks on each other after US President Donald Trump called for an immediate ceasefire, though Tehran warned it would resume strikes if Israel continued hitting Hezbollah in Lebanon."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/defying-trump-with-brief-iran-fight-israel-seeks-sway-over-peace-talks-2026-06-08/",
+          "angle": "Israel Defies Trump With Iran Strikes to Gain Peace Table Influence",
+          "summary": "Israel launched renewed strikes on Iran in apparent defiance of Donald Trump, seeking leverage in peace negotiations where it has been kept at arm's length by the US president."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/aerospace-defense/defying-trump-with-brief-iran-fight-israel-seeks-sway-over-peace-talks-2026-06-08/",
+        "https://www.reuters.com/world/middle-east/trump-says-new-israel-iran-strikes-wont-affect-peace-deal-2026-06-08/",
+        "https://www.reuters.com/business/aerospace-defense/defying-trump-with-brief-iran-fight-israel-seeks-sway-over-peace-talks-2026-06-08/"
+      ]
     },
     {
       "headline": "IAEA Urges Iran to Re-Engage on Nuclear Inspections",
@@ -17,7 +86,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/iaea-calls-iran-re-engage-west-pressures-it-with-resolution-2026-06-08/",
-      "timestamp": "2026-06-09T07:00:00+03:00"
+      "timestamp": "2026-06-09T07:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/iaea-calls-iran-re-engage-west-pressures-it-with-resolution-2026-06-08/",
+          "angle": "IAEA Urges Iran to Re-engage on Nuclear Inspections",
+          "summary": "UN nuclear watchdog chief Rafael Grossi called on Iran to restart cooperation on inspections at sites bombed by the US and Israel, as Western nations demand answers on uranium whereabouts."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/iaea-calls-iran-re-engage-west-pressures-it-with-resolution-2026-06-08/",
+        "https://www.reuters.com/world/europe/iaea-calls-iran-re-engage-west-pressures-it-with-resolution-2026-06-08/"
+      ]
     },
     {
       "headline": "Oil Prices Edge Higher Amid Iran-Israel Uncertainty",
@@ -26,7 +111,23 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/oil-rises-slightly-investors-await-clarity-after-iran-israel-halt-attacks-2026-06-09/",
-      "timestamp": "2026-06-09T07:00:00+03:00"
+      "timestamp": "2026-06-09T07:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/oil-prices-rise-more-than-2-israel-strikes-lebanon-2026-06-07/",
+          "angle": "Oil prices surge more than $4 as Israel-Iran strikes threaten ceasefire",
+          "summary": "Oil prices jumped by more than $4 per barrel as Israel conducted strikes on Iran and Lebanon, threatening the fragile ceasefire. Brent crude neared $98 despite OPEC+ approving another output hike."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/oil-rises-slightly-investors-await-clarity-after-iran-israel-halt-attacks-2026-06-09/",
+        "https://www.reuters.com/business/energy/oil-prices-rise-more-than-2-israel-strikes-lebanon-2026-06-07/"
+      ]
     },
     {
       "headline": "Lebanon Says Israel Bombed It Nearly 3,500 Times During Ceasefire",
@@ -35,7 +136,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/lebanese-pm-says-israel-has-bombed-lebanon-nearly-3500-times-during-ceasefire-2026-06-08/",
-      "timestamp": "2026-06-09T07:00:00+03:00"
+      "timestamp": "2026-06-09T07:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/lebanese-pm-says-israel-has-bombed-lebanon-nearly-3500-times-during-ceasefire-2026-06-08/",
+          "angle": "Lebanon reports nearly 3,500 Israeli strikes during ceasefire period",
+          "summary": "Lebanon's defense minister says Israel carried out nearly 3,500 airstrikes and hundreds of controlled explosions since the U.S.-announced ceasefire on April 16, highlighting continued violence despite formal truce."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/lebanese-pm-says-israel-has-bombed-lebanon-nearly-3500-times-during-ceasefire-2026-06-08/",
+        "https://www.reuters.com/world/middle-east/lebanese-pm-says-israel-has-bombed-lebanon-nearly-3500-times-during-ceasefire-2026-06-08/"
+      ]
     },
     {
       "headline": "Xi Jinping Visits North Korea for First Summit in Seven Years",
@@ -44,7 +161,23 @@
       "category": "Asia-Pacific",
       "source": "AP News",
       "url": "https://apnews.com/article/china-north-korea-xi-kim-3aa60c2ed4f7a115c0c297df4dd04118",
-      "timestamp": "2026-06-09T07:00:00+03:00"
+      "timestamp": "2026-06-09T07:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "CNN",
+          "url": "https://www.rnz.co.nz/news/world/597646/china-s-xi-jinping-calls-for-strengthened-strategic-cooperation-with-north-korea-in-rare-summit-with-kim-jong-un",
+          "angle": "Xi Jinping Visits North Korea for First Time in Seven Years, Pledges Strategic Cooperation",
+          "summary": "Chinese President Xi Jinping met with Kim Jong Un in Pyongyang, agreeing to expand bilateral cooperation. Kim pledged full support for the \"One China principle\" on Taiwan, while Xi called for deepening strategic coordination between the two nations."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "CNN"
+      ],
+      "urls": [
+        "https://apnews.com/article/china-north-korea-xi-kim-3aa60c2ed4f7a115c0c297df4dd04118",
+        "https://www.rnz.co.nz/news/world/597646/china-s-xi-jinping-calls-for-strengthened-strategic-cooperation-with-north-korea-in-rare-summit-with-kim-jong-un"
+      ]
     },
     {
       "headline": "Malaysia opposition in turmoil as Islamist party PAS cuts ties with Bersatu",
@@ -234,39 +367,6 @@
       ]
     },
     {
-      "headline": "Lebanon reports nearly 3,500 Israeli strikes during ceasefire period",
-      "summary": "Lebanon's defense minister says Israel carried out nearly 3,500 airstrikes and hundreds of controlled explosions since the U.S.-announced ceasefire on April 16, highlighting continued violence despite formal truce.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/lebanese-pm-says-israel-has-bombed-lebanon-nearly-3500-times-during-ceasefire-2026-06-08/",
-      "timestamp": "2026-06-09T03:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/lebanese-pm-says-israel-has-bombed-lebanon-nearly-3500-times-during-ceasefire-2026-06-08/",
-          "angle": "Lebanon says Israel has bombed it nearly 3,500 times during ceasefire",
-          "summary": "Lebanon defense minister says Israel carried out nearly 3,500 airstrikes and hundreds of controlled explosions since the US-announced ceasefire on April 16."
-        },
-        {
-          "source": "Times of Israel",
-          "url": "https://www.timesofisrael.com/liveblog_entry/lebanese-pm-says-israel-has-bombed-lebanon-nearly-3500-times-during-ceasefire/",
-          "angle": "Lebanon reports 3,500 Israeli ceasefire violations",
-          "summary": "Lebanese PM states Israel has bombed Lebanon nearly 3,500 times during the ceasefire period, raising concerns about sustained violations of the truce agreement."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Times of Israel"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/lebanese-pm-says-israel-has-bombed-lebanon-nearly-3500-times-during-ceasefire-2026-06-08/",
-        "https://www.reuters.com/world/middle-east/lebanese-pm-says-israel-has-bombed-lebanon-nearly-3500-times-during-ceasefire-2026-06-08/",
-        "https://www.timesofisrael.com/liveblog_entry/lebanese-pm-says-israel-has-bombed-lebanon-nearly-3500-times-during-ceasefire/"
-      ]
-    },
-    {
       "headline": "Ukraine recaptures over 600 square kilometers of territory in 2026",
       "summary": "Ukraine's military chief reports retaking more than 600 sq km this year, with independent battlefield mappers confirming Russia's advances have slowed or reversed in recent months.",
       "emoji": "🇺🇦",
@@ -359,15 +459,6 @@
       ]
     },
     {
-      "headline": "Xi Jinping Visits North Korea for First Time in Seven Years, Pledges Strategic Cooperation",
-      "summary": "Chinese President Xi Jinping met with Kim Jong Un in Pyongyang, agreeing to expand bilateral cooperation. Kim pledged full support for the \"One China principle\" on Taiwan, while Xi called for deepening strategic coordination between the two nations.",
-      "emoji": "🇨🇳🇰🇵",
-      "category": "Asia-Pacific",
-      "source": "CNN",
-      "url": "https://www.rnz.co.nz/news/world/597646/china-s-xi-jinping-calls-for-strengthened-strategic-cooperation-with-north-korea-in-rare-summit-with-kim-jong-un",
-      "timestamp": "2026-06-09T02:10:00+03:00"
-    },
-    {
       "headline": "Flesh-Eating Screwworm Parasite Spreads Beyond Texas, Canada Blocks Livestock Imports",
       "summary": "The USDA confirmed three new screwworm cases including one outside Texas, in New Mexico. The flesh-eating parasite poses a threat to the cattle industry, with five confirmed cases so far including calves, a goat, and a dog.",
       "emoji": "🐄",
@@ -411,31 +502,6 @@
       "source": "The Hill",
       "url": "https://thehill.com/newsletters/health-care/5915503-insulin-legislation-gains-steam/",
       "timestamp": "2026-06-09T02:07:00+03:00"
-    },
-    {
-      "headline": "Iran and Israel Halt Strikes After Trump Appeal",
-      "summary": "Iran and Israel said they halted attacks on each other after US President Donald Trump called for an immediate ceasefire, though Tehran warned it would resume strikes if Israel continued hitting Hezbollah in Lebanon.",
-      "emoji": "🇮🇷🇮🇱",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/trump-says-new-israel-iran-strikes-wont-affect-peace-deal-2026-06-08/",
-      "timestamp": "2026-06-09T01:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Arabiya",
-          "url": "https://english.alarabiya.net/News/middle-east/2026/06/08/israel-army-says-struck-and-dismantled-strategic-defense-systems-in-iran",
-          "angle": "Israel Strikes and Dismantles Strategic Defense Systems in Iran",
-          "summary": "The Israeli military struck and dismantled Iranian defense systems deployed across several areas in Iran, continuing operations despite the fragile ceasefire declared after 100+ days of conflict."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Arabiya"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/trump-says-new-israel-iran-strikes-wont-affect-peace-deal-2026-06-08/",
-        "https://english.alarabiya.net/News/middle-east/2026/06/08/israel-army-says-struck-and-dismantled-strategic-defense-systems-in-iran"
-      ]
     },
     {
       "headline": "China Exports Surge on Chip Demand and Front-Loaded Orders",
@@ -736,40 +802,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/ukraines-former-supreme-court-chief-justice-jailed-graft-2026-06-08/",
       "timestamp": "2026-06-08T22:03:00+03:00"
-    },
-    {
-      "headline": "IAEA Urges Iran to Re-engage on Nuclear Inspections",
-      "summary": "UN nuclear watchdog chief Rafael Grossi called on Iran to restart cooperation on inspections at sites bombed by the US and Israel, as Western nations demand answers on uranium whereabouts.",
-      "emoji": "⚛️🇮🇷",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/iaea-calls-iran-re-engage-west-pressures-it-with-resolution-2026-06-08/",
-      "timestamp": "2026-06-08T22:03:00+03:00"
-    },
-    {
-      "headline": "Israel Defies Trump With Iran Strikes to Gain Peace Table Influence",
-      "summary": "Israel launched renewed strikes on Iran in apparent defiance of Donald Trump, seeking leverage in peace negotiations where it has been kept at arm's length by the US president.",
-      "emoji": "🇮🇱🇺🇸",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/defying-trump-with-brief-iran-fight-israel-seeks-sway-over-peace-talks-2026-06-08/",
-      "timestamp": "2026-06-08T22:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Arabiya",
-          "url": "https://english.alarabiya.net/News/middle-east/2026/06/08/israel-army-says-struck-and-dismantled-strategic-defense-systems-in-iran",
-          "angle": "Israel strikes strategic defense systems across multiple areas in Iran",
-          "summary": "The Israeli military said it struck and dismantled Iranian defense systems deployed across several areas in Iran."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Arabiya"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/aerospace-defense/defying-trump-with-brief-iran-fight-israel-seeks-sway-over-peace-talks-2026-06-08/",
-        "https://english.alarabiya.net/News/middle-east/2026/06/08/israel-army-says-struck-and-dismantled-strategic-defense-systems-in-iran"
-      ]
     },
     {
       "headline": "Ukrainian drone strike kills one in Russian-annexed Crimea",
@@ -1265,39 +1297,6 @@
       "urls": [
         "https://apnews.com/article/armenia-election-pashinyan-6e73e44ff1fea62aecf20c8d7bfabe2c",
         "https://armenianweekly.com/2026/06/08/pashinyan-claims-victory-amid-electoral-violations-and-loss-of-two-thirds-majority/"
-      ]
-    },
-    {
-      "headline": "Oil prices surge more than $4 as Israel-Iran strikes threaten ceasefire",
-      "summary": "Oil prices jumped by more than $4 per barrel as Israel conducted strikes on Iran and Lebanon, threatening the fragile ceasefire. Brent crude neared $98 despite OPEC+ approving another output hike.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-prices-rise-more-than-2-israel-strikes-lebanon-2026-06-07/",
-      "timestamp": "2026-06-08T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.co.uk/news/articles/c78yd5g9qx0o",
-          "angle": "Oil Prices Jump More Than $2 on Israel Strikes in Lebanon",
-          "summary": "Oil prices surged more than $2 per barrel after Israel struck Beirut, with US crude futures hitting $93.11. The escalation threatens the fragile ceasefire between Iran and the US, keeping markets on edge amid ongoing Hormuz Strait disruptions."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/oil-little-changed-uncertainty-over-us-iran-peace-deal-2026-06-05/",
-          "angle": "Oil prices fall on mounting hopes for US-Iran de-escalation",
-          "summary": "Crude prices dropped as traders gained confidence that renewed conflict between the US and Iran was becoming less likely, with peace negotiations showing signs of progress."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "BBC",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/oil-prices-rise-more-than-2-israel-strikes-lebanon-2026-06-07/",
-        "https://www.bbc.co.uk/news/articles/c78yd5g9qx0o",
-        "https://www.reuters.com/business/energy/oil-little-changed-uncertainty-over-us-iran-peace-deal-2026-06-05/"
       ]
     },
     {
