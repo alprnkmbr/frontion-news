@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-09T12:07:31+03:00",
+  "lastUpdated": "2026-06-09T13:04:57+03:00",
   "headlines": [
+    {
+      "headline": "China prepares $295 billion plan for nationwide AI infrastructure buildout",
+      "summary": "China is preparing to spend around 2 trillion yuan over five years on data centers across the country to challenge the US in the AI race, as geopolitical tensions drive technology competition.",
+      "emoji": "🇨🇳",
+      "category": "Technology",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/china-prepares-295-billion-plan-fund-nationwide-ai-buildout-bloomberg-news-2026-06-09/",
+      "timestamp": "2026-06-09T13:03:00+03:00"
+    },
+    {
+      "headline": "Zelenskyy arrives in Estonia for Nordic-Baltic summit on Ukraine support",
+      "summary": "Ukrainian President Volodymyr Zelenskyy is in Estonia to attend a summit of Nordic and Baltic leaders, seeking continued military and financial support as Ukraine presses its counteroffensive against Russia.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/war-russia-ukraine-estonia-zelenskyy-c339c8b654796febf193ac82a4920a51",
+      "timestamp": "2026-06-09T13:03:00+03:00"
+    },
+    {
+      "headline": "German exports rise unexpectedly in April despite Iran war headwinds",
+      "summary": "German exports rose by 0.9% in April compared to the previous month, defying analyst expectations of a decline amid tensions in the Middle East and global supply chain disruptions.",
+      "emoji": "🇩🇪",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/german-exports-rise-unexpectedly-april-2026-06-09/",
+      "timestamp": "2026-06-09T13:03:00+03:00"
+    },
+    {
+      "headline": "Trump confirms US Army Apache helicopter crew safe after incident near Strait of Hormuz",
+      "summary": "President Trump said the pilots of a US Army Apache helicopter that went down near the strategic Strait of Hormuz are safe, amid ongoing tensions between Iran and Israel.",
+      "emoji": "🇺🇸",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/crew-rescued-after-us-helicopter-goes-down-near-strait-hormuz-nyt-reports-2026-06-09/",
+      "timestamp": "2026-06-09T13:03:00+03:00"
+    },
+    {
+      "headline": "Philippines earthquake displaces 32,000 as death toll rises to 37",
+      "summary": "The 7.8 magnitude earthquake that struck the Philippines on Monday has displaced over 32,000 people and killed at least 37, making it one of the strongest quakes to hit the country in half a century.",
+      "emoji": "🇵🇭",
+      "category": "Asia-Pacific",
+      "source": "AP News",
+      "url": "https://apnews.com/article/philippines-earthquake-2907e17ea68fca76cb4c6fde3e15f139",
+      "timestamp": "2026-06-09T13:03:00+03:00"
+    },
     {
       "headline": "Microsoft Cuts Hundreds of Cloud Jobs in China as Data Laws Tighten",
       "summary": "Microsoft is laying off employees at its China cloud unit amid ongoing restrictions on cross-border data flows between Beijing and Washington, reflecting growing tech tensions.",
@@ -8,15 +53,6 @@
       "category": "US-China",
       "source": "SCMP",
       "url": "https://www.scmp.com/tech/big-tech/article/3356501/microsoft-cuts-hundreds-cloud-jobs-mainland-china-us-tighten-data-laws-sources",
-      "timestamp": "2026-06-09T12:10:00+03:00"
-    },
-    {
-      "headline": "Xi Concludes North Korea Visit, Seeks to Counter Russia Influence",
-      "summary": "Chinese President Xi Jinping wrapped up a two-day visit to North Korea aimed at shoring up Beijing's influence in Pyongyang amid concerns about deepening North Korea-Russia ties.",
-      "emoji": "🇨🇳🇰🇵",
-      "category": "Asia-Pacific",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/international-relations/xi-shores-up-china-s-sway-in-pyongyang-wary-of-north-korea-russia-ties",
       "timestamp": "2026-06-09T12:10:00+03:00"
     },
     {
@@ -855,6 +891,31 @@
       "timestamp": "2026-06-09T00:09:00+03:00"
     },
     {
+      "headline": "China's Xi vows unwavering support for North Korea in rare Pyongyang visit",
+      "summary": "Chinese President Xi Jinping made a rare visit to North Korea, pledging to safeguard common interests and fight 'hegemony' alongside Kim Jong Un, signaling deepening ties amid regional tensions.",
+      "emoji": "🇨🇳",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/chinas-xi-says-he-will-work-with-north-korea-fight-hegemony-north-korean-media-2026-06-07/",
+      "timestamp": "2026-06-09T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/politics/international-relations/xi-shores-up-china-s-sway-in-pyongyang-wary-of-north-korea-russia-ties",
+          "angle": "Xi Concludes North Korea Visit, Seeks to Counter Russia Influence",
+          "summary": "Chinese President Xi Jinping wrapped up a two-day visit to North Korea aimed at shoring up Beijing's influence in Pyongyang amid concerns about deepening North Korea-Russia ties."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Nikkei Asia"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/chinas-xi-says-he-will-work-with-north-korea-fight-hegemony-north-korean-media-2026-06-07/",
+        "https://asia.nikkei.com/politics/international-relations/xi-shores-up-china-s-sway-in-pyongyang-wary-of-north-korea-russia-ties"
+      ]
+    },
+    {
       "headline": "Pope Leo XIV warns of 'profound crisis' in historic address to Spanish parliament",
       "summary": "In his first speech to a national parliament, Pope Leo XIV called for respect for migrants and international law, warning that escalating conflicts and polarization have pushed the world into a deep crisis.",
       "emoji": "⛪",
@@ -885,39 +946,6 @@
         "https://www.reuters.com/world/europe/pope-leo-warns-spains-parliament-world-is-profound-crisis-2026-06-08/",
         "https://www.reuters.com/world/europe/pope-leo-warns-spains-parliament-world-is-profound-crisis-2026-06-08/",
         "https://www.reuters.com/world/europe/hundreds-thousands-line-madrid-streets-see-pope-leo-2026-06-07/"
-      ]
-    },
-    {
-      "headline": "China's Xi vows unwavering support for North Korea in rare Pyongyang visit",
-      "summary": "Chinese President Xi Jinping made a rare visit to North Korea, pledging to safeguard common interests and fight 'hegemony' alongside Kim Jong Un, signaling deepening ties amid regional tensions.",
-      "emoji": "🇨🇳",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/chinas-xi-says-he-will-work-with-north-korea-fight-hegemony-north-korean-media-2026-06-07/",
-      "timestamp": "2026-06-09T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/06/08/world/asia/xi-kim-china-north-korea-summit.html",
-          "angle": "Xi Visits North Korea to Reassert Influence as Pyongyang Tilts Toward Moscow",
-          "summary": "Chinese President Xi Jinping made a rare visit to Pyongyang to deepen strategic cooperation with North Korea, seeking to remind Kim Jong Un that China remains the senior partner in their alliance amid growing North Korea-Russia ties."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/chinas-xi-says-he-will-work-with-north-korea-fight-hegemony-north-korean-media-2026-06-07/",
-          "angle": "Xi Vows Unwavering Support for North Korea in Rare Summit",
-          "summary": "Chinese President Xi Jinping told Kim Jong Un that China will not waver in its support and pledged to work with North Korea to fight hegemony during a rare summit in Pyongyang, underscoring deepening ties between the allies."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "New York Times",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/chinas-xi-says-he-will-work-with-north-korea-fight-hegemony-north-korean-media-2026-06-07/",
-        "https://www.nytimes.com/2026/06/08/world/asia/xi-kim-china-north-korea-summit.html",
-        "https://www.reuters.com/world/china/chinas-xi-says-he-will-work-with-north-korea-fight-hegemony-north-korean-media-2026-06-07/"
       ]
     },
     {
@@ -3017,58 +3045,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/us-energy-secretary-says-lower-gas-prices-will-ultimately-take-resolution-with-2026-06-05/",
       "timestamp": "2026-06-07T00:03:00+03:00"
-    },
-    {
-      "headline": "Cuba's Raul Castro Makes First Public Appearance Since US Indictment",
-      "summary": "Former Cuban leader Raul Castro appeared at an Interior Ministry event in Havana, his first public appearance since being indicted on murder charges in the United States last month.",
-      "emoji": "🇨🇺",
-      "category": "Americas",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/americas/cubas-raul-castro-wanted-by-us-appears-an-event-state-television-2026-06-06/",
-      "timestamp": "2026-06-07T00:03:00+03:00"
-    },
-    {
-      "headline": "Seven-month-old Palestinian baby buried after Israeli forces shooting",
-      "summary": "A funeral was held for a seven-month-old Palestinian baby boy who was killed when Israeli troops fired at the vehicle he was in during a military operation in the occupied West Bank, according to medical officials.",
-      "emoji": "⚰️",
-      "category": "Middle East",
-      "source": "AP News",
-      "url": "https://apnews.com/video/funeral-of-baby-killed-by-israeli-forces-in-west-bank-faa3b95806644b08918f2115b55fe6cc",
-      "timestamp": "2026-06-06T23:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank",
-          "angle": "Israeli forces kill Palestinian infant in West Bank shooting",
-          "summary": "A seven-month-old Palestinian baby was killed and his parents wounded when Israeli soldiers opened fire on their vehicle in Hebron. The Israeli military said the incident is under review and those injured were uninvolved civilians."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://apnews.com/video/funeral-of-baby-killed-by-israeli-forces-in-west-bank-faa3b95806644b08918f2115b55fe6cc",
-        "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank"
-      ]
-    },
-    {
-      "headline": "Iranian students protest nationwide over exam changes, arrests reported",
-      "summary": "Students across Iran demonstrate against changes to university entrance exams, chanting slogans demanding justice and education rights. First significant domestic protests since the US-Iran conflict began.",
-      "emoji": "🇮🇷",
-      "category": "Middle East",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/iranian-students-protest-across-country-over-exam-changes-several-arrests-reported/",
-      "timestamp": "2026-06-06T22:05:00+03:00"
-    },
-    {
-      "headline": "Japan to designate Philippines as top priority for oil reserve support",
-      "summary": "Tokyo plans to work with JICA starting this summer to provide oil reserve support to the Philippines, deepening energy cooperation amid regional tensions with China in the South China Sea.",
-      "emoji": "🇯🇵",
-      "category": "Asia-Pacific",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/international-relations/japan-to-label-philippines-top-priority-for-oil-reserve-support",
-      "timestamp": "2026-06-06T22:05:00+03:00"
     }
   ]
 }
