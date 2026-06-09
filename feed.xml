@@ -1,210 +1,186 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frontion News Headlines</title>
-    <link>https://frontion.net</link>
-    <description>Geopolitical news headlines curated from global sources</description>
+    <link>https://frontion.news</link>
+    <description>Global geopolitical news headlines from Tier 1 sources</description>
     <language>en-us</language>
-    <lastBuildDate>Tue, 10 Jun 2026 00:05:00 +0300</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 01:06:57 +0300</lastBuildDate>
+    <atom:link href="https://frontion.news/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>🇷🇺 Russian Military Official Killed in Car Bombing Near Moscow</title>
+      <title>🇨🇦 Saskatchewan Marshals Service Poaching Officers from RCMP and Municipal Police Forces</title>
+      <description>New provincial marshal service accused of draining talent from existing RCMP and municipal police as it builds its ranks, with 25 of 27 officers reportedly recruited from other forces.</description>
+      <link>https://www.cbc.ca/news/canada/saskatchewan/sask-marshals-poaching-rcmp-9.7228771</link>
+      <pubDate>Wed, 10 Jun 2026 01:06:57 +0300</pubDate>
+      <source>CBC</source>
+    </item>
+    <item>
+      <title>🇮🇳 Indias Opposition Demands Government Absorb Oil Price Shock to Protect Growth</title>
+      <description>Congress party urges government to shield consumers from rising fuel costs rather than passing them on, warning that higher prices would hurt demand and slow economic growth.</description>
+      <link>https://www.reuters.com/business/energy/indias-opposition-urges-government-absorb-oil-price-shock-warns-growth-2026-06-09/</link>
+      <pubDate>Wed, 10 Jun 2026 01:06:57 +0300</pubDate>
+      <source>Reuters</source>
+    </item>
+    <item>
+      <title>🇨🇦 Canadas Mark Carney Champions Alliance of Mid-Level Powers to Counter US Protectionism</title>
+      <description>Canadian Prime Minister Mark Carneys push for a coalition of mid-sized economies faces the reality of deep North American trade dependence as Trumps protectionism reshapes global commerce.</description>
+      <link>https://www.reuters.com/business/mark-carneys-trade-push-collides-with-reality-us-dependence-2026-06-09/</link>
+      <pubDate>Wed, 10 Jun 2026 01:06:57 +0300</pubDate>
+      <source>Reuters</source>
+    </item>
+    <item>
+      <title>🛢️ Global Oil Inventories Headed Toward Multi-Decade Lows as Iran War Drains Stockpiles</title>
+      <description>US Energy Information Administration warns that oil stockpiles in major economies are on track for their lowest levels since 2003 as Iran conflict cuts output at record pace.</description>
+      <link>https://www.reuters.com/business/energy/oil-inventories-are-headed-toward-multi-decade-lows-us-eia-warns-2026-06-09/</link>
+      <pubDate>Wed, 10 Jun 2026 01:06:57 +0300</pubDate>
+      <source>Reuters</source>
+    </item>
+    <item>
+      <title>⚔️ US Launches Retaliatory Strikes on Iran After Apache Helicopter Downed Near Strait of Hormuz</title>
+      <description>US Central Command launched strikes on Iran in response to the downing of an Apache helicopter, calling it a proportional response to Iranian aggression. The pilots were safely rescued.</description>
+      <link>https://www.cbsnews.com/live-updates/iran-war-trump-peace-deal-israel/</link>
+      <pubDate>Wed, 10 Jun 2026 01:06:57 +0300</pubDate>
+      <source>CBS News</source>
+    </item>
+    <item>
+      <title>⚔️ Russian Military Official Killed in Car Bombing Near Moscow</title>
+      <description>A car explosion in a residential area for military personnel outside Moscow killed one person. Ukrainian media reports suggest the victim was a Russian military figure.</description>
       <link>https://kyivindependent.com/man-killed-in-car-explosion-in-residential-area-for-military-personnel-outside-moscow-media-reports/</link>
-      <description>Damir Davydov, a Russian official responsible for missile and artillery ammunition supplies, was killed in a car explosion outside Moscow. The incident occurred in a residential area for military personnel.</description>
-      <category>Ukraine-Russia War</category>
-      <dc:source>Kyiv Independent</dc:source>
-      <pubDate>Tue, 10 Jun 2026 00:05:00 +0300</pubDate>
+      <pubDate>Tue, 09 Jun 2026 22:40:00 +0300</pubDate>
+      <source>Kyiv Independent</source>
     </item>
     <item>
-      <title>🇫🇷⛪ France Condemns Attacks on Christians in East Jerusalem</title>
+      <title>⛪ France Condemns Attacks on Christians in East Jerusalem</title>
+      <description>France condemned attacks on Christians in East Jerusalem, calling for respect of religious sites amid ongoing tensions in the region.</description>
       <link>https://www.dailysabah.com/world/mid-east/france-condemns-attacks-on-christians-in-east-jerusalem-israel</link>
-      <description>French Foreign Minister Jean-Noel Barrot denounced what he described as a growing wave of violence against Christians in East Jerusalem and Israel, calling for protection of religious sites.</description>
-      <category>Middle East</category>
-      <dc:source>Daily Sabah</dc:source>
-      <pubDate>Tue, 10 Jun 2026 00:05:00 +0300</pubDate>
+      <pubDate>Tue, 09 Jun 2026 22:40:00 +0300</pubDate>
+      <source>Daily Sabah</source>
     </item>
     <item>
-      <title>🇨🇳🤖 China Preparing $295 Billion AI Infrastructure Push Nationwide</title>
-      <link>https://www.aa.com.tr/en/asia-pacific/china-preparing-295b-plan-to-fund-nationwide-ai-infrastructure-push-report/3961943</link>
-      <description>Beijing aims to build interconnected data centers across the country over the next five years in a massive AI infrastructure investment, according to Bloomberg News.</description>
-      <category>Technology</category>
-      <dc:source>Anadolu Agency</dc:source>
-      <pubDate>Tue, 10 Jun 2026 00:05:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>🇯🇵🔌 Japan Seeks Bigger Role in Asia Subsea Cable Networks as AI Rewires Demand</title>
+      <title>🌐 Japan Seeks Bigger Role in Asia Subsea Cable Networks as AI Rewires Demand</title>
+      <description>Japan is positioning itself for a larger role in Asias subsea cable infrastructure as artificial intelligence drives unprecedented demand for data connectivity.</description>
       <link>https://asia.nikkei.com/business/technology/tech-asia/japan-seeks-bigger-role-in-asia-s-subsea-cables-as-ai-rewires-demand</link>
-      <description>Japan is positioning itself to play a larger role in Asias subsea cable infrastructure as AI drives new demand patterns for data connectivity across the region.</description>
-      <category>Asia-Pacific</category>
-      <dc:source>Nikkei Asia</dc:source>
-      <pubDate>Tue, 10 Jun 2026 00:05:00 +0300</pubDate>
+      <pubDate>Tue, 09 Jun 2026 22:40:00 +0300</pubDate>
+      <source>Nikkei Asia</source>
     </item>
     <item>
-      <title>🇺🇸⚽ White House Defends World Cup Visa Bans for Iranian Officials and Somali Referee</title>
+      <title>⚽ White House Defends World Cup Visa Bans for Iranian Officials and Somali Referee</title>
+      <description>White House World Cup task force chief defended visa restrictions for some Iranian team staff and a Somali referee, citing security concerns while emphasizing no players or coaches were denied.</description>
       <link>https://www.al-monitor.com/originals/2026/06/white-house-world-cup-chief-defends-visa-ban-somali-referee-iranians</link>
-      <description>The head of the White House World Cup Task Force defended decisions to deny visas to certain Iranian officials and a Somali referee ahead of the 2026 tournament, citing security reasons.</description>
-      <category>Diplomacy</category>
-      <dc:source>Al-Monitor</dc:source>
-      <pubDate>Tue, 10 Jun 2026 00:05:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>⛪ Pope Leo XIV Delivers Historic Address to Spanish Parliament, Demands Respect for Migrants</title>
-      <link>https://apnews.com/article/spain-pope-parliament-migration-iran-8067640c81f133386e748985653f6d8a</link>
-      <description>In an unprecedented speech to Spain's Congress of Deputies, Pope Leo XIV called for respecting migrants and received a 7-minute standing ovation, marking the first time a pope has addressed the Spanish parliament.</description>
-      <category>Europe</category>
-      <dc:source>AP News</dc:source>
-      <pubDate>Tue, 10 Jun 2026 00:03:00 +0300</pubDate>
+      <pubDate>Tue, 09 Jun 2026 22:40:00 +0300</pubDate>
+      <source>Al-Monitor</source>
     </item>
     <item>
       <title>🇪🇺 EU Announces Fresh Sanctions Package Banning Russian Soldiers From Entering Bloc</title>
+      <description>European Union proposed its 21st sanctions package targeting Russias banks and proposing comprehensive visa bans for current and former Russian military personnel.</description>
       <link>https://www.theguardian.com/world/2026/jun/09/eu-ban-russian-soldiers-fresh-sanctions-moscow</link>
-      <description>The European Union unveiled its 21st sanctions package targeting Moscow, including a ban on Russian soldiers entering the bloc and new measures against individuals and entities supporting Russia's war effort.</description>
-      <category>Ukraine-Russia War</category>
-      <dc:source>The Guardian</dc:source>
-      <pubDate>Tue, 10 Jun 2026 00:03:00 +0300</pubDate>
+      <pubDate>Tue, 09 Jun 2026 22:40:00 +0300</pubDate>
+      <source>The Guardian</source>
     </item>
     <item>
-      <title>🇬🇧 UK and Allies Impose Sanctions on Firms Enabling West Bank Settler Violence</title>
-      <link>https://www.bbc.com/news/articles/cddl4dl9m3po</link>
-      <description>Britain joined western allies in sanctioning networks enabling extremist settler violence against Palestinians in the West Bank, with France also barring far-right Israeli Minister Bezalel Smotrich from entry.</description>
-      <category>Middle East</category>
-      <dc:source>BBC</dc:source>
-      <pubDate>Tue, 10 Jun 2026 00:03:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>🇺🇸 Trump Vows US Response After Saying Iran Shot Down US Army Helicopter Near Strait of Hormuz</title>
-      <link>https://edition.cnn.com/2026/06/09/middleeast/trump-pilots-helicopter-apache-hormuz-intl-hnk</link>
-      <description>President Trump stated that Iran shot down a US Apache helicopter and that the US "must respond," though he confirmed the two crew members were rescued safely by an American sea drone.</description>
-      <category>US-Iran War</category>
-      <dc:source>CNN</dc:source>
-      <pubDate>Tue, 10 Jun 2026 00:03:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>🇺🇸🇨🇳 Pentagon Labels Alibaba and BYD as Companies Aiding Chinese Military</title>
-      <link>https://www.npr.org/2026/06/09/g-s1-126961/pentagon-labels-alibaba-and-byd-as-aiding-chinese-military</link>
-      <description>The US Defense Department designated major Chinese tech firms including Alibaba and BYD as military-linked companies, escalating tensions between Washington and Beijing over technology and security concerns.</description>
-      <category>US-China</category>
-      <dc:source>NPR</dc:source>
-      <pubDate>Tue, 10 Jun 2026 00:03:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>💰 US Farmers Hit by Record Diesel Prices as Iran War Chokes Fuel Supplies</title>
+      <title>🛢️ Rising Fuel Prices Hit US Farms as Iran War Drags On</title>
+      <description>US farmers are feeling the impact of rising fuel costs as the Iran conflict continues, with gasoline prices hitting farm operations across the country.</description>
       <link>https://www.reuters.com/business/energy/rising-fuel-prices-hit-us-farms-iran-war-drags-2026-06-09/</link>
-      <description>High energy costs are squeezing grain and soybean growers across the US farm belt as the Iran war chokes fuel supplies through the Strait of Hormuz, pushing diesel prices to record highs in key agricultural states.</description>
-      <category>Economy</category>
-      <dc:source>Reuters</dc:source>
-      <pubDate>Mon, 09 Jun 2026 23:03:00 +0300</pubDate>
+      <pubDate>Tue, 09 Jun 2026 22:40:00 +0300</pubDate>
+      <source>Reuters</source>
     </item>
     <item>
-      <title>🇱🇧 Israel Strikes Tyre, Killing 8, Then Orders Evacuation of Entire Lebanese City</title>
+      <title>⚔️ Israeli Military Issues Evacuation Order for Lebanons Tyre Including Christian Areas</title>
+      <description>Israeli military issued evacuation orders for the Lebanese city of Tyre, including Christian neighborhoods, as regional tensions continue.</description>
       <link>https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-order-lebanons-tyre-including-christian-2026-06-09/</link>
-      <description>Israel struck the historic port city of Tyre in southern Lebanon killing at least 8 people, minutes later ordering the evacuation of the entire city for the first time in the conflict.</description>
-      <category>Middle East</category>
-      <dc:source>Reuters</dc:source>
-      <pubDate>Mon, 09 Jun 2026 23:03:00 +0300</pubDate>
+      <pubDate>Tue, 09 Jun 2026 22:40:00 +0300</pubDate>
+      <source>Reuters</source>
     </item>
     <item>
-      <title>🏛️ US House Advances $70 Billion Bill to Fund Trump Immigration Crackdown</title>
+      <title>🏛️ Congress Debates Immigration Enforcement Funding as Border Policies Remain Contentious</title>
+      <description>House Republicans unveiled legislation to increase immigration enforcement funding, continuing debates over border security policies.</description>
       <link>https://apnews.com/article/immigration-enforcement-funding-trump-congress-republicans-c395a434f47fa41a7131369847091910</link>
-      <description>House Republicans have advanced a $70 billion immigration enforcement bill with a final vote expected later Tuesday, funding Trump immigration actions for the remainder of his term.</description>
-      <category>US Politics</category>
-      <dc:source>AP News</dc:source>
-      <pubDate>Mon, 09 Jun 2026 23:03:00 +0300</pubDate>
+      <pubDate>Tue, 09 Jun 2026 22:40:00 +0300</pubDate>
+      <source>AP News</source>
     </item>
     <item>
-      <title>☀️ Hanwha Qcells launches first fully onshore US solar supply chain</title>
+      <title>🏭 Hanwha Qcells Launches First Fully Onshore US Solar Supply Chain</title>
+      <description>South Korean company Hanwha Qcells opened the first fully onshore solar panel supply chain in the United States, marking a shift in renewable energy manufacturing.</description>
       <link>https://asia.nikkei.com/business/technology/hanwha-qcells-kicks-off-first-fully-onshore-us-solar-supply-chain</link>
-      <description>South Korean company begins solar cell production in the US, establishing the country's first integrated supply chain amid push for clean energy independence.</description>
-      <category>Energy</category>
-      <dc:source>Nikkei Asia</dc:source>
-      <pubDate>Mon, 09 Jun 2026 22:10:00 +0300</pubDate>
+      <pubDate>Tue, 09 Jun 2026 22:40:00 +0300</pubDate>
+      <source>Nikkei Asia</source>
     </item>
     <item>
-      <title>🇵🇸 UN report documents systematic rights violations against Palestinians</title>
+      <title>📄 UN Report Exposes Brutal Reality for Palestinians in Gaza and West Bank</title>
+      <description>UN investigation documented systematic human rights violations against Palestinians by Israeli forces and settlers in Gaza and the West Bank.</description>
       <link>https://www.scmp.com/news/world/middle-east/article/3356517/un-report-exposes-brutal-reality-palestinians-gaza-west-bank</link>
-      <description>UN inquiry finds civilians in Gaza and West Bank subjected to severe rights violations by Israeli forces and settlers, as tensions escalate in the region.</description>
-      <category>Middle East</category>
-      <dc:source>SCMP</dc:source>
-      <pubDate>Mon, 09 Jun 2026 22:10:00 +0300</pubDate>
+      <pubDate>Tue, 09 Jun 2026 22:40:00 +0300</pubDate>
+      <source>South China Morning Post</source>
     </item>
     <item>
-      <title>🇩🇰 Denmark fails to disclose soaring F-35 costs, auditors say</title>
+      <title>🇩🇰 Danish Auditors Fault Defense Ministry for Failing to Disclose Soaring US F-35 Costs</title>
+      <description>Danish auditors criticized the defense ministry for not disclosing the rising costs of US F-35 fighter jets, raising questions about transparency in military procurement.</description>
       <link>https://www.aa.com.tr/en/europe/danish-auditors-fault-defense-ministry-for-failing-to-disclose-soaring-us-f-35-costs/3961821</link>
-      <description>Danish State Auditors criticize Defense Ministry for not properly informing lawmakers about the true price of one of the country's largest defense purchases.</description>
-      <category>Defense Industry</category>
-      <dc:source>Anadolu Agency</dc:source>
-      <pubDate>Mon, 09 Jun 2026 22:10:00 +0300</pubDate>
+      <pubDate>Tue, 09 Jun 2026 22:40:00 +0300</pubDate>
+      <source>Anadolu Agency</source>
     </item>
     <item>
-      <title>🌍 Japanese-Canadian consortium to buy European wind and solar farms for AI data centers</title>
+      <title>💨 Japans Mitsubishi and Canadas Brookfield to Buy European Wind and Solar Farms in AI Play</title>
+      <description>Mitsubishi and Brookfield announced plans to acquire European renewable energy assets as tech companies race to secure power for AI infrastructure.</description>
       <link>https://asia.nikkei.com/business/energy/japan-s-mitsubishi-hc-canada-s-brookfield-to-buy-european-wind-solar-farms-in-ai-play2</link>
-      <description>Mitsubishi HC Capital partners with Brookfield to acquire renewable energy plants in Europe to power growing AI infrastructure demands.</description>
-      <category>Energy</category>
-      <dc:source>Nikkei Asia</dc:source>
-      <pubDate>Mon, 09 Jun 2026 22:10:00 +0300</pubDate>
+      <pubDate>Tue, 09 Jun 2026 22:40:00 +0300</pubDate>
+      <source>Nikkei Asia</source>
     </item>
     <item>
-      <title>🚁 Trump says Iran downed US Apache helicopter near Strait of Hormuz, vows response</title>
+      <title>⚔️ Trump Confirms US Pilots Safe After Helicopter Downed Near Strait of Hormuz</title>
+      <description>President Trump confirmed that the two pilots from a US Apache helicopter downed near the Strait of Hormuz were safe and rescued, vowing a response.</description>
       <link>https://www.reuters.com/world/middle-east/trump-says-us-helicopter-pilots-who-went-down-strait-hormuz-are-fine-2026-06-09/</link>
-      <description>President Trump announced Iran shot down a US Army Apache helicopter over the Strait of Hormuz and declared the US "must, of necessity, respond." The two pilots were rescued unharmed by a Navy sea drone in what marks the first such rescue operation for the US military.</description>
-      <category>US-Iran War</category>
-      <dc:source>Reuters</dc:source>
-      <pubDate>Mon, 09 Jun 2026 22:03:00 +0300</pubDate>
+      <pubDate>Tue, 09 Jun 2026 22:40:00 +0300</pubDate>
+      <source>Reuters</source>
     </item>
     <item>
-      <title>🇪🇺 EU proposes 21st sanctions package targeting Russian banks and crypto networks</title>
+      <title>💰 EU Proposes 21st Sanctions Package Targeting Russias Banks</title>
+      <description>European Union proposed its latest round of sanctions against Russia, targeting banking institutions and strengthening enforcement measures.</description>
       <link>https://www.reuters.com/business/finance/eu-propose-21st-package-sanctions-targeting-russias-banks-2026-06-09/</link>
-      <description>The European Union proposed its 21st round of sanctions against Russia, heavily targeting banks, crypto networks, drone production, and oil traders. EU chief diplomat Kaja Kallas announced the sweeping measures aimed at increasing pressure on Moscow over the Ukraine war.</description>
-      <category>Europe</category>
-      <dc:source>Reuters</dc:source>
-      <pubDate>Mon, 09 Jun 2026 22:03:00 +0300</pubDate>
+      <pubDate>Tue, 09 Jun 2026 22:40:00 +0300</pubDate>
+      <source>Reuters</source>
     </item>
     <item>
-      <title>📊 Trump approval near record low as Americans brace for higher gas prices</title>
+      <title>⛽ Trump Approval Near Record Low as Most Americans Expect Higher Gas Prices</title>
+      <description>President Trumps approval ratings remain near record lows as most Americans expect gasoline prices to continue rising amid the Iran conflict.</description>
       <link>https://www.reuters.com/business/energy/trump-approval-stays-near-record-low-most-americans-expect-higher-gas-prices-2026-06-08/</link>
-      <description>A Reuters poll shows only 22% of Americans approve of Trump's handling of the cost of living, with most expecting gasoline prices to rise further amid the Iran conflict. The finding underscores political pressure on the administration as the Middle East crisis drags on.</description>
-      <category>US Politics</category>
-      <dc:source>Reuters</dc:source>
-      <pubDate>Mon, 09 Jun 2026 22:03:00 +0300</pubDate>
+      <pubDate>Tue, 09 Jun 2026 22:40:00 +0300</pubDate>
+      <source>Reuters</source>
     </item>
     <item>
-      <title>🇳🇬 Cholera outbreak in Nigeria's Borno state kills 74, Infects over 7,000</title>
+      <title>🏥 Nigeria Cholera Outbreak Kills Dozens in Borno State</title>
+      <description>Cholera outbreak in Nigerias Borno state has killed dozens of people, overwhelming medical facilities in Maiduguri.</description>
       <link>https://apnews.com/article/nigeria-cholera-borno-state-maiduguri-msf-611dd36e6f590a11803e851c36a86ed1</link>
-      <description>A cholera outbreak in northeastern Nigeria's conflict-ridden Borno state has killed 74 people and infected more than 7,000 others since May. The outbreak adds to the humanitarian crisis in a region already devastated by years of insurgency.</description>
-      <category>Africa</category>
-      <dc:source>AP News</dc:source>
-      <pubDate>Mon, 09 Jun 2026 22:03:00 +0300</pubDate>
+      <pubDate>Tue, 09 Jun 2026 22:40:00 +0300</pubDate>
+      <source>AP News</source>
     </item>
     <item>
-      <title>🐟 Russia faces cod export ban under proposed EU sanctions</title>
+      <title>🐟 Russia Faces Ban on Cod Exports Under New EU Sanctions</title>
+      <description>European Union is considering banning Russian cod exports as part of its latest sanctions package targeting Russian economy.</description>
       <link>https://www.telegraph.co.uk/world-news/2026/06/09/russia-faces-ban-on-cod-in-eu-sanctions/</link>
-      <description>Russian cod could be banned from EU markets in the latest sanctions package aimed at pressuring Moscow to end its invasion of Ukraine. The measure would target one of Russia's key export industries and further strain EU-Russia trade relations.</description>
-      <category>Europe</category>
-      <dc:source>The Telegraph</dc:source>
-      <pubDate>Mon, 09 Jun 2026 22:03:00 +0300</pubDate>
+      <pubDate>Tue, 09 Jun 2026 22:40:00 +0300</pubDate>
+      <source>The Telegraph</source>
     </item>
     <item>
-      <title>🌍 Strongmen wrong to loathe Europe, The Economist argues</title>
+      <title>🌍 Why Strongmen Are Wrong to Loathe Europe</title>
+      <description>Analysis explores why authoritarian leaders misread European unity and why Europes model remains resilient despite global challenges.</description>
       <link>https://www.economist.com/international/2026/06/09/why-strongmen-are-wrong-to-loathe-europe</link>
-      <description>An analysis challenges the contempt of Trump, Xi, and Putin for European soft power, arguing Europe's economic and diplomatic leverage remains formidable despite their dismissive rhetoric.</description>
-      <category>Europe</category>
-      <dc:source>The Economist</dc:source>
-      <pubDate>Mon, 09 Jun 2026 21:05:00 +0300</pubDate>
+      <pubDate>Tue, 09 Jun 2026 22:40:00 +0300</pubDate>
+      <source>The Economist</source>
     </item>
     <item>
-      <title>🚀 NASA names Artemis III crew for next step toward Moon landing</title>
-      <link>https://www.bbc.com/news/articles/cr5j40ezgz4o</link>
-      <description>The space agency announced the four astronauts who will crew the Artemis III mission in 2027, marking the next major milestone in America's return to lunar exploration.</description>
-      <category>Technology</category>
-      <dc:source>BBC</dc:source>
-      <pubDate>Mon, 09 Jun 2026 21:05:00 +0300</pubDate>
-    </item>
-    <item>
-      <title>🌍 Middle East crisis live: US helicopter downed as fragile Iran-Israel truce holds</title>
+      <title>⚔️ Iran-Israel Crisis Live Updates: Fragile Truce Tested as Regional Tensions Persist</title>
+      <description>Live coverage of ongoing Middle East crisis as Iran and Israel maintain a fragile truce following recent hostilities, with Trump pushing for a peace deal.</description>
       <link>https://www.theguardian.com/world/live/2026/jun/09/middle-east-crisis-iran-israel-us-donald-trump-strait-of-hormuz-peace-deal-latest-news-updates</link>
-      <description>Comprehensive live coverage of escalating tensions after Iran shot down a US Apache helicopter, with evacuation orders in Lebanon and diplomatic efforts to prevent wider conflict.</description>
-      <category>Middle East</category>
-      <dc:source>The Guardian</dc:source>
-      <pubDate>Mon, 09 Jun 2026 21:05:00 +0300</pubDate>
+      <pubDate>Tue, 09 Jun 2026 22:40:00 +0300</pubDate>
+      <source>The Guardian</source>
+    </item>
+    <item>
+      <title>🇺🇦 Ukraine Signs Defense Agreements with Latvia and Estonia at Nordic-Baltic Summit</title>
+      <description>President Zelenskyy met with Nordic and Baltic leaders in Tallinn, signing drone cooperation agreements and strengthening defense ties with Latvia and Estonia.</description>
+      <link>https://www.reuters.com/world/ukraine-latvia-sign-drone-deal-zelenskiy-says-2026-06-09/</link>
+      <pubDate>Tue, 09 Jun 2026 22:40:00 +0300</pubDate>
+      <source>Reuters</source>
     </item>
   </channel>
 </rss>
