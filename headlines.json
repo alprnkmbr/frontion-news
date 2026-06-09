@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-09T06:08:34+03:00",
+  "lastUpdated": "2026-06-09T07:05:20+03:00",
   "headlines": [
+    {
+      "headline": "Israel and Iran Halt Strikes After Trump Warning",
+      "summary": "Israel and Iran paused military strikes following a direct appeal from US President Donald Trump, who warned Netanyahu that Israel would be \"on your own\" if it resumed attacks. The temporary ceasefire comes after months of conflict that has disrupted global oil markets.",
+      "emoji": "⚔️",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/defying-trump-with-brief-iran-fight-israel-seeks-sway-over-peace-talks-2026-06-08/",
+      "timestamp": "2026-06-09T07:00:00+03:00"
+    },
+    {
+      "headline": "IAEA Urges Iran to Re-Engage on Nuclear Inspections",
+      "summary": "UN nuclear watchdog chief Rafael Grossi called on Iran to allow inspections at sites bombed by the US and Israel. The US led a push for a resolution at the IAEA board demanding Iran resume cooperation.",
+      "emoji": "☢️",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/iaea-calls-iran-re-engage-west-pressures-it-with-resolution-2026-06-08/",
+      "timestamp": "2026-06-09T07:00:00+03:00"
+    },
+    {
+      "headline": "Oil Prices Edge Higher Amid Iran-Israel Uncertainty",
+      "summary": "Oil prices rose slightly as markets awaited clarity on whether the Iran-Israel halt would hold. The Strait of Hormuz remains a focal point, with Iran's envoy saying transit fees would apply.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-rises-slightly-investors-await-clarity-after-iran-israel-halt-attacks-2026-06-09/",
+      "timestamp": "2026-06-09T07:00:00+03:00"
+    },
+    {
+      "headline": "Lebanon Says Israel Bombed It Nearly 3,500 Times During Ceasefire",
+      "summary": "Israel conducted nearly 3,500 airstrikes on Lebanon since the April ceasefire announcement, Lebanon's defense minister said. Lebanese President Aoun appealed directly to Israel to pursue negotiations instead of war.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/lebanese-pm-says-israel-has-bombed-lebanon-nearly-3500-times-during-ceasefire-2026-06-08/",
+      "timestamp": "2026-06-09T07:00:00+03:00"
+    },
+    {
+      "headline": "Xi Jinping Visits North Korea for First Summit in Seven Years",
+      "summary": "Chinese President Xi Jinping arrived in Pyongyang for his first visit in seven years, meeting with Kim Jong Un. The summit follows Putin's recent visit and signals deepening coordination between China and North Korea.",
+      "emoji": "🇨🇳🇰🇵",
+      "category": "Asia-Pacific",
+      "source": "AP News",
+      "url": "https://apnews.com/article/china-north-korea-xi-kim-3aa60c2ed4f7a115c0c297df4dd04118",
+      "timestamp": "2026-06-09T07:00:00+03:00"
+    },
     {
       "headline": "Malaysia opposition in turmoil as Islamist party PAS cuts ties with Bersatu",
       "summary": "PAS ended its cooperation with Bersatu, gutting the Perikatan Nasional opposition coalition ahead of key elections in Malaysia.",
@@ -8,15 +53,6 @@
       "category": "Southeast Asia",
       "source": "SCMP",
       "url": "https://www.scmp.com/week-asia/politics/article/3356433/malaysias-opposition-bloc-turmoil-pas-cuts-ties-bersatu",
-      "timestamp": "2026-06-09T06:10:00+03:00"
-    },
-    {
-      "headline": "Houthis threaten ban on Israeli ships in Red Sea amid Iran conflict",
-      "summary": "Yemens Iran-aligned Houthis announced they would ban Israeli maritime navigation in the Red Sea, escalating threats to global shipping routes.",
-      "emoji": "🇾🇪",
-      "category": "Middle East",
-      "source": "Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/middle-east/houthis-threaten-ban-on-israeli-ships-in-red-sea/articleshow/131599819.cms",
       "timestamp": "2026-06-09T06:10:00+03:00"
     },
     {
@@ -804,6 +840,31 @@
       "timestamp": "2026-06-08T21:03:00+03:00"
     },
     {
+      "headline": "Houthis Ban Israeli Shipping From Red Sea Amid Iran-Israel Conflict",
+      "summary": "Yemen's Iran-aligned Houthis announced a ban on Israeli maritime navigation in the Red Sea, escalating threats to global shipping routes as the broader Iran-Israel conflict intensifies.",
+      "emoji": "🚢",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/yemens-iran-backed-houthis-threaten-israeli-shipping-red-sea-2026-06-08/",
+      "timestamp": "2026-06-08T20:07:00+03:00",
+      "perspectives": [
+        {
+          "source": "Times of India",
+          "url": "https://timesofindia.indiatimes.com/world/middle-east/houthis-threaten-ban-on-israeli-ships-in-red-sea/articleshow/131599819.cms",
+          "angle": "Houthis threaten ban on Israeli ships in Red Sea amid Iran conflict",
+          "summary": "Yemens Iran-aligned Houthis announced they would ban Israeli maritime navigation in the Red Sea, escalating threats to global shipping routes."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Times of India"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/yemens-iran-backed-houthis-threaten-israeli-shipping-red-sea-2026-06-08/",
+        "https://timesofindia.indiatimes.com/world/middle-east/houthis-threaten-ban-on-israeli-ships-in-red-sea/articleshow/131599819.cms"
+      ]
+    },
+    {
       "headline": "EU Sanctions IRGC Navy Unit Over Strait of Hormuz Blockade",
       "summary": "The European Union imposed sanctions on two Iranian individuals and an IRGC naval unit for restricting maritime traffic through the Strait of Hormuz, implementing asset freezes and travel bans.",
       "emoji": "🇪🇺",
@@ -820,31 +881,6 @@
       "source": "Defense News",
       "url": "https://www.defensenews.com/global/europe/2026/06/08/french-jet-on-nato-mission-shoots-down-drone-in-latvian-airspace/",
       "timestamp": "2026-06-08T20:07:00+03:00"
-    },
-    {
-      "headline": "Houthis Ban Israeli Shipping From Red Sea Amid Iran-Israel Conflict",
-      "summary": "Yemen's Iran-aligned Houthis announced a ban on Israeli maritime navigation in the Red Sea, escalating threats to global shipping routes as the broader Iran-Israel conflict intensifies.",
-      "emoji": "🚢",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/yemens-iran-backed-houthis-threaten-israeli-shipping-red-sea-2026-06-08/",
-      "timestamp": "2026-06-08T20:07:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/yemens-iran-backed-houthis-threaten-israeli-shipping-red-sea-2026-06-08/",
-          "angle": "Houthis threaten Israeli shipping in Red Sea after Iran strikes resume",
-          "summary": "Yemen's Iran-aligned Houthis banned Israeli-linked vessels from the Red Sea, raising new risks for global shipping and oil markets as the Iran conflict flares."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/yemens-iran-backed-houthis-threaten-israeli-shipping-red-sea-2026-06-08/",
-        "https://www.reuters.com/world/middle-east/yemens-iran-backed-houthis-threaten-israeli-shipping-red-sea-2026-06-08/"
-      ]
     },
     {
       "headline": "Ukraine Foils Russian Plot to Assassinate Senior Military Intelligence Official",
@@ -3121,40 +3157,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/science/international-space-station-astronauts-evacuation-mode-russia-attempts-fix-2026-06-05/",
       "timestamp": "2026-06-06T16:03:00+03:00"
-    },
-    {
-      "headline": "Taipei Zoo Welcomes First Red Pandas From China in Over a Decade",
-      "summary": "Taiwan received red pandas from a zoo in Fujian province, marking a rare instance of animal diplomacy amid cross-strait tensions and the first such exchange since 2014.",
-      "emoji": "🐼🇹🇼",
-      "category": "Asia-Pacific",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/international-relations/taipei-zoo-welcomes-red-pandas-from-china-first-in-over-a-decade",
-      "timestamp": "2026-06-06T14:07:57+03:00"
-    },
-    {
-      "headline": "Ukraine and Russia Exchange 185 Prisoners Each in Latest POW Swap",
-      "summary": "Ukraine and Russia each exchanged 185 service personnel on Friday in the latest prisoner of war swap, continuing a pattern of exchanges amid the ongoing conflict.",
-      "emoji": "🇺🇦🤝",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/ukraine-russia-exchange-185-prisoners-war-each-swap-2026-06-05/",
-      "timestamp": "2026-06-06T14:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/ukraine-russia-exchange-185-prisoners-war-each-swap-2026-06-05/",
-          "angle": "Ukraine and Russia exchange 185 prisoners each in latest swap",
-          "summary": "Ukraine and Russia each exchanged 185 service personnel in the latest prisoner of war swap, officials in both countries said, continuing regular exchanges despite ongoing hostilities."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/ukraine-russia-exchange-185-prisoners-war-each-swap-2026-06-05/",
-        "https://www.reuters.com/world/europe/ukraine-russia-exchange-185-prisoners-war-each-swap-2026-06-05/"
-      ]
     }
   ]
 }
