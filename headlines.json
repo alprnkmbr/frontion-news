@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-06-09T11:06:20+03:00",
+  "lastUpdated": "2026-06-09T12:05:45+03:00",
   "headlines": [
+    {
+      "headline": "Global Conflicts Reach Highest Level Since World War II",
+      "summary": "A new report shows global conflicts surged in 2025, reaching levels not seen since World War II, as simultaneous wars in Ukraine, Middle East, and other regions strain international institutions.",
+      "emoji": "🌍",
+      "category": "Geopolitics",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/09/nx-s1-5849221/conflicts-around-the-globe-hit-highest-levels-since-world-war-ii-new-report-says",
+      "timestamp": "2026-06-09T12:03:00+03:00"
+    },
+    {
+      "headline": "Saudi Contractor Scraps $800 Million IPO Citing Iran War Uncertainty",
+      "summary": "Saudi Arabia's Mutlaq Al-Ghowairi Contracting Company cancelled its planned IPO in Riyadh that could have raised up to $800 million, marking one of the first regional offerings shelved since the start of the Iran war.",
+      "emoji": "🇸🇦",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/saudi-contractor-mgc-calls-off-up-800-million-ipo-despite-strong-demand-2026-06-09/",
+      "timestamp": "2026-06-09T12:03:00+03:00"
+    },
+    {
+      "headline": "Ukraine Recaptures Over 600 Square Kilometers in 2026",
+      "summary": "Ukraine's military chief says Kyiv has retaken more than 600 square kilometers of territory in 2026, with independent battlefield mappers confirming Russia's advances have slowed or reversed in recent months.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/ukraine-recaptures-more-than-600-square-km-territory-2026-military-chief-says-2026-06-08/",
+      "timestamp": "2026-06-09T12:03:00+03:00"
+    },
     {
       "headline": "Taiwan simulates destroying Chinese invasion force in coastal drill",
       "summary": "Taiwan's military conducted a live-fire exercise firing rockets and artillery to repel an amphibious assault, describing it as a more realistic combat scenario with reduced preparation time amid heightened tensions with Beijing.",
@@ -44,7 +71,23 @@
       "category": "Military",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/us-leads-record-rise-spending-nuclear-arsenals-campaign-group-says-2026-06-08/",
-      "timestamp": "2026-06-09T11:03:00+03:00"
+      "timestamp": "2026-06-09T11:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.usnews.com/news/world/articles/2026-06-08/us-leads-record-rise-in-spending-on-nuclear-arsenals-campaign-group-says",
+          "angle": "Nuclear Weapons Spending Hits Record $119 Billion as Arms Race Intensifies",
+          "summary": "Global spending on nuclear weapons rose 19% in 2025 to $119 billion, the highest since tracking began. The US led with $69.2 billion, more than all other nuclear states combined, while China increased spending by 7% to $13.5 billion."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/us-leads-record-rise-spending-nuclear-arsenals-campaign-group-says-2026-06-08/",
+        "https://www.usnews.com/news/world/articles/2026-06-08/us-leads-record-rise-in-spending-on-nuclear-arsenals-campaign-group-says"
+      ]
     },
     {
       "headline": "France and Germany Halt €100B FCAS Fighter Jet Program",
@@ -650,39 +693,6 @@
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cn75l36vdd8o",
       "timestamp": "2026-06-09T03:03:00+03:00"
-    },
-    {
-      "headline": "Nuclear Weapons Spending Hits Record $119 Billion as Arms Race Intensifies",
-      "summary": "Global spending on nuclear weapons rose 19% in 2025 to $119 billion, the highest since tracking began. The US led with $69.2 billion, more than all other nuclear states combined, while China increased spending by 7% to $13.5 billion.",
-      "emoji": "☢️",
-      "category": "Military",
-      "source": "Reuters",
-      "url": "https://www.usnews.com/news/world/articles/2026-06-08/us-leads-record-rise-in-spending-on-nuclear-arsenals-campaign-group-says",
-      "timestamp": "2026-06-09T02:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/8/nuclear-risks-rise-as-powers-expand-and-modernise-arsenals-study-finds",
-          "angle": "Global Nuclear Weapons Spending Hits Record $119 Billion as Arsenals Expand",
-          "summary": "Nuclear-armed states spent 19% more on atomic weapons in 2025, reaching a record $119 billion. The US led spending at $89.1 billion, more than all other nuclear states combined."
-        },
-        {
-          "source": "DW",
-          "url": "https://www.dw.com/en/sipri-with-peace-elusive-nuclear-weapons-make-a-comeback/a-77441233",
-          "angle": "Nuclear Powers Increasingly Dependent on Atomic Weapons Amid Global Tensions",
-          "summary": "SIPRI Yearbook reports nuclear-armed states are modernizing and expanding arsenals, with China adding warheads fastest. Total global nuclear stockpile remains at around 12,100 warheads as deterrence takes center stage."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Jazeera",
-        "DW"
-      ],
-      "urls": [
-        "https://www.usnews.com/news/world/articles/2026-06-08/us-leads-record-rise-in-spending-on-nuclear-arsenals-campaign-group-says",
-        "https://www.aljazeera.com/news/2026/6/8/nuclear-risks-rise-as-powers-expand-and-modernise-arsenals-study-finds",
-        "https://www.dw.com/en/sipri-with-peace-elusive-nuclear-weapons-make-a-comeback/a-77441233"
-      ]
     },
     {
       "headline": "Flesh-Eating Screwworm Parasite Spreads Beyond Texas, Canada Blocks Livestock Imports",
@@ -3056,74 +3066,6 @@
       "urls": [
         "https://www.reuters.com/world/europe/putin-held-friendly-one-on-one-meeting-with-germanys-schroeder-kremlin-says-2026-06-05/",
         "https://www.reuters.com/world/europe/putin-held-friendly-one-on-one-meeting-with-germanys-schroeder-kremlin-says-2026-06-05/"
-      ]
-    },
-    {
-      "headline": "Senior US Diplomat Urges Taiwan to Spend Smarter on Defense",
-      "summary": "Taiwan needs to \"spend smarter\" on defense and learn from the Ukraine and Middle East wars on using drones to counter China, the de facto U.S. ambassador to Taipei said.",
-      "emoji": "🇹🇼🇺🇸",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/taiwan-needs-spend-smarter-its-defence-senior-us-diplomat-says-2026-06-06/",
-      "timestamp": "2026-06-06T22:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/aerospace-defense/taiwan-needs-spend-smarter-its-defence-senior-us-diplomat-says-2026-06-06/",
-          "angle": "Taiwan Needs to Spend Smarter on Defense, US Diplomat Says",
-          "summary": "Taiwan must \"spend smarter\" on defense and learn lessons from Ukraine and Middle East conflicts about drone warfare to maintain the military balance with China, the de facto US ambassador to Taipei said."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/aerospace-defense/taiwan-needs-spend-smarter-its-defence-senior-us-diplomat-says-2026-06-06/",
-        "https://www.reuters.com/business/aerospace-defense/taiwan-needs-spend-smarter-its-defence-senior-us-diplomat-says-2026-06-06/"
-      ]
-    },
-    {
-      "headline": "White House AI Policy Adviser Krishnan to Leave Position",
-      "summary": "White House AI policy adviser Krishnan is leaving his position, according to information reports, at a time of increasing focus on artificial intelligence policy.",
-      "emoji": "🤖",
-      "category": "Technology",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us/white-house-ai-policy-adviser-krishnan-leave-position-information-reports-2026-06-06/",
-      "timestamp": "2026-06-06T22:03:00+03:00"
-    },
-    {
-      "headline": "Defense Secretary Hegseth Links Immigration to Invasion in D-Day Speech",
-      "summary": "US Defense Secretary Pete Hegseth used a D-Day anniversary speech in France to draw parallels between WWII and current immigration challenges, calling immigration by sea an invasion that threatens nations.",
-      "emoji": "🏛️",
-      "category": "US Politics",
-      "source": "AP News",
-      "url": "https://www.wral.com/news/ap/7c1fd-hegseth-invokes-immigration-and-invasion-in-d-day-speech-in-france/",
-      "timestamp": "2026-06-06T21:09:00+03:00"
-    },
-    {
-      "headline": "100 Days Into Iran War, Trump Struggles to Rally Domestic Support",
-      "summary": "As the US-Iran conflict reaches the 100-day mark, analysts note growing war weariness among Americans. The unpopularity of the conflict may impact Republican electoral prospects and US policy decisions.",
-      "emoji": "🇺🇸",
-      "category": "US-Iran War",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support",
-      "timestamp": "2026-06-06T21:07:00+03:00",
-      "perspectives": [
-        {
-          "source": "Jerusalem Post",
-          "url": "https://www.jpost.com/israel-news/defense-news/article-898700",
-          "angle": "IDF warns new Iran conflict could last days or escalate to full war",
-          "summary": "Iran fired more than 20 ballistic missiles at Israel as the IDF warned the renewed conflict could last several days or potentially escalate into a full-scale war."
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "Jerusalem Post"
-      ],
-      "urls": [
-        "https://www.aljazeera.com/news/2026/6/6/100-days-into-the-war-on-iran-trump-fails-to-rally-us-support",
-        "https://www.jpost.com/israel-news/defense-news/article-898700"
       ]
     }
   ]
