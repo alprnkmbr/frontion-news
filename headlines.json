@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-09T17:06:00+03:00",
+  "lastUpdated": "2026-06-09T18:05:14+03:00",
   "headlines": [
+    {
+      "headline": "Israel Strikes Historic Port of Tyre in Lebanon, Killing Eight",
+      "summary": "Israeli forces struck the southern Lebanese city of Tyre, killing at least eight people in an escalation that adds strain to peace efforts in the broader Middle East conflict.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/trump-says-us-helicopter-pilots-who-went-down-strait-hormuz-are-fine-2026-06-09/",
+      "timestamp": "2026-06-09T18:05:00+03:00"
+    },
+    {
+      "headline": "Germany Scraps Franco-German Fighter Jet Program in Blow to European Defense",
+      "summary": "Germany has pulled out of a joint fighter jet program with France, dealing a significant setback to European defense cooperation and raising questions about the continent's military independence.",
+      "emoji": "🇩🇪🇫🇷",
+      "category": "Europe",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ckg02541ykpo",
+      "timestamp": "2026-06-09T18:05:00+03:00"
+    },
+    {
+      "headline": "US Trade Deficit Narrows as Exports Hit Record High in April",
+      "summary": "The US trade deficit shrank in April as exports surged to unprecedented levels, bolstered by energy shipments and potentially contributing to quarterly economic growth.",
+      "emoji": "🇺🇸💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/markets/us/us-trade-deficit-narrows-april-amid-surging-exports-2026-06-09/",
+      "timestamp": "2026-06-09T18:05:00+03:00"
+    },
+    {
+      "headline": "China Exports Surge Past Forecasts on Global AI Boom Demand",
+      "summary": "China's export growth accelerated in May, driven by strong demand for chips, electric vehicles, and high-tech goods fueling the global AI boom, providing relief amid energy price pressures.",
+      "emoji": "🇨🇳🤖",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/chinas-may-trade-data-beat-forecasts-exporters-rush-orders-ride-ai-wave-2026-06-09/",
+      "timestamp": "2026-06-09T18:05:00+03:00"
+    },
+    {
+      "headline": "US Lawmakers Push Tighter Rules on Chipmakers Supplying Chinese Firms",
+      "summary": "A bipartisan pair of senators urged the Trump administration to tighten restrictions on contract chipmakers like TSMC to prevent advanced AI chips from reaching overseas subsidiaries of Chinese companies.",
+      "emoji": "🇺🇸🇨🇳",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/litigation/us-lawmakers-urge-tighter-rules-contract-chipmakers-supplying-chinese-firms-2026-06-09/",
+      "timestamp": "2026-06-09T18:05:00+03:00"
+    },
     {
       "headline": "UN Chief Guterres \"deeply alarmed\" by Middle East violence escalation",
       "summary": "UN Secretary-General Antonio Guterres called for an end to violence in the Middle East, expressing deep alarm at renewed escalation between Israel and Iran as diplomatic efforts continue.",
@@ -20,22 +65,29 @@
       "timestamp": "2026-06-09T17:03:00+03:00"
     },
     {
-      "headline": "Pope Leo XIV visits Barcelona, addresses Spain's cultural tensions",
-      "summary": "Pope Leo XIV navigated Spain's culture wars during his Barcelona visit, addressing Catalan language issues and calling for migrant rights in a historic parliamentary speech that received a 7-minute ovation.",
-      "emoji": "⛪",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://apnews.com/article/pope-leo-spain-barcelona-real-madrid-catalan-59bff250ac3a81ea91413fc674d748e6",
-      "timestamp": "2026-06-09T17:03:00+03:00"
-    },
-    {
       "headline": "Congo Ebola outbreak reaches 100+ deaths amid conflict zone challenges",
       "summary": "The Ebola outbreak in eastern Congo has killed over 100 people out of 550 cases in less than a month, with medical response hampered by ongoing conflict in the region.",
       "emoji": "🇨🇩",
       "category": "Africa",
       "source": "Reuters",
       "url": "https://www.yahoo.com/news/world/articles/no-boots-masks-running-why-133530670.html",
-      "timestamp": "2026-06-09T17:03:00+03:00"
+      "timestamp": "2026-06-09T17:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/congo-ebola-outbreak-bundibugyo-virus-392dced7e0da091699eeb980a4b54147",
+          "angle": "Congo Ebola outbreak reaches 100 deaths from 550 cases as conflict hampers response",
+          "summary": "At least 100 people have died from Ebola in eastern Congo since the outbreak was declared on May 15, with 550 confirmed cases. Armed conflict, attacks on health workers, and lack of approved vaccine or treatment are complicating containment efforts."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.yahoo.com/news/world/articles/no-boots-masks-running-why-133530670.html",
+        "https://apnews.com/article/congo-ebola-outbreak-bundibugyo-virus-392dced7e0da091699eeb980a4b54147"
+      ]
     },
     {
       "headline": "US Apache helicopter crashes near Strait of Hormuz, crew rescued",
@@ -535,15 +587,6 @@
       "category": "Africa",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/africa/kenyan-police-fire-tear-gas-during-protest-against-us-ebola-quarantine-facility-2026-06-09/",
-      "timestamp": "2026-06-09T11:03:00+03:00"
-    },
-    {
-      "headline": "Congo Ebola outbreak reaches 100 deaths from 550 cases as conflict hampers response",
-      "summary": "At least 100 people have died from Ebola in eastern Congo since the outbreak was declared on May 15, with 550 confirmed cases. Armed conflict, attacks on health workers, and lack of approved vaccine or treatment are complicating containment efforts.",
-      "emoji": "🇨🇩",
-      "category": "Africa",
-      "source": "AP News",
-      "url": "https://apnews.com/article/congo-ebola-outbreak-bundibugyo-virus-392dced7e0da091699eeb980a4b54147",
       "timestamp": "2026-06-09T11:03:00+03:00"
     },
     {
@@ -1208,27 +1251,19 @@
       "timestamp": "2026-06-09T00:03:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/pope-leo-warns-spains-parliament-world-is-profound-crisis-2026-06-08/",
-          "angle": "Pope Leo warns Spain's parliament world is in profound crisis",
-          "summary": "In the first papal address to Spain's legislature, Pope Leo condemned war as a \"painful defeat\" and called for respect for migrants and international law."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/hundreds-thousands-line-madrid-streets-see-pope-leo-2026-06-07/",
-          "angle": "Pope Leo XIV draws 1.2 million to Madrid Mass, challenges Europe on Christian roots",
-          "summary": "Over a million people filled Madrid's streets for Pope Leo's outdoor Mass, where he urged Europe to acknowledge Christianity's contributions to its cultural identity and said God stands with the poor."
+          "source": "AP News",
+          "url": "https://apnews.com/article/pope-leo-spain-barcelona-real-madrid-catalan-59bff250ac3a81ea91413fc674d748e6",
+          "angle": "Pope Leo XIV visits Barcelona, addresses Spain's cultural tensions",
+          "summary": "Pope Leo XIV navigated Spain's culture wars during his Barcelona visit, addressing Catalan language issues and calling for migrant rights in a historic parliamentary speech that received a 7-minute ovation."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters",
-        "Reuters"
+        "AP News"
       ],
       "urls": [
         "https://www.reuters.com/world/europe/pope-leo-warns-spains-parliament-world-is-profound-crisis-2026-06-08/",
-        "https://www.reuters.com/world/europe/pope-leo-warns-spains-parliament-world-is-profound-crisis-2026-06-08/",
-        "https://www.reuters.com/world/europe/hundreds-thousands-line-madrid-streets-see-pope-leo-2026-06-07/"
+        "https://apnews.com/article/pope-leo-spain-barcelona-real-madrid-catalan-59bff250ac3a81ea91413fc674d748e6"
       ]
     },
     {
@@ -2970,49 +3005,6 @@
         "https://www.reuters.com/business/energy/russias-sechin-says-us-companies-benefit-closure-strait-hormuz-2026-06-06/",
         "https://www.reuters.com/business/energy/russias-sechin-says-us-companies-benefit-closure-strait-hormuz-2026-06-06/"
       ]
-    },
-    {
-      "headline": "South Korean protesters demand election re-run after ballot shortage",
-      "summary": "Protesters rallied for a second day outside a ballot-counting site in South Korea, demanding a re-run of local elections after ballot shortages disrupted voting earlier in the week.",
-      "emoji": "🇰🇷🗳️",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/south-korean-protesters-keep-calling-re-run-election-after-ballot-shortage-2026-06-06/",
-      "timestamp": "2026-06-07T07:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/south-korean-protesters-keep-calling-re-run-election-after-ballot-shortage-2026-06-06/",
-          "angle": "South Korean Protesters Demand Election Re-Run After Ballot Shortage",
-          "summary": "Protesters in South Korea rallied for a second day outside a ballot-counting site, demanding a re-run of local elections held earlier this week after reports of ballot shortages disrupted voting."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/south-korean-protesters-keep-calling-re-run-election-after-ballot-shortage-2026-06-06/",
-        "https://www.reuters.com/world/asia-pacific/south-korean-protesters-keep-calling-re-run-election-after-ballot-shortage-2026-06-06/"
-      ]
-    },
-    {
-      "headline": "Hormuz crisis exposes global trade vulnerability",
-      "summary": "Iran's closure of the Strait of Hormuz demonstrated how a single chokepoint can be weaponized to disrupt global energy supplies and trade flows.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "LiveMint",
-      "url": "https://www.livemint.com/economy/hormuz-crisis-exposes-a-global-flaw-that-will-take-years-to-fix/amp-11780798351176.html",
-      "timestamp": "2026-06-07T06:10:00+03:00"
-    },
-    {
-      "headline": "Taiwan reports first coordinated Chinese coast guard and survey ship operation near South China Sea islands",
-      "summary": "Taiwan accused China of carrying out its first coordinated coast guard and survey ship operation near strategically located islands in the South China Sea, calling it a provocation.",
-      "emoji": "🇹🇼🇨🇳",
-      "category": "South China Sea",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/taiwan-says-chinese-coast-guard-research-ships-near-key-s-china-sea-islands-2026-06-06/",
-      "timestamp": "2026-06-07T05:03:00+03:00"
     }
   ]
 }
