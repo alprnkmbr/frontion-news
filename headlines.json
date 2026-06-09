@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-09T04:08:50+03:00",
+  "lastUpdated": "2026-06-09T05:04:39+03:00",
   "headlines": [
+    {
+      "headline": "Iran Blames US for Latest Exchanges of Fire with Israel",
+      "summary": "Iranian Foreign Ministry says overnight strikes will worsen an already chaotic diplomatic process with Washington, exchanging messages in an atmosphere of extreme suspicion.",
+      "emoji": "🇮🇷",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-blames-us-latest-exchanges-fire-with-israel-2026-06-08/",
+      "timestamp": "2026-06-09T05:03:00+03:00"
+    },
+    {
+      "headline": "Poland Seeks Calm with Ukraine Over WWII Army Unit Dispute",
+      "summary": "Polish PM Tusk calls for solidarity and talks after diplomatic relations deteriorated over Ukraine naming an army unit for nationalist insurgents who massacred Poles in World War Two.",
+      "emoji": "🇵🇱",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/polands-tusk-seeks-calm-dialogue-with-ukraine-row-over-army-unit-2026-06-08/",
+      "timestamp": "2026-06-09T05:03:00+03:00"
+    },
+    {
+      "headline": "Xi and Kim Agree to Expand Cooperation at Pyongyang Summit",
+      "summary": "Chinese President Xi Jinping and North Korean leader Kim Jong Un held a rare summit in Pyongyang, agreeing to expand cooperation in politics, economy and culture.",
+      "emoji": "🇨🇳🇰🇵",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/north-korea-china-agree-expand-cooperation-various-sectors-north-koreas-state-2026-06-08/",
+      "timestamp": "2026-06-09T05:03:00+03:00"
+    },
+    {
+      "headline": "Gulf Stock Markets Drop Amid Renewed Middle East Tensions",
+      "summary": "Most stock markets in the Gulf ended lower on Monday as renewed conflict in the Middle East weighed on investor sentiment.",
+      "emoji": "📉",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/major-gulf-markets-drop-amid-fresh-middle-east-tensions-2026-06-08/",
+      "timestamp": "2026-06-09T05:03:00+03:00"
+    },
     {
       "headline": "US Military Disables Oil Tanker Headed to Iran in Gulf of Oman",
       "summary": "US forces disabled a Palau-flagged oil tanker in the Gulf of Oman as the unladen vessel headed toward Iran, escalating enforcement of the US naval blockade amid the ongoing Iran-Israel conflict.",
@@ -8,24 +44,6 @@
       "category": "Middle East",
       "source": "Al Arabiya",
       "url": "https://english.alarabiya.net/News/middle-east/2026/06/08/us-military-disables-unladen-oil-tanker-headed-to-iran-",
-      "timestamp": "2026-06-09T04:06:00+03:00"
-    },
-    {
-      "headline": "Israel Strikes and Dismantles Strategic Defense Systems in Iran",
-      "summary": "The Israeli military struck and dismantled Iranian defense systems deployed across several areas in Iran, continuing operations despite the fragile ceasefire declared after 100+ days of conflict.",
-      "emoji": "🇮🇱⚔️",
-      "category": "Middle East",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/middle-east/2026/06/08/israel-army-says-struck-and-dismantled-strategic-defense-systems-in-iran",
-      "timestamp": "2026-06-09T04:06:00+03:00"
-    },
-    {
-      "headline": "ICC Chief Prosecutor Karim Khan Suspended After Sexual Misconduct Probe",
-      "summary": "The International Criminal Court suspended chief prosecutor Karim Khan pending a vote by member states, following an investigation that found he committed serious sexual misconduct.",
-      "emoji": "⚖️🏛️",
-      "category": "Diplomacy",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/icc-chief-prosecutor-suspended-after-probe-finds-he-committed-serious-sexual-misconduct/",
       "timestamp": "2026-06-09T04:06:00+03:00"
     },
     {
@@ -44,7 +62,23 @@
       "category": "US Politics",
       "source": "Al Arabiya",
       "url": "https://english.alarabiya.net/News/united-states/2026/06/08/trump-s-100000-h1b-visa-fee-is-unlawful-us-judge-rules",
-      "timestamp": "2026-06-09T04:06:00+03:00"
+      "timestamp": "2026-06-09T04:06:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/us-news/2026/jun/08/trump-h-1b-visa-fee-invalidated",
+          "angle": "Federal judge rules Trump 100,000 dollar H-1B visa fee unlawful",
+          "summary": "A federal judge struck down the 100,000 dollar fee President Donald Trump ordered for H-1B visa applications, providing a reprieve for highly skilled worker immigration."
+        }
+      ],
+      "sources": [
+        "Al Arabiya",
+        "The Guardian"
+      ],
+      "urls": [
+        "https://english.alarabiya.net/News/united-states/2026/06/08/trump-s-100000-h1b-visa-fee-is-unlawful-us-judge-rules",
+        "https://www.theguardian.com/us-news/2026/jun/08/trump-h-1b-visa-fee-invalidated"
+      ]
     },
     {
       "headline": "Nuclear Powers Increasingly Dependent on Atomic Weapons Amid Global Tensions",
@@ -172,21 +206,37 @@
       "timestamp": "2026-06-09T03:03:00+03:00"
     },
     {
-      "headline": "Nuclear Weapons Spending Hits Record $119 Billion as Arms Race Intensifies",
-      "summary": "Global spending on nuclear weapons rose 19% in 2025 to $119 billion, the highest since tracking began. The US led with $69.2 billion, more than all other nuclear states combined, while China increased spending by 7% to $13.5 billion.",
-      "emoji": "☢️",
-      "category": "Military",
-      "source": "Reuters",
-      "url": "https://www.usnews.com/news/world/articles/2026-06-08/us-leads-record-rise-in-spending-on-nuclear-arsenals-campaign-group-says",
-      "timestamp": "2026-06-09T02:10:00+03:00"
-    },
-    {
       "headline": "ICC Chief Prosecutor Karim Khan Suspended Over Sexual Misconduct Allegations",
       "summary": "The International Criminal Court's oversight body suspended Chief Prosecutor Karim Khan late Monday, referring him for disciplinary proceedings. Khan faces allegations of sexual misconduct with a female aide spanning more than two years, which he denies.",
       "emoji": "⚖️",
       "category": "Diplomacy",
       "source": "AP News",
       "url": "https://apnews.com/article/international-criminal-court-khan-suspended-8d7b68e361a27ef08cfe515a131af230",
+      "timestamp": "2026-06-09T02:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/icc-chief-prosecutor-suspended-after-probe-finds-he-committed-serious-sexual-misconduct/",
+          "angle": "ICC Chief Prosecutor Karim Khan Suspended After Sexual Misconduct Probe",
+          "summary": "The International Criminal Court suspended chief prosecutor Karim Khan pending a vote by member states, following an investigation that found he committed serious sexual misconduct."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "Times of Israel"
+      ],
+      "urls": [
+        "https://apnews.com/article/international-criminal-court-khan-suspended-8d7b68e361a27ef08cfe515a131af230",
+        "https://www.timesofisrael.com/liveblog_entry/icc-chief-prosecutor-suspended-after-probe-finds-he-committed-serious-sexual-misconduct/"
+      ]
+    },
+    {
+      "headline": "Nuclear Weapons Spending Hits Record $119 Billion as Arms Race Intensifies",
+      "summary": "Global spending on nuclear weapons rose 19% in 2025 to $119 billion, the highest since tracking began. The US led with $69.2 billion, more than all other nuclear states combined, while China increased spending by 7% to $13.5 billion.",
+      "emoji": "☢️",
+      "category": "Military",
+      "source": "Reuters",
+      "url": "https://www.usnews.com/news/world/articles/2026-06-08/us-leads-record-rise-in-spending-on-nuclear-arsenals-campaign-group-says",
       "timestamp": "2026-06-09T02:10:00+03:00"
     },
     {
@@ -253,19 +303,19 @@
       "timestamp": "2026-06-09T01:03:00+03:00",
       "perspectives": [
         {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cp8lm75186lo",
-          "angle": "Israel-Iran flare-up tests Trump's grip on Middle East diplomacy",
-          "summary": "The brief exchange of fire between Israel and Iran reveals how destabilized the region remains, with both sides testing the limits of ceasefires and U.S. pressure."
+          "source": "Al Arabiya",
+          "url": "https://english.alarabiya.net/News/middle-east/2026/06/08/israel-army-says-struck-and-dismantled-strategic-defense-systems-in-iran",
+          "angle": "Israel Strikes and Dismantles Strategic Defense Systems in Iran",
+          "summary": "The Israeli military struck and dismantled Iranian defense systems deployed across several areas in Iran, continuing operations despite the fragile ceasefire declared after 100+ days of conflict."
         }
       ],
       "sources": [
         "Reuters",
-        "BBC"
+        "Al Arabiya"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/trump-says-new-israel-iran-strikes-wont-affect-peace-deal-2026-06-08/",
-        "https://www.bbc.com/news/articles/cp8lm75186lo"
+        "https://english.alarabiya.net/News/middle-east/2026/06/08/israel-army-says-struck-and-dismantled-strategic-defense-systems-in-iran"
       ]
     },
     {
@@ -693,15 +743,6 @@
       "category": "US Politics",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/06/08/us/politics/trump-denaturalization.html",
-      "timestamp": "2026-06-08T21:03:00+03:00"
-    },
-    {
-      "headline": "Federal judge rules Trump 100,000 dollar H-1B visa fee unlawful",
-      "summary": "A federal judge struck down the 100,000 dollar fee President Donald Trump ordered for H-1B visa applications, providing a reprieve for highly skilled worker immigration.",
-      "emoji": "⚖️",
-      "category": "US Politics",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jun/08/trump-h-1b-visa-fee-invalidated",
       "timestamp": "2026-06-08T21:03:00+03:00"
     },
     {
@@ -3099,15 +3140,6 @@
         "https://www.reuters.com/world/europe/ukraine-russia-exchange-185-prisoners-war-each-swap-2026-06-05/",
         "https://www.reuters.com/world/europe/ukraine-russia-exchange-185-prisoners-war-each-swap-2026-06-05/"
       ]
-    },
-    {
-      "headline": "US companies to add 40 million barrels to Strategic Petroleum Reserve after Iran war",
-      "summary": "Energy Secretary Chris Wright announced that companies borrowing oil from the US Strategic Petroleum Reserve will add back an extra 40 million barrels as premiums once the Iran conflict ends, addressing concerns about depleted domestic reserves.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/companies-add-40-mln-barrels-oil-us-spr-after-iran-war-ends-energy-secretary-2026-06-05/",
-      "timestamp": "2026-06-06T13:03:00+03:00"
     }
   ]
 }
