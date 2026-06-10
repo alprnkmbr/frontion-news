@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-11T00:06:50+03:00",
+  "lastUpdated": "2026-06-11T01:05:22+03:00",
   "headlines": [
+    {
+      "headline": "US Launches Fresh Strikes on Iran as Trump Warns of More Attacks",
+      "summary": "The US military conducted a second day of strikes against Iranian targets after President Trump vowed to hit Iran 'very hard,' further straining an already fragile ceasefire as Tehran fired missiles at US bases in the Gulf and Jordan.",
+      "emoji": "🇺🇸",
+      "category": "US-Iran War",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/us-launches-more-strikes-against-iran-further-straining-truce",
+      "timestamp": "2026-06-11T01:03:00+03:00"
+    },
+    {
+      "headline": "Israeli Airstrikes Kill 13 in Southern Lebanon as Hezbollah Conflict Escalates",
+      "summary": "Israeli airstrikes in southern Lebanon killed at least 13 people on Wednesday, Lebanese security sources said, as Israel pressed its campaign against Hezbollah, with the Iran-backed group claiming fresh attacks against Israeli forces in the south.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israeli-airstrikes-kill-13-south-lebanon-lebanese-sources-say-2026-06-10/",
+      "timestamp": "2026-06-11T01:03:00+03:00"
+    },
+    {
+      "headline": "US Inflation Hits Three-Year High at 4.2% as Iran War Drives Energy Prices Higher",
+      "summary": "Consumer prices rose at the fastest pace in three years in May, reaching 4.2% annually, as the Middle East conflict sent energy costs surging and gave the Federal Reserve ammunition to keep interest rates unchanged into 2027.",
+      "emoji": "💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/us-consumer-prices-increase-expected-may-2026-06-10/",
+      "timestamp": "2026-06-11T01:03:00+03:00"
+    },
+    {
+      "headline": "China's Producer Inflation Reaches Near 4-Year High on Global Energy Shock",
+      "summary": "China's producer prices rose for a third straight month in May to the highest since July 2022, while consumer prices stayed elevated as global energy prices piled cost pressures on manufacturers and drove up living costs for households.",
+      "emoji": "🇨🇳",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/chinas-may-producer-inflation-highest-nearly-4-years-consumer-prices-also-rise-2026-06-10/",
+      "timestamp": "2026-06-11T01:03:00+03:00"
+    },
+    {
+      "headline": "UN Nuclear Watchdog Demands Iran Report Enriched Uranium Stocks",
+      "summary": "The IAEA's 35-nation Board of Governors passed a US-backed resolution telling Iran to declare its remaining enriched uranium stocks and allow inspectors to verify them, a move that could complicate Washington's ongoing talks with Tehran.",
+      "emoji": "☢️",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/iaea-board-passes-resolution-demanding-iran-report-uranium-stocks-diplomats-say-2026-06-10/",
+      "timestamp": "2026-06-11T01:03:00+03:00"
+    },
     {
       "headline": "Erdogan warns Israel's attacks on Syria, Lebanon now threaten Turkey",
       "summary": "Turkish President Erdogan stated that Israel's military operations in Syria and Lebanon have escalated to the point where they threaten Turkey itself, calling Israel's aggression a threat to the whole world.",
@@ -8,7 +53,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/erdogan-says-israels-attacks-syria-lebanon-threaten-turkey-too-2026-06-10/",
-      "timestamp": "2026-06-11T00:05:00+03:00"
+      "timestamp": "2026-06-11T00:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Arabiya",
+          "url": "https://english.alarabiya.net/News/middle-east/2026/06/10/erdogan-says-israel-s-attacks-on-syria-lebanon-threaten-turkey-too",
+          "angle": "Erdogan warns Israel attacks on Syria and Lebanon threaten Turkiye directly",
+          "summary": "Turkish President Erdogan said Israeli operations in Syria and Lebanon have escalated to the point where they pose a direct threat to Turkey, calling the aggression a danger to the entire region."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Al Arabiya"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/erdogan-says-israels-attacks-syria-lebanon-threaten-turkey-too-2026-06-10/",
+        "https://english.alarabiya.net/News/middle-east/2026/06/10/erdogan-says-israel-s-attacks-on-syria-lebanon-threaten-turkey-too"
+      ]
     },
     {
       "headline": "Ukraine partners with Taurus missile maker for deep strike systems",
@@ -44,7 +105,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/boj-says-governor-ueda-has-been-hospitalised-2026-06-10/",
-      "timestamp": "2026-06-11T00:03:00+03:00"
+      "timestamp": "2026-06-11T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/boj-says-governor-ueda-has-been-hospitalised-2026-06-10/",
+          "angle": "Bank of Japan Governor Hospitalized, Will Miss Key Policy Meeting",
+          "summary": "BOJ Governor Kazuo Ueda has been hospitalized for medical treatment and will miss the June 15-16 policy meeting, where the central bank was expected to raise interest rates to 1.0% amid inflation concerns."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/boj-says-governor-ueda-has-been-hospitalised-2026-06-10/",
+        "https://www.reuters.com/world/asia-pacific/boj-says-governor-ueda-has-been-hospitalised-2026-06-10/"
+      ]
     },
     {
       "headline": "Israel Kills 16 in Lebanon as UN Announces International Law Probe",
@@ -160,15 +237,6 @@
         "https://apnews.com/article/nasa-artemis-iii-crew-7c09de3e1fd5b1f7fbfc9e9d702d71a5",
         "https://www.bbc.com/news/articles/cr5j40ezgz4o"
       ]
-    },
-    {
-      "headline": "Bank of Japan Governor Hospitalized, Will Miss Key Policy Meeting",
-      "summary": "BOJ Governor Kazuo Ueda has been hospitalized for medical treatment and will miss the June 15-16 policy meeting, where the central bank was expected to raise interest rates to 1.0% amid inflation concerns.",
-      "emoji": "🇯🇵🏦",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/boj-says-governor-ueda-has-been-hospitalised-2026-06-10/",
-      "timestamp": "2026-06-10T21:03:00+03:00"
     },
     {
       "headline": "Iran War Fears Double Container Shipping Rates from Asia to US",
@@ -624,15 +692,6 @@
         "https://www.reuters.com/business/energy/oil-rises-nearly-1-us-launches-new-strikes-against-iran-supply-tightens-2026-06-10/",
         "https://www.reuters.com/business/energy/oil-rises-slightly-investors-await-clarity-after-iran-israel-halt-attacks-2026-06-09/"
       ]
-    },
-    {
-      "headline": "Erdogan warns Israel attacks on Syria and Lebanon threaten Turkiye directly",
-      "summary": "Turkish President Erdogan said Israeli operations in Syria and Lebanon have escalated to the point where they pose a direct threat to Turkey, calling the aggression a danger to the entire region.",
-      "emoji": "🇹🇷",
-      "category": "Middle East",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/middle-east/2026/06/10/erdogan-says-israel-s-attacks-on-syria-lebanon-threaten-turkey-too",
-      "timestamp": "2026-06-10T14:05:00+03:00"
     },
     {
       "headline": "Erdogan declares Turkiye security begins from Aleppo, Damascus and Beirut",
@@ -2866,125 +2925,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/news/china/politics/article/3356389/taiwan-hits-back-beijings-cognitive-warfare-after-coastguard-patrols",
       "timestamp": "2026-06-09T00:09:00+03:00"
-    },
-    {
-      "headline": "Russia Rejects Ukrainian, European Peace Initiatives, Says Battlefield Will Decide War",
-      "summary": "Senior Russian officials effectively rejected recent Ukrainian and European proposals aimed at restarting peace talks, signaling that Moscow sees military gains as the path to resolution.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russia-rejects-ukrainian-european-peace-initiatives-says-battlefield-will-decide-war/",
-      "timestamp": "2026-06-09T00:09:00+03:00"
-    },
-    {
-      "headline": "Polish Concerns Over Ukraine EU Entry \"Solved,\" Enlargement Chief Says",
-      "summary": "The EU's enlargement chief Marta Kos said concerns raised by Poland over Ukraine's EU accession have been addressed at the working level, potentially smoothing the path for Kyiv's membership bid.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/polish-concerns-over-ukraine-eu-entry-solved-eu-enlargement-chief-says/",
-      "timestamp": "2026-06-09T00:09:00+03:00"
-    },
-    {
-      "headline": "NATO's Ankara Summit: A Reckoning for the Alliance",
-      "summary": "As NATO allies confront uncertainties on multiple fronts, the upcoming Ankara Summit may become the alliance's most important meeting of the decade, with Turkey playing host amid shifting regional dynamics.",
-      "emoji": "🇹🇷",
-      "category": "Diplomacy",
-      "source": "Daily Sabah",
-      "url": "https://www.dailysabah.com/opinion/columns/natos-ankara-summit-reckoning-for-the-alliance",
-      "timestamp": "2026-06-09T00:09:00+03:00"
-    },
-    {
-      "headline": "Pope Leo XIV warns of 'profound crisis' in historic address to Spanish parliament",
-      "summary": "In his first speech to a national parliament, Pope Leo XIV called for respect for migrants and international law, warning that escalating conflicts and polarization have pushed the world into a deep crisis.",
-      "emoji": "⛪",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/pope-leo-warns-spains-parliament-world-is-profound-crisis-2026-06-08/",
-      "timestamp": "2026-06-09T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/spain-pope-parliament-migration-iran-8067640c81f133386e748985653f6d8a",
-          "angle": "Pope Leo XIV Delivers Historic Address to Spanish Parliament, Demands Respect for Migrants",
-          "summary": "In an unprecedented speech to Spain's Congress of Deputies, Pope Leo XIV called for respecting migrants and received a 7-minute standing ovation, marking the first time a pope has addressed the Spanish parliament."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/pope-leo-warns-spains-parliament-world-is-profound-crisis-2026-06-08/",
-        "https://apnews.com/article/spain-pope-parliament-migration-iran-8067640c81f133386e748985653f6d8a"
-      ]
-    },
-    {
-      "headline": "Magnitude 7.8 earthquake kills at least 35 in southern Philippines",
-      "summary": "A powerful 7.8-magnitude earthquake struck off Mindanao island, killing at least 35 people and injuring dozens. Buildings collapsed in General Santos City as authorities launched search and rescue operations.",
-      "emoji": "🇵🇭",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/environment/philippines-verifying-reports-least-five-deaths-after-magnitude-78-quake-2026-06-08/",
-      "timestamp": "2026-06-09T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/economy/natural-disasters/19-dead-12-missing-after-7-8-magnitude-quake-hits-southern-philippines",
-          "angle": "Philippines Earthquake Kills 19, Leaves 12 Missing",
-          "summary": "A powerful 7.8-magnitude earthquake struck off the southern coast of the Philippines, killing at least 19 people and leaving 12 missing as landslides damaged buildings."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/environment/philippines-verifying-reports-least-five-deaths-after-magnitude-78-quake-2026-06-08/",
-          "angle": "Philippines Verifying at Least Five Deaths After 7.8 Magnitude Quake",
-          "summary": "Authorities are confirming casualties in General Santos city after a powerful 7.8 earthquake struck off Mindanao island, triggering tsunami warnings across the Pacific region."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Nikkei Asia",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/environment/philippines-verifying-reports-least-five-deaths-after-magnitude-78-quake-2026-06-08/",
-        "https://asia.nikkei.com/economy/natural-disasters/19-dead-12-missing-after-7-8-magnitude-quake-hits-southern-philippines",
-        "https://www.reuters.com/business/environment/philippines-verifying-reports-least-five-deaths-after-magnitude-78-quake-2026-06-08/"
-      ]
-    },
-    {
-      "headline": "Apple unveils AI-powered Siri overhaul at WWDC 2026",
-      "summary": "Apple announced a major revamp of its voice assistant at its annual developers conference, introducing 'Siri AI' with better voice recognition and a standalone app, marking the company's long-awaited push into generative AI.",
-      "emoji": "📱",
-      "category": "Technology",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/apples-wwdc-conference-kicks-off-investors-want-know-if-ai-will-save-siri-2026-06-08/",
-      "timestamp": "2026-06-09T00:03:00+03:00"
-    },
-    {
-      "headline": "Chinese military maneuvered near Taiwan as global tech executives gathered",
-      "summary": "A hostile maritime exchange with China developed as Nvidia, Intel and other tech leaders attended a major Taiwan tech showcase, underscoring the island strategic importance.",
-      "emoji": "🇨🇳",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/chinese-military-hovered-global-executives-flocked-taiwan-tech-show-2026-06-08/",
-      "timestamp": "2026-06-08T23:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/chinese-military-hovered-global-executives-flocked-taiwan-tech-show-2026-06-08/",
-          "angle": "Chinese warships shadow global executives at Taiwan AI tech summit",
-          "summary": "As Nvidia, Intel and other tech leaders gathered for Taiwan's Computex, Chinese military vessels conducted operations nearby, underscoring tensions over the island that hosts the world's most advanced chip production."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/chinese-military-hovered-global-executives-flocked-taiwan-tech-show-2026-06-08/",
-        "https://www.reuters.com/world/asia-pacific/chinese-military-hovered-global-executives-flocked-taiwan-tech-show-2026-06-08/"
-      ]
     }
   ]
 }
