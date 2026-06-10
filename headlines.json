@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-10T14:07:18+03:00",
+  "lastUpdated": "2026-06-10T15:05:51+03:00",
   "headlines": [
+    {
+      "headline": "Pakistan Launches Deadly Airstrikes on Afghanistan, Killing at Least 13 Including Children",
+      "summary": "Pakistani airstrikes targeted three Afghan provinces killing at least 13 people including 11 children, the Taliban government said, marking a major escalation in border tensions.",
+      "emoji": "🇵🇰",
+      "category": "South Asia",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/pakistan-airstrikes-kill-least-13-afghanistan-taliban-says-2026-06-10/",
+      "timestamp": "2026-06-10T15:03:00+03:00"
+    },
+    {
+      "headline": "Masked Men Burn Families Out of Homes in Belfast Anti-Immigrant Riots",
+      "summary": "A wave of anti-immigrant violence swept Belfast after a Sudanese man was charged with attempted murder for a knife attack. Masked men torched homes and vehicles across Northern Ireland.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/uk/anti-immigrant-violence-erupts-across-belfast-after-knife-attack-2026-06-10/",
+      "timestamp": "2026-06-10T15:03:00+03:00"
+    },
+    {
+      "headline": "Russian General Killed in Car Bomb Explosion Outside Moscow",
+      "summary": "A senior Russian defense ministry official responsible for missile and artillery ammunition was killed in a car bombing near Moscow, with reports suggesting his son may have inadvertently exposed his location.",
+      "emoji": "⚔️",
+      "category": "Ukraine-Russia War",
+      "source": "Telegraph",
+      "url": "https://www.telegraph.co.uk/world-news/2026/06/10/moscow-car-bomb-military-chief/",
+      "timestamp": "2026-06-10T15:03:00+03:00"
+    },
+    {
+      "headline": "Oil Prices Rise 2% as Trump Says Iran Will Pay Price for Stalled Talks",
+      "summary": "Oil prices climbed after President Trump warned Iran would face consequences for delays in negotiations, following tit-for-tat strikes between US and Iranian forces overnight.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-rises-nearly-1-us-launches-new-strikes-against-iran-supply-tightens-2026-06-10/",
+      "timestamp": "2026-06-10T15:03:00+03:00"
+    },
+    {
+      "headline": "Ukraine Launches Long-Range Strikes Deep Inside Russia",
+      "summary": "Ukrainian forces hit military and energy targets deep inside Russia in a series of long-range attacks, striking a military plant, oil refinery, and shadow fleet tanker in the Black Sea.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/drones-hit-historic-museum-russia-annexed-crimea-officials-alter-train-schedule-2026-06-10/",
+      "timestamp": "2026-06-10T15:03:00+03:00"
+    },
     {
       "headline": "ECB and Bank of England face difficult rate decisions as Iran war drives inflation",
       "summary": "European Central Bank and Bank of England policymakers are weighing competing risks as the Iran conflict pushes energy prices higher, forcing them to choose between fighting inflation and supporting growth.",
@@ -8,15 +53,6 @@
       "category": "Economy",
       "source": "Politico",
       "url": "https://www.politico.eu/article/ecb-boe-weigh-possible-mistakes-iran-war-inflation/",
-      "timestamp": "2026-06-10T14:05:00+03:00"
-    },
-    {
-      "headline": "Iran fires missiles at US bases in Jordan and Bahrain, warns Gulf states",
-      "summary": "Iran launched attacks on American military installations in Jordan and Bahrain in retaliation for US strikes, warning neighboring Gulf countries against supporting US-Israeli operations.",
-      "emoji": "⚔️",
-      "category": "Middle East",
-      "source": "PunchNG",
-      "url": "https://punchng.com/iran-attacks-us-bases-in-jordan-bahrain/",
       "timestamp": "2026-06-10T14:05:00+03:00"
     },
     {
@@ -80,7 +116,23 @@
       "category": "Europe",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/10/why-has-belfast-erupted-in-anti-immigrant-violence-after-a-knife-attack",
-      "timestamp": "2026-06-10T14:03:00+03:00"
+      "timestamp": "2026-06-10T14:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/10/protesters-torch-cars-buildings-in-belfast-after-knife-attack",
+          "angle": "Protesters torch vehicles and buildings in Belfast after refugee knife attack",
+          "summary": "Anti-immigrant protesters in Belfast, Northern Ireland, set fire to vehicles and buildings following a knife attack by a Sudanese refugee, marking a significant escalation in local tensions."
+        }
+      ],
+      "sources": [
+        "Al Jazeera",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://www.aljazeera.com/news/2026/6/10/why-has-belfast-erupted-in-anti-immigrant-violence-after-a-knife-attack",
+        "https://www.aljazeera.com/news/2026/6/10/protesters-torch-cars-buildings-in-belfast-after-knife-attack"
+      ]
     },
     {
       "headline": "Iran strikes US bases in Jordan and Gulf after Trump orders attacks near Hormuz",
@@ -498,15 +550,6 @@
       "timestamp": "2026-06-10T07:05:00+03:00"
     },
     {
-      "headline": "Protesters torch vehicles and buildings in Belfast after refugee knife attack",
-      "summary": "Anti-immigrant protesters in Belfast, Northern Ireland, set fire to vehicles and buildings following a knife attack by a Sudanese refugee, marking a significant escalation in local tensions.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/10/protesters-torch-cars-buildings-in-belfast-after-knife-attack",
-      "timestamp": "2026-06-10T07:05:00+03:00"
-    },
-    {
       "headline": "China prepares $295 billion AI infrastructure plan to challenge US dominance",
       "summary": "China is preparing to spend around 2 trillion yuan ($295 billion) over five years on building data centers nationwide as Beijing intensifies its AI race with the United States.",
       "emoji": "🇨🇳",
@@ -547,7 +590,23 @@
       "category": "Middle East",
       "source": "Anadolu Agency",
       "url": "https://www.aa.com.tr/en/middle-east/iranian-military-says-us-bases-targeted-in-region/3962032",
-      "timestamp": "2026-06-10T06:10:00+03:00"
+      "timestamp": "2026-06-10T06:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "PunchNG",
+          "url": "https://punchng.com/iran-attacks-us-bases-in-jordan-bahrain/",
+          "angle": "Iran fires missiles at US bases in Jordan and Bahrain, warns Gulf states",
+          "summary": "Iran launched attacks on American military installations in Jordan and Bahrain in retaliation for US strikes, warning neighboring Gulf countries against supporting US-Israeli operations."
+        }
+      ],
+      "sources": [
+        "Anadolu Agency",
+        "PunchNG"
+      ],
+      "urls": [
+        "https://www.aa.com.tr/en/middle-east/iranian-military-says-us-bases-targeted-in-region/3962032",
+        "https://punchng.com/iran-attacks-us-bases-in-jordan-bahrain/"
+      ]
     },
     {
       "headline": "Kuwait Intercepts Hostile Aerial Targets Amid Regional Escalation",
@@ -2882,101 +2941,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/news/world/united-states-canada/article/3356284/trump-storms-out-tense-nbc-interview-about-iran-war-strategy",
       "timestamp": "2026-06-08T14:05:00+03:00"
-    },
-    {
-      "headline": "French Army has recruits but lacks equipment",
-      "summary": "Frances deputy army chief reports a recruitment surplus but critical equipment shortages, highlighting the gap between personnel growth and military hardware capacity.",
-      "emoji": "🇫🇷",
-      "category": "Defense Industry",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/global/europe/2026/06/08/french-army-has-recruitment-surplus-but-lacks-equipment-deputy-chief-says/",
-      "timestamp": "2026-06-08T14:05:00+03:00"
-    },
-    {
-      "headline": "Pope Leo XIV and Spain's Sánchez unite against Trump policies",
-      "summary": "Pope Leo XIV met with Spanish Prime Minister Pedro Sánchez in Rome on Monday, discussing shared opposition to President Trump's policies. The meeting highlights growing international coordination against US trade and diplomatic moves.",
-      "emoji": "🇻🇦🇪🇸",
-      "category": "Diplomacy",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/08/world/europe/pope-leo-sanchez-trump.html",
-      "timestamp": "2026-06-08T14:03:00+03:00"
-    },
-    {
-      "headline": "Meta sues Israeli spyware firm NSO Group for violating WhatsApp injunction",
-      "summary": "Meta filed a federal court contempt order against NSO Group for violating a permanent injunction that barred the firm from targeting WhatsApp and its users.",
-      "emoji": "⚖️",
-      "category": "Cyber",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/litigation/meta-takes-legal-action-against-israeli-spyware-firm-nso-group-2026-06-08/",
-      "timestamp": "2026-06-08T13:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Hill",
-          "url": "https://thehill.com/policy/technology/5917257-meta-whatsapp-nso-group-pegasus-phishing/",
-          "angle": "Meta Accuses Israeli Spyware Firm of Targeting WhatsApp Users Again",
-          "summary": "Meta alleges an Israeli spyware firm violated a court order restricting phishing attempts on WhatsApp, continuing concerns over surveillance technology."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "The Hill"
-      ],
-      "urls": [
-        "https://www.reuters.com/legal/litigation/meta-takes-legal-action-against-israeli-spyware-firm-nso-group-2026-06-08/",
-        "https://thehill.com/policy/technology/5917257-meta-whatsapp-nso-group-pegasus-phishing/"
-      ]
-    },
-    {
-      "headline": "Amnesty: Cambodia scam centers still operating despite crackdowns",
-      "summary": "Dozens of suspected global scam compounds in Cambodia remain operational despite months-long crackdown by authorities, Amnesty International reported.",
-      "emoji": "🇰🇭",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/government/amnesty-says-cambodia-scam-centres-still-operating-despite-crackdowns-2026-06-08/",
-      "timestamp": "2026-06-08T13:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/southeast-asia/article/3356291/cambodias-performative-crackdowns-fail-stop-scam-centres-amnesty",
-          "angle": "Amnesty: Cambodia scam centre crackdown ineffective",
-          "summary": "A new Amnesty report finds that Cambodias performative crackdowns have failed to stop scam centres exploiting workers, despite government claims of progress."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "SCMP"
-      ],
-      "urls": [
-        "https://www.reuters.com/legal/government/amnesty-says-cambodia-scam-centres-still-operating-despite-crackdowns-2026-06-08/",
-        "https://www.scmp.com/news/asia/southeast-asia/article/3356291/cambodias-performative-crackdowns-fail-stop-scam-centres-amnesty"
-      ]
-    },
-    {
-      "headline": "UK Prime Minister Starmer set to ban harmful social media for under-16s",
-      "summary": "British PM Keir Starmer is expected to announce a ban on harmful online platforms for children under 16 while maintaining access to safer forms of social media.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/litigation/uk-pm-starmer-set-ban-harmful-social-media-under-16s-2026-06-08/",
-      "timestamp": "2026-06-08T13:10:00+03:00"
-    },
-    {
-      "headline": "UN urges Afghan Taliban to end arrests of women over dress rules",
-      "summary": "The United Nations mission in Afghanistan expressed concern over arrests of women for failing to comply with dress requirements and urged Taliban authorities to treat all people equally.",
-      "emoji": "🇦🇫",
-      "category": "South Asia",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/un-urges-afghan-taliban-end-arrests-women-over-dress-rules-2026-06-08/",
-      "timestamp": "2026-06-08T13:10:00+03:00"
-    },
-    {
-      "headline": "Japanese Yen Lingers Above ¥160 to Dollar as BOJ Meeting Approaches",
-      "summary": "The yen traded back above ¥160 to the dollar, testing levels not seen in decades as markets await the Bank of Japan policy meeting. The currency remains under pressure from widening US-Japan interest rate differentials.",
-      "emoji": "🇯🇵💴",
-      "category": "Economy",
-      "source": "Japan Times",
-      "url": "https://www.japantimes.co.jp/business/2026/06/08/markets/yen-dollar-160/",
-      "timestamp": "2026-06-08T12:10:00+03:00"
     }
   ]
 }
