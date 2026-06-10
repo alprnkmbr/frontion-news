@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-06-10T19:13:07+03:00",
+  "lastUpdated": "2026-06-10T20:04:35+03:00",
   "headlines": [
     {
-      "headline": "Trump Threatens More Strikes on Iran After Regional Attacks",
-      "summary": "President Trump warned Iran would \"pay the price\" for delays in nuclear negotiations as Iranian forces struck US bases in Jordan and Bahrain. The US launched additional airstrikes on Iranian military sites.",
+      "headline": "Iran Attacks US Bases in Jordan and Bahrain",
+      "summary": "Iran targeted American military installations in Jordan and Bahrain, the latest escalation in tit-for-tat strikes with the United States. Tehran warned Gulf neighbors they could face consequences if they allowed US operations from their territory.",
       "emoji": "🇮🇷🇺🇸⚔️",
       "category": "US-Iran War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-10-june-2026-b7ec462890f3c2afa12bd5c0672f2b6b",
-      "timestamp": "2026-06-10T19:11:00+03:00"
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-06-10/trump-warns-iran-will-pay-the-price-as-talks-continue",
+      "timestamp": "2026-06-10T20:03:00+03:00"
+    },
+    {
+      "headline": "UN Chief Warns of Return to Full-Scale War in Middle East",
+      "summary": "Secretary-General Antonio Guterres warned of the risk of returning to full war in the Middle East after Iran and the United States traded strikes. The UN called for immediate de-escalation and a return to diplomatic negotiations.",
+      "emoji": "🇺🇳⚔️",
+      "category": "Middle East",
+      "source": "Asharq Al-Awsat",
+      "url": "https://english.aawsat.com/world/5282573-un-chief-warns-risk-return-%E2%80%98full-war%E2%80%99-middle-east",
+      "timestamp": "2026-06-10T20:03:00+03:00"
+    },
+    {
+      "headline": "US Consumer Inflation Hits Three-Year High Amid Iran War",
+      "summary": "Consumer prices rose 4.2% annually in May, the fastest pace in three years, driven by surging energy costs from the Middle East conflict. The data gives the Federal Reserve reason to keep interest rates unchanged into 2027.",
+      "emoji": "🇺🇸💰📈",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/us-consumer-prices-increase-expected-may-2026-06-10/",
+      "timestamp": "2026-06-10T20:03:00+03:00"
+    },
+    {
+      "headline": "EU and South Korea Sign Digital Trade Pact",
+      "summary": "The European Union and South Korea signed a digital trade agreement to facilitate digital transactions and strengthen economic ties. The pact comes as both sides seek to diversify trade relationships amid global uncertainty.",
+      "emoji": "🇪🇺🇰🇷💻",
+      "category": "Diplomacy",
+      "source": "US News",
+      "url": "https://www.usnews.com/news/world/articles/2026-06-10/eu-and-south-korea-deepen-ties-with-digital-pact-to-bolster-trade",
+      "timestamp": "2026-06-10T20:03:00+03:00"
+    },
+    {
+      "headline": "Foreign Outflows Surge from Asian Equities on Middle East Risks",
+      "summary": "Asian equity markets are experiencing significant foreign outflows in June as investors retreat from risk amid escalating Middle East hostilities and a pullback in AI-linked technology stocks. The trend highlights regional vulnerability to geopolitical shocks.",
+      "emoji": "🌏📉",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/foreign-outflows-asian-equities-surge-middle-east-risks-tech-rout-2026-06-10/",
+      "timestamp": "2026-06-10T20:03:00+03:00"
     },
     {
       "headline": "Bank of Japan Set to Raise Key Rate to 1.0% in June",
@@ -44,7 +80,23 @@
       "category": "South Asia",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/pakistan-says-all-aboard-military-helicopter-killed-crash-pakistani-kashmir-2026-06-10/",
-      "timestamp": "2026-06-10T19:11:00+03:00"
+      "timestamp": "2026-06-10T19:11:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/10/pakistan-military-helicopter-crashes-in-kashmir-all-on-board-killed",
+          "angle": "Pakistan Military Helicopter Crashes in Kashmir, All Killed",
+          "summary": "A Pakistani military helicopter crashed in Pakistan-administered Kashmir, killing everyone on board. The incident comes amid heavy security presence and protests in the region in recent days."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/pakistan-says-all-aboard-military-helicopter-killed-crash-pakistani-kashmir-2026-06-10/",
+        "https://www.aljazeera.com/news/2026/6/10/pakistan-military-helicopter-crashes-in-kashmir-all-on-board-killed"
+      ]
     },
     {
       "headline": "Russian and Ukrainian Drones Stray Into NATO Countries as Aerial War Spills Over",
@@ -253,15 +305,6 @@
       "timestamp": "2026-06-10T16:00:00+03:00"
     },
     {
-      "headline": "Pakistan Military Helicopter Crashes in Kashmir, All Killed",
-      "summary": "A Pakistani military helicopter crashed in Pakistan-administered Kashmir, killing everyone on board. The incident comes amid heavy security presence and protests in the region in recent days.",
-      "emoji": "🇵🇰🚁💀",
-      "category": "South Asia",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/10/pakistan-military-helicopter-crashes-in-kashmir-all-on-board-killed",
-      "timestamp": "2026-06-10T16:00:00+03:00"
-    },
-    {
       "headline": "Ukraine Launches Long-Range Strikes Deep Inside Russia",
       "summary": "Ukrainian forces hit military and energy targets deep inside Russia in a series of long-range attacks, striking a military plant, oil refinery, and shadow fleet tanker in the Black Sea.",
       "emoji": "🇺🇦",
@@ -411,8 +454,8 @@
         {
           "source": "AP News",
           "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-10-june-2026-b7ec462890f3c2afa12bd5c0672f2b6b",
-          "angle": "US Strikes Iran, Tehran Fires Back at American Bases",
-          "summary": "The United States launched airstrikes on Iranian military sites after an Apache helicopter was downed near the Strait of Hormuz. Iran retaliated by targeting US bases in Jordan and the Gulf as President Trump warned Tehran would pay the price for stalled negotiations."
+          "angle": "Trump Threatens More Strikes on Iran After Regional Attacks",
+          "summary": "President Trump warned Iran would \"pay the price\" for delays in nuclear negotiations as Iranian forces struck US bases in Jordan and Bahrain. The US launched additional airstrikes on Iranian military sites."
         }
       ],
       "sources": [
@@ -2906,49 +2949,6 @@
         "https://www.reuters.com/business/energy/hormuz-strait-will-be-open-with-transit-fees-iran-envoy-moscow-quoted-2026-06-08/",
         "https://www.reuters.com/business/energy/hormuz-strait-will-be-open-with-transit-fees-iran-envoy-moscow-quoted-2026-06-08/"
       ]
-    },
-    {
-      "headline": "French jet on NATO mission shoots down drone in Latvian airspace",
-      "summary": "A French Rafale fighter jet shot down a drone that entered NATO member Latvia's airspace from Russia, the latest in a series of security incidents along Europe's eastern border.",
-      "emoji": "🇫🇷🇱🇻⚔️",
-      "category": "Defense",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/global/europe/2026/06/08/french-jet-on-nato-mission-shoots-down-drone-in-latvian-airspace/",
-      "timestamp": "2026-06-08T18:06:00+03:00",
-      "perspectives": [
-        {
-          "source": "Tempo.co",
-          "url": "https://en.tempo.co/read/2107525/latvia-nato-jet-shoots-down-stray-drone",
-          "angle": "NATO Fighter Shoots Down Drone Over Latvia in First Such Incident",
-          "summary": "A French Rafale on NATO patrol downed a drone that entered Latvian airspace from Russia, marking the first time NATO aircraft shot down an aerial threat over the Baltic state."
-        }
-      ],
-      "sources": [
-        "Defense News",
-        "Tempo.co"
-      ],
-      "urls": [
-        "https://www.defensenews.com/global/europe/2026/06/08/french-jet-on-nato-mission-shoots-down-drone-in-latvian-airspace/",
-        "https://en.tempo.co/read/2107525/latvia-nato-jet-shoots-down-stray-drone"
-      ]
-    },
-    {
-      "headline": "Russia warns Armenia of new trade curbs after pro-Western election",
-      "summary": "Russia signaled further restrictions on Armenian imports days after PM Pashinyan's election victory reinforced the country's pivot away from Moscow toward the West.",
-      "emoji": "🇷🇺🇦🇲⚠️",
-      "category": "Geopolitics",
-      "source": "Kyiv Post",
-      "url": "https://www.kyivpost.com/post/77760",
-      "timestamp": "2026-06-08T18:06:00+03:00"
-    },
-    {
-      "headline": "US imposes visa restrictions on Nicaraguans over indigenous leader death",
-      "summary": "The United States imposed additional visa restrictions on more than 100 Nicaraguan officials and their families over the death of indigenous leader Brooklyn Rivera.",
-      "emoji": "🇺🇸🇳🇮",
-      "category": "Latin America",
-      "source": "Straits Times",
-      "url": "https://www.straitstimes.com/world/us-adds-visa-restrictions-for-nicaraguans-over-death-of-indigenous-leader",
-      "timestamp": "2026-06-08T18:06:00+03:00"
     }
   ]
 }
