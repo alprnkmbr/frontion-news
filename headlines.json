@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-10T20:07:48+03:00",
+  "lastUpdated": "2026-06-10T21:06:04+03:00",
   "headlines": [
+    {
+      "headline": "Bank of Japan Governor Hospitalized, Will Miss Key Policy Meeting",
+      "summary": "BOJ Governor Kazuo Ueda has been hospitalized for medical treatment and will miss the June 15-16 policy meeting, where the central bank was expected to raise interest rates to 1.0% amid inflation concerns.",
+      "emoji": "🇯🇵🏦",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/boj-says-governor-ueda-has-been-hospitalised-2026-06-10/",
+      "timestamp": "2026-06-10T21:03:00+03:00"
+    },
+    {
+      "headline": "Iran War Fears Double Container Shipping Rates from Asia to US",
+      "summary": "The cost of shipping a container from Asia to the United States has doubled since the start of the Iran war, driven by spiking fuel prices and disruptions to global trade routes through the Strait of Hormuz.",
+      "emoji": "🚢💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/iran-war-anxiety-sends-global-container-shipping-rates-soaring-2026-06-10/",
+      "timestamp": "2026-06-10T21:03:00+03:00"
+    },
+    {
+      "headline": "Trump Vows More Strikes on Iran After Exchange of Attacks",
+      "summary": "The US launched airstrikes on Iranian military sites after Tehran shot down an American Apache helicopter near the Strait of Hormuz. Trump threatened to hit them hard again if no peace deal is reached, as back-and-forth attacks threaten an April ceasefire.",
+      "emoji": "⚔️🇮🇷",
+      "category": "US-Iran War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-10-june-2026-b7ec462890f3c2afa12bd5c0672f2b6b",
+      "timestamp": "2026-06-10T21:03:00+03:00"
+    },
+    {
+      "headline": "Two Merchant Vessels Damaged in Ukrainian Black Sea Corridor Attack",
+      "summary": "A Panamanian-flagged and a Barbadian-flagged vessel were damaged while transiting Ukraines Black Sea navigation corridor, highlighting ongoing risks to commercial shipping despite the corridors establishment.",
+      "emoji": "🚢🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/americas/panamanian-barbadian-vessels-damaged-by-attack-ukrainian-waters-ports-authority-2026-06-10/",
+      "timestamp": "2026-06-10T21:03:00+03:00"
+    },
+    {
+      "headline": "US Inflation Surges to 4.2% as Iran War Drives Energy Price Shock",
+      "summary": "Consumer prices rose at 4.2% annually in May, the fastest pace in three years, as the Iran conflict drove energy costs sharply higher and rippled through the broader economy.",
+      "emoji": "📈🛒",
+      "category": "Economy",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/live/2026/06/10/business/inflation-report-cpi",
+      "timestamp": "2026-06-10T21:03:00+03:00"
+    },
     {
       "headline": "India Accelerates Military Revamp to Counter China and Pakistan",
       "summary": "India is moving forward with Integrated Theatre Commands that would unite the army, navy and air force in its biggest military shake-up in decades, reflecting growing concerns about simultaneous two-front threats.",
@@ -44,7 +89,23 @@
       "category": "Middle East",
       "source": "Anadolu Agency",
       "url": "https://www.aa.com.tr/en/americas/us-says-its-forces-disable-oil-tanker-in-gulf-of-oman-for-alleged-violation-of-blockade/3963070",
-      "timestamp": "2026-06-10T20:06:00+03:00"
+      "timestamp": "2026-06-10T20:06:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Arabiya",
+          "url": "https://english.alarabiya.net/News/middle-east/2026/06/08/us-military-disables-unladen-oil-tanker-headed-to-iran-",
+          "angle": "US Military Disables Oil Tanker Headed to Iran in Gulf of Oman",
+          "summary": "US forces disabled a Palau-flagged oil tanker in the Gulf of Oman as the unladen vessel headed toward Iran, escalating enforcement of the US naval blockade amid the ongoing Iran-Israel conflict."
+        }
+      ],
+      "sources": [
+        "Anadolu Agency",
+        "Al Arabiya"
+      ],
+      "urls": [
+        "https://www.aa.com.tr/en/americas/us-says-its-forces-disable-oil-tanker-in-gulf-of-oman-for-alleged-violation-of-blockade/3963070",
+        "https://english.alarabiya.net/News/middle-east/2026/06/08/us-military-disables-unladen-oil-tanker-headed-to-iran-"
+      ]
     },
     {
       "headline": "UN Chief Warns of Return to Full-Scale War in Middle East",
@@ -2570,15 +2631,6 @@
       ]
     },
     {
-      "headline": "US Military Disables Oil Tanker Headed to Iran in Gulf of Oman",
-      "summary": "US forces disabled a Palau-flagged oil tanker in the Gulf of Oman as the unladen vessel headed toward Iran, escalating enforcement of the US naval blockade amid the ongoing Iran-Israel conflict.",
-      "emoji": "🇺🇸🛢️",
-      "category": "Middle East",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/middle-east/2026/06/08/us-military-disables-unladen-oil-tanker-headed-to-iran-",
-      "timestamp": "2026-06-09T04:06:00+03:00"
-    },
-    {
       "headline": "Iran Threatens to Defeat US Naval Blockade as Tensions Persist",
       "summary": "Iran top negotiator vowed to turn the US naval blockade into another defeat for the enemy, as Tehran faces increased maritime interdiction of its oil exports during the ongoing conflict with Israel.",
       "emoji": "🇮🇷🚢",
@@ -2881,58 +2933,6 @@
         "https://www.reuters.com/world/middle-east/yemens-iran-backed-houthis-threaten-israeli-shipping-red-sea-2026-06-08/",
         "https://timesofindia.indiatimes.com/world/middle-east/houthis-threaten-ban-on-israeli-ships-in-red-sea/articleshow/131599819.cms"
       ]
-    },
-    {
-      "headline": "EU Sanctions IRGC Navy Unit Over Strait of Hormuz Blockade",
-      "summary": "The European Union imposed sanctions on two Iranian individuals and an IRGC naval unit for restricting maritime traffic through the Strait of Hormuz, implementing asset freezes and travel bans.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "Euractiv",
-      "url": "https://www.euractiv.com/news/the-brief-eu-sanctions-on-iran/",
-      "timestamp": "2026-06-08T20:07:00+03:00"
-    },
-    {
-      "headline": "French Fighter Jet Shoots Down Drone in Latvian Airspace During NATO Mission",
-      "summary": "A French Rafale fighter on NATO air patrol shot down a drone that entered Latvian airspace, marking what appears to be the first such engagement in Europe and underscoring growing drone threats near Russian borders.",
-      "emoji": "🇫🇷",
-      "category": "Defense Industry",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/global/europe/2026/06/08/french-jet-on-nato-mission-shoots-down-drone-in-latvian-airspace/",
-      "timestamp": "2026-06-08T20:07:00+03:00"
-    },
-    {
-      "headline": "Trump Says Israel and Iran Seeking Immediate Ceasefire",
-      "summary": "US President Donald Trump stated both Israel and Iran are looking to do an immediate ceasefire, and that final negotiations on peace are proceeding. The announcement came as both sides halted strikes.",
-      "emoji": "🕊️",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/finance/trump-says-israel-iran-looking-do-immediate-ceasefire-2026-06-08/",
-      "timestamp": "2026-06-08T20:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/06/08/world/middleeast/netanyahu-trump-split-iran-lebanon.html",
-          "angle": "Netanyahu Defies Trump on Iran, Exposing US-Israel Policy Rift",
-          "summary": "President Trump has voiced frustration with Netanyahu over Israel's military actions, but analysts question whether Washington can effectively restrain Israeli operations in the region."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "New York Times"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/finance/trump-says-israel-iran-looking-do-immediate-ceasefire-2026-06-08/",
-        "https://www.nytimes.com/2026/06/08/world/middleeast/netanyahu-trump-split-iran-lebanon.html"
-      ]
-    },
-    {
-      "headline": "Republican Senators Warn Key US Surveillance Program May Lapse",
-      "summary": "Senators warned that a critical US surveillance authority could expire this week after bipartisan opposition to President Trump's intelligence pick. The program under debate allows warrantless collection of foreign communications.",
-      "emoji": "🏛️",
-      "category": "US Politics",
-      "source": "AP News",
-      "url": "https://apnews.com/article/fisa-trump-pulte-expire-c9a56f80e041fef166fbc9526c92decc",
-      "timestamp": "2026-06-08T20:03:00+03:00"
     }
   ]
 }
