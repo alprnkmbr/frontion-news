@@ -1,14 +1,32 @@
 {
-  "lastUpdated": "2026-06-10T22:09:15+03:00",
+  "lastUpdated": "2026-06-10T22:12:02+03:00",
   "headlines": [
     {
-      "headline": "Pakistan Airstrikes Kill 13 in Afghanistan, Including 11 Children",
-      "summary": "Pakistan launched deadly airstrikes on Afghan border regions, ending a month of calm in the conflict between the neighbors. Afghanistan reported 13 civilians killed including 11 children, while Pakistan claimed it targeted militant hideouts.",
-      "emoji": "🇵🇰🇦🇫",
-      "category": "South Asia",
-      "source": "AP News",
-      "url": "https://apnews.com/article/afghanistan-pakistan-airstrikes-children-killed-addc32b921147ed5bc1ee7b7b2cd5384",
-      "timestamp": "2026-06-10T22:05:00+03:00"
+      "headline": "US Navy Establishes Naval Support Activity in Western Australia Under AUKUS Pact",
+      "summary": "As part of the AUKUS security pact, NSA Stirling will provide support for personnel assigned to Submarine Rotational Forces, strengthening Western military presence in the Indo-Pacific.",
+      "emoji": "🇦🇺🇺🇸",
+      "category": "Defense Industry",
+      "source": "Defense News",
+      "url": "https://www.defensenews.com/news/your-navy/2026/06/10/us-navy-stands-up-naval-support-activity-in-western-australia/",
+      "timestamp": "2026-06-10T22:09:00+03:00"
+    },
+    {
+      "headline": "Mariupol Port No Longer Operational After Ukrainian Strikes, Azov Corps Says",
+      "summary": "Russian-occupied Mariupol's port has been rendered non-operational by Ukrainian strikes, a significant blow to Russian logistics in the Azov Sea region.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/ukraine-war-latest-russian-occupied-mariupol-port-no-longer-operational-after-ukrainian-strikes-azov-corps-says/",
+      "timestamp": "2026-06-10T22:09:00+03:00"
+    },
+    {
+      "headline": "ICEYE and Rheinmetall Form German Joint Venture for Space-Based ISR",
+      "summary": "Finnish SAR satellite company ICEYE and German defense giant Rheinmetall have launched a joint venture for space-based intelligence, surveillance, and reconnaissance capabilities.",
+      "emoji": "🇩🇪🛰️",
+      "category": "Defense Industry",
+      "source": "Breaking Defense",
+      "url": "https://breakingdefense.com/2026/06/iceye-rhenmetall-form-german-joint-venture-for-space-based-isr/",
+      "timestamp": "2026-06-10T22:09:00+03:00"
     },
     {
       "headline": "US Inflation Tops 4% for First Time in Three Years as Gas Prices Surge",
@@ -20,31 +38,29 @@
       "timestamp": "2026-06-10T22:05:00+03:00"
     },
     {
-      "headline": "Israeli Strikes Kill at Least 17 in Southern Lebanon as Conflict Escalates",
-      "summary": "Israeli air and artillery strikes intensified across southern Lebanon, killing 17 people including 9 in the town of Tayr Debba. Hezbollah announced retaliatory attacks on Israeli troops as the US-brokered ceasefire continues to fray.",
-      "emoji": "🇮🇱🇱🇧",
-      "category": "Middle East",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cpq3d44l907o",
-      "timestamp": "2026-06-10T22:05:00+03:00"
-    },
-    {
       "headline": "NASA Unveils Artemis III Crew to Test Technology for Future Moon Landing",
       "summary": "NASA announced four astronauts for the Artemis III mission: Randy Bresnik, Frank Rubio, Andre Douglas and ESA astronaut Luca Parmitano. They will orbit Earth while practicing docking with lunar landers targeted for 2027.",
       "emoji": "🚀🌙",
       "category": "Technology",
       "source": "AP News",
       "url": "https://apnews.com/article/nasa-artemis-iii-crew-7c09de3e1fd5b1f7fbfc9e9d702d71a5",
-      "timestamp": "2026-06-10T22:05:00+03:00"
-    },
-    {
-      "headline": "Somali World Cup Referee Denied US Entry Gets Heros Welcome in Mogadishu",
-      "summary": "Omar Artan, named Africas best referee in 2025, was denied entry to the US over vetting concerns and cut from the World Cup referee list. He returned home to a hero welcome, with thousands packing a Mogadishu stadium.",
-      "emoji": "⚽🇸🇴",
-      "category": "Sports",
-      "source": "AP News",
-      "url": "https://apnews.com/article/world-cup-referee-somalia-fifa-trump-visa-a73dfeb3a960a3ffa858a419bdb8a8f1",
-      "timestamp": "2026-06-10T22:05:00+03:00"
+      "timestamp": "2026-06-10T22:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cr5j40ezgz4o",
+          "angle": "NASA names Artemis III crew for next step toward Moon landing",
+          "summary": "The space agency announced the four astronauts who will crew the Artemis III mission in 2027, marking the next major milestone in America's return to lunar exploration."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "BBC"
+      ],
+      "urls": [
+        "https://apnews.com/article/nasa-artemis-iii-crew-7c09de3e1fd5b1f7fbfc9e9d702d71a5",
+        "https://www.bbc.com/news/articles/cr5j40ezgz4o"
+      ]
     },
     {
       "headline": "Bank of Japan Governor Hospitalized, Will Miss Key Policy Meeting",
@@ -187,21 +203,37 @@
       "timestamp": "2026-06-10T20:03:00+03:00"
     },
     {
-      "headline": "Bank of Japan Set to Raise Key Rate to 1.0% in June",
-      "summary": "The BOJ will raise its benchmark interest rate this month and again in Q4, taking borrowing costs to 1.25% by year-end as it grows more wary of inflation risks. The yen strengthened on the prospect of tighter policy.",
-      "emoji": "🇯🇵💹",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/boj-set-raise-key-rate-10-june-125-by-year-end-2026-06-10/",
-      "timestamp": "2026-06-10T19:11:00+03:00"
-    },
-    {
       "headline": "Israeli Airstrikes Kill 13 in Southern Lebanon",
       "summary": "Israeli strikes on southern Lebanon killed at least 13 people as Israel pressed its campaign against Hezbollah. The Iran-backed group claimed fresh attacks against Israeli forces in the border region.",
       "emoji": "🇱🇧🇮🇱💥",
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/israeli-airstrikes-kill-13-south-lebanon-lebanese-sources-say-2026-06-10/",
+      "timestamp": "2026-06-10T19:11:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cpq3d44l907o",
+          "angle": "Israeli Strikes Kill at Least 17 in Southern Lebanon as Conflict Escalates",
+          "summary": "Israeli air and artillery strikes intensified across southern Lebanon, killing 17 people including 9 in the town of Tayr Debba. Hezbollah announced retaliatory attacks on Israeli troops as the US-brokered ceasefire continues to fray."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/israeli-airstrikes-kill-13-south-lebanon-lebanese-sources-say-2026-06-10/",
+        "https://www.bbc.com/news/articles/cpq3d44l907o"
+      ]
+    },
+    {
+      "headline": "Bank of Japan Set to Raise Key Rate to 1.0% in June",
+      "summary": "The BOJ will raise its benchmark interest rate this month and again in Q4, taking borrowing costs to 1.25% by year-end as it grows more wary of inflation risks. The yen strengthened on the prospect of tighter policy.",
+      "emoji": "🇯🇵💹",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/boj-set-raise-key-rate-10-june-125-by-year-end-2026-06-10/",
       "timestamp": "2026-06-10T19:11:00+03:00"
     },
     {
@@ -395,6 +427,31 @@
       "timestamp": "2026-06-10T16:00:00+03:00"
     },
     {
+      "headline": "Pakistan Launches Deadly Airstrikes on Afghanistan, Killing at Least 13 Including Children",
+      "summary": "Pakistani airstrikes targeted three Afghan provinces killing at least 13 people including 11 children, the Taliban government said, marking a major escalation in border tensions.",
+      "emoji": "🇵🇰",
+      "category": "South Asia",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/pakistan-airstrikes-kill-least-13-afghanistan-taliban-says-2026-06-10/",
+      "timestamp": "2026-06-10T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/afghanistan-pakistan-airstrikes-children-killed-addc32b921147ed5bc1ee7b7b2cd5384",
+          "angle": "Pakistan Airstrikes Kill 13 in Afghanistan, Including 11 Children",
+          "summary": "Pakistan launched deadly airstrikes on Afghan border regions, ending a month of calm in the conflict between the neighbors. Afghanistan reported 13 civilians killed including 11 children, while Pakistan claimed it targeted militant hideouts."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/pakistan-airstrikes-kill-least-13-afghanistan-taliban-says-2026-06-10/",
+        "https://apnews.com/article/afghanistan-pakistan-airstrikes-children-killed-addc32b921147ed5bc1ee7b7b2cd5384"
+      ]
+    },
+    {
       "headline": "Ukraine Launches Long-Range Strikes Deep Inside Russia",
       "summary": "Ukrainian forces hit military and energy targets deep inside Russia in a series of long-range attacks, striking a military plant, oil refinery, and shadow fleet tanker in the Black Sea.",
       "emoji": "🇺🇦",
@@ -418,15 +475,6 @@
         "https://www.reuters.com/world/drones-hit-historic-museum-russia-annexed-crimea-officials-alter-train-schedule-2026-06-10/",
         "https://apnews.com/article/russia-ukraine-war-military-strikes-4a158f6273807683d48692dedb4121b8"
       ]
-    },
-    {
-      "headline": "Pakistan Launches Deadly Airstrikes on Afghanistan, Killing at Least 13 Including Children",
-      "summary": "Pakistani airstrikes targeted three Afghan provinces killing at least 13 people including 11 children, the Taliban government said, marking a major escalation in border tensions.",
-      "emoji": "🇵🇰",
-      "category": "South Asia",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/pakistan-airstrikes-kill-least-13-afghanistan-taliban-says-2026-06-10/",
-      "timestamp": "2026-06-10T15:03:00+03:00"
     },
     {
       "headline": "Masked Men Burn Families Out of Homes in Belfast Anti-Immigrant Riots",
@@ -542,19 +590,19 @@
       "timestamp": "2026-06-10T13:03:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-10-june-2026-b7ec462890f3c2afa12bd5c0672f2b6b",
-          "angle": "Trump Vows More Strikes on Iran After Exchange of Attacks",
-          "summary": "The US launched airstrikes on Iranian military sites after Tehran shot down an American Apache helicopter near the Strait of Hormuz. Trump threatened to hit them hard again if no peace deal is reached, as back-and-forth attacks threaten an April ceasefire."
+          "source": "Al-Monitor",
+          "url": "https://www.al-monitor.com/originals/2026/06/us-issues-more-iran-sanctions-trump-says-strikes-will-resume",
+          "angle": "US Issues New Sanctions on Iran as Trump Threatens More Strikes",
+          "summary": "The Treasury Department announced a new round of sanctions targeting Iranian entities as Trump warned of renewed military action, with ceasefire efforts appearing to stall."
         }
       ],
       "sources": [
         "Reuters",
-        "AP News"
+        "Al-Monitor"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/iran-targets-us-bases-jordan-gulf-after-trump-orders-strikes-near-hormuz-2026-06-10/",
-        "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-10-june-2026-b7ec462890f3c2afa12bd5c0672f2b6b"
+        "https://www.al-monitor.com/originals/2026/06/us-issues-more-iran-sanctions-trump-says-strikes-will-resume"
       ]
     },
     {
@@ -694,15 +742,6 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/dollar-steadies-following-us-strikes-iran-ahead-inflation-data-2026-06-10/",
-      "timestamp": "2026-06-10T11:03:00+03:00"
-    },
-    {
-      "headline": "Israel Launches Deadly Strikes on Lebanon as Trump Seeks Peace Deal",
-      "summary": "Israeli attacks killed at least 17 people in southern Lebanon after evacuation orders in Tyre, even as former President Trump claimed the US-Iran peace deal was in its \"final throes\" amid escalating regional tensions.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/9/trump-says-in-final-throes-of-peace-deal-but-at-least-8-killed-in-tyre",
       "timestamp": "2026-06-10T11:03:00+03:00"
     },
     {
@@ -1492,15 +1531,6 @@
       "timestamp": "2026-06-09T21:05:00+03:00"
     },
     {
-      "headline": "NASA names Artemis III crew for next step toward Moon landing",
-      "summary": "The space agency announced the four astronauts who will crew the Artemis III mission in 2027, marking the next major milestone in America's return to lunar exploration.",
-      "emoji": "🚀",
-      "category": "Technology",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cr5j40ezgz4o",
-      "timestamp": "2026-06-09T21:05:00+03:00"
-    },
-    {
       "headline": "Middle East crisis live: US helicopter downed as fragile Iran-Israel truce holds",
       "summary": "Comprehensive live coverage of escalating tensions after Iran shot down a US Apache helicopter, with evacuation orders in Lebanon and diplomatic efforts to prevent wider conflict.",
       "emoji": "⚔️",
@@ -2269,6 +2299,31 @@
       "timestamp": "2026-06-09T10:07:00+03:00"
     },
     {
+      "headline": "Somali World Cup referee denied entry to US days before tournament",
+      "summary": "FIFA referee Omar Abdulkadir Artan was denied entry to the United States just days before the 2026 World Cup, ending his historic opportunity to become the first Somali to officiate at the tournament.",
+      "emoji": "⚽🇸🇴🇺🇸",
+      "category": "Sports",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sports/soccer/somali-soccer-referee-denied-us-entry-will-miss-world-cup-debut-2026-06-09/",
+      "timestamp": "2026-06-09T10:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/world-cup-referee-somalia-fifa-trump-visa-a73dfeb3a960a3ffa858a419bdb8a8f1",
+          "angle": "Somali World Cup Referee Denied US Entry Gets Heros Welcome in Mogadishu",
+          "summary": "Omar Artan, named Africas best referee in 2025, was denied entry to the US over vetting concerns and cut from the World Cup referee list. He returned home to a hero welcome, with thousands packing a Mogadishu stadium."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/sports/soccer/somali-soccer-referee-denied-us-entry-will-miss-world-cup-debut-2026-06-09/",
+        "https://apnews.com/article/world-cup-referee-somalia-fifa-trump-visa-a73dfeb3a960a3ffa858a419bdb8a8f1"
+      ]
+    },
+    {
       "headline": "US judge strikes down Trump's $100,000 H-1B visa fee as unlawful",
       "summary": "A federal judge ruled that the Trump administration's $100,000 fee on new H-1B visas for skilled foreign workers was an unlawful tax not authorized by Congress, blocking a policy that tech companies had opposed.",
       "emoji": "⚖️🇺🇸",
@@ -2300,15 +2355,6 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/north-korea-china-agree-expand-cooperation-various-sectors-north-koreas-state-2026-06-08/",
-      "timestamp": "2026-06-09T10:03:00+03:00"
-    },
-    {
-      "headline": "Somali World Cup referee denied entry to US days before tournament",
-      "summary": "FIFA referee Omar Abdulkadir Artan was denied entry to the United States just days before the 2026 World Cup, ending his historic opportunity to become the first Somali to officiate at the tournament.",
-      "emoji": "⚽🇸🇴🇺🇸",
-      "category": "Sports",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/sports/soccer/somali-soccer-referee-denied-us-entry-will-miss-world-cup-debut-2026-06-09/",
       "timestamp": "2026-06-09T10:03:00+03:00"
     },
     {
@@ -2466,19 +2512,27 @@
       "timestamp": "2026-06-09T07:00:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/lebanese-pm-says-israel-has-bombed-lebanon-nearly-3500-times-during-ceasefire-2026-06-08/",
-          "angle": "Lebanon reports nearly 3,500 Israeli strikes during ceasefire period",
-          "summary": "Lebanon's defense minister says Israel carried out nearly 3,500 airstrikes and hundreds of controlled explosions since the U.S.-announced ceasefire on April 16, highlighting continued violence despite formal truce."
+          "source": "Al-Monitor",
+          "url": "https://www.al-monitor.com/originals/2026/06/macron-meets-tom-barrack-france-seeks-larger-role-lebanon",
+          "angle": "Macron Seeks Larger French Role in Lebanon as Israel-Hezbollah Ceasefire Nears",
+          "summary": "France is positioning itself for a post-ceasefire role in Lebanon through initiatives to strengthen the Lebanese army and establish a new international force."
+        },
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/9/trump-says-in-final-throes-of-peace-deal-but-at-least-8-killed-in-tyre",
+          "angle": "Israel Launches Deadly Strikes on Lebanon as Trump Seeks Peace Deal",
+          "summary": "Israeli attacks killed at least 17 people in southern Lebanon after evacuation orders in Tyre, even as former President Trump claimed the US-Iran peace deal was in its \"final throes\" amid escalating regional tensions."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "Al-Monitor",
+        "Al Jazeera"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/lebanese-pm-says-israel-has-bombed-lebanon-nearly-3500-times-during-ceasefire-2026-06-08/",
-        "https://www.reuters.com/world/middle-east/lebanese-pm-says-israel-has-bombed-lebanon-nearly-3500-times-during-ceasefire-2026-06-08/"
+        "https://www.al-monitor.com/originals/2026/06/macron-meets-tom-barrack-france-seeks-larger-role-lebanon",
+        "https://www.aljazeera.com/news/2026/6/9/trump-says-in-final-throes-of-peace-deal-but-at-least-8-killed-in-tyre"
       ]
     },
     {
@@ -2858,49 +2912,6 @@
       "source": "Times of Israel",
       "url": "https://www.timesofisrael.com/liveblog_entry/bennett-slams-netanyahu-for-normalizing-periodical-attacks-from-iran/",
       "timestamp": "2026-06-08T22:11:00+03:00"
-    },
-    {
-      "headline": "Knesset passes law deducting terror victim compensation from PA taxes",
-      "summary": "Israeli parliament approved legislation to deduct compensation for terror victims from Palestinian Authority tax revenues over \"pay-for-slay\" stipends paid to attackers families.",
-      "emoji": "🇮🇱⚖️",
-      "category": "Middle East",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/knesset-passes-law-to-deduct-compensation-for-terror-victims-from-pa-tax-revenues-over-pay-for-slay-stipends/",
-      "timestamp": "2026-06-08T22:11:00+03:00"
-    },
-    {
-      "headline": "Ukraine Jails Former Supreme Court Chief Justice for Graft",
-      "summary": "The former head of Ukraine's Supreme Court was sentenced to five years in prison under a plea deal in a high-profile bribery case, as Kyiv's anti-corruption crackdown continues.",
-      "emoji": "🇺🇦⚖️",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/ukraines-former-supreme-court-chief-justice-jailed-graft-2026-06-08/",
-      "timestamp": "2026-06-08T22:03:00+03:00"
-    },
-    {
-      "headline": "South Korea KOSPI crashes over 8% as Fed fears spark tech rout",
-      "summary": "South Korea stock benchmark plunged over 8%, tripping circuit breakers, after robust US jobs data lifted bets on a Federal Reserve rate hike and unleashed a selloff in tech-heavy markets that had powered the AI rally.",
-      "emoji": "📉",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/south-koreas-kospi-craters-nearly-9-fed-fears-hammer-tech-stocks-2026-06-08/",
-      "timestamp": "2026-06-08T21:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Yonhap",
-          "url": "https://en.yna.co.kr/view/AEN20260608002500320?section=k-biz/corporate",
-          "angle": "South Korea Halts Trading as KOSPI Plunges Over 8% in Tech-Led Selloff",
-          "summary": "South Korea activated a circuit breaker after the benchmark KOSPI index plunged more than 8%, forcing a temporary trading halt. The dramatic selloff comes as investors retreat from AI and tech stocks amid global market jitters."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Yonhap"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/south-koreas-kospi-craters-nearly-9-fed-fears-hammer-tech-stocks-2026-06-08/",
-        "https://en.yna.co.kr/view/AEN20260608002500320?section=k-biz/corporate"
-      ]
     }
   ]
 }
