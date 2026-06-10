@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-10T17:04:19+03:00",
+  "lastUpdated": "2026-06-10T18:05:00+03:00",
   "headlines": [
+    {
+      "headline": "Russian and Ukrainian Drones Stray Into NATO Countries as Aerial War Spills Over",
+      "summary": "Drones launched by both Russia and Ukraine are veering off course, entering airspace of NATO members Lithuania and Romania, raising concerns about alliance escalation as the conflict's aerial dimension expands beyond combat zones.",
+      "emoji": "🇺🇦🇷🇺🇪🇺",
+      "category": "Europe",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/09/world/europe/russia-ukraine-drones-nato-lithuania-romania.html",
+      "timestamp": "2026-06-10T18:03:00+03:00"
+    },
+    {
+      "headline": "OPEC Output at Lowest Since 2000 as US Blockade Squeezes Iran",
+      "summary": "OPEC oil production in May fell to its lowest level in over two decades as the US naval blockade cut Iran's exports and Iran's closure of the Strait of Hormuz disrupted shipments from other Gulf producers.",
+      "emoji": "🛢️📉",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/opec-oil-output-lowest-since-least-2000-us-blockade-squeezes-iran-reuters-survey-2026-06-10/",
+      "timestamp": "2026-06-10T18:03:00+03:00"
+    },
+    {
+      "headline": "US Inflation Surges to Three-Year High of 4.2%",
+      "summary": "Consumer prices in the United States climbed sharply in May, reaching the highest inflation rate in three years and adding pressure on households already facing elevated living costs.",
+      "emoji": "📈💵",
+      "category": "Economy",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c0myzxjkw99o",
+      "timestamp": "2026-06-10T18:03:00+03:00"
+    },
+    {
+      "headline": "Taiwan Fires Rockets Toward China in Defensive Drill Using US Launchers",
+      "summary": "Taiwan's military conducted a live-fire exercise sending rockets in China's direction from US-supplied HIMARS mobile launching systems, demonstrating defensive capabilities amid heightened cross-strait tensions.",
+      "emoji": "🇹🇼🇨🇳🚀",
+      "category": "Asia-Pacific",
+      "source": "AP News",
+      "url": "https://apnews.com/article/taiwan-china-himars-artillery-rocket-defense-d2ec564c95466dd0332d0df32dbc1933",
+      "timestamp": "2026-06-10T18:03:00+03:00"
+    },
+    {
+      "headline": "Trump and Iran Trade New Threats After Military Strikes",
+      "summary": "President Trump warned Iran will \"pay the price\" for delaying negotiations while Tehran vowed retaliation, as both sides exchanged threats following US strikes and Iran's downing of a US helicopter.",
+      "emoji": "⚠️🇺🇸🇮🇷",
+      "category": "Diplomacy",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/ce371kw2ex2o",
+      "timestamp": "2026-06-10T18:03:00+03:00"
+    },
     {
       "headline": "Iran Ceasefire Crumbles as Trump Says Tehran Will Pay Price for Failed Talks",
       "summary": "A US-Iran ceasefire appears to have collapsed after Trump warned Iran will face consequences for not reaching a deal, with fresh US strikes and Iranian retaliation reported.",
@@ -11,22 +56,45 @@
       "timestamp": "2026-06-10T17:03:00+03:00"
     },
     {
-      "headline": "Ukraine Launches Long-Range Strikes on Military and Energy Sites Deep Inside Russia",
-      "summary": "A series of long-range Ukrainian attacks hit targets deep inside Russia, part of Kyivs efforts to raise the costs of the war for Moscow.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/russia-ukraine-war-military-strikes-4a158f6273807683d48692dedb4121b8",
-      "timestamp": "2026-06-10T17:03:00+03:00"
-    },
-    {
       "headline": "US Consumer Inflation Hits Fastest Pace in Three Years as Iran War Drives Energy Costs",
       "summary": "US consumer inflation increased at its fastest pace in three years in May as the Middle East conflict raised gasoline and energy prices, giving the Fed more reason to keep rates unchanged.",
       "emoji": "💰",
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/us/us-consumer-prices-increase-expected-may-2026-06-10/",
-      "timestamp": "2026-06-10T17:03:00+03:00"
+      "timestamp": "2026-06-10T17:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Politico",
+          "url": "https://www.politico.eu/article/ecb-boe-weigh-possible-mistakes-iran-war-inflation/",
+          "angle": "ECB and Bank of England face difficult rate decisions as Iran war drives inflation",
+          "summary": "European Central Bank and Bank of England policymakers are weighing competing risks as the Iran conflict pushes energy prices higher, forcing them to choose between fighting inflation and supporting growth."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/japan-wholesale-inflation-extends-surge-energy-shock-hits-2026-06-10/",
+          "angle": "Japan Wholesale Inflation Hits 3-Year High on Middle East Energy Shock",
+          "summary": "Japan's wholesale prices accelerated at the fastest pace in three years as energy costs from the Iran conflict broadened, strengthening the case for further rate hikes."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/chinas-may-producer-inflation-highest-nearly-4-years-consumer-prices-also-rise-2026-06-10/",
+          "angle": "China Producer Inflation Hits Highest Level in Nearly 4 Years",
+          "summary": "Chinas producer prices rose for a third straight month in May, reaching the highest since July 2022, while consumer prices also climbed. The data signals strengthening factory-gate inflation as Beijing continues economic stimulus measures."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Politico",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/us/us-consumer-prices-increase-expected-may-2026-06-10/",
+        "https://www.politico.eu/article/ecb-boe-weigh-possible-mistakes-iran-war-inflation/",
+        "https://www.reuters.com/world/asia-pacific/japan-wholesale-inflation-extends-surge-energy-shock-hits-2026-06-10/",
+        "https://www.reuters.com/world/asia-pacific/chinas-may-producer-inflation-highest-nearly-4-years-consumer-prices-also-rise-2026-06-10/"
+      ]
     },
     {
       "headline": "Global Oil Stockpiles Headed Toward Lowest Levels Since 2003 Amid Iran Conflict",
@@ -35,7 +103,23 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/oil-inventories-are-headed-toward-multi-decade-lows-us-eia-warns-2026-06-09/",
-      "timestamp": "2026-06-10T17:03:00+03:00"
+      "timestamp": "2026-06-10T17:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/oil-inventories-are-headed-toward-multi-decade-lows-us-eia-warns-2026-06-09/",
+          "angle": "Global Oil Inventories Headed Toward Multi-Decade Lows as Iran War Drains Stockpiles",
+          "summary": "US Energy Information Administration warns that oil stockpiles in major economies are on track for their lowest levels since 2003 as Iran conflict cuts output at record pace."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/oil-inventories-are-headed-toward-multi-decade-lows-us-eia-warns-2026-06-09/",
+        "https://www.reuters.com/business/energy/oil-inventories-are-headed-toward-multi-decade-lows-us-eia-warns-2026-06-09/"
+      ]
     },
     {
       "headline": "Iran War Threatens Millions With Crisis-Level Hunger, World Food Programme Warns",
@@ -121,8 +205,8 @@
         {
           "source": "AP News",
           "url": "https://apnews.com/article/russia-ukraine-war-military-strikes-4a158f6273807683d48692dedb4121b8",
-          "angle": "Ukraine Launches Long-Range Strikes Deep Inside Russia",
-          "summary": "Ukrainian forces conducted long-range strikes targeting military and energy sites deep inside Russia. The attacks are part of Kyiv efforts to raise the costs of the ongoing war as the conflict continues."
+          "angle": "Ukraine Launches Long-Range Strikes on Military and Energy Sites Deep Inside Russia",
+          "summary": "A series of long-range Ukrainian attacks hit targets deep inside Russia, part of Kyivs efforts to raise the costs of the war for Moscow."
         }
       ],
       "sources": [
@@ -192,15 +276,6 @@
         "https://www.reuters.com/business/energy/oil-rises-nearly-1-us-launches-new-strikes-against-iran-supply-tightens-2026-06-10/",
         "https://www.reuters.com/business/energy/oil-rises-slightly-investors-await-clarity-after-iran-israel-halt-attacks-2026-06-09/"
       ]
-    },
-    {
-      "headline": "ECB and Bank of England face difficult rate decisions as Iran war drives inflation",
-      "summary": "European Central Bank and Bank of England policymakers are weighing competing risks as the Iran conflict pushes energy prices higher, forcing them to choose between fighting inflation and supporting growth.",
-      "emoji": "🇪🇺",
-      "category": "Economy",
-      "source": "Politico",
-      "url": "https://www.politico.eu/article/ecb-boe-weigh-possible-mistakes-iran-war-inflation/",
-      "timestamp": "2026-06-10T14:05:00+03:00"
     },
     {
       "headline": "Erdogan warns Israel attacks on Syria and Lebanon threaten Turkiye directly",
@@ -595,15 +670,6 @@
       ]
     },
     {
-      "headline": "Japan Wholesale Inflation Hits 3-Year High on Middle East Energy Shock",
-      "summary": "Japan's wholesale prices accelerated at the fastest pace in three years as energy costs from the Iran conflict broadened, strengthening the case for further rate hikes.",
-      "emoji": "🇯🇵",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/japan-wholesale-inflation-extends-surge-energy-shock-hits-2026-06-10/",
-      "timestamp": "2026-06-10T08:03:00+03:00"
-    },
-    {
       "headline": "Bulgaria's New Government Ends Arms Support for Ukraine",
       "summary": "Bulgaria's defence minister announced the country will no longer provide weapons to Ukraine and urged both sides to negotiate, a shift in Sofia's policy.",
       "emoji": "🇧🇬",
@@ -817,15 +883,6 @@
       ]
     },
     {
-      "headline": "China Producer Inflation Hits Highest Level in Nearly 4 Years",
-      "summary": "Chinas producer prices rose for a third straight month in May, reaching the highest since July 2022, while consumer prices also climbed. The data signals strengthening factory-gate inflation as Beijing continues economic stimulus measures.",
-      "emoji": "🇨🇳",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/chinas-may-producer-inflation-highest-nearly-4-years-consumer-prices-also-rise-2026-06-10/",
-      "timestamp": "2026-06-10T05:03:00+03:00"
-    },
-    {
       "headline": "Germany Pledges €300M to Czech Ammunition Initiative for Ukraine",
       "summary": "Germany will contribute an additional 300 million euros to the Czech ammunition initiative, approximately 50,000 rounds of artillery shells, as Ukraine continues to face ammunition shortages on the frontlines.",
       "emoji": "🇩🇪🇺🇦",
@@ -1017,15 +1074,6 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/mark-carneys-trade-push-collides-with-reality-us-dependence-2026-06-09/",
-      "timestamp": "2026-06-10T01:06:57+03:00"
-    },
-    {
-      "headline": "Global Oil Inventories Headed Toward Multi-Decade Lows as Iran War Drains Stockpiles",
-      "summary": "US Energy Information Administration warns that oil stockpiles in major economies are on track for their lowest levels since 2003 as Iran conflict cuts output at record pace.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-inventories-are-headed-toward-multi-decade-lows-us-eia-warns-2026-06-09/",
       "timestamp": "2026-06-10T01:06:57+03:00"
     },
     {
