@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-10T15:05:51+03:00",
+  "lastUpdated": "2026-06-10T16:04:36+03:00",
   "headlines": [
+    {
+      "headline": "US Strikes Iran, Tehran Fires Back at American Bases",
+      "summary": "The United States launched airstrikes on Iranian military sites after an Apache helicopter was downed near the Strait of Hormuz. Iran retaliated by targeting US bases in Jordan and the Gulf as President Trump warned Tehran would pay the price for stalled negotiations.",
+      "emoji": "🇮🇷⚔️🇺🇸",
+      "category": "US-Iran War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-10-june-2026-b7ec462890f3c2afa12bd5c0672f2b6b",
+      "timestamp": "2026-06-10T16:00:00+03:00"
+    },
+    {
+      "headline": "Xi Jinping Visits North Korea, Deepens Ties with Kim Jong Un",
+      "summary": "Chinese President Xi Jinping wrapped up his first visit to North Korea in seven years, agreeing to expand cooperation with Kim Jong Un. Both leaders claimed major wins but analysts note limits remain, particularly on Pyongyang nuclear program.",
+      "emoji": "🇨🇳🇰🇵🤝",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/north-korea-china-claim-wins-xi-visit-limits-remain-2026-06-10/",
+      "timestamp": "2026-06-10T16:00:00+03:00"
+    },
+    {
+      "headline": "Ukraine Launches Long-Range Strikes Deep Inside Russia",
+      "summary": "Ukrainian forces conducted long-range strikes targeting military and energy sites deep inside Russia. The attacks are part of Kyiv efforts to raise the costs of the ongoing war as the conflict continues.",
+      "emoji": "🇺🇦💥🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-military-strikes-4a158f6273807683d48692dedb4121b8",
+      "timestamp": "2026-06-10T16:00:00+03:00"
+    },
+    {
+      "headline": "Argentine Peso Drops Most in Eight Weeks After Midterm Selloff",
+      "summary": "Argentina peso is facing renewed decline as investors grow more risk-averse following midterm election results. The drop highlights ongoing economic challenges facing the country recovery efforts.",
+      "emoji": "🇦🇷📉💰",
+      "category": "Economy",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-10/argentine-peso-drops-most-over-eight-weeks-since-midterm-selloff-shock-therapy",
+      "timestamp": "2026-06-10T16:00:00+03:00"
+    },
+    {
+      "headline": "Pakistan Military Helicopter Crashes in Kashmir, All Killed",
+      "summary": "A Pakistani military helicopter crashed in Pakistan-administered Kashmir, killing everyone on board. The incident comes amid heavy security presence and protests in the region in recent days.",
+      "emoji": "🇵🇰🚁💀",
+      "category": "South Asia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/10/pakistan-military-helicopter-crashes-in-kashmir-all-on-board-killed",
+      "timestamp": "2026-06-10T16:00:00+03:00"
+    },
     {
       "headline": "Pakistan Launches Deadly Airstrikes on Afghanistan, Killing at Least 13 Including Children",
       "summary": "Pakistani airstrikes targeted three Afghan provinces killing at least 13 people including 11 children, the Taliban government said, marking a major escalation in border tensions.",
@@ -17,16 +62,23 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/uk/anti-immigrant-violence-erupts-across-belfast-after-knife-attack-2026-06-10/",
-      "timestamp": "2026-06-10T15:03:00+03:00"
-    },
-    {
-      "headline": "Russian General Killed in Car Bomb Explosion Outside Moscow",
-      "summary": "A senior Russian defense ministry official responsible for missile and artillery ammunition was killed in a car bombing near Moscow, with reports suggesting his son may have inadvertently exposed his location.",
-      "emoji": "⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "Telegraph",
-      "url": "https://www.telegraph.co.uk/world-news/2026/06/10/moscow-car-bomb-military-chief/",
-      "timestamp": "2026-06-10T15:03:00+03:00"
+      "timestamp": "2026-06-10T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/10/why-has-belfast-erupted-in-anti-immigrant-violence-after-a-knife-attack",
+          "angle": "Belfast erupts in anti-immigrant violence after knife attack",
+          "summary": "Anti-immigration protests have broken out in Belfast, Northern Ireland, after a knife attack allegedly perpetrated by a Sudanese refugee. Hundreds of masked protesters clashed with police."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/uk/anti-immigrant-violence-erupts-across-belfast-after-knife-attack-2026-06-10/",
+        "https://www.aljazeera.com/news/2026/6/10/why-has-belfast-erupted-in-anti-immigrant-violence-after-a-knife-attack"
+      ]
     },
     {
       "headline": "Oil Prices Rise 2% as Trump Says Iran Will Pay Price for Stalled Talks",
@@ -35,7 +87,23 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/oil-rises-nearly-1-us-launches-new-strikes-against-iran-supply-tightens-2026-06-10/",
-      "timestamp": "2026-06-10T15:03:00+03:00"
+      "timestamp": "2026-06-10T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/oil-rises-slightly-investors-await-clarity-after-iran-israel-halt-attacks-2026-06-09/",
+          "angle": "Oil Prices Edge Higher Amid Iran-Israel Uncertainty",
+          "summary": "Oil prices rose slightly as markets awaited clarity on whether the Iran-Israel halt would hold. The Strait of Hormuz remains a focal point, with Iran's envoy saying transit fees would apply."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/oil-rises-nearly-1-us-launches-new-strikes-against-iran-supply-tightens-2026-06-10/",
+        "https://www.reuters.com/business/energy/oil-rises-slightly-investors-await-clarity-after-iran-israel-halt-attacks-2026-06-09/"
+      ]
     },
     {
       "headline": "Ukraine Launches Long-Range Strikes Deep Inside Russia",
@@ -44,7 +112,31 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/drones-hit-historic-museum-russia-annexed-crimea-officials-alter-train-schedule-2026-06-10/",
-      "timestamp": "2026-06-10T15:03:00+03:00"
+      "timestamp": "2026-06-10T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/russia-ukraine-war-military-strikes-4a158f6273807683d48692dedb4121b8",
+          "angle": "Ukraine launches long-range strikes on Russian military and energy sites",
+          "summary": "Ukrainian forces conducted coordinated long-range strikes against military facilities and energy infrastructure inside Russia, demonstrating continued capability to project power deep behind enemy lines."
+        },
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cn75l36vdd8o",
+          "angle": "Russia's fuel crisis deepens as Ukraine steps up strikes on occupied territories",
+          "summary": "Ukrainian attacks on Russian supply lines have made it difficult for Moscow to provide military and civilian supplies to occupied territories, intensifying pressure on Russian logistics."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/drones-hit-historic-museum-russia-annexed-crimea-officials-alter-train-schedule-2026-06-10/",
+        "https://apnews.com/article/russia-ukraine-war-military-strikes-4a158f6273807683d48692dedb4121b8",
+        "https://www.bbc.com/news/articles/cn75l36vdd8o"
+      ]
     },
     {
       "headline": "ECB and Bank of England face difficult rate decisions as Iran war drives inflation",
@@ -110,31 +202,6 @@
       "timestamp": "2026-06-10T14:03:00+03:00"
     },
     {
-      "headline": "Belfast erupts in anti-immigrant violence after knife attack",
-      "summary": "Anti-immigration protests have broken out in Belfast, Northern Ireland, after a knife attack allegedly perpetrated by a Sudanese refugee. Hundreds of masked protesters clashed with police.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/10/why-has-belfast-erupted-in-anti-immigrant-violence-after-a-knife-attack",
-      "timestamp": "2026-06-10T14:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/10/protesters-torch-cars-buildings-in-belfast-after-knife-attack",
-          "angle": "Protesters torch vehicles and buildings in Belfast after refugee knife attack",
-          "summary": "Anti-immigrant protesters in Belfast, Northern Ireland, set fire to vehicles and buildings following a knife attack by a Sudanese refugee, marking a significant escalation in local tensions."
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://www.aljazeera.com/news/2026/6/10/why-has-belfast-erupted-in-anti-immigrant-violence-after-a-knife-attack",
-        "https://www.aljazeera.com/news/2026/6/10/protesters-torch-cars-buildings-in-belfast-after-knife-attack"
-      ]
-    },
-    {
       "headline": "Iran strikes US bases in Jordan and Gulf after Trump orders attacks near Hormuz",
       "summary": "Iran launched strikes against US military bases in Jordan and the Gulf region in retaliation for American attacks near the strategic Strait of Hormuz, further straining an already fragile ceasefire between Washington and Tehran.",
       "emoji": "⚔️🇮🇷",
@@ -182,15 +249,6 @@
       "category": "US-China",
       "source": "NBC News",
       "url": "https://www.nbcnews.com/world/asia/taiwan-test-fires-us-rocket-system-first-time-chinese-mainland-rcna349382",
-      "timestamp": "2026-06-10T13:03:00+03:00"
-    },
-    {
-      "headline": "Ukraine launches long-range strikes on Russian military and energy sites",
-      "summary": "Ukrainian forces conducted coordinated long-range strikes against military facilities and energy infrastructure inside Russia, demonstrating continued capability to project power deep behind enemy lines.",
-      "emoji": "🇺🇦💥",
-      "category": "Ukraine-Russia War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/russia-ukraine-war-military-strikes-4a158f6273807683d48692dedb4121b8",
       "timestamp": "2026-06-10T13:03:00+03:00"
     },
     {
@@ -941,27 +999,19 @@
       "timestamp": "2026-06-10T00:05:00+03:00",
       "perspectives": [
         {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/man-killed-in-car-explosion-in-residential-area-for-military-personnel-outside-moscow-media-reports/",
-          "angle": "Car bombing kills man in Russian military housing district near Moscow",
-          "summary": "A vehicle explosion in a residential area for military personnel outside Moscow killed one person, with Ukrainian media reporting it targeted a Russian officer."
-        },
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/ukraine-foils-russian-plot-to-assassinate-senior-military-intelligence-official-police-say/",
-          "angle": "Ukraine Foils Russian Plot to Assassinate Senior Military Intelligence Official",
-          "summary": "Ukrainian authorities announced they had thwarted a Russian plan to assassinate a senior military intelligence official, according to police statements amid ongoing tensions between the two countries."
+          "source": "Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/06/10/moscow-car-bomb-military-chief/",
+          "angle": "Russian General Killed in Car Bomb Explosion Outside Moscow",
+          "summary": "A senior Russian defense ministry official responsible for missile and artillery ammunition was killed in a car bombing near Moscow, with reports suggesting his son may have inadvertently exposed his location."
         }
       ],
       "sources": [
         "Kyiv Independent",
-        "Kyiv Independent",
-        "Kyiv Independent"
+        "Telegraph"
       ],
       "urls": [
         "https://kyivindependent.com/man-killed-in-car-explosion-in-residential-area-for-military-personnel-outside-moscow-media-reports/",
-        "https://kyivindependent.com/man-killed-in-car-explosion-in-residential-area-for-military-personnel-outside-moscow-media-reports/",
-        "https://kyivindependent.com/ukraine-foils-russian-plot-to-assassinate-senior-military-intelligence-official-police-say/"
+        "https://www.telegraph.co.uk/world-news/2026/06/10/moscow-car-bomb-military-chief/"
       ]
     },
     {
@@ -2146,31 +2196,6 @@
       ]
     },
     {
-      "headline": "Oil Prices Edge Higher Amid Iran-Israel Uncertainty",
-      "summary": "Oil prices rose slightly as markets awaited clarity on whether the Iran-Israel halt would hold. The Strait of Hormuz remains a focal point, with Iran's envoy saying transit fees would apply.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-rises-slightly-investors-await-clarity-after-iran-israel-halt-attacks-2026-06-09/",
-      "timestamp": "2026-06-09T07:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/oil-prices-rise-more-than-2-israel-strikes-lebanon-2026-06-07/",
-          "angle": "Oil prices surge more than $4 as Israel-Iran strikes threaten ceasefire",
-          "summary": "Oil prices jumped by more than $4 per barrel as Israel conducted strikes on Iran and Lebanon, threatening the fragile ceasefire. Brent crude neared $98 despite OPEC+ approving another output hike."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/oil-rises-slightly-investors-await-clarity-after-iran-israel-halt-attacks-2026-06-09/",
-        "https://www.reuters.com/business/energy/oil-prices-rise-more-than-2-israel-strikes-lebanon-2026-06-07/"
-      ]
-    },
-    {
       "headline": "Lebanon Says Israel Bombed It Nearly 3,500 Times During Ceasefire",
       "summary": "Israel conducted nearly 3,500 airstrikes on Lebanon since the April ceasefire announcement, Lebanon's defense minister said. Lebanese President Aoun appealed directly to Israel to pursue negotiations instead of war.",
       "emoji": "🇱🇧",
@@ -2372,15 +2397,6 @@
       "source": "Al Arabiya",
       "url": "https://english.alarabiya.net/News/middle-east/2026/06/08/iran-top-negotiator-threatens-to-defeat-us-blockade-on-iran",
       "timestamp": "2026-06-09T04:06:00+03:00"
-    },
-    {
-      "headline": "Russia's fuel crisis deepens as Ukraine steps up strikes on occupied territories",
-      "summary": "Ukrainian attacks on Russian supply lines have made it difficult for Moscow to provide military and civilian supplies to occupied territories, intensifying pressure on Russian logistics.",
-      "emoji": "⛽",
-      "category": "Ukraine-Russia War",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cn75l36vdd8o",
-      "timestamp": "2026-06-09T03:03:00+03:00"
     },
     {
       "headline": "Flesh-Eating Screwworm Parasite Spreads Beyond Texas, Canada Blocks Livestock Imports",
