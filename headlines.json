@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-06-10T20:04:35+03:00",
+  "lastUpdated": "2026-06-10T20:07:48+03:00",
   "headlines": [
     {
-      "headline": "Iran Attacks US Bases in Jordan and Bahrain",
-      "summary": "Iran targeted American military installations in Jordan and Bahrain, the latest escalation in tit-for-tat strikes with the United States. Tehran warned Gulf neighbors they could face consequences if they allowed US operations from their territory.",
-      "emoji": "🇮🇷🇺🇸⚔️",
-      "category": "US-Iran War",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-06-10/trump-warns-iran-will-pay-the-price-as-talks-continue",
-      "timestamp": "2026-06-10T20:03:00+03:00"
+      "headline": "India Accelerates Military Revamp to Counter China and Pakistan",
+      "summary": "India is moving forward with Integrated Theatre Commands that would unite the army, navy and air force in its biggest military shake-up in decades, reflecting growing concerns about simultaneous two-front threats.",
+      "emoji": "🇮🇳⚔️",
+      "category": "Asia-Pacific",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/week-asia/politics/article/3356534/indias-military-revamp-counter-china-pakistan-gathers-pace",
+      "timestamp": "2026-06-10T20:06:00+03:00"
+    },
+    {
+      "headline": "IAEA Board Passes Resolution Demanding Iran Report Uranium Stocks",
+      "summary": "The UN nuclear watchdogs 35-nation Board of Governors passed a US-backed resolution telling Iran to declare its remaining uranium stocks, as concerns grow about Irans nuclear program amid the ongoing conflict.",
+      "emoji": "☢️🇮🇷",
+      "category": "Middle East",
+      "source": "Times of Israel",
+      "url": "https://www.timesofisrael.com/liveblog_entry/iaea-board-passes-resolution-demanding-iran-report-uranium-stocks/",
+      "timestamp": "2026-06-10T20:06:00+03:00"
+    },
+    {
+      "headline": "US Tungsten Scrap Exports to Japan Soar on Chinese Curbs",
+      "summary": "Japan-bound US shipments of recycled tungsten have surged dramatically as China restricts exports of the critical industrial metal, highlighting supply chain vulnerabilities in strategic materials.",
+      "emoji": "🇺🇸🇯🇵",
+      "category": "Asia-Pacific",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/supply-chain/us-tungsten-scrap-exports-to-japan-soar-on-chinese-curbs",
+      "timestamp": "2026-06-10T20:06:00+03:00"
+    },
+    {
+      "headline": "Israeli Lawmakers Advance Bill to Exempt Ultra-Orthodox from Military Service",
+      "summary": "Israeli MPs voted to advance legislation that would allow most ultra-Orthodox Jewish men to avoid conscription, a controversial move amid ongoing war and domestic political tensions.",
+      "emoji": "🇮🇱🏛️",
+      "category": "Middle East",
+      "source": "Al-Monitor",
+      "url": "https://www.al-monitor.com/originals/2026/06/israel-mps-bid-exempt-ultra-orthodox-conscription",
+      "timestamp": "2026-06-10T20:06:00+03:00"
+    },
+    {
+      "headline": "US Forces Disable Oil Tanker in Gulf of Oman for Blockade Violation",
+      "summary": "US Central Command announced that its forces disabled a Palau-flagged oil tanker transiting toward Iran for alleged violation of the blockade, marking the latest enforcement action in the Gulf.",
+      "emoji": "🛢️🚢",
+      "category": "Middle East",
+      "source": "Anadolu Agency",
+      "url": "https://www.aa.com.tr/en/americas/us-says-its-forces-disable-oil-tanker-in-gulf-of-oman-for-alleged-violation-of-blockade/3963070",
+      "timestamp": "2026-06-10T20:06:00+03:00"
     },
     {
       "headline": "UN Chief Warns of Return to Full-Scale War in Middle East",
@@ -26,7 +62,39 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/us/us-consumer-prices-increase-expected-may-2026-06-10/",
-      "timestamp": "2026-06-10T20:03:00+03:00"
+      "timestamp": "2026-06-10T20:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/c0myzxjkw99o",
+          "angle": "US Inflation Surges to Three-Year High of 4.2%",
+          "summary": "Consumer prices in the United States climbed sharply in May, reaching the highest inflation rate in three years and adding pressure on households already facing elevated living costs."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/us/us-consumer-prices-increase-expected-may-2026-06-10/",
+          "angle": "US Consumer Inflation Hits Fastest Pace in Three Years as Iran War Drives Energy Costs",
+          "summary": "US consumer inflation increased at its fastest pace in three years in May as the Middle East conflict raised gasoline and energy prices, giving the Fed more reason to keep rates unchanged."
+        },
+        {
+          "source": "Nikkei Asia",
+          "url": "https://asia.nikkei.com/business/markets/strong-dollar-rally-weighs-heavier-on-struggling-asian-countries",
+          "angle": "Dollar rally compounds economic pain for Asian nations amid Iran war oil shock",
+          "summary": "Asian countries already struggling with high oil prices from the Middle East conflict face additional pressure from a strengthening US dollar, increasing import costs and fiscal strains."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC",
+        "Reuters",
+        "Nikkei Asia"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/us/us-consumer-prices-increase-expected-may-2026-06-10/",
+        "https://www.bbc.com/news/articles/c0myzxjkw99o",
+        "https://www.reuters.com/world/us/us-consumer-prices-increase-expected-may-2026-06-10/",
+        "https://asia.nikkei.com/business/markets/strong-dollar-rally-weighs-heavier-on-struggling-asian-countries"
+      ]
     },
     {
       "headline": "EU and South Korea Sign Digital Trade Pact",
@@ -149,15 +217,6 @@
       ]
     },
     {
-      "headline": "US Inflation Surges to Three-Year High of 4.2%",
-      "summary": "Consumer prices in the United States climbed sharply in May, reaching the highest inflation rate in three years and adding pressure on households already facing elevated living costs.",
-      "emoji": "📈💵",
-      "category": "Economy",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c0myzxjkw99o",
-      "timestamp": "2026-06-10T18:03:00+03:00"
-    },
-    {
       "headline": "Taiwan Fires Rockets Toward China in Defensive Drill Using US Launchers",
       "summary": "Taiwan's military conducted a live-fire exercise sending rockets in China's direction from US-supplied HIMARS mobile launching systems, demonstrating defensive capabilities amid heightened cross-strait tensions.",
       "emoji": "🇹🇼🇨🇳🚀",
@@ -199,47 +258,6 @@
       "source": "CBS News",
       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-us-strikes-apache/",
       "timestamp": "2026-06-10T17:03:00+03:00"
-    },
-    {
-      "headline": "US Consumer Inflation Hits Fastest Pace in Three Years as Iran War Drives Energy Costs",
-      "summary": "US consumer inflation increased at its fastest pace in three years in May as the Middle East conflict raised gasoline and energy prices, giving the Fed more reason to keep rates unchanged.",
-      "emoji": "💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us/us-consumer-prices-increase-expected-may-2026-06-10/",
-      "timestamp": "2026-06-10T17:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Politico",
-          "url": "https://www.politico.eu/article/ecb-boe-weigh-possible-mistakes-iran-war-inflation/",
-          "angle": "ECB and Bank of England face difficult rate decisions as Iran war drives inflation",
-          "summary": "European Central Bank and Bank of England policymakers are weighing competing risks as the Iran conflict pushes energy prices higher, forcing them to choose between fighting inflation and supporting growth."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/japan-wholesale-inflation-extends-surge-energy-shock-hits-2026-06-10/",
-          "angle": "Japan Wholesale Inflation Hits 3-Year High on Middle East Energy Shock",
-          "summary": "Japan's wholesale prices accelerated at the fastest pace in three years as energy costs from the Iran conflict broadened, strengthening the case for further rate hikes."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/chinas-may-producer-inflation-highest-nearly-4-years-consumer-prices-also-rise-2026-06-10/",
-          "angle": "China Producer Inflation Hits Highest Level in Nearly 4 Years",
-          "summary": "Chinas producer prices rose for a third straight month in May, reaching the highest since July 2022, while consumer prices also climbed. The data signals strengthening factory-gate inflation as Beijing continues economic stimulus measures."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Politico",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/us/us-consumer-prices-increase-expected-may-2026-06-10/",
-        "https://www.politico.eu/article/ecb-boe-weigh-possible-mistakes-iran-war-inflation/",
-        "https://www.reuters.com/world/asia-pacific/japan-wholesale-inflation-extends-surge-energy-shock-hits-2026-06-10/",
-        "https://www.reuters.com/world/asia-pacific/chinas-may-producer-inflation-highest-nearly-4-years-consumer-prices-also-rise-2026-06-10/"
-      ]
     },
     {
       "headline": "Iran War Threatens Millions With Crisis-Level Hunger, World Food Programme Warns",
@@ -452,19 +470,19 @@
       "timestamp": "2026-06-10T13:03:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-10-june-2026-b7ec462890f3c2afa12bd5c0672f2b6b",
-          "angle": "Trump Threatens More Strikes on Iran After Regional Attacks",
-          "summary": "President Trump warned Iran would \"pay the price\" for delays in nuclear negotiations as Iranian forces struck US bases in Jordan and Bahrain. The US launched additional airstrikes on Iranian military sites."
+          "source": "Bloomberg",
+          "url": "https://www.bloomberg.com/news/newsletters/2026-06-10/trump-warns-iran-will-pay-the-price-as-talks-continue",
+          "angle": "Iran Attacks US Bases in Jordan and Bahrain",
+          "summary": "Iran targeted American military installations in Jordan and Bahrain, the latest escalation in tit-for-tat strikes with the United States. Tehran warned Gulf neighbors they could face consequences if they allowed US operations from their territory."
         }
       ],
       "sources": [
         "Reuters",
-        "AP News"
+        "Bloomberg"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/iran-targets-us-bases-jordan-gulf-after-trump-orders-strikes-near-hormuz-2026-06-10/",
-        "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-10-june-2026-b7ec462890f3c2afa12bd5c0672f2b6b"
+        "https://www.bloomberg.com/news/newsletters/2026-06-10/trump-warns-iran-will-pay-the-price-as-talks-continue"
       ]
     },
     {
@@ -536,15 +554,6 @@
         "https://www.upi.com/Top_News/World-News/2026/06/09/integrated-air-defense-missile-defense-drone-swarms/4131781049986/",
         "https://www.upi.com/Top_News/World-News/2026/06/09/integrated-air-defense-missile-defense-drone-swarms/4131781049986/"
       ]
-    },
-    {
-      "headline": "Dollar rally compounds economic pain for Asian nations amid Iran war oil shock",
-      "summary": "Asian countries already struggling with high oil prices from the Middle East conflict face additional pressure from a strengthening US dollar, increasing import costs and fiscal strains.",
-      "emoji": "💰🌏",
-      "category": "Economy",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/strong-dollar-rally-weighs-heavier-on-struggling-asian-countries",
-      "timestamp": "2026-06-10T12:06:00+03:00"
     },
     {
       "headline": "Crimea faces fuel shortages as Ukrainian drones disrupt Russian supply routes",
@@ -2924,31 +2933,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/fisa-trump-pulte-expire-c9a56f80e041fef166fbc9526c92decc",
       "timestamp": "2026-06-08T20:03:00+03:00"
-    },
-    {
-      "headline": "Iran to Charge Transit Fees for Ships Passing Through Strait of Hormuz",
-      "summary": "Iran's ambassador to Moscow announced the strategic waterway will remain open but under new conditions set by Iran and Oman, including transit fees—a move that could reshape global energy shipping.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/hormuz-strait-will-be-open-with-transit-fees-iran-envoy-moscow-quoted-2026-06-08/",
-      "timestamp": "2026-06-08T19:16:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/hormuz-strait-will-be-open-with-transit-fees-iran-envoy-moscow-quoted-2026-06-08/",
-          "angle": "Iran says Hormuz Strait will reopen with transit fees",
-          "summary": "Iran's ambassador to Moscow said the strategic Strait of Hormuz will be open but under new conditions set by Iran and Oman, including transit fees, as the conflict with the US continues."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/hormuz-strait-will-be-open-with-transit-fees-iran-envoy-moscow-quoted-2026-06-08/",
-        "https://www.reuters.com/business/energy/hormuz-strait-will-be-open-with-transit-fees-iran-envoy-moscow-quoted-2026-06-08/"
-      ]
     }
   ]
 }
