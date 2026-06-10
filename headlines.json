@@ -1,23 +1,50 @@
 {
-  "lastUpdated": "2026-06-10T23:09:01+03:00",
+  "lastUpdated": "2026-06-11T00:04:58+03:00",
   "headlines": [
     {
-      "headline": "Xi and Kim Pledge Closer Ties as China-North Korea Summit Enters Second Day",
-      "summary": "Chinese President Xi Jinping and North Korean leader Kim Jong Un are holding their first summit in years, with both leaders pledging deeper cooperation amid shifting regional dynamics. The meeting comes as North Korea remains silent on nuclear activities.",
-      "emoji": "🇨🇳🇰🇵",
+      "headline": "Bank of Japan Governor Ueda Hospitalised, Will Miss Key Policy Meeting",
+      "summary": "BOJ Governor Kazuo Ueda has been hospitalised for medical treatment and will miss the June 15-16 policy meeting, the central bank announced, raising uncertainty about Japans monetary policy direction during a critical period.",
+      "emoji": "🇯🇵",
       "category": "Asia-Pacific",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/live/cdepg4kw985t",
-      "timestamp": "2026-06-10T23:03:00+03:00"
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/boj-says-governor-ueda-has-been-hospitalised-2026-06-10/",
+      "timestamp": "2026-06-11T00:03:00+03:00"
     },
     {
-      "headline": "Belfast Anti-Immigrant Protests Erupt After Knife Attack Injures Four",
-      "summary": "Northern Ireland leaders called for calm after anti-immigrant violence broke out in Belfast following a stabbing that injured four people. Homes and vehicles were set alight as protests spread across the city.",
-      "emoji": "🇬🇧",
+      "headline": "Israel Kills 16 in Lebanon as UN Announces International Law Probe",
+      "summary": "Israeli airstrikes in southern Lebanon killed at least 16 people as UN investigators announced they will arrive next week to assess potential violations of international law by all parties in the escalating conflict.",
+      "emoji": "🇮🇱🇱🇧",
+      "category": "Middle East",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/10/israel-kills-16-in-lebanon-un-to-probe-international-law-violations",
+      "timestamp": "2026-06-11T00:03:00+03:00"
+    },
+    {
+      "headline": "Trump Says He Loves Inflation as Prices Hit 3-Year High",
+      "summary": "President Donald Trump dismissed concerns about surging consumer prices, saying I love the inflation and claiming the U.S. is taking millions of barrels of Iranian oil, as inflation reached its highest level in three years.",
+      "emoji": "🇺🇸💰",
+      "category": "US Politics",
+      "source": "AP News",
+      "url": "https://apnews.com/article/trump-love-inflation-democrats-affordability-midterms-603791c93c785221dae8be6df14d807d",
+      "timestamp": "2026-06-11T00:03:00+03:00"
+    },
+    {
+      "headline": "Violent Unrest Erupts in Belfast Over Knife Attack Arrest",
+      "summary": "Police in Northern Ireland used water cannons against protesters as violent unrest flared in Belfast following the arrest of a Sudanese man charged with attempted murder in a stabbing attack, with officials calling for calm.",
+      "emoji": "🇬🇧🇮🇪",
       "category": "Europe",
       "source": "AP News",
-      "url": "https://apnews.com/article/northern-ireland-belfast-stabbing-2aa3099d39874fa72a67ca94783c0721",
-      "timestamp": "2026-06-10T23:03:00+03:00"
+      "url": "https://apnews.com/article/northern-ireland-belfast-stabbing-violence-1d8b2331cfa33a0b39492ca9098c206f",
+      "timestamp": "2026-06-11T00:03:00+03:00"
+    },
+    {
+      "headline": "NATO Forward Land Forces Stand Up New Multinational Battlegroup in Finland",
+      "summary": "NATO has stood up its Forward Land Forces Finland during a ceremony at the Swedish Army base, establishing the alliances newest multinational battlegroup as part of its enhanced deterrence posture in Northern Europe.",
+      "emoji": "🇫🇮🇪🇺",
+      "category": "Europe",
+      "source": "Janes",
+      "url": "https://www.janes.com/defence-intelligence-insights/defence-news/land/natos-forward-land-forces-finland-stood-up",
+      "timestamp": "2026-06-11T00:03:00+03:00"
     },
     {
       "headline": "Trump Threatens New Military Action Against Iran After Helicopter Downing",
@@ -463,6 +490,31 @@
       "timestamp": "2026-06-10T16:00:00+03:00"
     },
     {
+      "headline": "Masked Men Burn Families Out of Homes in Belfast Anti-Immigrant Riots",
+      "summary": "A wave of anti-immigrant violence swept Belfast after a Sudanese man was charged with attempted murder for a knife attack. Masked men torched homes and vehicles across Northern Ireland.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/uk/anti-immigrant-violence-erupts-across-belfast-after-knife-attack-2026-06-10/",
+      "timestamp": "2026-06-10T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/northern-ireland-belfast-stabbing-2aa3099d39874fa72a67ca94783c0721",
+          "angle": "Belfast Anti-Immigrant Protests Erupt After Knife Attack Injures Four",
+          "summary": "Northern Ireland leaders called for calm after anti-immigrant violence broke out in Belfast following a stabbing that injured four people. Homes and vehicles were set alight as protests spread across the city."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/uk/anti-immigrant-violence-erupts-across-belfast-after-knife-attack-2026-06-10/",
+        "https://apnews.com/article/northern-ireland-belfast-stabbing-2aa3099d39874fa72a67ca94783c0721"
+      ]
+    },
+    {
       "headline": "Pakistan Launches Deadly Airstrikes on Afghanistan, Killing at Least 13 Including Children",
       "summary": "Pakistani airstrikes targeted three Afghan provinces killing at least 13 people including 11 children, the Taliban government said, marking a major escalation in border tensions.",
       "emoji": "🇵🇰",
@@ -510,31 +562,6 @@
       "urls": [
         "https://www.reuters.com/world/drones-hit-historic-museum-russia-annexed-crimea-officials-alter-train-schedule-2026-06-10/",
         "https://apnews.com/article/russia-ukraine-war-military-strikes-4a158f6273807683d48692dedb4121b8"
-      ]
-    },
-    {
-      "headline": "Masked Men Burn Families Out of Homes in Belfast Anti-Immigrant Riots",
-      "summary": "A wave of anti-immigrant violence swept Belfast after a Sudanese man was charged with attempted murder for a knife attack. Masked men torched homes and vehicles across Northern Ireland.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/uk/anti-immigrant-violence-erupts-across-belfast-after-knife-attack-2026-06-10/",
-      "timestamp": "2026-06-10T15:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/10/why-has-belfast-erupted-in-anti-immigrant-violence-after-a-knife-attack",
-          "angle": "Belfast erupts in anti-immigrant violence after knife attack",
-          "summary": "Anti-immigration protests have broken out in Belfast, Northern Ireland, after a knife attack allegedly perpetrated by a Sudanese refugee. Hundreds of masked protesters clashed with police."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/uk/anti-immigrant-violence-erupts-across-belfast-after-knife-attack-2026-06-10/",
-        "https://www.aljazeera.com/news/2026/6/10/why-has-belfast-erupted-in-anti-immigrant-violence-after-a-knife-attack"
       ]
     },
     {
@@ -1990,27 +2017,19 @@
       "timestamp": "2026-06-09T14:03:00+03:00",
       "perspectives": [
         {
-          "source": "The Star",
-          "url": "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/10/xi-leaves-north-korea-with-renewed-signs-of-chinas-influence",
-          "angle": "Xi Concludes North Korea Visit with Renewed Signs of China's Influence",
-          "summary": "Chinese President Xi Jinping emerged from his first visit to North Korea in seven years with fresh assurances from Kim Jong Un, signaling deeper ties between the two nations amid regional uncertainties."
-        },
-        {
-          "source": "Bloomberg",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-09/xi-cements-sway-over-north-korea-as-kim-names-china-top-priority",
-          "angle": "Xi cements sway over North Korea as Kim names China top priority",
-          "summary": "Kim Jong Un feted Chinese President Xi Jinping with lavish celebrations in Pyongyang, calling ties with China a strategic priority. The visit underscores deepening alignment between Beijing and Pyongyang amid regional tensions."
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/live/cdepg4kw985t",
+          "angle": "Xi and Kim Pledge Closer Ties as China-North Korea Summit Enters Second Day",
+          "summary": "Chinese President Xi Jinping and North Korean leader Kim Jong Un are holding their first summit in years, with both leaders pledging deeper cooperation amid shifting regional dynamics. The meeting comes as North Korea remains silent on nuclear activities."
         }
       ],
       "sources": [
         "Reuters",
-        "The Star",
-        "Bloomberg"
+        "BBC"
       ],
       "urls": [
         "https://www.reuters.com/world/china/north-korea-china-agree-expand-cooperation-various-sectors-north-koreas-state-2026-06-08/",
-        "https://www.thestar.com.my/aseanplus/aseanplus-news/2026/06/10/xi-leaves-north-korea-with-renewed-signs-of-chinas-influence",
-        "https://www.bloomberg.com/news/articles/2026-06-09/xi-cements-sway-over-north-korea-as-kim-names-china-top-priority"
+        "https://www.bbc.com/news/live/cdepg4kw985t"
       ]
     },
     {
@@ -2930,24 +2949,6 @@
         "https://www.reuters.com/world/asia-pacific/chinese-military-hovered-global-executives-flocked-taiwan-tech-show-2026-06-08/",
         "https://www.reuters.com/world/asia-pacific/chinese-military-hovered-global-executives-flocked-taiwan-tech-show-2026-06-08/"
       ]
-    },
-    {
-      "headline": "South Korea to unveil major investment project as AI boom swells tax revenue",
-      "summary": "President Lee Jae Myung announced plans for a large-scale investment project, citing buoyant tax revenues from the chip sector amid the AI boom.",
-      "emoji": "🇰🇷",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/south-koreas-lee-says-success-business-should-be-shared-plans-surplus-tax-2026-06-08/",
-      "timestamp": "2026-06-08T23:03:00+03:00"
-    },
-    {
-      "headline": "Bennett slams Netanyahu for \"normalizing\" Iran attacks",
-      "summary": "Former Israeli PM Naftali Bennett criticized Netanyahu for accepting periodic Iranian strikes as routine, arguing Israel should not become accustomed to being attacked.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/bennett-slams-netanyahu-for-normalizing-periodical-attacks-from-iran/",
-      "timestamp": "2026-06-08T22:11:00+03:00"
     }
   ]
 }
