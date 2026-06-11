@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-11T15:06:42+03:00",
+  "lastUpdated": "2026-06-11T16:07:16+03:00",
   "headlines": [
+    {
+      "headline": "UK Defense Secretary Resigns Over Military Spending Dispute",
+      "summary": "John Healey resigned as UK Defense Secretary, accusing the government of not committing sufficient resources to defend the country amid growing security threats. The resignation deals a significant blow to Prime Minister Keir Starmer's administration.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "US News",
+      "url": "https://www.usnews.com/news/business/articles/2026-06-11/uk-defense-secretary-quits-says-government-isnt-willing-to-spend-enough-on-military",
+      "timestamp": "2026-06-11T16:03:00+03:00"
+    },
+    {
+      "headline": "ECB Raises Interest Rates for First Time Since 2023 to Combat Iran War Inflation",
+      "summary": "The European Central Bank increased its deposit rate by 25 basis points to 2.25% as energy-driven inflation from the Iran conflict spreads across the euro zone. The move marks the first rate hike in nearly three years and signals concern about persistent price pressures.",
+      "emoji": "🇪🇺",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/ecb-raises-interest-rates-long-telegraphed-move-2026-06-11/",
+      "timestamp": "2026-06-11T16:03:00+03:00"
+    },
+    {
+      "headline": "Bloomberg Opinion: ECB Jumping at Old Inflation Shadows",
+      "summary": "The European Central Bank raised rates to 2.25%, its first hike since 2023, but critics argue the move may be responding to past inflation patterns rather than current economic realities. The decision comes as the Iran war threatens new energy price shocks.",
+      "emoji": "💰",
+      "category": "Economy",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/opinion/articles/2026-06-11/ecb-rate-decision-the-ecb-is-jumping-at-old-inflation-shadows",
+      "timestamp": "2026-06-11T16:03:00+03:00"
+    },
+    {
+      "headline": "Iran Closes Strait of Hormuz, Attacks US Bases in Kuwait and Bahrain",
+      "summary": "Iran announced the closure of the Strait of Hormuz to all vessels and launched retaliatory strikes on US military bases in Kuwait, Bahrain, and Jordan following American attacks. The escalation marks day 104 of the conflict as tit-for-tat strikes continue.",
+      "emoji": "⚔️",
+      "category": "Middle East",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/11/iran-war-day-104-iran-says-it-attacks-us-bases-after-american-strikes",
+      "timestamp": "2026-06-11T16:03:00+03:00"
+    },
+    {
+      "headline": "Ukraine Deploys Ground-Based Drones to Shift Frontline Duties from Soldiers",
+      "summary": "Ukraine is increasingly relying on robotic ground drones to punch above its weight on the battlefield, automating logistics and reconnaissance tasks previously handled by soldiers. The technology represents a significant evolution in modern warfare tactics.",
+      "emoji": "🤖",
+      "category": "Ukraine-Russia War",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/10/nx-s1-5818116/in-the-ukraine-war-new-ground-based-drones-are-playing-a-key-role-on-the-battlefield",
+      "timestamp": "2026-06-11T16:03:00+03:00"
+    },
     {
       "headline": "Thai court sentences two Uyghur men to death for 2015 Bangkok shrine bombing",
       "summary": "A Thai military court convicted two ethnic Uyghur men from Xinjiang for the 2015 Erawan Shrine bombing that killed 20 people and wounded over 100, delivering death sentences after a nine-year trial.",
@@ -8,16 +53,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/thai-court-sentences-two-uyghur-men-death-2015-bangkok-bombing-2026-06-11/",
-      "timestamp": "2026-06-11T15:03:00+03:00"
-    },
-    {
-      "headline": "Pope Leo visits Canary Islands to highlight perilous migrant journeys",
-      "summary": "Pope Leo traveled to Spain's Canary Islands, a major migration hotspot, warning that history will condemn leaders who ignore migrant deaths and calling for humane treatment of those fleeing war and poverty.",
-      "emoji": "⛪",
-      "category": "Europe",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cn59w6p3vd0o",
-      "timestamp": "2026-06-11T15:03:00+03:00"
+      "timestamp": "2026-06-11T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/thailand-erawan-shrine-bombing-2015-convicted-sentenced-6e1f0ab2f99b2b630df34aa79e1c29d2",
+          "angle": "Thai Court Sentences Two Uyghurs to Death for 2015 Shrine Bombing",
+          "summary": "A Thai court has sentenced two Uyghur men to death for the 2015 Erawan Shrine bombing in Bangkok that killed 20 people. The attack had targeted tourists in the popular Hindu shrine."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/thai-court-sentences-two-uyghur-men-death-2015-bangkok-bombing-2026-06-11/",
+        "https://apnews.com/article/thailand-erawan-shrine-bombing-2015-convicted-sentenced-6e1f0ab2f99b2b630df34aa79e1c29d2"
+      ]
     },
     {
       "headline": "Italy PM calls for single EU voice in Russia peace talks",
@@ -44,7 +96,23 @@
       "category": "Asia-Pacific",
       "source": "AP News",
       "url": "https://apnews.com/article/american-diplomat-death-myanmar-1d366a63cb02a01a07e48a79fecc496b",
-      "timestamp": "2026-06-11T15:03:00+03:00"
+      "timestamp": "2026-06-11T15:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/10/thai-woman-in-custody-after-us-diplomat-found-dead-in-myanmar",
+          "angle": "US Diplomat Found Dead in Myanmar, Thai Woman in Custody",
+          "summary": "A US State Department official was found dead in Yangon with a Thai woman in custody. The department confirmed the fatality but declined to provide additional details about the circumstances."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://apnews.com/article/american-diplomat-death-myanmar-1d366a63cb02a01a07e48a79fecc496b",
+        "https://www.aljazeera.com/news/2026/6/10/thai-woman-in-custody-after-us-diplomat-found-dead-in-myanmar"
+      ]
     },
     {
       "headline": "Indian-crewed tanker hit off Oman in suspected third US strike",
@@ -229,31 +297,6 @@
       ]
     },
     {
-      "headline": "Thai Court Sentences Two Uyghurs to Death for 2015 Shrine Bombing",
-      "summary": "A Thai court has sentenced two Uyghur men to death for the 2015 Erawan Shrine bombing in Bangkok that killed 20 people. The attack had targeted tourists in the popular Hindu shrine.",
-      "emoji": "🇹🇭⛪",
-      "category": "Asia-Pacific",
-      "source": "AP News",
-      "url": "https://apnews.com/article/thailand-erawan-shrine-bombing-2015-convicted-sentenced-6e1f0ab2f99b2b630df34aa79e1c29d2",
-      "timestamp": "2026-06-11T12:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "France 24",
-          "url": "https://www.france24.com/en/live-news/20260611-thailand-sentences-chinese-uyghurs-to-death-in-2015-shrine-bombing-case",
-          "angle": "Thailand Sentences Chinese Uyghurs to Death in 2015 Shrine Bombing Case",
-          "summary": "A Thai court has sentenced two Chinese Uyghurs to death for their involvement in the 2015 Bangkok shrine bombing that killed 20 people, in a case with geopolitical implications."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "France 24"
-      ],
-      "urls": [
-        "https://apnews.com/article/thailand-erawan-shrine-bombing-2015-convicted-sentenced-6e1f0ab2f99b2b630df34aa79e1c29d2",
-        "https://www.france24.com/en/live-news/20260611-thailand-sentences-chinese-uyghurs-to-death-in-2015-shrine-bombing-case"
-      ]
-    },
-    {
       "headline": "US Bases in Middle East Face Second Round of Iranian Retaliatory Attacks",
       "summary": "US military bases across the Middle East are experiencing a second wave of Iranian retaliatory strikes following earlier American attacks. The escalation threatens to further destabilize the already fragile ceasefire.",
       "emoji": "🇺🇸🇮🇷💥",
@@ -288,6 +331,31 @@
       ]
     },
     {
+      "headline": "Pope Leo Heads to Canary Islands to Highlight Migrant Crisis",
+      "summary": "Pope Leo traveled to the Canary Islands to meet migrants who have braved dangerous Atlantic crossings, urging more humane treatment of immigrants as the Mediterranean route faces record arrivals.",
+      "emoji": "⛪🚢",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/pope-leo-heads-canary-islands-mission-help-migrants-2026-06-11/",
+      "timestamp": "2026-06-11T11:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cn59w6p3vd0o",
+          "angle": "Pope Leo visits Canary Islands to highlight perilous migrant journeys",
+          "summary": "Pope Leo traveled to Spain's Canary Islands, a major migration hotspot, warning that history will condemn leaders who ignore migrant deaths and calling for humane treatment of those fleeing war and poverty."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/pope-leo-heads-canary-islands-mission-help-migrants-2026-06-11/",
+        "https://www.bbc.com/news/articles/cn59w6p3vd0o"
+      ]
+    },
+    {
       "headline": "Oil Prices Jump as Iran Closes Strait of Hormuz After US Strikes",
       "summary": "Oil prices climbed more than $2 per barrel after Iran declared closure of the critical Strait of Hormuz waterway following US military strikes, though gains were later pared as traders assessed actual supply disruption impact.",
       "emoji": "🛢️💰",
@@ -311,15 +379,6 @@
         "https://www.reuters.com/business/energy/oil-rises-2-iran-announces-closure-strait-hormuz-following-us-strikes-2026-06-11/",
         "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Spike-as-Iran-Declares-Strait-of-Hormuz-Closed.html"
       ]
-    },
-    {
-      "headline": "Pope Leo Heads to Canary Islands to Highlight Migrant Crisis",
-      "summary": "Pope Leo traveled to the Canary Islands to meet migrants who have braved dangerous Atlantic crossings, urging more humane treatment of immigrants as the Mediterranean route faces record arrivals.",
-      "emoji": "⛪🚢",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/pope-leo-heads-canary-islands-mission-help-migrants-2026-06-11/",
-      "timestamp": "2026-06-11T11:03:00+03:00"
     },
     {
       "headline": "Gulf Countries Say Iran Aggression Closes Door to Dialogue",
@@ -1198,15 +1257,6 @@
         "https://www.reuters.com/world/asia-pacific/pakistan-says-all-aboard-military-helicopter-killed-crash-pakistani-kashmir-2026-06-10/",
         "https://www.newsday.com/news/nation/pakistan-helicopter-crash-mass-funerals-kashmir-protest-v54568"
       ]
-    },
-    {
-      "headline": "US Diplomat Found Dead in Myanmar, Thai Woman in Custody",
-      "summary": "A US State Department official was found dead in Yangon with a Thai woman in custody. The department confirmed the fatality but declined to provide additional details about the circumstances.",
-      "emoji": "🇲🇲🇺🇸",
-      "category": "Asia-Pacific",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/10/thai-woman-in-custody-after-us-diplomat-found-dead-in-myanmar",
-      "timestamp": "2026-06-10T19:11:00+03:00"
     },
     {
       "headline": "Russian and Ukrainian Drones Stray Into NATO Countries as Aerial War Spills Over",
@@ -2627,56 +2677,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/philippines-south-china-sea-scarborough-shoal-85fa9b923cdd17f150f424da7b23df77",
       "timestamp": "2026-06-09T15:03:00+03:00"
-    },
-    {
-      "headline": "Investors see tipping point for bonds after Iran conflict shreds old playbooks",
-      "summary": "Bonds failed to shield investors during the Iran-Israel conflict, but fund managers say debt may reclaim its safe-haven role if inflation starts hitting growth, marking a potential shift in market dynamics.",
-      "emoji": "📈💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/investors-spy-tipping-point-bonds-after-geopolitics-shreds-old-playbooks-2026-06-09/",
-      "timestamp": "2026-06-09T15:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/investors-spy-tipping-point-bonds-after-geopolitics-shreds-old-playbooks-2026-06-09/",
-          "angle": "Investors See Tipping Point for Bonds After Geopolitics Shreds Old Playbooks",
-          "summary": "Bonds have failed to shield investors during the Iran-Israel conflict, but some fund managers believe debt markets may soon reclaim their safe-haven role if inflation begins to impact economic growth."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/investors-spy-tipping-point-bonds-after-geopolitics-shreds-old-playbooks-2026-06-09/",
-        "https://www.reuters.com/business/investors-spy-tipping-point-bonds-after-geopolitics-shreds-old-playbooks-2026-06-09/"
-      ]
-    },
-    {
-      "headline": "Iran Confirms Two Military Personnel Killed in Israeli Strikes",
-      "summary": "Iranian state media reports two high-ranking air defense personnel killed in Israeli strikes on Monday, as diplomatic sources caution that a deal to end the US-Iran conflict within days is highly unlikely.",
-      "emoji": "🇮🇱🇮🇷",
-      "category": "Middle East",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/middle-east/2-high-ranking-military-personnel-killed-in-monday-s-israeli-strikes-on-iran/3961321",
-      "timestamp": "2026-06-09T14:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Times of Israel",
-          "url": "https://www.timesofisrael.com/liveblog_entry/iran-gulf-nations-have-legal-and-moral-responsibility-to-prevent-us-israeli-strikes/",
-          "angle": "Iran Warns Gulf Nations of Responsibility to Prevent US-Israeli Strikes",
-          "summary": "Iran's foreign ministry declared that neighboring Gulf countries have a \"legal and moral responsibility\" to prevent American and Israeli attacks, as regional tensions escalate following US strikes."
-        }
-      ],
-      "sources": [
-        "Anadolu Agency",
-        "Times of Israel"
-      ],
-      "urls": [
-        "https://www.aa.com.tr/en/middle-east/2-high-ranking-military-personnel-killed-in-monday-s-israeli-strikes-on-iran/3961321",
-        "https://www.timesofisrael.com/liveblog_entry/iran-gulf-nations-have-legal-and-moral-responsibility-to-prevent-us-israeli-strikes/"
-      ]
     }
   ]
 }
