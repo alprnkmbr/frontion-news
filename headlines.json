@@ -1,6 +1,58 @@
 {
-  "lastUpdated": "2026-06-11T04:06:21+03:00",
+  "lastUpdated": "2026-06-11T04:12:56+03:00",
   "headlines": [
+    {
+      "headline": "Chinese AI Police Tech Measures Vital Signs and \"Core Motivation\" at Beijing Expo",
+      "summary": "An international police equipment expo in Beijing showcased surveillance cameras that measure vital signs and even \"core motivation\" of suspects, reflecting China's advancing AI-powered security capabilities.",
+      "emoji": "🇨🇳",
+      "category": "Technology",
+      "source": "SCMP",
+      "url": "https://www.scmp.com/news/china/politics/article/3356636/chinese-ai-police-tech-aimed-physical-psychological-and-emotional-states",
+      "timestamp": "2026-06-11T04:07:00+03:00"
+    },
+    {
+      "headline": "House Lawmakers Back 5-7% Military Pay Raise for 2027, No Increase for DoD Civilians",
+      "summary": "The House Armed Services Committee approved a 5% to 7% pay raise for service members in 2027, while Defense Department civilian employees would see no pay increase under the spending bill.",
+      "emoji": "🇺🇸",
+      "category": "Defense Industry",
+      "source": "Federal News Network",
+      "url": "https://federalnewsnetwork.com/defense-news/2026/06/house-lawmakers-back-2027-military-pay-raise/",
+      "timestamp": "2026-06-11T04:07:00+03:00"
+    },
+    {
+      "headline": "India's Urban Boom Turns Cities Into Heat Traps as Climate Change Intensifies",
+      "summary": "India's rapid urbanization is making cities significantly hotter, with the urban heat island effect combining with climate change to create dangerous living conditions for millions.",
+      "emoji": "🇮🇳",
+      "category": "Climate",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/environment/climate-change/india-s-urban-boom-turns-its-cities-into-heat-traps",
+      "timestamp": "2026-06-11T04:07:00+03:00"
+    },
+    {
+      "headline": "Iran Announces Strait of Hormuz Closure After US Launches New Strikes",
+      "summary": "Iran's military declared the strategic Strait of Hormuz closed to all vessels and threatened to fire on any ships attempting transit, following fresh US military strikes on multiple Iranian targets.",
+      "emoji": "🇮🇷",
+      "category": "Middle East",
+      "source": "Straits Times",
+      "url": "https://www.straitstimes.com/world/middle-east/us-military-says-carrying-out-self-defence-strikes-against-iran",
+      "timestamp": "2026-06-11T04:07:00+03:00",
+      "perspectives": [
+        {
+          "source": "Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/iran-declares-closure-of-hormuz-after-latest-us-strikes-threatens-to-attack-ships-in-the-strait/",
+          "angle": "Iran declares closure of Hormuz, threatens to attack ships in strait",
+          "summary": "Iran announced the closure of the strategic Strait of Hormuz after latest US strikes, threatening to attack any ships passing through the critical waterway."
+        }
+      ],
+      "sources": [
+        "Straits Times",
+        "Times of Israel"
+      ],
+      "urls": [
+        "https://www.straitstimes.com/world/middle-east/us-military-says-carrying-out-self-defence-strikes-against-iran",
+        "https://www.timesofisrael.com/liveblog_entry/iran-declares-closure-of-hormuz-after-latest-us-strikes-threatens-to-attack-ships-in-the-strait/"
+      ]
+    },
     {
       "headline": "Bahrain sounds missile alert sirens as Iran vows retaliation for US strikes",
       "summary": "Bahrain activated its missile alert system as Iran announced it would retaliate after the US launched new airstrikes. The tiny Gulf kingdom hosts the US Fifth Fleet and is within range of Iranian missiles.",
@@ -8,15 +60,6 @@
       "category": "Middle East",
       "source": "AP News",
       "url": "https://apnews.com/e26f4de26ce633c2a34657b70e529e43",
-      "timestamp": "2026-06-11T04:03:00+03:00"
-    },
-    {
-      "headline": "At least 15 killed in Pakistan-administered Kashmir clashes",
-      "summary": "Thousands of protesters clashed with security forces in Pakistan-administered Kashmir over reserved seats for refugees. At least 11 civilians and 4 security officers were killed in the violence.",
-      "emoji": "🇵🇰",
-      "category": "South Asia",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cdxdyn5716xo",
       "timestamp": "2026-06-11T04:03:00+03:00"
     },
     {
@@ -35,7 +78,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/iran-war-anxiety-sends-global-container-shipping-rates-soaring-2026-06-10/",
-      "timestamp": "2026-06-11T04:03:00+03:00"
+      "timestamp": "2026-06-11T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/iran-war-anxiety-sends-global-container-shipping-rates-soaring-2026-06-10/",
+          "angle": "Iran War Fears Double Container Shipping Rates from Asia to US",
+          "summary": "The cost of shipping a container from Asia to the United States has doubled since the start of the Iran war, driven by spiking fuel prices and disruptions to global trade routes through the Strait of Hormuz."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/iran-war-anxiety-sends-global-container-shipping-rates-soaring-2026-06-10/",
+        "https://www.reuters.com/business/energy/iran-war-anxiety-sends-global-container-shipping-rates-soaring-2026-06-10/"
+      ]
     },
     {
       "headline": "Analysis suggests precision US strikes hit Iranian water facility",
@@ -114,15 +173,6 @@
       "category": "US-China",
       "source": "SCMP",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3356664/how-will-pentagons-expanded-blacklist-chinese-firms-affect-xis-us-visit",
-      "timestamp": "2026-06-11T02:06:00+03:00"
-    },
-    {
-      "headline": "Iran declares closure of Hormuz, threatens to attack ships in strait",
-      "summary": "Iran announced the closure of the strategic Strait of Hormuz after latest US strikes, threatening to attack any ships passing through the critical waterway.",
-      "emoji": "🇮🇷⚔️",
-      "category": "Middle East",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/iran-declares-closure-of-hormuz-after-latest-us-strikes-threatens-to-attack-ships-in-the-strait/",
       "timestamp": "2026-06-11T02:06:00+03:00"
     },
     {
@@ -460,15 +510,6 @@
       ]
     },
     {
-      "headline": "Iran War Fears Double Container Shipping Rates from Asia to US",
-      "summary": "The cost of shipping a container from Asia to the United States has doubled since the start of the Iran war, driven by spiking fuel prices and disruptions to global trade routes through the Strait of Hormuz.",
-      "emoji": "🚢💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/iran-war-anxiety-sends-global-container-shipping-rates-soaring-2026-06-10/",
-      "timestamp": "2026-06-10T21:03:00+03:00"
-    },
-    {
       "headline": "Two Merchant Vessels Damaged in Ukrainian Black Sea Corridor Attack",
       "summary": "A Panamanian-flagged and a Barbadian-flagged vessel were damaged while transiting Ukraines Black Sea navigation corridor, highlighting ongoing risks to commercial shipping despite the corridors establishment.",
       "emoji": "🚢🇺🇦",
@@ -566,6 +607,31 @@
       "timestamp": "2026-06-10T20:03:00+03:00"
     },
     {
+      "headline": "All Aboard Military Helicopter Killed in Pakistan Kashmir Crash",
+      "summary": "A Pakistani military helicopter crashed near Muzaffarabad in Pakistani Kashmir, killing all personnel on board. The military did not specify the number of casualties in the incident.",
+      "emoji": "🇵🇰💔",
+      "category": "South Asia",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/pakistan-says-all-aboard-military-helicopter-killed-crash-pakistani-kashmir-2026-06-10/",
+      "timestamp": "2026-06-10T19:11:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cdxdyn5716xo",
+          "angle": "At least 15 killed in Pakistan-administered Kashmir clashes",
+          "summary": "Thousands of protesters clashed with security forces in Pakistan-administered Kashmir over reserved seats for refugees. At least 11 civilians and 4 security officers were killed in the violence."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/pakistan-says-all-aboard-military-helicopter-killed-crash-pakistani-kashmir-2026-06-10/",
+        "https://www.bbc.com/news/articles/cdxdyn5716xo"
+      ]
+    },
+    {
       "headline": "Bank of Japan Set to Raise Key Rate to 1.0% in June",
       "summary": "The BOJ will raise its benchmark interest rate this month and again in Q4, taking borrowing costs to 1.25% by year-end as it grows more wary of inflation risks. The yen strengthened on the prospect of tighter policy.",
       "emoji": "🇯🇵💹",
@@ -582,31 +648,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/10/thai-woman-in-custody-after-us-diplomat-found-dead-in-myanmar",
       "timestamp": "2026-06-10T19:11:00+03:00"
-    },
-    {
-      "headline": "All Aboard Military Helicopter Killed in Pakistan Kashmir Crash",
-      "summary": "A Pakistani military helicopter crashed near Muzaffarabad in Pakistani Kashmir, killing all personnel on board. The military did not specify the number of casualties in the incident.",
-      "emoji": "🇵🇰💔",
-      "category": "South Asia",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/pakistan-says-all-aboard-military-helicopter-killed-crash-pakistani-kashmir-2026-06-10/",
-      "timestamp": "2026-06-10T19:11:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/10/pakistan-military-helicopter-crashes-in-kashmir-all-on-board-killed",
-          "angle": "Pakistan Military Helicopter Crashes in Kashmir, All Killed",
-          "summary": "A Pakistani military helicopter crashed in Pakistan-administered Kashmir, killing everyone on board. The incident comes amid heavy security presence and protests in the region in recent days."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/pakistan-says-all-aboard-military-helicopter-killed-crash-pakistani-kashmir-2026-06-10/",
-        "https://www.aljazeera.com/news/2026/6/10/pakistan-military-helicopter-crashes-in-kashmir-all-on-board-killed"
-      ]
     },
     {
       "headline": "Russian and Ukrainian Drones Stray Into NATO Countries as Aerial War Spills Over",
@@ -2823,148 +2864,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/live-news/20260609-asian-stocks-track-wall-st-tech-bounce-oil-eases-on-mideast-hope",
       "timestamp": "2026-06-09T06:10:00+03:00"
-    },
-    {
-      "headline": "South Korea Names First Female Prime Minister in Decades to Lead AI Push",
-      "summary": "President Lee Jae Myung nominated former Naver CEO Han Seong-sook as prime minister, tasking her with driving South Korea's AI-driven economic transformation.",
-      "emoji": "🇰🇷",
-      "category": "Asia-Pacific",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-08/south-korea-s-lee-names-ex-naver-ceo-han-as-prime-minister",
-      "timestamp": "2026-06-09T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Japan Times",
-          "url": "https://www.japantimes.co.jp/news/2026/06/08/asia-pacific/south-korea-female-pm-ai/",
-          "angle": "South Korea Names First Female Prime Minister as President Lee Marks One Year",
-          "summary": "President Lee Jae-myung appointed Han Seong-sook as South Koreas first female PM in decades, as his administration focuses on AI development and pragmatic diplomacy with North Korea."
-        }
-      ],
-      "sources": [
-        "Bloomberg",
-        "Japan Times"
-      ],
-      "urls": [
-        "https://www.bloomberg.com/news/articles/2026-06-08/south-korea-s-lee-names-ex-naver-ceo-han-as-prime-minister",
-        "https://www.japantimes.co.jp/news/2026/06/08/asia-pacific/south-korea-female-pm-ai/"
-      ]
-    },
-    {
-      "headline": "EU Prepares 21st Sanctions Package Against Russia Worth $1.5 Trillion",
-      "summary": "The European Union is finalizing its 21st sanctions package against Russia, targeting additional sectors to increase economic pressure on Moscow.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/8/eu-planning-to-add-to-1-5-trillion-sanctions-hit-on-russia",
-      "timestamp": "2026-06-09T06:03:00+03:00"
-    },
-    {
-      "headline": "Xi and Kim Agree to Expand Cooperation at Pyongyang Summit",
-      "summary": "Chinese President Xi Jinping and North Korean leader Kim Jong Un held a rare summit in Pyongyang, agreeing to expand cooperation in politics, economy and culture.",
-      "emoji": "🇨🇳🇰🇵",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/north-korea-china-agree-expand-cooperation-various-sectors-north-koreas-state-2026-06-08/",
-      "timestamp": "2026-06-09T05:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "NBC News",
-          "url": "https://www.nbcnews.com/world/asia/kim-jong-un-xi-jinping-north-korea-china-rcna348930",
-          "angle": "Kim Jong Un hosts Xi Jinping from position of rare strength in Pyongyang summit",
-          "summary": "North Korean leader Kim Jong Un gave Chinas Xi Jinping a grand welcome at a rare summit in Pyongyang, projecting unity while Xi sought to remind Kim that China remains the senior partner in their relationship."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "NBC News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/north-korea-china-agree-expand-cooperation-various-sectors-north-koreas-state-2026-06-08/",
-        "https://www.nbcnews.com/world/asia/kim-jong-un-xi-jinping-north-korea-china-rcna348930"
-      ]
-    },
-    {
-      "headline": "Iran Blames US for Latest Exchanges of Fire with Israel",
-      "summary": "Iranian Foreign Ministry says overnight strikes will worsen an already chaotic diplomatic process with Washington, exchanging messages in an atmosphere of extreme suspicion.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-blames-us-latest-exchanges-fire-with-israel-2026-06-08/",
-      "timestamp": "2026-06-09T05:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/iran-blames-us-latest-exchanges-fire-with-israel-2026-06-08/",
-          "angle": "Iran Blames US for Latest Exchanges of Fire with Israel",
-          "summary": "Iran warned that overnight exchanges of fire with Israel will worsen the already chaotic diplomatic process with the United States. Tehran said it was exchanging messages with Washington in an atmosphere of extreme suspicion."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/iran-blames-us-latest-exchanges-fire-with-israel-2026-06-08/",
-        "https://www.reuters.com/world/middle-east/iran-blames-us-latest-exchanges-fire-with-israel-2026-06-08/"
-      ]
-    },
-    {
-      "headline": "Poland Seeks Calm with Ukraine Over WWII Army Unit Dispute",
-      "summary": "Polish PM Tusk calls for solidarity and talks after diplomatic relations deteriorated over Ukraine naming an army unit for nationalist insurgents who massacred Poles in World War Two.",
-      "emoji": "🇵🇱",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/polands-tusk-seeks-calm-dialogue-with-ukraine-row-over-army-unit-2026-06-08/",
-      "timestamp": "2026-06-09T05:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/polands-tusk-seeks-calm-dialogue-with-ukraine-row-over-army-unit-2026-06-08/",
-          "angle": "Poland Seeks Dialogue with Ukraine Over Army Unit Row",
-          "summary": "Poland called for solidarity and talks with Ukraine after diplomatic relations deteriorated over the naming of a Ukrainian army unit for nationalist insurgents who massacred Poles during World War Two."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/polands-tusk-seeks-calm-dialogue-with-ukraine-row-over-army-unit-2026-06-08/",
-        "https://www.reuters.com/world/europe/polands-tusk-seeks-calm-dialogue-with-ukraine-row-over-army-unit-2026-06-08/"
-      ]
-    },
-    {
-      "headline": "Gulf Stock Markets Drop Amid Renewed Middle East Tensions",
-      "summary": "Most stock markets in the Gulf ended lower on Monday as renewed conflict in the Middle East weighed on investor sentiment.",
-      "emoji": "📉",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/major-gulf-markets-drop-amid-fresh-middle-east-tensions-2026-06-08/",
-      "timestamp": "2026-06-09T05:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/major-gulf-markets-drop-amid-fresh-middle-east-tensions-2026-06-08/",
-          "angle": "Gulf stock markets drop as Middle East tensions weigh on investor sentiment",
-          "summary": "Most Gulf stock markets ended lower on Monday as renewed conflict in the Middle East rattled investors despite ceasefire talks between Iran and Israel."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/most-gulf-markets-end-lower-amid-fresh-us-iran-escalation-2026-06-07/",
-          "angle": "Gulf markets fall amid fresh US-Iran escalation",
-          "summary": "Most Gulf stock markets closed lower on Sunday after new escalations clouded efforts to end the war between the US and Iran, adding to regional economic uncertainty."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/major-gulf-markets-drop-amid-fresh-middle-east-tensions-2026-06-08/",
-        "https://www.reuters.com/world/middle-east/major-gulf-markets-drop-amid-fresh-middle-east-tensions-2026-06-08/",
-        "https://www.reuters.com/world/middle-east/most-gulf-markets-end-lower-amid-fresh-us-iran-escalation-2026-06-07/"
-      ]
     }
   ]
 }
