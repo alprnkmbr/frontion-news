@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-11T13:05:03+03:00",
+  "lastUpdated": "2026-06-11T14:05:51+03:00",
   "headlines": [
+    {
+      "headline": "Iran and Ukraine Loom Over G7 as France Accommodates Trump",
+      "summary": "The G7 summit in France faces twin crises over Iran and Ukraine as host President Macron seeks to balance competing priorities while accommodating Trump approach to foreign policy.",
+      "emoji": "🇫🇷",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/iran-ukraine-loom-over-g7-france-accommodates-trump-2026-06-11/",
+      "timestamp": "2026-06-11T14:03:00+03:00"
+    },
+    {
+      "headline": "Ukraine Launches Long-Range Strikes on Russian Military and Energy Sites",
+      "summary": "Ukrainian forces have conducted long-range strikes targeting military and energy infrastructure inside Russia, marking an escalation in the conflict.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-military-strikes-4a158f6273807683d48692dedb4121b8",
+      "timestamp": "2026-06-11T14:03:00+03:00"
+    },
     {
       "headline": "US and Iran Exchange Fire for Second Day as Ceasefire Unravels",
       "summary": "The US and Iran traded military strikes for a second consecutive day, with Tehran launching retaliatory attacks on bases in Kuwait, Bahrain, and Jordan while Washington continued its bombing campaign. President Trump vowed further strikes unless Tehran agrees to immediate peace talks.",
@@ -8,16 +26,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/us-iran-trade-attacks-second-day-undermining-shaky-ceasefire-2026-06-11/",
-      "timestamp": "2026-06-11T13:03:00+03:00"
-    },
-    {
-      "headline": "Ukraine's War Exceeds World War I Duration as Attrition Continues",
-      "summary": "The conflict in Ukraine has now lasted longer than World War I, marking a grim milestone as fighting grinds on with no resolution in sight. The prolonged war continues to reshape European security architecture.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "The Economist",
-      "url": "https://www.economist.com/europe/2026/06/11/ukraines-war-is-now-longer-than-the-first-world-war",
-      "timestamp": "2026-06-11T13:03:00+03:00"
+      "timestamp": "2026-06-11T13:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/us-iran-trade-attacks-second-day-undermining-shaky-ceasefire-2026-06-11/",
+          "angle": "US and Iran Trade Air Attacks for Second Day as Ceasefire Unravels",
+          "summary": "The United States and Iran exchanged air attacks for a second straight day, with President Trump vowing further strikes if Tehran does not immediately agree to a peace deal. The renewed fighting has cast fresh doubt over prospects for ending the conflict."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/us-iran-trade-attacks-second-day-undermining-shaky-ceasefire-2026-06-11/",
+        "https://www.reuters.com/world/middle-east/us-iran-trade-attacks-second-day-undermining-shaky-ceasefire-2026-06-11/"
+      ]
     },
     {
       "headline": "US Overtakes Saudi Arabia and Russia as World's Top Oil Exporter",
@@ -26,15 +51,6 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/once-an-arab-oil-embargo-victim-us-becomes-worlds-top-oil-exporter-2026-06-11/",
-      "timestamp": "2026-06-11T13:03:00+03:00"
-    },
-    {
-      "headline": "Mass Funeral Held for 22 Pakistani Soldiers Killed in Kashmir Helicopter Crash",
-      "summary": "A mass funeral was conducted for 22 Pakistani security personnel, including three senior officers, who died when their military helicopter crashed near Muzaffarabad in Pakistan-administered Kashmir. The cause of the crash remains under investigation.",
-      "emoji": "🇵🇰",
-      "category": "South Asia",
-      "source": "Newsday",
-      "url": "https://www.newsday.com/news/nation/pakistan-helicopter-crash-mass-funerals-kashmir-protest-v54568",
       "timestamp": "2026-06-11T13:03:00+03:00"
     },
     {
@@ -89,7 +105,23 @@
       "category": "Ukraine-Russia War",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
-      "timestamp": "2026-06-11T12:03:00+03:00"
+      "timestamp": "2026-06-11T12:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Economist",
+          "url": "https://www.economist.com/europe/2026/06/11/ukraines-war-is-now-longer-than-the-first-world-war",
+          "angle": "Ukraine's War Exceeds World War I Duration as Attrition Continues",
+          "summary": "The conflict in Ukraine has now lasted longer than World War I, marking a grim milestone as fighting grinds on with no resolution in sight. The prolonged war continues to reshape European security architecture."
+        }
+      ],
+      "sources": [
+        "New York Times",
+        "The Economist"
+      ],
+      "urls": [
+        "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
+        "https://www.economist.com/europe/2026/06/11/ukraines-war-is-now-longer-than-the-first-world-war"
+      ]
     },
     {
       "headline": "Thai Court Sentences Two Uyghurs to Death for 2015 Shrine Bombing",
@@ -397,31 +429,6 @@
       "urls": [
         "https://www.reuters.com/world/middle-east/israeli-airstrikes-kill-13-south-lebanon-lebanese-sources-say-2026-06-10/",
         "https://www.reuters.com/world/middle-east/israeli-airstrikes-kill-13-south-lebanon-lebanese-sources-say-2026-06-10/"
-      ]
-    },
-    {
-      "headline": "US and Iran Trade Air Attacks for Second Day as Ceasefire Unravels",
-      "summary": "The United States and Iran exchanged air attacks for a second straight day, with President Trump vowing further strikes if Tehran does not immediately agree to a peace deal. The renewed fighting has cast fresh doubt over prospects for ending the conflict.",
-      "emoji": "⚔️",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-iran-trade-attacks-second-day-undermining-shaky-ceasefire-2026-06-11/",
-      "timestamp": "2026-06-11T08:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-11-june-2026-3c2c6d356a1e25b4d7edf66b2edba57d",
-          "angle": "US Launches Second Day of Strikes on Iran; Iran Fires Back at Gulf States",
-          "summary": "The United States conducted a second round of airstrikes on Iranian targets, while Iran launched retaliatory attacks against Gulf states and Jordan, undermining fragile ceasefire efforts."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/us-iran-trade-attacks-second-day-undermining-shaky-ceasefire-2026-06-11/",
-        "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-11-june-2026-3c2c6d356a1e25b4d7edf66b2edba57d"
       ]
     },
     {
@@ -1089,19 +1096,19 @@
       "timestamp": "2026-06-10T19:11:00+03:00",
       "perspectives": [
         {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cdxdyn5716xo",
-          "angle": "At least 15 killed in Pakistan-administered Kashmir clashes",
-          "summary": "Thousands of protesters clashed with security forces in Pakistan-administered Kashmir over reserved seats for refugees. At least 11 civilians and 4 security officers were killed in the violence."
+          "source": "Newsday",
+          "url": "https://www.newsday.com/news/nation/pakistan-helicopter-crash-mass-funerals-kashmir-protest-v54568",
+          "angle": "Mass Funeral Held for 22 Pakistani Soldiers Killed in Kashmir Helicopter Crash",
+          "summary": "A mass funeral was conducted for 22 Pakistani security personnel, including three senior officers, who died when their military helicopter crashed near Muzaffarabad in Pakistan-administered Kashmir. The cause of the crash remains under investigation."
         }
       ],
       "sources": [
         "Reuters",
-        "BBC"
+        "Newsday"
       ],
       "urls": [
         "https://www.reuters.com/world/asia-pacific/pakistan-says-all-aboard-military-helicopter-killed-crash-pakistani-kashmir-2026-06-10/",
-        "https://www.bbc.com/news/articles/cdxdyn5716xo"
+        "https://www.newsday.com/news/nation/pakistan-helicopter-crash-mass-funerals-kashmir-protest-v54568"
       ]
     },
     {
@@ -2658,56 +2665,6 @@
       "urls": [
         "https://apnews.com/article/world-cup-iran-fifa-tickets-33e5b6dcffa104896007f146357ec9ae",
         "https://www.france24.com/en/live-news/20260611-iran-s-world-cup-super-fans-excited-for-football-despite-the-war"
-      ]
-    },
-    {
-      "headline": "Maine Senate primary under scrutiny over candidate's past",
-      "summary": "Democratic Senate candidate Graham Platner faces voter scrutiny over online posts, a Nazi-linked tattoo, and explicit text allegations in a race that could determine party control of the US Senate.",
-      "emoji": "🇺🇸🏛️",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us/platners-past-under-scrutiny-he-faces-voters-crucial-maine-senate-primary-2026-06-09/",
-      "timestamp": "2026-06-09T14:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/06/09/us/politics/maine-senate-platner-mills.html",
-          "angle": "Democrat Graham Platner Wins Maine Senate Primary to Face Incumbent Susan Collins",
-          "summary": "Graham Platner won the Democratic Senate primary in Maine after a turbulent campaign, setting up a high-stakes general election race against Republican Senator Susan Collins in November."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "New York Times"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/us/platners-past-under-scrutiny-he-faces-voters-crucial-maine-senate-primary-2026-06-09/",
-        "https://www.nytimes.com/2026/06/09/us/politics/maine-senate-platner-mills.html"
-      ]
-    },
-    {
-      "headline": "US blacklists Alibaba, Baidu, BYD as military-linked Chinese companies",
-      "summary": "The Pentagon added dozens of Chinese companies including tech giant Alibaba, EV maker BYD, and search engine Baidu to its list of firms allegedly aiding Beijing's military, a move Beijing condemned as discriminatory.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/pentagon-lists-entities-designated-chinese-military-company-2026-06-08/",
-      "timestamp": "2026-06-09T14:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/06/09/g-s1-126961/pentagon-labels-alibaba-and-byd-as-aiding-chinese-military",
-          "angle": "Pentagon Labels Alibaba and BYD as Companies Aiding Chinese Military",
-          "summary": "The US Defense Department designated major Chinese tech firms including Alibaba and BYD as military-linked companies, escalating tensions between Washington and Beijing over technology and security concerns."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "NPR"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/pentagon-lists-entities-designated-chinese-military-company-2026-06-08/",
-        "https://www.npr.org/2026/06/09/g-s1-126961/pentagon-labels-alibaba-and-byd-as-aiding-chinese-military"
       ]
     }
   ]
