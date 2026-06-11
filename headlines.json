@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-11T19:09:03+03:00",
+  "lastUpdated": "2026-06-11T20:04:21+03:00",
   "headlines": [
+    {
+      "headline": "UK Defense Secretary Resigns Over Military Spending Dispute",
+      "summary": "John Healey resigned as British defense secretary, saying the government is not willing to spend enough on the military amid rising threats from Russia and the Middle East.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "AP News",
+      "url": "https://apnews.com/article/britain-defense-secretary-john-healey-quits-533cb2637192f045ca6247ab5a402bac",
+      "timestamp": "2026-06-11T20:03:00+03:00"
+    },
+    {
+      "headline": "US Confirms Third Strike on Indian-Crewed Tanker Off Oman",
+      "summary": "A US jet fired missiles into the engine room of the tanker Jalveer off Oman, marking the third strike on Indian-crewed vessels this week as the Iran conflict disrupts Gulf shipping.",
+      "emoji": "🚢",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/india/indian-crewed-tanker-hit-off-oman-suspected-third-us-strike-this-week-2026-06-11/",
+      "timestamp": "2026-06-11T20:03:00+03:00"
+    },
+    {
+      "headline": "US Senate Panel Approves $750 Million Ukraine Aid Extension",
+      "summary": "The Senate Armed Services Committee voted to extend US security assistance for Ukraine with $750 million in authorized funding, pushing back against the Trump administration aid pullback.",
+      "emoji": "🇺🇸",
+      "category": "US Politics",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/us-lawmakers-seek-750-mln-ukraine-rename-pentagon-department-war-defense-bill-2026-06-11/",
+      "timestamp": "2026-06-11T20:03:00+03:00"
+    },
+    {
+      "headline": "Geneva Prepares for 50,000-Strong G7 Protest",
+      "summary": "Swiss authorities are bolstering security in Geneva ahead of a massive anti-G7 demonstration as France hosts the summit, with shopkeepers already boarding up businesses.",
+      "emoji": "🇫🇷",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/geneva-steps-up-security-50000-strong-g7-protest-france-hosts-summit-2026-06-11/",
+      "timestamp": "2026-06-11T20:03:00+03:00"
+    },
+    {
+      "headline": "Taiwan Opposition Leader Says Xi Meeting Avoided Reunification Talk",
+      "summary": "Taiwan opposition figure Eric Cheng revealed his meeting with Xi Jinping avoided reunification discussions, as Taiwan awaits approval of a $14 billion US arms package.",
+      "emoji": "🇹🇼",
+      "category": "Asia-Pacific",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/11/g-s1-127478/taiwan-opposition-leader-says-xi-meeting-avoided-reunification-talk",
+      "timestamp": "2026-06-11T20:03:00+03:00"
+    },
     {
       "headline": "Trump Threatens to Seize Iranian Oil Export Hub Kharg Island",
       "summary": "President Trump warned the U.S. would strike Iran \"very hard\" and expressed intent to take control of Kharg Island, Iran's key oil export terminal, as the U.S.-Iran conflict reignites following a shaky ceasefire.",
@@ -8,7 +53,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/us-iran-trade-attacks-second-day-undermining-shaky-ceasefire-2026-06-11/",
-      "timestamp": "2026-06-11T19:08:00+03:00"
+      "timestamp": "2026-06-11T19:08:00+03:00",
+      "perspectives": [
+        {
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/06/11/world/live-news/iran-war-trump-israel-hnk",
+          "angle": "Trump vows US will seize Iranian oil hub Kharg Island",
+          "summary": "President Trump said the United States would hit Iran 'very hard tonight' and threatened to eventually take control of Kharg Island, Iran's main oil export terminal, as the conflict between Washington and Tehran reignited."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "CNN"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/us-iran-trade-attacks-second-day-undermining-shaky-ceasefire-2026-06-11/",
+        "https://www.cnn.com/2026/06/11/world/live-news/iran-war-trump-israel-hnk"
+      ]
     },
     {
       "headline": "U.S., Iran Discuss Frozen Funds as Interim Deal Efforts Intensify",
@@ -26,7 +87,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/ecb-raises-interest-rates-long-telegraphed-move-2026-06-11/",
-      "timestamp": "2026-06-11T19:08:00+03:00"
+      "timestamp": "2026-06-11T19:08:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/ecb-raises-interest-rates-long-telegraphed-move-2026-06-11/",
+          "angle": "ECB Raises Interest Rates for First Time Since 2023 to Combat Iran War Inflation",
+          "summary": "The European Central Bank increased its deposit rate by 25 basis points to 2.25% as energy-driven inflation from the Iran conflict spreads across the euro zone. The move marks the first rate hike in nearly three years and signals concern about persistent price pressures."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/ecb-raises-interest-rates-long-telegraphed-move-2026-06-11/",
+        "https://www.reuters.com/business/ecb-raises-interest-rates-long-telegraphed-move-2026-06-11/"
+      ]
     },
     {
       "headline": "World Bank Cuts Global Growth Forecast to 2.5%, Warns of 1.3% Scenario",
@@ -35,7 +112,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/world-bank-cuts-global-growth-outlook-25-warns-drop-13-if-war-fallout-spreads-2026-06-11/",
-      "timestamp": "2026-06-11T19:08:00+03:00"
+      "timestamp": "2026-06-11T19:08:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/world-bank-cuts-global-growth-outlook-25-warns-drop-13-if-war-fallout-spreads-2026-06-11/",
+          "angle": "World Bank slashes global growth forecast to 2.5% on Iran war fallout",
+          "summary": "The World Bank cut its 2026 global growth forecast to 2.5% due to the Middle East war, warning growth could slow to just 1.3% if energy supply disruptions prove severe and financial markets face substantial stress."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/world-bank-cuts-global-growth-outlook-25-warns-drop-13-if-war-fallout-spreads-2026-06-11/",
+        "https://www.reuters.com/world/china/world-bank-cuts-global-growth-outlook-25-warns-drop-13-if-war-fallout-spreads-2026-06-11/"
+      ]
     },
     {
       "headline": "Ukraine's Drone Commander Plans to Cut Crimea Off From Russia",
@@ -44,16 +137,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/ukraines-drone-commander-wants-cut-crimea-off-russia-2026-06-11/",
-      "timestamp": "2026-06-11T19:08:00+03:00"
-    },
-    {
-      "headline": "Ukraine Gains Edge in FPV Drone Warfare Against Russia",
-      "summary": "Ukraine is outproducing and deploying FPV drones at a 1.5 to 1 ratio compared to Russia, according to Ukrainian military officials. The development marks a shift in the drone war as Kyiv adapts to evolving battlefield needs.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Post",
-      "url": "https://www.kyivpost.com/post/77984",
-      "timestamp": "2026-06-11T18:05:00+03:00"
+      "timestamp": "2026-06-11T19:08:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/77984",
+          "angle": "Ukraine Gains Edge in FPV Drone Warfare Against Russia",
+          "summary": "Ukraine is outproducing and deploying FPV drones at a 1.5 to 1 ratio compared to Russia, according to Ukrainian military officials. The development marks a shift in the drone war as Kyiv adapts to evolving battlefield needs."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Kyiv Post"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/ukraines-drone-commander-wants-cut-crimea-off-russia-2026-06-11/",
+        "https://www.kyivpost.com/post/77984"
+      ]
     },
     {
       "headline": "Turkey Mediates Between US and Iran as Conflict Reignites",
@@ -156,15 +256,6 @@
       ]
     },
     {
-      "headline": "Trump vows US will seize Iranian oil hub Kharg Island",
-      "summary": "President Trump said the United States would hit Iran 'very hard tonight' and threatened to eventually take control of Kharg Island, Iran's main oil export terminal, as the conflict between Washington and Tehran reignited.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "CNN",
-      "url": "https://www.cnn.com/2026/06/11/world/live-news/iran-war-trump-israel-hnk",
-      "timestamp": "2026-06-11T18:03:00+03:00"
-    },
-    {
       "headline": "UK Defense Secretary resigns over military spending dispute with Starmer",
       "summary": "John Healey unexpectedly resigned as UK defense secretary, saying Prime Minister Keir Starmer failed to commit sufficient resources to defense at a time of \"rising threats\" including the Iran war and Russia's invasion of Ukraine.",
       "emoji": "🇬🇧⚔️",
@@ -188,15 +279,6 @@
         "https://www.usnews.com/news/business/articles/2026-06-11/uk-defense-secretary-quits-says-government-isnt-willing-to-spend-enough-on-military",
         "https://www.military.com/uk-defense-secretary-quits-says-government-isnt-willing-to-spend-enough-on-military"
       ]
-    },
-    {
-      "headline": "World Bank slashes global growth forecast to 2.5% on Iran war fallout",
-      "summary": "The World Bank cut its 2026 global growth forecast to 2.5% due to the Middle East war, warning growth could slow to just 1.3% if energy supply disruptions prove severe and financial markets face substantial stress.",
-      "emoji": "📉🌍",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/world-bank-cuts-global-growth-outlook-25-warns-drop-13-if-war-fallout-spreads-2026-06-11/",
-      "timestamp": "2026-06-11T17:05:00+03:00"
     },
     {
       "headline": "China bans Philippines defense chief over South China Sea comments",
@@ -242,31 +324,6 @@
       "source": "The Hill",
       "url": "https://thehill.com/policy/defense/5918902-hegseth-navy-air-force-blocked-promotions/",
       "timestamp": "2026-06-11T16:08:00+03:00"
-    },
-    {
-      "headline": "ECB Raises Interest Rates for First Time Since 2023 to Combat Iran War Inflation",
-      "summary": "The European Central Bank increased its deposit rate by 25 basis points to 2.25% as energy-driven inflation from the Iran conflict spreads across the euro zone. The move marks the first rate hike in nearly three years and signals concern about persistent price pressures.",
-      "emoji": "🇪🇺",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/ecb-raises-interest-rates-long-telegraphed-move-2026-06-11/",
-      "timestamp": "2026-06-11T16:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/ecb-poised-insurance-hike-iran-war-fans-euro-zone-inflation-2026-06-10/",
-          "angle": "European Central Bank Set for Insurance Rate Hike as Iran War Fans Inflation",
-          "summary": "The European Central Bank is all but certain to raise interest rates on Thursday in the hope of nipping higher inflation in the bud before a surge in energy costs triggered by the Iran war spreads more broadly across the euro zone economy."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/ecb-raises-interest-rates-long-telegraphed-move-2026-06-11/",
-        "https://www.reuters.com/business/ecb-poised-insurance-hike-iran-war-fans-euro-zone-inflation-2026-06-10/"
-      ]
     },
     {
       "headline": "Bloomberg Opinion: ECB Jumping at Old Inflation Shadows",
@@ -2604,15 +2661,6 @@
         "https://www.reuters.com/world/china/chinas-may-trade-data-beat-forecasts-exporters-rush-orders-ride-ai-wave-2026-06-09/",
         "https://www.reuters.com/world/china/china-exports-set-strong-may-front-loaded-orders-chip-demand-2026-06-08/"
       ]
-    },
-    {
-      "headline": "US Lawmakers Push Tighter Rules on Chipmakers Supplying Chinese Firms",
-      "summary": "A bipartisan pair of senators urged the Trump administration to tighten restrictions on contract chipmakers like TSMC to prevent advanced AI chips from reaching overseas subsidiaries of Chinese companies.",
-      "emoji": "🇺🇸🇨🇳",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/litigation/us-lawmakers-urge-tighter-rules-contract-chipmakers-supplying-chinese-firms-2026-06-09/",
-      "timestamp": "2026-06-09T18:05:00+03:00"
     }
   ]
 }
