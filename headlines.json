@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-11T20:05:42+03:00",
+  "lastUpdated": "2026-06-11T21:06:27+03:00",
   "headlines": [
+    {
+      "headline": "FIDE suspends Russia over chess federation activities in occupied Ukraine",
+      "summary": "The International Chess Federation suspended Russia after it failed to relinquish control of chess bodies in five Ukrainian regions captured by Russian forces. Ukraine called it a \"historic victory\" for the sport.",
+      "emoji": "♟️🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/11/world-chess-body-suspends-russia-over-activities-in-occupied-ukraine",
+      "timestamp": "2026-06-11T21:03:00+03:00"
+    },
+    {
+      "headline": "El Niño officially begins, scientists warn of extreme weather threats",
+      "summary": "US scientists confirmed El Niño has officially started, raising fears of extreme weather and higher temperatures globally. The climate event could bring severe heat, floods, and droughts worldwide.",
+      "emoji": "🌡️🌊",
+      "category": "Climate",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/science-environment",
+      "timestamp": "2026-06-11T21:03:00+03:00"
+    },
+    {
+      "headline": "Pakistan military helicopter crashes in Kashmir killing at least 22",
+      "summary": "An army Mi-17 helicopter crashed in Pakistan-administered Kashmir due to technical fault, officials said. The crash sparked clashes that killed at least 15 more in the region.",
+      "emoji": "🚁🇵🇰",
+      "category": "South Asia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/11/pakistan-helicopter-crash-kashmir",
+      "timestamp": "2026-06-11T21:03:00+03:00"
+    },
+    {
+      "headline": "Deadly Sudan drone strike targets funeral procession in el-Obeid",
+      "summary": "Rights groups accused RSF paramilitary of killing civilians in a drone strike on a funeral procession in el-Obeid, a city on Sudan's civil war front line.",
+      "emoji": "⚔️🇸🇩",
+      "category": "Africa",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/world-africa",
+      "timestamp": "2026-06-11T21:03:00+03:00"
+    },
     {
       "headline": "UN Chief Calls for Return to US-Iran Ceasefire",
       "summary": "UN Secretary-General Antonio Guterres expressed deep concern over continued escalation in the Middle East and called for an immediate return to ceasefire negotiations between the US and Iran.",
@@ -29,31 +65,37 @@
       "timestamp": "2026-06-11T20:04:00+03:00"
     },
     {
-      "headline": "UK Defense Secretary Resigns Over Defense Spending Dispute",
-      "summary": "British Defense Secretary John Healey has resigned, accusing the government of not being willing to spend enough on the military. The resignation exposes a year-long power struggle over defense priorities.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "Telegraph",
-      "url": "https://www.telegraph.co.uk/politics/2026/06/11/healeys-letter-lays-bare-year-long-power-struggle-defence/",
-      "timestamp": "2026-06-11T20:04:00+03:00"
-    },
-    {
-      "headline": "Three Indian Sailors Killed in US Strike on Commercial Vessel Off Oman",
-      "summary": "Three Indian sailors died after a US strike hit a commercial vessel off the coast of Oman. New Delhi has demanded an end to US attacks on ships after the incident raised tensions with a key partner.",
-      "emoji": "🇮🇳",
-      "category": "Middle East",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/south-asia/article/3356748/3-indian-sailors-dead-after-us-attacks-commercial-vessel-oman",
-      "timestamp": "2026-06-11T20:04:00+03:00"
-    },
-    {
       "headline": "UK Defense Secretary Resigns Over Military Spending Dispute",
       "summary": "John Healey resigned as British defense secretary, saying the government is not willing to spend enough on the military amid rising threats from Russia and the Middle East.",
       "emoji": "🇬🇧",
       "category": "Europe",
       "source": "AP News",
       "url": "https://apnews.com/article/britain-defense-secretary-john-healey-quits-533cb2637192f045ca6247ab5a402bac",
-      "timestamp": "2026-06-11T20:03:00+03:00"
+      "timestamp": "2026-06-11T20:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Telegraph",
+          "url": "https://www.telegraph.co.uk/politics/2026/06/11/healeys-letter-lays-bare-year-long-power-struggle-defence/",
+          "angle": "UK Defense Secretary Resigns Over Defense Spending Dispute",
+          "summary": "British Defense Secretary John Healey has resigned, accusing the government of not being willing to spend enough on the military. The resignation exposes a year-long power struggle over defense priorities."
+        },
+        {
+          "source": "AP News",
+          "url": "https://www.usnews.com/news/business/articles/2026-06-11/uk-defense-secretary-quits-says-government-isnt-willing-to-spend-enough-on-military",
+          "angle": "UK Defense Secretary resigns over military spending dispute with Starmer",
+          "summary": "John Healey unexpectedly resigned as UK defense secretary, saying Prime Minister Keir Starmer failed to commit sufficient resources to defense at a time of \"rising threats\" including the Iran war and Russia's invasion of Ukraine."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "Telegraph",
+        "AP News"
+      ],
+      "urls": [
+        "https://apnews.com/article/britain-defense-secretary-john-healey-quits-533cb2637192f045ca6247ab5a402bac",
+        "https://www.telegraph.co.uk/politics/2026/06/11/healeys-letter-lays-bare-year-long-power-struggle-defence/",
+        "https://www.usnews.com/news/business/articles/2026-06-11/uk-defense-secretary-quits-says-government-isnt-willing-to-spend-enough-on-military"
+      ]
     },
     {
       "headline": "US Confirms Third Strike on Indian-Crewed Tanker Off Oman",
@@ -62,7 +104,39 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/india/indian-crewed-tanker-hit-off-oman-suspected-third-us-strike-this-week-2026-06-11/",
-      "timestamp": "2026-06-11T20:03:00+03:00"
+      "timestamp": "2026-06-11T20:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/south-asia/article/3356748/3-indian-sailors-dead-after-us-attacks-commercial-vessel-oman",
+          "angle": "Three Indian Sailors Killed in US Strike on Commercial Vessel Off Oman",
+          "summary": "Three Indian sailors died after a US strike hit a commercial vessel off the coast of Oman. New Delhi has demanded an end to US attacks on ships after the incident raised tensions with a key partner."
+        },
+        {
+          "source": "Al Arabiya",
+          "url": "https://english.alarabiya.net/News/gulf/2026/06/11/indiancrewed-tanker-hit-off-oman-in-suspected-third-us-strike-this-week",
+          "angle": "Indian-crewed tanker hit off Oman in suspected third US strike",
+          "summary": "An asphalt tanker with 20 Indian crew members was hit in a suspected US strike off Oman, with all crew reported safe."
+        },
+        {
+          "source": "Japan Times",
+          "url": "https://www.japantimes.co.jp/news/2026/06/11/asia-pacific/india-us-strike-protest/",
+          "angle": "India Protests to US After Strike Kills Three Indian Sailors",
+          "summary": "India has formally protested to the United States after a strike killed three Indian sailors near Oman, with 21 of 24 crew members rescued from the vessel Settebello."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "SCMP",
+        "Al Arabiya",
+        "Japan Times"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/india/indian-crewed-tanker-hit-off-oman-suspected-third-us-strike-this-week-2026-06-11/",
+        "https://www.scmp.com/news/asia/south-asia/article/3356748/3-indian-sailors-dead-after-us-attacks-commercial-vessel-oman",
+        "https://english.alarabiya.net/News/gulf/2026/06/11/indiancrewed-tanker-hit-off-oman-in-suspected-third-us-strike-this-week",
+        "https://www.japantimes.co.jp/news/2026/06/11/asia-pacific/india-us-strike-protest/"
+      ]
     },
     {
       "headline": "US Senate Panel Approves $750 Million Ukraine Aid Extension",
@@ -301,31 +375,6 @@
       ]
     },
     {
-      "headline": "UK Defense Secretary resigns over military spending dispute with Starmer",
-      "summary": "John Healey unexpectedly resigned as UK defense secretary, saying Prime Minister Keir Starmer failed to commit sufficient resources to defense at a time of \"rising threats\" including the Iran war and Russia's invasion of Ukraine.",
-      "emoji": "🇬🇧⚔️",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://www.usnews.com/news/business/articles/2026-06-11/uk-defense-secretary-quits-says-government-isnt-willing-to-spend-enough-on-military",
-      "timestamp": "2026-06-11T17:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Military.com",
-          "url": "https://www.military.com/uk-defense-secretary-quits-says-government-isnt-willing-to-spend-enough-on-military",
-          "angle": "UK Defense Secretary Resigns Over Military Funding Dispute",
-          "summary": "John Healey resigned as UK Defense Secretary, saying the government is unwilling to spend enough on the military at a critical time. The resignation comes as NATO members face pressure to increase defense spending."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "Military.com"
-      ],
-      "urls": [
-        "https://www.usnews.com/news/business/articles/2026-06-11/uk-defense-secretary-quits-says-government-isnt-willing-to-spend-enough-on-military",
-        "https://www.military.com/uk-defense-secretary-quits-says-government-isnt-willing-to-spend-enough-on-military"
-      ]
-    },
-    {
       "headline": "China bans Philippines defense chief over South China Sea comments",
       "summary": "Beijing has banned Philippines Defense Secretary Gilberto Teodoro and his family from entering China over his statements calling China's South China Sea claims a \"fiction and lie\" and criticizing President Xi Jinping's leadership.",
       "emoji": "🇨🇳🇵🇭",
@@ -481,15 +530,6 @@
       ]
     },
     {
-      "headline": "Indian-crewed tanker hit off Oman in suspected third US strike",
-      "summary": "An asphalt tanker with 20 Indian crew members was hit in a suspected US strike off Oman, with all crew reported safe.",
-      "emoji": "🚢🇮🇳",
-      "category": "Middle East",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/gulf/2026/06/11/indiancrewed-tanker-hit-off-oman-in-suspected-third-us-strike-this-week",
-      "timestamp": "2026-06-11T14:06:00+03:00"
-    },
-    {
       "headline": "Iran warns ceasefire \"practically meaningless\" after US strikes",
       "summary": "Iran warned that the shaky three-month ceasefire was now \"practically meaningless\" after US strikes, signaling potential further escalation.",
       "emoji": "⚠️🇮🇷",
@@ -593,15 +633,6 @@
       "category": "Europe",
       "source": "France 24",
       "url": "https://www.france24.com/en/tv-shows/press-review/20260611-russia-ramps-up-military-infrastructure-along-finnish-and-norwegian-borders",
-      "timestamp": "2026-06-11T12:05:00+03:00"
-    },
-    {
-      "headline": "India Protests to US After Strike Kills Three Indian Sailors",
-      "summary": "India has formally protested to the United States after a strike killed three Indian sailors near Oman, with 21 of 24 crew members rescued from the vessel Settebello.",
-      "emoji": "🇮🇳",
-      "category": "Middle East",
-      "source": "Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/06/11/asia-pacific/india-us-strike-protest/",
       "timestamp": "2026-06-11T12:05:00+03:00"
     },
     {
@@ -2645,67 +2676,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/africa/kenyan-police-fire-tear-gas-during-protest-against-us-ebola-quarantine-facility-2026-06-09/",
       "timestamp": "2026-06-09T20:05:00+03:00"
-    },
-    {
-      "headline": "UK Faces 'Eye-Watering' Cuts to Fund Defense Pledges",
-      "summary": "Britain must make deep public sector cuts to fund defense spending commitments, according to the author of the UK's refreshed defense strategy, calling on Labour MPs to accept major trade-offs.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "Politico",
-      "url": "https://www.politico.eu/article/uk-faces-eye-watering-public-sector-cuts-to-fund-defense-pledges/",
-      "timestamp": "2026-06-09T19:10:00+03:00"
-    },
-    {
-      "headline": "Estonia's President Sees Summer Window to End Ukraine War",
-      "summary": "Estonian President Alar Karis said Europe should prepare now for possible peace talks and continue pressuring Russia through sustained sanctions and military support for Ukraine.",
-      "emoji": "🇪🇪",
-      "category": "Diplomacy",
-      "source": "Kyiv Post",
-      "url": "https://www.kyivpost.com/post/77836",
-      "timestamp": "2026-06-09T18:05:00+03:00"
-    },
-    {
-      "headline": "Ukraine and Latvia Sign Drone Technology Agreement",
-      "summary": "President Zelenskyy announced a drone deal with Latvia during the Nordic-Baltic summit in Estonia, as Ukraine offers to share its drone expertise with allies.",
-      "emoji": "🇺🇦",
-      "category": "Defense Industry",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/world/2026/06/09/ukraine-latvia-sign-drone-deal-zelenskyy-says",
-      "timestamp": "2026-06-09T18:05:00+03:00"
-    },
-    {
-      "headline": "China and Georgia Elevate Ties to Strategic Partnership",
-      "summary": "Chinese President Xi Jinping and Georgian President Mikheil Kavelashvili exchanged messages upgrading bilateral relations to a comprehensive strategic partnership, deepening ties in the Caucasus region.",
-      "emoji": "🇨🇳",
-      "category": "Geopolitics",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/asia-pacific/china-georgia-elevate-ties-to-comprehensive-strategic-partnership/3961642",
-      "timestamp": "2026-06-09T18:05:00+03:00"
-    },
-    {
-      "headline": "China Exports Surge Past Forecasts on Global AI Boom Demand",
-      "summary": "China's export growth accelerated in May, driven by strong demand for chips, electric vehicles, and high-tech goods fueling the global AI boom, providing relief amid energy price pressures.",
-      "emoji": "🇨🇳🤖",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/chinas-may-trade-data-beat-forecasts-exporters-rush-orders-ride-ai-wave-2026-06-09/",
-      "timestamp": "2026-06-09T18:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/china-exports-set-strong-may-front-loaded-orders-chip-demand-2026-06-08/",
-          "angle": "China exports set for strong May on front-loaded orders and chip demand",
-          "summary": "Export growth likely strengthened as firms rushed orders before Gulf war energy impacts, while global semiconductor and AI component demand remained robust."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/chinas-may-trade-data-beat-forecasts-exporters-rush-orders-ride-ai-wave-2026-06-09/",
-        "https://www.reuters.com/world/china/china-exports-set-strong-may-front-loaded-orders-chip-demand-2026-06-08/"
-      ]
     }
   ]
 }
