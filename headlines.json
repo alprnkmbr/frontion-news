@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-11T08:08:17+03:00",
+  "lastUpdated": "2026-06-11T09:05:16+03:00",
   "headlines": [
+    {
+      "headline": "US and Iran Exchange Strikes for Second Day as Ceasefire Strains",
+      "summary": "The United States and Iran traded airstrikes for a second consecutive day, with Iran targeting US bases in Jordan and Gulf states while Washington struck multiple targets in Iran. President Trump vowed continued pressure while both sides disputed the status of ceasefire negotiations.",
+      "emoji": "⚔️",
+      "category": "US-Iran War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-11-june-2026-3c2c6d356a1e25b4d7edf66b2edba57d",
+      "timestamp": "2026-06-11T09:03:00+03:00"
+    },
+    {
+      "headline": "G7 Summit Opens with Tight Security on Swiss-French Border",
+      "summary": "French and Swiss authorities imposed pandemic-like border restrictions as G7 leaders including President Trump gathered for the summit. Security measures are intense amid concerns about potential violent protests.",
+      "emoji": "🏛️",
+      "category": "Diplomacy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/switzerland-france-g7-border-security-trump-fb02a9eaf01543fdce630a1981c3f224",
+      "timestamp": "2026-06-11T09:03:00+03:00"
+    },
+    {
+      "headline": "UK Venture Plans Europe's Largest Direct Air Carbon Capture Plant",
+      "summary": "A new UK company called UnionDAC aims to become a leader in removing carbon dioxide directly from the atmosphere, planning Europe's largest direct air capture facility as climate technology investment accelerates.",
+      "emoji": "🌍",
+      "category": "Climate",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-11/uk-venture-plans-europe-s-largest-plant-for-capturing-co2-from-air",
+      "timestamp": "2026-06-11T09:03:00+03:00"
+    },
+    {
+      "headline": "FIFA World Cup 2026 Kicks Off Amid Geopolitical Tensions",
+      "summary": "The 2026 FIFA World Cup begins with Iran war and visa restrictions casting a shadow over football's biggest tournament. Politics looms large as the US co-host prepares to perform under global scrutiny.",
+      "emoji": "⚽",
+      "category": "Diplomacy",
+      "source": "BBC",
+      "url": "https://www.bbc.com/sport/football/live/cvg4wnxpppnt",
+      "timestamp": "2026-06-11T09:03:00+03:00"
+    },
     {
       "headline": "Ukraine Strikes Crimea in Large-Scale Attack Across Peninsula",
       "summary": "Explosions reported across Russian-occupied Crimea as Ukraine launches apparent large-scale attack on the peninsula, targeting military infrastructure.",
@@ -17,7 +53,23 @@
       "category": "US-Iran War",
       "source": "Anadolu Agency",
       "url": "https://www.aa.com.tr/en/middle-east/us-strikes-near-hormuz-hit-iranian-drinking-water-facility-media-reports/3963455",
-      "timestamp": "2026-06-11T08:06:00+03:00"
+      "timestamp": "2026-06-11T08:06:00+03:00",
+      "perspectives": [
+        {
+          "source": "Anadolu Agency",
+          "url": "https://www.aa.com.tr/en/middle-east/israeli-air-base-hit-in-recent-iranian-missile-strikes-satellite-images-suggest/3961487",
+          "angle": "Satellite images suggest Israeli air base hit in Iranian missile strikes",
+          "summary": "Analysis of satellite imagery indicates possible damage to a hangar at Ramat David Air Force Base following Iran's recent missile attacks, despite Israeli claims of minimal impact."
+        }
+      ],
+      "sources": [
+        "Anadolu Agency",
+        "Anadolu Agency"
+      ],
+      "urls": [
+        "https://www.aa.com.tr/en/middle-east/us-strikes-near-hormuz-hit-iranian-drinking-water-facility-media-reports/3963455",
+        "https://www.aa.com.tr/en/middle-east/israeli-air-base-hit-in-recent-iranian-missile-strikes-satellite-images-suggest/3961487"
+      ]
     },
     {
       "headline": "IRGC Claims Targeting US Fighter Jet Base and Military Facilities in Jordan",
@@ -26,15 +78,6 @@
       "category": "US-Iran War",
       "source": "Anadolu Agency",
       "url": "https://www.aa.com.tr/en/middle-east/iran-s-revolutionary-guard-says-us-fighter-jet-base-military-facilities-targeted-in-jordan/3963450",
-      "timestamp": "2026-06-11T08:06:00+03:00"
-    },
-    {
-      "headline": "Iran World Cup Fans Stay Excited for Football Despite War",
-      "summary": "Iran dedicated football supporters remain focused on World Cup despite ongoing conflict with US, showing resilience amid national crisis.",
-      "emoji": "🇮🇷⚽",
-      "category": "Middle East",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/live-news/20260611-iran-s-world-cup-super-fans-excited-for-football-despite-the-war",
       "timestamp": "2026-06-11T08:06:00+03:00"
     },
     {
@@ -2265,15 +2308,6 @@
       "timestamp": "2026-06-09T16:07:00+03:00"
     },
     {
-      "headline": "Satellite images suggest Israeli air base hit in Iranian missile strikes",
-      "summary": "Analysis of satellite imagery indicates possible damage to a hangar at Ramat David Air Force Base following Iran's recent missile attacks, despite Israeli claims of minimal impact.",
-      "emoji": "🛡️",
-      "category": "US-Iran War",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/middle-east/israeli-air-base-hit-in-recent-iranian-missile-strikes-satellite-images-suggest/3961487",
-      "timestamp": "2026-06-09T16:07:00+03:00"
-    },
-    {
       "headline": "US troops test German Helsing AI attack drones in Europe",
       "summary": "German defense company Helsing armed US soldiers with HX-2 drones for exercises in Lithuania, where they successfully spotted and engaged targets in joint drills.",
       "emoji": "🛸",
@@ -2453,6 +2487,31 @@
       "timestamp": "2026-06-09T14:05:00+03:00"
     },
     {
+      "headline": "Iran World Cup ticket allocation revoked days before tournament",
+      "summary": "Iran's football federation said FIFA revoked its ticket allocation for fans at World Cup games in the US, leaving supporters with travel plans stranded.",
+      "emoji": "⚽🇮🇷",
+      "category": "Middle East",
+      "source": "AP News",
+      "url": "https://apnews.com/article/world-cup-iran-fifa-tickets-33e5b6dcffa104896007f146357ec9ae",
+      "timestamp": "2026-06-09T14:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "France 24",
+          "url": "https://www.france24.com/en/live-news/20260611-iran-s-world-cup-super-fans-excited-for-football-despite-the-war",
+          "angle": "Iran World Cup Fans Stay Excited for Football Despite War",
+          "summary": "Iran dedicated football supporters remain focused on World Cup despite ongoing conflict with US, showing resilience amid national crisis."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "France 24"
+      ],
+      "urls": [
+        "https://apnews.com/article/world-cup-iran-fifa-tickets-33e5b6dcffa104896007f146357ec9ae",
+        "https://www.france24.com/en/live-news/20260611-iran-s-world-cup-super-fans-excited-for-football-despite-the-war"
+      ]
+    },
+    {
       "headline": "Maine Senate primary under scrutiny over candidate's past",
       "summary": "Democratic Senate candidate Graham Platner faces voter scrutiny over online posts, a Nazi-linked tattoo, and explicit text allegations in a race that could determine party control of the US Senate.",
       "emoji": "🇺🇸🏛️",
@@ -2533,31 +2592,6 @@
         "https://www.reuters.com/world/europe/iaea-calls-iran-re-engage-west-pressures-it-with-resolution-2026-06-08/",
         "https://www.reuters.com/world/europe/iaea-calls-iran-re-engage-west-pressures-it-with-resolution-2026-06-08/",
         "https://www.reuters.com/world/middle-east/us-resolution-text-iaea-demands-iran-open-up-sites-uranium-stocks-2026-06-07/"
-      ]
-    },
-    {
-      "headline": "Iran World Cup ticket allocation revoked days before tournament",
-      "summary": "Iran's football federation said FIFA revoked its ticket allocation for fans at World Cup games in the US, leaving supporters with travel plans stranded.",
-      "emoji": "⚽🇮🇷",
-      "category": "Middle East",
-      "source": "AP News",
-      "url": "https://apnews.com/article/world-cup-iran-fifa-tickets-33e5b6dcffa104896007f146357ec9ae",
-      "timestamp": "2026-06-09T14:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/sport/football/article/3356500/iran-says-united-states-has-revoked-fifa-world-cup-ticket-allocation-supporters",
-          "angle": "Iran Says US Revoked World Cup Ticket Allocation for Supporters",
-          "summary": "Iran's football federation says the US has withdrawn its World Cup ticket allocation, leaving the nation unable to provide tickets to supporters for the tournament."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "SCMP"
-      ],
-      "urls": [
-        "https://apnews.com/article/world-cup-iran-fifa-tickets-33e5b6dcffa104896007f146357ec9ae",
-        "https://www.scmp.com/sport/football/article/3356500/iran-says-united-states-has-revoked-fifa-world-cup-ticket-allocation-supporters"
       ]
     },
     {
@@ -2737,65 +2771,6 @@
       "urls": [
         "https://www.reuters.com/world/china/us-leads-record-rise-spending-nuclear-arsenals-campaign-group-says-2026-06-08/",
         "https://www.usnews.com/news/world/articles/2026-06-08/us-leads-record-rise-in-spending-on-nuclear-arsenals-campaign-group-says"
-      ]
-    },
-    {
-      "headline": "France and Germany Halt €100B FCAS Fighter Jet Program",
-      "summary": "Long-running disputes over technology sharing, industrial workshare and intellectual property rights have forced France and Germany to scrap their landmark next-generation fighter jet project, dealing a major blow to European defense ambitions.",
-      "emoji": "🇫🇷🇩🇪",
-      "category": "Defense Industry",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/europe/france-germany-halt-100b-future-fighter-jet-program-fcas/3960943",
-      "timestamp": "2026-06-09T10:07:00+03:00",
-      "perspectives": [
-        {
-          "source": "France 24",
-          "url": "https://www.france24.com/en/live-news/20260610-german-consortium-hopes-to-build-new-fighter-jet-after-fcas-collapse",
-          "angle": "German consortium plans new fighter jet after Franco-German FCAS collapse",
-          "summary": "Airbus-led group to present plans for a next-generation fighter to replace the stalled FCAS project with France, signaling potential fracturing of European defense cooperation."
-        }
-      ],
-      "sources": [
-        "Anadolu Agency",
-        "France 24"
-      ],
-      "urls": [
-        "https://www.aa.com.tr/en/europe/france-germany-halt-100b-future-fighter-jet-program-fcas/3960943",
-        "https://www.france24.com/en/live-news/20260610-german-consortium-hopes-to-build-new-fighter-jet-after-fcas-collapse"
-      ]
-    },
-    {
-      "headline": "Russian Drone and Missile Strikes Kill 3 Injure 18 in Kharkiv Oblast",
-      "summary": "Russian forces launched 11 drone strikes on Kharkiv, with additional missile attacks killing 3 and injuring 18 as Ukraine continues to face sustained aerial bombardment.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russian-drone-missile-attack-kills-3-injures-18-in-kharkiv-oblast/",
-      "timestamp": "2026-06-09T10:07:00+03:00"
-    },
-    {
-      "headline": "Somali World Cup referee denied entry to US days before tournament",
-      "summary": "FIFA referee Omar Abdulkadir Artan was denied entry to the United States just days before the 2026 World Cup, ending his historic opportunity to become the first Somali to officiate at the tournament.",
-      "emoji": "⚽🇸🇴🇺🇸",
-      "category": "Sports",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/sports/soccer/somali-soccer-referee-denied-us-entry-will-miss-world-cup-debut-2026-06-09/",
-      "timestamp": "2026-06-09T10:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/world-cup-referee-somalia-fifa-trump-visa-a73dfeb3a960a3ffa858a419bdb8a8f1",
-          "angle": "Somali World Cup Referee Denied US Entry Gets Heros Welcome in Mogadishu",
-          "summary": "Omar Artan, named Africas best referee in 2025, was denied entry to the US over vetting concerns and cut from the World Cup referee list. He returned home to a hero welcome, with thousands packing a Mogadishu stadium."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/sports/soccer/somali-soccer-referee-denied-us-entry-will-miss-world-cup-debut-2026-06-09/",
-        "https://apnews.com/article/world-cup-referee-somalia-fifa-trump-visa-a73dfeb3a960a3ffa858a419bdb8a8f1"
       ]
     }
   ]
