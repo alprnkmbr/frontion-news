@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-11T05:05:38+03:00",
+  "lastUpdated": "2026-06-11T06:05:08+03:00",
   "headlines": [
+    {
+      "headline": "US consumer inflation vaults above 4% as Iran war drives energy prices",
+      "summary": "US consumer inflation rose at its fastest pace in three years in May, with energy costs surging amid the Middle East conflict, giving the Federal Reserve ammunition to keep interest rates unchanged into 2027.",
+      "emoji": "💰📈",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us/us-consumer-prices-increase-expected-may-2026-06-10/",
+      "timestamp": "2026-06-11T06:03:00+03:00"
+    },
+    {
+      "headline": "Russian-held Sevastopol suspends fuel distribution after Ukraine strikes",
+      "summary": "The governor of Russian-occupied Sevastopol in Crimea delayed fuel distribution plans after Ukrainian drone attacks disrupted supply routes, the latest in Kyivs campaign targeting Russian logistics.",
+      "emoji": "🇺🇦⛽",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/russian-held-sevastopol-suspends-fuel-distribution-zelenskiy-praises-attacks-2026-06-11/",
+      "timestamp": "2026-06-11T06:03:00+03:00"
+    },
+    {
+      "headline": "EU fiscal watchdog criticises loosening budget rules for energy transition",
+      "summary": "The European Fiscal Board warned that allowing governments to spend defence fiscal flexibility on clean energy transition undermines EU fiscal discipline, amid debates over how to fund both priorities.",
+      "emoji": "🇪🇺📊",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/eu-fiscal-board-criticises-loosening-eu-rules-over-energy-shock-2026-06-10/",
+      "timestamp": "2026-06-11T06:03:00+03:00"
+    },
+    {
+      "headline": "Indian shares set to open lower on Middle East escalation and US inflation",
+      "summary": "Indian equities are likely to open lower as fresh escalation between the US and Iran and a sharp jump in US inflation trigger risk-off sentiment across global markets.",
+      "emoji": "🇮🇳📉",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/india/indian-shares-may-open-lower-fresh-mideast-escalation-us-inflation-2026-06-11/",
+      "timestamp": "2026-06-11T06:03:00+03:00"
+    },
+    {
+      "headline": "Pope Leo XIV blesses Gaudis Sagrada Familia on centenary of architects death",
+      "summary": "Pope Leo XIV celebrated Mass at Barcelonas iconic Sagrada Familia basilica exactly 100 years after architect Antoni Gaudis death, blessing the towering architectural masterpiece.",
+      "emoji": "⛪🕊️",
+      "category": "Europe",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/06/10/europe/pope-blesses-sagrada-familia-latam-intl",
+      "timestamp": "2026-06-11T06:03:00+03:00"
+    },
     {
       "headline": "US Strikes Multiple Targets in Iran as Trump Vows Further Escalation",
       "summary": "The US military launched new strikes against multiple targets in Iran overnight, with President Donald Trump threatening additional attacks if no peace deal is reached. Iran announced the closure of the Strait of Hormuz in response.",
@@ -8,7 +53,31 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/iran-targets-us-bases-jordan-gulf-after-trump-orders-strikes-near-hormuz-2026-06-10/",
-      "timestamp": "2026-06-11T05:03:00+03:00"
+      "timestamp": "2026-06-11T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/us-launches-new-strikes-targets-iran-2026-06-10/",
+          "angle": "US launches fresh strikes on multiple targets in Iran as conflict escalates",
+          "summary": "The US military began a new round of strikes against multiple targets in Iran, hours after President Trump vowed further attacks if no peace deal is reached. The escalation comes amid ongoing tensions over Iran's nuclear program and attacks on shipping in the Strait of Hormuz."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/iran-targets-us-bases-jordan-gulf-after-trump-orders-strikes-near-hormuz-2026-06-10/",
+          "angle": "Iran strikes US bases in Jordan and Gulf after Trump orders attacks near Hormuz",
+          "summary": "Iran launched strikes against US military bases in Jordan and the Gulf region in retaliation for American attacks near the strategic Strait of Hormuz, further straining an already fragile ceasefire between Washington and Tehran."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/iran-targets-us-bases-jordan-gulf-after-trump-orders-strikes-near-hormuz-2026-06-10/",
+        "https://www.reuters.com/world/middle-east/us-launches-new-strikes-targets-iran-2026-06-10/",
+        "https://www.reuters.com/world/middle-east/iran-targets-us-bases-jordan-gulf-after-trump-orders-strikes-near-hormuz-2026-06-10/"
+      ]
     },
     {
       "headline": "Police Fire Water Cannons at Belfast Protesters as Unrest Flares After Stabbing",
@@ -149,15 +218,6 @@
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/06/10/world/middleeast/precision-strike-iran-water.html",
       "timestamp": "2026-06-11T04:03:00+03:00"
-    },
-    {
-      "headline": "US launches fresh strikes on multiple targets in Iran as conflict escalates",
-      "summary": "The US military began a new round of strikes against multiple targets in Iran, hours after President Trump vowed further attacks if no peace deal is reached. The escalation comes amid ongoing tensions over Iran's nuclear program and attacks on shipping in the Strait of Hormuz.",
-      "emoji": "🇺🇸",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-launches-new-strikes-targets-iran-2026-06-10/",
-      "timestamp": "2026-06-11T03:00:00+03:00"
     },
     {
       "headline": "Ukraine strikes Russian-occupied Mariupol port, disrupting Crimean supply lines",
@@ -994,31 +1054,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/10/afghanistan-says-pakistan-air-raids-killed-13-people-including-children",
       "timestamp": "2026-06-10T14:03:00+03:00"
-    },
-    {
-      "headline": "Iran strikes US bases in Jordan and Gulf after Trump orders attacks near Hormuz",
-      "summary": "Iran launched strikes against US military bases in Jordan and the Gulf region in retaliation for American attacks near the strategic Strait of Hormuz, further straining an already fragile ceasefire between Washington and Tehran.",
-      "emoji": "⚔️🇮🇷",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/iran-targets-us-bases-jordan-gulf-after-trump-orders-strikes-near-hormuz-2026-06-10/",
-      "timestamp": "2026-06-10T13:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o",
-          "angle": "US launches new strikes on Iran after Trump vows to hit them hard",
-          "summary": "US Central Command announced fresh airstrikes against multiple targets in Iran, describing them as responses to Iranian aggression, as President Trump warned Tehran would pay the price for failing to agree to a peace deal."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/iran-targets-us-bases-jordan-gulf-after-trump-orders-strikes-near-hormuz-2026-06-10/",
-        "https://www.bbc.com/news/articles/c4gyp9v0e93o"
-      ]
     },
     {
       "headline": "Taiwan test fires US rocket system toward Chinese mainland for first time",
@@ -2858,57 +2893,6 @@
         "https://www.ft.com/content/d97c7243-19a2-49da-9e10-a565a2204bc0",
         "https://www.nytimes.com/2026/06/08/world/middleeast/iran-israel-strikes-ceasefire-hezbollah.html"
       ]
-    },
-    {
-      "headline": "Lebanon Says Israel Bombed It Nearly 3,500 Times During Ceasefire",
-      "summary": "Israel conducted nearly 3,500 airstrikes on Lebanon since the April ceasefire announcement, Lebanon's defense minister said. Lebanese President Aoun appealed directly to Israel to pursue negotiations instead of war.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/lebanese-pm-says-israel-has-bombed-lebanon-nearly-3500-times-during-ceasefire-2026-06-08/",
-      "timestamp": "2026-06-09T07:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al-Monitor",
-          "url": "https://www.al-monitor.com/originals/2026/06/macron-meets-tom-barrack-france-seeks-larger-role-lebanon",
-          "angle": "Macron Seeks Larger French Role in Lebanon as Israel-Hezbollah Ceasefire Nears",
-          "summary": "France is positioning itself for a post-ceasefire role in Lebanon through initiatives to strengthen the Lebanese army and establish a new international force."
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/9/trump-says-in-final-throes-of-peace-deal-but-at-least-8-killed-in-tyre",
-          "angle": "Israel Launches Deadly Strikes on Lebanon as Trump Seeks Peace Deal",
-          "summary": "Israeli attacks killed at least 17 people in southern Lebanon after evacuation orders in Tyre, even as former President Trump claimed the US-Iran peace deal was in its \"final throes\" amid escalating regional tensions."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al-Monitor",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/lebanese-pm-says-israel-has-bombed-lebanon-nearly-3500-times-during-ceasefire-2026-06-08/",
-        "https://www.al-monitor.com/originals/2026/06/macron-meets-tom-barrack-france-seeks-larger-role-lebanon",
-        "https://www.aljazeera.com/news/2026/6/9/trump-says-in-final-throes-of-peace-deal-but-at-least-8-killed-in-tyre"
-      ]
-    },
-    {
-      "headline": "Malaysia opposition in turmoil as Islamist party PAS cuts ties with Bersatu",
-      "summary": "PAS ended its cooperation with Bersatu, gutting the Perikatan Nasional opposition coalition ahead of key elections in Malaysia.",
-      "emoji": "🇲🇾",
-      "category": "Southeast Asia",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/week-asia/politics/article/3356433/malaysias-opposition-bloc-turmoil-pas-cuts-ties-bersatu",
-      "timestamp": "2026-06-09T06:10:00+03:00"
-    },
-    {
-      "headline": "Asian stocks track Wall Street tech bounce as oil eases on Mideast ceasefire hopes",
-      "summary": "Asian markets rebounded as investors returned to AI stocks while crude prices eased following Israel-Iran hostilities pause.",
-      "emoji": "🌏",
-      "category": "Economy",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/live-news/20260609-asian-stocks-track-wall-st-tech-bounce-oil-eases-on-mideast-hope",
-      "timestamp": "2026-06-09T06:10:00+03:00"
     }
   ]
 }
