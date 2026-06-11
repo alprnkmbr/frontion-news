@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-12T00:05:47+03:00",
+  "lastUpdated": "2026-06-12T01:04:25+03:00",
   "headlines": [
+    {
+      "headline": "Iran fights to preserve Lebanon as leverage in US settlement talks",
+      "summary": "Iran is waging a calculated campaign to keep Lebanon as its last bastion of Mediterranean influence, tying the country to a grand bargain with Washington as it seeks to end Hezbollah's war with Israel on its own terms.",
+      "emoji": "🇮🇷🇱🇧",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/iran-fights-keep-lebanon-leverage-high-stakes-us-deal-2026-06-11/",
+      "timestamp": "2026-06-12T01:03:00+03:00"
+    },
+    {
+      "headline": "Oil prices fall as Trump cancels planned Iran strikes, raising peace hopes",
+      "summary": "Oil prices settled lower after President Trump canceled plans to strike Iran, raising expectations for a deal to end more than three months of war and reopen the Strait of Hormuz.",
+      "emoji": "🛢️📉",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-rises-2-iran-announces-closure-strait-hormuz-following-us-strikes-2026-06-11/",
+      "timestamp": "2026-06-12T01:03:00+03:00"
+    },
+    {
+      "headline": "Global markets rally on hopes for Iran peace deal",
+      "summary": "MSCI global equities index rallied while the dollar and bond yields fell on renewed hopes for Middle East peace after Trump canceled planned strikes against Iran.",
+      "emoji": "📈💰",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/global-markets-wrapup-1-2026-06-11/",
+      "timestamp": "2026-06-12T01:03:00+03:00"
+    },
+    {
+      "headline": "Japanese business sentiment sours as Middle East war hits economy",
+      "summary": "Japanese business sentiment turned negative for the first time in four quarters, a government survey showed, reflecting growing economic pain from the Middle East conflict.",
+      "emoji": "🇯🇵📊",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/japan-business-mood-sours-april-june-middle-east-war-hits-2026-06-11/",
+      "timestamp": "2026-06-12T01:03:00+03:00"
+    },
+    {
+      "headline": "Trump to nominate Jay Clayton as Director of National Intelligence",
+      "summary": "President Trump plans to nominate Jay Clayton, the US Attorney for the Southern District of New York, as Director of National Intelligence, following Congress rejection of a FISA extension tied to spy chief appointments.",
+      "emoji": "🇺🇸🏛️",
+      "category": "US Politics",
+      "source": "AP News",
+      "url": "https://apnews.com/article/jay-clayton-pulte-trump-national-intelligence-director-b9a89bd3f1cb9c70fcca79de4c42cc99",
+      "timestamp": "2026-06-12T01:03:00+03:00"
+    },
     {
       "headline": "IDF Poised for Hezbollah Offensive in Nabatieh",
       "summary": "Israeli military officials say armor and troops have been covertly moved into position for an attack on Hezbollah stronghold in southern Lebanon city of Nabatieh.",
@@ -8,25 +53,23 @@
       "category": "Middle East",
       "source": "Times of Israel",
       "url": "https://www.timesofisrael.com/idf-poised-for-offensive-against-hezbollah-in-southern-lebanon-city-soldier-moderately-injured-by-drone/",
-      "timestamp": "2026-06-12T00:05:00+03:00"
-    },
-    {
-      "headline": "UK Defence Secretary Resigns Over Military Budget Cuts",
-      "summary": "John Healey dramatically quit, accusing PM Starmer of making Britain \"less safe\" by failing to fund armed forces adequately as the Treasury pushes for spending reductions.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/europe/20260611-uk-defence-chief-steps-down-accuses-starmer-of-making-britain-less-safe",
-      "timestamp": "2026-06-12T00:05:00+03:00"
-    },
-    {
-      "headline": "Ukraine Confirms Strike on Crimea Bridge Hit 50 Russian Vehicles",
-      "summary": "The Da Vinci Regiment confirmed a strike on Armiansk bridge in Crimea that destroyed 50 Russian military vehicles and put the crossing out of commission.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/ukraine-confirms-strike-on-crimeas-armiansk-bridge-that-hit-50-russian-military-vehicles/",
-      "timestamp": "2026-06-12T00:05:00+03:00"
+      "timestamp": "2026-06-12T00:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Times of Israel",
+          "url": "https://www.timesofisrael.com/liveblog_entry/idf-prepared-to-launch-offensive-against-hezbollah-in-city-of-nabatieh-says-official/",
+          "angle": "Israel Prepares Offensive Against Hezbollah in Nabatieh",
+          "summary": "The Israeli military is poised to launch an offensive against Hezbollah in the southern Lebanon city of Nabatieh, one of the key Hezbollah strongholds. IDF officials say preparations are complete."
+        }
+      ],
+      "sources": [
+        "Times of Israel",
+        "Times of Israel"
+      ],
+      "urls": [
+        "https://www.timesofisrael.com/idf-poised-for-offensive-against-hezbollah-in-southern-lebanon-city-soldier-moderately-injured-by-drone/",
+        "https://www.timesofisrael.com/liveblog_entry/idf-prepared-to-launch-offensive-against-hezbollah-in-city-of-nabatieh-says-official/"
+      ]
     },
     {
       "headline": "US Sanctions Cuba State Oil Company",
@@ -47,13 +90,62 @@
       "timestamp": "2026-06-12T00:05:00+03:00"
     },
     {
+      "headline": "UK Defense Secretary John Healey resigns over military spending",
+      "summary": "UK Defense Secretary John Healey unexpectedly quit, saying the government is unwilling to spend enough on the military, in a fresh blow to Prime Minister Keir Starmer.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "AP News",
+      "url": "https://apnews.com/article/britain-defense-secretary-john-healey-quits-533cb2637192f045ca6247ab5a402bac",
+      "timestamp": "2026-06-12T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "France 24",
+          "url": "https://www.france24.com/en/europe/20260611-uk-defence-chief-steps-down-accuses-starmer-of-making-britain-less-safe",
+          "angle": "UK Defence Secretary Resigns Over Military Budget Cuts",
+          "summary": "John Healey dramatically quit, accusing PM Starmer of making Britain \"less safe\" by failing to fund armed forces adequately as the Treasury pushes for spending reductions."
+        },
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/britain-defense-secretary-john-healey-quits-533cb2637192f045ca6247ab5a402bac",
+          "angle": "UK Defense Secretary Resigns Over Military Spending Dispute",
+          "summary": "John Healey resigned as British defense secretary, saying the government is not willing to spend enough on the military amid rising threats from Russia and the Middle East."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "France 24",
+        "AP News"
+      ],
+      "urls": [
+        "https://apnews.com/article/britain-defense-secretary-john-healey-quits-533cb2637192f045ca6247ab5a402bac",
+        "https://www.france24.com/en/europe/20260611-uk-defence-chief-steps-down-accuses-starmer-of-making-britain-less-safe",
+        "https://apnews.com/article/britain-defense-secretary-john-healey-quits-533cb2637192f045ca6247ab5a402bac"
+      ]
+    },
+    {
       "headline": "Trump calls off Iran strikes, says peace deal imminent",
       "summary": "President Trump canceled planned military strikes on Iran at the last minute, saying negotiations with Tehran were heading toward a possible deal that could reopen the Strait of Hormuz.",
       "emoji": "🇮🇷",
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/africa/dollar-shaky-investors-weigh-rate-outlook-middle-east-worries-2026-06-11/",
-      "timestamp": "2026-06-12T00:03:00+03:00"
+      "timestamp": "2026-06-12T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/us-iran-trade-attacks-second-day-undermining-shaky-ceasefire-2026-06-11/",
+          "angle": "Trump cancels planned strikes on Iran citing progress in negotiations",
+          "summary": "President Donald Trump called off military strikes on Iran at the last minute, saying negotiations with Tehran had advanced to the highest levels and been approved by a broad coalition of regional powers. The announcement came after a second day of U.S.-Iran air attacks."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/africa/dollar-shaky-investors-weigh-rate-outlook-middle-east-worries-2026-06-11/",
+        "https://www.reuters.com/world/middle-east/us-iran-trade-attacks-second-day-undermining-shaky-ceasefire-2026-06-11/"
+      ]
     },
     {
       "headline": "World Bank cuts global growth forecast to 2.5% citing Iran war",
@@ -62,7 +154,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/world-bank-cuts-global-growth-outlook-25-warns-drop-13-if-war-fallout-spreads-2026-06-11/",
-      "timestamp": "2026-06-12T00:03:00+03:00"
+      "timestamp": "2026-06-12T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/world-bank-cuts-global-growth-outlook-25-warns-drop-13-if-war-fallout-spreads-2026-06-11/",
+          "angle": "World Bank slashes global growth forecast to 2.5% citing Middle East war",
+          "summary": "The World Bank cut its 2026 global growth forecast to 2.5%, down from 2.9% in 2025, warning growth could slow to just 1.3% if energy supply disruptions from the Iran conflict worsen and cause substantial financial market stress."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/world-bank-cuts-global-growth-outlook-25-warns-drop-13-if-war-fallout-spreads-2026-06-11/",
+        "https://www.reuters.com/world/china/world-bank-cuts-global-growth-outlook-25-warns-drop-13-if-war-fallout-spreads-2026-06-11/"
+      ]
     },
     {
       "headline": "US House rejects FISA extension, spy powers set to expire",
@@ -71,16 +179,23 @@
       "category": "US Politics",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/us-house-rejects-short-term-fisa-extension-expiration-looms-2026-06-11/",
-      "timestamp": "2026-06-12T00:03:00+03:00"
-    },
-    {
-      "headline": "UK Defense Secretary John Healey resigns over military spending",
-      "summary": "UK Defense Secretary John Healey unexpectedly quit, saying the government is unwilling to spend enough on the military, in a fresh blow to Prime Minister Keir Starmer.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://apnews.com/article/britain-defense-secretary-john-healey-quits-533cb2637192f045ca6247ab5a402bac",
-      "timestamp": "2026-06-12T00:03:00+03:00"
+      "timestamp": "2026-06-12T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/us-house-rejects-short-term-fisa-extension-expiration-looms-2026-06-11/",
+          "angle": "FISA spy powers set to expire after Congress fails to reach deal",
+          "summary": "The Republican-controlled House rejected a short-term extension of foreign surveillance powers sought by President Trump, deepening a standoff over his selection of an inexperienced loyalist as the top U.S. spy chief. The impasse could result in limitations on intelligence collection abroad."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/us-house-rejects-short-term-fisa-extension-expiration-looms-2026-06-11/",
+        "https://www.reuters.com/world/us-house-rejects-short-term-fisa-extension-expiration-looms-2026-06-11/"
+      ]
     },
     {
       "headline": "US-Canada bridge opening delayed after Trump objections",
@@ -169,71 +284,12 @@
       ]
     },
     {
-      "headline": "Trump cancels planned strikes on Iran citing progress in negotiations",
-      "summary": "President Donald Trump called off military strikes on Iran at the last minute, saying negotiations with Tehran had advanced to the highest levels and been approved by a broad coalition of regional powers. The announcement came after a second day of U.S.-Iran air attacks.",
-      "emoji": "🇺🇸",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/us-iran-trade-attacks-second-day-undermining-shaky-ceasefire-2026-06-11/",
-      "timestamp": "2026-06-11T22:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/iran-targets-us-bases-jordan-gulf-after-trump-orders-strikes-near-hormuz-2026-06-10/",
-          "angle": "US Strikes Multiple Targets in Iran as Trump Vows Further Escalation",
-          "summary": "The US military launched new strikes against multiple targets in Iran overnight, with President Donald Trump threatening additional attacks if no peace deal is reached. Iran announced the closure of the Strait of Hormuz in response."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/us-iran-trade-attacks-second-day-undermining-shaky-ceasefire-2026-06-11/",
-        "https://www.reuters.com/world/middle-east/iran-targets-us-bases-jordan-gulf-after-trump-orders-strikes-near-hormuz-2026-06-10/"
-      ]
-    },
-    {
-      "headline": "World Bank slashes global growth forecast to 2.5% citing Middle East war",
-      "summary": "The World Bank cut its 2026 global growth forecast to 2.5%, down from 2.9% in 2025, warning growth could slow to just 1.3% if energy supply disruptions from the Iran conflict worsen and cause substantial financial market stress.",
-      "emoji": "📉",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/world-bank-cuts-global-growth-outlook-25-warns-drop-13-if-war-fallout-spreads-2026-06-11/",
-      "timestamp": "2026-06-11T22:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/world-bank-cuts-global-growth-outlook-25-warns-drop-13-if-war-fallout-spreads-2026-06-11/",
-          "angle": "World Bank Cuts Global Growth Forecast to 2.5%, Warns of 1.3% Scenario",
-          "summary": "The World Bank reduced its 2026 global growth forecast to 2.5% due to the Middle East war, warning growth could slow to 1.3% if energy supply disruptions spread to financial markets."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/world-bank-cuts-global-growth-outlook-25-warns-drop-13-if-war-fallout-spreads-2026-06-11/",
-        "https://www.reuters.com/world/china/world-bank-cuts-global-growth-outlook-25-warns-drop-13-if-war-fallout-spreads-2026-06-11/"
-      ]
-    },
-    {
       "headline": "Slovenia lifts entry ban on Netanyahu as new government shifts Israel policy",
       "summary": "Slovenia's new conservative government abolished an entry ban on Israeli Prime Minister Benjamin Netanyahu and two of his ministers, rolling back several Gaza-related measures adopted by the previous administration.",
       "emoji": "🇸🇮",
       "category": "Diplomacy",
       "source": "AP News",
       "url": "https://apnews.com/article/slovenia-israel-entry-ban-revoked-netanyahu-911881d249522024806ccc74f7a40bab",
-      "timestamp": "2026-06-11T22:03:00+03:00"
-    },
-    {
-      "headline": "FISA spy powers set to expire after Congress fails to reach deal",
-      "summary": "The Republican-controlled House rejected a short-term extension of foreign surveillance powers sought by President Trump, deepening a standoff over his selection of an inexperienced loyalist as the top U.S. spy chief. The impasse could result in limitations on intelligence collection abroad.",
-      "emoji": "🏛️",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us-house-rejects-short-term-fisa-extension-expiration-looms-2026-06-11/",
       "timestamp": "2026-06-11T22:03:00+03:00"
     },
     {
@@ -273,15 +329,6 @@
       "timestamp": "2026-06-11T20:04:00+03:00"
     },
     {
-      "headline": "Israel Prepares Offensive Against Hezbollah in Nabatieh",
-      "summary": "The Israeli military is poised to launch an offensive against Hezbollah in the southern Lebanon city of Nabatieh, one of the key Hezbollah strongholds. IDF officials say preparations are complete.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Times of Israel",
-      "url": "https://www.timesofisrael.com/liveblog_entry/idf-prepared-to-launch-offensive-against-hezbollah-in-city-of-nabatieh-says-official/",
-      "timestamp": "2026-06-11T20:04:00+03:00"
-    },
-    {
       "headline": "Graham Backs Seizure of Iranian Kharg Island as Game Changer",
       "summary": "Senator Lindsey Graham expressed support for President Trump threat to seize Iran Kharg Island, calling it the ultimate game changer in the conflict. The island is critical to Iran oil exports.",
       "emoji": "🇺🇸",
@@ -289,31 +336,6 @@
       "source": "The Hill",
       "url": "https://thehill.com/homenews/senate/5920199-graham-taking-kharg-island-would-be-ultimate-game-changer/",
       "timestamp": "2026-06-11T20:04:00+03:00"
-    },
-    {
-      "headline": "UK Defense Secretary Resigns Over Military Spending Dispute",
-      "summary": "John Healey resigned as British defense secretary, saying the government is not willing to spend enough on the military amid rising threats from Russia and the Middle East.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://apnews.com/article/britain-defense-secretary-john-healey-quits-533cb2637192f045ca6247ab5a402bac",
-      "timestamp": "2026-06-11T20:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.co.uk/sounds/play/m002xh01",
-          "angle": "UK Defense Secretary John Healey resigns over military spending",
-          "summary": "British Defence Secretary John Healey resigned, saying the government is unwilling to spend enough on the military. The resignation deals a fresh blow to Prime Minister Keir Starmer amid growing global security challenges."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "BBC"
-      ],
-      "urls": [
-        "https://apnews.com/article/britain-defense-secretary-john-healey-quits-533cb2637192f045ca6247ab5a402bac",
-        "https://www.bbc.co.uk/sounds/play/m002xh01"
-      ]
     },
     {
       "headline": "US Confirms Third Strike on Indian-Crewed Tanker Off Oman",
@@ -502,6 +524,31 @@
       ]
     },
     {
+      "headline": "Fuel runs dry in Russian-held Crimea as Ukraine strikes supply routes",
+      "summary": "Petrol stations in Russian-occupied Sevastopol have run dry after Ukraine stepped up drone attacks on supply routes, forcing authorities to delay rationed fuel distribution to residents.",
+      "emoji": "⛽",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/russian-held-sevastopol-suspends-fuel-distribution-zelenskiy-praises-attacks-2026-06-11/",
+      "timestamp": "2026-06-11T18:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/ukraine-confirms-strike-on-crimeas-armiansk-bridge-that-hit-50-russian-military-vehicles/",
+          "angle": "Ukraine Confirms Strike on Crimea Bridge Hit 50 Russian Vehicles",
+          "summary": "The Da Vinci Regiment confirmed a strike on Armiansk bridge in Crimea that destroyed 50 Russian military vehicles and put the crossing out of commission."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/russian-held-sevastopol-suspends-fuel-distribution-zelenskiy-praises-attacks-2026-06-11/",
+        "https://kyivindependent.com/ukraine-confirms-strike-on-crimeas-armiansk-bridge-that-hit-50-russian-military-vehicles/"
+      ]
+    },
+    {
       "headline": "Oil prices steady as markets assess Hormuz closure fallout",
       "summary": "Oil prices remained nearly flat on Thursday as investors weighed potential supply disruptions from the Middle East conflict after Iran announced the closure of the Strait of Hormuz following US military strikes.",
       "emoji": "🛢️",
@@ -524,47 +571,6 @@
       "urls": [
         "https://www.reuters.com/business/energy/oil-rises-2-iran-announces-closure-strait-hormuz-following-us-strikes-2026-06-11/",
         "https://www.reuters.com/business/energy/oil-rises-2-iran-announces-closure-strait-hormuz-following-us-strikes-2026-06-11/"
-      ]
-    },
-    {
-      "headline": "Fuel runs dry in Russian-held Crimea as Ukraine strikes supply routes",
-      "summary": "Petrol stations in Russian-occupied Sevastopol have run dry after Ukraine stepped up drone attacks on supply routes, forcing authorities to delay rationed fuel distribution to residents.",
-      "emoji": "⛽",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/russian-held-sevastopol-suspends-fuel-distribution-zelenskiy-praises-attacks-2026-06-11/",
-      "timestamp": "2026-06-11T18:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/explosions-rock-crimea-amid-large-scale-attack-across-peninsula/",
-          "angle": "Ukraine Strikes Crimea in Large-Scale Attack Across Peninsula",
-          "summary": "Explosions reported across Russian-occupied Crimea as Ukraine launches apparent large-scale attack on the peninsula, targeting military infrastructure."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/ukraine-strikes-mariupol-port-significantly-limiting-its-use-2026-06-10/",
-          "angle": "Ukraine strikes Russian-occupied Mariupol port",
-          "summary": "Ukrainian forces struck the Russian-occupied port of Mariupol, Kyiv said on Wednesday, the latest in a series of drone attacks on logistics across a critical stretch of Moscow-held southern Ukraine connecting Russia to Crimea."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/drones-hit-historic-museum-russia-annexed-crimea-officials-alter-train-schedule-2026-06-10/",
-          "angle": "Crimea faces fuel shortages as Ukrainian drones disrupt Russian supply routes",
-          "summary": "Residents in Russian-controlled Crimea are grappling with gasoline rationing after Ukrainian drone attacks constricted supplies from Russia, with one witness describing severe disruptions to logistics in the annexed peninsula."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Kyiv Independent",
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/russian-held-sevastopol-suspends-fuel-distribution-zelenskiy-praises-attacks-2026-06-11/",
-        "https://kyivindependent.com/explosions-rock-crimea-amid-large-scale-attack-across-peninsula/",
-        "https://www.reuters.com/world/ukraine-strikes-mariupol-port-significantly-limiting-its-use-2026-06-10/",
-        "https://www.reuters.com/world/drones-hit-historic-museum-russia-annexed-crimea-officials-alter-train-schedule-2026-06-10/"
       ]
     },
     {
@@ -2687,33 +2693,6 @@
         "https://www.reuters.com/business/energy/trump-approval-stays-near-record-low-most-americans-expect-higher-gas-prices-2026-06-08/",
         "https://www.reuters.com/business/energy/trump-approval-stays-near-record-low-most-americans-expect-higher-gas-prices-2026-06-08/"
       ]
-    },
-    {
-      "headline": "Cholera outbreak in Nigeria's Borno state kills 74, infects over 7,000",
-      "summary": "A cholera outbreak in northeastern Nigeria's conflict-ridden Borno state has killed 74 people and infected more than 7,000 others since May. The outbreak adds to the humanitarian crisis in a region already devastated by years of insurgency.",
-      "emoji": "🇳🇬",
-      "category": "Africa",
-      "source": "AP News",
-      "url": "https://apnews.com/article/nigeria-cholera-borno-state-maiduguri-msf-611dd36e6f590a11803e851c36a86ed1",
-      "timestamp": "2026-06-09T22:03:00+03:00"
-    },
-    {
-      "headline": "Russia faces cod export ban under proposed EU sanctions",
-      "summary": "Russian cod could be banned from EU markets in the latest sanctions package aimed at pressuring Moscow to end its invasion of Ukraine. The measure would target one of Russia's key export industries and further strain EU-Russia trade relations.",
-      "emoji": "🐟",
-      "category": "Europe",
-      "source": "The Telegraph",
-      "url": "https://www.telegraph.co.uk/world-news/2026/06/09/russia-faces-ban-on-cod-in-eu-sanctions/",
-      "timestamp": "2026-06-09T22:03:00+03:00"
-    },
-    {
-      "headline": "Strongmen wrong to loathe Europe, The Economist argues",
-      "summary": "An analysis challenges the contempt of Trump, Xi, and Putin for European soft power, arguing Europe's economic and diplomatic leverage remains formidable despite their dismissive rhetoric.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "The Economist",
-      "url": "https://www.economist.com/international/2026/06/09/why-strongmen-are-wrong-to-loathe-europe",
-      "timestamp": "2026-06-09T21:05:00+03:00"
     }
   ]
 }
