@@ -1,23 +1,50 @@
 {
-  "lastUpdated": "2026-06-11T11:05:04+03:00",
+  "lastUpdated": "2026-06-11T12:04:58+03:00",
   "headlines": [
     {
-      "headline": "World Cup 2026 Opens Amid North American Tensions",
-      "summary": "The FIFA World Cup kicks off in Mexico with 48 nations competing, but the tournament is overshadowed by strained relations between the US and its neighbors. Mexico and Canada have faced significant recent diplomatic tensions with the Trump administration.",
-      "emoji": "⚽🇲🇽",
-      "category": "Diplomacy",
+      "headline": "Ukraine War Duration Exceeds World War I",
+      "summary": "The conflict in Ukraine has now lasted longer than World War I, marking a grim milestone as fighting continues with no clear end in sight. The war has entered its fourth year with ongoing casualties and infrastructure destruction.",
+      "emoji": "🇺🇦⚔️",
+      "category": "Ukraine-Russia War",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-fractured-north-america.html",
-      "timestamp": "2026-06-11T11:03:00+03:00"
+      "url": "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
+      "timestamp": "2026-06-11T12:03:00+03:00"
     },
     {
-      "headline": "ECB Set to Raise Rates for First Time Since 2023 as Iran War Fuels Inflation",
-      "summary": "The European Central Bank is widely expected to raise interest rates on Thursday, the first such move in nearly three years, responding to energy-driven inflation from the Middle East conflict that has pushed euro zone prices higher.",
-      "emoji": "🇪🇺💰",
-      "category": "Economy",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/11/business/european-central-bank-inflation-interest-rates.html",
-      "timestamp": "2026-06-11T11:03:00+03:00"
+      "headline": "Thai Court Sentences Two Uyghurs to Death for 2015 Shrine Bombing",
+      "summary": "A Thai court has sentenced two Uyghur men to death for the 2015 Erawan Shrine bombing in Bangkok that killed 20 people. The attack had targeted tourists in the popular Hindu shrine.",
+      "emoji": "🇹🇭⛪",
+      "category": "Asia-Pacific",
+      "source": "AP News",
+      "url": "https://apnews.com/article/thailand-erawan-shrine-bombing-2015-convicted-sentenced-6e1f0ab2f99b2b630df34aa79e1c29d2",
+      "timestamp": "2026-06-11T12:03:00+03:00"
+    },
+    {
+      "headline": "US Bases in Middle East Face Second Round of Iranian Retaliatory Attacks",
+      "summary": "US military bases across the Middle East are experiencing a second wave of Iranian retaliatory strikes following earlier American attacks. The escalation threatens to further destabilize the already fragile ceasefire.",
+      "emoji": "🇺🇸🇮🇷💥",
+      "category": "US-Iran War",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/06/11/world/live-news/iran-war-trump-israel-hnk",
+      "timestamp": "2026-06-11T12:03:00+03:00"
+    },
+    {
+      "headline": "Ukraine Launches Long-Range Strikes on Russian Military and Energy Sites",
+      "summary": "Ukrainian forces have carried out long-range strikes targeting military installations and energy infrastructure inside Russia. The attacks come as the war surpasses the duration of World War I.",
+      "emoji": "🇺🇦🎯",
+      "category": "Ukraine-Russia War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-military-strikes-4a158f6273807683d48692dedb4121b8",
+      "timestamp": "2026-06-11T12:03:00+03:00"
+    },
+    {
+      "headline": "Two Babies Die of Ebola in Congo Orphanage as Outbreak Spreads",
+      "summary": "Two infants have died of Ebola in a Congo orphanage, highlighting the particular risk children face in the ongoing outbreak. WHO reports testing has been stalled in three labs due to supply shortages.",
+      "emoji": "🇨🇩🦠",
+      "category": "Africa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/newborn-congo-orphanage-dies-ebola-highlighting-risks-faced-by-children-2026-06-10/",
+      "timestamp": "2026-06-11T12:03:00+03:00"
     },
     {
       "headline": "Pope Leo Heads to Canary Islands to Highlight Migrant Crisis",
@@ -29,22 +56,29 @@
       "timestamp": "2026-06-11T11:03:00+03:00"
     },
     {
-      "headline": "US Launches Second Day of Strikes on Iran; Iran Fires Back at Gulf States",
-      "summary": "The United States conducted a second round of airstrikes on Iranian targets, while Iran launched retaliatory attacks against Gulf states and Jordan, undermining fragile ceasefire efforts.",
-      "emoji": "⚔️🇮🇷",
-      "category": "US-Iran War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-11-june-2026-3c2c6d356a1e25b4d7edf66b2edba57d",
-      "timestamp": "2026-06-11T11:03:00+03:00"
-    },
-    {
       "headline": "Oil Prices Jump as Iran Closes Strait of Hormuz After US Strikes",
       "summary": "Oil prices climbed more than $2 per barrel after Iran declared closure of the critical Strait of Hormuz waterway following US military strikes, though gains were later pared as traders assessed actual supply disruption impact.",
       "emoji": "🛢️💰",
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/oil-rises-2-iran-announces-closure-strait-hormuz-following-us-strikes-2026-06-11/",
-      "timestamp": "2026-06-11T11:03:00+03:00"
+      "timestamp": "2026-06-11T11:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/oil-rises-nearly-1-us-launches-new-strikes-against-iran-supply-tightens-2026-06-10/",
+          "angle": "Oil Prices Rise 2% as Trump Says Iran Will Pay Price for Stalled Talks",
+          "summary": "Oil prices climbed after President Trump warned Iran would face consequences for delays in negotiations, following tit-for-tat strikes between US and Iranian forces overnight."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/oil-rises-2-iran-announces-closure-strait-hormuz-following-us-strikes-2026-06-11/",
+        "https://www.reuters.com/business/energy/oil-rises-nearly-1-us-launches-new-strikes-against-iran-supply-tightens-2026-06-10/"
+      ]
     },
     {
       "headline": "Kuwait Reopens Airspace After Temporary Closure Following Iranian Attacks",
@@ -92,6 +126,31 @@
       "timestamp": "2026-06-11T10:05:00+03:00"
     },
     {
+      "headline": "FIFA World Cup 2026 Kicks Off Amid Geopolitical Tensions",
+      "summary": "The 2026 FIFA World Cup begins with Iran war and visa restrictions casting a shadow over football's biggest tournament. Politics looms large as the US co-host prepares to perform under global scrutiny.",
+      "emoji": "⚽",
+      "category": "Diplomacy",
+      "source": "BBC",
+      "url": "https://www.bbc.com/sport/football/live/cvg4wnxpppnt",
+      "timestamp": "2026-06-11T09:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/06/11/world/americas/world-cup-fractured-north-america.html",
+          "angle": "World Cup 2026 Opens Amid North American Tensions",
+          "summary": "The FIFA World Cup kicks off in Mexico with 48 nations competing, but the tournament is overshadowed by strained relations between the US and its neighbors. Mexico and Canada have faced significant recent diplomatic tensions with the Trump administration."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "New York Times"
+      ],
+      "urls": [
+        "https://www.bbc.com/sport/football/live/cvg4wnxpppnt",
+        "https://www.nytimes.com/2026/06/11/world/americas/world-cup-fractured-north-america.html"
+      ]
+    },
+    {
       "headline": "G7 Summit Opens with Tight Security on Swiss-French Border",
       "summary": "French and Swiss authorities imposed pandemic-like border restrictions as G7 leaders including President Trump gathered for the summit. Security measures are intense amid concerns about potential violent protests.",
       "emoji": "🏛️",
@@ -107,15 +166,6 @@
       "category": "Climate",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-06-11/uk-venture-plans-europe-s-largest-plant-for-capturing-co2-from-air",
-      "timestamp": "2026-06-11T09:03:00+03:00"
-    },
-    {
-      "headline": "FIFA World Cup 2026 Kicks Off Amid Geopolitical Tensions",
-      "summary": "The 2026 FIFA World Cup begins with Iran war and visa restrictions casting a shadow over football's biggest tournament. Politics looms large as the US co-host prepares to perform under global scrutiny.",
-      "emoji": "⚽",
-      "category": "Diplomacy",
-      "source": "BBC",
-      "url": "https://www.bbc.com/sport/football/live/cvg4wnxpppnt",
       "timestamp": "2026-06-11T09:03:00+03:00"
     },
     {
@@ -180,27 +230,35 @@
       "timestamp": "2026-06-11T08:04:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/us/us-consumer-prices-increase-expected-may-2026-06-10/",
-          "angle": "US consumer inflation vaults above 4% as Iran war drives energy prices",
-          "summary": "US consumer inflation rose at its fastest pace in three years in May, with energy costs surging amid the Middle East conflict, giving the Federal Reserve ammunition to keep interest rates unchanged into 2027."
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/06/11/business/european-central-bank-inflation-interest-rates.html",
+          "angle": "ECB Set to Raise Rates for First Time Since 2023 as Iran War Fuels Inflation",
+          "summary": "The European Central Bank is widely expected to raise interest rates on Thursday, the first such move in nearly three years, responding to energy-driven inflation from the Middle East conflict that has pushed euro zone prices higher."
         },
         {
           "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/boj-set-raise-key-rate-10-june-125-by-year-end-2026-06-10/",
-          "angle": "Bank of Japan Set to Raise Key Rate to 1.0% in June",
-          "summary": "The BOJ will raise its benchmark interest rate this month and again in Q4, taking borrowing costs to 1.25% by year-end as it grows more wary of inflation risks. The yen strengthened on the prospect of tighter policy."
+          "url": "https://www.reuters.com/business/energy/iran-war-anxiety-sends-global-container-shipping-rates-soaring-2026-06-10/",
+          "angle": "Iran war anxiety doubles container shipping rates from Asia to US",
+          "summary": "The cost of shipping a container from Asia to the United States has doubled since the Iran war began, driven by soaring fuel prices and importers rushing to secure goods before costs rise further."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/fed-hold-rates-this-year-cut-calls-fade-war-inflation-persists-economists-say-2026-06-09/",
+          "angle": "Fed to Hold Rates Through 2026 as War-Driven Inflation Persists",
+          "summary": "The US Federal Reserve will keep interest rates unchanged for the rest of 2026, according to a Reuters poll of economists. War-induced inflation has proven more persistent than expected, delaying rate cuts."
         }
       ],
       "sources": [
         "Reuters",
+        "New York Times",
         "Reuters",
         "Reuters"
       ],
       "urls": [
         "https://www.reuters.com/business/ecb-poised-insurance-hike-iran-war-fans-euro-zone-inflation-2026-06-10/",
-        "https://www.reuters.com/world/us/us-consumer-prices-increase-expected-may-2026-06-10/",
-        "https://www.reuters.com/world/asia-pacific/boj-set-raise-key-rate-10-june-125-by-year-end-2026-06-10/"
+        "https://www.nytimes.com/2026/06/11/business/european-central-bank-inflation-interest-rates.html",
+        "https://www.reuters.com/business/energy/iran-war-anxiety-sends-global-container-shipping-rates-soaring-2026-06-10/",
+        "https://www.reuters.com/business/fed-hold-rates-this-year-cut-calls-fade-war-inflation-persists-economists-say-2026-06-09/"
       ]
     },
     {
@@ -258,8 +316,8 @@
         {
           "source": "AP News",
           "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-11-june-2026-3c2c6d356a1e25b4d7edf66b2edba57d",
-          "angle": "US and Iran Exchange Strikes for Second Day as Ceasefire Strains",
-          "summary": "The United States and Iran traded airstrikes for a second consecutive day, with Iran targeting US bases in Jordan and Gulf states while Washington struck multiple targets in Iran. President Trump vowed continued pressure while both sides disputed the status of ceasefire negotiations."
+          "angle": "US Launches Second Day of Strikes on Iran; Iran Fires Back at Gulf States",
+          "summary": "The United States conducted a second round of airstrikes on Iranian targets, while Iran launched retaliatory attacks against Gulf states and Jordan, undermining fragile ceasefire efforts."
         }
       ],
       "sources": [
@@ -515,31 +573,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/netanyahu-run-re-election-his-party-says-after-trump-raises-doubts-2026-06-10/",
       "timestamp": "2026-06-11T04:03:00+03:00"
-    },
-    {
-      "headline": "Iran war anxiety doubles container shipping rates from Asia to US",
-      "summary": "The cost of shipping a container from Asia to the United States has doubled since the Iran war began, driven by soaring fuel prices and importers rushing to secure goods before costs rise further.",
-      "emoji": "💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/iran-war-anxiety-sends-global-container-shipping-rates-soaring-2026-06-10/",
-      "timestamp": "2026-06-11T04:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/iran-war-anxiety-sends-global-container-shipping-rates-soaring-2026-06-10/",
-          "angle": "Iran War Fears Double Container Shipping Rates from Asia to US",
-          "summary": "The cost of shipping a container from Asia to the United States has doubled since the start of the Iran war, driven by spiking fuel prices and disruptions to global trade routes through the Strait of Hormuz."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/iran-war-anxiety-sends-global-container-shipping-rates-soaring-2026-06-10/",
-        "https://www.reuters.com/business/energy/iran-war-anxiety-sends-global-container-shipping-rates-soaring-2026-06-10/"
-      ]
     },
     {
       "headline": "Analysis suggests precision US strikes hit Iranian water facility",
@@ -1206,31 +1239,6 @@
       "urls": [
         "https://www.reuters.com/world/drones-hit-historic-museum-russia-annexed-crimea-officials-alter-train-schedule-2026-06-10/",
         "https://apnews.com/article/russia-ukraine-war-military-strikes-4a158f6273807683d48692dedb4121b8"
-      ]
-    },
-    {
-      "headline": "Oil Prices Rise 2% as Trump Says Iran Will Pay Price for Stalled Talks",
-      "summary": "Oil prices climbed after President Trump warned Iran would face consequences for delays in negotiations, following tit-for-tat strikes between US and Iranian forces overnight.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-rises-nearly-1-us-launches-new-strikes-against-iran-supply-tightens-2026-06-10/",
-      "timestamp": "2026-06-10T15:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/oil-rises-slightly-investors-await-clarity-after-iran-israel-halt-attacks-2026-06-09/",
-          "angle": "Oil Prices Edge Higher Amid Iran-Israel Uncertainty",
-          "summary": "Oil prices rose slightly as markets awaited clarity on whether the Iran-Israel halt would hold. The Strait of Hormuz remains a focal point, with Iran's envoy saying transit fees would apply."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/oil-rises-nearly-1-us-launches-new-strikes-against-iran-supply-tightens-2026-06-10/",
-        "https://www.reuters.com/business/energy/oil-rises-slightly-investors-await-clarity-after-iran-israel-halt-attacks-2026-06-09/"
       ]
     },
     {
@@ -2262,15 +2270,6 @@
       "category": "Asia-Pacific",
       "source": "SCMP",
       "url": "https://www.scmp.com/news/china/diplomacy/article/3356485/xi-jinpings-visit-north-korean-war-monument-evokes-eternal-historical-memory",
-      "timestamp": "2026-06-09T20:05:00+03:00"
-    },
-    {
-      "headline": "Fed to Hold Rates Through 2026 as War-Driven Inflation Persists",
-      "summary": "The US Federal Reserve will keep interest rates unchanged for the rest of 2026, according to a Reuters poll of economists. War-induced inflation has proven more persistent than expected, delaying rate cuts.",
-      "emoji": "🇺🇸",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/fed-hold-rates-this-year-cut-calls-fade-war-inflation-persists-economists-say-2026-06-09/",
       "timestamp": "2026-06-09T20:05:00+03:00"
     },
     {
