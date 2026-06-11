@@ -1,6 +1,49 @@
 {
-  "lastUpdated": "2026-06-11T18:05:03+03:00",
+  "lastUpdated": "2026-06-11T18:08:15+03:00",
   "headlines": [
+    {
+      "headline": "Ukraine Gains Edge in FPV Drone Warfare Against Russia",
+      "summary": "Ukraine is outproducing and deploying FPV drones at a 1.5 to 1 ratio compared to Russia, according to Ukrainian military officials. The development marks a shift in the drone war as Kyiv adapts to evolving battlefield needs.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Post",
+      "url": "https://www.kyivpost.com/post/77984",
+      "timestamp": "2026-06-11T18:05:00+03:00"
+    },
+    {
+      "headline": "Turkey Mediates Between US and Iran as Conflict Reignites",
+      "summary": "Turkish Foreign Minister Hakan Fidan advised the US and Iran to stop the reignited conflict during diplomatic discussions. The meeting also addressed Black Sea security and EU relations as regional tensions escalate.",
+      "emoji": "🇹🇷",
+      "category": "Diplomacy",
+      "source": "Daily Sabah",
+      "url": "https://www.dailysabah.com/politics/diplomacy/turkish-fm-advises-us-iran-to-stop-reignited-conflict",
+      "timestamp": "2026-06-11T18:05:00+03:00"
+    },
+    {
+      "headline": "Indonesia Rupiah Hits Record Low as Fiscal Pressures Mount",
+      "summary": "Indonesia rupiah has become Asia worst-performing currency this year as economic pressures mount. The World Bank forecasts GDP growth slowing to 5% in 2026 amid fiscal strains.",
+      "emoji": "🇮🇩",
+      "category": "Asia-Pacific",
+      "source": "Straits Times",
+      "url": "https://www.straitstimes.com/opinion/indonesias-weakening-markets-and-economy-have-a-personality-problem-prabowos",
+      "timestamp": "2026-06-11T18:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Channel NewsAsia",
+          "url": "https://www.channelnewsasia.com/asia/indonesia-economy-rupiah-stock-exchange-6176131",
+          "angle": "Indonesia's rupiah slide raises deeper fiscal concerns despite emergency measures",
+          "summary": "Indonesia's emergency interest rate hike and efforts to support the rupiah have calmed markets temporarily, but economists warn investor confidence won't fully return without addressing deeper fiscal issues."
+        }
+      ],
+      "sources": [
+        "Straits Times",
+        "Channel NewsAsia"
+      ],
+      "urls": [
+        "https://www.straitstimes.com/opinion/indonesias-weakening-markets-and-economy-have-a-personality-problem-prabowos",
+        "https://www.channelnewsasia.com/asia/indonesia-economy-rupiah-stock-exchange-6176131"
+      ]
+    },
     {
       "headline": "Oil prices steady as markets assess Hormuz closure fallout",
       "summary": "Oil prices remained nearly flat on Thursday as investors weighed potential supply disruptions from the Middle East conflict after Iran announced the closure of the Strait of Hormuz following US military strikes.",
@@ -8,7 +51,23 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/oil-rises-2-iran-announces-closure-strait-hormuz-following-us-strikes-2026-06-11/",
-      "timestamp": "2026-06-11T18:03:00+03:00"
+      "timestamp": "2026-06-11T18:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/oil-rises-2-iran-announces-closure-strait-hormuz-following-us-strikes-2026-06-11/",
+          "angle": "Oil Prices Jump as Iran Closes Strait of Hormuz After US Strikes",
+          "summary": "Oil prices climbed more than $2 per barrel after Iran declared closure of the critical Strait of Hormuz waterway following US military strikes, though gains were later pared as traders assessed actual supply disruption impact."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/oil-rises-2-iran-announces-closure-strait-hormuz-following-us-strikes-2026-06-11/",
+        "https://www.reuters.com/business/energy/oil-rises-2-iran-announces-closure-strait-hormuz-following-us-strikes-2026-06-11/"
+      ]
     },
     {
       "headline": "Fuel runs dry in Russian-held Crimea as Ukraine strikes supply routes",
@@ -17,7 +76,39 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/russian-held-sevastopol-suspends-fuel-distribution-zelenskiy-praises-attacks-2026-06-11/",
-      "timestamp": "2026-06-11T18:03:00+03:00"
+      "timestamp": "2026-06-11T18:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/explosions-rock-crimea-amid-large-scale-attack-across-peninsula/",
+          "angle": "Ukraine Strikes Crimea in Large-Scale Attack Across Peninsula",
+          "summary": "Explosions reported across Russian-occupied Crimea as Ukraine launches apparent large-scale attack on the peninsula, targeting military infrastructure."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/ukraine-strikes-mariupol-port-significantly-limiting-its-use-2026-06-10/",
+          "angle": "Ukraine strikes Russian-occupied Mariupol port",
+          "summary": "Ukrainian forces struck the Russian-occupied port of Mariupol, Kyiv said on Wednesday, the latest in a series of drone attacks on logistics across a critical stretch of Moscow-held southern Ukraine connecting Russia to Crimea."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/drones-hit-historic-museum-russia-annexed-crimea-officials-alter-train-schedule-2026-06-10/",
+          "angle": "Crimea faces fuel shortages as Ukrainian drones disrupt Russian supply routes",
+          "summary": "Residents in Russian-controlled Crimea are grappling with gasoline rationing after Ukrainian drone attacks constricted supplies from Russia, with one witness describing severe disruptions to logistics in the annexed peninsula."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Kyiv Independent",
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/russian-held-sevastopol-suspends-fuel-distribution-zelenskiy-praises-attacks-2026-06-11/",
+        "https://kyivindependent.com/explosions-rock-crimea-amid-large-scale-attack-across-peninsula/",
+        "https://www.reuters.com/world/ukraine-strikes-mariupol-port-significantly-limiting-its-use-2026-06-10/",
+        "https://www.reuters.com/world/drones-hit-historic-museum-russia-annexed-crimea-officials-alter-train-schedule-2026-06-10/"
+      ]
     },
     {
       "headline": "Trump vows US will seize Iranian oil hub Kharg Island",
@@ -27,6 +118,31 @@
       "source": "CNN",
       "url": "https://www.cnn.com/2026/06/11/world/live-news/iran-war-trump-israel-hnk",
       "timestamp": "2026-06-11T18:03:00+03:00"
+    },
+    {
+      "headline": "UK Defense Secretary resigns over military spending dispute with Starmer",
+      "summary": "John Healey unexpectedly resigned as UK defense secretary, saying Prime Minister Keir Starmer failed to commit sufficient resources to defense at a time of \"rising threats\" including the Iran war and Russia's invasion of Ukraine.",
+      "emoji": "🇬🇧⚔️",
+      "category": "Europe",
+      "source": "AP News",
+      "url": "https://www.usnews.com/news/business/articles/2026-06-11/uk-defense-secretary-quits-says-government-isnt-willing-to-spend-enough-on-military",
+      "timestamp": "2026-06-11T17:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Military.com",
+          "url": "https://www.military.com/uk-defense-secretary-quits-says-government-isnt-willing-to-spend-enough-on-military",
+          "angle": "UK Defense Secretary Resigns Over Military Funding Dispute",
+          "summary": "John Healey resigned as UK Defense Secretary, saying the government is unwilling to spend enough on the military at a critical time. The resignation comes as NATO members face pressure to increase defense spending."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "Military.com"
+      ],
+      "urls": [
+        "https://www.usnews.com/news/business/articles/2026-06-11/uk-defense-secretary-quits-says-government-isnt-willing-to-spend-enough-on-military",
+        "https://www.military.com/uk-defense-secretary-quits-says-government-isnt-willing-to-spend-enough-on-military"
+      ]
     },
     {
       "headline": "World Bank slashes global growth forecast to 2.5% on Iran war fallout",
@@ -45,31 +161,6 @@
       "source": "AP News",
       "url": "https://apnews.com/article/china-bans-philippines-defense-minister-entry-7a8a6f515acdf7b1f6b3d688d9bcc6f8",
       "timestamp": "2026-06-11T17:05:00+03:00"
-    },
-    {
-      "headline": "UK Defense Secretary resigns over military spending dispute with Starmer",
-      "summary": "John Healey unexpectedly resigned as UK defense secretary, saying Prime Minister Keir Starmer failed to commit sufficient resources to defense at a time of \"rising threats\" including the Iran war and Russia's invasion of Ukraine.",
-      "emoji": "🇬🇧⚔️",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://www.usnews.com/news/business/articles/2026-06-11/uk-defense-secretary-quits-says-government-isnt-willing-to-spend-enough-on-military",
-      "timestamp": "2026-06-11T17:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "US News",
-          "url": "https://www.usnews.com/news/business/articles/2026-06-11/uk-defense-secretary-quits-says-government-isnt-willing-to-spend-enough-on-military",
-          "angle": "UK Defense Secretary Resigns Over Military Spending Dispute",
-          "summary": "John Healey resigned as UK Defense Secretary, accusing the government of not committing sufficient resources to defend the country amid growing security threats. The resignation deals a significant blow to Prime Minister Keir Starmer's administration."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "US News"
-      ],
-      "urls": [
-        "https://www.usnews.com/news/business/articles/2026-06-11/uk-defense-secretary-quits-says-government-isnt-willing-to-spend-enough-on-military",
-        "https://www.usnews.com/news/business/articles/2026-06-11/uk-defense-secretary-quits-says-government-isnt-willing-to-spend-enough-on-military"
-      ]
     },
     {
       "headline": "Pakistan budget hits middle class to meet IMF targets amid Iran war pressure",
@@ -193,19 +284,19 @@
       "timestamp": "2026-06-11T15:03:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/thailand-erawan-shrine-bombing-2015-convicted-sentenced-6e1f0ab2f99b2b630df34aa79e1c29d2",
-          "angle": "Thai Court Sentences Two Uyghurs to Death for 2015 Shrine Bombing",
-          "summary": "A Thai court has sentenced two Uyghur men to death for the 2015 Erawan Shrine bombing in Bangkok that killed 20 people. The attack had targeted tourists in the popular Hindu shrine."
+          "source": "Channel News Asia",
+          "url": "https://www.channelnewsasia.com/asia/erawan-shrine-bangkok-bombing-2015-thailand-court-death-two-uyghur-men-6176041",
+          "angle": "Thai Court Sentences Two Uyghurs to Death for 2015 Bangkok Shrine Bombing",
+          "summary": "A Thai court handed death sentences to two ethnic Uyghur men for the 2015 Erawan Shrine bombing that killed 20 people. The attack was one of Thailand deadliest acts of violence."
         }
       ],
       "sources": [
         "Reuters",
-        "AP News"
+        "Channel News Asia"
       ],
       "urls": [
         "https://www.reuters.com/world/asia-pacific/thai-court-sentences-two-uyghur-men-death-2015-bangkok-bombing-2026-06-11/",
-        "https://apnews.com/article/thailand-erawan-shrine-bombing-2015-convicted-sentenced-6e1f0ab2f99b2b630df34aa79e1c29d2"
+        "https://www.channelnewsasia.com/asia/erawan-shrine-bangkok-bombing-2015-thailand-court-death-two-uyghur-men-6176041"
       ]
     },
     {
@@ -215,15 +306,6 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/italy-pm-calls-single-eu-voice-russia-talks-questions-smaller-formats-2026-06-11/",
-      "timestamp": "2026-06-11T15:03:00+03:00"
-    },
-    {
-      "headline": "Indonesia's rupiah slide raises deeper fiscal concerns despite emergency measures",
-      "summary": "Indonesia's emergency interest rate hike and efforts to support the rupiah have calmed markets temporarily, but economists warn investor confidence won't fully return without addressing deeper fiscal issues.",
-      "emoji": "🇮🇩",
-      "category": "Asia-Pacific",
-      "source": "Channel NewsAsia",
-      "url": "https://www.channelnewsasia.com/asia/indonesia-economy-rupiah-stock-exchange-6176131",
       "timestamp": "2026-06-11T15:03:00+03:00"
     },
     {
@@ -460,31 +542,6 @@
       ]
     },
     {
-      "headline": "Oil Prices Jump as Iran Closes Strait of Hormuz After US Strikes",
-      "summary": "Oil prices climbed more than $2 per barrel after Iran declared closure of the critical Strait of Hormuz waterway following US military strikes, though gains were later pared as traders assessed actual supply disruption impact.",
-      "emoji": "🛢️💰",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-rises-2-iran-announces-closure-strait-hormuz-following-us-strikes-2026-06-11/",
-      "timestamp": "2026-06-11T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Oil Price",
-          "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Spike-as-Iran-Declares-Strait-of-Hormuz-Closed.html",
-          "angle": "Oil Prices Spike as Iran Declares Strait of Hormuz Closed",
-          "summary": "Oil prices rose sharply after Iran claimed it had closed the Strait of Hormuz in response to fresh US military strikes, raising concerns about global energy supply disruptions."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Oil Price"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/oil-rises-2-iran-announces-closure-strait-hormuz-following-us-strikes-2026-06-11/",
-        "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Spike-as-Iran-Declares-Strait-of-Hormuz-Closed.html"
-      ]
-    },
-    {
       "headline": "Gulf Countries Say Iran Aggression Closes Door to Dialogue",
       "summary": "Gulf Arab states have condemned Irans recent attacks, stating that Tehrans aggression has effectively ended any prospect for diplomatic engagement in the near term.",
       "emoji": "🇦🇪",
@@ -553,15 +610,6 @@
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-06-11/uk-venture-plans-europe-s-largest-plant-for-capturing-co2-from-air",
       "timestamp": "2026-06-11T09:03:00+03:00"
-    },
-    {
-      "headline": "Ukraine Strikes Crimea in Large-Scale Attack Across Peninsula",
-      "summary": "Explosions reported across Russian-occupied Crimea as Ukraine launches apparent large-scale attack on the peninsula, targeting military infrastructure.",
-      "emoji": "🇺🇦💥",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/explosions-rock-crimea-amid-large-scale-attack-across-peninsula/",
-      "timestamp": "2026-06-11T08:06:00+03:00"
     },
     {
       "headline": "US Strikes Hit Iranian Drinking Water Facility Near Hormuz",
@@ -647,31 +695,6 @@
       "urls": [
         "https://www.reuters.com/world/middle-east/israeli-airstrikes-kill-13-south-lebanon-lebanese-sources-say-2026-06-10/",
         "https://www.reuters.com/world/middle-east/israeli-airstrikes-kill-13-south-lebanon-lebanese-sources-say-2026-06-10/"
-      ]
-    },
-    {
-      "headline": "Ukraine strikes Russian-occupied Mariupol port",
-      "summary": "Ukrainian forces struck the Russian-occupied port of Mariupol, Kyiv said on Wednesday, the latest in a series of drone attacks on logistics across a critical stretch of Moscow-held southern Ukraine connecting Russia to Crimea.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/ukraine-strikes-mariupol-port-significantly-limiting-its-use-2026-06-10/",
-      "timestamp": "2026-06-11T07:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/russia-ukraine-war-military-strikes-4a158f6273807683d48692dedb4121b8",
-          "angle": "Ukraine Launches Long-Range Strikes on Russian Military and Energy Sites",
-          "summary": "Ukrainian forces have conducted long-range strikes targeting military and energy infrastructure inside Russia, marking an escalation in the conflict."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/ukraine-strikes-mariupol-port-significantly-limiting-its-use-2026-06-10/",
-        "https://apnews.com/article/russia-ukraine-war-military-strikes-4a158f6273807683d48692dedb4121b8"
       ]
     },
     {
@@ -1610,39 +1633,6 @@
       ]
     },
     {
-      "headline": "Crimea faces fuel shortages as Ukrainian drones disrupt Russian supply routes",
-      "summary": "Residents in Russian-controlled Crimea are grappling with gasoline rationing after Ukrainian drone attacks constricted supplies from Russia, with one witness describing severe disruptions to logistics in the annexed peninsula.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/drones-hit-historic-museum-russia-annexed-crimea-officials-alter-train-schedule-2026-06-10/",
-      "timestamp": "2026-06-10T12:04:00+03:00",
-      "perspectives": [
-        {
-          "source": "Guardian",
-          "url": "https://www.theguardian.com/world/2026/jun/09/ukraine-war-briefing-russias-peskov-admits-certain-problems-with-fuel-supplies-after-energy-sites-targeted",
-          "angle": "Kremlin admits fuel supply problems after Ukrainian strikes on Russian energy sites",
-          "summary": "Kremlin spokesperson Dmitry Peskov acknowledged certain problems with fuel supplies in southern Russia after a surge in Ukrainian airstrikes on Russian energy and fuel infrastructure disrupted distribution."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/ukrainian-drone-kills-one-russia-annexed-crimea-moscow-installed-governor-says-2026-06-08/",
-          "angle": "Ukrainian drone strike kills one in Russian-annexed Crimea",
-          "summary": "A Ukrainian drone struck a train in Crimea, killing its assistant driver and injuring the driver, according to Russian-installed governor Sergei Aksyonov. The attack is part of ongoing Ukrainian strikes on Russian logistics."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Guardian",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/drones-hit-historic-museum-russia-annexed-crimea-officials-alter-train-schedule-2026-06-10/",
-        "https://www.theguardian.com/world/2026/jun/09/ukraine-war-briefing-russias-peskov-admits-certain-problems-with-fuel-supplies-after-energy-sites-targeted",
-        "https://www.reuters.com/world/ukrainian-drone-kills-one-russia-annexed-crimea-moscow-installed-governor-says-2026-06-08/"
-      ]
-    },
-    {
       "headline": "Bank of Japan to raise rates to 1.0% as inflation pressures mount",
       "summary": "The BOJ is set to raise its key interest rate this month and again in Q4, reaching 1.25% by year-end, as it becomes more wary of inflation risks from energy shocks and a weak yen.",
       "emoji": "🇯🇵",
@@ -2578,15 +2568,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/legal/litigation/us-lawmakers-urge-tighter-rules-contract-chipmakers-supplying-chinese-firms-2026-06-09/",
       "timestamp": "2026-06-09T18:05:00+03:00"
-    },
-    {
-      "headline": "UN Chief Guterres \"deeply alarmed\" by Middle East violence escalation",
-      "summary": "UN Secretary-General Antonio Guterres called for an end to violence in the Middle East, expressing deep alarm at renewed escalation between Israel and Iran as diplomatic efforts continue.",
-      "emoji": "🇺🇳",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/uns-guterres-calls-end-violence-middle-east-2026-06-09/",
-      "timestamp": "2026-06-09T17:03:00+03:00"
     }
   ]
 }
