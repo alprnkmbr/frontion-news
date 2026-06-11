@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-11T07:05:19+03:00",
+  "lastUpdated": "2026-06-11T08:05:46+03:00",
   "headlines": [
+    {
+      "headline": "US and Iran Trade Air Attacks for Second Day as Ceasefire Unravels",
+      "summary": "The United States and Iran exchanged air attacks for a second straight day, with President Trump vowing further strikes if Tehran does not immediately agree to a peace deal. The renewed fighting has cast fresh doubt over prospects for ending the conflict.",
+      "emoji": "⚔️",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-iran-trade-attacks-second-day-undermining-shaky-ceasefire-2026-06-11/",
+      "timestamp": "2026-06-11T08:00:00+03:00"
+    },
+    {
+      "headline": "Israeli Airstrikes Kill 13 in Southern Lebanon as Hezbollah Campaign Continues",
+      "summary": "Israeli airstrikes in southern Lebanon killed at least 13 people on Wednesday, Lebanese security sources said, as Israel pressed its campaign against Hezbollah. The Iran-backed group claimed fresh attacks against Israeli forces in the south.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israeli-airstrikes-kill-13-south-lebanon-lebanese-sources-say-2026-06-10/",
+      "timestamp": "2026-06-11T08:01:00+03:00"
+    },
+    {
+      "headline": "Saudi Arabia Lifts Five-Year Ban on Lebanese Imports in Support for Beirut Government",
+      "summary": "Saudi Arabia has lifted a roughly five-year ban on imports from Lebanon in a show of support for Beiruts embattled government, offering relief to businesses battered by years of conflict between Hezbollah and Israel.",
+      "emoji": "🇸🇦",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/saudi-crown-prince-orders-resumption-lebanese-exports-2026-06-10/",
+      "timestamp": "2026-06-11T08:02:00+03:00"
+    },
+    {
+      "headline": "US Becomes Worlds Top Oil Exporter, Upending Decades-Old Global Energy Order",
+      "summary": "The United States has become the worlds largest oil exporter, overtaking Saudi Arabia and Russia in a historic shift that tightens American companies grip on energy markets as Washingtons war with Iran reshapes global energy trade.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/once-an-arab-oil-embargo-victim-us-becomes-worlds-top-oil-exporter-2026-06-11/",
+      "timestamp": "2026-06-11T08:03:00+03:00"
+    },
+    {
+      "headline": "European Central Bank Set for Insurance Rate Hike as Iran War Fans Inflation",
+      "summary": "The European Central Bank is all but certain to raise interest rates on Thursday in the hope of nipping higher inflation in the bud before a surge in energy costs triggered by the Iran war spreads more broadly across the euro zone economy.",
+      "emoji": "🇪🇺",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/ecb-poised-insurance-hike-iran-war-fans-euro-zone-inflation-2026-06-10/",
+      "timestamp": "2026-06-11T08:04:00+03:00"
+    },
     {
       "headline": "Iran and US exchange fire as hostilities escalate across Gulf",
       "summary": "Iran retaliated against US strikes with attacks on Kuwait and Bahrain, while the US military announced it completed additional strikes on multiple Iranian targets. Bahrain activated missile warning sirens and Kuwait temporarily closed its airspace.",
@@ -35,7 +80,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/ukraine-strikes-mariupol-port-significantly-limiting-its-use-2026-06-10/",
-      "timestamp": "2026-06-11T07:03:00+03:00"
+      "timestamp": "2026-06-11T07:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/russian-held-sevastopol-suspends-fuel-distribution-zelenskiy-praises-attacks-2026-06-11/",
+          "angle": "Russian-held Sevastopol suspends fuel distribution after Ukraine strikes",
+          "summary": "The governor of Russian-occupied Sevastopol in Crimea delayed fuel distribution plans after Ukrainian drone attacks disrupted supply routes, the latest in Kyivs campaign targeting Russian logistics."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/ukraine-strikes-mariupol-port-significantly-limiting-its-use-2026-06-10/",
+        "https://www.reuters.com/world/russian-held-sevastopol-suspends-fuel-distribution-zelenskiy-praises-attacks-2026-06-11/"
+      ]
     },
     {
       "headline": "Iran threatens to target any ship in Strait of Hormuz",
@@ -44,7 +105,23 @@
       "category": "Middle East",
       "source": "France24",
       "url": "https://www.france24.com/en/middle-east/20260610-middle-east-live-iran-announces-closure-of-strait-of-hormuz-after-us-attacks",
-      "timestamp": "2026-06-11T07:03:00+03:00"
+      "timestamp": "2026-06-11T07:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/world/middle-east/us-military-says-carrying-out-self-defence-strikes-against-iran",
+          "angle": "Iran Announces Strait of Hormuz Closure After US Launches New Strikes",
+          "summary": "Iran's military declared the strategic Strait of Hormuz closed to all vessels and threatened to fire on any ships attempting transit, following fresh US military strikes on multiple Iranian targets."
+        }
+      ],
+      "sources": [
+        "France24",
+        "Straits Times"
+      ],
+      "urls": [
+        "https://www.france24.com/en/middle-east/20260610-middle-east-live-iran-announces-closure-of-strait-of-hormuz-after-us-attacks",
+        "https://www.straitstimes.com/world/middle-east/us-military-says-carrying-out-self-defence-strikes-against-iran"
+      ]
     },
     {
       "headline": "US consumer inflation vaults above 4% as Iran war drives energy prices",
@@ -69,31 +146,6 @@
       "urls": [
         "https://www.reuters.com/world/us/us-consumer-prices-increase-expected-may-2026-06-10/",
         "https://www.reuters.com/world/us/us-consumer-prices-increase-expected-may-2026-06-10/"
-      ]
-    },
-    {
-      "headline": "Russian-held Sevastopol suspends fuel distribution after Ukraine strikes",
-      "summary": "The governor of Russian-occupied Sevastopol in Crimea delayed fuel distribution plans after Ukrainian drone attacks disrupted supply routes, the latest in Kyivs campaign targeting Russian logistics.",
-      "emoji": "🇺🇦⛽",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/russian-held-sevastopol-suspends-fuel-distribution-zelenskiy-praises-attacks-2026-06-11/",
-      "timestamp": "2026-06-11T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/ukraine-strikes-mariupol-port-significantly-limiting-its-use-2026-06-10/",
-          "angle": "Ukraine strikes Russian-occupied Mariupol port, disrupting Crimean supply lines",
-          "summary": "Ukrainian forces hit the port of Mariupol in a drone attack, Kyiv said, the latest in a series of strikes targeting logistics connecting Russia to Crimea. The attack follows reports of fuel shortages in Crimea due to Ukrainian drone operations."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/russian-held-sevastopol-suspends-fuel-distribution-zelenskiy-praises-attacks-2026-06-11/",
-        "https://www.reuters.com/world/ukraine-strikes-mariupol-port-significantly-limiting-its-use-2026-06-10/"
       ]
     },
     {
@@ -245,31 +297,6 @@
       "source": "Nikkei Asia",
       "url": "https://asia.nikkei.com/spotlight/environment/climate-change/india-s-urban-boom-turns-its-cities-into-heat-traps",
       "timestamp": "2026-06-11T04:07:00+03:00"
-    },
-    {
-      "headline": "Iran Announces Strait of Hormuz Closure After US Launches New Strikes",
-      "summary": "Iran's military declared the strategic Strait of Hormuz closed to all vessels and threatened to fire on any ships attempting transit, following fresh US military strikes on multiple Iranian targets.",
-      "emoji": "🇮🇷",
-      "category": "Middle East",
-      "source": "Straits Times",
-      "url": "https://www.straitstimes.com/world/middle-east/us-military-says-carrying-out-self-defence-strikes-against-iran",
-      "timestamp": "2026-06-11T04:07:00+03:00",
-      "perspectives": [
-        {
-          "source": "Times of Israel",
-          "url": "https://www.timesofisrael.com/liveblog_entry/iran-declares-closure-of-hormuz-after-latest-us-strikes-threatens-to-attack-ships-in-the-strait/",
-          "angle": "Iran declares closure of Hormuz, threatens to attack ships in strait",
-          "summary": "Iran announced the closure of the strategic Strait of Hormuz after latest US strikes, threatening to attack any ships passing through the critical waterway."
-        }
-      ],
-      "sources": [
-        "Straits Times",
-        "Times of Israel"
-      ],
-      "urls": [
-        "https://www.straitstimes.com/world/middle-east/us-military-says-carrying-out-self-defence-strikes-against-iran",
-        "https://www.timesofisrael.com/liveblog_entry/iran-declares-closure-of-hormuz-after-latest-us-strikes-threatens-to-attack-ships-in-the-strait/"
-      ]
     },
     {
       "headline": "Bahrain sounds missile alert sirens as Iran vows retaliation for US strikes",
@@ -2778,49 +2805,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/north-korea-china-agree-expand-cooperation-various-sectors-north-koreas-state-2026-06-08/",
       "timestamp": "2026-06-09T10:03:00+03:00"
-    },
-    {
-      "headline": "US Army Apache Helicopter Crashes Near Strait of Hormuz, Crew Rescued",
-      "summary": "A US Army Apache gunship went down near the strategic Strait of Hormuz waterway. President Trump confirmed both pilots are safe, though the cause remains unclear amid ongoing tensions with Iran in the region.",
-      "emoji": "🚁",
-      "category": "Military",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/crew-rescued-after-us-helicopter-goes-down-near-strait-hormuz-nyt-reports-2026-06-09/",
-      "timestamp": "2026-06-09T09:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Arabiya",
-          "url": "https://english.alarabiya.net/News/united-states/2026/06/09/five-facts-on-sea-drones-after-us-helicopter-rescue",
-          "angle": "US Navy sea drones rescue downed helicopter crew in Strait of Hormuz",
-          "summary": "Task Force 59 drones rescue two Army helicopter pilots, spotlighting the Navy's unmanned capabilities in the strategic waterway amid Iran tensions."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Arabiya"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/crew-rescued-after-us-helicopter-goes-down-near-strait-hormuz-nyt-reports-2026-06-09/",
-        "https://english.alarabiya.net/News/united-states/2026/06/09/five-facts-on-sea-drones-after-us-helicopter-rescue"
-      ]
-    },
-    {
-      "headline": "Ebola Death Toll in DR Congo Climbs to 101",
-      "summary": "The Democratic Republic of Congo is fighting its 17th Ebola outbreak since the virus was first identified in 1976, with the death toll now exceeding 100 as health authorities struggle to contain the spread.",
-      "emoji": "🦠",
-      "category": "Africa",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/9/ebola-death-toll-in-dr-congo-climbs-to-101",
-      "timestamp": "2026-06-09T09:03:00+03:00"
-    },
-    {
-      "headline": "UN Urges Afghan Taliban to End Arrests of Women Over Dress Rules",
-      "summary": "The United Nations mission in Afghanistan expressed concern over the detention of women in a western province for allegedly failing to comply with dress requirements, urging Taliban authorities to treat all people equally.",
-      "emoji": "🇦🇫",
-      "category": "Asia",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/un-urges-afghan-taliban-end-arrests-women-over-dress-rules-2026-06-08/",
-      "timestamp": "2026-06-09T09:03:00+03:00"
     }
   ]
 }
