@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-06-12T04:08:54+03:00",
+  "lastUpdated": "2026-06-12T05:05:33+03:00",
   "headlines": [
     {
-      "headline": "Ukraine Drone Strikes Create Fuel Crisis in Russian-Held Crimea",
-      "summary": "Ukrainian drone attacks on refineries, depots and pipelines have triggered fuel shortages in Crimea, with tanker trucks set ablaze along the land corridor supplying the occupied peninsula.",
-      "emoji": "🇺🇦⛽",
-      "category": "Ukraine-Russia War",
-      "source": "The Hill",
-      "url": "https://thehill.com/homenews/ap/ap-international/ap-ukraine-hits-fuel-supplies-to-crimea-sparking-a-fuel-crisis-on-the-russian-held-peninsula/",
-      "timestamp": "2026-06-12T04:10:00+03:00"
+      "headline": "Trump Cancels Iran Strikes, Says Peace Deal Could Be Signed This Weekend",
+      "summary": "President Trump called off planned military strikes against Iran, announcing that a peace agreement has been \"approved\" and could be signed in Europe this weekend. The announcement follows days of escalating conflict between the US-Israel alliance and Iran.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "US-Iran War",
+      "source": "WSJ",
+      "url": "https://www.wsj.com/world/middle-east/trump-iran-strikes-peace-talks-38996e77",
+      "timestamp": "2026-06-12T05:03:00+03:00"
+    },
+    {
+      "headline": "European Countries Ramp Up Defense Spending Amid Rising Russia Threat",
+      "summary": "Twenty-two of NATO's 29 European members have now increased defense budgets above the 2% GDP threshold, responding to growing security concerns from Russia's war in Ukraine and uncertainty over US commitment to the alliance.",
+      "emoji": "🇪🇺⚔️",
+      "category": "Europe",
+      "source": "Xinhua",
+      "url": "https://english.news.cn/20260612/9dbdf7a0ff5d4355a5ca81f152b1b44c/c.html",
+      "timestamp": "2026-06-12T05:03:00+03:00"
+    },
+    {
+      "headline": "Germany Army Chief Warns: \"We Must Be Ready to Fight\" Against Russia",
+      "summary": "German Army chief Christian Freuding issued a stark warning that Germany must be prepared for armed conflict, citing the growing Russian threat. The statement comes as European nations scramble to strengthen military capabilities.",
+      "emoji": "🇩🇪🪖",
+      "category": "Defense Industry",
+      "source": "Politico",
+      "url": "https://www.politico.eu/article/we-must-be-ready-to-fight-germany-army-chief-christian-freuding-warns-of-rising-russia-threat/",
+      "timestamp": "2026-06-12T05:03:00+03:00"
+    },
+    {
+      "headline": "At Least 15 Dead in Deadly Clashes in Pakistan-Administered Kashmir",
+      "summary": "Violent clashes in Pakistan-administered Kashmir have left at least 15 people dead, marking a significant escalation in regional tensions. The unrest adds to ongoing security challenges in South Asia.",
+      "emoji": "🇵🇰",
+      "category": "South Asia",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cdxdyn5716xo",
+      "timestamp": "2026-06-12T05:03:00+03:00"
+    },
+    {
+      "headline": "China Bars Philippine Defense Chief From Entry Over South China Sea Dispute",
+      "summary": "China imposed an entry ban on Philippine Defense Secretary Gilbert Teodoro amid ongoing tensions in the South China Sea. Manila has urged Beijing to remove a \"movable platform\" at a disputed shoal as confrontations continue.",
+      "emoji": "🇨🇳🇵🇭",
+      "category": "South Asia",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/11/china-bars-philippines-defence-chief-as-south-china-sea-spat-sails-onwards",
+      "timestamp": "2026-06-12T05:03:00+03:00"
     },
     {
       "headline": "Russia Expands Military Infrastructure Near NATO Border",
@@ -17,7 +53,23 @@
       "category": "Europe",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/russia-has-increased-military-buildup-near-nato-border-investigation-reveals/",
-      "timestamp": "2026-06-12T04:10:00+03:00"
+      "timestamp": "2026-06-12T04:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "France 24",
+          "url": "https://www.france24.com/en/tv-shows/press-review/20260611-russia-ramps-up-military-infrastructure-along-finnish-and-norwegian-borders",
+          "angle": "Russia Expands Military Infrastructure Near Finnish and Norwegian Borders",
+          "summary": "Russia is ramping up military infrastructure along its borders with Finland and Norway, signaling increased tensions in the Arctic region following NATO expansion."
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "France 24"
+      ],
+      "urls": [
+        "https://kyivindependent.com/russia-has-increased-military-buildup-near-nato-border-investigation-reveals/",
+        "https://www.france24.com/en/tv-shows/press-review/20260611-russia-ramps-up-military-infrastructure-along-finnish-and-norwegian-borders"
+      ]
     },
     {
       "headline": "Slovenia Lifts Netanyahu Entry Ban Under New Government",
@@ -612,6 +664,39 @@
       "timestamp": "2026-06-11T20:03:00+03:00"
     },
     {
+      "headline": "Ukraine's Drone Commander Plans to Cut Crimea Off From Russia",
+      "summary": "Ukraine's drone forces commander is mapping out a campaign to sever Crimea's connection to Russia using extensive battlefield data, targeting supply routes that have already left Crimean fuel stations dry.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/ukraines-drone-commander-wants-cut-crimea-off-russia-2026-06-11/",
+      "timestamp": "2026-06-11T19:08:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Hill",
+          "url": "https://thehill.com/homenews/ap/ap-international/ap-ukraine-hits-fuel-supplies-to-crimea-sparking-a-fuel-crisis-on-the-russian-held-peninsula/",
+          "angle": "Ukraine Drone Strikes Create Fuel Crisis in Russian-Held Crimea",
+          "summary": "Ukrainian drone attacks on refineries, depots and pipelines have triggered fuel shortages in Crimea, with tanker trucks set ablaze along the land corridor supplying the occupied peninsula."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/russian-held-sevastopol-suspends-fuel-distribution-zelenskiy-praises-attacks-2026-06-11/",
+          "angle": "Fuel runs dry in Russian-held Crimea as Ukraine strikes supply routes",
+          "summary": "Petrol stations in Russian-occupied Sevastopol have run dry after Ukraine stepped up drone attacks on supply routes, forcing authorities to delay rationed fuel distribution to residents."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "The Hill",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/ukraines-drone-commander-wants-cut-crimea-off-russia-2026-06-11/",
+        "https://thehill.com/homenews/ap/ap-international/ap-ukraine-hits-fuel-supplies-to-crimea-sparking-a-fuel-crisis-on-the-russian-held-peninsula/",
+        "https://www.reuters.com/world/russian-held-sevastopol-suspends-fuel-distribution-zelenskiy-praises-attacks-2026-06-11/"
+      ]
+    },
+    {
       "headline": "Trump Threatens to Seize Iranian Oil Export Hub Kharg Island",
       "summary": "President Trump warned the U.S. would strike Iran \"very hard\" and expressed intent to take control of Kharg Island, Iran's key oil export terminal, as the U.S.-Iran conflict reignites following a shaky ceasefire.",
       "emoji": "🇮🇷",
@@ -671,31 +756,6 @@
       ]
     },
     {
-      "headline": "Ukraine's Drone Commander Plans to Cut Crimea Off From Russia",
-      "summary": "Ukraine's drone forces commander is mapping out a campaign to sever Crimea's connection to Russia using extensive battlefield data, targeting supply routes that have already left Crimean fuel stations dry.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/ukraines-drone-commander-wants-cut-crimea-off-russia-2026-06-11/",
-      "timestamp": "2026-06-11T19:08:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Post",
-          "url": "https://www.kyivpost.com/post/77984",
-          "angle": "Ukraine Gains Edge in FPV Drone Warfare Against Russia",
-          "summary": "Ukraine is outproducing and deploying FPV drones at a 1.5 to 1 ratio compared to Russia, according to Ukrainian military officials. The development marks a shift in the drone war as Kyiv adapts to evolving battlefield needs."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Kyiv Post"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/europe/ukraines-drone-commander-wants-cut-crimea-off-russia-2026-06-11/",
-        "https://www.kyivpost.com/post/77984"
-      ]
-    },
-    {
       "headline": "Turkey Mediates Between US and Iran as Conflict Reignites",
       "summary": "Turkish Foreign Minister Hakan Fidan advised the US and Iran to stop the reignited conflict during diplomatic discussions. The meeting also addressed Black Sea security and EU relations as regional tensions escalate.",
       "emoji": "🇹🇷",
@@ -727,31 +787,6 @@
       "urls": [
         "https://www.straitstimes.com/opinion/indonesias-weakening-markets-and-economy-have-a-personality-problem-prabowos",
         "https://www.channelnewsasia.com/asia/indonesia-economy-rupiah-stock-exchange-6176131"
-      ]
-    },
-    {
-      "headline": "Fuel runs dry in Russian-held Crimea as Ukraine strikes supply routes",
-      "summary": "Petrol stations in Russian-occupied Sevastopol have run dry after Ukraine stepped up drone attacks on supply routes, forcing authorities to delay rationed fuel distribution to residents.",
-      "emoji": "⛽",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/russian-held-sevastopol-suspends-fuel-distribution-zelenskiy-praises-attacks-2026-06-11/",
-      "timestamp": "2026-06-11T18:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Independent",
-          "url": "https://kyivindependent.com/ukraine-confirms-strike-on-crimeas-armiansk-bridge-that-hit-50-russian-military-vehicles/",
-          "angle": "Ukraine Confirms Strike on Crimea Bridge Hit 50 Russian Vehicles",
-          "summary": "The Da Vinci Regiment confirmed a strike on Armiansk bridge in Crimea that destroyed 50 Russian military vehicles and put the crossing out of commission."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Kyiv Independent"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/russian-held-sevastopol-suspends-fuel-distribution-zelenskiy-praises-attacks-2026-06-11/",
-        "https://kyivindependent.com/ukraine-confirms-strike-on-crimeas-armiansk-bridge-that-hit-50-russian-military-vehicles/"
       ]
     },
     {
@@ -1011,15 +1046,6 @@
       "category": "Economy",
       "source": "Nikkei Asia",
       "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/turkey-halts-byd-tax-break-warns-of-clawback-if-it-misses-1bn-plan",
-      "timestamp": "2026-06-11T12:05:00+03:00"
-    },
-    {
-      "headline": "Russia Expands Military Infrastructure Near Finnish and Norwegian Borders",
-      "summary": "Russia is ramping up military infrastructure along its borders with Finland and Norway, signaling increased tensions in the Arctic region following NATO expansion.",
-      "emoji": "🇷🇺",
-      "category": "Europe",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/tv-shows/press-review/20260611-russia-ramps-up-military-infrastructure-along-finnish-and-norwegian-borders",
       "timestamp": "2026-06-11T12:05:00+03:00"
     },
     {
@@ -2594,24 +2620,6 @@
       "category": "US-Iran War",
       "source": "CBS News",
       "url": "https://www.cbsnews.com/live-updates/iran-war-trump-peace-deal-israel/",
-      "timestamp": "2026-06-10T03:03:00+03:00"
-    },
-    {
-      "headline": "Congress Backs Iran War Powers Resolutions for First Time",
-      "summary": "For the first time since the Iran war began, the Republican-led Congress has backed resolutions that could block Trump from continuing hostilities, reflecting growing concern within his party about the three-month conflict.",
-      "emoji": "🏛️",
-      "category": "US Politics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/us/congress-has-backed-iran-war-powers-resolutions-now-what-2026-06-09/",
-      "timestamp": "2026-06-10T03:03:00+03:00"
-    },
-    {
-      "headline": "Taiwan Considers Stricter AI Chip Export Controls to Align With US",
-      "summary": "Taiwan authorities are considering tighter export controls on AI chip sales to China to further align with US restrictions, amid growing technology competition between Washington and Beijing.",
-      "emoji": "🇹🇼",
-      "category": "US-China",
-      "source": "Japan Times",
-      "url": "https://www.japantimes.co.jp/news/2026/06/10/asia-pacific/politics/taiwan-ai-chip-sales-china-us/",
       "timestamp": "2026-06-10T03:03:00+03:00"
     }
   ]
