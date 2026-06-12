@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-12T06:07:11+03:00",
+  "lastUpdated": "2026-06-12T07:09:36+03:00",
   "headlines": [
+    {
+      "headline": "Thai Princess Bajrakitiyabha Dies at 47 After Years in Coma",
+      "summary": "Thailand's Princess Bajrakitiyabha Mahidol, the eldest daughter of King Maha Vajiralongkorn, has died at age 47 after more than three years in a coma. The royal household announced her death on June 12, marking a significant moment for the Thai royal succession.",
+      "emoji": "🇹🇭",
+      "category": "Asia-Pacific",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/cvgzzndx780o",
+      "timestamp": "2026-06-12T07:07:00+03:00"
+    },
+    {
+      "headline": "Ukraine War Has Lasted Longer Than World War I",
+      "summary": "The war in Ukraine has now exceeded the duration of World War I, with parallels emerging between the grinding nature of both conflicts and the way new technologies have reshaped warfare. The milestone underscores the protracted nature of the conflict.",
+      "emoji": "⚔️",
+      "category": "Ukraine-Russia War",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
+      "timestamp": "2026-06-12T07:07:00+03:00"
+    },
+    {
+      "headline": "South Korea's Ex-President Yoon Sentenced to 30 Years for Drone Flights Over Pyongyang",
+      "summary": "Former South Korean President Yoon Suk Yeol has been sentenced to 30 years in prison for ordering military drone flights over North Korea. The court ruled the operation was designed to provoke Pyongyang and create a pretext for martial law.",
+      "emoji": "🇰🇷",
+      "category": "Asia-Pacific",
+      "source": "AP News",
+      "url": "https://apnews.com/article/south-korea-yoon-drones-pyongyang-a33f2207010d64b83a30e97e2f6a8a51",
+      "timestamp": "2026-06-12T07:07:00+03:00"
+    },
+    {
+      "headline": "US and Iran Haggle Over Frozen Funds as Interim Deal Nears",
+      "summary": "Iran and the United States are discussing how to release frozen Iranian funds as both sides work toward an interim deal to end hostilities. Despite ongoing military strikes from both sides, diplomatic efforts have intensified.",
+      "emoji": "🇮🇷🇺🇸",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/iran-seeks-funds-us-talks-edge-interim-deal-sources-say-2026-06-11/",
+      "timestamp": "2026-06-12T07:07:00+03:00"
+    },
+    {
+      "headline": "China Sanctions Philippine Defense Secretary Over South China Sea Remarks",
+      "summary": "China's foreign ministry announced sanctions against Philippine Defense Secretary Gilberto Teodoro and his close relatives, accusing him of making \"erroneous remarks\" that undermined China's legitimate interests and bilateral ties.",
+      "emoji": "🇨🇳🇵🇭",
+      "category": "South China Sea",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/china-sanctions-philippine-defence-secretary-over-erroneous-remarks-2026-06-11/",
+      "timestamp": "2026-06-12T07:07:00+03:00"
+    },
     {
       "headline": "German Army Chief Warns Russia Will Be Ready to Attack NATO by 2029",
       "summary": "German army chief Christian Freuding stated Russia will be prepared to attack NATO by 2029, calling it \"NATO-agreed intelligence\" and the latest in a series of warnings about Russian threat and Europe lack of preparedness.",
@@ -44,16 +89,23 @@
       "category": "South Asia",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cdxdyn5716xo",
-      "timestamp": "2026-06-12T06:05:00+03:00"
-    },
-    {
-      "headline": "China bars Philippines defense chief from entry over South China Sea remarks",
-      "summary": "Beijing has banned Philippine Defense Secretary Gilberto Teodoro and his family from entering China, including Hong Kong and Macau, citing his criticism of Chinese claims in the disputed South China Sea.",
-      "emoji": "🇨🇳🇵🇭",
-      "category": "Asia-Pacific",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/11/china-bars-philippines-defence-chief-as-south-china-sea-spat-sails-onwards",
-      "timestamp": "2026-06-12T06:05:00+03:00"
+      "timestamp": "2026-06-12T06:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cdxdyn5716xo",
+          "angle": "At Least 15 Dead in Deadly Clashes in Pakistan-Administered Kashmir",
+          "summary": "Violent clashes in Pakistan-administered Kashmir have left at least 15 people dead, marking a significant escalation in regional tensions. The unrest adds to ongoing security challenges in South Asia."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/cdxdyn5716xo",
+        "https://www.bbc.com/news/articles/cdxdyn5716xo"
+      ]
     },
     {
       "headline": "Russia expanding military buildup near NATO border, investigation reveals",
@@ -62,7 +114,23 @@
       "category": "Europe",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/russia-has-increased-military-buildup-near-nato-border-investigation-reveals/",
-      "timestamp": "2026-06-12T06:05:00+03:00"
+      "timestamp": "2026-06-12T06:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russia-has-increased-military-buildup-near-nato-border-investigation-reveals/",
+          "angle": "Russia Expands Military Infrastructure Near NATO Border",
+          "summary": "An investigation reveals Russia has expanded military infrastructure near its border with NATO members and is preparing for potential conflict across all domains—land, air, sea, space, and cyber."
+        }
+      ],
+      "sources": [
+        "Kyiv Independent",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://kyivindependent.com/russia-has-increased-military-buildup-near-nato-border-investigation-reveals/",
+        "https://kyivindependent.com/russia-has-increased-military-buildup-near-nato-border-investigation-reveals/"
+      ]
     },
     {
       "headline": "European Countries Ramp Up Defense Spending Amid Rising Russia Threat",
@@ -83,15 +151,6 @@
       "timestamp": "2026-06-12T05:03:00+03:00"
     },
     {
-      "headline": "At Least 15 Dead in Deadly Clashes in Pakistan-Administered Kashmir",
-      "summary": "Violent clashes in Pakistan-administered Kashmir have left at least 15 people dead, marking a significant escalation in regional tensions. The unrest adds to ongoing security challenges in South Asia.",
-      "emoji": "🇵🇰",
-      "category": "South Asia",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cdxdyn5716xo",
-      "timestamp": "2026-06-12T05:03:00+03:00"
-    },
-    {
       "headline": "China Bars Philippine Defense Chief From Entry Over South China Sea Dispute",
       "summary": "China imposed an entry ban on Philippine Defense Secretary Gilbert Teodoro amid ongoing tensions in the South China Sea. Manila has urged Beijing to remove a \"movable platform\" at a disputed shoal as confrontations continue.",
       "emoji": "🇨🇳🇵🇭",
@@ -99,31 +158,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/11/china-bars-philippines-defence-chief-as-south-china-sea-spat-sails-onwards",
       "timestamp": "2026-06-12T05:03:00+03:00"
-    },
-    {
-      "headline": "Russia Expands Military Infrastructure Near NATO Border",
-      "summary": "An investigation reveals Russia has expanded military infrastructure near its border with NATO members and is preparing for potential conflict across all domains—land, air, sea, space, and cyber.",
-      "emoji": "🇷🇺⚔️",
-      "category": "Europe",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russia-has-increased-military-buildup-near-nato-border-investigation-reveals/",
-      "timestamp": "2026-06-12T04:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "France 24",
-          "url": "https://www.france24.com/en/tv-shows/press-review/20260611-russia-ramps-up-military-infrastructure-along-finnish-and-norwegian-borders",
-          "angle": "Russia Expands Military Infrastructure Near Finnish and Norwegian Borders",
-          "summary": "Russia is ramping up military infrastructure along its borders with Finland and Norway, signaling increased tensions in the Arctic region following NATO expansion."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "France 24"
-      ],
-      "urls": [
-        "https://kyivindependent.com/russia-has-increased-military-buildup-near-nato-border-investigation-reveals/",
-        "https://www.france24.com/en/tv-shows/press-review/20260611-russia-ramps-up-military-infrastructure-along-finnish-and-norwegian-borders"
-      ]
     },
     {
       "headline": "Slovenia Lifts Netanyahu Entry Ban Under New Government",
@@ -295,19 +329,19 @@
       "timestamp": "2026-06-12T02:00:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/china-bans-philippines-defense-minister-entry-7a8a6f515acdf7b1f6b3d688d9bcc6f8",
-          "angle": "China bans Philippines defense chief over South China Sea comments",
-          "summary": "Beijing has banned Philippines Defense Secretary Gilberto Teodoro and his family from entering China over his statements calling China's South China Sea claims a \"fiction and lie\" and criticizing President Xi Jinping's leadership."
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/11/china-bars-philippines-defence-chief-as-south-china-sea-spat-sails-onwards",
+          "angle": "China bars Philippines defense chief from entry over South China Sea remarks",
+          "summary": "Beijing has banned Philippine Defense Secretary Gilberto Teodoro and his family from entering China, including Hong Kong and Macau, citing his criticism of Chinese claims in the disputed South China Sea."
         }
       ],
       "sources": [
         "Reuters",
-        "AP News"
+        "Al Jazeera"
       ],
       "urls": [
         "https://www.reuters.com/world/china/china-sanctions-philippine-defence-secretary-over-erroneous-remarks-2026-06-11/",
-        "https://apnews.com/article/china-bans-philippines-defense-minister-entry-7a8a6f515acdf7b1f6b3d688d9bcc6f8"
+        "https://www.aljazeera.com/news/2026/6/11/china-bars-philippines-defence-chief-as-south-china-sea-spat-sails-onwards"
       ]
     },
     {
@@ -2571,58 +2605,6 @@
         "https://www.reuters.com/business/finance/peru-race-tightens-again-markets-rise-overseas-ballots-pour-2026-06-09/",
         "https://www.reuters.com/world/americas/peru-votes-tight-presidential-run-off-test-latin-americas-rightward-shift-2026-06-07/"
       ]
-    },
-    {
-      "headline": "US trade deficit narrows as petroleum exports hit record high",
-      "summary": "The US trade deficit narrowed in April as petroleum product exports reached record levels. If sustained, trade could contribute to economic growth in the second quarter despite global tensions.",
-      "emoji": "🇺🇸",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/markets/us/us-trade-deficit-narrows-april-amid-surging-exports-2026-06-09/",
-      "timestamp": "2026-06-10T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/markets/us/us-trade-deficit-narrows-april-amid-surging-exports-2026-06-09/",
-          "angle": "US Trade Deficit Narrows as Exports Hit Record High in April",
-          "summary": "The US trade deficit shrank in April as exports surged to unprecedented levels, bolstered by energy shipments and potentially contributing to quarterly economic growth."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/markets/us/us-trade-deficit-narrows-april-amid-surging-exports-2026-06-09/",
-        "https://www.reuters.com/markets/us/us-trade-deficit-narrows-april-amid-surging-exports-2026-06-09/"
-      ]
-    },
-    {
-      "headline": "Germany Pledges €300M to Czech Ammunition Initiative for Ukraine",
-      "summary": "Germany will contribute an additional 300 million euros to the Czech ammunition initiative, approximately 50,000 rounds of artillery shells, as Ukraine continues to face ammunition shortages on the frontlines.",
-      "emoji": "🇩🇪🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/germany-pledges-300-million-euros-to-czech-ammo-initiative/",
-      "timestamp": "2026-06-10T04:06:00+03:00"
-    },
-    {
-      "headline": "South Korea and US Align on Nuclear-Powered Submarine Development",
-      "summary": "Seoul and Washington share the view that domestically built nuclear-powered submarines would strengthen South Korea's defense capabilities amid regional tensions.",
-      "emoji": "🇰🇷🇺🇸🚢",
-      "category": "Defense Industry",
-      "source": "UPI",
-      "url": "https://www.upi.com/Top_News/World-News/2026/06/09/us-nuclear-powered-submarine/4971781052674/",
-      "timestamp": "2026-06-10T04:06:00+03:00"
-    },
-    {
-      "headline": "US Congress Approves $70 Billion Bill for Trump Immigration Crackdown",
-      "summary": "The US Congress passed a $70 billion funding bill for President Trump's immigration agenda, significantly expanding enforcement capabilities.",
-      "emoji": "🇺🇸🏛️",
-      "category": "US Politics",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/americas/20260610-us-congress-approves-70-billion-trump-immigration-crackdown",
-      "timestamp": "2026-06-10T04:06:00+03:00"
     }
   ]
 }
