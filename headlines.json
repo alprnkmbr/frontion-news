@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-12T23:05:24+03:00",
+  "lastUpdated": "2026-06-13T00:05:50+03:00",
   "headlines": [
+    {
+      "headline": "Pakistan PM confirms US-Iran peace deal text agreed",
+      "summary": "Pakistan Prime Minister Shehbaz Sharif announced that the final text of a US-Iran peace deal has been agreed, potentially ending the three-month conflict. Negotiators are now working on implementation steps.",
+      "emoji": "🇵🇰🇺🇸🇮🇷",
+      "category": "Diplomacy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-12-june-2026-7085e386e1c40ee6cfe634210970143f",
+      "timestamp": "2026-06-13T00:03:00+03:00"
+    },
+    {
+      "headline": "SpaceX soars 28% in record  trillion IPO debut",
+      "summary": "Elon Musk's SpaceX made history with the largest IPO ever, raising $75 billion and reaching a $2.25 trillion valuation. Musk becomes the world's first trillionaire as shares opened at $135 and surged on Nasdaq.",
+      "emoji": "🚀💰📈",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/transactional/view-spacex-opens-trading-150-after-record-busting-ipo-2026-06-12/",
+      "timestamp": "2026-06-13T00:03:00+03:00"
+    },
+    {
+      "headline": "UK economy contracts 0.1% in April as Iran war hits entertainment sector",
+      "summary": "Britain's economy shrank for the first time since August, with the Iran war's cancellation of Formula 1 races and Gulf sporting events delivering a significant blow to the UK entertainment industry.",
+      "emoji": "🇬🇧📉💷",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/uk/uk-economy-contracted-by-01-april-says-ons-2026-06-12/",
+      "timestamp": "2026-06-13T00:03:00+03:00"
+    },
+    {
+      "headline": "US pledges  million to combat Ebola outbreak in Africa",
+      "summary": "The US State Department announced $50 million in funding for the Coalition for Epidemic Preparedness Innovations to develop medical countermeasures for the rare Ebola strain spreading in the Democratic Republic of Congo.",
+      "emoji": "🇺🇸🦠🏥",
+      "category": "Africa",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/us-provide-50-mln-funding-counter-ebola-outbreak-2026-06-12/",
+      "timestamp": "2026-06-13T00:03:00+03:00"
+    },
+    {
+      "headline": "Russia builds major troop infrastructure along NATO's Arctic flank",
+      "summary": "Russia is constructing facilities for tens of thousands of troops near NATO's northern border, prompting the alliance to bolster its Arctic defenses with new combat capabilities.",
+      "emoji": "🇷🇺❄️⚔️",
+      "category": "Arctic",
+      "source": "Yahoo News",
+      "url": "https://www.yahoo.com/news/world/articles/russia-building-infrastructure-major-troop-194716519.html",
+      "timestamp": "2026-06-13T00:03:00+03:00"
+    },
     {
       "headline": "Violence erupts at DRC rally opposing presidential term-limit change",
       "summary": "Security forces clashed with demonstrators in Kinshasa protesting proposed constitutional amendments that could extend President Tshisekedi's rule, amid rising tensions over democratic backsliding.",
@@ -35,16 +80,23 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/pope-leo-warns-europes-migrant-traffickers-repent-or-face-hell-2026-06-12/",
-      "timestamp": "2026-06-12T23:03:00+03:00"
-    },
-    {
-      "headline": "US and Iran signal peace deal close despite Trump's 'dishonorable' accusation",
-      "summary": "Both sides confirm a ceasefire agreement is near, though tensions remain over leaked deal terms. Pakistan announced a finalized text, while Iran's foreign minister said a deal \"has never been closer.\"",
-      "emoji": "🤝",
-      "category": "US-Iran War",
-      "source": "France24",
-      "url": "https://www.france24.com/en/middle-east/20260612-iran-says-deal-with-us-closer-than-ever-as-trump-lashes-out",
-      "timestamp": "2026-06-12T23:03:00+03:00"
+      "timestamp": "2026-06-12T23:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/pope-leo-heads-canary-islands-mission-help-migrants-2026-06-11/",
+          "angle": "Pope Leo Heads to Canary Islands to Highlight Migrant Crisis",
+          "summary": "Pope Leo traveled to the Canary Islands to meet migrants who have braved dangerous Atlantic crossings, urging more humane treatment of immigrants as the Mediterranean route faces record arrivals."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/pope-leo-warns-europes-migrant-traffickers-repent-or-face-hell-2026-06-12/",
+        "https://www.reuters.com/world/pope-leo-heads-canary-islands-mission-help-migrants-2026-06-11/"
+      ]
     },
     {
       "headline": "Ukraine launches sweeping military service reforms with record pay raises to ease manpower crisis",
@@ -63,6 +115,39 @@
       "source": "Nikkei Asia",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/factories-in-myanmar-struggle-to-cope-with-import-controls",
       "timestamp": "2026-06-12T22:06:00+03:00"
+    },
+    {
+      "headline": "Pakistan PM confirms US-Iran peace deal text finalized",
+      "summary": "Prime Minister Shehbaz Sharif announced that Washington and Tehran have reached a final agreed text for a peace deal, with both sides working on next steps toward implementation.",
+      "emoji": "🇵🇰",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/pakistan-pm-sharif-says-x-post-that-final-text-us-iran-peace-deal-agreed-working-2026-06-12/",
+      "timestamp": "2026-06-12T22:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "France24",
+          "url": "https://www.france24.com/en/middle-east/20260612-iran-says-deal-with-us-closer-than-ever-as-trump-lashes-out",
+          "angle": "US and Iran signal peace deal close despite Trump's 'dishonorable' accusation",
+          "summary": "Both sides confirm a ceasefire agreement is near, though tensions remain over leaked deal terms. Pakistan announced a finalized text, while Iran's foreign minister said a deal \"has never been closer.\""
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/trump-says-irans-leaked-deal-terms-are-untrue-2026-06-12/",
+          "angle": "Trump Denies Making Major Concessions to Iran, Says Leaked Deal Terms Are Untrue",
+          "summary": "President Trump pushed back against reports that the US had made significant concessions to Iran in peace negotiations, with a senior official calling any emerging pact performance-based with Tehran receiving no frozen assets until it fulfills its commitments."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "France24",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/pakistan-pm-sharif-says-x-post-that-final-text-us-iran-peace-deal-agreed-working-2026-06-12/",
+        "https://www.france24.com/en/middle-east/20260612-iran-says-deal-with-us-closer-than-ever-as-trump-lashes-out",
+        "https://www.reuters.com/world/middle-east/trump-says-irans-leaked-deal-terms-are-untrue-2026-06-12/"
+      ]
     },
     {
       "headline": "Ukraine and Russia trade drone strikes on energy infrastructure",
@@ -96,15 +181,6 @@
         "https://kyivindependent.com/ukraine-war-latest-sweeping-new-reforms-to-terms-of-service-announced-in-effort-to-ease-manpower-crisis/",
         "https://www.reuters.com/world/europe/two-killed-10-injured-ukraine-attack-russias-border-bryansk-region-governor-says-2026-06-12/"
       ]
-    },
-    {
-      "headline": "Pakistan PM confirms US-Iran peace deal text finalized",
-      "summary": "Prime Minister Shehbaz Sharif announced that Washington and Tehran have reached a final agreed text for a peace deal, with both sides working on next steps toward implementation.",
-      "emoji": "🇵🇰",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/pakistan-pm-sharif-says-x-post-that-final-text-us-iran-peace-deal-agreed-working-2026-06-12/",
-      "timestamp": "2026-06-12T22:03:00+03:00"
     },
     {
       "headline": "Pope Leo XIV concludes Spain visit amid Catholic revival hopes",
@@ -345,39 +421,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-says-2026-06-12/",
       "timestamp": "2026-06-12T19:08:00+03:00"
-    },
-    {
-      "headline": "Trump Denies Making Major Concessions to Iran, Says Leaked Deal Terms Are Untrue",
-      "summary": "President Trump pushed back against reports that the US had made significant concessions to Iran in peace negotiations, with a senior official calling any emerging pact performance-based with Tehran receiving no frozen assets until it fulfills its commitments.",
-      "emoji": "🇺🇸",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/trump-says-irans-leaked-deal-terms-are-untrue-2026-06-12/",
-      "timestamp": "2026-06-12T18:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/trump-iran-deal-g7-537299c0944acf9c4d20f3f25473b6a2",
-          "angle": "Trump raising expectations that this time he really will close deal with Iran",
-          "summary": "President Donald Trump is anticipating a significant weekend for his presidency, with the World Cup returning to the U.S. and potential progress on an Iran peace deal that could wind down the conflict in the Middle East."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/trump-says-iran-war-deal-close-strait-hormuz-tensions-linger-2026-06-12/",
-          "angle": "Iran war deal close as Strait of Hormuz tensions linger",
-          "summary": "Hopes for peace grew after Trump said a deal could be signed this weekend, though Tehran said no final decision has been made on a pact. The strategic Strait of Hormuz remains a key sticking point in negotiations."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/trump-says-irans-leaked-deal-terms-are-untrue-2026-06-12/",
-        "https://apnews.com/article/trump-iran-deal-g7-537299c0944acf9c4d20f3f25473b6a2",
-        "https://www.reuters.com/world/middle-east/trump-says-iran-war-deal-close-strait-hormuz-tensions-linger-2026-06-12/"
-      ]
     },
     {
       "headline": "Ukraine Air Force Warns of High-Probability Russian Missile Launch",
@@ -2087,31 +2130,6 @@
       "timestamp": "2026-06-11T12:03:00+03:00"
     },
     {
-      "headline": "Pope Leo Heads to Canary Islands to Highlight Migrant Crisis",
-      "summary": "Pope Leo traveled to the Canary Islands to meet migrants who have braved dangerous Atlantic crossings, urging more humane treatment of immigrants as the Mediterranean route faces record arrivals.",
-      "emoji": "⛪🚢",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/pope-leo-heads-canary-islands-mission-help-migrants-2026-06-11/",
-      "timestamp": "2026-06-11T11:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cn59w6p3vd0o",
-          "angle": "Pope Leo visits Canary Islands to highlight perilous migrant journeys",
-          "summary": "Pope Leo traveled to Spain's Canary Islands, a major migration hotspot, warning that history will condemn leaders who ignore migrant deaths and calling for humane treatment of those fleeing war and poverty."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "BBC"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/pope-leo-heads-canary-islands-mission-help-migrants-2026-06-11/",
-        "https://www.bbc.com/news/articles/cn59w6p3vd0o"
-      ]
-    },
-    {
       "headline": "Gulf Countries Say Iran Aggression Closes Door to Dialogue",
       "summary": "Gulf Arab states have condemned Irans recent attacks, stating that Tehrans aggression has effectively ended any prospect for diplomatic engagement in the near term.",
       "emoji": "🇦🇪",
@@ -2643,24 +2661,6 @@
         "https://www.reuters.com/world/asia-pacific/boj-says-governor-ueda-has-been-hospitalised-2026-06-10/",
         "https://www.reuters.com/world/asia-pacific/boj-says-governor-ueda-has-been-hospitalised-2026-06-10/"
       ]
-    },
-    {
-      "headline": "Israel Kills 16 in Lebanon as UN Announces International Law Probe",
-      "summary": "Israeli airstrikes in southern Lebanon killed at least 16 people as UN investigators announced they will arrive next week to assess potential violations of international law by all parties in the escalating conflict.",
-      "emoji": "🇮🇱🇱🇧",
-      "category": "Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/10/israel-kills-16-in-lebanon-un-to-probe-international-law-violations",
-      "timestamp": "2026-06-11T00:03:00+03:00"
-    },
-    {
-      "headline": "Trump Says He Loves Inflation as Prices Hit 3-Year High",
-      "summary": "President Donald Trump dismissed concerns about surging consumer prices, saying I love the inflation and claiming the U.S. is taking millions of barrels of Iranian oil, as inflation reached its highest level in three years.",
-      "emoji": "🇺🇸💰",
-      "category": "US Politics",
-      "source": "AP News",
-      "url": "https://apnews.com/article/trump-love-inflation-democrats-affordability-midterms-603791c93c785221dae8be6df14d807d",
-      "timestamp": "2026-06-11T00:03:00+03:00"
     }
   ]
 }
