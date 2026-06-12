@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-12T21:05:07+03:00",
+  "lastUpdated": "2026-06-12T22:05:05+03:00",
   "headlines": [
+    {
+      "headline": "Pakistan PM confirms US-Iran peace deal text finalized",
+      "summary": "Prime Minister Shehbaz Sharif announced that Washington and Tehran have reached a final agreed text for a peace deal, with both sides working on next steps toward implementation.",
+      "emoji": "🇵🇰",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/pakistan-pm-sharif-says-x-post-that-final-text-us-iran-peace-deal-agreed-working-2026-06-12/",
+      "timestamp": "2026-06-12T22:03:00+03:00"
+    },
+    {
+      "headline": "Ukraine and Russia trade drone strikes on energy infrastructure",
+      "summary": "Both sides exchanged overnight drone attacks, with Ukraine striking oil refineries and a petrochemicals plant while Russia targeted railway stations and electrical substations.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/two-killed-10-injured-ukraine-attack-russias-border-bryansk-region-governor-says-2026-06-12/",
+      "timestamp": "2026-06-12T22:03:00+03:00"
+    },
+    {
+      "headline": "Pope Leo XIV concludes Spain visit amid Catholic revival hopes",
+      "summary": "The pontiff's trip to Spain has spurred expectations among Catholic leaders of a spiritual revival in an increasingly secular nation.",
+      "emoji": "⛪",
+      "category": "Europe",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/12/world/europe/pope-leo-spain-secular-catholic.html",
+      "timestamp": "2026-06-12T22:03:00+03:00"
+    },
+    {
+      "headline": "Latin American markets rally on US-Iran peace deal prospects",
+      "summary": "Latin American assets rose as markets welcomed progress toward an agreement ending the US-Iran conflict, boosting global risk appetite.",
+      "emoji": "📈",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/africa/latin-american-assets-rise-us-iran-peace-deal-hopes-2026-06-12/",
+      "timestamp": "2026-06-12T22:03:00+03:00"
+    },
     {
       "headline": "EU Approves First Phase of Membership Talks for Ukraine and Moldova",
       "summary": "EU ambassadors agreed to advance membership negotiations with Ukraine and Moldova, with the first phase set to begin Monday. A significant step toward European integration for both nations.",
@@ -17,16 +53,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/israeli-palestinian-civil-society-meet-france-two-state-solution-dims-2026-06-12/",
-      "timestamp": "2026-06-12T21:05:00+03:00"
-    },
-    {
-      "headline": "US Plans Major Cuts to Air and Naval Assets for NATO Operations in Europe",
-      "summary": "The United States plans to significantly reduce aircraft and warships available for NATO operations in Europe, according to senior European officials. The move raises questions about Washington commitment to the alliance.",
-      "emoji": "🛡️",
-      "category": "Defense Industry",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/12/us-to-cut-air-and-naval-assets-deployed-for-nato-operations-in-europe",
-      "timestamp": "2026-06-12T21:05:00+03:00"
+      "timestamp": "2026-06-12T21:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/israeli-palestinian-civil-society-meet-france-two-state-solution-dims-2026-06-12/",
+          "angle": "Israeli-Palestinian civil society groups meet in France to revive two-state solution",
+          "summary": "Israeli and Palestinian civil society groups are meeting in France to urge the international community not to abandon a two-state solution, as Paris seeks to keep the issue alive amid the ongoing Middle East war."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/israeli-palestinian-civil-society-meet-france-two-state-solution-dims-2026-06-12/",
+        "https://www.reuters.com/world/middle-east/israeli-palestinian-civil-society-meet-france-two-state-solution-dims-2026-06-12/"
+      ]
     },
     {
       "headline": "How the EU Can Respond to the Second China Shock",
@@ -117,19 +160,19 @@
       "timestamp": "2026-06-12T20:03:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://www.apnews.com/article/nato-us-forces-defense-europe-f02062dccd3828cdd5ef8c8a717522ac",
-          "angle": "NATO Weighs New Defense Plans as US Plans Reductions for European Operations",
-          "summary": "NATO's top military officer is considering alternative plans to defend Europe if Russia attacks, following reported US cuts to fighter jets and warships for NATO operations. The moves come as European nations race to bolster defense capacities."
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/12/us-to-cut-air-and-naval-assets-deployed-for-nato-operations-in-europe",
+          "angle": "US Plans Major Cuts to Air and Naval Assets for NATO Operations in Europe",
+          "summary": "The United States plans to significantly reduce aircraft and warships available for NATO operations in Europe, according to senior European officials. The move raises questions about Washington commitment to the alliance."
         }
       ],
       "sources": [
         "Reuters",
-        "AP News"
+        "Al Jazeera"
       ],
       "urls": [
         "https://www.reuters.com/business/aerospace-defense/us-plans-major-cut-fighter-jets-warships-nato-operations-europe-nyt-reports-2026-06-12/",
-        "https://www.apnews.com/article/nato-us-forces-defense-europe-f02062dccd3828cdd5ef8c8a717522ac"
+        "https://www.aljazeera.com/news/2026/6/12/us-to-cut-air-and-naval-assets-deployed-for-nato-operations-in-europe"
       ]
     },
     {
@@ -425,31 +468,6 @@
       "urls": [
         "https://www.reuters.com/business/aerospace-defense/us-plans-major-cut-fighter-jets-warships-nato-operations-europe-nyt-reports-2026-06-12/",
         "https://www.reuters.com/business/aerospace-defense/us-plans-major-cut-fighter-jets-warships-nato-operations-europe-nyt-reports-2026-06-12/"
-      ]
-    },
-    {
-      "headline": "Israeli-Palestinian civil society groups meet in France to revive two-state solution",
-      "summary": "Israeli and Palestinian civil society groups are meeting in France to urge the international community not to abandon a two-state solution, as Paris seeks to keep the issue alive amid the ongoing Middle East war.",
-      "emoji": "🇮🇱🇵🇸",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israeli-palestinian-civil-society-meet-france-two-state-solution-dims-2026-06-12/",
-      "timestamp": "2026-06-12T16:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/israeli-palestinian-civil-society-meet-france-two-state-solution-dims-2026-06-12/",
-          "angle": "Israeli and Palestinian civil society groups meet in France to push for two-state solution",
-          "summary": "Israeli and Palestinian civil society representatives will meet in France on Friday, urging the international community not to abandon the two-state solution as Paris works to keep the issue alive amid the broader Middle East conflict."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/israeli-palestinian-civil-society-meet-france-two-state-solution-dims-2026-06-12/",
-        "https://www.reuters.com/world/middle-east/israeli-palestinian-civil-society-meet-france-two-state-solution-dims-2026-06-12/"
       ]
     },
     {
@@ -2610,49 +2628,6 @@
       "source": "NPR",
       "url": "https://www.npr.org/2026/06/10/g-s1-127013/xi-jinping-visits-pyongyang-china-north-korea-ties",
       "timestamp": "2026-06-10T23:03:00+03:00"
-    },
-    {
-      "headline": "US Navy Establishes Naval Support Activity in Western Australia Under AUKUS Pact",
-      "summary": "As part of the AUKUS security pact, NSA Stirling will provide support for personnel assigned to Submarine Rotational Forces, strengthening Western military presence in the Indo-Pacific.",
-      "emoji": "🇦🇺🇺🇸",
-      "category": "Defense Industry",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/news/your-navy/2026/06/10/us-navy-stands-up-naval-support-activity-in-western-australia/",
-      "timestamp": "2026-06-10T22:09:00+03:00"
-    },
-    {
-      "headline": "ICEYE and Rheinmetall Form German Joint Venture for Space-Based ISR",
-      "summary": "Finnish SAR satellite company ICEYE and German defense giant Rheinmetall have launched a joint venture for space-based intelligence, surveillance, and reconnaissance capabilities.",
-      "emoji": "🇩🇪🛰️",
-      "category": "Defense Industry",
-      "source": "Breaking Defense",
-      "url": "https://breakingdefense.com/2026/06/iceye-rhenmetall-form-german-joint-venture-for-space-based-isr/",
-      "timestamp": "2026-06-10T22:09:00+03:00"
-    },
-    {
-      "headline": "NASA Unveils Artemis III Crew to Test Technology for Future Moon Landing",
-      "summary": "NASA announced four astronauts for the Artemis III mission: Randy Bresnik, Frank Rubio, Andre Douglas and ESA astronaut Luca Parmitano. They will orbit Earth while practicing docking with lunar landers targeted for 2027.",
-      "emoji": "🚀🌙",
-      "category": "Technology",
-      "source": "AP News",
-      "url": "https://apnews.com/article/nasa-artemis-iii-crew-7c09de3e1fd5b1f7fbfc9e9d702d71a5",
-      "timestamp": "2026-06-10T22:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cr5j40ezgz4o",
-          "angle": "NASA names Artemis III crew for next step toward Moon landing",
-          "summary": "The space agency announced the four astronauts who will crew the Artemis III mission in 2027, marking the next major milestone in America's return to lunar exploration."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "BBC"
-      ],
-      "urls": [
-        "https://apnews.com/article/nasa-artemis-iii-crew-7c09de3e1fd5b1f7fbfc9e9d702d71a5",
-        "https://www.bbc.com/news/articles/cr5j40ezgz4o"
-      ]
     }
   ]
 }
