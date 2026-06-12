@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-12T13:04:36+03:00",
+  "lastUpdated": "2026-06-12T14:05:26+03:00",
   "headlines": [
+    {
+      "headline": "UK Defense Secretary Resigns, Warns Military Lacks Resources for Rising Threats",
+      "summary": "John Healey resigned from Prime Minister Keir Starmer's government, accusing it of failing to adequately fund the military amid growing global threats. The resignation raises concerns about NATO burden-sharing as the US considers cutting its European presence.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.msn.com/en-us/news/world/top-us-allys-defense-chief-quits-warns-military-lacks-resources-for-rising-threats/ar-AA25sHss",
+      "timestamp": "2026-06-12T14:03:00+03:00"
+    },
+    {
+      "headline": "Tech Executives from OpenAI, Anthropic, Google to Attend G7 Summit",
+      "summary": "AI leaders including Sam Altman, Dario Amodei, and Demis Hassabis will join G7 leaders in France next week to discuss AI governance and online safety. The meeting comes as two of the companies prepare for landmark IPOs.",
+      "emoji": "🤖",
+      "category": "Technology",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/tech-executives-attend-g7-summit-leaders-address-ai-online-safety-2026-06-12/",
+      "timestamp": "2026-06-12T14:03:00+03:00"
+    },
+    {
+      "headline": "Geneva Steps Up Security for 50,000-Strong Anti-G7 Protest",
+      "summary": "Swiss authorities are boarding up businesses and deploying security ahead of a major anti-G7 protest expected this weekend. France hosts the summit next week in neighboring Évian-les-Bains.",
+      "emoji": "🇨🇭",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/geneva-steps-up-security-50000-strong-g7-protest-france-hosts-summit-2026-06-11/",
+      "timestamp": "2026-06-12T14:03:00+03:00"
+    },
+    {
+      "headline": "Oil Falls to Near Two-Month Lows as Trump Calls Off Iran Strikes",
+      "summary": "Crude prices dropped over 4% after President Trump cancelled new strikes on Iran, reducing fears of escalation. The move signals potential de-escalation in the US-Iran conflict that has disrupted oil shipments through the Strait of Hormuz.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/oil-extends-losses-trump-calls-off-planned-strikes-iran-2026-06-12/",
+      "timestamp": "2026-06-12T14:03:00+03:00"
+    },
+    {
+      "headline": "Anti-Immigrant Unrest Sparks Violence in Belfast",
+      "summary": "Riots and attacks targeting immigrants have spread in east Belfast, with Sudanese families among those targeted. The violence reflects growing tensions over immigration in Northern Ireland.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/12/riots-violence-hate-anti-immigrant-unrest-spells-danger-in-belfast",
+      "timestamp": "2026-06-12T14:03:00+03:00"
+    },
     {
       "headline": "US to slash fighter jets and warships for NATO operations in Europe",
       "summary": "The US plans to significantly reduce aircraft and warships for NATO in Europe, including cutting F-16 and F-15E fighter jets from about 150 to 100, as Washington shifts focus. The move raises concerns among European allies about US commitment to continental defense.",
@@ -8,16 +53,23 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/aerospace-defense/us-plans-major-cut-fighter-jets-warships-nato-operations-europe-nyt-reports-2026-06-12/",
-      "timestamp": "2026-06-12T13:03:00+03:00"
-    },
-    {
-      "headline": "Philippines protests China sanctions against defense chief as unfriendly act",
-      "summary": "Manila condemned Beijing sanctions on Defense Secretary Gilberto Teodoro, calling them an \"unfriendly act.\" China sanctioned Teodoro and his family for \"erroneous remarks\" about China, further escalating tensions between the two nations.",
-      "emoji": "🇵🇭🇨🇳",
-      "category": "Asia-Pacific",
-      "source": "AP News",
-      "url": "https://apnews.com/article/philippines-china-defense-secretary-gilberto-teodoro-jr-89e6999d31d4338d1a3fc0187c1612b7",
-      "timestamp": "2026-06-12T13:03:00+03:00"
+      "timestamp": "2026-06-12T13:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/aerospace-defense/us-plans-major-cut-fighter-jets-warships-nato-operations-europe-nyt-reports-2026-06-12/",
+          "angle": "US Plans Major Cuts to Fighter Jets and Warships for NATO Operations in Europe",
+          "summary": "The United States plans to significantly reduce aircraft and warships available for NATO operations in Europe, according to a New York Times report citing senior European officials. The move raises concerns about US commitment to European security."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/aerospace-defense/us-plans-major-cut-fighter-jets-warships-nato-operations-europe-nyt-reports-2026-06-12/",
+        "https://www.reuters.com/business/aerospace-defense/us-plans-major-cut-fighter-jets-warships-nato-operations-europe-nyt-reports-2026-06-12/"
+      ]
     },
     {
       "headline": "China cancels high-level diplomatic meetings with EU at short notice",
@@ -26,7 +78,23 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/china-cancels-high-level-meetings-with-eu-ft-reports-2026-06-11/",
-      "timestamp": "2026-06-12T13:03:00+03:00"
+      "timestamp": "2026-06-12T13:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/china-cancels-high-level-meetings-with-eu-ft-reports-2026-06-11/",
+          "angle": "China Cancels High-Level Diplomatic Meetings With EU in Beijing",
+          "summary": "China cancelled at short notice two diplomatic meetings planned with the European Union in Beijing this month, the Financial Times reported, raising questions about the state of EU-China relations."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/china-cancels-high-level-meetings-with-eu-ft-reports-2026-06-11/",
+        "https://www.reuters.com/world/asia-pacific/china-cancels-high-level-meetings-with-eu-ft-reports-2026-06-11/"
+      ]
     },
     {
       "headline": "Iran conflict leaves world in dangerous limbo despite cease-fire",
@@ -183,15 +251,6 @@
       "timestamp": "2026-06-12T11:03:00+03:00"
     },
     {
-      "headline": "UK Defense Minister Resigns Over Defense Funding",
-      "summary": "UK Armed Forces Minister Al Carns resigned in protest over lack of defense funding, following Defense Secretary John Healey's earlier resignation. Prime Minister Keir Starmer faces a political crisis as two defense ministers quit within days.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "Telegraph",
-      "url": "https://www.telegraph.co.uk/politics/2026/06/12/keir-starmer-latest-defence-reeves-spending-resign-healey/",
-      "timestamp": "2026-06-12T10:15:00+03:00"
-    },
-    {
       "headline": "Philippines Defense Chief Vows to Press on Despite Chinese Sanctions",
       "summary": "Philippine Defense Secretary Gilberto Teodoro vowed to continue his duties despite China sanctioning him for \"erroneous remarks,\" calling out China's \"wickedness\" as tensions escalate over South China Sea disputes.",
       "emoji": "🇵🇭",
@@ -201,20 +260,29 @@
       "timestamp": "2026-06-12T10:15:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/china-sanctions-philippine-defence-secretary-over-erroneous-remarks-2026-06-11/",
-          "angle": "China Sanctions Philippine Defense Chief Over South China Sea Comments",
-          "summary": "China announced sanctions against Philippine Defense Secretary Gilberto Teodoro for \"repeatedly making erroneous remarks concerning China\" that undermined bilateral ties. The move escalates tensions in the South China Sea dispute."
+          "source": "AP News",
+          "url": "https://apnews.com/article/philippines-china-defense-secretary-gilberto-teodoro-jr-89e6999d31d4338d1a3fc0187c1612b7",
+          "angle": "Philippines protests China sanctions against defense chief as unfriendly act",
+          "summary": "Manila condemned Beijing sanctions on Defense Secretary Gilberto Teodoro, calling them an \"unfriendly act.\" China sanctioned Teodoro and his family for \"erroneous remarks\" about China, further escalating tensions between the two nations."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "AP News"
       ],
       "urls": [
         "https://www.reuters.com/world/china/philippine-defence-chief-vows-press-after-china-sanctions-2026-06-11/",
-        "https://www.reuters.com/world/china/china-sanctions-philippine-defence-secretary-over-erroneous-remarks-2026-06-11/"
+        "https://apnews.com/article/philippines-china-defense-secretary-gilberto-teodoro-jr-89e6999d31d4338d1a3fc0187c1612b7"
       ]
+    },
+    {
+      "headline": "UK Defense Minister Resigns Over Defense Funding",
+      "summary": "UK Armed Forces Minister Al Carns resigned in protest over lack of defense funding, following Defense Secretary John Healey's earlier resignation. Prime Minister Keir Starmer faces a political crisis as two defense ministers quit within days.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "Telegraph",
+      "url": "https://www.telegraph.co.uk/politics/2026/06/12/keir-starmer-latest-defence-reeves-spending-resign-healey/",
+      "timestamp": "2026-06-12T10:15:00+03:00"
     },
     {
       "headline": "UAE Sends Military Planes to South Korea for Missile Defense Transport",
@@ -287,15 +355,6 @@
       ]
     },
     {
-      "headline": "US Plans Major Cuts to Fighter Jets and Warships for NATO Operations in Europe",
-      "summary": "The United States plans to significantly reduce aircraft and warships available for NATO operations in Europe, according to a New York Times report citing senior European officials. The move raises concerns about US commitment to European security.",
-      "emoji": "🇺🇸🇪🇺",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/us-plans-major-cut-fighter-jets-warships-nato-operations-europe-nyt-reports-2026-06-12/",
-      "timestamp": "2026-06-12T09:03:00+03:00"
-    },
-    {
       "headline": "British Defence Minister John Healey Resigns Over Spending Dispute",
       "summary": "UK Defence Minister John Healey quit on Thursday, accusing Prime Minister Keir Starmer of failing to commit the resources needed to keep Britain safe from mounting threats. The resignation highlights tensions over military spending.",
       "emoji": "🇬🇧",
@@ -319,15 +378,6 @@
         "https://www.reuters.com/world/uk/british-defence-minister-healey-resigns-over-defence-spending-2026-06-11/",
         "https://www.reuters.com/world/uk/british-defence-minister-healey-resigns-over-defence-spending-2026-06-11/"
       ]
-    },
-    {
-      "headline": "China Cancels High-Level Diplomatic Meetings With EU in Beijing",
-      "summary": "China cancelled at short notice two diplomatic meetings planned with the European Union in Beijing this month, the Financial Times reported, raising questions about the state of EU-China relations.",
-      "emoji": "🇨🇳🇪🇺",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/china-cancels-high-level-meetings-with-eu-ft-reports-2026-06-11/",
-      "timestamp": "2026-06-12T09:03:00+03:00"
     },
     {
       "headline": "Geneva Steps Up Security for 50,000-Strong G7 Protest",
@@ -2578,15 +2628,6 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/dollar-steadies-following-us-strikes-iran-ahead-inflation-data-2026-06-10/",
-      "timestamp": "2026-06-10T11:03:00+03:00"
-    },
-    {
-      "headline": "China Urges Restraint After US Strikes on Iran Raise Middle East Tensions",
-      "summary": "Beijing expressed deep concern over escalating Middle East conflict following US military strikes on Iran, calling for de-escalation as regional tensions surge after Washington's retaliation for the downing of an American helicopter.",
-      "emoji": "🇨🇳",
-      "category": "Diplomacy",
-      "source": "Asharq Al-Awsat",
-      "url": "https://english.aawsat.com/world/5282363-china-urges-against-escalation-middle-east-war",
       "timestamp": "2026-06-10T11:03:00+03:00"
     }
   ]
