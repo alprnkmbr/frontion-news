@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-12T08:08:41+03:00",
+  "lastUpdated": "2026-06-12T09:05:18+03:00",
   "headlines": [
+    {
+      "headline": "US Plans Major Cuts to Fighter Jets and Warships for NATO Operations in Europe",
+      "summary": "The United States plans to significantly reduce aircraft and warships available for NATO operations in Europe, according to a New York Times report citing senior European officials. The move raises concerns about US commitment to European security.",
+      "emoji": "🇺🇸🇪🇺",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/us-plans-major-cut-fighter-jets-warships-nato-operations-europe-nyt-reports-2026-06-12/",
+      "timestamp": "2026-06-12T09:03:00+03:00"
+    },
+    {
+      "headline": "British Defence Minister John Healey Resigns Over Spending Dispute",
+      "summary": "UK Defence Minister John Healey quit on Thursday, accusing Prime Minister Keir Starmer of failing to commit the resources needed to keep Britain safe from mounting threats. The resignation highlights tensions over military spending.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/uk/british-defence-minister-healey-resigns-over-defence-spending-2026-06-11/",
+      "timestamp": "2026-06-12T09:03:00+03:00"
+    },
+    {
+      "headline": "China Cancels High-Level Diplomatic Meetings With EU in Beijing",
+      "summary": "China cancelled at short notice two diplomatic meetings planned with the European Union in Beijing this month, the Financial Times reported, raising questions about the state of EU-China relations.",
+      "emoji": "🇨🇳🇪🇺",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/china-cancels-high-level-meetings-with-eu-ft-reports-2026-06-11/",
+      "timestamp": "2026-06-12T09:03:00+03:00"
+    },
+    {
+      "headline": "Fuel Stations in Crimea Run Dry After Ukrainian Drone Strikes",
+      "summary": "Fuel stations on the Russian-held Crimean peninsula were out of petrol on Thursday as a Ukrainian campaign against supply lines escalates, highlighting the effectiveness of Ukrainian strikes on Russian logistics.",
+      "emoji": "⛽🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/fuel-stations-crimea-run-dry-after-fresh-night-ukrainian-drone-strikes-2026-06-11/",
+      "timestamp": "2026-06-12T09:03:00+03:00"
+    },
+    {
+      "headline": "Geneva Steps Up Security for 50,000-Strong G7 Protest",
+      "summary": "Swiss authorities are preparing for a massive anti-G7 protest expected this weekend in Geneva as France hosts the Group of Seven summit. Shopkeepers have boarded up businesses ahead of the demonstration.",
+      "emoji": "🇨🇭🇫🇷",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/geneva-steps-up-security-50000-strong-g7-protest-france-hosts-summit-2026-06-11/",
+      "timestamp": "2026-06-12T09:03:00+03:00"
+    },
     {
       "headline": "Japan-South Korea Summit Aims to Deepen Cooperation Amid Regional Tensions",
       "summary": "Japanese PM Sanae Takaichi and South Korean President Lee Jae Myung held a summit on May 19, discussing enhanced cooperation in an increasingly volatile geopolitical environment.",
@@ -8,15 +53,6 @@
       "category": "Asia-Pacific",
       "source": "The Diplomat",
       "url": "https://thediplomat.com/2026/06/japan-and-south-korea-navigate-a-turbulent-world/",
-      "timestamp": "2026-06-12T08:07:00+03:00"
-    },
-    {
-      "headline": "OPEC Projects Oil Demand Growth to Outpace Supply Through 2027",
-      "summary": "OPEC maintains its view of a relatively tight oil market through next year, with demand growth expected to outpace supply despite lowering its 2026 demand growth forecast.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Oil Price",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Sees-Oil-Demand-Growth-Outpacing-Supply-Through-2027.html",
       "timestamp": "2026-06-12T08:07:00+03:00"
     },
     {
@@ -38,22 +74,29 @@
       "timestamp": "2026-06-12T08:07:00+03:00"
     },
     {
-      "headline": "Strait of Hormuz Closure Sends Oil Prices Soaring, Impacts India",
-      "summary": "Global oil prices jumped sharply after Iran announced the closure of the Strait of Hormuz, with significant implications for India as a major energy importer.",
-      "emoji": "🇮🇳🛢️",
-      "category": "Energy",
-      "source": "The Logical Indian",
-      "url": "https://thelogicalindian.com/irans-strait-of-hormuz-move-sends-oil-prices-soaring-what-it-means-for-india/",
-      "timestamp": "2026-06-12T08:07:00+03:00"
-    },
-    {
       "headline": "South Korea ex-President Yoon sentenced to 30 years over North Korea drone plot",
       "summary": "A Seoul court sentenced former President Yoon Suk Yeol to 30 years in prison for ordering military drones to infiltrate North Korea, intended to create a pretext for his failed December 2024 martial law declaration.",
       "emoji": "🇰🇷",
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/south-korea-court-sentences-ex-president-yoon-30-year-jail-term-drone-case-2026-06-12/",
-      "timestamp": "2026-06-12T08:03:00+03:00"
+      "timestamp": "2026-06-12T08:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/south-korea-yoon-drones-pyongyang-a33f2207010d64b83a30e97e2f6a8a51",
+          "angle": "South Korea's Ex-President Yoon Sentenced to 30 Years for Drone Flights Over Pyongyang",
+          "summary": "Former South Korean President Yoon Suk Yeol has been sentenced to 30 years in prison for ordering military drone flights over North Korea. The court ruled the operation was designed to provoke Pyongyang and create a pretext for martial law."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/south-korea-court-sentences-ex-president-yoon-30-year-jail-term-drone-case-2026-06-12/",
+        "https://apnews.com/article/south-korea-yoon-drones-pyongyang-a33f2207010d64b83a30e97e2f6a8a51"
+      ]
     },
     {
       "headline": "Trump says \"great\" Iran settlement will reopen Strait of Hormuz within days",
@@ -62,16 +105,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/trump-says-great-settlement-iran-be-signed-soon-strait-will-open-2026-06-11/",
-      "timestamp": "2026-06-12T08:03:00+03:00"
-    },
-    {
-      "headline": "Thai Princess Bajrakitiyabha dies at 47 after years in coma",
-      "summary": "Princess Bajrakitiyabha Mahidol, the eldest daughter of King Maha Vajiralongkorn and a lawyer known for her advocacy on women rights in prisons, has died at age 47 after nearly four years in a coma.",
-      "emoji": "🇹🇭",
-      "category": "Asia-Pacific",
-      "source": "AP News",
-      "url": "https://apnews.com/article/thailand-princess-bajrakitiyabha-obituary-3e1ca1ccca326008860e34bb9fa82686",
-      "timestamp": "2026-06-12T08:03:00+03:00"
+      "timestamp": "2026-06-12T08:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/news/2026/6/11/iran-war-day-104-iran-says-it-attacks-us-bases-after-american-strikes",
+          "angle": "Iran Closes Strait of Hormuz, Attacks US Bases in Kuwait and Bahrain",
+          "summary": "Iran announced the closure of the Strait of Hormuz to all vessels and launched retaliatory strikes on US military bases in Kuwait, Bahrain, and Jordan following American attacks. The escalation marks day 104 of the conflict as tit-for-tat strikes continue."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/trump-says-great-settlement-iran-be-signed-soon-strait-will-open-2026-06-11/",
+        "https://www.aljazeera.com/news/2026/6/11/iran-war-day-104-iran-says-it-attacks-us-bases-after-american-strikes"
+      ]
     },
     {
       "headline": "Israeli and Palestinian civil society groups meet in France to push for two-state solution",
@@ -114,31 +164,6 @@
       "urls": [
         "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
         "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html"
-      ]
-    },
-    {
-      "headline": "South Korea's Ex-President Yoon Sentenced to 30 Years for Drone Flights Over Pyongyang",
-      "summary": "Former South Korean President Yoon Suk Yeol has been sentenced to 30 years in prison for ordering military drone flights over North Korea. The court ruled the operation was designed to provoke Pyongyang and create a pretext for martial law.",
-      "emoji": "🇰🇷",
-      "category": "Asia-Pacific",
-      "source": "AP News",
-      "url": "https://apnews.com/article/south-korea-yoon-drones-pyongyang-a33f2207010d64b83a30e97e2f6a8a51",
-      "timestamp": "2026-06-12T07:07:00+03:00",
-      "perspectives": [
-        {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/asia/east-asia/article/3356825/former-south-korean-president-yoon-given-30-years-over-pyongyang-drone-plot",
-          "angle": "Former South Korean President Yoon Given 30 Years Over Pyongyang Drone Plot",
-          "summary": "Former South Korean President Yoon, already serving a life sentence for insurrection over his 2024 martial law decree, received an additional 30-year sentence related to a Pyongyang drone plot."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "SCMP"
-      ],
-      "urls": [
-        "https://apnews.com/article/south-korea-yoon-drones-pyongyang-a33f2207010d64b83a30e97e2f6a8a51",
-        "https://www.scmp.com/news/asia/east-asia/article/3356825/former-south-korean-president-yoon-given-30-years-over-pyongyang-drone-plot"
       ]
     },
     {
@@ -264,6 +289,31 @@
       "timestamp": "2026-06-12T05:03:00+03:00"
     },
     {
+      "headline": "OPEC Cuts 2026 Oil Demand Forecast Again as Iran War Disrupts Markets",
+      "summary": "OPEC lowered its world oil demand growth forecast for 2026 to 970,000 barrels per day—the second straight downward revision—as the Iran conflict reshapes global energy markets.",
+      "emoji": "🛢️📉",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/opec-again-lowers-2026-global-oil-demand-growth-forecast-2026-06-11/",
+      "timestamp": "2026-06-12T04:10:00+03:00",
+      "perspectives": [
+        {
+          "source": "Oil Price",
+          "url": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Sees-Oil-Demand-Growth-Outpacing-Supply-Through-2027.html",
+          "angle": "OPEC Projects Oil Demand Growth to Outpace Supply Through 2027",
+          "summary": "OPEC maintains its view of a relatively tight oil market through next year, with demand growth expected to outpace supply despite lowering its 2026 demand growth forecast."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Oil Price"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/opec-again-lowers-2026-global-oil-demand-growth-forecast-2026-06-11/",
+        "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Sees-Oil-Demand-Growth-Outpacing-Supply-Through-2027.html"
+      ]
+    },
+    {
       "headline": "Slovenia Lifts Netanyahu Entry Ban Under New Government",
       "summary": "Slovenia new conservative government abolished an entry ban on Israeli Prime Minister Benjamin Netanyahu, reversing measures taken by the previous administration over Gaza.",
       "emoji": "🇸🇮🇮🇱",
@@ -282,15 +332,6 @@
       "timestamp": "2026-06-12T04:10:00+03:00"
     },
     {
-      "headline": "OPEC Cuts 2026 Oil Demand Forecast Again as Iran War Disrupts Markets",
-      "summary": "OPEC lowered its world oil demand growth forecast for 2026 to 970,000 barrels per day—the second straight downward revision—as the Iran conflict reshapes global energy markets.",
-      "emoji": "🛢️📉",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/opec-again-lowers-2026-global-oil-demand-growth-forecast-2026-06-11/",
-      "timestamp": "2026-06-12T04:10:00+03:00"
-    },
-    {
       "headline": "Thai Princess Bajrakitiyabha dies at 47 after long illness",
       "summary": "Thailand's Princess Bajrakitiyabha, the eldest daughter of King Maha Vajiralongkorn, has died at 47 after nearly four years in a coma. The princess was known for her legal work and had been in poor health since December 2022.",
       "emoji": "🇹🇭",
@@ -300,19 +341,19 @@
       "timestamp": "2026-06-12T04:03:00+03:00",
       "perspectives": [
         {
-          "source": "BBC",
-          "url": "https://www.bbc.com/news/articles/cvgzzndx780o",
-          "angle": "Thai Princess Bajrakitiyabha Dies at 47 After Years in Coma",
-          "summary": "Thailand's Princess Bajrakitiyabha Mahidol, the eldest daughter of King Maha Vajiralongkorn, has died at age 47 after more than three years in a coma. The royal household announced her death on June 12, marking a significant moment for the Thai royal succession."
+          "source": "AP News",
+          "url": "https://apnews.com/article/thailand-princess-bajrakitiyabha-obituary-3e1ca1ccca326008860e34bb9fa82686",
+          "angle": "Thai Princess Bajrakitiyabha dies at 47 after years in coma",
+          "summary": "Princess Bajrakitiyabha Mahidol, the eldest daughter of King Maha Vajiralongkorn and a lawyer known for her advocacy on women rights in prisons, has died at age 47 after nearly four years in a coma."
         }
       ],
       "sources": [
         "Reuters",
-        "BBC"
+        "AP News"
       ],
       "urls": [
         "https://www.reuters.com/world/asia-pacific/thai-kings-eldest-daughter-dies-aged-47-after-long-illness-royal-palace-says-2026-06-12/",
-        "https://www.bbc.com/news/articles/cvgzzndx780o"
+        "https://apnews.com/article/thailand-princess-bajrakitiyabha-obituary-3e1ca1ccca326008860e34bb9fa82686"
       ]
     },
     {
@@ -1007,19 +1048,19 @@
       "timestamp": "2026-06-11T18:03:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/oil-rises-2-iran-announces-closure-strait-hormuz-following-us-strikes-2026-06-11/",
-          "angle": "Oil Prices Jump as Iran Closes Strait of Hormuz After US Strikes",
-          "summary": "Oil prices climbed more than $2 per barrel after Iran declared closure of the critical Strait of Hormuz waterway following US military strikes, though gains were later pared as traders assessed actual supply disruption impact."
+          "source": "The Logical Indian",
+          "url": "https://thelogicalindian.com/irans-strait-of-hormuz-move-sends-oil-prices-soaring-what-it-means-for-india/",
+          "angle": "Strait of Hormuz Closure Sends Oil Prices Soaring, Impacts India",
+          "summary": "Global oil prices jumped sharply after Iran announced the closure of the Strait of Hormuz, with significant implications for India as a major energy importer."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "The Logical Indian"
       ],
       "urls": [
         "https://www.reuters.com/business/energy/oil-rises-2-iran-announces-closure-strait-hormuz-following-us-strikes-2026-06-11/",
-        "https://www.reuters.com/business/energy/oil-rises-2-iran-announces-closure-strait-hormuz-following-us-strikes-2026-06-11/"
+        "https://thelogicalindian.com/irans-strait-of-hormuz-move-sends-oil-prices-soaring-what-it-means-for-india/"
       ]
     },
     {
@@ -1066,39 +1107,6 @@
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/opinion/articles/2026-06-11/ecb-rate-decision-the-ecb-is-jumping-at-old-inflation-shadows",
       "timestamp": "2026-06-11T16:03:00+03:00"
-    },
-    {
-      "headline": "Iran Closes Strait of Hormuz, Attacks US Bases in Kuwait and Bahrain",
-      "summary": "Iran announced the closure of the Strait of Hormuz to all vessels and launched retaliatory strikes on US military bases in Kuwait, Bahrain, and Jordan following American attacks. The escalation marks day 104 of the conflict as tit-for-tat strikes continue.",
-      "emoji": "⚔️",
-      "category": "Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/11/iran-war-day-104-iran-says-it-attacks-us-bases-after-american-strikes",
-      "timestamp": "2026-06-11T16:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Anadolu Agency",
-          "url": "https://www.aa.com.tr/en/middle-east/saudi-arabia-condemns-repeated-iranian-attacks-on-jordan-bahrain-kuwait/3963839",
-          "angle": "Saudi Arabia condemns Iranian attacks on Jordan, Bahrain, Kuwait",
-          "summary": "Saudi Arabia condemned repeated Iranian attacks targeting Jordan, Bahrain and Kuwait, warning continued aggression threatens regional security."
-        },
-        {
-          "source": "France24",
-          "url": "https://www.france24.com/en/middle-east/20260610-middle-east-live-iran-announces-closure-of-strait-of-hormuz-after-us-attacks",
-          "angle": "Iran threatens to target any ship in Strait of Hormuz",
-          "summary": "Iran military command announced it will target any vessel transiting the Strait of Hormuz after striking two vessels in the strategic waterway, marking a significant escalation in tensions with the United States."
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "Anadolu Agency",
-        "France24"
-      ],
-      "urls": [
-        "https://www.aljazeera.com/news/2026/6/11/iran-war-day-104-iran-says-it-attacks-us-bases-after-american-strikes",
-        "https://www.aa.com.tr/en/middle-east/saudi-arabia-condemns-repeated-iranian-attacks-on-jordan-bahrain-kuwait/3963839",
-        "https://www.france24.com/en/middle-east/20260610-middle-east-live-iran-announces-closure-of-strait-of-hormuz-after-us-attacks"
-      ]
     },
     {
       "headline": "Ukraine Deploys Ground-Based Drones to Shift Frontline Duties from Soldiers",
@@ -2605,67 +2613,6 @@
         "https://www.reuters.com/world/china/china-prepares-295-billion-plan-fund-nationwide-ai-buildout-bloomberg-news-2026-06-09/",
         "https://www.reuters.com/world/china/china-prepares-295-billion-plan-fund-nationwide-ai-buildout-bloomberg-news-2026-06-09/"
       ]
-    },
-    {
-      "headline": "Bill Gates to face US Congress questioning over Epstein links",
-      "summary": "Microsoft co-founder Bill Gates will be questioned by US lawmakers over his relationship with late sex offender Jeffrey Epstein, amid ongoing scrutiny of high-profile connections.",
-      "emoji": "🇺🇸",
-      "category": "US Politics",
-      "source": "RTE",
-      "url": "https://www.rte.ie/news/world/2026/0610/1577656-bill-gates-congress/",
-      "timestamp": "2026-06-10T07:05:00+03:00"
-    },
-    {
-      "headline": "Kuwait Intercepts Hostile Aerial Targets Amid Regional Escalation",
-      "summary": "Kuwait's army said its air defenses intercepted hostile aerial targets early Wednesday as tensions spike across the Gulf region following US strikes on Iran.",
-      "emoji": "🇰🇼🛡️",
-      "category": "Middle East",
-      "source": "Anadolu Agency",
-      "url": "https://www.aa.com.tr/en/middle-east/kuwait-says-its-air-defenses-intercepted-hostile-aerial-targets/3962047",
-      "timestamp": "2026-06-10T06:10:00+03:00"
-    },
-    {
-      "headline": "Japan's Largest Banks to Jointly Issue Stablecoins by March 2027",
-      "summary": "Japan's three largest banks announced plans to jointly issue stablecoins during the current fiscal year, marking a significant step in the country's digital currency adoption.",
-      "emoji": "🇯🇵💰",
-      "category": "Asia-Pacific",
-      "source": "Channel News Asia",
-      "url": "https://www.channelnewsasia.com/business/japans-largest-banks-jointly-issue-stablecoins-march-2027-6172741",
-      "timestamp": "2026-06-10T06:10:00+03:00"
-    },
-    {
-      "headline": "Philippines earthquake death toll rises to 45, rescuers search rubble",
-      "summary": "A powerful 7.8 magnitude earthquake struck southern Philippines, killing at least 45 people and displacing 32,000. Rescuers continue searching collapsed buildings in General Santos city for survivors.",
-      "emoji": "🇵🇭",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/environment/rescuers-race-reach-trapped-after-powerful-quake-southern-philippines-2026-06-09/",
-      "timestamp": "2026-06-10T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/environment/rescuers-race-reach-trapped-after-powerful-quake-southern-philippines-2026-06-09/",
-          "angle": "Philippines earthquake death toll rises as rescuers search rubble",
-          "summary": "A powerful 7.8-magnitude earthquake struck the southern Philippines, killing at least 37 people and injuring hundreds. Rescuers continued searching collapsed buildings for survivors amid ongoing aftershocks."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/environment/rescuers-race-reach-trapped-after-powerful-quake-southern-philippines-2026-06-09/",
-        "https://www.reuters.com/business/environment/rescuers-race-reach-trapped-after-powerful-quake-southern-philippines-2026-06-09/"
-      ]
-    },
-    {
-      "headline": "South Korea Kakao workers stage strike demanding job security",
-      "summary": "Unionized workers at South Korean tech giant Kakao began a four-hour strike demanding job security and changes to the bonus system. The action highlights growing labor tensions in the country's tech sector.",
-      "emoji": "🇰🇷",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/kakao-union-stages-four-hour-strike-rally-south-korea-over-pay-2026-06-10/",
-      "timestamp": "2026-06-10T06:03:00+03:00"
     }
   ]
 }
