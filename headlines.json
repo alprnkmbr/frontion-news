@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-13T01:04:40+03:00",
+  "lastUpdated": "2026-06-13T02:04:43+03:00",
   "headlines": [
+    {
+      "headline": "China arrests US scholar of Myanmar on spying suspicion",
+      "summary": "China confirmed the arrest of Min Zin, a US citizen who leads a think-tank focused on Myanmar, on suspicion of spying and endangering national security. The detention raises tensions between Washington and Beijing.",
+      "emoji": "🇨🇳",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/china-confirms-arrest-us-citizen-suspected-spying-2026-06-12/",
+      "timestamp": "2026-06-13T02:03:00+03:00"
+    },
+    {
+      "headline": "UAE to unlock frozen Iranian funds amid US ceasefire push",
+      "summary": "The United Arab Emirates agreed to unlock billions of dollars for Iran in a tactical shift after weeks of Iranian pressure. The move comes as US-Iran peace negotiations appear close to agreement.",
+      "emoji": "🇦🇪",
+      "category": "US-Iran War",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/12/uae-to-unlock-frozen-iranian-funds-amid-us-ceasefire-push",
+      "timestamp": "2026-06-13T02:03:00+03:00"
+    },
+    {
+      "headline": "Paramount-Warner merger cleared by DOJ antitrust review",
+      "summary": "The US Justice Department determined that Paramount Skydance's proposed acquisition of Warner Bros. Discovery is unlikely to harm competition or consumers, clearing a major regulatory hurdle for the media megamerger.",
+      "emoji": "📺",
+      "category": "Economy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/paramount-warner-regulation-antitrust-994c277d12297b8a7507fcb78004f679",
+      "timestamp": "2026-06-13T02:03:00+03:00"
+    },
+    {
+      "headline": "Ukraine requests $20 billion from allies to sustain momentum",
+      "summary": "Ukraine is seeking an additional $20 billion in military funding from allies to cement its battlefield advantage over Russia. The request comes as Kyiv confirms strikes on Russian refineries and Putin announces satellite-based drone control systems.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/ukraine-will-ask-allies-20-bln-keep-momentum-against-russia-source-says-2026-06-12/",
+      "timestamp": "2026-06-13T02:03:00+03:00"
+    },
+    {
+      "headline": "Pope Leo warns Europe's migrant traffickers to repent or face hell",
+      "summary": "Pope Leo issued a stern warning to human traffickers exploiting desperate migrants trying to reach Europe through Spain's Canary Islands, telling them to repent or face divine judgment.",
+      "emoji": "⛪",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/pope-leo-warns-europes-migrant-traffickers-repent-or-face-hell-2026-06-12/",
+      "timestamp": "2026-06-13T02:03:00+03:00"
+    },
     {
       "headline": "Iran, US and Israel Remain in Dangerous Limbo Between Peace and War",
       "summary": "Two months after a nominal cease-fire, Iran, Israel and the US remain locked in low-intensity conflict with no clear resolution. The uncertain state leaves the region and global oil markets in suspense as diplomatic efforts continue.",
@@ -8,7 +53,23 @@
       "category": "US-Iran War",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html",
-      "timestamp": "2026-06-13T01:03:00+03:00"
+      "timestamp": "2026-06-13T01:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html",
+          "angle": "Iran conflict leaves world in dangerous limbo despite cease-fire",
+          "summary": "Two months after a nominal cease-fire, Iran, Israel and the US remain locked in low-intensity conflict. Neither peace nor full war, the situation creates ongoing uncertainty for oil markets and regional stability."
+        }
+      ],
+      "sources": [
+        "New York Times",
+        "New York Times"
+      ],
+      "urls": [
+        "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html",
+        "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html"
+      ]
     },
     {
       "headline": "Iran's Stranglehold on Strait of Hormuz Loosens as Gulf Oil Reaches Market",
@@ -875,31 +936,6 @@
       "urls": [
         "https://www.reuters.com/world/geneva-steps-up-security-50000-strong-g7-protest-france-hosts-summit-2026-06-11/",
         "https://www.reuters.com/world/geneva-steps-up-security-50000-strong-g7-protest-france-hosts-summit-2026-06-11/"
-      ]
-    },
-    {
-      "headline": "Iran conflict leaves world in dangerous limbo despite cease-fire",
-      "summary": "Two months after a nominal cease-fire, Iran, Israel and the US remain locked in low-intensity conflict. Neither peace nor full war, the situation creates ongoing uncertainty for oil markets and regional stability.",
-      "emoji": "🇮🇷⚔️",
-      "category": "US-Iran War",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html",
-      "timestamp": "2026-06-12T13:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "CNN",
-          "url": "https://www.cnn.com/2026/06/12/world/live-news/iran-war-trump-israel",
-          "angle": "US-Iran Cease-Fire Deal Within Reach as Trump Says Agreement Close",
-          "summary": "President Trump announced a deal to end the US-Iran conflict is imminent, with a memorandum of understanding potentially signed in Europe this weekend. Iranian Foreign Minister Araghchi stated an agreement \"has never been closer,\" though Iranian officials denied any final agreement had been reached."
-        }
-      ],
-      "sources": [
-        "New York Times",
-        "CNN"
-      ],
-      "urls": [
-        "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html",
-        "https://www.cnn.com/2026/06/12/world/live-news/iran-war-trump-israel"
       ]
     },
     {
