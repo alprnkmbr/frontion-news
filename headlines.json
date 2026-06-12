@@ -1,6 +1,49 @@
 {
-  "lastUpdated": "2026-06-13T00:07:42+03:00",
+  "lastUpdated": "2026-06-13T01:04:40+03:00",
   "headlines": [
+    {
+      "headline": "Iran, US and Israel Remain in Dangerous Limbo Between Peace and War",
+      "summary": "Two months after a nominal cease-fire, Iran, Israel and the US remain locked in low-intensity conflict with no clear resolution. The uncertain state leaves the region and global oil markets in suspense as diplomatic efforts continue.",
+      "emoji": "⚠️🇮🇷",
+      "category": "US-Iran War",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html",
+      "timestamp": "2026-06-13T01:03:00+03:00"
+    },
+    {
+      "headline": "Iran's Stranglehold on Strait of Hormuz Loosens as Gulf Oil Reaches Market",
+      "summary": "Iran's ability to block the critical Strait of Hormuz appears to be weakening as Gulf Arab states find alternative routes for their oil exports. The development could reshape global energy markets and reduce Iran's leverage in negotiations.",
+      "emoji": "🛢️🚢",
+      "category": "Energy",
+      "source": "Baltimore Sun",
+      "url": "https://www.baltimoresun.com/2026/06/12/iran-loosens-strait-of-hormuz-stranglehold/",
+      "timestamp": "2026-06-13T01:03:00+03:00"
+    },
+    {
+      "headline": "NATO Weighs Alternative Defense Plans as US Prepares for Conflicts Elsewhere",
+      "summary": "NATO's top military officer is developing contingency plans to defend Europe from Russian aggression without full US support, as Washington shifts focus to other global conflicts. The planning reflects growing uncertainty about America's commitment to European security.",
+      "emoji": "🇪🇺⚔️",
+      "category": "Europe",
+      "source": "Boston Herald",
+      "url": "https://www.bostonherald.com/2026/06/12/nato-us-europe-defense/",
+      "timestamp": "2026-06-13T01:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Politico",
+          "url": "https://www.politico.eu/article/britains-defense-spending-plans-in-chaos-as-nato-summit-looms-john-healey/",
+          "angle": "UK Defense Plans in Chaos Ahead of NATO Summit",
+          "summary": "Britains defense spending strategy is in disarray just weeks before a crucial NATO summit. Plans for a major rearmament drive to deter Russia and reinforce UK commitments are facing political and budgetary obstacles."
+        }
+      ],
+      "sources": [
+        "Boston Herald",
+        "Politico"
+      ],
+      "urls": [
+        "https://www.bostonherald.com/2026/06/12/nato-us-europe-defense/",
+        "https://www.politico.eu/article/britains-defense-spending-plans-in-chaos-as-nato-summit-looms-john-healey/"
+      ]
+    },
     {
       "headline": "Global submarine arms race intensifies as 480+ subs from 40+ nations patrol world oceans",
       "summary": "More than 480 submarines from over 40 nations now operate globally, with regional conflicts in the Indo-Pacific, Middle East, and South Asia driving demand. The US Navy sank an Iranian corvette with a torpedo in March, while South Korea markets its submarines to Canada in an 8,400-mile demonstration cruise.",
@@ -38,22 +81,29 @@
       "timestamp": "2026-06-13T00:07:00+03:00"
     },
     {
-      "headline": "Pakistan PM confirms US-Iran peace deal text agreed",
-      "summary": "Pakistan Prime Minister Shehbaz Sharif announced that the final text of a US-Iran peace deal has been agreed, potentially ending the three-month conflict. Negotiators are now working on implementation steps.",
-      "emoji": "🇵🇰🇺🇸🇮🇷",
-      "category": "Diplomacy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-12-june-2026-7085e386e1c40ee6cfe634210970143f",
-      "timestamp": "2026-06-13T00:03:00+03:00"
-    },
-    {
       "headline": "SpaceX soars 28% in record  trillion IPO debut",
       "summary": "Elon Musk's SpaceX made history with the largest IPO ever, raising $75 billion and reaching a $2.25 trillion valuation. Musk becomes the world's first trillionaire as shares opened at $135 and surged on Nasdaq.",
       "emoji": "🚀💰📈",
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/legal/transactional/view-spacex-opens-trading-150-after-record-busting-ipo-2026-06-12/",
-      "timestamp": "2026-06-13T00:03:00+03:00"
+      "timestamp": "2026-06-13T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/06/12/business/live-news/spacex-goes-public-ipo",
+          "angle": "SpaceX Soars to $2 Trillion in Historic IPO, Musk Becomes First Trillionaire",
+          "summary": "Elon Musk's SpaceX made a record-breaking market debut, opening at $160 per share after raising $75 billion in the largest IPO in history. The milestone made Musk the world's first trillionaire as investors bet on the company's space and AI ambitions."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "CNN"
+      ],
+      "urls": [
+        "https://www.reuters.com/legal/transactional/view-spacex-opens-trading-150-after-record-busting-ipo-2026-06-12/",
+        "https://www.cnn.com/2026/06/12/business/live-news/spacex-goes-public-ipo"
+      ]
     },
     {
       "headline": "UK economy contracts 0.1% in April as Iran war hits entertainment sector",
@@ -162,27 +212,19 @@
       "timestamp": "2026-06-12T22:03:00+03:00",
       "perspectives": [
         {
-          "source": "France24",
-          "url": "https://www.france24.com/en/middle-east/20260612-iran-says-deal-with-us-closer-than-ever-as-trump-lashes-out",
-          "angle": "US and Iran signal peace deal close despite Trump's 'dishonorable' accusation",
-          "summary": "Both sides confirm a ceasefire agreement is near, though tensions remain over leaked deal terms. Pakistan announced a finalized text, while Iran's foreign minister said a deal \"has never been closer.\""
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/trump-says-irans-leaked-deal-terms-are-untrue-2026-06-12/",
-          "angle": "Trump Denies Making Major Concessions to Iran, Says Leaked Deal Terms Are Untrue",
-          "summary": "President Trump pushed back against reports that the US had made significant concessions to Iran in peace negotiations, with a senior official calling any emerging pact performance-based with Tehran receiving no frozen assets until it fulfills its commitments."
+          "source": "AP News",
+          "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-12-june-2026-7085e386e1c40ee6cfe634210970143f",
+          "angle": "Pakistan PM confirms US-Iran peace deal text agreed",
+          "summary": "Pakistan Prime Minister Shehbaz Sharif announced that the final text of a US-Iran peace deal has been agreed, potentially ending the three-month conflict. Negotiators are now working on implementation steps."
         }
       ],
       "sources": [
         "Reuters",
-        "France24",
-        "Reuters"
+        "AP News"
       ],
       "urls": [
         "https://www.reuters.com/world/asia-pacific/pakistan-pm-sharif-says-x-post-that-final-text-us-iran-peace-deal-agreed-working-2026-06-12/",
-        "https://www.france24.com/en/middle-east/20260612-iran-says-deal-with-us-closer-than-ever-as-trump-lashes-out",
-        "https://www.reuters.com/world/middle-east/trump-says-irans-leaked-deal-terms-are-untrue-2026-06-12/"
+        "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-12-june-2026-7085e386e1c40ee6cfe634210970143f"
       ]
     },
     {
@@ -592,15 +634,6 @@
       "timestamp": "2026-06-12T17:03:00+03:00"
     },
     {
-      "headline": "SpaceX Makes Historic Stock Market Debut After Record $75 Billion IPO",
-      "summary": "Elon Musk's SpaceX begins trading on Nasdaq following the largest IPO in history. The company priced shares at $135, making it one of the world's most valuable companies as investors clamor for access to the space and satellite business.",
-      "emoji": "🚀",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/live-elon-musks-spacex-set-stock-market-trading-after-worlds-biggest-ipo-2026-06-12/",
-      "timestamp": "2026-06-12T17:03:00+03:00"
-    },
-    {
       "headline": "Indonesian Students Protest Government Policies Amid Economic Strain",
       "summary": "Hundreds of students rallied in Jakarta against President Prabowo Subianto's spending priorities and fuel price hikes. Demonstrators criticized subsidies and free meals programs as the country faces growing economic pressures.",
       "emoji": "🇮🇩",
@@ -741,15 +774,6 @@
       "timestamp": "2026-06-12T15:03:00+03:00"
     },
     {
-      "headline": "UK Defense Plans in Chaos Ahead of NATO Summit",
-      "summary": "Britains defense spending strategy is in disarray just weeks before a crucial NATO summit. Plans for a major rearmament drive to deter Russia and reinforce UK commitments are facing political and budgetary obstacles.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "Politico",
-      "url": "https://www.politico.eu/article/britains-defense-spending-plans-in-chaos-as-nato-summit-looms-john-healey/",
-      "timestamp": "2026-06-12T15:03:00+03:00"
-    },
-    {
       "headline": "Europe Blaming China's Economic Rise for Its Own Failures, Think Tank Says",
       "summary": "A new analysis argues European policymakers are scapegoating China rather than addressing structural weaknesses in their own economies, amid tensions over trade and competitiveness.",
       "emoji": "🇪🇺🇨🇳",
@@ -854,6 +878,31 @@
       ]
     },
     {
+      "headline": "Iran conflict leaves world in dangerous limbo despite cease-fire",
+      "summary": "Two months after a nominal cease-fire, Iran, Israel and the US remain locked in low-intensity conflict. Neither peace nor full war, the situation creates ongoing uncertainty for oil markets and regional stability.",
+      "emoji": "🇮🇷⚔️",
+      "category": "US-Iran War",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html",
+      "timestamp": "2026-06-12T13:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "CNN",
+          "url": "https://www.cnn.com/2026/06/12/world/live-news/iran-war-trump-israel",
+          "angle": "US-Iran Cease-Fire Deal Within Reach as Trump Says Agreement Close",
+          "summary": "President Trump announced a deal to end the US-Iran conflict is imminent, with a memorandum of understanding potentially signed in Europe this weekend. Iranian Foreign Minister Araghchi stated an agreement \"has never been closer,\" though Iranian officials denied any final agreement had been reached."
+        }
+      ],
+      "sources": [
+        "New York Times",
+        "CNN"
+      ],
+      "urls": [
+        "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html",
+        "https://www.cnn.com/2026/06/12/world/live-news/iran-war-trump-israel"
+      ]
+    },
+    {
       "headline": "China cancels high-level diplomatic meetings with EU at short notice",
       "summary": "Beijing abruptly cancelled two diplomatic meetings with the European Union planned for June, Financial Times reports. The move signals growing tensions between China and Europe amid trade disputes and geopolitical friction.",
       "emoji": "🇨🇳🇪🇺",
@@ -877,15 +926,6 @@
         "https://www.reuters.com/world/asia-pacific/china-cancels-high-level-meetings-with-eu-ft-reports-2026-06-11/",
         "https://www.reuters.com/world/asia-pacific/china-cancels-high-level-meetings-with-eu-ft-reports-2026-06-11/"
       ]
-    },
-    {
-      "headline": "Iran conflict leaves world in dangerous limbo despite cease-fire",
-      "summary": "Two months after a nominal cease-fire, Iran, Israel and the US remain locked in low-intensity conflict. Neither peace nor full war, the situation creates ongoing uncertainty for oil markets and regional stability.",
-      "emoji": "🇮🇷⚔️",
-      "category": "US-Iran War",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/12/world/middleeast/iran-war-limbo.html",
-      "timestamp": "2026-06-12T13:03:00+03:00"
     },
     {
       "headline": "G7 summit to spotlight global economic imbalances as China exports surge",
@@ -2551,151 +2591,6 @@
       "urls": [
         "https://www.reuters.com/world/europe/ukraine-police-chief-says-russia-recruits-young-women-kill-ukrainian-servicemen-2026-06-10/",
         "https://cyprus-mail.com/2026/06/12/ukraine-police-chief-says-russia-recruits-young-women-to-kill-ukrainian-servicemen"
-      ]
-    },
-    {
-      "headline": "China-North Korea claim wins from Xi visit, but limits remain",
-      "summary": "Chinese President Xi Jinpings visit to North Korea elevated Kim Jong Uns global stature and pulled Pyongyang closer into Beijings orbit, though analysts note significant limits remain in the bilateral relationship.",
-      "emoji": "🇨🇳",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/north-korea-china-claim-wins-xi-visit-limits-remain-2026-06-10/",
-      "timestamp": "2026-06-11T02:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/north-korea-china-agree-expand-cooperation-various-sectors-north-koreas-state-2026-06-08/",
-          "angle": "Xi Jinping wraps up rare North Korea visit with deeper cooperation pledge",
-          "summary": "Chinese President Xi Jinping completed his first visit to North Korea in seven years, establishing a deeper understanding and clearer path for development of ties between the two countries."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/north-korea-china-claim-wins-xi-visit-limits-remain-2026-06-10/",
-        "https://www.reuters.com/world/china/north-korea-china-agree-expand-cooperation-various-sectors-north-koreas-state-2026-06-08/"
-      ]
-    },
-    {
-      "headline": "Trump sticks with Pulte for intel job as risk grows of lapse in spy powers",
-      "summary": "A lapse in US foreign intelligence-gathering powers has grown more likely as President Trump continues to back his nominee for the intelligence post amid congressional gridlock.",
-      "emoji": "🇺🇸",
-      "category": "US Politics",
-      "source": "AP News",
-      "url": "https://apnews.com/article/trump-pulte-foreign-surveillance-world-cup-7e6564d9f7a559b8ede84407c965e274",
-      "timestamp": "2026-06-11T02:03:00+03:00"
-    },
-    {
-      "headline": "UN Nuclear Watchdog Demands Iran Report Enriched Uranium Stocks",
-      "summary": "The IAEA's 35-nation Board of Governors passed a US-backed resolution telling Iran to declare its remaining enriched uranium stocks and allow inspectors to verify them, a move that could complicate Washington's ongoing talks with Tehran.",
-      "emoji": "☢️",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/iaea-board-passes-resolution-demanding-iran-report-uranium-stocks-diplomats-say-2026-06-10/",
-      "timestamp": "2026-06-11T01:03:00+03:00"
-    },
-    {
-      "headline": "Erdogan warns Israel's attacks on Syria, Lebanon now threaten Turkey",
-      "summary": "Turkish President Erdogan stated that Israel's military operations in Syria and Lebanon have escalated to the point where they threaten Turkey itself, calling Israel's aggression a threat to the whole world.",
-      "emoji": "🇹🇷",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/erdogan-says-israels-attacks-syria-lebanon-threaten-turkey-too-2026-06-10/",
-      "timestamp": "2026-06-11T00:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Arabiya",
-          "url": "https://english.alarabiya.net/News/middle-east/2026/06/10/erdogan-says-israel-s-attacks-on-syria-lebanon-threaten-turkey-too",
-          "angle": "Erdogan warns Israel attacks on Syria and Lebanon threaten Turkiye directly",
-          "summary": "Turkish President Erdogan said Israeli operations in Syria and Lebanon have escalated to the point where they pose a direct threat to Turkey, calling the aggression a danger to the entire region."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Arabiya"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/erdogan-says-israels-attacks-syria-lebanon-threaten-turkey-too-2026-06-10/",
-        "https://english.alarabiya.net/News/middle-east/2026/06/10/erdogan-says-israel-s-attacks-on-syria-lebanon-threaten-turkey-too"
-      ]
-    },
-    {
-      "headline": "Ukraine partners with Taurus missile maker for deep strike systems",
-      "summary": "Ukrainian defense company Ukrainian Armor and European firm MBDA initiated a strategic partnership to develop deep strike capabilities, enhancing Ukraine's indigenous defense production.",
-      "emoji": "🇺🇦",
-      "category": "Defense Industry",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/ukrainian-defense-company-teams-up-with-taurus-missile-maker-to-develop-deep-strike-systems/",
-      "timestamp": "2026-06-11T00:05:00+03:00"
-    },
-    {
-      "headline": "Countries vie to become energy safe haven as Hormuz crisis deepens",
-      "summary": "Multiple nations are pitching the Trump administration on energy alternatives as the Strait of Hormuz remains disrupted, seeking to position themselves as secure energy suppliers.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Politico",
-      "url": "https://www.politico.com/newsletters/national-security-daily/2026/06/10/everyone-wants-to-be-the-next-energy-safe-haven-00957158",
-      "timestamp": "2026-06-11T00:05:00+03:00"
-    },
-    {
-      "headline": "Ireland sets online safety, security priorities for EU presidency",
-      "summary": "Ireland's EU presidency will focus on improving online safety for children and boosting Europe's economic competitiveness and security amid growing geopolitical challenges.",
-      "emoji": "🇮🇪🇪🇺",
-      "category": "Europe",
-      "source": "Irish Times",
-      "url": "https://www.irishtimes.com/politics/2026/06/10/online-safety-for-children-and-boosting-security-among-irelands-eu-presidency-priorities/",
-      "timestamp": "2026-06-11T00:05:00+03:00"
-    },
-    {
-      "headline": "Violent Unrest Erupts in Belfast Over Knife Attack Arrest",
-      "summary": "Police in Northern Ireland used water cannons against protesters as violent unrest flared in Belfast following the arrest of a Sudanese man charged with attempted murder in a stabbing attack, with officials calling for calm.",
-      "emoji": "🇬🇧🇮🇪",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://apnews.com/article/northern-ireland-belfast-stabbing-violence-1d8b2331cfa33a0b39492ca9098c206f",
-      "timestamp": "2026-06-11T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "South China Morning Post",
-          "url": "https://www.scmp.com/news/world/europe/article/3356672/elon-musk-accused-inflaming-tensions-belfast-after-knife-attack",
-          "angle": "Elon Musk accused of inflaming tensions in Belfast after knife attack sparks violence",
-          "summary": "The tech billionaire shared lists of protest locations on social media and blamed \"uncontrolled immigration\" for the knife attack in Belfast, which triggered anti-immigrant violence. The victim's family appealed for calm amid ongoing disorder."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "South China Morning Post"
-      ],
-      "urls": [
-        "https://apnews.com/article/northern-ireland-belfast-stabbing-violence-1d8b2331cfa33a0b39492ca9098c206f",
-        "https://www.scmp.com/news/world/europe/article/3356672/elon-musk-accused-inflaming-tensions-belfast-after-knife-attack"
-      ]
-    },
-    {
-      "headline": "Bank of Japan Governor Ueda Hospitalised, Will Miss Key Policy Meeting",
-      "summary": "BOJ Governor Kazuo Ueda has been hospitalised for medical treatment and will miss the June 15-16 policy meeting, the central bank announced, raising uncertainty about Japans monetary policy direction during a critical period.",
-      "emoji": "🇯🇵",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/boj-says-governor-ueda-has-been-hospitalised-2026-06-10/",
-      "timestamp": "2026-06-11T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/boj-says-governor-ueda-has-been-hospitalised-2026-06-10/",
-          "angle": "Bank of Japan Governor Hospitalized, Will Miss Key Policy Meeting",
-          "summary": "BOJ Governor Kazuo Ueda has been hospitalized for medical treatment and will miss the June 15-16 policy meeting, where the central bank was expected to raise interest rates to 1.0% amid inflation concerns."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/boj-says-governor-ueda-has-been-hospitalised-2026-06-10/",
-        "https://www.reuters.com/world/asia-pacific/boj-says-governor-ueda-has-been-hospitalised-2026-06-10/"
       ]
     }
   ]
