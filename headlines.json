@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-06-12T07:09:36+03:00",
+  "lastUpdated": "2026-06-12T08:07:29+03:00",
   "headlines": [
     {
-      "headline": "Thai Princess Bajrakitiyabha Dies at 47 After Years in Coma",
-      "summary": "Thailand's Princess Bajrakitiyabha Mahidol, the eldest daughter of King Maha Vajiralongkorn, has died at age 47 after more than three years in a coma. The royal household announced her death on June 12, marking a significant moment for the Thai royal succession.",
+      "headline": "South Korea ex-President Yoon sentenced to 30 years over North Korea drone plot",
+      "summary": "A Seoul court sentenced former President Yoon Suk Yeol to 30 years in prison for ordering military drones to infiltrate North Korea, intended to create a pretext for his failed December 2024 martial law declaration.",
+      "emoji": "🇰🇷",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/south-korea-court-sentences-ex-president-yoon-30-year-jail-term-drone-case-2026-06-12/",
+      "timestamp": "2026-06-12T08:03:00+03:00"
+    },
+    {
+      "headline": "Trump says \"great\" Iran settlement will reopen Strait of Hormuz within days",
+      "summary": "President Trump announced a \"great settlement\" with Iran could be signed within days, which would reopen the Strait of Hormuz and end hostilities. Oil prices extended losses on the news.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/trump-says-great-settlement-iran-be-signed-soon-strait-will-open-2026-06-11/",
+      "timestamp": "2026-06-12T08:03:00+03:00"
+    },
+    {
+      "headline": "Thai Princess Bajrakitiyabha dies at 47 after years in coma",
+      "summary": "Princess Bajrakitiyabha Mahidol, the eldest daughter of King Maha Vajiralongkorn and a lawyer known for her advocacy on women rights in prisons, has died at age 47 after nearly four years in a coma.",
       "emoji": "🇹🇭",
       "category": "Asia-Pacific",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/cvgzzndx780o",
-      "timestamp": "2026-06-12T07:07:00+03:00"
+      "source": "AP News",
+      "url": "https://apnews.com/article/thailand-princess-bajrakitiyabha-obituary-3e1ca1ccca326008860e34bb9fa82686",
+      "timestamp": "2026-06-12T08:03:00+03:00"
+    },
+    {
+      "headline": "Israeli and Palestinian civil society groups meet in France to push for two-state solution",
+      "summary": "Israeli and Palestinian civil society representatives will meet in France on Friday, urging the international community not to abandon the two-state solution as Paris works to keep the issue alive amid the broader Middle East conflict.",
+      "emoji": "🇮🇱🇵🇸🇫🇷",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/israeli-palestinian-civil-society-meet-france-two-state-solution-dims-2026-06-12/",
+      "timestamp": "2026-06-12T08:03:00+03:00"
+    },
+    {
+      "headline": "Trump cancels planned Iran strikes, says deal \"approved\" after key points agreed",
+      "summary": "US President Donald Trump called off further strikes on Iran and announced that key points of a peace deal have been agreed, with a formal agreement expected within days.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "Middle East",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets",
+      "timestamp": "2026-06-12T08:03:00+03:00"
     },
     {
       "headline": "Ukraine War Has Lasted Longer Than World War I",
@@ -17,7 +53,23 @@
       "category": "Ukraine-Russia War",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
-      "timestamp": "2026-06-12T07:07:00+03:00"
+      "timestamp": "2026-06-12T07:07:00+03:00",
+      "perspectives": [
+        {
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
+          "angle": "Ukraine War Duration Exceeds World War I",
+          "summary": "The conflict in Ukraine has now lasted longer than World War I, marking a grim milestone as fighting continues with no clear end in sight. The war has entered its fourth year with ongoing casualties and infrastructure destruction."
+        }
+      ],
+      "sources": [
+        "New York Times",
+        "New York Times"
+      ],
+      "urls": [
+        "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
+        "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html"
+      ]
     },
     {
       "headline": "South Korea's Ex-President Yoon Sentenced to 30 Years for Drone Flights Over Pyongyang",
@@ -26,7 +78,23 @@
       "category": "Asia-Pacific",
       "source": "AP News",
       "url": "https://apnews.com/article/south-korea-yoon-drones-pyongyang-a33f2207010d64b83a30e97e2f6a8a51",
-      "timestamp": "2026-06-12T07:07:00+03:00"
+      "timestamp": "2026-06-12T07:07:00+03:00",
+      "perspectives": [
+        {
+          "source": "SCMP",
+          "url": "https://www.scmp.com/news/asia/east-asia/article/3356825/former-south-korean-president-yoon-given-30-years-over-pyongyang-drone-plot",
+          "angle": "Former South Korean President Yoon Given 30 Years Over Pyongyang Drone Plot",
+          "summary": "Former South Korean President Yoon, already serving a life sentence for insurrection over his 2024 martial law decree, received an additional 30-year sentence related to a Pyongyang drone plot."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "SCMP"
+      ],
+      "urls": [
+        "https://apnews.com/article/south-korea-yoon-drones-pyongyang-a33f2207010d64b83a30e97e2f6a8a51",
+        "https://www.scmp.com/news/asia/east-asia/article/3356825/former-south-korean-president-yoon-given-30-years-over-pyongyang-drone-plot"
+      ]
     },
     {
       "headline": "US and Iran Haggle Over Frozen Funds as Interim Deal Nears",
@@ -53,15 +121,6 @@
       "category": "Europe",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/",
-      "timestamp": "2026-06-12T06:05:00+03:00"
-    },
-    {
-      "headline": "Former South Korean President Yoon Given 30 Years Over Pyongyang Drone Plot",
-      "summary": "Former South Korean President Yoon, already serving a life sentence for insurrection over his 2024 martial law decree, received an additional 30-year sentence related to a Pyongyang drone plot.",
-      "emoji": "🇰🇷⚖️",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/east-asia/article/3356825/former-south-korean-president-yoon-given-30-years-over-pyongyang-drone-plot",
       "timestamp": "2026-06-12T06:05:00+03:00"
     },
     {
@@ -193,7 +252,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/thai-kings-eldest-daughter-dies-aged-47-after-long-illness-royal-palace-says-2026-06-12/",
-      "timestamp": "2026-06-12T04:03:00+03:00"
+      "timestamp": "2026-06-12T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "BBC",
+          "url": "https://www.bbc.com/news/articles/cvgzzndx780o",
+          "angle": "Thai Princess Bajrakitiyabha Dies at 47 After Years in Coma",
+          "summary": "Thailand's Princess Bajrakitiyabha Mahidol, the eldest daughter of King Maha Vajiralongkorn, has died at age 47 after more than three years in a coma. The royal household announced her death on June 12, marking a significant moment for the Thai royal succession."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "BBC"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/thai-kings-eldest-daughter-dies-aged-47-after-long-illness-royal-palace-says-2026-06-12/",
+        "https://www.bbc.com/news/articles/cvgzzndx780o"
+      ]
     },
     {
       "headline": "US plans to deport Iranians to Central African Republic",
@@ -1135,31 +1210,6 @@
       "source": "Nikkei Asia",
       "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/turkey-halts-byd-tax-break-warns-of-clawback-if-it-misses-1bn-plan",
       "timestamp": "2026-06-11T12:05:00+03:00"
-    },
-    {
-      "headline": "Ukraine War Duration Exceeds World War I",
-      "summary": "The conflict in Ukraine has now lasted longer than World War I, marking a grim milestone as fighting continues with no clear end in sight. The war has entered its fourth year with ongoing casualties and infrastructure destruction.",
-      "emoji": "🇺🇦⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
-      "timestamp": "2026-06-11T12:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Economist",
-          "url": "https://www.economist.com/europe/2026/06/11/ukraines-war-is-now-longer-than-the-first-world-war",
-          "angle": "Ukraine's War Exceeds World War I Duration as Attrition Continues",
-          "summary": "The conflict in Ukraine has now lasted longer than World War I, marking a grim milestone as fighting grinds on with no resolution in sight. The prolonged war continues to reshape European security architecture."
-        }
-      ],
-      "sources": [
-        "New York Times",
-        "The Economist"
-      ],
-      "urls": [
-        "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
-        "https://www.economist.com/europe/2026/06/11/ukraines-war-is-now-longer-than-the-first-world-war"
-      ]
     },
     {
       "headline": "US Bases in Middle East Face Second Round of Iranian Retaliatory Attacks",
@@ -2571,40 +2621,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/kakao-union-stages-four-hour-strike-rally-south-korea-over-pay-2026-06-10/",
       "timestamp": "2026-06-10T06:03:00+03:00"
-    },
-    {
-      "headline": "Turkey proposes 2035 global electricity target at climate summit",
-      "summary": "As host of this year's global climate summit, Turkey proposed targeting electricity to meet 35% of world energy demand by 2035, aiming to cut fossil fuel consumption. The initiative seeks to accelerate clean energy transition.",
-      "emoji": "🇹🇷",
-      "category": "Climate",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/sustainability/cop/climate-summit-host-turkey-proposes-2035-global-electricity-target-2026-06-09/",
-      "timestamp": "2026-06-10T06:03:00+03:00"
-    },
-    {
-      "headline": "Peru election remains too close to call as markets rally",
-      "summary": "Peru's presidential election remains on a knife edge between conservative Keiko Fujimori and leftist candidate Sanchez, with vote counting potentially taking up to two weeks. Markets rallied amid the uncertainty.",
-      "emoji": "🇵🇪",
-      "category": "Latin America",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/finance/peru-race-tightens-again-markets-rise-overseas-ballots-pour-2026-06-09/",
-      "timestamp": "2026-06-10T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/americas/peru-votes-tight-presidential-run-off-test-latin-americas-rightward-shift-2026-06-07/",
-          "angle": "Peru presidential runoff too close to call",
-          "summary": "Exit polls show Peru's presidential election runoff in a statistical tie as voters choose between competing visions for the country's future amid political turmoil."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/finance/peru-race-tightens-again-markets-rise-overseas-ballots-pour-2026-06-09/",
-        "https://www.reuters.com/world/americas/peru-votes-tight-presidential-run-off-test-latin-americas-rightward-shift-2026-06-07/"
-      ]
     }
   ]
 }
