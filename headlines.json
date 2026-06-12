@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-12T02:06:34+03:00",
+  "lastUpdated": "2026-06-12T03:05:41+03:00",
   "headlines": [
+    {
+      "headline": "UK Defence Minister Resigns Over Military Spending Dispute",
+      "summary": "British Defence Minister John Healey quit over a months-long dispute with Prime Minister Keir Starmer over military spending, accusing him of failing to commit resources needed to keep Britain safe from mounting threats.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/uk/british-defence-minister-healey-resigns-over-defence-spending-2026-06-11/",
+      "timestamp": "2026-06-12T03:03:00+03:00"
+    },
+    {
+      "headline": "Iranian State Media Says No MoU Text Agreed With US",
+      "summary": "Iran has not approved any text for an initial memorandum of understanding with the United States, Iran semi-official Fars news agency reported, citing a source close to the negotiating team.",
+      "emoji": "🇮🇷",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/irans-fars-news-agency-says-iran-has-not-yet-agreed-text-mou-with-us-2026-06-11/",
+      "timestamp": "2026-06-12T03:03:00+03:00"
+    },
+    {
+      "headline": "Dominican Republic Pushes Tax Hikes to Offset Iran War Oil Surge",
+      "summary": "The Dominican government plans to increase or implement new taxes to generate some $800 million in additional revenue annually to offset a surge in oil prices blamed on the Iran war.",
+      "emoji": "🇩🇴",
+      "category": "Economy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/dominican-republic-tax-increase-oil-prices-90e92024e1e5b0bc17c5037ac1910dd7",
+      "timestamp": "2026-06-12T03:03:00+03:00"
+    },
+    {
+      "headline": "Screwworm Parasite Threatens Texas Cattle Industry",
+      "summary": "A screwworm parasite outbreak is threatening cattle in Texas, sparking a political blame game as agricultural officials work to contain the pest that can kill livestock within days.",
+      "emoji": "🐄",
+      "category": "US Politics",
+      "source": "AP News",
+      "url": "https://apnews.com/article/screwworm-cattle-threatens-parasite-texas-c7a9ecc3a6ffa7a4c4819822d5ff51a1",
+      "timestamp": "2026-06-12T03:03:00+03:00"
+    },
+    {
+      "headline": "Trump Says US Has Ended the War With Iran",
+      "summary": "President Donald Trump announced that the United States has \"ended the war\" with Iran, though Tehran has yet to confirm any formal agreement, as diplomatic negotiations continue.",
+      "emoji": "🇺🇸",
+      "category": "US-Iran War",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/06/11/world/live-news/iran-war-trump-israel-hnk",
+      "timestamp": "2026-06-12T03:03:00+03:00"
+    },
     {
       "headline": "France 24 Live: Iran Claims Hormuz Closure as US Strikes Continue",
       "summary": "France 24 provides ongoing coverage of the Middle East conflict as Iran announces the closure of the Strait of Hormuz following US attacks, with the US denying the claim.",
@@ -44,7 +89,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/china-sanctions-philippine-defence-secretary-over-erroneous-remarks-2026-06-11/",
-      "timestamp": "2026-06-12T02:00:00+03:00"
+      "timestamp": "2026-06-12T02:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/china-bans-philippines-defense-minister-entry-7a8a6f515acdf7b1f6b3d688d9bcc6f8",
+          "angle": "China bans Philippines defense chief over South China Sea comments",
+          "summary": "Beijing has banned Philippines Defense Secretary Gilberto Teodoro and his family from entering China over his statements calling China's South China Sea claims a \"fiction and lie\" and criticizing President Xi Jinping's leadership."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/china-sanctions-philippine-defence-secretary-over-erroneous-remarks-2026-06-11/",
+        "https://apnews.com/article/china-bans-philippines-defense-minister-entry-7a8a6f515acdf7b1f6b3d688d9bcc6f8"
+      ]
     },
     {
       "headline": "Taiwan Vows to Expel Chinese Coast Guard Patrols From Its Waters",
@@ -653,15 +714,6 @@
         "https://www.reuters.com/business/energy/oil-rises-2-iran-announces-closure-strait-hormuz-following-us-strikes-2026-06-11/",
         "https://www.reuters.com/business/energy/oil-rises-2-iran-announces-closure-strait-hormuz-following-us-strikes-2026-06-11/"
       ]
-    },
-    {
-      "headline": "China bans Philippines defense chief over South China Sea comments",
-      "summary": "Beijing has banned Philippines Defense Secretary Gilberto Teodoro and his family from entering China over his statements calling China's South China Sea claims a \"fiction and lie\" and criticizing President Xi Jinping's leadership.",
-      "emoji": "🇨🇳🇵🇭",
-      "category": "Asia-Pacific",
-      "source": "AP News",
-      "url": "https://apnews.com/article/china-bans-philippines-defense-minister-entry-7a8a6f515acdf7b1f6b3d688d9bcc6f8",
-      "timestamp": "2026-06-11T17:05:00+03:00"
     },
     {
       "headline": "Pakistan budget hits middle class to meet IMF targets amid Iran war pressure",
@@ -2585,118 +2637,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/indias-opposition-urges-government-absorb-oil-price-shock-warns-growth-2026-06-09/",
       "timestamp": "2026-06-10T01:06:57+03:00"
-    },
-    {
-      "headline": "Canadas Mark Carney Champions Alliance of Mid-Level Powers to Counter US Protectionism",
-      "summary": "Canadian Prime Minister Mark Carneys push for a coalition of mid-sized economies faces the reality of deep North American trade dependence as Trumps protectionism reshapes global commerce.",
-      "emoji": "🇨🇦",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/mark-carneys-trade-push-collides-with-reality-us-dependence-2026-06-09/",
-      "timestamp": "2026-06-10T01:06:57+03:00"
-    },
-    {
-      "headline": "Russian Military Official Killed in Car Bombing Near Moscow",
-      "summary": "Damir Davydov, a Russian official responsible for missile and artillery ammunition supplies, was killed in a car explosion outside Moscow. The incident occurred in a residential area for military personnel.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/man-killed-in-car-explosion-in-residential-area-for-military-personnel-outside-moscow-media-reports/",
-      "timestamp": "2026-06-10T00:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Telegraph",
-          "url": "https://www.telegraph.co.uk/world-news/2026/06/10/moscow-car-bomb-military-chief/",
-          "angle": "Russian General Killed in Car Bomb Explosion Outside Moscow",
-          "summary": "A senior Russian defense ministry official responsible for missile and artillery ammunition was killed in a car bombing near Moscow, with reports suggesting his son may have inadvertently exposed his location."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "Telegraph"
-      ],
-      "urls": [
-        "https://kyivindependent.com/man-killed-in-car-explosion-in-residential-area-for-military-personnel-outside-moscow-media-reports/",
-        "https://www.telegraph.co.uk/world-news/2026/06/10/moscow-car-bomb-military-chief/"
-      ]
-    },
-    {
-      "headline": "France Condemns Attacks on Christians in East Jerusalem",
-      "summary": "French Foreign Minister Jean-Noel Barrot denounced what he described as a growing wave of violence against Christians in East Jerusalem and Israel, calling for protection of religious sites.",
-      "emoji": "🇫🇷⛪",
-      "category": "Middle East",
-      "source": "Daily Sabah",
-      "url": "https://www.dailysabah.com/world/mid-east/france-condemns-attacks-on-christians-in-east-jerusalem-israel",
-      "timestamp": "2026-06-10T00:05:00+03:00"
-    },
-    {
-      "headline": "Japan Seeks Bigger Role in Asia Subsea Cable Networks as AI Rewires Demand",
-      "summary": "Japan is positioning itself to play a larger role in Asias subsea cable infrastructure as AI drives new demand patterns for data connectivity across the region.",
-      "emoji": "🇯🇵🔌",
-      "category": "Asia-Pacific",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/technology/tech-asia/japan-seeks-bigger-role-in-asia-s-subsea-cables-as-ai-rewires-demand",
-      "timestamp": "2026-06-10T00:05:00+03:00"
-    },
-    {
-      "headline": "White House Defends World Cup Visa Bans for Iranian Officials and Somali Referee",
-      "summary": "The head of the White House World Cup Task Force defended decisions to deny visas to certain Iranian officials and a Somali referee ahead of the 2026 tournament, citing security reasons.",
-      "emoji": "🇺🇸⚽",
-      "category": "Diplomacy",
-      "source": "Al-Monitor",
-      "url": "https://www.al-monitor.com/originals/2026/06/white-house-world-cup-chief-defends-visa-ban-somali-referee-iranians",
-      "timestamp": "2026-06-10T00:05:00+03:00"
-    },
-    {
-      "headline": "EU Announces Fresh Sanctions Package Banning Russian Soldiers From Entering Bloc",
-      "summary": "The European Union unveiled its 21st sanctions package targeting Moscow, including a ban on Russian soldiers entering the bloc and new measures against individuals and entities supporting Russia's war effort.",
-      "emoji": "🇪🇺",
-      "category": "Ukraine-Russia War",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/09/eu-ban-russian-soldiers-fresh-sanctions-moscow",
-      "timestamp": "2026-06-10T00:03:00+03:00"
-    },
-    {
-      "headline": "Israel Strikes Tyre, Killing 8, Then Orders Evacuation of Entire Lebanese City",
-      "summary": "Israel struck the historic port city of Tyre in southern Lebanon killing at least 8 people, minutes later ordering the evacuation of the entire city for the first time in the conflict.",
-      "emoji": "🇱🇧💥",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-order-lebanons-tyre-including-christian-2026-06-09/",
-      "timestamp": "2026-06-09T23:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/trump-says-us-helicopter-pilots-who-went-down-strait-hormuz-are-fine-2026-06-09/",
-          "angle": "Israel Strikes Historic Port of Tyre in Lebanon, Killing Eight",
-          "summary": "Israeli forces struck the southern Lebanese city of Tyre, killing at least eight people in an escalation that adds strain to peace efforts in the broader Middle East conflict."
-        },
-        {
-          "source": "Al Arabiya",
-          "url": "https://english.alarabiya.net/News/middle-east/2026/06/09/israeli-military-issues-evacuation-order-for-lebanon-s-tyre-including-christian-quarter",
-          "angle": "Israel Orders Evacuation of Lebanons Tyre Including Christian Quarter",
-          "summary": "The Israeli military issued an evacuation order for the Lebanese city of Tyre, including its Christian quarter, as hostilities with Hezbollah continue amid broader regional tensions."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Al Arabiya"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/israeli-military-issues-evacuation-order-lebanons-tyre-including-christian-2026-06-09/",
-        "https://www.reuters.com/world/middle-east/trump-says-us-helicopter-pilots-who-went-down-strait-hormuz-are-fine-2026-06-09/",
-        "https://english.alarabiya.net/News/middle-east/2026/06/09/israeli-military-issues-evacuation-order-for-lebanon-s-tyre-including-christian-quarter"
-      ]
-    },
-    {
-      "headline": "Hanwha Qcells launches first fully onshore US solar supply chain",
-      "summary": "South Korean company begins solar cell production in the US, establishing the country’s first integrated supply chain amid push for clean energy independence.",
-      "emoji": "☀️",
-      "category": "Energy",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/technology/hanwha-qcells-kicks-off-first-fully-onshore-us-solar-supply-chain",
-      "timestamp": "2026-06-09T22:10:00+03:00"
     }
   ]
 }
