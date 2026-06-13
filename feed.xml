@@ -1,11 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-<title>Frontion Geopolitical News</title>
-<link>https://frontion.com</link>
-<description>Global geopolitical headlines curated from Tier 1 and Tier 2 sources</description>
+<title>Frontion News Headlines</title>
+<link>https://frontion.news</link>
+<description>Global geopolitical news headlines curated from Tier 1 sources</description>
 <language>en-us</language>
-<lastBuildDate>Sat, 13 Jun 2026 10:08:23 +0300</lastBuildDate>
+<lastBuildDate>Sat, 13 Jun 2026 11:07:24 +0300</lastBuildDate>
+<atom:link href="https://frontion.news/feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>🇺🇦 Ukrainian drone strike kills one at Russian port near Black Sea</title>
+<link>https://www.reuters.com/world/ukraine-drone-strikes-kills-one-sparks-fire-russian-port-temryuk-governor-says-2026-06-13/</link>
+<description>A Ukrainian drone attack killed one person and sparked a fire at a sea terminal in southern Russia's Temryuk port, in the Krasnodar region, as Ukraine continues targeting Russian infrastructure.</description>
+<category>Ukraine-Russia War</category>
+<source url="https://www.reuters.com/world/ukraine-drone-strikes-kills-one-sparks-fire-russian-port-temryuk-governor-says-2026-06-13/">Reuters</source>
+<pubDate>2026-06-13T11:05:00+03:00</pubDate>
+</item>
+<item>
+<title>🇻🇪 Trump says US military strike killed leader of Venezuela's Tren de Aragua gang</title>
+<link>https://www.reuters.com/world/americas/trump-says-us-military-carried-out-strike-leader-tren-de-aragua-2026-06-13/</link>
+<description>President Trump announced US forces carried out a strike that killed Hector Rusthenford Guerrero Flores, leader of the Venezuelan prison gang Tren de Aragua, with Venezuela calling it a joint operation.</description>
+<category>Latin America</category>
+<source url="https://www.reuters.com/world/americas/trump-says-us-military-carried-out-strike-leader-tren-de-aragua-2026-06-13/">Reuters</source>
+<pubDate>2026-06-13T11:05:00+03:00</pubDate>
+</item>
+<item>
+<title>🇮🇷 US downs Iranian drones targeting commercial ships near Strait of Hormuz</title>
+<link>https://www.cnn.com/2026/06/13/world/live-news/iran-war-trump-israel</link>
+<description>US forces shot down multiple Iranian attack drones heading toward commercial vessels in the Strait of Hormuz, even as Washington and Tehran signal they are close to reaching a peace agreement.</description>
+<category>Middle East</category>
+<source url="https://www.cnn.com/2026/06/13/world/live-news/iran-war-trump-israel">CNN</source>
+<pubDate>2026-06-13T11:05:00+03:00</pubDate>
+</item>
+<item>
+<title>⛪ Pope Leo XIV's flight home from Spain grounded by technical issue</title>
+<link>https://www.npr.org/2026/06/13/nx-s1-5856981/pope-leo-flight-grounded</link>
+<description>Pope Leo XIV's Iberia charter flight was grounded by a technical problem after a weeklong visit to Spain, with the Spanish king coming to his aid.</description>
+<category>Europe</category>
+<source url="https://www.npr.org/2026/06/13/nx-s1-5856981/pope-leo-flight-grounded">NPR</source>
+<pubDate>2026-06-13T11:05:00+03:00</pubDate>
+</item>
+<item>
+<title>🇦🇪 UAE to unlock billions in frozen Iranian funds amid ceasefire push</title>
+<link>https://www.aljazeera.com/news/2026/6/12/uae-to-unlock-frozen-iranian-funds-amid-us-ceasefire-push</link>
+<description>The United Arab Emirates has agreed to unlock billions of dollars for Iran, sources say, in a tactical shift after weeks of Iranian attacks on the Gulf state during the US-Israel war with Iran.</description>
+<category>Middle East</category>
+<source url="https://www.aljazeera.com/news/2026/6/12/uae-to-unlock-frozen-iranian-funds-amid-us-ceasefire-push">Al Jazeera</source>
+<pubDate>2026-06-13T11:05:00+03:00</pubDate>
+</item>
 <item>
 <title>🇮🇷 Iran Mines Nuclear Site Entrance to Prevent US Uranium Recovery</title>
 <link>https://www.timesofisrael.com/liveblog_entry/iran-said-to-have-mined-entrance-to-bombed-nuclear-site-to-deter-us-raid-to-retrieve-uranium-stockpile/</link>
@@ -60,14 +101,6 @@
 <description>The Kennedy Center asked for more time to remove President Trumps name from its facade after missing a Friday deadline, citing thunderstorms. Officials say removal expected by Saturday noon.</description>
 <category>US Politics</category>
 <source url="https://apnews.com/article/trump-name-removal-kennedy-center-5a32c569d72c333e9d65c76b4224b617">AP News</source>
-<pubDate>2026-06-13T10:03:00+03:00</pubDate>
-</item>
-<item>
-<title>🇺🇸🇻🇪 US strike killed Tren de Aragua gang boss with Venezuela help</title>
-<link>https://www.aljazeera.com/news/2026/6/13/trump-says-us-strike-killed-tren-de-aragua-gang-boss-with-venezuela-help</link>
-<description>President Trump announced US forces killed a leader of the Venezuelan gang Tren de Aragua, which the administration designated as a terrorist organization. Venezuela reportedly assisted in the operation.</description>
-<category>Latin America</category>
-<source url="https://www.aljazeera.com/news/2026/6/13/trump-says-us-strike-killed-tren-de-aragua-gang-boss-with-venezuela-help">Al Jazeera</source>
 <pubDate>2026-06-13T10:03:00+03:00</pubDate>
 </item>
 <item>
@@ -135,14 +168,6 @@
 <pubDate>2026-06-13T08:05:00+03:00</pubDate>
 </item>
 <item>
-<title>🇮🇳🇫🇷 India and France to Deepen Undersea Defense Cooperation</title>
-<link>https://nagalandpost.com/india-france-set-to-deepen-undersea-defence-capabilities/</link>
-<description>New Delhi and Paris are expanding military ties, particularly in underwater combat capabilities, as both nations respond to growing security challenges in the Indo-Pacific region.</description>
-<category>Defense Industry</category>
-<source url="https://nagalandpost.com/india-france-set-to-deepen-undersea-defence-capabilities/">Nagaland Post</source>
-<pubDate>2026-06-13T08:05:00+03:00</pubDate>
-</item>
-<item>
 <title>🌡️ Antarctica Records Winter Temperatures 20C Above Normal</title>
 <link>https://www.msn.com/en-us/weather/climate-change/a-huge-anomaly-antarctica-records-winter-temperatures-20c-warmer-than-normal/ar-AA25xfxw?ocid=BingNewsVerp</link>
 <description>Scientists are observing a "huge anomaly" as Antarctica experiences a prolonged heatwave with temperatures 20 degrees Celsius warmer than normal for winter, raising concerns about accelerating ice loss.</description>
@@ -180,30 +205,6 @@
 <description>The upcoming G7 summit provides an opportunity for Trump and Modi to mend bilateral relations after US military strikes in Iran accidentally killed Indian sailors, with both leaders seeking to contain tensions.</description>
 <category>Diplomacy</category>
 <source url="https://www.scmp.com/news/asia/south-asia/article/3356984/g7-summit-offers-trump-modi-chance-reset-ties-after-us-strikes-kill-indian-sailors">SCMP</source>
-<pubDate>2026-06-13T06:05:00+03:00</pubDate>
-</item>
-<item>
-<title>🇺🇦⚔️ Ukraine Plans to Recruit Foreign Nationals for Up to Half of Frontline Assault Troops</title>
-<link>https://www.kyivpost.com/post/78073</link>
-<description>Ukraine is preparing to open military recruitment to more foreign nationals, aiming for foreigners to fill 30-50% of assault and storm brigade positions amid severe manpower shortages.</description>
-<category>Ukraine-Russia War</category>
-<source url="https://www.kyivpost.com/post/78073">Kyiv Post</source>
-<pubDate>2026-06-13T06:05:00+03:00</pubDate>
-</item>
-<item>
-<title>💀🇷🇺 More Than 200 18-Year-Old Russian Soldiers Killed in Ukraine War, New Data Shows</title>
-<link>https://euromaidanpress.com/2026/06/13/more-than-200-18-year-old-russian-soldiers-killed/</link>
-<description>A new investigation identifies over 226,000 Russian war dead in Ukraine, including at least 200 18-year-old soldiers, highlighting the devastating human cost of the conflict on Russia's youngest conscripts.</description>
-<category>Ukraine-Russia War</category>
-<source url="https://euromaidanpress.com/2026/06/13/more-than-200-18-year-old-russian-soldiers-killed/">EuroMaidan Press</source>
-<pubDate>2026-06-13T06:05:00+03:00</pubDate>
-</item>
-<item>
-<title>🛸🇷🇺 Inside Rubicon: The Structure of Russia's Elite Drone Center</title>
-<link>https://www.fpri.org/article/2026/06/inside-rubicon-the-structure-of-russias-elite-drone-center/</link>
-<description>Analysis of Russia's newly established Rubicon Center for drone warfare, one of the Russian military's most important developments in 2024-2025, reveals how Moscow is organizing its advanced drone capabilities.</description>
-<category>Defense Industry</category>
-<source url="https://www.fpri.org/article/2026/06/inside-rubicon-the-structure-of-russias-elite-drone-center/">FPRI</source>
 <pubDate>2026-06-13T06:05:00+03:00</pubDate>
 </item>
 </channel>
