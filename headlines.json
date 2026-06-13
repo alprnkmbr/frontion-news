@@ -1,6 +1,15 @@
 {
-  "lastUpdated": "2026-06-13T06:07:47+03:00",
+  "lastUpdated": "2026-06-13T07:07:05+03:00",
   "headlines": [
+    {
+      "headline": "Anthropic suspends new AI models after US security concerns",
+      "summary": "Anthropic has suspended its powerful new AI models Fable 5 and Mythos 5 after US authorities raised security concerns just days following their public release. The company said the government identified a method to jailbreak the systems.",
+      "emoji": "🤖",
+      "category": "Technology",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/articles/c932g3v3e13o",
+      "timestamp": "2026-06-13T07:10:00+03:00"
+    },
     {
       "headline": "G7 Summit Offers Trump and Modi Chance to Reset Ties After US Strikes Kill Indian Sailors",
       "summary": "The upcoming G7 summit provides an opportunity for Trump and Modi to mend bilateral relations after US military strikes in Iran accidentally killed Indian sailors, with both leaders seeking to contain tensions.",
@@ -38,22 +47,29 @@
       "timestamp": "2026-06-13T06:05:00+03:00"
     },
     {
-      "headline": "Hezbollah Says It Confronted Israeli Troops Advancing in Southern Lebanon",
-      "summary": "Hezbollah fighters engaged Israeli forces advancing toward a southern Lebanese town, as Israel continued its strikes in Lebanon amid ongoing regional tensions and US-Iran peace negotiations.",
-      "emoji": "🇱🇧⚔️",
-      "category": "Middle East",
-      "source": "Manila Times",
-      "url": "https://www.manilatimes.net/2026/06/13/world/americas-emea/hezbollah-says-it-confronted-israeli-troops-advancing-in-south-lebanon/2364778",
-      "timestamp": "2026-06-13T06:05:00+03:00"
-    },
-    {
       "headline": "Hezbollah says Lebanon must be included in any US-Iran peace deal",
       "summary": "A senior Hezbollah politician said the group is confident Iran will insist on Lebanon being part of any agreement with the United States, as hopes grow for a deal between Tehran and Washington.",
       "emoji": "🇱🇧",
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-says-2026-06-12/",
-      "timestamp": "2026-06-13T06:03:00+03:00"
+      "timestamp": "2026-06-13T06:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-says-2026-06-12/",
+          "angle": "Hezbollah Expects Lebanon Inclusion in Any US-Iran Deal",
+          "summary": "A leading Hezbollah politician expressed confidence that Iran will insist on Lebanon being included in any ceasefire agreement with the United States, as hopes grow for a diplomatic resolution to the Gulf conflict."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-says-2026-06-12/",
+        "https://www.reuters.com/world/middle-east/hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-says-2026-06-12/"
+      ]
     },
     {
       "headline": "UAE agrees to unlock billions of dollars for Iran, sources say",
@@ -870,31 +886,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/business/finance/wall-st-week-ahead-newly-led-fed-poses-markets-wildcard-rockier-us-indexes-2026-06-12/",
       "timestamp": "2026-06-12T20:03:00+03:00"
-    },
-    {
-      "headline": "Hezbollah Expects Lebanon Inclusion in Any US-Iran Deal",
-      "summary": "A leading Hezbollah politician expressed confidence that Iran will insist on Lebanon being included in any ceasefire agreement with the United States, as hopes grow for a diplomatic resolution to the Gulf conflict.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-says-2026-06-12/",
-      "timestamp": "2026-06-12T19:08:00+03:00",
-      "perspectives": [
-        {
-          "source": "WION",
-          "url": "https://www.wionews.com/world/israel-rules-out-withdrawal-from-lebanon-syria-and-gaza-iran-says-proposed-deal-includes-all-fronts-1781308887104",
-          "angle": "Israel Rules Out Withdrawal from Lebanon, Syria, and Gaza as Iran Claims Deal Covers All Fronts",
-          "summary": "Israeli officials have rejected any withdrawal from occupied territories, while Iranian Foreign Minister Abbas Araghchi stated that a proposed memorandum of understanding would end conflicts across multiple fronts, including Lebanon, Syria, and Gaza."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "WION"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-says-2026-06-12/",
-        "https://www.wionews.com/world/israel-rules-out-withdrawal-from-lebanon-syria-and-gaza-iran-says-proposed-deal-includes-all-fronts-1781308887104"
-      ]
     },
     {
       "headline": "Ukraine Air Force Warns of High-Probability Russian Missile Launch",
@@ -2657,19 +2648,19 @@
       "timestamp": "2026-06-11T08:01:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/israeli-airstrikes-kill-13-south-lebanon-lebanese-sources-say-2026-06-10/",
-          "angle": "Israeli Airstrikes Kill 13 in Southern Lebanon as Hezbollah Conflict Escalates",
-          "summary": "Israeli airstrikes in southern Lebanon killed at least 13 people on Wednesday, Lebanese security sources said, as Israel pressed its campaign against Hezbollah, with the Iran-backed group claiming fresh attacks against Israeli forces in the south."
+          "source": "Manila Times",
+          "url": "https://www.manilatimes.net/2026/06/13/world/americas-emea/hezbollah-says-it-confronted-israeli-troops-advancing-in-south-lebanon/2364778",
+          "angle": "Hezbollah Says It Confronted Israeli Troops Advancing in Southern Lebanon",
+          "summary": "Hezbollah fighters engaged Israeli forces advancing toward a southern Lebanese town, as Israel continued its strikes in Lebanon amid ongoing regional tensions and US-Iran peace negotiations."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "Manila Times"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/israeli-airstrikes-kill-13-south-lebanon-lebanese-sources-say-2026-06-10/",
-        "https://www.reuters.com/world/middle-east/israeli-airstrikes-kill-13-south-lebanon-lebanese-sources-say-2026-06-10/"
+        "https://www.manilatimes.net/2026/06/13/world/americas-emea/hezbollah-says-it-confronted-israeli-troops-advancing-in-south-lebanon/2364778"
       ]
     },
     {
@@ -2698,78 +2689,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/trump-lauds-armenia-pms-decisive-election-win-face-russian-pressure-2026-06-11/",
       "timestamp": "2026-06-11T07:03:00+03:00"
-    },
-    {
-      "headline": "EU fiscal watchdog criticises loosening budget rules for energy transition",
-      "summary": "The European Fiscal Board warned that allowing governments to spend defence fiscal flexibility on clean energy transition undermines EU fiscal discipline, amid debates over how to fund both priorities.",
-      "emoji": "🇪🇺📊",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/eu-fiscal-board-criticises-loosening-eu-rules-over-energy-shock-2026-06-10/",
-      "timestamp": "2026-06-11T06:03:00+03:00"
-    },
-    {
-      "headline": "Indian shares set to open lower on Middle East escalation and US inflation",
-      "summary": "Indian equities are likely to open lower as fresh escalation between the US and Iran and a sharp jump in US inflation trigger risk-off sentiment across global markets.",
-      "emoji": "🇮🇳📉",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/india/indian-shares-may-open-lower-fresh-mideast-escalation-us-inflation-2026-06-11/",
-      "timestamp": "2026-06-11T06:03:00+03:00"
-    },
-    {
-      "headline": "Five EU countries call for united response to Trump drug price threats",
-      "summary": "Five EU member states are pushing for a coordinated European response to US pressure on pharmaceutical pricing, warning against bilateral deals that could undermine the bloc.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "Politico",
-      "url": "https://www.politico.eu/article/5-countries-call-united-eu-response-drug-price-threats/",
-      "timestamp": "2026-06-11T06:00:00+03:00"
-    },
-    {
-      "headline": "UK-EU summit at risk as youth visa talks hit fresh obstacle",
-      "summary": "A planned UK-EU summit faces delays as negotiations over youth mobility visas stall, with both sides struggling to find common ground on migration terms.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "Politico",
-      "url": "https://www.politico.eu/article/uk-eu-summit-risk-youth-visa-talks-hit-fresh-obstacle/",
-      "timestamp": "2026-06-11T06:00:00+03:00"
-    },
-    {
-      "headline": "India calls in air force to secure exam papers after scandal fuels protests",
-      "summary": "The Indian Air Force has been tasked with transporting and securing examination papers after cheating scandals sparked nationwide protests over exam integrity.",
-      "emoji": "🇮🇳",
-      "category": "South Asia",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/south-asia/article/3356688/india-calls-air-force-ensure-exam-papers-secured-after-scandals-fuel-protests",
-      "timestamp": "2026-06-11T06:00:00+03:00"
-    },
-    {
-      "headline": "Police Fire Water Cannons at Belfast Protesters as Unrest Flares After Stabbing",
-      "summary": "Northern Ireland saw renewed violence as police used water cannons against protesters in Belfast following a stabbing incident. A Sudanese man appeared in court charged with attempted murder.",
-      "emoji": "🇬🇧",
-      "category": "Europe",
-      "source": "AP News",
-      "url": "https://apnews.com/article/northern-ireland-belfast-stabbing-violence-1d8b2331cfa33a0b39492ca9098c206f",
-      "timestamp": "2026-06-11T05:03:00+03:00"
-    },
-    {
-      "headline": "Trump White House UFC Fight Requires $60M and 7 Federal Agencies",
-      "summary": "President Donald Trump's planned UFC fight on the White House South Lawn requires a monumental effort from more than seven federal agencies and an estimated $60 million in costs.",
-      "emoji": "🇺🇸",
-      "category": "US Politics",
-      "source": "AP News",
-      "url": "https://apnews.com/article/trump-ufc-costs-federal-agencies-lawsuit-5bd8382d8d106d7685b024508a178748",
-      "timestamp": "2026-06-11T05:03:00+03:00"
-    },
-    {
-      "headline": "Japan Restarts Reactor at World's Largest Nuclear Plant Amid Energy Push",
-      "summary": "A reactor at the world's largest nuclear power plant in Japan has resumed operations as the country pushes to maximize nuclear power generation to cope with growing electricity needs and climate goals.",
-      "emoji": "🇯🇵⚡",
-      "category": "Asia-Pacific",
-      "source": "AP News",
-      "url": "https://apnews.com/article/japan-nuclear-safety-energy-radioactive-waste-f2cea3833ee52ef76d57a834a3d048e1",
-      "timestamp": "2026-06-11T05:03:00+03:00"
     }
   ]
 }
