@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-13T08:06:42+03:00",
+  "lastUpdated": "2026-06-13T09:05:02+03:00",
   "headlines": [
+    {
+      "headline": "US Downs Iranian Drones in Strait of Hormuz as Peace Deal Nears",
+      "summary": "The US military shot down multiple Iranian attack drones targeting commercial vessels near the Strait of Hormuz, even as both Washington and Tehran signaled that a comprehensive peace agreement is imminent.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/iran-peace-deal-looms-while-new-military-action-flares-near-strait-hormuz-2026-06-13/",
+      "timestamp": "2026-06-13T09:03:00+03:00"
+    },
+    {
+      "headline": "Pakistan Confirms Final Text of US-Iran Peace Deal Reached",
+      "summary": "Pakistani Prime Minister Shehbaz Sharif announced that a final, agreed-upon text for a peace deal between the United States and Iran has been reached, with both sides working on implementation steps.",
+      "emoji": "🇵🇰🇺🇸🇮🇷",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/pakistan-pm-sharif-says-x-post-that-final-text-us-iran-peace-deal-agreed-working-2026-06-12/",
+      "timestamp": "2026-06-13T09:03:00+03:00"
+    },
+    {
+      "headline": "China Arrests US Scholar on Suspicion of Spying",
+      "summary": "China confirmed the arrest of Min Zin, a US citizen who leads a think-tank focused on Myanmar, on suspicion of espionage and endangering Chinese national security.",
+      "emoji": "🇨🇳🇺🇸",
+      "category": "US-China",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/china-confirms-arrest-us-citizen-suspected-spying-2026-06-12/",
+      "timestamp": "2026-06-13T09:03:00+03:00"
+    },
+    {
+      "headline": "EU Greenlights First Phase of Membership Talks for Ukraine and Moldova",
+      "summary": "Ambassadors from all 27 EU countries agreed to advance membership negotiations with Ukraine and Moldova, with the first phase of accession talks set to begin on Monday.",
+      "emoji": "🇪🇺🇺🇦",
+      "category": "Europe",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/eu-envoys-greenlight-first-phase-membership-talks-ukraine-moldova-2026-06-12/",
+      "timestamp": "2026-06-13T09:03:00+03:00"
+    },
+    {
+      "headline": "Philippines Death Toll Rises to 61 After Powerful Mindanao Earthquake",
+      "summary": "The death toll from the magnitude 7.8 earthquake that struck the southern Philippines has climbed to 61, with disaster agencies continuing rescue and recovery operations across Mindanao.",
+      "emoji": "🇵🇭",
+      "category": "Asia-Pacific",
+      "source": "TRT World",
+      "url": "https://www.trtworld.com/article/c8bec65c3781",
+      "timestamp": "2026-06-13T09:03:00+03:00"
+    },
     {
       "headline": "Putin Admits Russian Troops \"Cannot Raise Their Heads\" Under Ukrainian Drone Pressure",
       "summary": "On Russia Day, Putin acknowledged that Russian forces struggle under relentless Ukrainian drone attacks, revealing how Ukraine has reshaped the battlefield four years into the war.",
@@ -8,16 +53,23 @@
       "category": "Ukraine-Russia War",
       "source": "Kyiv Post",
       "url": "https://www.kyivpost.com/post/78086",
-      "timestamp": "2026-06-13T08:05:00+03:00"
-    },
-    {
-      "headline": "NATO Weighs Alternative Defense Plans for Europe as US Shifts Focus",
-      "summary": "NATO\"s top military officer is developing contingency plans to defend Europe against potential Russian aggression without heavy US reliance, amid concerns over American strategic pivot.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "AsiaOne",
-      "url": "https://www.asiaone.com/world/nato-weighs-options-defend-europe-us-plans-conflict-elsewhere",
-      "timestamp": "2026-06-13T08:05:00+03:00"
+      "timestamp": "2026-06-13T08:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "TASS",
+          "url": "https://tass.com/defense/2145821",
+          "angle": "Russian Defense Ministry Claims 1,460 Ukrainian Troops Lost in Week",
+          "summary": "Russian Defense Ministry reports Ukrainian armed forces weekly losses exceeded 1,460 servicemen in the Battlegroup West area of responsibility."
+        }
+      ],
+      "sources": [
+        "Kyiv Post",
+        "TASS"
+      ],
+      "urls": [
+        "https://www.kyivpost.com/post/78086",
+        "https://tass.com/defense/2145821"
+      ]
     },
     {
       "headline": "India and France to Deepen Undersea Defense Cooperation",
@@ -44,7 +96,23 @@
       "category": "Climate",
       "source": "MSN Weather",
       "url": "https://www.msn.com/en-us/weather/climate-change/a-huge-anomaly-antarctica-records-winter-temperatures-20c-warmer-than-normal/ar-AA25xfxw?ocid=BingNewsVerp",
-      "timestamp": "2026-06-13T08:05:00+03:00"
+      "timestamp": "2026-06-13T08:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jun/13/antarcticas-west-coast-missing-an-area-of-sea-ice-the-size-of-france-as-temperatures-peak-20c-above-average",
+          "angle": "Antarctica missing sea ice area size of France as temperatures soar 20C above average",
+          "summary": "A vast area of the Bellingshausen Sea on Antarctica west coast should be covered by sea ice but is missing, with experts calling the loss unprecedented and temperatures peaking 20 degrees above average."
+        }
+      ],
+      "sources": [
+        "MSN Weather",
+        "The Guardian"
+      ],
+      "urls": [
+        "https://www.msn.com/en-us/weather/climate-change/a-huge-anomaly-antarctica-records-winter-temperatures-20c-warmer-than-normal/ar-AA25xfxw?ocid=BingNewsVerp",
+        "https://www.theguardian.com/world/2026/jun/13/antarcticas-west-coast-missing-an-area-of-sea-ice-the-size-of-france-as-temperatures-peak-20c-above-average"
+      ]
     },
     {
       "headline": "US-Iran peace deal close as military action flares near Strait of Hormuz",
@@ -53,7 +121,31 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/iran-peace-deal-looms-while-new-military-action-flares-near-strait-hormuz-2026-06-13/",
-      "timestamp": "2026-06-13T08:05:00+03:00"
+      "timestamp": "2026-06-13T08:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/pakistan-pm-sharif-says-x-post-that-final-text-us-iran-peace-deal-agreed-working-2026-06-12/",
+          "angle": "Pakistan PM confirms US-Iran peace deal text finalized",
+          "summary": "Prime Minister Shehbaz Sharif announced that Washington and Tehran have reached a final agreed text for a peace deal, with both sides working on next steps toward implementation."
+        },
+        {
+          "source": "Al Arabiya",
+          "url": "https://english.alarabiya.net/News/middle-east/2026/06/11/us-military-says-none-of-its-warships-struck-in-strait-of-hormuz-",
+          "angle": "US Military Confirms No Warships Struck in Strait of Hormuz",
+          "summary": "The US military has confirmed that none of its naval vessels were hit in the Strait of Hormuz, amid Iranian claims of successful strikes on American assets."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "Al Arabiya"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/iran-peace-deal-looms-while-new-military-action-flares-near-strait-hormuz-2026-06-13/",
+        "https://www.reuters.com/world/asia-pacific/pakistan-pm-sharif-says-x-post-that-final-text-us-iran-peace-deal-agreed-working-2026-06-12/",
+        "https://english.alarabiya.net/News/middle-east/2026/06/11/us-military-says-none-of-its-warships-struck-in-strait-of-hormuz-"
+      ]
     },
     {
       "headline": "Ukraine to request $20 billion from allies to maintain battlefield momentum",
@@ -62,7 +154,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/ukraine-will-ask-allies-20-bln-keep-momentum-against-russia-source-says-2026-06-12/",
-      "timestamp": "2026-06-13T08:05:00+03:00"
+      "timestamp": "2026-06-13T08:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/europe/ukraine-will-ask-allies-20-bln-keep-momentum-against-russia-source-says-2026-06-12/",
+          "angle": "Ukraine requests $20 billion from allies to sustain momentum",
+          "summary": "Ukraine is seeking an additional $20 billion in military funding from allies to cement its battlefield advantage over Russia. The request comes as Kyiv confirms strikes on Russian refineries and Putin announces satellite-based drone control systems."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/ukraine-will-ask-allies-20-bln-keep-momentum-against-russia-source-says-2026-06-12/",
+        "https://www.reuters.com/world/europe/ukraine-will-ask-allies-20-bln-keep-momentum-against-russia-source-says-2026-06-12/"
+      ]
     },
     {
       "headline": "EU advances membership talks with Ukraine and Moldova",
@@ -71,7 +179,23 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/eu-envoys-greenlight-first-phase-membership-talks-ukraine-moldova-2026-06-12/",
-      "timestamp": "2026-06-13T08:05:00+03:00"
+      "timestamp": "2026-06-13T08:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/eu-envoys-greenlight-first-phase-membership-talks-ukraine-moldova-2026-06-12/",
+          "angle": "EU envoys greenlight first phase of membership talks with Ukraine and Moldova",
+          "summary": "Ambassadors from the EU's 27 countries agreed to advance membership talks with Ukraine and Moldova, with negotiations set to begin on Monday."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/eu-envoys-greenlight-first-phase-membership-talks-ukraine-moldova-2026-06-12/",
+        "https://www.reuters.com/world/eu-envoys-greenlight-first-phase-membership-talks-ukraine-moldova-2026-06-12/"
+      ]
     },
     {
       "headline": "AI executives from Anthropic, OpenAI, Google to attend G7 summit",
@@ -80,15 +204,6 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/tech-executives-attend-g7-summit-leaders-address-ai-online-safety-2026-06-12/",
-      "timestamp": "2026-06-13T08:05:00+03:00"
-    },
-    {
-      "headline": "North Korea signals full support for Russia on National Day",
-      "summary": "Kim Jong Un sent a congratulatory message to Putin emphasizing continued support for Russia, deepening the military partnership between the two nations.",
-      "emoji": "🇰🇵🇷🇺",
-      "category": "Asia-Pacific",
-      "source": "Asahi Shimbun",
-      "url": "https://www.asahi.com/ajw/articles/16638700",
       "timestamp": "2026-06-13T08:05:00+03:00"
     },
     {
@@ -168,15 +283,6 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/uae-unlock-billions-dollars-iran-sources-say-2026-06-12/",
-      "timestamp": "2026-06-13T06:03:00+03:00"
-    },
-    {
-      "headline": "Antarctica missing sea ice area size of France as temperatures soar 20C above average",
-      "summary": "A vast area of the Bellingshausen Sea on Antarctica west coast should be covered by sea ice but is missing, with experts calling the loss unprecedented and temperatures peaking 20 degrees above average.",
-      "emoji": "🥶",
-      "category": "Climate",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/13/antarcticas-west-coast-missing-an-area-of-sea-ice-the-size-of-france-as-temperatures-peak-20c-above-average",
       "timestamp": "2026-06-13T06:03:00+03:00"
     },
     {
@@ -443,31 +549,6 @@
       ]
     },
     {
-      "headline": "EU envoys greenlight first phase of membership talks with Ukraine and Moldova",
-      "summary": "Ambassadors from the EU's 27 countries agreed to advance membership talks with Ukraine and Moldova, with negotiations set to begin on Monday.",
-      "emoji": "🇪🇺",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/eu-envoys-greenlight-first-phase-membership-talks-ukraine-moldova-2026-06-12/",
-      "timestamp": "2026-06-13T03:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/eu-envoys-greenlight-first-phase-membership-talks-ukraine-moldova-2026-06-12/",
-          "angle": "EU Approves First Phase of Membership Talks for Ukraine and Moldova",
-          "summary": "EU ambassadors agreed to advance membership negotiations with Ukraine and Moldova, with the first phase set to begin Monday. A significant step toward European integration for both nations."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/eu-envoys-greenlight-first-phase-membership-talks-ukraine-moldova-2026-06-12/",
-        "https://www.reuters.com/world/eu-envoys-greenlight-first-phase-membership-talks-ukraine-moldova-2026-06-12/"
-      ]
-    },
-    {
       "headline": "Pope Leo XIV flight grounded in Spain, king offers help",
       "summary": "Pope Leo XIV faced an unexpected travel delay when his charter flight back to Rome was grounded due to a technical issue. Spain's King Felipe offered assistance.",
       "emoji": "⛪",
@@ -565,15 +646,6 @@
       "timestamp": "2026-06-13T02:03:00+03:00"
     },
     {
-      "headline": "Ukraine requests $20 billion from allies to sustain momentum",
-      "summary": "Ukraine is seeking an additional $20 billion in military funding from allies to cement its battlefield advantage over Russia. The request comes as Kyiv confirms strikes on Russian refineries and Putin announces satellite-based drone control systems.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/europe/ukraine-will-ask-allies-20-bln-keep-momentum-against-russia-source-says-2026-06-12/",
-      "timestamp": "2026-06-13T02:03:00+03:00"
-    },
-    {
       "headline": "Pope Leo warns Europe's migrant traffickers to repent or face hell",
       "summary": "Pope Leo issued a stern warning to human traffickers exploiting desperate migrants trying to reach Europe through Spain's Canary Islands, telling them to repent or face divine judgment.",
       "emoji": "⛪",
@@ -606,31 +678,6 @@
       "source": "Baltimore Sun",
       "url": "https://www.baltimoresun.com/2026/06/12/iran-loosens-strait-of-hormuz-stranglehold/",
       "timestamp": "2026-06-13T01:03:00+03:00"
-    },
-    {
-      "headline": "NATO Weighs Alternative Defense Plans as US Prepares for Conflicts Elsewhere",
-      "summary": "NATO's top military officer is developing contingency plans to defend Europe from Russian aggression without full US support, as Washington shifts focus to other global conflicts. The planning reflects growing uncertainty about America's commitment to European security.",
-      "emoji": "🇪🇺⚔️",
-      "category": "Europe",
-      "source": "Boston Herald",
-      "url": "https://www.bostonherald.com/2026/06/12/nato-us-europe-defense/",
-      "timestamp": "2026-06-13T01:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Politico",
-          "url": "https://www.politico.eu/article/britains-defense-spending-plans-in-chaos-as-nato-summit-looms-john-healey/",
-          "angle": "UK Defense Plans in Chaos Ahead of NATO Summit",
-          "summary": "Britains defense spending strategy is in disarray just weeks before a crucial NATO summit. Plans for a major rearmament drive to deter Russia and reinforce UK commitments are facing political and budgetary obstacles."
-        }
-      ],
-      "sources": [
-        "Boston Herald",
-        "Politico"
-      ],
-      "urls": [
-        "https://www.bostonherald.com/2026/06/12/nato-us-europe-defense/",
-        "https://www.politico.eu/article/britains-defense-spending-plans-in-chaos-as-nato-summit-looms-john-healey/"
-      ]
     },
     {
       "headline": "Global submarine arms race intensifies as 480+ subs from 40+ nations patrol world oceans",
@@ -730,31 +777,6 @@
       "source": "Nikkei Asia",
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/factories-in-myanmar-struggle-to-cope-with-import-controls",
       "timestamp": "2026-06-12T22:06:00+03:00"
-    },
-    {
-      "headline": "Pakistan PM confirms US-Iran peace deal text finalized",
-      "summary": "Prime Minister Shehbaz Sharif announced that Washington and Tehran have reached a final agreed text for a peace deal, with both sides working on next steps toward implementation.",
-      "emoji": "🇵🇰",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/pakistan-pm-sharif-says-x-post-that-final-text-us-iran-peace-deal-agreed-working-2026-06-12/",
-      "timestamp": "2026-06-12T22:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-12-june-2026-7085e386e1c40ee6cfe634210970143f",
-          "angle": "Pakistan PM confirms US-Iran peace deal text agreed",
-          "summary": "Pakistan Prime Minister Shehbaz Sharif announced that the final text of a US-Iran peace deal has been agreed, potentially ending the three-month conflict. Negotiators are now working on implementation steps."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/pakistan-pm-sharif-says-x-post-that-final-text-us-iran-peace-deal-agreed-working-2026-06-12/",
-        "https://apnews.com/article/iran-us-ceasefire-hezbollah-israel-12-june-2026-7085e386e1c40ee6cfe634210970143f"
-      ]
     },
     {
       "headline": "Ukraine and Russia trade drone strikes on energy infrastructure",
@@ -1129,29 +1151,28 @@
       "timestamp": "2026-06-12T16:05:00+03:00",
       "perspectives": [
         {
-          "source": "Al Arabiya",
-          "url": "https://english.alarabiya.net/News/world/2026/06/12/us-plans-major-cut-to-fighter-jets-warships-for-nato-operations-in-europe-report",
-          "angle": "US Plans Major Cuts to NATO Fighter Jets and Warships in Europe",
-          "summary": "The United States plans to significantly reduce aircraft and warships available for NATO operations in Europe, according to a New York Times report citing senior European officials."
+          "source": "AsiaOne",
+          "url": "https://www.asiaone.com/world/nato-weighs-options-defend-europe-us-plans-conflict-elsewhere",
+          "angle": "NATO Weighs Alternative Defense Plans for Europe as US Shifts Focus",
+          "summary": "NATO\"s top military officer is developing contingency plans to defend Europe against potential Russian aggression without heavy US reliance, amid concerns over American strategic pivot."
+        },
+        {
+          "source": "Boston Herald",
+          "url": "https://www.bostonherald.com/2026/06/12/nato-us-europe-defense/",
+          "angle": "NATO Weighs Alternative Defense Plans as US Prepares for Conflicts Elsewhere",
+          "summary": "NATO's top military officer is developing contingency plans to defend Europe from Russian aggression without full US support, as Washington shifts focus to other global conflicts. The planning reflects growing uncertainty about America's commitment to European security."
         }
       ],
       "sources": [
         "Reuters",
-        "Al Arabiya"
+        "AsiaOne",
+        "Boston Herald"
       ],
       "urls": [
         "https://www.reuters.com/business/aerospace-defense/us-plans-major-cut-fighter-jets-warships-nato-operations-europe-nyt-reports-2026-06-12/",
-        "https://english.alarabiya.net/News/world/2026/06/12/us-plans-major-cut-to-fighter-jets-warships-for-nato-operations-in-europe-report"
+        "https://www.asiaone.com/world/nato-weighs-options-defend-europe-us-plans-conflict-elsewhere",
+        "https://www.bostonherald.com/2026/06/12/nato-us-europe-defense/"
       ]
-    },
-    {
-      "headline": "US-Iran interim agreement takes shape ahead of potential Sunday signing",
-      "summary": "The US and Iran have reached a preliminary understanding with a memorandum that could be signed Sunday in Geneva. Iran insists any deal must also end fighting in Lebanon, while details are still being finalized.",
-      "emoji": "🇮🇷🇺🇸",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/trump-says-iran-war-deal-close-strait-hormuz-tensions-linger-2026-06-12/",
-      "timestamp": "2026-06-12T16:05:00+03:00"
     },
     {
       "headline": "North Korea expresses full support for Russia in National Day message",
@@ -1163,20 +1184,29 @@
       "timestamp": "2026-06-12T16:05:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/north-koreas-kim-voices-full-support-russia-sends-national-day-message-putin-2026-06-11/",
-          "angle": "North Korea Voices Full Support for Russia on National Day",
-          "summary": "Kim Jong Un sent a congratulatory message to Putin expressing full support for Russia domestic and foreign policies, reinforcing the deepening Pyongyang-Moscow alliance."
+          "source": "Asahi Shimbun",
+          "url": "https://www.asahi.com/ajw/articles/16638700",
+          "angle": "North Korea signals full support for Russia on National Day",
+          "summary": "Kim Jong Un sent a congratulatory message to Putin emphasizing continued support for Russia, deepening the military partnership between the two nations."
         }
       ],
       "sources": [
         "Reuters",
-        "Reuters"
+        "Asahi Shimbun"
       ],
       "urls": [
         "https://www.reuters.com/world/asia-pacific/north-koreas-kim-voices-full-support-russia-sends-national-day-message-putin-2026-06-11/",
-        "https://www.reuters.com/world/asia-pacific/north-koreas-kim-voices-full-support-russia-sends-national-day-message-putin-2026-06-11/"
+        "https://www.asahi.com/ajw/articles/16638700"
       ]
+    },
+    {
+      "headline": "US-Iran interim agreement takes shape ahead of potential Sunday signing",
+      "summary": "The US and Iran have reached a preliminary understanding with a memorandum that could be signed Sunday in Geneva. Iran insists any deal must also end fighting in Lebanon, while details are still being finalized.",
+      "emoji": "🇮🇷🇺🇸",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/trump-says-iran-war-deal-close-strait-hormuz-tensions-linger-2026-06-12/",
+      "timestamp": "2026-06-12T16:05:00+03:00"
     },
     {
       "headline": "Analysis: Iran-US Prolonged Negotiations Increase Escalation Risk",
@@ -1194,15 +1224,6 @@
       "category": "Middle East",
       "source": "Israel National News",
       "url": "https://www.israelnationalnews.com/news/428546",
-      "timestamp": "2026-06-12T16:04:00+03:00"
-    },
-    {
-      "headline": "Russian Defense Ministry Claims 1,460 Ukrainian Troops Lost in Week",
-      "summary": "Russian Defense Ministry reports Ukrainian armed forces weekly losses exceeded 1,460 servicemen in the Battlegroup West area of responsibility.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "TASS",
-      "url": "https://tass.com/defense/2145821",
       "timestamp": "2026-06-12T16:04:00+03:00"
     },
     {
@@ -2616,15 +2637,6 @@
       "timestamp": "2026-06-11T10:05:00+03:00"
     },
     {
-      "headline": "US Military Confirms No Warships Struck in Strait of Hormuz",
-      "summary": "The US military has confirmed that none of its naval vessels were hit in the Strait of Hormuz, amid Iranian claims of successful strikes on American assets.",
-      "emoji": "⚔️",
-      "category": "US-Iran War",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/middle-east/2026/06/11/us-military-says-none-of-its-warships-struck-in-strait-of-hormuz-",
-      "timestamp": "2026-06-11T10:05:00+03:00"
-    },
-    {
       "headline": "Trump to Meet Defense Firms Over Weapons Shortage Concerns",
       "summary": "The White House is convening defense industry leaders to discuss ramping up production amid growing concerns over missile supply and depleted stockpiles from ongoing conflicts.",
       "emoji": "🏛️",
@@ -2760,15 +2772,6 @@
       "category": "Middle East",
       "source": "AP News",
       "url": "https://apnews.com/article/us-iran-war-hormuz-11-june-2026-2656530d342f730821fc63e67a342891",
-      "timestamp": "2026-06-11T07:03:00+03:00"
-    },
-    {
-      "headline": "Dollar wobbles as Middle East strikes unsettle markets",
-      "summary": "The US dollar fluctuated on Thursday as fresh US military strikes in the Middle East undermined sentiment, while a surge in May consumer inflation to a three-year high kept investors uneasy about the Federal Reserve outlook.",
-      "emoji": "💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/africa/dollar-shaky-investors-weigh-rate-outlook-middle-east-worries-2026-06-11/",
       "timestamp": "2026-06-11T07:03:00+03:00"
     }
   ]
