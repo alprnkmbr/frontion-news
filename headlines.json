@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-13T09:05:02+03:00",
+  "lastUpdated": "2026-06-13T10:06:55+03:00",
   "headlines": [
+    {
+      "headline": "Brazilian refineries sold fuel to firm linked to terrorist organization",
+      "summary": "Reuters reports Brazilian refineries sold over 100 million liters of naphtha to a firm under investigation for fraud involving a U.S.-designated terrorist group, raising concerns about supply chain integrity.",
+      "emoji": "🇧🇷⚠️",
+      "category": "Latin America",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/brazil-refiners-fueled-scheme-linked-us-designated-terrorist-group-source-2026-06-12/",
+      "timestamp": "2026-06-13T10:03:00+03:00"
+    },
+    {
+      "headline": "Kennedy Center misses court deadline to remove Trump name",
+      "summary": "The Kennedy Center asked for more time to remove President Trumps name from its facade after missing a Friday deadline, citing thunderstorms. Officials say removal expected by Saturday noon.",
+      "emoji": "🏛️⚖️",
+      "category": "US Politics",
+      "source": "AP News",
+      "url": "https://apnews.com/article/trump-name-removal-kennedy-center-5a32c569d72c333e9d65c76b4224b617",
+      "timestamp": "2026-06-13T10:03:00+03:00"
+    },
+    {
+      "headline": "US strike killed Tren de Aragua gang boss with Venezuela help",
+      "summary": "President Trump announced US forces killed a leader of the Venezuelan gang Tren de Aragua, which the administration designated as a terrorist organization. Venezuela reportedly assisted in the operation.",
+      "emoji": "🇺🇸🇻🇪",
+      "category": "Latin America",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/13/trump-says-us-strike-killed-tren-de-aragua-gang-boss-with-venezuela-help",
+      "timestamp": "2026-06-13T10:03:00+03:00"
+    },
+    {
+      "headline": "Over 225,000 Russian soldiers identified killed in Ukraine",
+      "summary": "Russian independent media Mediazona, working with BBC Russian service, confirmed identities of over 225,000 Russian soldiers killed in Ukraine, marking one of the most comprehensive casualty tallies.",
+      "emoji": "🇷🇺⚔️",
+      "category": "Ukraine-Russia War",
+      "source": "Kyiv Independent",
+      "url": "https://kyivindependent.com/over-225-000-russian-soldiers-killed-in-ukraine-identified-by-media-investigation/",
+      "timestamp": "2026-06-13T10:03:00+03:00"
+    },
+    {
+      "headline": "Elon Musk becomes worlds first trillionaire after SpaceX IPO",
+      "summary": "BBC reports Elon Musk became the first trillionaire as SpaceX shares surged in their Nasdaq debut, valuing the company at over $2 trillion and making it the sixth-largest U.S. company.",
+      "emoji": "🚀💰",
+      "category": "Economy",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/sounds/play/w1730c5l1sxtbhq",
+      "timestamp": "2026-06-13T10:03:00+03:00"
+    },
     {
       "headline": "US Downs Iranian Drones in Strait of Hormuz as Peace Deal Nears",
       "summary": "The US military shot down multiple Iranian attack drones targeting commercial vessels near the Strait of Hormuz, even as both Washington and Tehran signaled that a comprehensive peace agreement is imminent.",
@@ -8,7 +53,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/iran-peace-deal-looms-while-new-military-action-flares-near-strait-hormuz-2026-06-13/",
-      "timestamp": "2026-06-13T09:03:00+03:00"
+      "timestamp": "2026-06-13T09:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/asia-pacific/iran-peace-deal-looms-while-new-military-action-flares-near-strait-hormuz-2026-06-13/",
+          "angle": "US-Iran peace deal close as military action flares near Strait of Hormuz",
+          "summary": "Both Washington and Tehran signaled an agreement to end their war is imminent, with a senior US official saying the text is agreed and an initial deal could be signed within days. Iranian drones continue targeting commercial vessels in the Strait."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/iran-peace-deal-looms-while-new-military-action-flares-near-strait-hormuz-2026-06-13/",
+        "https://www.reuters.com/world/asia-pacific/iran-peace-deal-looms-while-new-military-action-flares-near-strait-hormuz-2026-06-13/"
+      ]
     },
     {
       "headline": "Pakistan Confirms Final Text of US-Iran Peace Deal Reached",
@@ -26,7 +87,23 @@
       "category": "US-China",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/china-confirms-arrest-us-citizen-suspected-spying-2026-06-12/",
-      "timestamp": "2026-06-13T09:03:00+03:00"
+      "timestamp": "2026-06-13T09:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/china-confirms-arrest-us-citizen-suspected-spying-2026-06-12/",
+          "angle": "China arrests US scholar of Myanmar on spying suspicion",
+          "summary": "China confirmed the arrest of Min Zin, a US citizen who leads a think-tank focused on Myanmar, on suspicion of spying and endangering national security. The detention raises tensions between Washington and Beijing."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/china-confirms-arrest-us-citizen-suspected-spying-2026-06-12/",
+        "https://www.reuters.com/world/china/china-confirms-arrest-us-citizen-suspected-spying-2026-06-12/"
+      ]
     },
     {
       "headline": "EU Greenlights First Phase of Membership Talks for Ukraine and Moldova",
@@ -35,7 +112,23 @@
       "category": "Europe",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/eu-envoys-greenlight-first-phase-membership-talks-ukraine-moldova-2026-06-12/",
-      "timestamp": "2026-06-13T09:03:00+03:00"
+      "timestamp": "2026-06-13T09:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/eu-envoys-greenlight-first-phase-membership-talks-ukraine-moldova-2026-06-12/",
+          "angle": "EU advances membership talks with Ukraine and Moldova",
+          "summary": "EU ambassadors agreed to begin the first phase of membership negotiations with Ukraine and Moldova, a significant step toward potential EU expansion."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/eu-envoys-greenlight-first-phase-membership-talks-ukraine-moldova-2026-06-12/",
+        "https://www.reuters.com/world/eu-envoys-greenlight-first-phase-membership-talks-ukraine-moldova-2026-06-12/"
+      ]
     },
     {
       "headline": "Philippines Death Toll Rises to 61 After Powerful Mindanao Earthquake",
@@ -44,7 +137,31 @@
       "category": "Asia-Pacific",
       "source": "TRT World",
       "url": "https://www.trtworld.com/article/c8bec65c3781",
-      "timestamp": "2026-06-13T09:03:00+03:00"
+      "timestamp": "2026-06-13T09:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "MSN Philippines",
+          "url": "https://www.msn.com/en-ph/news/other/over-500000-people-affected-by-m78-mindanao-earthquake/ar-AA25x88i?ocid=BingNewsVerp",
+          "angle": "Over 500,000 Affected by Powerful M7.8 Earthquake in Philippines",
+          "summary": "A magnitude 7.8 earthquake struck off Mindanao, affecting more than half a million people, though no tsunami warning was issued. Cleanup efforts are underway."
+        },
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jun/13/philippines-earthquake-cleanup-mindanao",
+          "angle": "Philippines earthquake kills at least 55 on Mindanao island",
+          "summary": "A powerful earthquake struck Mindanao in the Philippines, killing at least 55 people and leaving a trail of destruction as the country picks up the pieces from its strongest quake in decades."
+        }
+      ],
+      "sources": [
+        "TRT World",
+        "MSN Philippines",
+        "The Guardian"
+      ],
+      "urls": [
+        "https://www.trtworld.com/article/c8bec65c3781",
+        "https://www.msn.com/en-ph/news/other/over-500000-people-affected-by-m78-mindanao-earthquake/ar-AA25x88i?ocid=BingNewsVerp",
+        "https://www.theguardian.com/world/2026/jun/13/philippines-earthquake-cleanup-mindanao"
+      ]
     },
     {
       "headline": "Putin Admits Russian Troops \"Cannot Raise Their Heads\" Under Ukrainian Drone Pressure",
@@ -81,15 +198,6 @@
       "timestamp": "2026-06-13T08:05:00+03:00"
     },
     {
-      "headline": "Over 500,000 Affected by Powerful M7.8 Earthquake in Philippines",
-      "summary": "A magnitude 7.8 earthquake struck off Mindanao, affecting more than half a million people, though no tsunami warning was issued. Cleanup efforts are underway.",
-      "emoji": "🇵🇭",
-      "category": "Asia-Pacific",
-      "source": "MSN Philippines",
-      "url": "https://www.msn.com/en-ph/news/other/over-500000-people-affected-by-m78-mindanao-earthquake/ar-AA25x88i?ocid=BingNewsVerp",
-      "timestamp": "2026-06-13T08:05:00+03:00"
-    },
-    {
       "headline": "Antarctica Records Winter Temperatures 20C Above Normal",
       "summary": "Scientists are observing a \"huge anomaly\" as Antarctica experiences a prolonged heatwave with temperatures 20 degrees Celsius warmer than normal for winter, raising concerns about accelerating ice loss.",
       "emoji": "🌡️",
@@ -115,39 +223,6 @@
       ]
     },
     {
-      "headline": "US-Iran peace deal close as military action flares near Strait of Hormuz",
-      "summary": "Both Washington and Tehran signaled an agreement to end their war is imminent, with a senior US official saying the text is agreed and an initial deal could be signed within days. Iranian drones continue targeting commercial vessels in the Strait.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/iran-peace-deal-looms-while-new-military-action-flares-near-strait-hormuz-2026-06-13/",
-      "timestamp": "2026-06-13T08:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/asia-pacific/pakistan-pm-sharif-says-x-post-that-final-text-us-iran-peace-deal-agreed-working-2026-06-12/",
-          "angle": "Pakistan PM confirms US-Iran peace deal text finalized",
-          "summary": "Prime Minister Shehbaz Sharif announced that Washington and Tehran have reached a final agreed text for a peace deal, with both sides working on next steps toward implementation."
-        },
-        {
-          "source": "Al Arabiya",
-          "url": "https://english.alarabiya.net/News/middle-east/2026/06/11/us-military-says-none-of-its-warships-struck-in-strait-of-hormuz-",
-          "angle": "US Military Confirms No Warships Struck in Strait of Hormuz",
-          "summary": "The US military has confirmed that none of its naval vessels were hit in the Strait of Hormuz, amid Iranian claims of successful strikes on American assets."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters",
-        "Al Arabiya"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/iran-peace-deal-looms-while-new-military-action-flares-near-strait-hormuz-2026-06-13/",
-        "https://www.reuters.com/world/asia-pacific/pakistan-pm-sharif-says-x-post-that-final-text-us-iran-peace-deal-agreed-working-2026-06-12/",
-        "https://english.alarabiya.net/News/middle-east/2026/06/11/us-military-says-none-of-its-warships-struck-in-strait-of-hormuz-"
-      ]
-    },
-    {
       "headline": "Ukraine to request $20 billion from allies to maintain battlefield momentum",
       "summary": "Ukraine is seeking additional military funding from allies to cement its battlefield advantage over Russia, as Kyiv looks to sustain gains in the four-year-old war.",
       "emoji": "🇺🇦💰",
@@ -170,31 +245,6 @@
       "urls": [
         "https://www.reuters.com/world/europe/ukraine-will-ask-allies-20-bln-keep-momentum-against-russia-source-says-2026-06-12/",
         "https://www.reuters.com/world/europe/ukraine-will-ask-allies-20-bln-keep-momentum-against-russia-source-says-2026-06-12/"
-      ]
-    },
-    {
-      "headline": "EU advances membership talks with Ukraine and Moldova",
-      "summary": "EU ambassadors agreed to begin the first phase of membership negotiations with Ukraine and Moldova, a significant step toward potential EU expansion.",
-      "emoji": "🇪🇺🇺🇦",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/eu-envoys-greenlight-first-phase-membership-talks-ukraine-moldova-2026-06-12/",
-      "timestamp": "2026-06-13T08:05:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/eu-envoys-greenlight-first-phase-membership-talks-ukraine-moldova-2026-06-12/",
-          "angle": "EU envoys greenlight first phase of membership talks with Ukraine and Moldova",
-          "summary": "Ambassadors from the EU's 27 countries agreed to advance membership talks with Ukraine and Moldova, with negotiations set to begin on Monday."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/eu-envoys-greenlight-first-phase-membership-talks-ukraine-moldova-2026-06-12/",
-        "https://www.reuters.com/world/eu-envoys-greenlight-first-phase-membership-talks-ukraine-moldova-2026-06-12/"
       ]
     },
     {
@@ -283,15 +333,6 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/uae-unlock-billions-dollars-iran-sources-say-2026-06-12/",
-      "timestamp": "2026-06-13T06:03:00+03:00"
-    },
-    {
-      "headline": "Philippines earthquake kills at least 55 on Mindanao island",
-      "summary": "A powerful earthquake struck Mindanao in the Philippines, killing at least 55 people and leaving a trail of destruction as the country picks up the pieces from its strongest quake in decades.",
-      "emoji": "🇵🇭",
-      "category": "Asia-Pacific",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/13/philippines-earthquake-cleanup-mindanao",
       "timestamp": "2026-06-13T06:03:00+03:00"
     },
     {
@@ -617,15 +658,6 @@
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/uk-sets-2027-deadline-for-ban-on-diesel-jet-fuel-derived-from-russian-crude/",
       "timestamp": "2026-06-13T02:05:00+03:00"
-    },
-    {
-      "headline": "China arrests US scholar of Myanmar on spying suspicion",
-      "summary": "China confirmed the arrest of Min Zin, a US citizen who leads a think-tank focused on Myanmar, on suspicion of spying and endangering national security. The detention raises tensions between Washington and Beijing.",
-      "emoji": "🇨🇳",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/china-confirms-arrest-us-citizen-suspected-spying-2026-06-12/",
-      "timestamp": "2026-06-13T02:03:00+03:00"
     },
     {
       "headline": "UAE to unlock frozen Iranian funds amid US ceasefire push",
