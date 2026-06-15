@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-15T20:11:12+03:00",
+  "lastUpdated": "2026-06-15T21:05:26+03:00",
   "headlines": [
+    {
+      "headline": "Trump opens G7 talks hailing Iran deal, signals push to end Ukraine war",
+      "summary": "President Trump arrived at the G7 summit in Evian-les-Bains, France, touting the newly signed US-Iran agreement and telling allies the deal will bring success for the world, while signaling he now wants to turn his attention to ending the Ukraine-Russia war.",
+      "emoji": "🇫🇷",
+      "category": "Diplomacy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/trump-g7-france-iran-ukraine-992fb57188610d04660fb342c53e639e",
+      "timestamp": "2026-06-15T21:03:00+03:00"
+    },
+    {
+      "headline": "US and Iran announce deal to end war and reopen Strait of Hormuz",
+      "summary": "The US and Iran have reached an agreement to end military operations and reopen the Strait of Hormuz, a breakthrough that could reshape the Middle East and ease global oil supply fears. However, key details about enforcement and timelines remain unresolved.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "US-Iran War",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates",
+      "timestamp": "2026-06-15T21:03:00+03:00"
+    },
+    {
+      "headline": "France and Britain push multinational Hormuz naval mission as ceasefire nears",
+      "summary": "France and Britain are advancing plans for a multinational naval mission to safeguard shipping through the Strait of Hormuz if a US-Iran ceasefire holds, though it remains unclear whether Tehran would accept any such foreign naval presence.",
+      "emoji": "🛢️",
+      "category": "Military",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/france-britain-push-hormuz-mission-truce-nears-irans-stance-key-2026-06-15/",
+      "timestamp": "2026-06-15T21:03:00+03:00"
+    },
+    {
+      "headline": "Russia slashes fuel quality standards as Ukrainian drone strikes squeeze refineries",
+      "summary": "Russia is allowing refineries to produce fuel with lower environmental specifications for the domestic market, Kommersant reports, as Ukrainian drone strikes on Russian energy infrastructure have doubled since the start of 2026, forcing partial shutdowns and supply squeezes.",
+      "emoji": "🇷🇺",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/russia-slashes-fuel-quality-rules-stave-off-shortages-kommersant-reports-2026-06-15/",
+      "timestamp": "2026-06-15T21:03:00+03:00"
+    },
+    {
+      "headline": "US-Iran deal reached but key questions remain as Trump arrives at G7",
+      "summary": "The US and Iran say they have reached an agreement set to take effect Friday, but critical questions about enforcement, monitoring, and the fate of regional allies remain unanswered. The breakthrough came just hours before Trump landed in France for the G7 summit.",
+      "emoji": "⚔️",
+      "category": "US-Iran War",
+      "source": "CNN",
+      "url": "https://edition.cnn.com/2026/06/15/world/live-news/iran-war-g7-summit?post-id=cmqfbsx7v00003b6s742m2u03",
+      "timestamp": "2026-06-15T21:03:00+03:00"
+    },
     {
       "headline": "Erdogan Says Turkey Chose Diplomacy Over Escalation in Iran Conflict",
       "summary": "President Erdogan stated Turkey pursued a measured, diplomacy-first policy during the US-Iran conflict, positioning Turkey as a regional mediator as the Iran deal takes shape.",
@@ -17,16 +62,23 @@
       "category": "Defense Industry",
       "source": "Breaking Defense",
       "url": "https://breakingdefense.com/2026/06/israeli-mod-cries-foul-as-israeli-booths-boarded-up-at-eurosatory-defense-show/",
-      "timestamp": "2026-06-15T20:06:00+03:00"
-    },
-    {
-      "headline": "Strait of Hormuz Remains Eerily Quiet Despite Iran Deal, Shipping Hesitant",
-      "summary": "Only a single patrol vessel was moving through the Strait of Hormuz on Monday as analysts warn that uncertainty over the fragile US-Iran deal keeps commercial traffic away, with full reopening potentially weeks or months away.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/economy/global-economy/article/3357105/strait-hormuz-still-eerily-quiet-doubts-remain-over-fragile-peace-deal",
-      "timestamp": "2026-06-15T20:06:00+03:00"
+      "timestamp": "2026-06-15T20:06:00+03:00",
+      "perspectives": [
+        {
+          "source": "Straits Times",
+          "url": "https://www.straitstimes.com/world/europe/france-shuts-down-dozen-israeli-stands-at-defence-trade-show?ref=latest-headlines",
+          "angle": "France Shuts Down Israeli Stands at Eurosatory Defense Expo",
+          "summary": "French authorities shut down a dozen Israeli company stands at the Eurosatory defense trade show outside Paris, drawing condemnation from Israel's ambassador who called the move unacceptable."
+        }
+      ],
+      "sources": [
+        "Breaking Defense",
+        "Straits Times"
+      ],
+      "urls": [
+        "https://breakingdefense.com/2026/06/israeli-mod-cries-foul-as-israeli-booths-boarded-up-at-eurosatory-defense-show/",
+        "https://www.straitstimes.com/world/europe/france-shuts-down-dozen-israeli-stands-at-defence-trade-show?ref=latest-headlines"
+      ]
     },
     {
       "headline": "Trump, Vance, and Iran Speaker Ghalibaf Electronically Sign Peace Memo",
@@ -150,31 +202,6 @@
       "source": "The Economist",
       "url": "https://www.economist.com/europe/2026/06/15/the-terrifying-new-air-war-in-ukraine",
       "timestamp": "2026-06-15T18:07:00+03:00"
-    },
-    {
-      "headline": "France Shuts Down Israeli Stands at Eurosatory Defense Expo",
-      "summary": "French authorities shut down a dozen Israeli company stands at the Eurosatory defense trade show outside Paris, drawing condemnation from Israel's ambassador who called the move unacceptable.",
-      "emoji": "🇫🇷🇮🇱",
-      "category": "Defense Industry",
-      "source": "Straits Times",
-      "url": "https://www.straitstimes.com/world/europe/france-shuts-down-dozen-israeli-stands-at-defence-trade-show?ref=latest-headlines",
-      "timestamp": "2026-06-15T18:07:00+03:00",
-      "perspectives": [
-        {
-          "source": "France 24",
-          "url": "https://www.france24.com/en/video/20260615-ai-drones-and-ukrainian-tech-on-show-at-eurosatory-defense-fair",
-          "angle": "France 24: AI, Drones and Ukrainian Tech on Display at Eurosatory Defense Fair",
-          "summary": "Over 2,500 exhibitors are showcasing cutting-edge military technology including AI systems, drones, and Ukrainian battlefield innovations at the Eurosatory defense exhibition near Paris, one of the world's largest arms trade events."
-        }
-      ],
-      "sources": [
-        "Straits Times",
-        "France 24"
-      ],
-      "urls": [
-        "https://www.straitstimes.com/world/europe/france-shuts-down-dozen-israeli-stands-at-defence-trade-show?ref=latest-headlines",
-        "https://www.france24.com/en/video/20260615-ai-drones-and-ukrainian-tech-on-show-at-eurosatory-defense-fair"
-      ]
     },
     {
       "headline": "EU Sanctions Putins Confessor and Russias Prosecutor General in New Package",
@@ -542,27 +569,19 @@
       "timestamp": "2026-06-15T08:00:00+03:00",
       "perspectives": [
         {
-          "source": "Al Arabiya",
-          "url": "https://english.alarabiya.net/News/middle-east/2026/06/15/iran-us-agree-to-halt-war-and-reopen-hormuz-sending-oil-prices-tumbling",
-          "angle": "Iran and US agree to halt war and reopen Strait of Hormuz, sending oil prices tumbling",
-          "summary": "The preliminary agreement between Washington and Tehran to end military operations and reopen the critical oil shipping chokepoint sent crude prices sharply lower as global markets rallied on de-escalation."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/oil-extends-losses-trump-calls-off-planned-strikes-iran-2026-06-12/",
-          "angle": "Oil Prices Fall to Near Two-Month Lows as Trump Cancels Planned Strikes on Iran",
-          "summary": "Crude dropped nearly 3% to its lowest level in nearly two months after President Trump called off new strikes on Iran, reducing fears of escalation following tit-for-tat attacks earlier in the week."
+          "source": "SCMP",
+          "url": "https://www.scmp.com/economy/global-economy/article/3357105/strait-hormuz-still-eerily-quiet-doubts-remain-over-fragile-peace-deal",
+          "angle": "Strait of Hormuz Remains Eerily Quiet Despite Iran Deal, Shipping Hesitant",
+          "summary": "Only a single patrol vessel was moving through the Strait of Hormuz on Monday as analysts warn that uncertainty over the fragile US-Iran deal keeps commercial traffic away, with full reopening potentially weeks or months away."
         }
       ],
       "sources": [
         "Reuters",
-        "Al Arabiya",
-        "Reuters"
+        "SCMP"
       ],
       "urls": [
         "https://www.reuters.com/business/energy/oil-slips-over-4-after-us-iran-reach-peace-deal-reopen-strait-hormuz-2026-06-14/",
-        "https://english.alarabiya.net/News/middle-east/2026/06/15/iran-us-agree-to-halt-war-and-reopen-hormuz-sending-oil-prices-tumbling",
-        "https://www.reuters.com/business/energy/oil-extends-losses-trump-calls-off-planned-strikes-iran-2026-06-12/"
+        "https://www.scmp.com/economy/global-economy/article/3357105/strait-hormuz-still-eerily-quiet-doubts-remain-over-fragile-peace-deal"
       ]
     },
     {
