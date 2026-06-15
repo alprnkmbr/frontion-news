@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-15T06:07:27+03:00",
+  "lastUpdated": "2026-06-15T07:16:52+03:00",
   "headlines": [
+    {
+      "headline": "Putin Sends Birthday Greetings to Trump, Praises Him as Bright and Remarkable",
+      "summary": "Russian President Vladimir Putin extended birthday greetings to Donald Trump on his 80th birthday, describing him as a \"bright, remarkable person and politician\" and suggesting the two leaders could raise their countries ties to a new level.",
+      "emoji": "🇷🇺🇺🇸",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/russias-putin-sends-birthday-greetings-bright-remarkable-trump-2026-06-14/",
+      "timestamp": "2026-06-15T07:15:00+03:00"
+    },
+    {
+      "headline": "Japanese Shippers Await Details on Hormuz Reopening as Mines Remain Threat",
+      "summary": "Japanese shipping companies welcomed the US-Iran peace agreement that will reopen the Strait of Hormuz but are awaiting more details on mine clearance before allowing vessels to pass through the vital chokepoint.",
+      "emoji": "🚢🇯🇵",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/japanese-shippers-await-details-hormuz-reopening-mine-clearance-2026-06-15/",
+      "timestamp": "2026-06-15T07:15:00+03:00"
+    },
+    {
+      "headline": "UK Prime Minister Starmer Expected to Announce Social Media Ban for Young Teenagers",
+      "summary": "British Prime Minister Keir Starmer is expected to announce a social media ban for young teenagers, with proposals reportedly going further than Australias similar restrictions. The move aims to protect childrens online wellbeing.",
+      "emoji": "🇬🇧📱",
+      "category": "Europe",
+      "source": "AP News",
+      "url": "https://apnews.com/article/uk-teen-social-media-ban-starmer-55de428636b586ff5553b604783f6fb3",
+      "timestamp": "2026-06-15T07:15:00+03:00"
+    },
+    {
+      "headline": "Macron Frames Évian G7 Agenda Hoping Trump Will Stay for Full Summit",
+      "summary": "French President Emmanuel Macron is hosting his final G7 summit in Évian, with the agenda focused on ending the Ukraine war and pushing for resolutions in Gaza and Iran. Leaders hope Trump will remain for the entire meeting after leaving the last gathering early.",
+      "emoji": "🇫🇷🏛️",
+      "category": "Diplomacy",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/15/macron-evian-g7-agenda-summit-trump",
+      "timestamp": "2026-06-15T07:15:00+03:00"
+    },
+    {
+      "headline": "Global Leaders React to US-Iran Peace Agreement with Cautious Optimism",
+      "summary": "The United States and Iran have agreed to a peace deal and an end to military operations on all fronts, with European leaders warning that Tehran must never acquire a nuclear weapon. The preliminary agreement is expected to be signed Friday in Switzerland.",
+      "emoji": "🌍🤝",
+      "category": "Diplomacy",
+      "source": "France24",
+      "url": "https://www.france24.com/en/live-news/20260615-middle-east-war-peace-deal-reactions",
+      "timestamp": "2026-06-15T07:15:00+03:00"
+    },
     {
       "headline": "Russia suspected of using Swedish church near airport for espionage activities",
       "summary": "Swedish intelligence services suspect Moscow is using a Russian Orthodox church near Vasteras airport as a platform for espionage and hybrid activities, warning it could threaten national security.",
@@ -20,22 +65,29 @@
       "timestamp": "2026-06-15T06:05:00+03:00"
     },
     {
-      "headline": "US plans major reduction of jets and warships for NATO operations in Europe",
-      "summary": "The United States plans to significantly reduce the aircraft and warships it makes available for NATO operations in Europe, according to a New York Times report.",
-      "emoji": "🇺🇸🇪🇺",
-      "category": "Europe",
-      "source": "Defense News",
-      "url": "https://www.defensenews.com/pentagon/2026/06/12/us-plans-major-cut-to-jets-warships-for-nato-operations-in-europe/",
-      "timestamp": "2026-06-15T06:05:00+03:00"
-    },
-    {
       "headline": "Russia building major troop deployment infrastructure along NATO's Northern Flank",
       "summary": "Russia is constructing facilities for tens of thousands of troops near the Arctic, while NATO bolsters defenses with a new Arctic combat force as tensions rise on the alliance's northern border.",
       "emoji": "⚔️❄️",
       "category": "Arctic",
       "source": "The War Zone",
       "url": "https://www.twz.com/russia-building-new-infrastructure-for-major-troop-deployments-along-natos-northern-flank",
-      "timestamp": "2026-06-15T06:05:00+03:00"
+      "timestamp": "2026-06-15T06:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "Yahoo News",
+          "url": "https://www.yahoo.com/news/world/articles/russia-building-infrastructure-major-troop-194716519.html",
+          "angle": "Russia builds major troop infrastructure along NATO's Arctic flank",
+          "summary": "Russia is constructing facilities for tens of thousands of troops near NATO's northern border, prompting the alliance to bolster its Arctic defenses with new combat capabilities."
+        }
+      ],
+      "sources": [
+        "The War Zone",
+        "Yahoo News"
+      ],
+      "urls": [
+        "https://www.twz.com/russia-building-new-infrastructure-for-major-troop-deployments-along-natos-northern-flank",
+        "https://www.yahoo.com/news/world/articles/russia-building-infrastructure-major-troop-194716519.html"
+      ]
     },
     {
       "headline": "Germany and Spain launch 'Team Gen 6' after FCAS fighter program collapses",
@@ -44,7 +96,23 @@
       "category": "Defense Industry",
       "source": "The War Zone",
       "url": "https://www.twz.com/germany-and-spain-launch-team-gen-6-after-europes-next-gen-fighter-effort-collapses",
-      "timestamp": "2026-06-15T06:05:00+03:00"
+      "timestamp": "2026-06-15T06:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "MSN",
+          "url": "https://www.msn.com/en-us/money/general/europe-s-fighter-jet-fiasco-fcas-project-scrapped-by-germany-france/ar-AA25r45V?ocid=BingNewsVerp",
+          "angle": "Germany and France Scrap FCAS Fighter Jet Project",
+          "summary": "In a major blow to European defense cooperation, Germany and France have abandoned their ambitious FCAS fighter jet project after years of planning and billions in investment."
+        }
+      ],
+      "sources": [
+        "The War Zone",
+        "MSN"
+      ],
+      "urls": [
+        "https://www.twz.com/germany-and-spain-launch-team-gen-6-after-europes-next-gen-fighter-effort-collapses",
+        "https://www.msn.com/en-us/money/general/europe-s-fighter-jet-fiasco-fcas-project-scrapped-by-germany-france/ar-AA25r45V?ocid=BingNewsVerp"
+      ]
     },
     {
       "headline": "Twelve Killed in Missouri Skydiving Plane Crash",
@@ -1087,15 +1155,6 @@
       "timestamp": "2026-06-13T00:03:00+03:00"
     },
     {
-      "headline": "Russia builds major troop infrastructure along NATO's Arctic flank",
-      "summary": "Russia is constructing facilities for tens of thousands of troops near NATO's northern border, prompting the alliance to bolster its Arctic defenses with new combat capabilities.",
-      "emoji": "🇷🇺❄️⚔️",
-      "category": "Arctic",
-      "source": "Yahoo News",
-      "url": "https://www.yahoo.com/news/world/articles/russia-building-infrastructure-major-troop-194716519.html",
-      "timestamp": "2026-06-13T00:03:00+03:00"
-    },
-    {
       "headline": "Violence erupts at DRC rally opposing presidential term-limit change",
       "summary": "Security forces clashed with demonstrators in Kinshasa protesting proposed constitutional amendments that could extend President Tshisekedi's rule, amid rising tensions over democratic backsliding.",
       "emoji": "🇨🇩",
@@ -1511,27 +1570,19 @@
       "timestamp": "2026-06-12T16:05:00+03:00",
       "perspectives": [
         {
-          "source": "AsiaOne",
-          "url": "https://www.asiaone.com/world/nato-weighs-options-defend-europe-us-plans-conflict-elsewhere",
-          "angle": "NATO Weighs Alternative Defense Plans for Europe as US Shifts Focus",
-          "summary": "NATO\"s top military officer is developing contingency plans to defend Europe against potential Russian aggression without heavy US reliance, amid concerns over American strategic pivot."
-        },
-        {
-          "source": "Boston Herald",
-          "url": "https://www.bostonherald.com/2026/06/12/nato-us-europe-defense/",
-          "angle": "NATO Weighs Alternative Defense Plans as US Prepares for Conflicts Elsewhere",
-          "summary": "NATO's top military officer is developing contingency plans to defend Europe from Russian aggression without full US support, as Washington shifts focus to other global conflicts. The planning reflects growing uncertainty about America's commitment to European security."
+          "source": "Defense News",
+          "url": "https://www.defensenews.com/pentagon/2026/06/12/us-plans-major-cut-to-jets-warships-for-nato-operations-in-europe/",
+          "angle": "US plans major reduction of jets and warships for NATO operations in Europe",
+          "summary": "The United States plans to significantly reduce the aircraft and warships it makes available for NATO operations in Europe, according to a New York Times report."
         }
       ],
       "sources": [
         "Reuters",
-        "AsiaOne",
-        "Boston Herald"
+        "Defense News"
       ],
       "urls": [
         "https://www.reuters.com/business/aerospace-defense/us-plans-major-cut-fighter-jets-warships-nato-operations-europe-nyt-reports-2026-06-12/",
-        "https://www.asiaone.com/world/nato-weighs-options-defend-europe-us-plans-conflict-elsewhere",
-        "https://www.bostonherald.com/2026/06/12/nato-us-europe-defense/"
+        "https://www.defensenews.com/pentagon/2026/06/12/us-plans-major-cut-to-jets-warships-for-nato-operations-in-europe/"
       ]
     },
     {
@@ -1967,15 +2018,6 @@
       "timestamp": "2026-06-12T08:07:00+03:00"
     },
     {
-      "headline": "Germany and France Scrap FCAS Fighter Jet Project",
-      "summary": "In a major blow to European defense cooperation, Germany and France have abandoned their ambitious FCAS fighter jet project after years of planning and billions in investment.",
-      "emoji": "✈️🇪🇺",
-      "category": "Defense Industry",
-      "source": "MSN",
-      "url": "https://www.msn.com/en-us/money/general/europe-s-fighter-jet-fiasco-fcas-project-scrapped-by-germany-france/ar-AA25r45V?ocid=BingNewsVerp",
-      "timestamp": "2026-06-12T08:07:00+03:00"
-    },
-    {
       "headline": "Trump cancels planned Iran strikes, says deal \"approved\" after key points agreed",
       "summary": "US President Donald Trump called off further strikes on Iran and announced that key points of a peace deal have been agreed, with a formal agreement expected within days.",
       "emoji": "🇺🇸🇮🇷",
@@ -2024,40 +2066,6 @@
         "https://www.reuters.com/world/trump-says-great-settlement-iran-be-signed-soon-strait-will-open-2026-06-11/",
         "https://www.aljazeera.com/news/2026/6/11/iran-war-day-104-iran-says-it-attacks-us-bases-after-american-strikes"
       ]
-    },
-    {
-      "headline": "Ukraine War Has Lasted Longer Than World War I",
-      "summary": "The war in Ukraine has now exceeded the duration of World War I, with parallels emerging between the grinding nature of both conflicts and the way new technologies have reshaped warfare. The milestone underscores the protracted nature of the conflict.",
-      "emoji": "⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
-      "timestamp": "2026-06-12T07:07:00+03:00",
-      "perspectives": [
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
-          "angle": "Ukraine War Duration Exceeds World War I",
-          "summary": "The conflict in Ukraine has now lasted longer than World War I, marking a grim milestone as fighting continues with no clear end in sight. The war has entered its fourth year with ongoing casualties and infrastructure destruction."
-        }
-      ],
-      "sources": [
-        "New York Times",
-        "New York Times"
-      ],
-      "urls": [
-        "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html",
-        "https://www.nytimes.com/2026/06/11/world/europe/ukraine-russia-world-war-i.html"
-      ]
-    },
-    {
-      "headline": "China Sanctions Philippine Defense Secretary Over South China Sea Remarks",
-      "summary": "China's foreign ministry announced sanctions against Philippine Defense Secretary Gilberto Teodoro and his close relatives, accusing him of making \"erroneous remarks\" that undermined China's legitimate interests and bilateral ties.",
-      "emoji": "🇨🇳🇵🇭",
-      "category": "South China Sea",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/china-sanctions-philippine-defence-secretary-over-erroneous-remarks-2026-06-11/",
-      "timestamp": "2026-06-12T07:07:00+03:00"
     }
   ]
 }
