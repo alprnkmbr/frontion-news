@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-15T08:06:42+03:00",
+  "lastUpdated": "2026-06-15T08:08:35+03:00",
   "headlines": [
+    {
+      "headline": "China AI stocks diverge as Zhipu soars while Minimax stumbles",
+      "summary": "A widening valuation gap between China's two top LLM startups signals investor分化tion in the Chinese AI sector, with Zhipu gaining while Minimax loses ground.",
+      "emoji": "🇨🇳",
+      "category": "Technology",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/zhipu-soars-and-minimax-stumbles-as-china-s-ai-stocks-diverge",
+      "timestamp": "2026-06-15T08:07:00+03:00"
+    },
+    {
+      "headline": "European aviation fuel supply tightens as Iran war cuts imports to 80%",
+      "summary": "European aviation fuel imports remain at just 80% of pre-war levels despite US-Iran peace deal, with high prices and potential flight reductions expected in autumn.",
+      "emoji": "✈️",
+      "category": "Energy",
+      "source": "Nikkei",
+      "url": "https://www.nikkei.com/article/DGXZQOGR158JW0V10C26A5000000/",
+      "timestamp": "2026-06-15T08:07:00+03:00"
+    },
+    {
+      "headline": "Singapore retrenchments rise sharply among degree holders and older workers",
+      "summary": "Q1 2026 saw increased retrenchments in Singapore with the steepest increase among higher-educated workers, reflecting ongoing business restructuring in the city-state.",
+      "emoji": "🇸🇬",
+      "category": "Asia-Pacific",
+      "source": "Channel News Asia",
+      "url": "https://www.channelnewsasia.com/singapore/retrenchment-higher-degree-holders-employment-jobs-q1-2026-6183016",
+      "timestamp": "2026-06-15T08:07:00+03:00"
+    },
+    {
+      "headline": "Japan to resume domestic LNG carrier construction by 2035",
+      "summary": "Three major Japanese shipbuilders plan to restart domestic LNG carrier construction by 2035, seeking technology cooperation from Korean shipyards after years without production.",
+      "emoji": "🚢",
+      "category": "Asia-Pacific",
+      "source": "Nikkei",
+      "url": "https://www.nikkei.com/article/DGXZQOUC15AJE0V10C26A4000000/",
+      "timestamp": "2026-06-15T08:07:00+03:00"
+    },
+    {
+      "headline": "British commandos seize Russian shadow fleet tanker in English Channel",
+      "summary": "UK Royal Marines intercepted and took control of a Russian oil tanker in the English Channel, marking a significant escalation in actions against Russia's shadow fleet operations.",
+      "emoji": "🇬🇧",
+      "category": "Europe",
+      "source": "MSN",
+      "url": "https://www.msn.com/en-au/news/australia/british-commandos-seize-control-of-russian-tanker-in-english-channel/ar-AA25Cmgm",
+      "timestamp": "2026-06-15T08:07:00+03:00"
+    },
     {
       "headline": "Oil Slides $4 as US-Iran Peace Deal Reopens Strait of Hormuz",
       "summary": "Oil prices dropped sharply after the US and Iran announced a tentative peace agreement that includes reopening the strategic Strait of Hormuz, easing concerns about global energy supplies.",
@@ -8,7 +53,23 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/oil-slips-over-4-after-us-iran-reach-peace-deal-reopen-strait-hormuz-2026-06-14/",
-      "timestamp": "2026-06-15T08:00:00+03:00"
+      "timestamp": "2026-06-15T08:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "Baltimore Sun",
+          "url": "https://www.baltimoresun.com/2026/06/12/iran-loosens-strait-of-hormuz-stranglehold/",
+          "angle": "Iran's Stranglehold on Strait of Hormuz Loosens as Gulf Oil Reaches Market",
+          "summary": "Iran's ability to block the critical Strait of Hormuz appears to be weakening as Gulf Arab states find alternative routes for their oil exports. The development could reshape global energy markets and reduce Iran's leverage in negotiations."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Baltimore Sun"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/oil-slips-over-4-after-us-iran-reach-peace-deal-reopen-strait-hormuz-2026-06-14/",
+        "https://www.baltimoresun.com/2026/06/12/iran-loosens-strait-of-hormuz-stranglehold/"
+      ]
     },
     {
       "headline": "Taiwan Fires US-Supplied HIMARS Rockets Toward China in First",
@@ -44,7 +105,23 @@
       "category": "Ukraine-Russia War",
       "source": "AP News",
       "url": "https://apnews.com/article/russia-ukraine-war-drones-kyiv-kharkiv-80bf94ad017eb8aad6af1f4e96494431",
-      "timestamp": "2026-06-15T08:00:00+03:00"
+      "timestamp": "2026-06-15T08:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/russian-attack-june-14-2026/",
+          "angle": "Kyiv's historic Pechersk Lavra monastery burns as Russian missiles strike capital",
+          "summary": "One of Ukraine's most sacred Orthodox sites caught fire during a Russian ballistic missile attack on Kyiv, with church leaders calling it \"a crime against humanity, against history, against Christianity.\""
+        }
+      ],
+      "sources": [
+        "AP News",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://apnews.com/article/russia-ukraine-war-drones-kyiv-kharkiv-80bf94ad017eb8aad6af1f4e96494431",
+        "https://kyivindependent.com/russian-attack-june-14-2026/"
+      ]
     },
     {
       "headline": "Putin Sends Birthday Greetings to Trump, Praises Him as Bright and Remarkable",
@@ -176,15 +253,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/14/violence-erupts-during-anti-g7-protests-in-geneva-on-eve-of-summit",
       "timestamp": "2026-06-15T05:03:00+03:00"
-    },
-    {
-      "headline": "Kyiv's historic Pechersk Lavra monastery burns as Russian missiles strike capital",
-      "summary": "One of Ukraine's most sacred Orthodox sites caught fire during a Russian ballistic missile attack on Kyiv, with church leaders calling it \"a crime against humanity, against history, against Christianity.\"",
-      "emoji": "⛪",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/russian-attack-june-14-2026/",
-      "timestamp": "2026-06-15T04:05:00+03:00"
     },
     {
       "headline": "Armenia releases final election results as pro-Russian opposition demands new vote",
@@ -1137,15 +1205,6 @@
       ]
     },
     {
-      "headline": "Iran's Stranglehold on Strait of Hormuz Loosens as Gulf Oil Reaches Market",
-      "summary": "Iran's ability to block the critical Strait of Hormuz appears to be weakening as Gulf Arab states find alternative routes for their oil exports. The development could reshape global energy markets and reduce Iran's leverage in negotiations.",
-      "emoji": "🛢️🚢",
-      "category": "Energy",
-      "source": "Baltimore Sun",
-      "url": "https://www.baltimoresun.com/2026/06/12/iran-loosens-strait-of-hormuz-stranglehold/",
-      "timestamp": "2026-06-13T01:03:00+03:00"
-    },
-    {
       "headline": "Global submarine arms race intensifies as 480+ subs from 40+ nations patrol world oceans",
       "summary": "More than 480 submarines from over 40 nations now operate globally, with regional conflicts in the Indo-Pacific, Middle East, and South Asia driving demand. The US Navy sank an Iranian corvette with a torpedo in March, while South Korea markets its submarines to Canada in an 8,400-mile demonstration cruise.",
       "emoji": "⚔️",
@@ -2042,74 +2101,6 @@
       "urls": [
         "https://www.reuters.com/world/uk/british-defence-minister-healey-resigns-over-defence-spending-2026-06-11/",
         "https://www.reuters.com/world/uk/british-defence-minister-healey-resigns-over-defence-spending-2026-06-11/"
-      ]
-    },
-    {
-      "headline": "Japan-South Korea Summit Aims to Deepen Cooperation Amid Regional Tensions",
-      "summary": "Japanese PM Sanae Takaichi and South Korean President Lee Jae Myung held a summit on May 19, discussing enhanced cooperation in an increasingly volatile geopolitical environment.",
-      "emoji": "🇯🇵🇰🇷",
-      "category": "Asia-Pacific",
-      "source": "The Diplomat",
-      "url": "https://thediplomat.com/2026/06/japan-and-south-korea-navigate-a-turbulent-world/",
-      "timestamp": "2026-06-12T08:07:00+03:00"
-    },
-    {
-      "headline": "France, UK, Germany Envoys Meet Russian Foreign Ministry Officials",
-      "summary": "Ambassadors from France, the UK, and Germany arrived at the Russian Foreign Ministry for meetings with senior diplomats, amid heightened tensions over the Ukraine war.",
-      "emoji": "🇫🇷🇬🇧🇩🇪🇷🇺",
-      "category": "Diplomacy",
-      "source": "TASS",
-      "url": "https://tass.com/politics/2145413",
-      "timestamp": "2026-06-12T08:07:00+03:00"
-    },
-    {
-      "headline": "Trump cancels planned Iran strikes, says deal \"approved\" after key points agreed",
-      "summary": "US President Donald Trump called off further strikes on Iran and announced that key points of a peace deal have been agreed, with a formal agreement expected within days.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "Middle East",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets",
-      "timestamp": "2026-06-12T08:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Axios",
-          "url": "https://www.axios.com/2026/06/12/netanyahu-trump-iran-deal-israel-lebanon",
-          "angle": "Netanyahu Faces Bitter Pill as Trump's Iran Deal Nears",
-          "summary": "Israeli Prime Minister Netanyahu, who had hoped the Iran war could spur regime change in Tehran, now faces a US-Iran deal that could complicate Israel's strategic position."
-        }
-      ],
-      "sources": [
-        "Al Jazeera",
-        "Axios"
-      ],
-      "urls": [
-        "https://www.aljazeera.com/news/liveblog/2026/6/11/iran-war-live-us-launches-attacks-on-multiple-iranian-targets",
-        "https://www.axios.com/2026/06/12/netanyahu-trump-iran-deal-israel-lebanon"
-      ]
-    },
-    {
-      "headline": "Trump says \"great\" Iran settlement will reopen Strait of Hormuz within days",
-      "summary": "President Trump announced a \"great settlement\" with Iran could be signed within days, which would reopen the Strait of Hormuz and end hostilities. Oil prices extended losses on the news.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/trump-says-great-settlement-iran-be-signed-soon-strait-will-open-2026-06-11/",
-      "timestamp": "2026-06-12T08:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/11/iran-war-day-104-iran-says-it-attacks-us-bases-after-american-strikes",
-          "angle": "Iran Closes Strait of Hormuz, Attacks US Bases in Kuwait and Bahrain",
-          "summary": "Iran announced the closure of the Strait of Hormuz to all vessels and launched retaliatory strikes on US military bases in Kuwait, Bahrain, and Jordan following American attacks. The escalation marks day 104 of the conflict as tit-for-tat strikes continue."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/trump-says-great-settlement-iran-be-signed-soon-strait-will-open-2026-06-11/",
-        "https://www.aljazeera.com/news/2026/6/11/iran-war-day-104-iran-says-it-attacks-us-bases-after-american-strikes"
       ]
     }
   ]
