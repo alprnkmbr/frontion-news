@@ -1,6 +1,33 @@
 {
-  "lastUpdated": "2026-06-15T04:05:16+03:00",
+  "lastUpdated": "2026-06-15T05:05:33+03:00",
   "headlines": [
+    {
+      "headline": "US and Iran Reach Interim Peace Deal to End War and Open Strait of Hormuz",
+      "summary": "The United States and Iran reached an initial agreement to open the Strait of Hormuz and extend a ceasefire in the Iran war, with signing scheduled for Friday in Switzerland. Pakistan mediated the deal, which gives 60 days to resolve issues around Iran's nuclear program.",
+      "emoji": "🕊️",
+      "category": "US-Iran War",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-us-war-ceasefire-deal-e0a9e4e1152ea8da10ea066ad174a23a",
+      "timestamp": "2026-06-15T05:03:00+03:00"
+    },
+    {
+      "headline": "Twelve Killed in Missouri Skydiving Plane Crash",
+      "summary": "A plane carrying a pilot and 11 passengers on a skydiving outing crashed near Butler Memorial Airport in Missouri, killing all aboard. The aircraft caught fire shortly after takeoff around 11:30 AM local time.",
+      "emoji": "✈️",
+      "category": "US",
+      "source": "AP News",
+      "url": "https://apnews.com/article/butler-missouri-plane-crash-dead-0f074de40ce690e76c19ffbe183d1875",
+      "timestamp": "2026-06-15T05:03:00+03:00"
+    },
+    {
+      "headline": "G7 Summit Begins in France as Anti-G7 Protests Erupt in Geneva",
+      "summary": "World leaders convened for the G7 summit in France as thousands of protesters clashed with police in Geneva. Swiss authorities deployed water cannons and tear gas to disperse demonstrators ahead of the meeting.",
+      "emoji": "🌍",
+      "category": "Diplomacy",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/14/violence-erupts-during-anti-g7-protests-in-geneva-on-eve-of-summit",
+      "timestamp": "2026-06-15T05:03:00+03:00"
+    },
     {
       "headline": "Kyiv's historic Pechersk Lavra monastery burns as Russian missiles strike capital",
       "summary": "One of Ukraine's most sacred Orthodox sites caught fire during a Russian ballistic missile attack on Kyiv, with church leaders calling it \"a crime against humanity, against history, against Christianity.\"",
@@ -17,15 +44,6 @@
       "category": "Europe",
       "source": "Kyiv Independent",
       "url": "https://kyivindependent.com/armenia-releases-final-election-results-as-pro-russian-opposition-demands-new-vote/",
-      "timestamp": "2026-06-15T04:05:00+03:00"
-    },
-    {
-      "headline": "Kharkiv Art Museum in flames after Russian drone strike injures infant",
-      "summary": "A major Ukrainian cultural site was set ablaze by a Russian drone attack that wounded five people including a one-month-old baby, in what officials called a \"cynical\" strike on heritage.",
-      "emoji": "🎨",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/kharkiv-art-museum-in-flames-after-cynical-russian-drone-attack/",
       "timestamp": "2026-06-15T04:05:00+03:00"
     },
     {
@@ -56,15 +74,6 @@
       "timestamp": "2026-06-15T04:05:00+03:00"
     },
     {
-      "headline": "British forces seize Russian shadow fleet oil tanker in Channel",
-      "summary": "Britain Defense Ministry intercepted an oil tanker believed to be part of Russia sanctioned shadow fleet, marking the first time British forces acted alone to stop a ship in the sanctions-evading fleet.",
-      "emoji": "🇬🇧🇷🇺🛢️",
-      "category": "Europe",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/uk-forces-seize-suspected-russian-oil-tanker-accused-of-funding-ukraine-war",
-      "timestamp": "2026-06-15T04:05:00+03:00"
-    },
-    {
       "headline": "Trump tells Putin he is prepared to help end war in Ukraine",
       "summary": "In a friendly and frank phone call, Trump also said the US is nearing a peace deal with Iran, according to a Putin adviser.",
       "emoji": "🇺🇸🇷🇺🇺🇦",
@@ -89,16 +98,23 @@
       "category": "US-China",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/asia",
-      "timestamp": "2026-06-15T04:05:00+03:00"
-    },
-    {
-      "headline": "US and Iran Reach Ceasefire Agreement to End War",
-      "summary": "The deal halts fighting for 60 days, opens the Strait of Hormuz, and lifts the US naval blockade on Iranian ports. Pakistan mediated the agreement, with official signing scheduled in Geneva.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "Diplomacy",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/live/cj0grpyg4v1t",
-      "timestamp": "2026-06-15T03:03:00+03:00"
+      "timestamp": "2026-06-15T04:05:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Guardian",
+          "url": "https://www.theguardian.com/world/2026/jun/12/china-arrests-us-academic-min-zin-espionage",
+          "angle": "China Arrests US Academic at Conference for Espionage",
+          "summary": "China detained Min Zin, a US academic specializing in Myanmar and Chinese foreign policy, during a conference on espionage charges. The arrest comes just a month after Trump visited Beijing amid already-strained US-China relations."
+        }
+      ],
+      "sources": [
+        "The Guardian",
+        "The Guardian"
+      ],
+      "urls": [
+        "https://www.theguardian.com/world/asia",
+        "https://www.theguardian.com/world/2026/jun/12/china-arrests-us-academic-min-zin-espionage"
+      ]
     },
     {
       "headline": "British Royal Marines Seize Russian Shadow Fleet Oil Tanker",
@@ -107,6 +123,31 @@
       "category": "Europe",
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/clyek039l2vo",
+      "timestamp": "2026-06-15T03:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Jazeera",
+          "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/uk-forces-seize-suspected-russian-oil-tanker-accused-of-funding-ukraine-war",
+          "angle": "British forces seize Russian shadow fleet oil tanker in Channel",
+          "summary": "Britain Defense Ministry intercepted an oil tanker believed to be part of Russia sanctioned shadow fleet, marking the first time British forces acted alone to stop a ship in the sanctions-evading fleet."
+        }
+      ],
+      "sources": [
+        "BBC",
+        "Al Jazeera"
+      ],
+      "urls": [
+        "https://www.bbc.com/news/articles/clyek039l2vo",
+        "https://www.aljazeera.com/video/newsfeed/2026/6/14/uk-forces-seize-suspected-russian-oil-tanker-accused-of-funding-ukraine-war"
+      ]
+    },
+    {
+      "headline": "US and Iran Reach Ceasefire Agreement to End War",
+      "summary": "The deal halts fighting for 60 days, opens the Strait of Hormuz, and lifts the US naval blockade on Iranian ports. Pakistan mediated the agreement, with official signing scheduled in Geneva.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "Diplomacy",
+      "source": "BBC",
+      "url": "https://www.bbc.com/news/live/cj0grpyg4v1t",
       "timestamp": "2026-06-15T03:03:00+03:00"
     },
     {
@@ -126,6 +167,31 @@
       "source": "BBC",
       "url": "https://www.bbc.com/news/articles/cx2kjwgwxwlo",
       "timestamp": "2026-06-15T03:03:00+03:00"
+    },
+    {
+      "headline": "Ukrainian Drone Strike Kills One at Russian Port of Temryuk",
+      "summary": "A Ukrainian drone attack killed one person and sparked a fire at a sea terminal in the southern Russian port of Temryuk in the Krasnodar region, according to the regional governor.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/ukraine-drone-strikes-kills-one-sparks-fire-russian-port-temryuk-governor-says-2026-06-13/",
+      "timestamp": "2026-06-13T13:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Independent",
+          "url": "https://kyivindependent.com/kharkiv-art-museum-in-flames-after-cynical-russian-drone-attack/",
+          "angle": "Kharkiv Art Museum in flames after Russian drone strike injures infant",
+          "summary": "A major Ukrainian cultural site was set ablaze by a Russian drone attack that wounded five people including a one-month-old baby, in what officials called a \"cynical\" strike on heritage."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Kyiv Independent"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/ukraine-drone-strikes-kills-one-sparks-fire-russian-port-temryuk-governor-says-2026-06-13/",
+        "https://kyivindependent.com/kharkiv-art-museum-in-flames-after-cynical-russian-drone-attack/"
+      ]
     },
     {
       "headline": "US Military Strike Kills Leader of Venezuela's Tren de Aragua Gang",
@@ -159,31 +225,6 @@
       "urls": [
         "https://www.reuters.com/world/middle-east/hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-says-2026-06-12/",
         "https://www.reuters.com/world/middle-east/hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-says-2026-06-12/"
-      ]
-    },
-    {
-      "headline": "Ukrainian Drone Strike Kills One at Russian Port of Temryuk",
-      "summary": "A Ukrainian drone attack killed one person and sparked a fire at a sea terminal in the southern Russian port of Temryuk in the Krasnodar region, according to the regional governor.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/ukraine-drone-strikes-kills-one-sparks-fire-russian-port-temryuk-governor-says-2026-06-13/",
-      "timestamp": "2026-06-13T13:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/ukraine-drone-strikes-kills-one-sparks-fire-russian-port-temryuk-governor-says-2026-06-13/",
-          "angle": "Ukrainian drone strike kills one at Russian port near Black Sea",
-          "summary": "A Ukrainian drone attack killed one person and sparked a fire at a sea terminal in southern Russia's Temryuk port, in the Krasnodar region, as Ukraine continues targeting Russian infrastructure."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/ukraine-drone-strikes-kills-one-sparks-fire-russian-port-temryuk-governor-says-2026-06-13/",
-        "https://www.reuters.com/world/ukraine-drone-strikes-kills-one-sparks-fire-russian-port-temryuk-governor-says-2026-06-13/"
       ]
     },
     {
@@ -1562,15 +1603,6 @@
       "timestamp": "2026-06-12T15:03:00+03:00"
     },
     {
-      "headline": "China Arrests US Academic at Conference for Espionage",
-      "summary": "China detained Min Zin, a US academic specializing in Myanmar and Chinese foreign policy, during a conference on espionage charges. The arrest comes just a month after Trump visited Beijing amid already-strained US-China relations.",
-      "emoji": "🇨🇳",
-      "category": "US-China",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/12/china-arrests-us-academic-min-zin-espionage",
-      "timestamp": "2026-06-12T15:03:00+03:00"
-    },
-    {
       "headline": "Questions Mount Over US Claims of Secret Hormuz Oil Mission",
       "summary": "Trump claims hundreds of tankers have escaped Irans blockade through a secret US operation, but shipping data raises questions. The reported shipments appear to be increasing but the details remain murky.",
       "emoji": "🛢️",
@@ -2128,92 +2160,6 @@
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/11/china-bars-philippines-defence-chief-as-south-china-sea-spat-sails-onwards",
       "timestamp": "2026-06-12T05:03:00+03:00"
-    },
-    {
-      "headline": "OPEC Cuts 2026 Oil Demand Forecast Again as Iran War Disrupts Markets",
-      "summary": "OPEC lowered its world oil demand growth forecast for 2026 to 970,000 barrels per day—the second straight downward revision—as the Iran conflict reshapes global energy markets.",
-      "emoji": "🛢️📉",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/opec-again-lowers-2026-global-oil-demand-growth-forecast-2026-06-11/",
-      "timestamp": "2026-06-12T04:10:00+03:00",
-      "perspectives": [
-        {
-          "source": "Oil Price",
-          "url": "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Sees-Oil-Demand-Growth-Outpacing-Supply-Through-2027.html",
-          "angle": "OPEC Projects Oil Demand Growth to Outpace Supply Through 2027",
-          "summary": "OPEC maintains its view of a relatively tight oil market through next year, with demand growth expected to outpace supply despite lowering its 2026 demand growth forecast."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Oil Price"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/opec-again-lowers-2026-global-oil-demand-growth-forecast-2026-06-11/",
-        "https://oilprice.com/Latest-Energy-News/World-News/OPEC-Sees-Oil-Demand-Growth-Outpacing-Supply-Through-2027.html"
-      ]
-    },
-    {
-      "headline": "Slovenia Lifts Netanyahu Entry Ban Under New Government",
-      "summary": "Slovenia new conservative government abolished an entry ban on Israeli Prime Minister Benjamin Netanyahu, reversing measures taken by the previous administration over Gaza.",
-      "emoji": "🇸🇮🇮🇱",
-      "category": "Europe",
-      "source": "AOL",
-      "url": "https://www.aol.com/articles/slovenias-government-lifts-entry-ban-180621000.html",
-      "timestamp": "2026-06-12T04:10:00+03:00"
-    },
-    {
-      "headline": "Thai Princess Bajrakitiyabha dies at 47 after long illness",
-      "summary": "Thailand's Princess Bajrakitiyabha, the eldest daughter of King Maha Vajiralongkorn, has died at 47 after nearly four years in a coma. The princess was known for her legal work and had been in poor health since December 2022.",
-      "emoji": "🇹🇭",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/thai-kings-eldest-daughter-dies-aged-47-after-long-illness-royal-palace-says-2026-06-12/",
-      "timestamp": "2026-06-12T04:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/thailand-princess-bajrakitiyabha-obituary-3e1ca1ccca326008860e34bb9fa82686",
-          "angle": "Thai Princess Bajrakitiyabha dies at 47 after years in coma",
-          "summary": "Princess Bajrakitiyabha Mahidol, the eldest daughter of King Maha Vajiralongkorn and a lawyer known for her advocacy on women rights in prisons, has died at age 47 after nearly four years in a coma."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/thai-kings-eldest-daughter-dies-aged-47-after-long-illness-royal-palace-says-2026-06-12/",
-        "https://apnews.com/article/thailand-princess-bajrakitiyabha-obituary-3e1ca1ccca326008860e34bb9fa82686"
-      ]
-    },
-    {
-      "headline": "US plans to deport Iranians to Central African Republic",
-      "summary": "The Trump administration plans to deport Iranian and other migrants to the Central African Republic, a chronically unstable country facing violence and poverty, according to lawyers and officials briefed on the matter.",
-      "emoji": "🌍",
-      "category": "Geopolitics",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/africa/us-plans-deport-iranians-central-african-republic-sources-say-2026-06-11/",
-      "timestamp": "2026-06-12T04:03:00+03:00"
-    },
-    {
-      "headline": "Toronto police officer killed in shooting linked to US Consulate attack",
-      "summary": "A Toronto police officer was shot and killed by a suspect linked to an investigation into a shooting attack on the US Consulate in March. Const. Marc Pinizzotto was part of a team executing a search warrant.",
-      "emoji": "🇨🇦",
-      "category": "Americas",
-      "source": "AP News",
-      "url": "https://apnews.com/article/toronto-police-officer-killed-us-consulate-f8fb8d21f347a436431545a42506d7a5",
-      "timestamp": "2026-06-12T04:03:00+03:00"
-    },
-    {
-      "headline": "Tornadoes touch down outside Chicago as severe storms pummel Midwest",
-      "summary": "Damaging storms swept through the Midwest, disrupting flights at Chicago airports and knocking out power to hundreds of thousands. New tornadoes were reported outside Chicago as the severe weather system moved through.",
-      "emoji": "🌪️",
-      "category": "US",
-      "source": "AP News",
-      "url": "https://apnews.com/article/severe-weather-storms-midwest-chicago-c318b02d9cc46da26b11910adfc31509",
-      "timestamp": "2026-06-12T04:03:00+03:00"
     }
   ]
 }
