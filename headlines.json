@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-16T16:09:42+03:00",
+  "lastUpdated": "2026-06-16T17:04:01+03:00",
   "headlines": [
+    {
+      "headline": "Ukrainian drone strike halts operations at Moscow oil refinery",
+      "summary": "A Ukrainian drone attack sparked a fire and halted operations at the largest fuel supplier to the Moscow region, marking a significant escalation in Ukrainian strikes deep inside Russian territory amid the G7 summit.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/moscow-oil-refinery-damaged-ukrainian-drone-attack-mayor-says-2026-06-16/",
+      "timestamp": "2026-06-16T17:03:00+03:00"
+    },
+    {
+      "headline": "Iran World Cup team ordered out of US after opening match",
+      "summary": "Iran's coach says the team was ordered to leave the United States and return to its training base in Mexico after a 2-2 draw with New Zealand, highlighting how geopolitical tensions are spilling into the World Cup.",
+      "emoji": "⚽",
+      "category": "Diplomacy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/world-cup-iran-new-zealand-score-314655749d94fe577bb2b52ebd6b32c4",
+      "timestamp": "2026-06-16T17:03:00+03:00"
+    },
+    {
+      "headline": "Trump says US will soon reimpose sanctions on Russian oil at G7",
+      "summary": "At the G7 summit in France, President Trump indicated the US would soon be able to reimpose sanctions on Russian oil, as leaders refocused attention on Ukraine alongside the Iran deal discussions.",
+      "emoji": "🇷🇺",
+      "category": "Diplomacy",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/06/16/world/live-news/iran-war-g7-summit",
+      "timestamp": "2026-06-16T17:03:00+03:00"
+    },
+    {
+      "headline": "Trump tells G7 next phase of Iran deal will be easier as he meets Zelenskyy",
+      "summary": "President Trump expressed optimism about the next phase of the US-Iran deal while meeting with fellow G7 leaders and Ukrainian President Zelenskyy, who is pushing to keep Western focus on Russia's war.",
+      "emoji": "🇮🇷",
+      "category": "Diplomacy",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/donald-trump/live-blog/live-updates-trump-g7-summit-us-iran-deal-hormuz-ukraine-russia-rcna350193",
+      "timestamp": "2026-06-16T17:03:00+03:00"
+    },
     {
       "headline": "Iran says final nuclear deal talks with US to begin this week",
       "summary": "Iran announced that negotiations on a comprehensive nuclear agreement and sanctions relief with the United States would likely begin later this week, following the memorandum of understanding signed to end the war.",
@@ -8,7 +44,23 @@
       "category": "Diplomacy",
       "source": "Al-Monitor",
       "url": "https://www.al-monitor.com/originals/2026/06/iran-says-talks-final-us-deal-begin-week",
-      "timestamp": "2026-06-16T16:08:00+03:00"
+      "timestamp": "2026-06-16T16:08:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Telegraph",
+          "url": "https://www.telegraph.co.uk/world-news/2026/06/16/g7-summit-latest-news-trump-ukraine-iran-war-peace-deal/",
+          "angle": "JD Vance admits unresolved issues remain in Iran peace deal ahead of G7 talks",
+          "summary": "Vice President JD Vance acknowledged that several issues still remain in the US-Iran peace agreement as G7 leaders prepare to discuss the Middle East, tempering expectations for a finalized deal at the summit."
+        }
+      ],
+      "sources": [
+        "Al-Monitor",
+        "The Telegraph"
+      ],
+      "urls": [
+        "https://www.al-monitor.com/originals/2026/06/iran-says-talks-final-us-deal-begin-week",
+        "https://www.telegraph.co.uk/world-news/2026/06/16/g7-summit-latest-news-trump-ukraine-iran-war-peace-deal/"
+      ]
     },
     {
       "headline": "Energy firms brace for new era despite Hormuz reopening deal",
@@ -38,15 +90,6 @@
       "timestamp": "2026-06-16T16:08:00+03:00"
     },
     {
-      "headline": "Trump sets Hormuz reopening date as Israel says not bound by Iran peace deal",
-      "summary": "Trump announced a timeline for the Strait of Hormuz reopening, while Israel explicitly stated it is not bound by the US-Iran agreement, creating tensions that could undermine the ceasefire.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/video/world/3357324/trump-sets-date-hormuz-strait-reopening-while-israel-says-it-not-bound-peace-deal?pgtype=live",
-      "timestamp": "2026-06-16T16:08:00+03:00"
-    },
-    {
       "headline": "US-Iran deal promises end to war but implementation remains unclear",
       "summary": "Doubts swirled around the US-Iran agreement as questions persist about enforcement mechanisms, with shipping traffic and energy exports expected to take weeks to recover through the Strait of Hormuz.",
       "emoji": "⚠️🛢️",
@@ -56,27 +99,19 @@
       "timestamp": "2026-06-16T16:03:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/iran-us-war-israel-lebanon-oil-june-16-2026-d79458506c46e3f4a78aef0f9d8b9250",
-          "angle": "Iran says US war deal requires Israel to withdraw from Lebanon",
-          "summary": "Iran's top diplomat stated that the tentative deal to end the war with the US would require Israel to withdraw from Lebanon, a condition Israel has already rejected, complicating the ceasefire agreement."
-        },
-        {
           "source": "Reuters",
-          "url": "https://www.reuters.com/world/trumps-iran-accord-offers-exit-war-fresh-political-risks-2026-06-15/",
-          "angle": "Trump Iran deal offers exit from war but raises fresh political risks at home",
-          "summary": "The US-Iran peace agreement gives Trump a way out of the 3.5-month conflict, but skeptical conservatives in Congress are raising concerns over whether Iran will regain access to its frozen assets under the deal."
+          "url": "https://www.reuters.com/world/middle-east/trump-vance-irans-parliament-speaker-signed-mou-2026-06-15/",
+          "angle": "US and Iran sign MOU to end war, formal signing ceremony set for Friday",
+          "summary": "Senior US officials confirmed the memorandum of understanding has been signed electronically, with a formal ceremony planned for Friday. Shipping traffic through the Strait of Hormuz will gradually ramp up as mines are cleared."
         }
       ],
       "sources": [
         "Reuters",
-        "AP News",
         "Reuters"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/us-iran-deal-promises-end-war-how-it-will-work-remains-unclear-2026-06-16/",
-        "https://apnews.com/article/iran-us-war-israel-lebanon-oil-june-16-2026-d79458506c46e3f4a78aef0f9d8b9250",
-        "https://www.reuters.com/world/trumps-iran-accord-offers-exit-war-fresh-political-risks-2026-06-15/"
+        "https://www.reuters.com/world/middle-east/trump-vance-irans-parliament-speaker-signed-mou-2026-06-15/"
       ]
     },
     {
@@ -389,27 +424,19 @@
       "timestamp": "2026-06-16T11:03:00+03:00",
       "perspectives": [
         {
-          "source": "Asharq Al-Awsat",
-          "url": "https://english.aawsat.com/world/5284679-iran-fm-says-ending-war-including-lebanon-%E2%80%98most-important-issue%E2%80%99-us-deal",
-          "angle": "Iran FM Araghchi: Ending war in Lebanon is 'most important issue' in US deal",
-          "summary": "Iran's Foreign Minister Abbas Araghchi stated that ending the war on all fronts including Lebanon was the most critical component of the US-Iran agreement, raising pressure on Israel to withdraw from Lebanese territory."
-        },
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/iran-us-war-israel-lebanon-oil-june-16-2026-d79458506c46e3f4a78aef0f9d8b9250",
-          "angle": "Iran says peace deal requires Israeli withdrawal from Lebanon",
-          "summary": "Iran's top diplomat stated that ending the war with the US hinges on Israel withdrawing from southern Lebanon, adding a major complication as Trump pushes to finalize the agreement at the G7 summit."
+          "source": "SCMP",
+          "url": "https://www.scmp.com/video/world/3357324/trump-sets-date-hormuz-strait-reopening-while-israel-says-it-not-bound-peace-deal?pgtype=live",
+          "angle": "Trump sets Hormuz reopening date as Israel says not bound by Iran peace deal",
+          "summary": "Trump announced a timeline for the Strait of Hormuz reopening, while Israel explicitly stated it is not bound by the US-Iran agreement, creating tensions that could undermine the ceasefire."
         }
       ],
       "sources": [
         "Reuters",
-        "Asharq Al-Awsat",
-        "AP News"
+        "SCMP"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/netanyahu-trump-collision-course-us-iran-agree-halt-war-2026-06-15/",
-        "https://english.aawsat.com/world/5284679-iran-fm-says-ending-war-including-lebanon-%E2%80%98most-important-issue%E2%80%99-us-deal",
-        "https://apnews.com/article/iran-us-war-israel-lebanon-oil-june-16-2026-d79458506c46e3f4a78aef0f9d8b9250"
+        "https://www.scmp.com/video/world/3357324/trump-sets-date-hormuz-strait-reopening-while-israel-says-it-not-bound-peace-deal?pgtype=live"
       ]
     },
     {
@@ -463,31 +490,6 @@
       "source": "SCMP",
       "url": "https://www.scmp.com/business/banking-finance/article/3357257/going-gold-central-banks-expand-bullion-holdings-us-dollars-world-dominance-falls?module=top_story&pgtype=section",
       "timestamp": "2026-06-16T10:05:00+03:00"
-    },
-    {
-      "headline": "JD Vance admits unresolved issues remain in Iran peace deal ahead of G7 talks",
-      "summary": "Vice President JD Vance acknowledged that several issues still remain in the US-Iran peace agreement as G7 leaders prepare to discuss the Middle East, tempering expectations for a finalized deal at the summit.",
-      "emoji": "🇺🇸",
-      "category": "Diplomacy",
-      "source": "The Telegraph",
-      "url": "https://www.telegraph.co.uk/world-news/2026/06/16/g7-summit-latest-news-trump-ukraine-iran-war-peace-deal/",
-      "timestamp": "2026-06-16T10:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Arabiya",
-          "url": "https://english.alarabiya.net/News/middle-east/2026/06/15/trump-vance-and-iran-speaker-ghalibaf-electronically-signed-deal-us-official",
-          "angle": "Trump, Vance, and Iran Speaker Ghalibaf Electronically Sign Peace Memo",
-          "summary": "A senior US official confirmed that President Trump, Vice President Vance, and Iranian parliament speaker Mohammad Bagher Ghalibaf electronically signed the US-Iran memorandum of understanding, with a formal ceremony planned for Friday in Geneva."
-        }
-      ],
-      "sources": [
-        "The Telegraph",
-        "Al Arabiya"
-      ],
-      "urls": [
-        "https://www.telegraph.co.uk/world-news/2026/06/16/g7-summit-latest-news-trump-ukraine-iran-war-peace-deal/",
-        "https://english.alarabiya.net/News/middle-east/2026/06/15/trump-vance-and-iran-speaker-ghalibaf-electronically-signed-deal-us-official"
-      ]
     },
     {
       "headline": "Surging Chinese exports threaten European economy, raising alarm at G7 summit",
@@ -846,31 +848,6 @@
       "source": "The Hill",
       "url": "https://thehill.com/homenews/administration/5925541-trump-iran-300b-funding/",
       "timestamp": "2026-06-16T04:06:00+03:00"
-    },
-    {
-      "headline": "US and Iran sign MOU to end war, formal signing ceremony set for Friday",
-      "summary": "Senior US officials confirmed the memorandum of understanding has been signed electronically, with a formal ceremony planned for Friday. Shipping traffic through the Strait of Hormuz will gradually ramp up as mines are cleared.",
-      "emoji": "🇮🇷",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/trump-vance-irans-parliament-speaker-signed-mou-2026-06-15/",
-      "timestamp": "2026-06-16T04:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/iran-us-war-oil-june-15-2026-77406473da38c6c126818610a219dc20",
-          "angle": "Initial deal to end US-Iran war moves toward formal signing despite lingering questions",
-          "summary": "The US-Iran agreement to extend the ceasefire and reopen the Strait of Hormuz is advancing toward formal signing, but critical questions remain about enforcement, Iran's nuclear program, and the role of Israel and regional allies in the broader settlement."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP News"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/trump-vance-irans-parliament-speaker-signed-mou-2026-06-15/",
-        "https://apnews.com/article/iran-us-war-oil-june-15-2026-77406473da38c6c126818610a219dc20"
-      ]
     },
     {
       "headline": "Zelensky Offers to Meet Putin at G7 or in the US for Peace Talks",
