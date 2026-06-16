@@ -1,17 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>Frontion Geopolitical Headlines</title>
-    <link>https://frontion.com</link>
-    <description>Real-time geopolitical news from Tier 1 sources worldwide</description>
+    <title>Frontion — Geopolitical News Headlines</title>
+    <link>https://frontion.github.io</link>
+    <description>Real-time geopolitical headlines from Tier 1 sources worldwide</description>
     <language>en</language>
-    <lastBuildDate>2026-06-16T20:05:15+03:00</lastBuildDate>
+    <lastBuildDate>2026-06-16T21:04:13+03:00</lastBuildDate>
+    <item>
+      <title>G7 allies push Trump to reinstate sanctions on Russian oil as summit refocuses on Ukraine</title>
+      <link>https://www.bostonherald.com/2026/06/16/g7-allies-ukraine-trump/</link>
+      <description>U.S. allies at the G7 summit pressed President Trump to swiftly reimpose sanctions on Russian oil, shifting focus back to Ukraine amid signs the Iran war is de-escalating. The move signals continued Western resolve on isolating Moscow economically.</description>
+      <category>Ukraine-Russia War</category>
+      <pubDate>2026-06-16T21:03:00+03:00</pubDate>
+      <source>AP News</source>
+    </item>
+    <item>
+      <title>Trump says he will send Iran peace deal to Congress for approval</title>
+      <link>https://www.upi.com/Top_News/US/2026/06/16/trump-iran-deal-congress/5581781629118/</link>
+      <description>President Trump announced he would submit the U.S.-Iran war-ending agreement to Congress for approval, a key step that could determine whether the deal survives domestic political scrutiny on Capitol Hill.</description>
+      <category>US-Iran War</category>
+      <pubDate>2026-06-16T21:03:00+03:00</pubDate>
+      <source>UPI</source>
+    </item>
+    <item>
+      <title>Iran soccer team forced to train in Tijuana after being blocked from U.S. entry</title>
+      <link>https://www.npr.org/2026/06/15/nx-s1-5856423/irans-soccer-team-was-welcomed-in-tijuana-after-being-blocked-from-training-in-u-s</link>
+      <description>Iran World Cup squad was denied entry to train in the United States amid wartime tensions, finding an unlikely welcome in the Mexican border city of Tijuana — a story where sport and geopolitics collide.</description>
+      <category>US-Iran War</category>
+      <pubDate>2026-06-16T21:03:00+03:00</pubDate>
+      <source>NPR</source>
+    </item>
+    <item>
+      <title>Trump criticizes Netanyahu over Lebanon attacks at G7, warns Israel to be more responsible</title>
+      <link>https://www.nbcnews.com/politics/donald-trump/live-blog/live-updates-trump-g7-summit-us-iran-deal-hormuz-ukraine-russia-rcna350193</link>
+      <description>At the G7 summit, Trump publicly criticized Israeli PM Netanyahu for escalating attacks on Lebanon and Hezbollah, saying Israel must act more responsibly — a rare rift between the two leaders on full display before other world leaders.</description>
+      <category>Middle East</category>
+      <pubDate>2026-06-16T21:03:00+03:00</pubDate>
+      <source>NBC News</source>
+    </item>
+    <item>
+      <title>Anti-capitalist protesters clash with security at G7 summit in Evian</title>
+      <link>https://www.reuters.com/sustainability/anti-capitalist-protests-g7-summit-2026-06-16/</link>
+      <description>Thousands of anti-capitalist demonstrators protested near the G7 summit venue in Evian-les-Bains, opposing what they called the elite global order — a familiar backdrop for the annual gathering of world leaders.</description>
+      <category>Europe</category>
+      <pubDate>2026-06-16T21:03:00+03:00</pubDate>
+      <source>Reuters</source>
+    </item>
     <item>
       <title>Strait of Hormuz sees mini exodus of shipping as Vance insists peace deal benefits US</title>
       <link>https://www.telegraph.co.uk/news/2026/06/16/mini-exodus-in-strait-of-hormuz-as-vance-insists-peace-deal/</link>
       <description>Ships are rushing to leave the Strait of Hormuz amid uncertainty over the US-Iran peace deal terms, while Vice President JD Vance defended the agreement as advantageous for American interests.</description>
       <category>Energy</category>
       <pubDate>2026-06-16T20:04:00+03:00</pubDate>
+      <source>The Telegraph</source>
     </item>
     <item>
       <title>AI price war deepens across China as competition intensifies between tech giants</title>
@@ -19,6 +60,7 @@
       <description>Narrowing capability gaps between AI models and falling service costs are fueling a price war among Chinese tech firms, with analysts predicting further reductions as competition heats up.</description>
       <category>Technology</category>
       <pubDate>2026-06-16T20:04:00+03:00</pubDate>
+      <source>SCMP</source>
     </item>
     <item>
       <title>Harris says Trump DOJ investigation of Newsom fits pattern of targeting political enemies</title>
@@ -26,6 +68,7 @@
       <description>Former Vice President Kamala Harris condemned the Trump administration investigation into California Governor Gavin Newsom, calling it part of a broader pattern of using the Justice Department against political opponents.</description>
       <category>US Politics</category>
       <pubDate>2026-06-16T20:04:00+03:00</pubDate>
+      <source>Politico</source>
     </item>
     <item>
       <title>Swiss luxury resort chosen as venue for US-Iran deal signing ceremony</title>
@@ -33,6 +76,7 @@
       <description>The Bürgenstock resort above Lake Lucerne in Switzerland, long favored by world leaders and celebrities, will host the formal signing of the US-Iran peace agreement scheduled for June 19.</description>
       <category>Diplomacy</category>
       <pubDate>2026-06-16T20:04:00+03:00</pubDate>
+      <source>France 24</source>
     </item>
     <item>
       <title>Philippines unprepared for a mega-quake despite Mindanao disaster, experts warn</title>
@@ -40,6 +84,7 @@
       <description>A 50-year-old building code and stalled political action leave the Philippines vulnerable to a catastrophic earthquake, with scientists warning the recent Mindanao quake is only a preview of a larger event.</description>
       <category>Asia-Pacific</category>
       <pubDate>2026-06-16T20:04:00+03:00</pubDate>
+      <source>SCMP</source>
     </item>
     <item>
       <title>Trump tells G7 Ukraine war has &quot;no impact&quot; on the United States</title>
@@ -47,6 +92,7 @@
       <description>At the G7 summit in Evian, President Trump distanced the US from the Ukraine conflict, telling allies the war has no effect on America — a stark signal to European partners who have relied on US security guarantees for decades.</description>
       <category>US Politics</category>
       <pubDate>2026-06-16T20:03:00+03:00</pubDate>
+      <source>New York Times</source>
     </item>
     <item>
       <title>Zelenskiy says G7 leaders agreed Russia is not winning, discussed further sanctions</title>
@@ -54,6 +100,7 @@
       <description>Ukraine's president said G7 leaders reached consensus that Russia is not winning the war and discussed additional sanctions to push Moscow toward negotiations, after a closed-door session with Trump at the Evian summit.</description>
       <category>Ukraine-Russia War</category>
       <pubDate>2026-06-16T20:03:00+03:00</pubDate>
+      <source>Reuters</source>
     </item>
     <item>
       <title>Trump rebukes Israel at G7, suggests Syria should handle Hezbollah instead</title>
@@ -61,13 +108,7 @@
       <description>President Trump publicly criticized Israel's prolonged and deadly campaign in Lebanon, saying the war is &quot;too long&quot; and suggesting Damascus — not the IDF — should deal with Hezbollah, a proposal that could reshape the Levant's security landscape.</description>
       <category>Middle East</category>
       <pubDate>2026-06-16T20:03:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>Trump says next phase of Iran deal will be &quot;easier&quot; as Geneva signing set for June 19</title>
-      <link>https://www.nbcnews.com/politics/donald-trump/live-blog/live-updates-trump-g7-summit-us-iran-deal-hormuz-ukraine-russia-rcna350193</link>
-      <description>Speaking at the G7 summit, Trump expressed confidence that the Iran peace deal's next phase would proceed smoothly, with a formal signing ceremony planned in Geneva on June 19 after the framework MOU was electronically signed.</description>
-      <category>Diplomacy</category>
-      <pubDate>2026-06-16T20:03:00+03:00</pubDate>
+      <source>CNN</source>
     </item>
     <item>
       <title>Economist briefing: Trump details Iran nuclear terms, says Iran will never build a weapon</title>
@@ -75,6 +116,7 @@
       <description>The Economist reports Trump's MOU with Iran guarantees Tehran will never develop a nuclear weapon, though key implementation details remain unclear. The deal's impact on oil markets and regional security is still unfolding.</description>
       <category>Diplomacy</category>
       <pubDate>2026-06-16T20:03:00+03:00</pubDate>
+      <source>The Economist</source>
     </item>
     <item>
       <title>B-52 Bomber Crashes at Edwards Air Force Base, All 8 Crew Killed</title>
@@ -82,6 +124,7 @@
       <description>A US Air Force B-52 Stratofortress crashed during a test flight at Edwards AFB in California, killing all eight aboard including two Boeing employees. The aircraft burst into flames after takeoff during a radar modernization test mission.</description>
       <category>Military</category>
       <pubDate>2026-06-16T19:13:00+03:00</pubDate>
+      <source>Reuters</source>
     </item>
     <item>
       <title>US Using Iranian Smuggling Tactics to Sneak Oil Out of the Gulf</title>
@@ -89,6 +132,7 @@
       <description>Reuters reports the United States has adopted Iranian-style ship-to-ship transfer tactics to bypass the Hormuz blockade and move crude oil out of the Persian Gulf during the conflict, highlighting how the standoff disrupted global energy logistics.</description>
       <category>Energy</category>
       <pubDate>2026-06-16T19:13:00+03:00</pubDate>
+      <source>Reuters</source>
     </item>
     <item>
       <title>Russian Warship Fires Warning Shots at Yacht in the English Channel</title>
@@ -96,6 +140,7 @@
       <description>A Russian frigate fired warning shots at a yacht that came near it while transiting the English Channel, escalating tensions in European waters just days after the UK seized a Russian-linked tanker.</description>
       <category>Europe</category>
       <pubDate>2026-06-16T19:13:00+03:00</pubDate>
+      <source>BBC</source>
     </item>
     <item>
       <title>War-weary Russia is fracturing as domestic dissent grows, analysis warns</title>
@@ -103,6 +148,7 @@
       <description>An opinion analysis in The Hill argues that mounting internal pressures — from war fatigue to economic strain — are pushing Russia toward a breaking point, with unpredictable consequences for the Ukraine conflict.</description>
       <category>Ukraine-Russia War</category>
       <pubDate>2026-06-16T18:04:00+03:00</pubDate>
+      <source>The Hill</source>
     </item>
     <item>
       <title>Zelensky seeks US license to produce anti-ballistic missiles domestically</title>
@@ -110,6 +156,7 @@
       <description>President Zelensky said Ukraine is requesting US approval to manufacture anti-ballistic missile systems on Ukrainian soil, a significant shift that would bolster air defense capabilities against Russian strikes.</description>
       <category>Ukraine-Russia War</category>
       <pubDate>2026-06-16T18:04:00+03:00</pubDate>
+      <source>Kyiv Post</source>
     </item>
     <item>
       <title>WWII Death Railway station built by Allied POWs resurfaces in Thailand after 40 years</title>
@@ -117,6 +164,7 @@
       <description>A long-lost railway station along Thailand's infamous Death Railway, constructed by Allied prisoners of war under Japanese captivity, has re-emerged after four decades underwater due to changing water levels.</description>
       <category>Asia-Pacific</category>
       <pubDate>2026-06-16T18:04:00+03:00</pubDate>
+      <source>The Telegraph</source>
     </item>
     <item>
       <title>Lukashenko Says Russia and Ukraine Must Compromise to End War</title>
@@ -124,6 +172,7 @@
       <description>Belarusian President Alexander Lukashenko, one of Putin's closest allies, said both sides in the Russia-Ukraine war must compromise, calling the conflict now in its fifth year with no end in sight.</description>
       <category>Ukraine-Russia War</category>
       <pubDate>2026-06-16T18:03:00+03:00</pubDate>
+      <source>Reuters</source>
     </item>
     <item>
       <title>Ukrainian drone strike halts operations at Moscow oil refinery</title>
@@ -131,6 +180,7 @@
       <description>A Ukrainian drone attack sparked a fire and halted operations at the largest fuel supplier to the Moscow region, marking a significant escalation in Ukrainian strikes deep inside Russian territory amid the G7 summit.</description>
       <category>Ukraine-Russia War</category>
       <pubDate>2026-06-16T17:03:00+03:00</pubDate>
+      <source>Reuters</source>
     </item>
     <item>
       <title>Iran World Cup team ordered out of US after opening match</title>
@@ -138,6 +188,7 @@
       <description>Iran's coach says the team was ordered to leave the United States and return to its training base in Mexico after a 2-2 draw with New Zealand, highlighting how geopolitical tensions are spilling into the World Cup.</description>
       <category>Diplomacy</category>
       <pubDate>2026-06-16T17:03:00+03:00</pubDate>
+      <source>AP News</source>
     </item>
     <item>
       <title>Trump says US will soon reimpose sanctions on Russian oil at G7</title>
@@ -145,6 +196,7 @@
       <description>At the G7 summit in France, President Trump indicated the US would soon be able to reimpose sanctions on Russian oil, as leaders refocused attention on Ukraine alongside the Iran deal discussions.</description>
       <category>Diplomacy</category>
       <pubDate>2026-06-16T17:03:00+03:00</pubDate>
+      <source>CNN</source>
     </item>
     <item>
       <title>Iran says final nuclear deal talks with US to begin this week</title>
@@ -152,34 +204,7 @@
       <description>Iran announced that negotiations on a comprehensive nuclear agreement and sanctions relief with the United States would likely begin later this week, following the memorandum of understanding signed to end the war.</description>
       <category>Diplomacy</category>
       <pubDate>2026-06-16T16:08:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>Energy firms brace for new era despite Hormuz reopening deal</title>
-      <link>https://www.al-monitor.com/originals/2026/06/energy-firms-brace-new-era-despite-hormuz-deal</link>
-      <description>Oil and gas majors expect a quick reopening of the Strait of Hormuz but warn that a full return to normal for the Gulf energy industry is unlikely after more than three months of disrupted shipping.</description>
-      <category>Energy</category>
-      <pubDate>2026-06-16T16:08:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>Canada announces new Russia sanctions after Carney-Zelensky G7 meeting</title>
-      <link>https://kyivindependent.com/canada-announces-new-russia-sanctions-after-carney-zelensky-meeting-at-g7-summit/</link>
-      <description>Canada unveiled a new sanctions package targeting 162 individuals, entities, and vessels linked to Russia’s shadow fleet and energy sector following a meeting between PM Carney and Zelensky at the G7 summit.</description>
-      <category>Ukraine-Russia War</category>
-      <pubDate>2026-06-16T16:08:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>Ukraine to create new drone units to bolster northern border defenses</title>
-      <link>https://kyivindependent.com/ukraine-to-create-new-drone-units-to-bolster-defenses-in-northern-sector-syrskyi-says/</link>
-      <description>Commander-in-chief Syrskyi announced Ukraine will form new drone units to strengthen defenses along the northern border with Russia and Belarus amid ongoing security concerns.</description>
-      <category>Military</category>
-      <pubDate>2026-06-16T16:08:00+03:00</pubDate>
-    </item>
-    <item>
-      <title>FBI disrupts planned attacks targeting White House UFC event, multiple arrests made</title>
-      <link>https://apnews.com/article/fbi-trump-ufc-white-house-b6a41e2e8fc7feb84440581c2535b000</link>
-      <description>FBI Director Kash Patel announced that law enforcement disrupted planned attacks targeting the UFC Freedom 250 event at the White House, with at least five people arrested in connection with an alleged drone-explosive plot.</description>
-      <category>US Politics</category>
-      <pubDate>2026-06-16T16:03:00+03:00</pubDate>
+      <source>Al-Monitor</source>
     </item>
   </channel>
 </rss>
