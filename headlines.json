@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-06-16T11:08:50+03:00",
+  "lastUpdated": "2026-06-16T12:04:58+03:00",
   "headlines": [
     {
-      "headline": "G7 Summit Opens With Ukraine and Iran at the Top of the Agenda as Zelenskyy Joins",
-      "summary": "Leaders of the Group of Seven opened their first full day of talks in Évian-les-Bains, France, with Ukraine's war and the tentative US-Iran peace deal dominating discussions. Ukrainian President Volodymyr Zelenskyy arrived to press allies for stronger security guarantees.",
-      "emoji": "🇫🇷🤝🇺🇦",
+      "headline": "US Air Force B-52 bomber crashes at Edwards AFB, all 8 crew killed",
+      "summary": "A B-52 Stratofortress crashed shortly after takeoff at Edwards Air Force Base in California, bursting into flames and killing all eight crew members aboard, including two Boeing employees.",
+      "emoji": "🇺🇸✈️",
+      "category": "Military",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/aerospace-defense/us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says-2026-06-15/",
+      "timestamp": "2026-06-16T12:03:00+03:00"
+    },
+    {
+      "headline": "G7 leaders open summit talks on Ukraine and Middle East as Zelenskyy joins in France",
+      "summary": "Leaders of the Group of Seven opened their first full day of meetings in Evian-les-Bains, with a packed agenda covering the war in Ukraine and the tentative US-Iran peace deal, as Ukrainian President Zelenskyy arrived for talks.",
+      "emoji": "🇫🇷🏛️",
       "category": "Diplomacy",
       "source": "AP News",
       "url": "https://apnews.com/article/g7-iran-ukraine-trump-macron-zelenskyy-e7fad4eabaae8181f70fa5a0b9e499b2",
-      "timestamp": "2026-06-16T11:03:00+03:00"
+      "timestamp": "2026-06-16T12:03:00+03:00"
+    },
+    {
+      "headline": "Trump meets G7 leaders and Zelenskyy after US-Iran agreement, Ukraine in focus",
+      "summary": "President Trump held meetings with G7 leaders and Ukrainian President Zelenskyy at the summit in France, with discussions centering on the tentative Iran peace deal and shifting attention toward resolving the Russia-Ukraine war.",
+      "emoji": "🇺🇸🇺🇦",
+      "category": "Diplomacy",
+      "source": "NBC News",
+      "url": "https://www.nbcnews.com/politics/donald-trump/live-blog/live-updates-trump-g7-summit-us-iran-deal-hormuz-ukraine-russia-rcna350193",
+      "timestamp": "2026-06-16T12:03:00+03:00"
+    },
+    {
+      "headline": "Oil prices retreat to $80 a barrel after US-Iran peace framework deal",
+      "summary": "Crude prices tumbled toward $80 a barrel after the US and Iran agreed to a tentative peace framework, as traders anticipated the reopening of the Strait of Hormuz and resumption of Middle East oil flows.",
+      "emoji": "🛢️📉",
+      "category": "Energy",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oil-prices-decline-after-u-s-iran-agree-to-framework-of-peace-deal-ae25ba9f",
+      "timestamp": "2026-06-16T12:03:00+03:00"
+    },
+    {
+      "headline": "Iran soccer team blocked from training in US, welcomed by Tijuana amid World Cup",
+      "summary": "Iran's World Cup squad was denied entry to train in the United States amid the recent conflict, but the Mexican border city of Tijuana rolled out a welcome for the team caught between sport and geopolitics.",
+      "emoji": "🇮🇷⚽",
+      "category": "Geopolitics",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/15/nx-s1-5856423/irans-soccer-team-was-welcomed-in-tijuana-after-being-blocked-from-training-in-u-s",
+      "timestamp": "2026-06-16T12:03:00+03:00"
     },
     {
       "headline": "Netanyahu and Trump on Collision Course as US-Iran Deal Falls Short of Israeli War Goals",
@@ -17,7 +53,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/netanyahu-trump-collision-course-us-iran-agree-halt-war-2026-06-15/",
-      "timestamp": "2026-06-16T11:03:00+03:00"
+      "timestamp": "2026-06-16T11:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/netanyahu-trump-collision-course-us-iran-agree-halt-war-2026-06-15/",
+          "angle": "Netanyahu and Trump on collision course as US-Iran deal leaves Israel sidelined",
+          "summary": "Israeli PM Netanyahu has repeatedly clashed with Trump over Israel’s refusal to constrain its pursuit of Hezbollah in Lebanon, where a cessation of hostilities is a key Iranian demand in the new US-Iran peace deal."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/netanyahu-trump-collision-course-us-iran-agree-halt-war-2026-06-15/",
+        "https://www.reuters.com/world/middle-east/netanyahu-trump-collision-course-us-iran-agree-halt-war-2026-06-15/"
+      ]
     },
     {
       "headline": "Historic Kyiv Pechersk Lavra Monastery Set Ablaze in Russian Strike",
@@ -26,25 +78,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/what-know-about-historic-kyiv-monastery-damaged-russian-strike-2026-06-15/",
-      "timestamp": "2026-06-16T11:03:00+03:00"
-    },
-    {
-      "headline": "Trump Pushes Iran Deal at G7 as European Leaders Urge Caution and Ukraine Rethink",
-      "summary": "President Trump arrived at the G7 summit promoting his preliminary Iran deal, but European leaders pressed him on the deal's risks and urged a rethink on Ukraine. The summit's agenda is dominated by the twin crises of the Middle East ceasefire and Russia's war in Ukraine.",
-      "emoji": "🇪🇺🏛️🌍",
-      "category": "Diplomacy",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/live/2026/06/16/world/g7-summit-conference-trump-france",
-      "timestamp": "2026-06-16T11:03:00+03:00"
-    },
-    {
-      "headline": "Trump Meets G7 Leaders and Zelenskyy as Iran Deal Implementation Questions Loom",
-      "summary": "President Trump met with G7 leaders and Ukrainian President Zelenskyy on the second day of the summit in France. Questions persist about how the US-Iran ceasefire will actually be implemented, with JD Vance admitting \"a number of issues\" remain unresolved ahead of a formal signing set for Geneva.",
-      "emoji": "🇺🇸🇫🇷🤝",
-      "category": "Diplomacy",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/donald-trump/live-blog/live-updates-trump-g7-summit-us-iran-deal-hormuz-ukraine-russia-rcna350193",
-      "timestamp": "2026-06-16T11:03:00+03:00"
+      "timestamp": "2026-06-16T11:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/ukraine-weighs-damage-historic-cathedral-after-russian-strike-causes-blaze-2026-06-15/",
+          "angle": "Russian strike damages historic Kyiv cathedral, kills 11 across Ukraine",
+          "summary": "A major Russian overnight barrage of missiles and drones killed at least 11 people across Ukraine and set fire to the nearly 1,000-year-old Kyiv Pechersk Lavra, one of the country's most sacred cultural landmarks. Ukraine's Orthodox leader called Putin \"Antichrist\" for the attack."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/what-know-about-historic-kyiv-monastery-damaged-russian-strike-2026-06-15/",
+        "https://www.reuters.com/world/ukraine-weighs-damage-historic-cathedral-after-russian-strike-causes-blaze-2026-06-15/"
+      ]
     },
     {
       "headline": "Ukraine drives rush for mini drone laser-targeting systems as battlefield demand surges",
@@ -252,27 +302,19 @@
       "timestamp": "2026-06-16T08:03:00+03:00",
       "perspectives": [
         {
-          "source": "AP News",
-          "url": "https://apnews.com/article/g7-iran-ukraine-trump-macron-zelenskyy-e7fad4eabaae8181f70fa5a0b9e499b2",
-          "angle": "G7 leaders open full summit session with Zelensky on Ukraine as Trump shifts focus from Iran",
-          "summary": "Leaders at the G7 summit in Evian face a packed agenda with Zelensky attending Ukraine talks and Arab leaders joining Middle East discussions. Trump said he would now focus on Ukraine after the Iran ceasefire, while Macron seeks to maintain Western support for Kyiv."
-        },
-        {
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jun/15/macron-evian-g7-agenda-summit-trump",
-          "angle": "Macron Frames Évian G7 Agenda Hoping Trump Will Stay for Full Summit",
-          "summary": "French President Emmanuel Macron is hosting his final G7 summit in Évian, with the agenda focused on ending the Ukraine war and pushing for resolutions in Gaza and Iran. Leaders hope Trump will remain for the entire meeting after leaving the last gathering early."
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/live/2026/06/16/world/g7-summit-conference-trump-france",
+          "angle": "Trump Pushes Iran Deal at G7 as European Leaders Urge Caution and Ukraine Rethink",
+          "summary": "President Trump arrived at the G7 summit promoting his preliminary Iran deal, but European leaders pressed him on the deal's risks and urged a rethink on Ukraine. The summit's agenda is dominated by the twin crises of the Middle East ceasefire and Russia's war in Ukraine."
         }
       ],
       "sources": [
         "Reuters",
-        "AP News",
-        "The Guardian"
+        "New York Times"
       ],
       "urls": [
         "https://www.reuters.com/world/china/europeans-test-trump-iran-deal-risks-urge-ukraine-rethink-g7-2026-06-16/",
-        "https://apnews.com/article/g7-iran-ukraine-trump-macron-zelenskyy-e7fad4eabaae8181f70fa5a0b9e499b2",
-        "https://www.theguardian.com/world/2026/jun/15/macron-evian-g7-agenda-summit-trump"
+        "https://www.nytimes.com/live/2026/06/16/world/g7-summit-conference-trump-france"
       ]
     },
     {
@@ -427,39 +469,6 @@
       "source": "France 24",
       "url": "https://www.france24.com/en/technology/20260616-social-media-becomes-worlds-leading-news-source-report-warns",
       "timestamp": "2026-06-16T06:04:00+03:00"
-    },
-    {
-      "headline": "Netanyahu and Trump on collision course as US-Iran deal leaves Israel sidelined",
-      "summary": "Israeli PM Netanyahu has repeatedly clashed with Trump over Israel’s refusal to constrain its pursuit of Hezbollah in Lebanon, where a cessation of hostilities is a key Iranian demand in the new US-Iran peace deal.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/netanyahu-trump-collision-course-us-iran-agree-halt-war-2026-06-15/",
-      "timestamp": "2026-06-16T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Jerusalem Post",
-          "url": "https://www.jpost.com/middle-east/iran-news/2026-06-16/live-updates-899529",
-          "angle": "Hezbollah fires missiles at IDF troops in Lebanon as Israel vows to keep forces in security zones despite Iran deal",
-          "summary": "Hezbollah launched missiles and mortar shells at Israeli forces in southern Lebanon even as the US-Iran peace deal was announced. Defense Minister Katz stated the IDF will remain in Lebanese security zones, raising questions about whether the deal can hold on the ground."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-says-2026-06-12/",
-          "angle": "Hezbollah Expects Lebanon to Be Included in US-Iran Peace Deal",
-          "summary": "A senior Hezbollah politician expressed confidence that Iran will insist on including Lebanon in any agreement with the United States, as hopes grow for a potential peace deal between Tehran and Washington."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Jerusalem Post",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/netanyahu-trump-collision-course-us-iran-agree-halt-war-2026-06-15/",
-        "https://www.jpost.com/middle-east/iran-news/2026-06-16/live-updates-899529",
-        "https://www.reuters.com/world/middle-east/hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-says-2026-06-12/"
-      ]
     },
     {
       "headline": "Russia slashes fuel quality rules as Ukrainian attacks squeeze domestic supplies",
@@ -711,31 +720,6 @@
       "source": "Inquirer",
       "url": "https://globalnation.inquirer.net/327378/marcos-putin-talks-to-focus-on-energy-food-security",
       "timestamp": "2026-06-16T00:08:00+03:00"
-    },
-    {
-      "headline": "Russian strike damages historic Kyiv cathedral, kills 11 across Ukraine",
-      "summary": "A major Russian overnight barrage of missiles and drones killed at least 11 people across Ukraine and set fire to the nearly 1,000-year-old Kyiv Pechersk Lavra, one of the country's most sacred cultural landmarks. Ukraine's Orthodox leader called Putin \"Antichrist\" for the attack.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/ukraine-weighs-damage-historic-cathedral-after-russian-strike-causes-blaze-2026-06-15/",
-      "timestamp": "2026-06-16T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Guardian",
-          "url": "https://www.theguardian.com/world/2026/jun/15/kyiv-pechersk-lavra-monastery-on-fire-russian-attacks-ukraine",
-          "angle": "Kyiv monastery set on fire in night of Russian attacks across Ukraine",
-          "summary": "The Dormition Cathedral of Kyiv Pechersk Lavra, one of Ukraine's most significant religious sites, was set on fire alongside residential buildings during widespread Russian attacks on the capital."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "The Guardian"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/ukraine-weighs-damage-historic-cathedral-after-russian-strike-causes-blaze-2026-06-15/",
-        "https://www.theguardian.com/world/2026/jun/15/kyiv-pechersk-lavra-monastery-on-fire-russian-attacks-ukraine"
-      ]
     },
     {
       "headline": "US and Iran sign framework deal with 60-day ceasefire, leaving major issues for future talks",
@@ -1525,65 +1509,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/us/evangelicals-divided-trumps-war-iran-immigration-crackdown-reutersipsos-poll-2026-06-12/",
       "timestamp": "2026-06-13T12:04:00+03:00"
-    },
-    {
-      "headline": "US Deports Iranian Pro-Democracy Activist to Central African Republic",
-      "summary": "The United States deported an Iranian pro-democracy activist to Central African Republic, her lawyer said, describing it as a \"super dangerous\" transfer to a country with which the activist has no connection.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/africa/us-deports-iranian-pro-democracy-activist-central-african-republic-lawyer-says-2026-06-12/",
-      "timestamp": "2026-06-13T12:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/africa/us-deports-iranian-pro-democracy-activist-central-african-republic-lawyer-says-2026-06-12/",
-          "angle": "US Deports Iranian Pro-Democracy Activist to Central African Republic",
-          "summary": "The United States has deported an Iranian pro-democracy activist to the Central African Republic, her lawyer said, describing it as a \"super dangerous\" transfer to a country with which the activist has no connection."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/africa/us-deports-iranian-pro-democracy-activist-central-african-republic-lawyer-says-2026-06-12/",
-        "https://www.reuters.com/world/africa/us-deports-iranian-pro-democracy-activist-central-african-republic-lawyer-says-2026-06-12/"
-      ]
-    },
-    {
-      "headline": "Azerbaijan Sentences Prominent Rights Activist to Eight Years in Prison",
-      "summary": "A court in Baku convicted prominent rights activist of hooliganism and fraud in a case his lawyer called politically motivated. The sentencing raises concerns about human rights in the oil-rich Caucasus nation.",
-      "emoji": "🇦🇿",
-      "category": "Europe",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/azerbaijan-sentences-prominent-rights-activist-eight-years-prison-2026-06-12/",
-      "timestamp": "2026-06-13T12:01:00+03:00"
-    },
-    {
-      "headline": "US and Iran Signal Peace Deal Close as Military Action Continues Near Strait of Hormuz",
-      "summary": "Washington and Tehran indicated they are near an agreement to end their three-month conflict, though Iranian drones targeting commercial ships were downed in the Strait of Hormuz. A senior US official said both sides agreed on a text and expect to sign an initial deal in coming days.",
-      "emoji": "🇮🇷🇺🇸",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/iran-peace-deal-looms-while-new-military-action-flares-near-strait-hormuz-2026-06-13/",
-      "timestamp": "2026-06-13T12:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates",
-          "angle": "US and Iran announce deal to end war and reopen Strait of Hormuz",
-          "summary": "The US and Iran have reached an agreement to end military operations and reopen the Strait of Hormuz, a breakthrough that could reshape the Middle East and ease global oil supply fears. However, key details about enforcement and timelines remain unresolved."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "NPR"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/iran-peace-deal-looms-while-new-military-action-flares-near-strait-hormuz-2026-06-13/",
-        "https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates"
-      ]
     }
   ]
 }
