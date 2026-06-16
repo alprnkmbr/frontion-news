@@ -1,14 +1,50 @@
 {
-  "lastUpdated": "2026-06-16T05:04:46+03:00",
+  "lastUpdated": "2026-06-16T06:04:25+03:00",
   "headlines": [
     {
-      "headline": "Russian Barrage Kills 11, Sets Kyiv's Sacred Cathedral Ablaze",
-      "summary": "A massive Russian drone and missile attack on Kyiv and Kharkiv killed at least 11 people and set fire to the Kyiv-Pechersk Lavra, an 11th-century monastery complex and one of Eastern Orthodoxy's holiest sites. The attack came hours after Zelenskyy and Putin each spoke separately with Trump.",
-      "emoji": "🇺🇦⚔️",
+      "headline": "Netanyahu and Trump on collision course as US-Iran deal leaves Israel sidelined",
+      "summary": "Israeli PM Netanyahu has repeatedly clashed with Trump over Israel’s refusal to constrain its pursuit of Hezbollah in Lebanon, where a cessation of hostilities is a key Iranian demand in the new US-Iran peace deal.",
+      "emoji": "🇮🇱",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/netanyahu-trump-collision-course-us-iran-agree-halt-war-2026-06-15/",
+      "timestamp": "2026-06-16T06:03:00+03:00"
+    },
+    {
+      "headline": "Russia slashes fuel quality rules as Ukrainian attacks squeeze domestic supplies",
+      "summary": "Russia is allowing refineries to produce lower-specification fuel for the domestic market as Ukrainian drone strikes on energy infrastructure create growing shortages, Kommersant reports.",
+      "emoji": "🇷🇺",
       "category": "Ukraine-Russia War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/russia-ukraine-war-drones-kyiv-kharkiv-80bf94ad017eb8aad6af1f4e96494431",
-      "timestamp": "2026-06-16T05:03:00+03:00"
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/energy/russia-slashes-fuel-quality-rules-stave-off-shortages-kommersant-reports-2026-06-15/",
+      "timestamp": "2026-06-16T06:03:00+03:00"
+    },
+    {
+      "headline": "Trump turns attention back to Ukraine at G7 as European allies worry",
+      "summary": "Kyiv’s allies want the US to join their strategy of maximal pressure on Russia at the G7 summit, but it remains unclear whether Trump is on board as he shifts focus from Iran to the Ukraine war.",
+      "emoji": "🇺🇦",
+      "category": "Diplomacy",
+      "source": "Politico",
+      "url": "https://www.politico.eu/article/donald-trump-ukraine-peace-talks-g7-european-allies/",
+      "timestamp": "2026-06-16T06:03:00+03:00"
+    },
+    {
+      "headline": "Ebola cases top 800 in Congo as aid groups warn outbreak may be larger than reported",
+      "summary": "The outbreak is already the third largest Ebola epidemic on record and the biggest caused by the Bundibugyo strain, with aid organizations warning the true scale may exceed official figures.",
+      "emoji": "🇨🇩",
+      "category": "Africa",
+      "source": "Japan Times",
+      "url": "https://www.japantimes.co.jp/news/2026/06/16/world/science-health/ebola-800-cases-congo-aid-warning/",
+      "timestamp": "2026-06-16T06:03:00+03:00"
+    },
+    {
+      "headline": "Drone debris causes fire at Russian oil depot near Crimea",
+      "summary": "Drone debris sparked a fire at an oil depot in Russia’s southern Krasnodar region, authorities said, closing a local road connecting the damaged area to the Crimean peninsula.",
+      "emoji": "💥",
+      "category": "Ukraine-Russia War",
+      "source": "U.S. News",
+      "url": "https://www.usnews.com/news/world/articles/2026-06-15/drone-debris-causes-fire-at-oil-depot-in-russias-krasnodar-region-near-crimea",
+      "timestamp": "2026-06-16T06:03:00+03:00"
     },
     {
       "headline": "Japanese Shippers Await Hormuz Reopening Details as Mine Clearance Needed",
@@ -17,7 +53,23 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/japanese-shippers-await-details-hormuz-reopening-mine-clearance-2026-06-15/",
-      "timestamp": "2026-06-16T05:03:00+03:00"
+      "timestamp": "2026-06-16T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/japanese-shippers-await-details-hormuz-reopening-mine-clearance-2026-06-15/",
+          "angle": "Japanese shippers await mine clearance details before resuming Hormuz transit",
+          "summary": "Japanese shipping companies welcomed the US-Iran deal to reopen the Strait of Hormuz but say they need details on mine clearance and security guarantees before sending vessels through the chokepoint."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/japanese-shippers-await-details-hormuz-reopening-mine-clearance-2026-06-15/",
+        "https://www.reuters.com/world/middle-east/japanese-shippers-await-details-hormuz-reopening-mine-clearance-2026-06-15/"
+      ]
     },
     {
       "headline": "IMF Chief Says No Global Slowdown Yet but Risks Remain High",
@@ -331,19 +383,19 @@
       "timestamp": "2026-06-16T00:03:00+03:00",
       "perspectives": [
         {
-          "source": "France 24",
-          "url": "https://www.france24.com/en/live-news/20260615-deadly-strikes-on-ukraine-leave-kyiv-cathedral-in-flames",
-          "angle": "Russian missile barrage kills 11, sets historic Kyiv cathedral ablaze",
-          "summary": "Russia fired missiles across multiple Ukrainian cities, killing at least 11 people and sparking a fire at the 11th-century Kyiv-Pechersk Lavra monastery. Russia denied striking the UNESCO site, blaming Ukrainian air defenses."
+          "source": "AP News",
+          "url": "https://apnews.com/article/russia-ukraine-war-drones-kyiv-kharkiv-80bf94ad017eb8aad6af1f4e96494431",
+          "angle": "Russian Barrage Kills 11, Sets Kyiv's Sacred Cathedral Ablaze",
+          "summary": "A massive Russian drone and missile attack on Kyiv and Kharkiv killed at least 11 people and set fire to the Kyiv-Pechersk Lavra, an 11th-century monastery complex and one of Eastern Orthodoxy's holiest sites. The attack came hours after Zelenskyy and Putin each spoke separately with Trump."
         }
       ],
       "sources": [
         "Reuters",
-        "France 24"
+        "AP News"
       ],
       "urls": [
         "https://www.reuters.com/world/ukraine-weighs-damage-historic-cathedral-after-russian-strike-causes-blaze-2026-06-15/",
-        "https://www.france24.com/en/live-news/20260615-deadly-strikes-on-ukraine-leave-kyiv-cathedral-in-flames"
+        "https://apnews.com/article/russia-ukraine-war-drones-kyiv-kharkiv-80bf94ad017eb8aad6af1f4e96494431"
       ]
     },
     {
@@ -464,39 +516,6 @@
       "urls": [
         "https://www.scmp.com/news/world/united-states-canada/article/3357182/trump-threatens-100-tariff-french-wines-over-digital-tax-tech-firms",
         "https://www.france24.com/en/live-news/20260615-trump-threatens-100-tariff-on-french-wines-over-digital-tax"
-      ]
-    },
-    {
-      "headline": "Japanese shippers await mine clearance details before resuming Hormuz transit",
-      "summary": "Japanese shipping companies welcomed the US-Iran deal to reopen the Strait of Hormuz but say they need details on mine clearance and security guarantees before sending vessels through the chokepoint.",
-      "emoji": "🇯🇵",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/japanese-shippers-await-details-hormuz-reopening-mine-clearance-2026-06-15/",
-      "timestamp": "2026-06-15T22:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Arabiya",
-          "url": "https://english.alarabiya.net/News/middle-east/2026/06/15/shippers-remain-cautious-on-hormuz-strait-transit-after-us-and-iran-agree-deal",
-          "angle": "Shippers Remain Cautious on Strait of Hormuz Transit Despite Iran Deal",
-          "summary": "Shipping companies said confidence in resuming transit through the Strait of Hormuz could take weeks to rebuild, citing ongoing mines and security risks despite the US-Iran ceasefire agreement."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/oil-slips-over-4-after-us-iran-reach-peace-deal-reopen-strait-hormuz-2026-06-14/",
-          "angle": "Oil Slides $4 as US-Iran Peace Deal Reopens Strait of Hormuz",
-          "summary": "Oil prices dropped sharply after the US and Iran announced a tentative peace agreement that includes reopening the strategic Strait of Hormuz, easing concerns about global energy supplies."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Arabiya",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/japanese-shippers-await-details-hormuz-reopening-mine-clearance-2026-06-15/",
-        "https://english.alarabiya.net/News/middle-east/2026/06/15/shippers-remain-cautious-on-hormuz-strait-transit-after-us-and-iran-agree-deal",
-        "https://www.reuters.com/business/energy/oil-slips-over-4-after-us-iran-reach-peace-deal-reopen-strait-hormuz-2026-06-14/"
       ]
     },
     {
@@ -1751,31 +1770,6 @@
         "https://www.reuters.com/world/middle-east/uae-unlock-billions-dollars-iran-sources-say-2026-06-12/",
         "https://www.aljazeera.com/news/2026/6/12/uae-to-unlock-frozen-iranian-funds-amid-us-ceasefire-push",
         "https://www.aljazeera.com/news/2026/6/12/uae-to-unlock-frozen-iranian-funds-amid-us-ceasefire-push"
-      ]
-    },
-    {
-      "headline": "SpaceX $2 trillion debut divides markets amid cheers and protests",
-      "summary": "Elon Musk's SpaceX soared 11% on its first day of trading, reaching a $2 trillion valuation. The record IPO drew both celebration and criticism from investors concerned about valuation and Musk's influence.",
-      "emoji": "🚀💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/spacexs-2-trillion-debut-met-with-cheers-jeers-protest-2026-06-12/",
-      "timestamp": "2026-06-13T05:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/legal/transactional/view-spacex-opens-trading-150-after-record-busting-ipo-2026-06-12/",
-          "angle": "SpaceX soars 28% in record  trillion IPO debut",
-          "summary": "Elon Musk's SpaceX made history with the largest IPO ever, raising $75 billion and reaching a $2.25 trillion valuation. Musk becomes the world's first trillionaire as shares opened at $135 and surged on Nasdaq."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/aerospace-defense/spacexs-2-trillion-debut-met-with-cheers-jeers-protest-2026-06-12/",
-        "https://www.reuters.com/legal/transactional/view-spacex-opens-trading-150-after-record-busting-ipo-2026-06-12/"
       ]
     }
   ]
