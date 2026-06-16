@@ -1,14 +1,41 @@
 {
-  "lastUpdated": "2026-06-17T01:05:41+03:00",
+  "lastUpdated": "2026-06-17T02:05:10+03:00",
   "headlines": [
     {
-      "headline": "US, Iran, Hezbollah spar over ceasefire terms as deal signing set for Friday in Switzerland",
-      "summary": "Iran insists Israel withdraw from southern Lebanon as part of the ceasefire deal, while the US Senate narrowly blocked a war powers resolution to end the Iran war. The official signing ceremony for the US-Iran deal is scheduled for Friday in Switzerland.",
-      "emoji": "🇺🇸🇮🇱",
-      "category": "US-Iran War",
-      "source": "DW",
-      "url": "https://www.dw.com/en/us-iran-hezbollah-spar-over-murky-terms-of-ceasefire-deal/live-77573728",
-      "timestamp": "2026-06-17T01:00:00+03:00"
+      "headline": "The Iran War Permanently Altered the Global Economy",
+      "summary": "The New York Times analyzes how the US-Iran war has fundamentally reshaped global trade patterns and oil markets, arguing that even with a peace deal, the economic order is unlikely to revert to its pre-war state.",
+      "emoji": "💰",
+      "category": "Economy",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/16/business/economy/iran-war-oil-trade.html",
+      "timestamp": "2026-06-17T02:03:00+03:00"
+    },
+    {
+      "headline": "Lebanon Suffers Deadliest Spillover of the Regional War as Israel-Hezbollah Conflict Takes Heavy Toll",
+      "summary": "A Reuters factbox details the devastating costs to Lebanon from the latest Israel-Hezbollah war — the deadliest spillover of the regional conflict triggered by US-Israeli strikes on Iran more than three months ago.",
+      "emoji": "🇱🇧",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/costs-lebanon-latest-israel-hezbollah-war-2026-06-16/",
+      "timestamp": "2026-06-17T02:03:00+03:00"
+    },
+    {
+      "headline": "Iran War — Energy Shock or Geopolitical Turning Point?",
+      "summary": "Reuters commentary examines whether the Iran war will be remembered as a temporary energy shock or a lasting watershed moment for global crude oil and LNG markets, as a US-Iran peace deal promises to reopen the Strait of Hormuz.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/commentary/reuters-open-interest/is-iran-war-just-an-energy-shock-or-turning-point-2026-06-16/",
+      "timestamp": "2026-06-17T02:03:00+03:00"
+    },
+    {
+      "headline": "G7 Leaders Meet Zelenskyy, Qatar and UAE Heads on Summit First Full Day",
+      "summary": "NPR reports that President Trump met with G7 leaders as well as Ukrainian President Zelenskyy and the heads of Qatar and UAE during the key summit first full day, as allies push Ukraine back onto the agenda.",
+      "emoji": "🇫🇷",
+      "category": "Diplomacy",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/16/nx-s1-5859260/g7-leaders-meet-for-first-full-day-of-summit-tuesday",
+      "timestamp": "2026-06-17T02:03:00+03:00"
     },
     {
       "headline": "Trump denies US will invest money in Iran, says $300B fund report is \"ridiculous\"",
@@ -17,16 +44,23 @@
       "category": "US-Iran War",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/06/16/trump-g7-summit-iran-zelenskyy-macron.html",
-      "timestamp": "2026-06-17T01:00:00+03:00"
-    },
-    {
-      "headline": "Trump says he will send Iran deal to Congress for approval",
-      "summary": "President Trump told reporters at the G7 summit he would send the Iran peace agreement to Congress for approval, saying \"I like the idea.\" Sen. Lindsey Graham expressed concern that Iran's view of the deal seems different from what the US negotiating team claims.",
-      "emoji": "🇺🇸🏛️",
-      "category": "US-Iran War",
-      "source": "UPI",
-      "url": "https://www.upi.com/Top_News/US/2026/06/16/trump-iran-deal-congress/5581781629118/",
-      "timestamp": "2026-06-17T01:00:00+03:00"
+      "timestamp": "2026-06-17T01:00:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Hill",
+          "url": "https://thehill.com/homenews/administration/5925541-trump-iran-300b-funding/",
+          "angle": "Trump dismisses reports of $300B Iran reconstruction fund as fake news",
+          "summary": "President Trump pushed back on reports that a $300 billion reconstruction fund for Iran would be part of the peace agreement, casting doubt on one of the most controversial rumored elements of the deal."
+        }
+      ],
+      "sources": [
+        "CNBC",
+        "The Hill"
+      ],
+      "urls": [
+        "https://www.cnbc.com/2026/06/16/trump-g7-summit-iran-zelenskyy-macron.html",
+        "https://thehill.com/homenews/administration/5925541-trump-iran-300b-funding/"
+      ]
     },
     {
       "headline": "G7 allies push Ukraine back onto agenda as Zelenskyy joins leaders for talks",
@@ -92,26 +126,18 @@
       "timestamp": "2026-06-17T00:03:00+03:00",
       "perspectives": [
         {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/us-iran-deal-allows-tehran-immediately-sell-oil-wsj-reports-2026-06-16/",
-          "angle": "US-Iran deal allows Tehran to immediately resume oil exports, official says",
-          "summary": "A US official confirmed that under the memorandum of understanding reached with Iran, Tehran can immediately begin selling oil and fuel, marking a significant easing of sanctions that had constrained Iranian crude exports."
-        },
-        {
           "source": "UPI",
           "url": "https://www.upi.com/Top_News/US/2026/06/16/trump-iran-deal-congress/5581781629118/",
-          "angle": "Trump says he will send Iran peace deal to Congress for approval",
-          "summary": "President Trump announced he would submit the U.S.-Iran war-ending agreement to Congress for approval, a key step that could determine whether the deal survives domestic political scrutiny on Capitol Hill."
+          "angle": "Trump says he will send Iran deal to Congress for approval",
+          "summary": "President Trump told reporters at the G7 summit he would send the Iran peace agreement to Congress for approval, saying \"I like the idea.\" Sen. Lindsey Graham expressed concern that Iran's view of the deal seems different from what the US negotiating team claims."
         }
       ],
       "sources": [
-        "Reuters",
         "Reuters",
         "UPI"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/us-iran-deal-promises-end-war-how-it-will-work-remains-unclear-2026-06-16/",
-        "https://www.reuters.com/business/energy/us-iran-deal-allows-tehran-immediately-sell-oil-wsj-reports-2026-06-16/",
         "https://www.upi.com/Top_News/US/2026/06/16/trump-iran-deal-congress/5581781629118/"
       ]
     },
@@ -1263,15 +1289,6 @@
       "timestamp": "2026-06-16T04:06:00+03:00"
     },
     {
-      "headline": "Trump dismisses reports of $300B Iran reconstruction fund as fake news",
-      "summary": "President Trump pushed back on reports that a $300 billion reconstruction fund for Iran would be part of the peace agreement, casting doubt on one of the most controversial rumored elements of the deal.",
-      "emoji": "🇺🇸🇮🇷",
-      "category": "US-Iran War",
-      "source": "The Hill",
-      "url": "https://thehill.com/homenews/administration/5925541-trump-iran-300b-funding/",
-      "timestamp": "2026-06-16T04:06:00+03:00"
-    },
-    {
       "headline": "Zelensky Offers to Meet Putin at G7 or in the US for Peace Talks",
       "summary": "Ukrainian President Zelensky said he offered to meet Putin face-to-face at the G7 summit in France or in the United States, aiming to end the four-year war. Putin has not responded.",
       "emoji": "🇺🇦",
@@ -1378,19 +1395,19 @@
       "timestamp": "2026-06-16T00:03:00+03:00",
       "perspectives": [
         {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-deal.html",
-          "angle": "US-Iran framework agreement defers most contentious issues, full text unpublished",
-          "summary": "The full text of the US-Iran deal has not been published. Initial details suggest the framework defers the hardest questions including nuclear oversight and sanctions sequencing, with formal signing set for Friday in Switzerland."
+          "source": "DW",
+          "url": "https://www.dw.com/en/us-iran-hezbollah-spar-over-murky-terms-of-ceasefire-deal/live-77573728",
+          "angle": "US, Iran, Hezbollah spar over ceasefire terms as deal signing set for Friday in Switzerland",
+          "summary": "Iran insists Israel withdraw from southern Lebanon as part of the ceasefire deal, while the US Senate narrowly blocked a war powers resolution to end the Iran war. The official signing ceremony for the US-Iran deal is scheduled for Friday in Switzerland."
         }
       ],
       "sources": [
         "New York Times",
-        "New York Times"
+        "DW"
       ],
       "urls": [
         "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-framework-ceasefire-deal.html",
-        "https://www.nytimes.com/2026/06/15/world/middleeast/us-iran-deal.html"
+        "https://www.dw.com/en/us-iran-hezbollah-spar-over-murky-terms-of-ceasefire-deal/live-77573728"
       ]
     },
     {
