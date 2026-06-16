@@ -1,14 +1,41 @@
 {
-  "lastUpdated": "2026-06-16T04:07:10+03:00",
+  "lastUpdated": "2026-06-16T05:04:46+03:00",
   "headlines": [
     {
-      "headline": "Russian missile barrage kills 11, sets historic Kyiv cathedral ablaze",
-      "summary": "Russia fired missiles across multiple Ukrainian cities, killing at least 11 people and sparking a fire at the 11th-century Kyiv-Pechersk Lavra monastery. Russia denied striking the UNESCO site, blaming Ukrainian air defenses.",
-      "emoji": "🇺🇦⛪",
+      "headline": "Russian Barrage Kills 11, Sets Kyiv's Sacred Cathedral Ablaze",
+      "summary": "A massive Russian drone and missile attack on Kyiv and Kharkiv killed at least 11 people and set fire to the Kyiv-Pechersk Lavra, an 11th-century monastery complex and one of Eastern Orthodoxy's holiest sites. The attack came hours after Zelenskyy and Putin each spoke separately with Trump.",
+      "emoji": "🇺🇦⚔️",
       "category": "Ukraine-Russia War",
-      "source": "France 24",
-      "url": "https://www.france24.com/en/live-news/20260615-deadly-strikes-on-ukraine-leave-kyiv-cathedral-in-flames",
-      "timestamp": "2026-06-16T04:06:00+03:00"
+      "source": "AP News",
+      "url": "https://apnews.com/article/russia-ukraine-war-drones-kyiv-kharkiv-80bf94ad017eb8aad6af1f4e96494431",
+      "timestamp": "2026-06-16T05:03:00+03:00"
+    },
+    {
+      "headline": "Japanese Shippers Await Hormuz Reopening Details as Mine Clearance Needed",
+      "summary": "Japanese shipping companies welcomed the US-Iran peace deal that will reopen the Strait of Hormuz but are awaiting details on mine clearance and safety guarantees before sending vessels through the critical chokepoint that handles a fifth of global oil shipments.",
+      "emoji": "🛢️🚢",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/japanese-shippers-await-details-hormuz-reopening-mine-clearance-2026-06-15/",
+      "timestamp": "2026-06-16T05:03:00+03:00"
+    },
+    {
+      "headline": "IMF Chief Says No Global Slowdown Yet but Risks Remain High",
+      "summary": "IMF Managing Director Kristalina Georgieva said the world economy is weathering the shock of the Middle East war with no signs yet of a global slowdown, but warned that risks remain elevated amid ongoing geopolitical uncertainties.",
+      "emoji": "💰🌍",
+      "category": "Economy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/imf-chief-says-no-global-slowdown-sight-yet-risks-are-high-2026-06-15/",
+      "timestamp": "2026-06-16T05:03:00+03:00"
+    },
+    {
+      "headline": "Oil Prices Rise Amid Uncertainty Over Strait of Hormuz Full Reopening",
+      "summary": "Oil prices rose Tuesday morning as traders weighed uncertainty over the full reopening of the Strait of Hormuz, the critical waterway through which one-fifth of the world's oil typically flows. Analysts say it could take 3-6 months for shipping to fully resume even after the deal is signed.",
+      "emoji": "🛢️📈",
+      "category": "Energy",
+      "source": "MarketWatch",
+      "url": "https://www.marketwatch.com/story/oil-prices-rise-amid-uncertainty-over-strait-of-hormuz-s-full-reopening-884e1257",
+      "timestamp": "2026-06-16T05:03:00+03:00"
     },
     {
       "headline": "Lukashenko urges both sides to compromise to end Russia-Ukraine war",
@@ -17,7 +44,23 @@
       "category": "Ukraine-Russia War",
       "source": "Straits Times",
       "url": "https://www.straitstimes.com/world/europe/belarus-lukashenko-says-both-sides-must-compromise-to-end-russia-ukraine-war",
-      "timestamp": "2026-06-16T04:06:00+03:00"
+      "timestamp": "2026-06-16T04:06:00+03:00",
+      "perspectives": [
+        {
+          "source": "The Economist",
+          "url": "https://www.economist.com/europe/2026/06/15/the-terrifying-new-air-war-in-ukraine",
+          "angle": "Economist Analysis: Ukraine Intensifying Air War Reflects Russia Ground Difficulties",
+          "summary": "The Economist reports that the escalating air war with mass drone and missile barrages is partly a reflection of Russia's increasing difficulties on the ground, as Ukraine adapts with new drone tactics and technology."
+        }
+      ],
+      "sources": [
+        "Straits Times",
+        "The Economist"
+      ],
+      "urls": [
+        "https://www.straitstimes.com/world/europe/belarus-lukashenko-says-both-sides-must-compromise-to-end-russia-ukraine-war",
+        "https://www.economist.com/europe/2026/06/15/the-terrifying-new-air-war-in-ukraine"
+      ]
     },
     {
       "headline": "Oil companies give Venezuela a second look amid Middle East chaos",
@@ -62,7 +105,23 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/trump-vance-irans-parliament-speaker-signed-mou-2026-06-15/",
-      "timestamp": "2026-06-16T04:03:00+03:00"
+      "timestamp": "2026-06-16T04:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/iran-us-war-oil-june-15-2026-77406473da38c6c126818610a219dc20",
+          "angle": "Initial deal to end US-Iran war moves toward formal signing despite lingering questions",
+          "summary": "The US-Iran agreement to extend the ceasefire and reopen the Strait of Hormuz is advancing toward formal signing, but critical questions remain about enforcement, Iran's nuclear program, and the role of Israel and regional allies in the broader settlement."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/trump-vance-irans-parliament-speaker-signed-mou-2026-06-15/",
+        "https://apnews.com/article/iran-us-war-oil-june-15-2026-77406473da38c6c126818610a219dc20"
+      ]
     },
     {
       "headline": "France and Britain push multinational naval mission to secure Strait of Hormuz",
@@ -71,15 +130,6 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/france-britain-push-hormuz-mission-truce-nears-irans-stance-key-2026-06-15/",
-      "timestamp": "2026-06-16T04:03:00+03:00"
-    },
-    {
-      "headline": "What to know about the US-Iran deal to end the war and reopen Hormuz",
-      "summary": "AP breaks down the key elements of the preliminary US-Iran agreement: immediate ceasefire, gradual reopening of the Strait of Hormuz, IAEA inspector return, and a formal signing ceremony expected on Friday with mediation from Pakistan.",
-      "emoji": "🇮🇷",
-      "category": "Diplomacy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-war-us-pakistan-ceasefire-what-to-know-949710df39e3f1033cbb6beda3955814",
       "timestamp": "2026-06-16T04:03:00+03:00"
     },
     {
@@ -92,19 +142,27 @@
       "timestamp": "2026-06-16T03:03:00+03:00",
       "perspectives": [
         {
+          "source": "AP News",
+          "url": "https://apnews.com/article/iran-war-us-pakistan-ceasefire-what-to-know-949710df39e3f1033cbb6beda3955814",
+          "angle": "What to know about the US-Iran deal to end the war and reopen Hormuz",
+          "summary": "AP breaks down the key elements of the preliminary US-Iran agreement: immediate ceasefire, gradual reopening of the Strait of Hormuz, IAEA inspector return, and a formal signing ceremony expected on Friday with mediation from Pakistan."
+        },
+        {
           "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/g7-leaders-meet-france-after-us-iran-declare-agreement-end-war-2026-06-15/",
-          "angle": "G7 Summit Opens in France as Trump Arrives With Iran Deal and Tariff Threats",
-          "summary": "World leaders gathered at the G7 summit in Evian-les-Bains, where relief over the US-Iran peace deal was tempered by Trump’s new 100% tariff threats against French wines over a digital services tax."
+          "url": "https://www.reuters.com/world/asia-pacific/iran-us-agree-halt-war-reopen-hormuz-sending-oil-prices-tumbling-2026-06-15/",
+          "angle": "Iran and US agree to halt war and reopen Strait of Hormuz, sending oil prices tumbling",
+          "summary": "The preliminary pact between Washington and Tehran leaves the fate of Irans nuclear program to further negotiations. Brent crude futures fell 4% as markets priced in the reopening of the critical oil shipping chokepoint."
         }
       ],
       "sources": [
         "Reuters",
+        "AP News",
         "Reuters"
       ],
       "urls": [
         "https://www.reuters.com/world/china/g7-leaders-meet-france-after-us-iran-declare-agreement-end-war-2026-06-15/",
-        "https://www.reuters.com/world/china/g7-leaders-meet-france-after-us-iran-declare-agreement-end-war-2026-06-15/"
+        "https://apnews.com/article/iran-war-us-pakistan-ceasefire-what-to-know-949710df39e3f1033cbb6beda3955814",
+        "https://www.reuters.com/world/asia-pacific/iran-us-agree-halt-war-reopen-hormuz-sending-oil-prices-tumbling-2026-06-15/"
       ]
     },
     {
@@ -264,31 +322,6 @@
       "timestamp": "2026-06-16T00:08:00+03:00"
     },
     {
-      "headline": "Initial deal to end US-Iran war moves toward formal signing despite lingering questions",
-      "summary": "The US-Iran agreement to extend the ceasefire and reopen the Strait of Hormuz is advancing toward formal signing, but critical questions remain about enforcement, Iran's nuclear program, and the role of Israel and regional allies in the broader settlement.",
-      "emoji": "⚔️",
-      "category": "US-Iran War",
-      "source": "AP News",
-      "url": "https://apnews.com/article/iran-us-war-oil-june-15-2026-77406473da38c6c126818610a219dc20",
-      "timestamp": "2026-06-16T00:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/06/15/nx-s1-5858901/what-we-know-about-an-iran-deal",
-          "angle": "NPR Analysis: US-Iran Deal Leaves Major Questions Unanswered as Details Remain Vague",
-          "summary": "NPR breaks down the US-Iran framework agreement, noting the short-term truce terms have not been made public and a long-term peace deal does not yet exist. The 60-day negotiating window leaves critical questions about Iran nuclear capability and Strait of Hormuz security unresolved."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "NPR"
-      ],
-      "urls": [
-        "https://apnews.com/article/iran-us-war-oil-june-15-2026-77406473da38c6c126818610a219dc20",
-        "https://www.npr.org/2026/06/15/nx-s1-5858901/what-we-know-about-an-iran-deal"
-      ]
-    },
-    {
       "headline": "Russian strike damages historic Kyiv cathedral, kills 11 across Ukraine",
       "summary": "A major Russian overnight barrage of missiles and drones killed at least 11 people across Ukraine and set fire to the nearly 1,000-year-old Kyiv Pechersk Lavra, one of the country's most sacred cultural landmarks. Ukraine's Orthodox leader called Putin \"Antichrist\" for the attack.",
       "emoji": "🇺🇦",
@@ -298,19 +331,19 @@
       "timestamp": "2026-06-16T00:03:00+03:00",
       "perspectives": [
         {
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/06/15/nx-s1-5858862/drone-strikes-one-of-ukraines-key-christian-and-cultural-sites",
-          "angle": "Russian drone strikes devastate Ukraine’s historic Kyiv Pechersk Lavra monastery",
-          "summary": "A massive Russian drone and missile barrage set fire to the nearly 1,000-year-old Kyiv Pechersk Lavra, one of Orthodoxy’s holiest sites, killing at least 10 people across Ukraine hours after Trump spoke to both countries’ leaders about ending the war."
+          "source": "France 24",
+          "url": "https://www.france24.com/en/live-news/20260615-deadly-strikes-on-ukraine-leave-kyiv-cathedral-in-flames",
+          "angle": "Russian missile barrage kills 11, sets historic Kyiv cathedral ablaze",
+          "summary": "Russia fired missiles across multiple Ukrainian cities, killing at least 11 people and sparking a fire at the 11th-century Kyiv-Pechersk Lavra monastery. Russia denied striking the UNESCO site, blaming Ukrainian air defenses."
         }
       ],
       "sources": [
         "Reuters",
-        "NPR"
+        "France 24"
       ],
       "urls": [
         "https://www.reuters.com/world/ukraine-weighs-damage-historic-cathedral-after-russian-strike-causes-blaze-2026-06-15/",
-        "https://www.npr.org/2026/06/15/nx-s1-5858862/drone-strikes-one-of-ukraines-key-christian-and-cultural-sites"
+        "https://www.france24.com/en/live-news/20260615-deadly-strikes-on-ukraine-leave-kyiv-cathedral-in-flames"
       ]
     },
     {
@@ -656,15 +689,6 @@
       "timestamp": "2026-06-15T18:07:00+03:00"
     },
     {
-      "headline": "Economist Analysis: Ukraine Intensifying Air War Reflects Russia Ground Difficulties",
-      "summary": "The Economist reports that the escalating air war with mass drone and missile barrages is partly a reflection of Russia's increasing difficulties on the ground, as Ukraine adapts with new drone tactics and technology.",
-      "emoji": "🇺🇦✈️",
-      "category": "Ukraine-Russia War",
-      "source": "The Economist",
-      "url": "https://www.economist.com/europe/2026/06/15/the-terrifying-new-air-war-in-ukraine",
-      "timestamp": "2026-06-15T18:07:00+03:00"
-    },
-    {
       "headline": "EU Sanctions Putins Confessor and Russias Prosecutor General in New Package",
       "summary": "The EU added 34 individuals and 47 organizations to its sanctions list, including Putin's personal confessor and Russia's Prosecutor General, expanding pressure on Moscow's inner circle and propaganda apparatus.",
       "emoji": "🇪🇶🏛️",
@@ -820,39 +844,6 @@
       "urls": [
         "https://www.reuters.com/world/africa/african-migrants-with-deep-roots-south-africa-flee-xenophobic-attacks-2026-06-15/",
         "https://www.citizen.co.za/news/who-chief-xenophobia-south-africa-tragic-betrayal/"
-      ]
-    },
-    {
-      "headline": "Iran and US agree to halt war and reopen Strait of Hormuz, sending oil prices tumbling",
-      "summary": "The preliminary pact between Washington and Tehran leaves the fate of Irans nuclear program to further negotiations. Brent crude futures fell 4% as markets priced in the reopening of the critical oil shipping chokepoint.",
-      "emoji": "🛢️",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/asia-pacific/iran-us-agree-halt-war-reopen-hormuz-sending-oil-prices-tumbling-2026-06-15/",
-      "timestamp": "2026-06-15T10:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates",
-          "angle": "US and Iran announce deal to end the war and reopen Strait of Hormuz",
-          "summary": "The US and Iran reached a breakthrough agreement to halt military operations and reopen the strategic Strait of Hormuz, a major development in the conflict that has roiled the Middle East and global energy markets."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/china/g7-leaders-meet-france-after-us-iran-declare-agreement-end-war-2026-06-15/",
-          "angle": "G7 leaders convene in France after US and Iran declare agreement to end war",
-          "summary": "Leaders of the Group of Seven wealthy nations gather at Evian-les-Bains to discuss next steps on Iran, Ukraine, and global trade following the US-Iran peace deal announcement."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "NPR",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/asia-pacific/iran-us-agree-halt-war-reopen-hormuz-sending-oil-prices-tumbling-2026-06-15/",
-        "https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates",
-        "https://www.reuters.com/world/china/g7-leaders-meet-france-after-us-iran-declare-agreement-end-war-2026-06-15/"
       ]
     },
     {
@@ -1785,92 +1776,6 @@
       "urls": [
         "https://www.reuters.com/business/aerospace-defense/spacexs-2-trillion-debut-met-with-cheers-jeers-protest-2026-06-12/",
         "https://www.reuters.com/legal/transactional/view-spacex-opens-trading-150-after-record-busting-ipo-2026-06-12/"
-      ]
-    },
-    {
-      "headline": "Hong Kong Tests Heavy-Duty Drones for Construction in Low-Altitude Economy Push",
-      "summary": "Hong Kong is testing drones capable of carrying 150kg loads of cement and bricks as part of the government's initiative to develop policies for a low-altitude economy and modernize construction logistics.",
-      "emoji": "🇭🇰🚁",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3356971/can-150kg-drones-carry-cement-and-bricks-hong-kong-putting-them-test",
-      "timestamp": "2026-06-13T04:05:00+03:00"
-    },
-    {
-      "headline": "China's World's Largest Smoking Population Raises Economic Concerns",
-      "summary": "Public health experts warn that China's low taxes on cigarettes risk undermining Beijing's pursuit of a healthier population and could have broader economic implications for the world's second-largest economy.",
-      "emoji": "🇨🇳🚬",
-      "category": "Asia-Pacific",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/economy/china-economy/article/3356912/china-has-worlds-largest-smoking-population-it-harming-economy",
-      "timestamp": "2026-06-13T04:05:00+03:00"
-    },
-    {
-      "headline": "Trump Asks Republicans to Formally Erase His Impeachments from Historical Record",
-      "summary": "President Donald Trump is urging Republicans in Congress to pass a resolution that would symbolically erase his two impeachments from the congressional record, marking an unprecedented effort to rewrite legislative history.",
-      "emoji": "🇺🇸🏛️",
-      "category": "US Politics",
-      "source": "The News",
-      "url": "https://www.thenews.com.pk/latest/1405732-trump-asks-republicans-to-wipe-impeachments-from-historical-record",
-      "timestamp": "2026-06-13T04:05:00+03:00"
-    },
-    {
-      "headline": "Putin Announces Satellite-Based Drone Control System for Russian Military",
-      "summary": "President Vladimir Putin revealed Russia is developing satellite-based control systems for combat drones, Interfax reported. The announcement comes amid ongoing hostilities with Ukraine and signals continued military technology investment.",
-      "emoji": "🇷🇺",
-      "category": "Military",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/putin-says-russia-developing-satellite-based-drone-control-system-ifax-says-2026-06-12/",
-      "timestamp": "2026-06-13T04:03:00+03:00"
-    },
-    {
-      "headline": "China Confirms Arrest of US Scholar Min Zin on Espionage Charges",
-      "summary": "China's foreign ministry confirmed the arrest of Min Zin, a US citizen who leads a Myanmar-focused think tank, on suspicion of spying and endangering national security. The arrest adds to US-China tensions.",
-      "emoji": "🇨🇳",
-      "category": "US-China",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/china-confirms-arrest-us-citizen-suspected-spying-2026-06-12/",
-      "timestamp": "2026-06-13T04:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Jerusalem Post",
-          "url": "https://www.jpost.com/international/article-899207",
-          "angle": "China Confirms Arrest of US Citizen Suspected of Spying",
-          "summary": "China has confirmed the arrest of a US citizen suspected of espionage activities. The arrest adds to growing tensions between Beijing and Washington amid ongoing disputes over trade, technology, and regional security."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Jerusalem Post"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/china-confirms-arrest-us-citizen-suspected-spying-2026-06-12/",
-        "https://www.jpost.com/international/article-899207"
-      ]
-    },
-    {
-      "headline": "SpaceX Surges Past $2 Trillion Valuation in Record Nasdaq Debut",
-      "summary": "Elon Musk's SpaceX saw shares jump 19% in its Nasdaq debut, pushing the company's value past $2 trillion and making Musk the world's first trillionaire. The IPO raised a record $75 billion.",
-      "emoji": "🚀",
-      "category": "Technology",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/legal/transactional/after-record-ipo-musks-spacex-faces-next-test-market-debut-2026-06-12/",
-      "timestamp": "2026-06-13T04:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/finance/road-spacexs-juggernaut-ipo-2026-06-12/",
-          "angle": "SpaceX Makes Historic Stock Market Debut After Record IPO",
-          "summary": "SpaceX began trading on Nasdaq after the largest initial public offering in history, with shares opening at $150 and Elon Musk becoming the worlds first trillionaire as investors backed his vision spanning rockets and orbital AI."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/legal/transactional/after-record-ipo-musks-spacex-faces-next-test-market-debut-2026-06-12/",
-        "https://www.reuters.com/business/finance/road-spacexs-juggernaut-ipo-2026-06-12/"
       ]
     }
   ]
