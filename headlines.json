@@ -1,14 +1,41 @@
 {
-  "lastUpdated": "2026-06-16T06:07:13+03:00",
+  "lastUpdated": "2026-06-16T07:13:03+03:00",
   "headlines": [
     {
-      "headline": "Hezbollah fires missiles at IDF troops in Lebanon as Israel vows to keep forces in security zones despite Iran deal",
-      "summary": "Hezbollah launched missiles and mortar shells at Israeli forces in southern Lebanon even as the US-Iran peace deal was announced. Defense Minister Katz stated the IDF will remain in Lebanese security zones, raising questions about whether the deal can hold on the ground.",
-      "emoji": "🇮🇱🇱🇧",
+      "headline": "Oil rebounds on concerns about Iran deal details and Hormuz reopening delay",
+      "summary": "Oil prices rebounded on concerns that the preliminary US-Iran peace agreement lacks detail and that resuming supply through the Strait of Hormuz could take longer than expected due to mine-clearance operations.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/oil-rebounds-concerns-about-us-iran-peace-deal-restoration-supply-2026-06-16/",
+      "timestamp": "2026-06-16T07:11:00+03:00"
+    },
+    {
+      "headline": "China embraces Myanmar president as former junta chief seeks legitimacy",
+      "summary": "Myanmar President Min Aung Hlaing's state visit to China gives the former junta chief a significant diplomatic boost as he seeks to consolidate power following a widely condemned election. Xi Jinping hosted the five-day visit in Beijing.",
+      "emoji": "🇲🇲🇨🇳",
+      "category": "Asia-Pacific",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/china-embraces-myanmars-president-former-junta-chief-seeks-legitimacy-2026-06-16/",
+      "timestamp": "2026-06-16T07:11:00+03:00"
+    },
+    {
+      "headline": "G7 leaders open summit talks on Ukraine and Middle East with Zelenskyy in France",
+      "summary": "G7 leaders gathered in France for summit talks focused on Ukraine and the Middle East, with Ukrainian President Zelenskyy joining as Trump signals a possible breakthrough in peace negotiations following the US-Iran deal.",
+      "emoji": "🇫🇷🇪🇺",
+      "category": "Diplomacy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/g7-iran-ukraine-trump-macron-zelenskyy-e7fad4eabaae8181f70fa5a0b9e499b2",
+      "timestamp": "2026-06-16T07:11:00+03:00"
+    },
+    {
+      "headline": "Iran's US diaspora divided between protest and cheering at World Cup",
+      "summary": "Iranian Americans are torn over Iran's participation in the 2026 World Cup, with some planning to watch the game and others protesting outside the LA stadium where the team played its opening match amid the backdrop of the US-Iran war.",
+      "emoji": "⚽🇮🇷",
       "category": "Middle East",
-      "source": "Jerusalem Post",
-      "url": "https://www.jpost.com/middle-east/iran-news/2026-06-16/live-updates-899529",
-      "timestamp": "2026-06-16T06:04:00+03:00"
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-protest-world-cup-0ebcfd4931c65d9a51090290ca9d7805",
+      "timestamp": "2026-06-16T07:11:00+03:00"
     },
     {
       "headline": "How the US-Israel war with Iran unfolded over 108 turbulent days",
@@ -53,7 +80,31 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/netanyahu-trump-collision-course-us-iran-agree-halt-war-2026-06-15/",
-      "timestamp": "2026-06-16T06:03:00+03:00"
+      "timestamp": "2026-06-16T06:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Jerusalem Post",
+          "url": "https://www.jpost.com/middle-east/iran-news/2026-06-16/live-updates-899529",
+          "angle": "Hezbollah fires missiles at IDF troops in Lebanon as Israel vows to keep forces in security zones despite Iran deal",
+          "summary": "Hezbollah launched missiles and mortar shells at Israeli forces in southern Lebanon even as the US-Iran peace deal was announced. Defense Minister Katz stated the IDF will remain in Lebanese security zones, raising questions about whether the deal can hold on the ground."
+        },
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-says-2026-06-12/",
+          "angle": "Hezbollah Expects Lebanon to Be Included in US-Iran Peace Deal",
+          "summary": "A senior Hezbollah politician expressed confidence that Iran will insist on including Lebanon in any agreement with the United States, as hopes grow for a potential peace deal between Tehran and Washington."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Jerusalem Post",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/netanyahu-trump-collision-course-us-iran-agree-halt-war-2026-06-15/",
+        "https://www.jpost.com/middle-east/iran-news/2026-06-16/live-updates-899529",
+        "https://www.reuters.com/world/middle-east/hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-says-2026-06-12/"
+      ]
     },
     {
       "headline": "Russia slashes fuel quality rules as Ukrainian attacks squeeze domestic supplies",
@@ -62,7 +113,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/energy/russia-slashes-fuel-quality-rules-stave-off-shortages-kommersant-reports-2026-06-15/",
-      "timestamp": "2026-06-16T06:03:00+03:00"
+      "timestamp": "2026-06-16T06:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/russia-slashes-fuel-quality-rules-stave-off-shortages-kommersant-reports-2026-06-15/",
+          "angle": "Russia slashes fuel quality standards as Ukrainian drone strikes squeeze refineries",
+          "summary": "Russia is allowing refineries to produce fuel with lower environmental specifications for the domestic market, Kommersant reports, as Ukrainian drone strikes on Russian energy infrastructure have doubled since the start of 2026, forcing partial shutdowns and supply squeezes."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/energy/russia-slashes-fuel-quality-rules-stave-off-shortages-kommersant-reports-2026-06-15/",
+        "https://www.reuters.com/business/energy/russia-slashes-fuel-quality-rules-stave-off-shortages-kommersant-reports-2026-06-15/"
+      ]
     },
     {
       "headline": "Trump turns attention back to Ukraine at G7 as European allies worry",
@@ -80,7 +147,23 @@
       "category": "Africa",
       "source": "Japan Times",
       "url": "https://www.japantimes.co.jp/news/2026/06/16/world/science-health/ebola-800-cases-congo-aid-warning/",
-      "timestamp": "2026-06-16T06:03:00+03:00"
+      "timestamp": "2026-06-16T06:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/06/15/nx-s1-5859432/ebola-outbreak-strains-health-system-in-eastern-congo",
+          "angle": "Ebola Outbreak Strains Health System in Eastern Congo as Cases Surge",
+          "summary": "A new Ebola outbreak in eastern Congo Ituri province is overwhelming an already fragile health system. Hospitals in Bunia are overwhelmed or shut down after suspected infections, while health workers race to contain the virus one month into the outbreak."
+        }
+      ],
+      "sources": [
+        "Japan Times",
+        "NPR"
+      ],
+      "urls": [
+        "https://www.japantimes.co.jp/news/2026/06/16/world/science-health/ebola-800-cases-congo-aid-warning/",
+        "https://www.npr.org/2026/06/15/nx-s1-5859432/ebola-outbreak-strains-health-system-in-eastern-congo"
+      ]
     },
     {
       "headline": "Drone debris causes fire at Russian oil depot near Crimea",
@@ -340,31 +423,6 @@
       ]
     },
     {
-      "headline": "Ebola Outbreak Strains Health System in Eastern Congo as Cases Surge",
-      "summary": "A new Ebola outbreak in eastern Congo Ituri province is overwhelming an already fragile health system. Hospitals in Bunia are overwhelmed or shut down after suspected infections, while health workers race to contain the virus one month into the outbreak.",
-      "emoji": "🇨🇩",
-      "category": "Africa",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/15/nx-s1-5859432/ebola-outbreak-strains-health-system-in-eastern-congo",
-      "timestamp": "2026-06-16T02:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Twin Cities",
-          "url": "https://www.twincities.com/2026/06/15/congo-record-daily-increase-ebola-cases/",
-          "angle": "Congo Reports Record Daily Increase in Ebola Cases as Outbreak Escalates",
-          "summary": "Congolese authorities reported one of the highest daily jumps in Ebola cases since the outbreak was declared, as the virus spreads rapidly beyond quarantine zones into private healthcare facilities."
-        }
-      ],
-      "sources": [
-        "NPR",
-        "Twin Cities"
-      ],
-      "urls": [
-        "https://www.npr.org/2026/06/15/nx-s1-5859432/ebola-outbreak-strains-health-system-in-eastern-congo",
-        "https://www.twincities.com/2026/06/15/congo-record-daily-increase-ebola-cases/"
-      ]
-    },
-    {
       "headline": "Russia denies striking Kyiv monastery, claims Ukrainian Patriot missile caused damage",
       "summary": "Russia said it did not strike the historic Pechersk Lavra monastery in Kyiv during its overnight attack, instead blaming a U.S.-made Patriot air defence missile for the damage to the nearly 1,000-year-old site.",
       "emoji": "🇺🇦",
@@ -621,39 +679,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/france-britain-push-hormuz-mission-truce-nears-irans-stance-key-2026-06-15/",
       "timestamp": "2026-06-15T21:03:00+03:00"
-    },
-    {
-      "headline": "Russia slashes fuel quality standards as Ukrainian drone strikes squeeze refineries",
-      "summary": "Russia is allowing refineries to produce fuel with lower environmental specifications for the domestic market, Kommersant reports, as Ukrainian drone strikes on Russian energy infrastructure have doubled since the start of 2026, forcing partial shutdowns and supply squeezes.",
-      "emoji": "🇷🇺",
-      "category": "Ukraine-Russia War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/russia-slashes-fuel-quality-rules-stave-off-shortages-kommersant-reports-2026-06-15/",
-      "timestamp": "2026-06-15T21:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Kyiv Post",
-          "url": "https://www.kyivpost.com/post/78209",
-          "angle": "Moscow and St. Petersburg Impose Fuel Purchase Limits After Ukrainian Refinery Strikes",
-          "summary": "Russian gas stations in Moscow and St. Petersburg have introduced purchase limits — restricting customers to 20 liters of gasoline — following successful Ukrainian drone strikes on Russian oil refineries that disrupted domestic fuel supply chains."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/europe/two-killed-10-injured-ukraine-attack-russias-border-bryansk-region-governor-says-2026-06-12/",
-          "angle": "Ukraine and Russia trade drone strikes on energy infrastructure",
-          "summary": "Both sides exchanged overnight drone attacks, with Ukraine striking oil refineries and a petrochemicals plant while Russia targeted railway stations and electrical substations."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Kyiv Post",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/russia-slashes-fuel-quality-rules-stave-off-shortages-kommersant-reports-2026-06-15/",
-        "https://www.kyivpost.com/post/78209",
-        "https://www.reuters.com/world/europe/two-killed-10-injured-ukraine-attack-russias-border-bryansk-region-governor-says-2026-06-12/"
-      ]
     },
     {
       "headline": "Erdogan Says Turkey Chose Diplomacy Over Escalation in Iran Conflict",
@@ -1241,31 +1266,6 @@
       "timestamp": "2026-06-15T03:03:00+03:00"
     },
     {
-      "headline": "Hezbollah Expects Lebanon to Be Included in US-Iran Peace Deal",
-      "summary": "A senior Hezbollah politician expressed confidence that Iran will insist on including Lebanon in any agreement with the United States, as hopes grow for a potential peace deal between Tehran and Washington.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-says-2026-06-12/",
-      "timestamp": "2026-06-13T13:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AFR",
-          "url": "https://www.afr.com/world/middle-east/netanyahu-the-biggest-loser-from-trump-s-peace-deal-20260616-p6072d",
-          "angle": "Netanyahu Emerges as Biggest Loser From Trump's Iran Peace Deal",
-          "summary": "The US-Iran peace framework has left Israel strategically exposed, increasing pressure on Prime Minister Netanyahu after his clashes with Trump over Israel's refusal to constrain operations against Hezbollah in Lebanon."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AFR"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/hezbollah-confident-any-us-iran-deal-will-include-lebanon-politician-says-2026-06-12/",
-        "https://www.afr.com/world/middle-east/netanyahu-the-biggest-loser-from-trump-s-peace-deal-20260616-p6072d"
-      ]
-    },
-    {
       "headline": "US Military Strike Kills Leader of Venezuela's Tren de Aragua Gang",
       "summary": "President Trump announced that US forces carried out a strike killing Hector Rusthenford Guerrero Flores (Niño Guerrero), leader of the Venezuelan prison gang Tren de Aragua. The gang has expanded across Latin America and the US.",
       "emoji": "🇻🇪",
@@ -1714,108 +1714,6 @@
       "source": "Reuters",
       "url": "https://www.reuters.com/world/tech-executives-attend-g7-summit-leaders-address-ai-online-safety-2026-06-12/",
       "timestamp": "2026-06-13T08:05:00+03:00"
-    },
-    {
-      "headline": "Anthropic suspends new AI models after US security concerns",
-      "summary": "Anthropic has suspended its powerful new AI models Fable 5 and Mythos 5 after US authorities raised security concerns just days following their public release. The company said the government identified a method to jailbreak the systems.",
-      "emoji": "🤖",
-      "category": "Technology",
-      "source": "BBC",
-      "url": "https://www.bbc.com/news/articles/c932g3v3e13o",
-      "timestamp": "2026-06-13T07:10:00+03:00"
-    },
-    {
-      "headline": "G7 Summit Offers Trump and Modi Chance to Reset Ties After US Strikes Kill Indian Sailors",
-      "summary": "The upcoming G7 summit provides an opportunity for Trump and Modi to mend bilateral relations after US military strikes in Iran accidentally killed Indian sailors, with both leaders seeking to contain tensions.",
-      "emoji": "🇮🇳🇺🇸",
-      "category": "Diplomacy",
-      "source": "SCMP",
-      "url": "https://www.scmp.com/news/asia/south-asia/article/3356984/g7-summit-offers-trump-modi-chance-reset-ties-after-us-strikes-kill-indian-sailors",
-      "timestamp": "2026-06-13T06:05:00+03:00"
-    },
-    {
-      "headline": "Ukraine Plans to Recruit Foreign Nationals for Up to Half of Frontline Assault Troops",
-      "summary": "Ukraine is preparing to open military recruitment to more foreign nationals, aiming for foreigners to fill 30-50% of assault and storm brigade positions amid severe manpower shortages.",
-      "emoji": "🇺🇦⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Post",
-      "url": "https://www.kyivpost.com/post/78073",
-      "timestamp": "2026-06-13T06:05:00+03:00"
-    },
-    {
-      "headline": "Inside Rubicon: The Structure of Russia's Elite Drone Center",
-      "summary": "Analysis of Russia's newly established Rubicon Center for drone warfare, one of the Russian military's most important developments in 2024-2025, reveals how Moscow is organizing its advanced drone capabilities.",
-      "emoji": "🛸🇷🇺",
-      "category": "Defense Industry",
-      "source": "FPRI",
-      "url": "https://www.fpri.org/article/2026/06/inside-rubicon-the-structure-of-russias-elite-drone-center/",
-      "timestamp": "2026-06-13T06:05:00+03:00"
-    },
-    {
-      "headline": "European shares rally as Middle East peace hopes push oil lower",
-      "summary": "European stocks surged more than 1% as renewed hopes for a diplomatic breakthrough in the Middle East dragged oil prices lower and injected fresh optimism into markets.",
-      "emoji": "📈",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/markets/europe/european-stocks-rally-oil-falls-hopes-us-iran-deal-2026-06-12/",
-      "timestamp": "2026-06-13T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "New York Times",
-          "url": "https://www.nytimes.com/2026/06/15/business/dealbook/trump-iran-peace-rally.html",
-          "angle": "Global markets rally on hopes Iran peace deal will reopen Strait of Hormuz",
-          "summary": "Stock markets surged and oil prices fell sharply after the US-Iran preliminary agreement raised expectations that the Strait of Hormuz will reopen, easing supply concerns and boosting investor confidence."
-        },
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/africa/latin-american-assets-rise-us-iran-peace-deal-hopes-2026-06-12/",
-          "angle": "Latin American markets rally on US-Iran peace deal prospects",
-          "summary": "Latin American assets rose as markets welcomed progress toward an agreement ending the US-Iran conflict, boosting global risk appetite."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "New York Times",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/markets/europe/european-stocks-rally-oil-falls-hopes-us-iran-deal-2026-06-12/",
-        "https://www.nytimes.com/2026/06/15/business/dealbook/trump-iran-peace-rally.html",
-        "https://www.reuters.com/world/africa/latin-american-assets-rise-us-iran-peace-deal-hopes-2026-06-12/"
-      ]
-    },
-    {
-      "headline": "UAE agrees to unlock billions of dollars for Iran, sources say",
-      "summary": "The United Arab Emirates has agreed to unlock between  billion and  billion for Iran, sources told Reuters, in a tactical shift after weeks of Iranian attacks on the Gulf state during the US-Israeli war with Iran.",
-      "emoji": "🇦🇪",
-      "category": "Middle East",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/uae-unlock-billions-dollars-iran-sources-say-2026-06-12/",
-      "timestamp": "2026-06-13T06:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/12/uae-to-unlock-frozen-iranian-funds-amid-us-ceasefire-push",
-          "angle": "UAE to unlock billions in frozen Iranian funds amid ceasefire push",
-          "summary": "The United Arab Emirates has agreed to unlock billions of dollars for Iran, sources say, in a tactical shift after weeks of Iranian attacks on the Gulf state during the US-Israel war with Iran."
-        },
-        {
-          "source": "Al Jazeera",
-          "url": "https://www.aljazeera.com/news/2026/6/12/uae-to-unlock-frozen-iranian-funds-amid-us-ceasefire-push",
-          "angle": "UAE to unlock frozen Iranian funds amid US ceasefire push",
-          "summary": "The United Arab Emirates agreed to unlock billions of dollars for Iran in a tactical shift after weeks of Iranian pressure. The move comes as US-Iran peace negotiations appear close to agreement."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Al Jazeera",
-        "Al Jazeera"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/uae-unlock-billions-dollars-iran-sources-say-2026-06-12/",
-        "https://www.aljazeera.com/news/2026/6/12/uae-to-unlock-frozen-iranian-funds-amid-us-ceasefire-push",
-        "https://www.aljazeera.com/news/2026/6/12/uae-to-unlock-frozen-iranian-funds-amid-us-ceasefire-push"
-      ]
     }
   ]
 }
