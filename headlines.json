@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-16T03:04:44+03:00",
+  "lastUpdated": "2026-06-16T04:05:45+03:00",
   "headlines": [
+    {
+      "headline": "B-52 bomber crashes at Edwards Air Force Base, all 8 crew presumed dead",
+      "summary": "A US Air Force B-52 Stratofortress crashed shortly after takeoff at Edwards Air Force Base in California during a routine test mission. The base declared the crash \"not survivable\" and closed the airfield.",
+      "emoji": "🇺🇸",
+      "category": "Military",
+      "source": "AP News",
+      "url": "https://apnews.com/article/b52-crash-california-edwards-air-force-base-ea237a6eec587adbbf9e7a578014ca93",
+      "timestamp": "2026-06-16T04:03:00+03:00"
+    },
+    {
+      "headline": "US and Iran sign MOU to end war, formal signing ceremony set for Friday",
+      "summary": "Senior US officials confirmed the memorandum of understanding has been signed electronically, with a formal ceremony planned for Friday. Shipping traffic through the Strait of Hormuz will gradually ramp up as mines are cleared.",
+      "emoji": "🇮🇷",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/trump-vance-irans-parliament-speaker-signed-mou-2026-06-15/",
+      "timestamp": "2026-06-16T04:03:00+03:00"
+    },
+    {
+      "headline": "France and Britain push multinational naval mission to secure Strait of Hormuz",
+      "summary": "France and Britain are advancing plans for a coalition naval mission to safeguard shipping through the Strait of Hormuz if the US-Iran ceasefire holds. It remains unclear whether Tehran would accept such an operation.",
+      "emoji": "🇫🇷",
+      "category": "Middle East",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/france-britain-push-hormuz-mission-truce-nears-irans-stance-key-2026-06-15/",
+      "timestamp": "2026-06-16T04:03:00+03:00"
+    },
+    {
+      "headline": "What to know about the US-Iran deal to end the war and reopen Hormuz",
+      "summary": "AP breaks down the key elements of the preliminary US-Iran agreement: immediate ceasefire, gradual reopening of the Strait of Hormuz, IAEA inspector return, and a formal signing ceremony expected on Friday with mediation from Pakistan.",
+      "emoji": "🇮🇷",
+      "category": "Diplomacy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-war-us-pakistan-ceasefire-what-to-know-949710df39e3f1033cbb6beda3955814",
+      "timestamp": "2026-06-16T04:03:00+03:00"
+    },
     {
       "headline": "G7 Opens in France as Trump Pushes to End Ukraine War After Iran Deal",
       "summary": "Group of Seven leaders convened in Évian-les-Bains as Trump arrived touting a preliminary deal to end the Iran war and pledging to now seek an end to fighting in Ukraine and Lebanon.",
@@ -8,7 +44,23 @@
       "category": "Diplomacy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/g7-leaders-meet-france-after-us-iran-declare-agreement-end-war-2026-06-15/",
-      "timestamp": "2026-06-16T03:03:00+03:00"
+      "timestamp": "2026-06-16T03:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/g7-leaders-meet-france-after-us-iran-declare-agreement-end-war-2026-06-15/",
+          "angle": "G7 Summit Opens in France as Trump Arrives With Iran Deal and Tariff Threats",
+          "summary": "World leaders gathered at the G7 summit in Evian-les-Bains, where relief over the US-Iran peace deal was tempered by Trump’s new 100% tariff threats against French wines over a digital services tax."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/g7-leaders-meet-france-after-us-iran-declare-agreement-end-war-2026-06-15/",
+        "https://www.reuters.com/world/china/g7-leaders-meet-france-after-us-iran-declare-agreement-end-war-2026-06-15/"
+      ]
     },
     {
       "headline": "Zelensky Offers to Meet Putin at G7 or in the US for Peace Talks",
@@ -17,16 +69,23 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/ukraines-zelenskiy-says-he-offered-meet-putin-g7-2026-06-15/",
-      "timestamp": "2026-06-16T03:03:00+03:00"
-    },
-    {
-      "headline": "Shippers Remain Cautious on Strait of Hormuz Transit Despite Iran Deal",
-      "summary": "Shipping companies said confidence in resuming transit through the Strait of Hormuz could take weeks to rebuild, citing ongoing mines and security risks despite the US-Iran ceasefire agreement.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/middle-east/2026/06/15/shippers-remain-cautious-on-hormuz-strait-transit-after-us-and-iran-agree-deal",
-      "timestamp": "2026-06-16T03:03:00+03:00"
+      "timestamp": "2026-06-16T03:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Kyiv Post",
+          "url": "https://www.kyivpost.com/post/78242",
+          "angle": "Zelensky Says Putin Rejected G7 Peace Talks Offer",
+          "summary": "After Moscow showed no willingness to meet around the G7, Kyiv is discussing a possible US-based format involving President Trump for Ukraine-Russia peace negotiations."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Kyiv Post"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/europe/ukraines-zelenskiy-says-he-offered-meet-putin-g7-2026-06-15/",
+        "https://www.kyivpost.com/post/78242"
+      ]
     },
     {
       "headline": "Trump and Iran Dominate G7 Summit Opening Amid Hormuz Disputes",
@@ -35,15 +94,6 @@
       "category": "Geopolitics",
       "source": "EFE",
       "url": "https://efe.com/english/economy/2026-06-16/trump-and-iran-dominate-start-of-g7-summit/",
-      "timestamp": "2026-06-16T03:03:00+03:00"
-    },
-    {
-      "headline": "UK Bans Social Media for Under-16s and Romantic AI Chatbots for Under-18s",
-      "summary": "The UK government announced a ban on social media access for children under 16 and AI romantic chatbots for under-18s, calling it a step to give children back their childhood.",
-      "emoji": "🇬🇧",
-      "category": "Technology",
-      "source": "MSN",
-      "url": "https://www.msn.com/en-us/news/technology/uk-bans-social-media-for-under-16s-ai-romantic-chatbots-for-under-18s/ar-AA25FoO5?ocid=BingNewsVerp",
       "timestamp": "2026-06-16T03:03:00+03:00"
     },
     {
@@ -62,15 +112,6 @@
       "category": "Technology",
       "source": "Channel News Asia",
       "url": "https://www.channelnewsasia.com/commentary/anthropic-claude-ai-model-fable5-mythos5-shut-down-6184146",
-      "timestamp": "2026-06-16T02:05:00+03:00"
-    },
-    {
-      "headline": "Zelensky Says Putin Rejected G7 Peace Talks Offer",
-      "summary": "After Moscow showed no willingness to meet around the G7, Kyiv is discussing a possible US-based format involving President Trump for Ukraine-Russia peace negotiations.",
-      "emoji": "🇺🇦",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Post",
-      "url": "https://www.kyivpost.com/post/78242",
       "timestamp": "2026-06-16T02:05:00+03:00"
     },
     {
@@ -357,19 +398,27 @@
       "timestamp": "2026-06-15T22:03:00+03:00",
       "perspectives": [
         {
+          "source": "Al Arabiya",
+          "url": "https://english.alarabiya.net/News/middle-east/2026/06/15/shippers-remain-cautious-on-hormuz-strait-transit-after-us-and-iran-agree-deal",
+          "angle": "Shippers Remain Cautious on Strait of Hormuz Transit Despite Iran Deal",
+          "summary": "Shipping companies said confidence in resuming transit through the Strait of Hormuz could take weeks to rebuild, citing ongoing mines and security risks despite the US-Iran ceasefire agreement."
+        },
+        {
           "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/japanese-shippers-await-details-hormuz-reopening-mine-clearance-2026-06-15/",
-          "angle": "Japanese Shippers Await Details on Hormuz Reopening as Mines Remain Threat",
-          "summary": "Japanese shipping companies welcomed the US-Iran peace agreement that will reopen the Strait of Hormuz but are awaiting more details on mine clearance before allowing vessels to pass through the vital chokepoint."
+          "url": "https://www.reuters.com/business/energy/oil-slips-over-4-after-us-iran-reach-peace-deal-reopen-strait-hormuz-2026-06-14/",
+          "angle": "Oil Slides $4 as US-Iran Peace Deal Reopens Strait of Hormuz",
+          "summary": "Oil prices dropped sharply after the US and Iran announced a tentative peace agreement that includes reopening the strategic Strait of Hormuz, easing concerns about global energy supplies."
         }
       ],
       "sources": [
         "Reuters",
+        "Al Arabiya",
         "Reuters"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/japanese-shippers-await-details-hormuz-reopening-mine-clearance-2026-06-15/",
-        "https://www.reuters.com/world/middle-east/japanese-shippers-await-details-hormuz-reopening-mine-clearance-2026-06-15/"
+        "https://english.alarabiya.net/News/middle-east/2026/06/15/shippers-remain-cautious-on-hormuz-strait-transit-after-us-and-iran-agree-deal",
+        "https://www.reuters.com/business/energy/oil-slips-over-4-after-us-iran-reach-peace-deal-reopen-strait-hormuz-2026-06-14/"
       ]
     },
     {
@@ -382,19 +431,19 @@
       "timestamp": "2026-06-15T22:03:00+03:00",
       "perspectives": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/news/world/europe/article/3357181/uk-ban-under-16s-social-media-apps-including-tiktok-youtube",
-          "angle": "SCMP: UK to Ban Under-16s From Social Media Apps Including TikTok and YouTube",
-          "summary": "Britain announced some of the world's strictest online safety measures for children, banning social media access for under-16s with additional restrictions for all teenagers — going further than Australia's similar legislation."
+          "source": "MSN",
+          "url": "https://www.msn.com/en-us/news/technology/uk-bans-social-media-for-under-16s-ai-romantic-chatbots-for-under-18s/ar-AA25FoO5?ocid=BingNewsVerp",
+          "angle": "UK Bans Social Media for Under-16s and Romantic AI Chatbots for Under-18s",
+          "summary": "The UK government announced a ban on social media access for children under 16 and AI romantic chatbots for under-18s, calling it a step to give children back their childhood."
         }
       ],
       "sources": [
         "Reuters",
-        "SCMP"
+        "MSN"
       ],
       "urls": [
         "https://www.reuters.com/legal/litigation/how-will-uk-ban-social-media-under-16s-work-2026-06-15/",
-        "https://www.scmp.com/news/world/europe/article/3357181/uk-ban-under-16s-social-media-apps-including-tiktok-youtube"
+        "https://www.msn.com/en-us/news/technology/uk-bans-social-media-for-under-16s-ai-romantic-chatbots-for-under-18s/ar-AA25FoO5?ocid=BingNewsVerp"
       ]
     },
     {
@@ -490,31 +539,6 @@
       "source": "TRT World",
       "url": "https://www.trtworld.com/article/05951840c88f",
       "timestamp": "2026-06-15T20:06:00+03:00"
-    },
-    {
-      "headline": "G7 Summit Opens in France as Trump Arrives With Iran Deal and Tariff Threats",
-      "summary": "World leaders gathered at the G7 summit in Evian-les-Bains, where relief over the US-Iran peace deal was tempered by Trump’s new 100% tariff threats against French wines over a digital services tax.",
-      "emoji": "🇫🇷",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/g7-leaders-meet-france-after-us-iran-declare-agreement-end-war-2026-06-15/",
-      "timestamp": "2026-06-15T20:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "AP",
-          "url": "https://www.wtap.com/2026/06/15/trump-says-iran-deal-will-lead-lot-success-world-he-opens-talks-g7-summit/",
-          "angle": "Trump Hails Iran Deal as Global Breakthrough at G7 Summit Opening",
-          "summary": "President Trump opened the G7 summit in Evian-les-Bains by declaring the US-Iran ceasefire framework a potential breakthrough for global security, saying it could turn the page on the 15-week conflict. However, key details of the memorandum of understanding remain undisclosed, with 60 days of negotiations still ahead."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "AP"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/g7-leaders-meet-france-after-us-iran-declare-agreement-end-war-2026-06-15/",
-        "https://www.wtap.com/2026/06/15/trump-says-iran-deal-will-lead-lot-success-world-he-opens-talks-g7-summit/"
-      ]
     },
     {
       "headline": "Israelis Across Political Spectrum Furious Over US-Iran Deal",
@@ -830,31 +854,6 @@
       "source": "Nikkei",
       "url": "https://www.nikkei.com/article/DGXZQOUC15AJE0V10C26A4000000/",
       "timestamp": "2026-06-15T08:07:00+03:00"
-    },
-    {
-      "headline": "Oil Slides $4 as US-Iran Peace Deal Reopens Strait of Hormuz",
-      "summary": "Oil prices dropped sharply after the US and Iran announced a tentative peace agreement that includes reopening the strategic Strait of Hormuz, easing concerns about global energy supplies.",
-      "emoji": "🛢️",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/oil-slips-over-4-after-us-iran-reach-peace-deal-reopen-strait-hormuz-2026-06-14/",
-      "timestamp": "2026-06-15T08:00:00+03:00",
-      "perspectives": [
-        {
-          "source": "France 24",
-          "url": "https://www.france24.com/en/iran-deal-allows-tehran-to-charge-maritime-service-fees-on-hormuz-strait-transit-ministry-days",
-          "angle": "Iran Deal Allows Tehran to Charge Maritime Fees on Hormuz Strait Transit",
-          "summary": "The US-Iran deal permits Iran to levy maritime service fees on ships transiting the Strait of Hormuz, though US officials insist ships will move toll-free. The fee structure remains a key ambiguity in the agreement."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "France 24"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/oil-slips-over-4-after-us-iran-reach-peace-deal-reopen-strait-hormuz-2026-06-14/",
-        "https://www.france24.com/en/iran-deal-allows-tehran-to-charge-maritime-service-fees-on-hormuz-strait-transit-ministry-days"
-      ]
     },
     {
       "headline": "Taiwan Fires US-Supplied HIMARS Rockets Toward China in First",
