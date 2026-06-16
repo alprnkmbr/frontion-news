@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-16T23:06:29+03:00",
+  "lastUpdated": "2026-06-17T00:05:27+03:00",
   "headlines": [
+    {
+      "headline": "Trump says Iran deal to be public soon, will rule out nuclear weapon for Tehran",
+      "summary": "Details of the US-Iran interim deal emerged at the G7 summit, with Trump saying the accord will be made public soon and will prohibit Iran from developing a nuclear weapon. How the deal will work in practice remains unclear.",
+      "emoji": "🇺🇸🇮🇷",
+      "category": "US-Iran War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/middle-east/us-iran-deal-promises-end-war-how-it-will-work-remains-unclear-2026-06-16/",
+      "timestamp": "2026-06-17T00:03:00+03:00"
+    },
+    {
+      "headline": "Canada imposes sanctions on Russias shadow fleet and energy revenues at G7",
+      "summary": "PM Carney announced new sanctions targeting Russias shadow fleet, energy revenues, defense-industrial sector, and disinformation entities at the G7 summit, as allies push to refocus pressure on Moscow over Ukraine.",
+      "emoji": "🇨🇦🇷🇺",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/canada-imposes-sanctions-russias-shadow-fleet-energy-revenues-other-targets-2026-06-16/",
+      "timestamp": "2026-06-17T00:03:00+03:00"
+    },
+    {
+      "headline": "White House Iran deal talking points often dont meet reality, AP finds",
+      "summary": "An AP analysis finds that the White Houses claims of accomplishments in the Iran war deal frequently diverge from the actual terms and realities of the agreement.",
+      "emoji": "🏛️",
+      "category": "US Politics",
+      "source": "AP News",
+      "url": "https://apnews.com/article/iran-trump-agreement-talking-points-4166975ec5cf58ef4acaa370171f623f",
+      "timestamp": "2026-06-17T00:03:00+03:00"
+    },
+    {
+      "headline": "Pope Leo praises US-Iran interim peace deal, says thanks be to God",
+      "summary": "Pope Leo XIV welcomed the interim US-Iran deal to end the Middle East war, expressing hope it will provide a definite end to the conflict. He said the formalization expected Friday gives reason for gratitude.",
+      "emoji": "⛪",
+      "category": "Diplomacy",
+      "source": "MSN",
+      "url": "https://www.msn.com/en-us/news/world/pope-leo-says-thanks-be-to-god-for-interim-us-iran-peace-deal/vi-AA25NY35?ocid=BingNewsVerp",
+      "timestamp": "2026-06-17T00:03:00+03:00"
+    },
+    {
+      "headline": "Deal or no deal, oil prices will stay high for months",
+      "summary": "Even with the US-Iran peace accord, The Economist reports that global oil prices are likely to remain elevated for months as physical supply chains and shipping routes take time to normalize.",
+      "emoji": "🛢️",
+      "category": "Energy",
+      "source": "The Economist",
+      "url": "https://www.economist.com/finance-and-economics/2026/06/16/deal-or-no-deal-oil-prices-will-stay-high-for-months",
+      "timestamp": "2026-06-17T00:03:00+03:00"
+    },
     {
       "headline": "US-Iran deal allows Tehran to immediately resume oil exports, official says",
       "summary": "A US official confirmed that under the memorandum of understanding reached with Iran, Tehran can immediately begin selling oil and fuel, marking a significant easing of sanctions that had constrained Iranian crude exports.",
@@ -17,25 +62,23 @@
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/bank-japan-set-raise-rates-31-year-high-vow-further-increases-2026-06-15/",
-      "timestamp": "2026-06-16T23:03:00+03:00"
-    },
-    {
-      "headline": "Trump signals swift return of sanctions on Russian oil as G7 refocuses on Ukraine",
-      "summary": "President Trump and fellow G7 leaders moved to reimpose sanctions on Russian oil shipments, shifting focus back to the Ukraine war after the Iran deal dominated early summit discussions.",
-      "emoji": "🇷🇺⛽",
-      "category": "Ukraine-Russia War",
-      "source": "Los Angeles Times",
-      "url": "https://www.latimes.com/world-nation/story/2026-06-16/trump-signs-swift-return-of-sanctions-on-russian-oil-as-g7-refocuses-on-ukraine",
-      "timestamp": "2026-06-16T23:03:00+03:00"
-    },
-    {
-      "headline": "European leaders soften tone toward Trump at G7 after Iran deal breakthrough",
-      "summary": "A peace framework with Iran and hope for cooperation on Ukraine softened the tone at the G7 summit, with European leaders who had clashed with Trump now seeking common ground on trade and security.",
-      "emoji": "🇪🇺🤝",
-      "category": "Diplomacy",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/16/world/europe/trump-g7-leaders-europe.html",
-      "timestamp": "2026-06-16T23:03:00+03:00"
+      "timestamp": "2026-06-16T23:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "AP News",
+          "url": "https://apnews.com/article/rates-inflation-boj-iran-oil-policy-7646f3c0e0d30ef6c75925b5eecc9014",
+          "angle": "Bank of Japan raises key interest rate to 1%, highest in three decades",
+          "summary": "The Bank of Japan raised its benchmark rate to 1%, a 31-year high, citing inflation pressures from the Middle East conflict and a weak yen. The Nikkei 225 briefly topped 70,000 for the first time before retreating."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "AP News"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/bank-japan-set-raise-rates-31-year-high-vow-further-increases-2026-06-15/",
+        "https://apnews.com/article/rates-inflation-boj-iran-oil-policy-7646f3c0e0d30ef6c75925b5eecc9014"
+      ]
     },
     {
       "headline": "Trump meets world leaders at G7 as Iran deal takes center stage",
@@ -44,7 +87,23 @@
       "category": "Geopolitics",
       "source": "CNN",
       "url": "https://www.cnn.com/2026/06/16/world/live-news/iran-war-g7-summit",
-      "timestamp": "2026-06-16T23:03:00+03:00"
+      "timestamp": "2026-06-16T23:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "TRT World",
+          "url": "https://www.trtworld.com/article/05951840c88f",
+          "angle": "G7 Allies Seek Clarity on Iran Deal as Trump Arrives in France",
+          "summary": "World leaders gathering at the G7 summit in France pressed for details on the US-Iran memorandum of understanding, with questions remaining about enforcement, the Strait of Hormuz reopening timeline, and Israel-Hezbollah tensions that could threaten the deal."
+        }
+      ],
+      "sources": [
+        "CNN",
+        "TRT World"
+      ],
+      "urls": [
+        "https://www.cnn.com/2026/06/16/world/live-news/iran-war-g7-summit",
+        "https://www.trtworld.com/article/05951840c88f"
+      ]
     },
     {
       "headline": "Israel Refuses Lebanon Withdrawal Despite Iran Deal Pressure",
@@ -90,6 +149,39 @@
       "timestamp": "2026-06-16T22:05:00+03:00"
     },
     {
+      "headline": "Trump signals swift return of sanctions on Russian oil as G7 refocuses on Ukraine",
+      "summary": "At the G7 summit in France, Trump indicated he may reimpose sanctions on Russian oil soon, as world leaders pushed Ukraine back to the top of the agenda alongside the Iran deal.",
+      "emoji": "🇷🇺🛢️",
+      "category": "Diplomacy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/g7-iran-ukraine-trump-macron-zelenskyy-e7fad4eabaae8181f70fa5a0b9e499b2",
+      "timestamp": "2026-06-16T22:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Los Angeles Times",
+          "url": "https://www.latimes.com/world-nation/story/2026-06-16/trump-signs-swift-return-of-sanctions-on-russian-oil-as-g7-refocuses-on-ukraine",
+          "angle": "Trump signals swift return of sanctions on Russian oil as G7 refocuses on Ukraine",
+          "summary": "President Trump and fellow G7 leaders moved to reimpose sanctions on Russian oil shipments, shifting focus back to the Ukraine war after the Iran deal dominated early summit discussions."
+        },
+        {
+          "source": "AP News",
+          "url": "https://www.bostonherald.com/2026/06/16/g7-allies-ukraine-trump/",
+          "angle": "G7 allies push Trump to reinstate sanctions on Russian oil as summit refocuses on Ukraine",
+          "summary": "U.S. allies at the G7 summit pressed President Trump to swiftly reimpose sanctions on Russian oil, shifting focus back to Ukraine amid signs the Iran war is de-escalating. The move signals continued Western resolve on isolating Moscow economically."
+        }
+      ],
+      "sources": [
+        "AP News",
+        "Los Angeles Times",
+        "AP News"
+      ],
+      "urls": [
+        "https://apnews.com/article/g7-iran-ukraine-trump-macron-zelenskyy-e7fad4eabaae8181f70fa5a0b9e499b2",
+        "https://www.latimes.com/world-nation/story/2026-06-16/trump-signs-swift-return-of-sanctions-on-russian-oil-as-g7-refocuses-on-ukraine",
+        "https://www.bostonherald.com/2026/06/16/g7-allies-ukraine-trump/"
+      ]
+    },
+    {
       "headline": "Ukrainian drone strike halts operations at Moscow oil refinery",
       "summary": "A Ukrainian drone attack sparked a fire at Moscows largest fuel-supplying refinery, halting operations. Zelenskiy described the strike as coercion to push Russia toward peace talks.",
       "emoji": "🇺🇦⚔️",
@@ -112,31 +204,6 @@
       "urls": [
         "https://www.reuters.com/world/moscow-oil-refinery-damaged-ukrainian-drone-attack-mayor-says-2026-06-16/",
         "https://www.reuters.com/world/moscow-oil-refinery-damaged-ukrainian-drone-attack-mayor-says-2026-06-16/"
-      ]
-    },
-    {
-      "headline": "Trump signals swift return of sanctions on Russian oil as G7 refocuses on Ukraine",
-      "summary": "At the G7 summit in France, Trump indicated he may reimpose sanctions on Russian oil soon, as world leaders pushed Ukraine back to the top of the agenda alongside the Iran deal.",
-      "emoji": "🇷🇺🛢️",
-      "category": "Diplomacy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/g7-iran-ukraine-trump-macron-zelenskyy-e7fad4eabaae8181f70fa5a0b9e499b2",
-      "timestamp": "2026-06-16T22:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "CNN",
-          "url": "https://www.cnn.com/2026/06/16/world/live-news/iran-war-g7-summit",
-          "angle": "Trump says US will soon reimpose sanctions on Russian oil at G7",
-          "summary": "At the G7 summit in France, President Trump indicated the US would soon be able to reimpose sanctions on Russian oil, as leaders refocused attention on Ukraine alongside the Iran deal discussions."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "CNN"
-      ],
-      "urls": [
-        "https://apnews.com/article/g7-iran-ukraine-trump-macron-zelenskyy-e7fad4eabaae8181f70fa5a0b9e499b2",
-        "https://www.cnn.com/2026/06/16/world/live-news/iran-war-g7-summit"
       ]
     },
     {
@@ -197,15 +264,6 @@
         "https://www.reuters.com/business/ecb-will-continue-be-proactive-fight-against-high-inflation-lane-says-2026-06-16/",
         "https://www.reuters.com/business/finance/ecbs-lagarde-welcomes-iran-ceasefire-agreement-good-news-2026-06-15/"
       ]
-    },
-    {
-      "headline": "G7 allies push Trump to reinstate sanctions on Russian oil as summit refocuses on Ukraine",
-      "summary": "U.S. allies at the G7 summit pressed President Trump to swiftly reimpose sanctions on Russian oil, shifting focus back to Ukraine amid signs the Iran war is de-escalating. The move signals continued Western resolve on isolating Moscow economically.",
-      "emoji": "🇷🇺🛢️",
-      "category": "Ukraine-Russia War",
-      "source": "AP News",
-      "url": "https://www.bostonherald.com/2026/06/16/g7-allies-ukraine-trump/",
-      "timestamp": "2026-06-16T21:03:00+03:00"
     },
     {
       "headline": "Trump says he will send Iran peace deal to Congress for approval",
@@ -931,52 +989,19 @@
       "timestamp": "2026-06-16T08:03:00+03:00",
       "perspectives": [
         {
-          "source": "NPR",
-          "url": "https://www.npr.org/2026/06/16/g-s1-128325/g7-leaders-summit",
-          "angle": "G7 Allies Push Ukraine Back Onto Agenda as Iran Deal Dominates Summit",
-          "summary": "European leaders at the G7 summit in Evian are working to redirect attention to the Ukraine war, which has been overshadowed by the US-Iran ceasefire deal. Macron pledged to seek concrete outcomes on Ukraine alongside Iran discussions."
-        },
-        {
-          "source": "AP News",
-          "url": "https://apnews.com/article/g7-iran-ukraine-trump-macron-zelenskyy-e7fad4eabaae8181f70fa5a0b9e499b2",
-          "angle": "G7 allies scramble to put Ukraine back atop Trump agenda as war drags on",
-          "summary": "At the G7 summit in Evian, European leaders are working to refocus Trump on Ukraine after the US-Iran deal dominated early talks. Zelensky met Trump for over an hour as Kyiv pushes for stronger Western commitment."
+          "source": "New York Times",
+          "url": "https://www.nytimes.com/2026/06/16/world/europe/trump-g7-leaders-europe.html",
+          "angle": "European leaders soften tone toward Trump at G7 after Iran deal breakthrough",
+          "summary": "A peace framework with Iran and hope for cooperation on Ukraine softened the tone at the G7 summit, with European leaders who had clashed with Trump now seeking common ground on trade and security."
         }
       ],
       "sources": [
         "Reuters",
-        "NPR",
-        "AP News"
+        "New York Times"
       ],
       "urls": [
         "https://www.reuters.com/world/china/europeans-test-trump-iran-deal-risks-urge-ukraine-rethink-g7-2026-06-16/",
-        "https://www.npr.org/2026/06/16/g-s1-128325/g7-leaders-summit",
-        "https://apnews.com/article/g7-iran-ukraine-trump-macron-zelenskyy-e7fad4eabaae8181f70fa5a0b9e499b2"
-      ]
-    },
-    {
-      "headline": "Bank of Japan raises key interest rate to 1%, highest in three decades",
-      "summary": "The Bank of Japan raised its benchmark rate to 1%, a 31-year high, citing inflation pressures from the Middle East conflict and a weak yen. The Nikkei 225 briefly topped 70,000 for the first time before retreating.",
-      "emoji": "🇯🇵",
-      "category": "Economy",
-      "source": "AP News",
-      "url": "https://apnews.com/article/rates-inflation-boj-iran-oil-policy-7646f3c0e0d30ef6c75925b5eecc9014",
-      "timestamp": "2026-06-16T08:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Nikkei Asia",
-          "url": "https://asia.nikkei.com/economy/bank-of-japan/boj-hikes-rates-to-highest-level-since-1995",
-          "angle": "Bank of Japan hikes rates to 1% — highest since 1995 — as Iran war fuels inflation risks",
-          "summary": "The BOJ raised its benchmark rate to 1%, the highest level in 31 years, citing price pressures from the Iran war energy shock. The Nikkei topped 70,000 for the first time as markets viewed the move as confidence in economic normalization."
-        }
-      ],
-      "sources": [
-        "AP News",
-        "Nikkei Asia"
-      ],
-      "urls": [
-        "https://apnews.com/article/rates-inflation-boj-iran-oil-policy-7646f3c0e0d30ef6c75925b5eecc9014",
-        "https://asia.nikkei.com/economy/bank-of-japan/boj-hikes-rates-to-highest-level-since-1995"
+        "https://www.nytimes.com/2026/06/16/world/europe/trump-g7-leaders-europe.html"
       ]
     },
     {
@@ -1425,15 +1450,6 @@
       "category": "Diplomacy",
       "source": "Daily Sabah",
       "url": "https://www.dailysabah.com/politics/diplomacy/turkiye-chose-diplomacy-over-escalation-in-iran-conflict-erdogan-says",
-      "timestamp": "2026-06-15T20:06:00+03:00"
-    },
-    {
-      "headline": "G7 Allies Seek Clarity on Iran Deal as Trump Arrives in France",
-      "summary": "World leaders gathering at the G7 summit in France pressed for details on the US-Iran memorandum of understanding, with questions remaining about enforcement, the Strait of Hormuz reopening timeline, and Israel-Hezbollah tensions that could threaten the deal.",
-      "emoji": "🌍",
-      "category": "Geopolitics",
-      "source": "TRT World",
-      "url": "https://www.trtworld.com/article/05951840c88f",
       "timestamp": "2026-06-15T20:06:00+03:00"
     },
     {

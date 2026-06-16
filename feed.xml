@@ -1,15 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Frontion News Headlines</title>
+    <title>Frontion — Geopolitical Headlines</title>
     <link>https://frontion.com</link>
-    <description>Curated geopolitical news headlines from Tier 1 sources</description>
+    <description>Breaking geopolitical news curated from Tier 1 sources worldwide</description>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 23:06:36 +0300</lastBuildDate>
-    <ttl>30</ttl>
-
+    <lastBuildDate>2026-06-17T00:05:37+03:00</lastBuildDate>
+    <atom:link href="https://frontion.com/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>US-Iran deal allows Tehran to immediately resume oil exports, official says</title>
+      <title>🇺🇸🇮🇷 Trump says Iran deal to be public soon, will rule out nuclear weapon for Tehran</title>
+      <link>https://www.reuters.com/world/middle-east/us-iran-deal-promises-end-war-how-it-will-work-remains-unclear-2026-06-16/</link>
+      <description>Details of the US-Iran interim deal emerged at the G7 summit, with Trump saying the accord will be made public soon and will prohibit Iran from developing a nuclear weapon. How the deal will work in practice remains unclear.</description>
+      <category>US-Iran War</category>
+      <pubDate>2026-06-17T00:03:00+03:00</pubDate>
+      <source>Reuters</source>
+    </item>
+    <item>
+      <title>🇨🇦🇷🇺 Canada imposes sanctions on Russias shadow fleet and energy revenues at G7</title>
+      <link>https://www.reuters.com/business/canada-imposes-sanctions-russias-shadow-fleet-energy-revenues-other-targets-2026-06-16/</link>
+      <description>PM Carney announced new sanctions targeting Russias shadow fleet, energy revenues, defense-industrial sector, and disinformation entities at the G7 summit, as allies push to refocus pressure on Moscow over Ukraine.</description>
+      <category>Diplomacy</category>
+      <pubDate>2026-06-17T00:03:00+03:00</pubDate>
+      <source>Reuters</source>
+    </item>
+    <item>
+      <title>🏛️ White House Iran deal talking points often dont meet reality, AP finds</title>
+      <link>https://apnews.com/article/iran-trump-agreement-talking-points-4166975ec5cf58ef4acaa370171f623f</link>
+      <description>An AP analysis finds that the White Houses claims of accomplishments in the Iran war deal frequently diverge from the actual terms and realities of the agreement.</description>
+      <category>US Politics</category>
+      <pubDate>2026-06-17T00:03:00+03:00</pubDate>
+      <source>AP News</source>
+    </item>
+    <item>
+      <title>⛪ Pope Leo praises US-Iran interim peace deal, says thanks be to God</title>
+      <link>https://www.msn.com/en-us/news/world/pope-leo-says-thanks-be-to-god-for-interim-us-iran-peace-deal/vi-AA25NY35?ocid=BingNewsVerp</link>
+      <description>Pope Leo XIV welcomed the interim US-Iran deal to end the Middle East war, expressing hope it will provide a definite end to the conflict. He said the formalization expected Friday gives reason for gratitude.</description>
+      <category>Diplomacy</category>
+      <pubDate>2026-06-17T00:03:00+03:00</pubDate>
+      <source>MSN</source>
+    </item>
+    <item>
+      <title>🛢️ Deal or no deal, oil prices will stay high for months</title>
+      <link>https://www.economist.com/finance-and-economics/2026/06/16/deal-or-no-deal-oil-prices-will-stay-high-for-months</link>
+      <description>Even with the US-Iran peace accord, The Economist reports that global oil prices are likely to remain elevated for months as physical supply chains and shipping routes take time to normalize.</description>
+      <category>Energy</category>
+      <pubDate>2026-06-17T00:03:00+03:00</pubDate>
+      <source>The Economist</source>
+    </item>
+    <item>
+      <title>🇮🇷🛢️ US-Iran deal allows Tehran to immediately resume oil exports, official says</title>
       <link>https://www.reuters.com/business/energy/us-iran-deal-allows-tehran-immediately-sell-oil-wsj-reports-2026-06-16/</link>
       <description>A US official confirmed that under the memorandum of understanding reached with Iran, Tehran can immediately begin selling oil and fuel, marking a significant easing of sanctions that had constrained Iranian crude exports.</description>
       <category>US-Iran War</category>
@@ -17,7 +56,7 @@
       <source>Reuters</source>
     </item>
     <item>
-      <title>Bank of Japan raises rates to 31-year high, signals further hikes ahead</title>
+      <title>🇯🇵💰 Bank of Japan raises rates to 31-year high, signals further hikes ahead</title>
       <link>https://www.reuters.com/world/asia-pacific/bank-japan-set-raise-rates-31-year-high-vow-further-increases-2026-06-15/</link>
       <description>The Bank of Japan raised interest rates to their highest level in 31 years in a landmark policy normalization step, signaling readiness to tighten further as it focuses on taming price pressures from the Iran-war-induced energy shock.</description>
       <category>Economy</category>
@@ -25,23 +64,7 @@
       <source>Reuters</source>
     </item>
     <item>
-      <title>Trump signals swift return of sanctions on Russian oil as G7 refocuses on Ukraine</title>
-      <link>https://www.latimes.com/world-nation/story/2026-06-16/trump-signs-swift-return-of-sanctions-on-russian-oil-as-g7-refocuses-on-ukraine</link>
-      <description>President Trump and fellow G7 leaders moved to reimpose sanctions on Russian oil shipments, shifting focus back to the Ukraine war after the Iran deal dominated early summit discussions.</description>
-      <category>Ukraine-Russia War</category>
-      <pubDate>2026-06-16T23:03:00+03:00</pubDate>
-      <source>Los Angeles Times</source>
-    </item>
-    <item>
-      <title>European leaders soften tone toward Trump at G7 after Iran deal breakthrough</title>
-      <link>https://www.nytimes.com/2026/06/16/world/europe/trump-g7-leaders-europe.html</link>
-      <description>A peace framework with Iran and hope for cooperation on Ukraine softened the tone at the G7 summit, with European leaders who had clashed with Trump now seeking common ground on trade and security.</description>
-      <category>Diplomacy</category>
-      <pubDate>2026-06-16T23:03:00+03:00</pubDate>
-      <source>New York Times</source>
-    </item>
-    <item>
-      <title>Trump meets world leaders at G7 as Iran deal takes center stage</title>
+      <title>🇫🇷🏛️ Trump meets world leaders at G7 as Iran deal takes center stage</title>
       <link>https://www.cnn.com/2026/06/16/world/live-news/iran-war-g7-summit</link>
       <description>World leaders sought clarity on the Iran deal framework at the G7 summit, with Iran demanding Israel withdraw from Lebanon as part of the agreement, while Trump said Netanyahu needs to be "more responsible."</description>
       <category>Geopolitics</category>
@@ -49,7 +72,7 @@
       <source>CNN</source>
     </item>
     <item>
-      <title>Israel Refuses Lebanon Withdrawal Despite Iran Deal Pressure</title>
+      <title>🇮🇱🇱🇧 Israel Refuses Lebanon Withdrawal Despite Iran Deal Pressure</title>
       <link>https://www.jpost.com/israel-news/article-899415</link>
       <description>Israel says it will not withdraw forces from Lebanon even as Iran insists the US-Iran peace deal requires Israeli troops to leave. Hezbollah claims Iran has pledged to pursue Israeli withdrawal as a condition for any final nuclear agreement.</description>
       <category>Middle East</category>
@@ -57,7 +80,7 @@
       <source>Jerusalem Post</source>
     </item>
     <item>
-      <title>US Military Plans Permanent Weapons Stockpile in Australia</title>
+      <title>🇺🇸🇦🇺⚔️ US Military Plans Permanent Weapons Stockpile in Australia</title>
       <link>https://www.scmp.com/news/asia/australasia/article/3357311/us-military-plans-permanent-war-ready-weapons-stockpile-australia</link>
       <description>US Navy documents reveal advanced planning for a large war-ready weapons stockpile in Australia, with $30 million allocated to build warehouses and offices. The move signals deeper US military posture in the Indo-Pacific.</description>
       <category>Asia-Pacific</category>
@@ -65,7 +88,7 @@
       <source>SCMP</source>
     </item>
     <item>
-      <title>Ukrainian Su-24 Bomber Crashes, Both Pilots Killed</title>
+      <title>🇺🇦✈️ Ukrainian Su-24 Bomber Crashes, Both Pilots Killed</title>
       <link>https://kyivindependent.com/ukrainian-su-24-bomber-crashes-in-khmelnytskyi-oblast-killing-pilots-air-force-confirms/</link>
       <description>A Ukrainian Su-24 bomber crashed in Khmelnytskyi Oblast on the evening of June 16, killing both the pilot and navigator. The Air Force confirmed the incident, with the cause under investigation.</description>
       <category>Ukraine-Russia War</category>
@@ -73,15 +96,7 @@
       <source>Kyiv Independent</source>
     </item>
     <item>
-      <title>Ukrainian drone strike halts operations at Moscow oil refinery</title>
-      <link>https://www.reuters.com/world/moscow-oil-refinery-damaged-ukrainian-drone-attack-mayor-says-2026-06-16/</link>
-      <description>A Ukrainian drone attack sparked a fire at Moscows largest fuel-supplying refinery, halting operations. Zelenskiy described the strike as coercion to push Russia toward peace talks.</description>
-      <category>Ukraine-Russia War</category>
-      <pubDate>2026-06-16T22:03:00+03:00</pubDate>
-      <source>Reuters</source>
-    </item>
-    <item>
-      <title>Trump signals swift return of sanctions on Russian oil as G7 refocuses on Ukraine</title>
+      <title>🇷🇺🛢️ Trump signals swift return of sanctions on Russian oil as G7 refocuses on Ukraine</title>
       <link>https://apnews.com/article/g7-iran-ukraine-trump-macron-zelenskyy-e7fad4eabaae8181f70fa5a0b9e499b2</link>
       <description>At the G7 summit in France, Trump indicated he may reimpose sanctions on Russian oil soon, as world leaders pushed Ukraine back to the top of the agenda alongside the Iran deal.</description>
       <category>Diplomacy</category>
@@ -89,7 +104,15 @@
       <source>AP News</source>
     </item>
     <item>
-      <title>Trump insists Strait of Hormuz will open toll-free under Iran deal</title>
+      <title>🇺🇦⚔️ Ukrainian drone strike halts operations at Moscow oil refinery</title>
+      <link>https://www.reuters.com/world/moscow-oil-refinery-damaged-ukrainian-drone-attack-mayor-says-2026-06-16/</link>
+      <description>A Ukrainian drone attack sparked a fire at Moscows largest fuel-supplying refinery, halting operations. Zelenskiy described the strike as coercion to push Russia toward peace talks.</description>
+      <category>Ukraine-Russia War</category>
+      <pubDate>2026-06-16T22:03:00+03:00</pubDate>
+      <source>Reuters</source>
+    </item>
+    <item>
+      <title>🇮🇷🛢️ Trump insists Strait of Hormuz will open toll-free under Iran deal</title>
       <link>https://www.bbc.com/news/live/c98247ml02qt</link>
       <description>Speaking at the G7 summit, Trump declared the Strait of Hormuz would reopen toll-free under the US-Iran deal, as oil prices fell 5% to a three-month low on hopes of restored shipping.</description>
       <category>Energy</category>
@@ -97,7 +120,7 @@
       <source>BBC</source>
     </item>
     <item>
-      <title>The Iran war permanently altered the global economy</title>
+      <title>🌍💰 The Iran war permanently altered the global economy</title>
       <link>https://www.nytimes.com/2026/06/16/business/economy/iran-war-oil-trade.html</link>
       <description>The New York Times analyzes how the US-Iran conflict has fundamentally reshaped global trade, energy markets, and economic alliances in ways unlikely to revert even with a peace deal.</description>
       <category>Economy</category>
@@ -105,7 +128,7 @@
       <source>New York Times</source>
     </item>
     <item>
-      <title>ECB will stay proactive on inflation even after Iran deal, Lane says</title>
+      <title>🇪🇺🏦 ECB will stay proactive on inflation even after Iran deal, Lane says</title>
       <link>https://www.reuters.com/business/ecb-will-continue-be-proactive-fight-against-high-inflation-lane-says-2026-06-16/</link>
       <description>ECB chief economist Philip Lane said the central bank will remain proactive in fighting high inflation despite falling energy prices following the US-Iran deal, signaling rates may stay elevated.</description>
       <category>Economy</category>
@@ -113,15 +136,7 @@
       <source>Reuters</source>
     </item>
     <item>
-      <title>G7 allies push Trump to reinstate sanctions on Russian oil as summit refocuses on Ukraine</title>
-      <link>https://www.bostonherald.com/2026/06/16/g7-allies-ukraine-trump/</link>
-      <description>U.S. allies at the G7 summit pressed President Trump to swiftly reimpose sanctions on Russian oil, shifting focus back to Ukraine amid signs the Iran war is de-escalating. The move signals continued Western resolve on isolating Moscow economically.</description>
-      <category>Ukraine-Russia War</category>
-      <pubDate>2026-06-16T21:03:00+03:00</pubDate>
-      <source>AP News</source>
-    </item>
-    <item>
-      <title>Trump says he will send Iran peace deal to Congress for approval</title>
+      <title>🇺🇸🏛️ Trump says he will send Iran peace deal to Congress for approval</title>
       <link>https://www.upi.com/Top_News/US/2026/06/16/trump-iran-deal-congress/5581781629118/</link>
       <description>President Trump announced he would submit the U.S.-Iran war-ending agreement to Congress for approval, a key step that could determine whether the deal survives domestic political scrutiny on Capitol Hill.</description>
       <category>US-Iran War</category>
@@ -129,7 +144,7 @@
       <source>UPI</source>
     </item>
     <item>
-      <title>Iran soccer team forced to train in Tijuana after being blocked from U.S. entry</title>
+      <title>🇮🇷⚽ Iran soccer team forced to train in Tijuana after being blocked from U.S. entry</title>
       <link>https://www.npr.org/2026/06/15/nx-s1-5856423/irans-soccer-team-was-welcomed-in-tijuana-after-being-blocked-from-training-in-u-s</link>
       <description>Iran World Cup squad was denied entry to train in the United States amid wartime tensions, finding an unlikely welcome in the Mexican border city of Tijuana — a story where sport and geopolitics collide.</description>
       <category>US-Iran War</category>
@@ -137,7 +152,7 @@
       <source>NPR</source>
     </item>
     <item>
-      <title>Trump criticizes Netanyahu over Lebanon attacks at G7, warns Israel to be more responsible</title>
+      <title>🇮🇱🇱🇧 Trump criticizes Netanyahu over Lebanon attacks at G7, warns Israel to be more responsible</title>
       <link>https://www.nbcnews.com/politics/donald-trump/live-blog/live-updates-trump-g7-summit-us-iran-deal-hormuz-ukraine-russia-rcna350193</link>
       <description>At the G7 summit, Trump publicly criticized Israeli PM Netanyahu for escalating attacks on Lebanon and Hezbollah, saying Israel must act more responsibly — a rare rift between the two leaders on full display before other world leaders.</description>
       <category>Middle East</category>
@@ -145,7 +160,7 @@
       <source>NBC News</source>
     </item>
     <item>
-      <title>Anti-capitalist protesters clash with security at G7 summit in Evian</title>
+      <title>🇫🇷✊ Anti-capitalist protesters clash with security at G7 summit in Evian</title>
       <link>https://www.reuters.com/sustainability/anti-capitalist-protests-g7-summit-2026-06-16/</link>
       <description>Thousands of anti-capitalist demonstrators protested near the G7 summit venue in Evian-les-Bains, opposing what they called the elite global order — a familiar backdrop for the annual gathering of world leaders.</description>
       <category>Europe</category>
@@ -153,7 +168,7 @@
       <source>Reuters</source>
     </item>
     <item>
-      <title>AI price war deepens across China as competition intensifies between tech giants</title>
+      <title>🇨🇳💻 AI price war deepens across China as competition intensifies between tech giants</title>
       <link>https://www.scmp.com/tech/big-tech/article/3357289/ai-less-price-war-china-deepens-amid-intense-competition</link>
       <description>Narrowing capability gaps between AI models and falling service costs are fueling a price war among Chinese tech firms, with analysts predicting further reductions as competition heats up.</description>
       <category>Technology</category>
@@ -161,7 +176,7 @@
       <source>SCMP</source>
     </item>
     <item>
-      <title>Harris says Trump DOJ investigation of Newsom fits pattern of targeting political enemies</title>
+      <title>🏛️ Harris says Trump DOJ investigation of Newsom fits pattern of targeting political enemies</title>
       <link>https://www.politico.com/news/2026/06/16/harris-backs-newsom-not-surprised-trumps-doj-investigating-him-00963573</link>
       <description>Former Vice President Kamala Harris condemned the Trump administration investigation into California Governor Gavin Newsom, calling it part of a broader pattern of using the Justice Department against political opponents.</description>
       <category>US Politics</category>
@@ -169,7 +184,7 @@
       <source>Politico</source>
     </item>
     <item>
-      <title>Swiss luxury resort chosen as venue for US-Iran deal signing ceremony</title>
+      <title>🇨🇭🇮🇷 Swiss luxury resort chosen as venue for US-Iran deal signing ceremony</title>
       <link>https://www.france24.com/en/live-news/20260616-swiss-us-iran-deal-venue-a-playground-of-world-leaders-movie-stars</link>
       <description>The Bürgenstock resort above Lake Lucerne in Switzerland, long favored by world leaders and celebrities, will host the formal signing of the US-Iran peace agreement scheduled for June 19.</description>
       <category>Diplomacy</category>
@@ -177,36 +192,20 @@
       <source>France 24</source>
     </item>
     <item>
-      <title>Philippines unprepared for a mega-quake despite Mindanao disaster, experts warn</title>
-      <link>https://www.scmp.com/week-asia/health-environment/article/3357287/philippines-still-not-ready-big-one-even-after-latest-quake?module=latest&pgtype=homepage</link>
+      <title>🇵🇭🌍 Philippines unprepared for a mega-quake despite Mindanao disaster, experts warn</title>
+      <link>https://www.scmp.com/week-asia/health-environment/article/3357287/philippines-still-not-ready-big-one-even-after-latest-quake?module=latest&amp;pgtype=homepage</link>
       <description>A 50-year-old building code and stalled political action leave the Philippines vulnerable to a catastrophic earthquake, with scientists warning the recent Mindanao quake is only a preview of a larger event.</description>
       <category>Asia-Pacific</category>
       <pubDate>2026-06-16T20:04:00+03:00</pubDate>
       <source>SCMP</source>
     </item>
     <item>
-      <title>Trump tells G7 Ukraine war has "no impact" on the United States</title>
+      <title>🇺🇸🇺🇦 Trump tells G7 Ukraine war has "no impact" on the United States</title>
       <link>https://www.nytimes.com/2026/06/16/world/europe/trump-ukraine-war-g7.html</link>
       <description>At the G7 summit in Evian, President Trump distanced the US from the Ukraine conflict, telling allies the war has no effect on America — a stark signal to European partners who have relied on US security guarantees for decades.</description>
       <category>US Politics</category>
       <pubDate>2026-06-16T20:03:00+03:00</pubDate>
       <source>New York Times</source>
-    </item>
-    <item>
-      <title>Zelenskiy says G7 leaders agreed Russia is not winning, discussed further sanctions</title>
-      <link>https://www.reuters.com/business/aerospace-defense/ukraines-zelenskiy-says-g7-leaders-discussed-further-sanctions-russia-2026-06-16/</link>
-      <description>Ukraine's president said G7 leaders reached consensus that Russia is not winning the war and discussed additional sanctions to push Moscow toward negotiations, after a closed-door session with Trump at the Evian summit.</description>
-      <category>Ukraine-Russia War</category>
-      <pubDate>2026-06-16T20:03:00+03:00</pubDate>
-      <source>Reuters</source>
-    </item>
-    <item>
-      <title>Trump rebukes Israel at G7, suggests Syria should handle Hezbollah instead</title>
-      <link>https://www.cnn.com/2026/06/16/world/trump-syria-lebanon-hezbollah-analysis-intl</link>
-      <description>President Trump publicly criticized Israel's prolonged and deadly campaign in Lebanon, saying the war is "too long" and suggesting Damascus — not the IDF — should deal with Hezbollah, a proposal that could reshape the Levant's security landscape.</description>
-      <category>Middle East</category>
-      <pubDate>2026-06-16T20:03:00+03:00</pubDate>
-      <source>CNN</source>
     </item>
   </channel>
 </rss>
