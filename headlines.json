@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-16T07:13:03+03:00",
+  "lastUpdated": "2026-06-16T08:05:54+03:00",
   "headlines": [
+    {
+      "headline": "European leaders warn Trump on Iran deal risks, push Ukraine rethink at G7 summit",
+      "summary": "European leaders told Trump at the G7 summit in Evian that a superficial interim Iran deal risks entrenching Tehran's nuclear and missile programs, while pressing him to rethink his Ukraine strategy and stand behind Kyiv.",
+      "emoji": "🇪🇺",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/europeans-test-trump-iran-deal-risks-urge-ukraine-rethink-g7-2026-06-16/",
+      "timestamp": "2026-06-16T08:03:00+03:00"
+    },
+    {
+      "headline": "G7 leaders convene in France awaiting clarity on US-Iran agreement terms",
+      "summary": "World leaders gathered at the G7 summit in Evian-les-Bains are seeking details on the US-Iran deal, with the Iran war and its implications dominating the agenda alongside trade disputes and the Ukraine conflict.",
+      "emoji": "🇫🇷",
+      "category": "Diplomacy",
+      "source": "CNN",
+      "url": "https://www.cnn.com/2026/06/16/world/live-news/iran-war-g7-summit",
+      "timestamp": "2026-06-16T08:03:00+03:00"
+    },
+    {
+      "headline": "Bank of Japan raises key interest rate to 1%, highest in three decades",
+      "summary": "The Bank of Japan raised its benchmark rate to 1%, a 31-year high, citing inflation pressures from the Middle East conflict and a weak yen. The Nikkei 225 briefly topped 70,000 for the first time before retreating.",
+      "emoji": "🇯🇵",
+      "category": "Economy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/rates-inflation-boj-iran-oil-policy-7646f3c0e0d30ef6c75925b5eecc9014",
+      "timestamp": "2026-06-16T08:03:00+03:00"
+    },
+    {
+      "headline": "Kyiv monastery set on fire in night of Russian attacks across Ukraine",
+      "summary": "The Dormition Cathedral of Kyiv Pechersk Lavra, one of Ukraine's most significant religious sites, was set on fire alongside residential buildings during widespread Russian attacks on the capital.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/15/kyiv-pechersk-lavra-monastery-on-fire-russian-attacks-ukraine",
+      "timestamp": "2026-06-16T08:03:00+03:00"
+    },
+    {
+      "headline": "Ebola risk for World Cup is extremely low, but US hospitals are ready, experts say",
+      "summary": "US infectious disease experts say the risk of an Ebola case arriving during the 2026 World Cup is low but not zero, and American hospitals are prepared to respond if needed amid Congo's ongoing outbreak.",
+      "emoji": "⚽",
+      "category": "Health",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/ebola-risk-world-cup-is-extremely-low-us-is-ready-experts-say-2026-06-15/",
+      "timestamp": "2026-06-16T08:03:00+03:00"
+    },
     {
       "headline": "Oil rebounds on concerns about Iran deal details and Hormuz reopening delay",
       "summary": "Oil prices rebounded on concerns that the preliminary US-Iran peace agreement lacks detail and that resuming supply through the Strait of Hormuz could take longer than expected due to mine-clearance operations.",
@@ -8,7 +53,31 @@
       "category": "Energy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/asia-pacific/oil-rebounds-concerns-about-us-iran-peace-deal-restoration-supply-2026-06-16/",
-      "timestamp": "2026-06-16T07:11:00+03:00"
+      "timestamp": "2026-06-16T07:11:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/middle-east/japanese-shippers-await-details-hormuz-reopening-mine-clearance-2026-06-15/",
+          "angle": "Japanese Shippers Await Hormuz Reopening Details as Mine Clearance Needed",
+          "summary": "Japanese shipping companies welcomed the US-Iran peace deal that will reopen the Strait of Hormuz but are awaiting details on mine clearance and safety guarantees before sending vessels through the critical chokepoint that handles a fifth of global oil shipments."
+        },
+        {
+          "source": "MarketWatch",
+          "url": "https://www.marketwatch.com/story/oil-prices-rise-amid-uncertainty-over-strait-of-hormuz-s-full-reopening-884e1257",
+          "angle": "Oil Prices Rise Amid Uncertainty Over Strait of Hormuz Full Reopening",
+          "summary": "Oil prices rose Tuesday morning as traders weighed uncertainty over the full reopening of the Strait of Hormuz, the critical waterway through which one-fifth of the world's oil typically flows. Analysts say it could take 3-6 months for shipping to fully resume even after the deal is signed."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "MarketWatch"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/asia-pacific/oil-rebounds-concerns-about-us-iran-peace-deal-restoration-supply-2026-06-16/",
+        "https://www.reuters.com/world/middle-east/japanese-shippers-await-details-hormuz-reopening-mine-clearance-2026-06-15/",
+        "https://www.marketwatch.com/story/oil-prices-rise-amid-uncertainty-over-strait-of-hormuz-s-full-reopening-884e1257"
+      ]
     },
     {
       "headline": "China embraces Myanmar president as former junta chief seeks legitimacy",
@@ -17,7 +86,23 @@
       "category": "Asia-Pacific",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/china-embraces-myanmars-president-former-junta-chief-seeks-legitimacy-2026-06-16/",
-      "timestamp": "2026-06-16T07:11:00+03:00"
+      "timestamp": "2026-06-16T07:11:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/world/china/myanmars-former-junta-chief-kicks-off-visit-china-civilian-president-2026-06-15/",
+          "angle": "Myanmar’s Min Aung Hlaing makes first visit to China as civilian president",
+          "summary": "Myanmar’s former junta chief Min Aung Hlaing arrived in Beijing for a five-day visit at Xi Jinping’s invitation, his first trip to China since being elected president — a sign of deepening ties between the two authoritarian governments."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/china-embraces-myanmars-president-former-junta-chief-seeks-legitimacy-2026-06-16/",
+        "https://www.reuters.com/world/china/myanmars-former-junta-chief-kicks-off-visit-china-civilian-president-2026-06-15/"
+      ]
     },
     {
       "headline": "G7 leaders open summit talks on Ukraine and Middle East with Zelenskyy in France",
@@ -175,46 +260,12 @@
       "timestamp": "2026-06-16T06:03:00+03:00"
     },
     {
-      "headline": "Japanese Shippers Await Hormuz Reopening Details as Mine Clearance Needed",
-      "summary": "Japanese shipping companies welcomed the US-Iran peace deal that will reopen the Strait of Hormuz but are awaiting details on mine clearance and safety guarantees before sending vessels through the critical chokepoint that handles a fifth of global oil shipments.",
-      "emoji": "🛢️🚢",
-      "category": "Energy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/middle-east/japanese-shippers-await-details-hormuz-reopening-mine-clearance-2026-06-15/",
-      "timestamp": "2026-06-16T05:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/world/middle-east/japanese-shippers-await-details-hormuz-reopening-mine-clearance-2026-06-15/",
-          "angle": "Japanese shippers await mine clearance details before resuming Hormuz transit",
-          "summary": "Japanese shipping companies welcomed the US-Iran deal to reopen the Strait of Hormuz but say they need details on mine clearance and security guarantees before sending vessels through the chokepoint."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/middle-east/japanese-shippers-await-details-hormuz-reopening-mine-clearance-2026-06-15/",
-        "https://www.reuters.com/world/middle-east/japanese-shippers-await-details-hormuz-reopening-mine-clearance-2026-06-15/"
-      ]
-    },
-    {
       "headline": "IMF Chief Says No Global Slowdown Yet but Risks Remain High",
       "summary": "IMF Managing Director Kristalina Georgieva said the world economy is weathering the shock of the Middle East war with no signs yet of a global slowdown, but warned that risks remain elevated amid ongoing geopolitical uncertainties.",
       "emoji": "💰🌍",
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/china/imf-chief-says-no-global-slowdown-sight-yet-risks-are-high-2026-06-15/",
-      "timestamp": "2026-06-16T05:03:00+03:00"
-    },
-    {
-      "headline": "Oil Prices Rise Amid Uncertainty Over Strait of Hormuz Full Reopening",
-      "summary": "Oil prices rose Tuesday morning as traders weighed uncertainty over the full reopening of the Strait of Hormuz, the critical waterway through which one-fifth of the world's oil typically flows. Analysts say it could take 3-6 months for shipping to fully resume even after the deal is signed.",
-      "emoji": "🛢️📈",
-      "category": "Energy",
-      "source": "MarketWatch",
-      "url": "https://www.marketwatch.com/story/oil-prices-rise-amid-uncertainty-over-strait-of-hormuz-s-full-reopening-884e1257",
       "timestamp": "2026-06-16T05:03:00+03:00"
     },
     {
@@ -429,15 +480,6 @@
       "category": "Ukraine-Russia War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/europe/russia-says-it-did-not-strike-kyiv-monastery-says-us-made-patriot-air-defence-2026-06-15/",
-      "timestamp": "2026-06-16T01:03:00+03:00"
-    },
-    {
-      "headline": "Myanmar’s Min Aung Hlaing makes first visit to China as civilian president",
-      "summary": "Myanmar’s former junta chief Min Aung Hlaing arrived in Beijing for a five-day visit at Xi Jinping’s invitation, his first trip to China since being elected president — a sign of deepening ties between the two authoritarian governments.",
-      "emoji": "🇲🇲",
-      "category": "Asia-Pacific",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/myanmars-former-junta-chief-kicks-off-visit-china-civilian-president-2026-06-15/",
       "timestamp": "2026-06-16T01:03:00+03:00"
     },
     {
