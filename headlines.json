@@ -1,6 +1,24 @@
 {
-  "lastUpdated": "2026-06-16T09:05:06+03:00",
+  "lastUpdated": "2026-06-16T10:05:01+03:00",
   "headlines": [
+    {
+      "headline": "JD Vance admits unresolved issues remain in Iran peace deal ahead of G7 talks",
+      "summary": "Vice President JD Vance acknowledged that several issues still remain in the US-Iran peace agreement as G7 leaders prepare to discuss the Middle East, tempering expectations for a finalized deal at the summit.",
+      "emoji": "🇺🇸",
+      "category": "Diplomacy",
+      "source": "The Telegraph",
+      "url": "https://www.telegraph.co.uk/world-news/2026/06/16/g7-summit-latest-news-trump-ukraine-iran-war-peace-deal/",
+      "timestamp": "2026-06-16T10:03:00+03:00"
+    },
+    {
+      "headline": "G7 leaders open full summit session with Zelensky on Ukraine as Trump shifts focus from Iran",
+      "summary": "Leaders at the G7 summit in Evian face a packed agenda with Zelensky attending Ukraine talks and Arab leaders joining Middle East discussions. Trump said he would now focus on Ukraine after the Iran ceasefire, while Macron seeks to maintain Western support for Kyiv.",
+      "emoji": "🇫🇷",
+      "category": "Diplomacy",
+      "source": "AP News",
+      "url": "https://apnews.com/article/g7-iran-ukraine-trump-macron-zelenskyy-e7fad4eabaae8181f70fa5a0b9e499b2",
+      "timestamp": "2026-06-16T10:03:00+03:00"
+    },
     {
       "headline": "Surging Chinese exports threaten European economy, raising alarm at G7 summit",
       "summary": "Eight years of US tariffs have failed to dent China industrial output, and a new wave of cheap exports is now pressuring European manufacturers, forcing G7 leaders to confront an escalating trade crisis.",
@@ -11,22 +29,29 @@
       "timestamp": "2026-06-16T09:03:00+03:00"
     },
     {
-      "headline": "G7 leaders open summit in France with focus on Ukraine and Middle East",
-      "summary": "World leaders face a packed agenda on the first full day of the G7 summit, with Ukrainian President Zelenskyy attending as host France pushes to refocus attention on ending the Russia-Ukraine war after the Iran ceasefire deal.",
-      "emoji": "🇫🇷🇺🇦",
-      "category": "Diplomacy",
-      "source": "NPR",
-      "url": "https://www.npr.org/2026/06/16/g-s1-128325/g7-leaders-summit",
-      "timestamp": "2026-06-16T09:03:00+03:00"
-    },
-    {
       "headline": "ECB chief Lagarde welcomes Iran ceasefire but warns inflation may persist",
       "summary": "ECB President Christine Lagarde called the US-Iran ceasefire good news that could help reopen the Strait of Hormuz, but several ECB colleagues cautioned it would not immediately bring down elevated euro zone inflation.",
       "emoji": "🇪🇺💰",
       "category": "Economy",
       "source": "Reuters",
       "url": "https://www.reuters.com/business/finance/ecbs-lagarde-welcomes-iran-ceasefire-agreement-good-news-2026-06-15/",
-      "timestamp": "2026-06-16T09:03:00+03:00"
+      "timestamp": "2026-06-16T09:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/finance/ecbs-lagarde-welcomes-iran-ceasefire-agreement-good-news-2026-06-15/",
+          "angle": "ECB Welcomes Iran Ceasefire Deal But Warns Inflation Relief Will Take Time",
+          "summary": "ECB President Christine Lagarde welcomed the US-Iran ceasefire agreement as good news that could help reopen the Strait of Hormuz, but cautioned it would not immediately bring down high eurozone inflation. Some ECB colleagues echoed concerns about persistent price pressures."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters"
+      ],
+      "urls": [
+        "https://www.reuters.com/business/finance/ecbs-lagarde-welcomes-iran-ceasefire-agreement-good-news-2026-06-15/",
+        "https://www.reuters.com/business/finance/ecbs-lagarde-welcomes-iran-ceasefire-agreement-good-news-2026-06-15/"
+      ]
     },
     {
       "headline": "Norway Crown Princess son convicted of rape, sentenced to four years",
@@ -114,6 +139,31 @@
       ]
     },
     {
+      "headline": "European leaders warn Trump on Iran deal risks, push Ukraine rethink at G7 summit",
+      "summary": "European leaders told Trump at the G7 summit in Evian that a superficial interim Iran deal risks entrenching Tehran's nuclear and missile programs, while pressing him to rethink his Ukraine strategy and stand behind Kyiv.",
+      "emoji": "🇪🇺",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/europeans-test-trump-iran-deal-risks-urge-ukraine-rethink-g7-2026-06-16/",
+      "timestamp": "2026-06-16T08:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "NPR",
+          "url": "https://www.npr.org/2026/06/16/g-s1-128325/g7-leaders-summit",
+          "angle": "G7 leaders open summit in France with focus on Ukraine and Middle East",
+          "summary": "World leaders face a packed agenda on the first full day of the G7 summit, with Ukrainian President Zelenskyy attending as host France pushes to refocus attention on ending the Russia-Ukraine war after the Iran ceasefire deal."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "NPR"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/china/europeans-test-trump-iran-deal-risks-urge-ukraine-rethink-g7-2026-06-16/",
+        "https://www.npr.org/2026/06/16/g-s1-128325/g7-leaders-summit"
+      ]
+    },
+    {
       "headline": "Bank of Japan raises key interest rate to 1%, highest in three decades",
       "summary": "The Bank of Japan raised its benchmark rate to 1%, a 31-year high, citing inflation pressures from the Middle East conflict and a weak yen. The Nikkei 225 briefly topped 70,000 for the first time before retreating.",
       "emoji": "🇯🇵",
@@ -136,31 +186,6 @@
       "urls": [
         "https://apnews.com/article/rates-inflation-boj-iran-oil-policy-7646f3c0e0d30ef6c75925b5eecc9014",
         "https://asia.nikkei.com/economy/bank-of-japan/boj-hikes-rates-to-highest-level-since-1995"
-      ]
-    },
-    {
-      "headline": "European leaders warn Trump on Iran deal risks, push Ukraine rethink at G7 summit",
-      "summary": "European leaders told Trump at the G7 summit in Evian that a superficial interim Iran deal risks entrenching Tehran's nuclear and missile programs, while pressing him to rethink his Ukraine strategy and stand behind Kyiv.",
-      "emoji": "🇪🇺",
-      "category": "Diplomacy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/world/china/europeans-test-trump-iran-deal-risks-urge-ukraine-rethink-g7-2026-06-16/",
-      "timestamp": "2026-06-16T08:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "The Telegraph",
-          "url": "https://www.telegraph.co.uk/world-news/2026/06/16/g7-summit-latest-news-trump-ukraine-iran-war-peace-deal/",
-          "angle": "Trump eyes Ukraine peace deal at G7 as Zelensky joins leaders in France",
-          "summary": "The UK pledged enriched uranium for Ukraine’s nuclear plants and fresh sanctions on Russia as G7 leaders met Zelensky. Trump signaled optimism about a possible Ukraine breakthrough after the Iran deal momentum."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "The Telegraph"
-      ],
-      "urls": [
-        "https://www.reuters.com/world/china/europeans-test-trump-iran-deal-risks-urge-ukraine-rethink-g7-2026-06-16/",
-        "https://www.telegraph.co.uk/world-news/2026/06/16/g7-summit-latest-news-trump-ukraine-iran-war-peace-deal/"
       ]
     },
     {
@@ -529,31 +554,6 @@
       "source": "Channel News Asia",
       "url": "https://www.channelnewsasia.com/commentary/anthropic-claude-ai-model-fable5-mythos5-shut-down-6184146",
       "timestamp": "2026-06-16T02:05:00+03:00"
-    },
-    {
-      "headline": "ECB Welcomes Iran Ceasefire Deal But Warns Inflation Relief Will Take Time",
-      "summary": "ECB President Christine Lagarde welcomed the US-Iran ceasefire agreement as good news that could help reopen the Strait of Hormuz, but cautioned it would not immediately bring down high eurozone inflation. Some ECB colleagues echoed concerns about persistent price pressures.",
-      "emoji": "🇪🇺💰",
-      "category": "Economy",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/finance/ecbs-lagarde-welcomes-iran-ceasefire-agreement-good-news-2026-06-15/",
-      "timestamp": "2026-06-16T02:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "European Interest",
-          "url": "https://www.europeaninterest.eu/ecb-still-cautious-about-eurozone-inflation-despite-iran-peace-deal/",
-          "angle": "ECB Remains Cautious on Eurozone Inflation Despite Iran Peace Deal",
-          "summary": "The European Central Bank warns that reopening the Strait of Hormuz will not immediately bring down elevated eurozone inflation, as oil supply recovery will take months even under the new US-Iran agreement."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "European Interest"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/finance/ecbs-lagarde-welcomes-iran-ceasefire-agreement-good-news-2026-06-15/",
-        "https://www.europeaninterest.eu/ecb-still-cautious-about-eurozone-inflation-despite-iran-peace-deal/"
-      ]
     },
     {
       "headline": "Russia denies striking Kyiv monastery, claims Ukrainian Patriot missile caused damage",
@@ -1576,74 +1576,6 @@
         "https://www.msn.com/en-in/news/India/pm-modi-in-nice-india-and-france-seek-to-strengthen-long-standing-strategic-partnership/ar-AA25xlok?ocid=BingNewsVerp",
         "https://nagalandpost.com/india-france-set-to-deepen-undersea-defence-capabilities/"
       ]
-    },
-    {
-      "headline": "Brazilian refineries sold fuel to firm linked to terrorist organization",
-      "summary": "Reuters reports Brazilian refineries sold over 100 million liters of naphtha to a firm under investigation for fraud involving a U.S.-designated terrorist group, raising concerns about supply chain integrity.",
-      "emoji": "🇧🇷⚠️",
-      "category": "Latin America",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/brazil-refiners-fueled-scheme-linked-us-designated-terrorist-group-source-2026-06-12/",
-      "timestamp": "2026-06-13T10:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "Reuters",
-          "url": "https://www.reuters.com/business/energy/brazil-refiners-fueled-scheme-linked-us-designated-terrorist-group-source-2026-06-12/",
-          "angle": "Brazil refineries linked to terrorist financing scheme",
-          "summary": "Brazilian refineries sold over 100 million liters of naphtha to a firm under investigation for fraud involving a criminal gang designated by the US as a terrorist organization, Reuters reports."
-        }
-      ],
-      "sources": [
-        "Reuters",
-        "Reuters"
-      ],
-      "urls": [
-        "https://www.reuters.com/business/energy/brazil-refiners-fueled-scheme-linked-us-designated-terrorist-group-source-2026-06-12/",
-        "https://www.reuters.com/business/energy/brazil-refiners-fueled-scheme-linked-us-designated-terrorist-group-source-2026-06-12/"
-      ]
-    },
-    {
-      "headline": "Kennedy Center misses court deadline to remove Trump name",
-      "summary": "The Kennedy Center asked for more time to remove President Trumps name from its facade after missing a Friday deadline, citing thunderstorms. Officials say removal expected by Saturday noon.",
-      "emoji": "🏛️⚖️",
-      "category": "US Politics",
-      "source": "AP News",
-      "url": "https://apnews.com/article/trump-name-removal-kennedy-center-5a32c569d72c333e9d65c76b4224b617",
-      "timestamp": "2026-06-13T10:03:00+03:00"
-    },
-    {
-      "headline": "Over 225,000 Russian soldiers identified killed in Ukraine",
-      "summary": "Russian independent media Mediazona, working with BBC Russian service, confirmed identities of over 225,000 Russian soldiers killed in Ukraine, marking one of the most comprehensive casualty tallies.",
-      "emoji": "🇷🇺⚔️",
-      "category": "Ukraine-Russia War",
-      "source": "Kyiv Independent",
-      "url": "https://kyivindependent.com/over-225-000-russian-soldiers-killed-in-ukraine-identified-by-media-investigation/",
-      "timestamp": "2026-06-13T10:03:00+03:00",
-      "perspectives": [
-        {
-          "source": "EuroMaidan Press",
-          "url": "https://euromaidanpress.com/2026/06/13/more-than-200-18-year-old-russian-soldiers-killed/",
-          "angle": "More Than 200 18-Year-Old Russian Soldiers Killed in Ukraine War, New Data Shows",
-          "summary": "A new investigation identifies over 226,000 Russian war dead in Ukraine, including at least 200 18-year-old soldiers, highlighting the devastating human cost of the conflict on Russia's youngest conscripts."
-        }
-      ],
-      "sources": [
-        "Kyiv Independent",
-        "EuroMaidan Press"
-      ],
-      "urls": [
-        "https://kyivindependent.com/over-225-000-russian-soldiers-killed-in-ukraine-identified-by-media-investigation/",
-        "https://euromaidanpress.com/2026/06/13/more-than-200-18-year-old-russian-soldiers-killed/"
-      ]
-    },
-    {
-      "headline": "Elon Musk becomes worlds first trillionaire after SpaceX IPO",
-      "summary": "BBC reports Elon Musk became the first trillionaire as SpaceX shares surged in their Nasdaq debut, valuing the company at over $2 trillion and making it the sixth-largest U.S. company.",
-      "emoji": "🚀💰",
-      "category": "Economy",
-      "source": "BBC",
-      "url": "https://www.bbc.co.uk/sounds/play/w1730c5l1sxtbhq",
-      "timestamp": "2026-06-13T10:03:00+03:00"
     }
   ]
 }
