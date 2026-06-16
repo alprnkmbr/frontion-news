@@ -1,6 +1,51 @@
 {
-  "lastUpdated": "2026-06-17T00:07:39+03:00",
+  "lastUpdated": "2026-06-17T01:05:41+03:00",
   "headlines": [
+    {
+      "headline": "US, Iran, Hezbollah spar over ceasefire terms as deal signing set for Friday in Switzerland",
+      "summary": "Iran insists Israel withdraw from southern Lebanon as part of the ceasefire deal, while the US Senate narrowly blocked a war powers resolution to end the Iran war. The official signing ceremony for the US-Iran deal is scheduled for Friday in Switzerland.",
+      "emoji": "🇺🇸🇮🇱",
+      "category": "US-Iran War",
+      "source": "DW",
+      "url": "https://www.dw.com/en/us-iran-hezbollah-spar-over-murky-terms-of-ceasefire-deal/live-77573728",
+      "timestamp": "2026-06-17T01:00:00+03:00"
+    },
+    {
+      "headline": "Trump denies US will invest money in Iran, says $300B fund report is \"ridiculous\"",
+      "summary": "At the G7 summit, President Trump told reporters the US is \"not investing any money in Iran\" and dismissed reports of a $300 billion investment fund. VP Vance said any fund would come from the Gulf Coalition, not US taxpayers.",
+      "emoji": "🇺🇸🇮🇷💰",
+      "category": "US-Iran War",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/16/trump-g7-summit-iran-zelenskyy-macron.html",
+      "timestamp": "2026-06-17T01:00:00+03:00"
+    },
+    {
+      "headline": "Trump says he will send Iran deal to Congress for approval",
+      "summary": "President Trump told reporters at the G7 summit he would send the Iran peace agreement to Congress for approval, saying \"I like the idea.\" Sen. Lindsey Graham expressed concern that Iran's view of the deal seems different from what the US negotiating team claims.",
+      "emoji": "🇺🇸🏛️",
+      "category": "US-Iran War",
+      "source": "UPI",
+      "url": "https://www.upi.com/Top_News/US/2026/06/16/trump-iran-deal-congress/5581781629118/",
+      "timestamp": "2026-06-17T01:00:00+03:00"
+    },
+    {
+      "headline": "G7 allies push Ukraine back onto agenda as Zelenskyy joins leaders for talks",
+      "summary": "Ukraine's allies at the G7 summit scrambled to refocus attention on the war with Russia, which had been overshadowed by the Iran conflict. Zelenskyy joined leaders for a 75-minute working session. The UK announced new sanctions on Russia's shadow fleet and seized a Russian vessel in the English Channel.",
+      "emoji": "🇺🇦🇬🇧🇫🇷",
+      "category": "Ukraine-Russia War",
+      "source": "NPR",
+      "url": "https://www.npr.org/2026/06/16/g-s1-128325/g7-leaders-summit",
+      "timestamp": "2026-06-17T01:00:00+03:00"
+    },
+    {
+      "headline": "UK announces new sanctions on Russian shadow fleet, seizes vessel in English Channel",
+      "summary": "The UK unveiled a new package of sanctions targeting Russia's shadow oil fleet and finance networks. British troops seized a Russian shadow fleet vessel in the English Channel for the first time. The move comes as G7 leaders push to squeeze Russian oil revenues.",
+      "emoji": "🇬🇧🇷🇺⚔️",
+      "category": "Ukraine-Russia War",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/16/ukraine-war-briefing-kyivs-allies-push-for-peace-at-g7-summit-in-france",
+      "timestamp": "2026-06-17T01:00:00+03:00"
+    },
     {
       "headline": "US diplomats face fallout over Islamic State prisoner transfers from Syria",
       "summary": "American diplomats are aware of fresh allegations regarding Islamic State terrorism detainees transferred from Syria, raising concerns about security and accountability as the US reshapes its Middle East posture.",
@@ -17,15 +62,6 @@
       "category": "Asia-Pacific",
       "source": "SCMP",
       "url": "https://www.scmp.com/economy/china-economy/article/3357302/high-speed-and-visa-free-how-china-cruising-become-worlds-top-tourism-market",
-      "timestamp": "2026-06-17T00:05:00+03:00"
-    },
-    {
-      "headline": "Trump lashes out at Netanyahu, says Israel hindering Iran peace efforts",
-      "summary": "Donald Trump unleashed a new tirade against Benjamin Netanyahu, claiming Israel is obstructing peace efforts with Iran and repeating that there would be no Israel without him, testing their political alliance.",
-      "emoji": "🇮🇱",
-      "category": "Middle East",
-      "source": "Irish Times",
-      "url": "https://www.irishtimes.com/world/middle-east/2026/06/16/netanyahu-and-israel-hindering-peace-efforts-with-iran-says-trump/",
       "timestamp": "2026-06-17T00:05:00+03:00"
     },
     {
@@ -53,7 +89,31 @@
       "category": "US-Iran War",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/us-iran-deal-promises-end-war-how-it-will-work-remains-unclear-2026-06-16/",
-      "timestamp": "2026-06-17T00:03:00+03:00"
+      "timestamp": "2026-06-17T00:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Reuters",
+          "url": "https://www.reuters.com/business/energy/us-iran-deal-allows-tehran-immediately-sell-oil-wsj-reports-2026-06-16/",
+          "angle": "US-Iran deal allows Tehran to immediately resume oil exports, official says",
+          "summary": "A US official confirmed that under the memorandum of understanding reached with Iran, Tehran can immediately begin selling oil and fuel, marking a significant easing of sanctions that had constrained Iranian crude exports."
+        },
+        {
+          "source": "UPI",
+          "url": "https://www.upi.com/Top_News/US/2026/06/16/trump-iran-deal-congress/5581781629118/",
+          "angle": "Trump says he will send Iran peace deal to Congress for approval",
+          "summary": "President Trump announced he would submit the U.S.-Iran war-ending agreement to Congress for approval, a key step that could determine whether the deal survives domestic political scrutiny on Capitol Hill."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Reuters",
+        "UPI"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/us-iran-deal-promises-end-war-how-it-will-work-remains-unclear-2026-06-16/",
+        "https://www.reuters.com/business/energy/us-iran-deal-allows-tehran-immediately-sell-oil-wsj-reports-2026-06-16/",
+        "https://www.upi.com/Top_News/US/2026/06/16/trump-iran-deal-congress/5581781629118/"
+      ]
     },
     {
       "headline": "Canada imposes sanctions on Russias shadow fleet and energy revenues at G7",
@@ -90,15 +150,6 @@
       "source": "The Economist",
       "url": "https://www.economist.com/finance-and-economics/2026/06/16/deal-or-no-deal-oil-prices-will-stay-high-for-months",
       "timestamp": "2026-06-17T00:03:00+03:00"
-    },
-    {
-      "headline": "US-Iran deal allows Tehran to immediately resume oil exports, official says",
-      "summary": "A US official confirmed that under the memorandum of understanding reached with Iran, Tehran can immediately begin selling oil and fuel, marking a significant easing of sanctions that had constrained Iranian crude exports.",
-      "emoji": "🇮🇷🛢️",
-      "category": "US-Iran War",
-      "source": "Reuters",
-      "url": "https://www.reuters.com/business/energy/us-iran-deal-allows-tehran-immediately-sell-oil-wsj-reports-2026-06-16/",
-      "timestamp": "2026-06-16T23:03:00+03:00"
     },
     {
       "headline": "Bank of Japan raises rates to 31-year high, signals further hikes ahead",
@@ -311,30 +362,12 @@
       ]
     },
     {
-      "headline": "Trump says he will send Iran peace deal to Congress for approval",
-      "summary": "President Trump announced he would submit the U.S.-Iran war-ending agreement to Congress for approval, a key step that could determine whether the deal survives domestic political scrutiny on Capitol Hill.",
-      "emoji": "🇺🇸🏛️",
-      "category": "US-Iran War",
-      "source": "UPI",
-      "url": "https://www.upi.com/Top_News/US/2026/06/16/trump-iran-deal-congress/5581781629118/",
-      "timestamp": "2026-06-16T21:03:00+03:00"
-    },
-    {
       "headline": "Iran soccer team forced to train in Tijuana after being blocked from U.S. entry",
       "summary": "Iran World Cup squad was denied entry to train in the United States amid wartime tensions, finding an unlikely welcome in the Mexican border city of Tijuana — a story where sport and geopolitics collide.",
       "emoji": "🇮🇷⚽",
       "category": "US-Iran War",
       "source": "NPR",
       "url": "https://www.npr.org/2026/06/15/nx-s1-5856423/irans-soccer-team-was-welcomed-in-tijuana-after-being-blocked-from-training-in-u-s",
-      "timestamp": "2026-06-16T21:03:00+03:00"
-    },
-    {
-      "headline": "Trump criticizes Netanyahu over Lebanon attacks at G7, warns Israel to be more responsible",
-      "summary": "At the G7 summit, Trump publicly criticized Israeli PM Netanyahu for escalating attacks on Lebanon and Hezbollah, saying Israel must act more responsibly — a rare rift between the two leaders on full display before other world leaders.",
-      "emoji": "🇮🇱🇱🇧",
-      "category": "Middle East",
-      "source": "NBC News",
-      "url": "https://www.nbcnews.com/politics/donald-trump/live-blog/live-updates-trump-g7-summit-us-iran-deal-hormuz-ukraine-russia-rcna350193",
       "timestamp": "2026-06-16T21:03:00+03:00"
     },
     {
@@ -905,19 +938,27 @@
       "timestamp": "2026-06-16T11:03:00+03:00",
       "perspectives": [
         {
-          "source": "SCMP",
-          "url": "https://www.scmp.com/video/world/3357324/trump-sets-date-hormuz-strait-reopening-while-israel-says-it-not-bound-peace-deal?pgtype=live",
-          "angle": "Trump sets Hormuz reopening date as Israel says not bound by Iran peace deal",
-          "summary": "Trump announced a timeline for the Strait of Hormuz reopening, while Israel explicitly stated it is not bound by the US-Iran agreement, creating tensions that could undermine the ceasefire."
+          "source": "Irish Times",
+          "url": "https://www.irishtimes.com/world/middle-east/2026/06/16/netanyahu-and-israel-hindering-peace-efforts-with-iran-says-trump/",
+          "angle": "Trump lashes out at Netanyahu, says Israel hindering Iran peace efforts",
+          "summary": "Donald Trump unleashed a new tirade against Benjamin Netanyahu, claiming Israel is obstructing peace efforts with Iran and repeating that there would be no Israel without him, testing their political alliance."
+        },
+        {
+          "source": "NBC News",
+          "url": "https://www.nbcnews.com/politics/donald-trump/live-blog/live-updates-trump-g7-summit-us-iran-deal-hormuz-ukraine-russia-rcna350193",
+          "angle": "Trump criticizes Netanyahu over Lebanon attacks at G7, warns Israel to be more responsible",
+          "summary": "At the G7 summit, Trump publicly criticized Israeli PM Netanyahu for escalating attacks on Lebanon and Hezbollah, saying Israel must act more responsibly — a rare rift between the two leaders on full display before other world leaders."
         }
       ],
       "sources": [
         "Reuters",
-        "SCMP"
+        "Irish Times",
+        "NBC News"
       ],
       "urls": [
         "https://www.reuters.com/world/middle-east/netanyahu-trump-collision-course-us-iran-agree-halt-war-2026-06-15/",
-        "https://www.scmp.com/video/world/3357324/trump-sets-date-hormuz-strait-reopening-while-israel-says-it-not-bound-peace-deal?pgtype=live"
+        "https://www.irishtimes.com/world/middle-east/2026/06/16/netanyahu-and-israel-hindering-peace-efforts-with-iran-says-trump/",
+        "https://www.nbcnews.com/politics/donald-trump/live-blog/live-updates-trump-g7-summit-us-iran-deal-hormuz-ukraine-russia-rcna350193"
       ]
     },
     {
