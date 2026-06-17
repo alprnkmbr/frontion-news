@@ -259,6 +259,9 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
 
         <!-- ============ ANALYSIS SECTION ============ -->
         <div id="tab-analysis" class="tab-content active">
+            <div class="headlines-meta" id="headlinesMeta" style="display:none">
+                <span id="headlinesDate"></span><span class="meta-divider">·</span><span id="localTime"></span><span class="meta-divider">·</span><span id="localWeather"></span>
+            </div>
 
             <!-- REGION DROPDOWN -->
             <div class="subtab-dropdown" id="regionDropdown">
@@ -367,7 +370,7 @@ function switchSubTab(sub) {
 function updateLocalTime() {
   var now = new Date();
   var opts = { hour: '2-digit', minute: '2-digit', hour12: true };
-  document.getElementById('localTime').textContent = now.toLocaleTimeString(undefined, opts);
+  var el = document.getElementById('localTime'); if (el) el.textContent = now.toLocaleTimeString(undefined, opts);
 }
 
 var weatherIcons = {0:'☀️',1:'🌤️',2:'⛅',3:'☁️',45:'🌫️',48:'🌫️',51:'🌦️',53:'🌦️',55:'🌧️',61:'🌧️',63:'🌧️',65:'🌧️',71:'🌨️',73:'🌨️',75:'❄️',80:'🌦️',81:'🌧️',82:'🌧️',85:'🌨️',86:'❄️',95:'⛈️',96:'⛈️',99:'⛈️'};
@@ -376,7 +379,7 @@ function renderWeather(data) {
   var w = data.current_weather;
   var temp = Math.round(w.temperature);
   var icon = weatherIcons[w.weathercode] || '🌡️';
-  document.getElementById('localWeather').textContent = icon + ' ' + temp + '°C';
+  var wEl = document.getElementById('localWeather'); if (wEl) wEl.textContent = icon + ' ' + temp + '°C';
 }
 
 function fetchWeatherByCoords(lat, lon) {
@@ -387,7 +390,7 @@ function fetchWeatherByCoords(lat, lon) {
       // Cache coords for next load
       try { localStorage.setItem('fn_coords', JSON.stringify({lat:lat, lon:lon})); } catch(e) {}
     })
-    .catch(function() { document.getElementById('localWeather').textContent = ''; });
+    .catch(function() { var e = document.getElementById('localWeather'); if (e) e.textContent = ''; });
 }
 
 function fetchWeather() {
@@ -424,7 +427,7 @@ function fetchWeatherByIP() {
         fetchWeatherByCoords(data.latitude, data.longitude);
       }
     })
-    .catch(function() { document.getElementById('localWeather').textContent = ''; });
+    .catch(function() { var e = document.getElementById('localWeather'); if (e) e.textContent = ''; });
 }
 
 updateLocalTime();
