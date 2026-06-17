@@ -14,7 +14,8 @@
     <link rel="alternate" type="application/rss+xml" title="Frontion News" href="feed.xml">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Inter:wght@300;400;500;600;700&family=Noto+Serif:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@500;600;700&family=Noto+Serif:wght@400;700&display=swap">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@500;600;700&family=Noto+Serif:wght@400;700&display=swap" rel="stylesheet">
     <script>
 (function(){
   var dark=false;
@@ -71,11 +72,11 @@ html.dark-mode {
     --color-card-hover: #1a1a1a;
 }
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
-html { font-size: 17px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; scroll-padding-top: 1rem; }
+html { font-size: 17px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; scroll-padding-top: 1rem; } body { -webkit-font-smoothing: antialiased; }
 body { font-family: var(--font-body); color: var(--color-text); background: var(--color-bg); line-height: 1.7; max-width: 100vw; overflow-x: hidden; padding-top: env(safe-area-inset-top); padding-bottom: env(safe-area-inset-bottom); -webkit-overflow-scrolling: touch; overscroll-behavior-y: none; }
 .status-bar-bg { position: fixed; top: 0; left: 0; right: 0; height: env(safe-area-inset-top); background: var(--color-bg); z-index: 999; will-change: auto; }
 html.dark-mode .status-bar-bg { background: #0d0d0d; }
-.site-header { padding-top: max(0px, env(safe-area-inset-top)); }
+.site-header { padding-top: max(0px, env(safe-area-inset-top)); transform: translateZ(0); }
 
 /* HEADER */
 .site-header { padding: 0; text-align: center; border-bottom: 3px solid var(--color-section-rule); }
@@ -112,13 +113,13 @@ html.dark-mode .subtab-dropdown-menu { box-shadow: 0 4px 12px rgba(0,0,0,0.4); }
 .subtab-dropdown-option { font-family: var(--font-body); font-size: 0.72rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; padding: 0.5rem 0.75rem; color: var(--color-text-secondary); cursor: pointer; white-space: nowrap; text-align: center; -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
 .subtab-dropdown-option:hover { background: var(--color-border-light); color: var(--color-text); }
 .subtab-dropdown-option.active { color: var(--color-accent); font-weight: 700; }
-.subtab-content { display: none; }
+.subtab-content { display: none; contain: content; }
 .subtab-content.active { display: block; }
 .tab-divider { max-width: var(--max-width); margin: 0 auto; padding: 0 1.5rem; }
 .tab-divider hr { border: none; border-top: 1px solid var(--color-border-light); margin: 0; }
 
 /* MAIN */
-.site-main { max-width: var(--max-width); margin: 0 auto; padding: 2rem 1.5rem 4rem; contain: layout style; }
+.site-main { max-width: var(--max-width); margin: 0 auto; padding: 2rem 1.5rem 4rem; contain: layout style; transform: translateZ(0); }
 .tab-content { display: none; }
 .tab-content.active { display: block; }
 
@@ -884,8 +885,10 @@ if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('sw.js').catch(() => {});
 }
 
-// Init — only load active tab on start
-loadAnalysisIndex();
+// Init — only load active tab on start, use rAF for smooth rendering
+requestAnimationFrame(function() {
+    loadAnalysisIndex();
+});
 // Turkey/Energy/Tech load on demand via switchSubTab
 
 </script>
