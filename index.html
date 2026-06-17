@@ -71,9 +71,9 @@ html.dark-mode {
     --color-card-hover: #1a1a1a;
 }
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
-html { font-size: 17px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; scroll-behavior: smooth; }
-body { font-family: var(--font-body); color: var(--color-text); background: var(--color-bg); line-height: 1.7; max-width: 100vw; overflow-x: hidden; padding-top: env(safe-area-inset-top); padding-bottom: env(safe-area-inset-bottom); }
-.status-bar-bg { position: fixed; top: 0; left: 0; right: 0; height: env(safe-area-inset-top); background: var(--color-bg); z-index: 999; }
+html { font-size: 17px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body { font-family: var(--font-body); color: var(--color-text); background: var(--color-bg); line-height: 1.7; max-width: 100vw; overflow-x: hidden; padding-top: env(safe-area-inset-top); padding-bottom: env(safe-area-inset-bottom); -webkit-overflow-scrolling: touch; }
+.status-bar-bg { position: fixed; top: 0; left: 0; right: 0; height: env(safe-area-inset-top); background: var(--color-bg); z-index: 999; will-change: auto; }
 html.dark-mode .status-bar-bg { background: #0d0d0d; }
 .site-header { padding-top: max(0px, env(safe-area-inset-top)); }
 
@@ -118,7 +118,7 @@ html.dark-mode .subtab-dropdown-menu { box-shadow: 0 4px 12px rgba(0,0,0,0.4); }
 .tab-divider hr { border: none; border-top: 1px solid var(--color-border-light); margin: 0; }
 
 /* MAIN */
-.site-main { max-width: var(--max-width); margin: 0 auto; padding: 2rem 1.5rem 4rem; }
+.site-main { max-width: var(--max-width); margin: 0 auto; padding: 2rem 1.5rem 4rem; contain: layout style; }
 .tab-content { display: none; }
 .tab-content.active { display: block; }
 
@@ -166,7 +166,7 @@ html.dark-mode .subtab-dropdown-menu { box-shadow: 0 4px 12px rgba(0,0,0,0.4); }
 
 /* ============ ANALYSIS TAB ============ */
 /* DATE TIMELINE */
-.date-timeline { display: flex; align-items: center; gap: 0.25rem; overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; margin-bottom: 0.5rem; }
+.date-timeline { display: flex; align-items: center; gap: 0.25rem; overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; margin-bottom: 0.5rem; will-change: scroll-position; contain: layout style; }
 .date-timeline::-webkit-scrollbar { display: none; }
 .timeline-arrow { font-family: var(--font-body); font-size: 1rem; color: var(--color-text-tertiary); background: none; border: 1px solid var(--color-border); border-radius: 4px; padding: 0.25rem 0.5rem; cursor: pointer; flex-shrink: 0; transition: all 0.15s; line-height: 1; }
 .timeline-arrow:hover { border-color: var(--color-text); color: var(--color-text); }
@@ -211,7 +211,7 @@ html.dark-mode .subtab-dropdown-menu { box-shadow: 0 4px 12px rgba(0,0,0,0.4); }
 .site-footer a:hover { color: var(--color-accent); border-bottom-color: var(--color-accent); }
 
 /* DARK TOGGLE */
-.dark-toggle { position: fixed; top: calc(env(safe-area-inset-top, 0px) + 1rem); right: 1rem; width: 2.2rem; height: 2.2rem; background: var(--color-bg); border: 1px solid var(--color-border); border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; z-index: 1000; font-size: 1.1rem; transition: all 0.2s; box-shadow: 0 1px 3px rgba(0,0,0,0.1); -webkit-tap-highlight-color: transparent; }
+.dark-toggle { position: fixed; top: calc(env(safe-area-inset-top, 0px) + 1rem); right: 1rem; width: 2.2rem; height: 2.2rem; background: var(--color-bg); border: 1px solid var(--color-border); border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; z-index: 1000; font-size: 1.1rem; box-shadow: 0 1px 3px rgba(0,0,0,0.1); -webkit-tap-highlight-color: transparent; will-change: transform; contain: layout style; }
 .dark-toggle:active { transform: scale(0.9); }
 .dark-toggle:hover { border-color: var(--color-text-secondary); }
 html.dark-mode .dark-toggle { background: var(--color-bg); }
@@ -527,7 +527,7 @@ function loadBrief(dateSlug) {
         }
         
         container.innerHTML = html;
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+        window.scrollTo({ top: 0, behavior: 'instant' });
       })
       .catch(err => {
         container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load analysis for this date.</p>';
@@ -634,7 +634,7 @@ function loadTurkeyBrief(dateSlug) {
         }
         
         container.innerHTML = html;
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+        window.scrollTo({ top: 0, behavior: 'instant' });
       })
       .catch(err => {
         container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load Türkiye Brief for this date.</p>';
@@ -741,7 +741,7 @@ function loadEnergyBrief(dateSlug) {
         }
         
         container.innerHTML = html;
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+        window.scrollTo({ top: 0, behavior: 'instant' });
       })
       .catch(err => {
         container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load Energy Brief for this date.</p>';
@@ -830,7 +830,7 @@ function loadTechBrief(dateSlug) {
         }
         
         container.innerHTML = html;
-        window.scrollTo({ top: 0, behavior: 'smooth' });
+        window.scrollTo({ top: 0, behavior: 'instant' });
       })
       .catch(err => {
         container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load Tech Brief for this date.</p>';
@@ -884,9 +884,9 @@ if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('sw.js').catch(() => {});
 }
 
-// Init
+// Init — only load active tab on start
 loadAnalysisIndex();
-loadTurkeyIndex();
+// Turkey/Energy/Tech load on demand via switchSubTab
 
 </script>
 
