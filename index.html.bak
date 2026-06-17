@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <title>Frontion News</title>
-    <meta name="description" content="Strategic analysis of the events reshaping the world.">
+    <meta name="description" content="Latest headlines and strategic analysis of the events reshaping the world.">
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#ffffff">
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -253,12 +253,28 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
         </div>
     </header>
 
-
+    <!-- TAB BAR -->
+    <div class="tab-bar">
+        <button class="tab-btn active" onclick="switchTab('headlines')">Headlines</button>
+        <button class="tab-btn" onclick="switchTab('analysis')">Big Picture</button>
+    </div>
+    <div class="tab-divider"><hr></div>
 
     <main class="site-main">
 
-        <!-- ============ ANALYSIS SECTION ============ -->
-        <div id="tab-analysis" class="tab-content active">
+        <!-- ============ HEADLINES TAB ============ -->
+        <div id="tab-headlines" class="tab-content active">
+            <div class="search-bar">
+                <input type="text" class="search-input" id="searchInput" placeholder="Search headlines..." oninput="filterHeadlines()">
+            </div>
+            <div class="headlines-meta" id="headlinesMeta">
+                <span id="headlinesDate"></span><span class="meta-divider">·</span><span id="localTime"></span><span class="meta-divider">·</span><span id="localWeather"></span>
+            </div>
+            <div id="headlinesFeed"></div>
+        </div>
+
+        <!-- ============ ANALYSIS TAB ============ -->
+        <div id="tab-analysis" class="tab-content">
 
             <!-- REGION DROPDOWN -->
             <div class="subtab-dropdown" id="regionDropdown">
@@ -331,7 +347,19 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
     </footer>
 
 <script>
-// ============ TAB SWITCHING (removed - single page now) ============
+// ============ TAB SWITCHING ============
+function switchTab(tab) {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+    document.getElementById('tab-' + tab).classList.add('active');
+    event.target.classList.add('active');
+    if (tab === 'headlines') loadHeadlines();
+}
+
+// ============ SUB-TAB SWITCHING (DROPDOWN) ============
+function toggleRegionDropdown() {
+    document.getElementById('regionDropdown').classList.toggle('open');
+}
 
 // Close dropdown when clicking outside
 document.addEventListener('click', function(e) {
@@ -360,8 +388,110 @@ function switchSubTab(sub) {
 
 }
 
-// ============ HEADLINES (DISABLED) ============
+// ============ HEADLINES ============
+const PAGE_SIZE = 15;
+let allHeadlines = [];
+let visibleCount = PAGE_SIZE;
+let isFiltered = false;
 
+function renderHeadlines(data) {
+    const feed = document.getElementById('headlinesFeed');
+    if (!data || data.length === 0) {
+        feed.innerHTML = '<div class="no-results">Loading headlines…</div>';
+        return;
+    }
+    const items = isFiltered ? data : data.slice(0, visibleCount);
+    const html = items.map(h => {
+        let timeStr = h.time || '';
+        if (!timeStr && h.timestamp) {
+            try {
+                const d = new Date(h.timestamp);
+                timeStr = 'Updated ' + d.toLocaleTimeString('en-US', {hour: 'numeric', minute: '2-digit'});
+            } catch(e) { timeStr = ''; }
+        }
+        // Build source line: primary source + "Also covered by" for perspectives
+        let sourceHtml = '';
+        const hasPerspectives = h.perspectives && h.perspectives.length > 0;
+        if (h.source) {
+            sourceHtml = 'Source: <a href="' + (h.url || '#') + '" target="_blank" rel="noopener">' + h.source + '</a>';
+        }
+        let perspectivesHtml = '';
+        if (hasPerspectives) {
+            perspectivesHtml = '<div class="story-perspectives">';
+            perspectivesHtml += '<span class="perspectives-label">Also covered by:</span> ';
+            h.perspectives.forEach((p, i) => {
+                if (i > 0) perspectivesHtml += ' · ';
+                perspectivesHtml += '<a href="' + (p.url || '#') + '" target="_blank" rel="noopener">' + p.source + '</a>';
+            });
+            perspectivesHtml += '</div>';
+            // Add expandable perspectives section
+            perspectivesHtml += '<details class="story-perspectives-detail"><summary class="perspectives-toggle">See different angles</summary>';
+            h.perspectives.forEach(p => {
+                perspectivesHtml += '<div class="perspective-item">';
+                perspectivesHtml += '<div class="perspective-source">' + p.source + '</div>';
+                perspectivesHtml += '<div class="perspective-angle">' + p.angle + '</div>';
+                if (p.summary) perspectivesHtml += '<div class="perspective-summary">' + p.summary + '</div>';
+                perspectivesHtml += '</div>';
+            });
+            perspectivesHtml += '</details>';
+        }
+        return `
+        <div class="story-card${hasPerspectives ? ' story-card--clustered' : ''}">
+            ${timeStr ? '<div class="story-time">' + timeStr + '</div>' : ''}
+            <div class="story-flag">
+                <span class="story-emoji">${h.emoji || ''}</span>
+                <span class="story-category">${h.category || ''}</span>
+            </div>
+            <div class="story-headline">${h.headline || ''}</div>
+            <div class="story-summary">${h.summary || ''}</div>
+            <div class="story-source">${sourceHtml}</div>
+            ${perspectivesHtml}
+        </div>`;
+    }).join('');
+
+    const loadMoreHtml = (!isFiltered && visibleCount < data.length) ? `
+        <div class="load-more-wrap">
+            <button class="load-more-btn" onclick="loadMore()">Load More</button>
+            <div class="stories-count">Showing ${visibleCount} of ${data.length} headlines</div>
+        </div>
+    ` : '';
+
+    feed.innerHTML = html + loadMoreHtml;
+}
+
+function loadMore() {
+    visibleCount += PAGE_SIZE;
+    renderHeadlines(allHeadlines);
+}
+
+function loadHeadlines() {
+    // Production: fetch headlines.json (cache-bust to avoid stale SW data)
+    fetch('headlines.json?v=' + Date.now())
+      .then(r => r.json())
+      .then(data => {
+        allHeadlines = data.headlines || [];
+        visibleCount = PAGE_SIZE;
+        isFiltered = false;
+        renderHeadlines(allHeadlines);
+        // Update date display with visitor's local time
+        if (data.lastUpdated) {
+          try {
+            const d = new Date(data.lastUpdated);
+            if (isNaN(d.getTime())) throw 'bad date';
+            document.getElementById('headlinesDate').textContent = d.toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'});
+          } catch(e) {
+            document.getElementById('headlinesDate').textContent = new Date().toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'});
+          }
+        } else {
+          document.getElementById('headlinesDate').textContent = new Date().toLocaleDateString('en-US', {month: 'long', day: 'numeric', year: 'numeric'});
+        }
+      })
+      .catch(err => {
+        console.error('Failed to load headlines:', err);
+        document.getElementById('headlinesDate').textContent = '';
+        document.getElementById('headlinesFeed').innerHTML = '<div class="no-results">Unable to load headlines. Please try again later.</div>';
+      });
+}
 
 // ============ LOCAL TIME & WEATHER ============
 function updateLocalTime() {
@@ -431,6 +561,23 @@ updateLocalTime();
 setInterval(updateLocalTime, 30000);
 fetchWeather();
 
+function filterHeadlines() {
+    const query = document.getElementById('searchInput').value.toLowerCase().trim();
+    if (!query) {
+        isFiltered = false;
+        visibleCount = PAGE_SIZE;
+        renderHeadlines(allHeadlines);
+        return;
+    }
+    isFiltered = true;
+    const filtered = allHeadlines.filter(h =>
+        h.headline.toLowerCase().includes(query) ||
+        h.summary.toLowerCase().includes(query) ||
+        h.category.toLowerCase().includes(query) ||
+        h.source.toLowerCase().includes(query)
+    );
+    renderHeadlines(filtered);
+}
 
 // ============ ANALYSIS DATE TIMELINE ============
 let analysisBriefs = [];
@@ -872,7 +1019,7 @@ if ('serviceWorker' in navigator) {
 // Init
 loadAnalysisIndex();
 loadTurkeyIndex();
-
+loadHeadlines();
 </script>
 
 </body>
