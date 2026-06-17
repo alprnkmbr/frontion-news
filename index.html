@@ -71,8 +71,8 @@ html.dark-mode {
     --color-card-hover: #1a1a1a;
 }
 *, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
-html { font-size: 17px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
-body { font-family: var(--font-body); color: var(--color-text); background: var(--color-bg); line-height: 1.7; max-width: 100vw; overflow-x: hidden; padding-top: env(safe-area-inset-top); padding-bottom: env(safe-area-inset-bottom); -webkit-overflow-scrolling: touch; }
+html { font-size: 17px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; scroll-padding-top: 1rem; }
+body { font-family: var(--font-body); color: var(--color-text); background: var(--color-bg); line-height: 1.7; max-width: 100vw; overflow-x: hidden; padding-top: env(safe-area-inset-top); padding-bottom: env(safe-area-inset-bottom); -webkit-overflow-scrolling: touch; overscroll-behavior-y: none; }
 .status-bar-bg { position: fixed; top: 0; left: 0; right: 0; height: env(safe-area-inset-top); background: var(--color-bg); z-index: 999; will-change: auto; }
 html.dark-mode .status-bar-bg { background: #0d0d0d; }
 .site-header { padding-top: max(0px, env(safe-area-inset-top)); }
@@ -101,7 +101,7 @@ html.dark-mode .status-bar-bg { background: #0d0d0d; }
 
 /* SUB-TAB DROPDOWN */
 .subtab-dropdown { position: relative; margin-bottom: 1rem; display: flex; justify-content: center; }
-.subtab-dropdown-toggle { font-family: var(--font-body); font-size: 0.72rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; padding: 0.45rem 2rem 0.45rem 0.75rem; border: 1px solid var(--color-border); background: transparent; color: var(--color-text-secondary); cursor: pointer; transition: all 0.2s; border-radius: 2px; position: relative; }
+.subtab-dropdown-toggle { font-family: var(--font-body); font-size: 0.72rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; padding: 0.45rem 2rem 0.45rem 0.75rem; border: 1px solid var(--color-border); background: transparent; color: var(--color-text-secondary); cursor: pointer; border-radius: 2px; position: relative; -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
 .subtab-dropdown-toggle::after { content: '▾'; position: absolute; right: 0.65rem; top: 50%; transform: translateY(-50%); font-size: 0.65rem; opacity: 0.6; transition: opacity 0.2s; }
 .subtab-dropdown.open .subtab-dropdown-toggle { border-color: var(--color-text); color: var(--color-text); }
 .subtab-dropdown.open .subtab-dropdown-toggle::after { opacity: 1; }
@@ -109,7 +109,7 @@ html.dark-mode .status-bar-bg { background: #0d0d0d; }
 .subtab-dropdown-menu { position: absolute; top: calc(100% + 4px); left: 50%; transform: translateX(-50%); min-width: 120px; background: var(--color-bg); border: 1px solid var(--color-border); border-radius: 2px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); z-index: 100; display: none; overflow: hidden; }
 html.dark-mode .subtab-dropdown-menu { box-shadow: 0 4px 12px rgba(0,0,0,0.4); }
 .subtab-dropdown.open .subtab-dropdown-menu { display: block; }
-.subtab-dropdown-option { font-family: var(--font-body); font-size: 0.72rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; padding: 0.5rem 0.75rem; color: var(--color-text-secondary); cursor: pointer; transition: all 0.15s; white-space: nowrap; text-align: center; }
+.subtab-dropdown-option { font-family: var(--font-body); font-size: 0.72rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; padding: 0.5rem 0.75rem; color: var(--color-text-secondary); cursor: pointer; white-space: nowrap; text-align: center; -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
 .subtab-dropdown-option:hover { background: var(--color-border-light); color: var(--color-text); }
 .subtab-dropdown-option.active { color: var(--color-accent); font-weight: 700; }
 .subtab-content { display: none; }
@@ -149,7 +149,7 @@ html.dark-mode .subtab-dropdown-menu { box-shadow: 0 4px 12px rgba(0,0,0,0.4); }
 .perspectives-label { font-weight: 600; letter-spacing: 0.03em; }
 .story-card--clustered { padding-bottom: 0.5rem; }
 .story-perspectives-detail { margin-top: 0.4rem; }
-.story-perspectives-detail summary { font-family: var(--font-body); font-size: 0.72rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; color: var(--color-text-tertiary); cursor: pointer; padding: 0.2rem 0; transition: color 0.2s; }
+.story-perspectives-detail summary { font-family: var(--font-body); font-size: 0.72rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; color: var(--color-text-tertiary); cursor: pointer; padding: 0.2rem 0; -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
 .story-perspectives-detail summary:hover { color: var(--color-accent); }
 .perspective-item { padding: 0.5rem 0 0.3rem 0; border-top: 1px solid var(--color-border-light); }
 .perspective-source { font-family: var(--font-body); font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-text-secondary); }
@@ -159,7 +159,7 @@ html.dark-mode .subtab-dropdown-menu { box-shadow: 0 4px 12px rgba(0,0,0,0.4); }
 
 /* LOAD MORE */
 .load-more-wrap { text-align: center; padding: 1.5rem 0; border-top: 1px solid var(--color-border-light); margin-top: 0.5rem; }
-.load-more-btn { font-family: var(--font-body); font-size: 0.8rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; padding: 0.65rem 2rem; border: 2px solid var(--color-section-rule); background: transparent; color: var(--color-text); cursor: pointer; transition: all 0.2s; border-radius: 2px; }
+.load-more-btn { font-family: var(--font-body); font-size: 0.8rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; padding: 0.65rem 2rem; border: 2px solid var(--color-section-rule); background: transparent; color: var(--color-text); cursor: pointer; border-radius: 2px; -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
 .load-more-btn:hover { background: var(--color-tab-active-bg); color: var(--color-tab-active-text); }
 .stories-count { font-size: 0.72rem; color: var(--color-text-tertiary); margin-top: 0.5rem; }
 .meta-divider { margin: 0 0.4em; color: var(--color-text-tertiary); }
@@ -168,11 +168,11 @@ html.dark-mode .subtab-dropdown-menu { box-shadow: 0 4px 12px rgba(0,0,0,0.4); }
 /* DATE TIMELINE */
 .date-timeline { display: flex; align-items: center; gap: 0.25rem; overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; margin-bottom: 0.5rem; will-change: scroll-position; contain: layout style; }
 .date-timeline::-webkit-scrollbar { display: none; }
-.timeline-arrow { font-family: var(--font-body); font-size: 1rem; color: var(--color-text-tertiary); background: none; border: 1px solid var(--color-border); border-radius: 4px; padding: 0.25rem 0.5rem; cursor: pointer; flex-shrink: 0; transition: all 0.15s; line-height: 1; }
+.timeline-arrow { font-family: var(--font-body); font-size: 1rem; color: var(--color-text-tertiary); background: none; border: 1px solid var(--color-border); border-radius: 4px; padding: 0.25rem 0.5rem; cursor: pointer; flex-shrink: 0; line-height: 1; -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
 .timeline-arrow:hover { border-color: var(--color-text); color: var(--color-text); }
 .timeline-arrow:disabled { opacity: 0.3; cursor: default; }
 .timeline-dates { display: flex; gap: 0.15rem; margin: 0 0.35rem; flex: 1; justify-content: center; }
-.timeline-date { font-family: var(--font-body); font-size: 0.7rem; font-weight: 500; letter-spacing: 0.04em; color: var(--color-text-tertiary); text-decoration: none; padding: 0.4rem 0.6rem; border-bottom: 2px solid transparent; transition: all 0.15s; white-space: nowrap; }
+.timeline-date { font-family: var(--font-body); font-size: 0.7rem; font-weight: 500; letter-spacing: 0.04em; color: var(--color-text-tertiary); text-decoration: none; padding: 0.4rem 0.6rem; border-bottom: 2px solid transparent; transition: border-color 0.15s, color 0.15s; white-space: nowrap; -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
 .timeline-date:hover { color: var(--color-text-secondary); }
 .timeline-date.active { color: var(--color-text); border-bottom-color: var(--color-text); font-weight: 600; }
 .timeline-divider { width: 1px; height: 14px; background: var(--color-border); flex-shrink: 0; margin: 0 0.1rem; }
