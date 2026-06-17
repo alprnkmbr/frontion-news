@@ -1,6 +1,42 @@
 {
-  "lastUpdated": "2026-06-17T05:12:12+03:00",
+  "lastUpdated": "2026-06-17T06:05:16+03:00",
   "headlines": [
+    {
+      "headline": "Israeli minister announces military takeover of Hebron administration",
+      "summary": "Israeli Finance Minister Bezalel Smotrich says Israel has transferred authority over Hebron to the army, a significant escalation in West Bank control that could further complicate regional peace efforts.",
+      "emoji": "🇮🇱",
+      "category": "Middle East",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/17/smotrich-says-israel-taking-control-of-hebron",
+      "timestamp": "2026-06-17T06:03:00+03:00"
+    },
+    {
+      "headline": "Brazilian court convicts Eduardo Bolsonaro for seeking US interference in domestic affairs",
+      "summary": "A Brazilian court found Eduardo Bolsonaro guilty of attempting to enlist US government interference in Brazil, a case tied to broader tensions between Brasilia and Washington over tariffs and judicial sanctions.",
+      "emoji": "🇧🇷",
+      "category": "Latin America",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/16/brazilian-court-convicts-eduardo-bolsonaro-of-courting-us-interference",
+      "timestamp": "2026-06-17T06:03:00+03:00"
+    },
+    {
+      "headline": "Damaged Kyiv monastery from Russian strike will take two years to restore",
+      "summary": "Ukrainian officials say the nearly 1,000-year-old monastery in Kyiv, damaged by what Ukraine described as a deliberate Russian strike, requires around two years of restoration work.",
+      "emoji": "🇺🇦",
+      "category": "Ukraine-Russia War",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/kyivs-damaged-monastery-could-take-two-years-restore-official-says-2026-06-16/",
+      "timestamp": "2026-06-17T06:03:00+03:00"
+    },
+    {
+      "headline": "Anti-capitalist protesters descend on G7 summit in France",
+      "summary": "Anti-capitalist demonstrations unfolded at the G7 summit in Evian-les-Bains as world leaders discussed global security, the Iran deal, and economic policy inside the heavily secured venue.",
+      "emoji": "🇫🇷",
+      "category": "Diplomacy",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sustainability/anti-capitalist-protests-g7-summit-2026-06-16/",
+      "timestamp": "2026-06-17T06:03:00+03:00"
+    },
     {
       "headline": "G7 leaders discuss granting trusted partners access to cutting-edge US AI models",
       "summary": "G7 leaders discussed a plan to grant select trusted partners access to advanced AI models from US firms such as Anthropic, three diplomatic sources said, potentially opening a path around restrictions on non-American use of the technology.",
@@ -17,7 +53,23 @@
       "category": "Middle East",
       "source": "Reuters",
       "url": "https://www.reuters.com/world/middle-east/israeli-drone-strikes-kill-least-4-southern-lebanon-2026-06-16/",
-      "timestamp": "2026-06-17T05:03:00+03:00"
+      "timestamp": "2026-06-17T05:03:00+03:00",
+      "perspectives": [
+        {
+          "source": "Al Arabiya",
+          "url": "https://english.alarabiya.net/News/middle-east/2026/06/15/hezbollah-says-has-repelled-an-israeli-force-in-south",
+          "angle": "Hezbollah Says It Repelled Israeli Force Advancing in Southern Lebanon",
+          "summary": "Hezbollah announced it repelled an Israeli force attempting to advance in southern Lebanon, raising fears of escalation along the Israel-Lebanon border despite the broader Iran ceasefire."
+        }
+      ],
+      "sources": [
+        "Reuters",
+        "Al Arabiya"
+      ],
+      "urls": [
+        "https://www.reuters.com/world/middle-east/israeli-drone-strikes-kill-least-4-southern-lebanon-2026-06-16/",
+        "https://english.alarabiya.net/News/middle-east/2026/06/15/hezbollah-says-has-repelled-an-israeli-force-in-south"
+      ]
     },
     {
       "headline": "Trump-backed candidate loses Georgia governor runoff in upset",
@@ -26,15 +78,6 @@
       "category": "US Politics",
       "source": "NPR",
       "url": "https://www.npr.org/2026/06/16/nx-s1-5860795/georgia-election-senate-governor-results-trump",
-      "timestamp": "2026-06-17T05:03:00+03:00"
-    },
-    {
-      "headline": "Trump signals swift return of sanctions on Russian oil as G7 refocuses on Ukraine",
-      "summary": "The US could soon reimpose sanctions on Russian oil shipments after President Trump and fellow G7 leaders moved to refocus on Ukraine, with the Iran peace deal creating conditions for tighter enforcement. Canada also announced new sanctions targeting Russias shadow fleet and energy revenues.",
-      "emoji": "🛢️",
-      "category": "Diplomacy",
-      "source": "AP",
-      "url": "https://www.baltimoresun.com/2026/06/16/g7-allies-ukraine-trump/",
       "timestamp": "2026-06-17T05:03:00+03:00"
     },
     {
@@ -513,27 +556,19 @@
       "timestamp": "2026-06-16T22:03:00+03:00",
       "perspectives": [
         {
-          "source": "Los Angeles Times",
-          "url": "https://www.latimes.com/world-nation/story/2026-06-16/trump-signs-swift-return-of-sanctions-on-russian-oil-as-g7-refocuses-on-ukraine",
+          "source": "AP",
+          "url": "https://www.baltimoresun.com/2026/06/16/g7-allies-ukraine-trump/",
           "angle": "Trump signals swift return of sanctions on Russian oil as G7 refocuses on Ukraine",
-          "summary": "President Trump and fellow G7 leaders moved to reimpose sanctions on Russian oil shipments, shifting focus back to the Ukraine war after the Iran deal dominated early summit discussions."
-        },
-        {
-          "source": "AP News",
-          "url": "https://www.bostonherald.com/2026/06/16/g7-allies-ukraine-trump/",
-          "angle": "G7 allies push Trump to reinstate sanctions on Russian oil as summit refocuses on Ukraine",
-          "summary": "U.S. allies at the G7 summit pressed President Trump to swiftly reimpose sanctions on Russian oil, shifting focus back to Ukraine amid signs the Iran war is de-escalating. The move signals continued Western resolve on isolating Moscow economically."
+          "summary": "The US could soon reimpose sanctions on Russian oil shipments after President Trump and fellow G7 leaders moved to refocus on Ukraine, with the Iran peace deal creating conditions for tighter enforcement. Canada also announced new sanctions targeting Russias shadow fleet and energy revenues."
         }
       ],
       "sources": [
         "AP News",
-        "Los Angeles Times",
-        "AP News"
+        "AP"
       ],
       "urls": [
         "https://apnews.com/article/g7-iran-ukraine-trump-macron-zelenskyy-e7fad4eabaae8181f70fa5a0b9e499b2",
-        "https://www.latimes.com/world-nation/story/2026-06-16/trump-signs-swift-return-of-sanctions-on-russian-oil-as-g7-refocuses-on-ukraine",
-        "https://www.bostonherald.com/2026/06/16/g7-allies-ukraine-trump/"
+        "https://www.baltimoresun.com/2026/06/16/g7-allies-ukraine-trump/"
       ]
     },
     {
@@ -1608,31 +1643,6 @@
       "source": "News24",
       "url": "https://www.news24.com/world/us-wont-need-much-help-on-hormuz-trump-says-at-g7-20260615-1130",
       "timestamp": "2026-06-15T23:03:00+03:00"
-    },
-    {
-      "headline": "Hezbollah Says It Repelled Israeli Force Advancing in Southern Lebanon",
-      "summary": "Hezbollah announced it repelled an Israeli force attempting to advance in southern Lebanon, raising fears of escalation along the Israel-Lebanon border despite the broader Iran ceasefire.",
-      "emoji": "🇱🇧",
-      "category": "Middle East",
-      "source": "Al Arabiya",
-      "url": "https://english.alarabiya.net/News/middle-east/2026/06/15/hezbollah-says-has-repelled-an-israeli-force-in-south",
-      "timestamp": "2026-06-15T22:07:00+03:00",
-      "perspectives": [
-        {
-          "source": "Channel News Asia",
-          "url": "https://www.channelnewsasia.com/world/hezbollah-says-it-confronted-israeli-troops-advancing-in-south-lebanon-6180266",
-          "angle": "Hezbollah confronts Israeli troops advancing in southern Lebanon amid ongoing strikes",
-          "summary": "Hezbollah fighters fired rockets at Israeli troops near Majdal Zoun, forcing them to retreat, as Israel continued air strikes and issued evacuation warnings for 20 towns in southern Lebanon including Nabatieh."
-        }
-      ],
-      "sources": [
-        "Al Arabiya",
-        "Channel News Asia"
-      ],
-      "urls": [
-        "https://english.alarabiya.net/News/middle-east/2026/06/15/hezbollah-says-has-repelled-an-israeli-force-in-south",
-        "https://www.channelnewsasia.com/world/hezbollah-says-it-confronted-israeli-troops-advancing-in-south-lebanon-6180266"
-      ]
     },
     {
       "headline": "EU Parliament to Investigate Its Most Pro-Russian Member",
