@@ -213,6 +213,20 @@ html.dark-mode .subtab-dropdown-menu { box-shadow: 0 4px 12px rgba(0,0,0,0.4); }
 
 /* DARK TOGGLE */
 .dark-toggle { position: fixed; top: calc(env(safe-area-inset-top, 0px) + 1rem); right: 1rem; width: 2.2rem; height: 2.2rem; background: var(--color-bg); border: 1px solid var(--color-border); border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; z-index: 1000; font-size: 1.1rem; box-shadow: none; -webkit-tap-highlight-color: transparent; will-change: transform; contain: layout style; }
+
+/* READING SETTINGS */
+.read-settings-toggle { position: fixed; top: calc(env(safe-area-inset-top, 0px) + 1rem); right: 3.5rem; width: 2.2rem; height: 2.2rem; background: var(--color-bg); border: 1px solid var(--color-border); border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; z-index: 1000; font-size: 1.1rem; box-shadow: none; -webkit-tap-highlight-color: transparent; will-change: transform; contain: layout style; }
+.read-settings-toggle:active { transform: scale(0.9); }
+.read-settings-toggle:hover { border-color: var(--color-text-secondary); }
+html.dark-mode .read-settings-toggle { background: var(--color-bg); }
+.read-settings-panel { position: fixed; top: calc(env(safe-area-inset-top, 0px) + 3.5rem); right: 1rem; background: var(--color-bg); border: 1px solid var(--color-border); border-radius: 8px; padding: 1.25rem; z-index: 1001; width: 260px; box-shadow: 0 4px 20px rgba(0,0,0,0.15); display: none; }
+html.dark-mode .read-settings-panel { box-shadow: 0 4px 20px rgba(0,0,0,0.5); }
+.read-settings-panel.open { display: block; }
+.read-settings-panel label { font-family: var(--font-body); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: var(--color-text-secondary); display: block; margin-bottom: 0.4rem; }
+.read-settings-panel input[type=range] { width: 100%; margin: 0 0 1rem 0; accent-color: var(--color-accent); -webkit-appearance: none; appearance: none; height: 4px; background: var(--color-border); border-radius: 2px; outline: none; }
+.read-settings-panel input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; appearance: none; width: 18px; height: 18px; border-radius: 50%; background: var(--color-accent); cursor: pointer; }
+.read-settings-panel input[type=range]::-moz-range-thumb { width: 18px; height: 18px; border-radius: 50%; background: var(--color-accent); cursor: pointer; border: none; }
+.read-settings-value { float: right; font-weight: 400; color: var(--color-text-tertiary); }
 .dark-toggle:active { transform: scale(0.9); }
 .dark-toggle:hover { border-color: var(--color-text-secondary); }
 html.dark-mode .dark-toggle { background: var(--color-bg); }
@@ -238,6 +252,13 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
 <body>
 
     <div class="status-bar-bg"></div>
+    <div class="read-settings-toggle" id="readSettingsToggle" onclick="toggleReadSettings()" title="Reading settings">⚙</div>
+    <div class="read-settings-panel" id="readSettingsPanel">
+        <label>Text Size <span class="read-settings-value" id="fontSizeValue">100%</span></label>
+        <input type="range" id="fontSizeSlider" min="70" max="140" value="100" step="5" oninput="updateReadSettings()">
+        <label>Content Width <span class="read-settings-value" id="contentWidthValue">Default</span></label>
+        <input type="range" id="contentWidthSlider" min="0" max="4" value="0" step="1" oninput="updateReadSettings()">
+    </div>
     <div class="dark-toggle" id="darkToggle" onclick="toggleDark()" title="Toggle dark mode">
         <span id="darkIcon">☽</span>
     </div>
@@ -915,6 +936,55 @@ requestAnimationFrame(function() {
     loadAnalysisIndex();
 });
 // Turkey/Energy/Tech load on demand via switchSubTab
+
+// === READING SETTINGS ===
+var readSettingsOpen = false;
+function toggleReadSettings() {
+    readSettingsOpen = !readSettingsOpen;
+    var panel = document.getElementById('readSettingsPanel');
+    panel.classList.toggle('open', readSettingsOpen);
+}
+// Close on outside tap
+document.addEventListener('click', function(e) {
+    if (readSettingsOpen && !e.target.closest('#readSettingsPanel') && !e.target.closest('#readSettingsToggle')) {
+        readSettingsOpen = false;
+        document.getElementById('readSettingsPanel').classList.remove('open');
+    }
+});
+var widthLabels = ['Default', 'Wide', 'Wider', 'Wide Open', 'Full'];
+var widthValues = ['680px', '820px', '960px', '1100px', '100%'];
+var widthPaddings = ['1.5rem', '1.25rem', '1rem', '0.75rem', '0.5rem'];
+function updateReadSettings() {
+    var fs = document.getElementById('fontSizeSlider').value;
+    var cw = document.getElementById('contentWidthSlider').value;
+    // Font size
+    document.documentElement.style.setProperty('--read-font-size', fs + '%');
+    document.documentElement.style.fontSize = fs + '%';
+    document.getElementById('fontSizeValue').textContent = fs + '%';
+    // Content width
+    var mw = widthValues[cw];
+    var pad = widthPaddings[cw];
+    document.documentElement.style.setProperty('--max-width', mw);
+    document.getElementById('contentWidthValue').textContent = widthLabels[cw];
+    // Persist
+    try {
+        localStorage.setItem('readSettings', JSON.stringify({fontSize: fs, contentWidth: cw}));
+    } catch(e) {}
+}
+// Restore on load
+(function() {
+    try {
+        var s = JSON.parse(localStorage.getItem('readSettings'));
+        if (s) {
+            document.getElementById('fontSizeSlider').value = s.fontSize;
+            document.getElementById('contentWidthSlider').value = s.contentWidth;
+            document.documentElement.style.fontSize = s.fontSize + '%';
+            document.documentElement.style.setProperty('--max-width', widthValues[s.contentWidth]);
+            document.getElementById('fontSizeValue').textContent = s.fontSize + '%';
+            document.getElementById('contentWidthValue').textContent = widthLabels[s.contentWidth];
+        }
+    } catch(e) {}
+})();
 
 // === SCROLL DIAGNOSTIC (temporary) ===
 (function() {
