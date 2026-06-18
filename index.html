@@ -941,11 +941,13 @@ var widthValues = ['680px', '820px', '960px', '1100px', '100%'];
 function updateReadSettings() {
     var fs = document.getElementById('fontSizeSlider').value;
     var cw = document.getElementById('contentWidthSlider').value;
-    // Font size — apply to body as a base multiplier
-    var baseFontSize = window.innerWidth <= 480 ? 14 : (window.innerWidth <= 768 ? 15 : 17);
-    document.body.style.fontSize = Math.round(baseFontSize * fs / 100) + 'px';
+    // Font size — set on html element (rem units derive from this)
+    // Base: 17px desktop, scale with slider
+    var basePx = 17;
+    var newPx = Math.round(basePx * fs / 100);
+    document.documentElement.style.fontSize = newPx + 'px';
     document.getElementById('fontSizeValue').textContent = fs + '%';
-    // Content width — apply to all max-width containers
+    // Content width — override max-width on all containers
     var mw = widthValues[cw];
     var containers = document.querySelectorAll('.site-main, .header-inner, .tab-bar, .tab-divider, .site-footer .footer-inner');
     containers.forEach(function(el) { el.style.maxWidth = mw; });
