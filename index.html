@@ -916,6 +916,110 @@ requestAnimationFrame(function() {
 });
 // Turkey/Energy/Tech load on demand via switchSubTab
 
+// === SCROLL DIAGNOSTIC (temporary) ===
+(function() {
+    var diagBtn = document.createElement('div');
+    diagBtn.id = 'scroll-diag-btn';
+    diagBtn.textContent = '📊';
+    diagBtn.style.cssText = 'position:fixed;bottom:20px;right:20px;width:44px;height:44px;background:var(--color-accent,#c41e3a);color:#fff;border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:20px;z-index:9999;cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,0.3);touch-action:manipulation;-webkit-tap-highlight-color:transparent;';
+    document.body.appendChild(diagBtn);
+
+    diagBtn.addEventListener('click', function() {
+        var dpr = window.devicePixelRatio || 1;
+        var vw = window.innerWidth;
+        var vh = window.innerHeight;
+        var physW = Math.round(vw * dpr);
+        var physH = Math.round(vh * dpr);
+        var totalPx = physW * physH;
+        var ua = navigator.userAgent;
+        var ram = navigator.deviceMemory || 'N/A';
+        var cores = navigator.hardwareConcurrency || 'N/A';
+        var conn = (navigator.connection || navigator.mozConnection || navigator.webkitConnection || {});
+        var etype = conn.effectiveType || 'N/A';
+        var rtt = conn.rtt || 'N/A';
+
+        // Scroll performance test
+        var scrollEl = document.querySelector('.analysis-container') || document.querySelector('.content-container') || document.body;
+        var startTime, frameTimes, scrollStartY;
+
+        function doScrollTest() {
+            frameTimes = [];
+            scrollStartY = window.scrollY;
+            startTime = performance.now();
+            var prevT = startTime;
+
+            function measureFrame(t) {
+                if (t - startTime > 2000) {
+                    finishScrollTest();
+                    return;
+                }
+                frameTimes.push(t - prevT);
+                prevT = t;
+                requestAnimationFrame(measureFrame);
+            }
+
+            // Scroll down programmatically
+            window.scrollBy({ top: 2000, behavior: 'smooth' });
+            requestAnimationFrame(measureFrame);
+        }
+
+        function finishScrollTest() {
+            window.scrollTo({ top: scrollStartY, behavior: 'instant' });
+            var avgFrame = frameTimes.length > 0 ? frameTimes.reduce(function(a,b){return a+b;},0) / frameTimes.length : 0;
+            var maxFrame = frameTimes.length > 0 ? Math.max.apply(null, frameTimes) : 0;
+            var jankFrames = frameTimes.filter(function(t){return t > 32;}).length;
+            var p90Frame = frameTimes.length > 0 ? frameTimes.sort(function(a,b){return a-b;})[Math.floor(frameTimes.length * 0.9)] : 0;
+
+            var report = 'DEVICE INFO\n' +
+                'Model: ' + (navigator.userAgent.match(/\(([^)]+)\)/) || ['?'])[1] + '\n' +
+                'DPR: ' + dpr.toFixed(2) + '\n' +
+                'Viewport: ' + vw + 'x' + vh + '\n' +
+                'Physical: ' + physW + 'x' + physH + '\n' +
+                'Total MPx: ' + (totalPx / 1000000).toFixed(2) + '\n' +
+                'RAM (deviceMemory): ' + ram + '\n' +
+                'CPU cores: ' + cores + '\n' +
+                'Connection: ' + etype + ' (RTT: ' + rtt + 'ms)\n' +
+                'Pixel load/frame: ' + (totalPx * 60 / 1000000000).toFixed(2) + ' Gpx/s target\n\n' +
+                'SCROLL TEST (2s smooth scroll)\n' +
+                'Frames captured: ' + frameTimes.length + '\n' +
+                'Avg frame time: ' + avgFrame.toFixed(1) + 'ms\n' +
+                'P90 frame time: ' + p90Frame.toFixed(1) + 'ms\n' +
+                'Max frame time: ' + maxFrame.toFixed(1) + 'ms\n' +
+                'Jank frames (>32ms): ' + jankFrames + '/' + frameTimes.length + '\n' +
+                'Est FPS: ' + (frameTimes.length > 0 ? Math.round(1000 / avgFrame) : 'N/A') + '\n\n' +
+                'UA: ' + ua;
+
+            // Show modal
+            var overlay = document.createElement('div');
+            overlay.id = 'scroll-diag-overlay';
+            overlay.style.cssText = 'position:fixed;inset:0;background:rgba(0,0,0,0.7);z-index:10000;display:flex;align-items:center;justify-content:center;';
+            var modal = document.createElement('div');
+            modal.style.cssText = 'background:#1a1a1a;color:#e0e0e0;padding:20px;border-radius:12px;max-width:90vw;max-height:80vh;overflow:auto;font-family:monospace;font-size:12px;line-height:1.6;white-space:pre-wrap;';
+            modal.textContent = report;
+
+            var copyBtn = document.createElement('button');
+            copyBtn.textContent = '📋 Copy';
+            copyBtn.style.cssText = 'margin-top:12px;padding:8px 16px;background:#c41e3a;color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:14px;';
+            copyBtn.onclick = function() {
+                navigator.clipboard.writeText(report).then(function(){ copyBtn.textContent = '✅ Copied!'; });
+            };
+
+            var closeBtn = document.createElement('button');
+            closeBtn.textContent = '✕ Close';
+            closeBtn.style.cssText = 'margin-top:12px;margin-left:8px;padding:8px 16px;background:#555;color:#fff;border:none;border-radius:6px;cursor:pointer;font-size:14px;';
+            closeBtn.onclick = function() { overlay.remove(); };
+
+            modal.appendChild(copyBtn);
+            modal.appendChild(closeBtn);
+            overlay.appendChild(modal);
+            overlay.addEventListener('click', function(e) { if (e.target === overlay) overlay.remove(); });
+            document.body.appendChild(overlay);
+        }
+
+        doScrollTest();
+    });
+})();
+
 </script>
 
 </body>
