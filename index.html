@@ -211,15 +211,20 @@ html.dark-mode .subtab-dropdown-menu { box-shadow: 0 4px 12px rgba(0,0,0,0.4); }
 .site-footer a { color: var(--color-text-secondary); text-decoration: none; border-bottom: 1px solid var(--color-border); }
 .site-footer a:hover { color: var(--color-accent); border-bottom-color: var(--color-accent); }
 
+.read-justify .section-body, .read-justify .brief-subhead { text-align: justify; }
+.read-justify .why-it-matters { text-align: justify; }
+.read-justify .bottom-line-body { text-align: justify; }
+.read-justify .story-summary { text-align: justify; }
+
 /* DARK TOGGLE */
 .dark-toggle { position: fixed; top: calc(env(safe-area-inset-top, 0px) + 1rem); right: 1rem; width: 2.2rem; height: 2.2rem; background: var(--color-bg); border: 1px solid var(--color-border); border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; z-index: 1000; font-size: 1.1rem; box-shadow: none; -webkit-tap-highlight-color: transparent; will-change: transform; contain: layout style; }
 
 /* READING SETTINGS */
-.read-settings-toggle { position: fixed; top: calc(env(safe-area-inset-top, 0px) + 1rem); right: 3.5rem; width: 2.2rem; height: 2.2rem; background: var(--color-bg); border: 1px solid var(--color-border); border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; z-index: 1000; font-size: 1.1rem; box-shadow: none; -webkit-tap-highlight-color: transparent; will-change: transform; contain: layout style; }
+.read-settings-toggle { position: fixed; top: calc(env(safe-area-inset-top, 0px) + 1rem); left: 1rem; width: 2.2rem; height: 2.2rem; background: var(--color-bg); border: 1px solid var(--color-border); border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; z-index: 1000; font-size: 1.1rem; box-shadow: none; -webkit-tap-highlight-color: transparent; will-change: transform; contain: layout style; }
 .read-settings-toggle:active { transform: scale(0.9); }
 .read-settings-toggle:hover { border-color: var(--color-text-secondary); }
 html.dark-mode .read-settings-toggle { background: var(--color-bg); }
-.read-settings-panel { position: fixed; top: calc(env(safe-area-inset-top, 0px) + 3.5rem); right: 1rem; background: var(--color-bg); border: 1px solid var(--color-border); border-radius: 8px; padding: 1.25rem; z-index: 1001; width: 260px; box-shadow: 0 4px 20px rgba(0,0,0,0.15); display: none; }
+.read-settings-panel { position: fixed; top: calc(env(safe-area-inset-top, 0px) + 3.5rem); left: 1rem; background: var(--color-bg); border: 1px solid var(--color-border); border-radius: 8px; padding: 1.25rem; z-index: 1001; width: 240px; box-shadow: 0 4px 20px rgba(0,0,0,0.15); display: none; }
 html.dark-mode .read-settings-panel { box-shadow: 0 4px 20px rgba(0,0,0,0.5); }
 .read-settings-panel.open { display: block; }
 .read-settings-panel label { font-family: var(--font-body); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: var(--color-text-secondary); display: block; margin-bottom: 0.4rem; }
@@ -227,6 +232,9 @@ html.dark-mode .read-settings-panel { box-shadow: 0 4px 20px rgba(0,0,0,0.5); }
 .read-settings-panel input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; appearance: none; width: 18px; height: 18px; border-radius: 50%; background: var(--color-accent); cursor: pointer; }
 .read-settings-panel input[type=range]::-moz-range-thumb { width: 18px; height: 18px; border-radius: 50%; background: var(--color-accent); cursor: pointer; border: none; }
 .read-settings-value { float: right; font-weight: 400; color: var(--color-text-tertiary); }
+.read-settings-btn { font-family: var(--font-body); font-size: 0.72rem; font-weight: 600; letter-spacing: 0.04em; padding: 0.4rem 0.6rem; border: 1px solid var(--color-border); background: transparent; color: var(--color-text-secondary); cursor: pointer; border-radius: 2px; -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
+.read-settings-btn.active { background: var(--color-accent); color: #fff; border-color: var(--color-accent); }
+.read-justify-group { display: flex; gap: 0.4rem; margin-bottom: 1rem; }
 .dark-toggle:active { transform: scale(0.9); }
 .dark-toggle:hover { border-color: var(--color-text-secondary); }
 html.dark-mode .dark-toggle { background: var(--color-bg); }
@@ -243,6 +251,11 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
         <input type="range" id="fontSizeSlider" min="70" max="140" value="100" step="5" oninput="updateReadSettings()">
         <label>Content Width <span class="read-settings-value" id="contentWidthValue">Default</span></label>
         <input type="range" id="contentWidthSlider" min="0" max="4" value="0" step="1" oninput="updateReadSettings()">
+        <label>Text Align</label>
+        <div class="read-justify-group">
+            <button class="read-settings-btn active" id="justifyLeft" onclick="setJustify('left')">Left</button>
+            <button class="read-settings-btn" id="justifyJustify" onclick="setJustify('justify')">Justify</button>
+        </div>
     </div>
     <div class="dark-toggle" id="darkToggle" onclick="toggleDark()" title="Toggle dark mode">
         <span id="darkIcon">☽</span>
@@ -922,53 +935,6 @@ requestAnimationFrame(function() {
 });
 // Turkey/Energy/Tech load on demand via switchSubTab
 
-// === READING SETTINGS ===
-var readSettingsOpen = false;
-function toggleReadSettings() {
-    readSettingsOpen = !readSettingsOpen;
-    var panel = document.getElementById('readSettingsPanel');
-    panel.classList.toggle('open', readSettingsOpen);
-}
-// Close on outside tap
-document.addEventListener('click', function(e) {
-    if (readSettingsOpen && !e.target.closest('#readSettingsPanel') && !e.target.closest('#readSettingsToggle')) {
-        readSettingsOpen = false;
-        document.getElementById('readSettingsPanel').classList.remove('open');
-    }
-});
-var widthLabels = ['Default', 'Wide', 'Wider', 'Wide Open', 'Full'];
-var widthValues = ['680px', '820px', '960px', '1100px', '100%'];
-function updateReadSettings() {
-    var fs = document.getElementById('fontSizeSlider').value;
-    var cw = document.getElementById('contentWidthSlider').value;
-    // Font size — set on html element (rem units derive from this)
-    // Base: 17px desktop, scale with slider
-    var basePx = 17;
-    var newPx = Math.round(basePx * fs / 100);
-    document.documentElement.style.fontSize = newPx + 'px';
-    document.getElementById('fontSizeValue').textContent = fs + '%';
-    // Content width — override max-width on all containers
-    var mw = widthValues[cw];
-    var containers = document.querySelectorAll('.site-main, .header-inner, .tab-bar, .tab-divider, .site-footer .footer-inner');
-    containers.forEach(function(el) { el.style.maxWidth = mw; });
-    document.getElementById('contentWidthValue').textContent = widthLabels[cw];
-    // Persist
-    try {
-        localStorage.setItem('readSettings', JSON.stringify({fontSize: fs, contentWidth: cw}));
-    } catch(e) {}
-}
-// Restore on load
-(function() {
-    try {
-        var s = JSON.parse(localStorage.getItem('readSettings'));
-        if (s) {
-            document.getElementById('fontSizeSlider').value = s.fontSize;
-            document.getElementById('contentWidthSlider').value = s.contentWidth;
-            // Apply immediately
-            setTimeout(function() { updateReadSettings(); }, 50);
-        }
-    } catch(e) {}
-})();
 
 
 </script>
