@@ -1,4 +1,4 @@
-const CACHE_NAME = 'frontion-v10';
+const CACHE_NAME = 'frontion-v11';
 const BASE = '/frontion-news/';
 const ASSETS = [
   BASE,
