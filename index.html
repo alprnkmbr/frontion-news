@@ -24,6 +24,26 @@
   if(dark)document.documentElement.classList.add('dark-mode');
 })()
 </script>
+    <script>
+(function(){
+  try {
+    var s = JSON.parse(localStorage.getItem('readSettings'));
+    if (s) {
+      if (s.fontSize && s.fontSize !== '100') {
+        var px = Math.round(17 * s.fontSize / 100);
+        document.documentElement.style.fontSize = px + 'px';
+      }
+      if (s.contentWidth && s.contentWidth !== '0') {
+        var widths = ['680px', '600px', '520px', '440px', '360px'];
+        document.documentElement.style.setProperty('--max-width', widths[s.contentWidth]);
+      }
+      if (s.justify === 'justify') {
+        document.documentElement.classList.add('read-justify');
+      }
+    }
+  } catch(e) {}
+})();
+</script>
     <style>
 :root {
     --color-bg: #ffffff;
