@@ -989,8 +989,8 @@ function updateReadSettings() {
     var widths = ['360px', '440px', '520px', '600px', '680px', '800px', '920px', '1040px', '100%'];
     var mw = widths[cw];
     var els = document.querySelectorAll('.site-main, .header-inner, .tab-bar, .tab-divider, .site-footer .footer-inner');
-    for (var i = 0; i < els.length; i++) { els[i].style.maxWidth = mw; }
-    document.getElementById('contentWidthValue').textContent = widthLabels[cw];
+    for (var i = 0; i < els.length; i++) { els[i].style.maxWidth = mw; els[i].style.marginLeft = 'auto'; els[i].style.marginRight = 'auto'; }
+    document.getElementById('contentWidthValue').textContent = widthLabels[cw] + ' (' + mw + ')';
     try {
         localStorage.setItem('readSettings', JSON.stringify({fontSize: fs, contentWidth: cw, justify: getCurrentJustify()}));
     } catch(e) {}
