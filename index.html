@@ -987,7 +987,7 @@ function updateReadSettings() {
     var mw = widths[cw];
     var els = document.querySelectorAll('.site-main, .header-inner, .tab-bar, .tab-divider, .site-footer .footer-inner');
     for (var i = 0; i < els.length; i++) { els[i].style.maxWidth = mw; els[i].style.marginLeft = 'auto'; els[i].style.marginRight = 'auto'; }
-    document.getElementById('contentWidthValue').textContent = widthLabels[cw] + ' (' + mw + ', ' + els.length + ' els)';
+    document.getElementById('contentWidthValue').textContent = widthLabels[cw];
     try {
         localStorage.setItem('readSettings', JSON.stringify({fontSize: fs, contentWidth: cw, justify: getCurrentJustify()}));
     } catch(e) {}
