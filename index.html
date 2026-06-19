@@ -37,8 +37,8 @@
         var px = Math.round(17 * s.fontSize / 100);
         document.documentElement.style.fontSize = px + 'px';
       }
-      if (s.contentWidth && s.contentWidth !== '0') {
-        var widths = ['680px', '600px', '520px', '440px', '360px'];
+      if (s.contentWidth !== undefined && s.contentWidth !== '4') {
+        var widths = ['360px', '440px', '520px', '600px', '680px', '800px', '920px', '1040px', '100%'];
         document.documentElement.style.setProperty('--max-width', widths[s.contentWidth]);
       }
       if (s.justify === 'justify') {
@@ -274,8 +274,8 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
         <label>Text Size <span class="read-settings-value" id="fontSizeValue">100%</span></label>
         <input type="range" id="fontSizeSlider" min="70" max="140" value="100" step="5" oninput="updateReadSettings()">
         <label>Content Width <span class="read-settings-value" id="contentWidthValue">Default</span></label>
-        <input type="range" id="contentWidthSlider" min="0" max="4" value="0" step="1" oninput="updateReadSettings()">
-        <div style="display:flex;justify-content:space-between;font-size:0.65rem;color:var(--color-text-tertiary);margin:-0.5rem 0 1rem;padding:0 2px"><span>Default</span><span>Minimal</span></div>
+        <input type="range" id="contentWidthSlider" min="0" max="8" value="4" step="1" oninput="updateReadSettings()">
+        <div style="display:flex;justify-content:space-between;font-size:0.65rem;color:var(--color-text-tertiary);margin:-0.5rem 0 1rem;padding:0 2px"><span>Narrow</span><span>Default</span><span>Wide</span></div>
         <label>Text Align</label>
         <div class="read-justify-group">
             <button class="read-settings-btn active" id="justifyLeft" onclick="setJustify('left')">Left</button>
@@ -973,7 +973,7 @@ document.addEventListener('click', function(e) {
         document.getElementById('readSettingsPanel').classList.remove('open');
     }
 });
-var widthLabels = ['Default', 'Comfortable', 'Compact', 'Narrow', 'Minimal'];
+var widthLabels = ['Narrow', 'Compact', 'Comfortable', 'Slightly Narrow', 'Default', 'Slightly Wide', 'Wide', 'Wider', 'Full'];
 function updateReadSettings() {
     var fs = document.getElementById('fontSizeSlider').value;
     var cw = document.getElementById('contentWidthSlider').value;
@@ -983,7 +983,7 @@ function updateReadSettings() {
     document.documentElement.style.fontSize = newPx + 'px';
     document.getElementById('fontSizeValue').textContent = fs + '%';
     // Content width — narrower values, more side gap
-    var widths = ['680px', '600px', '520px', '440px', '360px'];
+    var widths = ['360px', '440px', '520px', '600px', '680px', '800px', '920px', '1040px', '100%'];
     document.documentElement.style.setProperty('--max-width', widths[cw]);
     document.getElementById('contentWidthValue').textContent = widthLabels[cw];
     try {
