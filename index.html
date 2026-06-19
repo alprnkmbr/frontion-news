@@ -39,7 +39,10 @@
       }
       if (s.contentWidth !== undefined && s.contentWidth !== '4') {
         var widths = ['360px', '440px', '520px', '600px', '680px', '800px', '920px', '1040px', '100%'];
+        // Can't query elements in head, so set CSS var AND inline style on html
         document.documentElement.style.setProperty('--max-width', widths[s.contentWidth]);
+        document.documentElement.style.maxWidth = '100%';
+        document.documentElement.style.overflowX = 'hidden';
       }
       if (s.justify === 'justify') {
         document.documentElement.classList.add('read-justify');
@@ -982,9 +985,11 @@ function updateReadSettings() {
     var newPx = Math.round(basePx * fs / 100);
     document.documentElement.style.fontSize = newPx + 'px';
     document.getElementById('fontSizeValue').textContent = fs + '%';
-    // Content width — narrower values, more side gap
+    // Content width — directly set max-width on all containers
     var widths = ['360px', '440px', '520px', '600px', '680px', '800px', '920px', '1040px', '100%'];
-    document.documentElement.style.setProperty('--max-width', widths[cw]);
+    var mw = widths[cw];
+    var els = document.querySelectorAll('.site-main, .header-inner, .tab-bar, .tab-divider, .site-footer .footer-inner');
+    for (var i = 0; i < els.length; i++) { els[i].style.maxWidth = mw; }
     document.getElementById('contentWidthValue').textContent = widthLabels[cw];
     try {
         localStorage.setItem('readSettings', JSON.stringify({fontSize: fs, contentWidth: cw, justify: getCurrentJustify()}));
