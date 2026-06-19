@@ -39,10 +39,7 @@
       }
       if (s.contentWidth !== undefined && s.contentWidth !== '4') {
         var widths = ['360px', '440px', '520px', '600px', '680px', '800px', '920px', '1040px', '100%'];
-        // Can't query elements in head, so set CSS var AND inline style on html
         document.documentElement.style.setProperty('--max-width', widths[s.contentWidth]);
-        document.documentElement.style.maxWidth = '100%';
-        document.documentElement.style.overflowX = 'hidden';
       }
       if (s.justify === 'justify') {
         document.documentElement.classList.add('read-justify');
