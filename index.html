@@ -316,6 +316,7 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
                     <div class="subtab-dropdown-option" data-region="turkey" onclick="switchSubTab('turkey')">Türkiye</div>
                     <div class="subtab-dropdown-option" data-region="energy" onclick="switchSubTab('energy')">Energy</div>
                     <div class="subtab-dropdown-option" data-region="finance" onclick="switchSubTab('finance')">Finance</div>
+                    <div class="subtab-dropdown-option" data-region="defense" onclick="switchSubTab('defense')">Defense</div>
                     <div class="subtab-dropdown-option" data-region="tech" onclick="switchSubTab('tech')">Tech</div>
                 </div>
             </div>
@@ -365,6 +366,18 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
                 </div>
                 <div id="financeContent">
                     <p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading Finance Brief…</p>
+                </div>
+            </div>
+
+            <!-- DEFENSE sub-content -->
+            <div id="subtab-defense" class="subtab-content">
+                <div class="date-timeline">
+                    <button class="timeline-arrow" id="defensePrevBtn" onclick="shiftDefenseTimeline(-1)">←</button>
+                    <div class="timeline-dates" id="defenseTimelineDates"></div>
+                    <button class="timeline-arrow" id="defenseNextBtn" onclick="shiftDefenseTimeline(1)">→</button>
+                </div>
+                <div id="defenseContent">
+                    <p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading Defense Brief…</p>
                 </div>
             </div>
 
@@ -419,7 +432,7 @@ function switchSubTab(sub) {
     document.querySelectorAll('.subtab-content').forEach(c => c.classList.remove('active'));
     document.getElementById('subtab-' + sub).classList.add('active');
     // Update dropdown toggle text
-    var labels = { 'global': 'Global', 'turkey': 'Türkiye', 'energy': 'Energy', 'finance': 'Finance', 'tech': 'Tech' };
+    var labels = { 'global': 'Global', 'turkey': 'Türkiye', 'energy': 'Energy', 'finance': 'Finance', 'defense': 'Defense', 'tech': 'Tech' };
     document.getElementById('regionToggle').textContent = labels[sub] || sub;
     // Mark active option
     document.querySelector('.subtab-dropdown-option[data-region="' + sub + '"]').classList.add('active');
@@ -430,6 +443,7 @@ function switchSubTab(sub) {
     if (sub === 'turkey') loadTurkeyIndex();
     if (sub === 'energy') loadEnergyIndex();
     if (sub === 'finance') loadFinanceIndex();
+    if (sub === 'defense') loadDefenseIndex();
     if (sub === 'tech') loadTechIndex();
 
 }
@@ -1020,6 +1034,89 @@ function loadFinanceIndex() {
       })
       .catch(err => {
         document.getElementById('financeContent').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load Finance Brief index.</p>';
+      });
+}
+
+// ============ DEFENSE ============
+var defenseBriefs = [];
+var defenseCurrentIndex = 0;
+
+function shiftDefenseTimeline(dir) {
+    if (defenseBriefs.length === 0) return;
+    defenseCurrentIndex = Math.max(0, Math.min(defenseBriefs.length - 1, defenseCurrentIndex + dir));
+    renderDefenseTimeline();
+    loadDefenseBrief(defenseBriefs[defenseCurrentIndex].date);
+}
+
+function renderDefenseTimeline() {
+    var container = document.getElementById('defenseTimelineDates');
+    if (!defenseBriefs || defenseBriefs.length === 0) { container.innerHTML = ''; return; }
+    var html = '';
+    defenseBriefs.forEach(function(b, i) {
+        var d = new Date(b.date + 'T00:00:00');
+        var label = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+        html += '<button class="date-pill' + (i === defenseCurrentIndex ? ' active' : '') + '" onclick="defenseCurrentIndex=' + i + ';renderDefenseTimeline();loadDefenseBrief(\'' + b.date + '\')" >' + label + '</button>';
+    });
+    container.innerHTML = html;
+    var active = container.querySelector('.date-pill.active');
+    if (active) active.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+}
+
+function loadDefenseBrief(dateSlug) {
+    const container = document.getElementById('defenseContent');
+    container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading Defense Brief…</p>';
+    
+    fetch('defense/' + dateSlug + '.json?v=' + Date.now())
+      .then(r => r.json())
+      .then(brief => {
+        const dateObj = new Date(brief.date + 'T00:00:00');
+        const dateStr = dateObj.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+        
+        let html = '<h1 class="brief-headline">' + brief.title + '</h1>' +
+          '<div class="brief-subhead">' + brief.subhead + '</div>' +
+          '<div class="brief-meta"><time datetime="' + brief.date + '">' + dateStr + '</time> · Frontion News Defense & Industry Analysis</div>';
+        
+        brief.sections.forEach((sec, i) => {
+          if (i > 0) html += '<hr class="section-divider">';
+          html += '<div class="analysis-section"><h2 class="section-heading">' + sec.heading + '</h2>' +
+            '<div class="section-body">' + sec.body + '</div>' +
+            '<div class="why-it-matters"><strong>Why it matters</strong> — ' + sec.whyItMatters + '</div></div>';
+        });
+        
+        if (brief.bottomLine) {
+          html += '<div class="bottom-line"><div class="bottom-line-kicker">Bottom Line</div><div class="bottom-line-body"><p>' + brief.bottomLine + '</p></div></div>';
+        }
+        if (brief.sources) {
+          html += '<div style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid var(--color-border-light);"><div style="font-family:var(--font-body);font-size:0.72rem;font-weight:700;letter-spacing:0.18em;text-transform:uppercase;color:var(--color-text-tertiary);margin-bottom:0.5rem;">Sources</div><div style="font-family:var(--font-serif);font-size:0.85rem;line-height:1.6;color:var(--color-text-tertiary);">' + brief.sources + '</div></div>';
+        }
+        
+        requestAnimationFrame(function() {
+            container.innerHTML = html;
+            requestAnimationFrame(function() {
+                window.scrollTo({ top: 0, behavior: 'instant' });
+            });
+        });
+      })
+      .catch(err => {
+        container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">No Defense Brief available for this date yet.</p>';
+      });
+}
+
+function loadDefenseIndex() {
+    fetch('defense/index.json?v=' + Date.now())
+      .then(r => r.json())
+      .then(data => {
+        defenseBriefs = data;
+        if (defenseBriefs.length > 0) {
+          defenseCurrentIndex = 0;
+          renderDefenseTimeline();
+          loadDefenseBrief(defenseBriefs[0].date);
+        } else {
+          document.getElementById('defenseContent').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">No Defense Brief available yet.</p>';
+        }
+      })
+      .catch(err => {
+        document.getElementById('defenseContent').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load Defense Brief index.</p>';
       });
 }
 
