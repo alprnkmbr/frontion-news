@@ -146,13 +146,6 @@ html.dark-mode .subtab-dropdown-menu { box-shadow: 0 4px 12px rgba(0,0,0,0.4); }
 .site-main { max-width: var(--max-width); margin: 0 auto; padding: 2rem 1.5rem 4rem; contain: layout; }
 .tab-content { display: none; }
 .tab-content.active { display: block; }
-.main-tab-bar { max-width: var(--max-width); margin: 0 auto; padding: 0 1.5rem; display: flex; gap: 0; }
-.main-tab-btn { flex: 1; text-align: center; font-family: var(--font-body); font-size: 0.78rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; padding: 0.65rem 1rem; border: 2px solid var(--color-section-rule); background: var(--color-tab-inactive-bg); color: var(--color-tab-inactive-text); cursor: pointer; transition: all 0.2s; }
-.main-tab-btn:first-child { border-radius: 3px 0 0 3px; }
-.main-tab-btn:last-child { border-radius: 0 3px 3px 0; }
-.main-tab-btn:not(:first-child) { border-left: none; }
-.main-tab-btn.active { background: var(--color-tab-active-bg); color: var(--color-tab-active-text); }
-.main-tab-btn:hover:not(.active) { background: var(--color-border-light); }
 
 /* ============ HEADLINES TAB ============ */
 .search-bar { margin-bottom: 1.5rem; }
@@ -309,12 +302,6 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
 
     <main class="site-main">
 
-        <!-- ============ MAIN TAB BAR ============ -->
-        <div class="main-tab-bar">
-            <button class="main-tab-btn active" onclick="switchMainTab('analysis')">Analysis</button>
-            <button class="main-tab-btn" onclick="switchMainTab('weekly')">Weekly</button>
-        </div>
-
         <!-- ============ ANALYSIS SECTION ============ -->
         <div id="tab-analysis" class="tab-content active">
             <div class="headlines-meta" id="headlinesMeta" style="display:none">
@@ -406,22 +393,6 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
                 </div>
             </div>
 
-        </div>
-
-        </div>
-
-        <!-- ============ WEEKLY SECTION ============ -->
-        <div id="tab-weekly" class="tab-content">
-            <h1 class="brief-headline" style="margin-bottom:0.5rem">Weekly Brief</h1>
-            <p style="color:var(--color-muted);margin-bottom:1.5rem">The week's most important developments across all domains, every Sunday.</p>
-            <div class="date-timeline">
-                <button class="timeline-arrow" id="weeklyPrevBtn" onclick="shiftWeeklyTimeline(-1)">←</button>
-                <div class="timeline-dates" id="weeklyTimelineDates"></div>
-                <button class="timeline-arrow" id="weeklyNextBtn" onclick="shiftWeeklyTimeline(1)">→</button>
-            </div>
-            <div id="weeklyContent">
-                <p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading Weekly Brief…</p>
-            </div>
         </div>
 
     </main>
@@ -1147,89 +1118,6 @@ function loadDefenseIndex() {
       .catch(err => {
         document.getElementById('defenseContent').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load Defense Brief index.</p>';
       });
-}
-
-// ============ MAIN TAB SWITCHING ============
-function switchMainTab(tab) {
-    document.querySelectorAll('.main-tab-btn').forEach(function(b) { b.classList.remove('active'); });
-    document.querySelectorAll('.tab-content').forEach(function(c) { c.classList.remove('active'); });
-    document.getElementById('tab-' + tab).classList.add('active');
-    // Find the clicked button and activate it
-    var btns = document.querySelectorAll('.main-tab-btn');
-    for (var i = 0; i < btns.length; i++) {
-        if (btns[i].textContent.trim().toLowerCase() === tab) {
-            btns[i].classList.add('active');
-        }
-    }
-    if (tab === 'weekly') loadWeeklyIndex();
-}
-
-// ============ WEEKLY BRIEF ============
-function loadWeeklyBrief(dateSlug) {
-    var container = document.getElementById('weeklyContent');
-    container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading Weekly Brief…</p>';
-    fetch('weekly/' + dateSlug + '.json?v=' + Date.now())
-      .then(function(r) { if (!r.ok) throw new Error('Not found'); return r.json(); })
-      .then(function(brief) {
-        var dateObj = new Date(brief.date + 'T00:00:00');
-        var dateStr = dateObj.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
-        var html = '<h1 class="brief-headline">' + brief.title + '</h1>' +
-          '<div class="brief-meta">' + dateStr + '</div>' +
-          '<p class="brief-subhead">' + brief.subhead + '</p>';
-        for (var i = 0; i < brief.sections.length; i++) {
-          var s = brief.sections[i];
-          html += '<hr class="section-rule"><h2 class="section-heading">' + s.heading + '</h2>' +
-            '<div class="section-body">' + s.body + '</div>' +
-            '<p class="why-it-matters"><strong>Why it matters:</strong> ' + s.whyItMatters + '</p>';
-        }
-        html += '<hr class="section-rule"><div class="bottom-line"><strong>Bottom Line:</strong> ' + brief.bottomLine + '</div>';
-        if (brief.sources) html += '<div class="sources"><strong>Sources:</strong> ' + brief.sources + '</div>';
-        container.innerHTML = html;
-      })
-      .catch(function(err) {
-        container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">No Weekly Brief available for this date.</p>';
-      });
-}
-
-var weeklyIndex = [];
-var weeklyOffset = 0;
-
-function loadWeeklyIndex() {
-    fetch('weekly/index.json?v=' + Date.now())
-      .then(function(r) { return r.json(); })
-      .then(function(data) {
-        weeklyIndex = data;
-        weeklyOffset = 0;
-        renderWeeklyTimeline();
-        if (data.length > 0) loadWeeklyBrief(data[0].date);
-      })
-      .catch(function() {
-        document.getElementById('weeklyContent').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">No Weekly Brief available yet.</p>';
-      });
-}
-
-function renderWeeklyTimeline() {
-    var container = document.getElementById('weeklyTimelineDates');
-    if (!container || weeklyIndex.length === 0) return;
-    var start = weeklyOffset;
-    var end = Math.min(start + 7, weeklyIndex.length);
-    var html = '';
-    for (var i = start; i < end; i++) {
-        var item = weeklyIndex[i];
-        var d = new Date(item.date + 'T00:00:00');
-        var label = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
-        html += '<div class="timeline-date" onclick="loadWeeklyBrief(\'' + item.date + '\')" title="' + item.title + '">' + label + '</div>';
-    }
-    container.innerHTML = html;
-    document.getElementById('weeklyPrevBtn').disabled = (weeklyOffset === 0);
-    document.getElementById('weeklyNextBtn').disabled = (end >= weeklyIndex.length);
-}
-
-function shiftWeeklyTimeline(dir) {
-    weeklyOffset += dir * 7;
-    if (weeklyOffset < 0) weeklyOffset = 0;
-    if (weeklyOffset >= weeklyIndex.length) weeklyOffset = Math.max(0, weeklyIndex.length - 7);
-    renderWeeklyTimeline();
 }
 
 // ============ DARK MODE ============
