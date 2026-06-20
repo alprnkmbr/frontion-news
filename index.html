@@ -972,10 +972,13 @@ function renderFinanceTimeline() {
     financeBriefs.forEach(function(b, i) {
         var d = new Date(b.date + 'T00:00:00');
         var label = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
-        html += '<button class="date-pill' + (i === financeCurrentIndex ? ' active' : '') + '" onclick="financeCurrentIndex=' + i + ';renderFinanceTimeline();loadFinanceBrief(\'' + b.date + '\')" >' + label + '</button>';
+        var d = b.date;
+        var label = formatDateShort(d);
+        html += '<a href="#" class="timeline-date' + (i === financeCurrentIndex ? ' active' : '') + '" onclick="financeCurrentIndex=' + i + ';renderFinanceTimeline();loadFinanceBrief(\'' + b.date + '\'); return false;" title="' + (b.title || '') + '">' + label + '</a>';
+        if (i < financeBriefs.length - 1) html += '<div class="timeline-divider"></div>';
     });
     container.innerHTML = html;
-    var active = container.querySelector('.date-pill.active');
+    var active = container.querySelector('.timeline-date.active');
     if (active) active.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
 }
 
@@ -1055,10 +1058,13 @@ function renderDefenseTimeline() {
     defenseBriefs.forEach(function(b, i) {
         var d = new Date(b.date + 'T00:00:00');
         var label = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
-        html += '<button class="date-pill' + (i === defenseCurrentIndex ? ' active' : '') + '" onclick="defenseCurrentIndex=' + i + ';renderDefenseTimeline();loadDefenseBrief(\'' + b.date + '\')" >' + label + '</button>';
+        var d = b.date;
+        var label = formatDateShort(d);
+        html += '<a href="#" class="timeline-date' + (i === defenseCurrentIndex ? ' active' : '') + '" onclick="defenseCurrentIndex=' + i + ';renderDefenseTimeline();loadDefenseBrief(\'' + b.date + '\'); return false;" title="' + (b.title || '') + '">' + label + '</a>';
+        if (i < defenseBriefs.length - 1) html += '<div class="timeline-divider"></div>';
     });
     container.innerHTML = html;
-    var active = container.querySelector('.date-pill.active');
+    var active = container.querySelector('.timeline-date.active');
     if (active) active.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
 }
 
