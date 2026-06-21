@@ -58,12 +58,14 @@ def generate_feed():
             desc_parts.append(f"\n\nThe Bottom Line: {bottom_line}")
         description = xml_escape(" ".join(desc_parts))
 
-        # Parse date for pubDate
+        # Parse date for sorting and pubDate
         try:
             dt = datetime.fromisoformat(date_str)
             pub_date = dt.strftime("%a, %d %b %Y %H:%M:%S GMT")
+            sort_date = dt
         except:
             pub_date = date_str
+            sort_date = datetime.min
 
         link = f"{SITE_URL}/brief.html?b={slug}"
         items.append({
@@ -72,11 +74,12 @@ def generate_feed():
             "description": description,
             "pubDate": pub_date,
             "guid": slug,
-            "category": "Evening Strategic Brief"
+            "category": "Evening Strategic Brief",
+            "sort_date": sort_date
         })
 
-    # Sort by date descending
-    items.sort(key=lambda x: x["pubDate"], reverse=True)
+    # Sort by date descending (newest first)
+    items.sort(key=lambda x: x["sort_date"], reverse=True)
 
     # Build RSS
     now = datetime.now(timezone.utc).strftime("%a, %d %b %Y %H:%M:%S GMT")
