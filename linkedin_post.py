@@ -83,7 +83,6 @@ def send_bluf(date_str):
     subhead = brief.get("subhead", "")
     
     text = (
-        f"Frontion Strategic Brief ▎ {date_display}\n\n"
         f"◆ {title}\n\n"
         f"{subhead}"
     )
