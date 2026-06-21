@@ -36,11 +36,15 @@ def generate_feed():
             continue
 
         brief = load_json(brief_path)
+
+        # Skip morning briefs — only include evening/strategic briefs
+        if brief.get("type") == "morning" or "-morning" in slug:
+            continue
+
         title = xml_escape(brief.get("title", entry.get("title", "")))
         subhead = xml_escape(brief.get("subhead", ""))
         date_str = entry.get("date", brief.get("date", ""))
-        btype = entry.get("type", brief.get("type", "morning"))
-        label = "Daily Brief"
+        label = "Evening Strategic Brief"
 
         # Parse date for pubDate
         try:
@@ -56,7 +60,7 @@ def generate_feed():
             "description": subhead,
             "pubDate": pub_date,
             "guid": slug,
-            "category": "Global Brief"
+            "category": "Evening Strategic Brief"
         })
 
     # Sort by date descending
