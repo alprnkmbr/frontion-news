@@ -45,18 +45,33 @@ def generate_feed():
         subhead = xml_escape(brief.get("subhead", ""))
         bottom_line = xml_escape(brief.get("bottomLine", ""))
         date_str = entry.get("date", brief.get("date", ""))
-        label = "Evening Strategic Brief"
+        label = "Strategic Brief"
 
         # Build rich description with sections and whyItMatters
-        desc_parts = [subhead]
+        # Format: BLUF, then each section with heading + whyItMatters, then Bottom Line
+        desc_parts = []
+
+        # BLUF (subhead)
+        if subhead:
+            desc_parts.append(subhead)
+            desc_parts.append("")
+
+        # Sections
         for section in brief.get("sections", []):
             heading = section.get("heading", "")
             why = section.get("whyItMatters", "")
-            if heading and why:
-                desc_parts.append(f"\n\n{heading}\nWhy it matters: {why}")
+            if heading:
+                desc_parts.append(heading)
+            if why:
+                desc_parts.append(why)
+                desc_parts.append("")
+
+        # Bottom Line
         if bottom_line:
-            desc_parts.append(f"\n\nThe Bottom Line: {bottom_line}")
-        description = xml_escape(" ".join(desc_parts))
+            desc_parts.append("The Bottom Line")
+            desc_parts.append(bottom_line)
+
+        description = xml_escape("\n".join(desc_parts))
 
         # Parse date for sorting and pubDate
         try:
@@ -74,7 +89,7 @@ def generate_feed():
             "description": description,
             "pubDate": pub_date,
             "guid": slug,
-            "category": "Evening Strategic Brief",
+            "category": "Strategic Brief",
             "sort_date": sort_date
         })
 
