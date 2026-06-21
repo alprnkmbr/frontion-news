@@ -43,8 +43,20 @@ def generate_feed():
 
         title = xml_escape(brief.get("title", entry.get("title", "")))
         subhead = xml_escape(brief.get("subhead", ""))
+        bottom_line = xml_escape(brief.get("bottomLine", ""))
         date_str = entry.get("date", brief.get("date", ""))
         label = "Evening Strategic Brief"
+
+        # Build rich description with sections and whyItMatters
+        desc_parts = [subhead]
+        for section in brief.get("sections", []):
+            heading = section.get("heading", "")
+            why = section.get("whyItMatters", "")
+            if heading and why:
+                desc_parts.append(f"\n\n{heading}\nWhy it matters: {why}")
+        if bottom_line:
+            desc_parts.append(f"\n\nThe Bottom Line: {bottom_line}")
+        description = xml_escape(" ".join(desc_parts))
 
         # Parse date for pubDate
         try:
@@ -57,7 +69,7 @@ def generate_feed():
         items.append({
             "title": f"{label}: {title}",
             "link": link,
-            "description": subhead,
+            "description": description,
             "pubDate": pub_date,
             "guid": slug,
             "category": "Evening Strategic Brief"
