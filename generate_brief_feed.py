@@ -40,7 +40,7 @@ def generate_feed():
         subhead = xml_escape(brief.get("subhead", ""))
         date_str = entry.get("date", brief.get("date", ""))
         btype = entry.get("type", brief.get("type", "morning"))
-        label = "Morning Brief" if btype == "morning" else "Evening Analysis"
+        label = "Daily Brief"
 
         # Parse date for pubDate
         try:
@@ -58,42 +58,6 @@ def generate_feed():
             "guid": slug,
             "category": "Global Brief"
         })
-
-    # Load weekly index
-    weekly_index_path = WEEKLY_DIR / "index.json"
-    if weekly_index_path.exists():
-        weekly_index = load_json(weekly_index_path)
-        for entry in weekly_index:
-            slug = entry.get("slug") or entry.get("date", "")
-            weekly_path = WEEKLY_DIR / f"{slug}.json"
-            if not weekly_path.exists():
-                continue
-
-            weekly = load_json(weekly_path)
-            title = xml_escape(weekly.get("title", ""))
-            # Use sections headings as description
-            sections = weekly.get("sections", [])
-            subhead = xml_escape(weekly.get("subhead", ""))
-            if not subhead and sections:
-                headings = [s.get("heading", "") for s in sections[:3]]
-                subhead = " • ".join(headings)
-
-            date_str = entry.get("date", "")
-            try:
-                dt = datetime.fromisoformat(date_str)
-                pub_date = dt.strftime("%a, %d %b %Y %H:%M:%S GMT")
-            except:
-                pub_date = date_str
-
-            link = f"{SITE_URL}/brief.html?b={slug}&tab=weekly"
-            items.append({
-                "title": f"Weekly Brief: {title}",
-                "link": link,
-                "description": subhead,
-                "pubDate": pub_date,
-                "guid": f"weekly-{slug}",
-                "category": "Weekly Brief"
-            })
 
     # Sort by date descending
     items.sort(key=lambda x: x["pubDate"], reverse=True)
