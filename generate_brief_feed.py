@@ -102,22 +102,20 @@ def generate_feed():
                     summary = summarize_text(clean_body, max_chars=250)
                     desc_parts.append(summary)
             if why:
-                why_summary = summarize_text(why, max_chars=180)
+                why_summary = summarize_text(why, max_chars=350)
                 desc_parts.append(f"Why it matters: {why_summary}")
                 desc_parts.append("")
 
-        # Bottom Line (summarized)
+        # Bottom Line (full, no truncation)
         if bottom_line:
             desc_parts.append("■ The Bottom Line")
-            bl_summary = summarize_text(bottom_line, max_chars=300)
-            desc_parts.append(bl_summary)
-
-        # Link to full brief
-        link_url = f"{SITE_URL}/brief.html?b={slug}"
-        desc_parts.append("")
-        desc_parts.append(f"Read the full brief → {link_url}")
+            desc_parts.append(bottom_line)
 
         description = xml_escape("\n".join(desc_parts))
+
+        # Truncate to LinkedIn 4000 char limit if needed
+        if len(description) > 3900:
+            description = description[:3890] + "..."
 
         # Parse date for sorting and pubDate
         try:
