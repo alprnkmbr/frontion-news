@@ -47,8 +47,8 @@ def generate_feed():
         date_str = entry.get("date", brief.get("date", ""))
         label = "Strategic Brief"
 
-        # Build rich description with sections and whyItMatters
-        # Format: BLUF, then each section with heading + whyItMatters, then Bottom Line
+        # Build rich description with sections, body text, and whyItMatters
+        # Format: BLUF, then each section with heading + body + whyItMatters, then Bottom Line
         desc_parts = []
 
         # BLUF (subhead)
@@ -59,16 +59,26 @@ def generate_feed():
         # Sections
         for section in brief.get("sections", []):
             heading = section.get("heading", "")
+            body = section.get("body", "")
             why = section.get("whyItMatters", "")
             if heading:
-                desc_parts.append(heading)
+                desc_parts.append(f"► {heading}")
+                desc_parts.append("")
+            # Strip HTML tags from body for plain text readability
+            import re
+            if body:
+                clean_body = re.sub(r'<[^>]+>', '', body)
+                clean_body = clean_body.strip()
+                if clean_body:
+                    desc_parts.append(clean_body)
+                    desc_parts.append("")
             if why:
-                desc_parts.append(why)
+                desc_parts.append(f"Why it matters: {why}")
                 desc_parts.append("")
 
         # Bottom Line
         if bottom_line:
-            desc_parts.append("The Bottom Line")
+            desc_parts.append("■ The Bottom Line")
             desc_parts.append(bottom_line)
 
         description = xml_escape("\n".join(desc_parts))
