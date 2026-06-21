@@ -23,6 +23,36 @@ def load_json(path):
 def xml_escape(text):
     return text.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;").replace('"', "&quot;")
 
+def summarize_text(text, max_chars=250):
+    """Summarize text to 1-2 sentences within max_chars."""
+    # Split into sentences
+    sentences = []
+    current = ""
+    for char in text:
+        current += char
+        if char in ".!?":
+            sentences.append(current.strip())
+            current = ""
+    if current.strip():
+        sentences.append(current.strip())
+    
+    if not sentences:
+        return text[:max_chars]
+    
+    # Take sentences until we exceed max_chars
+    result = ""
+    for s in sentences:
+        if len(result) + len(s) + 1 <= max_chars:
+            result = (result + " " + s).strip()
+        else:
+            break
+    
+    # If even first sentence is too long, truncate
+    if not result:
+        result = sentences[0][:max_chars]
+    
+    return result
+
 def generate_feed():
     items = []
 
@@ -47,8 +77,9 @@ def generate_feed():
         date_str = entry.get("date", brief.get("date", ""))
         label = "Strategic Brief"
 
-        # Build rich description with sections, body text, and whyItMatters
-        # Format: BLUF, then each section with heading + body + whyItMatters, then Bottom Line
+        # Build LinkedIn-friendly description (under 4000 chars)
+        # Format: BLUF, then each section heading + 1-2 sentence body summary + whyItMatters (full), then Bottom Line + link
+        import re
         desc_parts = []
 
         # BLUF (subhead)
@@ -56,30 +87,35 @@ def generate_feed():
             desc_parts.append(subhead)
             desc_parts.append("")
 
-        # Sections
+        # Sections: heading + body summary (1-2 sentences) + whyItMatters (full)
         for section in brief.get("sections", []):
             heading = section.get("heading", "")
             body = section.get("body", "")
             why = section.get("whyItMatters", "")
             if heading:
                 desc_parts.append(f"► {heading}")
-                desc_parts.append("")
-            # Strip HTML tags from body for plain text readability
-            import re
+            # Strip HTML tags and summarize body to 1-2 sentences
             if body:
-                clean_body = re.sub(r'<[^>]+>', '', body)
-                clean_body = clean_body.strip()
+                clean_body = re.sub(r'<[^>]+>', '', body).strip()
                 if clean_body:
-                    desc_parts.append(clean_body)
-                    desc_parts.append("")
+                    # Take first 1-2 sentences (up to ~250 chars)
+                    summary = summarize_text(clean_body, max_chars=250)
+                    desc_parts.append(summary)
             if why:
-                desc_parts.append(f"Why it matters: {why}")
+                why_summary = summarize_text(why, max_chars=180)
+                desc_parts.append(f"Why it matters: {why_summary}")
                 desc_parts.append("")
 
-        # Bottom Line
+        # Bottom Line (summarized)
         if bottom_line:
             desc_parts.append("■ The Bottom Line")
-            desc_parts.append(bottom_line)
+            bl_summary = summarize_text(bottom_line, max_chars=300)
+            desc_parts.append(bl_summary)
+
+        # Link to full brief
+        link_url = f"{SITE_URL}/brief.html?b={slug}"
+        desc_parts.append("")
+        desc_parts.append(f"Read the full brief → {link_url}")
 
         description = xml_escape("\n".join(desc_parts))
 
