@@ -1,0 +1,18 @@
+{
+  "date": "2026-06-23",
+  "title": "LinkedIn Format Test 2",
+  "subhead": "Verifying LinkedIn post formatting: BLUF, section headings, and Bottom Line should all display cleanly.",
+  "sections": [
+    {
+      "heading": "Automation Pipeline Confirmed",
+      "body": "<p>Test content.</p>",
+      "whyItMatters": "This confirms the RSS-to-LinkedIn pipeline is producing readable, well-structured posts — not raw JSON or compressed blocks."
+    },
+    {
+      "heading": "Next Step: Daily Briefs Go Live",
+      "body": "<p>Test content.</p>",
+      "whyItMatters": "Once formatting is verified, every daily Strategic Brief will be automatically published to the Frontion News LinkedIn page."
+    }
+  ],
+  "bottomLine": "If this post looks good, we are live."
+}
