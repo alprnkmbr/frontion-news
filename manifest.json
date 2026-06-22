@@ -2,20 +2,20 @@
   "name": "Frontion News",
   "short_name": "Frontion",
   "description": "Strategic Analysis of the Latest Events Reshaping the World",
-  "start_url": "/frontion-news/",
-  "scope": "/frontion-news/",
+  "start_url": "/",
+  "scope": "/",
   "display": "fullscreen",
   "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "/frontion-news/icon-192.png",
+      "src": "/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/frontion-news/icon-512.png",
+      "src": "/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
