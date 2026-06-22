@@ -29,6 +29,106 @@ SITE_URL = "https://alprnkmbr.github.io/frontion-news"
 
 WEBHOOK_URL = "https://hook.eu1.make.com/w1evieps3ym9ihfkx9qgrwc386saaeis"
 
+# Topic-to-hashtag mapping for content-based hashtag selection
+HASHTAG_TOPICS = {
+    # Regions
+    "middle east": "#MiddleEast",
+    "israel": "#MiddleEast",
+    "iran": "#Iran",
+    "gaza": "#Gaza",
+    "lebanon": "#Lebanon",
+    "syria": "#Syria",
+    "turkey": "#Türkiye",
+    "türkiye": "#Türkiye",
+    "ukraine": "#Ukraine",
+    "russia": "#Russia",
+    "china": "#China",
+    "india": "#India",
+    "europe": "#Europe",
+    "eu ": "#EuropeanUnion",
+    "africa": "#Africa",
+    "latin america": "#LatinAmerica",
+    "colombia": "#LatinAmerica",
+    "bolivia": "#LatinAmerica",
+    "asia": "#AsiaPacific",
+    "japan": "#Japan",
+    "korea": "#Korea",
+    "taiwan": "#Taiwan",
+    # Topics
+    "energy": "#EnergySecurity",
+    "oil": "#EnergySecurity",
+    "gas": "#EnergySecurity",
+    "nuclear": "#NuclearPolicy",
+    "sanctions": "#Sanctions",
+    "trade war": "#TradeWar",
+    "tariff": "#TradeWar",
+    "trade": "#GlobalTrade",
+    "cyber": "#CyberSecurity",
+    "ai ": "#ArtificialIntelligence",
+    "artificial intelligence": "#ArtificialIntelligence",
+    "defense": "#DefensePolicy",
+    "military": "#DefensePolicy",
+    "election": "#Elections",
+    "democracy": "#Democracy",
+    "ceasefire": "#PeaceProcess",
+    "peace": "#PeaceProcess",
+    "diplomacy": "#Diplomacy",
+    "treaty": "#Diplomacy",
+    "climate": "#ClimatePolicy",
+    "refugee": "#HumanitarianCrisis",
+    "humanitarian": "#HumanitarianCrisis",
+    "economic": "#EconomicPolicy",
+    "inflation": "#EconomicPolicy",
+    "fed ": "#FederalReserve",
+    "interest rate": "#FederalReserve",
+    "supply chain": "#SupplyChain",
+    "semiconductor": "#Semiconductors",
+    "chip": "#Semiconductors",
+    "rare earth": "#CriticalMinerals",
+    "critical mineral": "#CriticalMinerals",
+    "pipeline": "#EnergySecurity",
+    "opec": "#OPEC",
+    "drone": "#DroneWarfare",
+    "submarine": "#NavalWarfare",
+    "naval": "#NavalWarfare",
+    "spy": "#Intelligence",
+    "intelligence": "#Intelligence",
+    "espionage": "#Intelligence",
+    "protest": "#CivilUnrest",
+    "coup": "#PoliticalInstability",
+    "revolution": "#PoliticalInstability",
+    "khan": "#Pakistan",
+    "pakistan": "#Pakistan",
+    "exam": "#India",
+    "brexit": "#Brexit",
+    "nato": "#NATO",
+    "switzerland": "#Diplomacy",
+    "deal": "#Diplomacy",
+    "negotiat": "#Diplomacy",
+}
+
+# Base hashtags always included
+BASE_HASHTAGS = ["#Geopolitics", "#Strategy"]
+
+
+def select_hashtags(text, max_hashtags=5):
+    """Select hashtags based on content analysis."""
+    text_lower = text.lower()
+    matched = set()
+    for keyword, tag in HASHTAG_TOPICS.items():
+        if keyword in text_lower:
+            matched.add(tag)
+    # Combine base + topic-specific, limit to max
+    all_tags = BASE_HASHTAGS + sorted(matched)
+    # Remove duplicates while preserving order
+    seen = set()
+    result = []
+    for tag in all_tags:
+        if tag not in seen:
+            seen.add(tag)
+            result.append(tag)
+    return result[:max_hashtags]
+
 
 def load_brief(date_str):
     """Load brief JSON for a given date."""
@@ -111,7 +211,12 @@ def send_bluf(date_str):
     title = brief.get("title", "")
     subhead = brief.get("subhead", "")
 
-    text = f"◆ {title}\n\n{subhead}"
+    # Select hashtags based on title + subhead content
+    content_text = f"{title} {subhead}"
+    hashtags = select_hashtags(content_text, max_hashtags=5)
+    hashtag_str = " ".join(hashtags)
+
+    text = f"◆ {title}\n\n{subhead}\n\n{hashtag_str}"
 
     send_post(text, image_url=image_url)
 
@@ -134,9 +239,15 @@ def send_section(date_str, section_num):
     if body:
         body = re.sub(r"<[^>]+>", "", body).strip()
 
+    # Select hashtags based on section heading + body + why
+    content_text = f"{heading} {body} {why}"
+    hashtags = select_hashtags(content_text, max_hashtags=5)
+    hashtag_str = " ".join(hashtags)
+
     text = f"► {heading}\n\n{body}"
     if why:
         text += f"\n\nWhy it matters: {why}"
+    text += f"\n\n{hashtag_str}"
 
     # Generate and push card image
     image_url = generate_card_and_push(date_str, "section", section_num)
@@ -153,7 +264,11 @@ def send_bottomline(date_str):
         print("Error: No bottom line found")
         sys.exit(1)
 
-    text = f"■ The Bottom Line\n\n{bottom_line}"
+    # Select hashtags based on bottom line content
+    hashtags = select_hashtags(bottom_line, max_hashtags=4)
+    hashtag_str = " ".join(hashtags)
+
+    text = f"■ The Bottom Line\n\n{bottom_line}\n\n{hashtag_str}"
 
     # Generate and push card image
     image_url = generate_card_and_push(date_str, "bottomline")
