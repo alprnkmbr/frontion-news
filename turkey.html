@@ -243,6 +243,19 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
 <body>
 
     <div class="status-bar-bg"></div>
+    <div class="read-settings-toggle" id="readSettingsToggle" onclick="toggleReadSettings()" title="Reading settings">⚙</div>
+    <div class="read-settings-panel" id="readSettingsPanel">
+        <label>Text Size <span class="read-settings-value" id="fontSizeValue">100%</span></label>
+        <input type="range" id="fontSizeSlider" min="70" max="140" value="100" step="5" oninput="updateReadSettings()">
+        <label>Content Width <span class="read-settings-value" id="contentWidthValue">Default</span></label>
+        <input type="range" id="contentWidthSlider" min="0" max="8" value="4" step="1" oninput="updateReadSettings()">
+        <div style="display:flex;justify-content:space-between;font-size:0.65rem;color:var(--color-text-tertiary);margin:-0.5rem 0 1rem;padding:0 2px"><span>Narrow</span><span>Default</span><span>Wide</span></div>
+        <label>Text Align</label>
+        <div class="read-justify-group">
+            <button class="read-settings-btn active" id="justifyLeft" onclick="setJustify('left')">Left</button>
+            <button class="read-settings-btn" id="justifyJustify" onclick="setJustify('justify')">Justify</button>
+        </div>
+    </div>
     <div class="dark-toggle" id="darkToggle" onclick="toggleDark()" title="Toggle dark mode">
         <span id="darkIcon">&#9790;</span>
     </div>
@@ -371,6 +384,36 @@ fetch('turkey/index.json?v=' + Date.now())
   .catch(function(err) {
     document.getElementById('content').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load Türkiye Brief index.</p>';
   });
+
+
+// Reading settings
+
+try {
+    var s = JSON.parse(localStorage.getItem('readSettings'));
+    if (s) {
+      if (s.fontSize && s.fontSize !== '100') {
+        var px = Math.round(17 * s.fontSize / 100);
+        document.documentElement.style.fontSize = px + 'px';
+      }
+      if (s.contentWidth !== undefined && s.contentWidth !== '4') {
+        var widths = ['360px', '440px', '520px', '600px', '680px', '800px', '920px', '1040px', '100%'];
+        document.documentElement.style.setProperty('--max-width', widths[s.contentWidth]);
+      }
+      if (s.justify === 'justify') {
+        document.documentElement.classList.add('read-justify');
+      }
+    }
+  } catch(e) {}
+function toggleReadSettings() {
+    document.getElementById('readSettingsPanel').classList.toggle('open');
+}
+document.addEventListener('click', function(e) {
+    var panel = document.getElementById('readSettingsPanel');
+    var toggle = document.getElementById('readSettingsToggle');
+    if (panel && toggle && !panel.contains(e.target) && !toggle.contains(e.target)) {
+        panel.classList.remove('open');
+    }
+});
 
 // Dark mode
 function toggleDark() {
