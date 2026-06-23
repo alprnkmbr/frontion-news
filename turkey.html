@@ -293,6 +293,7 @@ var briefs = [];
 var currentIndex = 0;
 var viewOffset = 0;
 var DATES_VISIBLE = 7;
+var readSettingsOpen = false;
 
 function formatDateShort(iso) {
     var d = new Date(iso + 'T00:00:00');
@@ -385,37 +386,76 @@ fetch('turkey/index.json?v=' + Date.now())
     document.getElementById('content').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load Türkiye Brief index.</p>';
   });
 
+// ============ READING SETTINGS ============
+var widthLabels = ['Narrow', 'Compact', 'Comfortable', 'Slightly Narrow', 'Default', 'Slightly Wide', 'Wide', 'Wider', 'Full'];
 
-// Reading settings
-
-try {
-    var s = JSON.parse(localStorage.getItem('readSettings'));
-    if (s) {
-      if (s.fontSize && s.fontSize !== '100') {
-        var px = Math.round(17 * s.fontSize / 100);
-        document.documentElement.style.fontSize = px + 'px';
-      }
-      if (s.contentWidth !== undefined && s.contentWidth !== '4') {
-        var widths = ['360px', '440px', '520px', '600px', '680px', '800px', '920px', '1040px', '100%'];
-        document.documentElement.style.setProperty('--max-width', widths[s.contentWidth]);
-      }
-      if (s.justify === 'justify') {
-        document.documentElement.classList.add('read-justify');
-      }
-    }
-  } catch(e) {}
 function toggleReadSettings() {
-    document.getElementById('readSettingsPanel').classList.toggle('open');
+    readSettingsOpen = !readSettingsOpen;
+    var panel = document.getElementById('readSettingsPanel');
+    panel.classList.toggle('open', readSettingsOpen);
 }
 document.addEventListener('click', function(e) {
-    var panel = document.getElementById('readSettingsPanel');
-    var toggle = document.getElementById('readSettingsToggle');
-    if (panel && toggle && !panel.contains(e.target) && !toggle.contains(e.target)) {
-        panel.classList.remove('open');
+    if (readSettingsOpen && !e.target.closest('#readSettingsPanel') && !e.target.closest('#readSettingsToggle')) {
+        readSettingsOpen = false;
+        document.getElementById('readSettingsPanel').classList.remove('open');
     }
 });
 
-// Dark mode
+function updateReadSettings() {
+    var fs = document.getElementById('fontSizeSlider').value;
+    var cw = document.getElementById('contentWidthSlider').value;
+    var basePx = 17;
+    var newPx = Math.round(basePx * fs / 100);
+    document.documentElement.style.fontSize = newPx + 'px';
+    document.getElementById('fontSizeValue').textContent = fs + '%';
+    var widths = ['360px', '440px', '520px', '600px', '680px', '800px', '920px', '1040px', '100%'];
+    var mw = widths[cw];
+    var els = document.querySelectorAll('.site-main, .header-inner, .tab-bar, .tab-divider, .site-footer .footer-inner');
+    for (var i = 0; i < els.length; i++) { els[i].style.maxWidth = mw; els[i].style.marginLeft = 'auto'; els[i].style.marginRight = 'auto'; }
+    document.getElementById('contentWidthValue').textContent = widthLabels[cw];
+    try {
+        localStorage.setItem('readSettings', JSON.stringify({fontSize: fs, contentWidth: cw, justify: getCurrentJustify()}));
+    } catch(e) {}
+}
+
+function getCurrentJustify() {
+    return document.documentElement.classList.contains('read-justify') ? 'justify' : 'left';
+}
+
+function setJustify(mode) {
+    var leftBtn = document.getElementById('justifyLeft');
+    var justBtn = document.getElementById('justifyJustify');
+    if (mode === 'justify') {
+        leftBtn.classList.remove('active');
+        justBtn.classList.add('active');
+        document.documentElement.classList.add('read-justify');
+    } else {
+        leftBtn.classList.add('active');
+        justBtn.classList.remove('active');
+        document.documentElement.classList.remove('read-justify');
+    }
+    try {
+        localStorage.setItem('readSettings', JSON.stringify({fontSize: document.getElementById('fontSizeSlider').value, contentWidth: document.getElementById('contentWidthSlider').value, justify: mode}));
+    } catch(e) {}
+}
+
+(function() {
+    try {
+        var s = JSON.parse(localStorage.getItem('readSettings'));
+        if (s) {
+            document.getElementById('fontSizeSlider').value = s.fontSize;
+            document.getElementById('contentWidthSlider').value = s.contentWidth;
+            if (s.justify === 'justify') {
+                document.getElementById('justifyLeft').classList.remove('active');
+                document.getElementById('justifyJustify').classList.add('active');
+                document.documentElement.classList.add('read-justify');
+            }
+            setTimeout(function() { updateReadSettings(); }, 50);
+        }
+    } catch(e) {}
+})();
+
+// ============ DARK MODE ============
 function toggleDark() {
     document.documentElement.classList.toggle('dark-mode');
     var isDark = document.documentElement.classList.contains('dark-mode');
