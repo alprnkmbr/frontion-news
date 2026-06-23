@@ -1,0 +1,142 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-23T08:23:25.158Z",
+  "entries": {
+    "memory:memory/2026-06-21.md:49:77": {
+      "key": "memory:memory/2026-06-21.md:49:77",
+      "path": "memory/2026-06-21.md",
+      "startLine": 49,
+      "endLine": 77,
+      "source": "memory",
+      "snippet": "- Shows: \"Frontion News\" (large, black) / \"Strategic Brief\" (large, red accent) / date (gray) - Size: 1200x675px - Pushed to GitHub Pages, URL used in webhook payload ### Key Files - `/Users/claudius/clawd/frontion-site/linkedin_card.py` — generates BLUF card image - `/Users/claudius/clawd/frontion-site/linkedin_post.py` — generates & sends posts via Make.com webhook - `/Users/claudius/clawd/frontion-site/generate_brief_feed.py` — RSS feed generator (still exists for site feed) ### Make.com Setup - Webhook module → Router → two LinkedIn modules: 1. **Route 1** (image_url EXISTS) → LinkedIn Create a Company Image Post 2. **Route 2** (image_url does NOT exist) → LinkedIn Create a Company",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.000011211535573611627,
+      "maxScore": 0.000007752810505039595,
+      "firstRecalledAt": "2026-06-22T12:13:13.144Z",
+      "lastRecalledAt": "2026-06-23T05:19:03.328Z",
+      "queryHashes": [
+        "e4dca54e6768",
+        "5f72a327ee29",
+        "ab6c17904322"
+      ],
+      "recallDays": [
+        "2026-06-22",
+        "2026-06-23"
+      ],
+      "conceptTags": [
+        "router",
+        "make.com",
+        "image-url",
+        "shows",
+        "frontion",
+        "news",
+        "large",
+        "black"
+      ]
+    },
+    "memory:memory/2026-06-21.md:1:55": {
+      "key": "memory:memory/2026-06-21.md:1:55",
+      "path": "memory/2026-06-21.md",
+      "startLine": 1,
+      "endLine": 55,
+      "source": "memory",
+      "snippet": "## LinkedIn Pipeline Setup — Completed ### Architecture - **Make.com webhook** → LinkedIn Company Page posting - **Webhook URL**: `https://hook.eu1.make.com/w1evieps3ym9ihfkx9qgrwc386saaeis` - **Organization ID**: `urn:li:organization:134714072` (Frontion News) - **LinkedIn App Client ID**: `77osu5eze48uu1` - **LinkedIn Developer App**: Created but `w_organization_social` scope not yet approved — direct API access not possible yet, must use Make.com ### LinkedIn Post Formats (confirmed with user) **BLUF post (07:15, with image card):** ``` Frontion Strategic Brief ▎ June 21, 2026 ◆ [Brief Title] [BLUF text, no ► arrow] ``` **Section posts (hourly, plain text):** ``` ► [Heading] [Full b",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.000003394994913013086,
+      "maxScore": 0.0000017406719256509997,
+      "firstRecalledAt": "2026-06-22T12:13:13.144Z",
+      "lastRecalledAt": "2026-06-22T18:30:08.115Z",
+      "queryHashes": [
+        "e4dca54e6768",
+        "5f72a327ee29"
+      ],
+      "recallDays": [
+        "2026-06-22"
+      ],
+      "conceptTags": [
+        "make.com",
+        "w-organization-social",
+        "linkedin",
+        "pipeline",
+        "setup",
+        "completed",
+        "architecture",
+        "webhook"
+      ]
+    },
+    "memory:memory/2026-06-21.md:90:100": {
+      "key": "memory:memory/2026-06-21.md:90:100",
+      "path": "memory/2026-06-21.md",
+      "startLine": 90,
+      "endLine": 100,
+      "source": "memory",
+      "snippet": "- LinkedIn pipeline tested and working: BLUF (image) + sections (text) both confirmed on LinkedIn ### Lessons Learned - When explaining technical steps to user, give CLEAR STEP-BY-STEP instructions: 1. Click + button → add X 2. Click + button → add Y 3. Delete old Z 4. Click arrow between A and B → set filter Don't assume user will figure out the order. List every step explicitly. - **NEVER send manual LinkedIn posts or any manual action without explicit user approval first.** Cron handles everything automatically. Manual test posts caused duplicate errors and locked up Make.com. - Test posts were sent before cron ran, causing the 08:00 cron to hit duplicate content errors → Make.",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.000003928770232396605,
+      "maxScore": 0.000001545794348282764,
+      "firstRecalledAt": "2026-06-22T12:13:13.144Z",
+      "lastRecalledAt": "2026-06-23T08:23:25.158Z",
+      "queryHashes": [
+        "e4dca54e6768",
+        "2f4c15e6f5ab",
+        "81a4fded93c2"
+      ],
+      "recallDays": [
+        "2026-06-22",
+        "2026-06-23"
+      ],
+      "conceptTags": [
+        "step-by-step",
+        "make.com",
+        "linkedin",
+        "pipeline",
+        "tested",
+        "working",
+        "bluf",
+        "image"
+      ]
+    },
+    "memory:memory/2026-06-21.md:72:98": {
+      "key": "memory:memory/2026-06-21.md:72:98",
+      "path": "memory/2026-06-21.md",
+      "startLine": 72,
+      "endLine": 98,
+      "source": "memory",
+      "snippet": "- `w_organization_social` scope NOT yet authorized — OAuth flow failed with `unauthorized_scope_error` - Direct API access blocked until scope approved; Make.com handles OAuth/token refresh ### RSS Feed (separate from LinkedIn pipeline) - Feed URL: `https://alprnkmbr.github.io/frontion-news/feed.xml` - \"Evening\" removed from title — just \"Strategic Brief\" - Feed format: heading + body summary (1-2 sentences) + whyItMatters (350 char cap) + Bottom Line - 4000 char safety cap for LinkedIn compatibility - Make.com RSS scenario still exists but will be superseded by webhook pipeline ### Important Rules - Never push changes without user approval - Test briefs (2026-06-25, 26, 27) were cleaned f",
+      "recallCount": 5,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.000010732163874151672,
+      "maxScore": 0.000006484976774590248,
+      "firstRecalledAt": "2026-06-22T12:13:13.144Z",
+      "lastRecalledAt": "2026-06-23T08:23:25.158Z",
+      "queryHashes": [
+        "e4dca54e6768",
+        "5f72a327ee29",
+        "ab6c17904322",
+        "2f4c15e6f5ab",
+        "81a4fded93c2"
+      ],
+      "recallDays": [
+        "2026-06-22",
+        "2026-06-23"
+      ],
+      "conceptTags": [
+        "w-organization-social",
+        "unauthorized-scope-error",
+        "make.com",
+        "oauth/token",
+        "1-2",
+        "scope",
+        "not",
+        "yet"
+      ]
+    }
+  }
+}
