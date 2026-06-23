@@ -263,6 +263,13 @@ html.dark-mode .read-settings-panel { box-shadow: 0 4px 20px rgba(0,0,0,0.5); }
 .dark-toggle:hover { border-color: var(--color-text-secondary); }
 html.dark-mode .dark-toggle { background: var(--color-bg); }
 
+/* SUBSCRIBE BUTTON */
+.subscribe-btn { display: inline-block; font-family: var(--font-body); font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-accent); border: 1px solid var(--color-accent); padding: 0.35rem 0.9rem; border-radius: 2px; text-decoration: none; transition: background 0.2s, color 0.2s; white-space: nowrap; align-self: center; margin-left: 1.2rem; }
+.subscribe-btn:hover { background: var(--color-accent); color: #fff; }
+html.dark-mode .subscribe-btn { color: var(--color-accent); border-color: var(--color-accent); }
+html.dark-mode .subscribe-btn:hover { background: var(--color-accent); color: #111; }
+@media (max-width: 640px) { .subscribe-btn { font-size: 0.65rem; padding: 0.3rem 0.7rem; margin-left: 0.6rem; } }
+
 
     </style>
 </head>
@@ -295,6 +302,7 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
                 <span class="tagline-line tagline-mobile2">OF THE LATEST EVENTS</span>
                 <span class="tagline-line tagline-mobile2">RESHAPING THE WORLD</span>
             </div>
+            <a href="https://is.gd/lnv3hn" target="_blank" rel="noopener" class="subscribe-btn">Subscribe</a>
         </div>
     </header>
 
