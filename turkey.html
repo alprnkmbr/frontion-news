@@ -6,7 +6,6 @@
     <title>Türkiye Brief — Frontion News</title>
     <meta name="description" content="Türkiye strategic analysis brief.">
     <meta name="robots" content="noindex">
-    <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#ffffff">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
@@ -260,9 +259,9 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
 
     <main class="site-main">
         <div class="date-timeline" style="margin-bottom:1.5rem">
-            <button class="timeline-arrow" id="prevBtn" onclick="shiftTimeline(-1)">&#8592;</button>
+            <button class="timeline-arrow" id="prevBtn" onclick="shiftTimeline(-1)">←</button>
             <div class="timeline-dates" id="timelineDates"></div>
-            <button class="timeline-arrow" id="nextBtn" onclick="shiftTimeline(1)">&#8594;</button>
+            <button class="timeline-arrow" id="nextBtn" onclick="shiftTimeline(1)">→</button>
         </div>
         <div id="content">
             <p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading Türkiye Brief…</p>
@@ -280,7 +279,7 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
 var briefs = [];
 var currentIndex = 0;
 var viewOffset = 0;
-const DATES_VISIBLE = 7;
+var DATES_VISIBLE = 7;
 
 function formatDateShort(iso) {
     var d = new Date(iso + 'T00:00:00');
