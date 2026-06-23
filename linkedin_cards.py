@@ -20,8 +20,34 @@ from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 
 SITE_DIR = Path(__file__).parent
-BRIEFS_DIR = SITE_DIR / "briefs"
 CARDS_DIR = SITE_DIR / "linkedin-cards"
+
+# Source directories
+SOURCES = {
+    "brief": SITE_DIR / "briefs",
+    "defense": SITE_DIR / "defense",
+    "energy": SITE_DIR / "energy",
+    "turkey": SITE_DIR / "turkey",
+}
+
+# Source-specific card filename prefixes
+SOURCE_CARD_PREFIX = {
+    "brief": "",
+    "defense": "defense-",
+    "energy": "energy-",
+    "turkey": "turkey-",
+}
+
+# Source-specific header labels
+SOURCE_HEADER = {
+    "brief": "Strategic Brief",
+    "defense": "Defense Brief",
+    "energy": "Energy Brief",
+    "turkey": "Türkiye Brief",
+}
+
+# Current source (default: brief)
+CURRENT_SOURCE = "brief"
 
 WIDTH = 1080
 MARGIN_X = 50
@@ -61,9 +87,10 @@ PAGE_FONT = find_font(22)
 
 
 def load_brief(date_str):
-    brief_path = BRIEFS_DIR / f"{date_str}.json"
+    brief_dir = SOURCES[CURRENT_SOURCE]
+    brief_path = brief_dir / f"{date_str}.json"
     if not brief_path.exists():
-        print(f"Error: Brief not found for {date_str}")
+        print(f"Error: Brief not found for {date_str} in {CURRENT_SOURCE}")
         sys.exit(1)
     with open(brief_path, "r", encoding="utf-8") as f:
         return json.load(f)
@@ -120,11 +147,11 @@ def draw_justified(draw, lines, x, y, font, fill, max_width, line_height):
     return y
 
 
-def draw_header(draw, date_display):
+def draw_header(draw, date_display, source_label="Strategic Brief"):
     """Draw the common header (brand + date)."""
     draw.rectangle([0, 0, WIDTH, 8], fill=ACCENT_COLOR)
     draw.text((MARGIN_X, 40), "FRONTION NEWS", fill=TEXT_COLOR, font=BRAND_FONT)
-    draw.text((MARGIN_X, 92), "Strategic Brief", fill=ACCENT_COLOR, font=BRAND_FONT)
+    draw.text((MARGIN_X, 92), source_label, fill=ACCENT_COLOR, font=BRAND_FONT)
     draw.text((MARGIN_X, 150), date_display, fill=DATE_COLOR, font=SMALL_FONT)
     draw.rectangle([MARGIN_X, 195, 340, 197], fill=ACCENT_COLOR)
 
@@ -142,7 +169,7 @@ def draw_footer(draw, height):
     draw.rectangle([0, height - 8, WIDTH, height], fill=ACCENT_COLOR)
 
 
-def generate_bluf_card(brief, date_str, page_num, total_pages):
+def generate_bluf_card(brief, date_str, page_num, total_pages, source_label="Strategic Brief"):
     """Generate BLUF card image."""
     title = brief.get("title", "")
     subhead = brief.get("subhead", "")
@@ -160,7 +187,7 @@ def generate_bluf_card(brief, date_str, page_num, total_pages):
     img = Image.new("RGB", (WIDTH, total_h), color=BG_COLOR)
     draw = ImageDraw.Draw(img)
 
-    draw_header(draw, date_display)
+    draw_header(draw, date_display, source_label)
     draw_page_number(draw, page_num, total_pages, total_h)
 
     y = 225
@@ -176,14 +203,15 @@ def generate_bluf_card(brief, date_str, page_num, total_pages):
     y += 40
     draw_footer(draw, total_h)
 
+    prefix = SOURCE_CARD_PREFIX.get(CURRENT_SOURCE, "")
     CARDS_DIR.mkdir(exist_ok=True)
-    path = CARDS_DIR / f"bluf-{date_str}.png"
+    path = CARDS_DIR / f"{prefix}bluf-{date_str}.png"
     img.save(path, "PNG")
     print(f"BLUF card saved: {path}")
     return path
 
 
-def generate_section_card(brief, date_str, section_num, page_num, total_pages):
+def generate_section_card(brief, date_str, section_num, page_num, total_pages, source_label="Strategic Brief"):
     """Generate a section card image."""
     sections = brief.get("sections", [])
     if section_num < 1 or section_num > len(sections):
@@ -212,7 +240,7 @@ def generate_section_card(brief, date_str, section_num, page_num, total_pages):
     img = Image.new("RGB", (WIDTH, total_h), color=BG_COLOR)
     draw = ImageDraw.Draw(img)
 
-    draw_header(draw, date_display)
+    draw_header(draw, date_display, source_label)
     draw_page_number(draw, page_num, total_pages, total_h)
 
     y = 225
@@ -237,14 +265,15 @@ def generate_section_card(brief, date_str, section_num, page_num, total_pages):
     y += 40
     draw_footer(draw, total_h)
 
+    prefix = SOURCE_CARD_PREFIX.get(CURRENT_SOURCE, "")
     CARDS_DIR.mkdir(exist_ok=True)
-    path = CARDS_DIR / f"section-{section_num}-{date_str}.png"
+    path = CARDS_DIR / f"{prefix}section-{section_num}-{date_str}.png"
     img.save(path, "PNG")
     print(f"Section {section_num} card saved: {path}")
     return path
 
 
-def generate_bottomline_card(brief, date_str, page_num, total_pages):
+def generate_bottomline_card(brief, date_str, page_num, total_pages, source_label="Strategic Brief"):
     """Generate Bottom Line card image."""
     bottom_line = brief.get("bottomLine", "")
     date_display = format_date_display(date_str)
@@ -260,7 +289,7 @@ def generate_bottomline_card(brief, date_str, page_num, total_pages):
     img = Image.new("RGB", (WIDTH, total_h), color=BG_COLOR)
     draw = ImageDraw.Draw(img)
 
-    draw_header(draw, date_display)
+    draw_header(draw, date_display, source_label)
     draw_page_number(draw, page_num, total_pages, total_h)
 
     y = 225
@@ -273,59 +302,83 @@ def generate_bottomline_card(brief, date_str, page_num, total_pages):
     y += 40
     draw_footer(draw, total_h)
 
+    prefix = SOURCE_CARD_PREFIX.get(CURRENT_SOURCE, "")
     CARDS_DIR.mkdir(exist_ok=True)
-    path = CARDS_DIR / f"bottomline-{date_str}.png"
+    path = CARDS_DIR / f"{prefix}bottomline-{date_str}.png"
     img.save(path, "PNG")
     print(f"Bottom Line card saved: {path}")
     return path
 
 
-def generate_all_cards(date_str):
+def generate_all_cards(date_str, source=None):
     """Generate all cards for a brief."""
+    global CURRENT_SOURCE
+    if source:
+        CURRENT_SOURCE = source
     brief = load_brief(date_str)
     sections = brief.get("sections", [])
     total_pages = 1 + len(sections) + 1  # BLUF + sections + Bottom Line
+    source_label = SOURCE_HEADER.get(CURRENT_SOURCE, "Strategic Brief")
 
     CARDS_DIR.mkdir(exist_ok=True)
 
-    generate_bluf_card(brief, date_str, 1, total_pages)
+    generate_bluf_card(brief, date_str, 1, total_pages, source_label)
     for i in range(1, len(sections) + 1):
-        generate_section_card(brief, date_str, i, i + 1, total_pages)
-    generate_bottomline_card(brief, date_str, total_pages, total_pages)
+        generate_section_card(brief, date_str, i, i + 1, total_pages, source_label)
+    generate_bottomline_card(brief, date_str, total_pages, total_pages, source_label)
 
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python3 linkedin_cards.py <date> [bluf|section|bottomline] [section_num]")
-        print("  python3 linkedin_cards.py 2026-06-22          # Generate all cards")
-        print("  python3 linkedin_cards.py 2026-06-22 bluf      # BLUF card only")
-        print("  python3 linkedin_cards.py 2026-06-22 section 1  # Section 1 card only")
-        print("  python3 linkedin_cards.py 2026-06-22 bottomline # Bottom Line card only")
+        print("Usage: python3 linkedin_cards.py <date> [card_type] [section_num] [--source brief|defense|energy|turkey]")
+        print("  python3 linkedin_cards.py 2026-06-22                            # Generate all cards")
+        print("  python3 linkedin_cards.py 2026-06-22 bluf                       # BLUF card only")
+        print("  python3 linkedin_cards.py 2026-06-22 section 1                 # Section 1 card only")
+        print("  python3 linkedin_cards.py 2026-06-22 bottomline                  # Bottom Line card only")
+        print("  python3 linkedin_cards.py 2026-06-22 bluf --source defense       # Defense BLUF card")
         sys.exit(1)
 
-    date_str = sys.argv[1]
+    # Parse --source flag first
+    source = "brief"
+    args = []
+    i = 1
+    while i < len(sys.argv):
+        if sys.argv[i] == "--source" and i + 1 < len(sys.argv):
+            source = sys.argv[i + 1]
+            i += 2
+        else:
+            args.append(sys.argv[i])
+            i += 1
 
-    if len(sys.argv) == 2:
+    if source not in SOURCES:
+        print(f"Unknown source: {source}. Valid: {', '.join(SOURCES.keys())}")
+        sys.exit(1)
+    CURRENT_SOURCE = source
+    source_label = SOURCE_HEADER.get(CURRENT_SOURCE, "Strategic Brief")
+
+    date_str = args[0]
+
+    if len(args) == 1:
         # Generate all
         generate_all_cards(date_str)
     else:
-        command = sys.argv[2]
+        command = args[1]
         if command == "bluf":
             brief = load_brief(date_str)
             sections = brief.get("sections", [])
             total_pages = 1 + len(sections) + 1
-            generate_bluf_card(brief, date_str, 1, total_pages)
+            generate_bluf_card(brief, date_str, 1, total_pages, source_label)
         elif command == "section":
-            section_num = int(sys.argv[3])
+            section_num = int(args[2])
             brief = load_brief(date_str)
             sections = brief.get("sections", [])
             total_pages = 1 + len(sections) + 1
-            generate_section_card(brief, date_str, section_num, section_num + 1, total_pages)
+            generate_section_card(brief, date_str, section_num, section_num + 1, total_pages, source_label)
         elif command == "bottomline":
             brief = load_brief(date_str)
             sections = brief.get("sections", [])
             total_pages = 1 + len(sections) + 1
-            generate_bottomline_card(brief, date_str, total_pages, total_pages)
+            generate_bottomline_card(brief, date_str, total_pages, total_pages, source_label)
         else:
             print(f"Unknown command: {command}")
             sys.exit(1)

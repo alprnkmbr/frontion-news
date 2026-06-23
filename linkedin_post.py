@@ -24,8 +24,34 @@ from datetime import datetime
 from pathlib import Path
 
 SITE_DIR = Path(__file__).parent
-BRIEFS_DIR = SITE_DIR / "briefs"
 SITE_URL = "https://frontion.news"
+
+# Source directories
+SOURCES = {
+    "brief": SITE_DIR / "briefs",
+    "defense": SITE_DIR / "defense",
+    "energy": SITE_DIR / "energy",
+    "turkey": SITE_DIR / "turkey",
+}
+
+# Source-specific base hashtags
+SOURCE_HASHTAGS = {
+    "brief": ["#Geopolitics", "#Strategy"],
+    "defense": ["#DefensePolicy", "#Strategy"],
+    "energy": ["#EnergySecurity", "#Strategy"],
+    "turkey": ["#Türkiye", "#Strategy"],
+}
+
+# Source-specific card filename prefixes
+SOURCE_CARD_PREFIX = {
+    "brief": "",
+    "defense": "defense-",
+    "energy": "energy-",
+    "turkey": "turkey-",
+}
+
+# Current source (default: brief)
+CURRENT_SOURCE = "brief"
 
 WEBHOOK_URL = "https://hook.eu1.make.com/w1evieps3ym9ihfkx9qgrwc386saaeis"
 
@@ -112,14 +138,15 @@ BASE_HASHTAGS = ["#Geopolitics", "#Strategy"]
 
 
 def select_hashtags(text, max_hashtags=5):
-    """Select hashtags based on content analysis."""
+    """Select hashtags based on content analysis and current source."""
     text_lower = text.lower()
     matched = set()
     for keyword, tag in HASHTAG_TOPICS.items():
         if keyword in text_lower:
             matched.add(tag)
-    # Combine base + topic-specific, limit to max
-    all_tags = BASE_HASHTAGS + sorted(matched)
+    # Combine source-specific base + topic-specific
+    base_tags = SOURCE_HASHTAGS.get(CURRENT_SOURCE, ["#Geopolitics", "#Strategy"])
+    all_tags = base_tags + sorted(matched)
     # Remove duplicates while preserving order
     seen = set()
     result = []
@@ -131,10 +158,11 @@ def select_hashtags(text, max_hashtags=5):
 
 
 def load_brief(date_str):
-    """Load brief JSON for a given date."""
-    brief_path = BRIEFS_DIR / f"{date_str}.json"
+    """Load brief JSON for a given date from current source."""
+    brief_dir = SOURCES[CURRENT_SOURCE]
+    brief_path = brief_dir / f"{date_str}.json"
     if not brief_path.exists():
-        print(f"Error: Brief not found for {date_str}")
+        print(f"Error: Brief not found for {date_str} in {CURRENT_SOURCE}")
         sys.exit(1)
     with open(brief_path, "r", encoding="utf-8") as f:
         return json.load(f)
@@ -148,8 +176,10 @@ def format_date_display(date_str):
 
 def generate_card_and_push(date_str, card_type, section_num=None):
     """Generate card image and push to GitHub. Returns the image URL."""
-    # Generate card
-    args = ["python3", str(SITE_DIR / "linkedin_cards.py"), date_str, card_type]
+    prefix = SOURCE_CARD_PREFIX.get(CURRENT_SOURCE, "")
+
+    # Generate card — pass source so card generator can use correct brief dir
+    args = ["python3", str(SITE_DIR / "linkedin_cards.py"), date_str, card_type, "--source", CURRENT_SOURCE]
     if section_num is not None:
         args.append(str(section_num))
     subprocess.run(args, check=True)
@@ -157,11 +187,11 @@ def generate_card_and_push(date_str, card_type, section_num=None):
     # Determine card filename
     cards_dir = SITE_DIR / "linkedin-cards"
     if card_type == "bluf":
-        card_file = f"bluf-{date_str}.png"
+        card_file = f"{prefix}bluf-{date_str}.png"
     elif card_type == "section":
-        card_file = f"section-{section_num}-{date_str}.png"
+        card_file = f"{prefix}section-{section_num}-{date_str}.png"
     elif card_type == "bottomline":
-        card_file = f"bottomline-{date_str}.png"
+        card_file = f"{prefix}bottomline-{date_str}.png"
     else:
         print(f"Unknown card type: {card_type}")
         sys.exit(1)
@@ -171,7 +201,7 @@ def generate_card_and_push(date_str, card_type, section_num=None):
     # Git add, commit, push
     subprocess.run(["git", "add", str(card_path)], cwd=SITE_DIR, check=True)
     subprocess.run(
-        ["git", "commit", "-m", f"LinkedIn card: {card_type} {date_str}"],
+        ["git", "commit", "-m", f"LinkedIn card: {CURRENT_SOURCE} {card_type} {date_str}"],
         cwd=SITE_DIR,
         check=True,
     )
@@ -278,19 +308,37 @@ def send_bottomline(date_str):
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
-        print("Usage: python3 linkedin_post.py <bluf|section|bottomline> <date> [section_num]")
+        print("Usage: python3 linkedin_post.py <bluf|section|bottomline> <date> [section_num] [--source brief|defense|energy|turkey]")
         sys.exit(1)
 
     command = sys.argv[1]
     date_str = sys.argv[2]
 
+    # Parse --source flag
+    source = "brief"
+    remaining = []
+    i = 3
+    while i < len(sys.argv):
+        if sys.argv[i] == "--source" and i + 1 < len(sys.argv):
+            source = sys.argv[i + 1]
+            i += 2
+        else:
+            remaining.append(sys.argv[i])
+            i += 1
+
+    if source not in SOURCES:
+        print(f"Unknown source: {source}. Valid: {', '.join(SOURCES.keys())}")
+        sys.exit(1)
+
+    CURRENT_SOURCE = source
+
     if command == "bluf":
         send_bluf(date_str)
     elif command == "section":
-        if len(sys.argv) < 4:
-            print("Usage: python3 linkedin_post.py section <date> <section_num>")
+        if not remaining:
+            print("Usage: python3 linkedin_post.py section <date> <section_num> [--source ...]")
             sys.exit(1)
-        send_section(date_str, int(sys.argv[3]))
+        send_section(date_str, int(remaining[0]))
     elif command == "bottomline":
         send_bottomline(date_str)
     else:
