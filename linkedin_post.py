@@ -20,6 +20,7 @@ import subprocess
 import sys
 import time
 import urllib.request
+import urllib.error
 from datetime import datetime
 from pathlib import Path
 
@@ -174,6 +175,51 @@ def format_date_display(date_str):
     return dt.strftime("%B %d, %Y")
 
 
+def git_push_with_retry(retries=3, delay=5):
+    """Git push with retry logic for network issues."""
+    for attempt in range(1, retries + 1):
+        try:
+            result = subprocess.run(
+                ["git", "push"],
+                cwd=SITE_DIR,
+                capture_output=True,
+                text=True,
+                timeout=60,
+            )
+            if result.returncode == 0:
+                print(f"Git push succeeded (attempt {attempt})")
+                return True
+            print(f"Git push failed (attempt {attempt}): {result.stderr.strip()}")
+        except subprocess.TimeoutExpired:
+            print(f"Git push timed out (attempt {attempt})")
+        except Exception as e:
+            print(f"Git push error (attempt {attempt}): {e}")
+        if attempt < retries:
+            time.sleep(delay)
+    print("All git push attempts failed")
+    return False
+
+
+def wait_for_url(url, timeout=120, interval=5):
+    """Wait for a URL to return HTTP 200."""
+    print(f"Waiting for {url} to be accessible...")
+    start = time.time()
+    while time.time() - start < timeout:
+        try:
+            req = urllib.request.Request(url, method="HEAD")
+            req.add_header("User-Agent", "Frontion-Bot/1.0")
+            with urllib.request.urlopen(req, timeout=10) as resp:
+                if resp.status == 200:
+                    elapsed = time.time() - start
+                    print(f"URL accessible after {elapsed:.0f}s")
+                    return True
+        except (urllib.error.HTTPError, urllib.error.URLError, OSError):
+            pass
+        time.sleep(interval)
+    print(f"URL not accessible after {timeout}s timeout")
+    return False
+
+
 def generate_card_and_push(date_str, card_type, section_num=None):
     """Generate card image and push to GitHub. Returns the image URL."""
     prefix = SOURCE_CARD_PREFIX.get(CURRENT_SOURCE, "")
@@ -182,7 +228,11 @@ def generate_card_and_push(date_str, card_type, section_num=None):
     args = ["python3", str(SITE_DIR / "linkedin_cards.py"), date_str, card_type, "--source", CURRENT_SOURCE]
     if section_num is not None:
         args.append(str(section_num))
-    subprocess.run(args, check=True)
+    result = subprocess.run(args, capture_output=True, text=True)
+    if result.returncode != 0:
+        print(f"Card generation failed: {result.stderr}")
+        sys.exit(1)
+    print(result.stdout)
 
     # Determine card filename
     cards_dir = SITE_DIR / "linkedin-cards"
@@ -197,38 +247,74 @@ def generate_card_and_push(date_str, card_type, section_num=None):
         sys.exit(1)
 
     card_path = cards_dir / card_file
+    if not card_path.exists():
+        print(f"Error: Card file not found at {card_path}")
+        sys.exit(1)
 
-    # Git add, commit, push
+    # Git add, commit, push with retry
     subprocess.run(["git", "add", str(card_path)], cwd=SITE_DIR, check=True)
-    subprocess.run(
-        ["git", "commit", "-m", f"LinkedIn card: {CURRENT_SOURCE} {card_type} {date_str}"],
-        cwd=SITE_DIR,
-        check=True,
+
+    # Check if there's anything to commit
+    status = subprocess.run(
+        ["git", "status", "--porcelain", "--", str(card_path)],
+        cwd=SITE_DIR, capture_output=True, text=True
     )
-    subprocess.run(["git", "push"], cwd=SITE_DIR, check=True)
+    if status.stdout.strip():
+        subprocess.run(
+            ["git", "commit", "-m", f"LinkedIn card: {CURRENT_SOURCE} {card_type} {date_str}"],
+            cwd=SITE_DIR, check=True
+        )
+    else:
+        print("No changes to commit (card already tracked)")
+
+    if not git_push_with_retry():
+        print("FAILED: Could not push card to GitHub. Aborting post.")
+        sys.exit(1)
 
     # Wait for GitHub Pages to serve the file
-    time.sleep(5)
-
     image_url = f"{SITE_URL}/linkedin-cards/{card_file}"
+    if not wait_for_url(image_url, timeout=120, interval=5):
+        print(f"WARNING: Image URL not yet accessible, but proceeding with post anyway: {image_url}")
+
     return image_url
 
 
 def send_post(text, image_url=None):
-    """Send a post to Make.com webhook."""
+    """Send a post to Make.com webhook with retry logic."""
     payload = {"body": text}
     if image_url:
         payload["image_url"] = image_url
 
     data = json.dumps(payload).encode("utf-8")
-    req = urllib.request.Request(
-        WEBHOOK_URL,
-        data=data,
-        headers={"Content-Type": "application/json"},
-        method="POST",
-    )
-    with urllib.request.urlopen(req) as resp:
-        print(f"Post sent: {resp.status}")
+
+    for attempt in range(1, 4):
+        try:
+            req = urllib.request.Request(
+                WEBHOOK_URL,
+                data=data,
+                headers={"Content-Type": "application/json"},
+                method="POST",
+            )
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                print(f"Post sent successfully (attempt {attempt}): HTTP {resp.status}")
+                return True
+        except urllib.error.HTTPError as e:
+            body = e.read().decode("utf-8", errors="replace")[:500]
+            print(f"HTTP error (attempt {attempt}): {e.code} {e.reason}")
+            print(f"Response body: {body}")
+            if e.code >= 400 and e.code < 500:
+                print("Client error — retrying won't help. Aborting.")
+                return False
+        except (urllib.error.URLError, OSError) as e:
+            print(f"Network error (attempt {attempt}): {e}")
+        except Exception as e:
+            print(f"Unexpected error (attempt {attempt}): {e}")
+
+        if attempt < 3:
+            time.sleep(3)
+
+    print("All webhook send attempts failed")
+    return False
 
 
 def send_bluf(date_str):
@@ -248,7 +334,9 @@ def send_bluf(date_str):
 
     text = f"◆ {title}\n\n{subhead}\n\n{hashtag_str}"
 
-    send_post(text, image_url=image_url)
+    if not send_post(text, image_url=image_url):
+        print("FAILED: Could not send BLUF post to Make.com")
+        sys.exit(1)
 
 
 def send_section(date_str, section_num):
@@ -282,7 +370,9 @@ def send_section(date_str, section_num):
     # Generate and push card image
     image_url = generate_card_and_push(date_str, "section", section_num)
 
-    send_post(text, image_url=image_url)
+    if not send_post(text, image_url=image_url):
+        print(f"FAILED: Could not send Section {section_num} post to Make.com")
+        sys.exit(1)
 
 
 def send_bottomline(date_str):
@@ -303,7 +393,9 @@ def send_bottomline(date_str):
     # Generate and push card image
     image_url = generate_card_and_push(date_str, "bottomline")
 
-    send_post(text, image_url=image_url)
+    if not send_post(text, image_url=image_url):
+        print("FAILED: Could not send Bottom Line post to Make.com")
+        sys.exit(1)
 
 
 if __name__ == "__main__":
