@@ -25,7 +25,7 @@ from pathlib import Path
 
 SITE_DIR = Path(__file__).parent
 BRIEFS_DIR = SITE_DIR / "briefs"
-SITE_URL = "https://alprnkmbr.github.io/frontion-news"
+SITE_URL = "https://frontion.news"
 
 WEBHOOK_URL = "https://hook.eu1.make.com/w1evieps3ym9ihfkx9qgrwc386saaeis"
 
@@ -149,7 +149,7 @@ def format_date_display(date_str):
 def generate_card_and_push(date_str, card_type, section_num=None):
     """Generate card image and push to GitHub. Returns the image URL."""
     # Generate card
-    args = ["python3", str(SITE_DIR / "linkedin_cards.py"), card_type, date_str]
+    args = ["python3", str(SITE_DIR / "linkedin_cards.py"), date_str, card_type]
     if section_num is not None:
         args.append(str(section_num))
     subprocess.run(args, check=True)
