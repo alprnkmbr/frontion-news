@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Frontion News — Landing Mockup</title>
+    <title>Frontion News</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -14,9 +14,12 @@
             color: #e5e5e5;
             font-family: 'Inter', sans-serif;
             min-height: 100vh;
-            padding: 0 40px;
-            max-width: 1200px;
+        }
+
+        .container {
+            max-width: 960px;
             margin: 0 auto;
+            padding: 0 24px;
         }
 
         /* NAV */
@@ -24,26 +27,32 @@
             display: flex;
             align-items: center;
             justify-content: space-between;
-            padding: 24px 0;
-            border-bottom: 1px solid #222;
+            padding: 20px 0;
+            border-bottom: 2px solid #fff;
         }
         .logo {
             font-family: 'Playfair Display', serif;
-            font-size: 28px;
+            font-size: 26px;
             font-weight: 700;
-            letter-spacing: 2px;
+            letter-spacing: 3px;
             color: #fff;
+            text-decoration: none;
+        }
+        .nav-right {
+            display: flex;
+            align-items: center;
+            gap: 20px;
         }
         .nav-links {
             display: flex;
-            gap: 24px;
-            font-size: 13px;
-            font-weight: 500;
+            gap: 20px;
+            font-size: 12px;
+            font-weight: 600;
             text-transform: uppercase;
-            letter-spacing: 1px;
+            letter-spacing: 1.5px;
         }
         .nav-links a {
-            color: #888;
+            color: #777;
             text-decoration: none;
             transition: color 0.2s;
         }
@@ -51,12 +60,13 @@
         .subscribe-btn {
             background: #fff;
             color: #0a0a0a;
-            padding: 8px 20px;
+            padding: 7px 18px;
             border: none;
-            font-size: 12px;
+            font-family: 'Inter', sans-serif;
+            font-size: 11px;
             font-weight: 700;
             text-transform: uppercase;
-            letter-spacing: 1px;
+            letter-spacing: 1.5px;
             cursor: pointer;
         }
 
@@ -64,225 +74,250 @@
         .date-bar {
             display: flex;
             justify-content: space-between;
-            padding: 12px 0;
-            font-size: 12px;
-            color: #666;
+            padding: 10px 0;
+            font-size: 11px;
+            color: #555;
             text-transform: uppercase;
-            letter-spacing: 1px;
-            border-bottom: 1px solid #222;
+            letter-spacing: 1.5px;
+            border-bottom: 1px solid #1a1a1a;
         }
 
         /* HERO */
         .hero {
-            display: grid;
-            grid-template-columns: 1fr 1fr;
-            gap: 0;
-            margin-top: 32px;
-            min-height: 420px;
-        }
-        .hero-main {
-            padding-right: 40px;
-            border-right: 1px solid #222;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
+            margin-top: 40px;
+            padding-bottom: 40px;
+            border-bottom: 1px solid #1a1a1a;
         }
         .hero-category {
             font-size: 11px;
             font-weight: 700;
             text-transform: uppercase;
-            letter-spacing: 2px;
-            color: #999;
-            margin-bottom: 16px;
+            letter-spacing: 2.5px;
+            color: #666;
+            margin-bottom: 14px;
         }
         .hero-title {
             font-family: 'Playfair Display', serif;
-            font-size: 38px;
+            font-size: 44px;
             font-weight: 700;
-            line-height: 1.15;
+            line-height: 1.1;
             color: #fff;
-            margin-bottom: 16px;
+            margin-bottom: 18px;
+            max-width: 700px;
         }
         .hero-excerpt {
-            font-size: 16px;
-            line-height: 1.6;
-            color: #aaa;
-            margin-bottom: 20px;
+            font-size: 17px;
+            line-height: 1.65;
+            color: #999;
+            max-width: 640px;
+            margin-bottom: 22px;
         }
         .hero-link {
-            font-size: 13px;
-            font-weight: 600;
+            font-size: 12px;
+            font-weight: 700;
             color: #fff;
             text-decoration: none;
             text-transform: uppercase;
-            letter-spacing: 1px;
-            border-bottom: 1px solid #fff;
-            padding-bottom: 2px;
-            display: inline-block;
+            letter-spacing: 1.5px;
+            border-bottom: 2px solid #fff;
+            padding-bottom: 3px;
         }
 
-        .hero-side {
-            padding-left: 40px;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
+        /* SECONDARY STORIES */
+        .secondary {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
             gap: 0;
+            margin-top: 36px;
+            padding-bottom: 36px;
+            border-bottom: 1px solid #1a1a1a;
         }
-        .hero-side-item {
-            padding: 20px 0;
+        .secondary-item {
+            padding: 16px 0;
             border-bottom: 1px solid #1a1a1a;
             cursor: pointer;
-            transition: background 0.2s;
         }
-        .hero-side-item:hover { background: #111; }
-        .hero-side-item:last-child { border-bottom: none; }
-        .side-cat {
+        .secondary-item:hover .secondary-title { color: #fff; }
+        .secondary-left {
+            padding-right: 32px;
+            border-right: 1px solid #1a1a1a;
+        }
+        .secondary-right {
+            padding-left: 32px;
+        }
+        .secondary-cat {
             font-size: 10px;
             font-weight: 700;
             text-transform: uppercase;
             letter-spacing: 2px;
-            margin-bottom: 6px;
+            margin-bottom: 8px;
         }
-        .side-cat.defence { color: #dc2626; }
-        .side-cat.energy { color: #22c55e; }
-        .side-cat.tech { color: #3b82f6; }
-        .side-cat.finance { color: #eab308; }
-        .side-title {
+        .cat-global { color: #aaa; }
+        .cat-defence { color: #dc2626; }
+        .cat-energy { color: #22c55e; }
+        .cat-tech { color: #3b82f6; }
+        .cat-finance { color: #eab308; }
+        .secondary-title {
             font-family: 'Playfair Display', serif;
-            font-size: 18px;
+            font-size: 20px;
             font-weight: 700;
-            color: #ddd;
+            color: #ccc;
             line-height: 1.3;
+            transition: color 0.2s;
         }
-        .side-date {
+        .secondary-date {
             font-size: 11px;
-            color: #555;
-            margin-top: 4px;
+            color: #444;
+            margin-top: 6px;
         }
 
-        /* DIVIDER */
-        .section-divider {
-            border: none;
-            border-top: 1px solid #222;
-            margin: 40px 0 32px;
+        /* BRIEFS SECTION */
+        .section-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 36px;
+            margin-bottom: 24px;
         }
-
-        /* CATEGORY GRID */
         .section-title {
-            font-size: 12px;
+            font-size: 11px;
             font-weight: 700;
             text-transform: uppercase;
-            letter-spacing: 2px;
-            color: #666;
-            margin-bottom: 20px;
+            letter-spacing: 2.5px;
+            color: #555;
         }
-        .cat-grid {
+        .briefs-grid {
             display: grid;
-            grid-template-columns: repeat(5, 1fr);
-            gap: 16px;
-            margin-bottom: 40px;
+            grid-template-columns: 1fr 1fr;
+            gap: 24px;
+            margin-bottom: 48px;
         }
-        .cat-card {
-            background: #141414;
+        .brief-card {
+            background: #111;
             border: 1px solid #1a1a1a;
-            padding: 20px;
+            padding: 24px;
             cursor: pointer;
-            transition: border-color 0.2s, transform 0.1s;
+            transition: border-color 0.2s;
             position: relative;
-            overflow: hidden;
         }
-        .cat-card:hover {
+        .brief-card:hover {
             border-color: #333;
-            transform: translateY(-2px);
         }
-        .cat-card-stripe {
+        .brief-card-stripe {
             position: absolute;
             top: 0;
             left: 0;
             right: 0;
             height: 3px;
         }
-        .cat-card-stripe.global { background: #888; }
-        .cat-card-stripe.defence { background: #dc2626; }
-        .cat-card-stripe.energy { background: #22c55e; }
-        .cat-card-stripe.tech { background: #3b82f6; }
-        .cat-card-stripe.finance { background: #eab308; }
-        .cat-card-label {
+        .brief-card-stripe.global { background: #888; }
+        .brief-card-stripe.defence { background: #dc2626; }
+        .brief-card-stripe.energy { background: #22c55e; }
+        .brief-card-stripe.tech { background: #3b82f6; }
+        .brief-card-stripe.finance { background: #eab308; }
+        .brief-card-cat {
             font-size: 10px;
             font-weight: 700;
             text-transform: uppercase;
             letter-spacing: 2px;
-            color: #555;
-            margin-bottom: 12px;
-            margin-top: 8px;
+            margin-bottom: 10px;
+            margin-top: 4px;
         }
-        .cat-card-label.defence { color: #dc2626; }
-        .cat-card-label.energy { color: #22c55e; }
-        .cat-card-label.tech { color: #3b82f6; }
-        .cat-card-label.finance { color: #eab308; }
-        .cat-card-title {
+        .brief-card-title {
             font-family: 'Playfair Display', serif;
-            font-size: 16px;
+            font-size: 19px;
             font-weight: 700;
             color: #ddd;
             line-height: 1.3;
-            margin-bottom: 8px;
+            margin-bottom: 10px;
         }
-        .cat-card-date {
+        .brief-card-excerpt {
+            font-size: 13px;
+            line-height: 1.5;
+            color: #777;
+            margin-bottom: 14px;
+        }
+        .brief-card-date {
             font-size: 11px;
-            color: #555;
+            color: #444;
+        }
+        .brief-card-link {
+            font-size: 11px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            color: #888;
+            text-decoration: none;
+            float: right;
         }
 
         /* LATEST LIST */
-        .latest-list {
-            margin-top: 8px;
+        .latest-section {
+            margin-top: 12px;
+            padding-top: 36px;
+            border-top: 1px solid #1a1a1a;
         }
         .latest-item {
             display: flex;
             align-items: baseline;
-            padding: 10px 0;
-            border-bottom: 1px solid #1a1a1a;
-            font-size: 14px;
+            padding: 12px 0;
+            border-bottom: 1px solid #141414;
             cursor: pointer;
         }
-        .latest-item:hover { background: #0f0f0f; }
+        .latest-item:hover .latest-title { color: #fff; }
         .latest-dot {
-            width: 8px;
-            height: 8px;
+            width: 7px;
+            height: 7px;
             border-radius: 50%;
-            margin-right: 12px;
+            margin-right: 14px;
             flex-shrink: 0;
-            margin-top: 4px;
+            margin-top: 5px;
         }
         .latest-dot.global { background: #888; }
         .latest-dot.defence { background: #dc2626; }
         .latest-dot.energy { background: #22c55e; }
         .latest-dot.tech { background: #3b82f6; }
         .latest-dot.finance { background: #eab308; }
-        .latest-text {
-            color: #ccc;
+        .latest-title {
+            color: #bbb;
+            font-size: 15px;
             line-height: 1.4;
+            transition: color 0.2s;
         }
-        .latest-text .latest-date {
-            color: #555;
+        .latest-date {
+            color: #444;
             font-size: 12px;
-            margin-left: 8px;
+            margin-left: 10px;
+            white-space: nowrap;
         }
 
         /* FOOTER */
         footer {
-            margin-top: 60px;
+            margin-top: 48px;
             padding: 24px 0;
-            border-top: 1px solid #222;
+            border-top: 2px solid #fff;
             display: flex;
             justify-content: space-between;
-            font-size: 12px;
+            font-size: 11px;
             color: #444;
+            text-transform: uppercase;
+            letter-spacing: 1px;
         }
         footer a { color: #666; text-decoration: none; }
         footer a:hover { color: #999; }
 
-        /* MOCKUP BADGE */
+        /* RESPONSIVE */
+        @media (max-width: 768px) {
+            .container { padding: 0 16px; }
+            nav { flex-wrap: wrap; gap: 12px; }
+            .nav-links { display: none; }
+            .hero-title { font-size: 32px; }
+            .secondary { grid-template-columns: 1fr; }
+            .secondary-left { padding-right: 0; border-right: none; border-bottom: 1px solid #1a1a1a; }
+            .secondary-right { padding-left: 0; }
+            .briefs-grid { grid-template-columns: 1fr; }
+        }
+
         .mockup-badge {
             position: fixed;
             top: 16px;
@@ -299,128 +334,144 @@
     </style>
 </head>
 <body>
-    <div class="mockup-badge">Mockup Preview</div>
+    <div class="mockup-badge">Mockup v2</div>
 
-    <nav>
-        <div class="logo">FRONTION</div>
-        <div class="nav-links">
-            <a href="#">Global</a>
-            <a href="#">Defence</a>
-            <a href="#">Energy</a>
-            <a href="#">Tech</a>
-            <a href="#">Finance</a>
+    <div class="container">
+        <nav>
+            <a href="#" class="logo">FRONTION</a>
+            <div class="nav-right">
+                <div class="nav-links">
+                    <a href="#">Global</a>
+                    <a href="#">Defence</a>
+                    <a href="#">Energy</a>
+                    <a href="#">Tech</a>
+                    <a href="#">Finance</a>
+                </div>
+                <button class="subscribe-btn">Subscribe</button>
+            </div>
+        </nav>
+
+        <div class="date-bar">
+            <span>Monday, June 23, 2026</span>
+            <span>Strategic Intelligence, Delivered Daily</span>
         </div>
-        <button class="subscribe-btn">Subscribe</button>
-    </nav>
 
-    <div class="date-bar">
-        <span>Monday, June 23, 2026</span>
-        <span>Strategic Intelligence, Delivered Daily</span>
-    </div>
-
-    <!-- HERO -->
-    <div class="hero">
-        <div class="hero-main">
+        <!-- HERO -->
+        <div class="hero">
             <div class="hero-category">Global Brief</div>
             <div class="hero-title">Iran Ceasefire Holds as NATO Counts Its First Civilian Casualties</div>
             <div class="hero-excerpt">
-                A Russian drone injured two Romanian civilians — the first time the Ukraine war has physically harmed NATO citizens. Meanwhile, Trump's Iran deal meeting ended without announcement, and Israel pushed deeper into Lebanon past the Litani River.
+                A Russian drone injured two Romanian civilians in Galați — the first time the Ukraine war has physically harmed NATO citizens. Trump's Iran deal meeting ended without announcement, and Israel pushed deeper into Lebanon past the Litani River.
             </div>
             <a href="#" class="hero-link">Read full analysis →</a>
         </div>
-        <div class="hero-side">
-            <div class="hero-side-item">
-                <div class="side-cat defence">Defence</div>
-                <div class="side-title">US Marines Land in Australia as China Stealth Coating Breaks Through</div>
-                <div class="side-date">Jun 23, 2026</div>
+
+        <!-- SECONDARY STORIES -->
+        <div class="secondary">
+            <div class="secondary-left">
+                <div class="secondary-item">
+                    <div class="secondary-cat cat-defence">Defence</div>
+                    <div class="secondary-title">US Marines Land in Australia as China Stealth Coating Breaks Through</div>
+                    <div class="secondary-date">Jun 23, 2026</div>
+                </div>
+                <div class="secondary-item">
+                    <div class="secondary-cat cat-energy">Energy</div>
+                    <div class="secondary-title">OPEC Holds Steady as Hormuz Traffic Recovers to Pre-Crisis Levels</div>
+                    <div class="secondary-date">Jun 23, 2026</div>
+                </div>
             </div>
-            <div class="hero-side-item">
-                <div class="side-cat energy">Energy</div>
-                <div class="side-title">OPEC Holds Steady as Hormuz Traffic Recovers to Pre-Crisis Levels</div>
-                <div class="side-date">Jun 23, 2026</div>
-            </div>
-            <div class="hero-side-item">
-                <div class="side-cat tech">Tech</div>
-                <div class="side-title">EU AI Act Phase 2 Takes Effect Amid Industry Pushback</div>
-                <div class="side-date">Jun 23, 2026</div>
-            </div>
-            <div class="hero-side-item">
-                <div class="side-cat finance">Finance</div>
-                <div class="side-title">Dollar Slides as BRICS Reserve Fund Gains New Members</div>
-                <div class="side-date">Jun 23, 2026</div>
+            <div class="secondary-right">
+                <div class="secondary-item">
+                    <div class="secondary-cat cat-tech">Tech</div>
+                    <div class="secondary-title">EU AI Act Phase 2 Takes Effect Amid Industry Pushback</div>
+                    <div class="secondary-date">Jun 23, 2026</div>
+                </div>
+                <div class="secondary-item">
+                    <div class="secondary-cat cat-finance">Finance</div>
+                    <div class="secondary-title">Dollar Slides as BRICS Reserve Fund Gains New Members</div>
+                    <div class="secondary-date">Jun 23, 2026</div>
+                </div>
             </div>
         </div>
+
+        <!-- BRIEFS GRID -->
+        <div class="section-header">
+            <div class="section-title">Today's Briefs</div>
+        </div>
+        <div class="briefs-grid">
+            <div class="brief-card">
+                <div class="brief-card-stripe global"></div>
+                <div class="brief-card-cat cat-global">Global</div>
+                <div class="brief-card-title">Iran Ceasefire Holds as NATO Counts Its First Civilian Casualties</div>
+                <div class="brief-card-excerpt">A Russian drone struck Romanian territory, marking NATO's first civilian casualties. The Iran ceasefire framework held through its second day.</div>
+                <div class="brief-card-date">Jun 23, 2026 &nbsp;<a href="#" class="brief-card-link">Read →</a></div>
+            </div>
+            <div class="brief-card">
+                <div class="brief-card-stripe defence"></div>
+                <div class="brief-card-cat cat-defence">Defence</div>
+                <div class="brief-card-title">US Marines Land in Australia as China Stealth Coating Breaks Through</div>
+                <div class="brief-card-excerpt">2,500 US Marines deployed to Darwin. China unveiled a low-cost stealth coating that could reshape Pacific air superiority.</div>
+                <div class="brief-card-date">Jun 23, 2026 &nbsp;<a href="#" class="brief-card-link">Read →</a></div>
+            </div>
+            <div class="brief-card">
+                <div class="brief-card-stripe energy"></div>
+                <div class="brief-card-cat cat-energy">Energy</div>
+                <div class="brief-card-title">OPEC Holds Steady as Hormuz Traffic Recovers to Pre-Crisis Levels</div>
+                <div class="brief-card-excerpt">OPEC+ kept output unchanged. Hormuz transit data showed traffic nearly back to normal after weeks of disruption.</div>
+                <div class="brief-card-date">Jun 23, 2026 &nbsp;<a href="#" class="brief-card-link">Read →</a></div>
+            </div>
+            <div class="brief-card">
+                <div class="brief-card-stripe tech"></div>
+                <div class="brief-card-cat cat-tech">Tech</div>
+                <div class="brief-card-title">EU AI Act Phase 2 Takes Effect Amid Industry Pushback</div>
+                <div class="brief-card-excerpt">High-risk AI systems face new compliance deadlines. Major US tech firms warned of competitive disadvantages.</div>
+                <div class="brief-card-date">Jun 23, 2026 &nbsp;<a href="#" class="brief-card-link">Read →</a></div>
+            </div>
+            <div class="brief-card">
+                <div class="brief-card-stripe finance"></div>
+                <div class="brief-card-cat cat-finance">Finance</div>
+                <div class="brief-card-title">Dollar Slides as BRICS Reserve Fund Gains New Members</div>
+                <div class="brief-card-excerpt">The dollar index fell to a 6-month low. Four nations joined the BRICS shared reserve mechanism this week.</div>
+                <div class="brief-card-date">Jun 23, 2026 &nbsp;<a href="#" class="brief-card-link">Read →</a></div>
+            </div>
+        </div>
+
+        <!-- LATEST -->
+        <div class="latest-section">
+            <div class="section-title" style="margin-bottom: 16px;">Latest</div>
+            <div class="latest-item">
+                <div class="latest-dot global"></div>
+                <div class="latest-title">Ceasefire Extension Tempers Hormuz Crisis as Taiwan Frets Over US Arms Delay</div>
+                <div class="latest-date">Jun 22</div>
+            </div>
+            <div class="latest-item">
+                <div class="latest-dot defence"></div>
+                <div class="latest-title">Pentagon Seeks $80B for Iran War as Senate NDAA Targets AI Weapons</div>
+                <div class="latest-date">Jun 22</div>
+            </div>
+            <div class="latest-item">
+                <div class="latest-dot energy"></div>
+                <div class="latest-title">Hormuz Traffic Halves as OPEC Emergency Meeting Looms</div>
+                <div class="latest-date">Jun 21</div>
+            </div>
+            <div class="latest-item">
+                <div class="latest-dot global"></div>
+                <div class="latest-title">Iran-US Ceasefire Begins as Both Sides Claim Strategic Victory</div>
+                <div class="latest-date">Jun 20</div>
+            </div>
+            <div class="latest-item">
+                <div class="latest-dot finance"></div>
+                <div class="latest-title">Oil Spikes Above $120 as Gulf Insurance Rates Triple Overnight</div>
+                <div class="latest-date">Jun 20</div>
+            </div>
+        </div>
+
+        <footer>
+            <div>© 2026 Frontion News</div>
+            <div>
+                <a href="#">About</a> &nbsp;·&nbsp; <a href="#">Contact</a> &nbsp;·&nbsp; <a href="#">RSS</a>
+            </div>
+        </footer>
     </div>
-
-    <hr class="section-divider">
-
-    <!-- CATEGORY GRID -->
-    <div class="section-title">Today's Briefs</div>
-    <div class="cat-grid">
-        <div class="cat-card">
-            <div class="cat-card-stripe global"></div>
-            <div class="cat-card-label">Global</div>
-            <div class="cat-card-title">Iran Ceasefire Holds as NATO Counts Its First Civilian Casualties</div>
-            <div class="cat-card-date">Jun 23, 2026</div>
-        </div>
-        <div class="cat-card">
-            <div class="cat-card-stripe defence"></div>
-            <div class="cat-card-label defence">Defence</div>
-            <div class="cat-card-title">US Marines Land in Australia as China Stealth Coating Breaks Through</div>
-            <div class="cat-card-date">Jun 23, 2026</div>
-        </div>
-        <div class="cat-card">
-            <div class="cat-card-stripe energy"></div>
-            <div class="cat-card-label energy">Energy</div>
-            <div class="cat-card-title">OPEC Holds Steady as Hormuz Traffic Recovers to Pre-Crisis Levels</div>
-            <div class="cat-card-date">Jun 23, 2026</div>
-        </div>
-        <div class="cat-card">
-            <div class="cat-card-stripe tech"></div>
-            <div class="cat-card-label tech">Tech</div>
-            <div class="cat-card-title">EU AI Act Phase 2 Takes Effect Amid Industry Pushback</div>
-            <div class="cat-card-date">Jun 23, 2026</div>
-        </div>
-        <div class="cat-card">
-            <div class="cat-card-stripe finance"></div>
-            <div class="cat-card-label finance">Finance</div>
-            <div class="cat-card-title">Dollar Slides as BRICS Reserve Fund Gains New Members</div>
-            <div class="cat-card-date">Jun 23, 2026</div>
-        </div>
-    </div>
-
-    <hr class="section-divider">
-
-    <!-- LATEST -->
-    <div class="section-title">Latest</div>
-    <div class="latest-list">
-        <div class="latest-item">
-            <div class="latest-dot global"></div>
-            <div class="latest-text">Iran Ceasefire Holds as NATO Counts Its First Civilian Casualties <span class="latest-date">— Jun 23</span></div>
-        </div>
-        <div class="latest-item">
-            <div class="latest-dot defence"></div>
-            <div class="latest-text">US Marines Land in Australia as China Stealth Coating Breaks Through <span class="latest-date">— Jun 23</span></div>
-        </div>
-        <div class="latest-item">
-            <div class="latest-dot energy"></div>
-            <div class="latest-text">OPEC Holds Steady as Hormuz Traffic Recovers to Pre-Crisis Levels <span class="latest-date">— Jun 23</span></div>
-        </div>
-        <div class="latest-item">
-            <div class="latest-dot global"></div>
-            <div class="latest-text">Ceasefire Extension Tempers Hormuz Crisis as Taiwan Frets Over US Arms Delay <span class="latest-date">— Jun 22</span></div>
-        </div>
-        <div class="latest-item">
-            <div class="latest-dot defence"></div>
-            <div class="latest-text">Pentagon Seeks $80B for Iran War as Senate NDAA Targets AI Weapons <span class="latest-date">— Jun 22</span></div>
-        </div>
-    </div>
-
-    <footer>
-        <div>© 2026 Frontion News</div>
-        <div>
-            <a href="#">About</a> · <a href="#">Contact</a> · <a href="#">RSS</a>
-        </div>
-    </footer>
 </body>
 </html>
