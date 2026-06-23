@@ -273,7 +273,7 @@ def generate_card_and_push(date_str, card_type, section_num=None):
 
     # Wait for GitHub Pages to serve the file
     image_url = f"{SITE_URL}/linkedin-cards/{card_file}"
-    if not wait_for_url(image_url, timeout=120, interval=5):
+    if not wait_for_url(image_url, timeout=15, interval=5):
         print(f"WARNING: Image URL not yet accessible, but proceeding with post anyway: {image_url}")
 
     return image_url
