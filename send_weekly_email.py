@@ -18,7 +18,7 @@ import urllib.error
 from datetime import datetime
 
 # --- Config ---
-BREVO_API_KEY = os.environ.get('BREVO_API_KEY', 'REDACTED')
+BREVO_API_KEY = os.environ.get('BREVO_API_KEY')
 BREVO_LIST_ID = 4
 SENDER_EMAIL = 'frontion.net@gmail.com'
 SENDER_NAME = 'Frontion News'
