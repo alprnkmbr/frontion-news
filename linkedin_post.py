@@ -200,23 +200,27 @@ def git_push_with_retry(retries=3, delay=5):
     return False
 
 
-def wait_for_url(url, timeout=120, interval=5):
+def wait_for_url(url, timeout=180, interval=10):
     """Wait for a URL to return HTTP 200."""
     print(f"Waiting for {url} to be accessible...")
     start = time.time()
+    attempt = 0
     while time.time() - start < timeout:
+        attempt += 1
         try:
             req = urllib.request.Request(url, method="HEAD")
             req.add_header("User-Agent", "Frontion-Bot/1.0")
-            with urllib.request.urlopen(req, timeout=10) as resp:
+            with urllib.request.urlopen(req, timeout=15) as resp:
                 if resp.status == 200:
                     elapsed = time.time() - start
-                    print(f"URL accessible after {elapsed:.0f}s")
+                    print(f"URL accessible after {elapsed:.0f}s (attempt {attempt})")
                     return True
-        except (urllib.error.HTTPError, urllib.error.URLError, OSError):
-            pass
+        except urllib.error.HTTPError as e:
+            print(f"  Attempt {attempt}: HTTP {e.code} {e.reason}")
+        except (urllib.error.URLError, OSError) as e:
+            print(f"  Attempt {attempt}: {e}")
         time.sleep(interval)
-    print(f"URL not accessible after {timeout}s timeout")
+    print(f"URL not accessible after {timeout}s timeout ({attempt} attempts)")
     return False
 
 
@@ -273,7 +277,7 @@ def generate_card_and_push(date_str, card_type, section_num=None):
 
     # Wait for GitHub Pages to serve the file
     image_url = f"{SITE_URL}/linkedin-cards/{card_file}"
-    if not wait_for_url(image_url, timeout=15, interval=5):
+    if not wait_for_url(image_url, timeout=60, interval=10):
         print(f"WARNING: Image URL not yet accessible, but proceeding with post anyway: {image_url}")
 
     return image_url
