@@ -56,7 +56,31 @@ CURRENT_SOURCE = "brief"
 
 WEBHOOK_URL = "https://hook.eu1.make.com/w1evieps3ym9ihfkx9qgrwc386saaeis"
 
-# Topic-to-hashtag mapping for content-based hashtag selection
+# --- LLM-based hashtag selection (primary) ---
+# Ollama OpenAI-compatible endpoint for local LLM calls
+OLLAMA_API_URL = "http://localhost:11434/v1/chat/completions"
+OLLAMA_MODEL = "phi4-mini:latest"  # Fast, small model — good for classification tasks
+
+# Allowed hashtags — LLM can only pick from this list
+ALLOWED_HASHTAGS = [
+    # Regions
+    "#MiddleEast", "#Iran", "#Gaza", "#Lebanon", "#Syria", "#Türkiye",
+    "#Ukraine", "#Russia", "#China", "#India", "#Europe", "#EuropeanUnion",
+    "#Africa", "#LatinAmerica", "#AsiaPacific", "#Japan", "#Korea", "#Taiwan",
+    "#Pakistan", "#NATO",
+    # Topics
+    "#EnergySecurity", "#NuclearPolicy", "#Sanctions", "#TradeWar", "#GlobalTrade",
+    "#CyberSecurity", "#ArtificialIntelligence", "#DefensePolicy", "#Elections",
+    "#Democracy", "#PeaceProcess", "#Diplomacy", "#ClimatePolicy",
+    "#HumanitarianCrisis", "#EconomicPolicy", "#FederalReserve", "#SupplyChain",
+    "#Semiconductors", "#CriticalMinerals", "#OPEC", "#DroneWarfare",
+    "#NavalWarfare", "#Intelligence", "#CivilUnrest", "#PoliticalInstability",
+    "#Brexit",
+    # Source-specific bases (added separately)
+    "#Geopolitics", "#Strategy", "#DefensePolicy", "#EnergySecurity",
+]
+
+# --- Fallback: keyword-based hashtag selection ---
 HASHTAG_TOPICS = {
     # Regions
     "middle east": "#MiddleEast",
@@ -138,8 +162,77 @@ HASHTAG_TOPICS = {
 BASE_HASHTAGS = ["#Geopolitics", "#Strategy"]
 
 
-def select_hashtags(text, max_hashtags=5):
-    """Select hashtags based on content analysis and current source."""
+def select_hashtags_llm(text, source, max_hashtags=5):
+    """Select hashtags using LLM for semantic understanding. Falls back to keyword matching on failure."""
+    # Build source label for context
+    source_labels = {
+        "brief": "Strategic Brief",
+        "defense": "Defense Brief",
+        "energy": "Energy & Power Brief",
+        "turkey": "Türkiye Brief",
+    }
+    source_label = source_labels.get(source, "Strategic Brief")
+
+    # Source-specific base hashtags always included
+    base_tags = SOURCE_HASHTAGS.get(source, ["#Geopolitics", "#Strategy"])
+
+    prompt = (
+        f"You are selecting hashtags for a LinkedIn post from Frontion News ({source_label}). "
+        f"Given the post content below, select up to {max_hashtags - len(base_tags)} topic hashtags "
+        f"that are MOST RELEVANT to the CORE SUBJECT of this specific post.\n\n"
+        f"Rules:\n"
+        f"1. Only select hashtags for topics that are the MAIN SUBJECT of the post, not merely mentioned in passing.\n"
+        f"2. If a country or topic is only mentioned as context (e.g., Japan mentioned as part of a coalition, "
+        f"drones mentioned as one small detail), do NOT add a hashtag for it.\n"
+        f"3. Prioritize hashtags about WHAT THE POST IS ABOUT, not every entity mentioned.\n"
+        f"4. Only use hashtags from the allowed list below.\n"
+        f"5. Return ONLY the hashtags separated by spaces, nothing else. No explanation.\n\n"
+        f"Allowed hashtags:\n"
+        + ", ".join(sorted(set(ALLOWED_HASHTAGS) - set(base_tags))) + "\n\n"
+        f"Post content:\n{text[:1500]}"
+    )
+
+    try:
+        payload = json.dumps({
+            "model": OLLAMA_MODEL,
+            "messages": [{"role": "user", "content": prompt}],
+            "temperature": 0.1,
+            "max_tokens": 100,
+        }).encode("utf-8")
+
+        req = urllib.request.Request(
+            OLLAMA_API_URL,
+            data=payload,
+            headers={"Content-Type": "application/json"},
+            method="POST",
+        )
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            result = json.loads(resp.read().decode("utf-8"))
+
+        content = result["choices"][0]["message"]["content"].strip()
+        # Parse hashtags from LLM response
+        llm_tags = [t.strip() for t in content.split() if t.strip().startswith("#")]
+        # Filter to only allowed hashtags
+        llm_tags = [t for t in llm_tags if t in ALLOWED_HASHTAGS]
+        # Remove base tags (they'll be added separately)
+        llm_tags = [t for t in llm_tags if t not in base_tags]
+        # Combine base + LLM-selected, deduplicate
+        all_tags = base_tags + llm_tags
+        seen = set()
+        result = []
+        for tag in all_tags:
+            if tag not in seen:
+                seen.add(tag)
+                result.append(tag)
+        print(f"Hashtags selected by LLM: {result[:max_hashtags]}")
+        return result[:max_hashtags]
+    except Exception as e:
+        print(f"LLM hashtag selection failed ({e}), falling back to keyword matching")
+        return select_hashtags_keyword(text, max_hashtags)
+
+
+def select_hashtags_keyword(text, max_hashtags=5):
+    """Select hashtags based on keyword matching (fallback method)."""
     text_lower = text.lower()
     matched = set()
     for keyword, tag in HASHTAG_TOPICS.items():
@@ -156,6 +249,11 @@ def select_hashtags(text, max_hashtags=5):
             seen.add(tag)
             result.append(tag)
     return result[:max_hashtags]
+
+
+def select_hashtags(text, max_hashtags=5):
+    """Select hashtags — LLM first, keyword fallback on failure."""
+    return select_hashtags_llm(text, CURRENT_SOURCE, max_hashtags)
 
 
 def load_brief(date_str):
