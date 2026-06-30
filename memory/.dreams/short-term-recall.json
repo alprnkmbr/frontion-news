@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-30T04:36:07.743Z",
+  "updatedAt": "2026-06-30T12:40:46.017Z",
   "entries": {
     "memory:memory/2026-06-21.md:49:77": {
       "key": "memory:memory/2026-06-21.md:49:77",
@@ -169,24 +169,27 @@
       "endLine": 71,
       "source": "memory",
       "snippet": "### YouTube Bot Update - `bot.py` updated: YouTube video descriptions now include `🌐 https://frontion.news` link ### Make.com Filter - Added filter before Router: `{{1.body}}` Is not empty - Prevents empty `{}` webhook payloads from triggering errors ### Rules / Lessons - NEVER send manual LinkedIn posts without explicit user approval - Section cron formula was buggy — now dynamic per-day scheduling - Make.com sometimes sends empty `{}` — filter added to handle this - BLUF card: ◆ removed from image, stays in text - Bottom Line text: ■ stays (user specifically reminded) - LinkedIn doesn't support Markdown — only plain text + unicode symbols ### Files Changed/Created - `/Users/claudius/cl",
-      "recallCount": 6,
+      "recallCount": 8,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 4.180319092185913,
+      "totalScore": 5.4654902674126555,
       "maxScore": 0.7382109299011239,
       "firstRecalledAt": "2026-06-28T06:02:07.746Z",
-      "lastRecalledAt": "2026-06-29T13:08:58.383Z",
+      "lastRecalledAt": "2026-06-30T12:40:46.017Z",
       "queryHashes": [
         "38cdb87934c5",
         "cfcbf43a4d0d",
         "1eba316c46d2",
         "67c3f4809400",
         "f129ff218339",
-        "57cdd52b8c30"
+        "57cdd52b8c30",
+        "3cc5c18999a5",
+        "c4a579d2bcc8"
       ],
       "recallDays": [
         "2026-06-28",
-        "2026-06-29"
+        "2026-06-29",
+        "2026-06-30"
       ],
       "conceptTags": [
         "router",
@@ -313,19 +316,20 @@
       "endLine": 62,
       "source": "memory",
       "snippet": "- LinkedIn banner onayı hâlâ bekleniyor (v2, dünya haritası silüeti + minimalist tasarım) - Oppo'da normal modda icon cache güncellemesi ## Türkiye Brief Gizli Sayfası (07:58-08:18) - Türkiye sekmesi `index.html`'den tamamen kaldırıldı (dropdown, JS, content) - `turkey/` klasörü GitHub'da korundu — veri kaybolmadı - Neden: frontion.news uluslararası kitleye hitap ediyor, Türkiye-odaklı bölüm saçma durur - Kullanıcı Türkiye brief'ini kişisel olarak okumak istiyor ama sitede görünmesin - `turkey.html` oluşturuldu — aynı tasarım ama sadece Türkiye brief'ini gösteren ayrı sayfa - `frontion.news/turkey` URL'si ile erişilebilir, dropdown'da görünmüyor - `noindex` meta tag eklendi (Google index'lem",
-      "recallCount": 5,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3.3387625441158226,
-      "maxScore": 0.7414986947240956,
+      "totalScore": 4.135758351294562,
+      "maxScore": 0.7969958071787399,
       "firstRecalledAt": "2026-06-29T05:49:49.805Z",
-      "lastRecalledAt": "2026-06-30T04:36:07.743Z",
+      "lastRecalledAt": "2026-06-30T06:02:15.937Z",
       "queryHashes": [
         "1eba316c46d2",
         "67c3f4809400",
         "16b9ebaa533f",
         "f129ff218339",
-        "a4854ba32cc6"
+        "a4854ba32cc6",
+        "3cc5c18999a5"
       ],
       "recallDays": [
         "2026-06-29",
@@ -384,18 +388,19 @@
       "endLine": 49,
       "source": "memory",
       "snippet": "- 09:00 → Section 2: US Lifts Iranian Oil Sanctions, Hormuz Traffic Recovers - 10:00 → Section 3: Lebanon Remains the Deal's Fault Line - 11:00 → Section 4: Ukraine Strikes Kerch Strait - 12:00 → Section 5: Pentagon Seeks $80B for Iran War - 13:00 → Section 6: BRICS Security Summit in New Delhi - 15:00 → Bottom Line ## Defence Brief LinkedIn Desteği (07:42-07:50) - `linkedin_post.py` ve `linkedin_cards.py`'e `--source` parametresi eklendi (brief/defense/energy/turkey) - Defence kartları `defense-` prefix'i ile üretiliyor, header'da \"Defense Brief\" yazıyor - Defence brief 7 section içeriyor (bugün için) - Defence hashtag'leri: `#DefensePolicy #Strategy` baz alınıyor - 9 adet Defe",
-      "recallCount": 4,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.7793368992015193,
-      "maxScore": 0.7245615345925521,
+      "totalScore": 3.548388347348753,
+      "maxScore": 0.7690514481472337,
       "firstRecalledAt": "2026-06-29T12:54:40.649Z",
-      "lastRecalledAt": "2026-06-30T04:36:07.743Z",
+      "lastRecalledAt": "2026-06-30T06:02:15.937Z",
       "queryHashes": [
         "2520fdfbdafa",
         "16b9ebaa533f",
         "f129ff218339",
-        "a4854ba32cc6"
+        "a4854ba32cc6",
+        "3cc5c18999a5"
       ],
       "recallDays": [
         "2026-06-29",
@@ -419,20 +424,22 @@
       "endLine": 41,
       "source": "memory",
       "snippet": "## LinkedIn Pipeline (from 2026-06-24 context) - Make.com scenario was deactivated due to 404 errors from GitHub Pages (image URL not yet deployed when webhook called) - Increased `wait_for_url` timeout from 15s to 60s in `linkedin_post.py` - Added HTTP status code logging - Deleted duplicate cron jobs (old 7:15 BLUF, old 8:00 S3) - Global brief LinkedIn schedule: BLUF 7:30, S1 8:00, S2 8:30, S3 9:00, S4 9:30, S5 10:00, S6 10:30, Bottom Line 11:00 - Defence brief LinkedIn schedule: BLUF 14:00, S1 14:30, S2 15:00, S3 15:30, S4 16:00, S5 16:30, S6 17:00, S7 17:30, Bottom Line 18:00 - All cron jobs use `ollama/glm-5.1:cloud`, isolated session, 120s timeout ## Key File Paths - Video bot: `/User",
-      "recallCount": 3,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.897097374686866,
+      "totalScore": 2.473055250538679,
       "maxScore": 0.7927121951858255,
       "firstRecalledAt": "2026-06-29T12:54:43.289Z",
-      "lastRecalledAt": "2026-06-29T12:57:11.249Z",
+      "lastRecalledAt": "2026-06-30T12:40:46.017Z",
       "queryHashes": [
         "16b9ebaa533f",
         "13f4058a994a",
-        "1b52d1195b57"
+        "1b52d1195b57",
+        "c4a579d2bcc8"
       ],
       "recallDays": [
-        "2026-06-29"
+        "2026-06-29",
+        "2026-06-30"
       ],
       "conceptTags": [
         "make.com",
@@ -483,19 +490,22 @@
       "endLine": 21,
       "source": "memory",
       "snippet": "# 2026-06-29 Daily Notes ## Video Frame Analysis Request - Alperen asked me to analyze the YouTube video pipeline (`@FrontionNewsBot`) frame generation for image quality issues - Read the full `bot.py` at `/Users/claudius/frontion-bot/bot.py` - Key findings: 1. **Image search quality is the biggest problem** — no relevance/quality filter, first found image used, often thumbnails/logos/watermarked 2. **Center crop** — always crops from center, can cut faces/subjects 3. **Title text readability** — `textwrap.fill(width=21)` fixed width, no dynamic font sizing, thin shadow (2px offset), no blur/box behind text 4. **Harsh transition** — sharp line between image and overlay, no gradient/",
-      "recallCount": 2,
+      "recallCount": 4,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.2131940484783383,
-      "maxScore": 0.6288780675747151,
+      "totalScore": 2.4770545748889643,
+      "maxScore": 0.6349824588359111,
       "firstRecalledAt": "2026-06-29T12:57:19.583Z",
-      "lastRecalledAt": "2026-06-29T13:08:58.383Z",
+      "lastRecalledAt": "2026-06-30T12:40:46.017Z",
       "queryHashes": [
         "f129ff218339",
-        "57cdd52b8c30"
+        "57cdd52b8c30",
+        "3cc5c18999a5",
+        "c4a579d2bcc8"
       ],
       "recallDays": [
-        "2026-06-29"
+        "2026-06-29",
+        "2026-06-30"
       ],
       "conceptTags": [
         "bot.py",
@@ -506,6 +516,37 @@
         "blur/box",
         "video",
         "frame"
+      ]
+    },
+    "memory:memory/2026-06-29.md:17:32": {
+      "key": "memory:memory/2026-06-29.md:17:32",
+      "path": "memory/2026-06-29.md",
+      "startLine": 17,
+      "endLine": 32,
+      "source": "memory",
+      "snippet": "- Added `orijinal_baslik` field to store RSS raw headline for image search - Changed `resim_bul()` to search with `orijinal_baslik` instead of `baslik` - Added `_resim_puanla()` scoring function (0-100, based on resolution, aspect ratio) - Added `_akilli_kirp()` saliency-based smart crop (edge density analysis with numpy) - Added multi-candidate image selection with quality scoring - **ALL REVERTED** at Alperen's request — code is back to original state - Key learning: Alperen's old system was ~99% accurate with image search. The original code already worked well — don't over-engineer. - Alperen clarified the bot DOES rewrite headlines for video frames (e.g. CNBC \"Oil jumps back above $70 as",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 0.7239117101943044,
+      "maxScore": 0.7239117101943044,
+      "firstRecalledAt": "2026-06-30T12:40:46.017Z",
+      "lastRecalledAt": "2026-06-30T12:40:46.017Z",
+      "queryHashes": [
+        "c4a579d2bcc8"
+      ],
+      "recallDays": [
+        "2026-06-30"
+      ],
+      "conceptTags": [
+        "orijinal-baslik",
+        "resim-bul",
+        "resim-puanla",
+        "0-100",
+        "akilli-kirp",
+        "saliency-based",
+        "multi-candidate",
+        "over-engineer"
       ]
     }
   }
