@@ -45,7 +45,15 @@
 - **Weekly email:** `send_weekly_email.py`
 - **LinkedIn scheduling:** `linkedin_schedule.py` — auto-creates cron jobs based on section count
 
+## Editorial Policy (CRITICAL)
+- **Frontion News was founded to counter orientalist/imperialist perspectives on Turkey.**
+- Turkey-specific content is not published as a separate section, but Turkey-related news in any brief must be covered objectively — never from an orientalist, anti-Turkish, or Western-hegemonic lens.
+- **Contested historical/political topics** (e.g., Armenian genocide claims, Kurdish issues, Cyprus, etc.) must use **neutral, non-partisan language**. Never frame one side's narrative as established truth. Use phrasing like "contested narrative," "disputed claims," "widely debated," etc.
+- **No value judgments** on sovereignty disputes, territorial claims, or national narratives. Report what happened and what it means — not whose side is "right."
+- This applies to ALL briefs (Global, Defence, Energy, Tech, Finance, Turkey) and ALL outputs (website, LinkedIn, video descriptions, etc.)
+
 ## Lessons Learned
+- **2026-06-30:** Turkey brief used "historical truth" for Armenian genocide recognition — corrected to "a contested historical narrative." Always use neutral language on disputed topics.
 - **2026-06-29:** Attempted to improve bot image quality with scoring/saliency — all reverted at Alperen's request. Original code worked fine. Don't over-engineer.
 - **2026-06-29:** Always confirm changes before implementing. No unsolicited modifications.
 - **MEMORY.md must exist.** Without it, context is lost between sessions.
