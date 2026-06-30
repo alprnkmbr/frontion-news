@@ -3,1136 +3,425 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-    <title>Frontion News</title>
-    <meta name="description" content="Strategic analysis of the events reshaping the world.">
+    <title>Frontion News — Strategic Intelligence, Delivered Daily</title>
+    <meta name="description" content="Strategic analysis of the events reshaping the world. Global, Defence, Energy, Tech, Finance briefs updated daily.">
     <link rel="manifest" href="manifest.json">
-    <meta name="theme-color" content="#ffffff">
+    <meta name="theme-color" content="#fafafa">
     <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
     <meta name="apple-mobile-web-app-title" content="Frontion">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
-    <link rel="apple-touch-icon" href="/icon-192.png" sizes="192x192">
     <link rel="icon" type="image/png" href="/favicon.png" sizes="32x32">
     <link rel="icon" type="image/png" href="/icon-192.png" sizes="192x192">
     <link rel="icon" type="image/png" href="/icon-512.png" sizes="512x512">
     <link rel="alternate" type="application/rss+xml" title="Frontion News" href="feed.xml">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@500;600;700&family=Noto+Serif:wght@400;700&display=swap">
-    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@500;600;700&family=Noto+Serif:wght@400;700&display=swap" rel="stylesheet">
-    <script>
-(function(){
-  var dark=false;
-  try{dark=localStorage.getItem('darkMode')==='1'}catch(e){try{dark=document.cookie.indexOf('darkMode=1')!==-1}catch(e2){}}
-  if(!dark&&typeof matchMedia==='function'){try{dark=matchMedia('(prefers-color-scheme:dark)').matches}catch(e){}}
-  if(dark)document.documentElement.classList.add('dark-mode');
-})()
-</script>
-    <script>
-(function(){
-  try {
-    var s = JSON.parse(localStorage.getItem('readSettings'));
-    if (s) {
-      if (s.fontSize && s.fontSize !== '100') {
-        var px = Math.round(17 * s.fontSize / 100);
-        document.documentElement.style.fontSize = px + 'px';
-      }
-      if (s.contentWidth !== undefined && s.contentWidth !== '4') {
-        var widths = ['360px', '440px', '520px', '600px', '680px', '800px', '920px', '1040px', '100%'];
-        document.documentElement.style.setProperty('--max-width', widths[s.contentWidth]);
-      }
-      if (s.justify === 'justify') {
-        document.documentElement.classList.add('read-justify');
-      }
-    }
-  } catch(e) {}
-})();
-</script>
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@400;500;600;700&display=swap">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
     <style>
-:root {
-    --color-bg: #ffffff;
-    --color-text: #1a1a1a;
-    --color-text-body: #333333;
-    --color-text-secondary: #666666;
-    --color-text-tertiary: #999999;
-    --color-accent: #c41e3a;
-    --color-border: #ddd;
-    --color-border-light: #eee;
-    --color-pullquote: #c41e3a;
-    --color-why-it-matters-bg: #faf8f5;
-    --color-section-rule: #1a1a1a;
-    --color-tab-active-bg: #1a1a1a;
-    --color-tab-active-text: #ffffff;
-    --color-tab-inactive-bg: #f5f5f5;
-    --color-tab-inactive-text: #666;
-    --color-search-bg: #f7f7f7;
-    --color-search-border: #ddd;
-    --color-search-focus: #1a1a1a;
-    --color-card-hover: #fafafa;
-    --font-display: 'Playfair Display', 'Noto Serif', Georgia, serif;
-    --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
-    --font-serif: 'Noto Serif', Georgia, serif;
-    --max-width: 680px;
-}
-html.dark-mode {
-    --color-bg: #0d0d0d;
-    --color-text: #e8e8e8;
-    --color-text-body: #cccccc;
-    --color-text-secondary: #999999;
-    --color-text-tertiary: #666666;
-    --color-accent: #e8445a;
-    --color-border: #333333;
-    --color-border-light: #222222;
-    --color-pullquote: #e8445a;
-    --color-why-it-matters-bg: #1a1814;
-    --color-section-rule: #e8e8e8;
-    --color-tab-active-bg: #e8e8e8;
-    --color-tab-active-text: #0d0d0d;
-    --color-tab-inactive-bg: #1a1a1a;
-    --color-tab-inactive-text: #999;
-    --color-search-bg: #1a1a1a;
-    --color-search-border: #333;
-    --color-search-focus: #e8e8e8;
-    --color-card-hover: #1a1a1a;
-}
-*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
-html { font-size: 17px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; scroll-padding-top: 1rem; } body { -webkit-font-smoothing: antialiased; }
-body { font-family: var(--font-body); color: var(--color-text); background: var(--color-bg); line-height: 1.7; max-width: 100vw; overflow-x: hidden; padding-top: env(safe-area-inset-top); padding-bottom: env(safe-area-inset-bottom); -webkit-overflow-scrolling: touch; overscroll-behavior-y: none; will-change: scroll-position; }
-.status-bar-bg { position: fixed; top: 0; left: 0; right: 0; height: env(safe-area-inset-top); background: var(--color-bg); z-index: 999; will-change: auto; }
-html.dark-mode .status-bar-bg { background: #0d0d0d; }
-.site-header { padding-top: max(0px, env(safe-area-inset-top)); transform: translateZ(0); }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            background: #fafafa;
+            color: #1a1a1a;
+            font-family: 'Inter', sans-serif;
+            min-height: 100vh;
+        }
 
-/* HEADER */
-.site-header { padding: 0; text-align: center; border-bottom: 3px solid var(--color-section-rule); }
-.header-inner { max-width: var(--max-width); margin: 0 auto; padding: 2rem 1.5rem 0.75rem; }
-.logo { font-family: var(--font-display); font-size: 2.6rem; font-weight: 700; color: var(--color-text); text-decoration: none; letter-spacing: -0.03em; line-height: 1.1; }
-.tagline { font-size: 0.78rem; color: var(--color-text-tertiary); letter-spacing: 0.18em; text-transform: uppercase; margin-top: 0.35rem; line-height: 1.5; }
-.tagline-line { display: block; }
-.tagline-mobile1, .tagline-mobile2 { display: none; }
-@media (max-width: 768px) {
-    .tagline-desktop { display: none; }
-    .tagline-mobile1 { display: block; }
-    .tagline-mobile2 { display: block; }
-}
+        .container {
+            max-width: 960px;
+            margin: 0 auto;
+            padding: 0 24px;
+        }
 
-/* TABS */
-.tab-bar { max-width: var(--max-width); margin: 0 auto; padding: 1.25rem 1.5rem 0; display: flex; gap: 0; }
-.tab-btn { flex: 1; text-align: center; font-family: var(--font-body); font-size: 0.78rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; padding: 0.65rem 1rem; border: 2px solid var(--color-section-rule); background: var(--color-tab-inactive-bg); color: var(--color-tab-inactive-text); cursor: pointer; transition: all 0.2s; }
-.tab-btn:first-child { border-radius: 3px 0 0 3px; }
-.tab-btn:last-child { border-radius: 0 3px 3px 0; }
-.tab-btn:not(:first-child) { border-left: none; }
-.tab-btn.active { background: var(--color-tab-active-bg); color: var(--color-tab-active-text); }
-.tab-btn:hover:not(.active) { background: var(--color-border-light); }
+        /* NAV */
+        nav {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 20px 0;
+            border-bottom: 2px solid #1a1a1a;
+        }
+        .logo {
+            font-family: 'Playfair Display', serif;
+            font-size: 26px;
+            font-weight: 700;
+            letter-spacing: 3px;
+            color: #1a1a1a;
+            text-decoration: none;
+        }
+        .nav-right {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+        .nav-links {
+            display: flex;
+            gap: 20px;
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+        }
+        .nav-links a {
+            color: #888;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+        .nav-links a:hover { color: #1a1a1a; }
+        .subscribe-btn {
+            background: #1a1a1a;
+            color: #fafafa;
+            padding: 7px 18px;
+            border: none;
+            font-family: 'Inter', sans-serif;
+            font-size: 11px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            cursor: pointer;
+            transition: background 0.2s;
+            text-decoration: none;
+        }
+        .subscribe-btn:hover { background: #333; }
 
-/* SUB-TAB DROPDOWN */
-.subtab-dropdown { position: relative; margin-bottom: 1rem; display: flex; justify-content: center; }
-.subtab-dropdown-toggle { font-family: var(--font-body); font-size: 0.72rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; padding: 0.45rem 2rem 0.45rem 0.75rem; border: 1px solid var(--color-border); background: transparent; color: var(--color-text-secondary); cursor: pointer; border-radius: 2px; position: relative; -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
-.subtab-dropdown-toggle::after { content: '▾'; position: absolute; right: 0.65rem; top: 50%; transform: translateY(-50%); font-size: 0.65rem; opacity: 0.6; transition: opacity 0.2s; }
-.subtab-dropdown.open .subtab-dropdown-toggle { border-color: var(--color-text); color: var(--color-text); }
-.subtab-dropdown.open .subtab-dropdown-toggle::after { opacity: 1; }
-.subtab-dropdown-toggle:hover { border-color: var(--color-text-secondary); }
-.subtab-dropdown-menu { position: absolute; top: calc(100% + 4px); left: 50%; transform: translateX(-50%); min-width: 120px; background: var(--color-bg); border: 1px solid var(--color-border); border-radius: 2px; z-index: 100; display: none; overflow: hidden; }
-html.dark-mode .subtab-dropdown-menu { box-shadow: 0 4px 12px rgba(0,0,0,0.4); }
-.subtab-dropdown.open .subtab-dropdown-menu { display: block; }
-.subtab-dropdown-option { font-family: var(--font-body); font-size: 0.72rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; padding: 0.5rem 0.75rem; color: var(--color-text-secondary); cursor: pointer; white-space: nowrap; text-align: center; -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
-.subtab-dropdown-option:hover { background: var(--color-border-light); color: var(--color-text); }
-.subtab-dropdown-option.active { color: var(--color-accent); font-weight: 700; }
-.subtab-content { display: none; contain: content; }
-.subtab-content.active { display: block; }
-.tab-divider { max-width: var(--max-width); margin: 0 auto; padding: 0 1.5rem; }
-.tab-divider hr { border: none; border-top: 1px solid var(--color-border-light); margin: 0; }
+        /* DATE BAR */
+        .date-bar {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 0;
+            font-size: 11px;
+            color: #999;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            border-bottom: 1px solid #e5e5e5;
+        }
 
-/* MAIN */
-.site-main { max-width: var(--max-width); margin: 0 auto; padding: 2rem 1.5rem 4rem; contain: layout; }
-.tab-content { display: none; }
-.tab-content.active { display: block; }
+        /* HERO */
+        .hero {
+            margin-top: 48px;
+            padding: 64px 0 56px;
+            border-bottom: 1px solid #e5e5e5;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+        .hero-category {
+            font-size: 11px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 2.5px;
+            color: #999;
+            margin-bottom: 18px;
+        }
+        .hero-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 44px;
+            font-weight: 700;
+            line-height: 1.12;
+            color: #1a1a1a;
+            margin-bottom: 20px;
+            max-width: 700px;
+        }
+        .hero-title a {
+            color: #1a1a1a;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+        .hero-title a:hover { color: #555; }
+        .hero-excerpt {
+            font-size: 17px;
+            line-height: 1.7;
+            color: #555;
+            max-width: 620px;
+            margin-bottom: 26px;
+            text-align: justify;
+            text-align-last: center;
+        }
+        .hero-link {
+            font-size: 12px;
+            font-weight: 700;
+            color: #1a1a1a;
+            text-decoration: none;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            border-bottom: 2px solid #1a1a1a;
+            padding-bottom: 3px;
+            transition: color 0.2s, border-color 0.2s;
+        }
+        .hero-link:hover { color: #555; border-color: #555; }
 
-/* ============ HEADLINES TAB ============ */
-.search-bar { margin-bottom: 1.5rem; }
-.search-input { width: 100%; font-family: var(--font-body); font-size: 0.9rem; padding: 0.65rem 1rem; border: 1px solid var(--color-search-border); border-radius: 3px; background: var(--color-search-bg); color: var(--color-text); outline: none; transition: border-color 0.2s; }
-.search-input:focus { border-color: var(--color-search-focus); background: var(--color-bg); }
-.search-input::placeholder { color: var(--color-text-tertiary); }
-.headlines-meta { font-size: 0.75rem; color: var(--color-text-tertiary); margin-bottom: 1.25rem; letter-spacing: 0.03em; }
-.headlines-meta time { font-weight: 500; color: var(--color-text-secondary); }
+        /* SECONDARY STORIES */
+        .secondary {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 0;
+            margin-top: 40px;
+        }
+        .secondary-item {
+            padding: 18px 0;
+            border-bottom: 1px solid #e5e5e5;
+            cursor: pointer;
+            transition: background 0.15s;
+        }
+        .secondary-item:hover { background: #f5f5f5; }
+        .secondary-item:hover .secondary-title a { color: #1a1a1a; }
+        .secondary-left {
+            padding-right: 36px;
+            border-right: 1px solid #e5e5e5;
+        }
+        .secondary-right {
+            padding-left: 36px;
+        }
+        .secondary-cat {
+            font-size: 10px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 8px;
+        }
+        .cat-global { color: #888; }
+        .cat-defence { color: #dc2626; }
+        .cat-energy { color: #16a34a; }
+        .cat-tech { color: #2563eb; }
+        .cat-finance { color: #ca8a04; }
+        .secondary-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 20px;
+            font-weight: 700;
+            color: #333;
+            line-height: 1.3;
+            transition: color 0.2s;
+        }
+        .secondary-title a {
+            color: inherit;
+            text-decoration: none;
+        }
+        .secondary-title a:hover {
+            color: #1a1a1a;
+        }
+        .secondary-excerpt {
+            font-size: 13px;
+            color: #777;
+            line-height: 1.5;
+            margin-top: 6px;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        .secondary-hint {
+            font-size: 12px;
+            color: #999;
+            margin-top: 6px;
+        }
+        .secondary-date {
+            font-size: 11px;
+            color: #bbb;
+            margin-top: 4px;
+        }
 
-/* STORY CARD */
-.story-card { padding: 1rem 0; border-top: 1px solid var(--color-border-light); }
-.story-card:first-child { border-top: 1px solid var(--color-border); }
-.story-card:hover { background: var(--color-card-hover); margin: 0 -0.5rem; padding-left: 0.5rem; padding-right: 0.5rem; border-radius: 2px; }
-.story-time { font-size: 0.78rem; color: var(--color-text-tertiary); margin-bottom: 0.15rem; }
-.story-flag { display: flex; align-items: center; gap: 0.4rem; margin-bottom: 0.3rem; }
-.story-emoji { font-size: 1rem; }
-.story-category { font-size: 0.73rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--color-text-tertiary); }
-.story-headline { font-family: var(--font-display); font-size: 1.3rem; line-height: 1.3; font-weight: 700; margin-bottom: 0.3rem; }
-.story-summary { font-family: var(--font-serif); font-size: 0.95rem; color: var(--color-text-secondary); line-height: 1.6; margin-bottom: 0.2rem; text-align: justify; }
-.story-source { font-size: 0.78rem; color: var(--color-text-tertiary); }
-.story-source a { color: var(--color-text-tertiary); text-decoration: none; border-bottom: 1px solid var(--color-border); }
-.story-source a:hover { color: var(--color-accent); border-bottom-color: var(--color-accent); }
-.story-perspectives { font-size: 0.75rem; color: var(--color-text-tertiary); margin-top: 0.3rem; }
-.story-perspectives a { color: var(--color-text-tertiary); text-decoration: none; border-bottom: 1px solid var(--color-border); }
-.story-perspectives a:hover { color: var(--color-accent); border-bottom-color: var(--color-accent); }
-.perspectives-label { font-weight: 600; letter-spacing: 0.03em; }
-.story-card--clustered { padding-bottom: 0.5rem; }
-.story-perspectives-detail { margin-top: 0.4rem; }
-.story-perspectives-detail summary { font-family: var(--font-body); font-size: 0.72rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; color: var(--color-text-tertiary); cursor: pointer; padding: 0.2rem 0; -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
-.story-perspectives-detail summary:hover { color: var(--color-accent); }
-.perspective-item { padding: 0.5rem 0 0.3rem 0; border-top: 1px solid var(--color-border-light); }
-.perspective-source { font-family: var(--font-body); font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; color: var(--color-text-secondary); }
-.perspective-angle { font-family: var(--font-display); font-size: 0.92rem; font-weight: 700; color: var(--color-text); line-height: 1.3; margin: 0.15rem 0; }
-.perspective-summary { font-family: var(--font-serif); font-size: 0.82rem; color: var(--color-text-secondary); line-height: 1.5; }
-.no-results { font-family: var(--font-serif); font-size: 0.95rem; color: var(--color-text-tertiary); text-align: center; padding: 3rem 1rem; font-style: italic; }
+        /* FOOTER */
+        footer {
+            margin-top: 64px;
+            padding: 24px 0;
+            border-top: 2px solid #1a1a1a;
+            display: flex;
+            justify-content: space-between;
+            font-size: 11px;
+            color: #999;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        footer a { color: #888; text-decoration: none; }
+        footer a:hover { color: #1a1a1a; }
 
-/* LOAD MORE */
-.load-more-wrap { text-align: center; padding: 1.5rem 0; border-top: 1px solid var(--color-border-light); margin-top: 0.5rem; }
-.load-more-btn { font-family: var(--font-body); font-size: 0.8rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; padding: 0.65rem 2rem; border: 2px solid var(--color-section-rule); background: transparent; color: var(--color-text); cursor: pointer; border-radius: 2px; -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
-.load-more-btn:hover { background: var(--color-tab-active-bg); color: var(--color-tab-active-text); }
-.stories-count { font-size: 0.72rem; color: var(--color-text-tertiary); margin-top: 0.5rem; }
-.meta-divider { margin: 0 0.4em; color: var(--color-text-tertiary); }
+        /* LOADING STATE */
+        .loading {
+            text-align: center;
+            color: #999;
+            padding: 3rem 0;
+            font-size: 14px;
+            letter-spacing: 0.5px;
+        }
 
-/* ============ ANALYSIS TAB ============ */
-/* DATE TIMELINE */
-.date-timeline { display: flex; align-items: center; gap: 0.25rem; overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; margin-bottom: 0.5rem; will-change: scroll-position; contain: layout style; }
-.date-timeline::-webkit-scrollbar { display: none; }
-.timeline-arrow { font-family: var(--font-body); font-size: 1rem; color: var(--color-text-tertiary); background: none; border: 1px solid var(--color-border); border-radius: 4px; padding: 0.25rem 0.5rem; cursor: pointer; flex-shrink: 0; line-height: 1; -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
-.timeline-arrow:hover { border-color: var(--color-text); color: var(--color-text); }
-.timeline-arrow:disabled { opacity: 0.3; cursor: default; }
-.timeline-dates { display: flex; gap: 0.15rem; margin: 0 0.35rem; flex: 1; justify-content: center; }
-.timeline-date { font-family: var(--font-body); font-size: 0.7rem; font-weight: 500; letter-spacing: 0.04em; color: var(--color-text-tertiary); text-decoration: none; padding: 0.4rem 0.6rem; border-bottom: 2px solid transparent; transition: border-color 0.15s, color 0.15s; white-space: nowrap; -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
-.timeline-date:hover { color: var(--color-text-secondary); }
-.timeline-date.active { color: var(--color-text); border-bottom-color: var(--color-text); font-weight: 600; }
-.timeline-divider { width: 1px; height: 14px; background: var(--color-border); flex-shrink: 0; margin: 0 0.1rem; }
-
-/* BRIEF HEADER */
-.brief-headline { font-family: var(--font-display); font-size: 2.4rem; line-height: 1.15; font-weight: 700; margin-bottom: 0.75rem; letter-spacing: -0.02em; }
-.brief-subhead { font-family: var(--font-serif); font-size: 1.15rem; line-height: 1.55; color: var(--color-text-secondary); font-style: italic; margin-bottom: 1.5rem; }
-.brief-meta { font-size: 0.78rem; color: var(--color-text-tertiary); margin-bottom: 2rem; padding-bottom: 1.5rem; border-bottom: 1px solid var(--color-border-light); }
-.brief-meta time { font-weight: 500; color: var(--color-text-secondary); }
-
-/* ANALYSIS SECTION */
-.analysis-section { margin-bottom: 2.5rem; }
-.analysis-section + .analysis-section { padding-top: 2.5rem; border-top: 1px solid var(--color-border); }
-.section-heading { font-family: var(--font-display); font-size: 1.5rem; line-height: 1.25; font-weight: 700; margin-bottom: 1rem; letter-spacing: -0.01em; }
-.section-body { font-family: var(--font-serif); font-size: 1rem; line-height: 1.8; color: var(--color-text-body); margin-bottom: 1rem; }
-.section-body p { margin-bottom: 1rem; }
-.section-body p:last-child { margin-bottom: 0; }
-
-/* WHY IT MATTERS */
-.why-it-matters { background: var(--color-why-it-matters-bg); border-left: 3px solid var(--color-accent); padding: 1rem 1.25rem; margin: 1rem 0 0; font-family: var(--font-serif); font-size: 0.95rem; line-height: 1.7; color: var(--color-text-body); }
-.why-it-matters strong { font-family: var(--font-body); font-weight: 600; color: var(--color-accent); letter-spacing: 0.06em; text-transform: uppercase; font-size: 0.72rem; }
-
-/* BOTTOM LINE */
-.bottom-line { margin-top: 3rem; padding-top: 2rem; border-top: 3px solid var(--color-section-rule); }
-.bottom-line-kicker { font-family: var(--font-body); font-size: 0.72rem; font-weight: 700; letter-spacing: 0.18em; text-transform: uppercase; color: var(--color-accent); margin-bottom: 0.75rem; }
-.bottom-line-body { font-family: var(--font-serif); font-size: 1.05rem; line-height: 1.8; color: var(--color-text); }
-
-/* DIVIDER */
-.section-divider { border: none; border-top: 1px solid var(--color-border-light); margin: 0; }
-
-/* FOOTER */
-.site-footer { border-top: 3px solid var(--color-section-rule); padding: 2rem 1.5rem; text-align: center; }
-.footer-inner { max-width: var(--max-width); margin: 0 auto; }
-.site-footer p { font-size: 0.78rem; color: var(--color-text-tertiary); line-height: 1.6; }
-.site-footer a { color: var(--color-text-secondary); text-decoration: none; border-bottom: 1px solid var(--color-border); }
-.site-footer a:hover { color: var(--color-accent); border-bottom-color: var(--color-accent); }
-
-.read-justify .section-body, .read-justify .brief-subhead { text-align: justify; }
-.read-justify .why-it-matters { text-align: justify; }
-.read-justify .bottom-line-body { text-align: justify; }
-.read-justify .story-summary { text-align: justify; }
-
-/* DARK TOGGLE */
-.dark-toggle { position: fixed; top: calc(env(safe-area-inset-top, 0px) + 1rem); right: 1rem; width: 2.2rem; height: 2.2rem; background: var(--color-bg); border: 1px solid var(--color-border); border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; z-index: 1000; font-size: 1.1rem; box-shadow: none; -webkit-tap-highlight-color: transparent; will-change: transform; contain: layout style; }
-
-/* READING SETTINGS */
-.read-settings-toggle { position: fixed; top: calc(env(safe-area-inset-top, 0px) + 1rem); left: 1rem; width: 2.2rem; height: 2.2rem; background: var(--color-bg); border: 1px solid var(--color-border); border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; z-index: 1000; font-size: 1.1rem; box-shadow: none; -webkit-tap-highlight-color: transparent; will-change: transform; contain: layout style; }
-.read-settings-toggle:active { transform: scale(0.9); }
-.read-settings-toggle:hover { border-color: var(--color-text-secondary); }
-html.dark-mode .read-settings-toggle { background: var(--color-bg); }
-.read-settings-panel { position: fixed; top: calc(env(safe-area-inset-top, 0px) + 3.5rem); left: 1rem; background: var(--color-bg); border: 1px solid var(--color-border); border-radius: 8px; padding: 1.25rem; z-index: 1001; width: 240px; box-shadow: 0 4px 20px rgba(0,0,0,0.15); display: none; }
-html.dark-mode .read-settings-panel { box-shadow: 0 4px 20px rgba(0,0,0,0.5); }
-.read-settings-panel.open { display: block; }
-.read-settings-panel label { font-family: var(--font-body); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: var(--color-text-secondary); display: block; margin-bottom: 0.4rem; }
-.read-settings-panel input[type=range] { width: 100%; margin: 0 0 1rem 0; accent-color: var(--color-accent); -webkit-appearance: none; appearance: none; height: 4px; background: var(--color-border); border-radius: 2px; outline: none; }
-.read-settings-panel input[type=range]::-webkit-slider-thumb { -webkit-appearance: none; appearance: none; width: 18px; height: 18px; border-radius: 50%; background: var(--color-accent); cursor: pointer; }
-.read-settings-panel input[type=range]::-moz-range-thumb { width: 18px; height: 18px; border-radius: 50%; background: var(--color-accent); cursor: pointer; border: none; }
-.read-settings-value { float: right; font-weight: 400; color: var(--color-text-tertiary); }
-.read-settings-btn { font-family: var(--font-body); font-size: 0.72rem; font-weight: 600; letter-spacing: 0.04em; padding: 0.4rem 0.6rem; border: 1px solid var(--color-border); background: transparent; color: var(--color-text-secondary); cursor: pointer; border-radius: 2px; -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
-.read-settings-btn.active { background: var(--color-accent); color: #fff; border-color: var(--color-accent); }
-.read-justify-group { display: flex; gap: 0.4rem; margin-bottom: 1rem; }
-.dark-toggle:active { transform: scale(0.9); }
-.dark-toggle:hover { border-color: var(--color-text-secondary); }
-html.dark-mode .dark-toggle { background: var(--color-bg); }
-
-/* SUBSCRIBE SECTION */
-.subscribe-section { padding: 3rem 0; text-align: center; border-top: 1px solid var(--color-border-light); background: var(--color-bg); }
-.subscribe-inner { max-width: var(--max-width); margin: 0 auto; padding: 0 1rem; }
-.subscribe-text { font-family: var(--font-serif); font-size: 1.1rem; color: var(--color-text-secondary); margin-bottom: 1rem; }
-.subscribe-link { font-family: var(--font-body); font-size: 0.78rem; font-weight: 700; letter-spacing: 0.14em; text-transform: uppercase; color: #fff; background: var(--color-accent); padding: 0.65rem 1.8rem; text-decoration: none; border-radius: 2px; transition: opacity 0.2s; display: inline-block; }
-.subscribe-link:hover { opacity: 0.85; }
-html.dark-mode .subscribe-section { border-top-color: var(--color-border); }
-@media (max-width: 640px) { .subscribe-text { font-size: 1rem; } .subscribe-link { font-size: 0.72rem; padding: 0.55rem 1.4rem; } }
-
-/* SUBSCRIBE BUTTON (header - unused but kept) */
-.subscribe-btn { display: inline-block; font-family: var(--font-body); font-size: 0.72rem; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--color-accent); border: 1px solid var(--color-accent); padding: 0.35rem 0.9rem; border-radius: 2px; text-decoration: none; transition: background 0.2s, color 0.2s; white-space: nowrap; align-self: center; margin-left: 1.2rem; }
-.subscribe-btn:hover { background: var(--color-accent); color: #fff; }
-html.dark-mode .subscribe-btn { color: var(--color-accent); border-color: var(--color-accent); }
-html.dark-mode .subscribe-btn:hover { background: var(--color-accent); color: #111; }
-@media (max-width: 640px) { .subscribe-btn { font-size: 0.65rem; padding: 0.3rem 0.7rem; margin-left: 0.6rem; } }
-
-
+        /* RESPONSIVE */
+        @media (max-width: 768px) {
+            .container { padding: 0 16px; }
+            nav { flex-wrap: wrap; gap: 12px; }
+            .nav-links { display: none; }
+            .hero { margin-top: 32px; padding: 40px 0 36px; }
+            .hero-title { font-size: 30px; }
+            .hero-excerpt { font-size: 15px; }
+            .secondary { grid-template-columns: 1fr; }
+            .secondary-left { padding-right: 0; border-right: none; }
+            .secondary-right { padding-left: 0; }
+            footer { flex-direction: column; gap: 8px; text-align: center; }
+        }
     </style>
 </head>
 <body>
+    <div class="container">
+        <nav>
+            <a href="/" class="logo">FRONTION</a>
+            <div class="nav-right">
+                <div class="nav-links">
+                    <a href="/global">Global</a>
+                    <a href="/defence">Defence</a>
+                    <a href="/energy">Energy</a>
+                    <a href="/tech">Tech</a>
+                    <a href="/finance">Finance</a>
+                </div>
+                <a href="/subscribe" class="subscribe-btn">Subscribe</a>
+            </div>
+        </nav>
 
-    <div class="status-bar-bg"></div>
-    <div class="read-settings-toggle" id="readSettingsToggle" onclick="toggleReadSettings()" title="Reading settings">⚙</div>
-    <div class="read-settings-panel" id="readSettingsPanel">
-        <label>Text Size <span class="read-settings-value" id="fontSizeValue">100%</span></label>
-        <input type="range" id="fontSizeSlider" min="70" max="140" value="100" step="5" oninput="updateReadSettings()">
-        <label>Content Width <span class="read-settings-value" id="contentWidthValue">Default</span></label>
-        <input type="range" id="contentWidthSlider" min="0" max="8" value="4" step="1" oninput="updateReadSettings()">
-        <div style="display:flex;justify-content:space-between;font-size:0.65rem;color:var(--color-text-tertiary);margin:-0.5rem 0 1rem;padding:0 2px"><span>Narrow</span><span>Default</span><span>Wide</span></div>
-        <label>Text Align</label>
-        <div class="read-justify-group">
-            <button class="read-settings-btn active" id="justifyLeft" onclick="setJustify('left')">Left</button>
-            <button class="read-settings-btn" id="justifyJustify" onclick="setJustify('justify')">Justify</button>
+        <div class="date-bar">
+            <span id="dateDisplay"></span>
+            <span>Strategic Intelligence, Delivered Daily</span>
         </div>
+
+        <!-- HERO -->
+        <div class="hero" id="heroSection">
+            <div class="hero-category" id="heroCategory">Global Brief</div>
+            <h1 class="hero-title" id="heroTitle"><a href="/global">Loading…</a></h1>
+            <div class="hero-excerpt" id="heroExcerpt"></div>
+            <a href="/global" class="hero-link" id="heroLink">Read full analysis →</a>
+        </div>
+
+        <!-- SECONDARY STORIES -->
+        <div class="secondary" id="secondaryGrid">
+            <div class="secondary-left">
+                <a href="/defence" class="secondary-item" id="defenceItem" style="text-decoration:none;display:block;color:inherit;">
+                    <div class="secondary-cat cat-defence">Defence</div>
+                    <div class="secondary-title" id="defenceTitle">Loading…</div>
+                    <div class="secondary-excerpt" id="defenceExcerpt"></div>
+                    <div class="secondary-hint">Read today's defence brief →</div>
+                </a>
+                <a href="/energy" class="secondary-item" id="energyItem" style="text-decoration:none;display:block;color:inherit;">
+                    <div class="secondary-cat cat-energy">Energy</div>
+                    <div class="secondary-title" id="energyTitle">Loading…</div>
+                    <div class="secondary-excerpt" id="energyExcerpt"></div>
+                    <div class="secondary-hint">Read today's energy brief →</div>
+                </a>
+            </div>
+            <div class="secondary-right">
+                <a href="/tech" class="secondary-item" id="techItem" style="text-decoration:none;display:block;color:inherit;">
+                    <div class="secondary-cat cat-tech">Tech</div>
+                    <div class="secondary-title" id="techTitle">Loading…</div>
+                    <div class="secondary-excerpt" id="techExcerpt"></div>
+                    <div class="secondary-hint">Read today's tech brief →</div>
+                </a>
+                <a href="/finance" class="secondary-item" id="financeItem" style="text-decoration:none;display:block;color:inherit;">
+                    <div class="secondary-cat cat-finance">Finance</div>
+                    <div class="secondary-title" id="financeTitle">Loading…</div>
+                    <div class="secondary-excerpt" id="financeExcerpt"></div>
+                    <div class="secondary-hint">Read today's finance brief →</div>
+                </a>
+            </div>
+        </div>
+
+        <footer>
+            <div>&copy; 2026 Frontion News</div>
+            <div>
+                <a href="/archive.html">Archive</a> &nbsp;·&nbsp; <a href="/feed.xml">RSS</a>
+            </div>
+        </footer>
     </div>
-    <div class="dark-toggle" id="darkToggle" onclick="toggleDark()" title="Toggle dark mode">
-        <span id="darkIcon">☽</span>
-    </div>
-    <header class="site-header">
-        <div class="header-inner">
-            <a href="/" class="logo">Frontion News</a>
-            <div class="tagline">
-                <span class="tagline-line tagline-desktop">STRATEGIC ANALYSIS OF THE LATEST</span>
-                <span class="tagline-line tagline-desktop">EVENTS RESHAPING THE WORLD</span>
-                <span class="tagline-line tagline-mobile1">STRATEGIC ANALYSIS</span>
-                <span class="tagline-line tagline-mobile2">OF THE LATEST EVENTS</span>
-                <span class="tagline-line tagline-mobile2">RESHAPING THE WORLD</span>
-            </div>
-        </div>
-    </header>
-
-
-
-    <main class="site-main">
-
-        <!-- ============ ANALYSIS SECTION ============ -->
-        <div id="tab-analysis" class="tab-content active">
-            <div class="headlines-meta" id="headlinesMeta" style="display:none">
-                <span id="headlinesDate"></span><span class="meta-divider">·</span><span id="localTime"></span><span class="meta-divider">·</span><span id="localWeather"></span>
-            </div>
-
-            <!-- REGION DROPDOWN -->
-            <div class="subtab-dropdown" id="regionDropdown">
-                <button class="subtab-dropdown-toggle" id="regionToggle" onclick="toggleRegionDropdown()">Global</button>
-                <div class="subtab-dropdown-menu" id="regionMenu">
-                    <div class="subtab-dropdown-option active" data-region="global" onclick="switchSubTab('global')">Global</div>
-                    <div class="subtab-dropdown-option" data-region="energy" onclick="switchSubTab('energy')">Energy</div>
-                    <div class="subtab-dropdown-option" data-region="finance" onclick="switchSubTab('finance')">Finance</div>
-                    <div class="subtab-dropdown-option" data-region="defense" onclick="switchSubTab('defense')">Defense</div>
-                    <div class="subtab-dropdown-option" data-region="tech" onclick="switchSubTab('tech')">Tech</div>
-                </div>
-            </div>
-
-            <!-- GLOBAL sub-content -->
-            <div id="subtab-global" class="subtab-content active">
-                <div class="date-timeline">
-                    <button class="timeline-arrow" id="prevBtn" onclick="shiftTimeline(-1)">←</button>
-                    <div class="timeline-dates" id="timelineDates"></div>
-                    <button class="timeline-arrow" id="nextBtn" onclick="shiftTimeline(1)">→</button>
-                </div>
-                <div id="analysisContent">
-                    <p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading analysis…</p>
-                </div>
-            </div>
-
-            <!-- ENERGY sub-content -->
-            <div id="subtab-energy" class="subtab-content">
-                <div class="date-timeline">
-                    <button class="timeline-arrow" id="energyPrevBtn" onclick="shiftEnergyTimeline(-1)">←</button>
-                    <div class="timeline-dates" id="energyTimelineDates"></div>
-                    <button class="timeline-arrow" id="energyNextBtn" onclick="shiftEnergyTimeline(1)">→</button>
-                </div>
-                <div id="energyContent">
-                    <p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading Energy Brief…</p>
-                </div>
-            </div>
-
-            <!-- TECH sub-content -->
-            <div id="subtab-tech" class="subtab-content">
-                <div class="date-timeline">
-                    <button class="timeline-arrow" id="techPrevBtn" onclick="shiftTechTimeline(-1)">←</button>
-                    <div class="timeline-dates" id="techTimelineDates"></div>
-                    <button class="timeline-arrow" id="techNextBtn" onclick="shiftTechTimeline(1)">→</button>
-                </div>
-                <div id="techContent">
-                    <p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading Tech Brief…</p>
-                </div>
-            </div>
-
-            <!-- FINANCE sub-content -->
-            <div id="subtab-finance" class="subtab-content">
-                <div class="date-timeline">
-                    <button class="timeline-arrow" id="financePrevBtn" onclick="shiftFinanceTimeline(-1)">←</button>
-                    <div class="timeline-dates" id="financeTimelineDates"></div>
-                    <button class="timeline-arrow" id="financeNextBtn" onclick="shiftFinanceTimeline(1)">→</button>
-                </div>
-                <div id="financeContent">
-                    <p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading Finance Brief…</p>
-                </div>
-            </div>
-
-            <!-- DEFENSE sub-content -->
-            <div id="subtab-defense" class="subtab-content">
-                <div class="date-timeline">
-                    <button class="timeline-arrow" id="defensePrevBtn" onclick="shiftDefenseTimeline(-1)">←</button>
-                    <div class="timeline-dates" id="defenseTimelineDates"></div>
-                    <button class="timeline-arrow" id="defenseNextBtn" onclick="shiftDefenseTimeline(1)">→</button>
-                </div>
-                <div id="defenseContent">
-                    <p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading Defense Brief…</p>
-                </div>
-            </div>
-
-
-        </div>
-
-    </main>
-
-    <div class="subscribe-section">
-        <div class="subscribe-inner">
-            <div class="subscribe-text">Stay ahead with weekly analysis</div>
-            <a href="/subscribe" class="subscribe-link">Subscribe to the briefing</a>
-        </div>
-    </div>
-
-    <footer class="site-footer">
-        <div class="footer-inner">
-            <p>&copy; 2026 Frontion News. All rights reserved.</p>
-        </div>
-    </footer>
 
 <script>
-// ============ TAB SWITCHING (removed - single page now) ============
-
-// Close dropdown when clicking outside
-document.addEventListener('click', function(e) {
-    var dd = document.getElementById('regionDropdown');
-    if (dd && !dd.contains(e.target)) {
-        dd.classList.remove('open');
-    }
-});
-
-function toggleRegionDropdown() {
-    document.getElementById('regionDropdown').classList.toggle('open');
-}
-
-// Close dropdown when clicking outside
-document.addEventListener('click', function(e) {
-    var dd = document.getElementById('regionDropdown');
-    if (dd && !dd.contains(e.target)) {
-        dd.classList.remove('open');
-    }
-});
-
-function switchSubTab(sub) {
-    document.querySelectorAll('.subtab-dropdown-option').forEach(o => o.classList.remove('active'));
-    document.querySelectorAll('.subtab-content').forEach(c => c.classList.remove('active'));
-    document.getElementById('subtab-' + sub).classList.add('active');
-    // Update dropdown toggle text
-    var labels = { 'global': 'Global', 'energy': 'Energy', 'finance': 'Finance', 'defense': 'Defense', 'tech': 'Tech' };
-    document.getElementById('regionToggle').textContent = labels[sub] || sub;
-    // Mark active option
-    document.querySelector('.subtab-dropdown-option[data-region="' + sub + '"]').classList.add('active');
-    // Close dropdown
-    document.getElementById('regionDropdown').classList.remove('open');
-    // Load data
-    if (sub === 'global') loadAnalysisIndex();
-    if (sub === 'energy') loadEnergyIndex();
-    if (sub === 'finance') loadFinanceIndex();
-    if (sub === 'defense') loadDefenseIndex();
-    if (sub === 'tech') loadTechIndex();
-
-}
-
-// ============ HEADLINES (DISABLED) ============
-
-
-// ============ LOCAL TIME & WEATHER ============
-function updateLocalTime() {
-  var now = new Date();
-  var opts = { hour: '2-digit', minute: '2-digit', hour12: true };
-  var el = document.getElementById('localTime'); if (el) el.textContent = now.toLocaleTimeString(undefined, opts);
-}
-
-var weatherIcons = {0:'☀️',1:'🌤️',2:'⛅',3:'☁️',45:'🌫️',48:'🌫️',51:'🌦️',53:'🌦️',55:'🌧️',61:'🌧️',63:'🌧️',65:'🌧️',71:'🌨️',73:'🌨️',75:'❄️',80:'🌦️',81:'🌧️',82:'🌧️',85:'🌨️',86:'❄️',95:'⛈️',96:'⛈️',99:'⛈️'};
-
-function renderWeather(data) {
-  var w = data.current_weather;
-  var temp = Math.round(w.temperature);
-  var icon = weatherIcons[w.weathercode] || '🌡️';
-  var wEl = document.getElementById('localWeather'); if (wEl) wEl.textContent = icon + ' ' + temp + '°C';
-}
-
-function fetchWeatherByCoords(lat, lon) {
-  fetch('https://api.open-meteo.com/v1/forecast?latitude=' + lat + '&longitude=' + lon + '&current_weather=true')
-    .then(function(r) { return r.json(); })
-    .then(function(data) {
-      renderWeather(data);
-      // Cache coords for next load
-      try { localStorage.setItem('fn_coords', JSON.stringify({lat:lat, lon:lon})); } catch(e) {}
-    })
-    .catch(function() { var e = document.getElementById('localWeather'); if (e) e.textContent = ''; });
-}
-
-function fetchWeather() {
-  // Try cached coords first (avoids re-prompting for location)
-  try {
-    var cached = localStorage.getItem('fn_coords');
-    if (cached) {
-      var c = JSON.parse(cached);
-      fetchWeatherByCoords(c.lat, c.lon);
-      // Also try to refresh coords in background
-      if (navigator.geolocation) {
-        navigator.geolocation.getCurrentPosition(function(pos) {
-          fetchWeatherByCoords(pos.coords.latitude, pos.coords.longitude);
-        }, function() {}, { timeout: 8000 });
-      }
-      return;
-    }
-  } catch(e) {}
-
-  if (!navigator.geolocation) {
-    fetchWeatherByIP();
-    return;
-  }
-  navigator.geolocation.getCurrentPosition(function(pos) {
-    fetchWeatherByCoords(pos.coords.latitude, pos.coords.longitude);
-  }, function() { fetchWeatherByIP(); }, { timeout: 5000 });
-}
-
-function fetchWeatherByIP() {
-  fetch('https://ipapi.co/json/')
-    .then(function(r) { return r.json(); })
-    .then(function(data) {
-      if (data.latitude && data.longitude) {
-        fetchWeatherByCoords(data.latitude, data.longitude);
-      }
-    })
-    .catch(function() { var e = document.getElementById('localWeather'); if (e) e.textContent = ''; });
-}
-
-updateLocalTime();
-setInterval(updateLocalTime, 30000);
-fetchWeather();
-
-
-// ============ ANALYSIS DATE TIMELINE ============
-let analysisBriefs = [];
-const DATES_VISIBLE = 7;
-let currentIndex = 0;
-let viewOffset = 0;
-
-function formatDateShort(iso) {
-    // Handle dates like '2026-05-30b' (suffix letters)
-    const clean = iso.replace(/[a-z]+$/, '');
-    const d = new Date(clean + 'T00:00:00');
-    if (isNaN(d.getTime())) return iso; // fallback
-    const base = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
-    // Show a marker for same-day extras
-    const suffix = iso.match(/[a-z]+$/);
-    return suffix ? base + '²' : base;
-}
-
-function renderTimeline() {
-    const container = document.getElementById('timelineDates');
-    const start = viewOffset;
-    const end = Math.min(start + DATES_VISIBLE, analysisBriefs.length);
-    let html = '';
-    for (let i = start; i < end; i++) {
-        const b = analysisBriefs[i];
-        const active = i === currentIndex ? ' active' : '';
-        html += `<a href="#" class="timeline-date${active}" onclick="selectDate(${i}); return false;" title="${b.title}">${formatDateShort(b.date)}</a>`;
-        if (i < end - 1) html += '<div class="timeline-divider"></div>';
-    }
-    container.innerHTML = html;
-    document.getElementById('prevBtn').disabled = viewOffset <= 0;
-    document.getElementById('nextBtn').disabled = end >= analysisBriefs.length;
-}
-
-function shiftTimeline(dir) {
-    const newOffset = viewOffset + dir;
-    if (newOffset < 0 || newOffset + DATES_VISIBLE > analysisBriefs.length) return;
-    viewOffset = newOffset;
-    renderTimeline();
-}
-
-function selectDate(index) {
-    currentIndex = index;
-    renderTimeline();
-    loadBrief(analysisBriefs[index].date);
-}
-
-function loadBrief(dateSlug) {
-    const container = document.getElementById('analysisContent');
-    // Show loading state immediately via class, not innerHTML (avoids layout thrash)
-    container.textContent = '';
-    const loader = document.createElement('p');
-    loader.style.cssText = 'text-align:center;color:var(--color-muted);padding:3rem 0';
-    loader.textContent = 'Loading analysis…';
-    container.appendChild(loader);
-    
-    fetch(`briefs/${dateSlug}.json?v=` + Date.now())
-      .then(r => r.json())
-      .then(brief => {
-        const dateObj = new Date(brief.date.replace(/[a-z]+$/, '') + 'T00:00:00');
-        const dateStr = dateObj.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
-        
-        let html = `
-          <h1 class="brief-headline">${brief.title}</h1>
-          <div class="brief-subhead">${brief.subhead}</div>
-          <div class="brief-meta">
-              <time datetime="${brief.date}">${dateStr}</time> · Frontion News Strategic Analysis
-          </div>`;
-        
-        brief.sections.forEach((sec, i) => {
-          if (i > 0) html += '<hr class="section-divider">';
-          html += `
-          <div class="analysis-section">
-              <h2 class="section-heading">${sec.heading}</h2>
-              <div class="section-body">${sec.body}</div>
-              <div class="why-it-matters">
-                  <strong>Why it matters</strong> &mdash; ${sec.whyItMatters}
-              </div>
-          </div>`;
-        });
-        
-        if (brief.bottomLine) {
-          html += `
-          <div class="bottom-line">
-              <div class="bottom-line-kicker">Bottom Line</div>
-              <div class="bottom-line-body">
-                  <p>${brief.bottomLine}</p>
-              </div>
-          </div>`;
-        }
-        
-        // Batch DOM update with rAF for smooth scroll
-        requestAnimationFrame(function() {
-            container.innerHTML = html;
-            requestAnimationFrame(function() {
-                window.scrollTo({ top: 0, behavior: 'instant' });
-            });
-        });
-      })
-      .catch(err => {
-        container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load analysis for this date.</p>';
-      });
-}
-
-function loadAnalysisIndex() {
-    fetch('briefs/index.json?v=' + Date.now())
-      .then(r => r.json())
-      .then(data => {
-        analysisBriefs = data; // newest first
-        if (analysisBriefs.length > 0) {
-          currentIndex = 0;
-          renderTimeline();
-          loadBrief(analysisBriefs[0].date);
-        } else {
-          document.getElementById('analysisContent').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">No analysis available yet.</p>';
-        }
-      })
-      .catch(err => {
-        document.getElementById('analysisContent').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load analysis index.</p>';
-      });
-}
-
-// ============ ENERGY BRIEF ============
-let energyBriefs = [];
-let energyCurrentIndex = 0;
-let energyViewOffset = 0;
-
-function renderEnergyTimeline() {
-    const container = document.getElementById('energyTimelineDates');
-    const start = energyViewOffset;
-    const end = Math.min(start + DATES_VISIBLE, energyBriefs.length);
-    let html = '';
-    for (let i = start; i < end; i++) {
-        const b = energyBriefs[i];
-        const active = i === energyCurrentIndex ? ' active' : '';
-        html += `<a href="#" class="timeline-date${active}" onclick="selectEnergyDate(${i}); return false;" title="${b.title}">${formatDateShort(b.date)}</a>`;
-        if (i < end - 1) html += '<div class="timeline-divider"></div>';
-    }
-    container.innerHTML = html;
-    document.getElementById('energyPrevBtn').disabled = energyViewOffset <= 0;
-    document.getElementById('energyNextBtn').disabled = end >= energyBriefs.length;
-}
-
-function shiftEnergyTimeline(dir) {
-    const newOffset = energyViewOffset + dir;
-    if (newOffset < 0 || newOffset + DATES_VISIBLE > energyBriefs.length) return;
-    energyViewOffset = newOffset;
-    renderEnergyTimeline();
-}
-
-function selectEnergyDate(index) {
-    energyCurrentIndex = index;
-    renderEnergyTimeline();
-    loadEnergyBrief(energyBriefs[index].date);
-}
-
-function loadEnergyBrief(dateSlug) {
-    const container = document.getElementById('energyContent');
-    container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading Energy Brief…</p>';
-    
-    fetch(`energy/${dateSlug}.json?v=` + Date.now())
-      .then(r => r.json())
-      .then(brief => {
-        const dateObj = new Date(brief.date.replace(/[a-z]+$/, '') + 'T00:00:00');
-        const dateStr = dateObj.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
-        
-        let html = `
-          <h1 class="brief-headline">${brief.title}</h1>
-          <div class="brief-subhead">${brief.subhead}</div>
-          <div class="brief-meta">
-              <time datetime="${brief.date}">${dateStr}</time> · Frontion News Energy & Power Analysis
-          </div>`;
-        
-        brief.sections.forEach((sec, i) => {
-          if (i > 0) html += '<hr class="section-divider">';
-          html += `
-          <div class="analysis-section">
-              <h2 class="section-heading">${sec.heading}</h2>
-              <div class="section-body">${sec.body}</div>
-              <div class="why-it-matters">
-                  <strong>Why it matters</strong> — ${sec.whyItMatters}
-              </div>
-          </div>`;
-        });
-        
-        if (brief.bottomLine) {
-          html += `
-          <div class="bottom-line">
-              <div class="bottom-line-kicker">Bottom Line</div>
-              <div class="bottom-line-body">
-                  <p>${brief.bottomLine}</p>
-              </div>
-          </div>`;
-        }
-
-        if (brief.sources) {
-          html += `
-          <div style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid var(--color-border-light);">
-              <div style="font-family:var(--font-body);font-size:0.72rem;font-weight:700;letter-spacing:0.18em;text-transform:uppercase;color:var(--color-text-tertiary);margin-bottom:0.5rem;">Sources</div>
-              <div style="font-family:var(--font-serif);font-size:0.85rem;line-height:1.6;color:var(--color-text-tertiary);">${brief.sources}</div>
-          </div>`;
-        }
-        
-        // Batch DOM update with rAF for smooth scroll
-        requestAnimationFrame(function() {
-            container.innerHTML = html;
-            requestAnimationFrame(function() {
-                window.scrollTo({ top: 0, behavior: 'instant' });
-            });
-        });
-      })
-      .catch(err => {
-        container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load Energy Brief for this date.</p>';
-      });
-}
-
-function loadEnergyIndex() {
-    fetch('energy/index.json?v=' + Date.now())
-      .then(r => r.json())
-      .then(data => {
-        energyBriefs = data;
-        if (energyBriefs.length > 0) {
-          energyCurrentIndex = 0;
-          renderEnergyTimeline();
-          loadEnergyBrief(energyBriefs[0].date);
-        } else {
-          document.getElementById('energyContent').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">No Energy Brief available yet.</p>';
-        }
-      })
-      .catch(err => {
-        document.getElementById('energyContent').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load Energy Brief index.</p>';
-      });
-}
-
-
-// ============ TECH BRIEF ============
-var techBriefs = [];
-var techCurrentIndex = 0;
-var techViewOffset = 0;
-
-function renderTechTimeline() {
-    const container = document.getElementById('techTimelineDates');
-    const start = techViewOffset;
-    const end = Math.min(start + DATES_VISIBLE, techBriefs.length);
-    let html = '';
-    for (let i = start; i < end; i++) {
-        const b = techBriefs[i];
-        const active = i === techCurrentIndex ? ' active' : '';
-        html += '<a href="#" class="timeline-date' + active + '" onclick="selectTechDate(' + i + '); return false;" title="' + (b.title || '') + '">' + formatDateShort(b.date) + '</a>';
-        if (i < end - 1) html += '<div class="timeline-divider"></div>';
-    }
-    container.innerHTML = html;
-    document.getElementById('techPrevBtn').disabled = techViewOffset <= 0;
-    document.getElementById('techNextBtn').disabled = end >= techBriefs.length;
-}
-
-function shiftTechTimeline(dir) {
-    const newOffset = techViewOffset + dir;
-    if (newOffset < 0 || newOffset + DATES_VISIBLE > techBriefs.length) return;
-    techViewOffset = newOffset;
-    renderTechTimeline();
-}
-
-function selectTechDate(index) {
-    techCurrentIndex = index;
-    renderTechTimeline();
-    loadTechBrief(techBriefs[index].date);
-}
-
-function loadTechBrief(dateSlug) {
-    const container = document.getElementById('techContent');
-    container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading Tech Brief…</p>';
-    
-    fetch('tech/' + dateSlug + '.json?v=' + Date.now())
-      .then(r => r.json())
-      .then(brief => {
-        const dateObj = new Date(brief.date.replace(/[a-z]+$/, '') + 'T00:00:00');
-        const dateStr = dateObj.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
-        
-        let html = '<h1 class="brief-headline">' + brief.title + '</h1>' +
-          '<div class="brief-subhead">' + brief.subhead + '</div>' +
-          '<div class="brief-meta"><time datetime="' + brief.date + '">' + dateStr + '</time> · Frontion News Technology & Power Analysis</div>';
-        
-        brief.sections.forEach((sec, i) => {
-          if (i > 0) html += '<hr class="section-divider">';
-          html += '<div class="analysis-section"><h2 class="section-heading">' + sec.heading + '</h2>' +
-            '<div class="section-body">' + sec.body + '</div>' +
-            '<div class="why-it-matters"><strong>Why it matters</strong> — ' + sec.whyItMatters + '</div></div>';
-        });
-        
-        if (brief.bottomLine) {
-          html += '<div class="bottom-line"><div class="bottom-line-kicker">Bottom Line</div><div class="bottom-line-body"><p>' + brief.bottomLine + '</p></div></div>';
-        }
-        if (brief.sources) {
-          html += '<div style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid var(--color-border-light);"><div style="font-family:var(--font-body);font-size:0.72rem;font-weight:700;letter-spacing:0.18em;text-transform:uppercase;color:var(--color-text-tertiary);margin-bottom:0.5rem;">Sources</div><div style="font-family:var(--font-serif);font-size:0.85rem;line-height:1.6;color:var(--color-text-tertiary);">' + brief.sources + '</div></div>';
-        }
-        
-        // Batch DOM update with rAF for smooth scroll
-        requestAnimationFrame(function() {
-            container.innerHTML = html;
-            requestAnimationFrame(function() {
-                window.scrollTo({ top: 0, behavior: 'instant' });
-            });
-        });
-      })
-      .catch(err => {
-        container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load Tech Brief for this date.</p>';
-      });
-}
-
-function loadTechIndex() {
-    fetch('tech/index.json?v=' + Date.now())
-      .then(r => r.json())
-      .then(data => {
-        techBriefs = data;
-        if (techBriefs.length > 0) {
-          techCurrentIndex = 0;
-          renderTechTimeline();
-          loadTechBrief(techBriefs[0].date);
-        } else {
-          document.getElementById('techContent').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">No Tech Brief available yet.</p>';
-        }
-      })
-      .catch(err => {
-        document.getElementById('techContent').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load Tech Brief index.</p>';
-      });
-}
-
-
-// ============ FINANCE ============
-var financeBriefs = [];
-var financeCurrentIndex = 0;
-
-function shiftFinanceTimeline(dir) {
-    if (financeBriefs.length === 0) return;
-    financeCurrentIndex = Math.max(0, Math.min(financeBriefs.length - 1, financeCurrentIndex + dir));
-    renderFinanceTimeline();
-    loadFinanceBrief(financeBriefs[financeCurrentIndex].date);
-}
-
-function renderFinanceTimeline() {
-    var container = document.getElementById('financeTimelineDates');
-    if (!financeBriefs || financeBriefs.length === 0) { container.innerHTML = ''; return; }
-    var html = '';
-    financeBriefs.forEach(function(b, i) {
-        var d = new Date(b.date + 'T00:00:00');
-        var label = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
-        var d = b.date;
-        var label = formatDateShort(d);
-        html += '<a href="#" class="timeline-date' + (i === financeCurrentIndex ? ' active' : '') + '" onclick="financeCurrentIndex=' + i + ';renderFinanceTimeline();loadFinanceBrief(\'' + b.date + '\'); return false;" title="' + (b.title || '') + '">' + label + '</a>';
-        if (i < financeBriefs.length - 1) html += '<div class="timeline-divider"></div>';
-    });
-    container.innerHTML = html;
-    var active = container.querySelector('.timeline-date.active');
-    if (active) active.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
-}
-
-function loadFinanceBrief(dateSlug) {
-    const container = document.getElementById('financeContent');
-    container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading Finance Brief…</p>';
-    
-    fetch('finance/' + dateSlug + '.json?v=' + Date.now())
-      .then(r => r.json())
-      .then(brief => {
-        const dateObj = new Date(brief.date.replace(/[a-z]+$/, '') + 'T00:00:00');
-        const dateStr = dateObj.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
-        
-        let html = '<h1 class="brief-headline">' + brief.title + '</h1>' +
-          '<div class="brief-subhead">' + brief.subhead + '</div>' +
-          '<div class="brief-meta"><time datetime="' + brief.date + '">' + dateStr + '</time> · Frontion News Finance & Markets Analysis</div>';
-        
-        brief.sections.forEach((sec, i) => {
-          if (i > 0) html += '<hr class="section-divider">';
-          html += '<div class="analysis-section"><h2 class="section-heading">' + sec.heading + '</h2>' +
-            '<div class="section-body">' + sec.body + '</div>' +
-            '<div class="why-it-matters"><strong>Why it matters</strong> — ' + sec.whyItMatters + '</div></div>';
-        });
-        
-        if (brief.bottomLine) {
-          html += '<div class="bottom-line"><div class="bottom-line-kicker">Bottom Line</div><div class="bottom-line-body"><p>' + brief.bottomLine + '</p></div></div>';
-        }
-        if (brief.sources) {
-          html += '<div style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid var(--color-border-light);"><div style="font-family:var(--font-body);font-size:0.72rem;font-weight:700;letter-spacing:0.18em;text-transform:uppercase;color:var(--color-text-tertiary);margin-bottom:0.5rem;">Sources</div><div style="font-family:var(--font-serif);font-size:0.85rem;line-height:1.6;color:var(--color-text-tertiary);">' + brief.sources + '</div></div>';
-        }
-        
-        requestAnimationFrame(function() {
-            container.innerHTML = html;
-            requestAnimationFrame(function() {
-                window.scrollTo({ top: 0, behavior: 'instant' });
-            });
-        });
-      })
-      .catch(err => {
-        container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">No Finance Brief available for this date yet.</p>';
-      });
-}
-
-function loadFinanceIndex() {
-    fetch('finance/index.json?v=' + Date.now())
-      .then(r => r.json())
-      .then(data => {
-        financeBriefs = data;
-        if (financeBriefs.length > 0) {
-          financeCurrentIndex = 0;
-          renderFinanceTimeline();
-          loadFinanceBrief(financeBriefs[0].date);
-        } else {
-          document.getElementById('financeContent').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">No Finance Brief available yet.</p>';
-        }
-      })
-      .catch(err => {
-        document.getElementById('financeContent').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load Finance Brief index.</p>';
-      });
-}
-
-// ============ DEFENSE ============
-var defenseBriefs = [];
-var defenseCurrentIndex = 0;
-
-function shiftDefenseTimeline(dir) {
-    if (defenseBriefs.length === 0) return;
-    defenseCurrentIndex = Math.max(0, Math.min(defenseBriefs.length - 1, defenseCurrentIndex + dir));
-    renderDefenseTimeline();
-    loadDefenseBrief(defenseBriefs[defenseCurrentIndex].date);
-}
-
-function renderDefenseTimeline() {
-    var container = document.getElementById('defenseTimelineDates');
-    if (!defenseBriefs || defenseBriefs.length === 0) { container.innerHTML = ''; return; }
-    var html = '';
-    defenseBriefs.forEach(function(b, i) {
-        var d = new Date(b.date + 'T00:00:00');
-        var label = d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
-        var d = b.date;
-        var label = formatDateShort(d);
-        html += '<a href="#" class="timeline-date' + (i === defenseCurrentIndex ? ' active' : '') + '" onclick="defenseCurrentIndex=' + i + ';renderDefenseTimeline();loadDefenseBrief(\'' + b.date + '\'); return false;" title="' + (b.title || '') + '">' + label + '</a>';
-        if (i < defenseBriefs.length - 1) html += '<div class="timeline-divider"></div>';
-    });
-    container.innerHTML = html;
-    var active = container.querySelector('.timeline-date.active');
-    if (active) active.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
-}
-
-function loadDefenseBrief(dateSlug) {
-    const container = document.getElementById('defenseContent');
-    container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading Defense Brief…</p>';
-    
-    fetch('defense/' + dateSlug + '.json?v=' + Date.now())
-      .then(r => r.json())
-      .then(brief => {
-        const dateObj = new Date(brief.date.replace(/[a-z]+$/, '') + 'T00:00:00');
-        const dateStr = dateObj.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
-        
-        let html = '<h1 class="brief-headline">' + brief.title + '</h1>' +
-          '<div class="brief-subhead">' + brief.subhead + '</div>' +
-          '<div class="brief-meta"><time datetime="' + brief.date + '">' + dateStr + '</time> · Frontion News Defense & Industry Analysis</div>';
-        
-        brief.sections.forEach((sec, i) => {
-          if (i > 0) html += '<hr class="section-divider">';
-          html += '<div class="analysis-section"><h2 class="section-heading">' + sec.heading + '</h2>' +
-            '<div class="section-body">' + sec.body + '</div>' +
-            '<div class="why-it-matters"><strong>Why it matters</strong> — ' + sec.whyItMatters + '</div></div>';
-        });
-        
-        if (brief.bottomLine) {
-          html += '<div class="bottom-line"><div class="bottom-line-kicker">Bottom Line</div><div class="bottom-line-body"><p>' + brief.bottomLine + '</p></div></div>';
-        }
-        if (brief.sources) {
-          html += '<div style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid var(--color-border-light);"><div style="font-family:var(--font-body);font-size:0.72rem;font-weight:700;letter-spacing:0.18em;text-transform:uppercase;color:var(--color-text-tertiary);margin-bottom:0.5rem;">Sources</div><div style="font-family:var(--font-serif);font-size:0.85rem;line-height:1.6;color:var(--color-text-tertiary);">' + brief.sources + '</div></div>';
-        }
-        
-        requestAnimationFrame(function() {
-            container.innerHTML = html;
-            requestAnimationFrame(function() {
-                window.scrollTo({ top: 0, behavior: 'instant' });
-            });
-        });
-      })
-      .catch(err => {
-        container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">No Defense Brief available for this date yet.</p>';
-      });
-}
-
-function loadDefenseIndex() {
-    fetch('defense/index.json?v=' + Date.now())
-      .then(r => r.json())
-      .then(data => {
-        defenseBriefs = data;
-        if (defenseBriefs.length > 0) {
-          defenseCurrentIndex = 0;
-          renderDefenseTimeline();
-          loadDefenseBrief(defenseBriefs[0].date);
-        } else {
-          document.getElementById('defenseContent').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">No Defense Brief available yet.</p>';
-        }
-      })
-      .catch(err => {
-        document.getElementById('defenseContent').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load Defense Brief index.</p>';
-      });
-}
-
-// ============ DARK MODE ============
-function toggleDark() {
-    document.documentElement.classList.toggle('dark-mode');
-    const isDark = document.documentElement.classList.contains('dark-mode');
-    try { localStorage.setItem('darkMode', isDark ? '1' : '0'); } catch(e) {}
-    try { document.cookie = 'darkMode=' + (isDark ? '1' : '0') + ';path=/;max-age=31536000;SameSite=Lax'; } catch(e) {}
-    document.getElementById('darkIcon').textContent = isDark ? '☀' : '☽';
-}
-
-// Init dark mode from preference
+// Date display
 (function() {
-    var pref = null;
-    try { pref = localStorage.getItem('darkMode'); } catch(e) {
-        try { pref = document.cookie.indexOf('darkMode=1') !== -1 ? '1' : null; } catch(e2) {}
-    }
-    var prefersDark = false;
-    try { prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches; } catch(e) {}
-    if (pref === '1' || (pref === null && prefersDark)) {
-        document.documentElement.classList.add('dark-mode');
-        document.getElementById('darkIcon').textContent = '☀';
-    }
+    var d = new Date();
+    var opts = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+    document.getElementById('dateDisplay').textContent = d.toLocaleDateString('en-US', opts);
 })();
 
-// Register service worker
-if ('serviceWorker' in navigator) {
-    navigator.serviceWorker.register('sw.js').catch(() => {});
+// Brief data paths
+var BRIEF_DIRS = {
+    global:   '/briefs/',
+    defence:  '/defense/',
+    energy:   '/energy/',
+    tech:     '/tech/',
+    finance:  '/finance/'
+};
+
+// Category display names
+var CAT_NAMES = {
+    global:   'Global Brief',
+    defence:  'Defence Brief',
+    energy:   'Energy Brief',
+    tech:     'Tech Brief',
+    finance:  'Finance Brief'
+};
+
+// Brief page paths
+var BRIEF_PAGES = {
+    global:   '/global',
+    defence:  '/defence',
+    energy:   '/energy',
+    tech:     '/tech',
+    finance:  '/finance'
+};
+
+function truncate(s, len) {
+    if (!s) return '';
+    s = s.replace(/<[^>]+>/g, '');
+    return s.length > len ? s.substring(0, len) + '…' : s;
 }
 
-// Init — only load active tab on start, use rAF for smooth rendering
-requestAnimationFrame(function() {
-    loadAnalysisIndex();
-});
-// Turkey/Energy/Tech load on demand via switchSubTab
+async function loadLatest(category) {
+    var dir = BRIEF_DIRS[category];
+    if (!dir) return null;
+    try {
+        var resp = await fetch(dir + 'index.json?v=' + Date.now());
+        if (!resp.ok) return null;
+        var index = await resp.json();
+        if (!index || index.length === 0) return null;
+        var latest = index[0];
+        var briefResp = await fetch(dir + latest.date + '.json?v=' + Date.now());
+        if (!briefResp.ok) return { index: latest, brief: null };
+        var brief = await briefResp.json();
+        return { index: latest, brief: brief };
+    } catch(e) {
+        console.error('Failed to load ' + category + ':', e);
+        return null;
+    }
+}
 
-// === READING SETTINGS ===
-var readSettingsOpen = false;
-function toggleReadSettings() {
-    readSettingsOpen = !readSettingsOpen;
-    var panel = document.getElementById('readSettingsPanel');
-    panel.classList.toggle('open', readSettingsOpen);
-}
-document.addEventListener('click', function(e) {
-    if (readSettingsOpen && !e.target.closest('#readSettingsPanel') && !e.target.closest('#readSettingsToggle')) {
-        readSettingsOpen = false;
-        document.getElementById('readSettingsPanel').classList.remove('open');
+async function loadAll() {
+    // Load global brief for hero
+    var global = await loadLatest('global');
+    if (global && global.brief) {
+        document.getElementById('heroCategory').textContent = CAT_NAMES.global;
+        document.getElementById('heroTitle').innerHTML = '<a href="/global">' + global.brief.title + '</a>';
+        document.getElementById('heroExcerpt').textContent = truncate(global.brief.subhead || global.brief.bottomLine || '', 220);
+        document.getElementById('heroLink').href = '/global';
+    } else if (global && global.index) {
+        document.getElementById('heroTitle').innerHTML = '<a href="/global">' + global.index.title + '</a>';
     }
-});
-var widthLabels = ['Narrow', 'Compact', 'Comfortable', 'Slightly Narrow', 'Default', 'Slightly Wide', 'Wide', 'Wider', 'Full'];
-function updateReadSettings() {
-    var fs = document.getElementById('fontSizeSlider').value;
-    var cw = document.getElementById('contentWidthSlider').value;
-    // Font size
-    var basePx = 17;
-    var newPx = Math.round(basePx * fs / 100);
-    document.documentElement.style.fontSize = newPx + 'px';
-    document.getElementById('fontSizeValue').textContent = fs + '%';
-    // Content width — directly set max-width on all containers
-    var widths = ['360px', '440px', '520px', '600px', '680px', '800px', '920px', '1040px', '100%'];
-    var mw = widths[cw];
-    var els = document.querySelectorAll('.site-main, .header-inner, .tab-bar, .tab-divider, .site-footer .footer-inner');
-    for (var i = 0; i < els.length; i++) { els[i].style.maxWidth = mw; els[i].style.marginLeft = 'auto'; els[i].style.marginRight = 'auto'; }
-    document.getElementById('contentWidthValue').textContent = widthLabels[cw];
-    try {
-        localStorage.setItem('readSettings', JSON.stringify({fontSize: fs, contentWidth: cw, justify: getCurrentJustify()}));
-    } catch(e) {}
-}
-function getCurrentJustify() {
-    return document.documentElement.classList.contains('read-justify') ? 'justify' : 'left';
-}
-function setJustify(mode) {
-    var leftBtn = document.getElementById('justifyLeft');
-    var justBtn = document.getElementById('justifyJustify');
-    if (mode === 'justify') {
-        leftBtn.classList.remove('active');
-        justBtn.classList.add('active');
-        document.documentElement.classList.add('read-justify');
-    } else {
-        leftBtn.classList.add('active');
-        justBtn.classList.remove('active');
-        document.documentElement.classList.remove('read-justify');
-    }
-    try {
-        localStorage.setItem('readSettings', JSON.stringify({fontSize: document.getElementById('fontSizeSlider').value, contentWidth: document.getElementById('contentWidthSlider').value, justify: mode}));
-    } catch(e) {}
-}
-(function() {
-    try {
-        var s = JSON.parse(localStorage.getItem('readSettings'));
-        if (s) {
-            document.getElementById('fontSizeSlider').value = s.fontSize;
-            document.getElementById('contentWidthSlider').value = s.contentWidth;
-            if (s.justify === 'justify') {
-                document.getElementById('justifyLeft').classList.remove('active');
-                document.getElementById('justifyJustify').classList.add('active');
-                document.documentElement.classList.add('read-justify');
-            }
-            setTimeout(function() { updateReadSettings(); }, 50);
+
+    // Load category briefs for secondary grid
+    var categories = ['defence', 'energy', 'tech', 'finance'];
+    for (var i = 0; i < categories.length; i++) {
+        var cat = categories[i];
+        var data = await loadLatest(cat);
+        var titleEl = document.getElementById(cat + 'Title');
+        var excerptEl = document.getElementById(cat + 'Excerpt');
+
+        if (data && data.brief) {
+            titleEl.textContent = data.brief.title;
+            excerptEl.textContent = truncate(data.brief.subhead || '', 100);
+        } else if (data && data.index) {
+            titleEl.textContent = data.index.title;
+        } else {
+            titleEl.textContent = 'No brief available';
         }
-    } catch(e) {}
-})();
+    }
+}
 
-
-
+loadAll();
 </script>
-
 </body>
 </html>
