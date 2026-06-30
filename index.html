@@ -40,15 +40,25 @@
             align-items: center;
             justify-content: space-between;
             padding: 20px 0;
-            border-bottom: 2px solid #1a1a1a;
+            border-bottom: 3px solid #c41e3a;
         }
         .logo {
+            font-family: 'Playfair Display', serif;
+            font-size: 26px;
+            font-weight: 700;
+            letter-spacing: -0.03em;
+            color: #1a1a1a;
+            text-decoration: none;
+            line-height: 1.1;
+        }
+        .logo-second {
             font-family: 'Playfair Display', serif;
             font-size: 26px;
             font-weight: 700;
             letter-spacing: 3px;
             color: #1a1a1a;
             text-decoration: none;
+            line-height: 1.1;
         }
         .nav-right {
             display: flex;
@@ -69,6 +79,11 @@
             transition: color 0.2s;
         }
         .nav-links a:hover { color: #1a1a1a; }
+        .nav-links a[href="/global"]:hover { color: #888; }
+        .nav-links a[href="/defence"]:hover { color: #dc2626; }
+        .nav-links a[href="/energy"]:hover { color: #16a34a; }
+        .nav-links a[href="/tech"]:hover { color: #2563eb; }
+        .nav-links a[href="/finance"]:hover { color: #ca8a04; }
         .subscribe-btn {
             background: #1a1a1a;
             color: #fafafa;
@@ -219,7 +234,7 @@
         footer {
             margin-top: 64px;
             padding: 24px 0;
-            border-top: 2px solid #1a1a1a;
+            border-top: 2px solid #c41e3a;
             display: flex;
             justify-content: space-between;
             font-size: 11px;
@@ -257,7 +272,10 @@
 <body>
     <div class="container">
         <nav>
-            <a href="/" class="logo">FRONTION</a>
+            <a href="/" style="text-decoration:none;line-height:1.05;display:block;">
+                <span class="logo">FRONTION</span><br>
+                <span class="logo-second">NEWS</span>
+            </a>
             <div class="nav-right">
                 <div class="nav-links">
                     <a href="/global">Global</a>
@@ -318,7 +336,7 @@
         <footer>
             <div>&copy; 2026 Frontion News</div>
             <div>
-                <a href="/archive.html">Archive</a> &nbsp;&middot;&nbsp; <a href="/feed.xml">RSS</a>
+                <a href="mailto:contact@frontion.news">Contact</a>
             </div>
         </footer>
     </div>

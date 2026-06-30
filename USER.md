@@ -2,11 +2,11 @@
 
 _Learn about the person you're helping. Update this as you go._
 
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+- **Name:** Alperen K.
+- **What to call them:** Alperen
+- **Pronouns:** he/him
+- **Timezone:** Europe/Istanbul (GMT+3)
+- **Notes:** Turkish, direct communicator, prefers concise answers
 
 ## Context
 
