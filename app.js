@@ -1,11 +1,27 @@
 // The Geopol Brief — Site App
 // Loads briefs from /briefs/ directory
 
-const BRIEFS_DIR = '/briefs/';
+const BRIEF_DIRS = {
+    global: '/briefs/',
+    defence: '/defense/',
+    energy: '/energy/',
+    tech: '/tech/',
+    finance: '/finance/'
+};
 
-async function loadBriefs() {
+const BRIEF_DIR_NAMES = {
+    global: 'briefs',
+    defence: 'defense',
+    energy: 'energy',
+    tech: 'tech',
+    finance: 'finance'
+};
+
+async function loadBriefs(cat) {
+    cat = cat || 'global';
+    const dir = BRIEF_DIRS[cat] || BRIEF_DIRS.global;
     try {
-        const resp = await fetch(BRIEFS_DIR + 'index.json');
+        const resp = await fetch(dir + 'index.json');
         if (!resp.ok) throw new Error('No index');
         const briefs = await resp.json();
         return briefs;
@@ -15,9 +31,11 @@ async function loadBriefs() {
     }
 }
 
-async function loadBrief(slug) {
+async function loadBrief(slug, cat) {
+    cat = cat || 'global';
+    const dir = BRIEF_DIRS[cat] || BRIEF_DIRS.global;
     try {
-        const resp = await fetch(BRIEFS_DIR + slug + '.json');
+        const resp = await fetch(dir + slug + '.json');
         if (!resp.ok) throw new Error('No brief');
         return await resp.json();
     } catch (e) {
@@ -119,12 +137,13 @@ async function renderHomePage() {
 async function renderBriefPage() {
     const params = new URLSearchParams(window.location.search);
     const slug = params.get('b');
+    const cat = params.get('cat') || 'global';
     if (!slug) {
         window.location.href = '/';
         return;
     }
 
-    const brief = await loadBrief(slug);
+    const brief = await loadBrief(slug, cat);
     if (!brief) {
         document.querySelector('.article-body').innerHTML = '<p>Brief not found.</p>';
         return;
