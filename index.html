@@ -136,6 +136,17 @@
             transition: color 0.2s;
         }
         .hero-title a:hover { color: #555; }
+        .hero-image {
+            max-width: 90%;
+            margin: 0 auto 24px;
+            border-radius: 2px;
+        }
+        .hero-image img {
+            width: 100%;
+            height: auto;
+            display: block;
+            border-radius: 2px;
+        }
         .hero-excerpt {
             font-size: 17px;
             line-height: 1.7;
@@ -284,6 +295,7 @@
         <!-- HERO -->
         <div class="hero" id="heroSection">
             <div class="hero-category" id="heroCategory">Global Brief</div>
+            <div class="hero-image" id="heroImage" style="display:none;"><img id="heroImg" src="" alt="" /></div>
             <h1 class="hero-title" id="heroTitle"><a href="/global">Loading…</a></h1>
             <div class="hero-excerpt" id="heroExcerpt"></div>
             <a href="/global" class="hero-link" id="heroLink">Read full analysis →</a>
@@ -293,13 +305,13 @@
         <div class="secondary" id="secondaryGrid">
             <div class="secondary-left">
                 <a href="/defence" class="secondary-item" style="text-decoration:none;display:block;color:inherit;">
-                    <div class="secondary-cat cat-defence">Defence</div>
+                    <div class="secondary-cat cat-defence">🛡️ Defence</div>
                     <div class="secondary-title" id="defenceTitle">Loading…</div>
                     <div class="secondary-excerpt" id="defenceExcerpt"></div>
                     <div class="secondary-hint">Read today's defence brief →</div>
                 </a>
                 <a href="/energy" class="secondary-item" style="text-decoration:none;display:block;color:inherit;">
-                    <div class="secondary-cat cat-energy">Energy</div>
+                    <div class="secondary-cat cat-energy">⚡ Energy</div>
                     <div class="secondary-title" id="energyTitle">Loading…</div>
                     <div class="secondary-excerpt" id="energyExcerpt"></div>
                     <div class="secondary-hint">Read today's energy brief →</div>
@@ -307,13 +319,13 @@
             </div>
             <div class="secondary-right">
                 <a href="/tech" class="secondary-item" style="text-decoration:none;display:block;color:inherit;">
-                    <div class="secondary-cat cat-tech">Tech</div>
+                    <div class="secondary-cat cat-tech">💻 Tech</div>
                     <div class="secondary-title" id="techTitle">Loading…</div>
                     <div class="secondary-excerpt" id="techExcerpt"></div>
                     <div class="secondary-hint">Read today's tech brief →</div>
                 </a>
                 <a href="/finance" class="secondary-item" style="text-decoration:none;display:block;color:inherit;">
-                    <div class="secondary-cat cat-finance">Finance</div>
+                    <div class="secondary-cat cat-finance">💰 Finance</div>
                     <div class="secondary-title" id="financeTitle">Loading…</div>
                     <div class="secondary-excerpt" id="financeExcerpt"></div>
                     <div class="secondary-hint">Read today's finance brief →</div>
@@ -397,6 +409,11 @@ async function loadAll() {
         document.getElementById('heroTitle').innerHTML = '<a href="/global">' + global.brief.title + '</a>';
         document.getElementById('heroExcerpt').textContent = truncate(global.brief.subhead || global.brief.bottomLine || '', 220);
         document.getElementById('heroLink').href = '/global';
+        // Hero image
+        if (global.brief.heroImage) {
+            document.getElementById('heroImg').src = global.brief.heroImage;
+            document.getElementById('heroImage').style.display = 'block';
+        }
     } else if (global && global.index) {
         document.getElementById('heroTitle').innerHTML = '<a href="/global">' + global.index.title + '</a>';
     }
