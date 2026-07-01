@@ -357,6 +357,12 @@ def generate_bottomline_card(brief, date_str, page_num, total_pages, source_labe
     bl_wrapped = wrap_text(draw, bottom_line, BODY_FONT, MAX_TEXT_WIDTH)
     y = draw_justified(draw, bl_wrapped, MARGIN_X, y, BODY_FONT, SUBTEXT_COLOR, MAX_TEXT_WIDTH, 42)
 
+    y += 30
+    # "Read more at frontion.news" line
+    cta_text = "Read the full analysis at frontion.news"
+    cta_bbox = draw.textbbox((0, 0), cta_text, font=SMALL_FONT)
+    cta_w = cta_bbox[2] - cta_bbox[0]
+    draw.text(((WIDTH - cta_w) // 2, y), cta_text, fill=DATE_COLOR, font=SMALL_FONT)
     y += 40
     draw_footer(draw, total_h)
 
