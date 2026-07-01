@@ -421,22 +421,19 @@ if __name__ == "__main__":
         generate_all_cards(date_str)
     else:
         command = args[1]
+        # LinkedIn posts: only BLUF (1/2) and Bottom Line (2/2)
+        LINKEDIN_TOTAL_PAGES = 2
+
         if command == "bluf":
             brief = load_brief(date_str)
-            sections = brief.get("sections", [])
-            total_pages = 1 + len(sections) + 1
-            generate_bluf_card(brief, date_str, 1, total_pages, source_label)
+            generate_bluf_card(brief, date_str, 1, LINKEDIN_TOTAL_PAGES, source_label)
         elif command == "section":
             section_num = int(args[2])
             brief = load_brief(date_str)
-            sections = brief.get("sections", [])
-            total_pages = 1 + len(sections) + 1
-            generate_section_card(brief, date_str, section_num, section_num + 1, total_pages, source_label)
+            generate_section_card(brief, date_str, section_num, section_num + 1, len(brief.get("sections", [])) + 2, source_label)
         elif command == "bottomline":
             brief = load_brief(date_str)
-            sections = brief.get("sections", [])
-            total_pages = 1 + len(sections) + 1
-            generate_bottomline_card(brief, date_str, total_pages, total_pages, source_label)
+            generate_bottomline_card(brief, date_str, 2, LINKEDIN_TOTAL_PAGES, source_label)
         else:
             print(f"Unknown command: {command}")
             sys.exit(1)
