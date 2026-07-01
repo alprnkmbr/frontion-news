@@ -148,12 +148,23 @@ def draw_justified(draw, lines, x, y, font, fill, max_width, line_height):
 
 
 def draw_header(draw, date_display, source_label="Strategic Brief"):
-    """Draw the common header (brand + date)."""
+    """Draw the common header (brand + date), centered."""
     draw.rectangle([0, 0, WIDTH, 8], fill=ACCENT_COLOR)
-    draw.text((MARGIN_X, 40), "FRONTION NEWS", fill=TEXT_COLOR, font=BRAND_FONT)
-    draw.text((MARGIN_X, 92), source_label, fill=ACCENT_COLOR, font=BRAND_FONT)
-    draw.text((MARGIN_X, 150), date_display, fill=DATE_COLOR, font=SMALL_FONT)
-    draw.rectangle([MARGIN_X, 195, 340, 197], fill=ACCENT_COLOR)
+    # Center FRONTION NEWS
+    brand_text = "FRONTION NEWS"
+    brand_bbox = draw.textbbox((0, 0), brand_text, font=BRAND_FONT)
+    brand_w = brand_bbox[2] - brand_bbox[0]
+    draw.text(((WIDTH - brand_w) // 2, 40), brand_text, fill=TEXT_COLOR, font=BRAND_FONT)
+    # Center source label
+    source_bbox = draw.textbbox((0, 0), source_label, font=BRAND_FONT)
+    source_w = source_bbox[2] - source_bbox[0]
+    draw.text(((WIDTH - source_w) // 2, 92), source_label, fill=ACCENT_COLOR, font=BRAND_FONT)
+    # Center date
+    date_bbox = draw.textbbox((0, 0), date_display, font=SMALL_FONT)
+    date_w = date_bbox[2] - date_bbox[0]
+    draw.text(((WIDTH - date_w) // 2, 150), date_display, fill=DATE_COLOR, font=SMALL_FONT)
+    # Centered divider line
+    draw.rectangle([MARGIN_X, 195, WIDTH - MARGIN_X, 197], fill=ACCENT_COLOR)
 
 
 def draw_page_number(draw, page_num, total_pages, height):
@@ -170,19 +181,53 @@ def draw_footer(draw, height):
 
 
 def generate_bluf_card(brief, date_str, page_num, total_pages, source_label="Strategic Brief"):
-    """Generate BLUF card image."""
+    """Generate BLUF card image with optional hero image.
+    
+    If hero image is present: shows header + hero image + title only (no subhead).
+    Title is placed further below the image with more breathing room.
+    Hero image uses full width (95%).
+    If no hero image: shows header + title + subhead (classic layout).
+    """
     title = brief.get("title", "")
     subhead = brief.get("subhead", "")
     date_display = format_date_display(date_str)
+    hero_image_path = brief.get("heroImage")
 
-    # Calculate height
+    # Calculate text heights
     tmp_img = Image.new("RGB", (WIDTH, 100), BG_COLOR)
     tmp_draw = ImageDraw.Draw(tmp_img)
     title_lines = wrap_text(tmp_draw, title, HEADLINE_FONT, MAX_TEXT_WIDTH)
     subhead_lines = wrap_text(tmp_draw, subhead, BODY_FONT, MAX_TEXT_WIDTH)
 
-    total_h = 8 + 200 + 15 + len(title_lines) * 68 + 30 + len(subhead_lines) * 42 + 40
-    total_h = max(total_h, 900)
+    # Hero image height if present
+    hero_height = 0
+    hero_pil = None
+    has_hero = False
+    if hero_image_path:
+        full_path = SITE_DIR / hero_image_path.lstrip("/")
+        if full_path.exists():
+            hero_pil = Image.open(full_path).convert("RGB")
+            # Scale hero to 95% width, maintain aspect ratio — bigger!
+            target_w = int(WIDTH * 0.95)
+            ratio = target_w / hero_pil.width
+            target_h = int(hero_pil.height * ratio)
+            # Cap hero height at 500px for more presence
+            if target_h > 500:
+                ratio = 500 / hero_pil.height
+                target_w = int(hero_pil.width * ratio)
+                target_h = 500
+            hero_pil = hero_pil.resize((target_w, target_h), Image.LANCZOS)
+            hero_height = target_h + 15  # image + small gap
+            has_hero = True
+
+    if has_hero:
+        # Hero layout: header + hero + gap + title only (no subhead)
+        total_h = 8 + 200 + 15 + hero_height + 20 + len(title_lines) * 68 + 60
+        total_h = max(total_h, 900)
+    else:
+        # Classic layout: header + title + subhead
+        total_h = 8 + 200 + 15 + len(title_lines) * 68 + 30 + len(subhead_lines) * 42 + 40
+        total_h = max(total_h, 900)
 
     img = Image.new("RGB", (WIDTH, total_h), color=BG_COLOR)
     draw = ImageDraw.Draw(img)
@@ -191,14 +236,27 @@ def generate_bluf_card(brief, date_str, page_num, total_pages, source_label="Str
     draw_page_number(draw, page_num, total_pages, total_h)
 
     y = 225
+
+    # Draw hero image if present
+    if hero_pil:
+        x_offset = (WIDTH - hero_pil.width) // 2
+        img.paste(hero_pil, (x_offset, y))
+        y += hero_height
+        # Small gap between hero and title
+        y += 20
+
+    TITLE_MARGIN_X = MARGIN_X + 35  # Slight indent for title when hero is present
+
     title_wrapped = wrap_text(draw, title, HEADLINE_FONT, MAX_TEXT_WIDTH)
+    title_x = TITLE_MARGIN_X if has_hero else MARGIN_X
     for line in title_wrapped:
-        draw.text((MARGIN_X, y), line, fill=TEXT_COLOR, font=HEADLINE_FONT)
+        draw.text((title_x, y), line, fill=TEXT_COLOR, font=HEADLINE_FONT)
         y += 68
 
-    y += 20
-    subhead_wrapped = wrap_text(draw, subhead, BODY_FONT, MAX_TEXT_WIDTH)
-    y = draw_justified(draw, subhead_wrapped, MARGIN_X, y, BODY_FONT, SUBTEXT_COLOR, MAX_TEXT_WIDTH, 42)
+    if not has_hero:
+        y += 20
+        subhead_wrapped = wrap_text(draw, subhead, BODY_FONT, MAX_TEXT_WIDTH)
+        y = draw_justified(draw, subhead_wrapped, MARGIN_X, y, BODY_FONT, SUBTEXT_COLOR, MAX_TEXT_WIDTH, 42)
 
     y += 40
     draw_footer(draw, total_h)
