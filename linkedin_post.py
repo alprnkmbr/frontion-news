@@ -43,6 +43,14 @@ SOURCE_HASHTAGS = {
     "turkey": ["#Türkiye", "#Strategy"],
 }
 
+# Source-specific CTA links
+SOURCE_LINKS = {
+    "brief": "https://frontion.news/global",
+    "defense": "https://frontion.news/defence",
+    "energy": "https://frontion.news/energy",
+    "turkey": "https://frontion.news/turkey",
+}
+
 # Source-specific card filename prefixes
 SOURCE_CARD_PREFIX = {
     "brief": "",
@@ -434,7 +442,8 @@ def send_bluf(date_str):
     hashtags = select_hashtags(content_text, max_hashtags=5)
     hashtag_str = " ".join(hashtags)
 
-    text = f"◆ {title}\n\n{subhead}\n\n{hashtag_str}\n\nRead the full analysis at https://frontion.news"
+    link = SOURCE_LINKS.get(CURRENT_SOURCE, "https://frontion.news")
+    text = f"◆ {title}\n\n{subhead}\n\n{hashtag_str}\n\nRead the full analysis at {link}"
 
     if not send_post(text, image_url=image_url):
         print("FAILED: Could not send BLUF post to Make.com")
@@ -490,7 +499,8 @@ def send_bottomline(date_str):
     hashtags = select_hashtags(bottom_line, max_hashtags=4)
     hashtag_str = " ".join(hashtags)
 
-    text = f"■ The Bottom Line\n\n{bottom_line}\n\n{hashtag_str}\n\nRead the full analysis at https://frontion.news"
+    link = SOURCE_LINKS.get(CURRENT_SOURCE, "https://frontion.news")
+    text = f"■ The Bottom Line\n\n{bottom_line}\n\n{hashtag_str}\n\nRead the full analysis at {link}"
 
     # Generate and push card image
     image_url = generate_card_and_push(date_str, "bottomline")
