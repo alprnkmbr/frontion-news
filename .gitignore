@@ -1,0 +1,37 @@
+# OpenClaw / Gizli dosyalar
+AGENTS.md
+SOUL.md
+IDENTITY.md
+USER.md
+MEMORY.md
+TOOLS.md
+HEARTBEAT.md
+BOOTSTRAP.md
+.openclaw/
+memory/
+
+# Araştırma raporları
+ARMELSAN-Enerji-Offshore-Ruzgar-Raporu.docx
+Turkiye-Offshore-Ruzgar-Ihalesi-OSINT-Raporu.docx
+
+# Test / geçici dosyalar
+test-*.png
+test-*.jpg
+test_*.png
+temp_bot.png
+bluf-card-template.png
+gemini-*.jpg
+feed_tmp.xml
+index.html.bak
+
+# Eski LinkedIn banner/profil görselleri
+linkedin_banner*.png
+linkedin_profile*.png
+linkedin-card.png
+
+# LinkedIn cards (site içeriği değil, Make.com webhook ile gönderiliyor)
+linkedin-cards/
+
+# Python cache
+__pycache__/
+*.pyc
