@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-30T12:40:46.017Z",
+  "updatedAt": "2026-07-01T18:25:41.022Z",
   "entries": {
     "memory:memory/2026-06-21.md:49:77": {
       "key": "memory:memory/2026-06-21.md:49:77",
@@ -125,13 +125,13 @@
       "endLine": 98,
       "source": "memory",
       "snippet": "- `w_organization_social` scope NOT yet authorized — OAuth flow failed with `unauthorized_scope_error` - Direct API access blocked until scope approved; Make.com handles OAuth/token refresh ### RSS Feed (separate from LinkedIn pipeline) - Feed URL: `https://alprnkmbr.github.io/frontion-news/feed.xml` - \"Evening\" removed from title — just \"Strategic Brief\" - Feed format: heading + body summary (1-2 sentences) + whyItMatters (350 char cap) + Bottom Line - 4000 char safety cap for LinkedIn compatibility - Make.com RSS scenario still exists but will be superseded by webhook pipeline ### Important Rules - Never push changes without user approval - Test briefs (2026-06-25, 26, 27) were cleaned f",
-      "recallCount": 11,
+      "recallCount": 13,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.303513326575025,
-      "maxScore": 0.5276143731816426,
+      "totalScore": 3.7831185932185583,
+      "maxScore": 0.7398026333217665,
       "firstRecalledAt": "2026-06-22T12:13:13.144Z",
-      "lastRecalledAt": "2026-06-29T12:54:40.649Z",
+      "lastRecalledAt": "2026-07-01T13:25:27.235Z",
       "queryHashes": [
         "e4dca54e6768",
         "5f72a327ee29",
@@ -143,13 +143,16 @@
         "cfcbf43a4d0d",
         "1eba316c46d2",
         "67c3f4809400",
-        "2520fdfbdafa"
+        "2520fdfbdafa",
+        "510dc8eadd5c",
+        "8acf8ab0f4aa"
       ],
       "recallDays": [
         "2026-06-22",
         "2026-06-23",
         "2026-06-28",
-        "2026-06-29"
+        "2026-06-29",
+        "2026-07-01"
       ],
       "conceptTags": [
         "w-organization-social",
@@ -169,13 +172,13 @@
       "endLine": 71,
       "source": "memory",
       "snippet": "### YouTube Bot Update - `bot.py` updated: YouTube video descriptions now include `🌐 https://frontion.news` link ### Make.com Filter - Added filter before Router: `{{1.body}}` Is not empty - Prevents empty `{}` webhook payloads from triggering errors ### Rules / Lessons - NEVER send manual LinkedIn posts without explicit user approval - Section cron formula was buggy — now dynamic per-day scheduling - Make.com sometimes sends empty `{}` — filter added to handle this - BLUF card: ◆ removed from image, stays in text - Bottom Line text: ■ stays (user specifically reminded) - LinkedIn doesn't support Markdown — only plain text + unicode symbols ### Files Changed/Created - `/Users/claudius/cl",
-      "recallCount": 8,
+      "recallCount": 13,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 5.4654902674126555,
+      "totalScore": 9.054048735764347,
       "maxScore": 0.7382109299011239,
       "firstRecalledAt": "2026-06-28T06:02:07.746Z",
-      "lastRecalledAt": "2026-06-30T12:40:46.017Z",
+      "lastRecalledAt": "2026-07-01T18:25:41.022Z",
       "queryHashes": [
         "38cdb87934c5",
         "cfcbf43a4d0d",
@@ -184,12 +187,18 @@
         "f129ff218339",
         "57cdd52b8c30",
         "3cc5c18999a5",
-        "c4a579d2bcc8"
+        "c4a579d2bcc8",
+        "4eb1c4138251",
+        "510dc8eadd5c",
+        "8acf8ab0f4aa",
+        "b950162ead26",
+        "ba5a180b84f8"
       ],
       "recallDays": [
         "2026-06-28",
         "2026-06-29",
-        "2026-06-30"
+        "2026-06-30",
+        "2026-07-01"
       ],
       "conceptTags": [
         "router",
@@ -209,13 +218,13 @@
       "endLine": 53,
       "source": "memory",
       "snippet": "- `linkedin_post.py` now appends content-based hashtags to every post - Base hashtags: `#Geopolitics #Strategy` (always included) - Topic-specific hashtags selected from content analysis (keyword mapping) - Max 5 hashtags per post (3-4 for Bottom Line) - Keywords map to tags like: MiddleEast, EnergySecurity, Diplomacy, TradeWar, etc. ### Cron Jobs — Dynamic Scheduling - Old fixed section/bottomline cron jobs deleted - From now on: every morning when brief is published, I'll create cron jobs based on section count - No more hardcoded `section_num = current_hour - 7` formula - Section 6 was missed today (June 22) due to old formula bug — sent manually - Bottom Line also sent manually today (w",
-      "recallCount": 8,
+      "recallCount": 13,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 5.323625294505763,
+      "totalScore": 8.596455724699586,
       "maxScore": 0.7207859104842052,
       "firstRecalledAt": "2026-06-28T06:02:07.746Z",
-      "lastRecalledAt": "2026-06-30T04:36:07.743Z",
+      "lastRecalledAt": "2026-07-01T18:25:41.022Z",
       "queryHashes": [
         "38cdb87934c5",
         "cfcbf43a4d0d",
@@ -224,12 +233,18 @@
         "2520fdfbdafa",
         "16b9ebaa533f",
         "57cdd52b8c30",
-        "a4854ba32cc6"
+        "a4854ba32cc6",
+        "4eb1c4138251",
+        "510dc8eadd5c",
+        "8acf8ab0f4aa",
+        "b950162ead26",
+        "ba5a180b84f8"
       ],
       "recallDays": [
         "2026-06-28",
         "2026-06-29",
-        "2026-06-30"
+        "2026-06-30",
+        "2026-07-01"
       ],
       "conceptTags": [
         "linkedin-post.py",
@@ -283,20 +298,23 @@
       "endLine": 79,
       "source": "memory",
       "snippet": "- Tüm Defence cron job'ları 120s timeout'ta başarısız oldu (wait_for_url 120s bekliyordu) - `linkedin_post.py`'de `wait_for_url` timeout 120→15 saniyeye düşürüldü (Make.com zaten 300sn bekliyor) - Eski Defence cron job'ları silindi (çakışma olmaması için) - Yeni Defence job'ları 300s timeout ile yeniden oluşturuldu, 30'ar dk arayla: - 16:00 BLUF, 16:30 S1, 17:00 S2, 17:30 S3, 18:00 S4, 18:30 S5, 19:00 S6, 19:30 S7, 20:00 Bottom Line - Make.com SSL hatası: `tlsv1 alert internal error` — geçici TLS sorunu, bizden kaynaklı değil - Make.com queue'da 2 post bekliyordu: Global Bottom Line + Defence S2 (eski job'dan kalmış) ## Cron Job ID'leri (Yeni Defence Seti - 2026-06-23) - BLUF: `f187edf0-c",
-      "recallCount": 3,
+      "recallCount": 5,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 1.8499592212143816,
+      "totalScore": 2.5655113298410286,
       "maxScore": 0.6661475546523307,
       "firstRecalledAt": "2026-06-29T05:23:31.370Z",
-      "lastRecalledAt": "2026-06-29T13:08:58.383Z",
+      "lastRecalledAt": "2026-07-01T13:25:27.235Z",
       "queryHashes": [
         "cfcbf43a4d0d",
         "67c3f4809400",
-        "57cdd52b8c30"
+        "57cdd52b8c30",
+        "510dc8eadd5c",
+        "8acf8ab0f4aa"
       ],
       "recallDays": [
-        "2026-06-29"
+        "2026-06-29",
+        "2026-07-01"
       ],
       "conceptTags": [
         "wait-for-url",
@@ -353,22 +371,25 @@
       "endLine": 24,
       "source": "memory",
       "snippet": "# 2026-06-24 Memory ## Landing Page Mockup (v3) - Light theme varsayılan olarak kararlastirildi (dark theme ana sayfada gerekli degil) - Mockup v3: sadece hero + 4 kategori basligi, tekrarlayan brief listesi kaldirildi - Hero ortalanmis, baslik ve excerpt justified (`text-align: justify`, `text-align-last: center`) — NYT manset estetigi - Kategori basliklarinin altina \"Read today's defence brief →\" gibi linkler eklendi - Dosya: `/Users/claudius/clawd/frontion-site/mockup-landing.html` - Kullanici mockup'tan memnun, ileride gelistirilebilir ## LinkedIn Post Automation - Her gun manuel cron job olusturmak surdurulemezdi — otomatik sistem kuruldu - `linkedin_schedule.py` olusturuldu: brief ya",
-      "recallCount": 4,
+      "recallCount": 6,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.6948881304862047,
+      "totalScore": 3.772960329192995,
       "maxScore": 0.743586744464282,
       "firstRecalledAt": "2026-06-29T05:49:49.805Z",
-      "lastRecalledAt": "2026-06-30T04:36:07.743Z",
+      "lastRecalledAt": "2026-07-01T13:25:20.869Z",
       "queryHashes": [
         "1eba316c46d2",
         "16b9ebaa533f",
         "f129ff218339",
-        "a4854ba32cc6"
+        "a4854ba32cc6",
+        "4eb1c4138251",
+        "510dc8eadd5c"
       ],
       "recallDays": [
         "2026-06-29",
-        "2026-06-30"
+        "2026-06-30",
+        "2026-07-01"
       ],
       "conceptTags": [
         "text-align",
@@ -388,23 +409,26 @@
       "endLine": 49,
       "source": "memory",
       "snippet": "- 09:00 → Section 2: US Lifts Iranian Oil Sanctions, Hormuz Traffic Recovers - 10:00 → Section 3: Lebanon Remains the Deal's Fault Line - 11:00 → Section 4: Ukraine Strikes Kerch Strait - 12:00 → Section 5: Pentagon Seeks $80B for Iran War - 13:00 → Section 6: BRICS Security Summit in New Delhi - 15:00 → Bottom Line ## Defence Brief LinkedIn Desteği (07:42-07:50) - `linkedin_post.py` ve `linkedin_cards.py`'e `--source` parametresi eklendi (brief/defense/energy/turkey) - Defence kartları `defense-` prefix'i ile üretiliyor, header'da \"Defense Brief\" yazıyor - Defence brief 7 section içeriyor (bugün için) - Defence hashtag'leri: `#DefensePolicy #Strategy` baz alınıyor - 9 adet Defe",
-      "recallCount": 5,
+      "recallCount": 7,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 3.548388347348753,
+      "totalScore": 4.590975056483512,
       "maxScore": 0.7690514481472337,
       "firstRecalledAt": "2026-06-29T12:54:40.649Z",
-      "lastRecalledAt": "2026-06-30T06:02:15.937Z",
+      "lastRecalledAt": "2026-07-01T13:25:27.235Z",
       "queryHashes": [
         "2520fdfbdafa",
         "16b9ebaa533f",
         "f129ff218339",
         "a4854ba32cc6",
-        "3cc5c18999a5"
+        "3cc5c18999a5",
+        "510dc8eadd5c",
+        "8acf8ab0f4aa"
       ],
       "recallDays": [
         "2026-06-29",
-        "2026-06-30"
+        "2026-06-30",
+        "2026-07-01"
       ],
       "conceptTags": [
         "42-07",
@@ -490,22 +514,26 @@
       "endLine": 21,
       "source": "memory",
       "snippet": "# 2026-06-29 Daily Notes ## Video Frame Analysis Request - Alperen asked me to analyze the YouTube video pipeline (`@FrontionNewsBot`) frame generation for image quality issues - Read the full `bot.py` at `/Users/claudius/frontion-bot/bot.py` - Key findings: 1. **Image search quality is the biggest problem** — no relevance/quality filter, first found image used, often thumbnails/logos/watermarked 2. **Center crop** — always crops from center, can cut faces/subjects 3. **Title text readability** — `textwrap.fill(width=21)` fixed width, no dynamic font sizing, thin shadow (2px offset), no blur/box behind text 4. **Harsh transition** — sharp line between image and overlay, no gradient/",
-      "recallCount": 4,
+      "recallCount": 7,
       "dailyCount": 0,
       "groundedCount": 0,
-      "totalScore": 2.4770545748889643,
+      "totalScore": 4.2967479049003305,
       "maxScore": 0.6349824588359111,
       "firstRecalledAt": "2026-06-29T12:57:19.583Z",
-      "lastRecalledAt": "2026-06-30T12:40:46.017Z",
+      "lastRecalledAt": "2026-07-01T18:25:41.022Z",
       "queryHashes": [
         "f129ff218339",
         "57cdd52b8c30",
         "3cc5c18999a5",
-        "c4a579d2bcc8"
+        "c4a579d2bcc8",
+        "4eb1c4138251",
+        "b950162ead26",
+        "ba5a180b84f8"
       ],
       "recallDays": [
         "2026-06-29",
-        "2026-06-30"
+        "2026-06-30",
+        "2026-07-01"
       ],
       "conceptTags": [
         "bot.py",
