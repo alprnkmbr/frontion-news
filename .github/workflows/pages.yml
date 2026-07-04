@@ -32,23 +32,3 @@ jobs:
           timeout: 600000
         env:
           FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
-
-  redeploy-on-failure:
-    needs: deploy
-    if: failure()
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.redeploy.outputs.page_url }}
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: .
-      - id: redeploy
-        uses: actions/deploy-pages@v4
-        with:
-          timeout: 600000
-        env:
-          FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: "true"
