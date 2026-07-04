@@ -362,7 +362,7 @@ def generate_card_and_push(date_str, card_type, section_num=None):
         sys.exit(1)
 
     # Git add, commit, push with retry
-    subprocess.run(["git", "add", str(card_path)], cwd=SITE_DIR, check=True)
+    subprocess.run(["git", "add", "-f", str(card_path)], cwd=SITE_DIR, check=True)
 
     # Check if there's anything to commit
     status = subprocess.run(
@@ -397,34 +397,27 @@ def send_post(text, image_url=None):
 
     data = json.dumps(payload).encode("utf-8")
 
-    for attempt in range(1, 4):
-        try:
-            req = urllib.request.Request(
-                WEBHOOK_URL,
-                data=data,
-                headers={"Content-Type": "application/json"},
-                method="POST",
-            )
-            with urllib.request.urlopen(req, timeout=30) as resp:
-                print(f"Post sent successfully (attempt {attempt}): HTTP {resp.status}")
-                return True
-        except urllib.error.HTTPError as e:
-            body = e.read().decode("utf-8", errors="replace")[:500]
-            print(f"HTTP error (attempt {attempt}): {e.code} {e.reason}")
-            print(f"Response body: {body}")
-            if e.code >= 400 and e.code < 500:
-                print("Client error — retrying won't help. Aborting.")
-                return False
-        except (urllib.error.URLError, OSError) as e:
-            print(f"Network error (attempt {attempt}): {e}")
-        except Exception as e:
-            print(f"Unexpected error (attempt {attempt}): {e}")
-
-        if attempt < 3:
-            time.sleep(3)
-
-    print("All webhook send attempts failed")
-    return False
+    try:
+        req = urllib.request.Request(
+            WEBHOOK_URL,
+            data=data,
+            headers={"Content-Type": "application/json"},
+            method="POST",
+        )
+        with urllib.request.urlopen(req, timeout=60) as resp:
+            print(f"Post sent successfully: HTTP {resp.status}")
+            return True
+    except urllib.error.HTTPError as e:
+        body = e.read().decode("utf-8", errors="replace")[:500]
+        print(f"HTTP error: {e.code} {e.reason}")
+        print(f"Response body: {body}")
+        return False
+    except (urllib.error.URLError, OSError) as e:
+        print(f"Network error: {e}")
+        return False
+    except Exception as e:
+        print(f"Unexpected error: {e}")
+        return False
 
 
 def send_bluf(date_str):
