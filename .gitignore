@@ -49,6 +49,9 @@ linkedin-card.png
 # LinkedIn cards (Make.com webhook ile gönderiliyor, siteye deploy edilmiyor)
 linkedin-cards/
 
+# local-only folder (never push to GitHub)
+local-only/
+
 # Python cache
 __pycache__/
 *.pyc
