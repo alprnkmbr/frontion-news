@@ -24,12 +24,29 @@ gemini-*.jpg
 feed_tmp.xml
 index.html.bak
 
+# Kaldırılan dosyalar (repo'dan çıkarıldı, local backup: ~/Desktop/frontion-GitHub)
+bg1.png
+bg2.png
+bg3.png
+world_map.png
+world_map_hires.png
+index-standalone.html
+mockup-landing.html
+linkedin_card.py
+new_headlines.py
+tier1-log.md
+sw.js
+.searxng-last-request
+scripts/
+weekly/
+.DS_Store
+
 # Eski LinkedIn banner/profil görselleri
 linkedin_banner*.png
 linkedin_profile*.png
 linkedin-card.png
 
-# LinkedIn cards (site içeriği değil, Make.com webhook ile gönderiliyor)
+# LinkedIn cards (Make.com webhook ile gönderiliyor, siteye deploy edilmiyor)
 linkedin-cards/
 
 # Python cache
