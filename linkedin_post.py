@@ -390,34 +390,13 @@ def generate_card_and_push(date_str, card_type, section_num=None):
 
 
 def send_post(text, image_url=None):
-    """Send a post to Make.com webhook with retry logic."""
-    payload = {"body": text}
+    """Print the LinkedIn post text and image URL (Make.com webhook disabled)."""
+    print("=== LINKEDIN POST ===")
+    print(text)
     if image_url:
-        payload["image_url"] = image_url
-
-    data = json.dumps(payload).encode("utf-8")
-
-    try:
-        req = urllib.request.Request(
-            WEBHOOK_URL,
-            data=data,
-            headers={"Content-Type": "application/json"},
-            method="POST",
-        )
-        with urllib.request.urlopen(req, timeout=60) as resp:
-            print(f"Post sent successfully: HTTP {resp.status}")
-            return True
-    except urllib.error.HTTPError as e:
-        body = e.read().decode("utf-8", errors="replace")[:500]
-        print(f"HTTP error: {e.code} {e.reason}")
-        print(f"Response body: {body}")
-        return False
-    except (urllib.error.URLError, OSError) as e:
-        print(f"Network error: {e}")
-        return False
-    except Exception as e:
-        print(f"Unexpected error: {e}")
-        return False
+        print(f"Image: {image_url}")
+    print("=== END POST ===")
+    return True
 
 
 def send_bluf(date_str):
