@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>Frontion News</title>
+    <link>https://frontion.news/podcast/</link>
+    <language>en</language>
+    <copyright>&#xA9; 2026 Frontion News</copyright>
+    <description>Strategic intelligence, delivered daily. Geopolitical briefings read aloud — listen on the go.</description>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>Frontion News</itunes:author>
+    <itunes:summary>Frontion News delivers concise, authoritative briefings on global geopolitics, defense, energy, finance, and technology — now available as daily audio.</itunes:summary>
+    <itunes:owner>
+        <itunes:name>Frontion News</itunes:name>
+        <itunes:email>contact@frontion.news</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://frontion.news/podcast/podcast-cover-3000.jpg" />
+    <itunes:category text="News" />
+    <itunes:category text="Government" />
+    <itunes:explicit>false</itunes:explicit>
+    <atom:link href="https://frontion.news/podcast/frontion-podcast.rss" rel="self" type="application/rss+xml" />
+
+    <item>
+        <title>The Ceasefire That Died — Weekly Brief, July 12, 2026</title>
+        <link>https://frontion.news/podcast/</link>
+        <description>US-Iran ceasefire unravels, Hormuz choked to 23 ships/day, NATO pivots to Ankara, Ukraine's dual campaign, Le Pen launches presidential bid, climate disasters on three continents, Trump empties election commission, Syria delisted.</description>
+        <enclosure url="https://frontion.news/podcast/frontion-weekly-2026-07-12.mp3" length="9744344" type="audio/mpeg" />
+        <guid>frontion-weekly-2026-07-12</guid>
+        <pubDate>Sat, 12 Jul 2026 10:00:00 +0300</pubDate>
+        <itunes:title>The Ceasefire That Died — Weekly Brief</itunes:title>
+        <itunes:episode>1</itunes:episode>
+        <itunes:season>1</itunes:season>
+        <itunes:duration>20:18</itunes:duration>
+        <itunes:explicit>false</itunes:explicit>
+    </item>
+
+</channel>
+</rss>
