@@ -61,5 +61,22 @@
     <div class="rss-link">
         Subscribe: <a href="frontion-podcast.rss">RSS Feed</a> — Add to YouTube Music, Apple Podcasts, or any podcast app.
     </div>
+    <script>
+    const cover = 'https://frontion.news/podcast/podcast-cover-3000.jpg';
+    document.querySelectorAll('audio').forEach(audio => {
+        audio.addEventListener('play', () => {
+            const title = audio.closest('.episode').querySelector('.episode-title').textContent;
+            const brief = audio.closest('.episode').querySelector('.episode-meta').textContent;
+            if ('mediaSession' in navigator) {
+                navigator.mediaSession.metadata = new MediaMetadata({
+                    title: title,
+                    artist: 'Frontion News',
+                    album: brief,
+                    artwork: [{ src: cover, sizes: '3000x3000', type: 'image/jpeg' }]
+                });
+            }
+        });
+    });
+    </script>
 </body>
 </html>
