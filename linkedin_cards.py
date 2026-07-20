@@ -27,7 +27,10 @@ SOURCES = {
     "brief": SITE_DIR / "briefs",
     "defense": SITE_DIR / "defense",
     "energy": SITE_DIR / "energy",
+    "tech": SITE_DIR / "tech",
+    "finance": SITE_DIR / "finance",
     "turkey": SITE_DIR / "turkey",
+    "weekly": SITE_DIR / "weekly",
 }
 
 # Source-specific card filename prefixes
@@ -35,7 +38,10 @@ SOURCE_CARD_PREFIX = {
     "brief": "",
     "defense": "defense-",
     "energy": "energy-",
+    "tech": "tech-",
+    "finance": "finance-",
     "turkey": "turkey-",
+    "weekly": "weekly-",
 }
 
 # Source-specific header labels
@@ -43,7 +49,10 @@ SOURCE_HEADER = {
     "brief": "Strategic Brief",
     "defense": "Defense Brief",
     "energy": "Energy Brief",
+    "tech": "Tech Brief",
+    "finance": "Finance Brief",
     "turkey": "Türkiye Brief",
+    "weekly": "Weekly Brief",
 }
 
 # Current source (default: brief)
@@ -167,8 +176,10 @@ def draw_header(draw, date_display, source_label="Strategic Brief"):
     draw.rectangle([MARGIN_X, 195, WIDTH - MARGIN_X, 197], fill=ACCENT_COLOR)
 
 
-def draw_page_number(draw, page_num, total_pages, height):
+def draw_page_number(draw, page_num, total_pages, height, skip=False):
     """Draw page number in top-right corner."""
+    if skip:
+        return
     text = f"{page_num}/{total_pages}"
     bbox = draw.textbbox((0, 0), text, font=PAGE_FONT)
     tw = bbox[2] - bbox[0]
@@ -180,7 +191,7 @@ def draw_footer(draw, height):
     draw.rectangle([0, height - 8, WIDTH, height], fill=ACCENT_COLOR)
 
 
-def generate_bluf_card(brief, date_str, page_num, total_pages, source_label="Strategic Brief"):
+def generate_bluf_card(brief, date_str, page_num, total_pages, source_label="Strategic Brief", skip_pages=False):
     """Generate BLUF card image with optional hero image.
     
     If hero image is present: shows header + hero image + title only (no subhead).
@@ -233,7 +244,7 @@ def generate_bluf_card(brief, date_str, page_num, total_pages, source_label="Str
     draw = ImageDraw.Draw(img)
 
     draw_header(draw, date_display, source_label)
-    draw_page_number(draw, page_num, total_pages, total_h)
+    draw_page_number(draw, page_num, total_pages, total_h, skip=skip_pages)
 
     y = 225
 
@@ -269,7 +280,7 @@ def generate_bluf_card(brief, date_str, page_num, total_pages, source_label="Str
     return path
 
 
-def generate_section_card(brief, date_str, section_num, page_num, total_pages, source_label="Strategic Brief"):
+def generate_section_card(brief, date_str, section_num, page_num, total_pages, source_label="Strategic Brief", skip_pages=False):
     """Generate a section card image."""
     sections = brief.get("sections", [])
     if section_num < 1 or section_num > len(sections):
@@ -299,7 +310,7 @@ def generate_section_card(brief, date_str, section_num, page_num, total_pages, s
     draw = ImageDraw.Draw(img)
 
     draw_header(draw, date_display, source_label)
-    draw_page_number(draw, page_num, total_pages, total_h)
+    draw_page_number(draw, page_num, total_pages, total_h, skip=skip_pages)
 
     y = 225
     head_wrapped = wrap_text(draw, heading, HEADING_FONT, MAX_TEXT_WIDTH)
@@ -331,7 +342,7 @@ def generate_section_card(brief, date_str, section_num, page_num, total_pages, s
     return path
 
 
-def generate_bottomline_card(brief, date_str, page_num, total_pages, source_label="Strategic Brief"):
+def generate_bottomline_card(brief, date_str, page_num, total_pages, source_label="Strategic Brief", skip_pages=False):
     """Generate Bottom Line card image."""
     bottom_line = brief.get("bottomLine", "")
     date_display = format_date_display(date_str)
@@ -348,7 +359,7 @@ def generate_bottomline_card(brief, date_str, page_num, total_pages, source_labe
     draw = ImageDraw.Draw(img)
 
     draw_header(draw, date_display, source_label)
-    draw_page_number(draw, page_num, total_pages, total_h)
+    draw_page_number(draw, page_num, total_pages, total_h, skip=skip_pages)
 
     y = 225
     draw.text((MARGIN_X, y), "The Bottom Line", fill=TEXT_COLOR, font=HEADLINE_FONT)
@@ -374,7 +385,7 @@ def generate_bottomline_card(brief, date_str, page_num, total_pages, source_labe
     return path
 
 
-def generate_all_cards(date_str, source=None):
+def generate_all_cards(date_str, source=None, skip_pages=False):
     """Generate all cards for a brief."""
     global CURRENT_SOURCE
     if source:
@@ -386,30 +397,35 @@ def generate_all_cards(date_str, source=None):
 
     CARDS_DIR.mkdir(exist_ok=True)
 
-    generate_bluf_card(brief, date_str, 1, total_pages, source_label)
+    generate_bluf_card(brief, date_str, 1, total_pages, source_label, skip_pages=skip_pages)
     for i in range(1, len(sections) + 1):
-        generate_section_card(brief, date_str, i, i + 1, total_pages, source_label)
-    generate_bottomline_card(brief, date_str, total_pages, total_pages, source_label)
+        generate_section_card(brief, date_str, i, i + 1, total_pages, source_label, skip_pages=skip_pages)
+    generate_bottomline_card(brief, date_str, total_pages, total_pages, source_label, skip_pages=skip_pages)
 
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python3 linkedin_cards.py <date> [card_type] [section_num] [--source brief|defense|energy|turkey]")
+        print("Usage: python3 linkedin_cards.py <date> [card_type] [section_num] [--source brief|defense|energy|tech|finance|turkey|weekly] [--no-pages]")
         print("  python3 linkedin_cards.py 2026-06-22                            # Generate all cards")
         print("  python3 linkedin_cards.py 2026-06-22 bluf                       # BLUF card only")
         print("  python3 linkedin_cards.py 2026-06-22 section 1                 # Section 1 card only")
         print("  python3 linkedin_cards.py 2026-06-22 bottomline                  # Bottom Line card only")
         print("  python3 linkedin_cards.py 2026-06-22 bluf --source defense       # Defense BLUF card")
+        print("  python3 linkedin_cards.py 2026-06-22 --no-pages                  # No page numbers")
         sys.exit(1)
 
-    # Parse --source flag first
+    # Parse flags
     source = "brief"
+    skip_pages = False
     args = []
     i = 1
     while i < len(sys.argv):
         if sys.argv[i] == "--source" and i + 1 < len(sys.argv):
             source = sys.argv[i + 1]
             i += 2
+        elif sys.argv[i] == "--no-pages":
+            skip_pages = True
+            i += 1
         else:
             args.append(sys.argv[i])
             i += 1
@@ -424,7 +440,7 @@ if __name__ == "__main__":
 
     if len(args) == 1:
         # Generate all
-        generate_all_cards(date_str)
+        generate_all_cards(date_str, skip_pages=skip_pages)
     else:
         command = args[1]
         # LinkedIn posts: only BLUF (1/2) and Bottom Line (2/2)
@@ -432,14 +448,14 @@ if __name__ == "__main__":
 
         if command == "bluf":
             brief = load_brief(date_str)
-            generate_bluf_card(brief, date_str, 1, LINKEDIN_TOTAL_PAGES, source_label)
+            generate_bluf_card(brief, date_str, 1, LINKEDIN_TOTAL_PAGES, source_label, skip_pages=skip_pages)
         elif command == "section":
             section_num = int(args[2])
             brief = load_brief(date_str)
-            generate_section_card(brief, date_str, section_num, section_num + 1, len(brief.get("sections", [])) + 2, source_label)
+            generate_section_card(brief, date_str, section_num, section_num + 1, len(brief.get("sections", [])) + 2, source_label, skip_pages=skip_pages)
         elif command == "bottomline":
             brief = load_brief(date_str)
-            generate_bottomline_card(brief, date_str, 2, LINKEDIN_TOTAL_PAGES, source_label)
+            generate_bottomline_card(brief, date_str, 2, LINKEDIN_TOTAL_PAGES, source_label, skip_pages=skip_pages)
         else:
             print(f"Unknown command: {command}")
             sys.exit(1)
