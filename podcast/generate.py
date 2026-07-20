@@ -11,10 +11,6 @@ PUB_DATE = "Sun, 20 Jul 2026 07:30:00 +0300"
 
 SECTIONS = [
     ("briefs",  "global",  "Strategic Brief",       "https://frontion.news"),
-    ("defense",  "defence", "Defence & Industry Brief", "https://frontion.news/defence"),
-    ("energy",   "energy",  "Energy & Power Brief",  "https://frontion.news/energy"),
-    ("finance",  "finance", "Finance & Markets Brief", "https://frontion.news/finance"),
-    ("tech",     "tech",    "Tech Brief",            "https://frontion.news/tech"),
 ]
 
 COVER = "podcast/podcast-cover-3000.jpg"

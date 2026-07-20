@@ -13,10 +13,6 @@ COVER_ART = os.path.join(PODCAST_DIR, "podcast-cover-3000.jpg")
 
 SECTIONS = [
     ("briefs", "global", "Strategic Brief", "https://frontion.news"),
-    ("defense", "defence", "Defence & Industry Brief", "https://frontion.news/defence"),
-    ("energy", "energy", "Energy & Power Brief", "https://frontion.news/energy"),
-    ("finance", "finance", "Finance & Markets Brief", "https://frontion.news/finance"),
-    ("tech", "tech", "Tech Brief", "https://frontion.news/tech"),
 ]
 
 def strip_html(text):

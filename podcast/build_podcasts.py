@@ -15,21 +15,6 @@ BRIEF_CONFIG = {
         "label": "Strategic Brief",
         "url": "https://frontion.news",
     },
-    "defense": {
-        "prefix": "defence",
-        "label": "Defence & Industry Brief",
-        "url": "https://frontion.news/defence",
-    },
-    "finance": {
-        "prefix": "finance",
-        "label": "Finance & Markets Brief",
-        "url": "https://frontion.news/finance",
-    },
-    "tech": {
-        "prefix": "tech",
-        "label": "Tech Brief",
-        "url": "https://frontion.news/tech",
-    },
 }
 
 def strip_html(text):

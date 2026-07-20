@@ -17,10 +17,6 @@ YEAR = "2026"
 # Section config: (json_dir, prefix, brief_label, website_url, track_num)
 SECTIONS = [
     ("briefs",   "global",   "Strategic Brief",          "https://frontion.news",            1),
-    ("defense",  "defence",  "Defence & Industry Brief", "https://frontion.news/defence",     2),
-    ("energy",   "energy",   "Energy & Power Brief",     "https://frontion.news/energy",       3),
-    ("finance",  "finance",  "Finance & Markets Brief",  "https://frontion.news/finance",     4),
-    ("tech",     "tech",     "Tech Brief",               "https://frontion.news/tech",         5),
 ]
 
 def strip_html(text):
