@@ -1,49 +1,39 @@
 import json
-from datetime import datetime
+from datetime import datetime, timezone, timedelta
 
-# Load headlines
-d = json.load(open('headlines.json'))
+with open('/Users/claudius/clawd/frontion-site/headlines.json') as f:
+    d = json.load(f)
 
-# Take first 25 items
 items = d['headlines'][:25]
 
-# Build RSS feed
-rss = '''<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-<channel>
-<title>Frontion News - Tier 1 Headlines</title>
-<link>https://frontion.com</link>
-<description>Breaking geopolitical news from Tier 1 sources</description>
-<language>en-us</language>
-<lastBuildDate>{lastUpdated}</lastBuildDate>
-'''.format(lastUpdated=d['lastUpdated'])
+rss_items = []
+for h in items:
+    desc = f"{h['emoji']} {h['headline']}"
+    if h.get('summary'):
+        desc += f"\n\n{h['summary']}"
+    rss_items.append(f"""    <item>
+      <title>{h['emoji']} {h['headline']}</title>
+      <link>{h['url']}</link>
+      <description>{h.get('summary', '')}</description>
+      <category>{h['category']}</category>
+      <pubDate>{datetime.fromisoformat(h['timestamp']).strftime('%a, %d %b %Y %H:%M:%S %z')}</pubDate>
+      <source>{h['source']}</source>
+    </item>""")
 
-for item in items:
-    # Escape special characters
-    headline = item['headline'].replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
-    summary = item['summary'].replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;')
-    source = item['source']
-    url = item['url']
-    timestamp = item['timestamp']
-    
-    rss += f'''
-<item>
-<title>{item['emoji']} {headline}</title>
-<link>{url}</link>
-<description>{summary}</description>
-<source>{source}</source>
-<pubDate>{timestamp}</pubDate>
-<category>{item['category']}</category>
-</item>
-'''
+feed = f"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frontion News Headlines</title>
+    <link>https://frontion.com</link>
+    <description>Breaking geopolitical headlines from Tier 1 sources</description>
+    <language>en</language>
+    <lastBuildDate>{datetime.now(timezone(timedelta(hours=3))).strftime('%a, %d %b %Y %H:%M:%S %z')}</lastBuildDate>
+    <atom:link href="https://frontion.com/feed.xml" rel="self" type="application/rss+xml"/>
+{chr(10).join(rss_items)}
+  </channel>
+</rss>"""
 
-rss += '''
-</channel>
-</rss>
-'''
+with open('/Users/claudius/clawd/frontion-site/feed.xml', 'w') as f:
+    f.write(feed)
 
-# Write feed
-with open('feed.xml', 'w', encoding='utf-8') as f:
-    f.write(rss)
-
-print(f'Generated feed.xml with {len(items)} items')
+print(f"Feed generated with {len(items)} items")
