@@ -306,7 +306,7 @@
                     <a href="/defence">Defence</a>
                     <a href="/energy">Energy</a>
                     <a href="/tech">Tech</a>
-                    <a href="/finance">Finance</a>
+
                 </div>
                 <a href="https://youtube.com/@frontionnews?si=8FdfFBz4GDyg6vZD" target="_blank" rel="noopener" class="youtube-btn">▶ YouTube</a>
                 <a href="/subscribe" class="subscribe-btn">Subscribe</a>
@@ -350,12 +350,7 @@
                     <div class="secondary-excerpt" id="techExcerpt"></div>
                     <div class="secondary-hint">Read today's tech brief →</div>
                 </a>
-                <a href="/finance" class="secondary-item" style="text-decoration:none;display:block;color:inherit;">
-                    <div class="secondary-cat cat-finance">💰 Finance</div>
-                    <div class="secondary-title" id="financeTitle">Loading…</div>
-                    <div class="secondary-excerpt" id="financeExcerpt"></div>
-                    <div class="secondary-hint">Read today's finance brief →</div>
-                </a>
+
             </div>
         </div>
 
@@ -381,7 +376,7 @@ var BRIEF_DIRS = {
     defence:  '/defense/',
     energy:   '/energy/',
     tech:     '/tech/',
-    finance:  '/finance/'
+
 };
 
 // Category display names
@@ -390,7 +385,7 @@ var CAT_NAMES = {
     defence:  'Defence Brief',
     energy:   'Energy Brief',
     tech:     'Tech Brief',
-    finance:  'Finance Brief'
+
 };
 
 // Brief page paths
@@ -399,7 +394,7 @@ var BRIEF_PAGES = {
     defence:  '/defence',
     energy:   '/energy',
     tech:     '/tech',
-    finance:  '/finance'
+
 };
 
 function truncate(s, len) {
@@ -445,7 +440,7 @@ async function loadAll() {
     }
 
     // Load category briefs for secondary grid
-    var categories = ['defence', 'energy', 'tech', 'finance'];
+    var categories = ['defence', 'energy', 'tech'];
     for (var i = 0; i < categories.length; i++) {
         var cat = categories[i];
         var data = await loadLatest(cat);
