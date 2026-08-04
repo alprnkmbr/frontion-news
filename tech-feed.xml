@@ -6,8 +6,43 @@
     <link>https://frontion.news/tech</link>
     <atom:link href="https://frontion.news/tech/tech-feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 08:43:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 03:06:36 GMT</lastBuildDate>
     <ttl>60</ttl>
+<item>
+<title>Tech Brief: CrowdStrike Sounds Alarm on AI-Powered Cyberattacks, China Tightens Chip IP Rules, Korea Breaks Ground on AI Compute Hub After Sovereignty Retreat</title>
+<link>https://frontion.news/tech/2026-08-04</link>
+<description>CrowdStrike's 2026 Threat Hunting Report reveals AI is now embedded across adversary operations and exploitation windows have collapsed to hours. China revised semiconductor IP protections and South Korea finally broke ground on its national AI compute center — but only after dropping a domestic-chip mandate that zero companies would bid on.
+
+► AI Is Both Weapon and Target, CrowdStrike Warns
+CrowdStrike released its 2026 Threat Hunting Report on August 3, and the headline finding is blunt: AI is now 'embedded across modern adversary operations,' functioning simultaneously as attack tool and attack surface. The report documents that 2.
+Why it matters: The report confirms a qualitative shift: AI doesn't just accelerate existing threats — it creates new ones. The collapse of the exploitation window from weeks to hours means organizations that don't patch within days are effectively operating with a bullseye on their systems.
+
+► DeepSeek Model Used for Autonomous Cyberattack on 460 Systems
+Palo Alto Networks' Unit 42 published a case study on July 30 documenting what appears to be the first confirmed autonomous AI-driven cyberattack campaign.
+Why it matters: This is the first well-documented case of an AI model conducting a full attack cycle autonomously. The 3% success rate is unremarkable, but the cost reduction is not: what used to require a team of attackers working for weeks now requires one person and a free model.
+
+► China Tightens Chip Design IP Protections Ahead of Xi-Trump Summit
+China revised its regulations protecting integrated-circuit layout designs, with the new rules signed by Premier Li Qiang on July 23 and taking effect October 15.
+Why it matters: China is building a two-track system: external restrictions on what comes in (export controls) and now stronger internal protections on what stays.
+
+► South Korea Breaks Ground on AI Compute Center — After Dropping Domestic Chip Mandate
+South Korea broke ground on its National AI Computing Center in Haenam, South Jeolla Province, on August 3. The ₩2. 5 trillion ($1.
+Why it matters: Korea is the only major AI-investing country to have tried and failed at mandating domestic chips in a national compute facility. The lesson is clear: compute sovereignty and hardware sovereignty are different projects. You can build the data center without the domestic chip; you can't build it with a mandate that the domestic chip can't yet meet.
+
+► Russia's Midnight Blizzard Targets Hotel Wi-Fi Across Multiple Countries
+Microsoft attributed a widespread credential-theft campaign to Storm-2945, a subgroup of Midnight Blizzard (APT29/Cozy Bear), the Russian Foreign Intelligence Service (SVR)-linked threat actor.
+Why it matters: CaptiveCrunch demonstrates how routine business travel creates systemic vulnerability. Hotel Wi-Fi has always been suspect; this campaign weaponizes the captive portal — the login page travelers expect to see — turning it into an authentication-stealing trap.
+
+► BlueNoroff Linked to Massive Axios NPM Supply Chain Attack
+Kaspersky's Global Research and Analysis Team (GReAT) presented findings at its APAC Cyber Security Weekend 2026 in Guangzhou linking the March 2026 Axios NPM supply chain attack to BlueNoroff, a North Korean state-sponsored unit affiliated with the 
+Why it matters: When a library with 100 million weekly downloads gets weaponized, it's not a targeted attack — it's infrastructure-level contamination. The fact that a North Korean state group chose to poison a foundational JavaScript package rather than continue with person-to-person social engineering signals a strategic shift toward scale over precision.
+
+► GuoWang Megaconstellation Scrambles Ahead of ITU Deadline
+China launched nine more GuoWang satellites on Tuesday, adding to its dual-use megaconstellation — but the project remains 133 satellites short of the International Telecommunication Un...</description>
+<category>Technology</category>
+<pubDate>Tue, 04 Aug 2026 00:00:00 GMT</pubDate>
+<guid>tech-2026-08-04</guid>
+</item>
 <item>
 <title>Tech Brief: China Voices 'Serious Concern' Over New US Curbs Ahead of Xi-Trump Summit, Water Cyberattacks Hit Seven States</title>
 <link>https://frontion.news/tech/2026-08-03</link>
@@ -1027,40 +1062,6 @@ The US Department of Homeland Security confirmed it is investigating a breach of
 <category>Technology</category>
 <pubDate>Sat, 04 Jul 2026 00:00:00 GMT</pubDate>
 <guid>tech-2026-07-04</guid>
-</item>
-<item>
-<title>Tech Brief: Europe's Chip Squeeze, China's Lithography Gap, and the New Orbital Reconstitution Race</title>
-<link>https://frontion.news/tech/2026-07-03</link>
-<description>An EU-funded report calls Europe's semiconductor future 'bleak' between Beijing's export controls and Washington's tech leverage. China's EUV prototype gets a sober reckoning. DARPA asks industry how to rebuild a satellite constellation in hours, not years. The G7 sets a 60% rare earth dependency ceiling for 2030.
-
-► Europe's Chip Sector Called 'Bleak' Between China and US Pressures
-An EU-funded report from the EU Institute for Security Studies (EUISS) and French think tank Institut Montaigne, published Thursday July 2, warns that Europe's semiconductor industry faces a 'bleak future' squeezed between Chinese export controls on 
-Why it matters: Europe is confronting a dual-dependency trap it can neither quickly escape nor easily manage: immediate Chinese mineral leverage on one side and structural American technology lock-in on the other, with no consensus in Brussels on which threat is more urgent.
-
-► China's EUV Lithography: Parsing Signal From Noise
-A detailed analysis in The Diplomat, published July 2, provides a sober framework for assessing China's EUV lithography progress after the December 2025 Reuters report that researchers in Shenzhen had secretly built an EUV prototype.
-Why it matters: The EUV question determines whether China can eventually circumvent the entire architecture of US-led chip export controls. The Diplomat's bottleneck framework gives policymakers a concrete monitoring tool — but the talent poaching and export control evasion angles suggest the contest is as much about enforcement as about technology.
-
-► G7 Draws a 60% Rare Earth Dependency Red Line for 2030
-At the G7 summit in Évian, France, leaders agreed to reduce dependence on any single non-G7 supplier for rare earths and permanent magnets to under 60% by 2030, with a longer-term ambition of 50%.
-Why it matters: The 60% target is the first time the G7 has set a quantified dependency ceiling for rare earths — but the gap between political targets and operational supply chains remains vast, and China has already demonstrated its willingness to weaponize these supply lines.
-
-► DARPA Asks Industry: Can You Rebuild a Satellite Constellation in Hours?
-DARPA has issued a request for information asking industry how quickly the US could restore critical space services after a satellite constellation is destroyed, jammed, hacked, or blinded — with a target of hours to weeks, not months or years.
-Why it matters: The RFI reveals how seriously the Pentagon now takes the possibility of a first-day attack on US space assets in a Pacific conflict — and how far current reconstitution capability is from the resilience DARPA wants to build.
-
-► FCC Moves to Slash Satellite Licensing Timelines; Amazon Leo Reaches 396 Satellites
-The FCC announced it will vote on July 22 on a Space Modernization Order that aims to cut satellite licensing timelines from over a year to weeks or months.
-Why it matters: The FCC is trying to remove regulatory friction from the satellite broadband race just as it intensifies — Starlink vs. Amazon Leo vs. others. But Amazon's deployment math shows how quickly even well-capitalized players can fall behind schedule when next-generation launch vehicles are not yet operational.
-
-► MUFG: US Controls 75% of Global Frontier AI Compute; Taiwan Remains the Silicon Chokepoint
-A 107-page MUFG report titled 'Bottlenecks to Scaling AI Computational Power' projects that the US will invest $2 trillion in AI infrastructure, software, and services in 2026 — nearly 20 times India's projected $95 billion.
-Why it matters: The compute concentration is staggering: three-quarters of the world's frontier AI capacity sits in one country, and nine-tenths of the most advanced chips come from one island. The MUFG report underscores that the next AI competition is about physical infrastructure — power plants, data centers, and chip fabs — not just algorithms.
-
-► ...</description>
-<category>Technology</category>
-<pubDate>Fri, 03 Jul 2026 00:00:00 GMT</pubDate>
-<guid>tech-2026-07-03</guid>
 </item>
   </channel>
 </rss>
