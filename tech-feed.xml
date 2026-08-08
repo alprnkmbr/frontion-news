@@ -6,8 +6,43 @@
     <link>https://frontion.news/tech</link>
     <atom:link href="https://frontion.news/tech/tech-feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 03:10:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 03:07:28 GMT</lastBuildDate>
     <ttl>60</ttl>
+<item>
+<title>Tech Brief: Water Utilities Hacked Across 12 States as Critical Infrastructure Visibility Fails, China Retaliates Against EU With Rare Export Blacklist</title>
+<link>https://frontion.news/tech/2026-08-08</link>
+<description>Forescout finds attacked utilities didn't know what devices they had exposed; China adds 14 EU entities including a university to its dual-use export control list in response to EU sanctions on Chinese firms tied to Russia.
+
+► 12 States, 100+ Water Systems Hacked — and the Utilities Couldn't See What Was Exposed
+A coordinated cyberattack campaign targeting US water and wastewater utilities has spread to at least 12 states and over 100 municipal water systems, with hackers gaining access to core operational technology at multiple facilities.
+Why it matters: This is not a theoretical vulnerability disclosure — it's an active campaign with physical consequences. Water pressure loss and boil advisories mean the attacks crossed from digital intrusion into public health impact. The FBI's own advisory confirms operational degradation, not just probing.
+
+► Forescout Scan Reveals the Deeper Problem: Utilities Don't Know What's Exposed
+Forescout's Vedere Labs published research on August 5 that reframes the crisis. Scanning for devices exposing port 44818 (EtherNet/IP) on August 3, researchers found 4,407 exposed PLCs worldwide — 65% in the United States.
+Why it matters: The infrastructure visibility failure is the story. Utilities cannot secure what they cannot see, and the cellular-modem attack surface means a single MSP misconfiguration can cascade across dozens of municipalities. This isn't a patch problem — it's an asset management crisis.
+
+► China Retaliates Against EU, Adds University and Defense Firms to Export Control List
+China's commerce ministry added 14 European Union entities to its dual-use export control list on Friday, effective immediately, in direct retaliation for the EU's 21st round of sanctions against Russia that targeted 14 Chinese and Hong Kong companie
+Why it matters: Adding a university to an export control list is a new escalatory tool for Beijing. It signals that China's retaliation toolkit extends beyond mirror-image corporate sanctions to targeting the research partnerships and talent pipelines that underpin Western defense innovation.
+
+► Cambricon Revenue Doubles as China's AI Chip Substitution Accelerates
+Cambricon Technologies, China's leading listed AI chip designer, reported 5. 996 billion yuan ($890 million) in first-half 2026 revenue, up 108% year-on-year, with net profit rising 123% to 2. 311 billion yuan. Q2 revenue of 3.
+Why it matters: Cambricon's growth is real but uneven — 108% revenue growth masks concentrated customer dependence, low yields at SMIC, and inventory at 45% of assets. The 13. 5 billion yuan full-year target means the company needs to nearly triple its H1 run rate, putting enormous pressure on SMIC's yield improvements.
+
+► SK Hynix Bets $38 Billion on Two New Fabs as Memory Demand Stays Hot
+SK Hynix approved 54 trillion won ($38. 1 billion) to build two new memory chip fabrication plants in Yongin and Cheongju, South Korea, with cleanroom openings targeted for 2028 and 2029.
+Why it matters: SK Hynix's $38 billion bet and Nvidia's Rubin Ultra redesign tell the same story from opposite ends: memory supply is the binding constraint on AI infrastructure. If HBM4 can't scale fast enough, even the richest GPU companies will be forced to ship less capable products.
+
+► SpaceX Starmind Gets a Launch Date, Putin-Linked Hackers Hit Zimbra Without a Click
+SpaceX's orbital AI compute constellation is moving from concept to timeline. Alongside its first quarterly earnings report — $7.
+Why it matters: Orbital compute moved from PowerPoint to production timeline this week — if Starmind hits its 2027 prototype date, it creates a genuinely new category of AI infrastructure.
+
+► Taiwan Posts Third-Best Export Month as Concentration Risk Grows, KOSPI Selloff Exposes Korea Discount
+Taiwan's semiconductor exports reached $75. 30 billion in July, the third-best month on record, but 78. 5% of out...</description>
+<category>Technology</category>
+<pubDate>Sat, 08 Aug 2026 00:00:00 GMT</pubDate>
+<guid>tech-2026-08-08</guid>
+</item>
 <item>
 <title>Tech Brief: Musk and Intel Break Ground on $16.8B Terafab, US-China AI Tensions Escalate Ahead of Xi-Trump Summit</title>
 <link>https://frontion.news/tech/2026-08-07</link>
@@ -1030,40 +1065,6 @@ China's AI firms are racing price...</description>
 <category>Technology</category>
 <pubDate>Wed, 08 Jul 2026 00:00:00 GMT</pubDate>
 <guid>tech-2026-07-08</guid>
-</item>
-<item>
-<title>Tech Brief: NATO Convenes in Ankara as AI Governance Battles Intensify</title>
-<link>https://frontion.news/tech/2026-07-07</link>
-<description>Turkey's F-35 debate resurfaces ahead of the NATO summit, CISA deploys Anthropic's Mythos to audit government code, SpaceX pushes orbital compute, and the US holds off blacklisting DeepSeek despite security clearance for over 100 firms.
-
-► AI &amp; Compute Sovereignty: Altman's Global Referee vs. the Kill Switch Reality
-Two days after publishing an FT op-ed calling for a U. S. -led international AI standards body modeled on the IAEA, OpenAI CEO Sam Altman faced scrutiny over a parallel proposal: giving the U. S.
-Why it matters: Altman's governance proposal and equity stake offer are not just policy ideas — they are bids to shape the institutional architecture of AI control before governments do it on their own. The Anthropic export episode proved that control over frontier models is already being exercised unilaterally by Washington.
-
-► Semiconductor Geopolitics: US Holds Off Blacklisting DeepSeek and 100+ Chinese Firms
-The U. S. has held off adding DeepSeek, memory chipmaker CXMT, and more than 100 other companies flagged as national security risks to the Commerce Department's Entity List, Reuters reported on June 17.
-Why it matters: The Entity List freeze reveals a policy tension at the heart of U. S. tech strategy: export controls are being subordinated to trade negotiations with Beijing. The practical effect is that U. S. technology continues to reach adversaries and competitors flagged by the government's own interagency process, weakening a key national security tool.
-
-► Cyber Power: DHS Information Network Breached Amid World Cup Security Operations
-The U. S.
-Why it matters: A breach of the government's primary event-security coordination platform during the world's largest sporting event is a reminder that the targets matter as much as the actors. Whether state-sponsored or criminal, the intrusion compromised the system that stitches together federal, state, and local security operations.
-
-► Space &amp; Orbital Power: SpaceX Prepares Transporter-17 as Musk Pushes Orbital AI Compute
-SpaceX is set to launch its Transporter-17 rideshare mission from Vandenberg Space Force Base early on July 7, carrying 81 payloads including South Korea's CAS500-4 Earth observation satellite.
-Why it matters: Musk's orbital compute push is not speculative rhetoric — SpaceX is designing the hardware. If orbital data centers become viable, they shift the geography of compute sovereignty from terrestrial fiber links to whoever controls launch capacity and orbital real estate.
-
-► G7 Critical Minerals: Trump's Pricing Plan Meets Allied Skepticism
-At the G7 summit in Evian, the Trump administration pushed a critical minerals pricing mechanism designed to reduce Western dependence on Chinese supply chains for rare earths, lithium, cobalt, and other materials essential to AI hardware, defense, a
-Why it matters: The G7 minerals pricing plan is the first serious attempt to build a non-Chinese pricing floor for critical minerals, but allied skepticism about cost and governance reflects a deeper problem: building alternative supply chains requires capital commitments that no government has yet been willing to make at the required scale.
-
-► China's AI Countermove: Hong Kong's Sovereign Data Center and the Distillation Fight
-Hong Kong's Science and Technology Park (HKSTP) and SenseTime have partnered to build a home-grown AI data center targeting 40,000 petaflops by 2030, the SCMP reported. Phase one is expected by the end of this year.
-Why it matters: The Hong Kong data center and the distillation fight are two sides of the same coin: U. S. export controls aim to deny China frontier compute and model access, but China is building alternative pathways — sovereign infrastructure in Hong Kong, open-source model proliferation, and systematic extraction of proprietary capabilities from U. S.
-
-► Türkiye Tech Angle: F-35s Back on the Table as NATO Summ...</description>
-<category>Technology</category>
-<pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
-<guid>tech-2026-07-07</guid>
 </item>
   </channel>
 </rss>
