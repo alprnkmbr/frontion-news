@@ -1,0 +1,44 @@
+{
+  "date": "2026-08-14",
+  "title": "China's AI Chip Boom Lifts Foundry Profits as Equipment Makers Keep Selling In",
+  "subhead": "SMIC and Hua Hong post triple-digit profit growth on domestic AI demand, YMTC breaks into the global top three for flash memory, and Applied Materials projects rising China revenue despite US curbs — the clearest signal yet that export controls are reshaping rather than halting China's chip buildout.",
+  "sections": [
+    {
+      "heading": "China's Foundries Cash In: SMIC and Hua Hong Post Triple-Digit Profit Jumps",
+      "body": "<p>China's top two contract chipmakers reported blockbuster second-quarter results driven by domestic AI demand. <strong>SMIC's net profit jumped 261.7 percent year on year to $479.2 million</strong> on revenue of $3 billion (up 36 percent), while smaller rival <strong>Hua Hong Grace saw net profit surge 385.9 percent to $38.6 million</strong> on record revenue of $717.5 million, according to SCMP and company filings to the Hong Kong exchange.</p><p>The gains rest on a surge in orders for domestic AI chips that fall outside US export controls, with both foundries running plants at full capacity. SMIC said Thursday there is 'no chance' it will cut prices despite weak smartphone and auto markets, arguing the AI investment boom is driving broad demand for peripheral chips — a stance Nikkei Asia reports as a deliberate reallocation of capacity toward AI-linked products.</p>",
+      "whyItMatters": "This is the self-sufficiency narrative maturing into real economics: China's foundries are now profitable at scale on domestic AI demand alone, giving Beijing's chip strategy commercial momentum rather than just state subsidy."
+    },
+    {
+      "heading": "YMTC Cracks Global Top Three in Flash Memory",
+      "body": "<p>China's YMTC captured <strong>14 percent of global flash-memory bit shipments</strong> in a quarter, breaking into the top three suppliers for the first time, SCMP reports. The chipmaker still ranks fifth by revenue because it is weighted toward lower-value products, but the volume milestone shows Chinese NAND capacity is scaling despite sanctions.</p>",
+      "whyItMatters": "Memory is the front where Chinese suppliers are making the fastest inroads against Samsung, SK Hynix and Kioxia. Volume leadership precedes revenue leadership — and it follows last week's CXMT memory IPO, which made CXMT the most valuable company on the mainland and Hong Kong exchanges (Nikkei Asia, Aug 13)."
+    },
+    {
+      "heading": "Applied Materials Keeps Selling Into China: Revenue Projected to Grow Despite Curbs",
+      "body": "<p>US chip-equipment giant <strong>Applied Materials reported a record $9.12 billion in revenue</strong> for its May-July quarter, driven by AI demand, and raised its 2026 revenue outlook, Nikkei Asia reports. The company <strong>projects China revenue to keep growing in 2026 despite US export controls</strong> on advanced tools.</p><p>The dynamic mirrors what equipment makers have navigated all cycle: restrictions target the most advanced nodes, while China's foundries still buy large volumes of non-restricted tools to expand mature and mid-range capacity for AI peripherals.</p>",
+      "whyItMatters": "The equipment story undercuts the idea that US controls are starving China of tools entirely. Washington is shaping which nodes China can build, but the revenue lines suggest American suppliers remain deeply embedded in China's expansion — a tension likely to feed the next round of export-control debate."
+    },
+    {
+      "heading": "DeepSeek Ships V4 Pro at Higher Prices, Pushes Agentic AI and Cybersecurity",
+      "body": "<p>China's AI standout DeepSeek released the official version of <strong>V4 Pro on Thursday at a price roughly five times higher</strong> than previously announced, per Nikkei Asia, alongside a free version of its 'Harness' agent tool similar to Claude Code. The model brings enhanced agent capabilities.</p><p>SCMP's benchmarks assessment is more measured: V4 Pro underwhelmed on general reasoning but <strong>impressed in cybersecurity-specific tasks</strong>. The higher pricing signals DeepSeek is shifting from a price-war disruptor toward monetizing its strongest niches.</p>",
+      "whyItMatters": "DeepSeek's pivot to paid, agent-focused AI — plus standout cyber performance — shows the Chinese frontier model is being tuned for practical, security-relevant deployments even as the race for general capability remains contested."
+    },
+    {
+      "heading": "Tencent Takes Manus From Meta as Beijing Keeps AI Startups Domestic",
+      "body": "<p>Tencent will acquire shares of Chinese agentic-AI developer Manus from Meta and become its largest shareholder, Nikkei Asia reported Thursday. <strong>Meta had acquired Manus in December 2025, but Beijing demanded the deal be unwound</strong> to keep the company under domestic control.</p><p>The move follows a pattern of Beijing asserting ownership over frontier AI assets, and coincides with Alibaba adding commercial restrictions to its open-weight Qwen3.8-Max model (SCMP, Aug 13) — a tightening of how Chinese AI models are released and controlled.</p>",
+      "whyItMatters": "China is consolidating control over its most strategically valuable AI companies and models. Foreign ownership of a frontier agentic-AI developer was deemed unacceptable; expect this to raise the cost and risk for any Western firm eyeing Chinese AI assets."
+    },
+    {
+      "heading": "China's Brain-Chip Drive: First Commercial Insurance for BCI Implants",
+      "body": "<p>State-owned insurer <strong>PICC Property and Casualty signed China's first commercial insurance policy covering invasive brain-computer interface (BCI) surgery</strong>, in partnership with a hospital affiliated with Zhejiang University, SCMP reports. BCI-linked Hong Kong stocks rose 1.59 percent on the news as investors bet the insurance breakthrough accelerates commercialization.</p><p>The announcement is part of a coordinated state push — spanning insurers, investment banks and local governments — to develop BCIs that could rival Elon Musk's Neuralink.</p>",
+      "whyItMatters": "Insuring invasive BCI surgery is a market-building step that moves the technology from lab experiment toward consumer medical product. A state-coordinated BCI program is a frontier where China is positioning to lead in a technology with profound surveillance and neural-data implications."
+    },
+    {
+      "heading": "Cyber: Evooo1Bot Adds Stealth to the Mirai Playbook",
+      "body": "<p>FortiGuard Labs researchers detailed a previously undocumented Linux botnet, <strong>dubbed Evooo1Bot, actively exploiting unpatched flaws in routers from Alcatel, D-Link, Mitsubishi Electric, Netgear, Tenda and Telesquare</strong> for at least a month (The Record, Aug 13). Beyond Mirai-style DDoS, it adds encrypted command-and-control, SSH-scanning that skips honeypots, a credential sniffer, and — most significantly per the researchers — abuse of the SOCKS protocol to turn compromised edge devices into persistent proxies.</p>",
+      "whyItMatters": "Evooo1Bot turns infected routers and IP cameras into a distributed proxy network for anonymized malicious traffic. That is a quieter, more strategic capability than DDoS, and it raises the stakes for patching the sprawling base of internet-facing consumer hardware."
+    }
+  ],
+  "bottomLine": "Thursday's story is China's chip buildout turning profitable. SMIC and Hua Hong tripled profits on domestic AI demand, YMTC reached the top three in flash by volume, and Applied Materials — a US bellwether — expects China revenue to keep growing despite export controls. That combination signals the controls are re-shaping which nodes China can build rather than stopping its expansion, a reality Washington will have to confront in the next policy round. Elsewhere, DeepSeek monetized its agentic AI, Beijing pulled Manus back under domestic ownership, China's state machine moved to commercialize brain chips, and a stealthier Mirai variant showed the botnet threat evolving beyond DDoS.",
+  "sources": "Nikkei Asia (SMIC, Applied Materials, DeepSeek V4 Pro, CXMT, Tencent/Manus), SCMP (SMIC/Hua Hong results, YMTC, Qwen3.8-Max, brain-chip drive), The Record/FortiGuard Labs (Evooo1Bot), Reuters via Nikkei"
+}
