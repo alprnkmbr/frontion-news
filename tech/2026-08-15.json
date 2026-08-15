@@ -1,0 +1,39 @@
+{
+  "date": "2026-08-15",
+  "title": "China's Z.ai and DeepSeek Push New Frontier Models as US Weighs Sanctions on Open-Weight AI",
+  "subhead": "Chinese AI labs released two new frontier-class models this week — Z.ai's GLM-5.3 and DeepSeek's V4 Pro — while Washington debates restricting Chinese open-weight AI, and chipmakers SMIC and Applied Materials signal the AI boom is still lifting prices and revenue.",
+  "sections": [
+    {
+      "heading": "China's AI Model Wave: Z.ai GLM-5.3 and DeepSeek V4 Pro",
+      "body": "<p>Chinese AI startup <strong>Z.ai released GLM-5.3</strong> on Friday, a model the company says rivals Anthropic's Claude Mythos on coding and security performance, according to Nikkei Asia. The launch follows <strong>DeepSeek's official release of V4 Pro</strong> on Thursday, which ships with greatly enhanced agent capabilities but at a price nearly <strong>five times higher</strong> than previously announced, per Nikkei Asia. DeepSeek also released a free version of its 'Harness' tool, similar to Anthropic's Claude Code.</p><p>The timing matters: Washington has been threatening sanctions against Chinese AI startups over alleged IP theft through distillation, and has floated banning Chinese open-weight models. Nikkei Asia reports Silicon Valley firms including Nvidia oppose such a ban, arguing America's ecosystem depends on open-weight models. The new releases land directly in that contested space — both are open-weight, and both claim parity with US frontier labs.</p>",
+      "whyItMatters": "China's open-weight labs are now shipping models that claim to match US frontier performance at a fraction of the cost, sharpening the policy dilemma in Washington over whether to restrict access to Chinese AI."
+    },
+    {
+      "heading": "Semiconductor Pricing Holds Firm as AI Demand Spills Over",
+      "body": "<p>China's top contract chipmaker <strong>SMIC said the AI boom is driving massive demand for peripheral AI chips</strong> and that there is 'no chance' it will lower prices despite weak smartphone and auto markets, Nikkei Asia reports. Separately, US equipment maker <strong>Applied Materials reported record revenue of $9.12 billion</strong> for the May-July quarter and raised its 2026 outlook, projecting <strong>China revenue to grow despite US export curbs</strong>, per Nikkei Asia.</p><p>The two reports frame the same dynamic from opposite sides of the export-control divide: AI demand is strong enough that Chinese foundries hold pricing power, while American equipment vendors still expect to sell into China even under restrictions.</p>",
+      "whyItMatters": "Pricing power and record equipment earnings show the AI buildout is still expanding capacity faster than export controls are constraining it — the controls are shaping, not stopping, the market."
+    },
+    {
+      "heading": "CXMT Becomes China's Most Valuable Company",
+      "body": "<p>Chinese memory chipmaker <strong>CXMT surpassed Tencent by market capitalization</strong> to become the most valuable company listed on the mainland or in Hong Kong, Nikkei Asia reported Thursday. CXMT went public in July and immediately became the most valuable listing on the Shanghai and Shenzhen exchanges, with its debut jump of <strong>465%</strong> topping Intel's market cap.</p><p>The milestone caps a memory-chip moment: a global memory crunch has given CXMT a breakthrough, and Nikkei Asia reports HP, Asus and Acer have begun using CXMT chips amid the shortage. The listing has also fueled local-government tech bets, with Hefei's CXMT jackpot encouraging other Chinese cities to back chip ventures.</p>",
+      "whyItMatters": "A Chinese memory maker overtaking Tencent in market value signals how much investor capital is now concentrated in the chip self-sufficiency drive — and how a memory shortage is handing China's domestic suppliers real commercial entry."
+    },
+    {
+      "heading": "New Mirai Variant 'Evooo1Bot' Adds Stealth to IoT Botnet Code",
+      "body": "<p>Researchers at <strong>FortiGuard Labs disclosed a previously undocumented Mirai variant, dubbed Evooo1Bot</strong>, that has been exploiting vulnerabilities in internet-facing hardware for at least a month, The Record reported Thursday. The Linux-based malware targets routers and other devices from <strong>Alcatel, D-Link, Mitsubishi Electric, Netgear, Tenda and Telesquare</strong>, with activity concentrated in North America, South America, Europe, India, China and Japan.</p><p>Beyond Mirai's usual DDoS functions, Evooo1Bot adds encrypted command-and-control communications, an SSH scanner that skips honeypots, a credential sniffer, and — most significantly per FortiGuard — abuse of the SOCKS proxy protocol to turn compromised edge devices into persistent proxies for pivoting into internal networks.</p>",
+      "whyItMatters": "A decade after Mirai's source code leaked, its descendants keep evolving beyond DDoS into stealthier, proxy-based access tools — a reminder that unpatched IoT hardware remains a persistent entry point into critical networks."
+    },
+    {
+      "heading": "Japan Moves on AI Safeguards and Open-Source Chip Design",
+      "body": "<p>Japan's government is preparing <strong>comprehensive AI measures including stricter disclosure requirements for generative AI</strong>, Nikkei Asia reports, as model capabilities advance. Separately, Japanese autonomous-driving startup <strong>Tier IV plans to develop AI semiconductor designs it would release for free</strong>, a move that could help automakers rely less on foreign chip sources, per Nikkei Asia.</p><p>Both moves reflect Tokyo's broader push to catch up in AI and chips: the government has also floated creating a senior post to promote domestic technology as international standards, and Japan's top IT firms aim to shift to AI-led development by 2030.</p>",
+      "whyItMatters": "Japan is pairing regulatory guardrails with an open-source chip strategy — a bid to build domestic capability and set standards without matching US or Chinese scale."
+    },
+    {
+      "heading": "India's Battery Materials Bet Outruns Its Cell-Making Plans",
+      "body": "<p>Indian chemical companies pouring billions of rupees into lithium-ion battery materials plants are <strong>facing a lack of domestic customers</strong>, after Chinese restrictions on technology transfers delayed cell manufacturing, Nikkei Asia reports. Firms like Ola Electric announced cell-making plans under a government subsidy program, but most have stalled or delayed production.</p><p>The result is a mismatch: India is racing ahead on materials capacity while the cell-manufacturing stage — where Chinese technology transfer is hardest to bypass — lags behind.</p>",
+      "whyItMatters": "India's battery strategy is building upstream capacity faster than downstream cell production, exposing how dependent the cell stage remains on Chinese technology despite subsidy-driven localization efforts."
+    }
+  ],
+  "bottomLine": "The week's defining development is China's open-weight AI push: Z.ai's GLM-5.3 and DeepSeek's V4 Pro both claim frontier-class performance, landing squarely in the middle of Washington's debate over whether to sanction or ban Chinese AI models. Meanwhile the semiconductor buildout keeps defying export-control expectations — SMIC holds pricing power, Applied Materials posts record revenue with China still growing, and CXMT's market value now tops Tencent. The pattern is consistent: controls are shaping the market but not stopping it, and China's domestic AI and chip ecosystem is converting the AI boom into commercial momentum.",
+  "sources": "Nikkei Asia, The Record (Recorded Future News), FortiGuard Labs, SCMP"
+}
