@@ -6,8 +6,44 @@
     <link>https://frontion.news/tech</link>
     <atom:link href="https://frontion.news/tech/tech-feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Aug 2026 03:02:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 03:01:57 GMT</lastBuildDate>
     <ttl>60</ttl>
+<item>
+<title>Tech Brief: US Agencies Warn Iranian Hackers Are Using AI to Breach Critical Infrastructure</title>
+<link>https://frontion.news/tech/2026-08-22</link>
+<description>A joint CISA-FBI-NSA-DOE-EPA advisory details AI-generated exploits targeting Siemens PLCs in water, energy and manufacturing systems, while Supermicro fires staff over a $2.5 billion China chip-smuggling probe and Nvidia deepens its data-center financing push.
+
+► AI-Powered Iranian Attacks on US Critical Infrastructure
+On August 19, the Cybersecurity and Infrastructure Security Agency (CISA), FBI, NSA, Department of Energy and EPA issued a joint advisory warning that Iranian-backed hackers are using AI-generated exploitation scripts to target Siemens S7 programmabl
+Why it matters: This is the first major US advisory to frame AI as an active force multiplier in state-sponsored attacks on industrial control systems, not a hypothetical. It signals that the US government now treats AI-generated malware as a live threat to the operational technology layer of critical infrastructure.
+
+► Supermicro Fires Staff Over $2.5 Billion China Chip-Smuggling Probe
+Server maker Supermicro has fired several employees following an independent investigation into $2. 5 billion in AI chip shipments to China, according to Yahoo Finance and MSN.
+Why it matters: The scale of the alleged smuggling — $2. 5 billion — shows how large the gray-market flow of AI chips to China has become despite export controls, and that enforcement is now reaching into major US vendors' internal operations rather than just border seizures.
+
+► Nvidia's Data-Center Financing Push Accelerates
+Nvidia announced a strategic partnership with Cloverleaf Infrastructure, a data-center site developer, taking a minority stake in the company, according to TechCrunch and Reuters.
+Why it matters: Nvidia is moving from chip supplier to infrastructure financier, using its balance sheet to de-risk AI data-center construction. That concentrates more of the AI stack — chips, power, and site development — under one company's influence.
+
+► Orbital Data Centers Draw Nvidia and Cisco Capital
+Orbital data-center startup Starcloud raised $250 million in a Series A extension led by Manhattan West, doubling its valuation to $2. 3 billion and bringing total capital to $450 million, according to SpaceNews. Nvidia and Cisco joined the round.
+Why it matters: The orbital data-center race is consolidating around Nvidia's compute and SpaceX's launch capacity. The bottleneck is no longer capital but launch slots, giving SpaceX outsized leverage over who gets to compute in orbit.
+
+► China Slows Critical Materials to Taiwan, Pushing Supply-Chain Rework
+China is restricting or delaying exports to Taiwan of key materials used in optical, semiconductor and aerospace applications, according to Nikkei Asia and Taiwan News.
+Why it matters: The delays are a quiet, incremental form of economic coercion targeting Taiwan's advanced manufacturing without a formal export ban. They expose Taiwan's continued dependence on Chinese feedstock for optics, chips and aerospace even as it diversifies.
+
+► Court Strips Espionage Charges From Google AI-Theft Case
+A federal judge overturned seven economic espionage convictions against former Google engineer Linwei Ding, while letting seven trade-secret theft convictions stand, according to The Next Web.
+Why it matters: The ruling tests the legal foundation of Washington's AI-theft crackdown. It shows that proving a foreign-government link — the core of the espionage charge — is harder than proving the theft itself, potentially complicating future prosecutions.
+
+► China Orders Government Agencies Off Windows Onto Linux
+China's Ministry of State Security has ordered some government agencies to drop Windows 10 China Government Edition for Chinese-made Linux distributions, according to a Bloomberg report cited by ZDNet.
+Why it matters: China's accelerated Windows exit is a concrete step in the global decoupling of government IT from US software. It deepens the split between US and...</description>
+<category>Technology</category>
+<pubDate>Sat, 22 Aug 2026 00:00:00 GMT</pubDate>
+<guid>tech-2026-08-22</guid>
+</item>
 <item>
 <title>Tech Brief: China Restricts Aerospace and Optical Metals Exports to Taiwan, Pressuring the Island's Tech Supply Chain</title>
 <link>https://frontion.news/tech/2026-08-21</link>
@@ -1032,42 +1068,6 @@ The European Commission imposed a record €550 million ($629 million) fine on A
 <category>Technology</category>
 <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
 <guid>tech-2026-07-22</guid>
-</item>
-<item>
-<title>Tech Brief: DeepMind Proposes Global AI Watchdog, Trump Tightens Defense Supply Chains, AMD Takes On Nvidia With Helios</title>
-<link>https://frontion.news/tech/2026-07-21</link>
-<description>Hassabis pushes for a FINRA-style AI regulator just as frontier model releases face government gatekeeping; a new executive order forces Pentagon contractors to map and wean off Chinese minerals; and AMD ships its first rack-scale AI system with Microsoft on board.
-
-► DeepMind Proposes a Global AI Watchdog
-Google DeepMind CEO Demis Hassabis published a proposal last week for an international watchdog body that would conduct 'rigorous' pre-release testing of frontier AI models, modeled on financial regulators like FINRA.
-Why it matters: If adopted, this would be the first structured, international pre-deployment review mechanism for frontier AI — a step beyond the voluntary commitments labs have made so far. But it arrives as governments are pulling in opposite directions: the U. S.
-
-► Trump Executive Order Tightens Defense Supply Chain Waivers
-President Trump signed an executive order on Monday making it significantly harder for U. S. defense contractors to obtain waivers allowing them to buy critical minerals and other materials from China and other prohibited foreign suppliers.
-Why it matters: This EO turns a voluntary compliance regime into a mandatory one with teeth. The Pentagon has known for years that its supply chains run through China for rare earths, specialty alloys, and electronic components — this order forces contractors to document those dependencies and present plans to eliminate them, or lose their contracts.
-
-► AMD Launches Helios, Its First Rack-Scale AI System
-AMD on Monday formally launched Helios, its first rack-scale AI computing system, and announced Microsoft as its newest customer.
-Why it matters: Nvidia controls over 95% of the data center GPU market. Helios is the first rack-scale system that gives hyperscalers a credible second option — not a niche alternative, but a full-stack competitor with Microsoft, Meta, and OpenAI already on board.
-
-► Kimi K3 Joins the Chinese AI Model Surge
-Beijing-based startup Moonshot AI released its Kimi K3 model on Friday, and early benchmarks place it at or near the top of coding capability rankings.
-Why it matters: K3 is not just another model launch — it is the latest data point that Chinese AI labs can produce frontier-quality models despite chip export controls, and price them aggressively enough to erode the revenue model of U. S. providers. The capacity constraints (signup pause) suggest the compute bottleneck still bites, but the performance is real.
-
-► Russian Intelligence Hijacks IP Cameras Across NATO and Ukraine
-A joint advisory from the Netherlands' AIVD and MIVD intelligence services, published July 10, details a systematic Russian intelligence operation that is hijacking internet-connected security cameras across Europe and Ukraine to monitor military tra
-Why it matters: This is a case where the vulnerability isn't a sophisticated zero-day or advanced persistent threat — it is default passwords and unpatched firmware.
-
-► Huawei Unveils Atlas 950 SuperPoD — AI Compute Without U.S. Parts
-At the World AI Conference in Shanghai, Huawei publicly displayed the Atlas 950 SuperPoD for the first time — a system linking up to 8,192 of its own Ascend 950DT processors into a single computing node.
-Why it matters: This is the system export controls were designed to prevent. If Huawei's performance claims hold up under independent testing, it means that U. S. chip restrictions have pushed China from dependency toward self-sufficiency in the most strategically important class of computing hardware.
-
-► Türkiye Angle: Baykar-Leonardo Partnership Targets Manned-Unmanned Teaming
-Turkish drone maker Baykar and Italian defense conglomerate Leonardo will announce joint projects at the Farnborough Airshow this week, centered on human-machine teaming between M-346 fighter jet simulators and Bayraktar KIZILELMA unmanned combat aer
-Why it matters: Baykar's partnership wit...</description>
-<category>Technology</category>
-<pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
-<guid>tech-2026-07-21</guid>
 </item>
   </channel>
 </rss>
