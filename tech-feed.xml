@@ -6,8 +6,43 @@
     <link>https://frontion.news/tech</link>
     <atom:link href="https://frontion.news/tech/tech-feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
-    <lastBuildDate>Tue, 25 Aug 2026 03:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 03:01:10 GMT</lastBuildDate>
     <ttl>60</ttl>
+<item>
+<title>Tech Brief: OpenAI's Jalapeño Chip Beats Nvidia on Inference as Custom Silicon Gains Ground</title>
+<link>https://frontion.news/tech/2026-08-26</link>
+<description>OpenAI unveiled benchmark results showing its Broadcom-built Jalapeño inference chip outperforming Nvidia's Blackwell on throughput per kilowatt, while Taiwan indicted Nvidia and Super Micro employees over AI server exports to China and the US escalated its cyber campaign against Iran-linked hackers.
+
+► OpenAI's Jalapeño Chip Claims Inference Edge Over Nvidia
+At the Hot Chips conference on Tuesday, OpenAI shared the first benchmark results for Jalapeño, its custom inference chip developed with Broadcom.
+Why it matters: This is the first concrete evidence that a major AI lab's custom silicon can beat Nvidia on the inference workloads that dominate real-world serving costs.
+
+► Taiwan Indicts Nvidia and Super Micro Employees Over AI Server Exports to China
+Taiwanese prosecutors in Keelung indicted nine people, including one employee of Nvidia's Taiwan unit and two of Super Micro's Taiwan unit, over the illegal export of high-end AI servers to China, according to Al Jazeera and Reuters.
+Why it matters: The case exposes a structural weakness in the US-led export-control regime: Taiwan, the world's largest producer of advanced AI chips, has no criminal statute against re-exporting them to China. Enforcement currently depends on creative use of trust and forgery laws, which is unlikely to deter sophisticated smuggling networks.
+
+► US Escalates Cyber Campaign Against Iran-Linked Hackers
+The US Treasury's Operation Economic Outcast, announced August 24, designated six Iranian Ministry of Intelligence and Security (MOIS) operatives who ran a hacking cell that compromised US energy companies, defense contractors, hospitals, and univers
+Why it matters: The pattern since the February US-Israel strikes on Iran is a sustained, financially motivated cyber campaign against Western critical infrastructure — power, water, and industrial control systems.
+
+► SpaceX Pushes AI Computing Into Orbit With Nvidia
+SpaceX's Starmind orbital data center project will use Nvidia Rubin GPUs and Vera CPUs in its AI1 satellites, with each satellite holding roughly 72 Nvidia chips and generating up to 175kW of compute, per Engadget.
+Why it matters: Orbital AI computing is moving from concept to committed hardware, with Nvidia's most advanced chips now designed for space. But the gap between launch economics and viability, plus radiation-induced data corruption risks on advanced chips, means this is a long-horizon bet rather than a near-term compute solution.
+
+► HP Licenses Huawei WiFi Patents Despite US Blacklist
+US-based HP signed a multi-year global agreement to license certain WiFi patents from Chinese telecoms giant Huawei, the companies announced Wednesday, per CNBC.
+Why it matters: A major US PC maker commercially embracing Huawei's wireless IP shows the limits of the blacklist: it constrains hardware and supply chains, but Huawei's patent portfolio remains globally embedded and monetizable. It is a reminder that network sovereignty battles are being fought as much in patent pools as in 5G equipment contracts.
+
+► China's AI Compute Buildout: Alibaba's $10.2B Raise and YMTC's IPO
+China's AI capital push continued on two fronts. Alibaba launched a $10.
+Why it matters: China is channeling massive public-market capital into AI compute and domestic memory production, with YMTC's IPO a test of whether Beijing can fund its own advanced memory supply chain despite US export controls. Alibaba's discounted raise shows even China's largest tech firms are paying a heavy price in dilution to fund the AI arms race.
+
+■ The Bottom Line
+Today's developments show the AI compute landscape fracturing on multiple axes at once. OpenAI's Jalapeño results are the first credible evidence that custom inference silicon can beat Nvidia on the workloads that matter most for serving costs, even as Nvidia pushes its most advanced chips into orbit with SpaceX. Meanwhile, the enfo...</description>
+<category>Technology</category>
+<pubDate>Wed, 26 Aug 2026 00:00:00 GMT</pubDate>
+<guid>tech-2026-08-26</guid>
+</item>
 <item>
 <title>Tech Brief: Xpeng's Robotics Unit Raises $900M as Embodied AI Draws Big-Tech Capital</title>
 <link>https://frontion.news/tech/2026-08-25</link>
@@ -1026,41 +1061,6 @@ Three developments define this Sunday: CXMT's 471% IPO debut shows China's state
 <category>Technology</category>
 <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
 <guid>tech-2026-07-27</guid>
-</item>
-<item>
-<title>Tech Brief: 150 Companies Back Open-Weight AI as Washington Weighs China Curbs, Nvidia Bets $1.5B on US Packaging, China's Rare-Earth Retaliations Hit Europe</title>
-<link>https://frontion.news/tech/2026-07-25</link>
-<description>A coalition of 25 major tech firms publishes a letter defending open-weight AI models as the White House pressures Moonshot AI over alleged chip smuggling and model distillation. Nvidia commits $1.5B to expand US chip packaging with Amkor. China bans exports to 14 EU entities including Rheinmetall, and Indonesia's new rare-earths checks snarl metal shipments.
-
-► Tech Giants Circle the Wagons Around Open-Weight AI
-A coalition of 25 American technology companies — including Nvidia, Microsoft, Meta, IBM, Palantir, Andreessen Horowitz, Hugging Face, and Y Combinator — published a joint letter on July 24 urging Washington to avoid 'premature restrictions on open-w
-Why it matters: The open-weight debate is no longer academic — it is now a direct lobbying confrontation between the AI industry's largest players, with the outcome shaping whether the US restricts access to Chinese models or lets the market decide.
-
-► Washington Escalates Pressure on Moonshot AI as Kimi K3 Stirs the Policy Pot
-White House Office of Science and Technology Policy director Michael Kratsios accused Moonshot AI of 'large-scale, covert industrial distillation aimed at stealing proprietary U. S.
-Why it matters: The Moonshot episode is turning into a test case for how the US handles Chinese open-weight models — whether through export controls, sanctions, or leaving the market to decide. The conflicting signals from within the administration itself suggest the policy is far from settled.
-
-► Nvidia Commits $1.5B to Amkor for US Chip Packaging Expansion
-Nvidia signed a $1. 5 billion multi-year agreement with Amkor Technology to expand advanced semiconductor packaging and testing capacity in the United States, as demand for AI infrastructure continues to surge.
-Why it matters: Packaging is the new bottleneck in the AI chip supply chain. Nvidia's $1. 5B commitment signals that the biggest AI infrastructure company sees domestic packaging capacity as a strategic necessity, not just a logistics convenience — and that demand continues to outstrip supply.
-
-► China's Rare-Earth Retaliations Hit Europe as Indonesia Tightens Checks
-China banned the export of dual-use items to 14 additional European Union entities on July 24, with immediate effect.
-Why it matters: China is demonstrating that rare-earth export controls are a retaliatory tool, not just a precautionary policy. Combined with Indonesia's new checks, the dual disruption is hitting critical mineral supply chains at a time when Europe and the US are trying to reduce dependency — and showing how difficult that actually is.
-
-► SpaceX's Starship Deploys First V3 Starlinks as US and China Race in Orbital Servicing
-SpaceX's Starship Flight 13 on July 24 achieved several milestones: the second flight of the V3 rocket configuration, the first deployment of 20 upgraded Starlink V3 satellites into suborbital space, and an intact splashdown of the ship — a first for
-Why it matters: Starship's progress toward full reusability and V3 Starlink deployment is commercially and strategically significant for global internet infrastructure. The MRV launch marks the US matching China's orbital servicing capability for the first time — turning geosynchronous orbit into a domain where both sides can now actively manipulate satellites.
-
-► AI Safety Cooperation Fractures as US-China Rivalry Intensifies
-A Reuters analysis published July 24 detailed how the growing US-China feud over AI is undermining international safety cooperation.
-Why it matters: AI safety requires transparency and cooperation, but the US-China rivalry is actively dismantling both. The risk is not just that one side gets ahead — it's that the guardrails that might prevent catastrophic AI failures go unbuilt because neither side trusts the other enough to share them.
-
-■ The Bottom Line
-The AI policy fight crystallized this week: 25 major US tech companies publicly...</description>
-<category>Technology</category>
-<pubDate>Sat, 25 Jul 2026 00:00:00 GMT</pubDate>
-<guid>tech-2026-07-25</guid>
 </item>
   </channel>
 </rss>
