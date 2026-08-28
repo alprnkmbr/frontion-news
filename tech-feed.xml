@@ -6,8 +6,40 @@
     <link>https://frontion.news/tech</link>
     <atom:link href="https://frontion.news/tech/tech-feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
-    <lastBuildDate>Thu, 27 Aug 2026 03:03:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 03:02:13 GMT</lastBuildDate>
     <ttl>60</ttl>
+<item>
+<title>Tech Brief: Nvidia Ships First H200s to China as Record AI Revenue Doubles</title>
+<link>https://frontion.news/tech/2026-08-28</link>
+<description>Nvidia posted a record quarter and confirmed its first H200 data-center chip shipments to China under a new US licensing scheme, ending a months-long lockout. Meanwhile SK Hynix broke ground on its first US HBM plant and China's Zhipu ran a viral model entirely on domestic chips.
+
+► Nvidia's Record Quarter Opens a Narrow China Door
+Nvidia reported net income of $59. 69 billion on revenue of $96. 22 billion for the May-July quarter, more than doubling revenue from a year earlier and beating the $92. 27 billion consensus, according to Nikkei Asia and AP.
+Why it matters: The H200 shipments are a calibrated reopening of the US-China AI chip trade — enough to keep Chinese firms buying Nvidia, but small enough that Nvidia's growth story no longer depends on China at all. It signals Washington and Beijing are managing a controlled thaw rather than a full re-engagement.
+
+► SK Hynix Breaks Ground on First US HBM Plant as Memory Crunch Extends
+SK Hynix officially broke ground Thursday on its first US plant for high-bandwidth memory (HBM) in West Lafayette, Indiana, a project worth more than $4 billion that includes an advanced chip-packaging facility and an R&amp;D complex near Purdue Universi
+Why it matters: Moving HBM packaging to US soil is a direct answer to the chokepoint that memory packaging represents in the AI supply chain. With SK Hynix, Samsung and Kioxia all expanding and YMTC raising capital, the memory race is now explicitly a geopolitical one — onshore capacity in the US and Japan versus a capitalizing Chinese challenger.
+
+► Zhipu Runs Viral Model Entirely on Chinese Chips
+China's Zhipu AI launched its open-weight GLM-5. 3-Flash model — previously code-named Ox Alpha — saying it ran entirely on a cluster of 100,000 domestically produced chips during a stealth trial, SCMP reports.
+Why it matters: A 100,000-chip domestic cluster running a top-ranked coding model is the strongest public evidence yet that China's export-control workaround is maturing. It does not erase the performance gap with Nvidia, but it narrows the practical dependence and gives Beijing a credible domestic alternative to point to.
+
+► Alibaba Launches Brazil Data Centres in Emerging-Market AI Push
+Alibaba Group launched its first data centres in South America, a Brazilian venture operating two facilities offering local enterprises cloud infrastructure and 'agentic AI services', SCMP reports.
+Why it matters: China's cloud giants are competing for emerging-market AI infrastructure before US providers consolidate their grip. Brazil is a test of whether Chinese AI infrastructure can win sovereign and enterprise workloads in markets wary of both US and Chinese dominance.
+
+► White House Bans Foreign-Made Power Equipment Over Backdoor Fears
+The Trump administration issued an executive order banning the acquisition of foreign-made technology used to manage electricity and power, citing concerns that bulk-power system equipment may contain digital backdoors allowing foreign governments re
+Why it matters: The order formalizes a supply-chain security doctrine for the power grid, effectively barring Chinese and other foreign vendors from a core US infrastructure market. It is a concrete regulatory escalation of the hardware-trust debate that has been building around critical infrastructure.
+
+► Finland Revives Eagle S Cable Case, Closing a Jurisdiction Gap
+A Finnish appeals court revived the prosecution of three senior officers of the Eagle S, the Russia-linked oil tanker that severed multiple subsea cables in the Baltic Sea on Christmas Day 2024, The Record reports.
+Why it matters: The ruling closes a legal loophole that maritime lawyers warned would let flag-of-convenience ships damage undersea infrastructure in international waters with impunity. It strengthens the legal basis for holding crews accountable for cable sabotage, a growing concern for European ...</description>
+<category>Technology</category>
+<pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
+<guid>tech-2026-08-28</guid>
+</item>
 <item>
 <title>Tech Brief: Huawei's Ascend Chips Bid for Egypt's AI Data Centers, Testing US Export Diplomacy</title>
 <link>https://frontion.news/tech/2026-08-27</link>
@@ -1024,40 +1056,6 @@ China's start of domestic DUV lithography production is the most tangible challe
 <category>Technology</category>
 <pubDate>Wed, 29 Jul 2026 00:00:00 GMT</pubDate>
 <guid>tech-2026-07-29</guid>
-</item>
-<item>
-<title>Tech Brief: Korean Chips Crash as CXMT Rattles DRAM, Nvidia Launches Open AI Alliance, US 6G Pact Counters China</title>
-<link>https://frontion.news/tech/2026-07-28</link>
-<description>South Korea's KOSPI plunged 8% as Samsung and SK Hynix tanked on China competition fears and AI spending doubts — the same day CXMT's record IPO underscored Beijing's semiconductor rise. Meanwhile, Nvidia rallied 30+ firms behind an open AI security alliance, Amodei clarified Anthropic's stance on open weights, and the US launched a 25-nation 6G security pact to box out Huawei before Shanghai's 2027 ITU conference.
-
-► South Korean Chip Stocks Crash as CXMT Specter Deepens
-South Korea's semiconductor sector suffered its worst day in years on Tuesday, with Samsung Electronics falling 9. 5% and SK Hynix plunging 11. 1%, dragging the KOSPI down 8% in early trade.
-Why it matters: The KOSPI's 8% drop signals that markets are pricing in a structural shift: China's CXMT and YMTC are no longer peripheral players but credible competitors. If Korean chipmakers lose their technology gap, the entire US-aligned semiconductor supply chain faces margin compression.
-
-► Nvidia Launches Open Secure AI Alliance After Hugging Face Breach
-Nvidia on Monday announced the Open Secure AI Alliance (OSAA), a coalition of over 30 technology companies including Adobe, Cisco, Cloudflare, Databricks, Hugging Face, IBM, Red Hat, Salesforce, Snowflake, Microsoft, and Thinking Machines Lab.
-Why it matters: OSAA institutionalizes a split in the AI industry between open-security advocates and closed-model providers.
-
-► Amodei Draws Anthropic's Line on Open Weights
-Anthropic CEO Dario Amodei published the company's formal position on open-weight AI models on Sunday, seeking to dispel accusations that Anthropic supports banning them. 'Anthropic has never advocated for a ban on open-weights models,' Amodei wrote.
-Why it matters: Amodei's statement is the most detailed articulation yet of a middle path between the open-weight coalition and those pushing for restrictions. The three-pillar framework — chip controls, distillation crackdowns, safety testing — is likely to influence Washington policy more than the binary open-vs-closed debate.
-
-► US and 25 Allies Launch 6G Security Pact Ahead of Shanghai ITU Conference
-The Trump administration on Monday launched a global 6G security partnership with over 20 allied nations, including Germany, the UK, France, Italy, Japan, Australia, South Korea, Canada, Finland, and Sweden.
-Why it matters: This is the first coordinated allied attempt to shape a telecom standard before the technology exists, learning from 5G's costly lesson. If the coalition holds, it could lock China out of the next generation of network infrastructure the way Huawei was locked out of 5G in allied nations — but this time by design, not retroactively.
-
-► Trump's 2027 Critical Minerals Deadline Meets Reality
-A Reuters investigation published Sunday details how President Trump's executive order requiring US defense supply chains to eliminate Chinese critical minerals by January 1, 2027 is colliding with industrial reality.
-Why it matters: The minerals deadline is the clearest example yet of the gap between decoupling rhetoric and industrial reality. Waivers would signal that the US defense industrial base remains structurally dependent on Chinese inputs, while no waiver would risk actual supply chain disruption for weapons systems.
-
-► Amazon Proposes 5,100-Satellite Phone Network as FCC Approval Power Draws Scrutiny
-Amazon's Leo project on Monday filed an FCC application for a constellation of up to 5,105 satellites to provide direct-to-device voice and data services, with service targeted to begin in 2028.
-Why it matters: The FCC is effectively acting as the world's orbital zoning board, and the queue at its door is growing. Amazon's 5,100-satellite phone network and Reflect Orbital's 50,000-mirror constellation illustrate how commercial orbital projects are scaling faster than international governance can adapt.
-
-► ASD Tells Australian Critical Infr...</description>
-<category>Technology</category>
-<pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-<guid>tech-2026-07-28</guid>
 </item>
   </channel>
 </rss>
