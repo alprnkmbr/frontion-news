@@ -6,8 +6,44 @@
     <link>https://frontion.news/tech</link>
     <atom:link href="https://frontion.news/tech/tech-feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
-    <lastBuildDate>Sun, 30 Aug 2026 03:02:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 03:05:28 GMT</lastBuildDate>
     <ttl>60</ttl>
+<item>
+<title>Tech Brief: AWS and Nvidia Commit to 2 Million More GPUs as AI Infrastructure Shifts From Chips to Power</title>
+<link>https://frontion.news/tech/2026-08-31</link>
+<description>AWS will deploy 2 million additional Nvidia GPUs in 2027-2028, including 100,000 on secure infrastructure for US government AI factories, as Nvidia's data center revenue hits $89 billion. The bottleneck is no longer silicon but the power, memory, and supply chains around it.
+
+► AWS-Nvidia: 2 Million More GPUs and a Government AI Factory
+AWS and Nvidia announced a major expansion of their collaboration on August 26, committing to deploy 2 million additional Nvidia GPUs across AWS's global infrastructure in 2027-2028, according to the AWS press release.
+Why it matters: The scale of the commitment — 2 million GPUs plus a 100,000-GPU government enclave — shows AI compute demand is still accelerating, and that the US government is now a first-class customer for domestic AI infrastructure rather than a bystander.
+
+► Nvidia's Numbers: Data Center Revenue Up 117%
+Nvidia reported $96. 2 billion in total revenue for the quarter ended July 26, up 106% year over year, with data center revenue of $89 billion, up 117% from a year earlier, according to Data Center Knowledge.
+Why it matters: Nvidia's growth is now structurally decoupled from China, which means export controls have not dented its core business — and the US government's AI factory commitment gives it a new, policy-aligned revenue stream.
+
+► Unimicron Probe: Origin Laundering in the Chip Supply Chain
+Taiwanese prosecutors said they are investigating Unimicron, a top chip substrate and printed circuit board maker and a key supplier to Nvidia, Intel, Google and Amazon, over allegations it falsely relabeled China-made parts as originating in Taiwan,
+Why it matters: This is a test of whether export-control enforcement can reach into the physical supply chain, not just the chip itself. A finding against Unimicron would force other suppliers to audit their sourcing and could reshape how Taiwan-origin claims are verified.
+
+► Micron Puts $10 Billion Behind Memory as the New Bottleneck
+Micron unveiled Micron Research Labs, a Boise, Idaho-based research hub backed by $10 billion, focused on advanced memory technologies, memory and compute architectures, advanced packaging, and future semiconductor manufacturing, Data Center Knowledg
+Why it matters: As GPU supply expands, memory and advanced packaging become the binding constraint on AI systems. Micron's bet signals that the next competitive frontier in AI hardware is not just compute but the memory fabric around it — and that the US is investing to keep that capability domestic.
+
+► Nvidia's $500 Billion Financing Push: Capital Is No Longer the Choke Point
+Nvidia has partnered with Apollo, BlackRock, Blackstone, Brookfield, Goldman Sachs and KKR to establish financing platforms designed to mobilize more than $500 billion of third-party capital for AI infrastructure over time, Data Center Knowledge repo
+Why it matters: Nvidia is effectively telling the market where the bottleneck will move next: from financing to physical infrastructure. Power-ready sites and existing electrical capacity become the scarce assets, which shifts value toward utilities and grid-adjacent real estate.
+
+► Falcon Heavy Launches NASA's Roman Space Telescope
+A SpaceX Falcon Heavy launched NASA's Nancy Grace Roman Space Telescope on August 30 from Kennedy Space Center's Launch Complex 39A, SpaceNews reported.
+Why it matters: The launch is a reminder that US orbital capability for flagship payloads now runs through a single commercial provider. That concentration is a strategic asset for SpaceX but a single point of failure for US space science and, by extension, space-based infrastructure.
+
+► Google Formally Enters Pakistan
+Google has set up its first country office in Pakistan, formally entering the market after years of operating there only through advertising, Nikkei Asia reported on August 30.
+Why it matters: Google's formal entry gives it a regulatory foo...</description>
+<category>Technology</category>
+<pubDate>Mon, 31 Aug 2026 00:00:00 GMT</pubDate>
+<guid>tech-2026-08-31</guid>
+</item>
 <item>
 <title>Tech Brief: Z.ai's GLM 5.3 Flash Runs Inference on 100,000 Chinese Chips, Claiming Nvidia-Level Performance</title>
 <link>https://frontion.news/tech/2026-08-30</link>
@@ -1018,38 +1054,6 @@ Why it matters: The DPA order flips the critical minerals logic: instead of just
 <category>Technology</category>
 <pubDate>Sat, 01 Aug 2026 00:00:00 GMT</pubDate>
 <guid>tech-2026-08-01</guid>
-</item>
-<item>
-<title>Tech Brief: Trump Uses Defense Production Act to Lock In Critical Minerals, Samsung Warns Chip Shortage Through 2028, OWAReaper Reveals New Russian Cyber Threat</title>
-<link>https://frontion.news/tech/2026-07-31</link>
-<description>The US moves to block e-waste exports and retain rare earths domestically, Samsung signals AI memory scarcity will persist for years, and a sophisticated Russian implant targeting Exchange servers exposes the limits of standard incident response.
-
-► Trump Invokes Defense Production Act to Block Critical Mineral Exports
-President Trump signed a presidential determination on Thursday delegating authority under the Defense Production Act to the Commerce Department to restrict exports of recoverable critical minerals and materials — effectively blocking the overseas sh
-Why it matters: This is the first use of the DPA specifically to retain minerals already inside the US rather than to stimulate new production. It acknowledges that building new mines takes years, but recapturing scrap can scale faster — if the recycling capacity exists.
-
-► Samsung Reports Record Profit, Warns AI Memory Shortage Will Last Through 2028
-Samsung Electronics reported a more than 250-fold jump in chip profit for Q2 2026, with operating profit reaching KRW 89. 5 trillion (roughly $62 billion) — the highest quarterly figure in the company's history.
-Why it matters: Samsung's 2028 shortage warning is the most explicit timeline yet from a major producer. It signals that AI memory supply constraints are not a temporary bottleneck but a multi-year gap between demand and fab capacity — with implications for everything from GPU availability to data center construction costs.
-
-► OWAReaper: Russian State Hackers Deploy Exchange Implant That Survives Re-Imaging
-Cybersecurity firm Proofpoint disclosed on July 29 a previously unknown browser-based implant called OWAReaper, deployed by Russian state-linked hacking group Laundry Bear (also tracked as TA488 and Void Blizzard by Microsoft) against US and European
-Why it matters: OWAReaper exposes a gap in standard incident response: organizations that think they've cleaned up by resetting passwords and re-imaging machines are still compromised. The implant's reliance on Exchange-side persistence rather than endpoint-side storage means the threat model for webmail has fundamentally shifted.
-
-► Minnesota Water Attacks Now Formally Linked to Iran, CISA Issues Nationwide Alert
-A leaked memo from the Water Information Sharing and Analysis Center (WaterISAC), obtained by WIRED, formally ties the coordinated cyberattacks on more than 30 Minnesota water and wastewater systems to Iran-affiliated hackers — specifically to the sa
-Why it matters: This is the widest and most disruptive state-sponsored cyberattack on US civilian infrastructure since the Iran conflict began — and one of the most significant on US water systems ever documented. CISA's advisory makes clear this isn't a one-off: the same tradecraft and tooling can be applied to water systems across the country.
-
-► China Threatens Retaliation Over US Robot Ban as AI Hegemonism Dispute Deepens
-China's commerce ministry said it will 'resolutely retaliate' if the US proceeds with the FCC's ban on foreign-made advanced robots and power inverters, which took effect this week citing national security risks.
-Why it matters: The AI hegemonism dispute is shifting from a US-China narrative into a more complicated dynamic where both governments are simultaneously trying to promote and control the same technology. China's open-weight strategy is winning global adoption, but Beijing's own censorship concerns undermine the 'openness' pitch.
-
-► NROL-95 Launch Highlights NRO's Dual-Track Space Architecture
-SpaceX launched the classified NROL-95 mission from Cape Canaveral at 3:10 AM ET on July 30, carrying what analysts believe is a next-generation Naval Ocean Surveillance System (NOSS) satellite — a signals intelligence platform designed to track ship
-Why it matters: NROL-95 demonstrates that the proliferated constellation model and traditional specialized intelligence satellites...</description>
-<category>Technology</category>
-<pubDate>Fri, 31 Jul 2026 00:00:00 GMT</pubDate>
-<guid>tech-2026-07-31</guid>
 </item>
   </channel>
 </rss>
