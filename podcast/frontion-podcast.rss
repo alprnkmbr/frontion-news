@@ -1,23 +1,56 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:ns0="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:ns1="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
     <channel>
         <title>Frontion News</title>
         <link>https://frontion.news/podcast/</link>
         <language>en</language>
         <copyright>2026 Frontion News</copyright>
         <description>Strategic intelligence, delivered daily. Geopolitical briefings read aloud — listen on the go.</description>
-        <ns0:type>episodic</ns0:type>
-        <ns0:author>Frontion News</ns0:author>
-        <ns0:summary>Frontion News delivers concise, authoritative briefings on global geopolitics, defense, energy, finance, and technology — now available as daily audio.</ns0:summary>
-        <ns0:owner>
-            <ns0:name>Frontion News</ns0:name>
-            <ns0:email>contact@frontion.news</ns0:email>
-        </ns0:owner>
-        <ns0:image href="https://frontion.news/podcast/podcast-cover-3000.jpg" />
-        <ns0:category text="News" />
-        <ns0:explicit>false</ns0:explicit>
-        <ns1:link href="https://frontion.news/podcast/frontion-podcast.rss" rel="self" type="application/rss+xml" />
-        <item>
+        <itunes:type>episodic</itunes:type>
+        <itunes:author>Frontion News</itunes:author>
+        <itunes:summary>Frontion News delivers concise, authoritative briefings on global geopolitics, defense, energy, finance, and technology — now available as daily audio.</itunes:summary>
+        <itunes:owner>
+            <itunes:name>Frontion News</itunes:name>
+            <itunes:email>contact@frontion.news</itunes:email>
+        </itunes:owner>
+        <itunes:image href="https://frontion.news/podcast/podcast-cover-3000.jpg" />
+        <itunes:category text="News" />
+        <itunes:explicit>false</itunes:explicit>
+        <atom:link href="https://frontion.news/podcast/frontion-podcast.rss" rel="self" type="application/rss+xml" />
+        <item><title>Strategic Brief — September 4, 2026: Trump Signals He Would Not Defend UK Over Falklands as Milei Presses Claim, US Probes Civilian Deaths in Iran Wedding Strike</title><link>https://frontion.news/podcast/</link><guid isPermaLink="false">frontion-global-2026-09-04</guid><pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate><description>Trump Signals He Would Not Defend UK Over Falklands as Milei Presses Claim, US Probes Civilian Deaths in Iran Wedding Strike
+
+The US president ties alliance loyalty to support for his Iran war, hinting Washington would not back Britain in a Falklands dispute moments before Argentina's Milei announced a renewed claim. Meanwhile, the Pentagon is investigating whether a US missile killed four civilians at an Iranian wedding, as Washington and Tehran trade fresh attacks.
+
+The Falklands Shadow: Trump Links UK Support to His Iran War
+
+In an interview with GB News, President Donald Trump hinted the United States would not come to Britain's aid in any future conflict with Argentina over the Falkland Islands, saying London 'was not there to help me' in the US war with Iran. Trump said he had asked NATO and former Prime Minister Sir Keir Starmer to send ships for the Strait of Hormuz and was told none were available, calling that 'pretty sad' and insisting Washington was 'doing that by ourselves.' He drew an explicit oil link, telling the British outlet they get a large percentage of their oil from Hormuz.
+The remarks land directly ahead of Argentinian President Javier Milei's televised address on Thursday night about what he calls his nation's 'historic' claim to the islands, more than four decades after the 1982 war. Previous US administrations formally recognised Britain's de facto administration of the Falklands without taking a formal position on sovereignty. The UK government responded that Falkland islanders 'are British with a right to determine their own future.' Trump said he would 'always review every position.'
+
+Iran War: US Probes Wedding Strike Deaths as Renewed Clashes Resume
+
+Vice President JD Vance said the Pentagon is investigating Iranian claims that a US missile killed at least four people, including two children, at a family wedding in Sirik, southern Iran on Tuesday. The Iranian Red Crescent Society said shrapnel hit the ceremony, wounding 67; Iranian state media reported a fifth death. Tehran's foreign ministry spokesman Esmaeil Baqaei called it a 'war crime.' Vance told a White House briefing he was 'extremely sceptical' of the reports and criticised Iranian state media's record, but confirmed the investigation. A US Central Command spokesperson said the US 'never targets civilians.' BBC Verify and BBC Persian Forensics said the wedding house sat roughly 112 metres from a telecommunications tower that was destroyed.
+In response to the alleged strike, Iran launched fresh attacks on US bases in Kuwait and the United Arab Emirates, with an Iranian drone damaging a residential building in Kuwait City. The exchanges mark the most significant clashes in about a month, according to Al Jazeera's live coverage.
+
+Hormuz: Competing Claims Over Who Controls the Strait
+
+Washington and Tehran are making sharply contradictory claims about the Strait of Hormuz, closed since the US-Israel war on Iran began six months ago. Two US officials told CNN that 40 commercial ships carrying about 18 million barrels of oil crossed under US military escort on Tuesday, a claimed wartime record; President Trump has said the waterway is 'under USA control' and that the Navy helps around 30 ships pass each night. Treasury Secretary Scott Bessent said 'at least 10 million barrels' get through daily.
+Al Jazeera notes that PortWatch data puts the overall average at just seven vessels per day since March, far below the pre-war baseline of roughly 100 ships and 20 million barrels. Iran's Parliament Speaker Mohammad Bagher Ghalibaf conceded 'the enemy managed to get some ships' through but insisted Iranian forces remain 'in complete control' and warned that ships using a southern route would be targeted on what he called US 'false guarantees.' Saudi Arabia, meanwhile, condemned a deadly Iranian attack on a tanker in the strait. The dispute over sea-mine clearance follows US CENTCOM commander Brad Cooper's claim that transit lanes have been cleared.
+
+Syria Opens Its Arsenal: Chemical Weapons Destroyed, Reactor Confirmed
+
+Syria's new leadership has begun destroying remnants of Bashar al-Assad's clandestine chemical weapons programme, the first such destruction on Syrian territory in more than a decade, Syrian and UN officials told the Security Council on Thursday. UN High Representative for Disarmament Affairs Izumi Nakamitsu said the OPCW had verified for the first time since 2014 the destruction of chemical munitions in Syria — a team verified the 'irreversible destruction of 42 aerial bombs.' The leadership located the remnants in May and declared two additional storage facilities and a newly discovered chemical used in nerve-agent production. Syria's UN envoy Ibrahim Olabi said repeated Israeli attacks had impeded some operations and exposed teams to risk.
+Separately, the IAEA confirmed in a report seen by news agencies that Syria built a nuclear reactor in Deir Az Zor under Assad — a facility built by North Korea and destroyed by Israeli strikes in 2007. The agency said the uncovered cooling infrastructure 'is consistent with that of a nuclear reactor' and will keep monitoring as excavation continues, after finding uranium particles in samples in 2024.
+
+Europe's Two Fronts: Russia Escalates Over Leipzig, Spain's Ceuta Crisis Deepens
+
+EU Commission President Ursula von der Leyen said 'Leipzig marks a new escalation on European Union soil directly attributed to Russia,' and NATO chief Mark Rutte voiced 'full solidarity with Germany' after Berlin formally blamed Moscow for a failed explosives-laden drone attack on Leipzig/Halle airport, a key NATO hub used by Ukrainian Antonov aircraft. Berlin is closing the Russian consulate in Bonn and the Russian House cultural institution; Russia responded by shutting Germany's Goethe-Institut centres in Moscow, St Petersburg and Yekaterinburg, with Deputy Foreign Minister Alexander Grushko declining to rule out severing relations. Two suspects have been identified, including a Belarusian with a Russian passport on a tourist visa.
+In Madrid, Prime Minister Pedro Sánchez told parliament it was 'absurd' to think his government knew in advance of the influx of 72,000 migrants into the exclave of Ceuta, as tens of thousands protested across Spain and opposition leader Alberto Núñez Feijóo demanded his resignation. Some 5,000 migrants remain on Ceuta's streets, including up to 1,400 children. Italy has imposed border restrictions on arrivals from Spain, and Spanish police reports flag the 'total permissiveness' of Moroccan security forces while Sánchez refuses to blame Rabat or criticise Morocco's recent sovereignty claims on Ceuta and Melilla.
+
+The Bottom Line.
+
+The dominant strategic signal of September 4 is that the United States is making its alliances conditional: Trump's public hint that Washington would not defend the Falklands because Britain declined to join his Iran war recasts the Atlantic partnership as transactional at the very moment Milei revives Argentina's claim. That posture frames the rest of the day's news — an Iran war re-escalating around an alleged civilian-casualty strike in Hormuz's contested waters, a post-Assad Syria transparently dismantling its chemical weapons and confirming a covert reactor, and a Europe squeezed between Russian hybrid sabotage and an internal migration crisis. Expect allies to recalibrate their bets on US reliability, and Gulf and European capitals to hedge accordingly.
+
+Read the full analysis at https://frontion.news</description><enclosure url="https://frontion.news/podcast/frontion-global-2026-09-04.mp3" length="3037392" type="audio/mpeg" /><itunes:duration>506</itunes:duration><itunes:episode>1</itunes:episode></item><item>
             <title>Strategic Brief — September 03, 2026: Netherlands Moves Billions in Gold to London Citing 'Geopolitical Unrest' as Xi Urges New Middle East Security Order in Cairo</title>
             <link>https://frontion.news/podcast/</link>
             <guid isPermaLink="false">frontion-global-2026-09-03</guid>
@@ -57,8 +90,8 @@ Today's developments show the Iran war is no longer just a military conflict but
 
 Read the full analysis at https://frontion.news</description>
             <enclosure url="https://frontion.news/podcast/frontion-global-2026-09-03.mp3" length="3083616" type="audio/mpeg" />
-            <ns0:duration>513</ns0:duration>
-            <ns0:episode>1</ns0:episode>
+            <itunes:duration>513</itunes:duration>
+            <itunes:episode>1</itunes:episode>
         </item>
 
         <item>
@@ -112,8 +145,8 @@ The defining development of the day is Germany's formal attribution of the Leipz
 
 Read the full analysis at https://frontion.news</description>
             <enclosure url="https://frontion.news/podcast/frontion-global-2026-09-02.mp3" length="3025872" type="audio/mpeg" />
-            <ns0:duration>283</ns0:duration>
-            <ns0:episode>1</ns0:episode>
+            <itunes:duration>283</itunes:duration>
+            <itunes:episode>1</itunes:episode>
         </item>
 
         <item>
@@ -161,8 +194,8 @@ The day's defining development is the convergence of China, Russia, India and Ir
 
 Read the full analysis at https://frontion.news</description>
             <enclosure url="https://frontion.news/podcast/frontion-global-2026-09-01.mp3" length="2227680" type="audio/mpeg" />
-            <ns0:duration>371</ns0:duration>
-            <ns0:episode>1</ns0:episode>
+            <itunes:duration>371</itunes:duration>
+            <itunes:episode>1</itunes:episode>
         </item>
 
         <item>
@@ -225,8 +258,8 @@ The day's defining development is the resumption of direct US-Iran military stri
 
 Read the full analysis at https://frontion.news</description>
             <enclosure url="https://frontion.news/podcast/frontion-global-2026-08-31.mp3" length="1703376" type="audio/mpeg" />
-            <ns0:duration>328</ns0:duration>
-            <ns0:episode>1</ns0:episode>
+            <itunes:duration>328</itunes:duration>
+            <itunes:episode>1</itunes:episode>
         </item>
 
         <item>
@@ -274,8 +307,8 @@ The day's most consequential development is Iceland's knife-edge vote on EU memb
 
 Read the full analysis at https://frontion.news</description>
             <enclosure url="https://frontion.news/podcast/frontion-global-2026-08-30.mp3" length="1179360" type="audio/mpeg" />
-            <ns0:duration>218</ns0:duration>
-            <ns0:episode>1</ns0:episode>
+            <itunes:duration>218</itunes:duration>
+            <itunes:episode>1</itunes:episode>
         </item>
 
         <item>
@@ -318,8 +351,8 @@ Three developments dominated the strategic picture. Washington announced an unpr
 
 Read the full analysis at https://frontion.news</description>
             <enclosure url="https://frontion.news/podcast/frontion-global-2026-08-29.mp3" length="2096707" type="audio/mpeg" />
-            <ns0:duration>348</ns0:duration>
-            <ns0:episode>1</ns0:episode>
+            <itunes:duration>348</itunes:duration>
+            <itunes:episode>1</itunes:episode>
         </item>
         <item>
             <title>Strategic Brief — August 28, 2026: Glacial Collapse Floods Kill Over 390 on Nepal-Tibet Border as Iran War Hits Six Months With No Off-Ramp</title>
@@ -366,8 +399,8 @@ Today's dominant story is humanitarian: a Himalayan glacial collapse killed more
 
 Read the full analysis at https://frontion.news</description>
             <enclosure url="https://frontion.news/podcast/frontion-global-2026-08-28.mp3" length="786240" type="audio/mpeg" />
-            <ns0:duration>218</ns0:duration>
-            <ns0:episode>1</ns0:episode>
+            <itunes:duration>218</itunes:duration>
+            <itunes:episode>1</itunes:episode>
         </item>
         <item>
             <title>Strategic Brief — August 27, 2026: CIA Director's Secret Moscow Visit Opens a New Channel as Washington and Seoul Prepare Trilateral Drills</title>
@@ -409,8 +442,8 @@ Today's most significant development is the reopening of a direct US-Russia chan
 
 Read the full analysis at https://frontion.news</description>
             <enclosure url="https://frontion.news/podcast/frontion-global-2026-08-27.mp3" length="2097216" type="audio/mpeg" />
-            <ns0:duration>240</ns0:duration>
-            <ns0:episode>1</ns0:episode>
+            <itunes:duration>240</itunes:duration>
+            <itunes:episode>1</itunes:episode>
         </item>
 
         <item>
@@ -449,8 +482,8 @@ The day's defining development was Washington's formal removal of Syria from its
 
 Read the full analysis at https://frontion.news</description>
             <enclosure url="https://frontion.news/podcast/frontion-global-2026-08-26.mp3" length="786240" type="audio/mpeg" />
-            <ns0:duration>153</ns0:duration>
-            <ns0:episode>1</ns0:episode>
+            <itunes:duration>153</itunes:duration>
+            <itunes:episode>1</itunes:episode>
         </item>
         <item>
             <title>Strategic Brief — August 25, 2026: US Pushes Nationwide Arms Embargo on Sudan as Washington Prepares Largest Visa Revocation in History</title>
@@ -478,8 +511,8 @@ Today's developments show Washington escalating on multiple fronts at once: a UN
 
 Read the full analysis at https://frontion.news</description>
             <enclosure url="https://frontion.news/podcast/frontion-global-2026-08-25.mp3" length="1572480" type="audio/mpeg" />
-            <ns0:duration>218</ns0:duration>
-            <ns0:episode>1</ns0:episode>
+            <itunes:duration>218</itunes:duration>
+            <itunes:episode>1</itunes:episode>
         </item>
                         <item>
             <title>Strategic Brief — August 24, 2026: US Readies 'Most Crushing Economic Operation' Against Iran as Tehran Calls Sanctions Support an 'Act of War'</title>
@@ -492,8 +525,8 @@ The defining shift today is Washington's decision to wage economic war on Iran �
 
 Read the full analysis at https://frontion.news</description>
             <enclosure url="https://frontion.news/podcast/frontion-global-2026-08-24.mp3" length="3242930" type="audio/mpeg" />
-            <ns0:duration>539</ns0:duration>
-            <ns0:episode>2</ns0:episode>
+            <itunes:duration>539</itunes:duration>
+            <itunes:episode>2</itunes:episode>
         </item>
 
                 <item>
@@ -507,8 +540,8 @@ The defining development of the day is the collapse of US-Canada talks into a 50
 
 Read the full analysis at https://frontion.news</description>
             <enclosure url="https://frontion.news/podcast/frontion-global-2026-08-23.mp3" length="1449930" type="audio/mpeg" />
-            <ns0:duration>390</ns0:duration>
-            <ns0:episode>3</ns0:episode>
+            <itunes:duration>390</itunes:duration>
+            <itunes:episode>3</itunes:episode>
         </item>
 
 <item>
@@ -522,8 +555,8 @@ The Iran-US war is entering a new phase: Tehran is threatening NATO's European f
 
 Read the full analysis at https://frontion.news</description>
             <enclosure url="https://frontion.news/podcast/frontion-global-2026-08-22.mp3" length="2526768" type="audio/mpeg" />
-            <ns0:duration>306</ns0:duration>
-            <ns0:episode>4</ns0:episode>
+            <itunes:duration>306</itunes:duration>
+            <itunes:episode>4</itunes:episode>
         </item>
 
         <item>
@@ -533,12 +566,12 @@ Read the full analysis at https://frontion.news</description>
             <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
             <description>Iranian sources tell the FT the IRGC has assessed US bases across Europe — including in Bulgaria — as contingency targets if the conflict widens, a move that would drag NATO territory directly into a war so far confined to the Gulf. Separately, Israel struck the Abu al-Duhur airbase in Syria to prevent a Turkish deployment, opening a new Israel-Turkey flashpoint, while Russia killed at least 13 people in a nine-hour barrage on Kyiv.
 
-The defining shift of the day is geographic: Iran&#x27;s reported contingency planning against US bases in Europe would, if realized, turn a Gulf war into a direct challenge to NATO territory and the logistics spine that feeds both that fight and Ukraine. That prospect lands alongside a new Israel-Turkey confrontation over Syria — Israel bombing the Abu al-Duhur base to block a Turkish deployment and drawing an unusual public rebuke from Washington — a brutal Russian strike on Kyiv, a Gulf conflict now fought largely through sanctions and trade cutoffs, and mounting strain in the West Bank and Sudan. The wars that began in the Middle East and Eastern Europe are showing clear signs of merging — with Turkey&#x27;s expanding Syria role and Europe&#x27;s hollowed-out air defenses as the vulnerable hinges.
+The defining shift of the day is geographic: Iran's reported contingency planning against US bases in Europe would, if realized, turn a Gulf war into a direct challenge to NATO territory and the logistics spine that feeds both that fight and Ukraine. That prospect lands alongside a new Israel-Turkey confrontation over Syria — Israel bombing the Abu al-Duhur base to block a Turkish deployment and drawing an unusual public rebuke from Washington — a brutal Russian strike on Kyiv, a Gulf conflict now fought largely through sanctions and trade cutoffs, and mounting strain in the West Bank and Sudan. The wars that began in the Middle East and Eastern Europe are showing clear signs of merging — with Turkey's expanding Syria role and Europe's hollowed-out air defenses as the vulnerable hinges.
 
 Read the full analysis at https://frontion.news</description>
             <enclosure url="https://frontion.news/podcast/frontion-global-2026-08-21.mp3" length="4019060" type="audio/mpeg" />
-            <ns0:duration>669</ns0:duration>
-            <ns0:episode>5</ns0:episode>
+            <itunes:duration>669</itunes:duration>
+            <itunes:episode>5</itunes:episode>
         </item>
     </channel>
 </rss>
