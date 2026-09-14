@@ -6,8 +6,43 @@
     <link>https://frontion.news/tech</link>
     <atom:link href="https://frontion.news/tech/tech-feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
-    <lastBuildDate>Sun, 13 Sep 2026 04:34:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 03:04:09 GMT</lastBuildDate>
     <ttl>60</ttl>
+<item>
+<title>Tech Brief: Trump Backs Off AI Guardrails With 'Whoever Wins AI Wins' as Japan's Fujitsu Moves Into AI Chip Exports</title>
+<link>https://frontion.news/tech/2026-09-14</link>
+<description>President Trump downplayed the need to check AI development during a weekend trip to Ireland, pushing back against Anthropic's call for a slowdown, while Fujitsu said it will start exporting AI semiconductors built on Fugaku supercomputer technology to the US and Asia as early as next year.
+
+► AI Governance: Trump Pushes Against Guardrails, Amodei Calls for Brakes
+US President Donald Trump on Sunday played down the need for his administration to check AI development, telling reporters during a weekend trip to Ireland that he worried about ceding America's edge to China and that winning the race matters most.
+Why it matters: Trump's framing reframes US AI policy around a zero-sum race with China, suggesting Washington will resist safety-first regulation even as industry leaders raise alarms — a signal for both domestic rulemaking and how the US talks to allies about shared governance frameworks.
+
+► Japan Enters the AI Chip Export Market
+Fujitsu will begin exporting AI semiconductors developed with technology used in its Fugaku supercomputer to the US and Asia as early as next year, according to Nikkei Asia.
+Why it matters: A second non-US, non-Chinese supplier line entering AI inference silicon diversifies the compute base at a moment when chip export controls and 'sovereign AI' demand are reshaping who can supply training and inference hardware.
+
+► Beijing Pushes Agentic AI Into Chip Design
+China is accelerating efforts to fold AI directly into semiconductor design software as part of its self-sufficiency drive.
+Why it matters: If AI-assisted EDA meaningfully compresses design cycles, it could blunt one of China's biggest constraints under export controls — access to advanced design tools — by making domestic tooling faster and more capable, a quiet but strategic part of the self-sufficiency push.
+
+► China Memory R&amp;D: Ferroelectric Breakthrough Targets Next-Gen Chips
+Chinese researchers say they have overcome a key reliability barrier in an emerging memory technology.
+Why it matters: This is an R&amp;amp;D result, not a shipping product, but it shows Chinese labs actively competing on the materials science that underpins next-generation memory — the same memory space where Chinese chipmaker CXMT has been gaining share and pricing power.
+
+► AI Infrastructure: Chinese Optical Transceiver Makers Dodge US Blacklist
+The US Federal Communications Commission (FCC) published its final decision on updates to its equipment authorisation rules, easing market anxiety over potential bans on Chinese optical transceivers, per SCMP.
+Why it matters: Chinese suppliers hold a commanding position in optical transceivers, a layer of AI infrastructure Washington has been scrutinising. Leaving transceivers off the blacklist signals that, for now, US export controls are focused on compute and design tools rather than the connectivity gear inside data centres.
+
+► China AI Capital: Z.ai Eyes Another ~$5B Raise
+Z. ai (Zhipu AI), the Hong Kong-listed Chinese AI model developer, is seeking to raise about HK$15. 7 billion (US$2 billion) through a placement of roughly 21. 97 million new H shares at HK$714 apiece, plus a 20.
+Why it matters: Repeated multi-billion-dollar raises underline the capital intensity of frontier-model development in China even as valuations swing sharply, showing Beijing's leading AI labs burn cash at Silicon Valley scale to keep pace in the model race.
+
+■ The Bottom Line
+The day's tech-power news clustered around the AI race's two axes. Trump doubled down on unregulated US AI development, framing it as a head-to-head with China and pushing back on Anthropic's call for a slowdown. Japan added a new thread to the hardware picture, with Fujitsu preparing to export AI chips built on Fugaku technology. Inside China, the self-sufficiency drive advanced on multiple fronts: agentic AI is compressing EDA design cycles, researcher...</description>
+<category>Technology</category>
+<pubDate>Mon, 14 Sep 2026 00:00:00 GMT</pubDate>
+<guid>tech-2026-09-14</guid>
+</item>
 <item>
 <title>Tech Brief: South Korea Turns Chip-Secret Theft Into a National-Security Crime as Memory War Heats Up</title>
 <link>https://frontion.news/tech/2026-09-13</link>
@@ -1013,41 +1048,6 @@ The day's developments center on two fronts: China's mineral leverage over Japan
 <category>Technology</category>
 <pubDate>Sun, 16 Aug 2026 00:00:00 GMT</pubDate>
 <guid>tech-2026-08-16</guid>
-</item>
-<item>
-<title>Tech Brief: China's Z.ai and DeepSeek Push New Frontier Models as US Weighs Sanctions on Open-Weight AI</title>
-<link>https://frontion.news/tech/2026-08-15</link>
-<description>Chinese AI labs released two new frontier-class models this week — Z.ai's GLM-5.3 and DeepSeek's V4 Pro — while Washington debates restricting Chinese open-weight AI, and chipmakers SMIC and Applied Materials signal the AI boom is still lifting prices and revenue.
-
-► China's AI Model Wave: Z.ai GLM-5.3 and DeepSeek V4 Pro
-Chinese AI startup Z. ai released GLM-5. 3 on Friday, a model the company says rivals Anthropic's Claude Mythos on coding and security performance, according to Nikkei Asia.
-Why it matters: China's open-weight labs are now shipping models that claim to match US frontier performance at a fraction of the cost, sharpening the policy dilemma in Washington over whether to restrict access to Chinese AI.
-
-► Semiconductor Pricing Holds Firm as AI Demand Spills Over
-China's top contract chipmaker SMIC said the AI boom is driving massive demand for peripheral AI chips and that there is 'no chance' it will lower prices despite weak smartphone and auto markets, Nikkei Asia reports.
-Why it matters: Pricing power and record equipment earnings show the AI buildout is still expanding capacity faster than export controls are constraining it — the controls are shaping, not stopping, the market.
-
-► CXMT Becomes China's Most Valuable Company
-Chinese memory chipmaker CXMT surpassed Tencent by market capitalization to become the most valuable company listed on the mainland or in Hong Kong, Nikkei Asia reported Thursday.
-Why it matters: A Chinese memory maker overtaking Tencent in market value signals how much investor capital is now concentrated in the chip self-sufficiency drive — and how a memory shortage is handing China's domestic suppliers real commercial entry.
-
-► New Mirai Variant 'Evooo1Bot' Adds Stealth to IoT Botnet Code
-Researchers at FortiGuard Labs disclosed a previously undocumented Mirai variant, dubbed Evooo1Bot, that has been exploiting vulnerabilities in internet-facing hardware for at least a month, The Record reported Thursday.
-Why it matters: A decade after Mirai's source code leaked, its descendants keep evolving beyond DDoS into stealthier, proxy-based access tools — a reminder that unpatched IoT hardware remains a persistent entry point into critical networks.
-
-► Japan Moves on AI Safeguards and Open-Source Chip Design
-Japan's government is preparing comprehensive AI measures including stricter disclosure requirements for generative AI, Nikkei Asia reports, as model capabilities advance.
-Why it matters: Japan is pairing regulatory guardrails with an open-source chip strategy — a bid to build domestic capability and set standards without matching US or Chinese scale.
-
-► India's Battery Materials Bet Outruns Its Cell-Making Plans
-Indian chemical companies pouring billions of rupees into lithium-ion battery materials plants are facing a lack of domestic customers, after Chinese restrictions on technology transfers delayed cell manufacturing, Nikkei Asia reports.
-Why it matters: India's battery strategy is building upstream capacity faster than downstream cell production, exposing how dependent the cell stage remains on Chinese technology despite subsidy-driven localization efforts.
-
-■ The Bottom Line
-The week's defining development is China's open-weight AI push: Z.ai's GLM-5.3 and DeepSeek's V4 Pro both claim frontier-class performance, landing squarely in the middle of Washington's debate over whether to sanction or ban Chinese AI models. Meanwhile the semiconductor buildout keeps defying export-control expectations — SMIC holds pricing power, Applied Materials posts record revenue with China still growing, and CXMT's market value now tops Tencent. The pattern is consistent: controls are shaping the market but not stopping it, and China's domestic AI and chip ecosystem is converting the AI boom into commercial momentum.</description>
-<category>Technology</category>
-<pubDate>Sat, 15 Aug 2026 00:00:00 GMT</pubDate>
-<guid>tech-2026-08-15</guid>
 </item>
   </channel>
 </rss>
