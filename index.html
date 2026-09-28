@@ -307,8 +307,19 @@
         /* RESPONSIVE */
         @media (max-width: 768px) {
             .container { padding: 0 16px; }
-            nav { flex-wrap: wrap; gap: 12px; }
-            .nav-links { display: none; }
+            nav { flex-wrap: wrap; gap: 10px; }
+            .nav-right { flex-wrap: wrap; width: 100%; justify-content: flex-start; gap: 8px; }
+            .nav-links {
+                display: flex;
+                flex-wrap: wrap;
+                order: 3;
+                width: 100%;
+                gap: 14px;
+                margin-top: 2px;
+                border-top: 1px solid #e5e5e5;
+                padding-top: 10px;
+            }
+            .nav-links a { font-size: 11px; letter-spacing: 1px; }
             .hero { margin-top: 32px; padding: 40px 0 36px; }
             .hero-title { font-size: 30px; }
             .hero-excerpt { font-size: 15px; }
