@@ -220,6 +220,81 @@ def one_sentence(s: str, limit: int = 240) -> str:
     return s
 
 
+# ---------------------------------------------------------------------------
+# İÇERİK FİLTRESİ (Alperen kararı, 2026-09-28)
+# Spor / magazin / yaşam tarzı / yerel haberler AKIŞA GİRMEZ.
+# Sadece jeopolitik, güvenlik, ekonomi, enerji, teknoloji, diplomasi değeri olan
+# haberler alınır. Kaynak değil, İÇERİK bazlı filtre.
+# ---------------------------------------------------------------------------
+
+# 0) ÖZEL İSTİSNA: spor görünümlü ama jeopolitik anlam taşıyan haberler
+# (protesto, boykot, siyasi mesaj, savaş/çatışma bağlamı) → her zaman kabul
+GEOPOLITICAL_SPORT_PATTERNS = [
+    r"\b(refuse[sd]? (to shake|handshakes?)|handshakes?|boycott|black armbands?|protest|banned? from|political (message|protest)|kneel|anthem)\b",
+    r"\b(nations league|uefa|fifa|olympic)\b.{0,80}\b(israel|israeli|russia|belarus|iran|gaza|palestin|ukrain|taiwan|hong kong)\b",
+    r"\b(israel|israeli|russia|belarus|iran|gaza|palestin|ukrain|taiwan|hong kong)\b.{0,80}\b(nations league|uefa|fifa|olympic)\b",
+    r"\b(israel|israeli|palestin|gaza)\b.{0,80}\b(nations league|uefa|match|game|football|soccer|armband|anthem|protest)\b",
+]
+
+# 1) Bu kalıplar başlık/özet içinde geçerse: kesin eleme (güçlü spor-magazin sinyali)
+BLOCK_PATTERNS = [
+    # magazin / ünlü
+    r"\b(kardashian|taylor swift|beyonce|beyoncé|madonna|mtv|vmas?|grammy|oscars?|academy awards|box office|hollywood|celebrity|red carpet|netflix|disney\+?|hbo|box-office|film festival|paparazzi|k-?pop|bts\b)\b",
+    r"\b(fashion week|milan fashion|paris fashion|runway|met gala|haute couture)\b",
+    # spor
+    r"\b(premier league|la liga|champions league|uefa|nations league|world cup|euro \d{4}|nba|nfl|mlb|nhl|fifa|olympic|olympics|wimbledon|grand slam|formula 1|f1 grand prix|super bowl|play-?action fakes?|touchdown|quarterback|pitcher|home run|test match|ashes)\b",
+    r"\b(football(er)?s?|soccer|basketball|baseball|tennis|golf|boxing|ufc|match(es)?\b.*\b(beat|win|won|draw|lose|lost)|hat-?trick|goal scorer|midfielder|striker|coach(es)? (sack|fired))\b",
+    # yaşam tarzı / tüketim / sağlık-magazin
+    r"\b(savings account|fixed-?rate|mortgage rates?|credit card|personal finance|how much is in your|best deals?|shopping|black friday|discount|voucher|coupon|recipe|diet\b|weight loss|fitness tips|celebrity chef|tv show|reality show|soap opera|streaming (show|series)|binge|video game review|console war)\b",
+    r"\b(horoscope|zodiac|royal family|meghan|harry and meghan|kate middleton|prince (harry|william)|king charles|paparazzi)\b",
+    r"\b(travel (tips|deals|guide)|holiday (deals|destinations)|flight deals|hotel deals|tourism (tips|guide)|best beaches|cheap flights)\b",
+    r"\bweather (forecast|warning|outlook)\b|\bnor'?easter\b|\btyphoon (warning|signal)\b",
+]
+
+# 2) Bu kalıplar geçerse: kesin KABUL (jeopolitik/stratejik değer — bloklamadan muaf)
+ALLOW_PATTERNS = [
+    r"\b(war|ceasefire|strike[s]?|missile|drone|airstrike|invasion|offensive|front ?line|troops|military|army|navy|air ?force|nato|defence|defense|weapons?|arms? (deal|sale)|sanctions?|embargo)\b",
+    r"\b(iran|israel|gaza|houthi|yemen|hezbollah|hamas|ukraine|russia|putin|zelensky|china|taiwan|beijing|xi jinping|north korea|kim jong|nuclear|iaea|hormuz|red sea|bab al-?mandab)\b",
+    r"\b(trump|biden|white house|pentagon|state department|kremlin|eu\b|european union|united nations|security council|diplomat|treaty|summit|g7|g20|brics|opec)\b",
+    r"\b(oil|gas|lng|pipeline|refinery|crude|opec|energy (crisis|security|supply)|electricity grid|nuclear (plant|power)|renewables?|hydrogen)\b",
+    r"\b(inflation|interest rate|central bank|fed\b|ecb\b|recession|gdp|tariff|trade war|stock market|bond|currency|default|imf|world bank|supply chain)\b",
+    r"\b(semiconductor|chip[s]?\b|ai\b|artificial intelligence|quantum|cyber(attack|security|war)?|data breach|satellite|space (race|launch)|starlink|export control)\b",
+    r"\b(terror(ism|ist)?|insurgen|militant|extremis|hostage|coup|protest|uprising|crackdown|martial law|refugee|migration (crisis|policy)|border (dispute|clash))\b",
+    r"\b(türkiye|turkey|erdogan|erdoğan|ankara|istanbul|cyprus|aegean|armenia|azerbaijan|syria|iraq|lebanon|saudi|emirates|qatar|egypt|libya|africa|sahel|sudan|drc|congo|venezuela|brazil|argentina|mexico|india|pakistan|afghanistan|kashmir|israeli|palestinian)\b",
+]
+
+_BLOCK_RE = re.compile("|".join(BLOCK_PATTERNS), re.I)
+_ALLOW_RE = re.compile("|".join(ALLOW_PATTERNS), re.I)
+_GEOSPORT_RE = re.compile("|".join(GEOPOLITICAL_SPORT_PATTERNS), re.I)
+
+
+def is_geopolitical(title: str, summary: str = "") -> bool:
+    """Spor/magazin/yaşam tarzı/yerel haberleri eler.
+    Sıra: (1) jeopolitik-spor istisnası → kabul, (2) blok BAŞLIKTA varsa → ele,
+    (3) ALLOW → kabul, (4) nötr → kabul.
+    Blok kalıbı yalnızca özette geçiyorsa ve ALLOW başlık/özetin herhangi bir
+    yerinde eşleşiyorsa kabul edilir (ör. "Nations League" özette geçen
+    istihbarat haberi).
+    """
+    title = title or ""
+    summary = summary or ""
+    text = f"{title} {summary}".strip()
+    if not text:
+        return False
+    if _GEOSPORT_RE.search(text):
+        return True
+    # Blok başlıkta eşleşiyorsa kesin ele (saf spor/magazin sinyali güçlü)
+    if _BLOCK_RE.search(title):
+        return False
+    # Blok sadece özette ise: ALLOW varsa kabul, yoksa ele
+    if _BLOCK_RE.search(summary):
+        return bool(_ALLOW_RE.search(text))
+    if _ALLOW_RE.search(text):
+        return True
+    # Ne allow ne block: nötr haber (genel politika/ekonomi) → kabul et
+    return True
+
+
 def domain_of(url: str) -> str:
     try:
         host = urlparse(url).netloc.lower()
@@ -310,6 +385,7 @@ def collect():
 
     items = []
     ok_feeds, bad_feeds = [], []
+    blocked = 0
 
     with concurrent.futures.ThreadPoolExecutor(max_workers=12) as pool:
         futures = {pool.submit(fetch_feed, fu): (src, fu) for src, fu in jobs}
@@ -347,10 +423,17 @@ def collect():
                     c = e["content"]
                     raw_summary = c[0].get("value", "") if isinstance(c, list) and c else ""
 
+                summary = one_sentence(raw_summary)
+
+                # İçerik filtresi: spor / magazin / yaşam tarzı / yerel → akışa girmez
+                if not is_geopolitical(title, summary):
+                    blocked += 1
+                    continue
+
                 items.append({
                     "id": make_id(link, title),
                     "title": title,
-                    "summary": one_sentence(raw_summary),
+                    "summary": summary,
                     "source": name,
                     "tier": tier,
                     "link": link,
@@ -359,7 +442,7 @@ def collect():
                     "image": entry_image(e),
                 })
 
-    return items, ok_feeds, bad_feeds
+    return items, ok_feeds, bad_feeds, blocked
 
 
 # ---------------------------------------------------------------------------
@@ -423,8 +506,9 @@ def main():
     old = load_existing()
     old_items = {it["id"]: it for it in (old or {}).get("items", [])} if old else {}
 
-    fresh, ok_feeds, bad_feeds = collect()
+    fresh, ok_feeds, bad_feeds, blocked = collect()
     print(f"  {len(fresh)} ham haber geldi ({len(ok_feeds)} feed OK, {len(bad_feeds)} feed hatalı)")
+    print(f"  İçerik filtresi: {blocked} spor/magazin/yaşam tarzı/yerel haber elendi")
 
     # id bazlı dedupe — en yenisi kazanır
     merged = {}
