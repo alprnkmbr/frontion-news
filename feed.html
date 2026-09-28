@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>News Feed — Frontion News</title>
+    <meta name="description" content="Live news feed — Tier-1 and Tier-2 geopolitical headlines, continuously updated.">
+    <meta property="og:title" content="News Feed — Frontion News">
+    <meta property="og:description" content="Live news feed — Tier-1 and Tier-2 geopolitical headlines, continuously updated.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://frontion.news/feed">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="robots" content="index, follow">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Frontion">
+    <link rel="icon" type="image/png" href="/favicon.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/icon-192.png" sizes="192x192">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@500;600;700&family=Noto+Serif:wght@400;700&display=swap" rel="stylesheet">
+    <script>
+(function(){
+  var dark=false;
+  try{dark=localStorage.getItem('darkMode')==='1'}catch(e){try{dark=document.cookie.indexOf('darkMode=1')!==-1}catch(e2){}}
+  if(!dark&&typeof matchMedia==='function'){try{dark=matchMedia('(prefers-color-scheme:dark)').matches}catch(e){}}
+  if(dark)document.documentElement.classList.add('dark-mode');
+})()
+</script>
+    <style>
+:root {
+    --color-bg: #ffffff;
+    --color-text: #1a1a1a;
+    --color-text-body: #333333;
+    --color-text-secondary: #666666;
+    --color-text-tertiary: #999999;
+    --color-accent: #c41e3a;
+    --color-border: #ddd;
+    --color-border-light: #eee;
+    --color-section-rule: #1a1a1a;
+    --color-card-hover: #fafafa;
+    --color-tier1: #0a66c2;
+    --color-tier2: #7a7a7a;
+    --font-display: 'Playfair Display', 'Noto Serif', Georgia, serif;
+    --font-body: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+    --max-width: 640px;
+}
+html.dark-mode {
+    --color-bg: #0d0d0d;
+    --color-text: #e8e8e8;
+    --color-text-body: #cccccc;
+    --color-text-secondary: #999999;
+    --color-text-tertiary: #666666;
+    --color-accent: #e8445a;
+    --color-border: #333333;
+    --color-border-light: #222222;
+    --color-section-rule: #e8e8e8;
+    --color-card-hover: #141414;
+    --color-tier1: #4d9fe8;
+    --color-tier2: #8a8a8a;
+}
+*, *::before, *::after { margin: 0; padding: 0; box-sizing: border-box; }
+html { font-size: 16px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+body {
+    font-family: var(--font-body);
+    color: var(--color-text);
+    background: var(--color-bg);
+    line-height: 1.6;
+    max-width: 100vw;
+    overflow-x: hidden;
+    padding-bottom: 3rem;
+}
+
+/* ---------- HEADER ---------- */
+.site-header { text-align: center; border-bottom: 3px solid var(--color-section-rule); padding: 1.4rem 1rem 1rem; }
+.site-header a.logo { font-family: var(--font-display); font-size: 2.1rem; font-weight: 700; color: var(--color-text); text-decoration: none; letter-spacing: -0.03em; display: inline-block; }
+.tagline { font-size: 0.72rem; letter-spacing: 0.18em; text-transform: uppercase; color: var(--color-text-secondary); margin-top: 0.35rem; }
+
+/* ---------- NAV ---------- */
+.top-nav { display: flex; justify-content: center; gap: 1.1rem; padding: 0.7rem 1rem; border-bottom: 1px solid var(--color-border-light); flex-wrap: wrap; }
+.top-nav a { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; color: var(--color-text-secondary); text-decoration: none; }
+.top-nav a:hover { color: var(--color-accent); }
+.top-nav a.active { color: var(--color-accent); }
+
+/* ---------- FILTER BAR ---------- */
+.filter-bar {
+    position: sticky; top: 0; z-index: 50;
+    background: var(--color-bg);
+    border-bottom: 1px solid var(--color-border);
+    padding: 0.6rem 0.9rem;
+    display: flex; align-items: center; gap: 0.5rem; flex-wrap: wrap;
+    -webkit-backdrop-filter: saturate(180%) blur(8px);
+    backdrop-filter: saturate(180%) blur(8px);
+}
+html.dark-mode .filter-bar { background: rgba(13,13,13,0.92); }
+.chip {
+    font-size: 0.72rem; font-weight: 600; letter-spacing: 0.03em;
+    padding: 0.35rem 0.75rem; border-radius: 999px;
+    border: 1px solid var(--color-border);
+    background: transparent; color: var(--color-text-secondary);
+    cursor: pointer; white-space: nowrap; transition: all 0.15s;
+}
+.chip:hover { border-color: var(--color-text-secondary); color: var(--color-text); }
+.chip.active { background: var(--color-text); color: var(--color-bg); border-color: var(--color-text); }
+.filter-spacer { flex: 1; }
+.live-dot { width: 7px; height: 7px; border-radius: 50%; background: #22c55e; display: inline-block; margin-right: 0.35rem; animation: pulse 2s infinite; }
+@keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.3; } }
+.updated { font-size: 0.68rem; color: var(--color-text-tertiary); white-space: nowrap; }
+
+/* ---------- FEED ---------- */
+.feed { max-width: var(--max-width); margin: 0 auto; }
+.card {
+    display: flex; gap: 0.85rem;
+    padding: 1rem 1rem 1.1rem;
+    border-bottom: 1px solid var(--color-border-light);
+    border-left: 3px solid transparent;
+    transition: background 0.15s;
+}
+.card:hover { background: var(--color-card-hover); }
+.card.tier1 { border-left-color: var(--color-tier1); }
+.card.tier2 { border-left-color: var(--color-tier2); }
+.card.is-new { animation: fadein 0.6s ease; }
+@keyframes fadein { from { opacity: 0; transform: translateY(-6px); } to { opacity: 1; transform: none; } }
+
+.avatar {
+    flex: 0 0 40px; width: 40px; height: 40px; border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-family: var(--font-display); font-weight: 700; font-size: 0.85rem;
+    color: #fff; background: var(--color-tier1);
+}
+.card.tier2 .avatar { background: var(--color-tier2); }
+
+.card-body { flex: 1; min-width: 0; }
+.card-head { display: flex; align-items: baseline; gap: 0.45rem; flex-wrap: wrap; margin-bottom: 0.15rem; }
+.src-name { font-weight: 700; font-size: 0.82rem; color: var(--color-text); }
+.badge {
+    font-size: 0.6rem; font-weight: 700; letter-spacing: 0.06em;
+    padding: 0.08rem 0.4rem; border-radius: 3px;
+    color: #fff; background: var(--color-tier1); vertical-align: middle;
+}
+.badge.t2 { background: var(--color-tier2); }
+.dot-sep { color: var(--color-text-tertiary); font-size: 0.75rem; }
+.time { font-size: 0.72rem; color: var(--color-text-tertiary); }
+
+.card-title { font-family: var(--font-display); font-weight: 700; font-size: 1.02rem; line-height: 1.35; margin: 0.2rem 0 0.25rem; color: var(--color-text); }
+.card-title a { color: inherit; text-decoration: none; }
+.card-title a:hover { color: var(--color-accent); }
+.card-summary { font-size: 0.86rem; color: var(--color-text-body); line-height: 1.5; margin-bottom: 0.4rem; }
+.card-link { font-size: 0.74rem; color: var(--color-text-secondary); text-decoration: none; display: inline-flex; align-items: center; gap: 0.25rem; }
+.card-link:hover { color: var(--color-accent); text-decoration: underline; }
+
+.card-thumb { flex: 0 0 116px; width: 116px; height: 76px; border-radius: 8px; overflow: hidden; background: var(--color-border-light); }
+.card-thumb img { width: 100%; height: 100%; object-fit: cover; display: block; }
+
+.load-more { display: block; margin: 1.6rem auto; padding: 0.7rem 2rem; font-family: var(--font-body); font-size: 0.8rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; color: var(--color-text); background: transparent; border: 1.5px solid var(--color-border); border-radius: 999px; cursor: pointer; }
+.load-more:hover { border-color: var(--color-text); }
+.empty { text-align: center; color: var(--color-text-secondary); padding: 3rem 1rem; font-size: 0.9rem; }
+
+/* ---------- FOOTER ---------- */
+.site-footer { text-align: center; padding: 2rem 1rem 1rem; border-top: 1px solid var(--color-border-light); font-size: 0.78rem; color: var(--color-text-secondary); margin-top: 1.5rem; }
+.site-footer a { color: var(--color-text-secondary); }
+.dark-toggle { position: fixed; top: 0.9rem; right: 0.9rem; z-index: 60; width: 34px; height: 34px; border-radius: 50%; background: var(--color-bg); border: 1px solid var(--color-border); display: flex; align-items: center; justify-content: center; cursor: pointer; font-size: 0.95rem; }
+
+/* ---------- MOBILE ---------- */
+@media (max-width: 520px) {
+    .card-thumb { flex: 0 0 92px; width: 92px; height: 62px; }
+    .card-title { font-size: 0.96rem; }
+    .site-header a.logo { font-size: 1.8rem; }
+}
+</style>
+</head>
+<body>
+
+<div class="dark-toggle" id="darkToggle" onclick="toggleDark()" title="Toggle dark mode"><span id="darkIcon">&#9790;</span></div>
+
+<header class="site-header">
+    <a href="/" class="logo">Frontion News</a>
+    <div class="tagline">Live News Feed</div>
+</header>
+
+<nav class="top-nav">
+    <a href="/">Home</a>
+    <a href="/global">Global</a>
+    <a href="/defence">Defence</a>
+    <a href="/energy">Energy</a>
+    <a href="/tech">Tech</a>
+    <a href="/weekly">Weekly</a>
+    <a href="/feed" class="active">News Feed</a>
+</nav>
+
+<div class="filter-bar">
+    <button class="chip active" data-filter="all" onclick="setFilter('all',this)">All</button>
+    <button class="chip" data-filter="tier1" onclick="setFilter('tier1',this)">Tier 1</button>
+    <button class="chip" data-filter="tier2" onclick="setFilter('tier2',this)">Tier 2</button>
+    <button class="chip" data-filter="image" onclick="setFilter('image',this)">With image</button>
+    <div class="filter-spacer"></div>
+    <span class="updated"><span class="live-dot"></span><span id="updatedText">Loading…</span></span>
+</div>
+
+<main class="feed" id="feed">
+    <div class="empty">Loading feed…</div>
+</main>
+
+<button class="load-more" id="loadMore" style="display:none" onclick="showMore()">Load more</button>
+
+<footer class="site-footer">
+    <p>&copy; 2026 Frontion News. All rights reserved.</p>
+    <p style="margin-top:0.3rem"><a href="mailto:contact@frontion.news">Contact</a></p>
+</footer>
+
+<script>
+var ALL_ITEMS = [];
+var FILTER = 'all';
+var SHOWN = 40;
+var STEP = 40;
+var SEEN_IDS = {};
+var FIRST_LOAD = true;
+
+function tierName(t) { return t === 1 ? 'Tier 1' : 'Tier 2'; }
+
+function initials(name) {
+    var parts = name.trim().split(/\s+/);
+    if (parts.length === 1) return parts[0].substring(0, 2).toUpperCase();
+    return (parts[0][0] + parts[1][0]).toUpperCase();
+}
+
+function timeAgo(ts) {
+    var now = Date.now() / 1000;
+    var d = now - ts;
+    if (d < 60) return 'now';
+    if (d < 3600) return Math.floor(d / 60) + 'm ago';
+    if (d < 86400) return Math.floor(d / 3600) + 'h ago';
+    if (d < 604800) return Math.floor(d / 86400) + 'd ago';
+    var dt = new Date(ts * 1000);
+    return dt.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+}
+
+function hostOf(url) {
+    try { return new URL(url).hostname.replace(/^www\./, ''); } catch (e) { return ''; }
+}
+
+function passFilter(it) {
+    if (FILTER === 'all') return true;
+    if (FILTER === 'tier1') return it.tier === 1;
+    if (FILTER === 'tier2') return it.tier === 2;
+    if (FILTER === 'image') return !!it.thumb;
+    return true;
+}
+
+function renderItem(it) {
+    var el = document.createElement('article');
+    el.className = 'card ' + (it.tier === 1 ? 'tier1' : 'tier2');
+    if (!FIRST_LOAD && !SEEN_IDS[it.id]) el.className += ' is-new';
+    SEEN_IDS[it.id] = true;
+
+    var thumbHtml = '';
+    if (it.thumb) {
+        thumbHtml = '<div class="card-thumb"><img loading="lazy" src="' + it.thumb + '" alt=""></div>';
+    }
+
+    el.innerHTML =
+        '<div class="avatar">' + initials(it.source) + '</div>' +
+        '<div class="card-body">' +
+            '<div class="card-head">' +
+                '<span class="src-name">' + escapeHtml(it.source) + '</span>' +
+                '<span class="badge' + (it.tier === 2 ? ' t2' : '') + '">' + tierName(it.tier) + '</span>' +
+                '<span class="dot-sep">·</span>' +
+                '<span class="time">' + timeAgo(it.ts) + '</span>' +
+            '</div>' +
+            '<h2 class="card-title"><a href="' + it.link + '" target="_blank" rel="noopener">' + escapeHtml(it.title) + '</a></h2>' +
+            (it.summary ? '<p class="card-summary">' + escapeHtml(it.summary) + '</p>' : '') +
+            '<a class="card-link" href="' + it.link + '" target="_blank" rel="noopener">' + hostOf(it.link) + ' ↗</a>' +
+        '</div>' + thumbHtml;
+    return el;
+}
+
+function escapeHtml(s) {
+    return String(s == null ? '' : s)
+        .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;').replace(/'/g, '&#39;');
+}
+
+function visibleItems() { return ALL_ITEMS.filter(passFilter); }
+
+function render() {
+    var feed = document.getElementById('feed');
+    var items = visibleItems();
+    var slice = items.slice(0, SHOWN);
+    feed.innerHTML = '';
+    if (!slice.length) {
+        feed.innerHTML = '<div class="empty">No stories match this filter.</div>';
+        document.getElementById('loadMore').style.display = 'none';
+        return;
+    }
+    var frag = document.createDocumentFragment();
+    for (var i = 0; i < slice.length; i++) frag.appendChild(renderItem(slice[i]));
+    feed.appendChild(frag);
+    document.getElementById('loadMore').style.display = items.length > SHOWN ? 'block' : 'none';
+}
+
+function setFilter(f, btn) {
+    FILTER = f;
+    SHOWN = STEP;
+    var chips = document.querySelectorAll('.chip');
+    for (var i = 0; i < chips.length; i++) chips[i].classList.remove('active');
+    if (btn) btn.classList.add('active');
+    render();
+}
+
+function showMore() { SHOWN += STEP; render(); }
+
+function updateStamp() {
+    if (!ALL_ITEMS.length) return;
+    var t = ALL_ITEMS[0].ts;
+    document.getElementById('updatedText').textContent = 'Updated ' + timeAgo(t);
+}
+
+async function loadFeed(silent) {
+    try {
+        var resp = await fetch('feed.json?v=' + Date.now());
+        if (!resp.ok) throw new Error('feed.json ' + resp.status);
+        var data = await resp.json();
+        ALL_ITEMS = (data.items || []).slice().sort(function (a, b) { return b.ts - a.ts; });
+        updateStamp();
+        render();
+        FIRST_LOAD = false;
+    } catch (e) {
+        if (!silent) {
+            document.getElementById('feed').innerHTML = '<div class="empty">Could not load the feed. Retrying…</div>';
+        }
+    }
+}
+
+function toggleDark() {
+    var isDark = document.documentElement.classList.toggle('dark-mode');
+    document.getElementById('darkIcon').innerHTML = isDark ? '&#9788;' : '&#9790;';
+    try { localStorage.setItem('darkMode', isDark ? '1' : '0'); } catch (e) {}
+}
+document.getElementById('darkIcon').innerHTML = document.documentElement.classList.contains('dark-mode') ? '&#9788;' : '&#9790;';
+
+loadFeed(false);
+// Yumuşak yenileme: 60 saniyede bir
+setInterval(function () { loadFeed(true); }, 60000);
+</script>
+</body>
+</html>
