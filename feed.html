@@ -247,8 +247,11 @@ function renderItem(it) {
     // A seçeneği: t.me deep link ile video adayı gönder
     var tgHref = '';
     if (TG_BOT) {
-        var txt = '\uD83C\uDFAC VIDEO ADAYI\n\n' + it.title + '\n\n' + (it.summary || '') +
-                  '\n\nKaynak: ' + it.source + '\n' + it.link;
+        var txt = 'WEB_PUBLISH\n' +
+                  'Başlık: ' + it.title + '\n' +
+                  'Kaynak: ' + it.source + '\n' +
+                  'Link: ' + it.link + '\n' +
+                  'Özet: ' + (it.summary || it.title);
         tgHref = 'https://t.me/' + TG_BOT + '?text=' + encodeURIComponent(txt);
     }
     var vidHtml = tgHref
