@@ -56,9 +56,9 @@ GOOGLEBOT_HOSTS = {"timesofisrael.com", "alarabiya.net", "telegraph.co.uk"}
 
 SOURCES = [
     # ---------------- TIER 1 ----------------
-    {"name": "Reuters", "tier": 1, "feeds": []},
-    {"name": "AP News", "tier": 1, "feeds": [], "hub": "https://apnews.com/hub/ap-top-news"},
-    {"name": "AFP", "tier": 1, "feeds": []},
+    {"name": "Reuters", "tier": 1, "feeds": ["https://news.google.com/rss/search?q=site:reuters.com%20when:2d&ceid=US:en&hl=en-US&gl=US"]},
+    {"name": "AP News", "tier": 1, "feeds": ["https://news.google.com/rss/search?q=site:apnews.com%20when:2d&ceid=US:en&hl=en-US&gl=US"]},
+    {"name": "AFP", "tier": 1, "feeds": ["https://news.google.com/rss/search?q=site:afp.com%20when:2d&ceid=US:en&hl=en-US&gl=US"]},
     {"name": "BBC", "tier": 1, "feeds": [
         "https://feeds.bbci.co.uk/news/world/rss.xml",
         "https://feeds.bbci.co.uk/news/business/rss.xml",
@@ -88,8 +88,8 @@ SOURCES = [
         "https://www.theguardian.com/technology/rss",
     ]},
     {"name": "The Economist", "tier": 1, "feeds": ["https://www.economist.com/the-world-this-week/rss.xml"]},
-    {"name": "Wall Street Journal", "tier": 1, "feeds": []},
-    {"name": "Bloomberg", "tier": 1, "feeds": []},
+    {"name": "Wall Street Journal", "tier": 1, "feeds": ["https://news.google.com/rss/search?q=site:wsj.com%20when:2d&ceid=US:en&hl=en-US&gl=US"]},
+    {"name": "Bloomberg", "tier": 1, "feeds": ["https://news.google.com/rss/search?q=site:bloomberg.com%20when:2d&ceid=US:en&hl=en-US&gl=US"]},
 
     # ---------------- TIER 2 ----------------
     {"name": "TRT World", "tier": 2, "feeds": ["https://www.trtworld.com/feed/rss.xml"]},
@@ -99,7 +99,7 @@ SOURCES = [
     {"name": "SCMP", "tier": 2, "feeds": ["https://www.scmp.com/rss/91/feed"]},
     {"name": "Times of Israel", "tier": 2, "feeds": ["https://www.timesofisrael.com/feed/"]},
     {"name": "Anadolu Agency", "tier": 2, "feeds": ["https://www.aa.com.tr/en/rss/default?cat=guncel"]},
-    {"name": "RT", "tier": 2, "feeds": []},
+    {"name": "RT", "tier": 2, "feeds": ["https://news.google.com/rss/search?q=site:rt.com%20when:2d&ceid=US:en&hl=en-US&gl=US"]},
     {"name": "Defense News", "tier": 2, "feeds": ["https://www.defensenews.com/arc/outboundfeeds/rss/"]},
     {"name": "Sky News", "tier": 2, "feeds": ["https://feeds.skynews.com/feeds/rss/world.xml"]},
     {"name": "CNA", "tier": 2, "feeds": ["https://www.channelnewsasia.com/api/v1/rss-outbound-feed?_format=xml"]},
@@ -107,7 +107,7 @@ SOURCES = [
     {"name": "NHK", "tier": 2, "feeds": ["https://www3.nhk.or.jp/rss/news/cat0.xml"]},
     {"name": "Le Monde", "tier": 2, "feeds": ["https://www.lemonde.fr/en/rss/une.xml"]},
     {"name": "El País", "tier": 2, "feeds": ["https://feeds.elpais.com/mrss-s/pages/ep/site/english.elpais.com/portada"]},
-    {"name": "The Times", "tier": 2, "feeds": []},
+    {"name": "The Times", "tier": 2, "feeds": ["https://news.google.com/rss/search?q=site:thetimes.co.uk%20when:2d&ceid=US:en&hl=en-US&gl=US"]},
     {"name": "The Telegraph", "tier": 2, "feeds": ["https://www.telegraph.co.uk/rss.xml"]},
     {"name": "The Independent", "tier": 2, "feeds": ["https://www.independent.co.uk/news/world/rss"]},
     {"name": "Politico", "tier": 2, "feeds": ["https://rss.politico.com/politics-news.xml"]},
@@ -401,12 +401,18 @@ def collect():
                 if not link:
                     continue
                 # Linkin domaini bilinen bir kaynak mı? Değilse atla.
+                # Google News linkleri news.google.com'dan gelir; bu durumda
+                # kaynak, feed'in tanımlandığı SOURCES girdisinden alınır.
                 known = source_for_url(link)
+                if not known and "news.google.com" in link:
+                    known = (src["name"], src["tier"])
                 if not known:
                     continue
                 name, tier = known
 
                 title = clean_title(e.get("title", ""))
+                # Google News başlıkları "... - Reuters" / " - afp.com" ile biter; temizle
+                title = re.sub(r"\s+[-–]\s+(Reuters|AP News|AP|AFP|afp\.com|wsj\.com|Bloomberg|Reuters\.com|rt\.com|The Times)\s*$", "", title, flags=re.I).strip()
                 if not title:
                     continue
 
