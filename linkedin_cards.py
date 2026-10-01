@@ -417,6 +417,8 @@ if __name__ == "__main__":
     # Parse flags
     source = "brief"
     skip_pages = False
+    page_num_override = None
+    total_pages_override = None
     args = []
     i = 1
     while i < len(sys.argv):
@@ -426,6 +428,12 @@ if __name__ == "__main__":
         elif sys.argv[i] == "--no-pages":
             skip_pages = True
             i += 1
+        elif sys.argv[i] == "--page-num" and i + 1 < len(sys.argv):
+            page_num_override = int(sys.argv[i + 1])
+            i += 2
+        elif sys.argv[i] == "--total-pages" and i + 1 < len(sys.argv):
+            total_pages_override = int(sys.argv[i + 1])
+            i += 2
         else:
             args.append(sys.argv[i])
             i += 1
@@ -448,14 +456,18 @@ if __name__ == "__main__":
 
         if command == "bluf":
             brief = load_brief(date_str)
-            generate_bluf_card(brief, date_str, 1, LINKEDIN_TOTAL_PAGES, source_label, skip_pages=skip_pages)
+            page_num = page_num_override if page_num_override is not None else 1
+            total_pages = total_pages_override if total_pages_override is not None else LINKEDIN_TOTAL_PAGES
+            generate_bluf_card(brief, date_str, page_num, total_pages, source_label, skip_pages=skip_pages)
         elif command == "section":
             section_num = int(args[2])
             brief = load_brief(date_str)
             generate_section_card(brief, date_str, section_num, section_num + 1, len(brief.get("sections", [])) + 2, source_label, skip_pages=skip_pages)
         elif command == "bottomline":
             brief = load_brief(date_str)
-            generate_bottomline_card(brief, date_str, 2, LINKEDIN_TOTAL_PAGES, source_label, skip_pages=skip_pages)
+            page_num = page_num_override if page_num_override is not None else 2
+            total_pages = total_pages_override if total_pages_override is not None else LINKEDIN_TOTAL_PAGES
+            generate_bottomline_card(brief, date_str, page_num, total_pages, source_label, skip_pages=skip_pages)
         else:
             print(f"Unknown command: {command}")
             sys.exit(1)
