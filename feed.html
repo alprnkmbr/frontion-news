@@ -218,8 +218,15 @@ var TG_BOT = 'FrontionNewsBot';  // video onay akışının botu (frontion-bot/b
 // --- Silme (×) / öğrenme altyapısı ---
 // × basınca haber yerel silme servisine POST edilir, hidden.json'a yazılır
 // (kalıcı). fetch_feed.py silinenleri feed'e sokmaz ve onları LLM seçici
-// için negative örnek olarak kullanır. Token yok — servis sadece yerel ağda.
-var DEL_SERVICE = 'http://localhost:8791/hide';
+// için negative örnek olarak kullanır.
+// NOT: Token dosyaya gömülmez (GitHub secret-scanning engeller). Token her
+// cihazin tarayicisinda localStorage'da tutulur; ilk x'te bir kez sorulur.
+var GH = {
+    owner: 'alprnkmbr',
+    repo: 'frontion-news',
+    branch: 'main',
+    path: 'hidden.json'
+};
 
 function initials(name) {
     var parts = String(name).trim().split(/\s+/);
@@ -323,27 +330,82 @@ function render() {
 function showMore() { SHOWN += STEP; render(); }
 
 // ---------------------------------------------------------------------------
-// SILME (x) — yerel servise POST eder (token yok)
+// ---------------------------------------------------------------------------
+// SILME (x) - GitHub Contents API ile hidden.json'a yazar (telefondan da calisir)
 // ---------------------------------------------------------------------------
 
-async function deleteItem(it, cardEl) {
-    if (!confirm('Bu haberi kalici olarak sil?\n\n' + it.title)) return;
+function b64EncodeUnicode(str) {
+    return btoa(unescape(encodeURIComponent(str)));
+}
+function b64DecodeUnicode(str) {
+    return decodeURIComponent(escape(atob(str.replace(/\s/g, ''))));
+}
+function ghApiUrl() {
+    return 'https://api.github.com/repos/' + GH.owner + '/' + GH.repo +
+           '/contents/' + GH.path + '?ref=' + GH.branch;
+}
 
+function ghToken() { try { return localStorage.getItem('frontion_gh_token') || ''; } catch (e) { return ''; } }
+function setGhToken(t) { try { localStorage.setItem('frontion_gh_token', t); } catch (e) {} }
+function promptToken() {
+    var t = prompt('GitHub token (sadece bu cihazin tarayicisinda saklanir, dosyaya yazilmaz):\nFine-grained PAT, sadece frontion-news, Contents: Read and write');
+    if (t && t.trim()) { setGhToken(t.trim()); alert('Token kaydedildi.'); return true; }
+    return false;
+}
+
+async function deleteItem(it, cardEl) {
+    if (!ghToken()) {
+        if (!promptToken()) return;
+    }
+    if (!confirm('Bu haberi kalici olarak sil?\n\n' + it.title)) return;
     var btn = cardEl.querySelector('.del-btn');
     if (btn) { btn.disabled = true; btn.textContent = '...'; }
     try {
-        var resp = await fetch(DEL_SERVICE, {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({
+        // mevcut hidden.json'u oku
+        var cur = { data: { updated: '', count: 0, items: [] }, sha: null };
+        var r = await fetch(ghApiUrl(), {
+            headers: { 'Authorization': 'Bearer ' + ghToken(), 'Accept': 'application/vnd.github+json' },
+            cache: 'no-store'
+        });
+        if (r.ok) {
+            var j = await r.json();
+            cur.data = JSON.parse(b64DecodeUnicode(j.content));
+            cur.sha = j.sha;
+        } else if (r.status !== 404) {
+            throw new Error('okuma ' + r.status);
+        }
+        var store = cur.data || {};
+        if (!Array.isArray(store.items)) store.items = [];
+        if (!store.items.some(function (h) { return h.id === it.id; })) {
+            store.items.unshift({
                 id: it.id,
                 title: it.title,
                 summary: it.summary || '',
                 source: it.source || '',
-                link: it.link || ''
-            })
+                link: it.link || '',
+                deletedAt: new Date().toISOString()
+            });
+        }
+        store.count = store.items.length;
+        store.updated = new Date().toISOString();
+
+        var body = {
+            message: 'hide: ' + it.id,
+            content: b64EncodeUnicode(JSON.stringify(store, null, 2)),
+            branch: GH.branch
+        };
+        if (cur.sha) body.sha = cur.sha;
+
+        var resp = await fetch(ghApiUrl().split('?')[0], {
+            method: 'PUT',
+            headers: { 'Authorization': 'Bearer ' + ghToken(), 'Accept': 'application/vnd.github+json', 'Content-Type': 'application/json' },
+            body: JSON.stringify(body)
         });
-        if (!resp.ok) throw new Error('servis ' + resp.status);
+        if (!resp.ok) {
+            var msg = '';
+            try { msg = (await resp.json()).message || ''; } catch (e) {}
+            throw new Error(resp.status + ' ' + msg);
+        }
         cardEl.classList.add('removing');
         setTimeout(function () {
             ALL_ITEMS = ALL_ITEMS.filter(function (x) { return x.id !== it.id; });
@@ -352,7 +414,7 @@ async function deleteItem(it, cardEl) {
         }, 250);
     } catch (e) {
         if (btn) { btn.disabled = false; btn.textContent = '\u00d7'; }
-        alert('Silinemedi: ' + e.message + '\n\nYerel silme servisi calisiyor mu? (python3 feed_delete_server.py)');
+        alert('Silinemedi: ' + e.message);
     }
 }
 
