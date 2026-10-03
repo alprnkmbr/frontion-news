@@ -398,8 +398,8 @@ async function deleteItem(it, cardEl) {
             try { msg = (await resp.json()).message || ''; } catch (e) {}
             throw new Error(resp.status + ' ' + msg);
         }
-        cardEl.classList.add('removing');
-        setTimeout(function () {
+        HIDDEN_IDS[it.id] = 1;
+        cardEl.classList.add('removing');        setTimeout(function () {
             ALL_ITEMS = ALL_ITEMS.filter(function (x) { return x.id !== it.id; });
             cardEl.remove();
             updateStamp();
@@ -415,12 +415,30 @@ function updateStamp() {
     document.getElementById('updatedText').textContent = 'Updated ' + timeAgo(ALL_ITEMS[0].ts) + ' ago';
 }
 
+var HIDDEN_IDS = {};
+
+async function loadHidden() {
+    // Silinen haberleri feed'den gizlemek icin (sayfa yenilense de gitmis kalsin)
+    try {
+        var r = await fetch('hidden.json?v=' + Date.now(), { cache: 'no-store' });
+        if (r.ok) {
+            var d = await r.json();
+            var m = {};
+            (d.items || []).forEach(function (h) { if (h.id) m[h.id] = 1; });
+            HIDDEN_IDS = m;
+        }
+    } catch (e) {}
+}
+
 async function loadFeed(silent) {
     try {
+        await loadHidden();
         var resp = await fetch('feed.json?v=' + Date.now());
         if (!resp.ok) throw new Error('feed.json ' + resp.status);
         var data = await resp.json();
-        ALL_ITEMS = (data.items || []).slice().sort(function (a, b) { return b.ts - a.ts; });
+        ALL_ITEMS = (data.items || [])
+            .filter(function (x) { return !HIDDEN_IDS[x.id]; })
+            .slice().sort(function (a, b) { return b.ts - a.ts; });
         updateStamp();
         render();
         FIRST_LOAD = false;
