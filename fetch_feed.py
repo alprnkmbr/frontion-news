@@ -28,6 +28,15 @@ import feedparser
 
 ROOT = Path(__file__).resolve().parent
 OUTPUT = ROOT / "feed.json"
+HIDDEN = ROOT / "hidden.json"
+LLM_CACHE = ROOT / ".feed_llm_cache.json"
+
+# --- LLM seçici (yalnızca YENİ item'lar skorlanır) ---
+LLM_ENABLED = True
+LLM_MODEL = "deepseek-v4.1-flash:cloud"
+LLM_MAX_NEW = 60          # tek koşuda skorlanacak maksimum yeni item
+LLM_EXAMPLES = 40         # few-shot için hidden.json'dan alınacak maksimum örnek
+LLM_BATCH = 15            # tek LLM çağrısında skorlanacak item sayısı
 
 # Repo'da tutulacak maksimum haber
 MAX_ITEMS = 300
@@ -359,6 +368,193 @@ def make_id(link: str, title: str) -> str:
 
 
 # ---------------------------------------------------------------------------
+# HIDDEN LIST + LLM SEÇİCİ  (Alperen kararı, 2026-10-03)
+# Feed'de × ile silinen haberler hidden.json'a yazılır (kalıcı).
+# (1) hard filter: hidden'daki id/link eşleşenler feed'e asla girmez.
+# (2) LLM seçici: hidden'daki silinmiş örnekler negative few-shot olarak LLM'e
+#     verilir; yalnızca YENİ item'lar skorlanır, uygun olmayanlar elenir.
+# ---------------------------------------------------------------------------
+
+
+def load_hidden():
+    if not HIDDEN.exists():
+        return []
+    try:
+        data = json.loads(HIDDEN.read_text())
+        if isinstance(data, dict):
+            return data.get("items", []) or []
+        if isinstance(data, list):
+            return data
+    except Exception:
+        pass
+    return []
+
+
+def hidden_keys(items):
+    """hidden kayıtlarından id ve normalize edilmiş link kümesi üretir."""
+    ids, links = set(), set()
+    for h in items:
+        if h.get("id"):
+            ids.add(h["id"])
+        if h.get("link"):
+            links.add(norm_link(h["link"]))
+    return ids, links
+
+
+def norm_link(url: str) -> str:
+    """Linki karşılaştırma için normalize eder (şema/www/query/utile at)."""
+    try:
+        p = urlparse(url or "")
+        host = (p.netloc or "").lower()
+        if host.startswith("www."):
+            host = host[4:]
+        path = (p.path or "").rstrip("/")
+        return f"{host}{path}"
+    except Exception:
+        return (url or "").strip()
+
+
+def load_llm_cache():
+    if LLM_CACHE.exists():
+        try:
+            d = json.loads(LLM_CACHE.read_text())
+            if isinstance(d, dict):
+                return d
+        except Exception:
+            pass
+    return {}
+
+
+def save_llm_cache(cache):
+    # cache'i şişirmemek için ~2500 kayıtla sınırla
+    if len(cache) > 2500:
+        for k in list(cache.keys())[:len(cache) - 2500]:
+            cache.pop(k, None)
+    try:
+        LLM_CACHE.write_text(json.dumps(cache, ensure_ascii=False))
+    except Exception:
+        pass
+
+
+def llm_score_batch(batch, examples):
+    """batch: [{'id','title','summary','source'}]. Döner: {id: True(uygun)/False(elendi)}."""
+    import urllib.request
+    ex_txt = ""
+    for ex in examples:
+        ex_txt += f"- [{ex.get('source','?')}] {ex.get('title','')}\n"
+    if not ex_txt:
+        ex_txt = "(no examples yet)\n"
+
+    lines = ""
+    for i, it in enumerate(batch):
+        lines += f"{i+1}. [{it.get('source','?')}] {it.get('title','')} - {it.get('summary','')[:160]}\n"
+
+    prompt = (
+        "You are the editor of Frontion News, a geopolitical intelligence feed. "
+        "The editor has DELETED the following stories as irrelevant (tabloid / celebrity / sport / lifestyle / local crime / consumer). "
+        "Use them as NEGATIVE examples of what Frontion does NOT want:\n"
+        f"{ex_txt}\n"
+        "Now judge each candidate story below. KEEP = genuine geopolitical / security / defence / energy / tech-power / diplomacy / macro-economics value. "
+        "DROP = tabloid, celebrity, entertainment, sport, lifestyle, consumer, local crime, or otherwise irrelevant to Frontion.\n"
+        "Candidates:\n"
+        f"{lines}\n"
+        'Answer ONLY with a JSON array of decisions, in the same order, e.g. ["KEEP","DROP"]. No other text.'
+    )
+
+    payload = json.dumps({
+        "model": LLM_MODEL,
+        "prompt": prompt,
+        "stream": False,
+        "options": {"temperature": 0},
+    }).encode("utf-8")
+    # localhost'a giderken ortam proxy'lerini atla (cron ortamında 404'e yol açıyordu)
+    opener = urllib.request.build_opener(urllib.request.ProxyHandler({}))
+    endpoints = ("http://127.0.0.1:11434/api/generate",
+                 "http://localhost:11434/api/generate")
+    last_err = None
+    resp = None
+    for attempt in range(3):
+        for endpoint in endpoints:
+            try:
+                req = urllib.request.Request(
+                    endpoint,
+                    data=payload,
+                    headers={"Content-Type": "application/json"},
+                )
+                with opener.open(req, timeout=120) as r:
+                    resp = json.loads(r.read().decode("utf-8"))
+                last_err = None
+                break
+            except Exception as e:
+                last_err = e
+                resp = None
+        if resp is not None:
+            break
+        time.sleep(2)
+    if resp is None:
+        raise last_err
+    text = (resp.get("response") or "").strip()
+    m = re.search(r"\[.*\]", text, re.S)
+    if not m:
+        return {}
+    try:
+        arr = json.loads(m.group(0))
+    except Exception:
+        return {}
+    out = {}
+    for i, dec in enumerate(arr):
+        if i >= len(batch):
+            break
+        out[batch[i]["id"]] = str(dec).strip().upper().startswith("K")
+    return out
+
+
+def llm_filter(items):
+    """Yalnızca cache'te olmayan YENİ item'ları LLM ile skorlar ve kararları cache'e yazar.
+    Döner: (skorlanan_yeni_sayısı, elenen_sayısı)."""
+    if not LLM_ENABLED or not items:
+        return 0, 0
+    cache = load_llm_cache()
+    hidden = load_hidden()
+    examples = list(reversed(hidden))[:LLM_EXAMPLES]
+
+    new = [it for it in items if it.get("id") not in cache][:LLM_MAX_NEW]
+    if not new:
+        return 0, 0
+
+    scored = 0
+    for i in range(0, len(new), LLM_BATCH):
+        chunk = new[i:i + LLM_BATCH]
+        try:
+            decisions = llm_score_batch(chunk, examples)
+        except Exception as e:
+            print(f"  LLM seçici hatası (yeni item'lar korunuyor): {e}")
+            decisions = {}
+        for it in chunk:
+            d = decisions.get(it["id"])
+            if d is None:
+                continue  # karar yok → cache'e yazma, sonra tekrar denenir
+            cache[it["id"]] = bool(d)
+            scored += 1
+    save_llm_cache(cache)
+    return scored, 0
+
+
+def apply_llm_drop(items):
+    """Cache'te DROP işaretli item'ları listeden çıkarır."""
+    if not LLM_ENABLED:
+        return items, 0
+    cache = load_llm_cache()
+    kept, n = [], 0
+    for it in items:
+        if cache.get(it["id"]) is False:
+            n += 1
+            continue
+        kept.append(it)
+    return kept, n
+
+
+# ---------------------------------------------------------------------------
 # FETCH
 # ---------------------------------------------------------------------------
 
@@ -514,7 +710,22 @@ def main():
 
     fresh, ok_feeds, bad_feeds, blocked = collect()
     print(f"  {len(fresh)} ham haber geldi ({len(ok_feeds)} feed OK, {len(bad_feeds)} feed hatalı)")
-    print(f"  İçerik filtresi: {blocked} spor/magazin/yaşam tarzı/yerel haber elendi")
+    print(f"  İçerik filtresi (regex): {blocked} spor/magazin/yaşam tarzı/yerel haber elendi")
+
+    # ---- HIDDEN (hard) filtresi: silinen haberler feed'e asla girmez ----
+    hid_items = load_hidden()
+    hid_ids, hid_links = hidden_keys(hid_items)
+    if hid_ids or hid_links:
+        before = len(fresh)
+        fresh = [it for it in fresh
+                 if it["id"] not in hid_ids and norm_link(it["link"]) not in hid_links]
+        print(f"  Silinenler filtresi: {before - len(fresh)} haber hidden.json nedeniyle elendi")
+
+    # ---- LLM seçici: yalnızca YENİ item'lar skorlanır (hidden örnekleri negative few-shot) ----
+    scored, _ = llm_filter(fresh)
+    fresh, llm_dropped = apply_llm_drop(fresh)
+    if scored or llm_dropped:
+        print(f"  LLM seçici: {scored} yeni haber skorlandı, {llm_dropped} tanesi elendi")
 
     # id bazlı dedupe — en yenisi kazanır
     merged = {}
