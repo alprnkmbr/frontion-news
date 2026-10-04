@@ -1,17 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="tr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <title>Türkiye Brief — Frontion News</title>
-    <meta name="description" content="Turkey geopolitics, economy, and domestic policy briefing.">
-    <meta property="og:title" content="Turkey Brief — Frontion News">
-    <meta property="og:description" content="Turkey geopolitics, economy, and domestic policy briefing.">
+    <meta name="description" content="Türkiye jeopolitiği, ekonomisi ve iç politika brifingi.">
+    <meta property="og:title" content="Türkiye Brief — Frontion News">
+    <meta property="og:description" content="Türkiye jeopolitiği, ekonomisi ve iç politika brifingi.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://frontion.news/turkey">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Turkey Brief — Frontion News">
-    <meta name="twitter:description" content="Turkey geopolitics, economy, and domestic policy briefing.">
+    <meta name="twitter:title" content="Türkiye Brief — Frontion News">
+    <meta name="twitter:description" content="Türkiye jeopolitiği, ekonomisi ve iç politika brifingi.">
     <meta name="robots" content="noindex">
     <meta name="theme-color" content="#ffffff">
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -254,7 +254,7 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
 <body>
 
     <div class="status-bar-bg"></div>
-    <div class="read-settings-toggle" id="readSettingsToggle" onclick="toggleReadSettings()" title="Reading settings">⚙</div>
+    <div class="read-settings-toggle" id="readSettingsToggle" onclick="toggleReadSettings()" title="Okuma ayarları">⚙</div>
     <div class="read-settings-panel" id="readSettingsPanel">
         <label>Text Size <span class="read-settings-value" id="fontSizeValue">100%</span></label>
         <input type="range" id="fontSizeSlider" min="70" max="140" value="100" step="5" oninput="updateReadSettings()">
@@ -263,8 +263,8 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
         <div style="display:flex;justify-content:space-between;font-size:0.65rem;color:var(--color-text-tertiary);margin:-0.5rem 0 1rem;padding:0 2px"><span>Narrow</span><span>Default</span><span>Wide</span></div>
         <label>Text Align</label>
         <div class="read-justify-group">
-            <button class="read-settings-btn active" id="justifyLeft" onclick="setJustify('left')">Left</button>
-            <button class="read-settings-btn" id="justifyJustify" onclick="setJustify('justify')">Justify</button>
+            <button class="read-settings-btn active" id="justifyLeft" onclick="setJustify('left')">Sola</button>
+            <button class="read-settings-btn" id="justifyJustify" onclick="setJustify('justify')">Yasla</button>
         </div>
     </div>
     <div class="dark-toggle" id="darkToggle" onclick="toggleDark()" title="Toggle dark mode">
@@ -288,14 +288,14 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
             <button class="timeline-arrow" id="nextBtn" onclick="shiftTimeline(1)">→</button>
         </div>
         <div id="content">
-            <p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading Türkiye Brief…</p>
+            <p style="text-align:center;color:var(--color-muted);padding:3rem 0">Türkiye Brief yükleniyor…</p>
         </div>
     </main>
 
     <footer class="site-footer">
         <div class="footer-inner">
-            <p>&copy; 2026 Frontion News. All rights reserved.</p>
-            <p style="margin-top:0.3rem"><a href="/">&#8592; Back to Frontion News</a></p>
+            <p>&copy; 2026 Frontion News. Tüm hakları saklıdır.</p>
+            <p style="margin-top:0.3rem"><a href="/">&#8592; Frontion News'e dön</a></p>
         </div>
     </footer>
 
@@ -308,7 +308,7 @@ var readSettingsOpen = false;
 
 function formatDateShort(iso) {
     var d = new Date(iso + 'T00:00:00');
-    return d.toLocaleDateString('en-US', { month: 'short', day: 'numeric' });
+    return d.toLocaleDateString('tr-TR', { month: 'short', day: 'numeric' });
 }
 
 function renderTimeline() {
@@ -342,13 +342,13 @@ function selectDate(index) {
 
 function loadBrief(dateSlug) {
     var container = document.getElementById('content');
-    container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Loading Türkiye Brief…</p>';
+    container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Türkiye Brief yükleniyor…</p>';
     
     fetch('turkey/' + dateSlug + '.json?v=' + Date.now())
       .then(function(r) { return r.json(); })
       .then(function(brief) {
         var dateObj = new Date(brief.date + 'T00:00:00');
-        var dateStr = dateObj.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' });
+        var dateStr = dateObj.toLocaleDateString('tr-TR', { month: 'long', day: 'numeric', year: 'numeric' });
         
         var heroHtml = '';
         if (brief.heroImage) {
@@ -356,20 +356,20 @@ function loadBrief(dateSlug) {
         }
         var html = heroHtml + '<h1 class="brief-headline">' + brief.title + '</h1>' +
           '<div class="brief-subhead">' + brief.subhead + '</div>' +
-          '<div class="brief-meta"><time datetime="' + brief.date + '">' + dateStr + '</time> · Frontion News Türkiye Strategic Analysis</div>';
+          '<div class="brief-meta"><time datetime="' + brief.date + '">' + dateStr + '</time> · Frontion News Türkiye Stratejik Analizi</div>';
         
         brief.sections.forEach(function(sec, i) {
           if (i > 0) html += '<hr class="section-divider">';
           html += '<div class="analysis-section"><h2 class="section-heading">' + sec.heading + '</h2>' +
             '<div class="section-body">' + sec.body + '</div>' +
-            '<div class="why-it-matters"><strong>Why it matters</strong> — ' + sec.whyItMatters + '</div></div>';
+            '<div class="why-it-matters"><strong>Neden önemli</strong> — ' + sec.whyItMatters + '</div></div>';
         });
         
         if (brief.bottomLine) {
-          html += '<div class="bottom-line"><div class="bottom-line-kicker">Bottom Line</div><div class="bottom-line-body"><p>' + brief.bottomLine + '</p></div></div>';
+          html += '<div class="bottom-line"><div class="bottom-line-kicker">Sonuç</div><div class="bottom-line-body"><p>' + brief.bottomLine + '</p></div></div>';
         }
         if (brief.sources) {
-          html += '<div style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid var(--color-border-light);"><div style="font-family:var(--font-body);font-size:0.72rem;font-weight:700;letter-spacing:0.18em;text-transform:uppercase;color:var(--color-text-tertiary);margin-bottom:0.5rem;">Sources</div><div style="font-family:var(--font-serif);font-size:0.85rem;line-height:1.6;color:var(--color-text-tertiary);">' + brief.sources + '</div></div>';
+          html += '<div style="margin-top:2rem;padding-top:1.5rem;border-top:1px solid var(--color-border-light);"><div style="font-family:var(--font-body);font-size:0.72rem;font-weight:700;letter-spacing:0.18em;text-transform:uppercase;color:var(--color-text-tertiary);margin-bottom:0.5rem;">Kaynaklar</div><div style="font-family:var(--font-serif);font-size:0.85rem;line-height:1.6;color:var(--color-text-tertiary);">' + brief.sources + '</div></div>';
         }
         
         requestAnimationFrame(function() {
@@ -380,7 +380,7 @@ function loadBrief(dateSlug) {
         });
       })
       .catch(function(err) {
-        container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load Türkiye Brief for this date.</p>';
+        container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Bu tarih için Türkiye Brief yüklenemedi.</p>';
       });
 }
 
@@ -394,11 +394,11 @@ fetch('turkey/index.json?v=' + Date.now())
       renderTimeline();
       loadBrief(briefs[0].date);
     } else {
-      document.getElementById('content').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">No Türkiye Brief available yet.</p>';
+      document.getElementById('content').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Henüz Türkiye Brief yok.</p>';
     }
   })
   .catch(function(err) {
-    document.getElementById('content').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Unable to load Türkiye Brief index.</p>';
+    document.getElementById('content').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Türkiye Brief dizini yüklenemedi.</p>';
   });
 
 // ============ READING SETTINGS ============
