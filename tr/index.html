@@ -1,0 +1,476 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>Frontion News Türkçe — Türkiye ve Dünya Gündemi</title>
+    <meta name="description" content="Türkiye ve dünyadan stratejik analiz. Gündem, Ekonomi, Savunma ve Spor brief'leri her gün güncellenir.">
+    <meta property="og:title" content="Frontion News Türkçe — Türkiye ve Dünya Gündemi">
+    <meta property="og:description" content="Türkiye ve dünyadan stratejik analiz. Gündem, Ekonomi, Savunma ve Spor brief'leri her gün güncellenir.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://frontion.news/tr">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Frontion News — Strategic Intelligence, Delivered Daily">
+    <meta name="twitter:description" content="Türkiye ve dünyadan stratejik analiz. Gündem, Ekonomi, Savunma ve Spor brief'leri her gün güncellenir.">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#fafafa">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <meta name="apple-mobile-web-app-title" content="Frontion">
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+    <link rel="icon" type="image/png" href="/favicon.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="/icon-192.png" sizes="192x192">
+    <link rel="icon" type="image/png" href="/icon-512.png" sizes="512x512">
+    <link rel="alternate" type="application/rss+xml" title="Frontion News" href="feed.xml">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@400;500;600;700&display=swap">
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            background: #fafafa;
+            color: #1a1a1a;
+            font-family: 'Inter', sans-serif;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1080px;
+            margin: 0 auto;
+            padding: 0 24px;
+        }
+
+        /* NAV */
+        nav {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 20px 0;
+            border-bottom: 3px solid #c41e3a;
+        }
+        .logo {
+            font-family: 'Playfair Display', serif;
+            font-size: 2.6rem;
+            font-weight: 700;
+            letter-spacing: -0.03em;
+            color: #1a1a1a;
+            text-decoration: none;
+            line-height: 1.1;
+        }
+        .nav-right {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+        .nav-links {
+            display: flex;
+            gap: 20px;
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+        }
+        .nav-links a {
+            color: #888;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+        .nav-links a:hover { color: #1a1a1a; }
+        .nav-links a[href="/global"]:hover { color: #888; }
+        .nav-links a[href="/defence"]:hover { color: #dc2626; }
+        .nav-links a[href="/energy"]:hover { color: #16a34a; }
+        .nav-links a[href="/tech"]:hover { color: #2563eb; }
+        .nav-links a[href="/finance"]:hover { color: #ca8a04; }
+        .nav-links a[href="/weekly"]:hover { color: #7c3aed; }
+        .youtube-btn {
+            background: #FF0000;
+            color: #fafafa;
+            padding: 7px 18px;
+            border: none;
+            font-family: 'Inter', sans-serif;
+            font-size: 11px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            cursor: pointer;
+            transition: background 0.2s;
+            text-decoration: none;
+            margin-right: 8px;
+            border-radius: 3px;
+        }
+        .youtube-btn:hover { background: #cc0000; }
+
+        .subscribe-btn {
+            display: inline-flex;
+            align-items: center;
+            gap: 7px;
+            background: #0A66C2;
+            color: #fafafa;
+            padding: 6px 13px 6px 6px;
+            border: none;
+            border-radius: 16px;
+            font-family: 'Inter', sans-serif;
+            font-size: 11px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            cursor: pointer;
+            text-decoration: none;
+            transition: background 0.2s;
+        }
+        .subscribe-btn .li-badge {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 20px;
+            height: 20px;
+            border-radius: 4px;
+            background: #fafafa;
+            flex: 0 0 auto;
+        }
+        .subscribe-btn .li-badge svg {
+            width: 15px;
+            height: 15px;
+            display: block;
+            fill: #0A66C2;
+        }
+            text-decoration: none;
+            white-space: nowrap;
+        }
+        .subscribe-btn:hover { background: #004182; }
+
+        /* DATE BAR */
+        .date-bar {
+            display: flex;
+            justify-content: space-between;
+            padding: 10px 0;
+            font-size: 11px;
+            color: #999;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            border-bottom: 1px solid #e5e5e5;
+        }
+
+        .secondary-item.soon { opacity: 0.62; }
+        .secondary-item.soon .secondary-title { color: #999; }
+        .secondary-item.feed-card { border-left: 4px solid #c41e3a; padding-left: 16px; }
+        /* HERO */
+        .hero {
+            margin-top: 48px;
+            padding: 64px 0 56px;
+            border-bottom: 1px solid #e5e5e5;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+        .hero-category {
+            font-size: 11px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 2.5px;
+            color: #999;
+            margin-bottom: 18px;
+        }
+        .hero-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 44px;
+            font-weight: 700;
+            line-height: 1.12;
+            color: #1a1a1a;
+            margin-bottom: 20px;
+            max-width: 700px;
+        }
+        .hero-title a {
+            color: #1a1a1a;
+            text-decoration: none;
+            transition: color 0.2s;
+        }
+        .hero-title a:hover { color: #555; }
+        .hero-image {
+            max-width: 90%;
+            margin: 0 auto 24px;
+            border-radius: 2px;
+        }
+        .hero-image img {
+            width: 100%;
+            height: auto;
+            display: block;
+            border-radius: 2px;
+        }
+        .hero-excerpt {
+            font-size: 17px;
+            line-height: 1.7;
+            color: #555;
+            max-width: 620px;
+            margin-bottom: 26px;
+            text-align: justify;
+            text-align-last: center;
+        }
+        .hero-link {
+            font-size: 12px;
+            font-weight: 700;
+            color: #1a1a1a;
+            text-decoration: none;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            border-bottom: 2px solid #1a1a1a;
+            padding-bottom: 3px;
+            transition: color 0.2s, border-color 0.2s;
+        }
+        .hero-link:hover { color: #555; border-color: #555; }
+
+        /* SECONDARY STORIES */
+        .secondary {
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr;
+            gap: 0;
+            margin-top: 40px;
+        }
+        .secondary-item {
+            padding: 18px 0;
+            border-bottom: 1px solid #e5e5e5;
+            cursor: pointer;
+            transition: background 0.15s;
+        }
+        .secondary-item:hover { background: #f5f5f5; }
+        .secondary-item:hover .secondary-title { color: #1a1a1a; }
+        .secondary-col {
+            padding: 0 18px;
+            border-right: 1px solid #e5e5e5;
+        }
+        .secondary-col:first-child { padding-left: 0; }
+        .secondary-col:last-child { padding-right: 0; border-right: none; }
+        .secondary-cat {
+            font-size: 10px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            margin-bottom: 8px;
+        }
+        .cat-global { color: #888; }
+        .cat-defence { color: #dc2626; }
+        .cat-energy { color: #16a34a; }
+        .cat-tech { color: #2563eb; }
+        .cat-finance { color: #ca8a04; }
+        .secondary-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 20px;
+            font-weight: 700;
+            color: #333;
+            line-height: 1.3;
+            transition: color 0.2s;
+        }
+        .secondary-excerpt {
+            font-size: 13px;
+            color: #777;
+            line-height: 1.5;
+            margin-top: 6px;
+            display: -webkit-box;
+            -webkit-line-clamp: 3;
+            -webkit-box-orient: vertical;
+            overflow: hidden;
+        }
+        .secondary-hint {
+            font-size: 12px;
+            color: #999;
+            margin-top: 6px;
+        }
+        .secondary-date {
+            font-size: 11px;
+            color: #bbb;
+            margin-top: 4px;
+        }
+
+        /* FOOTER */
+        footer {
+            margin-top: 64px;
+            padding: 24px 0;
+            border-top: 2px solid #c41e3a;
+            display: flex;
+            justify-content: space-between;
+            font-size: 11px;
+            color: #999;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+        footer a { color: #888; text-decoration: none; }
+        footer a:hover { color: #1a1a1a; }
+
+        /* LOADING STATE */
+        .loading {
+            text-align: center;
+            color: #999;
+            padding: 3rem 0;
+            font-size: 14px;
+            letter-spacing: 0.5px;
+        }
+
+        /* RESPONSIVE */
+        @media (max-width: 768px) {
+            .container { padding: 0 16px; }
+            nav { flex-wrap: wrap; gap: 10px; }
+            .nav-right { flex-wrap: wrap; width: 100%; justify-content: flex-start; gap: 8px; }
+            .nav-links {
+                display: flex;
+                flex-wrap: wrap;
+                order: 3;
+                width: 100%;
+                gap: 14px;
+                margin-top: 2px;
+                border-top: 1px solid #e5e5e5;
+                padding-top: 10px;
+            }
+            .nav-links a { font-size: 11px; letter-spacing: 1px; }
+            .hero { margin-top: 32px; padding: 40px 0 36px; }
+            .hero-title { font-size: 30px; }
+            .hero-excerpt { font-size: 15px; }
+            .secondary { grid-template-columns: 1fr; }
+            .secondary-col { padding: 0; border-right: none; }
+            footer { flex-direction: column; gap: 8px; text-align: center; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <a href="/tr" class="logo">Frontion News</a>
+            <div class="nav-right">
+                <div class="nav-links">
+                    <a href="/tr/gundem">Gündem</a>
+                    <a href="/tr/feed">Haber Akışı</a>
+                </div>
+                <a href="https://youtube.com/@frontionnews?si=8FdfFBz4GDyg6vZD" target="_blank" rel="noopener" class="youtube-btn">▶ YouTube</a>
+                <a href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7510047689506713601" target="_blank" rel="noopener" class="subscribe-btn" title="Subscribe on LinkedIn" aria-label="Subscribe on LinkedIn"><span class="li-badge"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.02-3.04-1.85-3.04-1.85 0-2.13 1.45-2.13 2.94v5.67H9.35V9h3.42v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.07 2.07 0 1 1 0-4.14 2.07 2.07 0 0 1 0 4.14zM7.12 20.45H3.55V9h3.57v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.72v20.56C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.72V1.72C24 .77 23.2 0 22.22 0z"/></svg></span>Subscribe</a>
+            </div>
+        </nav>
+
+        <div class="date-bar">
+            <span id="dateDisplay"></span>
+            <span>Türkiye ve Dünya Gündemi, Her Gün</span>
+        </div>
+
+        <!-- HERO -->
+        <div class="hero" id="heroSection">
+            <div class="hero-category" id="heroCategory">Gündem</div>
+            <div class="hero-image" id="heroImage" style="display:none;"><img id="heroImg" src="" alt="" /></div>
+            <h1 class="hero-title" id="heroTitle"><a href="/tr/gundem">Yükleniyor…</a></h1>
+            <div class="hero-excerpt" id="heroExcerpt"></div>
+            <a href="/tr/gundem" class="hero-link" id="heroLink">Günün özetini oku →</a>
+        </div>
+
+        <!-- SECONDARY STORIES -->
+        <div class="secondary" id="secondaryGrid">
+            <div class="secondary-col">
+                <a href="/tr/ekonomi" class="secondary-item soon" style="text-decoration:none;display:block;color:inherit;">
+                    <div class="secondary-cat cat-energy">📈 Ekonomi</div>
+                    <div class="secondary-title">Yakında</div>
+                    <div class="secondary-excerpt">Türkiye ekonomisi, piyasalar ve makro veriler.</div>
+                    <div class="secondary-hint">Çok yakında →</div>
+                </a>
+            </div>
+            <div class="secondary-col">
+                <a href="/tr/savunma" class="secondary-item soon" style="text-decoration:none;display:block;color:inherit;">
+                    <div class="secondary-cat cat-defence">🛡️ Savunma</div>
+                    <div class="secondary-title">Yakında</div>
+                    <div class="secondary-excerpt">Savunma sanayii, tedarik ve güvenlik politikaları.</div>
+                    <div class="secondary-hint">Çok yakında →</div>
+                </a>
+            </div>
+            <div class="secondary-col">
+                <a href="/tr/spor" class="secondary-item soon" style="text-decoration:none;display:block;color:inherit;">
+                    <div class="secondary-cat cat-tech">⚽ Spor</div>
+                    <div class="secondary-title">Yakında</div>
+                    <div class="secondary-excerpt">Türk sporunun gündemi ve uluslararası arenada yankıları.</div>
+                    <div class="secondary-hint">Çok yakında →</div>
+                </a>
+            </div>
+        </div>
+
+        <!-- FEED -->
+        <div class="secondary" style="margin-top:0;grid-template-columns:1fr;">
+            <div class="secondary-col">
+                <a href="/tr/feed" class="secondary-item feed-card" style="text-decoration:none;display:block;color:inherit;">
+                    <div class="secondary-cat" style="color:#888">📰 Haber Akışı</div>
+                    <div class="secondary-title">Türkiye ve Dünya'dan Haberler</div>
+                    <div class="secondary-excerpt">Türkçe kaynaklardan derlenen güncel haber akışı — sürekli güncellenir.</div>
+                    <div class="secondary-hint">Haber akışına git →</div>
+                </a>
+            </div>
+        </div>
+
+        <footer>
+            <div>&copy; 2026 Frontion News</div>
+            <div>
+                <a href="mailto:contact@frontion.news">İletişim</a>
+            </div>
+        </footer>
+    </div>
+
+<script>
+// Date display
+(function() {
+    var d = new Date();
+    var opts = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+    document.getElementById('dateDisplay').textContent = d.toLocaleDateString('tr-TR', opts);
+})();
+
+// Brief data paths (Türkçe evren)
+var BRIEF_DIRS = {
+    gundem: '/tr/gundem/',
+};
+
+var CAT_NAMES = {
+    gundem: 'Gündem',
+};
+
+var BRIEF_PAGES = {
+    gundem: '/tr/gundem',
+};
+
+function truncate(s, len) {
+    if (!s) return '';
+    s = s.replace(/<[^>]+>/g, '');
+    return s.length > len ? s.substring(0, len) + '…' : s;
+}
+
+async function loadLatest(category) {
+    var dir = BRIEF_DIRS[category];
+    if (!dir) return null;
+    try {
+        var resp = await fetch(dir + 'index.json?v=' + Date.now());
+        if (!resp.ok) return null;
+        var index = await resp.json();
+        if (!index || index.length === 0) return null;
+        var latest = index[0];
+        var briefResp = await fetch(dir + latest.date + '.json?v=' + Date.now());
+        if (!briefResp.ok) return { index: latest, brief: null };
+        var brief = await briefResp.json();
+        return { index: latest, brief: brief };
+    } catch(e) {
+        console.error('Failed to load ' + category + ':', e);
+        return null;
+    }
+}
+
+async function loadAll() {
+    var gundem = await loadLatest('gundem');
+    if (gundem && gundem.brief) {
+        document.getElementById('heroCategory').textContent = CAT_NAMES.gundem;
+        document.getElementById('heroTitle').innerHTML = '<a href="/tr/gundem">' + gundem.brief.title + '</a>';
+        document.getElementById('heroExcerpt').textContent = truncate(gundem.brief.subhead || gundem.brief.bottomLine || '', 220);
+        document.getElementById('heroLink').href = '/tr/gundem';
+        if (gundem.brief.heroImage) {
+            document.getElementById('heroImg').src = gundem.brief.heroImage;
+            document.getElementById('heroImage').style.display = 'block';
+        }
+    } else if (gundem && gundem.index) {
+        document.getElementById('heroTitle').innerHTML = '<a href="/tr/gundem">' + gundem.index.title + '</a>';
+    }
+}
+
+loadAll();
+</script>
+</body>
+</html>
