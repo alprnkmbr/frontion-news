@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Personal-use pages (also marked noindex in-page)
+Disallow: /feed
+Disallow: /feed-tr
+Disallow: /weekly
+Disallow: /turkeyfeed
+
+# Legacy Turkey archive (kept offline)
+Disallow: /turkey
+
+Sitemap: https://frontion.news/sitemap.xml
