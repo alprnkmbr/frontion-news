@@ -57,3 +57,25 @@ __pycache__/
 *.pyc
 # Feed LLM seçici cache (yerel)
 .feed_llm_cache.json
+.feed_tr_llm_cache.json
+
+# Hero Image Reminder cron'unun oluşturduğu geçici tarihli brief kopyaları
+*-BRIEF-*.json
+
+# Test / deneme artıkları (video botu frame & zoom testleri)
+frame_*.png
+frame_*.jpg
+zoom_*.png
+zoom_*.mp4
+video_*.mp4
+tts_pipeline_test.mp4
+test_pan.py
+test2.txt
+test_read.txt
+test_readback.txt
+test_people.jpg
+test_real_img*.jpg
+last_git.txt
+deploy_log.txt
+linkedin_post.py.bak
+briefs/.write-test.txt
