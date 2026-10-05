@@ -35,7 +35,7 @@ LLM_CACHE = ROOT / ".feed_tr_llm_cache.json"
 # --- LLM seçici (yalnızca YENİ item'lar skorlanır) ---
 LLM_ENABLED = True
 LLM_MODEL = "deepseek-v4.1-flash:cloud"
-LLM_MAX_NEW = 1200
+LLM_MAX_NEW = 60
 LLM_EXAMPLES = 40
 LLM_BATCH = 15
 
