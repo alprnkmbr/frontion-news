@@ -363,11 +363,11 @@
         <!-- SECONDARY STORIES -->
         <div class="secondary" id="secondaryGrid">
             <div class="secondary-col">
-                <a href="/tr/ekonomi" class="secondary-item soon" style="text-decoration:none;display:block;color:inherit;">
+                <a href="/tr/ekonomi" class="secondary-item" style="text-decoration:none;display:block;color:inherit;">
                     <div class="secondary-cat cat-energy">📈 Ekonomi</div>
-                    <div class="secondary-title">Yakında</div>
-                    <div class="secondary-excerpt">Türkiye ekonomisi, piyasalar ve makro veriler.</div>
-                    <div class="secondary-hint">Çok yakında →</div>
+                    <div class="secondary-title" id="ekonomiTitle">Türkiye ekonomisi gündemi</div>
+                    <div class="secondary-excerpt" id="ekonomiExcerpt">TL, enflasyon, TCMB, piyasalar ve makro veriler.</div>
+                    <div class="secondary-hint">Günün özetini oku →</div>
                 </a>
             </div>
             <div class="secondary-col">
@@ -419,14 +419,17 @@
 // Brief data paths (Türkçe evren)
 var BRIEF_DIRS = {
     gundem: '/tr/gundem/',
+    ekonomi: '/tr/ekonomi/',
 };
 
 var CAT_NAMES = {
     gundem: 'Gündem',
+    ekonomi: 'Ekonomi',
 };
 
 var BRIEF_PAGES = {
     gundem: '/tr/gundem',
+    ekonomi: '/tr/ekonomi',
 };
 
 function truncate(s, len) {
@@ -467,6 +470,19 @@ async function loadAll() {
         }
     } else if (gundem && gundem.index) {
         document.getElementById('heroTitle').innerHTML = '<a href="/tr/gundem">' + gundem.index.title + '</a>';
+    }
+
+    // Ekonomi kartı
+    var ekonomi = await loadLatest('ekonomi');
+    if (ekonomi) {
+        var tEl = document.getElementById('ekonomiTitle');
+        var eEl = document.getElementById('ekonomiExcerpt');
+        if (ekonomi.brief) {
+            if (tEl) tEl.textContent = ekonomi.brief.title;
+            if (eEl) eEl.textContent = truncate(ekonomi.brief.subhead || ekonomi.brief.bottomLine || '', 140);
+        } else if (ekonomi.index) {
+            if (tEl) tEl.textContent = ekonomi.index.title;
+        }
     }
 }
 
