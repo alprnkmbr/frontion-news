@@ -17,7 +17,6 @@ BRIEFS = [
     ("briefs",  "global",   "Strategic Brief",            "https://frontion.news"),
     ("defense", "defence",  "Defence & Industry Brief",   "https://frontion.news/defence"),
     ("energy",  "energy",   "Energy & Power Brief",       "https://frontion.news/energy"),
-    ("finance", "finance",  "Finance & Markets Brief",    "https://frontion.news/finance"),
     ("tech",    "tech",     "Tech Brief",                 "https://frontion.news/tech"),
 ]
 

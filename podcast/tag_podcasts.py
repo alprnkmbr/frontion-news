@@ -21,11 +21,6 @@ EPISODES = [
         "track": 2,
     },
     {
-        "prefix": "finance",
-        "title": f"Finance & Markets Brief — July 19, 2026: US Restores Hong Kong Trade Status as Container Rates Surge, Rare Earths Spike, and IEA Warns on Hormuz",
-        "track": 3,
-    },
-    {
         "prefix": "tech",
         "title": f"Tech Brief — July 19, 2026: Iranian Drones Hit AWS Data Centers, SpaceX Buys Cursor for $60B, Alibaba Open-Sources CUDA Rival",
         "track": 4,

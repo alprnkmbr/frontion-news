@@ -157,7 +157,7 @@ with open("podcast/frontion-podcast.rss", 'r') as f:
 
 # Remove items containing our date pattern
 rss_content = re.sub(
-    rf'\n\s*<item>\s*.*?frontion-(?:global|defence|energy|finance|tech)-{DATE}\.mp3.*?</item>\s*',
+    rf'\n\s*<item>\s*.*?frontion-(?:global|defence|energy|tech)-{DATE}\.mp3.*?</item>\s*',
     '',
     rss_content,
     flags=re.DOTALL
@@ -191,7 +191,7 @@ for r in reversed(results):  # reverse so global comes first in final
         <itunes:duration>{r['duration']}</itunes:duration>
         <itunes:explicit>false</itunes:explicit>
     </item>"""
-    new_items = item + new_items  # prepend each so order is: tech, finance, energy, defence, global
+    new_items = item + new_items  # prepend each so order is: tech, energy, defence, global
 
 # Insert after the atom:link line
 insert_after = '<atom:link href="https://frontion.news/podcast/frontion-podcast.rss" rel="self" type="application/rss+xml" />'
@@ -206,7 +206,7 @@ print("RSS updated.")
 # Build new <li> entries for today, inserted at the top of the <ul>
 html_entries = ""
 for r in results:
-    brief_type_short = r["label"].replace("Strategic Brief", "Strategic Brief").replace("Defence & Industry Brief", "Defence & Industry Brief").replace("Energy & Power Brief", "Energy & Power Brief").replace("Finance & Markets Brief", "Finance & Markets Brief").replace("Tech Brief", "Tech Brief")
+    brief_type_short = r["label"].replace("Strategic Brief", "Strategic Brief").replace("Defence & Industry Brief", "Defence & Industry Brief").replace("Energy & Power Brief", "Energy & Power Brief").replace("Tech Brief", "Tech Brief")
     # Map label to short display
     label_display = r["label"]
     desc_html = r["desc"].replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
@@ -228,7 +228,7 @@ with open("podcast/index.html", 'r') as f:
 
 # Remove any existing entries for today's date to prevent duplicates
 html_content = re.sub(
-    rf'\n\s*<li class="episode">\s*.*?frontion-(?:global|defence|energy|finance|tech)-{DATE}\.mp3.*?</li>\s*',
+    rf'\n\s*<li class="episode">\s*.*?frontion-(?:global|defence|energy|tech)-{DATE}\.mp3.*?</li>\s*',
     '\n',
     html_content,
     flags=re.DOTALL

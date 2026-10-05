@@ -28,7 +28,6 @@ SOURCES = {
     "defense": SITE_DIR / "defense",
     "energy": SITE_DIR / "energy",
     "tech": SITE_DIR / "tech",
-    "finance": SITE_DIR / "finance",
     "turkey": SITE_DIR / "turkey",
     "weekly": SITE_DIR / "weekly",
 }
@@ -39,7 +38,6 @@ SOURCE_CARD_PREFIX = {
     "defense": "defense-",
     "energy": "energy-",
     "tech": "tech-",
-    "finance": "finance-",
     "turkey": "turkey-",
     "weekly": "weekly-",
 }
@@ -50,7 +48,6 @@ SOURCE_HEADER = {
     "defense": "Defense Brief",
     "energy": "Energy Brief",
     "tech": "Tech Brief",
-    "finance": "Finance Brief",
     "turkey": "Türkiye Brief",
     "weekly": "Weekly Brief",
 }
@@ -405,7 +402,7 @@ def generate_all_cards(date_str, source=None, skip_pages=False):
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
-        print("Usage: python3 linkedin_cards.py <date> [card_type] [section_num] [--source brief|defense|energy|tech|finance|turkey|weekly] [--no-pages]")
+        print("Usage: python3 linkedin_cards.py <date> [card_type] [section_num] [--source brief|defense|energy|tech|turkey|weekly] [--no-pages]")
         print("  python3 linkedin_cards.py 2026-06-22                            # Generate all cards")
         print("  python3 linkedin_cards.py 2026-06-22 bluf                       # BLUF card only")
         print("  python3 linkedin_cards.py 2026-06-22 section 1                 # Section 1 card only")

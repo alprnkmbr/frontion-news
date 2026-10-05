@@ -32,15 +32,6 @@ EPISODES = [
         "track": 2,
     },
     {
-        "prefix": "finance",
-        "folder": "finance",
-        "label": "Finance & Markets Brief",
-        "url": "https://frontion.news/finance",
-        "duration": "9:28",
-        "size": 4929408,
-        "track": 3,
-    },
-    {
         "prefix": "tech",
         "folder": "tech",
         "label": "Tech Brief",
