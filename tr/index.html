@@ -371,11 +371,11 @@
                 </a>
             </div>
             <div class="secondary-col">
-                <a href="/tr/savunma" class="secondary-item soon" style="text-decoration:none;display:block;color:inherit;">
+                <a href="/tr/savunma" class="secondary-item" style="text-decoration:none;display:block;color:inherit;">
                     <div class="secondary-cat cat-defence">🛡️ Savunma</div>
-                    <div class="secondary-title">Yakında</div>
-                    <div class="secondary-excerpt">Savunma sanayii, tedarik ve güvenlik politikaları.</div>
-                    <div class="secondary-hint">Çok yakında →</div>
+                    <div class="secondary-title" id="savunmaTitle">Türkiye savunma ve güvenlik gündemi</div>
+                    <div class="secondary-excerpt" id="savunmaExcerpt">Savunma sanayii, TSK ve güvenlik politikaları.</div>
+                    <div class="secondary-hint">Günün özetini oku →</div>
                 </a>
             </div>
             <div class="secondary-col">
@@ -420,16 +420,19 @@
 var BRIEF_DIRS = {
     gundem: '/tr/gundem/',
     ekonomi: '/tr/ekonomi/',
+    savunma: '/tr/savunma/',
 };
 
 var CAT_NAMES = {
     gundem: 'Gündem',
     ekonomi: 'Ekonomi',
+    savunma: 'Savunma',
 };
 
 var BRIEF_PAGES = {
     gundem: '/tr/gundem',
     ekonomi: '/tr/ekonomi',
+    savunma: '/tr/savunma',
 };
 
 function truncate(s, len) {
@@ -482,6 +485,19 @@ async function loadAll() {
             if (eEl) eEl.textContent = truncate(ekonomi.brief.subhead || ekonomi.brief.bottomLine || '', 140);
         } else if (ekonomi.index) {
             if (tEl) tEl.textContent = ekonomi.index.title;
+        }
+    }
+
+    // Savunma kartı
+    var savunma = await loadLatest('savunma');
+    if (savunma) {
+        var stEl = document.getElementById('savunmaTitle');
+        var seEl = document.getElementById('savunmaExcerpt');
+        if (savunma.brief) {
+            if (stEl) stEl.textContent = savunma.brief.title;
+            if (seEl) seEl.textContent = truncate(savunma.brief.subhead || savunma.brief.bottomLine || '', 140);
+        } else if (savunma.index) {
+            if (stEl) stEl.textContent = savunma.index.title;
         }
     }
 }

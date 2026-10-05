@@ -3,15 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
-    <title>Ekonomi Brief — Frontion News</title>
-    <meta name="description" content="Türkiye ekonomisi, piyasalar ve makro veriler brifingi.">
-    <meta property="og:title" content="Türkiye Ekonomi Brief — Frontion News">
-    <meta property="og:description" content="Türkiye ekonomisi, piyasalar ve makro veriler brifingi.">
+    <title>Savunma Brief — Frontion News</title>
+    <meta name="description" content="Türkiye savunma, güvenlik ve savunma sanayii brifingi.">
+    <meta property="og:title" content="Türkiye Savunma Brief — Frontion News">
+    <meta property="og:description" content="Türkiye savunma, güvenlik ve savunma sanayii brifingi.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://frontion.news/tr/ekonomi">
+    <meta property="og:url" content="https://frontion.news/tr/savunma">
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:title" content="Türkiye Ekonomi Brief — Frontion News">
-    <meta name="twitter:description" content="Türkiye ekonomisi, piyasalar ve makro veriler brifingi.">
+    <meta name="twitter:title" content="Türkiye Savunma Brief — Frontion News">
+    <meta name="twitter:description" content="Türkiye savunma, güvenlik ve savunma sanayii brifingi.">
     <meta name="robots" content="noindex">
     <meta name="theme-color" content="#ffffff">
     <meta name="apple-mobile-web-app-capable" content="yes">
@@ -274,8 +274,8 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
         <div class="header-inner">
             <a href="/tr" class="logo">Frontion News</a>
             <div class="tagline">
-                <span class="tagline-line tagline-desktop">EKONOMİ</span>
-                <span class="tagline-line tagline-mobile1">EKONOMİ</span>
+                <span class="tagline-line tagline-desktop">SAVUNMA</span>
+                <span class="tagline-line tagline-mobile1">SAVUNMA</span>
                 <span class="tagline-line tagline-mobile2">BRIEF</span>
             </div>
         </div>
@@ -288,7 +288,7 @@ html.dark-mode .dark-toggle { background: var(--color-bg); }
             <button class="timeline-arrow" id="nextBtn" onclick="shiftTimeline(1)">→</button>
         </div>
         <div id="content">
-            <p style="text-align:center;color:var(--color-muted);padding:3rem 0">Türkiye Ekonomi Brief yükleniyor…</p>
+            <p style="text-align:center;color:var(--color-muted);padding:3rem 0">Türkiye Savunma Brief yükleniyor…</p>
         </div>
     </main>
 
@@ -342,9 +342,9 @@ function selectDate(index) {
 
 function loadBrief(dateSlug) {
     var container = document.getElementById('content');
-    container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Türkiye Ekonomi Brief yükleniyor…</p>';
+    container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Türkiye Savunma Brief yükleniyor…</p>';
     
-    fetch('ekonomi/' + dateSlug + '.json?v=' + Date.now())
+    fetch('savunma/' + dateSlug + '.json?v=' + Date.now())
       .then(function(r) { return r.json(); })
       .then(function(brief) {
         var dateObj = new Date(brief.date + 'T00:00:00');
@@ -380,12 +380,12 @@ function loadBrief(dateSlug) {
         });
       })
       .catch(function(err) {
-        container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Bu tarih için Türkiye Ekonomi Brief yüklenemedi.</p>';
+        container.innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Bu tarih için Türkiye Savunma Brief yüklenemedi.</p>';
       });
 }
 
 // Load index
-fetch('ekonomi/index.json?v=' + Date.now())
+fetch('savunma/index.json?v=' + Date.now())
   .then(function(r) { return r.json(); })
   .then(function(data) {
     briefs = data;
@@ -394,11 +394,11 @@ fetch('ekonomi/index.json?v=' + Date.now())
       renderTimeline();
       loadBrief(briefs[0].date);
     } else {
-      document.getElementById('content').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Henüz Türkiye Ekonomi Brief yok.</p>';
+      document.getElementById('content').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Henüz Türkiye Savunma Brief yok.</p>';
     }
   })
   .catch(function(err) {
-    document.getElementById('content').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Türkiye Ekonomi Brief dizini yüklenemedi.</p>';
+    document.getElementById('content').innerHTML = '<p style="text-align:center;color:var(--color-muted);padding:3rem 0">Türkiye Savunma Brief dizini yüklenemedi.</p>';
   });
 
 // ============ READING SETTINGS ============
