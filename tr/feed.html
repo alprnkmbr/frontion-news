@@ -211,7 +211,7 @@ var SEEN_IDS = {};
 var FIRST_LOAD = true;
 
 // Video adayı göndermek için Telegram bot kullanıcı adı (A seçeneği: t.me deep link)
-var TG_BOT = 'FrontionNewsBot';  // video onay akışının botu (frontion-bot/bot.py ile aynı bot)
+var TG_BOT = 'FrontionFutbolTR_bot';  // TR video onay akışının botu (bot_tr.py ile aynı bot)
 
 // --- Silme (×) / öğrenme altyapısı ---
 // × basınca hidden.json'a yazılır (kalıcı). fetch_feed.py silinenleri feed'e
@@ -284,7 +284,7 @@ function renderItem(it) {
         tgHref = 'https://t.me/' + TG_BOT + '?text=' + encodeURIComponent(txt);
     }
     var vidHtml = tgHref
-        ? '<a class="vid-btn" href="' + tgHref + '" target="_blank" rel="noopener" title="Send to Telegram for video approval">\u25B6 Video</a>'
+        ? '<a class="vid-btn" href="' + tgHref + '" target="_blank" rel="noopener" title="Video onayı için Telegram'a gönder">\u25B6 Video</a>'
         : '<a class="vid-btn" href="' + it.link + '" target="_blank" rel="noopener">\u25B6 Video</a>';
 
     el.innerHTML =
