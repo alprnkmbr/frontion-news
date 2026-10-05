@@ -379,11 +379,11 @@
                 </a>
             </div>
             <div class="secondary-col">
-                <a href="/tr/spor" class="secondary-item soon" style="text-decoration:none;display:block;color:inherit;">
+                <a href="/tr/spor" class="secondary-item" style="text-decoration:none;display:block;color:inherit;">
                     <div class="secondary-cat cat-tech">⚽ Spor</div>
-                    <div class="secondary-title">Yakında</div>
-                    <div class="secondary-excerpt">Türk sporunun gündemi ve uluslararası arenada yankıları.</div>
-                    <div class="secondary-hint">Çok yakında →</div>
+                    <div class="secondary-title" id="sporTitle">Türk sporu gündemi</div>
+                    <div class="secondary-excerpt" id="sporExcerpt">Millî takımlar, Süper Lig ve uluslararası arenadaki yankılar.</div>
+                    <div class="secondary-hint">Günün özetini oku →</div>
                 </a>
             </div>
         </div>
@@ -421,18 +421,21 @@ var BRIEF_DIRS = {
     gundem: '/tr/gundem/',
     ekonomi: '/tr/ekonomi/',
     savunma: '/tr/savunma/',
+    spor: '/tr/spor/',
 };
 
 var CAT_NAMES = {
     gundem: 'Gündem',
     ekonomi: 'Ekonomi',
     savunma: 'Savunma',
+    spor: 'Spor',
 };
 
 var BRIEF_PAGES = {
     gundem: '/tr/gundem',
     ekonomi: '/tr/ekonomi',
     savunma: '/tr/savunma',
+    spor: '/tr/spor',
 };
 
 function truncate(s, len) {
@@ -498,6 +501,19 @@ async function loadAll() {
             if (seEl) seEl.textContent = truncate(savunma.brief.subhead || savunma.brief.bottomLine || '', 140);
         } else if (savunma.index) {
             if (stEl) stEl.textContent = savunma.index.title;
+        }
+    }
+
+    // Spor kartı
+    var spor = await loadLatest('spor');
+    if (spor) {
+        var spTEl = document.getElementById('sporTitle');
+        var spEEl = document.getElementById('sporExcerpt');
+        if (spor.brief) {
+            if (spTEl) spTEl.textContent = spor.brief.title;
+            if (spEEl) spEEl.textContent = truncate(spor.brief.subhead || spor.brief.bottomLine || '', 140);
+        } else if (spor.index) {
+            if (spTEl) spTEl.textContent = spor.index.title;
         }
     }
 }
