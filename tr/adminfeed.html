@@ -261,7 +261,9 @@ function logoSlug(name) {
         .replace(/\./g, '')
         .replace(/\s+/g, '-')
         .replace(/[áàâ]/g, 'a').replace(/[éèê]/g, 'e').replace(/[íìî]/g, 'i')
-        .replace(/[óòô]/g, 'o').replace(/[úùû]/g, 'u').replace(/ñ/g, 'n');
+        .replace(/[óòô]/g, 'o').replace(/[úùû]/g, 'u').replace(/ñ/g, 'n')
+        .replace(/ı/g, 'i').replace(/ş/g, 's').replace(/ğ/g, 'g')
+        .replace(/ü/g, 'u').replace(/ö/g, 'o').replace(/ç/g, 'c');
 }
 
 function renderItem(it) {
@@ -291,7 +293,7 @@ function renderItem(it) {
     el.innerHTML =
         '<button class="del-btn" type="button" title="Bu haberi sil" aria-label="Sil">\u00d7</button>' +
         '<div class="card-head">' +
-            '<img class="avatar" src="feed/logos/' + logoSlug(it.source) + '.png" alt="" onerror="this.style.display=\'none\'">' +
+            '<img class="avatar" src="/feed/logos/' + logoSlug(it.source) + '.png" alt="" onerror="this.style.display=\'none\'">' +
             '<span class="src-name">' + escapeHtml(it.source) + '</span>' +
             '<span class="dot-sep">·</span>' +
             '<span class="time">' + timeAgo(it.ts) + '</span>' +
