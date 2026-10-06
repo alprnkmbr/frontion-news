@@ -104,19 +104,6 @@ html.dark-mode .status-strip { background: rgba(13,13,13,0.94); }
 }
 .card.removing { opacity: 0; transform: translateX(24px); }
 
-/* Sil butonu (x) */
-.del-btn {
-    position: absolute; top: 0.6rem; right: 0.55rem;
-    width: 28px; height: 28px; border-radius: 50%;
-    display: flex; align-items: center; justify-content: center;
-    font-size: 1.05rem; line-height: 1; font-weight: 400;
-    color: var(--color-text-tertiary);
-    background: var(--color-bg); border: 1px solid var(--color-border-light);
-    cursor: pointer; opacity: 0; transition: all 0.15s; z-index: 5;
-}
-.card:hover .del-btn { opacity: 1; }
-.del-btn:hover { color: #fff; background: var(--color-accent); border-color: var(--color-accent); }
-.del-btn:disabled { opacity: 0.4; cursor: default; }
 .card:hover { background: var(--color-card-hover); }
 .card.is-new { animation: fadein 0.6s ease; }
 @keyframes fadein { from { opacity: 0; transform: translateY(-6px); } to { opacity: 1; transform: none; } }
@@ -139,20 +126,10 @@ html.dark-mode .status-strip { background: rgba(13,13,13,0.94); }
 .card-image { width: 100%; border-radius: 10px; overflow: hidden; background: var(--color-border-light); margin-bottom: 0.7rem; border: 1px solid var(--color-border-light); }
 .card-image img { width: 100%; display: block; aspect-ratio: 16 / 9; object-fit: cover; }
 
-/* Alt satır: kaynak linki + video butonu */
+/* Alt satır: kaynak linki */
 .card-foot { display: flex; align-items: center; justify-content: space-between; gap: 0.5rem; }
 .card-link { font-size: 0.74rem; color: var(--color-text-secondary); text-decoration: none; }
 .card-link:hover { color: var(--color-accent); text-decoration: underline; }
-.vid-btn {
-    display: inline-flex; align-items: center; gap: 0.32rem;
-    font-family: var(--font-body); font-size: 0.7rem; font-weight: 600;
-    letter-spacing: 0.04em; text-transform: uppercase;
-    padding: 0.32rem 0.7rem; border-radius: 999px;
-    border: 1px solid var(--color-border); background: transparent;
-    color: var(--color-text-secondary); text-decoration: none; white-space: nowrap;
-    transition: all 0.15s;
-}
-.vid-btn:hover { border-color: var(--color-accent); color: var(--color-accent); }
 
 .load-more { display: block; margin: 1.8rem auto; padding: 0.7rem 2rem; font-family: var(--font-body); font-size: 0.76rem; font-weight: 600; letter-spacing: 0.06em; text-transform: uppercase; color: var(--color-text); background: transparent; border: 1.5px solid var(--color-border); border-radius: 999px; cursor: pointer; }
 .load-more:hover { border-color: var(--color-text); }
@@ -210,25 +187,6 @@ var STEP = 30;
 var SEEN_IDS = {};
 var FIRST_LOAD = true;
 
-// Video adayı göndermek için Telegram bot kullanıcı adı (A seçeneği: t.me deep link)
-var TG_BOT = 'FrontionFutbolTR_bot';  // TR video onay akışının botu (bot_tr.py ile aynı bot)
-
-// --- Silme (×) / öğrenme altyapısı ---
-// × basınca hidden.json'a yazılır (kalıcı). fetch_feed.py silinenleri feed'e
-// sokmaz ve onları LLM seçici için negative örnek olarak kullanır.
-// Token parçalı/base64 tutulur (GitHub secret-scanning düz metni engelliyor).
-var GH = {
-    owner: 'alprnkmbr',
-    repo: 'frontion-news',
-    branch: 'main',
-    path: 'hidden-tr.json'
-};
-var _tk = ['Z2l0aHViX3BhdF8xMUJOVExESEkwVGR',
-           'waHJhWU42elB1X2phdnVZVlRsM3BOS0',
-           '56RTU3Tnl2SGNTRXBtUlM2YWNxMzkyT',
-           'jJBQnF3djkyVVNXSFBYNHhqU09jemVN'];
-function ghToken() { try { return atob(_tk.join('')); } catch (e) { return ''; } }
-
 function initials(name) {
     var parts = String(name).trim().split(/\s+/);
     if (parts.length === 1) return parts[0].substring(0, 2).toUpperCase();
@@ -273,22 +231,7 @@ function renderItem(it) {
         ? '<div class="card-image"><img loading="lazy" src="/' + it.thumb + '" alt=""></div>'
         : '';
 
-    // A seçeneği: t.me deep link ile video adayı gönder
-    var tgHref = '';
-    if (TG_BOT) {
-        var txt = 'WEB_PUBLISH\n' +
-                  'Başlık: ' + it.title + '\n' +
-                  'Kaynak: ' + it.source + '\n' +
-                  'Link: ' + it.link + '\n' +
-                  'Özet: ' + (it.summary || it.title);
-        tgHref = 'https://t.me/' + TG_BOT + '?text=' + encodeURIComponent(txt);
-    }
-    var vidHtml = tgHref
-        ? '<a class="vid-btn" href="' + tgHref + '" target="_blank" rel="noopener" title="Video onayı için Telegram\'a gönder">\u25B6 Video</a>'
-        : '<a class="vid-btn" href="' + it.link + '" target="_blank" rel="noopener">\u25B6 Video</a>';
-
     el.innerHTML =
-        '<button class="del-btn" type="button" title="Bu haberi sil" aria-label="Sil">\u00d7</button>' +
         '<div class="card-head">' +
             '<img class="avatar" src="feed/logos/' + logoSlug(it.source) + '.png" alt="" onerror="this.style.display=\'none\'">' +
             '<span class="src-name">' + escapeHtml(it.source) + '</span>' +
@@ -300,16 +243,8 @@ function renderItem(it) {
         imgHtml +
         '<div class="card-foot">' +
             '<a class="card-link" href="' + it.link + '" target="_blank" rel="noopener">' + hostOf(it.link) + ' \u2197</a>' +
-            vidHtml +
         '</div>';
 
-    var delBtn = el.querySelector('.del-btn');
-    if (delBtn) {
-        delBtn.addEventListener('click', function (ev) {
-            ev.preventDefault(); ev.stopPropagation();
-            deleteItem(it, el);
-        });
-    }
     return el;
 }
 
@@ -330,112 +265,17 @@ function render() {
 
 function showMore() { SHOWN += STEP; render(); }
 
-// ---------------------------------------------------------------------------
-// ---------------------------------------------------------------------------
-// SILME (x) - GitHub Contents API ile hidden.json'a yazar (telefondan da calisir)
-// ---------------------------------------------------------------------------
-
-function b64EncodeUnicode(str) {
-    return btoa(unescape(encodeURIComponent(str)));
-}
-function b64DecodeUnicode(str) {
-    return decodeURIComponent(escape(atob(str.replace(/\s/g, ''))));
-}
-function ghApiUrl() {
-    return 'https://api.github.com/repos/' + GH.owner + '/' + GH.repo +
-           '/contents/' + GH.path + '?ref=' + GH.branch;
-}
-
-async function deleteItem(it, cardEl) {
-    if (!confirm('Bu haberi kalici olarak sil?\n\n' + it.title)) return;
-    var btn = cardEl.querySelector('.del-btn');
-    if (btn) { btn.disabled = true; btn.textContent = '...'; }
-    try {
-        // mevcut hidden.json'u oku
-        var cur = { data: { updated: '', count: 0, items: [] }, sha: null };
-        var r = await fetch(ghApiUrl(), {
-            headers: { 'Authorization': 'Bearer ' + ghToken(), 'Accept': 'application/vnd.github+json' },
-            cache: 'no-store'
-        });
-        if (r.ok) {
-            var j = await r.json();
-            cur.data = JSON.parse(b64DecodeUnicode(j.content));
-            cur.sha = j.sha;
-        } else if (r.status !== 404) {
-            throw new Error('okuma ' + r.status);
-        }
-        var store = cur.data || {};
-        if (!Array.isArray(store.items)) store.items = [];
-        if (!store.items.some(function (h) { return h.id === it.id; })) {
-            store.items.unshift({
-                id: it.id,
-                title: it.title,
-                summary: it.summary || '',
-                source: it.source || '',
-                link: it.link || '',
-                deletedAt: new Date().toISOString()
-            });
-        }
-        store.count = store.items.length;
-        store.updated = new Date().toISOString();
-
-        var body = {
-            message: 'hide: ' + it.id,
-            content: b64EncodeUnicode(JSON.stringify(store, null, 2)),
-            branch: GH.branch
-        };
-        if (cur.sha) body.sha = cur.sha;
-
-        var resp = await fetch(ghApiUrl().split('?')[0], {
-            method: 'PUT',
-            headers: { 'Authorization': 'Bearer ' + ghToken(), 'Accept': 'application/vnd.github+json', 'Content-Type': 'application/json' },
-            body: JSON.stringify(body)
-        });
-        if (!resp.ok) {
-            var msg = '';
-            try { msg = (await resp.json()).message || ''; } catch (e) {}
-            throw new Error(resp.status + ' ' + msg);
-        }
-        HIDDEN_IDS[it.id] = 1;
-        cardEl.classList.add('removing');        setTimeout(function () {
-            ALL_ITEMS = ALL_ITEMS.filter(function (x) { return x.id !== it.id; });
-            cardEl.remove();
-            updateStamp();
-        }, 250);
-    } catch (e) {
-        if (btn) { btn.disabled = false; btn.textContent = '\u00d7'; }
-        alert('Silinemedi: ' + e.message);
-    }
-}
-
 function updateStamp() {
     if (!ALL_ITEMS.length) return;
     document.getElementById('updatedText').textContent = 'Güncellendi: ' + timeAgo(ALL_ITEMS[0].ts) + ' önce';
 }
 
-var HIDDEN_IDS = {};
-
-async function loadHidden() {
-    // Silinen haberleri feed'den gizlemek icin (sayfa yenilense de gitmis kalsin)
-    try {
-        var r = await fetch('/hidden-tr.json?v=' + Date.now(), { cache: 'no-store' });
-        if (r.ok) {
-            var d = await r.json();
-            var m = {};
-            (d.items || []).forEach(function (h) { if (h.id) m[h.id] = 1; });
-            HIDDEN_IDS = m;
-        }
-    } catch (e) {}
-}
-
 async function loadFeed(silent) {
     try {
-        await loadHidden();
         var resp = await fetch('/tr-feed.json?v=' + Date.now());
         if (!resp.ok) throw new Error('/tr-feed.json ' + resp.status);
         var data = await resp.json();
         ALL_ITEMS = (data.items || [])
-            .filter(function (x) { return !HIDDEN_IDS[x.id]; })
             .slice().sort(function (a, b) { return b.ts - a.ts; });
         updateStamp();
         render();
