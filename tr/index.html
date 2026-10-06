@@ -126,6 +126,54 @@
         .secondary-item.soon { opacity: 0.62; }
         .secondary-item.soon .secondary-title { color: #999; }
         .secondary-item.feed-card { border-left: 4px solid #c41e3a; padding-left: 16px; }
+
+        /* FEED BANNER (bülten kartlarının altında yatay kart) */
+        .feed-banner {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            gap: 24px;
+            margin-top: 40px;
+            padding: 22px 28px;
+            border: 1px solid #e5e5e5;
+            border-left: 4px solid #c41e3a;
+            background: #f5f5f5;
+            text-decoration: none;
+            color: inherit;
+            transition: background 0.15s;
+        }
+        .feed-banner:hover { background: #efefef; }
+        .feed-banner-text { display: flex; flex-direction: column; gap: 6px; }
+        .feed-banner-cat {
+            font-size: 10px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 2px;
+            color: #c41e3a;
+        }
+        .feed-banner-title {
+            font-family: 'Playfair Display', serif;
+            font-size: 22px;
+            font-weight: 700;
+            color: #1a1a1a;
+            line-height: 1.25;
+        }
+        .feed-banner-desc {
+            font-size: 13px;
+            color: #777;
+            line-height: 1.5;
+        }
+        .feed-banner-cta {
+            flex-shrink: 0;
+            font-size: 12px;
+            font-weight: 700;
+            text-transform: uppercase;
+            letter-spacing: 1.5px;
+            color: #1a1a1a;
+            border-bottom: 2px solid #1a1a1a;
+            padding-bottom: 3px;
+            white-space: nowrap;
+        }
         /* HERO */
         .hero {
             margin-top: 48px;
@@ -297,6 +345,8 @@
             .hero-title { font-size: 30px; }
             .hero-excerpt { font-size: 15px; }
             .secondary { grid-template-columns: 1fr; }
+            .feed-banner { flex-direction: column; align-items: flex-start; gap: 14px; padding: 20px; }
+            .feed-banner-title { font-size: 19px; }
             .secondary-col { padding: 0; border-right: none; }
             footer { flex-direction: column; gap: 8px; text-align: center; }
         }
@@ -360,12 +410,20 @@
             </div>
         </div>
 
+        <!-- HABER AKIŞI (bülten kartlarının altında yatay kart) -->
+        <a href="/tr/feed" class="feed-banner">
+            <div class="feed-banner-text">
+                <span class="feed-banner-cat">Canlı Akış</span>
+                <span class="feed-banner-title">Haber Akışı</span>
+                <span class="feed-banner-desc">Türkiye ve dünyadan son dakika haberleri — sürekli güncellenen akış.</span>
+            </div>
+            <span class="feed-banner-cta">Akışı Aç →</span>
+        </a>
+
         <footer>
             <div>&copy; 2026 Frontion News</div>
             <div>
                 <a href="/tr/hakkimizda">Hakkımızda</a>
-                &nbsp;·&nbsp;
-                <a href="/tr/feed">Haber Akışı</a>
                 &nbsp;·&nbsp;
                 <a href="mailto:contact@frontion.news">İletişim</a>
             </div>
