@@ -79,3 +79,9 @@ last_git.txt
 deploy_log.txt
 linkedin_post.py.bak
 briefs/.write-test.txt
+
+# tr/podcast medya dosyaları — repoda tutulmaz (çok büyük, GitHub limitini aşar)
+tr/podcast/*.mp4
+tr/podcast/*.m4a
+tr/podcast/*.mp3
+tr/podcast/*.wav
