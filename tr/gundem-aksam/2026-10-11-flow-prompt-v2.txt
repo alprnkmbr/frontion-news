@@ -1,0 +1,121 @@
+FRONTION — TR AKŞAM BÜLTENİ VİDEO PROMPT (Google Flow / Veo) — v2
+Tarih: 11 Ekim 2026
+Amaç: TEK jenerik video üret → loop'a al → her gün aynı video kullanılır
+Format: 16:9 (YATAY), loop-friendly (başı ve sonu görsel olarak uyumlu)
+Süre: 8-15 sn (loop ile tüm podcast boyunca döner)
+
+v2 DEĞİŞİKLİKLERİ (Alperen geri bildirimi, 2026-10-11):
+- Zemin KARANLIK/noir değil → AYDINLIK gazete kağıdı (kırık beyaz/krem).
+- Dedektif/şapkalı gazeteci silueti KALDIRILDI (noir çağrışımı yapıyordu).
+- Ton: karanlık/gergin değil → aydınlık, canlı, bilgilendirici, hafif hicivli.
+- Dekor "gündüz gazetesi" bağlamına çekildi (kahve fincanı, gündem panosu, vs.).
+- Kırmızı vurgu (canlı yayın/nabız) KORUNDU — iyi çalışıyordu.
+
+NOT: Bu video kalıcı kanal kimliğidir — TARİHSİZ. Hergün yeniden üretilmez.
+
+====================================================================
+PROMPT (İngilizce — Flow/Veo için)
+====================================================================
+
+STYLE: Bold black-and-white Turkish editorial cartoon / newspaper engraving
+(Leman / Penguen / Uykusuz daily-press line), thick hand-inked contours,
+heavy cross-hatching, coarse halftone printing grain. BRIGHT, AIRY, LIGHT
+palette — the scene sits on WARM NEWSPRINT PAPER (off-white / cream), NOT a
+dark or noir background. Monochrome ink drawing on light paper, with ONE
+single deep crimson-red accent (#C41E3A). HORIZONTAL 16:9 widescreen landscape
+(vertical portrait framing is WRONG).
+
+SCENE: A bright, cheerful, daytime editorial newsroom / newspaper desk drawn
+as a lively ink cartoon on cream newsprint — NOT dark, NOT moody, NOT noir.
+An open newspaper spread fills much of the frame: bold masthead-style ink
+frames, hand-drawn columns, a hand-inked city skyline of anonymous towers and
+domes along the top dissolving into a light, faint hand-drawn world-map grid
+and thin sketch data-lines drifting gently across the sky (global news /
+financial flows). Scattered loose newspaper pages and fine ink particles float
+softly. Framing decoration in the same bright ink style along the edges: a
+coffee cup with steam, a fountain pen, an inkwell, stacked folded newspapers,
+a vintage typewriter, a small radio/microphone, a pinned "gündem" bulletin
+board. Keep the CENTRE-LEFT area calm and open for a text banner. DO NOT
+include any detective, hat-wearing, trench-coat, mysterious or noir-styled
+figures. If any people appear at all, they must be everyday, neutral,
+anonymous and friendly — e.g. a small crowd of ordinary readers with plain
+silhouettes in a newspaper cartoon — NEVER mysterious, NEVER secretive, no
+faces, no identifiable individuals, no ethnic/national stereotypes, no
+orientalist costuming.
+
+TEXT — must appear ON-SCREEN, permanently visible for the whole clip, in a
+fixed corner banner that does NOT move:
+  - Primary: the exact words  FRONTION TÜRKÇE
+  - Below it: the exact words  GÜNÜN ÖZETİ
+  - Correct Turkish characters. Elegant classic serif typeface (Playfair
+    Display / newspaper masthead feel). Ink-black lettering on the light
+    banner, with ONE thin deep red (#C41E3A) underline rule under the title.
+  - The banner stays static and identical at the start and end of the loop.
+  - NO other readable text anywhere in the frame.
+
+MOTION: very slow, continuous, seamless loop — gentle parallax drift of the
+paper layers, slow soft float of newspaper pages, drifting ink particles, a
+single slowly breathing red radar/pulse dot. Bright, lively, informative,
+lightly satirical, editorial, welcoming. No camera cuts, no snaps, no fast
+motion.
+
+LIGHTING: bright, warm, daylight, cheerful. High-key, lots of paper white.
+Absolutely NOT dark, NOT shadowy, NOT noir, NOT night-time.
+
+NO: dark/moody/noir atmosphere, detectives, fedoras, trench coats, mysterious
+silhouettes, night scenes, photorealistic faces, identifiable people,
+orientalist/Ottoman-style figures, realistic military hardware, detailed flags,
+gore, colour other than the single crimson accent, foreign/incorrect lettering,
+logos, watermarks, fast cuts, hard zooms, vertical portrait framing.
+
+====================================================================
+PROMPT (Türkçe özet — senin okuman için)
+====================================================================
+
+TARZ: Kalın mürekkep konturlu, ağır çapraz taramalı, kaba halftone baskı graini,
+AYDINLIK ve HAVADAR; zemin KOYU değil, SICAK GAZETE KAĞIDI (kırık beyaz/krem)
+üzerine siyah mürekkep çizim. Tek derin kırmızı vurgu (#C41E3A). YATAY 16:9.
+
+SAHNE: Aydınlık, gündüz, neşeli bir gazete/masa sahnesi — noir DEĞİL, karanlık
+DEĞİL. Çerçevenin çoğunu açık bir gazete sayfası kaplar: kalın manşet çerçeveleri,
+elle çizilmiş kolonlar, üstte anonim kule-kubbelerden oluşan mürekkep şehir
+silueti; gökyüzünde soluk dünya haritası ızgarası ve ince veri çizgileri (küresel
+haber/finans akışı). Uçuşan gazete sayfaları ve mürekkep parçacıkları. Kenarlarda
+aydınlık çizgi dilinde basın öğeleri: dumanı tüten kahve fincanı, dolma kalem,
+mürekkep hokkası, katlı gazeteler, daktilo, küçük radyo/mikrofon, raptiyeli
+"gündem" panosu. ORTA-SOL alan yazı banner'ı için sakin/açık bırakılır.
+DEDEKTİ, fötr şapkalı, trençkotlu, gizemli, noir tarzı figür KESİNLİKLE YOK.
+İnsan olacaksa bile gündelik, nötr, anonim ve dostane olsun (ör. düz siluetli
+sıradan gazete okuyucuları) — gizemli DEĞİL. Yüz yok, tanınır kişi yok, etnik
+klişe yok, oryantalist kostüm yok.
+
+YAZI — Klibin TAMAMINDA sürekli görünür, hareket etmeyen sabit köşe banner'ı:
+  - Ana: tam olarak  FRONTION TÜRKÇE
+  - Altında: tam olarak  GÜNÜN ÖZETİ
+  - Doğru Türkçe karakterler. Zarif klasik serif (Playfair Display / gazete
+    manşeti) fontu. Açık banner üzerinde mürekkep siyahı yazı; başlığın altında
+    TEK ince kırmızı çizgi.
+  - Banner sabit; loop başında ve sonunda birebir aynı.
+  - Çerçevede başka okunur yazı YOK.
+
+HAREKET: Çok yavaş, sürekli, kusursuz loop — kağıt katmanlarında hafif paralaks,
+sayfaların yavaş süzülüşü, mürekkep parçacıkları, yavaşça nefes alan tek kırmızı
+nabız noktası. Aydınlık, canlı, bilgilendirici, hafif hicivli, davetkâr.
+
+IŞIK: Aydınlık, sıcak, gündüz, neşeli. Bol kağıt beyazı. Karanlık DEĞİL, gölgeli
+DEĞİL, noir DEĞİL, gece sahnesi DEĞİL.
+
+YASAK: karanlık/noir atmosfer, dedektif, fötr şapka, trençkot, gizemli siluet,
+gece sahnesi, fotogerçekçi yüz, tanınır kişi, oryantalist/Osmanlı figürü,
+gerçekçi askeri teçhizat, detaylı bayrak, kan/vahşet, kırmızı dışında renk,
+yanlış/yabancı harf, logo, watermark, hızlı kesme, sert zoom, dikey format.
+
+====================================================================
+KULLANIM NOTLARI
+====================================================================
+- Yazı videoya GÖMÜLÜ ve kalıcı; her loop dönüşünde birebir aynı.
+- Flow yazıyı bazen bozar: birkaç deneme gerekebilir. Doğru çıkanı sabitle;
+  bir daha video üretilmez (kalıcı jenerik).
+- Stil, Türkçe sitedeki hero image karikatür estetiğiyle uyumlu (Leman/Penguen)
+  — ama bu videoda açık/aydınlık ton tercih edildi (noir değil).
+- Süre: 8-15 sn. Podcast sesi üzerine ffmpeg ile loop'lanır.

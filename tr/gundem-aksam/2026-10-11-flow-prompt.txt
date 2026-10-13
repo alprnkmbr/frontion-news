@@ -1,0 +1,103 @@
+FRONTION — TR AKŞAM BÜLTENİ VİDEO PROMPT (Google Flow / Veo)
+Tarih: 11 Ekim 2026
+Amaç: TEK jenerik video üret → loop'a al → her gün aynı video kullanılır
+Format: 16:9 (YATAY), loop-friendly (başı ve sonu görsel olarak uyumlu)
+Süre: 8-15 sn (loop ile tüm 20 dk'lık podcast boyunca döner)
+
+NOT: Bu video kalıcı kanal kimliğidir — TARİHSİZ. Hergün yeniden üretilmez.
+
+====================================================================
+PROMPT (İngilizce — Flow/Veo için)
+====================================================================
+
+STYLE: Bold black-and-white Turkish editorial cartoon / newspaper engraving
+(Leman / Penguen / Uykusuz daily-press line), thick hand-inked contours,
+heavy cross-hatching, coarse halftone printing grain, aged newsprint texture.
+Monochrome ink palette — deep blacks, warm paper white — with ONE single
+deep crimson-red accent (#C41E3A). Vertical 16:9 is WRONG — this must be
+HORIZONTAL 16:9 widescreen landscape.
+
+SCENE: A generic, evergreen press/broadcast atmosphere — not tied to any
+single news day. A dark editorial newsroom-ish background: an inked city
+skyline of anonymous towers and domes dissolving into a faint hand-drawn
+world-map grid and translucent wireframe data-lines drifting slowly across
+the sky (global news / financial flows). Scattered loose newspaper pages and
+fine ink particles float gently. On the edges/corners, generic press props in
+the same ink style: an inkwell and quill, a fountain pen, stacked folded
+newspapers, a vintage typewriter, a radio/microphone — arranged as framing
+decoration, leaving the CENTRE-LEFT area relatively calm and darker for overlay
+text. Optionally, in the far corners only, faceless anonymous silhouette
+figures (a journalist in a hat, a hand holding a pen) rendered as pure black
+ink silhouettes — NO faces, NO identifiable individuals, NO ethnic/national
+stereotypes, no orientalist costuming whatsoever.
+
+TEXT — must appear ON-SCREEN, permanently visible for the whole clip, in a
+fixed corner banner that does NOT move:
+  - Primary: the exact words  FRONTION TÜRKÇE
+  - Below it: the exact words  GÜNÜN ÖZETİ
+  - Correct Turkish characters. Elegant classic serif typeface (Playfair
+    Display / newspaper masthead feel). Ink-black lettering, with ONE thin
+    deep red (#C41E3A) underline rule under the title.
+  - The banner stays static and identical at the start and end of the loop.
+  - NO other readable text anywhere in the frame.
+
+MOTION: very slow, continuous, seamless loop — gentle parallax drift of the
+background layers, slow float of paper pages, soft drifting ink particles,
+a single slowly breathing red radar/pulse dot. Calm but tense, satirical,
+editorial, serious. No camera cuts, no snaps, no fast motion.
+
+NO: photorealistic faces, identifiable people, orientalist/Ottoman-style
+figures, realistic military hardware, detailed flags, gore, colour other than
+the single crimson accent, foreign/incorrect lettering, logos, watermarks,
+fast cuts, hard zooms, vertical portrait framing.
+
+====================================================================
+PROMPT (Türkçe özet — senin okuman için)
+====================================================================
+
+TARZ: Kalın mürekkep konturlu, ağır çapraz taramalı, kaba halftone baskı graini
+ve eski gazete kağıdı dokulu, siyah-beyaz Türk basın karikatürü (Leman/Penguen).
+Monokrom mürekkep + TEK derin kırmızı vurgu (#C41E3A). YATAY 16:9 (dikey değil!).
+
+SAHNE: Belirli bir güne bağlı olmayan, jenerik ve kalıcı bir "basın/yayın"
+atmosferi. Koyu editoryal arka plan: anonim kule ve kubbelerden oluşan
+mürekkeple çizilmiş şehir silueti, gökyüzünde elle çizilmiş soluk dünya
+haritası ızgarası ve yavaşça kayan yarı şeffaf tel-kafes veri çizgileri
+(küresel haber/finans akışı). Uçuşan gazete sayfaları ve ince mürekkep
+parçacıkları. Kenarlarda/köşelerde aynı çizgi dilinde basın öğeleri: mürekkep
+hokkası ve tüy, dolma kalem, katlı gazete yığınları, daktilo, mikrofon —
+çerçeve süsü olarak dizilir; ORTA-SOL alan görece sakin ve koyu bırakılır
+(yazı için). İsteğe bağlı olarak yalnızca köşelerde yüzsüz, kimliksiz siyah
+mürekkep siluet figürleri (şapkalı gazeteci, kalem tutan el) — YÜZ YOK,
+tanınır kişi YOK, etnik/ulusal klişe YOK, oryantalist kostüm KESİNLİKLE YOK.
+
+YAZI — Klibin TAMAMINDA sürekli görünür, hareket etmeyen sabit köşe banner'ı:
+  - Ana: tam olarak  FRONTION TÜRKÇE
+  - Altında: tam olarak  GÜNÜN ÖZETİ
+  - Doğru Türkçe karakterler. Zarif klasik serif (Playfair Display / gazete
+    manşeti) fontu. Mürekkep siyahı, başlığın altında TEK ince kırmızı çizgi.
+  - Banner sabit; loop'un başında ve sonunda birebir aynı.
+  - Çerçevede başka okunur yazı YOK.
+
+HAREKET: Çok yavaş, sürekli, kusursuz loop — arkaplan katmanlarında hafif
+paralaks, sayfaların yavaş süzülüşü, yüzen mürekkep parçacıkları, yavaşça nefes
+alan tek kırmızı nabız noktası. Sakin ama gergin, hicivli, ciddi. Kesme yok,
+sert kamera hareketi yok.
+
+YASAK: fotogerçekçi yüzler, tanınır kişiler, oryantalist/Osmanlı tarzı figürler,
+gerçekçi askeri teçhizat, detaylı bayrak, kan/vahşet, kırmızı dışında renk,
+yanlış/yabancı harf, logo, watermark, hızlı kesme, sert zoom, dikey format.
+
+====================================================================
+KULLANIM NOTLARI
+====================================================================
+
+- Yazı (FRONTION TÜRKÇE + GÜNÜN ÖZETİ) videoya GÖMÜLÜ ve kalıcı; her loop
+  dönüşünde birebir aynı görünür → kesintisiz döngüde kusursuz.
+- Flow yazıyı bazen bozabilir: birkaç deneme gerekebilir. Doğru çıkanı sabitle;
+  bir daha video üretilmez (kalıcı jenerik).
+- Stil, Türkçe sitedeki hero image karikatür estetiğiyle (Leman/Penguen;
+  monokrom + tek kırmızı) birebir uyumlu; site kimliğiyle aynı görsel dili konuşur.
+- Süre: 8-15 sn. NotebookLM podcast sesi (≈20 dk) üzerine ffmpeg ile bu video
+  loop'lanır.
+- Ses: video sessiz; ses NotebookLM'den gelir.
