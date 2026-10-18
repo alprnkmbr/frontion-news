@@ -38,7 +38,8 @@ tier1-log.md
 sw.js
 .searxng-last-request
 scripts/
-weekly/
+# weekly/*.json ve index.json repoda olmalı (site bunları çeker). Sadece LinkedIn newsletter dosyaları hariç:
+weekly/linkedin-newsletter-*
 .DS_Store
 
 # Eski LinkedIn banner/profil görselleri
