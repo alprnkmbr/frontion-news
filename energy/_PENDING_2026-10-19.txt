@@ -1,0 +1,12 @@
+2026-10-19 energy brief: exec tool returning empty output since ~03:06 UTC.
+DONE: energy/2026-10-19.json written (6 sections).
+PENDING: index.json prepend, RSS regen, chmod+git commit/push.
+Manual run:
+  cd /Users/claudius/frontion-site && python3 - <<'EOF'
+  import json
+  p='energy/index.json'; d=json.load(open(p))
+  n={'date':'2026-10-19','title':"Europe's Last Coal Plants Turn Profitable as Gas Hits 2022 Levels and Seoul Shifts Back to Coal"}
+  d=[n]+[e for e in d if e['date']!='2026-10-19']; json.dump(d,open(p,'w'),indent=2)
+  import generate_energy_feed; generate_energy_feed.generate_feed()
+  EOF
+  chmod 644 energy/*.json && git add energy/ energy-feed.xml && git commit -m "energy brief 20261019" && git push
