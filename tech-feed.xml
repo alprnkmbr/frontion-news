@@ -6,8 +6,43 @@
     <link>https://frontion.news/tech</link>
     <atom:link href="https://frontion.news/tech/tech-feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
-    <lastBuildDate>Sun, 25 Oct 2026 03:03:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 03:11:26 GMT</lastBuildDate>
     <ttl>60</ttl>
+<item>
+<title>Tech Brief: Japan Waives $21B for Two New York Fabs and Keeps None of the Equity, While Washington Takes 7%</title>
+<link>https://frontion.news/tech/2026-10-26</link>
+<description>Japan's money is building two GlobalFoundries plants in Malta, New York — but the US government owns 7% of the operator, Japan owns nothing, and Abu Dhabi's Mubadala still controls the company. A chip alliance where money, equity and authority sit in three different countries.
+
+► Japan funds, Washington owns, Abu Dhabi controls
+GlobalFoundries confirmed on October 14 that Japan will invest up to $21 billion in two chip factories at its Malta, New York site, jointly owned by the US government and Japanese interests and operated by GlobalFoundries, per Reuters.
+Why it matters: Japan is buying supply-chain security with no equity and no operational role, while the US converts old grants into an ownership stake and Abu Dhabi keeps control of the operator.
+
+► GMO asks Japan to fire the first shot under its new cyber defense law — Tokyo hesitates
+GMO Internet Group asked the Japanese government on October 24 to invoke the Active Cyber Defense Law on its behalf after an intrusion that spread far beyond one company.
+Why it matters: Japan's first test of offensive cyber defense is a case the law was not written for: a private company asking the state to counterattack on its behalf, with no public record either way. If Tokyo declines, the deterrent value of a law it spent years building is weakened.
+
+► AI-made attacks are now an infrastructure problem, not a corporate one
+Palo Alto Networks Unit 42 reported that after exploiting the critical PHP2Shell flaws (CVE-2026-109618 and CVE-2026-109619), attackers used agentic AI platforms for post-exploitation — and against a European government entity reached password hashes
+Why it matters: The two stories are the same story: AI compresses the gap between a public vulnerability and a fully compromised identity provider from weeks to hours, and the vulnerable surface is the boring runtime underneath a third of the web. Defenders built alerting for human-paced intrusions.
+
+► Moonshot opens Kimi K3 at 2.8 trillion parameters, and trims its hacking skill
+Moonshot AI unveiled Kimi K3 on Friday, a 2. 8 trillion-parameter model it describes as the largest open-weight system and the first open model to approach the 3 trillion mark, per The Asahi Shimbun.
+Why it matters: A 2. 8-trillion-parameter open-weight model that ranks second behind a US frontier system resets the assumption that open weights trail closed ones by six months. It also makes the export-registration regime a real control point: Beijing is now the gatekeeper for open weights that anyone can download — a position no other government holds.
+
+► SpaceX stops taking new Falcon 9 reservations as Xona builds a GPS alternative
+Prospective satellite operators can reportedly no longer place new commercial reservations for SpaceX's Falcon 9, with officials from about six companies saying separately they were unable to make new bookings, according to MSN/Bing News reporting.
+Why it matters: Launch access is being rationed by the same company that now operates the dominant LEO communications constellation, which puts satellite operators in a position where one vendor's capacity decisions shape what gets into orbit.
+
+► Taiwan builds a rare-earth line while its champion redesigns around the shortage
+Taiwan's Industrial Technology Research Institute plans a rare-earth demonstration plant producing 500 tonnes annually, targeting about half of national demand by end-2030, per the Taipei Times.
+Why it matters: Substitution at the motor level takes years and will not cover demand in the interim, but it is the route that actually ends dependency — unlike stockpiling. Taiwan's 500-tonne target also reframes rare earths from an upstream mining problem to a midstream processing one, where the technical barrier, not the ore, is what China controls.
+
+■ The Bottom Line
+Today's most expensive deal is also the least conventional: Japan is paying up to $21...</description>
+<category>Technology</category>
+<pubDate>Mon, 26 Oct 2026 00:00:00 GMT</pubDate>
+<guid>tech-2026-10-26</guid>
+</item>
 <item>
 <title>Tech Brief: Musk Admits SpaceX Throttled Starlink in Ukraine, Exposing Who Holds the Switch</title>
 <link>https://frontion.news/tech/2026-10-25</link>
@@ -1056,38 +1091,6 @@ Today's real development is political: Washington and Beijing extended the trade
 <category>Technology</category>
 <pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate>
 <guid>tech-2026-09-24</guid>
-</item>
-<item>
-<title>Tech Brief: Alibaba Debuts What It Calls China's Most Powerful AI Chip and a 20-Gigawatt Global Cloud Buildout</title>
-<link>https://frontion.news/tech/2026-09-23</link>
-<description>At its Apsara conference, Alibaba unveiled a flagship AI chip and teased a 10-trillion-parameter model while mapping cloud capacity past 20 GW by 2032 — the clearest signal yet that China's cloud giants are moving to close the domestic compute gap as Trump hosts Xi in Washington this week.
-
-► Alibaba Unveils 'China's Most Powerful' AI Chip and Teases a 10-Trillion-Parameter Model
-At the opening of its annual Apsara Conference in Hangzhou on Tuesday, Alibaba Group unveiled what it called China's most powerful AI chip and outlined plans to train an AI model with up to 10 trillion parameters, according to the South China Morning
-Why it matters: This is the most direct bid yet by a Chinese cloud giant to supply its own training-grade silicon rather than depend on foreign GPUs, and it pairs hardware with an audacious model scale target. It reframes China's domestic-compute push from chip announcements into a full-stack, hyperscale buildout timed right before the Washington summit.
-
-► Semiconductors: Bernstein Says Huawei's Kirin 9050 Pro Narrowed the Gap With Apple to About Three Years
-Equity research firm Bernstein estimated in a note covered by the South China Morning Post that Huawei's new Kirin 9050 Pro smartphone processor — unveiled earlier this month and produced using technology equivalent to roughly a 7-nanometre node — ha
-Why it matters: The narrowing is incremental rather than revolutionary — Huawei is still roughly a generation-plus behind on advanced nodes — but the trajectory matters because it quantifies how quickly Chinese fabs and designers are closing the performance gap despite export controls.
-
-► Hygon Expands From Data Centers Into Robotics and Physical AI
-Chinese chipmaker Hygon Information Technology on Tuesday launched its Hygon 1000 series — a suite of embedded central processing units for robotics and industrial edge devices — marking a push beyond cloud computing into physical AI, per the South C
-Why it matters: China's domestic chip road map is broadening beyond data centers and smartphones into the physical world — robotics, factory floors and edge AI. That widens the surface where domestic architectures can substitute for foreign chips, extending the push for self-reliance into what Beijing has framed as 'physical intelligence. '
-
-► Subsea Cables: NEC Joins Meta's 'Petal' in a Bid for the World's First Petabit-Class US-France Line
-Japanese group NEC is handling design and construction for Meta Platforms' Petal subsea cable project connecting the United States and France, an effort the companies are positioning toward the world's first petabit-class underwater connection as AI 
-Why it matters: Subsea cables are the physical backbone of AI compute, and a petabit-class transatlantic link is a statement of intent about capacity for cross-border model training and data movement.
-
-► Space: Sharp Builds a Multi-Network Antenna to Challenge Starlink's Lock-In
-Sharp plans to develop an antenna that can connect to multiple different satellite communications networks, letting users switch between services rather than depend on specific providers such as SpaceX's Starlink, according to Nikkei Asia on Wednesda
-Why it matters: A universal, multi-network antenna is a direct answer to the proprietary lock-in that defines the satellite-broadband market today, where Starlink dominates. It reflects broader pressure — from governments and enterprises — for choice and resilience in satellite connectivity as constellations multiply.
-
-► Alternative Compute: Amazon Teams With TBC to Train AI on Living Neurons
-Amazon is working with San Francisco startup The Biological Computing Co.
-Why it matters: The deal is a bet on an exotic, early-stage alternative to silicon as the ceiling on conventional GPU training costs and power use comes into view. It is early and unproven, but the involvement of a hyperscaler signals that ...</description>
-<category>Technology</category>
-<pubDate>Wed, 23 Sep 2026 00:00:00 GMT</pubDate>
-<guid>tech-2026-09-23</guid>
 </item>
   </channel>
 </rss>
