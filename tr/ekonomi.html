@@ -189,7 +189,7 @@ html.dark-mode .subtab-dropdown-menu { box-shadow: 0 4px 12px rgba(0,0,0,0.4); }
 
 /* ============ ANALYSIS TAB ============ */
 /* DATE TIMELINE */
-.date-timeline { display: flex; align-items: center; gap: 0.25rem; overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; margin-bottom: 0.5rem; will-change: scroll-position; contain: layout style; }
+.date-timeline { display: flex; align-items: center; gap: 0.25rem; overflow-x: auto; -webkit-overflow-scrolling: touch; scrollbar-width: none; margin-bottom: 0; will-change: scroll-position; contain: layout style; }
 .date-timeline::-webkit-scrollbar { display: none; }
 .timeline-arrow { font-family: var(--font-body); font-size: 1rem; color: var(--color-text-tertiary); background: none; border: 1px solid var(--color-border); border-radius: 4px; padding: 0.25rem 0.5rem; cursor: pointer; flex-shrink: 0; line-height: 1; -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
 .timeline-arrow:hover { border-color: var(--color-text); color: var(--color-text); }
@@ -202,6 +202,7 @@ html.dark-mode .subtab-dropdown-menu { box-shadow: 0 4px 12px rgba(0,0,0,0.4); }
 
 /* HERO IMAGE */
 .hero-image-wrap { margin: 0 auto 1.5rem; max-width: 90%; overflow: hidden; }
+#content { margin-top: 1.25rem; }
 .hero-image { width: 100%; height: auto; display: block; border-radius: 2px; }
 
 /* BRIEF HEADER */
@@ -364,11 +365,7 @@ function loadBrief(dateSlug) {
         var dateObj = new Date(brief.date + 'T00:00:00');
         var dateStr = dateObj.toLocaleDateString('tr-TR', { month: 'long', day: 'numeric', year: 'numeric' });
         
-        var heroHtml = '';
-        if (brief.heroImage) {
-          heroHtml = '<div class="hero-image-wrap"><img src="' + brief.heroImage + '" alt="" class="hero-image" loading="lazy" /></div>';
-        }
-        var html = heroHtml + '<h1 class="brief-headline">' + brief.title + '</h1>' +
+        var html = '<h1 class="brief-headline">' + brief.title + '</h1>' +
           '<div class="brief-subhead">' + brief.subhead + '</div>' +
           '<div class="brief-meta"><time datetime="' + brief.date + '">' + dateStr + '</time> · Frontion News Türkiye Stratejik Analizi</div>';
         
@@ -388,6 +385,15 @@ function loadBrief(dateSlug) {
         
         requestAnimationFrame(function() {
             container.innerHTML = html;
+            if (brief.heroImage) {
+                var wrap = document.createElement('div');
+                wrap.className = 'hero-image-wrap';
+                var img = document.createElement('img');
+                img.className = 'hero-image'; img.alt = ''; img.loading = 'lazy';
+                img.src = brief.heroImage;
+                wrap.appendChild(img);
+                container.insertBefore(wrap, container.firstChild);
+            }
             requestAnimationFrame(function() {
                 window.scrollTo({ top: 0, behavior: 'instant' });
             });
