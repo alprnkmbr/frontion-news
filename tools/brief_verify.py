@@ -36,6 +36,7 @@ SECTIONS = [
     {"ad": "Defence", "dir": "defense"},
     {"ad": "Energy", "dir": "energy"},
     {"ad": "Tech", "dir": "tech"},
+    {"ad": "Finance", "dir": "finance"},
     {"ad": "TR Gündem", "dir": "tr/gundem"},
     {"ad": "TR Ekonomi", "dir": "tr/ekonomi"},
     {"ad": "TR Savunma", "dir": "tr/savunma"},
