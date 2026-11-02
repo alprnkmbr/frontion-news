@@ -8,6 +8,8 @@ push edilmemişse bunu yakalamak. Sessiz kayıp olmasın.
 Kontroller (her bölüm için):
   1) DOSYA     : <dir>/<bugün>.json var mı, geçerli JSON mu, title + sections dolu mu
   2) INDEX     : <dir>/index.json'un ilk elemanı bugün mü, title eşleşiyor mu
+                  + bugünün kaydı index'te hiç var mı, index tarihe göre
+                    azalan sıralı mı ve tekrarlı kayıt var mı
   3) GIT       : dosya git'e eklenmiş ve origin/main'e push edilmiş mi
   4) BOYUT     : sections sayısı makul mü (>=2)
 
@@ -96,6 +98,24 @@ def check_one(sec, date, pushed_files):
     elif not idx:
         problems.append("index.json boş")
     else:
+        # 2a) bugünün kaydı index'te hiç yok mu?
+        if not any(e.get("date") == date for e in idx):
+            problems.append(f"index'te {date} kaydı yok (hiç eklenmemiş)")
+        # 2b) tarihe göre azalan sıralı mı?
+        dates = [e.get("date") or "" for e in idx]
+        for i in range(1, len(dates)):
+            if dates[i] > dates[i - 1]:
+                problems.append(
+                    f"index sırası bozuk: {dates[i - 1]} -> {dates[i]} "
+                    f"(pozisyon {i - 1}->{i}, azalan olmalı)"
+                )
+                break
+        # 2c) tekrarlı kayıt var mı?
+        keys = [(e.get("date"), e.get("title")) for e in idx]
+        dups = sorted({k for k in keys if keys.count(k) > 1}, key=str)
+        if dups:
+            problems.append(f"index'te tekrarlı kayıt: {dups[:3]}")
+
         if idx[0].get("date") != date:
             problems.append(f"index başında {date} yok (baş: {idx[0].get('date')})")
         elif data and (idx[0].get("title") or "") != (data.get("title") or ""):
