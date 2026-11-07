@@ -26,11 +26,12 @@ import subprocess
 import sys
 import time
 from datetime import datetime, timedelta
+from pathlib import Path
 from zoneinfo import ZoneInfo
 
 IST = ZoneInfo("Europe/Istanbul")
 
-REPO = "/Users/claudius/clawd/frontion-site"
+REPO = str(Path(__file__).resolve().parent.parent)
 GIT = "/Library/Developer/CommandLineTools/usr/bin/git"
 
 SECTIONS = [
@@ -38,7 +39,6 @@ SECTIONS = [
     {"ad": "Defence", "dir": "defense"},
     {"ad": "Energy", "dir": "energy"},
     {"ad": "Tech", "dir": "tech"},
-    {"ad": "Finance", "dir": "finance"},
     {"ad": "TR Gündem", "dir": "tr/gundem"},
     {"ad": "TR Ekonomi", "dir": "tr/ekonomi"},
     {"ad": "TR Savunma", "dir": "tr/savunma"},
