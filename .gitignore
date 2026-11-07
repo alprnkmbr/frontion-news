@@ -86,3 +86,11 @@ tr/podcast/*.mp4
 tr/podcast/*.m4a
 tr/podcast/*.mp3
 tr/podcast/*.wav
+
+# Feed runner & helper logs
+feeds.log
+feeds_error.log
+run_feeds.sh
+prepare_daily_briefs.py
+publish_daily_briefs.py
+.daily_brief_context.json

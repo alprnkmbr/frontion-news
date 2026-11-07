@@ -32,7 +32,7 @@ HIDDEN = ROOT / "hidden.json"
 LLM_CACHE = ROOT / ".feed_llm_cache.json"
 
 # --- LLM seçici (yalnızca YENİ item'lar skorlanır) ---
-LLM_ENABLED = True
+LLM_ENABLED = False
 LLM_MODEL = "deepseek-v4.1-flash:cloud"
 LLM_MAX_NEW = 60          # tek koşuda skorlanacak maksimum yeni item
 LLM_EXAMPLES = 40         # few-shot için hidden.json'dan alınacak maksimum örnek
