@@ -6,8 +6,35 @@
     <link>https://frontion.news/tech</link>
     <atom:link href="https://frontion.news/tech/tech-feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Nov 2026 03:09:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 05:15:54 GMT</lastBuildDate>
     <ttl>60</ttl>
+<item>
+<title>Tech Brief: SoftBank Posts a $7B Loss as US Data Center Costs Swell, Alibaba Plans an IPO for Its T-Head Chip Unit, and Oura Acquires AI Care Startup Counsel Health for $625M</title>
+<link>https://frontion.news/tech/2026-11-11</link>
+<description>SoftBank Group logged a $7 billion loss driven by surging US AI data center construction expenses and tech equity swings; Alibaba disclosed confidential filings to spin off and list its T-Head semiconductor unit as a domestic rival to Nvidia; and smart-ring maker Oura agreed to acquire AI-native primary care startup Counsel Health for $625 million while researchers found 35,000 exposed Grok Build apps leaking confidential SpaceX data.
+
+► SoftBank's $7B Loss, Alibaba's T-Head Chip IPO Plan, and US-China AI Risk Talks
+SoftBank Group reported a $7 billion loss as ballooning capital expenditures on US artificial intelligence data centers and a pullback in high-multiple AI equities weighed heavily on its quarterly results (Wall Street Journal, Bloomberg).
+Why it matters: SoftBank's $7 billion loss alongside Cohere's compute crunch and Alibaba's T-Head chip IPO shows that the primary bottleneck in AI is shifting from software algorithms to data center capital and sovereign silicon supply.
+
+► Oura's $625M Counsel Health Acquisition, OpenAI's Odessia Deal, and New York's AI Safety Law
+Weeks after indefinitely postponing its planned $2.
+Why it matters: New York's enforcement of mandatory AI safety registration and incident reporting creates a de facto national compliance standard for OpenAI and Anthropic ahead of federal congressional action.
+
+► 35,000 Grok Build Apps Leak SpaceX Data and Microsoft Patches Over 1,000 Bugs
+A major AI coding security lapse surfaced after researchers discovered 35,000 web applications created with xAI's Grok Build coding agent left wide open on the public internet, leaking confidential credentials and internal files—including sensitive d
+Why it matters: Leaving 35,000 Grok Build applications publicly accessible—including internal SpaceX data—demonstrates that AI app-generation tools are deploying production code without basic authentication or secret-management guardrails.
+
+► Report Links Nvidia Spy Scandal to $7B in China Sales as Huang Apologizes to Staff
+Fallout from the counterintelligence investigation into Nvidia CEO Jensen Huang deepened after The Information reported that Huang's yearslong personal relationship with suspected Chinese intelligence operative Alice Huang enabled more than $7 billio
+Why it matters: Investigative findings tying Jensen Huang's personal relationship directly to $7 billion in Chinese chip sales elevate the Nvidia affair from a corporate governance crisis into a major export-control and national security case.
+
+■ The Bottom Line
+Financial pressures, regulatory enforcement, and AI security breaches converged on Wednesday: SoftBank reported a $7 billion loss on rising US data center costs, Alibaba unveiled plans to list its T-Head semiconductor unit, and Anthropic opened its Australian retail IPO tranche with its seven co-founders set to cash out $250 million each. In digital health and consumer AI, Oura agreed to buy Counsel Health for $625 million, OpenAI acquired travel startup Odessia, and New York's AI safety law took effect. Meanwhile, researchers uncovered 35,000 exposed Grok Build apps leaking confidential SpaceX data, Microsoft patched over 1,000 bugs, and new reports linked Nvidia CEO Jensen Huang's relationship with a suspected Chinese operative to over $7 billion in China chip sales.</description>
+<category>Technology</category>
+<pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
+<guid>tech-2026-11-11</guid>
+</item>
 <item>
 <title>Tech Brief: Anthropic Aims to Raise Up to $69.3B in an IPO, France Blames Iran for Sabotaging 700 Supermarket Cooling Systems, and Apple Plans Its First Non-US Manufacturing Academy in Turkey</title>
 <link>https://frontion.news/tech/2026-11-10</link>
@@ -1012,42 +1039,6 @@ Today's developments show the two tracks of the US-China tech relationship runni
 <category>Technology</category>
 <pubDate>Mon, 05 Oct 2026 00:00:00 GMT</pubDate>
 <guid>tech-2026-10-05</guid>
-</item>
-<item>
-<title>Tech Brief: Germany Reclassifies 5G Radio Gear as Critical, Opening the Door to a Huawei Ban</title>
-<link>https://frontion.news/tech/2026-10-04</link>
-<description>Berlin's Federal Network Agency moves to treat 5G base stations as security-critical, removing the legal cover Deutsche Telekom and others used to keep Huawei in their networks — while Huawei fast-tracks its next AI chip to court Beijing.
-
-► Germany Flips on Huawei: 5G Radios Now Deemed 'Critical'
-Germany's Federal Network Agency (BNetzA) has quietly filed a notice with the European Commission reclassifying the radio access network (RAN) — the 5G base station and its components, known technically as the gNodeB — as a 'critical' element, accord
-Why it matters: If Berlin follows through, it becomes much harder for Deutsche Telekom, Telefónica and Vodafone to defend continued Huawei reliance — and a German move would likely unlock similar action in laggard EU states. The EU's Huawei phase-out has been stalled as much by German foot-dragging as by operator resistance.
-
-► Huawei Pulls Its Next AI Chip Forward as Beijing Builds Around Nvidia Curbs
-Huawei is moving its Ascend 960DT AI chip to early 2027, fast-tracking the launch as it expands domestic AI infrastructure and cuts reliance on restricted foreign hardware, per TechRepublic.
-Why it matters: Huawei's timeline is now the best proxy for how fast China's domestic AI compute stack can substitute for Nvidia. Pulling the 960DT forward to Q1 2027 signals confidence in domestic demand — but the 7nm ceiling shows the constraint is now manufacturing, not design.
-
-► The Nvidia Smuggling Case Widens Into a Due-Diligence Fight
-Federal prosecutors arrested California tech CEO Greg Lui, owner of Earthmade Computer Inc.
-Why it matters: The enforcement story is shifting from catching couriers to questioning the vendor's diligence. That raises the risk of new compliance obligations on Nvidia and its distributors — and undercuts the argument that tighter controls are unenforceable.
-
-► Nvidia Escalates From Selling AI Infrastructure to Financing It
-Nvidia announced it will provide more than $105 billion to secure land, power and shell construction for OpenAI's planned Ohio data center, the PORTS-Pike Technology Campus, per Memeburn and Forbes.
-Why it matters: Nvidia is now underwriting the demand side of its own market, a structural change in how AI buildouts get financed. The smaller-than-reported final number suggests the biggest players are quietly becoming more cautious about how much compute demand will actually materialize.
-
-► TSMC Weighs a Six-Fab Texas Hub as Foundry Capacity Sells Out
-TSMC is reportedly considering a second major US manufacturing hub that could include as many as six advanced wafer fabs, with Dallas emerging as a likely location, according to Taiwan's Economic Daily News via TrendForce.
-Why it matters: Capacity is being locked up and geographically split faster than policy can respond. A six-fab Texas hub would be a step-change in how much leading-edge production sits in the US — but the same demand pressure is driving Singapore expansion, showing localization and Asian concentration are happening at once.
-
-► China Keeps Pace in Orbit With Guowang and Yaogan Launches
-China completed its ninth and tenth orbital launches of September, sending a new batch of Guowang internet satellites and the fourth group of Yaogan-40 spacecraft into orbit, according to SpaceNews.
-Why it matters: China is building two strategic constellations in parallel — commercial broadband (Guowang) and what are widely read as ISR/intelligence satellites (Yaogan). The tempo of launches, more than any single payload, is the clearest signal of its orbital ambitions.
-
-► Türkiye Angle: Ankara Sits Inside Every Chokepoint It Does Not Control
-No major Türkiye-specific tech development surfaced in today's searches, but the day's stories land directly on Ankara.
-Why it matters: Türkiye sits downstream of decisions made in Berlin, Washington and Beijing on telecom vendors, AI chips and minerals — wit...</description>
-<category>Technology</category>
-<pubDate>Sun, 04 Oct 2026 00:00:00 GMT</pubDate>
-<guid>tech-2026-10-04</guid>
 </item>
   </channel>
 </rss>
