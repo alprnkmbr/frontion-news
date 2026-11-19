@@ -6,8 +6,39 @@
     <link>https://frontion.news/tech</link>
     <atom:link href="https://frontion.news/tech/tech-feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Nov 2026 03:04:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 03:03:04 GMT</lastBuildDate>
     <ttl>60</ttl>
+<item>
+<title>Tech Brief: Microsoft's Python Agent Framework Hijacked to Spread Malware, AI Uncovers Critical NGINX Flaws, and Nadella Explains 60,000 AI-Era Buyouts</title>
+<link>https://frontion.news/tech/2026-11-19</link>
+<description>Attackers compromise Microsoft's official Python agent framework on GitHub to distribute malware as AI tools uncover critical bugs in NGINX across 225 million websites, Satya Nadella warns critical infrastructure is 'unpatchable,' and Anthropic prices its IPO at $1.5 trillion.
+
+► Microsoft's Python Agent Framework Hijacked to Distribute Malware
+Attackers compromised GitHub organization admin credentials to hijack Microsoft's official Python AI agent framework and distribute malware to developers, The Register reports, compounding a difficult week for the software giant following recent Outl
+Why it matters: Compromising an official Microsoft AI agent repository turns developer trust into a direct supply-chain malware vector at the exact moment enterprises are rushing agentic frameworks into production.
+
+► AI Discovers Critical Bugs in NGINX Running 225M Websites
+Automated AI vulnerability discovery uncovered critical security flaws in the open-source NGINX web server software powering roughly 225 million websites worldwide, The Register reports, adding to a wave of urgent enterprise patching following this w
+Why it matters: AI-assisted bug hunting is finding high-severity flaws in foundational web infrastructure like NGINX and Java faster than many organizations can test and deploy patches.
+
+► Anthropic Prices $1.5T IPO as Musk Defends Huang and Backs Nvidia
+Anthropic priced its initial public offering at $83 per share—above its expected range—implying a $1.
+Why it matters: Anthropic's $1. 5 trillion valuation confirms intense public demand for frontier AI equity, even as Nvidia's talent-retention battle and US GPU curbs accelerate semiconductor decoupling.
+
+► Meta Staffers Alarmed by Muse Privacy Flaws; Arizona Probes OpenAI
+Internal chats reviewed by Ars Technica show Meta employees alarmed by erratic outputs from the company's Muse AI system appearing to share random bank and bitcoin balances—though Meta says the exposed figures are hallucinated rather than real user d
+Why it matters: State-level investigations in Arizona and California alongside internal privacy scares at Meta show that unverified AI agent behavior is quickly turning into direct legal and regulatory liability.
+
+► Ukraine Uses Relay Drones to Bypass Starlink Limits; Korea Cuts Exam Wi-Fi
+Battlefield connectivity took a pragmatic turn as Ars Technica reports Ukraine used homegrown aerial relay drones to bypass SpaceX Starshield speed limits over occupied territory during its latest strike on the Kerch Bridge, while Elon Musk accused P
+Why it matters: From relay drones overriding satellite restrictions to nationwide Wi-Fi blackouts during exams, operators are increasingly forced to build low-tech workarounds and hard guardrails around connected AI systems.
+
+■ The Bottom Line
+Software supply-chain security is emerging as the weak link of the AI boom: hijacked Microsoft Python agent packages and AI-discovered NGINX flaws threaten core infrastructure just as Anthropic prices a $1.5 trillion IPO. With state attorneys general probing rogue agents and US-China chip bans tightening, governance and security execution—not model capability alone—now define competitive risk.</description>
+<category>Technology</category>
+<pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+<guid>tech-2026-11-19</guid>
+</item>
 <item>
 <title>Tech Brief: Waymo Pulls Robotaxis From US Freeways After California Ban, AI Discovers Critical Oracle Java Flaw, and Amazon and Google Set for Nearly 30% Anthropic Stake</title>
 <link>https://frontion.news/tech/2026-11-18</link>
@@ -963,41 +994,6 @@ Why it matters: Direct-to-device and low-band spectrum moves blur the line betwe
 <category>Technology</category>
 <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
 <guid>tech-2026-10-13</guid>
-</item>
-<item>
-<title>Tech Brief: Ukraine Drone Campaign Hits Yandex Data Centres as SpaceX Moves to Become a US Mobile Carrier</title>
-<link>https://frontion.news/tech/2026-10-12</link>
-<description>Kyiv's third strike on Russia's biggest internet company in a week takes a major AI and consumer platform partly offline, while SpaceX's $8bn spectrum deal reshapes US wireless competition and the 6G standards fight splits along geopolitical lines.
-
-► Ukraine Strikes Yandex Data Centres for the Third Time in a Week
-Yandex, Russia's largest internet company, was forced to suspend operations at a data centre in Vladimir, east of Moscow, after a Ukrainian drone strike damaged the facility, according to the BBC.
-Why it matters: Data centres have moved from the periphery to a front-line target.
-
-► SpaceX's $8bn Spectrum Bet Puts It on Track to Be a US Mobile Carrier
-SpaceX agreed to acquire 100% of Grain Management's 800MHz spectrum portfolio, giving it up to 14MHz of paired lowband spectrum that penetrates walls and rooftops — the missing piece in its hybrid satellite-terrestrial network plan, according to Ligh
-Why it matters: Buying lowband spectrum is how SpaceX converts a satellite service into a full terrestrial carrier that can reach ordinary handsets.
-
-► China's CXMT Claims Breakthrough on Higher-Density DRAM Cell Design
-China's memory chip champion ChangXin Memory Technologies (CXMT) reported 'key progress' on a new memory cell structure pursued by Samsung and SK Hynix, according to SCMP.
-Why it matters: Density is the metric that decides DRAM leadership, and 4F² is where the incumbents are heading next. A credible CXMT path to it — even if the timeline slips — narrows the technology gap that export controls were designed to preserve, and lands as memory makers post record profits from AI demand.
-
-► 6G Standards Fight Splits Into 'Evolution' vs 'Revolution' Camps
-A contest over the shape of the 6G core network has broken out inside the 3GPP standardisation body, according to Light Reading, mirroring the wider US-China technology contest and threatening to produce two competing 6G systems.
-Why it matters: The core is the brain of a mobile network — it decides routing, policy, and increasingly where AI functions sit. If the split hardens, operators face a choice between two incompatible architectures, which is exactly the fragmentation that network-geopolitics analysts have warned about since 5G.
-
-► China-Linked Hackers Pose as US Officials to Target AI Policy Experts
-A group tracked as TA419, described by cybersecurity firm Proofpoint as China-aligned, impersonated a former senior White House technology official, a former State Department economist, and a senior Anthropic employee to break into the cloud accounts
-Why it matters: The target set is the point: the attackers went after the people who write AI export-control and supply-chain policy, not just the systems they run. Combined with the infrastructure seizures, it shows espionage campaigns now run in parallel with tooling disruption aimed at state-linked cyber firms.
-
-► China Launches Guowang and Yaogan Satellites as Megaconstellations Multiply
-China completed its ninth and tenth launches of September, sending Guowang — its national broadband megaconstellation — and Yaogan-40 satellites into orbit aboard a Long March 8A, SpaceNews reports from Helsinki, setting up an intense Q4 manifest.
-Why it matters: Megaconstellation filings are effectively claims on orbital slots and spectrum. With Guowang expanding, Amazon and Blue Origin queuing, and SpaceX approved for 15,000 more, the practical constraint shifts from launch capacity to regulatory and spectrum clearance — the slowest gate in the system.
-
-■ The Bottom Line
-The day's clearest signal is that infrastructure once considered civilian is being contested as strategic. Ukraine's third drone strike in a week on Yandex data centres knocked parts of Russia's largest internet and AI platform offline, demonstrating that a data centre can be a war target with immediate consumer impact. On the commercial side, SpaceX's...</description>
-<category>Technology</category>
-<pubDate>Mon, 12 Oct 2026 00:00:00 GMT</pubDate>
-<guid>tech-2026-10-12</guid>
 </item>
   </channel>
 </rss>
