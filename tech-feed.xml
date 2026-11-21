@@ -6,8 +6,39 @@
     <link>https://frontion.news/tech</link>
     <atom:link href="https://frontion.news/tech/tech-feed.xml" rel="self" type="application/rss+xml"/>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Nov 2026 03:03:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 03:05:26 GMT</lastBuildDate>
     <ttl>60</ttl>
+<item>
+<title>Tech Brief: SEC Probes Nvidia Accounting as AI Rout Erases Nasdaq Gains, Signal Blocks Screen-Reading AI Agents, and Bending Spoons Buys Mailchimp</title>
+<link>https://frontion.news/tech/2026-11-21</link>
+<description>Nvidia fell 14% after reports of an SEC accounting probe linked to Asian chip sales, dragging the Nasdaq into negative territory for 2026 despite Anthropic's mega-IPO, while Signal blocked mobile AI agents from capturing user screens and Bending Spoons agreed to acquire Mailchimp for $3.68 billion.
+
+► SEC Probes Nvidia Accounting Amid CEO Scandal as AI Rout Wipes Out Nasdaq 2026 Gains
+The US Securities and Exchange Commission (SEC) is investigating Nvidia's accounting practices following questions over chip sales in Asia and the resignation of former CEO Jensen Huang, The New York Times, Reuters, and WSJ report.
+Why it matters: Regulatory scrutiny of Nvidia's Asian revenue and export permit disclosures compound investor doubts over AI capital spending, triggering a broad repricing across semiconductor and cloud equities.
+
+► Signal Blocks Screen-Reading AI Agents as Canary Test Exposes Supply Chain Leaks
+Encrypted messaging app Signal moved to block Gemini, Siri, and other AI agents from taking screenshots or reading user screens on Android and iOS, criticizing Apple, Google, and Microsoft for failing to give developers adequate AI agent permission c
+Why it matters: As operating system vendors embed screen-reading AI agents by default, app makers like Signal are being forced to build their own technical barriers against unauthorized data harvesting.
+
+► Chinese Attackers Deploy Autonomous AI Agents to Exploit Zero-Day Flaw
+China-linked threat actors deployed autonomous AI agents that independently discovered and exploited a zero-day vulnerability to compromise a university server, operating and adapting for nearly a full day without human direction, Amazon's CISO discl
+Why it matters: Autonomous offensive AI agents compress exploit timelines from days to hours, outpacing traditional human-led incident response and patch cycles.
+
+► Bending Spoons Buys Mailchimp for $3.68B; Google Drops Search Button for AI Sidebar
+Italian software acquirer Bending Spoons agreed to buy email marketing platform Mailchimp from Intuit for $3. 68 billion, a steep discount from the roughly $12 billion Intuit paid in 2021, TechCrunch reports.
+Why it matters: Mailchimp's steep valuation markdown reflects pressure on legacy SaaS tools, while Google's removal of the classic search button marks a structural shift toward conversational interfaces.
+
+► AI Boom Threatens Circuit Board Crunch Through 2028; Meta Rethinks Net-Zero Goal
+Surging demand from AI server hardware is crowding out automotive, medical, and defense orders for printed circuit boards, creating a supply crunch that industry trade bodies warn is unlikely to ease before mid-2028, The Register reports.
+Why it matters: AI infrastructure demand is creating multi-year hardware bottlenecks for traditional industries and forcing hyperscalers to retreat from near-term climate pledges.
+
+■ The Bottom Line
+An SEC accounting probe into Nvidia and a $4 trillion AI market shakeout have erased the Nasdaq's 2026 gains, while autonomous zero-day cyber agents, screen-reading AI blocks by Signal, and multi-year circuit board shortages show the operational risks of rapid AI deployment.</description>
+<category>Technology</category>
+<pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate>
+<guid>tech-2026-11-21</guid>
+</item>
 <item>
 <title>Tech Brief: Apple Builds Mac-Controlling AI Agent, Google Sets 2027 Global Android App Verification, and SpaceX Designs Rooftop Cell Towers</title>
 <link>https://frontion.news/tech/2026-11-20</link>
@@ -958,41 +989,6 @@ Why it matters: Hyperscaler custom silicon is the quiet counterweight to Nvidia'
 <category>Technology</category>
 <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
 <guid>tech-2026-10-15</guid>
-</item>
-<item>
-<title>Tech Brief: China's CXMT Claims DRAM Breakthrough as Seoul's Chip Giants Lose Almost 9% in a Day</title>
-<link>https://frontion.news/tech/2026-10-14</link>
-<description>ChangXin Memory Technologies says it will ship a 4F2 DRAM product before year-end, triggering the sharpest single-day selloff in Samsung and SK Hynix since the memory boom began. Tokyo, meanwhile, is now formally in a cyber emergency.
-
-► Memory chips: CXMT's 4F2 claim cracks the AI trade's most protected franchise
-ChangXin Memory Technologies (CXMT) told investors it has made key progress on a 4F2 DRAM architecture using what it calls a Vertical Surrounding Gate transistor, and plans to ship a DDR5 RDIMM product on that design before the end of 2026, according
-Why it matters: The selloff is a verdict on assumption, not on shipped silicon — CXMT has proven nothing in volume yet. But the market reaction shows how thin the incumbents' moat is perceived to be in memory, the commodity layer the entire AI stack now depends on.
-
-► Japan declares a state of emergency in cyberspace
-Japan's National Cybersecurity Strategy Headquarters convened an emergency session on October 9 and declared a state of emergency in cyberspace, mandating security instructions to all government ministries that cascade to local authorities and privat
-Why it matters: Japan is the clearest real-world case so far of AI-accelerated offensive cyber moving from theory to national emergency. The concentration risk is the story: hundreds of unrelated firms were taken out by compromising one shared cloud provider, and the data could not be recovered without local backups.
-
-► France's refrigeration sabotage spreads to 700 stores — and across borders
-French Finance Minister Roland Lescure told Parliament on Tuesday that about 700 of France's 10,000 supermarkets were affected by the cyberattack on refrigeration systems, up from earlier estimates of roughly 380.
-Why it matters: This is physical sabotage through the internet of things against commercial infrastructure — not data theft. The shared dependency is a single European vendor's control modules, meaning a compromise of one supplier scaled across multiple national grocery chains.
-
-► EU bets 131 billion euros on space — but the money isn't committed yet
-National telecom regulators, EU policymakers and Barcelona satellite firm Sateliot met at the European Parliament in Brussels on Tuesday to debate spectrum and funding as the bloc's 7-year space budget expires in 2027 (Euronews).
-Why it matters: Europe's satellite-sovereignty push is currently a funding fight, not a capability. The 131 billion euro figure is a proposal inside a budget that leaders may cut this week — and without a single EU-wide spectrum licence, direct-to-device services will continue to be governed nationally.
-
-► AI compute: Europe's gigafactories get their first paying tenant
-Rotterdam AI gigafactory developer VOLT signed Nebius Group as its first paying customer, securing a long-term lease in a project valued at approximately 7 billion euros.
-Why it matters: Europe is trying to buy compute sovereignty with public money while the hardware layer stays American-locked. Signing Nebius is progress on demand — but the more consequential question is whether the gigafactory programme deepens European dependence on one vendor's accelerators rather than reducing it.
-
-► Critical minerals: finance moves in as policy stalls
-JPMorganChase appointed Andrew Frame to lead critical minerals investment under its 1.
-Why it matters: Private capital is now doing the supply-chain diversification work that tariff and subsidy policy has been slow to deliver. The fluorspar case shows the vulnerability isn't only rare earths — single-mineral dependencies sit across the semiconductor and energy chains.
-
-■ The Bottom Line
-The day's defining move came from a Chinese memory maker most Western investors had barely priced in: CXMT's 4F2 DRAM claim wiped 7-9% off Samsung and SK Hynix and dragged the whole chip complex down, a reminder that memory — the layer AI cannot run...</description>
-<category>Technology</category>
-<pubDate>Wed, 14 Oct 2026 00:00:00 GMT</pubDate>
-<guid>tech-2026-10-14</guid>
 </item>
   </channel>
 </rss>

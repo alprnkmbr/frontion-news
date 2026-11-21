@@ -1,0 +1,34 @@
+{
+  "date": "2026-11-21",
+  "title": "SEC Probes Nvidia Accounting as AI Rout Erases Nasdaq Gains, Signal Blocks Screen-Reading AI Agents, and Bending Spoons Buys Mailchimp",
+  "subhead": "Nvidia fell 14% after reports of an SEC accounting probe linked to Asian chip sales, dragging the Nasdaq into negative territory for 2026 despite Anthropic's mega-IPO, while Signal blocked mobile AI agents from capturing user screens and Bending Spoons agreed to acquire Mailchimp for $3.68 billion.",
+  "sections": [
+    {
+      "heading": "SEC Probes Nvidia Accounting Amid CEO Scandal as AI Rout Wipes Out Nasdaq 2026 Gains",
+      "body": "<p>The US Securities and Exchange Commission (SEC) is investigating <strong>Nvidia</strong>'s accounting practices following questions over chip sales in Asia and the resignation of former CEO <strong>Jensen Huang</strong>, The New York Times, Reuters, and WSJ report. Nvidia shares plunged <strong>14%</strong> on Friday, wrapping up their longest weekly losing streak since the 2008 financial crisis and dropping the chipmaker to fourth in market value behind Apple, Microsoft, and Alphabet, CNBC reports.</p><p>Simultaneously, US lawmakers released confidential export licensing data showing Washington approved nearly <strong>880,000</strong> advanced AI chips for Chinese firms earlier this year, SCMP notes, even as President Trump publicly urged Nvidia to give Huang a 'second chance' and threatened a 'tremendous tax' on US firms building AI data centers overseas. Across Wall Street, CNBC and AP News report that the Nasdaq erased its 2026 gains as <strong>Anthropic</strong>'s record IPO failed to arrest a broader tech sell-off.</p>",
+      "whyItMatters": "Regulatory scrutiny of Nvidia's Asian revenue and export permit disclosures compound investor doubts over AI capital spending, triggering a broad repricing across semiconductor and cloud equities."
+    },
+    {
+      "heading": "Signal Blocks Screen-Reading AI Agents as Canary Test Exposes Supply Chain Leaks",
+      "body": "<p>Encrypted messaging app <strong>Signal</strong> moved to block Gemini, Siri, and other AI agents from taking screenshots or reading user screens on Android and iOS, criticizing Apple, Google, and Microsoft for failing to give developers adequate AI agent permission controls, The Register reports.</p><p>Highlighting why data isolation matters, Ars Technica reports that a security researcher planted <strong>2 million</strong> trackable canary prompts into the AI supply chain and discovered that confidential user data leaked across third-party systems at an alarming rate. Elsewhere in privacy, TechCrunch exclusively reports that a transcription vendor used by police, prosecutors, and tech giants left police interview transcripts and bodycam footage exposed on an unpassworded cloud server, while The Register notes Dutch regulators flagged safety errors in AI smart glasses.</p>",
+      "whyItMatters": "As operating system vendors embed screen-reading AI agents by default, app makers like Signal are being forced to build their own technical barriers against unauthorized data harvesting."
+    },
+    {
+      "heading": "Chinese Attackers Deploy Autonomous AI Agents to Exploit Zero-Day Flaw",
+      "body": "<p>China-linked threat actors deployed autonomous AI agents that independently discovered and exploited a zero-day vulnerability to compromise a university server, operating and adapting for nearly a full day without human direction, Amazon's CISO disclosed according to The Register. The incident illustrates how automated offensive tooling can chain reconnaissance and exploitation steps at machine speed.</p><p>In a separate warning, TechCrunch notes security experts cautioning that AI researchers and executives are increasingly targeted by intelligence-linked honey-trap operations, underscoring the convergence of cyber intrusions and human-intelligence collection around frontier artificial intelligence labs.</p>",
+      "whyItMatters": "Autonomous offensive AI agents compress exploit timelines from days to hours, outpacing traditional human-led incident response and patch cycles."
+    },
+    {
+      "heading": "Bending Spoons Buys Mailchimp for $3.68B; Google Drops Search Button for AI Sidebar",
+      "body": "<p>Italian software acquirer <strong>Bending Spoons</strong> agreed to buy email marketing platform <strong>Mailchimp</strong> from Intuit for <strong>$3.68 billion</strong>, a steep discount from the roughly $12 billion Intuit paid in 2021, TechCrunch reports.</p><p>On consumer platforms, Ars Technica reports that <strong>Google</strong> rolled out a redesigned search homepage that removes the traditional search button and adds an AI chat history sidebar. Meanwhile, The Register highlights a sharp split inside Amazon, where AWS is actively promoting bot-driven commerce while Amazon's retail site enforces bot bans. Separately, TechCrunch and BBC report competing claims from an Anthropic mathematician using AI and a human researcher over solving the 167-year-old Riemann hypothesis, though formal verification remains pending.</p>",
+      "whyItMatters": "Mailchimp's steep valuation markdown reflects pressure on legacy SaaS tools, while Google's removal of the classic search button marks a structural shift toward conversational interfaces."
+    },
+    {
+      "heading": "AI Boom Threatens Circuit Board Crunch Through 2028; Meta Rethinks Net-Zero Goal",
+      "body": "<p>Surging demand from AI server hardware is crowding out automotive, medical, and defense orders for printed circuit boards, creating a supply crunch that industry trade bodies warn is unlikely to ease before mid-2028, The Register reports.</p><p>Meanwhile, Ars Technica reports that <strong>Meta</strong> is 're-evaluating' its 2030 net-zero emissions target due to record emissions from its expanding AI data center fleet. In aerospace and telecom policy, Ars Technica notes an incoming House committee chair is threatening SpaceX funding over October 2026 changes to Ukraine's Starshield service, while the FCC barred California from enforcing landline service mandates on AT&T.</p>",
+      "whyItMatters": "AI infrastructure demand is creating multi-year hardware bottlenecks for traditional industries and forcing hyperscalers to retreat from near-term climate pledges."
+    }
+  ],
+  "bottomLine": "An SEC accounting probe into Nvidia and a $4 trillion AI market shakeout have erased the Nasdaq's 2026 gains, while autonomous zero-day cyber agents, screen-reading AI blocks by Signal, and multi-year circuit board shortages show the operational risks of rapid AI deployment.",
+  "sources": "New York Times, Reuters, WSJ, CNBC, SCMP, AP News, The Register, Ars Technica, TechCrunch, BBC"
+}
